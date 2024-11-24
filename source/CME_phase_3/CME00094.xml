@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-13-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed DIV2; changed HEAD to HEADNOTE P; removed incorrect MILESTONEs from HEADNOTE. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00094">
+<STC T="M">94</STC>
+<BIBNO T="mec">CME00094</BIBNO>
+<VID>CME00094</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="484" REF="4"/>
+<HEADNOTE><P>MS. Brit. Mus. Harley 7333, fol. 30 b.</P></HEADNOTE>
+<HEAD>Here next folowith a litell Tretys by wey of compleint ageins ffortune</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Fortune alas . alas what haue I gylt <NOTE PLACE="marg">The playntif</NOTE></L>
+<L>In prison thus to lye here desolate</L>
+<L>Art thou the better to haue [me] thus yspylt. <NOTE PLACE="foot">Line 3. Harley has not the bracketed word; the other two MSS. read <HI REND="italic">thus to have me spilt.</HI></NOTE></L>
+<L>Nay nay god wote . but for þou wilt debate</L>
+<L>With eu<HI REND="italic">er</HI>y wight . eiþ<HI REND="italic">er</HI> erly or late <MILESTONE N="5"/> <NOTE PLACE="foot">Line 5 is omitted by the other two MSS.</NOTE></L>
+<L>And art chaungeable eke as is the mone</L>
+<L>ffrom wele to woo thou bringest a man ful sone.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>ffor like a whele that turnyth ay aboute</L>
+<L>Now vp now doun . now est west north &amp; south <NOTE PLACE="foot">Line 9. The word <HI REND="italic">west</HI> is omitted by the other two MSS.</NOTE></L>
+<L>So farist thou now . þu drivest ynne &amp; oute <MILESTONE N="10"/> <NOTE PLACE="foot">Line 10. Other MSS. read <HI REND="italic">So farestow moone—</HI>etc.</NOTE></L>
+<L>As don the wedris oute of the wyndis mouth</L>
+<L>In the no trust is seche<HI REND="italic">n</HI> / thou art so selcouth <NOTE PLACE="foot">Line 12. The word <HI REND="italic">sechen (sithen</HI>?) is not in the other MSS.</NOTE></L>
+<L>And canst neuer still wher abide <NOTE PLACE="foot">Line 13. Other MSS. read <HI REND="italic">stille ther abide.</HI></NOTE></L>
+<L>When men wene sekir to be . þou makest he<HI REND="italic">m</HI> slide <NOTE PLACE="foot">Line 14. Other MSS. read—<HI REND="italic">hem to slide.</HI></NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>I wote ful wele both lordis prince and kyng <MILESTONE N="15"/></L>
+<L>Thou hast or this welewors Iou<HI REND="italic">er</HI>throwe <NOTE PLACE="foot">Line 16. Other MSS. read <HI REND="italic">Thow hast in his wele . worse Iouerthrowe.</HI></NOTE></L>
+<L>Thi condicion is eu<HI REND="italic">er</HI> so varying</L>
+<L>That now þu laughist . &amp; now þu makist a mowe</L>
+<L>Alas fortune who may the trist or trowe</L>
+<L>But yit I pray . that in some man<HI REND="italic">er</HI>e wise <MILESTONE N="20"/></L>
+<L>So turne thi whele þat I may yit arise <NOTE PLACE="foot">Line 21. Other MSS. read—<HI REND="italic">may ones arise.</HI></NOTE></L>
+</LG>
+<LG N="4">
+<PB N="485" REF="5"/>
+<HEAD>4.</HEAD>
+<L>Why nad I rather died an Innocent</L>
+<L>Or seke in bed ful ofte whan I haue layn</L>
+<L>Than had my name be paired not ne shent</L>
+<L>Better hit had be so . þan thus to haue me slayn <MILESTONE N="25"/></L>
+<L>But what to stryve wt the it may not gayn</L>
+<L>And yit thou wotest I suffre and shame <NOTE PLACE="foot">Stanza 4 is not in the other MSS. The evident omission of a word from line 27 can therefore not be controlled.</NOTE></L>
+<L>ffor þat / that I god wote am not to blame</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>But who<HI REND="italic">m</HI> a long hit were . wold I wete <NOTE PLACE="foot">Line 29. Other MSS.—<HI REND="italic">now wolde I wite.</HI></NOTE></L>
+<L>That wrongfully I lye thus in prison <MILESTONE N="30"/></L>
+<L>Saturnus or mars . I trow I may hit wyte</L>
+<L>Or some infortunate constellacion</L>
+<L>But this I wote as for conclusion</L>
+<L>Be it by destyny or fortunece chaunce <NOTE PLACE="foot">Line 34. Other MSS. read—<HI REND="italic">fortunate chaunce.</HI></NOTE></L>
+<L>In prison here I suffre moche myschaunce. <MILESTONE N="35"/></L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Peas of thi wordis þat are both lewid &amp; nyce <NOTE PLACE="marg">ffortune</NOTE></L>
+<L>Wenest thou . þat god chastith þe for nought <NOTE PLACE="foot">Line 37. Other MSS. <HI REND="italic">chastiseth.</HI></NOTE></L>
+<L>Though þou be giltles I graunt wele of this vyce <NOTE PLACE="foot">Line 38. Other MSS.—<HI REND="italic">graunt wele in this wise.</HI></NOTE></L>
+<L>Hit is for synnes þat thou hast foredrought <NOTE PLACE="foot">Line 39. Other MSS.—<HI REND="italic">that thow hast afore wrought.</HI></NOTE></L>
+<L>That now p<HI REND="italic">er</HI>aunter full litell are in thi thought <MILESTONE N="40"/></L>
+<L>Therfore be glad . for hit is writen thus</L>
+<L>Maxima etenim mor<HI REND="italic">um</HI> semp<HI REND="italic">er</HI> paciencia virtus</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Thow wotest wele eke god chastiseth whom he lovith <NOTE PLACE="foot">Line 43. Other MSS. omit <HI REND="italic">eke.</HI></NOTE></L>
+<L>That of his grace þe graunt be oon of thoo <NOTE PLACE="foot">Line 44 reads in other MSS. <HI REND="italic">That of his grace . he graunte the to be oon of tho.</HI></NOTE></L>
+<L><PB N="486" REF="6"/>
+Eke who þat will be saued hym behovith <MILESTONE N="45"/> <NOTE PLACE="foot">Line 45. Other MSS. omit <HI REND="italic">Eke.</HI></NOTE></L>
+<L>Suffre in this world adu<HI REND="italic">er</HI>site or he go . <NOTE PLACE="foot">Line 46. Other MSS. <HI REND="italic">To suffre—</HI>etc.</NOTE></L>
+<L>Thus fortune grace wynne for p<HI REND="italic">re</HI>sent woo</L>
+<L>The best conceyt eke I can yeve the . <NOTE PLACE="foot">Line 48. Other MSS. read <HI REND="italic">that</HI> instead of <HI REND="italic">eke.</HI></NOTE></L>
+<L>Esto forti Animo cu<HI REND="italic">m</HI> sis dampnat<HI REND="italic">us</HI> inique</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>ffare wele fortune þan &amp; do right as þe liste <MILESTONE N="50"/> <NOTE PLACE="foot">Line 50. Other MSS. omit <HI REND="italic">þan.</HI></NOTE></L>
+<L>Complayne will I now . to the sustres thre <NOTE PLACE="foot">Line 51. Other MSS.—<HI REND="italic">as to thi sustres thre.</HI></NOTE></L>
+<L>That whan I crope oute of my modirs cheste <NOTE PLACE="foot">Line 52. Other MSS. <HI REND="italic">crept</HI> instead of <HI REND="italic">crope.</HI></NOTE></L>
+<L>fforthwith anon thei shope my desteney</L>
+<L>Cloto come forth . what seist thou let se</L>
+<L>Wilt thou no lenger þe stace of my lif holde <MILESTONE N="55"/> <NOTE PLACE="foot">Line 55. Other MSS.—<HI REND="italic">the state of my lif holde.</HI></NOTE></L>
+<L>Or be my yeris come vp . dey I shulde <NOTE PLACE="foot">Line 56. Other MSS.—<HI REND="italic">that I die sholde.</HI></NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>If it be so the nombre of my daies</L>
+<L>Be comen vp . that I may not hem pace</L>
+<L>Why nadde I than by othir maner weyes</L>
+<L>Ordeyned me to dye . in othir place <MILESTONE N="60"/> <NOTE PLACE="foot">Line 60. Other MSS.—<HI REND="italic">in som other place.</HI></NOTE></L>
+<L>And not in p<HI REND="italic">ri</HI>son / is ther non othir grace</L>
+<L>Wille Lachesis my threde no leng<HI REND="italic">er</HI> twyne</L>
+<L>Be ster the than &amp; all my sorow fyne .</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>And Antrapos þat makis an ende of all</L>
+<L>Cut of the threde . wherto wilt þou tarye <MILESTONE N="65"/></L>
+<L>And help me hens sith I nedis shall</L>
+<L>That men to Chirch my corps myght carye</L>
+<L><PB N="487" REF="7"/>
+And my soule to god &amp; seint Mary</L>
+<L>I now be take / and pray hem yeve me space <NOTE PLACE="foot">Line 69. Other MSS.—<HI REND="italic">pray hem to yive me space.</HI></NOTE></L>
+<L>My right<HI REND="italic">es</HI> all to receiue or I pace <MILESTONE N="70"/> <NOTE PLACE="foot">Line 70. Other MSS.—<HI REND="italic">or I hens pace.</HI></NOTE></L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>The worste of all / that grevith me so sore</L>
+<L>Is that my fame is lost &amp; all my good los <NOTE PLACE="foot">Line 72. Other MSS.—<HI REND="italic">lost and eke goode loos.</HI></NOTE></L>
+<L>And spredith wyde euer lenger the more</L>
+<L>As wele amonge my frendis as my foos</L>
+<L>ffor wykked sclaundre . will in no wise be close . <MILESTONE N="75"/> <NOTE PLACE="foot">Line 75 is omitted by other MSS.</NOTE></L>
+<L>But wt the weng<HI REND="italic">es</HI> of envy fleth a lofte</L>
+<L>There as good los slepith full still &amp; softe . <NOTE PLACE="foot">Line 77. Other MSS.—<HI REND="italic">slepith and lith ful soft.</HI></NOTE></L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Whan I was fre . and in bounchief at ese</L>
+<L>In company ouer all where I went <NOTE PLACE="foot">Line 79. Other MSS.—<HI REND="italic">where that I went.</HI></NOTE></L>
+<L>No man seid þan . þt I did hem displese <MILESTONE N="80"/> <NOTE PLACE="foot">Line 80. Other MSS.—<HI REND="italic">sayde that I dyd hym displease.</HI></NOTE></L>
+<L>Ne worthie was no thing to be shent .</L>
+<L>And thus wt faire wordis was I blent</L>
+<L>And he þat seid [he] wold me neu<HI REND="italic">er</HI> faile</L>
+<L>I myght for him [chese to] synke or saile <NOTE PLACE="foot">Lines 83, 84. Bracketed words are not in Harley 7333.</NOTE></L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>Thei wold me onys not yeve a draught of drynke <MILESTONE N="85"/> <NOTE PLACE="foot">Lines 85. Other MSS. <HI REND="italic">They wold me nat oones—.</HI></NOTE></L>
+<L>Ne say ffrend . wilt þow aught wt me .</L>
+<L>The soth is said . such frendship sone doth synke</L>
+<L>That from his frend fleeth in adu<HI REND="italic">er</HI>site</L>
+<L>And will not [bide] / but in prosp<HI REND="italic">er</HI>ite <NOTE PLACE="foot">Line 89. MS. Harley reads <HI REND="italic">bid;</HI> other MSS. <HI REND="italic">byde, abide.</HI></NOTE></L>
+<L>Suche fayned frendis lord þ<HI REND="italic">er</HI>e be full many <MILESTONE N="90"/></L>
+<L>ffy on her flateryng / þat are not worth a peny .</L>
+</LG>
+<LG N="14">
+<PB N="488" REF="8"/>
+<HEAD>14.</HEAD>
+<L>I haue no ffrende þat will me now visite</L>
+<L>In p<HI REND="italic">ri</HI>son here to comfort me . of care <NOTE PLACE="foot">Line 93. Other MSS.—<HI REND="italic">to comfort of my care.</HI></NOTE></L>
+<L>Of sorow ynow I haue . of ioy but lite</L>
+<L>ffare wele my blys . &amp; all my welfare <MILESTONE N="95"/> <NOTE PLACE="foot">Line 95. Other MSS.—<HI REND="italic">farewele my welfare.</HI></NOTE></L>
+<L>To telle my sorowe / my wittes be all bare .</L>
+<L>There is no man can tell my heuynesse</L>
+<L>Saue oonly . <HI REND="italic">Ekko</HI> that can bere me witnesse. <NOTE PLACE="foot">Line 98. Other MSS.—<HI REND="italic">that can bere no witnesse.</HI></NOTE></L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>Now &amp; oure lord / þe kyng of blis Ihus</L>
+<L>Shuld with his fynger here on erth write . <MILESTONE N="100"/></L>
+<L>Amonges hem that me accusen thus</L>
+<L>I trow thei wold on me haue litell dispite</L>
+<L>And with her mouthis say but right a lite <NOTE PLACE="foot">Line 103. Other MSS. omit <HI REND="italic">but.</HI></NOTE></L>
+<L>Nomore þan ded þe men . þat soughten wreche <NOTE PLACE="foot">Line 104. Other MSS. read <HI REND="italic">diden</HI> instead of <HI REND="italic">ded.</HI></NOTE></L>
+<L>Vpon the woman . þat take was in spouce breche . <MILESTONE N="105"/></L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>ffy on this world it is but fantesye</L>
+<L>Seurete is non . in no degre ne state</L>
+<L>Aswele a kyng as a knafe shal dye</L>
+<L>Not wetyng wher ne whan erly or late</L>
+<L>When men be meriest . alday deth seith chek mate <MILESTONE N="110"/></L>
+<L>Ther is no man shall here alway abide</L>
+<L>The richest man eke / from his good shal slide .</L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>Then best is þus / þe world to set at nought <NOTE PLACE="foot">Line 113. Other MSS. read <HI REND="italic">Than best is this world to sette at nought.</HI></NOTE></L>
+<L>And mekely suffre al adu<HI REND="italic">er</HI>site .</L>
+<L><PB N="489" REF="9"/>
+That may vs vaile of synnes we haue wrought <MILESTONE N="115"/> <NOTE PLACE="foot">Line 115. Other MSS. read—<HI REND="italic">of synnes that we have wrought.</HI></NOTE></L>
+<L>In mede encresyng or relesynge p<HI REND="italic">ar</HI>de</L>
+<L>Of paynes which in purgatory be</L>
+<L>And so wille I be glad . so god me save</L>
+<L>To suffre men me wrongfully deprave <NOTE PLACE="foot">Line 119. Other MSS. read—<HI REND="italic">wrongly to deprave.</HI></NOTE></L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>Ther is no more I se now at eiȝe <MILESTONE N="120"/></L>
+<L>þes fayned goddis &amp; goddesse . vaile right nought</L>
+<L>ffortune &amp; eke the Sustresse I defie <NOTE PLACE="foot">Lines 121, 122. Other MSS. <HI REND="italic">goddessis, sustres.</HI></NOTE></L>
+<L>ffor I will go to hi<HI REND="italic">m</HI> . þat me hath bought</L>
+<L>To whom I pray and euer haue be sought <NOTE PLACE="foot">Line 124. Other MSS. omit <HI REND="italic">euer.</HI></NOTE></L>
+<L>My synnes all / þat he wold relesse. <MILESTONE N="125"/></L>
+<L>And furthermore yit pray I or I cesse. <NOTE PLACE="foot">Line 126. Other MSS. omit <HI REND="italic">yit.</HI></NOTE></L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>All holy Chirche þat is þi veray spouse <NOTE PLACE="foot">Line 127. Other MSS. read <HI REND="italic">his</HI> instead of <HI REND="italic">þi.</HI></NOTE></L>
+<L>Benigne lorde kepe from all damage</L>
+<L>And make thi people to be v<HI REND="italic">er</HI>tuouse .</L>
+<L>The for to s<HI REND="italic">er</HI>ue in eu<HI REND="italic">er</HI>y maner age <MILESTONE N="130"/></L>
+<L>With fervent loue &amp; hert<HI REND="italic">es</HI> hool corage</L>
+<L>And alle þat erre . oo lord in any side <NOTE PLACE="foot">Line 132. Other MSS. omit <HI REND="italic">oo.</HI></NOTE></L>
+<L>Or þou do right / let mercy be her guyde</L>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>And stedfastly þou make vs to p<HI REND="italic">er</HI>ceyver</L>
+<L>In veray feith &amp; hooly Chirche beleve <MILESTONE N="135"/></L>
+<L>And vs to blys bryng þat lastith euer</L>
+<L>And mary vs help . both morow and eve</L>
+<L>And of this world when we take oure leve .</L>
+<L>Or þat the fende oure soulys þan betrappe</L>
+<L>Helpe blisfull quene . &amp; couer vs wt thi lappe <MILESTONE N="140"/></L>
+</LG>
+<LG N="21">
+<PB N="490" REF="10"/>
+<HEAD>21.</HEAD>
+<L>Lette not be spilt . þat thi sone dere bought <NOTE PLACE="foot">Line 141. Other MSS. <HI REND="italic">dere hath bought.</HI></NOTE></L>
+<L>Vpon þe crosse with deth and woundes smert</L>
+<L>And namely hym þat his synnes forthought <NOTE PLACE="foot">Line 143. Other MSS. <HI REND="italic">synnes hath forthought.</HI></NOTE></L>
+<L>Here in þis lyf . with meke &amp; contrite hert .</L>
+<L>And þe of grace . to aske ay vpstert <MILESTONE N="145"/> <NOTE PLACE="foot">Line 145. Other MSS. <HI REND="italic">ay thow vp stert.</HI></NOTE></L>
+<L>Now lady swete I can no more now say</L>
+<L>But rew on me . and helpe me when I dey</L>
+<TRAILER>Explicit le compleint again ffortune.</TRAILER>
+</LG>
+<CLOSER><DATELINE>CHICAGO.</DATELINE>
+<SIGNED>ELEANOR PRESCOTT HAMMOND.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

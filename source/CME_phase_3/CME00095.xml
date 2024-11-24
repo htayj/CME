@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-16-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed DIV2 to DIV1; removed some incorrect MILESTONEs from Ps, and NOTEs; changed TRAILER to TAILNOTE P; changed sub HEAD to HEADNOTE P. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00095">
+<STC T="M">95</STC>
+<BIBNO T="mec">CME00095</BIBNO>
+<VID>CME00095</VID>
+</IDG>
+<TEXT LANG="enm eng">
+<BODY>
+<DIV1 TYPE="introduction">
+<PB REF="1"/>
+<HEAD>THE EYE AND THE HEART.</HEAD>
+<P>The text here printed, is, so far as I know, unique in manuscript. It exists in the volume Longleat 258, of the collection belonging to the Marquess of Bath. The present Lord Bath most kindly allowed me, some years since, the privilege of examining and copying from this and another manuscript of his library. In <HI REND="italic">Modern Language Notes</HI> for 1905, pages 77 ff., I printed a description of Longleat 258, which I now briefly summarize.</P>
+<P>The book is a small square modern-bound volume, of 147 leaves about 8⅝ by 5½ inches, gathered in eights of which the outer sheet is vellum, the three inner paper. The fifth gathering has been lost, dropping from the book the entire poem of <HI REND="italic">The Flower and the Leaf</HI> and the first six stanzas of Chaucer's <HI REND="italic">Mars.</HI> That the former poem was once in the volume we know from the contemporary table of contents, which includes "De folio et flore"; and this table of contents also includes two poems now lost from the beginning of the book. The script is almost entirely one and the same, small, legible, and current, but not at all elegant; each leaf carries six stanzas, evenly spaced and written; the pages have no ornament and the poems no headings, though running titles have frequently been supplied by a slovenly later hand, which has also occasionally made corrections. At the top of the first page is written "Constat John Thynne", and according to Schick the three stanzas inserted on folio 32 a are in Thynne's hand; Sir John Thynne, the builder of Longleat, died in 1580, and the hand of the scribe may well be of a period but little anterior to this. The volume has the look of a private collection made by an unprofessional and in∣accurate but not untidy copyist; certain tricks of dialect and spelling,—<HI REND="italic">dud, theim—</HI>persist throughout, and omission is exceedingly common. The contents were all verse, of an
+<PB N="236" REF="2"/>
+allegorical or rhetorical nature, viz.:—<HI REND="italic">The Letter of Cupid</HI> (now lost from the MS.), "Unum Carmen" (also lost), Lydgate's <HI REND="italic">Temple of Glass,</HI> the stanzas inserted by Thynne, <HI REND="italic">The Flower and the Leaf</HI> (now lost), Chaucer's <HI REND="italic">Mars</HI> and <HI REND="italic">Pity, The Assembly of Ladies,</HI> Chaucer's <HI REND="italic">Anelida</HI> and <HI REND="italic">Parlement of Foules, The Eye and the Heart</HI> (now here printed), <HI REND="italic">La Belle Dame sans Mercy,</HI> and Lydgate's <HI REND="italic">Churl and Bird.</HI></P>
+<P>These poems are either complaints or debates, the latter inconclusive as medieval debates often were, and burdened with the detailed description of court, costume, and tourney∣field which Chaucer's <HI REND="italic">Knight's Tale</HI> had helped to make popular. Only in the case of the poem now printed are other copies unknown; but of this poem the French original exists, and was published by Wright in his Camden Society edition (1841) of the Latin poems attributed to Walter Mapes, pp. 310 ff. Wright used a manuscript of the Bibliothèque Nationale at Paris, then marked Bibl. du Roi 7388, and it is to be noted by the student who may make a comparison of the French and the English that the French text was disordered in leaf∣arrangement. It was written in sixes, six stanzas to the leaf, but in the first two gatherings the second and third sheets were transposed by the binder. The French stanzas should be numbered 1-6, 13-18, 7-12, 25-30, 19-24, 31-42, 49-54, 43-48, 61-66, 55-60, 67 etc. A copy of the French text correctly arranged may be found in <HI REND="italic">Le Jardin de Plaisance,</HI> printed about 1501 and just reproduced in facsimile by the Société des anciens textes français.</P>
+<P>A print of the <HI REND="italic">Eye and the Heart</HI> was made by Wynken de Worde, and is described in Dibdin's <HI REND="italic">Typographical Anti∣quities</HI> II: 331, with citation of the first stanza; its colophon terms the poem "a lytell treatyse called the dysputacyon or the complaynte of the herte through perced with the lokynge of the eye." No date. See Warton-Hazlitt III: 167.</P>
+<P>The dependence of the heart upon the eye, and the per∣sonification of one or both, were fairly frequent devices of medieval allegory; Neilson in his monograph on the Court of Love mentions several examples. Thus in the <HI REND="italic">Roman de la Rose</HI> the God of Love sends his arrows through the heart and also through the eye; in Huon de Mery's thirteenth century <HI REND="italic">Tornoiement d'Antéchrist</HI> the poet is wounded by Venus
+<PB N="237" REF="3"/>
+and demands justice, but the blame is laid on his eyes, the warders of his soul; in Froissart's <HI REND="italic">Paradys d'Amour</HI> Cupid is said to shoot his arrows through the eyes into the heart; René d'Anjou, in his <HI REND="italic">Livre du Cuer,</HI> represents the Heart as a wandering knight, while in the <HI REND="italic">Jagd</HI> of Hadamar von Laber the Heart is a hound leading on the lover. Another German work, the <HI REND="italic">Red von Hertzen und von Leib,</HI> includes an argument of Heart and Body before Venus; and in La Fontaine's <HI REND="italic">Différend de Beaux Yeux et de Belle Bouche</HI> the judge decides for the Mouth as the more valuable servant of Love.</P>
+<P>Earlier than any of these, earlier than Gower's allusion <HI REND="italic">(Confessio Amantis</HI> VI: 827-29) to the eye as the "lusti coc" of the heart's "fode delicat", is the brief Latin poem attributed to Walter Map and printed by Wright in the volume above cited, p. 93, as the <HI REND="italic">Disputatio inter Cor et Oculum.</HI></P>
+<P>The far longer English poem which I print below presents the admixture of motives usual in Court of Love poems. The chase, the dream, the "strife", the tourney, the pleading before Venus, are all here, and all have their parallels in other medieval works. We may for instance compare Gower's <HI REND="italic">Con∣fessio Amantis</HI> V: 7400 ff. with the opening of this poem.</P>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The Eye and the Heart</HEAD>
+<HEADNOTE><P>MS. Longleat 258</P></HEADNOTE>
+<LG N="1">
+<HEAD>1</HEAD>
+<L>In the first weke of the saisou<HI REND="italic">n</HI> of May</L>
+<L>Whan the wod<HI REND="italic">es</HI> be couered al in grene</L>
+<L>In whiche the nightingale list for to play</L>
+<L>To shewe his voix among<HI REND="italic">es</HI> þe thornes kene</L>
+<L>Theim to reioisse whiche loue is seru<HI REND="italic">au</HI>nt<HI REND="italic">es</HI> bene <MILESTONE N="5"/></L>
+<L>Whiche from al comfort thinke theim far behinde</L>
+<L>My pleasir was as it was after seen</L>
+<L>ffor my disport to chase hert and hinde</L>
+</LG>
+<LG N="2">
+<HEAD>2</HEAD>
+<L>Than I com<HI REND="italic">m</HI>aunded myn hunt<HI REND="italic">es</HI> to goo</L>
+<L>To drawe aboute if they might finde a vewe <MILESTONE N="10"/> <NOTE PLACE="foot">No heading to the poem, which begins on fol. 102a with a four-line capital.</NOTE></L>
+<L><PB N="238" REF="4"/>
+And forth we yede bothe I and other moo</L>
+<L>Nowe here now there the hunt<HI REND="italic">es</HI> for to sewe</L>
+<L>Whiche in thair hornes many blast<HI REND="italic">es</HI> blewe</L>
+<L>To finde an hert they dud thair ful entent</L>
+<L>In a forest of myn for to say trewe <MILESTONE N="15"/></L>
+<L>In whiche to hunte I hade gret talent <NOTE PLACE="foot">16 The phrase "had talent", "did talent", occurs three times in this poem; cp. lines 115, 183.</NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>3</HEAD>
+<L>We sought so muche aboute in euery part</L>
+<L>Tyll at the last we founde right wel to chase</L>
+<L>Gret hert<HI REND="italic">es</HI> oute of the hyrde apart</L>
+<L>Whiche yede aboute thair pasture to purchase <MILESTONE N="20"/></L>
+<L>And than anoon we went for to embrace</L>
+<L>Many braunches of Elme and of hable tre</L>
+<L>With whiche to dresse vs a good standing place</L>
+<L>We made vs busshes wel as semed me</L>
+</LG>
+<LG N="4">
+<HEAD>4</HEAD>
+<L>Whan this was doon I tourned my bak anoon <MILESTONE N="25"/></L>
+<L>To fette myn hound<HI REND="italic">es</HI> and came soon agayn</L>
+<L>Whereof Alound<HI REND="italic">es</HI> I brought many oon</L>
+<L>And whan I came in to the forest playn</L>
+<L>I founde anoon the hunt of hert<HI REND="italic">es</HI> twayn</L>
+<L>ffor whiche I made to blowe the hornes hye <MILESTONE N="30"/></L>
+<L>And hound<HI REND="italic">es</HI> six score and moo certayn</L>
+<L>Whiche made me thought a Ioious melodye</L>
+</LG>
+<LG N="5">
+<HEAD>5</HEAD>
+<L>ffor that poure hert that sorowe doith manace</L>
+<L>Might haue plaisaunce and also gret comfort</L>
+<L>To here the hound<HI REND="italic">es</HI> make thair mery chace <MILESTONE N="35"/></L>
+<L>So proprely the ran of oon accorde <NOTE PLACE="foot">36 MS. reads <HI REND="italic">the</HI> instead of <HI REND="italic">they;</HI> at the end of the line <HI REND="italic">accorde</HI> is underscored and <HI REND="italic">sorte</HI> written close beside it by another(?) hand.</NOTE></L>
+<L>And eke so swete was thair mery report</L>
+<L>That it me thought a verrey paradyse</L>
+<L>ffor in that forest was muche more disport</L>
+<L>Than Instrument cowde make to my deuise <MILESTONE N="40"/></L>
+</LG>
+<LG N="6">
+<PB N="239" REF="5"/>
+<HEAD>6</HEAD>
+<L>And in chasing not fer oute of my way</L>
+<L>I harde womannys voix wondre clere</L>
+<L>More swetter harde I neuer to my pay</L>
+<L>Than of my<HI REND="italic">n</HI> horse I descended right there</L>
+<L>To vnderstande the better and to here <MILESTONE N="45"/></L>
+<L>So long till that thair songes were songe &amp; doon</L>
+<L>And for to knowe the place I drewe me nere</L>
+<L>Wher as I founde this noble emprise soon</L>
+</LG>
+<LG N="7">
+<HEAD>7</HEAD>
+<L>And as I serched ladyes many a oon <NOTE PLACE="foot">49 <HI REND="italic">a</HI> is written in, just above the line.</NOTE></L>
+<L>I founde sitting aboute a faire fontayne <MILESTONE N="50"/></L>
+<L>Vndre a pyne whiche shadowed theim echoon</L>
+<L>It was to me a thing yet vncertayne</L>
+<L>To knowe of theim whiche was the souerayne <NOTE PLACE="foot">53 The copyist has omitted <HI REND="italic">was;</HI> the French runs "Tant estoit leur atour notable".</NOTE></L>
+<L>Thair behauyng so Inly notable</L>
+<L>And of thair beaute if I shulde not fayne <MILESTONE N="55"/></L>
+<L>Of al other they were incomperable</L>
+</LG>
+<LG N="8">
+<HEAD>8</HEAD>
+<L>And in thair presence if I shulde not lye</L>
+<L>Were gentilwom<HI REND="italic">m</HI>en of right goodlye stature <NOTE PLACE="foot">58 Here and in 161 the English version changes the "hommes gentils" of the French into women.</NOTE></L>
+<L>I hade not saien a fore in companye</L>
+<L>More fressher folke of shap I you ensure <MILESTONE N="60"/></L>
+<L>And in thair doing sad and eke demure</L>
+<L>To fest the people they had gret delite <NOTE PLACE="foot">62 A later hand has changed <HI REND="italic">delite</HI> in this line to <HI REND="italic">delight.</HI> Cp. <HI REND="italic">whight</HI> in 503.</NOTE></L>
+<L>Alle that I sawe was doon by good mesure</L>
+<L>And well demened eu<HI REND="italic">er</HI>y manere wight</L>
+</LG>
+<LG N="9">
+<HEAD>9</HEAD>
+<L>And I approched as nigh as I might <MILESTONE N="65"/></L>
+<L>And saluted theim anoon ful curtesly</L>
+<L><PB N="240" REF="6"/>
+And toward<HI REND="italic">es</HI> me there came two anoon right <NOTE PLACE="foot">67 A later hand (?) has underlined <HI REND="italic">two</HI> and written it as the first word in the next line.</NOTE></L>
+<L>Whiche said to me vs semeth verreily</L>
+<L>Ye list to take your disport secretly</L>
+<L>As it appereth wel in youre persoune <MILESTONE N="70"/></L>
+<L>Whan ye be wery ye may rest hardely</L>
+<L>And lette your hound<HI REND="italic">es</HI> make theim game aloon</L>
+</LG>
+<LG N="10">
+<HEAD>10</HEAD>
+<L>Than we pray you that ye will come and see</L>
+<L>These ladeis and these damesell<HI REND="italic">es</HI> in fere</L>
+<L>And they shal fest you as they cane perde <MILESTONE N="75"/></L>
+<L>To youre worship and thaires in al manere</L>
+<L>And in singing thay haue noon thair pere <NOTE PLACE="foot">77 The scribe ended the line with <HI REND="italic">noon here;</HI> the last word was later underscored and the present reading added.</NOTE></L>
+<L>ffor aboue al other thay haue the name</L>
+<L>And goodly storyes who so lust to here</L>
+<L>They can report and thereof haue gret fame <MILESTONE N="80"/></L>
+</LG>
+<LG N="11">
+<HEAD>11</HEAD>
+<L>So muche of wele they gan to me recorde</L>
+<L>That I was rauisshed meruelously</L>
+<L>ffor whiche my thought<HI REND="italic">es</HI> felle soon to accorde</L>
+<L>To goo see theim and whan I sawe trewly</L>
+<L>Thaire faire ladyes made so perfitly <MILESTONE N="85"/></L>
+<L>Where god him self and also dame nature</L>
+<L>Hade planted beaute right plentyuously</L>
+<L>fferre aboue any erthely Creatur</L>
+</LG>
+<LG N="12">
+<HEAD>12</HEAD>
+<L>And to al theim I dud suche reuerence</L>
+<L>Whiche as to me thought I aught to doo soon <MILESTONE N="90"/></L>
+<L>Not oonly after the high apperence</L>
+<L>Of thair noblenesse but after oon by oon <NOTE PLACE="foot">92 Here and in 493, 660, the scribe writes <HI REND="italic">noblenesse</HI> for <HI REND="italic">noblesse.</HI></NOTE></L>
+<L>And thair wanted noo thing that shuld be doon</L>
+<L>Of worship there men might ensample finde</L>
+<L><PB N="241" REF="7"/>
+So goodly folke yet sawe I neuer noon <MILESTONE N="95"/></L>
+<L>ffor in al pleasaunce set was hole thaire mynde <NOTE PLACE="foot">96 The scribe has inserted <HI REND="italic">in,</HI> above the line.</NOTE></L>
+</LG>
+<LG N="13">
+<HEAD>13</HEAD>
+<L>And I was of these ladies gracious</L>
+<L>Receyued wele with perfit gentilnesse</L>
+<L>The whiche of floures right delicious</L>
+<L>Made a fresshe Chapellet the trouthe to expresse <MILESTONE N="100"/></L>
+<L>I had not seen suche oon bifore doubtelesse</L>
+<L>The whiche they yaue to me right curtesly</L>
+<L>And than I founde that I of al gladnesse</L>
+<L>Was refresshed right wel and Ioiously</L>
+</LG>
+<LG N="14">
+<HEAD>14</HEAD>
+<L>Than oon of theim me by the hande dud take <MILESTONE N="105"/></L>
+<L>And gan to singe a songe of gret pleasaunce</L>
+<L>And al that other answered soon gan make <NOTE PLACE="foot">107 MS. reads <HI REND="italic">answered.</HI></NOTE></L>
+<L>Hole to gedre withoute variaunce</L>
+<L>So perfitly with al the Circumstaunce</L>
+<L>That I had not harde noon of suche mesure <MILESTONE N="110"/></L>
+<L>It was a lif to voide all displeasaunce</L>
+<L>Oute of a troubled hert I you ensure <NOTE PLACE="foot">112 The scribe inserted <HI REND="italic">a</HI> later, above the line.</NOTE></L>
+</LG>
+<LG N="15">
+<HEAD>15</HEAD>
+<L>Alle these louers that were present</L>
+<L>Began to singe that Ioy it was to here</L>
+<L>In suche places where they dud talent <MILESTONE N="115"/></L>
+<L>They cast thair sight eche man in his degre <NOTE PLACE="foot">114-116 The rime here fails.</NOTE></L>
+<L>And sum<HI REND="italic">m</HI>e gan sighe with pituous loke and chere</L>
+<L>Offering thair hert<HI REND="italic">es</HI> with hole entent</L>
+<L>While that thair lif and body were in fere <NOTE PLACE="foot">119 The scribe repeated <HI REND="italic">that,</HI> underdotting it for erasure.</NOTE></L>
+<L>So muche that loue shulde be therewt content <MILESTONE N="120"/></L>
+</LG>
+<LG N="16">
+<HEAD>16</HEAD>
+<L>That oon of theim went oute fro the fest</L>
+<L>And withdrewe hir oute of the companye</L>
+<L><PB N="242" REF="8"/>
+I can not say why it was at the lest</L>
+<L>But wele I wote and darr say verreilye</L>
+<L>Myn ye hade gret pleasure hir to aspye <MILESTONE N="125"/></L>
+<L>Warnyng myn hert on hir to take good hede</L>
+<L>Whiche of sorowe was al voide trewly</L>
+<L>Whan I behilde hir goodly womanhede</L>
+</LG>
+<LG N="17">
+<HEAD>17</HEAD>
+<L>It semed an aungell that god hade made</L>
+<L>To come adowne for beaute souueraine <MILESTONE N="130"/></L>
+<L>There cowde noo man see wt his yen glade</L>
+<L>A more gracious lady south to saiene</L>
+<L>Hir for to please though I dud al my payne</L>
+<L>I cowde not telle hir features halfendele</L>
+<L>Therefore I com<HI REND="italic">m</HI>itte this matere al playne <MILESTONE N="135"/></L>
+<L>With theim that lust with materes to dele</L>
+</LG>
+<LG N="18">
+<HEAD>18</HEAD>
+<L>And for hir beaute whiche was Imperiaille</L>
+<L>My pleasure alway gan me to complayne</L>
+<L>To sewe for grace and dud my<HI REND="italic">n</HI> hole trauaille</L>
+<L>To whom my thought gan to stryue certayne <MILESTONE N="140"/></L>
+<L>Yet my poure hert said he wold doo his payne</L>
+<L>And toke noon hede but tyll hir noble grace</L>
+<L>In hir seruice for to be trewe and playne</L>
+<L>Hir for to serue during my lyues space</L>
+</LG>
+<LG N="19">
+<HEAD>19</HEAD>
+<L>And whan she had thought al that hir list <MILESTONE N="145"/></L>
+<L>To the feest she tourned anoon right</L>
+<L>And with hir voix whiche was moost swetist</L>
+<L>Began to singe with al hir force and might</L>
+<L>And as she cast aboute hir goodly sight</L>
+<L>Whiche was gret pleasaunce to al there <MILESTONE N="150"/></L>
+<L>Vnto myn ye it yaue so gret a light</L>
+<L>That in al comfort I stode verreily clere</L>
+</LG>
+<LG N="20">
+<HEAD>20</HEAD>
+<L>And or that she had ended ful hir songe</L>
+<L>An hert came rennyng by theim hastly <NOTE PLACE="foot">154 MS. reads <HI REND="italic">And hert</HI> . . . . .</NOTE></L>
+<L><PB N="243" REF="9"/>
+And lept in to a welle al theim amonge <MILESTONE N="155"/></L>
+<L>Than for myn hound<HI REND="italic">es</HI> I blewe certainly</L>
+<L>With whom the hert was holde so strait trewly</L>
+<L>That he thought he shulde not long endure</L>
+<L>And for gret fere he lept ful besily</L>
+<L>ffor of his deth he demed him verrey sure <MILESTONE N="160"/></L>
+</LG>
+<LG N="21">
+<HEAD>21</HEAD>
+<L>The ladyes and the gentilwomen also <NOTE PLACE="foot">161 See note on line 58.</NOTE></L>
+<L>Hade gret pleasur to be holde and see</L>
+<L>And dud thair part to helpe the hound<HI REND="italic">es</HI> so</L>
+<L>The hert to take at soile if it might be</L>
+<L>But suche disport bifore I dud not see <MILESTONE N="165"/></L>
+<L>Myn ye wolde not thereof noo tresour make</L>
+<L>But hir in whom al vertu was plente</L>
+<L>Behilde alwey I darre well vndretake</L>
+</LG>
+<LG N="22">
+<HEAD>22</HEAD>
+<L>And whan this hert aspied wel his tyme</L>
+<L>He leped lightly oute of the fontayne clere <MILESTONE N="170"/></L>
+<L>My wery hound<HI REND="italic">es</HI> laide theim stille by me</L>
+<L>ffor noon of theim might noo thing nigh hy<HI REND="italic">m</HI> nere</L>
+<L>He brake the busshes so bothe here and there</L>
+<L>He went his wey withouten any arrest</L>
+<L>And rennyng forth among<HI REND="italic">es</HI> the bowes shere <MILESTONE N="175"/></L>
+<L>He scope vs fro and toke the thik forest</L>
+</LG>
+<LG N="23">
+<HEAD>23</HEAD>
+<L>I went to these ladyes my leue to take</L>
+<L>The hert to pursewe I dud myn entent</L>
+<L>Within a while my corage gan a shake</L>
+<L>Myn hert suche discomfort to him hath hent <MILESTONE N="180"/></L>
+<L>That I ne knewe well what hunting ment</L>
+<L>But well I wote I was ful disease</L>
+<L>Me to disport I had but smal talent</L>
+<L>But lette my thought<HI REND="italic">es</HI> forth al at his ease</L>
+</LG>
+<LG N="24">
+<HEAD>24</HEAD>
+<L>And what for walking I was wery soon <MILESTONE N="185"/></L>
+<L>Seing the sonne began to goo to rest</L>
+<L><PB N="244" REF="10"/>
+Of hert ne hound<HI REND="italic">es</HI> I cowde see right noon</L>
+<L>As fer as I cowde loke bothe est and west</L>
+<L>Anoon the night began to make him prest</L>
+<L>So fast he came that I lost my place <MILESTONE N="190"/></L>
+<L>And stille to abide me thought it for the best</L>
+<L>Tyll that the day began to shewe his face</L>
+</LG>
+<LG N="25">
+<HEAD>25</HEAD>
+<L>I tyed myn hors vnto a faire grene tree</L>
+<L>Agayn the whiche myn hede anoon I sette</L>
+<L>The erthe as colde as marble semed me <MILESTONE N="195"/></L>
+<L>Whiche made my tethe al in myn hede to whette</L>
+<L>My self complaynyng howe that I was lette</L>
+<L>That I might not that lady see agayn</L>
+<L>Whom that myn ye promised and behette</L>
+<L>Whan I hade first sight of hir certayn <MILESTONE N="200"/></L>
+</LG>
+<LG N="26">
+<HEAD>26</HEAD>
+<L>And with that thought I founde that I</L>
+<L>Hade lost myn hope and Ioies euerychoon</L>
+<L>And that harde sorowe nighed me so nigh</L>
+<L>That I shuld not but wepe waile and groon</L>
+<L>And diuers paynes came vpon me soon <MILESTONE N="205"/></L>
+<L>ffor I cowde not see in noo manere wise</L>
+<L>Hir in whom al my Ioyes were aloon</L>
+<L>And than I slept a while me to suffise</L>
+</LG>
+<LG N="27">
+<HEAD>27</HEAD>
+<L>And in sleping myn hert I harde complayne</L>
+<L>And with myn ye anoon began debate <MILESTONE N="210"/></L>
+<L>Seing fals ye thou doist me gret payne</L>
+<L>To be so hardy that erly or late <NOTE PLACE="marg">Hert</NOTE></L>
+<L>To cast thy loke vpon so gret estate</L>
+<L>Where al beaute is set in litel space</L>
+<L>I trowe to me thou hast sum<HI REND="italic">m</HI>e man<HI REND="italic">er</HI>e hate <MILESTONE N="215"/></L>
+<L>That thou hast set me in so high a place</L>
+</LG>
+<LG N="28">
+<HEAD>28</HEAD>
+<L>The ye than saide thou hert to what entent</L>
+<L>Seist thou that I haue doon thee any wronge</L>
+<L><PB N="245" REF="11"/>
+I am thy frende if thou list be content</L>
+<L>I may wel swere myn othe if thou wil it fonge <MILESTONE N="220"/> <NOTE PLACE="marg">Ye</NOTE></L>
+<L>And leue me wel bothe at short and longe</L>
+<L>That I dud neuer euyll vnto thee</L>
+<L>I doubte me not though thou wt word<HI REND="italic">es</HI> stronge</L>
+<L>List thus to chide take this for certaynete</L>
+</LG>
+<LG N="29">
+<HEAD>29</HEAD>
+<L>Hast thou not made by right swete aventure <MILESTONE N="225"/></L>
+<L>Me for to chese the floure of womanhede</L>
+<L>The moost pleasaunt of lyuyng Creature</L>
+<L>Surmounting al in verrey goodlyhede <NOTE PLACE="marg">Hert</NOTE></L>
+<L>And for the swetnesse that in hir doith sprede</L>
+<L>Thou hast on hir planted thy stedefast sight <MILESTONE N="230"/></L>
+<L>Whiche is to me gret preiudice in dede</L>
+<L>Sith I may not see hir as it were right</L>
+</LG>
+<LG N="30">
+<HEAD>30</HEAD>
+<L>ffor southe I will not the contrarye</L>
+<L>But that I haue a goodly lady sayne</L>
+<L>In pleasaunt wise I wol not fro it varye <MILESTONE N="235"/></L>
+<L>In al honno<HI REND="italic">ur</HI> she hath noo pere certayne <NOTE PLACE="marg">Ye</NOTE></L>
+<L>Among<HI REND="italic">es</HI> all other chosen souueraine</L>
+<L>As for the fairest and the best also</L>
+<L>Therfore thou hast noo cause on me to complayne</L>
+<L>Ne me to hate / a welle why doist thou so <MILESTONE N="240"/></L>
+</LG>
+<LG N="31">
+<HEAD>31</HEAD>
+<L>Yesse for southe for whan thou hade so doo</L>
+<L>Of gret desire thy sight on hir thou cast</L>
+<L>Thorough the whiche I was rauisshed soo</L>
+<L>That in al Ioye me thought I was stedfast <NOTE PLACE="marg">Hert</NOTE></L>
+<L>And hir goodnesse in me portered thou hast <MILESTONE N="245"/></L>
+<L>And or I aske mercy other grace</L>
+<L>She was right ferre oute of thy sight ypast</L>
+<L>ffor whiche dispaire me straitly doith embrace</L>
+</LG>
+<LG N="32">
+<HEAD>32</HEAD>
+<L>I haue fraunchise that at myn owne pleasaunce</L>
+<L>My sight to cast whan that me liketh best <MILESTONE N="250"/></L>
+<L><PB N="246" REF="12"/>
+ffor whiche thou aught to haue noo displeasaunce</L>
+<L>Thy drede and myn be not like at the lest <NOTE PLACE="marg">Ye</NOTE></L>
+<L>Though that we bothe in oon place take o<HI REND="italic">ur</HI> rest</L>
+<L>I am ordenned to beholde and see</L>
+<L>And thou to loue shuldist alwey be prest <MILESTONE N="255"/></L>
+<L>Why puttest thou this blame than al on me</L>
+</LG>
+<LG N="33">
+<HEAD>33</HEAD>
+<L>Like as frute may not wexe ripe kyndely</L>
+<L>But if he take of the sonne sum<HI REND="italic">m</HI>e man<HI REND="italic">er</HI>e hete</L>
+<L>In like wise I may not lyue trewly</L>
+<L>Withoute thy counseille wherfore cause grete <MILESTONE N="260"/> <NOTE PLACE="marg">Hert</NOTE></L>
+<L>I haue to blame the sith I may not gete</L>
+<L>Sith of hir alas the harde while <NOTE PLACE="foot">262 Here read <HI REND="italic">Sight of her?</HI></NOTE></L>
+<L>I am not like with hir to mete</L>
+<L>Howe maist thou forth me thus begile</L>
+</LG>
+<LG N="34">
+<HEAD>34</HEAD>
+<L>Though I beholde a ladyes gret beaute <MILESTONE N="265"/></L>
+<L>Thorough whiche thou art becom<HI REND="italic">m</HI>en amerous</L>
+<L>And as of hope thou art in noo surete</L>
+<L>Whiche maketh the haply right dolerous <NOTE PLACE="marg">Ye</NOTE></L>
+<L>Yet shuld thou not with word<HI REND="italic">es</HI> rigerous</L>
+<L>So wofully me to repreue and blame <MILESTONE N="270"/></L>
+<L>Nowe in goodfaith thou art not vertuous</L>
+<L>To doo or say that shulde be to my shame</L>
+</LG>
+<LG N="35">
+<HEAD>35</HEAD>
+<L>Thou aughtest wel sumwhat lenger to abide</L>
+<L>Tyll that the mouthe hade hir besought of grace</L>
+<L>And that the ere had take good hede that tide <MILESTONE N="275"/></L>
+<L>In hir conceit if I hade any place <NOTE PLACE="marg">Hert</NOTE></L>
+<L>So might thou to me hir pleasaunce purchace</L>
+<L>But I now fele that I am so purueide</L>
+<L>Of gret sorowe whiche doith me sore embrace</L>
+<L>And of al Ioye I knowe me dispurveide <MILESTONE N="280"/></L>
+</LG>
+<LG N="36">
+<HEAD>36</HEAD>
+<L>I rekke not of the mouth ner of the nose</L>
+<L>Of ere ner fote ner of the hand<HI REND="italic">es</HI> twayne</L>
+<L><PB N="247" REF="13"/>
+It sitteth me muche better as I suppose</L>
+<L>To loke vpon a faire lady certayne <NOTE PLACE="marg">Ye</NOTE></L>
+<L>And to beholde theim I shal doo my payne <MILESTONE N="285"/></L>
+<L>Whiche is my pleasaunce and euer shal be</L>
+<L>ffor I rek not whether thou laugh or playne</L>
+<L>Take now right good hede what I say to the</L>
+</LG>
+<LG N="37">
+<HEAD>37</HEAD>
+<L>Thou scornest fals murtherer as I trowe</L>
+<L>Thou hast me smytte with a stroke mortall <MILESTONE N="290"/></L>
+<L>By thy fals loke thou hast me ouer throwe</L>
+<L>I wende ful litell thou hade be suche at all <NOTE PLACE="marg">Hert</NOTE></L>
+<L>Thou hast me cast withoute the castell wall</L>
+<L>Of good comfort and oute of al gladnesse</L>
+<L>Therfore in faith I may the right welle call <MILESTONE N="295"/></L>
+<L>Werse than an Eritike the trouthe to expresse</L>
+</LG>
+<LG N="38">
+<HEAD>38</HEAD>
+<L>I am noo murtherer ner oute of byleue</L>
+<L>Thou shalt me fynde alwey bothe plain and trewe</L>
+<L>Ner by noo witnesse shalt thou neuer preue</L>
+<L>That euer I was to man vntrewe <MILESTONE N="300"/> <NOTE PLACE="marg">Ye</NOTE></L>
+<L>And namely to loue whois stappys I sewe</L>
+<L>And if thou wolde say aught to the contrarye</L>
+<L>To desire the marshal I wol poursewe</L>
+<L>And make him Iugge I wol noo lenger tarye</L>
+</LG>
+<LG N="39">
+<HEAD>39</HEAD>
+<L>Asmuche as is in me I am contente <MILESTONE N="305"/></L>
+<L>Bifore him the causes nede</L>
+<L>Of our strif bitwix vs presente</L>
+<L>And lette the trouthe so for vs procede <NOTE PLACE="marg">Hert</NOTE></L>
+<L>That he may knowe where the fault is in dede</L>
+<L>And lette him Iugge for vs bothe rightfully <MILESTONE N="310"/></L>
+<L>Withoute mercy for right so god me spede</L>
+<L>In that quarell I darre well fight trewly</L>
+</LG>
+<LG N="40">
+<HEAD>40</HEAD>
+<L>Than the ye answered in this manere</L>
+<L>That he wolde him defende wt al his might</L>
+<L><PB N="248" REF="14"/>
+Than bothe two were accorded thus in fere <MILESTONE N="315"/></L>
+<L>To goo towardes the Court of loue ful right</L>
+<L>Whan they came to shewe thaire right</L>
+<L>Than said Desire of loue the marshalle</L>
+<L>Hert telle thou thy cause anoon here in o<HI REND="italic">ur</HI> sight</L>
+<L>Of youre rumo<HI REND="italic">ur</HI> that is bitwix you falle <MILESTONE N="320"/> <NOTE PLACE="foot">320 <HI REND="italic">rumour.</HI> The French word is <HI REND="italic">remour,—</HI>dispute.</NOTE></L>
+</LG>
+<LG N="41">
+<HEAD>41</HEAD>
+<L>The hert than toke noo manere of counseille</L>
+<L>But his owne tale he tolde ful prudently</L>
+<L>And desire loo here my cause samfaille <NOTE PLACE="foot">323 The scribe has omitted the word <HI REND="italic">said</HI> before <HI REND="italic">Desire;</HI> French "Et dist Desir."</NOTE></L>
+<L>The ye hath doon to me vncurtesly <NOTE PLACE="marg">Hert</NOTE></L>
+<L>Not long agoo he put his sight trewly <MILESTONE N="325"/></L>
+<L>On the fairest and best where euer she goo</L>
+<L>ffor his pleasure and not for myn trewly</L>
+<L>Right in this wise as I shal telle you loo</L>
+</LG>
+<LG N="42">
+<HEAD>42</HEAD>
+<L>Whan the ye hade on hir set his sight</L>
+<L>Loue put in me of his gret worthynesse <MILESTONE N="330"/></L>
+<L>Thought desire and plaisaunce these thre ful right</L>
+<L>Whiche shulde make me to stande in stedfastnesse</L>
+<L>ffor to loue hir withoute doublenesse</L>
+<L>If that I might hir grace to attayne</L>
+<L>Whom I am like neuer to see doubtelesse <MILESTONE N="335"/></L>
+<L>Wherfore I haue gret heuynesse and payne</L>
+</LG>
+<LG N="43">
+<HEAD>43</HEAD>
+<L>And thus the ye hath sette me in suche plight</L>
+<L>ffor whan he sawe that I was thus take</L>
+<L>With loue of hir he parted from hir quyght</L>
+<L>Or that I cowde any certainte make <MILESTONE N="340"/></L>
+<L>Wherfore oft tyme I tremble sore and quake</L>
+<L>And thinke right long after alligeaunce</L>
+<L>Thus by the ye my woo begynneth to wake</L>
+<L>Alle in dispaire thus standing in balaunce</L>
+</LG>
+<LG N="44">
+<PB N="249" REF="15"/>
+<HEAD>44</HEAD>
+<L>And with this greif I am to deth brought <MILESTONE N="345"/></L>
+<L>And oute of Ioye stande ful sorowfully</L>
+<L>Alle in discomfort as that I ne rought</L>
+<L>Of erthly thing so troubleth me the yey</L>
+<L>ffor if the faire hade not so pleasauntly</L>
+<L>Hir goodly loke on me besette so sore <MILESTONE N="350"/></L>
+<L>This sorowe hade not com<HI REND="italic">m</HI>en to me trewly</L>
+<L>But I hade lyued as I dud bifore</L>
+</LG>
+<LG N="45">
+<HEAD>45</HEAD>
+<L>Wherfore I complayne me thus rightfully</L>
+<L>Of gret Iniurye that the ye hath doon</L>
+<L>And my cause is ment moost faithfully <MILESTONE N="355"/></L>
+<L>Wherfore to you I doo submissiou<HI REND="italic">n</HI></L>
+<L>And on my trouthe I make promissiou<HI REND="italic">n</HI></L>
+<L>To fight with him in louys high presence</L>
+<L>Bifore the whiche we shal knowe soon</L>
+<L>The right fro wronge wtoute more diffence <MILESTONE N="360"/></L>
+</LG>
+<LG N="46">
+<HEAD>46</HEAD>
+<L>The ye answered and said in this manere</L>
+<L>I haue doon noo thing contrarye to thyn hert</L>
+<L>ffor though I cast myn loke bothe here and there</L>
+<L>Vpon the faire if ye list wel aduert <NOTE PLACE="marg">Ye</NOTE></L>
+<L>The hert shuld not in his conceit p<HI REND="italic">er</HI>uert <MILESTONE N="365"/></L>
+<L>Sith loue hath graunted me the high office</L>
+<L>I wol it kepe and neuer fro it stert</L>
+<L>Of him I haue noon other benefice</L>
+</LG>
+<LG N="47">
+<HEAD>47</HEAD>
+<L>The hert replied with his ful entent</L>
+<L>And said thou ye thou art fals and vntrewe <MILESTONE N="370"/></L>
+<L>I cast to fight in this quarell present <NOTE PLACE="foot">371 The English here differs; the French runs "Un souspir en gette pour gaige."</NOTE></L>
+<L>The ye answered and said I am as trewe <NOTE PLACE="marg">Hert</NOTE></L>
+<L>As euer thou were therfore in word<HI REND="italic">es</HI> fewe</L>
+<L>To knowe the right thy wedde I wol vp take</L>
+<L><PB N="250" REF="16"/>
+And in presence of loue we shal it shewe <MILESTONE N="375"/></L>
+<L>Who hath the wronge and no more noise to make</L>
+</LG>
+<LG N="48">
+<HEAD>48</HEAD>
+<L>Than whan desire had herde the matere playne</L>
+<L>In myddis of May he signed a day</L>
+<L>The gret quarell bifore loue to darrayne</L>
+<L>And l<HI REND="italic">ett</HI>res write and sealed bothe to say <MILESTONE N="380"/></L>
+<L>With sealles of the<HI REND="italic">ir</HI> armes fresshe and gay</L>
+<L>Echoon of theim his right for to mayntayne</L>
+<L>Thus to be there in al best array</L>
+<L>They made there bothe two thair p<HI REND="italic">ro</HI>misse c<HI REND="italic">er</HI>tayne</L>
+</LG>
+<LG N="49">
+<HEAD>49</HEAD>
+<L>Than went this worthy Marshal of loue <MILESTONE N="385"/></L>
+<L>To telle his lord and maistre part and al</L>
+<L>Of this affray reherced here aboue</L>
+<L>And loue anoon com<HI REND="italic">m</HI>aunded forth wt al</L>
+<L>To make a felde wherein bothe gret and smal</L>
+<L>Might haue thaire sight closed aboute wt lices <MILESTONE N="390"/></L>
+<L>And there wt al if I the southe sey shal</L>
+<L>A riche Scaffold arraide with delices</L>
+</LG>
+<LG N="50">
+<HEAD>50</HEAD>
+<L>And whan loue hade him his charge thus tolde</L>
+<L>And anoon was made a felde both longe and wide <NOTE PLACE="foot">394 The scribe inserted the <HI REND="italic">a</HI> of <HI REND="italic">anoon</HI> above the line.</NOTE></L>
+<L>With double list<HI REND="italic">es</HI> al of right fyne golde <MILESTONE N="395"/></L>
+<L>Couered with Tissewe well on euery side</L>
+<L>Nabegodonesor with al his pride</L>
+<L>Whiche was the richest kyng as in his deyes</L>
+<L>Hade neuer suche oon bifore that ilke tide</L>
+<L>As was that felde with al the riche arrayes <MILESTONE N="400"/></L>
+</LG>
+<LG N="51">
+<HEAD>51</HEAD>
+<L>ffor in that felde were two faire entrees</L>
+<L>Alle made of Jasper and of clere Cristall</L>
+<L>Whiche good werkmen of diuers straunge countres</L>
+<L>With bariers of passing fyne Corall <NOTE PLACE="foot">404 <HI REND="italic">bariers.</HI> The French as printed by Wright reads <HI REND="italic">banieres.</HI></NOTE></L>
+<L><PB N="251" REF="17"/>
+Hade wrought right wel by craft especiall <MILESTONE N="405"/></L>
+<L>Alle sette with keyes made of Iuery</L>
+<L>Whiche a lokesmyth that came fro portingale</L>
+<L>ffiled with a file smothe and craftly</L>
+</LG>
+<LG N="52">
+<HEAD>52</HEAD>
+<L>The scaffold of loue was made of aumbre</L>
+<L>ffounded in pilours of right faire baleys <MILESTONE N="410"/></L>
+<L>With warderobe and halle and also wt chambre</L>
+<L>As though it were wt in a gret paleys</L>
+<L>The Tapett<HI REND="italic">es</HI> also as the boke seys</L>
+<L>Were the story of the rose the romaunce</L>
+<L>ffor louers to rede bothe clerk<HI REND="italic">es</HI> and lays <MILESTONE N="415"/></L>
+<L>Were writen right well wt good diamaunce</L>
+</LG>
+<LG N="53">
+<HEAD>53</HEAD>
+<L>The Chaire was also passing fresshe and gay</L>
+<L>Where loue him self in his estat sitte shulde</L>
+<L>Of clere burell wele polisshed soth to say</L>
+<L>And foure sparehauk<HI REND="italic">es</HI> made of massy golde <MILESTONE N="420"/></L>
+<L>And on the bake there were to be holde</L>
+<L>Six Carbuncles right wele sette and euen</L>
+<L>Whiche were clerar and brighter many folde</L>
+<L>Than ben the planett<HI REND="italic">es</HI> shynyng fro<HI REND="italic">m</HI> heuen</L>
+</LG>
+<LG N="54">
+<HEAD>54</HEAD>
+<L>The day and the houre aboue saide <MILESTONE N="425"/></L>
+<L>Whan the hert shuld fight ayeinst the ey</L>
+<L>Loue came him self wt his wyng<HI REND="italic">es</HI> displaide</L>
+<L>Descending downe of his scaffold trewly</L>
+<L>And in his Chaire he satte downe softly</L>
+<L>A robe on him embrodered wt riche stones <MILESTONE N="430"/></L>
+<L>And fyne perles sette ful craftly</L>
+<L>Brodered of Emeraud<HI REND="italic">es</HI> for the nones</L>
+</LG>
+<LG N="55">
+<HEAD>55</HEAD>
+<L>The floures fresshe of the riche gowne of loue</L>
+<L>And Chamehieux were made of gret richesse <NOTE PLACE="foot">433/4 The French reads "De sa couronne les florons Estoient fais de camahieux."</NOTE></L>
+<L><PB N="252" REF="18"/>
+And of clere Sapheres sette al aboue <MILESTONE N="435"/></L>
+<L>Alle his wyng<HI REND="italic">es</HI> were of suche brightnesse</L>
+<L>ffedered de bien en mieulx doubtlesse <NOTE PLACE="foot">437 The French reads "Plumetties de bien en mieux."</NOTE></L>
+<L>As of Topases shynyng wonderly</L>
+<L>I trowe noon angellis the trouthe to expresse</L>
+<L>Haue not thair wyng<HI REND="italic">es</HI> made so pleasauntly <MILESTONE N="440"/></L>
+</LG>
+<LG N="55">
+<HEAD>55</HEAD>
+<L>He hade also a bowe of vnicorne</L>
+<L>And two strenges made of gret substaunce</L>
+<L>Of gold of Cipres at eche ende an horne</L>
+<L>A sheef of arowes sette in ordennaunce</L>
+<L>To teche the louers his trace to daunce <MILESTONE N="445"/></L>
+<L>ffedered wt fyne rubyes bright and shene</L>
+<L>Whiche yaue him for a gret pleasaunce <NOTE PLACE="foot">447 The scribe omitted <HI REND="italic">Venus</HI> before <HI REND="italic">yaue;</HI> the French is "Venus les lui donna si faites."</NOTE></L>
+<L>Poynted wt diamond<HI REND="italic">es</HI> sharpe and kene <NOTE PLACE="foot">448 The MS. reads <HI REND="italic">Paynted</HI> instead of <HI REND="italic">poynted.</HI></NOTE></L>
+</LG>
+<LG N="57">
+<HEAD>57</HEAD>
+<L>And whan that loue this noble god archere</L>
+<L>Hade bowe and arowes set downe him biside <MILESTONE N="450"/></L>
+<L>Regarde his heraulde wt voix inly clere</L>
+<L>Thrise as it was com<HI REND="italic">m</HI>aunded that tide <NOTE PLACE="foot">452 The MS. reads <HI REND="italic">is</HI> instead of <HI REND="italic">it.</HI></NOTE></L>
+<L>Called the hert that he shuld not longe abide</L>
+<L>Whiche hade promissed to fight there that day</L>
+<L>Ayeinst the ye whiche was so ful of pride <MILESTONE N="455"/></L>
+<L>And not to make tareing ner delay</L>
+</LG>
+<LG N="58">
+<HEAD>58</HEAD>
+<L>The hert came forthe to fight again the yey</L>
+<L>Vpon a courser couered al wt larmes</L>
+<L>His armes were made of sorowe trewly</L>
+<L>Also thre sighes he bare in his armes <MILESTONE N="460"/></L>
+<L>Paynted well vpon his Cote of armes</L>
+<L>They appered al with pituous weping</L>
+<L>And his swerde with whiche he shuld doo his armes</L>
+<L>Was tempored with sorowful complaynyng</L>
+</LG>
+<LG N="59">
+<PB N="253" REF="19"/>
+<HEAD>59</HEAD>
+<L>In whois companye came honnoure also <MILESTONE N="465"/></L>
+<L>Hardinesse prouesse and eke gentilnesse</L>
+<L>Thought and good hope and many other moo</L>
+<L>That were of his aliaunce as I gesse</L>
+<L>Alle clothed like for thaire worthynesse</L>
+<L>With rooses rede and also wt lilies white <MILESTONE N="470"/></L>
+<L>Chapellett<HI REND="italic">es</HI> they hade eke for thair noblenesse</L>
+<L>Of laventre a floure of gret delite</L>
+</LG>
+<LG N="60">
+<HEAD>60</HEAD>
+<L>And whan he entered into the fresshe felde</L>
+<L>Than from his hors he descended lightly</L>
+<L>And on his knees fill downe and be helde <MILESTONE N="475"/></L>
+<L>This noble loue and salued him goodly</L>
+<L>And a litell after full worshipfully</L>
+<L>Withdrewe him self and toke him to his Tent</L>
+<L>Whiche of roses many made was pleasauntly</L>
+<L>There tabide the ye was his hole entent <MILESTONE N="480"/></L>
+</LG>
+<LG N="61">
+<HEAD>61</HEAD>
+<L>Than regarde this noble heraulde and wise</L>
+<L>Called the ye bifore loue tappere</L>
+<L>Whiche was redy in al goodly wise</L>
+<L>Armed with swete disport on a coursere</L>
+<L>Whiche to my conceit hade noo were his pere <MILESTONE N="485"/></L>
+<L>And semed welle he hade noo werynesse</L>
+<L>Couered with myrthe embroded here and there</L>
+<L>His swerde was of solace and of lustynesse</L>
+</LG>
+<LG N="62">
+<HEAD>62</HEAD>
+<L>Of Ioye was made his Cote of armes riche</L>
+<L>ffugured al with pleasaunce and gladnesse <MILESTONE N="490"/></L>
+<L>Right goodly folke also noon of theim liche</L>
+<L>He hade as happed him beaute and prowesse</L>
+<L>Goodly port melody and eke noblenesse</L>
+<L>Of pervyncle arraide all in grene</L>
+<L>And of mergelyn in right gret largesse <MILESTONE N="495"/></L>
+<L>Hir faire Coursers were couered al by dene</L>
+</LG>
+<LG N="63">
+<PB N="254" REF="20"/>
+<HEAD>63</HEAD>
+<L>And assoon as this ful noble yey</L>
+<L>The list<HI REND="italic">es</HI> approched on fote he light</L>
+<L>And entered in and salued curtesly</L>
+<L>His worshipful lord loue as it was right <MILESTONE N="500"/></L>
+<L>Whiche hade made promisse wt the hert to fight</L>
+<L>And after went in to his pauylou<HI REND="italic">n</HI></L>
+<L>Alle arraide wt gillofres rede and whight</L>
+<L>Whiche was worthe a king<HI REND="italic">es</HI> gret raunsou<HI REND="italic">n</HI></L>
+</LG>
+<LG N="64">
+<HEAD>64</HEAD>
+<L>The ordener of the felde named desire <MILESTONE N="505"/></L>
+<L>Made come anoon in to the high presence</L>
+<L>Of loue whiche was thair noble lord and sire</L>
+<L>Bothe the hert and the yey ful of prudence</L>
+<L>And made theim swere vpon thair conscience</L>
+<L>That in thair cause eche of theim hade right <MILESTONE N="510"/></L>
+<L>And to crye it in open audience</L>
+<L>And not to tarye that they haue behight</L>
+</LG>
+<LG N="65">
+<HEAD>65</HEAD>
+<L>Than after this the hert went forth agayne</L>
+<L>Vnto his Tent his rest for to take</L>
+<L>And sette him on his sege the southe to sayne <MILESTONE N="515"/></L>
+<L>Made of Eglentere for his owne sake</L>
+<L>Also the ye his frendes hade let make</L>
+<L>A sege for him of woderone pleasauntly</L>
+<L>Where he made good wacche I vndirtake</L>
+<L>Vpon the hert whan he shulde come trewly <MILESTONE N="520"/></L>
+</LG>
+<LG N="66">
+<HEAD>66</HEAD>
+<L>And after this came loue the felde vnto</L>
+<L>And chose knyght<HI REND="italic">es</HI> to awaite vpon theim twayne</L>
+<L>Thought / swete hope / and remembraunce also</L>
+<L>And honnour eke if that I shuld not fayne</L>
+<L>Alle armed with Margaret<HI REND="italic">es</HI> certayne <MILESTONE N="525"/></L>
+<L>And eche of theim bare in his hande a spere</L>
+<L>Of grene laurer wele made bothe smothe &amp; playne</L>
+<L>To depart these Champions if nede were</L>
+</LG>
+<LG N="67">
+<PB N="255" REF="21"/>
+<HEAD>67</HEAD>
+<L>And than this Loue whiche is worthy and digne</L>
+<L>To whom noo Creature may him resemble <MILESTONE N="530"/></L>
+<L>Vnto regarde his heraulde made a signe</L>
+<L>That he shulde make the hert and the ye assemble</L>
+<L>And whan they were thus bothe two at assemble</L>
+<L>The heraulde cried doo your deuoir anoon</L>
+<L>ffor whiche the hert and ye began to tremble <MILESTONE N="535"/></L>
+<L>And so dud they that were present echoon</L>
+</LG>
+<LG N="68">
+<HEAD>68</HEAD>
+<L>And thus the hert whiche was thappalaunt</L>
+<L>Oute of his tent issues right manly</L>
+<L>Whiche bare as he that was right vailaunt</L>
+<L>A spere heded with sorowe sikerly <MILESTONE N="540"/></L>
+<L>The ye from his pauylon by and by</L>
+<L>Issued also in his hande a launce</L>
+<L>The whiche he gided ful gentilmanly</L>
+<L>Pointed it was right fresshely wt plesaunce</L>
+</LG>
+<LG N="69">
+<HEAD>69</HEAD>
+<L>fforthewt the hert hent in his fist a spere <MILESTONE N="545"/></L>
+<L>Thrise bifore the ye manly he went</L>
+<L>The ye anoon as he that had noo fere</L>
+<L>Came forth a goodly pace anoon of his tent</L>
+<L>And the hert wt good auisement</L>
+<L>Cast his spere and persed the visere <MILESTONE N="550"/></L>
+<L>Of the ye whiche demed him almost shent</L>
+<L>And thought he was vnto deth right nere</L>
+</LG>
+<LG N="70">
+<HEAD>70</HEAD>
+<L>And whan the ey felt him thus sore wounded</L>
+<L>Rudely ayeinst the hert he went anoon</L>
+<L>And first of al or that his hert were founded <MILESTONE N="555"/></L>
+<L>His spere he caught manly and right soon</L>
+<L>Vnneth the hert might stande his fete vpon</L>
+<L>ffor he smote oon of his platis apart</L>
+<L>And of that stroke he hade so muche to doon <NOTE PLACE="foot">559 The MS. reads <HI REND="italic">doo</HI> instead of <HI REND="italic">doon.</HI></NOTE></L>
+<L>That he demed his soule and body shuld part <MILESTONE N="560"/></L>
+</LG>
+<LG N="71">
+<PB N="256" REF="22"/>
+<HEAD>71</HEAD>
+<L>Yet for al this his hert he toke agayne</L>
+<L>And right manly his swerde anoon he toke <NOTE PLACE="foot">562 The MS. reads <HI REND="italic">smerde</HI> instead of <HI REND="italic">swerde.</HI></NOTE></L>
+<L>And on the ye he smote right fast certayne</L>
+<L>Suche mighty strok<HI REND="italic">es</HI> that al the grounde shoke</L>
+<L>And than the ye with a courageous loke <MILESTONE N="565"/></L>
+<L>The hert strongly he bare so wt his swerde</L>
+<L>Ayeinst the listys and him not forsoke</L>
+<L>Whereof the hert was than right sore aferde</L>
+</LG>
+<LG N="72">
+<HEAD>72</HEAD>
+<L>The hert sawe than that he was in daungier</L>
+<L>And right nigh discomfited thus by the ey <MILESTONE N="570"/></L>
+<L>fful herdly he cast awey his spere</L>
+<L>And drewe his dagger wele auisely</L>
+<L>And layde on fast and smote so feruently</L>
+<L>Vpon the ye that he was nere attaynt</L>
+<L>And from his strok<HI REND="italic">es</HI> he voided lightly <MILESTONE N="575"/></L>
+<L>ffro whiche to Coure he had gret constraynt</L>
+</LG>
+<LG N="73">
+<HEAD>73</HEAD>
+<L>And as they faught these gret Champions twayne</L>
+<L>With thaire sharpe dagers with so gret courage</L>
+<L>Whiche were like to falle downe on the playne</L>
+<L>Dame pite than that lady swete and sage <MILESTONE N="580"/></L>
+<L>Come forth anoon with a certayne message</L>
+<L>To loue and praide hir eraunde for to here</L>
+<L>Right as he satte an high vpon his stage</L>
+<L>Whiche came from Venus his owne moder dere</L>
+</LG>
+<LG N="74">
+<HEAD>74</HEAD>
+<L>Than loue to hir made glad and Ioiful chere <MILESTONE N="585"/></L>
+<L>And yaue to hir a welcome honnourable</L>
+<L>Seing thus dame pite myn owne frende dere</L>
+<L>Sithe my moder of hir estat notable</L>
+<L>Venus I meane the goddesse amyable</L>
+<L>Hath you com<HI REND="italic">m</HI>aunded thus to come to me <MILESTONE N="590"/></L>
+<L>Thinke it is to me right aggreable</L>
+<L>To here youre message what so it be</L>
+</LG>
+<LG N="75">
+<PB N="257" REF="23"/>
+<HEAD>75</HEAD>
+<L>And than pite thanke loue right mekely</L>
+<L>Whiche was alwey on knees as I rede</L>
+<L>Seing right high lord here is now trewly <MILESTONE N="595"/></L>
+<L>A gret debate of these knyght<HI REND="italic">es</HI> in dede</L>
+<L>Whiche haue ben euer bothe in worde and dede</L>
+<L>Willing of loue the steppys for to sewe</L>
+<L>And of Venus who so list take hede</L>
+<L>Aboue al other seru<HI REND="italic">au</HI>nt<HI REND="italic">es</HI> good and trewe <MILESTONE N="600"/></L>
+</LG>
+<LG N="76">
+<HEAD>76</HEAD>
+<L>ffor whan Venus herde that mortall strif</L>
+<L>Thatt was bitwix the hert and ey thus falle</L>
+<L>Of verrey loue and of hert attentif</L>
+<L>Considereth wele the begynnyng and alle</L>
+<L>And wote right wele that hir estat roiall <MILESTONE N="605"/></L>
+<L>Withoute theim two may not be kept vp right</L>
+<L>Ner hir mageste exalted be at alle</L>
+<L>But they were redy alwey in hir sight</L>
+</LG>
+<LG N="77">
+<HEAD>77</HEAD>
+<L>And for they be bothe of hir court in fere <NOTE PLACE="foot">609 The scribe has inserted <HI REND="italic">for</HI> above the line.</NOTE></L>
+<L>She now com<HI REND="italic">m</HI>aundeth theim to calle ayeine <MILESTONE N="610"/></L>
+<L>And bifore hir they bothe must ned<HI REND="italic">es</HI> appere</L>
+<L>As for this cas thus fell bitwix theim tweyne</L>
+<L>ffor she wolde knowe the verrey cause al playne</L>
+<L>Of thaire debate whiche to hir ere attayneth</L>
+<L>And wold they were in peas ful fayne <MILESTONE N="615"/></L>
+<L>ffor of al suche causes vnto hir p<HI REND="italic">er</HI>teyneth</L>
+</LG>
+<LG N="78">
+<HEAD>78</HEAD>
+<L>Than loue for the whiche to yeue his obeiss<HI REND="italic">au</HI>nce</L>
+<L>To his moder and wolde noo more abide</L>
+<L>Seing thus she shulde haue cognoissaunce</L>
+<L>And thaire debat wolde noo lenger hide <MILESTONE N="620"/></L>
+<L>But called the wacches that went by thair side</L>
+<L>Charging theim the Champions to disioyne</L>
+<L>And to pite whois goodnesse is knowen wide</L>
+<L>Deliuer bothe in peas theim for to ioyne</L>
+</LG>
+<LG N="79">
+<PB N="258" REF="24"/>
+<HEAD>79</HEAD>
+<L>There pite bade theim warne theim bothe <MILESTONE N="625"/> <NOTE PLACE="foot">625 Read <HI REND="italic">Then</HI> instead of <HI REND="italic">There.</HI></NOTE></L>
+<L>And after went of loue hir leue to take</L>
+<L>And charged theim whether they were leef or loth</L>
+<L>Bitwene theim twayne noo more quarell<HI REND="italic">es</HI> to make</L>
+<L>But lete theyre strif and thaire debate slake</L>
+<L>And eschewe hate and loue togedre agayne <MILESTONE N="630"/></L>
+<L>What meruaille than though thair hert<HI REND="italic">es</HI> dud quake</L>
+<L>Towardis Venus whan thay shuld goo certayne</L>
+</LG>
+<LG N="80">
+<HEAD>80</HEAD>
+<L>Bitwene theim went this good lady pite</L>
+<L>And led theim by the hand<HI REND="italic">es</HI> in ful frendly gise</L>
+<L>And said to theim nowe sithe ye are wt me <MILESTONE N="635"/></L>
+<L>I shal you two make to morowe or ye rise</L>
+<L>My Cousyns germayns your hate to deprise</L>
+<L>And Venus shal you of oon accorde <NOTE PLACE="foot">638 The scribe has omitted the word <HI REND="italic">make</HI>? The French is "Par Venus mettre en bon accord."</NOTE></L>
+<L>Whiche wol not suffre in noo manere wise</L>
+<L>Hir owne folkes to be at discorde <MILESTONE N="640"/></L>
+</LG>
+<LG N="81">
+<HEAD>81</HEAD>
+<L>Than they arryued al in a straunge yle</L>
+<L>That was made right stronge aboute wt all</L>
+<L>Of brennyng brond<HI REND="italic">es</HI> by craft right habile</L>
+<L>By cause it was so derke in especiall</L>
+<L>Where two foules whiche Ostrigges men call <MILESTONE N="645"/></L>
+<L>Bare on high in the eire in letere</L>
+<L>Of gold enhameled of asure at all</L>
+<L>Venus the goddes of loue moost entere</L>
+</LG>
+<LG N="82">
+<HEAD>82</HEAD>
+<L>I sawe hir littere whiche borne was so hye</L>
+<L>Couered with a Cloude of gret substaunce <MILESTONE N="650"/></L>
+<L>And she in whom al Ioy is moost trewlye</L>
+<L>And gladnesse continued wt pleasaunce</L>
+<L><PB N="259" REF="25"/>
+A robe of purple she had at hir ordenaunce</L>
+<L>With flames of fire and sparkis light</L>
+<L>Whiche was made to the suffisaunce <MILESTONE N="655"/></L>
+<L>Of yonge louers for comfort day and night</L>
+</LG>
+<LG N="83">
+<HEAD>83</HEAD>
+<L>And whan Madame Pite founde there present</L>
+<L>Hir lady Venus of loue the goddesse</L>
+<L>With a sote salue she dud hir present</L>
+<L>And said madame to your high noblenesse <MILESTONE N="660"/></L>
+<L>Are come these two knight<HI REND="italic">es</HI> of gret prouesse</L>
+<L>The hert and ey to knowe your entent</L>
+<L>Whom loue hath dred and wt al humblenesse</L>
+<L>Nowe at this tyme by me to you hath sent</L>
+</LG>
+<LG N="84">
+<HEAD>84</HEAD>
+<L>To that entent that of thair gret debate <MILESTONE N="665"/></L>
+<L>As ye my lady com<HI REND="italic">m</HI>aunded by me</L>
+<L>That ye might knowe the cause of al thair hate</L>
+<L>ffor he wold ye hade the souuerainte</L>
+<L>By cause he knoweth verreily that ye</L>
+<L>Can best Iugge theim as to thair behove <MILESTONE N="670"/></L>
+<L>Also he wote that ye be oonly she</L>
+<L>By cause al goodnesse falleth vnto love</L>
+</LG>
+<LG N="85">
+<HEAD>85</HEAD>
+<L>And than Venus with a goodly countenaunce</L>
+<L>Toke to hir these noble Champions</L>
+<L>Whiche hade so long at thair vtteraunce <MILESTONE N="675"/></L>
+<L>With hardy hert<HI REND="italic">es</HI> fought as were lions</L>
+<L>Whiche troued wele in thaire opinions</L>
+<L>If pite had not take theim into warde</L>
+<L>And made to staunche thair heuy actions</L>
+<L>Eny of theim to scape it hade ben harde <MILESTONE N="680"/></L>
+</LG>
+<LG N="86">
+<HEAD>86</HEAD>
+<L>The hert him set anoon vp his knee <NOTE PLACE="foot">681 The MS. writes <HI REND="italic">hir</HI> instead of <HI REND="italic">his.</HI></NOTE></L>
+<L>And saide Venus our soueraine lady dere</L>
+<L><PB N="260" REF="26"/>
+Sith it pleased you to knowe the certaynete <NOTE PLACE="foot">683 The MS. writes <HI REND="italic">certayne</HI> instead of <HI REND="italic">certaynete.</HI></NOTE></L>
+<L>Of our discorde the verray trewe manere</L>
+<L>Not lyeng a worde but bothe playne and clere <MILESTONE N="685"/></L>
+<L>I shal you telle the begynnyng and thende</L>
+<L>Of our debate thus standing here in fere</L>
+<L>If it plaise your highnesse now to entende</L>
+</LG>
+<LG N="87">
+<HEAD>87</HEAD>
+<L>That forthwith Venus yaue the hert licence <NOTE PLACE="foot">689 Read <HI REND="italic">Than</HI> instead of <HI REND="italic">That</HI>? Cp. line 121?</NOTE></L>
+<L>That he shuld shewe of his cause the substaunce <MILESTONE N="690"/></L>
+<L>Also the ye shulde ordenne his sentence</L>
+<L>To answere him in wey of repliaunce</L>
+<L>And eke they were charged on thair aligeaunce</L>
+<L>That in thair causes they shuld noo thing varye</L>
+<L>And for to stande at Venus ordenaunce <MILESTONE N="695"/></L>
+<L>And noon of theim therto say the contrarye</L>
+</LG>
+<LG N="88">
+<HEAD>88</HEAD>
+<L>The hert attayned his cause thus trewly <NOTE PLACE="foot">697 Read <HI REND="italic">attamed</HI> instead of <HI REND="italic">attayned.</HI> The French is "Le euer la matere entama."</NOTE></L>
+<L>Seyng to Venus our souuerain lady goddesse</L>
+<L>Loo here nature hath yeuen to me the ey</L>
+<L>To sete me in the wey of rightuousnesse <MILESTONE N="700"/></L>
+<L>To finde Ioy solace and also gladnesse</L>
+<L>And he hath taken a pillour to beholde</L>
+<L>The faire pleasaunt and floure of lustynesse</L>
+<L>Whiche fro me parted sonner than I wolde</L>
+</LG>
+<LG N="89">
+<HEAD>89</HEAD>
+<L>And of that pleasur that the ey hade take <MILESTONE N="705"/></L>
+<L>He warned me and that right soudenly</L>
+<L>And than anoon in me there dud awake</L>
+<L>Louely desire / and remembraunce trewly</L>
+<L>And logged theim in me ful pleasauntly</L>
+<L>And so dud thought and many other moo <MILESTONE N="710"/></L>
+<L>And also swete hope to holde me company</L>
+<L>And happe comfort lakked not also</L>
+</LG>
+<LG N="90">
+<PB N="261" REF="27"/>
+<HEAD>90</HEAD>
+<L>And after this it happed me ful ill</L>
+<L>ffor the ey hade noo lust there to abide</L>
+<L>Till I required as it was skyll <MILESTONE N="715"/></L>
+<L>Of hir that I hade chosyn to be my gide</L>
+<L>But hir absenting taught me well that tide</L>
+<L>That who sumeuer that is fer from the ey</L>
+<L>Is fer from the hert and thus on eu<HI REND="italic">er</HI>y side</L>
+<L>I lyue in tourment and gret paynes trewly <MILESTONE N="720"/></L>
+</LG>
+<LG N="91">
+<HEAD>91</HEAD>
+<L>Wherfore if he hade not thus sete his sight</L>
+<L>I hade not be taken in the snare</L>
+<L>But that I hade yet holpe my Ioy vpright</L>
+<L>And in noo wise I shulde haue this care</L>
+<L>ffor his beholding causith euyll fare <MILESTONE N="725"/></L>
+<L>As to me for this tale is ful trewe</L>
+<L>That folkis say that women callid are</L>
+<L>That the ey seith the hert doith rewe</L>
+</LG>
+<LG N="92">
+<HEAD>92</HEAD>
+<L>ffor in the ey is the gate whiche in noo wise</L>
+<L>Shulde not open to lete in heuynesse <MILESTONE N="730"/></L>
+<L>But alwey shulde be redy to deuyse</L>
+<L>To kepe me surely from al pensyuenesse</L>
+<L>And lete in hope and happe and gladnesse</L>
+<L>Comfort and Ioy and also good aventure</L>
+<L>ffor whom he shulde doo his trew besynesse <MILESTONE N="735"/></L>
+<L>And not to make an hasty aventure</L>
+</LG>
+<LG N="93">
+<HEAD>93</HEAD>
+<L>I fele wele he dud the contrarye</L>
+<L>ffor he hath lete weping<HI REND="italic">es</HI> and complaynt<HI REND="italic">es</HI></L>
+<L>Entre in me he may not from it varye</L>
+<L>With whiche my Ioy wt gret sorowment<HI REND="italic">es</HI> <MILESTONE N="740"/> <NOTE PLACE="foot">740 Read <HI REND="italic">sorow meynt is.</HI></NOTE></L>
+<L>And al my comfort in me now attaynt is <NOTE PLACE="foot">741 The MS. reads <HI REND="italic">attaynted is.</HI></NOTE></L>
+<L>Whiche is to me a merterdome mortall</L>
+<L><PB N="262" REF="28"/>
+Thus I conclude that by his constraint<HI REND="italic">es</HI></L>
+<L>That he is causer of my sorowes all</L>
+</LG>
+<LG N="94">
+<HEAD>94</HEAD>
+<L>Than the ey whiche him gretly applied <MILESTONE N="745"/></L>
+<L>To finde matere to his saluacions</L>
+<L>With right goodly aduise anoon replied</L>
+<L>Vnto the hertis composicions</L>
+<L>And saide I see wel by his accions</L>
+<L>That he hath ben at scole I trowe of loue <MILESTONE N="750"/></L>
+<L>Whiche bringeth forth pleasaunt intencions</L>
+<L>Him self to further for his owne behove</L>
+</LG>
+<LG N="95">
+<HEAD>95</HEAD>
+<L>And said lady Venus of loue goddesse</L>
+<L>The hert saith thus that he hath of nature</L>
+<L>Yeuen vnto him as he doith expresse <MILESTONE N="755"/></L>
+<L>That he alwey in gladnesse shuld endure</L>
+<L>Yet might it happe by sum<HI REND="italic">m</HI>e aventure</L>
+<L>That he shal not in Ioy alwey abounde</L>
+<L>ffor as I trowe there is noo Creature</L>
+<L>But in the contrarye sum<HI REND="italic">m</HI>e tyme shal be founde <MILESTONE N="760"/></L>
+</LG>
+<LG N="96">
+<HEAD>96</HEAD>
+<L>Yet wol I in noo wise myself excuse</L>
+<L>But that nature me made for him doubtlesse</L>
+<L>And yet for sothe he aught not me accuse</L>
+<L>That he berith by me the heuynesse</L>
+<L>Of sorowe ner of noo manere distresse <MILESTONE N="765"/></L>
+<L>ffor in good faith there can no thing be doon</L>
+<L>Withoute his consente as I can expresse</L>
+<L>ffor al the cause by him is wrought aloon</L>
+</LG>
+<LG N="97">
+<HEAD>97</HEAD>
+<L>And as the cloke may smytte in noo wise</L>
+<L>But that he haue sume man<HI REND="italic">er</HI>e of meouyng <MILESTONE N="770"/></L>
+<L>As he that kepith him list to deuyse</L>
+<L>So of myself in dede I haue noo thing</L>
+<L>But to beholde and than in tyding<HI REND="italic">es</HI> bring</L>
+<L>And thus the hert is cause of al trewly</L>
+<L><PB N="263" REF="29"/>
+ffor withoute him thus haue I noo doing <MILESTONE N="775"/></L>
+<L>But as an Instrument for sothe am I</L>
+</LG>
+<LG N="98">
+<HEAD>98</HEAD>
+<L>If I on hir haue set al my beholding</L>
+<L>By his aduis that causith me thereto</L>
+<L>And to this cause he is moost attending</L>
+<L>By his desire hir for to loue also <MILESTONE N="780"/></L>
+<L>If he absent him and sorowe come him to</L>
+<L>I may not gete that he list not to saue</L>
+<L>ffor as sum<HI REND="italic">m</HI>e say the hert the warke must doo</L>
+<L>If he wol not I may noo pleasir haue</L>
+</LG>
+<LG N="99">
+<HEAD>99</HEAD>
+<L>So my lady I pray you to take hede <MILESTONE N="785"/></L>
+<L>To these causes and howe I me excuse</L>
+<L>And kepe ye wele my right and so procede</L>
+<L>Ayeinst the hert whiche doith you thus obstise <NOTE PLACE="foot">788 <HI REND="italic">obstise.</HI> So MS. The French as printed by Wright reads "qui vous abuse."</NOTE></L>
+<L>To this entent that he shal not refuse</L>
+<L>But at the lest that he be take anoon <MILESTONE N="790"/></L>
+<L>And put in prison there to be recluse</L>
+<L>Tyll he haue amended al that is mysdoon</L>
+</LG>
+<LG N="100">
+<HEAD>100</HEAD>
+<L>Than Venus thought wel that wt oute theim two</L>
+<L>She might in noo wise hir court may<HI REND="italic">n</HI>teyne</L>
+<L>Wherfore she dud the processe calle hir to <MILESTONE N="795"/></L>
+<L>And made to write the matere hole and playne</L>
+<L>And the double thereof shulde remayne</L>
+<L>In hir owne hande what soeuer be falle</L>
+<L>And for they shulde abide hir warde both twayne</L>
+<L>She made theim swere afore hir folk<HI REND="italic">es</HI> alle <MILESTONE N="800"/></L>
+</LG>
+<LG N="101">
+<HEAD>101</HEAD>
+<L>Of whiche trewly they were wele content</L>
+<L>And Venus than wrote vnto hir seru<HI REND="italic">au</HI>nt<HI REND="italic">es</HI> all</L>
+<L><PB N="264" REF="30"/>
+And to al trewe louers the hole entent</L>
+<L>Theim com<HI REND="italic">m</HI>aunding thus both gret and small</L>
+<L>Eche man to serche on payne that might fall <MILESTONE N="805"/></L>
+<L>As to thair aduis whiche of theim had right</L>
+<L>And this was the verray cause in especiall</L>
+<L>There peas to make she dud hir will &amp; might</L>
+</LG>
+<LG N="102">
+<HEAD>102</HEAD>
+<L>And who cowde bringe the verrey trewe report</L>
+<L>Of thoppynyou<HI REND="italic">n</HI> of this forsaide matere <MILESTONE N="810"/></L>
+<L>As for either shulde haue for his apport</L>
+<L>Of hir a Chappellet of roses to were</L>
+<L>Than anoon I founde al the substaunce clere</L>
+<L>Of my thought<HI REND="italic">es</HI> whiche I had doon bifore</L>
+<L>Whiche I wrote as ye haue harde me here <MILESTONE N="815"/></L>
+<L>Withoute any lesing lesse or more</L>
+</LG>
+<LG N="103">
+<HEAD>103</HEAD>
+<L>I pray theim whiche in Ioye lede thair lif</L>
+<L>And of trewe loue be set in the wey</L>
+<L>That of the hert and the ye the doutful strif</L>
+<L>Wol in thair conceit euery man assay <MILESTONE N="820"/></L>
+<L>To sende his opinion as soon as he may</L>
+<L>Vnto Venus and who the chappellet playne</L>
+<L>Shal gete than to loue for him I pray</L>
+<L>That to al his desires he may attayne</L>
+</LG>
+<TAILNOTE><P>The poem endes on fol. 119a, with no Explicit. The page carries but one stanza, the rest of the page and the verso being blank.</P></TAILNOTE>
+</DIV1>
+<DIV1 TYPE="afterword">
+<P>The shortcomings of this text are many. The attempt of the translator to say in eight lines of ten syllables what the French had said in eight of eight syllables must of course result in padding; and the effect of the poem is weakened in consequence. But in addition to this come the sins of the copyist; lines above and below the proper length are frequent, while others move with a clumsiness which defies scansion. Some of this may be due to the translator, but a moiety at least is probably the fault of the immediate scribe of the Longleat, whose percentage of error is regularly higher than that of other copyists in poems where his text is comparable
+<PB N="265" REF="31"/>
+with nearly related manuscripts. And although most of the poems in the volume are closely allied to the valuable "Oxford Group" of Fairfax, Bodley, and Tanner, three of the longer texts bring Longleat into kinship with the late and inferior copies of the manuscript Trinity College Cambridge R 3, 19. Its position in the genealogy of medieval common∣place-books is thus doubly assailable. In this one case its record is noteworthy, as preserving to us a "strife" not elsewhere found in manuscript, but even here its late date and its corrupt text deprive the copy of a large part of its value.</P>
+<CLOSER><SIGNED>ELEANOR PRESCOTT HAMMOND.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

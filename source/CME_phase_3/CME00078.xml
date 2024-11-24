@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-16-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; removed French fragment from the beginning of text; removed several incorrect MILESTONES; changed some sub HEADs to HEADNOTE Ps; removed DIV3s; moved a NOTE. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00078">
+<STC T="M">78</STC>
+<BIBNO T="mec">CME00078</BIBNO>
+<VID>CME00078</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="collection of poems">
+<PB N="155" REF="14"/>
+<HEAD>B. POEMS FROM THE FAIRFAX MS. 16, IN THE BODLEIAN.</HEAD>
+<HEADNOTE><P>Folios 318-329.</P></HEADNOTE>
+<DIV2 N="1" TYPE="poem">
+<HEAD>I Balade</HEAD>
+<LG>
+<L>To fle the sect of alle mysgouernaunce</L>
+<L>I am truly wyth-hold <NOTE N="2" PLACE="foot">MS. hole.</NOTE> in sych a place <NOTE N="3" PLACE="foot">MS. Palace.</NOTE></L>
+<L>Which I purpose to haue in remembraunce</L>
+<L>As longe a while as I haue lyfe and spase,</L>
+<L><PB N="156" REF="15"/>
+Waytynge vpon her mercy &amp; her grace; <MILESTONE N="5"/></L>
+<L>And so I thynke my matyr to procede</L>
+<L>Constreynd of hert with stedfast loue and drede.</L>
+</LG>
+<LG>
+<L>For as me thynke I am ryght hylye bounde</L>
+<L>To do that thyng whiche myght be her plesaunce,</L>
+<L>And her I thanke, yf in me may be founde <MILESTONE N="10"/></L>
+<L>O poynt of thryft or of good gou<HI REND="italic">er</HI>naunce,</L>
+<L>Or thyng that me to worschyp shuld awaunce;</L>
+<L>Thus haue I cause to serue her godelyhede,</L>
+<L>Constreynd of hert wyth stedfaste loue and drede.</L>
+</LG>
+<LG>
+<L>Constreynd I am, but nought ayeyn myn hert <MILESTONE N="15"/></L>
+<L>To loue her best as for myn hertes ese;</L>
+<L>Alway in drede that ought shuld me astert</L>
+<L>Her to offende or any wyse dysplese.</L>
+<L>She may my welfare maynten and encrese,</L>
+<L>Wherfor I must obbey her womanhede, <MILESTONE N="20"/></L>
+<L>Constreynd of hert wyth stedfast loue and drede.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<HEAD>II Balade</HEAD>
+<LG>
+<L>And as <NOTE N="1" PLACE="foot">MS. os. The MS. sometimes writes <HI REND="italic">os,</HI> sometimes <HI REND="italic">as.</HI> I have throughout written <HI REND="italic">as.</HI></NOTE> for yow that most ar in my mynde,</L>
+<L>Loke, in what wyse the wyll I be demened,</L>
+<L>So wyl I do in any maner kynde</L>
+<L>Wyth alle the seruyse that I can, vnfeyned,</L>
+<L>Neu<HI REND="italic">er</HI> for othir myn hert to be constreynd, <MILESTONE N="5"/></L>
+<L>But fully set my purpose to endure <MILESTONE N="318v." UNIT="fol."/></L>
+<L>To loue yow best of ony creature.</L>
+</LG>
+<LG>
+<L>And for as much as <NOTE N="2" PLACE="foot">MS. os.</NOTE> I that [am] your man</L>
+<L>And must do seruyse to your womanhede,</L>
+<L>I yow bys[e]che as lowly as I can <MILESTONE N="10"/></L>
+<L>To schewe your grace &amp; put me out of drede.</L>
+<L>Ryght goodly fayr, the gentyllest in dede,</L>
+<L>I yowe require, as her that I loue best,</L>
+<L>Relese my payn, and set myn hert in rest.</L>
+</LG>
+<LG>
+<L>Ther is in me no maner of comfort <MILESTONE N="15"/></L>
+<L>But whan that I am styll in your presence,</L>
+<L><PB N="157" REF="16"/>
+Wherto I must alway make my resort,</L>
+<L>Of verey force, withoutyn resystence;</L>
+<L>And yf so be that I haue done offence</L>
+<L>In worde or dede that shuld you dysobeye, <MILESTONE N="20"/></L>
+<L>I wyll seke grace, ther ys no more to seye.</L>
+</LG>
+<LG>
+<L>Remembre yow, the godely creature,</L>
+<L>How longe a space that I haue lyfyd in payn,</L>
+<L>And of comfort as yit I am not sure,</L>
+<L>But what ye lyst of grace for me ordayn, <MILESTONE N="25"/></L>
+<L>I lyue in hope, and ye may make me fayn.</L>
+<L>But of my wo su<HI REND="italic">m</HI>what I wold ye wyst,</L>
+<L>I can no more, do wyth me what yow lyst.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="poem">
+<HEAD>III Balade</HEAD>
+<LG>
+<L>O lord god, what yt is gret plesaunce</L>
+<L>For me to thynke, so goodly and so fayre</L>
+<L>Be ye that haue myn hert in gou<HI REND="italic">er</HI>naunce,</L>
+<L>So vertuous and eke so debonayre,</L>
+<L>So full of bounte which doth not apayre, <MILESTONE N="5"/></L>
+<L>But euer encreseth in your goodlyhede, <MILESTONE N="319" UNIT="fol."/></L>
+<L>All this god hath set in your womanhede,</L>
+</LG>
+<LG>
+<L>I haue gret cause of yow thus for to wryte,</L>
+<L>Which beth in syght so goodly to by-hold</L>
+<L>And tryst fully, yf I couth wele endyte, <MILESTONE N="10"/></L>
+<L>I wold saye bettyr, many a thousand-fold;</L>
+<L>For I suppose, though god of nature wold</L>
+<L>Schew hys power, and all hys bysy cure,</L>
+<L>He couth not make a fayrer creature.</L>
+</LG>
+<LG>
+<L>O ye Lucresse, and also fair Eleyn, <MILESTONE N="15"/></L>
+<L>Thys I require yow of your gentyllesse</L>
+<L>That in no wyse ye take yt in dysdeyn</L>
+<L>Though she which is my lady and maistresse</L>
+<L>Stand in your noumber, for in sothfastnesse</L>
+<L>I know her not alyue, that in thys case <MILESTONE N="20"/></L>
+<L>Is bettir worthy ther to haue a place.</L>
+</LG>
+</DIV2>
+<DIV2 N="4" TYPE="poem">
+<HEAD>IV Compleynt</HEAD>
+<LG>
+<L>Now lyst fortune thus for me to purueye,</L>
+<L>That I ne may vn-to your speche attayn,</L>
+<L><PB N="158" REF="17"/>
+Nor I ne wot on whom myn erand leye,</L>
+<L>To tell my thoughtys, of whych I me co<HI REND="italic">m</HI>playn,</L>
+<L>Which hath me bounde in grete dysese and payn, <MILESTONE N="5"/></L>
+<L>Hauyng no triste my purpose to accheue,</L>
+<L>And so I lyue almost out of byleue.</L>
+</LG>
+<LG>
+<L>For wele I wot ther ys no creature</L>
+<L>That can tell al my greuaunce thurughly</L>
+<L>As can my-self, whereof I may make me sure, <MILESTONE N="10"/></L>
+<L>He lyueth not that felyth more than I</L>
+<L>Whych longe hath seruyd wyth-out remedy, <MILESTONE N="319v." UNIT="fol."/></L>
+<L>Beyng a-ferd yow to dysplese or greue,</L>
+<L>And [so] I lyue almost out of byleue.</L>
+</LG>
+<LG>
+<L>But for my part ye schal wele knaw and fele, <MILESTONE N="15"/></L>
+<L>Syth I yow chase my lady for to be,</L>
+<L>Ne louyd I neuer creature so wele</L>
+<L>As yow allone, so god my warant be,</L>
+<L>Of pore ne ryche, of hye ne low degre;</L>
+<L>Not knowing yit how my Fortune will <NOTE N="1" PLACE="foot">MS. whille.</NOTE> preue, <MILESTONE N="20"/></L>
+<L>And so I lyue almost out byleue.</L>
+</LG>
+<LG>
+<L>And syth that ye me toke in gou<HI REND="italic">er</HI>naunce,</L>
+<L>Yow for to plese I haue don myn entent,</L>
+<L>And wyth <NOTE N="2" PLACE="foot">MS. whyt.</NOTE> myn seruyse done yow obeyssaunce,</L>
+<L>Whyche late nor erly neuer did repent; <MILESTONE N="25"/></L>
+<L>As fortune wyll, I must hold me content.</L>
+<L>Myn hert ys ther as yt wyl not remeue,</L>
+<L>And so I lyue almost out of byleue.</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="poem">
+<HEAD>V Compleynt</HEAD>
+<LG>
+<L>Knelyng allon, ryght thus I may make my wylle,</L>
+<L>As your s<HI REND="italic">er</HI>uant in euery man<HI REND="italic">er</HI> wyse,</L>
+<L>To whom I yive myn hert and myn gode wylle</L>
+<L>Euer to be suget to your s<HI REND="italic">er</HI>uyse,</L>
+<L>Ryght as ye lyst to ordeyn and deuyse, <MILESTONE N="5"/></L>
+<L>I wyl be yours, and that I yow ensure,</L>
+<L>Not for to chaunge for erthely creature.</L>
+</LG>
+<LG>
+<L>Syth yt is so, my lady and maistresse,</L>
+<L>That I must nede by fortuns ordynaunce</L>
+<L><PB N="159" REF="18"/>
+Depart fro yow which is [my] most gladnesse, <MILESTONE N="10"/></L>
+<L>It ys to me the most heuy greuaunce</L>
+<L>That euer yit cam to my remembraunce,</L>
+<L>But eu<HI REND="italic">er</HI>y man ys ordeyne to endure <MILESTONE N="320" UNIT="fol."/></L>
+<L>The stroke of Fortune and of auenture.</L>
+</LG>
+<LG>
+<L>Wherefore my lady, I can say no more, <MILESTONE N="15"/></L>
+<L>But I am yours, with hertys obeyssaunce,</L>
+<L>And wyll be forthe, as I haue ben byfore,</L>
+<L>Abydynge styll your reule and ordynaunce</L>
+<L>As fortune wylle, so must I take my chaunce.</L>
+<L>I can no more, but alle my faythfull tryst <MILESTONE N="20"/></L>
+<L>It lythe in yow, demene me as ye lyst.</L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="poem">
+<HEAD>VI Lettyr</HEAD>
+<LG>
+<L>Ryght goodly flour, to whom I owe seruyse,</L>
+<L>Wyth alle myn hert, &amp; to non othir wyght</L>
+<L>To yow I wryte, my lady, in thys wyse,</L>
+<L>As her that I owe fayth of verry ryght,</L>
+<L>As ofte as I haue wysshed me in yo<HI REND="italic">ur</HI> syght <MILESTONE N="5"/></L>
+<L>And flours in Apryle bygynne for to sprede.</L>
+<L>I recomaunde me to your womanhede,</L>
+</LG>
+<LG>
+<L>Desyryng euer aboue alle othyr thynge</L>
+<L>The welfare of your beautuous ymage,</L>
+<L>Whych ys to me a verey reioysyng, <MILESTONE N="10"/></L>
+<L>To thynk vpon your womanly vysage,</L>
+<L>Havyng in mynde your young and tendir age</L>
+<L>That god of nature hathe in yow endowyd</L>
+<L>Whiche in your p<HI REND="italic">er</HI>son nede must bene alowed.</L>
+</LG>
+<LG>
+<L>And of my matyr shortly to procede, <MILESTONE N="15"/></L>
+<L>This ys treuly theffect of myn entent,</L>
+<L>That ye lyst grant me of your goodlyhede</L>
+<L>Sum of that grace that god to yow hath sent,</L>
+<L>Besechyng yow though I be not p<HI REND="italic">re</HI>sent, <MILESTONE N="320v." UNIT="fol."/></L>
+<L>To thynk vpon your s<HI REND="italic">er</HI>uant<HI REND="italic">es</HI> heuynesse <MILESTONE N="20"/></L>
+<L>That lyueth in tryst of yo<HI REND="italic">ur</HI> gret gentilnesse.</L>
+</LG>
+<LG>
+<L>And at thys tyme to yow I wryte no more,</L>
+<L>But wold god ye lyst to haue in mynde</L>
+<L>This symple wrytyng which that ys byfore,</L>
+<L>That I sum comfort by your grace may fynde; <MILESTONE N="25"/></L>
+<L><PB N="160" REF="19"/>
+And god I pray, that worshypeth alle mankynde,</L>
+<L>That lord aboue, that syteth in his empire,</L>
+<L>He send yow Ioy of alle that ye desyre.</L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="poem">
+<HEAD>VII Compleynt</HEAD>
+<LG>
+<L>O wofull hert p<HI REND="italic">ro</HI>found in gret duresse. <NOTE N="1" PLACE="foot">A recollection of Lydgate, Life of Our Lady, line 1, O thoughtful herte, plongyd in distresse.</NOTE></L>
+<L>Which canst not playn nor opyn thy dysese,</L>
+<L>But frete thy-selfe wyth care and heuynesse,</L>
+<L>Ay full of thought thy sorous to encresse,</L>
+<L>No wondir though thou be not wele at ese, <MILESTONE N="5"/></L>
+<L>When þou <NOTE N="2" PLACE="foot">MS. you.</NOTE> so far art out of her p<HI REND="italic">re</HI>sence,</L>
+<L>To whom thou must do s<HI REND="italic">er</HI>uyse and reu<HI REND="italic">er</HI>ence.</L>
+</LG>
+<LG>
+<L>It ys no bote to stryue as in this case,</L>
+<L>Though thou complayn, she may not here thy voys.</L>
+<L>Lat eu<HI REND="italic">er</HI>y seson haue hys tyme and spase <MILESTONE N="10"/></L>
+<L>As fortune wyll, ther is non othir chois.</L>
+<L>But yit among thou maist thyself reioys</L>
+<L>For at thys tyme, though thou sumwhat be greuyd,</L>
+<L>Here-afterward yit maistow be releuyd.</L>
+</LG>
+<LG>
+<L>And in as mych as thou hast put thy trist <MILESTONE N="15"/></L>
+<L>In her allonly which is thy maistresse,</L>
+<L>To gou<HI REND="italic">er</HI>ne the and reule ryght as her lyst</L>
+<L>Haue thou non doute but of her gentyllesse <MILESTONE N="321" UNIT="fol."/></L>
+<L>She wyll consyder thy grete heuynesse;</L>
+<L>And trysteth well that in ryght goodly wysse <MILESTONE N="20"/></L>
+<L>She wyll reward the after <NOTE N="3" PLACE="foot">MS. for.</NOTE> thy seruysse.</L>
+</LG>
+</DIV2>
+<DIV2 N="8" TYPE="poem">
+<HEAD>VIII Compleynt</HEAD>
+<LG>
+<L>O thou Fortune, whyche hast the gou<HI REND="italic">er</HI>naunce</L>
+<L>Of alle thyng<HI REND="italic">es</HI> kyndly mevyng to and fro,</L>
+<L>Thaym to demene aftyr thyn ordynaunce</L>
+<L>Ryght as thou lyst to grant hem wele or wo;</L>
+<L>Syth that thou lyst that I be on of tho <MILESTONE N="5"/></L>
+<L>That must be reulyd be thyn avysinesse,</L>
+<L>Why wyltow not wythstand myn heuynesse?</L>
+</LG>
+<LG>
+<PB N="161" REF="20"/>
+<L>Me thynk thou art vnkynd as in this case,</L>
+<L>To suffer me so long a while endure</L>
+<L>So gret a payn, wyth-out mersy or grase, <MILESTONE N="10"/></L>
+<L>Which greuyd me ryght sore, I the ensure;</L>
+<L>And syth thou knowst I am that creature</L>
+<L>That wold be fauoured be thy gentyllesse,</L>
+<L>Why wyltow not wythstonde myn heuynesse?</L>
+</LG>
+<LG>
+<L>What causyth the to be myn adu<HI REND="italic">er</HI>sarye? <MILESTONE N="15"/></L>
+<L>I haue not done that which shulde the dysplese <NOTE N="1" PLACE="foot">MS. which that shulle dysplese.</NOTE></L>
+<L>And yit thou art to myn entent contrarye,</L>
+<L>Whiche makyth now my sorous to encres;</L>
+<L>And syth þou wost myn hert ys not in ese,</L>
+<L>But eu<HI REND="italic">er</HI> in trouble wyth-out sykernesse, <MILESTONE N="20"/></L>
+<L>Why wyltow not wythstande myn heuynesse?</L>
+</LG>
+<LG>
+<L>To the allonly this compleynt I make,</L>
+<L>For thou art cause of myn adu<HI REND="italic">er</HI>syte, <MILESTONE N="321v." UNIT="fol."/></L>
+<L>And yit I wot wele thou mayst vndirtake</L>
+<L>For myn wel-fare, yf that thou lyst agre; <MILESTONE N="25"/></L>
+<L>I haue no cause to blame no wyght but the,</L>
+<L>For thys thou doost of very wylfulnesse,</L>
+<L>Why wyltow not wythstand myn heuynesse?</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="poem">
+<HEAD>IX Compleynt</HEAD>
+<LG>
+<L>O cruell daunger all myn adu<HI REND="italic">er</HI>sarye,</L>
+<L>Of whom alle louers aught sore to co<HI REND="italic">m</HI>playne,</L>
+<L>Sechyng <NOTE N="2" PLACE="foot">MS. Sechyn.</NOTE> the ways to thayr entent contrayre,</L>
+<L>Syche as be trew to haue hem in dysdayne,</L>
+<L>When they haue long enduryd in thaire payne <MILESTONE N="5"/></L>
+<L>Supposyng alway mercy to purchace,</L>
+<L>Though thy malyce doth pyte so restrayne</L>
+<L>That trew seruauntes for the may haue no g<HI REND="italic">ra</HI>ce.</L>
+</LG>
+<LG>
+<L>I say for me, ther ys no man on lyue</L>
+<L>That more hath cause to playn as in this case; <MILESTONE N="10"/></L>
+<L>But yt avayleth not wyth hym to stryue,</L>
+<L>For he is fest in many a goodly place,</L>
+<L><PB N="162" REF="21"/>
+And for bycause he stant so wele in grace,</L>
+<L>Hyt aught not the peple to dysplese;</L>
+<L>Though thay ryght sore be boundyn in his lase <MILESTONE N="15"/></L>
+<L>Yit <NOTE N="1" PLACE="foot">MS. It.</NOTE> caryth he but lytyll for thayr ese.</L>
+</LG>
+<LG>
+<L>But for alle thys, yit wold I counsayle the,</L>
+<L>Walke not to large In awnter thou be schent;</L>
+<L>And yf thou do, yt well non othir be</L>
+<L>But tryst fully, thou shall it sore repent. <MILESTONE N="20"/></L>
+<L>Yit were thou bettyr, aftir myn entent,</L>
+<L>To reule the so that alle thys myght be pesed,</L>
+<L>Vpon this to make apoyntement</L>
+<L>That fro hensforth alle p<HI REND="italic">ra</HI>tyse may be plesyd.</L>
+</LG>
+</DIV2>
+<DIV2 N="10" TYPE="poem">
+<HEAD>X Compleynt <MILESTONE N="322" UNIT="fol."/></HEAD>
+<LG>
+<L>Now must I nede part out of your p<HI REND="italic">re</HI>sence,</L>
+<L>Whiche causeth me to lyue in gret dystresse</L>
+<L>And I no socour haue, nor no defence</L>
+<L>For to wythstand myn inward heuynesse;</L>
+<L>Wherfor I pray you of your gentyllesse <MILESTONE N="5"/></L>
+<L>Haue mynde on hym that s<HI REND="italic">er</HI>ueth faythfully</L>
+<L>And for your s<HI REND="italic">er</HI>uaunt shape su<HI REND="italic">m</HI> remedy.</L>
+</LG>
+<LG>
+<L>Though I be far, yit haue in remembraunce</L>
+<L>My long s<HI REND="italic">er</HI>uyse abydyng euer in one</L>
+<L>Wyth-outyn chaunge or feyned cou<HI REND="italic">n</HI>tynaunce, <MILESTONE N="10"/></L>
+<L>Hauyng no comfort but of yow allone.</L>
+<L>To yow, my lady, thus I make my mone,</L>
+<L>As ye that have bene to me the best</L>
+<L>That euer I fonde as for myn hertys rest.</L>
+</LG>
+<LG>
+<L>Hold me escused, I haue non eloquence, <MILESTONE N="15"/></L>
+<L>Nor no konnyng, to wryte to my purpose,</L>
+<L>Made in gret hast to com to your p<HI REND="italic">re</HI>sence</L>
+<L>As sone as I thys wrytyng myght endose;</L>
+<L>Besechyng yow, that ye wyll kepe yt close,</L>
+<L>And lat this lytyll byll with yow abyde, <MILESTONE N="20"/></L>
+<L>For wykkyd tongys do harme on eu<HI REND="italic">er</HI>y syde.</L>
+</LG>
+<LG>
+<L>Go forth, balade, and I shall yive yow wage;</L>
+<L>To her that ys my lady and maistresse</L>
+<L><PB N="163" REF="22"/>
+Be not a-ferde, but sey her thy message,</L>
+<L>Me recomawndyng to her hye noblesse, <MILESTONE N="25"/></L>
+<L>Lettyng her wyt, in verey sothfastnesse,</L>
+<L>I wyl be truly hers in eu<HI REND="italic">er</HI>y place</L>
+<L>Besechyng her accept me to her grace.</L>
+</LG>
+</DIV2>
+<DIV2 N="11" TYPE="poem">
+<HEAD>XI Compleynt</HEAD>
+<LG>
+<L>What shuld me cause, or ony wyse to thynk,</L>
+<L>To haue plesaunce or Ioy in any kynde</L>
+<L>Or any coumfort in myn hert to synk, <MILESTONE N="322v." UNIT="fol."/></L>
+<L>When I so sore am vexyd in my mynde</L>
+<L>To se the causys which that men do fynde <MILESTONE N="5"/></L>
+<L>To hyndyr me, ayeins all man<HI REND="italic">er</HI> ryght,</L>
+<L>Which thynketh not but trouth to eu<HI REND="italic">er</HI>y wyght?</L>
+</LG>
+<LG>
+<L>But he that me vngoodly doth accuse</L>
+<L>So wolde criste, for hys hye pyte</L>
+<L>It were wele knawn what maners he dothe vse, <MILESTONE N="10"/></L>
+<L>That hys allonly myght a warnyng be</L>
+<L>To alle women which stand in lyberte</L>
+<L>That thay of answers may be well purueyde,</L>
+<L>Or ells by men they may be sone betrayede.</L>
+</LG>
+<LG>
+<L>And he that fully fettyth hys purpose <MILESTONE N="15"/></L>
+<L>To sklaundyr thaym which that unworthy be,</L>
+<L>It ys to deme, as I may wele suppose,</L>
+<L>No poynt of trouthe, but v<HI REND="italic">er</HI>ry sotelte</L>
+<L>To save hym harmles, how that eu<HI REND="italic">er</HI> yt be; <MILESTONE N="20"/></L>
+<L>But I that am not worthy to be blamyd,</L>
+<L>Me thynke yt wrong thus for to be dyffamed.</L>
+</LG>
+</DIV2>
+<DIV2 N="12" TYPE="poem">
+<HEAD>XII Compleynt</HEAD>
+<LG>
+<L>Walkyng allon, of wyt full desolat,</L>
+<L>In my sp[y]ryt<HI REND="italic">es</HI> turmentyd to and fro,</L>
+<L>And wyth my-self fallyng at gret debat</L>
+<L>That I nad power to wythstand my wo,</L>
+<L>Knowyng fully how fortune was my fo, <MILESTONE N="5"/></L>
+<L>And I must nede of verrey force endure</L>
+<L>The vttirmest of all myn aventure;</L>
+</LG>
+<LG>
+<L>And then anon I gan remembre me</L>
+<L><PB N="164" REF="23"/>
+How that I had bene hyndred here byfore,</L>
+<L>Wyth-outyn cause, by gret aduersyte— <MILESTONE N="10"/></L>
+<L>My troubly thought<HI REND="italic">es</HI> encresyng more and more, <MILESTONE N="323." UNIT="fol."/></L>
+<L>My wofull hert constreyned me so sore</L>
+<L>That I ne couthe, as by [the] way of kynde,</L>
+<L>Myn heuynesse avoyde out of my mynde.</L>
+</LG>
+<LG>
+<L>And when I saw ther was non othir way <MILESTONE N="15"/></L>
+<L>But alway styll my fortune to abyde,</L>
+<L>The god of loue anon then gan I pray,</L>
+<L>That he vochesafe to be apon my syde.</L>
+<L>Wher-eu<HI REND="italic">er</HI> I went, he for to be my gyde;</L>
+<L>And of that thought I sodenly abrayde, <MILESTONE N="20"/></L>
+<L>Wyth humble hert, to hym ryght thus I sayde:—</L>
+</LG>
+<LG>
+<L>"O god of love, whos noble excellence</L>
+<L>May be not be told by possybilyte,</L>
+<L>Lat thys compleynt com to thyn audience,</L>
+<L>And se that I su<HI REND="italic">m</HI>what rewarded be <MILESTONE N="25"/></L>
+<L>For my s<HI REND="italic">er</HI>uyse, though I vnworthy be,</L>
+<L>And syth I ment but trouth, as in thys case,</L>
+<L>Haue routh on me, and take me to thy grace."</L>
+</LG>
+</DIV2>
+<DIV2 N="13" TYPE="poem">
+<HEAD>XIII Supplicacion</HEAD>
+<LG>
+<L>Besechyth mekly in ryght lowly wyse,</L>
+<L>Now in hys nede your suget and s<HI REND="italic">er</HI>uaunt,</L>
+<L>That for as myche as he in your s<HI REND="italic">er</HI>uyse</L>
+<L>Hath of long tyme always (bene) attendaunt,</L>
+<L>Plese yt vnto your goodnes for to graunt <MILESTONE N="5"/></L>
+<L>The sayed besecher sumwhat of coumfort</L>
+<L>That he always may to your grace resort.</L>
+</LG>
+<LG>
+<L>Seyng also how that by many a way</L>
+<L>He hath full oft ben hyndyrd to yo<HI REND="italic">ur</HI> grace,</L>
+<L>By siche reportes, which I dar wele say, <MILESTONE N="10"/></L>
+<L>Can nought but hynder folk<HI REND="italic">es</HI> in euery place,</L>
+<L>And yf he be not gylty in thys case,</L>
+<L>Of which he is so wrongfully accusyd, <MILESTONE N="323v." UNIT="fol."/></L>
+<L>As reson wyll, lat hym be hold excusyd.</L>
+</LG>
+<LG>
+<L>And syth yt lyked to your hegh noblesse <MILESTONE N="15"/></L>
+<L>Hym to wythholde and take as for your man,</L>
+<L>Be ye to hym good lady and maistresse,</L>
+<L><PB N="165" REF="24"/>
+And he shall do sych s<HI REND="italic">er</HI>uyse as he can.</L>
+<L>Hym thynketh long syth he thys s<HI REND="italic">er</HI>uyse bygan;</L>
+<L>Wherfore do now a charytable dede, <MILESTONE N="20"/></L>
+<L>To hys entent this lytill byll to spede.</L>
+</LG>
+</DIV2>
+<DIV2 N="14" TYPE="poem">
+<HEAD>XIV Lettyr</HEAD>
+<LG>
+<L>Myn hertys Ioy, and all myn hole plesaunce,</L>
+<L>Whom that I serue, and shall do faythfully,</L>
+<L>Wyth trew entent and humble obs<HI REND="italic">er</HI>uaunce,</L>
+<L>You for to plese in that I can treuly,</L>
+<L>Besechyng yow thys lytell byll and I <MILESTONE N="5"/></L>
+<L>May hertly wyth symplesse and drede</L>
+<L>Be recomawndyd to your goodlyhede,</L>
+</LG>
+<LG>
+<L>And yf ye lyst haue knowlech of my qwert</L>
+<L>I am in hele, god thankyd mot he be,</L>
+<L>As of body, but treuly not in hert, <MILESTONE N="10"/></L>
+<L>Nor nought shal be to tyme I may you se;</L>
+<L>But thynke that I as treuly wyll be he</L>
+<L>That for your ese shall do my payn and myght</L>
+<L>As thogh that I were dayly in your syght.</L>
+</LG>
+<LG>
+<L>I wryte to yow no more, for lak of space; <MILESTONE N="15"/></L>
+<L>But I beseche the only trinite</L>
+<L>Yow kepe and saue be support of hys grace,</L>
+<L>And be your sheld from all adu<HI REND="italic">er</HI>syte.</L>
+<L>Go, lytill byll, and say, thou were wyth me</L>
+<L>Of verey trouth, as thou canst wele remembre, <MILESTONE N="20"/> <MILESTONE N="324" UNIT="fol."/></L>
+<L>At myn vpryst, the fyft day of decembre.</L>
+</LG>
+</DIV2>
+<DIV2 N="15" TYPE="poem">
+<HEAD>XV Compleynt</HEAD>
+<LG>
+<L>The tyme so long, the payn ay more and more,</L>
+<L>That in what wyse It may be long enduryd</L>
+<L>I can not se, It smertyth now so sore</L>
+<L>That for I drede lest yt wyll not be curyd,</L>
+<L>Thus I of help stand fully vnassuryd, <MILESTONE N="5"/></L>
+<L>And so dyscomfyt in my wytt<HI REND="italic">es</HI> alle</L>
+<L>That now I wot not what shal me byfalle.</L>
+</LG>
+<LG>
+<L>The hurt is sych, yt may not wele be sene,</L>
+<L>And eke yt standyth in so lytell space</L>
+<L><PB N="166" REF="25"/>
+That ther nys salue ymade of herbys grene <MILESTONE N="10"/></L>
+<L>That can remeve yt from the deedly place,</L>
+<L>But yf that she lyst of her benyng grace</L>
+<L>Sum medycyn of almes to me dele,</L>
+<L>For in her lythe myn welfar and myn hele.</L>
+</LG>
+<LG>
+<L>To whom I pray, the flour of womanhede, <MILESTONE N="15"/></L>
+<L>"Haue mynde on me, which lythe in paynes bounde.</L>
+<L>Be ye my leche now, in my grettest nede,</L>
+<L>And staunche the bledyng of my pytous wounde.</L>
+<L>Syth that your grace may make me hole and sounde,</L>
+<L>Let me not dye, syth I so long haue seryed, <MILESTONE N="20"/></L>
+<L>For god yt knowyth I neu<HI REND="italic">er</HI> so deserued."</L>
+</LG>
+</DIV2>
+<DIV2 N="16" TYPE="poem">
+<HEAD>XVI Compleynt</HEAD>
+<LG>
+<L>What shall I say, to whom shall I complayn?</L>
+<L>I wot not who wyll on my sorus rewe;</L>
+<L>And in no wyse I can not me restrayn</L>
+<L>But alle-way styll to be faythfull and trewe. <MILESTONE N="324v." UNIT="fol."/></L>
+<L>How-eu<HI REND="italic">er</HI> I spede, thys mater must I sewe, <MILESTONE N="5"/></L>
+<L>For to myn hert sum tydyngs must I bryng,</L>
+<L>And coumforthles in aventurys newe,</L>
+<L>Thus to endure yt is a wondir thyng.</L>
+</LG>
+<LG>
+<L>So cam I forthe in-to a goodly playn,</L>
+<L>Wherof myn hertys rest I had a vowe, <MILESTONE N="10"/></L>
+<L>Among othir fair peple, in sertayn,</L>
+<L>I knelyd down, as was my deuyr dewe,</L>
+<L>Hys wofull maters hooly to constrewe;</L>
+<L>And sodenly alle thay bygan to syng;</L>
+<L>Thay rought of me no more than of a rewe, <MILESTONE N="15"/></L>
+<L>Thus to endure yt is a wondir thyng.</L>
+</LG>
+<LG>
+<L>And vpon thys I t<HI REND="italic">ur</HI>nyd hom agayn,</L>
+<L>Vn-to myn hert wyth visage pale of hewe.</L>
+<L>"I trow," q<HI REND="italic">uo</HI>d he, "thy labour ys in vayn;"</L>
+<L>And I answerd that I non othir knewe.— <MILESTONE N="20"/></L>
+<L>"Lo, yit," quod he, "my colour shal be blewe,</L>
+<L>That folke may know of my stedfast lyuyng."</L>
+<L>But for to thynke how my sorous renewe,</L>
+<L>Thus to endure yt is a wondir thyng.</L>
+</LG>
+</DIV2>
+<DIV2 N="17" TYPE="poem">
+<PB N="167" REF="26"/>
+<HEAD>XVII Lettyr</HEAD>
+<LG>
+<L>My best belouyd lady and maistresse,</L>
+<L>To whom I must of verey ryght obey,</L>
+<L>I, wofull wyght, lyuyng in heuynesse,</L>
+<L>Wyth-out coumfort, I wot nat what to say;</L>
+<L>As oftyn tyme as thought ymagyn may, <MILESTONE N="5"/></L>
+<L>Wyth hert, body, my trouth and my s<HI REND="italic">er</HI>uyse,</L>
+<L>I recomawnde me in ryght lowly wyse.</L>
+</LG>
+<LG>
+<L>And yf it please yow to your gentyllesse</L>
+<L>To haue knowlech as of my pore estate, <MILESTONE N="10"/></L>
+<L>Myn hert ys seke, and lythe in gret dystresse, <MILESTONE N="325" UNIT="fol."/></L>
+<L>Wyth-outyn help of Ioy full desperate.</L>
+<L>I seke refuyt, it comyth alle to late.</L>
+<L>That I wold faynest haue, ther-of I fayle,</L>
+<L>And though I playn, yt is to non avayle.</L>
+</LG>
+<LG>
+<L>But your p<HI REND="italic">re</HI>sence wold put alle thys away <MILESTONE N="15"/></L>
+<L>And make me hole of alle myn gret greuaunce;</L>
+<L>Wher-for to god wyth all myn hert I pray</L>
+<L>To sende yt sone, and yit be hys plesaunce.</L>
+<L>For, trysteth treuly, in my remembraunce</L>
+<L>Is non so mych as only your parsone, <MILESTONE N="20"/></L>
+<L>That knowyth god, that made us eu<HI REND="italic">er</HI>ychone.</L>
+</LG>
+<LG>
+<L>I wryte no more, but god in trinite</L>
+<L>He be your guerdon of hys [hye] goodnesse,</L>
+<L>And be your sheld from all adu<HI REND="italic">er</HI>syte</L>
+<L>From mysfortune and from alle hevynesse, <MILESTONE N="25"/></L>
+<L>Long endure in Ioie and in gladnesse.</L>
+<L>Wrytyn in hast of verey trouth to say,</L>
+<L>At <NOTE N="*" PLACE="foot"><HI REND="italic">Space. In the margin some hand inserts</HI> the assu<HI REND="italic">m</HI>pc<HI REND="italic">i</HI>on.</NOTE> vpon our lady day.</L>
+</LG>
+</DIV2>
+<DIV2 N="18" TYPE="poem">
+<HEAD>XVIII Compleynt</HEAD>
+<LG>
+<L>Not far fro marche, in the ende of feueryere,</L>
+<L>Allon I went vpon myn own dysport</L>
+<L>By a ryuere, that ran full fayr and clere,</L>
+<L>Whiche in spirytys dyd me gret coumfort,</L>
+<L>And to my mynde anon ther gan resort <MILESTONE N="5"/></L>
+<L><PB N="168" REF="27"/>
+Ryght heuy thoughtys, which, in sothfastnesse,</L>
+<L>Cam vn-to me of ryght ȝret vnkyndnesse.</L>
+</LG>
+<LG>
+<L>And as I went, I gan remembre me</L>
+<L>How long I had contynude my s<HI REND="italic">er</HI>uyse</L>
+<L>Wyth carefull thought, and gret aduersyte, <MILESTONE N="10"/></L>
+<L>And guerdonless, lo, sych was myn offyse; <MILESTONE N="325v." UNIT="fol."/></L>
+<L>The world ys straunge, and now yt ys the guyse</L>
+<L>Who that doth best aqwyte hym in hys trouthe</L>
+<L>Shall sunnest be foryot, and that ys routhe.</L>
+</LG>
+<LG>
+<L>Thys dar I say, and faythfully assure, <MILESTONE N="15"/></L>
+<L>That wyllyngly I neuer dyd trespace;</L>
+<L>And in thys lyfe I may noght long endure</L>
+<L>Wyth-out coumfort or tryst of byttir grace.</L>
+<L>Pyte is lost,—this is a straunge case—</L>
+<L>And forthermore, sich ys myn happy chaunce, <MILESTONE N="20"/></L>
+<L>What-euer I do, yt ys gret dysplesaunce.</L>
+</LG>
+<LG>
+<L>Fortune vnstable, this is thyn affray,</L>
+<L>To cause debat, wher non was sene byfore,</L>
+<L>Thyn olde custum, I se, wyll neuer away,</L>
+<L>For of thy fauour ys but esy store. <MILESTONE N="25"/></L>
+<L>Thus went I forthe wyth many syghyng<HI REND="italic">es</HI> sore,</L>
+<L>And wyth my-self full fest I countirpletyd,</L>
+<L>That for my trouth I shuld be thus entretyd.</L>
+</LG>
+<LG>
+<L>But for alle thys, my wyll and myn entent</L>
+<L>Shall stylle abyde as it hath done alway; <MILESTONE N="30"/></L>
+<L>And how that eu<HI REND="italic">er</HI> I haue my s<HI REND="italic">er</HI>uyse spent,</L>
+<L>I wouchewelsafe I can no forthir say.</L>
+<L>But yit I hope to god, to see that day</L>
+<L>That thouth shall reynge, and (haue) the gou<HI REND="italic">er</HI>naunce,</L>
+<L>And hertys trew to lyue in thair plesaunce. <MILESTONE N="35"/></L>
+</LG>
+</DIV2>
+<DIV2 N="19" TYPE="poem">
+<HEAD>XIX How þe lou<HI REND="italic">er</HI> ys sett to serve the floure. <NOTE N="1" PLACE="foot">Title from old table of contents.</NOTE></HEAD>
+<LG>
+<L>Myn hert ys set, and all myn hole entent</L>
+<L>To serue this flour in my most humble wyse,</L>
+<L>As faythfully as can be thought or ment,</L>
+<L>Wyth-out feynyng or slouthe in my s<HI REND="italic">er</HI>uyse, <MILESTONE N="326" UNIT="fol."/></L>
+<L><PB N="169" REF="28"/>
+For wytt the wele, yt ys a paradyse <MILESTONE N="5"/></L>
+<L>To se this flour when yt bygyn to sprede,</L>
+<L>Wyth colours fressh ennewyd white and rede.</L>
+</LG>
+<LG>
+<L>And for the fayth I owe vn-to thys flour,</L>
+<L>I must of reson do my obseruaunce</L>
+<L>To flours all, both now and eu<HI REND="italic">ery</HI> our, <MILESTONE N="10"/></L>
+<L>Syth forune lyst that yt shuld be my chaunce,</L>
+<L>If that I couthe do s<HI REND="italic">er</HI>uyse of pleasaunce.</L>
+<L>Thus am I set and shall be tyll I sterue,</L>
+<L>And for o flour all othyr for to serue.</L>
+</LG>
+<LG>
+<L>So wolde god, that my symple connyng <MILESTONE N="15"/></L>
+<L>Ware sufficiaunt this goodly flour to prayse,</L>
+<L>For as to me ys non so ryche a thyng</L>
+<L>That able were this flour to countirpayse.</L>
+<L>O noble Chaucer, passyd ben thy dayse,</L>
+<L>Off poetrye ynamyd worthyest, <MILESTONE N="20"/></L>
+<L>And of makyng in alle othir days the best.</L>
+</LG>
+<LG>
+<L>Now thou art gon, thyn helpe I may not haue;</L>
+<L>Wherfor to god I pray, ryght specially,</L>
+<L>Syth thou art ded, and buryde in thy graue,</L>
+<L>That on thy sowle hym lyst to haue m<HI REND="italic">er</HI>cy. <MILESTONE N="25"/></L>
+<L>And to the monke of bury now speke I,—</L>
+<L>For thy connyng, ys syche, and eke thy grace,</L>
+<L>Aft<HI REND="italic">er</HI> Chaucer to occupye his place.</L>
+</LG>
+<LG>
+<L>Besechyng the my penne enlumyne <NOTE N="1" PLACE="foot">This is certainly a burlesque of Lydgate's style.</NOTE></L>
+<L>This flour to prayse, as I before haue ment, <MILESTONE N="30"/></L>
+<L>And of these lettyrs let thy colours shyne</L>
+<L>This byll to forthir aft<HI REND="italic">er</HI> myn entent;</L>
+<L>For glad am I that fortune lyst assent <MILESTONE N="326v." UNIT="fol."/></L>
+<L>So to ordeyn that yt shuld be myn vre</L>
+<L>The flours to chese as by myn aventure. <MILESTONE N="35"/></L>
+</LG>
+<LG>
+<L>Wher-as ye say, that loue ys but dotage,</L>
+<L>Of verey reson that may not be trew;</L>
+<L>For eu<HI REND="italic">er</HI>y man that hath a good corage</L>
+<L>Must louer be,—thys wold I that ye knew.</L>
+<L>Who louyth wele, all vertu will hym sew; <NOTE N="2" PLACE="foot">This is certainly a parody on the moral poem by Lydgate, with the refrain, "Who sueth vertu, vertu he shall leere." (Halliwell, <HI REND="italic">Minor Poems of Lydgate,</HI> 1842, pp. 216-220.)</NOTE> <MILESTONE N="40"/></L>
+<L><PB N="170" REF="29"/>
+Wherfor I rede, and counsail yow expresse,</L>
+<L>As for thys mater, take non heuynesse.</L>
+</LG>
+<LG>
+<L>These clerkys wyse, ye say were brought full lowe,</L>
+<L>And mad full tame, for alle thair sotelte;—</L>
+<L>Now am I glad, yt shall ryght wele be know <MILESTONE N="45"/></L>
+<L>That loue ys of so grete autoryte,</L>
+<L>Wherfor I lat yow wyt, as semeth me,</L>
+<L>It is your part in euery man<HI REND="italic">er</HI> wyse</L>
+<L>Of trew louers to forther the seruyse.</L>
+</LG>
+<LG>
+<L>And of women ye say ryght as ye lyst, <MILESTONE N="50"/></L>
+<L>That trouth in hem may but a while endure, <NOTE N="1" PLACE="foot">Cf. Lydgate's poem, <HI REND="italic">They that nowhile endure.</HI></NOTE></L>
+<L>And counsail eke that men shuld hem not tryst,</L>
+<L>And how they be vnstedfast of nature.</L>
+<L>What causeth this? for euery creature</L>
+<L>That ys gylty, and knowyth thaym-self coulpable <MILESTONE N="55"/></L>
+<L>Demyth alle other [to] thair case semblable.</L>
+</LG>
+<LG>
+<L>And be your bokys I put case that ye knewe</L>
+<L>Mych of this mater whiche that ye haue myned,</L>
+<L>Yit god defende, that eu<HI REND="italic">er</HI>ythyng were trew</L>
+<L>That clerkes wryte, for then myght thys be preuyd, <MILESTONE N="60"/></L>
+<L>That ye haue sayd which wyll not be byleuyd,</L>
+<L>I late yow wyt, for trysteth verely,</L>
+<L>In your conseyt yt is an eresy.</L>
+</LG>
+<LG>
+<L>A, fye, for schame, O thou envyous man: <MILESTONE N="327" UNIT="fol."/></L>
+<L>Thynk whens thou <NOTE N="2" PLACE="foot">MS. thom.</NOTE> came, and whider to repayr <NOTE N="3" PLACE="foot">MS. rapayr.</NOTE> <MILESTONE N="65"/></L>
+<L>Hastow not sayd eke, that these women can</L>
+<L>Laugh and loue nat? <NOTE N="4" PLACE="foot">Cf. <HI REND="italic">Oxford Chaucer,</HI> vol. VII, no. XIV, l. 19; "For they can laugh and love nat."</NOTE> P<HI REND="italic">ar</HI>de, yt it not fair.</L>
+<L>Thy corupt speche enfectyth alle the air;</L>
+<L>Knoke on thy brest, repent [the] now and eu<HI REND="italic">er</HI></L>
+<L>Ayen ther-wyth, and say, thou saydyst yt neu<HI REND="italic">er.</HI> <MILESTONE N="70"/></L>
+</LG>
+<LG>
+<L>Thynk fully this, and hold yt for no fable,</L>
+<L>That fayth in women hath his dwellyng-place;</L>
+<L>For out of her cam nought that was vnable,</L>
+<L>Saf man, that can not well say in no place.</L>
+<L><PB N="171" REF="30"/>
+O thou vnhappy man, go hyde thy face; <MILESTONE N="75"/></L>
+<L>The court ys set, thy falshed is [out] tryed;</L>
+<L>Wyth-draw, I rede, for now thou art aspyed.</L>
+</LG>
+<LG>
+<L>If thou be wyse, yit do this after me;</L>
+<L>Be not to hasty, com not in presence,</L>
+<L>Lat thyn attourney sew and speke for the, <MILESTONE N="80"/></L>
+<L>Loke yf he can escuse thy necglygence;</L>
+<L>And forthermore, yit must thou recompence</L>
+<L>For alle that eu<HI REND="italic">er</HI> thou hast sayde byfore;</L>
+<L>Haue mynde of this, for now I wryte no more.</L>
+</LG>
+</DIV2>
+<DIV2 N="20" TYPE="poem">
+<HEAD>XX Parlement</HEAD>
+<LG>
+<L>O ye louers, which in gret heuynes</L>
+<L>Haue led your lyfe, by many a straunge way,</L>
+<L>Beth of good chere, and leue youre pensyfnesse,</L>
+<L>For now the god of loue, in gret aray,</L>
+<L>Of feueryere the two and twenty day <MILESTONE N="5"/></L>
+<L>Be good avyse bygan his parlement</L>
+<L>At Secret Pense, by thapoyntement;</L>
+</LG>
+<LG>
+<L>Wher wyt ye wele ys ryght an huge prese <MILESTONE N="327v." UNIT="fol."/></L>
+<L>Of one and other sowters many on;</L>
+<L>And ther Cupyde sate <NOTE N="1" PLACE="foot">MS. seyd.</NOTE> hye vpon the deese <MILESTONE N="10"/></L>
+<L>As lord and reuler of hem eu<HI REND="italic">er</HI>ychon;</L>
+<L>And whan that they were setyd <NOTE N="2" PLACE="foot">MS. sene.</NOTE> on and on,</L>
+<L>He, full avysed by hys prouydence,</L>
+<L>Made crye anon in opyn audience</L>
+</LG>
+<LG>
+<L>That no man shuld, of hy estate <NOTE N="3" PLACE="foot">MS. hye state.</NOTE> ne of lowe, <MILESTONE N="15"/></L>
+<L>What euer he be, of payn of ponyschement,</L>
+<L>Apere in court, but yf that he be know</L>
+<L>A man ryght able for the parlement;</L>
+<L>Also, he chargyth by comaundement</L>
+<L>That nought be sayd, but yf yt be preuyd, <MILESTONE N="20"/></L>
+<L>That no man playn, but yf he fynd hym greuyd.</L>
+</LG>
+<LG>
+<L>And what that eu<HI REND="italic">er</HI> fall by aventure,</L>
+<L>To loue treuly ys hys comaundement,</L>
+<L><PB N="172" REF="31"/>
+In wele or wo hys seruyse to endure,</L>
+<L>And take in gre all that fortune hath sent; <MILESTONE N="25"/></L>
+<L>And though yt fall sumwhat to his entent,</L>
+<L>As be hys labour and hys trew s<HI REND="italic">er</HI>uyse,</L>
+<L>Loke he be non avaunter in no wyse.</L>
+</LG>
+<LG>
+<L>And eu<HI REND="italic">er</HI>y man comaundyd by and by</L>
+<L>To make his byll as he can best deuyse, <MILESTONE N="30"/></L>
+<L>And who that speketh, speke avysely,</L>
+<L>That to the court yt be no pregedyse.</L>
+<L>Also that eu<HI REND="italic">er</HI>y man in faythfull wyse</L>
+<L>Be warnid thus, that no man hinder othir,</L>
+<L>But loue hys felowe as he wer his brothir. <MILESTONE N="35"/></L>
+</LG>
+<LG>
+<L>If tweyn loue one, this thapoynt[e]ment, <MILESTONE N="328" UNIT="fol."/></L>
+<L>Loke who can best deserue to stande in grace,</L>
+<L>But hyndre not to forther his entent,</L>
+<L>In avnter thay be bothe put out of place,—</L>
+<L>For syche a thyng thay may lyghtly purchace, <MILESTONE N="40"/></L>
+<L>When on ys wrothe, to say that ys contrarye;</L>
+<L>Malebouche in court ys a gret adu<HI REND="italic">er</HI>sayre.</L>
+</LG>
+<LG>
+<L>When thys was do, thay bysyd hem full fast</L>
+<L>Forthe <NOTE N="1" PLACE="foot">MS. for the.</NOTE> to procede in othir maters grete;</L>
+<L>And ther thay founde, how that of tymes past <MILESTONE N="45"/></L>
+<L>Myche peple vsyd loue to countirplete</L>
+<L>Whiche lyeth not in thair powers for to trete,</L>
+<L>But yf the god lyst for to be so large</L>
+<L>To graunt his p<HI REND="italic">ar</HI>don as for thair dyscharge. <NOTE N="2" PLACE="foot">This certainly refers directly to Poem XIX, and to Lydgate in particular, who was a monk, and therefore had no right to attack Love.</NOTE></L>
+</LG>
+<LG>
+<L>And vpon this, thay present vp thair byllys <MILESTONE N="50"/></L>
+<L>Vpon her knes, wyth facys pale of hewe,</L>
+<L>Conpleynyng sore for many dyu<HI REND="italic">er</HI>se skyllys:</L>
+<L>Su<HI REND="italic">m</HI> sayed playnly, that fortune was vntrew,</L>
+<L>And sum bygan a long p<HI REND="italic">ro</HI>ces to sewe</L>
+<L>Of seuen yere enduryng in seruyse <MILESTONE N="55"/></L>
+<L>Wyth-out coumfort in any maner wyse.</L>
+</LG>
+<LG>
+<L>Sum sayd that thay were hyndyrd causeles,</L>
+<L>And how thay couthe not fynde no remedy;</L>
+<L><PB N="173" REF="32"/>
+Sum sayd absence had causyd thair dystres,</L>
+<L>Thus were thay hurt, god wot, full pittuouslye; <MILESTONE N="60"/></L>
+<L>And wyth o woys thay sayd all openlye,</L>
+<L>Bothe one and othir, wyth a rewful mon,</L>
+<L>"Of Daunger we compleyn vs euerychon."</L>
+</LG>
+<LG>
+<L>And forth-wyth-alle thay go, by one assent,</L>
+<L>Vnto the god and prayd hym faythfully, <MILESTONE N="65"/> <MILESTONE N="328v." UNIT="fol."/></L>
+<L>To yive hem leue to vttyr thair entent</L>
+<L>Of that at thay desyr but ryghtwysly;</L>
+<L>Whereof the god, avysed thurug(h)ly</L>
+<L>Of thair compleyntys and thair sores olde,</L>
+<L>Yaf hem lycence to say what at thay wolde. <MILESTONE N="70"/></L>
+</LG>
+<LG>
+<L>Then he that was the speker for hem all</L>
+<L>Bygan to knele and sayde all openly,</L>
+<L>"Lord, and yt lyke to your estat royall,</L>
+<L>This we desyr, and pray yow hert(i)ly,</L>
+<L>To voyd daunger out of her coumpany <MILESTONE N="75"/></L>
+<L>In sich a wyse that he be not so bolde</L>
+<L>To come ayen to court, though that he wold.</L>
+</LG>
+<LG>
+<L>"Lo, thys ys alle theffect of <NOTE N="1" PLACE="foot">MS. or.</NOTE> our entent</L>
+<L>Wherto we pray yow to be fauorable,</L>
+<L>Syth we be alle at your comaundement; <MILESTONE N="80"/></L>
+<L>Of verey trouth be now sumwhat tretable,</L>
+<L>And we shall graunt yow sich a good notable</L>
+<L>Frely to pay, and in no wyse rebate,</L>
+<L>For seuen yere to maynten your estat."</L>
+</LG>
+<LG>
+<L>And herevpon the god, full wele avysed, <MILESTONE N="85"/></L>
+<L>Thought <NOTE N="2" PLACE="foot">MS. though.</NOTE> in his hert, as touchyng thair request</L>
+<L>It myght be this man were so dyspysed</L>
+<L>Wyth-outen cause, for he had made byhest</L>
+<L>To lusty Venus which he louyd best,</L>
+<L>That for no suyt to fauour thair entent, <MILESTONE N="90"/></L>
+<L>He should not voyde but yf she lyst assent.</L>
+</LG>
+<LG>
+<L>And forth-wyth-alle he yaf hem this answere,</L>
+<L>Sayng ryght thus:—"As touchyng your entent,</L>
+<L>I wyll that ye haue knowlech, alle in fere, <MILESTONE N="329" UNIT="fol."/></L>
+<L>Thys matere axyth gret avysement, <MILESTONE N="95"/></L>
+<L><PB N="174" REF="33"/>
+And to yive a sodeyn Iugement</L>
+<L>Off that may touche my worship or my fame,</L>
+<L>Trewly, that were but sklaundyr to my name.</L>
+</LG>
+<LG>
+<L>"But trysteth wele, I wyll not reule me so;</L>
+<L>Wher-fore I wyll, be myn apoyntement <MILESTONE N="100"/></L>
+<L>For thys mater and thir causys mo,</L>
+<L>To Vivre-en-Ioye aiorn my p<HI REND="italic">ar</HI>lement,</L>
+<L>And alle my peple, to be ther-at p<HI REND="italic">re</HI>sent,</L>
+<L>Off Apryle the nyne and twenty day,</L>
+<L>To make an ende wyth-outen more delay." <MILESTONE N="105"/></L>
+</LG>
+<LG>
+<L>Then was yt cryde eche man to kepe hys day,</L>
+<L>Off payn of all his seruyse forfettyng,</L>
+<L>And thay that felt hem hurt be any way</L>
+<L>There to apere, apeyn of doublyng,</L>
+<L>Then partyd they, and made no tary(e)ng; <MILESTONE N="110"/></L>
+<L>Sum glad in hert, and sum in heuy case,</L>
+<L>Eche creature resortyd to his place.</L>
+</LG>
+<LG>
+<HEAD>Lenvoye</HEAD>
+<L>O ye peple, that louers yow pretende,</L>
+<L>Prayeth hertly to Venus the goddesse,</L>
+<L>Off your matters sych tydyng<HI REND="italic">es</HI> yow to sende <MILESTONE N="115"/></L>
+<L>That fro hens-forth we take non hevynesse.</L>
+</LG>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="collection of poems">
+<HEAD>C. ENGLISH POEMS IN FRENCH MSS. OF ORLÉANS</HEAD>
+<HEADNOTE><P>(From the Grenoble MS, printed by Champollion-Figeac, <HI REND="italic">loc. cit.,</HI> pp. 265-270).</P></HEADNOTE>
+<DIV2 N="1" TYPE="poem">
+<HEAD>I</HEAD>
+<LG>
+<L>Ayens the comyng of may</L>
+<L>That is full of lustynes</L>
+<L>Let us leve all hevynes,</L>
+<L>As fer as we can or may.</L>
+</LG>
+<LG>
+<L>Now is tym of myrth and play;</L>
+<L>Wynter weth hys ydylnes</L>
+<L>Is discomfet, as y ges,</L>
+<L>And redy to fle away,</L>
+<L>Ayens the comyng of may.</L>
+</LG>
+<LG>
+<L>Wherefore, ladys, I yow pray</L>
+<L>That ye take in yow gladnes,</L>
+<L><PB N="175" REF="34"/>
+And do al your besynes</L>
+<L>To be mery nyght and day</L>
+<L>Ayens the comyng of may.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<HEAD>II</HEAD>
+<LG>
+<L>Go forth, myn hert, wyth my lady,</L>
+<L>Loke that ye spar no besynes</L>
+<L>To serue hyr wyth seche lowlynes</L>
+<L>That ye get hyr grace and mercy.</L>
+</LG>
+<LG>
+<L>Pray hys oftymes pryvely</L>
+<L>That sche kepe <NOTE N="1" PLACE="foot">MS. guippe.</NOTE> trewly hyr promes,</L>
+<L>Go forth, myn hert, wyth my lady.</L>
+</LG>
+<LG>
+<L>I must, <NOTE N="2" PLACE="foot">MS. most.</NOTE> as a hertles body,</L>
+<L>Abyde alone in hevines,</L>
+<L>And ye schal dwel <NOTE N="3" PLACE="foot">MS. dowel.</NOTE> with your maistres</L>
+<L>In plesans glad and mery,</L>
+<L>Go forth, myn hert, wyth my lady.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="poem">
+<HEAD>III</HEAD>
+<LG>
+<L>For the reward of half a yere</L>
+<L>Two trewe louys upon the brest,</L>
+<L>Hyt ys ynow to brynge yn rest</L>
+<L>A hert that love hold in dangere.</L>
+</LG>
+<LG>
+<L>Whene he hath be serve w(h)at strangere</L>
+<L>To hym ys holyday and fest.</L>
+<L>For the reward of half a yere, etc.</L>
+</LG>
+<LG>
+<L>Though <NOTE N="4" PLACE="foot">MS. Thousches <HI REND="italic">sic.</HI></NOTE> hyt be a juel ful dere</L>
+<L>And a charme for the tempest,</L>
+<L>Yet y conseille hym to be prest,</L>
+<L>And fore ayens the Warderere</L>
+<L>For the reward of half a yere, etc.</L>
+</LG>
+</DIV2>
+<DIV2 N="4" TYPE="poem">
+<HEAD>IV</HEAD>
+<LG>
+<L>Alas, mercy, wher shal myn hert yow fynd?</L>
+<L>Never had he wyth yow ful aqwaintans.</L>
+<L><PB N="176" REF="35"/>
+Now com to hym, and put of hys grevans,</L>
+<L>Ellys ye be unto yowr frend unkynd.</L>
+</LG>
+<LG>
+<L>Mercy, he hath yow ewer <NOTE N="1" PLACE="foot">MS. ewer you.</NOTE> in his mynd,</L>
+<L>Ons let hym <NOTE N="2" PLACE="foot">MS. have.</NOTE> have sum confort of plesans.</L>
+<L>Alas, mercy, wher shal myn hert yow fynd?</L>
+</LG>
+<LG>
+<L>Let hym not deye, but mak at ons an ende <NOTE N="3" PLACE="foot">MS. a vende.</NOTE></L>
+<L>In al hys woo an Right hevy penans.</L>
+<L>Noght is the help that whyl hym avans;</L>
+<L>Slouth hys to me and ever com behynde.</L>
+<L>Alas, mercy, wher shal myn hert yow find?</L>
+</LG>
+</DIV2>
+<DIV2 N="5" TYPE="poem">
+<HEAD>V</HEAD>
+<LG>
+<L>Ye shal be payd <NOTE N="4" PLACE="foot">MS. puyd.</NOTE> after your whylfulnes,</L>
+<L>And blame nothyng but your mysgouvernans,</L>
+<L>For when goodlove wold fayn had yow avans <NOTE N="5" PLACE="foot">MS. nuans.</NOTE></L>
+<L>Then went ye bak, wyth wyly fraichednes.</L>
+</LG>
+<LG>
+<L>I knew anon your sotyl wylenes,</L>
+<L>And your daunger, that was mad for a scans.</L>
+<L>Ye shal be payd <NOTE N="6" PLACE="foot">MS. pauyd.</NOTE> after your whylfulnes.</L>
+</LG>
+<LG>
+<L>Ye might have been my lady and maistres</L>
+<L>Forever mor withoutyn <NOTE N="7" PLACE="foot">MS. with on thym.</NOTE> varians,</L>
+<L>But now my hert, yn England or in France</L>
+<L>Ys <NOTE N="8" PLACE="foot">MS. Ye.</NOTE> go, to seke other nyw besynes.</L>
+<L>Ye shal be payd <NOTE N="9" PLACE="foot">MS. puyd.</NOTE> after your whylfulnes.</L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="poem">
+<HEAD>VI</HEAD>
+<LG>
+<L>So fayre, so fresche, so goodely on-to se,</L>
+<L>So wele dymeynet in al your governans,</L>
+<L>That to my hert it is a grete plesans</L>
+<L>Of your godenes, when y remembre me.</L>
+</LG>
+<LG>
+<L>An trustyth fully, wher that ever y be,</L>
+<L>Y wylle abyde undyr your obeyssance.</L>
+<L>So fayre, so fresche, so goodely on-to se.</L>
+</LG>
+<LG>
+<PB N="177" REF="36"/>
+<L>For yn my thought ther is nomo but ye,</L>
+<L>Whom y have servid wythout repentance,</L>
+<L>Wher-fore y pray yow, sethe to my grevance</L>
+<L>And put asyde all myn adversite.</L>
+<L>So fayre, so fresche, so goodely on-to se.</L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="poem">
+<HEAD>VII</HEAD>
+<LG>
+<L>O thou, fortune, which hast the gouvernaunce, <NOTE N="1" PLACE="foot">See the Fairfax group, no. VIII, above.</NOTE></L>
+<L>. . . . . . . . . . . . .</L>
+</LG>
+</DIV2>
+<DIV2 N="8" TYPE="poem">
+<HEAD>VIII</HEAD>
+<LG>
+<L>Myn hert hath send glad hop(e) in hys <NOTE N="1" PLACE="foot">MS. speding.</NOTE> mesage</L>
+<L>Un-to confort, plesans, joye and spede</L>
+<L>I pray to god, that grace may hym lede <NOTE N="2" PLACE="foot">MS. leeding.</NOTE></L>
+<L>Wythout lettyng or daunger of passage.</L>
+</LG>
+<LG>
+<L>In cryst to fynd <NOTE N="3" PLACE="foot">MS. fynding.</NOTE> profit and avauntage,</L>
+<L>Wyth <NOTE N="4" PLACE="foot">MS. Wych.</NOTE>-yn short tym, the help of (al) hys nede. <NOTE N="5" PLACE="foot">MS. neding.</NOTE></L>
+<L>Myn hert hath send glad hop in his message</L>
+<L>Un-to comfort, plesans, joye and spede.</L>
+</LG>
+<LG>
+<L>Till þat he come, myn hert in ermytage</L>
+<L>Of thoght shal dwel <NOTE N="6" PLACE="foot">MS. dweling.</NOTE> alone, God gyve him mede;</L>
+<L>And of wysshyng <NOTE N="7" PLACE="foot">MS. wysshyngl.</NOTE> offtym <NOTE N="8" PLACE="foot">MS. of tym.</NOTE> y <NOTE N="9" PLACE="foot">MS. ys.</NOTE> shal hym fede,</L>
+<L>Glad hope folywing, and spede <NOTE N="10" PLACE="foot">MS. speding.</NOTE> well thys viage.</L>
+<L>Myn hert hath send glad hope in his message.</L>
+</LG>
+</DIV2>
+<DIV2 N="9" TYPE="poem">
+<HEAD>IX</HEAD>
+<LG>
+<L>Whan shal thow come, glad hope, from your vyage?</L>
+<L>Thow hast y-taryed, <NOTE N="11" PLACE="foot">MS. carydge, and so below, ll. 8, 14.</NOTE> to long many a day,</L>
+<L>For all confort <NOTE N="12" PLACE="foot">MS. confordinge.</NOTE> is put fro me <NOTE N="13" PLACE="foot">MS. my.</NOTE> away</L>
+<L>Tyll that I her tythinges of your message.</L>
+</LG>
+<LG>
+<PB N="178" REF="37"/>
+<L>Wher that hyt be <NOTE N="1" PLACE="foot">MS. Hat that hade be.</NOTE> lettyng of thyn uassage</L>
+<L>Or tarying, <NOTE N="2" PLACE="foot">MS, cariynger.</NOTE> alas, I can not say.</L>
+<L>When shal thow come, glad hope, from (thy vyage),</L>
+<L>Thow hast y-taryed, to long many a day.</L>
+</LG>
+<LG>
+<L>Who <NOTE N="3" PLACE="foot">MS. How.</NOTE> knows fulwol þat I have gret damage</L>
+<L>In abydyng <NOTE N="4" PLACE="foot">MS. abydynger.</NOTE> of the, that is no nay. <NOTE N="5" PLACE="foot">MS. way.</NOTE></L>
+<L>And tho fy, syng <NOTE N="6" PLACE="foot">MS. syngling.</NOTE> and <NOTE N="7" PLACE="foot">MS. et.</NOTE> dauns, or lagh and play;</L>
+<L>In blake <NOTE N="8" PLACE="foot">MS. clake.</NOTE> mournyng is clothyd my corage.</L>
+<L>When shal thow come, glad hope from (thy vyage),</L>
+<L>Thow hast y-taryed, to long many a day.</L>
+</LG>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="collection of poems">
+<HEAD>D. FROM MS. ROYAL 16 F. 11</HEAD>
+<HEADNOTE><P>Champollion Figeac, pp. 455-456</P></HEADNOTE>
+<DIV2 N="10" TYPE="poem">
+<HEAD>X</HEAD>
+<LG>
+<L>My hertly love is in your govenauns <NOTE N="9" PLACE="foot">MS. et.</NOTE></L>
+<L>And ever shal, whill that I lyven may.</L>
+<L>I pray to god, [that] I may see that day</L>
+<L>That we be knyt with thouthfull alyauns.</L>
+<L>Ye schal not fynd feynyng or vareauns,</L>
+<L>As in my part, that wyl I trewly say,</L>
+<L>My hertly love is in your gouernauns.</L>
+<L>. . . . . . . . . . . .</L>
+</LG>
+</DIV2>
+<DIV2 N="11" TYPE="poem">
+<HEAD>XI</HEAD>
+<LG>
+<L>Ne were my trewe innocent hert</L>
+<L>How ye hold with her aliauns</L>
+<L>That sometyme with wordes of plesauns</L>
+<L>Desceyved you under covert.</L>
+</LG>
+<LG>
+<L>Thynke, how the stroke of love cane <NOTE N="10" PLACE="foot">MS. come.</NOTE> smert</L>
+<L>Without warnyng or deffiauns,</L>
+<L>Ne were my trewe innocent hert.</L>
+</LG>
+<LG>
+<PB N="179" REF="38"/>
+<L>And ye shall pryvely or appert</L>
+<L>See her by me in loves dauns,</L>
+<L>Wyth her faire femenyne contenauns,</L>
+<L>Ye shall never fro her astert,</L>
+<L>Ne were my trewe innocent hert.</L>
+</LG>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="collection of poems">
+<HEAD>E. POEMS IN SUFFOLK'S MANNER</HEAD>
+<DIV2 N="1" TYPE="poem">
+<HEAD>I Balade coulourd and Reuersid</HEAD>
+<HEADNOTE><P>(MS. Arundel 26, fol. 32 v.)</P></HEADNOTE>
+<LG>
+<L>Honour and beaute, vertue and gentilnesse,</L>
+<L>Noblesse and bounte of grete valure,</L>
+<L>ffygure playsant w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> coulour and fresshenesse,</L>
+<L>Witnesse prudent, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> co<HI REND="italic">n</HI>nyng and norture,</L>
+<L>Humblesse w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> contynuance demure,</L>
+<L>Plente of this have ye, lo, souuerayn,</L>
+<L>Expresse soo youe fourmyd hath nature,</L>
+<L>Pyte savyng, ye want no thyng certayne.</L>
+</LG>
+<LG>
+<L>Creature noon hath more goodlynesse</L>
+<L>Goodenesse grete, so wred yow hath vre;</L>
+<L>ffeture and shap of faire lucresse,</L>
+<L>Mekenesse of Tesbe, as voide of all rigure,</L>
+<L>ffrendelynesse of mede, port of geynure,</L>
+<L>Pennolope of hestis, true and playne,</L>
+<L>Alcesse of Bounte lo, thus ar ye sure,</L>
+<L>Pite savyng ye want no thyng certayn.</L>
+</LG>
+<LG>
+<L>Endure me doth, lo, payne and hevynesse,</L>
+<L>Distresse and thought w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> trouble and Langour,</L>
+<L>Vusure stondyng of socour and Relesse;</L>
+<L>Maistres and lady, trustyng you of cure,</L>
+<L>Witnesse of God, I gre myn aduenture,</L>
+<L>Parde is fall<HI REND="italic">e</HI> me what joy or payne.</L>
+<L>Gladnesse or woo, thus I you ensure,</L>
+<L>Pytte savyng ye want no thyng certeyn.</L>
+</LG>
+<LG>
+<HEAD>[Lenvoye].</HEAD>
+<L>Prynce[sse] I you beseche this rude meture</L>
+<L>Ye not disdayne, beholde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> eyen <NOTE N="1" PLACE="foot">MS. theym.</NOTE> tweyn,</L>
+<L><PB N="180" REF="39"/>
+Witnesse though <NOTE N="1" PLACE="foot">MS. thowe.</NOTE> I doo in this scripture,</L>
+<L>Pite Savyng ye want no thyng certeyne. <NOTE N="2" PLACE="foot">Note initial and internal ryme in this poem.</NOTE></L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<HEAD>II Ballade from MS. Cam. Univ. Lib. Ff. 1. 6, fol. 178, probably by the same author.</HEAD>
+<LG>
+<L>A mercy, fortune, haue pitee on me,</L>
+<L>And thynke that þou hast done gretely amysse,</L>
+<L>To parte asondre them whiche ought to be</L>
+<L>Alway in on, why hast þou doo thus?</L>
+<L>Haue I offendyd the, I? nay, ywysse; <MILESTONE N="5"/></L>
+<L>Then torne thy whele, and be my frende agayn,</L>
+<L>And sende me Ioy wher<HI REND="italic">e</HI> I am nowe in payn.</L>
+</LG>
+<LG>
+<L>And thynke, what sorowe is the departyng</L>
+<L>Of ij trewe hert<HI REND="italic">es</HI> louyng feithfully,</L>
+<L>ffor partyng is the most soroughfull thynge, <MILESTONE N="10"/></L>
+<L>To myn entent, that eu<HI REND="italic">er</HI> yet knewe I;</L>
+<L>Therfor<HI REND="italic">e</HI> I pray to the, Right hertely,</L>
+<L>To turne thy whele &amp; be my frende agayn,</L>
+<L>And sende me Ioy where I am nowe in payn.</L>
+</LG>
+<LG>
+<L>ffor tyll we mete, I dare wel say for trouth <MILESTONE N="15"/></L>
+<L>That I shall neu<HI REND="italic">er</HI> be in ease of herte,</L>
+<L>Wherfor I pray you to haue of me su<HI REND="italic">m</HI>me Routh</L>
+<L>And release me of all my paynes smerte.</L>
+<L>Nowe sith þou woste hit is nat my deserte,</L>
+<L>Then torne thy whele And be my frynde agayn,</L>
+<L>And sende me Ioy where I am nowe in payn.</L>
+</LG>
+</DIV2>
+<CLOSER><SIGNED>HENRY NOBLE MACCRACKEN.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,2274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet TYPE="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>2023-02-20</DATE><RESPSTMT><NAME>pfs</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added basic markup to raw text obtained from OTA. Compared file to print thesis. Added line numbers and folio references in MILESTONE tags. Added chapter divisions. Converted character kludges to character entities, accounting for context (e.g. @@ initially = THORN; elsewhere = thorn-thorn). Preserved linebreaks since they matched those in the print and were the basis of the reference system. Jettisoned semantic tagging (+...+ marked named entities; %..% marked expanded abbreviations). Turned tags that indicated underlined quotations into Q tags and expanded their coverage slightly to include adjacent punctuation.</ITEM></CHANGE></REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME90033">
+<STC T="M">OTA0033</STC>
+<BIBNO T="mec">OTA0033</BIBNO>
+<VID>CME90033</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<HEAD>THE TEXT OF THE MIDDLE ENGLISH LENT AND PALM SUNDAY SERMONS</HEAD>
+<HEAD TYPE="sub">MED stencil c1425 *Matris Filius Serm.Cycle (Hrl 2276).</HEAD>
+<OPENER><BYLINE>Oxford Text Archive copy of the edition by Christine Thèrése Carpenter, transcribed from seven Lenten sermons in BL Harleian MS 2276.</BYLINE>
+<DATELINE><DATE>February, 2023</DATE></DATELINE></OPENER>
+<ARGUMENT>
+<P>This MEC text began life as an OTA-distributed file (OTA 0033) closely associated with the version appearing in print as C.T. Carpenter, <HI>An Edition of the Lent and Palm Sunday Sermons Contained in the Fifteenth-century Translation of the Late Twelfth-century Latin 'Filius Matris' Cycle</HI>, PhD dissertation, University of London (1984) (1:230-359) since its line breaks align with those of the print, though without apparatus, folio references, page references, introduction, Latin glosses and side notes, or commentary. Since the line-based reference system depends on arbitrary line breaks, those have been preserved with P and LB tags. Text in square brackets has been left as such; markup indicating named entities has been removed, as has that indicating the expansion of abbreviations, which are therefore now expanded silently. Folio references have been added, as have line numbers. Markup that denoted quotations underlined in the MS has been retained, and slightly expanded, rather awkwardly in the form of TEI Q tags.</P></ARGUMENT>
+<DIV1 TYPE="sermon" N="1 Dom. Lent">
+<HEAD>[1.] [Þis is] a Sermoun on þe First Sunday of Lentoun.</HEAD>
+<P> <MILESTONE UNIT="line" N="1"/> <MILESTONE UNIT="folio" N="52v"/> First among alle oþer þyngs, þre þyngs ben [ful]
+<LB/><MILESTONE UNIT="line" N="2"/> nedeful to eche man þat wole come to heuen;
+<LB/><MILESTONE UNIT="line" N="3"/> and þese þre þyngs ben ful faire, for it ben
+<LB/><MILESTONE UNIT="line" N="4"/> feiþ, hope, and charite. Feiþ is ful nedeful
+<LB/><MILESTONE UNIT="line" N="5"/> to man þat he bileue in God, Fadir Almyȝti,
+<LB/><MILESTONE UNIT="line" N="6"/> and in Ihesu Crist his Sone, and also in þe
+<LB/><MILESTONE UNIT="line" N="7"/> Holi Goost, þre Persones and oon God. For as þe
+<LB/><MILESTONE UNIT="line" N="8"/> apostle seiþ in his Epistle, <Q>"Without bileue, it
+<LB/><MILESTONE UNIT="line" N="9"/> is imposible [ony man] to plese God."</Q> Hope is
+<LB/><MILESTONE UNIT="line" N="10"/> also nedeful, þat [a] man fullich hope
+<LB/><MILESTONE UNIT="line" N="11"/> euerlastyng reward. And herfor seiþ þe
+<LB/><MILESTONE UNIT="line" N="12"/> profete, <Q>"Blessid be he þat hopiþ in oure Lord."</Q>
+<LB/><MILESTONE UNIT="line" N="13"/> Charite is also nedeful, þat a man be ful with
+<LB/><MILESTONE UNIT="line" N="14"/> loue of God and of his neiȝbore. For, as þe
+<LB/><MILESTONE UNIT="line" N="15"/> apostle seiþ, <Q>"He þat louiþ his neiȝbore, haþ
+<LB/><MILESTONE UNIT="line" N="16"/> fulfillid þe Lawe."</Q> And no wondur, for, as Ioon
+<LB/><MILESTONE UNIT="line" N="17"/> seiþ in his Epistle, <Q>"He þat loueþ not his
+<LB/><MILESTONE UNIT="line" N="18"/> broþer þat he seeþ, hou mai he loue God, þat</Q>
+<LB/><MILESTONE UNIT="line" N="19"/> he seeþ not?" And so whoso loueþ wel his broþer,
+<LB/><MILESTONE UNIT="line" N="20"/> he loueþ also his God. And <Q>"In þese two
+<LB/><MILESTONE UNIT="line" N="21"/> commaundementis,"</Q> as Crist seiþ hymsilf ,
+<Q> <MILESTONE UNIT="line" N="22"/> hangiþ al þe Lawe and þe profetis</Q> wordis."
+<LB/><MILESTONE UNIT="line" N="23"/> And alle we ben halewid in þe baptym of Goddis
+<LB/><MILESTONE UNIT="line" N="24"/> Sone, þat we shulden be spiritual breþeren in
+<LB/><MILESTONE UNIT="line" N="25"/> parfit charite aftir God. Þerfor we [shuln]
+<LB/><MILESTONE UNIT="line" N="26"/> dwelle in parfit loue of God and of oure
+<LB/><MILESTONE UNIT="line" N="27"/> neiȝbore þat God hymsilf dwelle alwei in vs.
+<LB/><MILESTONE UNIT="line" N="28"/> For as Ioon seiþ in his Epistle, <Q>"God is charite,
+<LB/><MILESTONE UNIT="line" N="29"/> and he þat dwelliþ in charite, dwelliþ in God
+<LB/><MILESTONE UNIT="line" N="30"/> and God in hym."</Q></P>
+<P> <MILESTONE UNIT="line" N="31"/> But sixe þyngs ben ful profitable to Cristen
+<LB/><MILESTONE UNIT="line" N="32"/> men in þese daies of her clensyng, þat is to sey,
+<LB/><MILESTONE UNIT="line" N="33"/> confessioun and penaunce, wakyngs and fastyngs,
+<LB/><MILESTONE UNIT="line" N="34"/> preiers and almisdedis. First, þat men
+<LB/><MILESTONE UNIT="line" N="35"/> knouleche with hert and mouþ, alle her synnes
+<LB/><MILESTONE UNIT="line" N="36"/> þat comen to her mynde þat þei han offendid
+<LB/><MILESTONE UNIT="line" N="37"/> God with in herte, in mouþ and in dede. For
+<LB/><MILESTONE UNIT="line" N="38"/> þe profete seiþ, in þe persone of synful men,
+<Q> <MILESTONE UNIT="line" N="39"/> "Lord, I made my synne knowen to þee,"</Q> þat is to
+<LB/><MILESTONE UNIT="line" N="40"/> sei, bi veri knoulechyng, " <Q>and myn vnriȝtwisnesse
+<LB/><MILESTONE UNIT="line" N="41"/> I hid not,</Q> to shewe þe mekenesse of mysilf, þat
+<LB/><MILESTONE UNIT="line" N="42"/> knouest alle maner pryuetees. <Q>I seide, I shal
+<LB/><MILESTONE UNIT="line" N="43"/> knouleche aȝens myself myn vnriȝtwisnesse to my
+<LB/><MILESTONE UNIT="line" N="44"/> Lord."</Q> And se þerfor þe profit þat folewiþ
+<LB/><MILESTONE UNIT="line" N="45"/> aftir. <Q>"And þou, Lord,"</Q> seiþ þe profete, <Q>"hast
+<LB/><MILESTONE UNIT="line" N="46"/> forȝeue þe wickidnesse of my synne."</Q> And for
+<LB/><MILESTONE UNIT="line" N="47"/> þis gret profit seiþ Iames in his Epistle,
+<Q> <MILESTONE UNIT="line" N="48"/> "Knouleche ȝe, eiþer to oþer, ȝoure synnes, and
+<LB/><MILESTONE UNIT="line" N="49"/> praiþ for eche of ȝou togidere, þat ȝe mowe be
+<LB/><MILESTONE UNIT="line" N="50"/> saued."</Q></P>
+<P> <MILESTONE UNIT="line" N="51"/> But þer ben eiȝt principal vices þat vnneþe
+<LB/><MILESTONE UNIT="line" N="52"/> is þer ony man þat is not smyttid with hem alle
+<LB/><MILESTONE UNIT="line" N="53"/> or with summe. Þe first is glotonye and þe
+<LB/><MILESTONE UNIT="line" N="54"/> second is leccherie; þe þrid is slouþe and þe
+<LB/><MILESTONE UNIT="line" N="55"/> fourþe is auarice ; þe fyueþe [is] veyn glorie
+<LB/><MILESTONE UNIT="line" N="56"/> and þe sixte is enuye; þe seuenþe is wraþþe
+<LB/><MILESTONE UNIT="line" N="57"/> and þe eiȝt is pride, þat is queen of alle
+<LB/><MILESTONE UNIT="line" N="58"/> euelis. Bi pride, aungel creature fel ful depe
+<LB/><MILESTONE UNIT="line" N="59"/> from heuen. Bi pride, Adam oure former fadir,
+<LB/><MILESTONE UNIT="line" N="60"/> bigilid, lost þe gret blisse of Paradijs.</P>
+<P> <MILESTONE UNIT="line" N="61"/> Þerfor men þat ben of feble wittis, <MILESTONE UNIT="folio" N="53r"/> þei
+<LB/><MILESTONE UNIT="line" N="62"/> shulden wel be ransakid of spiritual lechis [and]
+<LB/><MILESTONE UNIT="line" N="63"/> aftir offence of dyuers synnes biforeseid,
+<LB/><MILESTONE UNIT="line" N="64"/> dyuerse remedies of Goddis word shulden be put
+<LB/><MILESTONE UNIT="line" N="65"/> to her sores. And þus God desiriþ moche oure
+<LB/><MILESTONE UNIT="line" N="66"/> shrifte for to forȝeue vs oure synne þat we han
+<LB/><MILESTONE UNIT="line" N="67"/> offendid hym with.</P>
+<P> <MILESTONE UNIT="line" N="68"/> And so sooþ it is, confessioun makiþ a man
+<LB/><MILESTONE UNIT="line" N="69"/> gostli hool, and it be doon with a trewe
+<LB/><MILESTONE UNIT="line" N="70"/> soreuful hert. Such confessioun makiþ a man to
+<LB/><MILESTONE UNIT="line" N="71"/> plese his God bi vertuouse lyuyng aftirward.
+<LB/><MILESTONE UNIT="line" N="72"/> Suche confessioun iustifieþ a man þat he shal
+<LB/><MILESTONE UNIT="line" N="73"/> not be countid gilti of trespassis bifore doon.
+<LB/><MILESTONE UNIT="line" N="74"/> Such confessioun getiþ a man ful forȝeuenesse.
+<LB/><MILESTONE UNIT="line" N="75"/> For al hope of forȝeuenesse stant þorouȝ such
+<LB/><MILESTONE UNIT="line" N="76"/> veri confessioun, and þus such confessioun is
+<LB/><MILESTONE UNIT="line" N="77"/> a ful gret werk of mercy. Such confessioun is a
+<LB/><MILESTONE UNIT="line" N="78"/> cheef medicyn to eche synful man in þis world.
+<LB/><MILESTONE UNIT="line" N="79"/> Such confessioun is, as it were, þe second boord
+<LB/><MILESTONE UNIT="line" N="80"/> þat kepiþ vs from drenchyng of þe gret depnesse
+<LB/><MILESTONE UNIT="line" N="81"/> of helle. For but if we verili forþenken, þat is,
+<LB/><MILESTONE UNIT="line" N="82"/> as it were, þe first boord, and aftir knouleche
+<LB/><MILESTONE UNIT="line" N="83"/> treuli oure synnes, aftir þe abilite þat God
+<LB/><MILESTONE UNIT="line" N="84"/> grauntiþ vs, we forsaken þe wei toward heuen
+<LB/><MILESTONE UNIT="line" N="85"/> and rennen hedlyng toward helle. And to þis
+<LB/><MILESTONE UNIT="line" N="86"/> entent seiþ Salamon, <Q>"He þat hidiþ his synnes
+<LB/><MILESTONE UNIT="line" N="87"/> shal not be dressid</Q> euenlich to heuenward, <Q>but
+<LB/><MILESTONE UNIT="line" N="88"/> he þat knoulechiþ his synnes</Q> and leueþ hem, <Q>he
+<LB/><MILESTONE UNIT="line" N="89"/> shal haue</Q> fulli <Q>merci."</Q></P>
+<P> <MILESTONE UNIT="line" N="90"/> And þus aftir such trewe confessioun must
+<LB/><MILESTONE UNIT="line" N="91"/> veri penaunce folewe. Of þis penaunce seiþ
+<LB/><MILESTONE UNIT="line" N="92"/> Crist in þe Euangelie þus, <Q>"Do ȝe penaunce,
+<LB/><MILESTONE UNIT="line" N="93"/> for þe kyngdom of heuens comeþ ful nyȝ."</Q> Also
+<LB/><MILESTONE UNIT="line" N="94"/> Ioon Baptist bad þe Pharisees and þe Saduceis,
+<Q> <MILESTONE UNIT="line" N="95"/> " To do worþi fruyt of penaunce."</Q> Worþi fruyt
+<LB/><MILESTONE UNIT="line" N="96"/> of penaunce is to inwardli wepe for trespassis
+<LB/><MILESTONE UNIT="line" N="97"/> doon, and not to turne aftir to suche synnes,
+<LB/><MILESTONE UNIT="line" N="98"/> but lyuen in vertues contrarie to suche vices.
+<LB/><MILESTONE UNIT="line" N="99"/> And herfor it is writen, <Q>"Sone, leie not synne
+<LB/><MILESTONE UNIT="line" N="100"/> vpon synne."</Q> Also God seiþ bi Ysaie þe profete,
+<Q> <MILESTONE UNIT="line" N="101"/> "Be ȝe wasshen and be ȝe clene."</Q> He is wasshen
+<LB/><MILESTONE UNIT="line" N="102"/> and also clene þat wepiþ for synnes þat ben doon
+<LB/><MILESTONE UNIT="line" N="103"/> and kepiþ hym clene aftirward. But he is wasshen
+<LB/><MILESTONE UNIT="line" N="104"/> and is not clene þat wepiþ for his yuel and
+<LB/><MILESTONE UNIT="line" N="105"/> leeuyþ it not, but turneþ aȝen to suche synnes
+<LB/><MILESTONE UNIT="line" N="106"/> þat he made sorowe for arst.</P>
+<P> <MILESTONE UNIT="line" N="107"/> And so veri penaunce bifore God is a man to
+<LB/><MILESTONE UNIT="line" N="108"/> make herti sorowe for his synne with trew
+<LB/><MILESTONE UNIT="line" N="109"/> confessioun of his mouþ, with satisfaccioun of
+<LB/><MILESTONE UNIT="line" N="110"/> good contynuyng lijf þerwiþ, þouȝ man lyue not
+<LB/><MILESTONE UNIT="line" N="111"/> many ȝeris aftir. And so ech man þat is wounden
+<LB/><MILESTONE UNIT="line" N="112"/> in greuouse synnes, turne hym to veri penaunce bi
+<LB/><MILESTONE UNIT="line" N="113"/> tyme, and mystrist he not on Goddis merci, for
+<LB/><MILESTONE UNIT="line" N="114"/> it is vpon alle his werkis, and in þis world
+<LB/><MILESTONE UNIT="line" N="115"/> his merci shal not be drawen awei from ony man þat
+<LB/><MILESTONE UNIT="line" N="116"/> verili repentiþ hym of his synne.</P>
+<P> <MILESTONE UNIT="line" N="117"/> But now boþe wakyng fro bodili sleep and
+<LB/><MILESTONE UNIT="line" N="118"/> wakyng of holi þouȝt and holi lyuyng musten
+<LB/><MILESTONE UNIT="line" N="119"/> folewe trewe penaunce þat we haue spoken of.
+<LB/><MILESTONE UNIT="line" N="120"/> For such wakyngs shul brynge forþ fruyt of many
+<LB/><MILESTONE UNIT="line" N="121"/> vertues þat shuln lede a man to heuenli blisse,
+<LB/><MILESTONE UNIT="line" N="122"/> wherfor it bihoueþ vs for to wake, for Ysaie þe
+<Q> <MILESTONE UNIT="line" N="123"/> profete seiþ "Lord, my spirit wakiþ to <MILESTONE UNIT="folio" N="53v"/> þee bi
+<LB/><MILESTONE UNIT="line" N="124"/> nyȝt for þi commaundementis ben liȝt vpon erþe."</Q>
+<LB/><MILESTONE UNIT="line" N="125"/> And herfor seiþ Daviþ þe profete, <Q>"Lord, at
+<LB/><MILESTONE UNIT="line" N="126"/> mydnyȝt I roos to knouleche to þee."</Q> Also it is
+<LB/><MILESTONE UNIT="line" N="127"/> seid in þe persone of God in an oþer place, <Q>"I
+<LB/><MILESTONE UNIT="line" N="128"/> loue hem þat louen me, and þei þat waken eerli
+<LB/><MILESTONE UNIT="line" N="129"/> to me shuln fynde me."</Q> And herfor seiþ Crist
+<LB/><MILESTONE UNIT="line" N="130"/> in þe Euangelie, <Q>"Wakiþ, for ȝe weten not whan þe
+<LB/><MILESTONE UNIT="line" N="131"/> Lord shal come, at euen or at mydnyȝt [or] at
+<LB/><MILESTONE UNIT="line" N="132"/> cockis crowyng or in [þe] morewnyng."</Q></P>
+<P> <MILESTONE UNIT="line" N="133"/> And vnderstonde þat for þre causis oure Lord
+<LB/><MILESTONE UNIT="line" N="134"/> hidiþ his comyng fro man and also þe houre of his
+<LB/><MILESTONE UNIT="line" N="135"/> deeþ. Oon cause is þat if man knew þe houre or
+<LB/><MILESTONE UNIT="line" N="136"/> þe dai of his deþ, man wold lede þe most part of
+<LB/><MILESTONE UNIT="line" N="137"/> his lijf in synne, and ful late turne to God. But
+<LB/><MILESTONE UNIT="line" N="138"/> for man shuld not tarie long from his seruyce,
+<LB/><MILESTONE UNIT="line" N="139"/> he puttiþ hym in vncerteynte boþe of his comyng
+<LB/><MILESTONE UNIT="line" N="140"/> to þe doom and of þe our of his deþ. Þe second
+<LB/><MILESTONE UNIT="line" N="141"/> cause is for man shuld not dispeire of his helþe
+<LB/><MILESTONE UNIT="line" N="142"/> for long contynuyng in his synne. For þe
+<LB/><MILESTONE UNIT="line" N="143"/> fendis temptacioun myȝt soone ouercome a
+<LB/><MILESTONE UNIT="line" N="144"/> synful man, if he knew his endyng dai riȝt nyȝ ,
+<LB/><MILESTONE UNIT="line" N="145"/> and he so long contynued in wickid lijf. Þe þrid
+<LB/><MILESTONE UNIT="line" N="146"/> cause þat God hidiþ fro man þe dai of his deþ
+<LB/><MILESTONE UNIT="line" N="147"/> and of his comyng, is for man shuld alwei
+<LB/><MILESTONE UNIT="line" N="148"/> suppose þat þe dai of his deþ and Cristis
+<LB/><MILESTONE UNIT="line" N="149"/> comyng is ful nyȝ, and so wake in holi þouȝtis
+<LB/><MILESTONE UNIT="line" N="150"/> and make hym redi with holi werkis to be
+<LB/><MILESTONE UNIT="line" N="151"/> presentid vp to God, whaneuer he wold vouchesaaf
+<LB/><MILESTONE UNIT="line" N="152"/> to come.</P>
+<P> <MILESTONE UNIT="line" N="153"/> Þerfor, freendis, I preie ȝou, biþenke ȝou
+<LB/><MILESTONE UNIT="line" N="154"/> wel, and enquere at ȝousilf withynne, "Where ben
+<LB/><MILESTONE UNIT="line" N="155"/> þe loueris of þis disseyuable world, where ben
+<LB/><MILESTONE UNIT="line" N="156"/> þe stoute kyngs and wordli princes, where ben þe
+<LB/><MILESTONE UNIT="line" N="157"/> myȝtti emperours and men þat wern enrichid with
+<LB/><MILESTONE UNIT="line" N="158"/> wordli muk, where ben þe stronge ieauntes and þe
+<LB/><MILESTONE UNIT="line" N="159"/> flesshli wise men of þis world?" If ȝe haue þis
+<LB/><MILESTONE UNIT="line" N="160"/> wel in mynde, þer shal soone be gendrid in ȝou
+<LB/><MILESTONE UNIT="line" N="161"/> a drede. And of þis drede shal spryng an
+<LB/><MILESTONE UNIT="line" N="162"/> hertli sorewe; and of þis holi sorewe shal
+<LB/><MILESTONE UNIT="line" N="163"/> kyndle a deuocioun; and of þis deuocioun, bi þe
+<LB/><MILESTONE UNIT="line" N="164"/> grace of God, shal growe forþ fruyt of many
+<LB/><MILESTONE UNIT="line" N="165"/> holi werkis. Þese ben þe wakyngs þat oure Lord
+<LB/><MILESTONE UNIT="line" N="166"/> axiþ of vs.</P>
+<P> <MILESTONE UNIT="line" N="167"/> And aftir þese wakyngs musten folewe holi
+<LB/><MILESTONE UNIT="line" N="168"/> fastyngs. And se now what Ierom seiþ of such
+<LB/><MILESTONE UNIT="line" N="169"/> fastyngs, "Fastyng is an holi þyng; fastyng is an
+<LB/><MILESTONE UNIT="line" N="170"/> heuenli werk; fastyng is a ȝate of heuen;
+<LB/><MILESTONE UNIT="line" N="171"/> fastyng is a licnes of þe world to comyng. For
+<LB/><MILESTONE UNIT="line" N="172"/> he þat holilich doiþ þis dede, he is graciousli
+<LB/><MILESTONE UNIT="line" N="173"/> ioyned to God; he is maad ful straunge to
+<LB/><MILESTONE UNIT="line" N="174"/> [þe] lusti world, for he is maad a spiritual
+<LB/><MILESTONE UNIT="line" N="175"/> man. Bi holi fastyng ben foule synnes þrowen
+<LB/><MILESTONE UNIT="line" N="176"/> doun; bi holi fastyng mannys flessh is wel
+<LB/><MILESTONE UNIT="line" N="177"/> ymekid; bi holi fastyng ben þe feendis
+<LB/><MILESTONE UNIT="line" N="178"/> temptaciouns ouercomen." And so fastyngs ben
+<LB/><MILESTONE UNIT="line" N="179"/> stronge dartis aȝens entisyngs of þe deuel.</P>
+<P> <MILESTONE UNIT="line" N="180"/> But now vnderstonde, bi many faire
+<LB/><MILESTONE UNIT="line" N="181"/> ensaumplis, hou profitable is such fastyng <MILESTONE UNIT="folio" N="54r"/>
+<LB/><MILESTONE UNIT="line" N="182"/> Þe puple of þe gret citee Nyneue ascapiden þe
+<LB/><MILESTONE UNIT="line" N="183"/> gret venyaunce of God, and gaten merci and
+<LB/><MILESTONE UNIT="line" N="184"/> forȝeuenesse of her synnes, for þei fastiden
+<LB/><MILESTONE UNIT="line" N="185"/> þus þre daies togidere. Also þe puple of God
+<LB/><MILESTONE UNIT="line" N="186"/> passid graciousli þe Reed See, drie fotid, and
+<LB/><MILESTONE UNIT="line" N="187"/> saien her enemyes dreynt in þe see, aftir þat
+<LB/><MILESTONE UNIT="line" N="188"/> þei had fastid bifore þei eeten þe Pask Lomb.
+<LB/><MILESTONE UNIT="line" N="189"/> Also Moises fastid in desert, and aftir God
+<LB/><MILESTONE UNIT="line" N="190"/> vouchid saaf þat he herd grete pryuetes of his
+<LB/><MILESTONE UNIT="line" N="191"/> wisdom. Also Dauiþ fastid aftir þat he had
+<LB/><MILESTONE UNIT="line" N="192"/> greuousli synned, and so his synne was forȝouen
+<LB/><MILESTONE UNIT="line" N="193"/> hym. And herfor Dauiþ seiþ hymsilf, <Q>"I haue
+<LB/><MILESTONE UNIT="line" N="194"/> mekid my soule in fastyng."</Q> Also Crist fastid
+<LB/><MILESTONE UNIT="line" N="195"/> fourti daies and fourti nyȝtis, and aftir he
+<LB/><MILESTONE UNIT="line" N="196"/> ouercome þe deuel, and anoon aungels mynystrid
+<LB/><MILESTONE UNIT="line" N="197"/> hym. Also Petir fastid, and aftirward þe aungel
+<LB/><MILESTONE UNIT="line" N="198"/> delyuered hym out of prisoun. Also Ioon
+<LB/><MILESTONE UNIT="line" N="199"/> Euangelist fastid, and aftir God shewid hym his
+<LB/><MILESTONE UNIT="line" N="200"/> heuenli priueties. Also Poul fastid, and aftir
+<LB/><MILESTONE UNIT="line" N="201"/> God dilyuered hym from his blyndnesse, and soone
+<LB/><MILESTONE UNIT="line" N="202"/> aftir he took his Cristendom. What shal I sei
+<LB/><MILESTONE UNIT="line" N="203"/> more of fastyng? As long as Adam eet not, he
+<LB/><MILESTONE UNIT="line" N="204"/> forfetid not þe blisse of Paradijs, but whan he
+<LB/><MILESTONE UNIT="line" N="205"/> had eeten of þe appul, anoon he was put out of
+<LB/><MILESTONE UNIT="line" N="206"/> Paradijs.
+<LB/><MILESTONE UNIT="line" N="207"/> Þerfor, fastyng is ful good, whan it is wel
+<LB/><MILESTONE UNIT="line" N="208"/> temperid with discrecioun. For what good dede þat
+<LB/><MILESTONE UNIT="line" N="209"/> it be, and it be do in du maner, þanne it is holsum
+<LB/><MILESTONE UNIT="line" N="210"/> to þe soule, but what good þat it be and it lacke
+<LB/><MILESTONE UNIT="line" N="211"/> discrecioun and du maner of doyng, it is
+<LB/><MILESTONE UNIT="line" N="212"/> viciouse and perilouse to þe soule. But fastyng
+<LB/><MILESTONE UNIT="line" N="213"/> profitiþ litel withouten good werkis and
+<LB/><MILESTONE UNIT="line" N="214"/> almesdedis, and fastyng þat is doon with
+<LB/><MILESTONE UNIT="line" N="215"/> almesdede and deuoute preieris is acceptable
+<LB/><MILESTONE UNIT="line" N="216"/> to God; and it openyþ heuen to man and myȝtili
+<LB/><MILESTONE UNIT="line" N="217"/> ascendiþ bifore Goddis troone.</P>
+<P> <MILESTONE UNIT="line" N="218"/> And þus holi preieris musten folewe discrete
+<LB/><MILESTONE UNIT="line" N="219"/> fastyngs. And se now what Isidore seiþ of
+<LB/><MILESTONE UNIT="line" N="220"/> preieris. "We ben clensid," he seiþ, "with holi
+<LB/><MILESTONE UNIT="line" N="221"/> preiers, and we ben [enformyd] with deuoute
+<LB/><MILESTONE UNIT="line" N="222"/> redyngis. " And to þis entent, seyþ Seynt Iames,
+<Q> <MILESTONE UNIT="line" N="223"/> "Moche is worþ þe bisie preier of a riȝtwis man."</Q>
+<LB/><MILESTONE UNIT="line" N="224"/> Also Moises bi his praier turned awei þe wraþþe
+<LB/><MILESTONE UNIT="line" N="225"/> of God from þe puple þat made her deuocioun
+<LB/><MILESTONE UNIT="line" N="226"/> bifore þe calf. Also Helie made his preier þat
+<LB/><MILESTONE UNIT="line" N="227"/> it shuld not reyne vpon erþe, and God closid þe
+<LB/><MILESTONE UNIT="line" N="228"/> firmament þat þe reyn descendid not þre ȝeer and
+<LB/><MILESTONE UNIT="line" N="229"/> sixe moneþis; and aftirward he made his preier and
+<LB/><MILESTONE UNIT="line" N="230"/> þe firmament ȝaf his reyn and þe erþe ȝaf his
+<LB/><MILESTONE UNIT="line" N="231"/> fruyt. Also Ionas preied in þe whallis wombe,
+<LB/><MILESTONE UNIT="line" N="232"/> and he was graciousli delyuered þerof. Also
+<LB/><MILESTONE UNIT="line" N="233"/> Danyel preied in þe lake of liouns and God herd
+<LB/><MILESTONE UNIT="line" N="234"/> his preier and delyuerid hym. Also Kyng Eȝechie
+<LB/><MILESTONE UNIT="line" N="235"/> in his sekenesse preied to God, and God grauntid
+<LB/><MILESTONE UNIT="line" N="236"/> hym to lyue fiftene ȝeir aftir. Þerfor, whoso
+<LB/><MILESTONE UNIT="line" N="237"/> wole be parfitli with God, he must bisie hym
+<LB/><MILESTONE UNIT="line" N="238"/> ofte in deuoute preieris and ofte rede gostilich
+<LB/><MILESTONE UNIT="line" N="239"/> ensaumplis if <MILESTONE UNIT="folio" N="54v"/> he haue kunnyng þerto. For whan
+<LB/><MILESTONE UNIT="line" N="240"/> [þat] we preien, þan in a maner we speken with
+<LB/><MILESTONE UNIT="line" N="241"/> God; but whan þat we reden, þan God spekiþ with
+<LB/><MILESTONE UNIT="line" N="242"/> vs.</P>
+<P> <MILESTONE UNIT="line" N="243"/> But now vnderstonde we þat þer ben dyuerse
+<LB/><MILESTONE UNIT="line" N="244"/> maners of preieris. For Cristen men preien
+<LB/><MILESTONE UNIT="line" N="245"/> deuoutli in her wordis bisechyng God, þat he
+<LB/><MILESTONE UNIT="line" N="246"/> vouchesaaf to forȝeue hem her synnes. Also such
+<LB/><MILESTONE UNIT="line" N="247"/> holi folk preien in dede, in releuyng of þe nedi
+<LB/><MILESTONE UNIT="line" N="248"/> bi almesdoyng aftir her power. And herfor seiþ
+<LB/><MILESTONE UNIT="line" N="249"/> Crist hymsilf, <Q>"Ȝeueþ almesdede, and lo alle
+<LB/><MILESTONE UNIT="line" N="250"/> þyngs ben clene to ȝou."</Q> Also it is writen in
+<LB/><MILESTONE UNIT="line" N="251"/> an oþer place, <Q>"As þe watir quenchiþ fier, so
+<LB/><MILESTONE UNIT="line" N="252"/> almesdede quenchiþ synne."</Q> Also Cristen folk
+<LB/><MILESTONE UNIT="line" N="253"/> preien in þe þrid maner, forȝeuyng her neiȝbores
+<LB/><MILESTONE UNIT="line" N="254"/> her trespassis þat þei han offendid hem with.
+<LB/><MILESTONE UNIT="line" N="255"/> And herfor seiþ Crist on þis maner, <Q>"If ȝe
+<LB/><MILESTONE UNIT="line" N="256"/> forȝeuen to oþer men her trespassis, myn heuenli
+<LB/><MILESTONE UNIT="line" N="257"/> Fadir also shal forȝeue to ȝou ȝoure synnes."</Q>
+<LB/><MILESTONE UNIT="line" N="258"/> Also þei preien on þe fourþe maner bi louelich
+<LB/><MILESTONE UNIT="line" N="259"/> kepyng of Cristis commaundementis; and such
+<LB/><MILESTONE UNIT="line" N="260"/> loue is clepid charite þat hidiþ alle trespassis
+<LB/><MILESTONE UNIT="line" N="261"/> bifore doon. [And so] it is a ful holsum
+<LB/><MILESTONE UNIT="line" N="262"/> preier to kepe þus Cristis commaundementis,
+<LB/><MILESTONE UNIT="line" N="263"/> for it profitiþ not a man to beseche Goddis
+<LB/><MILESTONE UNIT="line" N="264"/> mercy with hise wordis and to terre hym wickidli
+<LB/><MILESTONE UNIT="line" N="265"/> with his werkis.</P>
+<P> <MILESTONE UNIT="line" N="266"/> But now last of all, discreet almesdede
+<LB/><MILESTONE UNIT="line" N="267"/> folewiþ deuoute preier. And se now what Austyn
+<LB/><MILESTONE UNIT="line" N="268"/> seiþ of almesdede. "Almesdede is an holi þyng.
+<LB/><MILESTONE UNIT="line" N="269"/> It encreessiþ ofte tymes erþeli godis; it getiþ
+<LB/><MILESTONE UNIT="line" N="270"/> to man forȝeuenesse of his synnes. It multiplieþ
+<LB/><MILESTONE UNIT="line" N="271"/> a mannes ȝeris; it stabliþ wel a mannys mynde; it
+<LB/><MILESTONE UNIT="line" N="272"/> delyueriþ hym from deþ and from peyne. It
+<LB/><MILESTONE UNIT="line" N="273"/> felouship[iþ] hym with aungels; it departiþ hym
+<LB/><MILESTONE UNIT="line" N="274"/> from feendis. " Also of almesdede, Ierom spekiþ on
+<LB/><MILESTONE UNIT="line" N="275"/> þis [maner], "Almesdede persiþ heuen. It makiþ
+<LB/><MILESTONE UNIT="line" N="276"/> weie bifore hym þat doiþ such almes. It knockiþ
+<LB/><MILESTONE UNIT="line" N="277"/> for hym at þe ȝate of heuen. It biddiþ aungels
+<LB/><MILESTONE UNIT="line" N="278"/> for to mete such almesdoeris. It [clepiþ] God in
+<LB/><MILESTONE UNIT="line" N="279"/> to help of hem þat doon such almesdedis." And [þus]
+<LB/><MILESTONE UNIT="line" N="280"/> Origen rehersiþ þre maneris of almesdedis: oon is
+<LB/><MILESTONE UNIT="line" N="281"/> bodili to þe nedi man, for to ȝeue hym what hym
+<LB/><MILESTONE UNIT="line" N="282"/> nediþ aftir þat þou maist resonabli; an oþer is
+<LB/><MILESTONE UNIT="line" N="283"/> spiritual, þat is, for to forȝeue hym þat haþ
+<LB/><MILESTONE UNIT="line" N="284"/> harmed þee, oo wise or oþer; þe þrid is to teche
+<LB/><MILESTONE UNIT="line" N="285"/> hym þat trespassiþ and to bryng hym into þe wei of
+<LB/><MILESTONE UNIT="line" N="286"/> treuþe.</P>
+<P> <MILESTONE UNIT="line" N="287"/> Þese ben þe werkis of Lentoun, ȝhe, and of
+<LB/><MILESTONE UNIT="line" N="288"/> alle oþer tymes whilis we lyuen in þis world. Lo,
+<LB/><MILESTONE UNIT="line" N="289"/> þis is þe worship of riȝtwisnesse, and þis is þe
+<LB/><MILESTONE UNIT="line" N="290"/> techyng of Cristen men. Lo, þis is þe medicyn of
+<LB/><MILESTONE UNIT="line" N="291"/> synful folk and þe remedie þat [þei] musten nedis
+<LB/><MILESTONE UNIT="line" N="292"/> haue for synne, for we mai wel make oure bodies
+<LB/><MILESTONE UNIT="line" N="293"/> leene, but it profitiþ litil wiþouten þis.
+<LB/><MILESTONE UNIT="line" N="294"/> Þerfor, ȝeue we vs hollich to God to be his
+<LB/><MILESTONE UNIT="line" N="295"/> seruauntis in alle þese þyngs, þat we be not
+<LB/><MILESTONE UNIT="line" N="296"/> blamed for defaute of oure seruyce. And þanne
+<LB/><MILESTONE UNIT="line" N="297"/> bi þe grace of God, we shuln be clensid, boþe bodi
+<LB/><MILESTONE UNIT="line" N="298"/> and soule, and come to þe feest of þe Pask Lomb,
+<LB/><MILESTONE UNIT="line" N="299"/> þat is Ihesu Crist, in þe blisse of heuen. <MILESTONE UNIT="folio" N="55r"/>
+<LB/><MILESTONE UNIT="line" N="300"/> Amen.</P></DIV1>
+<DIV1 TYPE="sermon" N="1 Dom. Lent (2)">
+<HEAD>[2.] Þe first Sunday of Lentoun </HEAD>
+<EPIGRAPH><BIBL>.Mathew iiijto.</BIBL>
+<Q> <MILESTONE UNIT="line" N="1"/> Ihesus was ledde into desert of a spirit, þat he
+<LB/><MILESTONE UNIT="line" N="2"/> shuld be temptid of þe deuel. And whan he had
+<LB/><MILESTONE UNIT="line" N="3"/> fastid fourti daies and fourti nyȝtis, aftirward
+<LB/><MILESTONE UNIT="line" N="4"/> he hungrid. And þe tempter, þe feend, come to hym,
+<LB/><MILESTONE UNIT="line" N="5"/> and seide, "If þou be Goddis Sone, commaunde þat
+<LB/><MILESTONE UNIT="line" N="6"/> þese stoones be maad looues. " And he answerid
+<LB/><MILESTONE UNIT="line" N="7"/> hym and seide, "It is wryten: 'Not oonli in
+<LB/><MILESTONE UNIT="line" N="8"/> breed lyueþ man, but also in euery word þat goþ
+<LB/><MILESTONE UNIT="line" N="9"/> forþ of Goddis mouþ.' " Þan þe deuel took hym
+<LB/><MILESTONE UNIT="line" N="10"/> into þe holi citee, Ierusalem, and set hym aboue
+<LB/><MILESTONE UNIT="line" N="11"/> þe pynnacle of þe temple. And he seide to hym,
+<LB/><MILESTONE UNIT="line" N="12"/> "If þou be þe Sone of God, late þisilf dounward;
+<LB/><MILESTONE UNIT="line" N="13"/> for whi, it is writen þat: `God þe Fadir haþ
+<LB/><MILESTONE UNIT="line" N="14"/> commaundid to His angels of þee, and þei shuln
+<LB/><MILESTONE UNIT="line" N="15"/> take þee in her hondis, lest þou stomble þi foot
+<LB/><MILESTONE UNIT="line" N="16"/> at a stoon.' And Ihesus seide to hym eftsones,
+<LB/><MILESTONE UNIT="line" N="17"/> "It is writen: "Þou shalt not tempte þi Lord
+<LB/><MILESTONE UNIT="line" N="18"/> God.'" Eftsones þe deuel took hym into a ful hyȝ
+<LB/><MILESTONE UNIT="line" N="19"/> hul, and shewid hym alle þe rewmes of þe world,
+<LB/><MILESTONE UNIT="line" N="20"/> and þe glorie of hem. And he seide to hym, "Alle
+<LB/><MILESTONE UNIT="line" N="21"/> þese þyngs I shal ȝeue to þee, if þou, fallyng
+<LB/><MILESTONE UNIT="line" N="22"/> doun, worship me." Þanne Ihesus seide to hym,
+<LB/><MILESTONE UNIT="line" N="23"/> "Go, Satanas: For it is writen: ' Þou shalt
+<LB/><MILESTONE UNIT="line" N="24"/> worshipe þi Lord God, and Hym aloone þou shalt
+<LB/><MILESTONE UNIT="line" N="25"/> serue.'" Þanne þe feend leeft hym, and lo, aungels
+<LB/><MILESTONE UNIT="line" N="26"/> comen to, and mynystreden hym.</Q></EPIGRAPH>
+<P> <MILESTONE UNIT="line" N="27"/> Many men deliten moche to heren of oþer
+<LB/><MILESTONE UNIT="line" N="28"/> mennys famouse dedis, and þe more worþi þat such
+<LB/><MILESTONE UNIT="line" N="29"/> dedis ben, þe more men profiten bi such
+<LB/><MILESTONE UNIT="line" N="30"/> ensaumplis. For whan such vertuouse worchyng is
+<LB/><MILESTONE UNIT="line" N="31"/> openli shewid, þanne mannes likyng is more tend
+<LB/><MILESTONE UNIT="line" N="32"/> for to folowe such worþi doyng. And comynli þe
+<LB/><MILESTONE UNIT="line" N="33"/> more likyng þat man haþ in heryng of oon [þyng] or
+<LB/><MILESTONE UNIT="line" N="34"/> oþer, þe lengir þat þyng is holden in mynde.</P>
+<P> <MILESTONE UNIT="line" N="35"/> Herfor, we þat now bi þis Gospel han herd
+<LB/><MILESTONE UNIT="line" N="36"/> þe victoriouse batel of Crist oure Kyng, shulden
+<LB/><MILESTONE UNIT="line" N="37"/> cacche gret delite and stidfastnesse of vertuouse
+<LB/><MILESTONE UNIT="line" N="38"/> lijf, bi ensaumple of his ouercomyng. For oure
+<LB/><MILESTONE UNIT="line" N="39"/> Lordis werkis and his wordis be not onli put
+<LB/><MILESTONE UNIT="line" N="40"/> forþ to oure delectacioun and confortyng, but also
+<LB/><MILESTONE UNIT="line" N="41"/> to mouen vs to folowe hym in lyuyng. And þouȝ in
+<LB/><MILESTONE UNIT="line" N="42"/> alle þyngs we han not sufficience to folowe þis
+<LB/><MILESTONE UNIT="line" N="43"/> gret Lord, neþeles in summe þyngs, as in þis, we
+<LB/><MILESTONE UNIT="line" N="44"/> owen to folowen hym bi his grace in wiþstandyng
+<LB/><MILESTONE UNIT="line" N="45"/> of þe feend. And we shuln not leue nor mystriste
+<LB/><MILESTONE UNIT="line" N="46"/> for þe woodnesse of oure enemy, nor for oure owen
+<LB/><MILESTONE UNIT="line" N="47"/> feblenesse, for he þat þus fauȝt for vs and had þe
+<LB/><MILESTONE UNIT="line" N="48"/> maistrie, shal ȝeue to his gostli fiȝteris vertu
+<LB/><MILESTONE UNIT="line" N="49"/> and strengþe to her profit.</P>
+<P> <MILESTONE UNIT="line" N="50"/> But now in Holi Scripture, we moun fynde of
+<LB/><MILESTONE UNIT="line" N="51"/> foure batels of oure Lord, and of as many victories
+<LB/><MILESTONE UNIT="line" N="52"/> þat he had at his batels. Þe first batel was in
+<LB/><MILESTONE UNIT="line" N="53"/> þis temptacioun, þat þis Gospel makiþ mynde of .
+<LB/><MILESTONE UNIT="line" N="54"/> His victorie at þis batel was bi gret auctorite,
+<LB/><MILESTONE UNIT="line" N="55"/> wherwith he ouercam þe feend and confoundid hym
+<LB/><MILESTONE UNIT="line" N="56"/> with word of his Godhed. þe second batel was in
+<LB/><MILESTONE UNIT="line" N="57"/> his passioun, and his second victorie in his deþ.
+<LB/><MILESTONE UNIT="line" N="58"/> For whan he was slayn withouten riȝt, he took <MILESTONE UNIT="folio" N="55v"/>
+<LB/><MILESTONE UNIT="line" N="59"/> awei þe power of deþ þorouȝ riȝt. Þe þrid batel
+<LB/><MILESTONE UNIT="line" N="60"/> was in brekyng of helle, and his victorie in
+<LB/><MILESTONE UNIT="line" N="61"/> spoilyng of hem þat wern þerynne. For aftir his
+<LB/><MILESTONE UNIT="line" N="62"/> deþ, he brak helle and took awei þe spoilyngs,
+<LB/><MILESTONE UNIT="line" N="63"/> þat is to sei mankynde, þat þe deuel priuylich
+<LB/><MILESTONE UNIT="line" N="64"/> deseyuede with þe foundement of enuye. And so he
+<LB/><MILESTONE UNIT="line" N="65"/> departed þe spoilyngs of þe hous of fairnesse from
+<LB/><MILESTONE UNIT="line" N="66"/> þe foule hous of helle. Þe fourþe batel shal be
+<LB/><MILESTONE UNIT="line" N="67"/> in þe gret doom, whan al þe world shal fiȝte for
+<LB/><MILESTONE UNIT="line" N="68"/> hym aȝens hem þat þanne ben wickid. But his
+<LB/><MILESTONE UNIT="line" N="69"/> victorie shal be in þe glorifyyng of his seyntes.</P>
+<P> <MILESTONE UNIT="line" N="70"/> But now turne we aȝen to þe first batel þat
+<LB/><MILESTONE UNIT="line" N="71"/> þis Gospel makiþ mynde of. <Q>Ihesus was led into
+<LB/><MILESTONE UNIT="line" N="72"/> desert of a spirit þat he shuld be temptid of þe
+<LB/><MILESTONE UNIT="line" N="73"/> feend.</Q> Here now we han herd who it [is] þat was
+<LB/><MILESTONE UNIT="line" N="74"/> lad into desert, for it was oure Lord Ihesu, aftir
+<LB/><MILESTONE UNIT="line" N="75"/> tyme þat he was baptisid. And þus Luyk seiþ
+<LB/><MILESTONE UNIT="line" N="76"/> openli þat: "Ihesu, ful of þe Holi Goost, went
+<LB/><MILESTONE UNIT="line" N="77"/> aȝen from Iordan, and was moued in spirit into
+<LB/><MILESTONE UNIT="line" N="78"/> desert." And in þese wordis is shewid openli of
+<LB/><MILESTONE UNIT="line" N="79"/> what spirit he was þus lad, for it was of þe Holi
+<LB/><MILESTONE UNIT="line" N="80"/> Goost, wherwith he was alwei ful. Also [þese]
+<LB/><MILESTONE UNIT="line" N="81"/> wordis shewen whidir he was lad, for it was into
+<LB/><MILESTONE UNIT="line" N="82"/> desert. Þese wordis also shewen wherto he was
+<LB/><MILESTONE UNIT="line" N="83"/> þus lad þider, for it was þat he shuld be temptid
+<LB/><MILESTONE UNIT="line" N="84"/> of þe feend. But on what maner, and hou ofte he
+<LB/><MILESTONE UNIT="line" N="85"/> was þus temptid þere, þis Euangelie declariþ fulli
+<LB/><MILESTONE UNIT="line" N="86"/> aftir.</P>
+<P> <MILESTONE UNIT="line" N="87"/> Neþeles, bi concel of þe Holi Trinite, Crist
+<LB/><MILESTONE UNIT="line" N="88"/> was lad þus into desert, and also for gret
+<LB/><MILESTONE UNIT="line" N="89"/> misterie, and for ensaumple to vs aftir. Bi
+<LB/><MILESTONE UNIT="line" N="90"/> concel, þat þe deuel shuld be stirid and terrid
+<LB/><MILESTONE UNIT="line" N="91"/> in temptyng Crist, for but Crist had þus fouȝten,
+<LB/><MILESTONE UNIT="line" N="92"/> he had not þus ouercomen to oure profit. For
+<LB/><MILESTONE UNIT="line" N="93"/> gret misterie, þat he shuld make Adam fre, þat
+<LB/><MILESTONE UNIT="line" N="94"/> was exilid from Paradijs and cast into desert of
+<LB/><MILESTONE UNIT="line" N="95"/> þis wrecchid world, and mercifuly brynge hym aȝen
+<LB/><MILESTONE UNIT="line" N="96"/> fro þis desert, to blisful Paradiys aftirward.
+<LB/><MILESTONE UNIT="line" N="97"/> For ensaumple to vs, to doon vs to witene þat
+<LB/><MILESTONE UNIT="line" N="98"/> whan we wolden encreesse in vertues, hou enuyouse
+<LB/><MILESTONE UNIT="line" N="99"/> þe deuel is þat wole lette vs aftir his power,
+<LB/><MILESTONE UNIT="line" N="100"/> but þat we shulden not leeue of for þe feblenesse
+<LB/><MILESTONE UNIT="line" N="101"/> of ouresilf, we ben tauȝt of Crist oure Duyk on
+<LB/><MILESTONE UNIT="line" N="102"/> what maner to wiþstonde hym, as is shewid in þis
+<LB/><MILESTONE UNIT="line" N="103"/> Gospel.</P>
+<P> <MILESTONE UNIT="line" N="104"/> But as clerkis seyn aftir sence of þe storie,
+<LB/><MILESTONE UNIT="line" N="105"/> Crist ouercam þe feend in þe desert þat is
+<LB/><MILESTONE UNIT="line" N="106"/> bitwixe Ierusalem and Iericho, where þe feend
+<LB/><MILESTONE UNIT="line" N="107"/> ouercam Adam, in figure of þis gostli batel þat
+<LB/><MILESTONE UNIT="line" N="108"/> Crist made with þe feend and ouercam hym. And þe
+<LB/><MILESTONE UNIT="line" N="109"/> interpretacioun of þe name of þis place shewiþ
+<LB/><MILESTONE UNIT="line" N="110"/> þat þer wern many þeuys þere. For Þis desert was
+<LB/><MILESTONE UNIT="line" N="111"/> clepid Domyn, þat is as moche to sey as blood.
+<LB/><MILESTONE UNIT="line" N="112"/> And riȝtli it was clepid þis name, for þere bi
+<LB/><MILESTONE UNIT="line" N="113"/> þeuys was ofte mannes blood sheed. But Crist,
+<LB/><MILESTONE UNIT="line" N="114"/> þat is a trewe Samaritan, þat is to sey a gostli
+<LB/><MILESTONE UNIT="line" N="115"/> kepere, cam bi þat same wei and fonde Adams kynde,
+<LB/><MILESTONE UNIT="line" N="116"/> foule woundid with synne, bi ouercomyng of wickid
+<LB/><MILESTONE UNIT="line" N="117"/> spiritis, and heelid hym <MILESTONE UNIT="folio" N="56r"/> bi forȝeuyng of his
+<LB/><MILESTONE UNIT="line" N="118"/> synne, and brouȝt hym mercifuli to þe stable of
+<LB/><MILESTONE UNIT="line" N="119"/> his grace, þat is to sei to þe techyng and þe
+<LB/><MILESTONE UNIT="line" N="120"/> kepyng of þe lawe of þe Euangelie.</P>
+<P> <MILESTONE UNIT="line" N="121"/> It folowiþ ferþer in þe text: <Q>And whan he had
+<LB/><MILESTONE UNIT="line" N="122"/> fastid fourti daies and fourti nyȝtis, aftirward
+<LB/><MILESTONE UNIT="line" N="123"/> he hungrid. Lo,</Q> hou fastyng is commendid in þe
+<LB/><MILESTONE UNIT="line" N="124"/> Olde Lawe, as we mai se of Moises. It is commendid
+<LB/><MILESTONE UNIT="line" N="125"/> of profetis, as we mai se of Helie. It is
+<LB/><MILESTONE UNIT="line" N="126"/> commendid in þe Euangelie, as we mai se of Crist,
+<LB/><MILESTONE UNIT="line" N="127"/> þat is cheef of alle oþer.
+<LB/><MILESTONE UNIT="line" N="128"/> Þis noumbre fourti bitokeneþ al þe tyme of
+<LB/><MILESTONE UNIT="line" N="129"/> oure lijf here in þis world; and in þis tyme al
+<LB/><MILESTONE UNIT="line" N="130"/> Goddis chosen puple in þe foure parties of þe
+<LB/><MILESTONE UNIT="line" N="131"/> world shulden arme hem with þe ten commaundementis
+<LB/><MILESTONE UNIT="line" N="132"/> aȝens temptaciouns of þe feend. For in figure
+<LB/><MILESTONE UNIT="line" N="133"/> herof, þis noumbre fourti comeþ vp bi encrees
+<LB/><MILESTONE UNIT="line" N="134"/> of foure, and also it comeþ vp bi encrees of ten.
+<LB/><MILESTONE UNIT="line" N="135"/> Also þis noumbre of foure bitokeneþ alle vnleueful
+<LB/><MILESTONE UNIT="line" N="136"/> flesshli stiryngs of mannys bodi, and þese
+<LB/><MILESTONE UNIT="line" N="137"/> comen of foure humours þat spryngen of foure
+<LB/><MILESTONE UNIT="line" N="138"/> elementis wherof mannes bodi is maad. And aȝen
+<LB/><MILESTONE UNIT="line" N="139"/> þese flesshli stiryngs men shuld put good medicyn
+<LB/><MILESTONE UNIT="line" N="140"/> of þe ten commaundementis þat ben founden in
+<LB/><MILESTONE UNIT="line" N="141"/> Goddis Lawe, for [ þe] ten commaundementis ben
+<LB/><MILESTONE UNIT="line" N="142"/> dyuyd in þre and seuene; and of þese ten, þre
+<LB/><MILESTONE UNIT="line" N="143"/> parteynen to God Almyȝti and seuen parteynen to
+<LB/><MILESTONE UNIT="line" N="144"/> mannes neiȝbore, for man stant of soule þat haþ
+<LB/><MILESTONE UNIT="line" N="145"/> þre myȝtis and of bodi þat is maad of foure
+<LB/><MILESTONE UNIT="line" N="146"/> elementis.</P>
+<P> <MILESTONE UNIT="line" N="147"/> And so, for þe Holi Trinite shulde fulli be
+<LB/><MILESTONE UNIT="line" N="148"/> worshipid of man, man is maad parfit, as it were,
+<LB/><MILESTONE UNIT="line" N="149"/> in þe noumbre of ten. And herfor al Goddis
+<LB/><MILESTONE UNIT="line" N="150"/> commaundyng of loue, as touchyng boþe of man to
+<LB/><MILESTONE UNIT="line" N="151"/> God, and also of man to man, stant in þis parfit
+<LB/><MILESTONE UNIT="line" N="152"/> noumbre of ten. But for þese ten commaundementis,
+<LB/><MILESTONE UNIT="line" N="153"/> ofte tymes for oure slouþe ben nouȝt fulfullid,
+<LB/><MILESTONE UNIT="line" N="154"/> þis parfit noumbre of ten is multiplied with þe
+<LB/><MILESTONE UNIT="line" N="155"/> noumbre of foure, þat acordiþ to oure feble bodi
+<LB/><MILESTONE UNIT="line" N="156"/> bicause þat bi mouyng of þe flessh, þat charite
+<LB/><MILESTONE UNIT="line" N="157"/> þat we shulden haue to God and to oure neiȝbore
+<LB/><MILESTONE UNIT="line" N="158"/> is defoulid. And herfor, for to whasshe awei
+<LB/><MILESTONE UNIT="line" N="159"/> oure synnes, oure tyme of penaunce is ordeyned in
+<LB/><MILESTONE UNIT="line" N="160"/> þe noumbre of fourti. For as longe as we lyuen
+<LB/><MILESTONE UNIT="line" N="161"/> here in þis world, it is nedeful þat we biwepen
+<LB/><MILESTONE UNIT="line" N="162"/> oure synnes, for, as it is seid bifore, þis
+<LB/><MILESTONE UNIT="line" N="163"/> noumbre of fourti bitokeneþ þis tyme.</P>
+<P> <MILESTONE UNIT="line" N="164"/> But for gret misterie, fourti daies of
+<LB/><MILESTONE UNIT="line" N="165"/> penaunce ben ordeyned bifore Cristis passioun
+<LB/><MILESTONE UNIT="line" N="166"/> and his resurreccioun. For skilful it is þat we
+<LB/><MILESTONE UNIT="line" N="167"/> þat ben gretli counfortid in þe solempnite of
+<LB/><MILESTONE UNIT="line" N="168"/> Cristis resurreccioun, for we shuln rise bi vertu
+<LB/><MILESTONE UNIT="line" N="169"/> of hym, blisfuli in bodi and soule, þat we be
+<LB/><MILESTONE UNIT="line" N="170"/> founde in wilful penaunce and sle þe vnleueful
+<LB/><MILESTONE UNIT="line" N="171"/> flesshli lustis in oure bodi bi special mynde of
+<LB/><MILESTONE UNIT="line" N="172"/> Cristis passion. For þanne dien we wel togidere
+<LB/><MILESTONE UNIT="line" N="173"/> if we absteyne vs silf þese daies as wel from
+<LB/><MILESTONE UNIT="line" N="174"/> vices and flesshli desiris, lusti metis and
+<LB/><MILESTONE UNIT="line" N="175"/> drynkis.</P>
+<P> <MILESTONE UNIT="line" N="176"/> And now take here good heed þat for þis
+<LB/><MILESTONE UNIT="line" N="177"/> misterie God ceessid not in Noes tyme fourti <MILESTONE UNIT="folio" N="56v"/>
+<LB/><MILESTONE UNIT="line" N="178"/> daies to sende doun reyn, for to punysshe men for
+<LB/><MILESTONE UNIT="line" N="179"/> synne. Take heed of olde fadris in Moises tyme,
+<LB/><MILESTONE UNIT="line" N="180"/> hou þei shulden in fourty daies haue come to þe
+<LB/><MILESTONE UNIT="line" N="181"/> lond of biheest but þei grucchiden and token not
+<LB/><MILESTONE UNIT="line" N="182"/> wilfulli her penaunce, and so wern þei taried
+<LB/><MILESTONE UNIT="line" N="183"/> fourti wyntir in desert; and þus a ȝeer was
+<LB/><MILESTONE UNIT="line" N="184"/> encressid for a dai. But ȝit now vnderstonde wel
+<LB/><MILESTONE UNIT="line" N="185"/> þat God suffrid hem not to entre þe lond of
+<LB/><MILESTONE UNIT="line" N="186"/> biheest bifore þe tyme of þis noumbre fourti were
+<LB/><MILESTONE UNIT="line" N="187"/> fulfillid.</P>
+<P> <MILESTONE UNIT="line" N="188"/> But now ferþermore, take heede þat þe desert
+<LB/><MILESTONE UNIT="line" N="189"/> and Cristis fastyng meueden þe feend to þis
+<LB/><MILESTONE UNIT="line" N="190"/> forseid batail. Þe hungir þat Crist had deceyued
+<LB/><MILESTONE UNIT="line" N="191"/> þe deuel, and þe pacience of Crist made hym þe
+<LB/><MILESTONE UNIT="line" N="192"/> more boold, but his owen malice stirid hym gretli
+<LB/><MILESTONE UNIT="line" N="193"/> to tempte þis Lord. And herfor seiþ þe Euangelist
+<LB/><MILESTONE UNIT="line" N="194"/> aftir: <Q>And þe tempter cam to hym, and seide "If
+<LB/><MILESTONE UNIT="line" N="195"/> þou be Goddis Sone, sei þat þese stoones be maad
+<LB/><MILESTONE UNIT="line" N="196"/> looues."</Q> As summe men holden for opynyoun, þe
+<LB/><MILESTONE UNIT="line" N="197"/> feend cam to Crist oyþer in licnes of an aungel,
+<LB/><MILESTONE UNIT="line" N="198"/> ouþer in licnes of a kniȝt, or ellis in licnesse
+<LB/><MILESTONE UNIT="line" N="199"/> of an oþer man. But oþer men seien þat al þis
+<LB/><MILESTONE UNIT="line" N="200"/> temptacioun was do bi priuey meuyng of þe feend
+<LB/><MILESTONE UNIT="line" N="201"/> without sich visible apperyng. But muse we not
+<LB/><MILESTONE UNIT="line" N="202"/> aboute þese doutis, but bileue we þat Crist was
+<LB/><MILESTONE UNIT="line" N="203"/> temptid of þe feend as þe Gospel techiþ vs. And
+<LB/><MILESTONE UNIT="line" N="204"/> so temptacioun of þe feend comynli haþ þre
+<LB/><MILESTONE UNIT="line" N="205"/> menbris: suggestioun, delectacioun, and consence is
+<LB/><MILESTONE UNIT="line" N="206"/> þe þrid. And þus Crist myȝt wel be temptid with
+<LB/><MILESTONE UNIT="line" N="207"/> þe first menbre, but delectacioun and consence
+<LB/><MILESTONE UNIT="line" N="208"/> myȝt not bite Crist, God and man.</P>
+<P> <MILESTONE UNIT="line" N="209"/> But in þis þat þe fend seide, <Q>"If þou be
+<LB/><MILESTONE UNIT="line" N="210"/> Goddis Sone,"</Q> he aspied þat þyng þat he dradde ful
+<LB/><MILESTONE UNIT="line" N="211"/> sore. For he knew þat Goddis Sone was comen into
+<LB/><MILESTONE UNIT="line" N="212"/> þe world, eiþer bi prophetis tellyng, eiþer bi
+<LB/><MILESTONE UNIT="line" N="213"/> aungels shewyng, or ellis bi Ioon Baptistis
+<LB/><MILESTONE UNIT="line" N="214"/> prechyng. But for he saw Crist so meke and feble
+<LB/><MILESTONE UNIT="line" N="215"/> outwardlich in bodi, he was gretli in doute wher
+<LB/><MILESTONE UNIT="line" N="216"/> he were God, for he supposid þat Crist man bi þe
+<LB/><MILESTONE UNIT="line" N="217"/> hiȝ and priuey graunt of God, myȝt do such hiȝ
+<LB/><MILESTONE UNIT="line" N="218"/> werkis, and so he temptid hym ferþer to wite þe
+<LB/><MILESTONE UNIT="line" N="219"/> soþe. But Crist temperid hymsilf so wisli in
+<LB/><MILESTONE UNIT="line" N="220"/> alle þyngs, þat he ouercome þe fend, and on such
+<LB/><MILESTONE UNIT="line" N="221"/> maner he ouercome hym þat þe fend doutid as moche
+<LB/><MILESTONE UNIT="line" N="222"/> last as first.</P>
+<P> <MILESTONE UNIT="line" N="223"/> But now ferþermore oþer wordis of þe text
+<LB/><MILESTONE UNIT="line" N="224"/> declaren þe maner of þe fendis temptyng, and also
+<LB/><MILESTONE UNIT="line" N="225"/> hou ofte he temptid hym in desert, for þries, as
+<LB/><MILESTONE UNIT="line" N="226"/> þe text shewiþ, þe feend temptid Crist in desert.
+<LB/><MILESTONE UNIT="line" N="227"/> But if we take heede to þe maner of temptyng, we
+<LB/><MILESTONE UNIT="line" N="228"/> mai se þat þe feend first temptid Crist in
+<LB/><MILESTONE UNIT="line" N="229"/> glotonye, whan he moued hym þat was so hungri, to
+<LB/><MILESTONE UNIT="line" N="230"/> make looues of hard stones. Þe second tyme he
+<LB/><MILESTONE UNIT="line" N="231"/> temptid hym in veyn glorie, whan he mouyd hym
+<LB/><MILESTONE UNIT="line" N="232"/> to skippe doun hedlyng, whan he had set hym vpon
+<LB/><MILESTONE UNIT="line" N="233"/> þe pynnacle of þe temple. Þe þrid tyme he temptid
+<LB/><MILESTONE UNIT="line" N="234"/> hym in pompous pride, whan he bihiȝt hym prinshed
+<LB/><MILESTONE UNIT="line" N="235"/> and þe glorie of al þis world, if he wolde falle
+<LB/><MILESTONE UNIT="line" N="236"/> doun and worshipe hym.</P>
+<P> <MILESTONE UNIT="line" N="237"/> But Matheu rehersiþ not þese temptaciouns
+<LB/><MILESTONE UNIT="line" N="238"/> arewe as þei wern doon, but he telliþ aftir þe <MILESTONE UNIT="folio" N="57r"/>
+<LB/><MILESTONE UNIT="line" N="239"/> maner of temptyng þat þe feend temptid Adam. But
+<LB/><MILESTONE UNIT="line" N="240"/> Luyk rehersiþ þese temptaciouns arewe euenlich as
+<LB/><MILESTONE UNIT="line" N="241"/> þei wern doon, not wiþseiyng Matheus sentence.
+<LB/><MILESTONE UNIT="line" N="242"/> For first Luyk puttiþ glotonye and aftirward
+<LB/><MILESTONE UNIT="line" N="243"/> auarice, and þe þrid tyme pride, for it is fressh
+<LB/><MILESTONE UNIT="line" N="244"/> boþe first and last.</P>
+<P> <MILESTONE UNIT="line" N="245"/> But Crist ouercam be feend in al þat he
+<LB/><MILESTONE UNIT="line" N="246"/> ouercam Adam. In glotonye þe fend ouercam Adam,
+<LB/><MILESTONE UNIT="line" N="247"/> whan he mouyd hym to ete of þe tree þat God
+<LB/><MILESTONE UNIT="line" N="248"/> forbad hym to ete of. He temptid hym in veyn
+<LB/><MILESTONE UNIT="line" N="249"/> glorie whan he seide, "Ȝe shuln be as Goddis."
+<LB/><MILESTONE UNIT="line" N="250"/> He temptid hym in auarice, whan he seide, "ȝe
+<LB/><MILESTONE UNIT="line" N="251"/> shuln be knowyng boþe good and yuel." And in
+<LB/><MILESTONE UNIT="line" N="252"/> alle þese temptaciouns þe fend ouercam Adam.
+<LB/><MILESTONE UNIT="line" N="253"/> But as Dauiþ ouerþrew Golie with þre stoones þat
+<LB/><MILESTONE UNIT="line" N="254"/> he took of þe brook-side, so Crist ouercam þe
+<LB/><MILESTONE UNIT="line" N="255"/> deuel with þre witnessyngs þat he took of his
+<LB/><MILESTONE UNIT="line" N="256"/> Fadris Lawe. And þus Crist ȝaf vs gret ensaumple
+<LB/><MILESTONE UNIT="line" N="257"/> to seche oure victorie bi mekenesse and not bi
+<LB/><MILESTONE UNIT="line" N="258"/> pride, bi wisdom of God and not bi bostful wordli
+<LB/><MILESTONE UNIT="line" N="259"/> power, bi resoun of Goddis lawe and not bi þe hiȝ
+<LB/><MILESTONE UNIT="line" N="260"/> vertu of God in sechyng of bodili myraclis.</P>
+<P> <MILESTONE UNIT="line" N="261"/> Þe Euangelist seiþ ferþer: <Q>Þanne þe fend
+<LB/><MILESTONE UNIT="line" N="262"/> lefte hym,</Q> as he þat was ouercomen and schend.
+<LB/><MILESTONE UNIT="line" N="263"/> But as Mark seiþ, "He lefte hym, but for a tyme."
+<LB/><MILESTONE UNIT="line" N="264"/> For aftirward he assailed hym bi his seruauntis
+<LB/><MILESTONE UNIT="line" N="265"/> þat wern þe Iewis.
+<Q> <MILESTONE UNIT="line" N="266"/> And aungels comen to, and mynyrstriden hym.</Q>
+<LB/><MILESTONE UNIT="line" N="267"/> And þus temptacioun ȝede bifore and victorie
+<LB/><MILESTONE UNIT="line" N="268"/> folewid aftir; and herfor aungels mynystriden hym
+<LB/><MILESTONE UNIT="line" N="269"/> to shewe fulli þe worþynesse of his victorie.
+<LB/><MILESTONE UNIT="line" N="270"/> And so of þis þyng, we mai se þat þe nature of
+<LB/><MILESTONE UNIT="line" N="271"/> Godhed and þe nature of manhed ben þe same oon
+<LB/><MILESTONE UNIT="line" N="272"/> Cristis persone. For man it was þat þe fend
+<LB/><MILESTONE UNIT="line" N="273"/> temptid, and þe same man was God þat aungels
+<LB/><MILESTONE UNIT="line" N="274"/> mynystriden to. Þerfor worþili is he clepid and
+<LB/><MILESTONE UNIT="line" N="275"/> bileuyd Lord of aungels, whos birþe aungels
+<LB/><MILESTONE UNIT="line" N="276"/> sheweden, and wern redi at his seruyce whan he
+<LB/><MILESTONE UNIT="line" N="277"/> was temptid, at his diyng and vprisyng and whan
+<LB/><MILESTONE UNIT="line" N="278"/> he shuld ascende to heuen, and also aungels
+<LB/><MILESTONE UNIT="line" N="279"/> shewiden his second comyng not oonli to þe
+<LB/><MILESTONE UNIT="line" N="280"/> apostlis but to alle men of riȝt bileue.</P>
+<P> <MILESTONE UNIT="line" N="281"/> Þerfor worshipe we in hym his Godhed, þat he
+<LB/><MILESTONE UNIT="line" N="282"/> bowid loweli doun for to ȝyue vs ensaumple of
+<LB/><MILESTONE UNIT="line" N="283"/> mekenesse. Worshipe we in hym oure kynde, þat bi
+<LB/><MILESTONE UNIT="line" N="284"/> vertu of his Godhed, he lift ful hiȝ aboue aungels.
+<LB/><MILESTONE UNIT="line" N="285"/> For þat mannes kynde in Crist shuld þus be
+<LB/><MILESTONE UNIT="line" N="286"/> worshipid, Seynt Austyn shewiþ openli and seiþ,
+<LB/><MILESTONE UNIT="line" N="287"/> "Þerfor I worshipe oure Lordis flessh, ȝhe, þe
+<LB/><MILESTONE UNIT="line" N="288"/> parfit manhed in Crist; for it was vnderfonge of
+<LB/><MILESTONE UNIT="line" N="289"/> þe Godhed and also ooned to þe Godhed. And þese
+<LB/><MILESTONE UNIT="line" N="290"/> two kyndis in Crist maken not two persones in
+<LB/><MILESTONE UNIT="line" N="291"/> Crist, but I knouleche hem to be Crist, oon God
+<LB/><MILESTONE UNIT="line" N="292"/> and man, veri Sone of God." Studie we now þerfor
+<LB/><MILESTONE UNIT="line" N="293"/> to gete þe dignite of þis manlich kynde, with
+<LB/><MILESTONE UNIT="line" N="294"/> vertuouse lyuyng while we ben here. Longe we
+<LB/><MILESTONE UNIT="line" N="295"/> toward þis dignite with fastyngs, wakyngs and
+<LB/><MILESTONE UNIT="line" N="296"/> preieris, with almesdedis, and with al þe
+<LB/><MILESTONE UNIT="line" N="297"/> deuocioun of oure hertis. For ȝit it is not
+<LB/><MILESTONE UNIT="line" N="298"/> openli shewid what we shuln be, but we witen wel
+<LB/><MILESTONE UNIT="line" N="299"/> þat [whan] Crist oure lijf shal appere openli to
+<LB/><MILESTONE UNIT="line" N="300"/> al þe world, þan soone we shuln appere with hym <MILESTONE UNIT="folio" N="57v"/>
+<LB/><MILESTONE UNIT="line" N="301"/> in blisse, and þanne we shuln be liche to hym,
+<LB/><MILESTONE UNIT="line" N="302"/> for as he is face to face we suln se hym in þe
+<LB/><MILESTONE UNIT="line" N="303"/> blisse of heuen. Amen.</P></DIV1>
+<DIV1 TYPE="sermon" N="2 Dom. Lent">
+<HEAD>[3.] Þe seconde Sunday of Lentoun</HEAD>
+<EPIGRAPH><BIBL>Mathew .15.</BIBL>
+<Q><P> <MILESTONE UNIT="line" N="1"/> Ovre Lord Ihesu, goon out, ȝede into þe
+<LB/><MILESTONE UNIT="line" N="2"/> coostis of Tire and of Sydon. And lo, a womman
+<LB/><MILESTONE UNIT="line" N="3"/> of Cananee goon out of þo coostis cried, seiyng
+<LB/><MILESTONE UNIT="line" N="4"/> to hym, "Lord, sone of Dauiþ, haue mercy on me.
+<LB/><MILESTONE UNIT="line" N="5"/> My douȝtir is yuel turmentid of a fend." And he
+<LB/><MILESTONE UNIT="line" N="6"/> answerd not to hir a word. And his disciples,
+<LB/><MILESTONE UNIT="line" N="7"/> comyng to hym, preiden hym, seiynge "Delyuere
+<LB/><MILESTONE UNIT="line" N="8"/> hir, for she crieþ aftir vs." And he answerd and
+<LB/><MILESTONE UNIT="line" N="9"/> seide, "I am not sent but to þe sheep þat han
+<LB/><MILESTONE UNIT="line" N="10"/> perishid of þe hous of Israel." And she cam and
+<LB/><MILESTONE UNIT="line" N="11"/> worshipide hym, seiyng, "Lord, help me. " And
+<LB/><MILESTONE UNIT="line" N="12"/> he answerd, and seide, "It is not [good] to
+<LB/><MILESTONE UNIT="line" N="13"/> take þe breed of sones, and sende it to houndis."</P> 
+<P> <MILESTONE UNIT="line" N="14"/> And þanne seide she, "Sooþ, Lord, but ȝit þe
+<LB/><MILESTONE UNIT="line" N="15"/> whelpis eten of þe crummes þat fallen fro þe boord
+<LB/><MILESTONE UNIT="line" N="16"/> of her lordis." And [þanne] Ihesus answerid, and
+<LB/><MILESTONE UNIT="line" N="17"/> seide to hir, "A, womman, þi bileue is moche. Be
+<LB/><MILESTONE UNIT="line" N="18"/> it doon to þee as þou wolt." And hir douȝtir was
+<LB/><MILESTONE UNIT="line" N="19"/> heelid fro þat houre forþ.</P></Q></EPIGRAPH>
+<P> <MILESTONE UNIT="line" N="20"/> Oure Lord and oure aȝenbier, þat cam into þis
+<LB/><MILESTONE UNIT="line" N="21"/> world for to seche and [to] saue þat þyng þat
+<LB/><MILESTONE UNIT="line" N="22"/> was perishid, puttiþ aboute here and þere
+<LB/><MILESTONE UNIT="line" N="23"/> bifore oure iȝen hooli folk þat we shulden
+<LB/><MILESTONE UNIT="line" N="24"/> folowe in liuyng. For in many places he settiþ
+<LB/><MILESTONE UNIT="line" N="25"/> forþ bifore synful men grete ensaumplis of his
+<LB/><MILESTONE UNIT="line" N="26"/> mercy. For take we heede to Petir and Poul, to
+<LB/><MILESTONE UNIT="line" N="27"/> þe þeef, to Ȝachee, and to Marie, and also to þe
+<LB/><MILESTONE UNIT="line" N="28"/> woman of Cananee, and þanne in alle þese moun we
+<LB/><MILESTONE UNIT="line" N="29"/> se þat God haþ put bifore oure iȝen sadnesse of
+<LB/><MILESTONE UNIT="line" N="30"/> hope and of penaunce. For if ony man in bileue
+<LB/><MILESTONE UNIT="line" N="31"/> be sliden awei and greuousli haþ pursued Cristis
+<LB/><MILESTONE UNIT="line" N="32"/> puple þat is clepid Holi Chirche, loke he sadli
+<LB/><MILESTONE UNIT="line" N="33"/> vpon Petir and on Poul. For Petir wept bitturli
+<LB/><MILESTONE UNIT="line" N="34"/> whan he had denyed Crist for feere, and Poul ȝaf
+<LB/><MILESTONE UNIT="line" N="35"/> himsilf to þe deþ for Crist, for he had crueli
+<LB/><MILESTONE UNIT="line" N="36"/> pursued Cristis seyntis. [Also] if ony man haue
+<LB/><MILESTONE UNIT="line" N="37"/> be brent in malice and cruelnesse aȝens his
+<LB/><MILESTONE UNIT="line" N="38"/> neiȝbore, biþenke he wel vpon þe þeef þat in perel
+<LB/><MILESTONE UNIT="line" N="39"/> of deþ þorouȝ fruytful forþynkyng cam to þe mede
+<LB/><MILESTONE UNIT="line" N="40"/> of heuenli blisse. [Also] if ony man haue
+<LB/><MILESTONE UNIT="line" N="41"/> breþid with gret heete of auarice, and so
+<LB/><MILESTONE UNIT="line" N="42"/> raueshid oþer mennys good, take he heede to
+<LB/><MILESTONE UNIT="line" N="43"/> Ȝachee, þat seide he wolde ȝyue þe foure double
+<LB/><MILESTONE UNIT="line" N="44"/> if he had take any mannes good with wrong. Also
+<LB/><MILESTONE UNIT="line" N="45"/> if ony man haue be tend with þe fier of leccherie,
+<LB/><MILESTONE UNIT="line" N="46"/> and so haue lost þe clennesse of his bodi,
+<LB/><MILESTONE UNIT="line" N="47"/> biþenke he on Marie Mawdeleyn þat dried vp hir
+<LB/><MILESTONE UNIT="line" N="48"/> yuel flesshli lust with þe fier of inward sorowe.
+<LB/><MILESTONE UNIT="line" N="49"/> Also if ony man fele hymsilf nyȝ deed bi synne,
+<LB/><MILESTONE UNIT="line" N="50"/> turne hym fast to þis womman of Cananee, þorouȝ
+<LB/><MILESTONE UNIT="line" N="51"/> whos bileue and deuocioun hir douȝtir þat was so
+<LB/><MILESTONE UNIT="line" N="52"/> yuel turmentid was delyuerid from þe deuel and
+<LB/><MILESTONE UNIT="line" N="53"/> restorid to her helþe. But on what maner þis was
+<LB/><MILESTONE UNIT="line" N="54"/> doon, here we boþe profitabli and shortli.
+<Q> <MILESTONE UNIT="line" N="55"/> Oure Lord <MILESTONE UNIT="folio" N="58r"/> Ihesu goon [out],</Q> þat is, of þe
+<LB/><MILESTONE UNIT="line" N="56"/> priuynesse of his Fadir, or ellis litterali of
+<LB/><MILESTONE UNIT="line" N="57"/> þe Iewri, and also of þe hous þat Mark seiþ he
+<LB/><MILESTONE UNIT="line" N="58"/> was ynne whan þe womman cam to hym, þat, as
+<LB/><MILESTONE UNIT="line" N="59"/> Mathew seiþ, folewid hym anoon whan he was goon
+<LB/><MILESTONE UNIT="line" N="60"/> fro þennes, with deuoute bileue and certeyn hope,
+<LB/><MILESTONE UNIT="line" N="61"/> and also with charite not feyned. <Q>He ȝede forþ
+<LB/><MILESTONE UNIT="line" N="62"/> into þe coostis of Tir[e] and of Sidon.</Q> Þat is to
+<LB/><MILESTONE UNIT="line" N="63"/> sei, he cam into þis world þat is bitokened bi
+<LB/><MILESTONE UNIT="line" N="64"/> Tire and Sidon, for Sidon is as moche to sei as
+<LB/><MILESTONE UNIT="line" N="65"/> vnprofitable huntyng, and Tire is as moche to sei
+<LB/><MILESTONE UNIT="line" N="66"/> as angwish. Also <Q>he ȝede forþ</Q> fro þe wickid Iewis
+<LB/><MILESTONE UNIT="line" N="67"/> bi þe prechyng of þe apostlis and turned hym to þe
+<LB/><MILESTONE UNIT="line" N="68"/> heþen folk þat receyueden hym bi bileue. And herfor
+<LB/><MILESTONE UNIT="line" N="69"/> seide Poul, in repreef [of] þe Iewis, "For ȝe han
+<LB/><MILESTONE UNIT="line" N="70"/> put fro ȝou þe word of God and demed ȝow silf
+<LB/><MILESTONE UNIT="line" N="71"/> vnworþi lijf euerlastyng, lo we ben turned to þe
+<LB/><MILESTONE UNIT="line" N="72"/> heþen folk."</P>
+<P> <MILESTONE UNIT="line" N="73"/> But now gostli [þese] too citees bitokenen
+<LB/><MILESTONE UNIT="line" N="74"/> too maner of synful folk in þis world, for ech
+<LB/><MILESTONE UNIT="line" N="75"/> synful man dwelliþ eiþer in Tire or in Sidon,
+<LB/><MILESTONE UNIT="line" N="76"/> þat is to sey in angwish of priue synne or ellis
+<LB/><MILESTONE UNIT="line" N="77"/> in huntyng, þat bitokeneþ open synne. For he
+<LB/><MILESTONE UNIT="line" N="78"/> dwelliþ in gret angwish þat beriþ his synnes
+<LB/><MILESTONE UNIT="line" N="79"/> priueli and wole not shewe hem out for to haue
+<LB/><MILESTONE UNIT="line" N="80"/> his soule helþe, for wheþer he sitte or ellis go,
+<LB/><MILESTONE UNIT="line" N="81"/> he is ful streiȝtli bownde with a woundid
+<LB/><MILESTONE UNIT="line" N="82"/> conscience. And þus if he go to batel, "Alas,"
+<LB/><MILESTONE UNIT="line" N="83"/> he seiþ, "if I die here, I shal be [put] in
+<LB/><MILESTONE UNIT="line" N="84"/> þraldum, in sorowe of helle." If he be in perel
+<LB/><MILESTONE UNIT="line" N="85"/> of watir, "Alas," he seiþ, "if I be dreynt, soone
+<LB/><MILESTONE UNIT="line" N="86"/> wole þe fend put me to þe pyne of helle. " If he
+<LB/><MILESTONE UNIT="line" N="87"/> here þe grete blastis of þondir and se þe feerdful
+<LB/><MILESTONE UNIT="line" N="88"/> leytyngs of fier, he waxiþ pale and quakiþ fast.
+<LB/><MILESTONE UNIT="line" N="89"/> And for he is sore biten with þe conscience of
+<LB/><MILESTONE UNIT="line" N="90"/> greuouse synnes, þerfor he wenyþ to be smyten
+<LB/><MILESTONE UNIT="line" N="91"/> with þe grisli leityng fier. Þerfor, wel is it
+<LB/><MILESTONE UNIT="line" N="92"/> seid þat þis synful man dwelliþ in Tire, [for]
+<LB/><MILESTONE UNIT="line" N="93"/> oueral where he be, he is sore pressid in angwish
+<LB/><MILESTONE UNIT="line" N="94"/> of conscience for manyfolde synnes. But he þat
+<LB/><MILESTONE UNIT="line" N="95"/> dwelliþ in Sidon, þat is to sey, he þat openli
+<LB/><MILESTONE UNIT="line" N="96"/> without shame, ȝyueþ hym to dyuers horrible synnes,
+<LB/><MILESTONE UNIT="line" N="97"/> he is turned to an vnprofitable huntyng, for he
+<LB/><MILESTONE UNIT="line" N="98"/> is ful fast shakelid with þe grenys of þe deuel.</P>
+<P> <MILESTONE UNIT="line" N="99"/> And þus þe deuel is an hunter in þis world
+<LB/><MILESTONE UNIT="line" N="100"/> and is bitokened bi Nemroth, þat was a ful gret
+<LB/><MILESTONE UNIT="line" N="101"/> hunter, as is witnessid in Holi Scripture. Þe
+<LB/><MILESTONE UNIT="line" N="102"/> hou[n]dis of þe fend ben wickid spiritis þat ben
+<LB/><MILESTONE UNIT="line" N="103"/> his sogetis. And as þe hunter abidiþ þe tyme and
+<LB/><MILESTONE UNIT="line" N="104"/> þe place moost liȝtli to cacche þe wield beest bi
+<LB/><MILESTONE UNIT="line" N="105"/> vncouplyng of his houndis, so þe deuel secheþ
+<LB/><MILESTONE UNIT="line" N="106"/> bisilich what tyme and whic[h]e seruauntis he
+<LB/><MILESTONE UNIT="line" N="107"/> shal sende to cacche man and womman in to synne.
+<LB/><MILESTONE UNIT="line" N="108"/> And as þe hunter, anoon as he haþ cauȝt þe beest,
+<LB/><MILESTONE UNIT="line" N="109"/> sleiþ it and ȝetiþ out þe blood, so þe feend, anoon
+<LB/><MILESTONE UNIT="line" N="110"/> as he haþ cauȝt mannes soule fro God, anoon as he
+<LB/><MILESTONE UNIT="line" N="111"/> mai, he sleiþ it, turmentyng it in þe fier of
+<LB/><MILESTONE UNIT="line" N="112"/> helle.</P>
+<P> <MILESTONE UNIT="line" N="113"/> Þerfor he þat dwelliþ in Sidon, þat is to sey,
+<LB/><MILESTONE UNIT="line" N="114"/> is an open synner without shame, is wrecchidli
+<LB/><MILESTONE UNIT="line" N="115"/> maad a þral to þis feendis huntyng. And also he
+<LB/><MILESTONE UNIT="line" N="116"/> þat dwelliþ in Tire, þat is to sey, delitiþ hym
+<LB/><MILESTONE UNIT="line" N="117"/> priueli in dyuerse synnes, he is þrist togidere
+<LB/><MILESTONE UNIT="line" N="118"/> ful sore in gret spiritual <MILESTONE UNIT="folio" N="58v"/> angwish. An[d] so
+<LB/><MILESTONE UNIT="line" N="119"/> for to delyuere þese too maner synful folk, <Q>oure
+<LB/><MILESTONE UNIT="line" N="120"/> Lord ȝede forþ</Q> bi his merci whan he com into þis
+<LB/><MILESTONE UNIT="line" N="121"/> world for to take oure feble kynde. And þus he
+<LB/><MILESTONE UNIT="line" N="122"/> was liche oþer men in þyngs þat longiden to kynde
+<LB/><MILESTONE UNIT="line" N="123"/> of man, but he was without filþe of synne þat cam
+<LB/><MILESTONE UNIT="line" N="124"/> to saue synful men.</P>
+<P> <MILESTONE UNIT="line" N="125"/> It folowiþ ferþer in þe text: <Q>And lo a womman
+<LB/><MILESTONE UNIT="line" N="126"/> of Cananee,</Q> þat is to sey, þe cumpanye of heþen
+<LB/><MILESTONE UNIT="line" N="127"/> folk, <Q>was qoon out of þo coostis,</Q> þat is to sey
+<LB/><MILESTONE UNIT="line" N="128"/> fro þe derkenessis of her vnknowyng, and from
+<LB/><MILESTONE UNIT="line" N="129"/> worshipyng of her mawmetis, and from her olde
+<LB/><MILESTONE UNIT="line" N="130"/> cursid lyuyng. And in figure herof, Abraham ȝede
+<LB/><MILESTONE UNIT="line" N="131"/> out of Hur of Caldeis, and also Loth out of Sodom,
+<LB/><MILESTONE UNIT="line" N="132"/> and þe children of Israel out of Egipt. Also in
+<LB/><MILESTONE UNIT="line" N="133"/> bitokenyng herof, þe Queen of þe Souȝt cam fro
+<LB/><MILESTONE UNIT="line" N="134"/> þe vtmost coostis of erþe for to here þe wisdom
+<LB/><MILESTONE UNIT="line" N="135"/> of Salamon. And but if þis womman of Cananee had
+<LB/><MILESTONE UNIT="line" N="136"/> goon out þus of her coostis, she wold not haue
+<LB/><MILESTONE UNIT="line" N="137"/> cried with gret deuocioun on þis maner, <Q>"Haue
+<LB/><MILESTONE UNIT="line" N="138"/> merci on me, sone of Dauiþ."</Q> And ful riȝtli
+<LB/><MILESTONE UNIT="line" N="139"/> clepid she hym Lord and sone of Dauiþ, in
+<LB/><MILESTONE UNIT="line" N="140"/> bitokenyng þat Hooli Chirche shuld feiþfuli
+<LB/><MILESTONE UNIT="line" N="141"/> knouleche hym boþe God and man. And for þis
+<LB/><MILESTONE UNIT="line" N="142"/> womman bi þe grace of þe Holi Goost vnderstod þis
+<LB/><MILESTONE UNIT="line" N="143"/> wel, þerfor went she not to Petir, to Ioon, nor to
+<LB/><MILESTONE UNIT="line" N="144"/> Iames, no[r] to ony of þe apostlis, but tristyng
+<LB/><MILESTONE UNIT="line" N="145"/> vpon þe gret merci of God, in stide of hem alle,
+<LB/><MILESTONE UNIT="line" N="146"/> she took with her forþenkynge, and so ran to þe
+<LB/><MILESTONE UNIT="line" N="147"/> depe welle of merci. And she brouȝt not with hir
+<LB/><MILESTONE UNIT="line" N="148"/> þe siyk maiden þat she cam to preie fore, but bi
+<LB/><MILESTONE UNIT="line" N="149"/> gret bileue she seide þus withynne hirsilf, "It is
+<LB/><MILESTONE UNIT="line" N="150"/> God þat I go to. Þouȝ þyng be absent, he seeþ it
+<LB/><MILESTONE UNIT="line" N="151"/> wel; he biholdiþ hid þyngs; alle þyngs he mai wel ;
+<LB/><MILESTONE UNIT="line" N="152"/> alle þyngs he knowiþ fulli."</P>
+<P> <MILESTONE UNIT="line" N="153"/> And þus oonlich she opened þe cause of hir
+<LB/><MILESTONE UNIT="line" N="154"/> sorowe and seide to Crist on þis maner, <Q>"My
+<LB/><MILESTONE UNIT="line" N="155"/> douȝtir is ful yuel turmentid of a fend."</Q> Þat is
+<LB/><MILESTONE UNIT="line" N="156"/> to sei, "Ofte I se hir iȝen weiwardli turned.
+<LB/><MILESTONE UNIT="line" N="157"/> Ofte hir cheer is swart as blood. Ofte hir hondis
+<LB/><MILESTONE UNIT="line" N="158"/> ben turned wrong. Ofte hir heer is to-drawe. Ofte
+<LB/><MILESTONE UNIT="line" N="159"/> hir necke is wried mys. Ofte she froþiþ at þe
+<LB/><MILESTONE UNIT="line" N="160"/> mouþ. Ofte I here hir enemye come yn, but he is
+<LB/><MILESTONE UNIT="line" N="161"/> not seyn. Ofte I here sown of betyng. Ofte she
+<LB/><MILESTONE UNIT="line" N="162"/> answeriþ with gret cri whan I here noon speke to
+<LB/><MILESTONE UNIT="line" N="163"/> hir. And, good Lord, þis it is þat I weile, þis
+<LB/><MILESTONE UNIT="line" N="164"/> it is þat I sorowe, þis it is þat makiþ me ferd,
+<LB/><MILESTONE UNIT="line" N="165"/> þis it is þat on al wise I desire, þat for þi
+<LB/><MILESTONE UNIT="line" N="166"/> pitee þou woldest put awei from hir."</P>
+<P> <MILESTONE UNIT="line" N="167"/> But now gostli as is seid bifore <Q>þis womman</Q>
+<LB/><MILESTONE UNIT="line" N="168"/> bitokeneþ þe puple turned to bileue þat is clepid
+<LB/><MILESTONE UNIT="line" N="169"/> Hooli Chirche, þat preieþ <Q>for hir douȝtir,</Q> þat is
+<LB/><MILESTONE UNIT="line" N="170"/> to sei, for certeyn persones þat be not trewe in
+<LB/><MILESTONE UNIT="line" N="171"/> bileue þat þei mown be vnbownden fro þe snare of
+<LB/><MILESTONE UNIT="line" N="172"/> þe deuelis disseit, wherwith þei han longe be
+<LB/><MILESTONE UNIT="line" N="173"/> wiþholden and trauelid as it were of a fend. Also
+<LB/><MILESTONE UNIT="line" N="174"/> þis douȝtir bitokeneþ þe soule and þe conscience
+<LB/><MILESTONE UNIT="line" N="175"/> of man þat bi synne is maad boond to þe fend.
+<LB/><MILESTONE UNIT="line" N="176"/> And þis douȝtir is turmentid with as many fendis
+<LB/><MILESTONE UNIT="line" N="177"/> as it [is] wrecchidli ouerþrest with dyuerse
+<LB/><MILESTONE UNIT="line" N="178"/> greuouse synnes. For whos herte shrewid
+<LB/><MILESTONE UNIT="line" N="179"/> couetise ouercomeþ and pride blowiþ, whos hert
+<LB/><MILESTONE UNIT="line" N="180"/> wraþþe torendiþ and lecherie defouliþ, whos hert
+<LB/><MILESTONE UNIT="line" N="181"/> enuye waastiþ and hate <MILESTONE UNIT="folio" N="59r"/> bryngiþ yn vnreste and
+<LB/><MILESTONE UNIT="line" N="182"/> also auarise blemesshiþ, he without doute beriþ
+<LB/><MILESTONE UNIT="line" N="183"/> a douȝtir ful sore trauelid, for whom Holi Chirche
+<LB/><MILESTONE UNIT="line" N="184"/> shulde ofte prey. And also man þat haþ be
+<LB/><MILESTONE UNIT="line" N="185"/> defoulid with synne, shuld preie for his conscience
+<LB/><MILESTONE UNIT="line" N="186"/> so foule blemesshid.</P>
+<P> <MILESTONE UNIT="line" N="187"/> It folewiþ ferþer in þe text: <Q>And he answerid
+<LB/><MILESTONE UNIT="line" N="188"/> hir not a word.</Q> And þis was not of pride, but for
+<LB/><MILESTONE UNIT="line" N="189"/> grete priue skiles: oon to put awei þe myscalenge
+<LB/><MILESTONE UNIT="line" N="190"/> of þe Pharisees, if he had spoken anoon homeli to
+<LB/><MILESTONE UNIT="line" N="191"/> hir; an oþer þat he taried of his speche was to
+<LB/><MILESTONE UNIT="line" N="192"/> moue more and more þe bileue of þe womman, and þe
+<LB/><MILESTONE UNIT="line" N="193"/> þridde to stire his disciples to pite. And so
+<LB/><MILESTONE UNIT="line" N="194"/> here we moun vnderstonde þat if man haue be
+<LB/><MILESTONE UNIT="line" N="195"/> trauelid with a feend þat bitokeneþ greuouse synne,
+<LB/><MILESTONE UNIT="line" N="196"/> and desireþ of God dyuers remedie, as hym semeþ,
+<LB/><MILESTONE UNIT="line" N="197"/> to soule helþe, and haþ not anoon al his likyng,
+<LB/><MILESTONE UNIT="line" N="198"/> he shuld not þerfor dispeire but cheeflich trist
+<LB/><MILESTONE UNIT="line" N="199"/> to Goddis grace and laste in praieris as dide þis
+<LB/><MILESTONE UNIT="line" N="200"/> womman. For þanne Goddis halewen ben stirid bi
+<LB/><MILESTONE UNIT="line" N="201"/> godenesse þat þei taken of her God to preie for
+<LB/><MILESTONE UNIT="line" N="202"/> profit of siche a man þat God wole haue holpen of
+<LB/><MILESTONE UNIT="line" N="203"/> his grace.</P>
+<P> <MILESTONE UNIT="line" N="204"/> And so it is seid ferþer in þe text <Q>þat Cristis
+<LB/><MILESTONE UNIT="line" N="205"/> disciplis comen to hym,</Q> not oonli with mouyng
+<LB/><MILESTONE UNIT="line" N="206"/> neer of her feet, but also with a pitouse desijr
+<LB/><MILESTONE UNIT="line" N="207"/> of her hertis, <Q>and preieden hym, seiyng, "Lord,
+<LB/><MILESTONE UNIT="line" N="208"/> delyuer hir."</Q> Þat is to sei, "Haue merci vpon hir,
+<LB/><MILESTONE UNIT="line" N="209"/> as þou art woned to do merci, þorouȝ þi gret
+<LB/><MILESTONE UNIT="line" N="210"/> pitee, whom þou tariest and not herist to hir
+<LB/><MILESTONE UNIT="line" N="211"/> semyng. <Q>Delyuer hir, for she crieþ aftir vs.</Q>
+<LB/><MILESTONE UNIT="line" N="212"/> Þis womman crieþ for to be holpen. Þis womman
+<LB/><MILESTONE UNIT="line" N="213"/> crieþ, shewyng mornyngli hir gret disese.
+<LB/><MILESTONE UNIT="line" N="214"/> Þerfor, <Q>delyuer hir</Q> whom þou tariest and herist
+<LB/><MILESTONE UNIT="line" N="215"/> not as it semeþ."</P>
+<P> <MILESTONE UNIT="line" N="216"/> Lo, þis womman, hou she was praid fore of
+<LB/><MILESTONE UNIT="line" N="217"/> Cristis disciplis. Oon skil was for þei knew not
+<LB/><MILESTONE UNIT="line" N="218"/> ȝit þe cause whi þat Crist taried þus of his
+<LB/><MILESTONE UNIT="line" N="219"/> answere. An oþer skil, for þei wern moued to
+<LB/><MILESTONE UNIT="line" N="220"/> merci, for reuþe þat þei hadden vpon þis womman;
+<LB/><MILESTONE UNIT="line" N="221"/> and þe þrid þat hit þouȝte hem greuouse þat she
+<LB/><MILESTONE UNIT="line" N="222"/> was þus taried and cried aftir hem so longe. But
+<LB/><MILESTONE UNIT="line" N="223"/> Crist seide to hem þus, <Q>"I am not sent but to þe
+<LB/><MILESTONE UNIT="line" N="224"/> sheep þat han perishid of þe hous of Israel."</Q> [He
+<LB/><MILESTONE UNIT="line" N="225"/> seide not to þe womman, "Go hens fro me." Neiþer
+<LB/><MILESTONE UNIT="line" N="226"/> he seide to his disciplis, "Put hir awei out of my
+<LB/><MILESTONE UNIT="line" N="227"/> siȝt. <Q>I am not sent,"</Q> he seide, <Q>"but to þe sheep
+<LB/><MILESTONE UNIT="line" N="228"/> þat han perishid of þe hous of Israel."</Q>] As if
+<LB/><MILESTONE UNIT="line" N="229"/> Crist wold seie, "Þis womman is comen fro fer. She
+<LB/><MILESTONE UNIT="line" N="230"/> cam to me and axid me a boon. She haþ clepid me
+<LB/><MILESTONE UNIT="line" N="231"/> Lord and sone of Dauiþ, but I wole þat she
+<LB/><MILESTONE UNIT="line" N="232"/> knouleche me fulli veri God, and also laste in
+<LB/><MILESTONE UNIT="line" N="233"/> feiþful preier to ensaumple of oþer aftir."
+<Q> <MILESTONE UNIT="line" N="234"/> And</Q> þus þis <Q>womman,</Q> ful of mekenesse and bileue,
+<Q> <MILESTONE UNIT="line" N="235"/> cam and worshipid hym, seiyng, "Lord, help me."</Q> 
+<LB/><MILESTONE UNIT="line" N="236"/> Lo, [hou] þis womman profitede in encrees of bileue,
+<LB/><MILESTONE UNIT="line" N="237"/> for hym þat she clepid first sone of Dauiþ, now
+<LB/><MILESTONE UNIT="line" N="238"/> she worshipiþ hym verili as Lord of heuen and of
+<LB/><MILESTONE UNIT="line" N="239"/> erþe, and þus sum maner answere she deseruyd to
+<LB/><MILESTONE UNIT="line" N="240"/> haue of Crist. <Q>"It is not good,"</Q> seide Crist, <Q>"to
+<LB/><MILESTONE UNIT="line" N="241"/> take þe breed of sones,</Q> þat is to sey, of Iewis
+<LB/><MILESTONE UNIT="line" N="242"/> þat ben sones bi biheest þat was maad to Abraham,
+<Q> <MILESTONE UNIT="line" N="243"/> and sende it to houndis,</Q> þat is to sei, to ȝou þat
+<LB/><MILESTONE UNIT="line" N="244"/> ben heþen houndis bi vnclennesse and mysbileue. "
+<Q> <MILESTONE UNIT="line" N="245"/> And she seide to Crist, "Sooþ, Lord."</Q> Lo þe
+<LB/><MILESTONE UNIT="line" N="246"/> stedfastness of þis womman. Lo þe <MILESTONE UNIT="folio" N="59v"/> entent of hir
+<LB/><MILESTONE UNIT="line" N="247"/> hert. Lo þe parfitnesse of hir bileue. Þe leche
+<LB/><MILESTONE UNIT="line" N="248"/> wiþdrow hym to mannes semyng, but she left not to
+<LB/><MILESTONE UNIT="line" N="249"/> crie aftir heelþe. Neþeles she was not refusid
+<LB/><MILESTONE UNIT="line" N="250"/> as an yuel vnshamfast womman but she deserued to
+<LB/><MILESTONE UNIT="line" N="251"/> be commendid, for she abood to haue heelþe þat
+<LB/><MILESTONE UNIT="line" N="252"/> she axid and mekid hirsilf more and more seiyng,
+<Q> <MILESTONE UNIT="line" N="253"/> "But ȝit, Lord, ȝunge whelpis eten of þe crummes
+<LB/><MILESTONE UNIT="line" N="254"/> þat fallen from þe boord of her lordis."</Q> As if
+<LB/><MILESTONE UNIT="line" N="255"/> she seide, "It is sooþ, Lord, þat þou seist. I
+<LB/><MILESTONE UNIT="line" N="256"/> deserue not þe breed, þat is to sei, þe fillyng
+<LB/><MILESTONE UNIT="line" N="257"/> of euerlastyng swetnesse, or ellis to sitte at
+<LB/><MILESTONE UNIT="line" N="258"/> þe boord, þat is to seie Holi Scripture, þat
+<LB/><MILESTONE UNIT="line" N="259"/> specialy was bi-take to þe Iewis. But I holde me
+<LB/><MILESTONE UNIT="line" N="260"/> wel apaied with þe releuys, þat is to sei, with
+<LB/><MILESTONE UNIT="line" N="261"/> esi sacramentis of bileue þat longen to hem þat
+<LB/><MILESTONE UNIT="line" N="262"/> ben feble in bileue, as to vs heþen puple."</P>
+<P> <MILESTONE UNIT="line" N="263"/> And þus þis womman of Cananee was sette in
+<LB/><MILESTONE UNIT="line" N="264"/> foure faire vertues þat wern bitokened bi þe foure
+<LB/><MILESTONE UNIT="line" N="265"/> whelid chare of Amynadab. For þis womman, as is
+<LB/><MILESTONE UNIT="line" N="266"/> seid bifore, had a cleer bileue þat trowid fulli
+<LB/><MILESTONE UNIT="line" N="267"/> þat hir douȝtir myȝt be helid þouȝ she were bodili
+<LB/><MILESTONE UNIT="line" N="268"/> absent; and þis is þe first wheel. She had also
+<LB/><MILESTONE UNIT="line" N="269"/> a cheef pacience, for she ȝede not forþ awey
+<LB/><MILESTONE UNIT="line" N="270"/> whan Crist ȝaf hir not an answer, but lete hir
+<LB/><MILESTONE UNIT="line" N="271"/> aloone, as it were, withouten counfort; and þis is
+<LB/><MILESTONE UNIT="line" N="272"/> þe second wheel. She had also a gret stidfastnesse
+<LB/><MILESTONE UNIT="line" N="273"/> þat wold not leeue of of hir preier whan Crist
+<LB/><MILESTONE UNIT="line" N="274"/> shewid not vtterli wordis of counfort to hir-ward
+<LB/><MILESTONE UNIT="line" N="275"/> for þe preier of his disciplis; and þis was þe
+<LB/><MILESTONE UNIT="line" N="276"/> þrid wheel. She had also a ful gret mekenesse,
+<LB/><MILESTONE UNIT="line" N="277"/> þat she licned hirsilf to a whelp whan Crist
+<LB/><MILESTONE UNIT="line" N="278"/> licned hir to an hound; and þis [is] þe four[þ]e
+<LB/><MILESTONE UNIT="line" N="279"/> wheel.</P>
+<P> <MILESTONE UNIT="line" N="280"/> And now as we han herd of þese gostli
+<LB/><MILESTONE UNIT="line" N="281"/> wheelis arewe, so here we now shortli þe offis
+<LB/><MILESTONE UNIT="line" N="282"/> of hem. Þe first gostli wheel brouȝt þe womman
+<LB/><MILESTONE UNIT="line" N="283"/> of Cananee to Crist þat bileuyd treuli in hym,
+<LB/><MILESTONE UNIT="line" N="284"/> for bileue is bigynnyng of al goodnesse. Þe
+<LB/><MILESTONE UNIT="line" N="285"/> second gostli wheel made hir [to] come ful nyȝ
+<LB/><MILESTONE UNIT="line" N="286"/> [to] Crist, for bi pacience she lernyd to be-
+<LB/><MILESTONE UNIT="line" N="287"/> welde eseli hir soule. Þe þrid gostli wheel,
+<LB/><MILESTONE UNIT="line" N="288"/> stedfastnesse, couplid hir trewe in þe bileue to
+<LB/><MILESTONE UNIT="line" N="289"/> Crist; for not oonlich she deserued to haue his
+<LB/><MILESTONE UNIT="line" N="290"/> speche, but also his graciouse felouship for hir
+<LB/><MILESTONE UNIT="line" N="291"/> long and sad abidyng. But þe fourþe wheel,
+<LB/><MILESTONE UNIT="line" N="292"/> mekenesse, glorified hir ful myche; for he þat
+<LB/><MILESTONE UNIT="line" N="293"/> first left hir as it were withouten outward
+<LB/><MILESTONE UNIT="line" N="294"/> counfort, and þat answerid hir not a word, and
+<LB/><MILESTONE UNIT="line" N="295"/> þat likned hir to an hound, anoon aftir he brast
+<LB/><MILESTONE UNIT="line" N="296"/> out and seide, <Q>"O, womman, þi bileue is gret."</Q> 
+<LB/><MILESTONE UNIT="line" N="297"/> As if Crist had seid, "Þou hast not seen ȝit ony
+<LB/><MILESTONE UNIT="line" N="298"/> deed man be reisid of me, neiþer leprouse man
+<LB/><MILESTONE UNIT="line" N="299"/> clensid of me. Þou hast not ȝit hard þe
+<LB/><MILESTONE UNIT="line" N="300"/> profecies of me, nor þou hast bifore þouȝt in
+<LB/><MILESTONE UNIT="line" N="301"/> my lawe, nor þou hast not ȝit hadde þe prechyng
+<LB/><MILESTONE UNIT="line" N="302"/> of aungels, and ȝit þou bileuest þat I am almyȝti.
+<LB/><MILESTONE UNIT="line" N="303"/> Þerfor, <Q>as þou wolt, be it doon to þee."</Q> Lo, which
+<LB/><MILESTONE UNIT="line" N="304"/> a mede þis is of bileue. And þus it is seide in
+<LB/><MILESTONE UNIT="line" N="305"/> þe Euangelie aftir <Q>þat hir douȝtir was heelid fro
+<LB/><MILESTONE UNIT="line" N="306"/> þat houre forþ,</Q> not fro þat houre þat þe womman
+<LB/><MILESTONE UNIT="line" N="307"/> cam hoom aȝen into her hous, but fro þat houre
+<LB/><MILESTONE UNIT="line" N="308"/> þat þe word <MILESTONE UNIT="folio" N="60r"/> was passid out of Cristis mouþ. And
+<LB/><MILESTONE UNIT="line" N="309"/> þus here it was fulfillid þat is writen in an oþer
+<LB/><MILESTONE UNIT="line" N="310"/> place. "He commaundid and it was doon."</P>
+<P> <MILESTONE UNIT="line" N="311"/> Þerfor dwelle we stidfast in bileue, and
+<LB/><MILESTONE UNIT="line" N="312"/> cleue we faste to þis foure wheelid chare of
+<LB/><MILESTONE UNIT="line" N="313"/> vertues, þat þorouȝ Cristis help we moun delyuere
+<LB/><MILESTONE UNIT="line" N="314"/> oure soule, þat is bitokened bi þe douȝtir, fro þe
+<LB/><MILESTONE UNIT="line" N="315"/> fendis [boond] of helle. Amen.</P></DIV1>
+<DIV1 TYPE="sermon" N="3 Dom. Lent">
+<HEAD>[4.] Þe þrid Sunday of Lentoun </HEAD>
+<EPIGRAPH><BIBL>Luce xj.</BIBL>
+<Q> <MILESTONE UNIT="line" N="1"/> Ovre Lord Ihesu was castyng out a fend, and it
+<LB/><MILESTONE UNIT="line" N="2"/> was doumbe. And whan he had cast out þe fend, þe
+<LB/><MILESTONE UNIT="line" N="3"/> doumbe man spak; and þe cumpanyes of puple wern
+<LB/><MILESTONE UNIT="line" N="4"/> a-wondrid. But summe of hem seiden, "He castiþ
+<LB/><MILESTONE UNIT="line" N="5"/> out deuelis in Beelȝebub, prince of fendis." And
+<LB/><MILESTONE UNIT="line" N="6"/> oþer, temptyng hym, souȝten a signe from heuen of
+<LB/><MILESTONE UNIT="line" N="7"/> hym. But he, as he saw her þouȝtis, seide to hem,
+<LB/><MILESTONE UNIT="line" N="8"/> "Ech rewme, dyuydid in itsilf, shal be maad
+<LB/><MILESTONE UNIT="line" N="9"/> solitarie, and hous shal falle vpon hous. And so
+<LB/><MILESTONE UNIT="line" N="10"/> if Satanas be dyuydid in hymsilf, hou shal his
+<LB/><MILESTONE UNIT="line" N="11"/> rewme stonde? For ȝe seien þat I cast out
+<LB/><MILESTONE UNIT="line" N="12"/> fendis in þe name of Belȝebub. For if I cast out
+<LB/><MILESTONE UNIT="line" N="13"/> fendis in þe name of Beelȝebub, in whos name
+<LB/><MILESTONE UNIT="line" N="14"/> casten ȝoure sones out fendis? Þerfor, þei shuln
+<LB/><MILESTONE UNIT="line" N="15"/> be [ȝoure] owen iuges. But sikerli, if I cast out
+<LB/><MILESTONE UNIT="line" N="16"/> fendis in þe fyngir of God, certeis þanne is þe
+<LB/><MILESTONE UNIT="line" N="17"/> kyngdom of God comen among ȝou. Whan þe myȝti,
+<LB/><MILESTONE UNIT="line" N="18"/> wel yarmed, kepiþ his hous, alle þyngs þat he
+<LB/><MILESTONE UNIT="line" N="19"/> weldiþ ben in pees. But if a strenger þan he
+<LB/><MILESTONE UNIT="line" N="20"/> come vpon hym and ouercomeþ hym, he shal take
+<LB/><MILESTONE UNIT="line" N="21"/> awei alle his armes þat he tristid ynne, and he
+<LB/><MILESTONE UNIT="line" N="22"/> shal delen aboute his spoilyngs. He þat is not
+<LB/><MILESTONE UNIT="line" N="23"/> with me is aȝens me; and he þat gederiþ not with
+<LB/><MILESTONE UNIT="line" N="24"/> me, scatiriþ abrood. Whan an vnclene spirit goiþ
+<LB/><MILESTONE UNIT="line" N="25"/> out from a man, he wandriþ aboute bi drie places
+<LB/><MILESTONE UNIT="line" N="26"/> sechyng rest; and nouȝt fyndyng, he seiþ, 'I shal
+<LB/><MILESTONE UNIT="line" N="27"/> turne into myn hous þat I went out fro.' And
+<LB/><MILESTONE UNIT="line" N="28"/> whan he comeþ, he fyndiþ it clensid with besemes.
+<LB/><MILESTONE UNIT="line" N="29"/> And þanne he goþ and takiþ with hym seuen oþer
+<LB/><MILESTONE UNIT="line" N="30"/> spiritis, worse þan hymsilf, and þei goon yn and
+<LB/><MILESTONE UNIT="line" N="31"/> dwellen þere. And þe laste of þat man ben maad
+<LB/><MILESTONE UNIT="line" N="32"/> worse þan þe first." And it bifel whan he had
+<LB/><MILESTONE UNIT="line" N="33"/> seid þese wordis, a womman of þe puple, liftyng
+<LB/><MILESTONE UNIT="line" N="34"/> vp her vois, seide to hym, "Blessid be þe wombe
+<LB/><MILESTONE UNIT="line" N="35"/> þat bar þee, and þe brestis þat þou soukidist."
+<LB/><MILESTONE UNIT="line" N="36"/> And he seide, "Ȝhe, also blessid be þei þat heren
+<LB/><MILESTONE UNIT="line" N="37"/> Goddis word and kepen it."</Q></EPIGRAPH>
+<P> <MILESTONE UNIT="line" N="38"/> Goddis hyȝ mysteries ben ful pryue, so þat
+<LB/><MILESTONE UNIT="line" N="39"/> mannes hert, þat is so freel, sufficiþ not to
+<LB/><MILESTONE UNIT="line" N="40"/> serche hem out as þei ben in hemsilf. And
+<LB/><MILESTONE UNIT="line" N="41"/> herfor þe hiȝ priue seer Poul, vndirstandyng þe
+<LB/><MILESTONE UNIT="line" N="42"/> defaute of oure erþeli bodi, cried, seiyng, "
+<LB/><MILESTONE UNIT="line" N="43"/> þe hiȝnesse of richessis of Goddis kunnyng and
+<LB/><MILESTONE UNIT="line" N="44"/> of his wisdom: Hou incomprehensible ben his domes
+<LB/><MILESTONE UNIT="line" N="45"/> and his weies, as it were vnable to be founden."
+<LB/><MILESTONE UNIT="line" N="46"/> Neþeles, þouȝ I be vnworþi þat haue bigunne þis
+<LB/><MILESTONE UNIT="line" N="47"/> werke, bi Goddis grace I shal not leeue it
+<LB/><MILESTONE UNIT="line" N="48"/> vnparformed. For I hope þat God wole be myn help,
+<LB/><MILESTONE UNIT="line" N="49"/> þat I shal not be put of of my purpos, nor stonde
+<LB/><MILESTONE UNIT="line" N="50"/> voide in Goddis siȝt, but offre of þat litel þat
+<LB/><MILESTONE UNIT="line" N="51"/> I haue to profit of oþer, and God wole.</P>
+<P> <MILESTONE UNIT="line" N="52"/> And I take a fulle gret comfort of þe bygynnyng <MILESTONE UNIT="folio" N="60v"/> 
+<LB/><MILESTONE UNIT="line" N="53"/> of þis Euangelie þat shewiþ me hou þe welle of
+<LB/><MILESTONE UNIT="line" N="54"/> merci mercifuli leet at large þe tunge of a
+<LB/><MILESTONE UNIT="line" N="55"/> doumbe man. For as it is seid: <Q>Oure Lord Ihesu
+<LB/><MILESTONE UNIT="line" N="56"/> was</Q> castyng out a fend and it was domb, þat is to
+<LB/><MILESTONE UNIT="line" N="57"/> sey, it made dombe þe man þat it had in his power.
+<LB/><MILESTONE UNIT="line" N="58"/> But now also vouche he saaf of his merci to opene
+<LB/><MILESTONE UNIT="line" N="59"/> my mouþ to his worship, to shewen out þe manyfold
+<LB/><MILESTONE UNIT="line" N="60"/> sense of þis Euangelie to þe profit of þe herers.</P>
+<P> <MILESTONE UNIT="line" N="61"/> As it is seid bifore: <Q>Oure Lord Ihesu was
+<LB/><MILESTONE UNIT="line" N="62"/> castyng out a fend.</Q> Þis Euangelie haþ fyue partis.
+<LB/><MILESTONE UNIT="line" N="63"/> Þe first part shewiþ þe myraclis þat oure [Lord]
+<LB/><MILESTONE UNIT="line" N="64"/> Ihesu dide þat men þat wolden not trowen [to] his
+<LB/><MILESTONE UNIT="line" N="65"/> prechyng shulden bileue to his werkis. Þe second
+<LB/><MILESTONE UNIT="line" N="66"/> part declariþ to vs hou sotilli he answerd his
+<LB/><MILESTONE UNIT="line" N="67"/> myscalengeris. In þe þrid part we moun se hou
+<LB/><MILESTONE UNIT="line" N="68"/> wiseli he confirmed his answer with acordyng
+<LB/><MILESTONE UNIT="line" N="69"/> symylitude and þat he had noon acoord with þe fend.
+<LB/><MILESTONE UNIT="line" N="70"/> In þe fourþe part is shewid to vs hou openli he
+<LB/><MILESTONE UNIT="line" N="71"/> confundid þe Iewis prouyung þat þei [b]reken þe
+<LB/><MILESTONE UNIT="line" N="72"/> lawe of her God, and so herbi losten her former
+<LB/><MILESTONE UNIT="line" N="73"/> grace. In þe fifþe partie is shewid to vs þe
+<LB/><MILESTONE UNIT="line" N="74"/> vertu of Crist and þat he was veri God and veri
+<LB/><MILESTONE UNIT="line" N="75"/> man bi his owen witnessyng and oþer. Now lat vs
+<LB/><MILESTONE UNIT="line" N="76"/> se which ben þese fyue parties with her
+<LB/><MILESTONE UNIT="line" N="77"/> declaraciouns arewe.</P>
+<P> <MILESTONE UNIT="line" N="78"/> Þe first part bigynneþ þus: <Q>Oure Lord Ihesu
+<LB/><MILESTONE UNIT="line" N="79"/> was castyng out a deuel.</Q> And þis was euen propur
+<LB/><MILESTONE UNIT="line" N="80"/> to hym, for he bigan it not þanne of þe newe, but
+<LB/><MILESTONE UNIT="line" N="81"/> he had vsid it fulli bifore. For bifore multipliyng
+<LB/><MILESTONE UNIT="line" N="82"/> of mankynde, he cast out a fend, whan he made
+<LB/><MILESTONE UNIT="line" N="83"/> Lucifer, pryns of fendis, falle out hedlyng fro
+<LB/><MILESTONE UNIT="line" N="84"/> heuen to helle. And now in þe latter ende of þe
+<LB/><MILESTONE UNIT="line" N="85"/> world, he was boren of a maiden for to cast out þe
+<LB/><MILESTONE UNIT="line" N="86"/> deuel fro man and so, bi his grace, to delyuere
+<LB/><MILESTONE UNIT="line" N="87"/> hym fro þe fendis power. And in tokene of þese
+<LB/><MILESTONE UNIT="line" N="88"/> two out-castyngis, he cast out a fend of þis man.
+<LB/><MILESTONE UNIT="line" N="89"/> þat þis Gospel makiþ mynde of.
+<Q> <MILESTONE UNIT="line" N="90"/> And þis fend was domb,</Q> þat is to sei, it made
+<LB/><MILESTONE UNIT="line" N="91"/> mankynde domb þat it worshipid not his hiȝ Maker.
+<LB/><MILESTONE UNIT="line" N="92"/> For [as] þe apostle seiþ, "Whan men hadden knowe
+<LB/><MILESTONE UNIT="line" N="93"/> God bi gret resouns, þei worshipeden hym not as
+<LB/><MILESTONE UNIT="line" N="94"/> God, or diden hym þankyngs for her kunnyng, so
+<LB/><MILESTONE UNIT="line" N="95"/> moche wern þei blyndid bi þe fend; but þei
+<LB/><MILESTONE UNIT="line" N="96"/> wauereden veynlich aboute in her þouȝtis."</P>
+<P> <MILESTONE UNIT="line" N="97"/> But Mathew telliþ also þat þis forseid man
+<LB/><MILESTONE UNIT="line" N="98"/> was boþe doumb and blynd. And þus we moun se
+<LB/><MILESTONE UNIT="line" N="99"/> here þre myraclis in Cristis worchyng: þe blynd
+<LB/><MILESTONE UNIT="line" N="100"/> man saw; þe doumb man spak, and also was delyuered
+<LB/><MILESTONE UNIT="line" N="101"/> of þe fend. But now take heede þat þis myracle was
+<LB/><MILESTONE UNIT="line" N="102"/> gostli doon in þe conuersioun of heþen folk, and
+<LB/><MILESTONE UNIT="line" N="103"/> in figure herof, it was bodili doon in þis forseid
+<LB/><MILESTONE UNIT="line" N="104"/> doumb man. For whan þe heþen folk forsoken þe
+<LB/><MILESTONE UNIT="line" N="105"/> filþe of her mawmetrie, and token þe liȝt of
+<LB/><MILESTONE UNIT="line" N="106"/> bileue, and whan her mouþes wern opened þat wern
+<LB/><MILESTONE UNIT="line" N="107"/> ful stille in preisyng of God, and after speken her
+<LB/><MILESTONE UNIT="line" N="108"/> wordis to Goddis worship, þanne wern þei delyuered
+<LB/><MILESTONE UNIT="line" N="109"/> fro þe fend. Þanne receyueden þei gostli siȝ[t]e
+<LB/><MILESTONE UNIT="line" N="110"/> and wern delyuered from her doumbnesse.</P>
+<P> <MILESTONE UNIT="line" N="111"/> Also þis goostli myracle <MILESTONE UNIT="folio" N="61r"/> is fulfillid in ech
+<LB/><MILESTONE UNIT="line" N="112"/> man þat haþ be synful and is liȝtned bi þe grace
+<LB/><MILESTONE UNIT="line" N="113"/> of God to sore forþenkyng hym of his synne, and
+<LB/><MILESTONE UNIT="line" N="114"/> aftir is delyuered bi veri knoulechyng, of his
+<LB/><MILESTONE UNIT="line" N="115"/> synnes, of greuouse synnes aȝens God, as it were,
+<LB/><MILESTONE UNIT="line" N="116"/> of as many fendis. And for now is tyme of
+<LB/><MILESTONE UNIT="line" N="117"/> confessioun and of penaunce, studie we fast bi
+<LB/><MILESTONE UNIT="line" N="118"/> þese two to be delyuerid fro þe fend þat haþ bounden
+<LB/><MILESTONE UNIT="line" N="119"/> vs with manyfold synne. For if we trauele on þis
+<LB/><MILESTONE UNIT="line" N="120"/> maner, we shuln not be likned to þe wickid þat ben
+<LB/><MILESTONE UNIT="line" N="121"/> maad mynde of now next aftir.
+<Q> <MILESTONE UNIT="line" N="122"/> But summe of hem seiden</Q> þat is to seie, þe
+<LB/><MILESTONE UNIT="line" N="123"/> scribes and þe Pharisees, and not þe symple puple.
+<LB/><MILESTONE UNIT="line" N="124"/> For ofte tyme, þe symple bileuen and þe wise
+<LB/><MILESTONE UNIT="line" N="125"/> dispisen. <Q>"He castiþ out deuels,"</Q> þei seiden, <Q>"in
+<LB/><MILESTONE UNIT="line" N="126"/> Belȝebub, prins of fendis."</Q> Þis name Belȝebub cam
+<LB/><MILESTONE UNIT="line" N="127"/> vp of a mawmet þat was clepid Beel, þat oon Ninus
+<LB/><MILESTONE UNIT="line" N="128"/> þat was Beli sone, made in mynde of Beel his
+<LB/><MILESTONE UNIT="line" N="129"/> fadir. And so þe puple of Chaldee worshipfulli
+<LB/><MILESTONE UNIT="line" N="130"/> vndirfongen þis symylitude and clepeden it aftir
+<LB/><MILESTONE UNIT="line" N="131"/> Beel, but þe Palestyne folk clepiden it Baal, and
+<LB/><MILESTONE UNIT="line" N="132"/> þe folk of Moab clepiden it Belfegor. But þe
+<LB/><MILESTONE UNIT="line" N="133"/> Iewis þat worshipeden oon God and not such fals
+<LB/><MILESTONE UNIT="line" N="134"/> mawmetrie, in shorne of þe heþen folk, clepiden
+<LB/><MILESTONE UNIT="line" N="135"/> it Belȝebub, þat is to sey, a man of flies or
+<LB/><MILESTONE UNIT="line" N="136"/> hauyng flies. For many flies gaderiden aboute þis
+<LB/><MILESTONE UNIT="line" N="137"/> ymage for plente of raw flessh þat was offrid
+<LB/><MILESTONE UNIT="line" N="138"/> þerto in sacrifice.</P>
+<P> <MILESTONE UNIT="line" N="139"/> And þus as now is maad mynde þese wickid
+<LB/><MILESTONE UNIT="line" N="140"/> scribes and Farisees, in repreef of Goddis Sone,
+<LB/><MILESTONE UNIT="line" N="141"/> seiden, <Q>"He castiþ out fendis in Belȝebub, prins
+<LB/><MILESTONE UNIT="line" N="142"/> of fendis."</Q> And þese men wern ful deuelich, þat
+<LB/><MILESTONE UNIT="line" N="143"/> þus ouerþwartiden Goddis werk. Of þese [men]
+<LB/><MILESTONE UNIT="line" N="144"/> playned God bi þe profete, seiyng, "Þei ȝeldiden
+<LB/><MILESTONE UNIT="line" N="145"/> me yuel for good and also hate for my loue. " For
+<LB/><MILESTONE UNIT="line" N="146"/> Crist shewid and dide [hem] many good werkis,
+<LB/><MILESTONE UNIT="line" N="147"/> but euermore he fonde hem vnkynde and rebel. For
+<LB/><MILESTONE UNIT="line" N="148"/> as þei hadden enuye to his vertues, so sclaundrid
+<LB/><MILESTONE UNIT="line" N="149"/> þei hym for hys myraclis; þei scorneden hym with
+<LB/><MILESTONE UNIT="line" N="150"/> her wordis; þei blasfemeden hym for his benefetes;
+<LB/><MILESTONE UNIT="line" N="151"/> þei grucchiden for perfeccioun of his riȝtwisnesse,
+<LB/><MILESTONE UNIT="line" N="152"/> and þat more worse was, þei shewiden hym myche
+<LB/><MILESTONE UNIT="line" N="153"/> malice for his gode loue.</P>
+<P> <MILESTONE UNIT="line" N="154"/> But now take [good] heede þat sixe maner
+<LB/><MILESTONE UNIT="line" N="155"/> condiciouns þer ben among dyuers men in þis world.
+<LB/><MILESTONE UNIT="line" N="156"/> Oon is to ȝelde good for yuel and an oþer to not
+<LB/><MILESTONE UNIT="line" N="157"/> ȝelde yuel for yuel. Þese two condiciouns han
+<LB/><MILESTONE UNIT="line" N="158"/> oonlich good men, but þe first is bettir þan þe
+<LB/><MILESTONE UNIT="line" N="159"/> second. Þe þrid condicioun is not to ȝelden good
+<LB/><MILESTONE UNIT="line" N="160"/> for good, and þe fourþe is to ȝelde yuel for good.
+<LB/><MILESTONE UNIT="line" N="161"/> And þese too condiciouns han yuel men, but þe
+<LB/><MILESTONE UNIT="line" N="162"/> second is worse þan þe first. Þe fyueþe condicioun
+<LB/><MILESTONE UNIT="line" N="163"/> is to ȝelde good for good and þe sixte is to ȝelde
+<LB/><MILESTONE UNIT="line" N="164"/> yuel for yuel. And þese two condiciouns han men
+<LB/><MILESTONE UNIT="line" N="165"/> in þe world þat ben menelich gode or menelich
+<LB/><MILESTONE UNIT="line" N="166"/> yuel. But þe first is [ful] nyȝ neiȝbore to
+<LB/><MILESTONE UNIT="line" N="167"/> condicioun of good men þat Crist repreueþ not in
+<LB/><MILESTONE UNIT="line" N="168"/> þe Euangelie. "But more," he seiþ, "it bihouyþ to
+<LB/><MILESTONE UNIT="line" N="169"/> do, for heþen men doon on þis maner, þat louen men
+<LB/><MILESTONE UNIT="line" N="170"/> þat louen hem." But þe second is ful nyȝ to
+<LB/><MILESTONE UNIT="line" N="171"/> condicioun of yuel men. Neþeles, it acordid
+<LB/><MILESTONE UNIT="line" N="172"/> with þe gode, for þe Lawe set a mesure of wreche.
+<LB/><MILESTONE UNIT="line" N="173"/> For it is writen, "Tooþ for tooþ and iȝe <MILESTONE UNIT="folio" N="61v"/> for iȝe."</P>
+<P> <MILESTONE UNIT="line" N="174"/> And þus on þre maners commynli men synnen in
+<LB/><MILESTONE UNIT="line" N="175"/> condiciouns biforseid. Oon is in not ȝeldyng good
+<LB/><MILESTONE UNIT="line" N="176"/> for good. An oþer is to ȝelde yuel for yuel.
+<LB/><MILESTONE UNIT="line" N="177"/> But þe þrid is to ȝelde yuel for good. And þis
+<LB/><MILESTONE UNIT="line" N="178"/> condicioun had þe wickid generacioun of scribes
+<LB/><MILESTONE UNIT="line" N="179"/> and Farisees, þat contrarieden þe Hooli Gost and
+<LB/><MILESTONE UNIT="line" N="180"/> maliciousli wiþstoden Crist, þat cheeflich souȝte
+<LB/><MILESTONE UNIT="line" N="181"/> her helþe, as is maad mynde now in þis Gospel.</P>
+<P> <MILESTONE UNIT="line" N="182"/> But aȝen þese þre foule synnes ben þre ful
+<LB/><MILESTONE UNIT="line" N="183"/> good remedies. Þe first is for to do good for
+<LB/><MILESTONE UNIT="line" N="184"/> good. Þe second is not to ȝelde yuel for yuel,
+<LB/><MILESTONE UNIT="line" N="185"/> but þe most parfit of alle is for to do good for
+<LB/><MILESTONE UNIT="line" N="186"/> yuel. And þis Crist dide for þe Iewis, whan he
+<LB/><MILESTONE UNIT="line" N="187"/> preied for hem as he henge on þe croos, and
+<LB/><MILESTONE UNIT="line" N="188"/> specialy whan he ȝaf sufficientli his lijf for hem
+<LB/><MILESTONE UNIT="line" N="189"/> þat so foule bla[sfe]meden hym, if þei wolden be
+<LB/><MILESTONE UNIT="line" N="190"/> conuertid. For þus he delyuerid many of þe Iewis
+<LB/><MILESTONE UNIT="line" N="191"/> from þe horrible peyne of helle þat aftir wern
+<LB/><MILESTONE UNIT="line" N="192"/> turned to Cristen bileue.
+<Q> <MILESTONE UNIT="line" N="193"/> But oþer bygunnen to seche of hym signes from
+<LB/><MILESTONE UNIT="line" N="194"/> heuen,</Q> þat is to seie, þat fijr shuld come doun
+<LB/><MILESTONE UNIT="line" N="195"/> from heuen as it dide in Helies tyme, or ellis
+<LB/><MILESTONE UNIT="line" N="196"/> leitnyngs and þundris, as diden in Samuelis tyme,
+<LB/><MILESTONE UNIT="line" N="197"/> or ellis þei wolden han had manna comyng fro
+<LB/><MILESTONE UNIT="line" N="198"/> heuen, as þouȝ þe myraclis þat Crist dide hadden
+<LB/><MILESTONE UNIT="line" N="199"/> be noone gret wondris. <Q>But he, as he saw her
+<LB/><MILESTONE UNIT="line" N="200"/> þouȝtis,</Q> þat is to seie, as veri God knew alle
+<LB/><MILESTONE UNIT="line" N="201"/> þyngs open and hid, and from whom mai no þyng be
+<LB/><MILESTONE UNIT="line" N="202"/> priue, <Q>seide to hem, "Ech rewme, dyuydid in
+<LB/><MILESTONE UNIT="line" N="203"/> itsilf, shal be desolatid."</Q></P>
+<P> <MILESTONE UNIT="line" N="204"/> Lo, þis is þe second part þat shewiþ what
+<LB/><MILESTONE UNIT="line" N="205"/> Crist answerd, and hou wiseli he rebuykid her
+<LB/><MILESTONE UNIT="line" N="206"/> myscalengyng. Certis, euen aftir þe lettir, þese
+<LB/><MILESTONE UNIT="line" N="207"/> wordis of Crist ben open ynow, for as litil þyngs
+<LB/><MILESTONE UNIT="line" N="208"/> of valew encreessen bi accord, so bi discoord ful
+<LB/><MILESTONE UNIT="line" N="209"/> soone þei sliden awei. But what þese wordis meenen
+<LB/><MILESTONE UNIT="line" N="210"/> goostli, Crist expowneþ hymsilf in þe next wordis:
+<Q> <MILESTONE UNIT="line" N="211"/> "If Sathanas,"</Q> he seiþ, <Q>"be dyuydid in hymsilf,</Q>
+<LB/><MILESTONE UNIT="line" N="212"/> hou shal his rewme stonde?" As if Crist seide,
+<LB/><MILESTONE UNIT="line" N="213"/> "If it were as ȝe seien, þat I cast out fendis in
+<LB/><MILESTONE UNIT="line" N="214"/> Belȝebubis power, prince of fendis, þan is þe
+<LB/><MILESTONE UNIT="line" N="215"/> deuelis rewme departid aȝens itself, and so þe
+<LB/><MILESTONE UNIT="line" N="216"/> power of his malice mai not stonde. And if oon
+<LB/><MILESTONE UNIT="line" N="217"/> fend mai not put out an oþer, þanne seien ȝe faIs
+<LB/><MILESTONE UNIT="line" N="218"/> þat I cast out fendis in [þe] power of þe prince of
+<LB/><MILESTONE UNIT="line" N="219"/> feendis. And if oon feend mai cast out an oþer,
+<LB/><MILESTONE UNIT="line" N="220"/> as ȝe seien, þanne take good heede to ȝou silf ,
+<LB/><MILESTONE UNIT="line" N="221"/> þat ȝe go out of his rewme þat is dyuyd, lest ȝe
+<LB/><MILESTONE UNIT="line" N="222"/> perisshe with hym foreuer."</P>
+<P> <MILESTONE UNIT="line" N="223"/> Se now to Cristis hiȝ answer, þat is verili
+<LB/><MILESTONE UNIT="line" N="224"/> vertu and wisdom of God. For chese þe Farisees
+<LB/><MILESTONE UNIT="line" N="225"/> what part þei wolden, and ȝit wern þei fulli
+<LB/><MILESTONE UNIT="line" N="226"/> cauȝt bi vertu of word. For contrariouse þei wern
+<LB/><MILESTONE UNIT="line" N="227"/> to Crist, and so to þe rewme þat he was of and
+<LB/><MILESTONE UNIT="line" N="228"/> þanne wern þei of þe fendis rewme, for ech man
+<LB/><MILESTONE UNIT="line" N="229"/> must be of þe toon or of be toþer.</P>
+<P> <MILESTONE UNIT="line" N="230"/> But se now what seide furþermore: <Q>"Certis
+<LB/><MILESTONE UNIT="line" N="231"/> if I cast out feendis in Goddis fyngir,"</Q> þat is to
+<LB/><MILESTONE UNIT="line" N="232"/> seie, in þe power of þe Hooli Goost, whom Pharaos
+<LB/><MILESTONE UNIT="line" N="233"/> dyuynours knoulchiden, and clepiden <MILESTONE UNIT="folio" N="62r"/> hym þe fyngir
+<LB/><MILESTONE UNIT="line" N="234"/> of God, to whos vertu fendis moun not wiþstonde,
+<LB/><MILESTONE UNIT="line" N="235"/> "þanne <Q>sikerli is þe kyngdom of God comen among
+<LB/><MILESTONE UNIT="line" N="236"/> ȝou."</Q> As if Crist seide, "Demeþ not now wher it
+<LB/><MILESTONE UNIT="line" N="237"/> be þus bi þe outward siȝt þat ȝe han of my bodi,
+<LB/><MILESTONE UNIT="line" N="238"/> but demeþ wher it be þus or no, bi þe werkis þat
+<LB/><MILESTONE UNIT="line" N="239"/> I worche, þouȝ I speke with condicioun."</P>
+<P> <MILESTONE UNIT="line" N="240"/> But now among oþer, þis word "kyngdom of God"
+<LB/><MILESTONE UNIT="line" N="241"/> haþ þre bitokenyngs. But specialy here it
+<LB/><MILESTONE UNIT="line" N="242"/> bitokeneþ Cristis persoon, þat Ioon Baptist spak
+<LB/><MILESTONE UNIT="line" N="243"/> of to þe Faresees seiyng: "Þer stood oon in þe
+<LB/><MILESTONE UNIT="line" N="244"/> myddil of ȝou, whom ȝe knowe not. " Also þis
+<LB/><MILESTONE UNIT="line" N="245"/> word bitokeneþ endeles blisse, þat riȝtwise folk
+<LB/><MILESTONE UNIT="line" N="246"/> shuln haue for her mede, þat Crist and Ioon
+<LB/><MILESTONE UNIT="line" N="247"/> Baptist prechiden to þe puple, seiyng: "Doiþ
+<LB/><MILESTONE UNIT="line" N="248"/> penaunce, for þe kyngdom of heuen neiȝþ ful faste."
+<LB/><MILESTONE UNIT="line" N="249"/> Also þis word "kyngdom of God" bitokeneþ Hooli
+<LB/><MILESTONE UNIT="line" N="250"/> Scripture, þat Crist seide shuld be taken awei
+<LB/><MILESTONE UNIT="line" N="251"/> fro þe Iewis and ȝouen to folk þat wolde do þe
+<LB/><MILESTONE UNIT="line" N="252"/> fruyt þerof, þat is to sey, worche þeraftir.</P>
+<P> <MILESTONE UNIT="line" N="253"/> But now, as is seid bifore, þe fyngir of God
+<LB/><MILESTONE UNIT="line" N="254"/> is clepid þe Hooli Goost, and þat is for delyng
+<LB/><MILESTONE UNIT="line" N="255"/> aboute of dyuerse graciouse ȝiftis þat ben
+<LB/><MILESTONE UNIT="line" N="256"/> partid of þe Hooli Goost, wheþer it be to men or
+<LB/><MILESTONE UNIT="line" N="257"/> aungels. For in noon of oure oþer menbris is
+<LB/><MILESTONE UNIT="line" N="258"/> yshewid such a maner delyng as is parceyued in
+<LB/><MILESTONE UNIT="line" N="259"/> oure fyngers.</P>
+<P> <MILESTONE UNIT="line" N="260"/> Lat now se what Crist seiþ ferþer: <Q>"Whan þe
+<LB/><MILESTONE UNIT="line" N="261"/> myȝti kepiþ his hous."</Q> Lo now, þis is þe þrid
+<LB/><MILESTONE UNIT="line" N="262"/> part þat confermeþ his former answer bi a
+<LB/><MILESTONE UNIT="line" N="263"/> conuenient simylitude, shewyng þat þer was noon
+<LB/><MILESTONE UNIT="line" N="264"/> acoord bitwene hym and þe feend. <Q>"Whan þe myȝti,"</Q> 
+<LB/><MILESTONE UNIT="line" N="265"/> he seiþ, <Q>"kepiþ his hous,"</Q> þat is to sey, whan
+<LB/><MILESTONE UNIT="line" N="266"/> þe deuel þat is myȝti to noie man, neþeles, not as
+<LB/><MILESTONE UNIT="line" N="267"/> moche as he wole, but as myche as God wole suffre
+<LB/><MILESTONE UNIT="line" N="268"/> hym, whom not his owen vertu, but oure synnes maken
+<LB/><MILESTONE UNIT="line" N="269"/> strong and sogeten vs to his seruage, þat not
+<LB/><MILESTONE UNIT="line" N="270"/> oonli is strong, but also <Q>armed</Q> with many
+<LB/><MILESTONE UNIT="line" N="271"/> spiritual wickidnessis. For he haþ an helm of
+<LB/><MILESTONE UNIT="line" N="272"/> wickidnesse and a spere of synful delite, and a
+<LB/><MILESTONE UNIT="line" N="273"/> sheeld of hardnesse in synne, and an haburioun of
+<LB/><MILESTONE UNIT="line" N="274"/> dispeir, and a swerd of slauȝtre, and pride to his
+<LB/><MILESTONE UNIT="line" N="275"/> squyer, þat algatis goiþ bifore hym and doiþ myche
+<LB/><MILESTONE UNIT="line" N="276"/> shame to þe fiȝtyng men of þe lyuyng God.
+<Q> <MILESTONE UNIT="line" N="277"/> "Whan þis myȝti armed</Q> enemye <Q>kepiþ his hous,</Q>
+<LB/><MILESTONE UNIT="line" N="278"/> þe world," þat is to sey, þe fals wordli puple
+<LB/><MILESTONE UNIT="line" N="279"/> fulli set in wickidnesse, "þanne <Q>alle þyngs þat he
+<LB/><MILESTONE UNIT="line" N="280"/> weldiþ ben in pees."</Q> For vndirstonde wel þat noon,
+<LB/><MILESTONE UNIT="line" N="281"/> vnto þe comyng of Crist, myȝt taken awey his
+<LB/><MILESTONE UNIT="line" N="282"/> lordship þat he held cruely vpon mankynde. And
+<LB/><MILESTONE UNIT="line" N="283"/> þus seiþ Crist ferþer <Q>þat, "If a strenger þan he
+<LB/><MILESTONE UNIT="line" N="284"/> come vpon hym, anoon he shal ouercome hym."</Q> And
+<LB/><MILESTONE UNIT="line" N="285"/> þis was fulli verified whan Goddis Sone, Almyȝti
+<LB/><MILESTONE UNIT="line" N="286"/> Lord, cam and fauȝte with hym, strongli and wiseli,
+<LB/><MILESTONE UNIT="line" N="287"/> and aftir ouercam hym, and boond hym, and bynam
+<LB/><MILESTONE UNIT="line" N="288"/> hym his former power. And þus, as it is seid
+<LB/><MILESTONE UNIT="line" N="289"/> aftir, <Q>"þat þis</Q> myȝtier <Q>shal take awei alle his
+<LB/><MILESTONE UNIT="line" N="290"/> armes þat he trist ynne;"</Q> þat is to sey he shal
+<LB/><MILESTONE UNIT="line" N="291"/> quenche alle his disseyuable castis of his
+<LB/><MILESTONE UNIT="line" N="292"/> spiritual wickidnesse. <Q>And <MILESTONE UNIT="folio" N="62v"/> he shal take awei
+<LB/><MILESTONE UNIT="line" N="293"/> his spoiles,</Q> þat is to sey, he shal delyuere from
+<LB/><MILESTONE UNIT="line" N="294"/> his hold þe soules þat he had in his power.</P>
+<P> <MILESTONE UNIT="line" N="295"/> Bi þis process, now moun we se þat þer is
+<LB/><MILESTONE UNIT="line" N="296"/> noon acoord bitwix Crist and Belial. And herfor
+<LB/><MILESTONE UNIT="line" N="297"/> seiþ Crist aftir, <Q>"He þat is not with me is aȝens
+<LB/><MILESTONE UNIT="line" N="298"/> me."</Q> Now vndirstande þat al þis is seid of þe
+<LB/><MILESTONE UNIT="line" N="299"/> deuel and his menbris, þat algatis ben contra[r]ie
+<LB/><MILESTONE UNIT="line" N="300"/> to Crist and his menbris. For þei gaderen not
+<LB/><MILESTONE UNIT="line" N="301"/> with Crist soulis toward heuenli blisse, but þei
+<LB/><MILESTONE UNIT="line" N="302"/> rauesshen and disparplen þese soules in dyuerse
+<LB/><MILESTONE UNIT="line" N="303"/> synnes.</P>
+<P> <MILESTONE UNIT="line" N="304"/> But now come we to þe fourþe part þat shewiþ
+<LB/><MILESTONE UNIT="line" N="305"/> hou Crist confundid þe Iewis, prouyng þat þei
+<LB/><MILESTONE UNIT="line" N="306"/> wern ful of þe deuel. <Q>"Whan an vnclene spirit,"</Q>
+<LB/><MILESTONE UNIT="line" N="307"/> seiþ Crist, <Q>"goiþ out from a man, he wandriþ
+<LB/><MILESTONE UNIT="line" N="308"/> aboute bi drie places."</Q> Goostli, þe vnclene
+<LB/><MILESTONE UNIT="line" N="309"/> spirit þat lediþ a man into many vnclennessis,
+<LB/><MILESTONE UNIT="line" N="310"/> went out of [þe] puple of þe Iewis aftir þat þei
+<LB/><MILESTONE UNIT="line" N="311"/> hadden take þe Lawe of Moises, and cam to þe heþen
+<LB/><MILESTONE UNIT="line" N="312"/> folk, þat ben bitokened bi drie places, for þei
+<LB/><MILESTONE UNIT="line" N="313"/> hadden not moisture of good werkis. But aftir
+<LB/><MILESTONE UNIT="line" N="314"/> þat þe heþen folk hadden kauȝt þe bileue of Crist,
+<LB/><MILESTONE UNIT="line" N="315"/> þe deuel fonde not in hem reste, bicause of
+<LB/><MILESTONE UNIT="line" N="316"/> moisture of hooli lyuyng. But aftir þat Crist had
+<LB/><MILESTONE UNIT="line" N="317"/> take flessh and blood, þe fend turned aȝen to þe
+<LB/><MILESTONE UNIT="line" N="318"/> puple of [þe] Iewis þat was outwardlich, as it
+<LB/><MILESTONE UNIT="line" N="319"/> were, clensid with bodili customs of þe Olde Lawe,
+<LB/><MILESTONE UNIT="line" N="320"/> but þei wern voide from good werkis and loue of
+<LB/><MILESTONE UNIT="line" N="321"/> Crist þat cam to saue boþe Iewis and heþen.
+<Q> <MILESTONE UNIT="line" N="322"/> And</Q> so, þis foule spirit <Q>took with hym seuen
+<LB/><MILESTONE UNIT="line" N="323"/> spiritis worse þan hymsilf,</Q> þat is to sey, a
+<LB/><MILESTONE UNIT="line" N="324"/> multitude of greuouse synnes, mayntened and
+<LB/><MILESTONE UNIT="line" N="325"/> vsid vndir colour of riȝtwisnesse, aȝens Crist
+<LB/><MILESTONE UNIT="line" N="326"/> and his menbris. And so þei ȝeden yn among þese
+<LB/><MILESTONE UNIT="line" N="327"/> Iewis and stedfastli <Q>dwelleden þere.</Q> And <Q>so þe
+<LB/><MILESTONE UNIT="line" N="328"/> laste</Q> of þe Iewis, <Q>wern maad worse þan her former
+<LB/><MILESTONE UNIT="line" N="329"/> werkis.</Q> For worse þei wern in blasfemyng Cristis
+<LB/><MILESTONE UNIT="line" N="330"/> persoon þan þei wern sumtyme whil þei dwelleden
+<LB/><MILESTONE UNIT="line" N="331"/> in Egipt. Þerfor, specialy, Cristis entent in þis
+<LB/><MILESTONE UNIT="line" N="332"/> process, was to speke of þese Iewis.</P>
+<P> <MILESTONE UNIT="line" N="333"/> But now, ferþermore, þis mai riȝtli be
+<LB/><MILESTONE UNIT="line" N="334"/> strecchid forþ to euery such man þat þe deuel
+<LB/><MILESTONE UNIT="line" N="335"/> encumbriþ in his seruyce aftir þat man haþ bounden
+<LB/><MILESTONE UNIT="line" N="336"/> hym to God in takyng of his Cristendom. For whan
+<LB/><MILESTONE UNIT="line" N="337"/> man is baptisid and forsakiþ [alle] þe pompis of
+<LB/><MILESTONE UNIT="line" N="338"/> þe fend, þanne þe deuel <Q>goiþ out fro hym.</Q> And
+<LB/><MILESTONE UNIT="line" N="339"/> þanne he wandriþ aboute bi drie places, þat is to
+<LB/><MILESTONE UNIT="line" N="340"/> sey, he temptiþ þe hertis of hooli folk þat ben
+<LB/><MILESTONE UNIT="line" N="341"/> dried fro watrynesse of floteryng veyn þouȝtis and
+<LB/><MILESTONE UNIT="line" N="342"/> moisture of flesshli synne. <Q>And</Q> whan <Q>he fyndiþ
+<LB/><MILESTONE UNIT="line" N="343"/> not rest</Q> þere wheryn he mai abide bi synne, he
+<LB/><MILESTONE UNIT="line" N="344"/> seiþ, <Q>"I shal turne aȝen to myn hous þat I went fro."</Q>
+<LB/><MILESTONE UNIT="line" N="345"/> Þat is to sei, "I shal turne to þat mannes
+<LB/><MILESTONE UNIT="line" N="346"/> conscience from whom I was cast out in his baptym.
+<LB/><MILESTONE UNIT="line" N="347"/> And þere wole I haue my former possessioun and
+<LB/><MILESTONE UNIT="line" N="348"/> sogeten hym to my lordship bi manyfold synne."
+<LB/><MILESTONE UNIT="line" N="349"/> And þus <Q>whan he comeþ</Q> þerto first aȝen, <Q>he fyndiþ
+<LB/><MILESTONE UNIT="line" N="350"/> it swept with besyms,</Q> þat is to sei, clensid fro
+<LB/><MILESTONE UNIT="line" N="351"/> vices <MILESTONE UNIT="folio" N="63r"/> bi baptym but voide from good werkis.</P>
+<P> <MILESTONE UNIT="line" N="352"/> But now take heede þat God haþ his besemes
+<LB/><MILESTONE UNIT="line" N="353"/> and þe deuel haþ his besems. Goddis besems ben þoo
+<LB/><MILESTONE UNIT="line" N="354"/> þat maken cleene Goddis hous, such a lord to dwelle
+<LB/><MILESTONE UNIT="line" N="355"/> ynne, as ben forþenkyng of synne, with hertili
+<LB/><MILESTONE UNIT="line" N="356"/> teeris, hooli preieris and almesdoyngs, and such
+<LB/><MILESTONE UNIT="line" N="357"/> oþer good fruytis. Þe deuelis besems ben þoo þat
+<LB/><MILESTONE UNIT="line" N="358"/> maken not his hous cleene, but raþer defoulen it
+<LB/><MILESTONE UNIT="line" N="359"/> out of mesure, as ben flesshli loue of þe world,
+<LB/><MILESTONE UNIT="line" N="360"/> wantounnesse of þouȝt, and despisyng of Goddis
+<LB/><MILESTONE UNIT="line" N="361"/> commaundementis, and such oþer yuel fruytis.</P>
+<P> <MILESTONE UNIT="line" N="362"/> But þe seuen spiritis þat þe fend takiþ with
+<LB/><MILESTONE UNIT="line" N="363"/> hym, and bi hem makiþ his dwellyng in man, ben þe
+<LB/><MILESTONE UNIT="line" N="364"/> seuen heed synnes, þat also ben clepid worse þan
+<LB/><MILESTONE UNIT="line" N="365"/> þe fend hymsilf. For to vs, oure vices þat regnen
+<LB/><MILESTONE UNIT="line" N="366"/> in vs obstynatli, ben worse þan ben quyk fendis,
+<LB/><MILESTONE UNIT="line" N="367"/> for þei fiȝten aȝens vs withoute forþ, and þese
+<LB/><MILESTONE UNIT="line" N="368"/> vices bisilich werren vs doun wiþynne forþ. And
+<LB/><MILESTONE UNIT="line" N="369"/> ofte tyme hoomlich enemyes ben more greuouse
+<LB/><MILESTONE UNIT="line" N="370"/> [ þanne] ben fomen þat ben straunge. And þus seiþ
+<LB/><MILESTONE UNIT="line" N="371"/> Crist now next aftir þat, <Q>"Þe laste</Q> werkis <Q>of</Q> such
+<Q> <MILESTONE UNIT="line" N="372"/> a man ben maad worse þan þe firste."</Q> For lasse
+<LB/><MILESTONE UNIT="line" N="373"/> peyne shulde be to man not to knowe þe weie of
+<LB/><MILESTONE UNIT="line" N="374"/> treuþe þan aftir þe knowyng to falle backward fro
+<LB/><MILESTONE UNIT="line" N="375"/> Cristen lijf to fendis werkis.</P>
+<P> <MILESTONE UNIT="line" N="376"/> Oþer wordis of þe fyfte part folewyng
+<LB/><MILESTONE UNIT="line" N="377"/> shewen þe worshipyng of Crist and þe blessednesse
+<LB/><MILESTONE UNIT="line" N="378"/> of hem þat heren Goddis word and kepen it. And
+<LB/><MILESTONE UNIT="line" N="379"/> if we wolen be partyners of þis hiȝ blisse, we
+<LB/><MILESTONE UNIT="line" N="380"/> musten hertili heren þe word of God and wilfulli
+<LB/><MILESTONE UNIT="line" N="381"/> kepyn it in oure lyuyng. For not oonli þe herers
+<LB/><MILESTONE UNIT="line" N="382"/> of Goddis Lawe shuln be iustified bifore God but
+<LB/><MILESTONE UNIT="line" N="383"/> þe trewe folewers þerof in worchyng shuln be
+<LB/><MILESTONE UNIT="line" N="384"/> glorified, withouten ende in blisse. Amen.</P></DIV1>
+<DIV1 TYPE="sermon" N="4 Dom. Lent">
+<HEAD>[5.] Þe fourþe Sunday of Lentoun </HEAD>
+<EPIGRAPH><BIBL>Iohannis .vjto.</BIBL>
+<Q> <MILESTONE UNIT="line" N="1"/> Whan oure Lord Ihesu had lift vp his iȝen and
+<LB/><MILESTONE UNIT="line" N="2"/> seen þat a ful gret multitude cam to hym, he
+<LB/><MILESTONE UNIT="line" N="3"/> seide to Filip, "Wherof shul we bie looues þat
+<LB/><MILESTONE UNIT="line" N="4"/> þese moun ete?" þis, forsoþe he seide temptyng
+<LB/><MILESTONE UNIT="line" N="5"/> hym, for he wist hymsilf what he was for to do.
+<LB/><MILESTONE UNIT="line" N="6"/> Filip answerd hym, "Two hundrid penyworþ looues
+<LB/><MILESTONE UNIT="line" N="7"/> suffise not to hem þat ech man take a litil what."
+<LB/><MILESTONE UNIT="line" N="8"/> And oon of his disciplis, Andrew, Symound Petris
+<LB/><MILESTONE UNIT="line" N="9"/> broþer, seide to hym, "þer is a child here, þat
+<LB/><MILESTONE UNIT="line" N="10"/> haþ fyue barli looues and two fisshes. But what
+<LB/><MILESTONE UNIT="line" N="11"/> ben þese among so many?" Þanne seide Ihesu,
+<LB/><MILESTONE UNIT="line" N="12"/> "Makiþ þe men to sitte." Þer was forsoþe moche
+<LB/><MILESTONE UNIT="line" N="13"/> hey in þe place. And so þe men saten doun, in
+<LB/><MILESTONE UNIT="line" N="14"/> noumbre, as it were, fyue þousande. And so Ihesu
+<LB/><MILESTONE UNIT="line" N="15"/> took þe looues, and whan he had do þankyngs to his
+<LB/><MILESTONE UNIT="line" N="16"/> Fadir, he dalte to hem þat saten at þe meete, and
+<LB/><MILESTONE UNIT="line" N="17"/> also of þe fisshes, as moche as þei wolden. And
+<LB/><MILESTONE UNIT="line" N="18"/> whan þei wern fillid, he seide to his disciples,
+<LB/><MILESTONE UNIT="line" N="19"/> Gaderiþ þe releuys þat ben lefte þat þei
+<LB/><MILESTONE UNIT="line" N="20"/> perisshe not." And so þei gaderiden and filleden
+<LB/><MILESTONE UNIT="line" N="21"/> twelue lepis of relijf of fyue barli looues þat
+<LB/><MILESTONE UNIT="line" N="22"/> wern lefte of hem þat hadden eten. Þerfor, þoo
+<LB/><MILESTONE UNIT="line" N="23"/> men, whan þei hadden seien þat Ihesu had doon a
+<LB/><MILESTONE UNIT="line" N="24"/> myracle <MILESTONE UNIT="folio" N="63v"/> þei seiden "Þis is verili a profete
+<LB/><MILESTONE UNIT="line" N="25"/> þat is to comen into þe world."</Q></EPIGRAPH>
+<P> <MILESTONE UNIT="line" N="26"/> Alle þyngs þat ben conteyned in þis
+<LB/><MILESTONE UNIT="line" N="27"/> Euangelie ben ful of gret misteries. For whan
+<LB/><MILESTONE UNIT="line" N="28"/> Ihesu went from þe Iewri, he cam into desert and
+<LB/><MILESTONE UNIT="line" N="29"/> þe puple folewid hym. He heelid her sike folk; he
+<LB/><MILESTONE UNIT="line" N="30"/> had reuþe vpon þe hungri puple; and þese þyngs
+<LB/><MILESTONE UNIT="line" N="31"/> he dide not in þe morewnyng, neiþer in þe wexyng
+<LB/><MILESTONE UNIT="line" N="32"/> of þe dai, neiþer in þe myddil of þe dai, but at
+<LB/><MILESTONE UNIT="line" N="33"/> euen. And al þis was in token þat aboute þe ende
+<LB/><MILESTONE UNIT="line" N="34"/> of þe world, þat is bitokened bi þe euenyng, þe
+<LB/><MILESTONE UNIT="line" N="35"/> sunne of riȝtwisnesse wolde shewe his graciouse
+<LB/><MILESTONE UNIT="line" N="36"/> werkis for sauacioun of mankynde.
+<LB/><MILESTONE UNIT="line" N="37"/> And here [now] we moun se seuen graciouse
+<LB/><MILESTONE UNIT="line" N="38"/> þyngis. Oon is þe merci of oure Lord Ihesu whan
+<LB/><MILESTONE UNIT="line" N="39"/> he had reuþe vpon þe puple þat folewide hym.
+<LB/><MILESTONE UNIT="line" N="40"/> An oþer is þe gret vertu, wherwith he halp hem þat
+<LB/><MILESTONE UNIT="line" N="41"/> wern sike. Þe þrid is mekenesse þat for þis
+<LB/><MILESTONE UNIT="line" N="42"/> maungerie [he] wolde councele with his disciplis.
+<LB/><MILESTONE UNIT="line" N="43"/> Þe fourþe is good willynesse þat he had to his
+<LB/><MILESTONE UNIT="line" N="44"/> apostlis, whan he bad hem make þe folk to sitte.
+<LB/><MILESTONE UNIT="line" N="45"/> Þe fyueþe is goodlynesse in his worchyng whan he
+<LB/><MILESTONE UNIT="line" N="46"/> fedde þe hungri puple at þe fulle. Þe sixte is
+<LB/><MILESTONE UNIT="line" N="47"/> power whan he multiplied þus þe looues. Þe
+<LB/><MILESTONE UNIT="line" N="48"/> seuenþe is prudence þat þus litle and litle he
+<LB/><MILESTONE UNIT="line" N="49"/> made his chosen puple redi to hiȝer perfeccioun.
+<LB/><MILESTONE UNIT="line" N="50"/> For first hem þat wern vndir þe Lawe he fedde with
+<LB/><MILESTONE UNIT="line" N="51"/> fyue barli looues, in token of reule vndir þe Lawe
+<LB/><MILESTONE UNIT="line" N="52"/> conteyned in fyue bokis of Moises. Þe second tyme,
+<LB/><MILESTONE UNIT="line" N="53"/> hem þat wern newid in spirit bi bileue to þe
+<LB/><MILESTONE UNIT="line" N="54"/> Euangelie he fedde with seuen looues, in token þat
+<LB/><MILESTONE UNIT="line" N="55"/> trewe bileueris in Crist shulden receyue þe seuen
+<LB/><MILESTONE UNIT="line" N="56"/> ȝiftis of þe Hooli Goost. But þe þrid tyme he ȝaf
+<LB/><MILESTONE UNIT="line" N="57"/> to his disciplis as to þe parfite, þe mysterie of
+<LB/><MILESTONE UNIT="line" N="58"/> his flessh and blood, in token þat al þat ȝede
+<LB/><MILESTONE UNIT="line" N="59"/> bifore must [be] knyt vp to mannes profit bi þe
+<LB/><MILESTONE UNIT="line" N="60"/> vertu of Cristis passioun. But atte laste aftir
+<LB/><MILESTONE UNIT="line" N="61"/> al þis, he shal ȝeue graunt to his trwe seruauntis
+<LB/><MILESTONE UNIT="line" N="62"/> to ete and drynke vpon his boord in þe kyngdom of
+<LB/><MILESTONE UNIT="line" N="63"/> heuens vpon a graciouse maner.</P>
+<P> <MILESTONE UNIT="line" N="64"/> But now turne we to þe gostli menyng of þis
+<LB/><MILESTONE UNIT="line" N="65"/> Euangelie. <Q>Whan oure Lord Ihesu had lifte vp his
+<LB/><MILESTONE UNIT="line" N="66"/> iȝen.</Q> Goostli, þe heuyng vp of þe iȝen of oure
+<LB/><MILESTONE UNIT="line" N="67"/> Lord Ihesu bitokeneþ his gret merci wherwith he
+<LB/><MILESTONE UNIT="line" N="68"/> biheld fro heuen vpon mankynde and delyuered [hem]
+<LB/><MILESTONE UNIT="line" N="69"/> mercifuly fro þe þraldam of þe deuel, þat is
+<LB/><MILESTONE UNIT="line" N="70"/> bitokened bi Farao but specialy oure Lordis yen
+<LB/><MILESTONE UNIT="line" N="71"/> ben spiritual ȝiftis þat mercifuly he grauntiþ to
+<LB/><MILESTONE UNIT="line" N="72"/> his chosen puple and whan he deeliþ hem such
+<LB/><MILESTONE UNIT="line" N="73"/> ȝersyues, þan he settiþ vpon hem his iȝen of pitee.
+<LB/><MILESTONE UNIT="line" N="74"/> And herfor seiþ þe Euangelist aftir: <Q>And whan he
+<LB/><MILESTONE UNIT="line" N="75"/> had seen a ful gret multitude,</Q> þat is to sey,
+<LB/><MILESTONE UNIT="line" N="76"/> Hooli Chirche gaderid togedere of foure parties of
+<LB/><MILESTONE UNIT="line" N="77"/> þe world, <Q>comyng to hym</Q> bi þe prechyng of þe
+<LB/><MILESTONE UNIT="line" N="78"/> Euangelie. For of þis multitude seiþ Crist
+<LB/><MILESTONE UNIT="line" N="79"/> hymsilf, in an oþer place, "Many shuln come fro
+<LB/><MILESTONE UNIT="line" N="80"/> þe eest and þe weest, and þei shuln sitte with
+<LB/><MILESTONE UNIT="line" N="81"/> Abraham, Ysaac, and Iacob in þe kyngdom of heuens."
+<LB/><MILESTONE UNIT="line" N="82"/> And take good heede þat it is seied þat oure
+<Q> <MILESTONE UNIT="line" N="83"/> Lord Ihesu saw a multitude <MILESTONE UNIT="folio" N="64r"/> comyng to hym.</Q> For
+<LB/><MILESTONE UNIT="line" N="84"/> as many as comen to hym bi bileue and bi loue,
+<LB/><MILESTONE UNIT="line" N="85"/> þis benyng Lord mercifulli biholdiþ hem, and in
+<LB/><MILESTONE UNIT="line" N="86"/> biholdyng gladli vnderfongiþ hem, and in his
+<LB/><MILESTONE UNIT="line" N="87"/> vndirfongyng loueþ hem, and so filliþ his loued
+<LB/><MILESTONE UNIT="line" N="88"/> children with breed of lijf and vndirstandynge.</P>
+<P> <MILESTONE UNIT="line" N="89"/> And in token þat he is euermore redi to
+<LB/><MILESTONE UNIT="line" N="90"/> goostli refetyng of his chosen puple, þerfor seiþ
+<LB/><MILESTONE UNIT="line" N="91"/> þe Euangelist, whan he saw þis puple, <Q>he seide to
+<LB/><MILESTONE UNIT="line" N="92"/> Filip,</Q> þat is to sei, to ech goostli shepard of
+<LB/><MILESTONE UNIT="line" N="93"/> Hooli Chirche. Filip is as moche to sey as þe
+<LB/><MILESTONE UNIT="line" N="94"/> mouþ of a laumpe, and herfor goostli faderis of
+<LB/><MILESTONE UNIT="line" N="95"/> Hooli Chirche ben bitokened bi Filip, for whosoeuer
+<LB/><MILESTONE UNIT="line" N="96"/> take such hooli offis an hand, as þe laumpe ȝeueþ
+<LB/><MILESTONE UNIT="line" N="97"/> [his] liȝt at þe mouþ, so boþe in word and in
+<LB/><MILESTONE UNIT="line" N="98"/> dede, he must ȝeue liȝt of Goddis word. With
+<LB/><MILESTONE UNIT="line" N="99"/> word he muste ȝeue þe liȝt of trewe techyng to
+<LB/><MILESTONE UNIT="line" N="100"/> norisshe forþ þe puple of God in Cristen law;
+<LB/><MILESTONE UNIT="line" N="101"/> with ensaumple of dede he must ȝeue liȝt to proue
+<LB/><MILESTONE UNIT="line" N="102"/> with dede þat he prechiþ with word.</P>
+<P> <MILESTONE UNIT="line" N="103"/> And herfor seide Crist to Filip, <Q>"Wherof
+<LB/><MILESTONE UNIT="line" N="104"/> shul we bie looues þat þis folk mowe ete?"</Q> As if
+<LB/><MILESTONE UNIT="line" N="105"/> Crist seide, "Wherof shul we bie wordis and
+<LB/><MILESTONE UNIT="line" N="106"/> sacramentis of bileue wherwith my trewe puple moun
+<LB/><MILESTONE UNIT="line" N="107"/> be fillid, þat þei faile not in weie of vertues,
+<LB/><MILESTONE UNIT="line" N="108"/> for goostli shepardis of Hooli Chirche musten
+<LB/><MILESTONE UNIT="line" N="109"/> puruey alle þese þyngs to her symple sheep
+<LB/><MILESTONE UNIT="line" N="110"/> vnderneþe. But <Q>þis he seide temptyng hym.</Q></P>
+<P> <MILESTONE UNIT="line" N="111"/> But now take heede þat þer is an yuel
+<LB/><MILESTONE UNIT="line" N="112"/> temptacioun wherwith wickid men ben temptid to her
+<LB/><MILESTONE UNIT="line" N="113"/> owen dampnacioun. And of þis temptacioun seiþ
+<LB/><MILESTONE UNIT="line" N="114"/> Iames þat God is an vntempter of yuel. Þer is
+<LB/><MILESTONE UNIT="line" N="115"/> also a good temptacioun wherwith God temptiþ his
+<LB/><MILESTONE UNIT="line" N="116"/> chosen puple for þe helþe of her soule. And þus
+<LB/><MILESTONE UNIT="line" N="117"/> was it seid to þe children of Israel, "Ȝoure Lord
+<LB/><MILESTONE UNIT="line" N="118"/> God temptiþ ȝou wheþer þat ȝe louen hym." Þus
+<LB/><MILESTONE UNIT="line" N="119"/> also it is seid þat God temptid Abraham. Þus also
+<LB/><MILESTONE UNIT="line" N="120"/> oure Lord temptid Filip of his ignoraunce to shewe
+<LB/><MILESTONE UNIT="line" N="121"/> hym þe slownesse of his bileue and to bitokene bi
+<LB/><MILESTONE UNIT="line" N="122"/> his special ignoraunce þe mysvndirstondyng of þe
+<LB/><MILESTONE UNIT="line" N="123"/> Iewis in þe Lawe þat God bitook hem. <Q>But he
+<LB/><MILESTONE UNIT="line" N="124"/> hymsilf wist what he was for to do.</Q></P>
+<P> <MILESTONE UNIT="line" N="125"/> For in foure maners as we reden in þe Olde
+<LB/><MILESTONE UNIT="line" N="126"/> Testament God of his hiȝ kunnyng visitid his puple .
+<LB/><MILESTONE UNIT="line" N="127"/> For he visitid oure fadris with myraclis, whan with
+<LB/><MILESTONE UNIT="line" N="128"/> many grete wondris he delyuerid hem fro þe power
+<LB/><MILESTONE UNIT="line" N="129"/> of Kyng Pharao. He visitid hem with benefetis,
+<LB/><MILESTONE UNIT="line" N="130"/> whan he reyned to hem manna fro heuen and fedde
+<LB/><MILESTONE UNIT="line" N="131"/> [hem] fourti wyntir in desert. He visitid hem
+<LB/><MILESTONE UNIT="line" N="132"/> with his commaundementis, whan he ȝaf hem a
+<LB/><MILESTONE UNIT="line" N="133"/> lawe of riȝt lyuyng bi Moises, þe gret profete.
+<LB/><MILESTONE UNIT="line" N="134"/> He visitid hem also with shourgyngs, whan he bitook
+<LB/><MILESTONE UNIT="line" N="135"/> hem for her synne into her enemyes hondis, and
+<LB/><MILESTONE UNIT="line" N="136"/> chastisid hem with dyuers tribulaciouns.</P>
+<P> <MILESTONE UNIT="line" N="137"/> And vndirstonde wel þat in such maner he cam
+<LB/><MILESTONE UNIT="line" N="138"/> for to visite þe puple of þe Newe Testament. First,
+<LB/><MILESTONE UNIT="line" N="139"/> he visitid hem bi myraclis to brynge hem fulli in
+<LB/><MILESTONE UNIT="line" N="140"/> bileue þat he was veri God and man. Aftir he
+<LB/><MILESTONE UNIT="line" N="141"/> visitid hem bi benefetis for þei shulden loue hym
+<LB/><MILESTONE UNIT="line" N="142"/> þe more. Þe þrid tyme he visitid hem bi his commaundementis, <MILESTONE UNIT="folio" N="64v"/>
+<LB/><MILESTONE UNIT="line" N="143"/> to shewe hem þat he was a riȝtwise
+<LB/><MILESTONE UNIT="line" N="144"/> Lord. Þe fourþe tyme he visitid hem bi dyuerse
+<LB/><MILESTONE UNIT="line" N="145"/> shourgyngs, fo[r] he wolde be drad of hem. Bi
+<LB/><MILESTONE UNIT="line" N="146"/> myraclis he visitid hem whan he turned watir into
+<LB/><MILESTONE UNIT="line" N="147"/> wyn, whan he heelid men in þe palesie, whan he
+<LB/><MILESTONE UNIT="line" N="148"/> clensid mesels of her lepre, whan he reisid þe
+<LB/><MILESTONE UNIT="line" N="149"/> dede to lijf, He visitid his puple with benefetis,
+<LB/><MILESTONE UNIT="line" N="150"/> whan he fedde fyue þousynde [of] men with fyue
+<LB/><MILESTONE UNIT="line" N="151"/> looues and two fisshes, as is maad mynde now in
+<LB/><MILESTONE UNIT="line" N="152"/> þis Gospel. He visitid his puple with his
+<LB/><MILESTONE UNIT="line" N="153"/> commaundementis whan he ȝaf þese newe heestis;
+<LB/><MILESTONE UNIT="line" N="154"/> "Loue ȝe ȝoure enemyes, do ȝe wel to hem þat han
+<LB/><MILESTONE UNIT="line" N="155"/> hatid ȝou." He visitid his puple with shourgyngs
+<LB/><MILESTONE UNIT="line" N="156"/> as ofte as he chastisid hem bi [ony] pestilence,
+<LB/><MILESTONE UNIT="line" N="157"/> or oþer tribulacioun.</P>
+<P> <MILESTONE UNIT="line" N="158"/> Ȝit also now-a-daies he visitiþ vs bi his
+<LB/><MILESTONE UNIT="line" N="159"/> myraclis, and ȝit bileue we not as we shulden; with
+<LB/><MILESTONE UNIT="line" N="160"/> benefetis, and we þanken hym not riȝtli; with his
+<LB/><MILESTONE UNIT="line" N="161"/> commaundementis, and we obeien not loueli. Also he
+<LB/><MILESTONE UNIT="line" N="162"/> visitiþ vs with dyuerse shourgyngs, and ȝit drede
+<LB/><MILESTONE UNIT="line" N="163"/> we hym not sufficientli. And herfor seiþ [þe]
+<LB/><MILESTONE UNIT="line" N="164"/> Euangelist aftir: <Q>But he wist what he was for to do.</Q></P>
+<P> <MILESTONE UNIT="line" N="165"/> It folowiþ ferþer: <Q>Filip answerd and seide to
+<LB/><MILESTONE UNIT="line" N="166"/> hym, "Two hundrid penyworþ of breed suffice not to
+<LB/><MILESTONE UNIT="line" N="167"/> hem þat ech man take a little what."</Q> Lo, hou
+<LB/><MILESTONE UNIT="line" N="168"/> Filip haltid ȝit in bileue. He knew wel Cristis
+<LB/><MILESTONE UNIT="line" N="169"/> goodnesse, but he vndirstood not ȝit sufficientli
+<LB/><MILESTONE UNIT="line" N="170"/> his gret power. For ȝit he had not hard þese
+<LB/><MILESTONE UNIT="line" N="171"/> wordis: "Filip, he þat seeþ me, seeþ also my Fadir."
+<LB/><MILESTONE UNIT="line" N="172"/> For Crist seide hym þese wordis aftir, a litil
+<LB/><MILESTONE UNIT="line" N="173"/> bifore he went to his passioun. Neþeles, to gostli
+<LB/><MILESTONE UNIT="line" N="174"/> vndirstondyng, Filippis wordis wern ful soþe, for
+<LB/><MILESTONE UNIT="line" N="175"/> no kunnyng, no worchyng, noon enformyng, seme it
+<LB/><MILESTONE UNIT="line" N="176"/> neuer so parfit, sufficiþ to helþe of mannes soule
+<LB/><MILESTONE UNIT="line" N="177"/> withouten Crist, breed of lijf, þat descendid fro
+<LB/><MILESTONE UNIT="line" N="178"/> heuen for mannes profit.
+<Q> <MILESTONE UNIT="line" N="179"/> And oon of his disciples, Andrew, Symound
+<LB/><MILESTONE UNIT="line" N="180"/> Petris broþer, seide to hym.</Q> Alle þese wordis ben
+<LB/><MILESTONE UNIT="line" N="181"/> seide to gret commendacioun of Andrew. In þat þat
+<LB/><MILESTONE UNIT="line" N="182"/> it is seid þat he was Cristis disciple is openli
+<LB/><MILESTONE UNIT="line" N="183"/> expressid his mekenesse and obedience. In þat þat
+<LB/><MILESTONE UNIT="line" N="184"/> he was clepid <Q>Andrew,</Q> þat is as moche to sey as
+<LB/><MILESTONE UNIT="line" N="185"/> manli, is bitokened his gret hertli stedfastnesse.
+<LB/><MILESTONE UNIT="line" N="186"/> And in þat þat he was clepid <Q>Symound Petris broþer,</Q>
+<LB/><MILESTONE UNIT="line" N="187"/> is faire shewid his bileue and good acoord of
+<LB/><MILESTONE UNIT="line" N="188"/> trewe loue. But now lat se what he seide. "Þer
+<LB/><MILESTONE UNIT="line" N="189"/> is oon child here þat haþ fyue barli looues and
+<LB/><MILESTONE UNIT="line" N="190"/> two fisshes." Lo, here he spak but fewe wordis, but
+<LB/><MILESTONE UNIT="line" N="191"/> he vndirstood ful moche more. Neþeles he spak
+<LB/><MILESTONE UNIT="line" N="192"/> manli, for his name is as moche to sey as manli.
+<LB/><MILESTONE UNIT="line" N="193"/> For but if he had vndirstonde þe gret Godlich vertu
+<LB/><MILESTONE UNIT="line" N="194"/> in his maistir, he wold not haue maad mencioun of
+<LB/><MILESTONE UNIT="line" N="195"/> fyue looues and two fisshes for to fede so many
+<LB/><MILESTONE UNIT="line" N="196"/> þousynde. And þus he seide ferþermore, <Q>"But what
+<LB/><MILESTONE UNIT="line" N="197"/> ben þese among so many?"</Q> As if he seide, "It is
+<LB/><MILESTONE UNIT="line" N="198"/> but litle or nouȝt þat I haue spoke of, but if þou
+<LB/><MILESTONE UNIT="line" N="199"/> blesse and breke and also multiplie þis mete þat
+<LB/><MILESTONE UNIT="line" N="200"/> ȝeuest mete to al mankynde." But here now what
+<LB/><MILESTONE UNIT="line" N="201"/> is bitokened bi al þis.</P>
+<P> <MILESTONE UNIT="line" N="202"/> It is licli þat þis oon child was oon of <MILESTONE UNIT="folio" N="65r"/>
+<LB/><MILESTONE UNIT="line" N="203"/> Cristis disciplis or ellis, as summe men seien,
+<LB/><MILESTONE UNIT="line" N="204"/> oon of þe folk þat was fed, þat bitokened þe
+<LB/><MILESTONE UNIT="line" N="205"/> puple of þe Iewis. Þe fyue looues bitokenen þe
+<LB/><MILESTONE UNIT="line" N="206"/> fyue bokis of Moises wherbi þe Iewis wern tauȝt
+<LB/><MILESTONE UNIT="line" N="207"/> for to knouleche oon God, and for to haue knowyng
+<LB/><MILESTONE UNIT="line" N="208"/> of þe worldis makyng, and figurali to haue
+<LB/><MILESTONE UNIT="line" N="209"/> vndirstondyng of biheest of lijf euerlastyng to
+<LB/><MILESTONE UNIT="line" N="210"/> mankynde. Þe two fisshes bitoken resoun and
+<LB/><MILESTONE UNIT="line" N="211"/> vndirstondyng, and also profecies and þe Salmes
+<LB/><MILESTONE UNIT="line" N="212"/> wherwith þe puple of God is enformed and norisshid
+<LB/><MILESTONE UNIT="line" N="213"/> forþ in bileue. Also þis child bitokeneþ Crist
+<LB/><MILESTONE UNIT="line" N="214"/> and þe fyue looues his fyue woundis. But þese
+<LB/><MILESTONE UNIT="line" N="215"/> looues wern of barli þat is a sharp corn among
+<LB/><MILESTONE UNIT="line" N="216"/> oþer, and Cristis passioun was ful sharp, but ȝit
+<LB/><MILESTONE UNIT="line" N="217"/> it confortid at þe fulle, bi merci þat man gat
+<LB/><MILESTONE UNIT="line" N="218"/> þere þorouȝ as þis barli breed counfortid þe
+<LB/><MILESTONE UNIT="line" N="219"/> puple in releuyng of her hungir. Þe two fisshes
+<LB/><MILESTONE UNIT="line" N="220"/> bitoken watir and blood þat ben an oynement of
+<LB/><MILESTONE UNIT="line" N="221"/> stoor for Goddis puple, for þese two walliden out
+<LB/><MILESTONE UNIT="line" N="222"/> of Cristis side as sowuel to refresshe with
+<LB/><MILESTONE UNIT="line" N="223"/> mannes soule. But as we fynden treulich wryten
+<LB/><MILESTONE UNIT="line" N="224"/> þat þer is þre maner of breed þat is sett forþ on
+<LB/><MILESTONE UNIT="line" N="225"/> Goddis bord for þre maner of folk þat shuld be fed:
+<LB/><MILESTONE UNIT="line" N="226"/> breed baken vndir askis, as we fynden was leid at
+<LB/><MILESTONE UNIT="line" N="227"/> Helies heed; also breed maad of barli, as we maken
+<LB/><MILESTONE UNIT="line" N="228"/> now mynde of in þis Gospel þat fyue þousande men
+<LB/><MILESTONE UNIT="line" N="229"/> wern fed with; also breed maad of wheete wherwith
+<LB/><MILESTONE UNIT="line" N="230"/> foure þousande men wern fed as it is writen in an
+<LB/><MILESTONE UNIT="line" N="231"/> oþer place.</P>
+<P> <MILESTONE UNIT="line" N="232"/> Þe first breed is ȝouen to pore men, þe second
+<LB/><MILESTONE UNIT="line" N="233"/> to seruauntis. Þe þrid breed is ȝouen to sones.
+<LB/><MILESTONE UNIT="line" N="234"/> Pore men at Goddis boord ben þei þat ben freel of
+<LB/><MILESTONE UNIT="line" N="235"/> hemsilf, þouȝ þei haue gode wille to vertu, and
+<LB/><MILESTONE UNIT="line" N="236"/> neden grete ensaumplis of mekenesse, to sette
+<LB/><MILESTONE UNIT="line" N="237"/> litil bi her flessh as litil prijs is sett bi askis.
+<LB/><MILESTONE UNIT="line" N="238"/> Seruantis at Goddis bord ben þei þat trauelen sore
+<LB/><MILESTONE UNIT="line" N="239"/> in exercise of depnesse of Hooli Scriptures, and
+<LB/><MILESTONE UNIT="line" N="240"/> bisien hem fast to wynnen awei foule errours for
+<LB/><MILESTONE UNIT="line" N="241"/> to haue þe cleene corn of vndirstondyng of Hooli
+<LB/><MILESTONE UNIT="line" N="242"/> Writ. But sharpe disesis musten þese seruauntis
+<LB/><MILESTONE UNIT="line" N="243"/> suffre, for so deden alle þat token feiþfulli þis
+<LB/><MILESTONE UNIT="line" N="244"/> trauel. Sones at Goddis boord ben þei þat holili
+<LB/><MILESTONE UNIT="line" N="245"/> resten in ese of inward swetnesse and ben not
+<LB/><MILESTONE UNIT="line" N="246"/> inwardli troblid in regard of þe toþer, as we moun
+<LB/><MILESTONE UNIT="line" N="247"/> se of Cristis modir, and parfit comtemplatif folk
+<LB/><MILESTONE UNIT="line" N="248"/> han such reste þat is swettir to hem þan þe
+<LB/><MILESTONE UNIT="line" N="249"/> wheete. And so to þe pore men is set forþ breed
+<LB/><MILESTONE UNIT="line" N="250"/> baken vndir askis to counforte hem with manyfold
+<LB/><MILESTONE UNIT="line" N="251"/> ensaumple of mekenesse, and to seruauntis is set
+<LB/><MILESTONE UNIT="line" N="252"/> forþ breed of barli to moue hem to trauele for
+<LB/><MILESTONE UNIT="line" N="253"/> mede folowyng, but to children is set forþ breed
+<LB/><MILESTONE UNIT="line" N="254"/> of whete to refete hem in counfortyng of her
+<LB/><MILESTONE UNIT="line" N="255"/> heuenli loue. And þus þese pore men receyuen her
+<LB/><MILESTONE UNIT="line" N="256"/> breed [to gret counfortyng, and þe seruauntis her
+<LB/><MILESTONE UNIT="line" N="257"/> breed] to her strengþyng, but þe sones taken her
+<LB/><MILESTONE UNIT="line" N="258"/> breed to her manyfold heuenli ioyyng.</P>
+<P> <MILESTONE UNIT="line" N="259"/> It folewiþ ferþer in þe text: <Q>Þerfor Ihesu
+<LB/><MILESTONE UNIT="line" N="260"/> seide to hem,</Q> þat is to sey, to his disciplis,
+<Q> <MILESTONE UNIT="line" N="261"/> "Makiþ þe men for to sitte."</Q> Lo, þis was a gret
+<LB/><MILESTONE UNIT="line" N="262"/> dignite of þe apostlis, þat Crist wold haue hem
+<LB/><MILESTONE UNIT="line" N="263"/> to be helpers þat þei deserueden to be stiwardis
+<LB/><MILESTONE UNIT="line" N="264"/> of þe hiȝ seruysis of God. Also it was a gret
+<LB/><MILESTONE UNIT="line" N="265"/> vouchyng saaf of þis maistir, þat in ensaumple of
+<LB/><MILESTONE UNIT="line" N="266"/> mekenesse, wold ordeyne his disciplis to be
+<LB/><MILESTONE UNIT="line" N="267"/> togidere worcheris of so gret <MILESTONE UNIT="folio" N="65v"/> a myracle, </P>
+<P> <MILESTONE UNIT="line" N="268"/> But take heede þat þe gestis saten not on
+<LB/><MILESTONE UNIT="line" N="269"/> peyntid bankeris but on hei þat was þere redi.
+<LB/><MILESTONE UNIT="line" N="270"/> And al þis was in tokene þat þei shulden lerne
+<LB/><MILESTONE UNIT="line" N="271"/> of Crist to dispise synful lustis of her bodi þat
+<LB/><MILESTONE UNIT="line" N="272"/> shal fade as gras to hey. And <Q>so Ihesus took
+<LB/><MILESTONE UNIT="line" N="273"/> breed.</Q> For first he bigan to do and aftir to
+<LB/><MILESTONE UNIT="line" N="274"/> teche. <Q>And whan he had do þankyngs</Q> to his Fadir,
+<LB/><MILESTONE UNIT="line" N="275"/> in ensaumple þat we shulden take and do alle
+<LB/><MILESTONE UNIT="line" N="276"/> þyngs with [þankyngs] to God, <Q>he delid aboute to
+<LB/><MILESTONE UNIT="line" N="277"/> hem þat saten</Q> at þe mete. And þis he dide boþe
+<LB/><MILESTONE UNIT="line" N="278"/> bi hymsilf and his apostlis whom he ordeyned
+<LB/><MILESTONE UNIT="line" N="279"/> mynystris of þe Newe Testament. But first he
+<LB/><MILESTONE UNIT="line" N="280"/> brak þe breed, for he hymsilf declarid þe Lawe,
+<LB/><MILESTONE UNIT="line" N="281"/> and þanne aftir wern many fillid bi þe techyng
+<LB/><MILESTONE UNIT="line" N="282"/> of his apostlis. <Q>And whan þei wern</Q> þus holsumli
+<LB/><MILESTONE UNIT="line" N="283"/> fillid with þe holsum mete of þis Lordis breed
+<LB/><MILESTONE UNIT="line" N="284"/> and fissh, <Q>he seide to his disciplis, "Gaderiþ
+<LB/><MILESTONE UNIT="line" N="285"/> þe releuys þat ben left ouer to þese men þat han
+<LB/><MILESTONE UNIT="line" N="286"/> eten."</Q> For parfit men bisilich sechen priuey
+<LB/><MILESTONE UNIT="line" N="287"/> mysteries of Hooli Writ þat ruyde folk cacchen
+<LB/><MILESTONE UNIT="line" N="288"/> not for inward boistesnesse of hemsilf .</P>
+<P> <MILESTONE UNIT="line" N="289"/> But þe twelue lepis þat wern fillid with
+<LB/><MILESTONE UNIT="line" N="290"/> manyfold crummes of releef ben vnderstonden þe
+<LB/><MILESTONE UNIT="line" N="291"/> twelue apostlis and her trewe foleweris in her
+<LB/><MILESTONE UNIT="line" N="292"/> offis. Such lepis comynli wern put to seruyle
+<LB/><MILESTONE UNIT="line" N="293"/> werkis and such werkis bitokenen many synnes.
+<LB/><MILESTONE UNIT="line" N="294"/> But Crist of his gret grace clensid þese leepis,
+<LB/><MILESTONE UNIT="line" N="295"/> þat is to sey, þe apostlis and her trewe folewers,
+<LB/><MILESTONE UNIT="line" N="296"/> and fillid hem with relijf of holsum goostli
+<LB/><MILESTONE UNIT="line" N="297"/> mete so þat þei ouercomen men of gret noblei,
+<LB/><MILESTONE UNIT="line" N="298"/> myȝti and wise of þe world, and aftir ȝouen hem
+<LB/><MILESTONE UNIT="line" N="299"/> mete of many faire doctrynes.
+<Q> <MILESTONE UNIT="line" N="300"/> Þerfor þo men, whan þei sawen þat he had doon
+<LB/><MILESTONE UNIT="line" N="301"/> a myracle, þei seiden, "Þis is verili a profete
+<LB/><MILESTONE UNIT="line" N="302"/> þat is [for] to comen into þe world."</Q> Ȝit sum
+<LB/><MILESTONE UNIT="line" N="303"/> liȝt þer was in þese men þat liȝtned her herte
+<LB/><MILESTONE UNIT="line" N="304"/> whan þei hadden seen so gret a myracle of Crist.
+<LB/><MILESTONE UNIT="line" N="305"/> But ȝit wern þei not parfit in þe bileue, for þei
+<LB/><MILESTONE UNIT="line" N="306"/> clepiden hym þat was God and Lord of profetis,
+<LB/><MILESTONE UNIT="line" N="307"/> oonlich a profete. But sooþ þei seiden whan þei
+<LB/><MILESTONE UNIT="line" N="308"/> clepeden hym a profete, for þus he seiþ of hymsilf
+<LB/><MILESTONE UNIT="line" N="309"/> in an oþer place of þe Euangelie, "It falliþ not
+<LB/><MILESTONE UNIT="line" N="310"/> þe profete to die withoute þe boundis of Ierusalem."
+<LB/><MILESTONE UNIT="line" N="311"/> And so þese rude folk and symple profiteden more
+<LB/><MILESTONE UNIT="line" N="312"/> bi þe vertu of oon myracle þan þe scribes and
+<LB/><MILESTONE UNIT="line" N="313"/> Farisees þat hadden seie moche more, and lerned
+<LB/><MILESTONE UNIT="line" N="314"/> þe Lawe and profetis bokis, and ofte [hadden] rad
+<LB/><MILESTONE UNIT="line" N="315"/> and herd þat þat was writen of Crist.</P>
+<P> <MILESTONE UNIT="line" N="316"/> But now what wondir is it to vs þat bileuen
+<LB/><MILESTONE UNIT="line" N="317"/> treuli þouȝ Goddis Sone fedde so many þousande
+<LB/><MILESTONE UNIT="line" N="318"/> with so fewe looues, þat alle þyngs made of nouȝt,
+<LB/><MILESTONE UNIT="line" N="319"/> gouernyþ and disposiþ, and alle þyngs beriþ vp
+<LB/><MILESTONE UNIT="line" N="320"/> bi his gret vertu. For certis, if we take heede
+<LB/><MILESTONE UNIT="line" N="321"/> to mouyng aboute of þe speris of heuen, to þe
+<LB/><MILESTONE UNIT="line" N="322"/> cours of sterris, to þe variyng of tymes, to þe
+<LB/><MILESTONE UNIT="line" N="323"/> settyng of erþe and broodnesse of sees, and to
+<LB/><MILESTONE UNIT="line" N="324"/> alle oþer þyngs þat bi hym ben made, without whom
+<LB/><MILESTONE UNIT="line" N="325"/> no þyng mai stonde, we shuln bi resoun knouleche
+<LB/><MILESTONE UNIT="line" N="326"/> hym veri God and Lord of alle creatures. But þat
+<LB/><MILESTONE UNIT="line" N="327"/> his Godhed was hid in flessh, and þat he shewid
+<LB/><MILESTONE UNIT="line" N="328"/> hym pore and abiect to men, it was of his gret
+<LB/><MILESTONE UNIT="line" N="329"/> vouchyng saaf and of his euerlastyng ordynaunce
+<LB/><MILESTONE UNIT="line" N="330"/> to sauacioun of mankynde. For if he had shewid
+<LB/><MILESTONE UNIT="line" N="331"/> hymsilf in þe gret clerenesse of his Godhed to þe
+<LB/><MILESTONE UNIT="line" N="332"/> world <MILESTONE UNIT="folio" N="66r"/> men shulden not haue susteyned þe siȝt of
+<LB/><MILESTONE UNIT="line" N="333"/> his gret briȝtnesse, for whan he was transfigurid
+<LB/><MILESTONE UNIT="line" N="334"/> bifore his þre apostlis, lo, þei fellen doun
+<LB/><MILESTONE UNIT="line" N="335"/> vpon [her] face and sufficiden not to se þat cleer
+<LB/><MILESTONE UNIT="line" N="336"/> siȝt. And for þis skil Goddis Sone araied him
+<LB/><MILESTONE UNIT="line" N="337"/> graciousli on such a maner in takyng of oure
+<LB/><MILESTONE UNIT="line" N="338"/> feble kynde þat þouȝ he were invisible bi his
+<LB/><MILESTONE UNIT="line" N="339"/> Godhed to vs here, we myte seen hym bi his manhed.
+<LB/><MILESTONE UNIT="line" N="340"/> And so it was to vs ful profitable þat he shewid
+<LB/><MILESTONE UNIT="line" N="341"/> summe meruels to his disciplis þat sawen hym here
+<LB/><MILESTONE UNIT="line" N="342"/> bodili, to strengþe vs þat shulden come aftir in
+<LB/><MILESTONE UNIT="line" N="343"/> bileue of his Godhed. For se now hou moche þese
+<LB/><MILESTONE UNIT="line" N="344"/> rude folk profiteden in seyng of Cristis myracle
+<LB/><MILESTONE UNIT="line" N="345"/> þat crieden and seiden on þis maner, <Q>"Þis is verili
+<LB/><MILESTONE UNIT="line" N="346"/> a profete þat is to come into þis world."</Q></P>
+<P> <MILESTONE UNIT="line" N="347"/> Þerfor, we to whom God haþ ȝouen more largeli
+<LB/><MILESTONE UNIT="line" N="348"/> and more parfitli to knowe þe misteries of þe
+<LB/><MILESTONE UNIT="line" N="349"/> kyngdom of God, seie we with mouþ and bileue we
+<LB/><MILESTONE UNIT="line" N="350"/> treuli þat he is veri Sauyour of þe world. For he
+<LB/><MILESTONE UNIT="line" N="351"/> seiþ hymsilf in an oþer place, "Mannes Sone is
+<LB/><MILESTONE UNIT="line" N="352"/> not come to deme þe world, but þat þe world be
+<LB/><MILESTONE UNIT="line" N="353"/> saued bi hym." And þis was sooþ fro þe tyme þat
+<LB/><MILESTONE UNIT="line" N="354"/> Crist was bore to þat he ascendid into heuen.
+<LB/><MILESTONE UNIT="line" N="355"/> And Poul seiþ þat God þe Fadir was in Crist þe
+<LB/><MILESTONE UNIT="line" N="356"/> Sone recounselyng þe world to hym, and so noon
+<LB/><MILESTONE UNIT="line" N="357"/> oþer creature was sent for to make a ful seeþ for
+<LB/><MILESTONE UNIT="line" N="358"/> mankynde þat was lore but he þat was a sufficient
+<LB/><MILESTONE UNIT="line" N="359"/> meene bitwen God and synful men, Ihesu Crist, veri
+<LB/><MILESTONE UNIT="line" N="360"/> God and man.</P>
+<P> <MILESTONE UNIT="line" N="361"/> Þerfor holde we þis reule of bileue, and
+<LB/><MILESTONE UNIT="line" N="362"/> stidfastlich and feiþfullich fele we [þis] of
+<LB/><MILESTONE UNIT="line" N="363"/> Goddis Sone and worche we outward in dede acordyng
+<LB/><MILESTONE UNIT="line" N="364"/> with oure feiþ withynne þat bi þis bileue we mowe
+<LB/><MILESTONE UNIT="line" N="365"/> be fillid here with þe breed of lijf þat cam doun
+<LB/><MILESTONE UNIT="line" N="366"/> from heuen, and aftir haue hym in ful knowyng in
+<LB/><MILESTONE UNIT="line" N="367"/> blisse þat neuer shal haue ende. Amen.</P></DIV1>
+<DIV1 TYPE="sermon" N="Dom.5 Lent">
+<HEAD>[6.] Þe fifþe Sunday of Lentoun. </HEAD>
+<EPIGRAPH><BIBL>Iohannis viijo.</BIBL><Q> <MILESTONE UNIT="line" N="1"/> "Who of ȝou shal vndirnyme me of synne? If
+<LB/><MILESTONE UNIT="line" N="2"/> I sei ȝou þe trewþe, whi bileue ȝe me not? He
+<LB/><MILESTONE UNIT="line" N="3"/> þat is of God heriþ Goddis wordis. Þerfor ȝe
+<LB/><MILESTONE UNIT="line" N="4"/> heren not, for ȝe ben not of God." Þerfor þe
+<LB/><MILESTONE UNIT="line" N="5"/> Iewis answeriden and seiden to hym, "Seie we not
+<LB/><MILESTONE UNIT="line" N="6"/> wel þat þou art a Samaritan and hast a deuel?"
+<LB/><MILESTONE UNIT="line" N="7"/> Ihesu answerd hem, "I haue not a deuel, but I
+<LB/><MILESTONE UNIT="line" N="8"/> honoure my Fadir and ȝe haue inhonourid me. Certis,
+<LB/><MILESTONE UNIT="line" N="9"/> I seche not myn owen glorie, as in þat þat I am man,
+<LB/><MILESTONE UNIT="line" N="10"/> but þer is oon þat sechiþ it and demeþ. Soþeli,
+<LB/><MILESTONE UNIT="line" N="11"/> soþeli, I sey to ȝou, whoso kepiþ my word, he
+<LB/><MILESTONE UNIT="line" N="12"/> shal not se deþ withouten ende." Þerfor þe
+<LB/><MILESTONE UNIT="line" N="13"/> Iewis seiden to hym, "Now haue we knowe þat þou
+<LB/><MILESTONE UNIT="line" N="14"/> hast a deuel. Abraham oure fadir is deed and þe
+<LB/><MILESTONE UNIT="line" N="15"/> profetis, and þou seist, "Whoso kepiþ my word, he
+<LB/><MILESTONE UNIT="line" N="16"/> shal not taste þe deeþ withouten ende. " Wheþer
+<LB/><MILESTONE UNIT="line" N="17"/> þou be more þan oure fadir Abraham þat is deed and
+<LB/><MILESTONE UNIT="line" N="18"/> þe profetes ben dede? Whom makist þou þisilf?"
+<LB/><MILESTONE UNIT="line" N="19"/> Ihesu answerd, "If I glor[if]ie mysilf, my glorie
+<LB/><MILESTONE UNIT="line" N="20"/> is nouȝt. It is my Fadir þat glorifieþ me, þat ȝe
+<LB/><MILESTONE UNIT="line" N="21"/> seien is ȝoure God but ȝe han not know hym. I
+<LB/><MILESTONE UNIT="line" N="22"/> certis haue know hym and if I seie þat I knowe
+<LB/><MILESTONE UNIT="line" N="23"/> hym not, I shal be liyk to ȝou, a lieȝer. But I
+<LB/><MILESTONE UNIT="line" N="24"/> knowe hym and I kepe his wordis. Abraham ȝoure
+<LB/><MILESTONE UNIT="line" N="25"/> fadir ioied þat he shuld se my day, and he saw and
+<LB/><MILESTONE UNIT="line" N="26"/> he was gretli gladid." <MILESTONE UNIT="folio" N="66v"/> Þerfor þe Iewis seiden
+<LB/><MILESTONE UNIT="line" N="27"/> to hym, "Þou has not ȝit fifti ȝeer in age and
+<LB/><MILESTONE UNIT="line" N="28"/> hast þou seyn Abraham?" Ihesus seide to hem,
+<LB/><MILESTONE UNIT="line" N="29"/> "Soþeli, soþeli, I seie to ȝou, bifore Abraham
+<LB/><MILESTONE UNIT="line" N="30"/> was maad I am." Þerfor þe Iewis token vp stoones
+<LB/><MILESTONE UNIT="line" N="31"/> for to caste vpon hym. Ihesus, certis, hid hym
+<LB/><MILESTONE UNIT="line" N="32"/> and went out of þe temple.</Q></EPIGRAPH>
+<P> <MILESTONE UNIT="line" N="33"/> Whan þat Cristis passioun was nyȝ, ofte he
+<LB/><MILESTONE UNIT="line" N="34"/> cam to þe Iewis, and repreued hem and conuyctid hem
+<LB/><MILESTONE UNIT="line" N="35"/> of her falshed but he turned hem not from her
+<LB/><MILESTONE UNIT="line" N="36"/> vntreuþe. And þis was doon þat Isaies profecie
+<LB/><MILESTONE UNIT="line" N="37"/> shuld be fulfillid þat was þis: "Blynde þou þe
+<LB/><MILESTONE UNIT="line" N="38"/> hert of þis puple, and make her eeris heuy for to
+<LB/><MILESTONE UNIT="line" N="39"/> here, and close her iȝen, lest þei se with her
+<LB/><MILESTONE UNIT="line" N="40"/> iȝen, and here with her eeris, and vndirstonde
+<LB/><MILESTONE UNIT="line" N="41"/> with her hert, and be turned for to be heelid."
+<LB/><MILESTONE UNIT="line" N="42"/> And þus as wood men dispisen þe leche þat is sent
+<LB/><MILESTONE UNIT="line" N="43"/> to hem, so þei dispisiden Goddis Sone, and clepiden
+<LB/><MILESTONE UNIT="line" N="44"/> hym a synnere and a deceyuere. But he not
+<LB/><MILESTONE UNIT="line" N="45"/> maliciousli nor with viciouse dispisyng, shewid
+<LB/><MILESTONE UNIT="line" N="46"/> hem þat wern out of resoun her vnresonable wordis,
+<LB/><MILESTONE UNIT="line" N="47"/> answeryng hem on þis maner, <Q>"Who of ȝou,"</Q> þat is
+<LB/><MILESTONE UNIT="line" N="48"/> to sey sones of þe deuel, bi folewyng of his
+<LB/><MILESTONE UNIT="line" N="49"/> trace, and sones of synne, bi manyfold shrewid
+<LB/><MILESTONE UNIT="line" N="50"/> worchyng, <Q>"shal vndirnyme me,</Q> as I mai ȝou and
+<LB/><MILESTONE UNIT="line" N="51"/> ȝoure fadir of manyfold <Q>synne."</Q></P>
+<P> <MILESTONE UNIT="line" N="52"/> Soþ it is þat Crist miȝt not skilfuly be
+<LB/><MILESTONE UNIT="line" N="53"/> vndirnome of orygynal synne, for so Goddis Sone
+<LB/><MILESTONE UNIT="line" N="54"/> was maad flessh and dwellid among vs þat he took
+<LB/><MILESTONE UNIT="line" N="55"/> verilich þe kynde of man withouten receyuynge of
+<LB/><MILESTONE UNIT="line" N="56"/> filþe of synne; nor noon myȝt bi resoun vndirnyme
+<LB/><MILESTONE UNIT="line" N="57"/> hym of actuel synne. For as Petir seiþ, "He dide
+<LB/><MILESTONE UNIT="line" N="58"/> not synne nor gile was founden in his mouþ." And
+<LB/><MILESTONE UNIT="line" N="59"/> so bi certeyn propirte, he was þe brasen eddre
+<LB/><MILESTONE UNIT="line" N="60"/> þat had not venym in hymsilf but put out venym
+<LB/><MILESTONE UNIT="line" N="61"/> from oþer. And herfor Crist seide ferþermore
+<LB/><MILESTONE UNIT="line" N="62"/> ful sharpli to þe Iewis, <Q>"If I seie ȝou treuþe, as
+<LB/><MILESTONE UNIT="line" N="63"/> þe Lawe and þe profetis beren witnesse of me, whi
+<LB/><MILESTONE UNIT="line" N="64"/> bileue ȝe not to me? Certis, for ȝe ben sones of
+<LB/><MILESTONE UNIT="line" N="65"/> dampnacioun and of þe deuel."</Q></P>
+<P> <MILESTONE UNIT="line" N="66"/> But now take riȝt good heede þat oon it is
+<LB/><MILESTONE UNIT="line" N="67"/> to bileue Crist, an oþer for to bileue to Crist,
+<LB/><MILESTONE UNIT="line" N="68"/> and an oþer for to bileue in Crist. For to bileue
+<LB/><MILESTONE UNIT="line" N="69"/> Crist is for to bileue þat he is Goddis Sone and
+<LB/><MILESTONE UNIT="line" N="70"/> veri man, and þat he come into þis world [for] to
+<LB/><MILESTONE UNIT="line" N="71"/> aȝenbie mankynde, and to make vs attoon with þe
+<LB/><MILESTONE UNIT="line" N="72"/> Fadir of heuen. For to bileue to Crist is for to
+<LB/><MILESTONE UNIT="line" N="73"/> gladli here þe wordis of lijf þat he tauȝt
+<LB/><MILESTONE UNIT="line" N="74"/> openlich to þe world, to obeie without
+<LB/><MILESTONE UNIT="line" N="75"/> aȝenseiyng of mouþ to his preceptis þat ben forme
+<LB/><MILESTONE UNIT="line" N="76"/> of veri techyng and no þyng to doute of his
+<LB/><MILESTONE UNIT="line" N="77"/> bihestis þat ben ful of treuþe. But for to bileue
+<LB/><MILESTONE UNIT="line" N="78"/> in Crist, is for to bileue þat he, aftir his
+<LB/><MILESTONE UNIT="line" N="79"/> Godhed, is fullich liyk his Fadir, and not aftir
+<LB/><MILESTONE UNIT="line" N="80"/> his Fadir bi tyme, [not] lower þan his Fadir bi
+<LB/><MILESTONE UNIT="line" N="81"/> power, not vneuen to his Fadir in blisse, [not]
+<LB/><MILESTONE UNIT="line" N="82"/> dyuydid from his Fadir in substaunce. And so to
+<LB/><MILESTONE UNIT="line" N="83"/> parceyue þis withynforþ withouten ony doute, and
+<LB/><MILESTONE UNIT="line" N="84"/> to worche sufficientli withoutforþ acordyngli
+<LB/><MILESTONE UNIT="line" N="85"/> to þis stidfast parceit withynne, is for to bileue
+<LB/><MILESTONE UNIT="line" N="86"/> in Crist. But þe wickid Iewis, ful enemyes of
+<LB/><MILESTONE UNIT="line" N="87"/> treuþe, wolden not in þis þrid maner bileue noon
+<LB/><MILESTONE UNIT="line" N="88"/> of þese poyntis in Cristis persoone. And þus in
+<LB/><MILESTONE UNIT="line" N="89"/> a maner þei wern worse þan fendis þat bileuen in
+<LB/><MILESTONE UNIT="line" N="90"/> þe first wise, and þerwiþ quaken for fere. For
+<LB/><MILESTONE UNIT="line" N="91"/> if þei hadden ben on Goddis haalf, þei wolden
+<LB/><MILESTONE UNIT="line" N="92"/> gladli <MILESTONE UNIT="folio" N="67r"/> haue herd Cristis wordis or ellis trowid
+<LB/><MILESTONE UNIT="line" N="93"/> to his werkis. And herfor it is seid aftir, <Q>"He
+<LB/><MILESTONE UNIT="line" N="94"/> þat is of God, heriþ Goddis wordis,"</Q> þat is to sey,
+<LB/><MILESTONE UNIT="line" N="95"/> he loueþ Goddis wordis, and kepiþ hem in his
+<LB/><MILESTONE UNIT="line" N="96"/> lyuyng .</P>
+<P> <MILESTONE UNIT="line" N="97"/> But now on þre maners is a þyng seid to be of
+<LB/><MILESTONE UNIT="line" N="98"/> God: bi kynde, as Crist Ihesu þat spak þese wordis;
+<LB/><MILESTONE UNIT="line" N="99"/> bi grace, as is euery wel bileuyng man; and þe
+<LB/><MILESTONE UNIT="line" N="100"/> þrid, bi cause as is ech kynde of creatures. And
+<LB/><MILESTONE UNIT="line" N="101"/> þus þis wickid generacioun of Iewis bi oonlich
+<LB/><MILESTONE UNIT="line" N="102"/> cause was of God, þat is cheef cause of beyng of
+<LB/><MILESTONE UNIT="line" N="103"/> alle creatures, but bi grace it was not of God.
+<LB/><MILESTONE UNIT="line" N="104"/> And þis witnessiþ Crist openli, aftir seiyng,
+<Q> <MILESTONE UNIT="line" N="105"/> "þerfor ȝe heren not for ȝe ben not of God."</Q> But
+<LB/><MILESTONE UNIT="line" N="106"/> now vndirstonde þat þer ben foure maner of folk
+<LB/><MILESTONE UNIT="line" N="107"/> þat comen and heren Goddis word. For summe heren,
+<LB/><MILESTONE UNIT="line" N="108"/> but þei vndirstonden not, nor fulfillen it in
+<LB/><MILESTONE UNIT="line" N="109"/> dede, as symple folk of litil kunnyng. Summe
+<LB/><MILESTONE UNIT="line" N="110"/> heren Goddis word, and vndirstonden it, but þei
+<LB/><MILESTONE UNIT="line" N="111"/> kepen it not as þe dispisers of Goddis word. But
+<LB/><MILESTONE UNIT="line" N="112"/> summe heren Goddis word and vndirstonden it and
+<LB/><MILESTONE UNIT="line" N="113"/> kepen it, as þe heires of þe kyngdom of heuen.
+<LB/><MILESTONE UNIT="line" N="114"/> But þe fourþe maner of folk neiþer heren nor
+<LB/><MILESTONE UNIT="line" N="115"/> vndirstonden, nor doon aftir Goddis word as men
+<LB/><MILESTONE UNIT="line" N="116"/> þat ben out of bileue. And þese last maner of
+<LB/><MILESTONE UNIT="line" N="117"/> folk ben bitokened bi hem þat seiden on þis
+<LB/><MILESTONE UNIT="line" N="118"/> maner, <Q>"Sey we not wel þat þou art a Samaritan
+<LB/><MILESTONE UNIT="line" N="119"/> and hast a deuel."</Q></P>
+<P> <MILESTONE UNIT="line" N="120"/> Lo, for þese Iewis wern conuyctid þat þei
+<LB/><MILESTONE UNIT="line" N="121"/> wern neiþer Abrahams sones nor Goddis sones, but
+<LB/><MILESTONE UNIT="line" N="122"/> þe sones of þe deuel, anoon þei turneden hem to
+<LB/><MILESTONE UNIT="line" N="123"/> repreuyng wordis. Neþeles, soþ þei seiden, þouȝ
+<LB/><MILESTONE UNIT="line" N="124"/> it were not with god entent, þat he was a
+<LB/><MILESTONE UNIT="line" N="125"/> Samaritan. For Samaritan is as moche to sey as a
+<LB/><MILESTONE UNIT="line" N="126"/> kepere, and Crist was keper of mankynde. And
+<LB/><MILESTONE UNIT="line" N="127"/> herfor seiþ Dauyþ þus of Crist, "Lo, þou shalt
+<LB/><MILESTONE UNIT="line" N="128"/> not nappe, neiþer slepe þat kepist þe puple of
+<LB/><MILESTONE UNIT="line" N="129"/> Israel. " But þei lieden falsli whan þei seiden
+<LB/><MILESTONE UNIT="line" N="130"/> he had a deuel, for as þe apostle seiþ, "Al þe
+<LB/><MILESTONE UNIT="line" N="131"/> fulnesse of þe Godhed dwellid fulli in Cristis
+<LB/><MILESTONE UNIT="line" N="132"/> persone." And þus Crist denyed not þat he was a
+<LB/><MILESTONE UNIT="line" N="133"/> Samaritan, but he forsook þat he had a deuel.</P>
+<P> <MILESTONE UNIT="line" N="134"/> And so here he ȝaf vs a faire ensaumple of
+<LB/><MILESTONE UNIT="line" N="135"/> pacience, þat we shuld not maliciousli ȝyue an
+<LB/><MILESTONE UNIT="line" N="136"/> yuel word for an oþer. And herfor Crist answerid
+<LB/><MILESTONE UNIT="line" N="137"/> þus with al myldenesse to [þe] deuelich Iewis,
+<Q> <MILESTONE UNIT="line" N="138"/> "I haue not a deuel,</Q> for in no þyng consente I to
+<LB/><MILESTONE UNIT="line" N="139"/> fendis." And for to proue þis, he seiþ anoon
+<LB/><MILESTONE UNIT="line" N="140"/> aftir, <Q>"But I worshipe my Fadir."</Q> And [þat] is
+<LB/><MILESTONE UNIT="line" N="141"/> myslikyng to alle fendis, for he þat honouriþ God,
+<LB/><MILESTONE UNIT="line" N="142"/> wiþstondiþ þe fend and confoundiþ hym, and terryþ
+<LB/><MILESTONE UNIT="line" N="143"/> hym.</P>
+<P> <MILESTONE UNIT="line" N="144"/> Þat þis Sone [worshipid] his Fadir shewed his
+<LB/><MILESTONE UNIT="line" N="145"/> dedis, his conuersacioun, his vertu and his
+<LB/><MILESTONE UNIT="line" N="146"/> prechyng. For what meruaile þat he seide or
+<LB/><MILESTONE UNIT="line" N="147"/> dide for þe tyme of his manhed, he dide it fulli
+<LB/><MILESTONE UNIT="line" N="148"/> to þe glorie of his Fadir. <Q>"But ȝe,"</Q> seiþ Crist,
+<Q> <MILESTONE UNIT="line" N="149"/> "han inhonourid me with foule repreuyngs and
+<LB/><MILESTONE UNIT="line" N="150"/> oþer beryngs an hond of synne. But I,"</Q> seiþ
+<LB/><MILESTONE UNIT="line" N="151"/> Crist, <Q>"seche not myn owen glorie,</Q> þat is to sey,
+<LB/><MILESTONE UNIT="line" N="152"/> mannes fauour in þis world. <Q>For þer is oon þat
+<LB/><MILESTONE UNIT="line" N="153"/> sechiþ it,</Q> þat is to seie, my Fadir, <Q>þat shal
+<LB/><MILESTONE UNIT="line" N="154"/> glorifie me hastili bifore ȝoure siȝt. And he
+<LB/><MILESTONE UNIT="line" N="155"/> shal deme it, for he shal kepe ȝoure myscalengyngs
+<LB/><MILESTONE UNIT="line" N="156"/> to my doom in þe last dai."</Q></P>
+<P> <MILESTONE UNIT="line" N="157"/> It folewiþ ferþer in þe text: <Q>"Soþeli, soþeli,
+<LB/><MILESTONE UNIT="line" N="158"/> I sey to ȝou, whoso kepiþ my word, he shal not se
+<LB/><MILESTONE UNIT="line" N="159"/> deþ withouten ende."</Q> ȝe han herd now Cristis
+<LB/><MILESTONE UNIT="line" N="160"/> pacience and myldenesse, se now his grace and
+<LB/><MILESTONE UNIT="line" N="161"/> his bonernesse. He clepid aȝen þese blasphemyes <MILESTONE UNIT="folio" N="67v"/>
+<LB/><MILESTONE UNIT="line" N="162"/> [to] lijf [of] vertu. He rehersid not þe
+<LB/><MILESTONE UNIT="line" N="163"/> iniurie þat þei putten [on] hym. He enformed
+<LB/><MILESTONE UNIT="line" N="164"/> hem þat erriden so foule. He clepid hem with
+<LB/><MILESTONE UNIT="line" N="165"/> fairnesse to helþe þat wolden not þerof And al
+<LB/><MILESTONE UNIT="line" N="166"/> þis is to oure ensaumple þat we shulden doo on
+<LB/><MILESTONE UNIT="line" N="167"/> lich maner. For as gode men ofte tyme whan þei
+<LB/><MILESTONE UNIT="line" N="168"/> suffren disese ben þe bettere, so yuel men ofte
+<LB/><MILESTONE UNIT="line" N="169"/> tyme ben þe worse for goodnesse þat is profrid to
+<LB/><MILESTONE UNIT="line" N="170"/> hem. And so þese Iewis wolden not here wordis
+<LB/><MILESTONE UNIT="line" N="171"/> of treuþe but seide, <Q>"Now haue we knowe þat þou
+<LB/><MILESTONE UNIT="line" N="172"/> hast a deuel."</Q> Hou myȝt þis wickid generacioun
+<LB/><MILESTONE UNIT="line" N="173"/> more synfuli haue berkid aȝens Crist þat was so
+<LB/><MILESTONE UNIT="line" N="174"/> meke? Lo, hou for profore of Cristis goodnesse
+<LB/><MILESTONE UNIT="line" N="175"/> þese wickid Iewis wern þe worse, and seiden þat
+<LB/><MILESTONE UNIT="line" N="176"/> Goddis Sone had a deuel, þat bi his owen vertu
+<LB/><MILESTONE UNIT="line" N="177"/> droof out fendis and made hem do at his
+<LB/><MILESTONE UNIT="line" N="178"/> commaundement. And not oonli þei ȝeld[id]en
+<LB/><MILESTONE UNIT="line" N="179"/> yuel for good, but to þe encrees of her
+<LB/><MILESTONE UNIT="line" N="180"/> dampnacioun, as þe maner of shrewen is, þei
+<LB/><MILESTONE UNIT="line" N="181"/> traueleden to maynten forþ her errour, seiyng,
+<Q> <MILESTONE UNIT="line" N="182"/> "Abraham is deed and þe profetis."</Q></P>
+<P> <MILESTONE UNIT="line" N="183"/> Lo, for to shende Cristis sentence, þei
+<LB/><MILESTONE UNIT="line" N="184"/> brouȝten forþ Abraham and þe profetis þat wern
+<LB/><MILESTONE UNIT="line" N="185"/> [veri] kepers of Goddis word, and neuerþeles þei
+<LB/><MILESTONE UNIT="line" N="186"/> dieden, and þus hem semed þat Cristis wordis wern
+<LB/><MILESTONE UNIT="line" N="187"/> vntrewe þat seide, <Q>"Whoso kepiþ my word shal not
+<LB/><MILESTONE UNIT="line" N="188"/> die withouten ende."</Q> But þer ben foure maner of
+<LB/><MILESTONE UNIT="line" N="189"/> deþis, but þei vnderstoden not for her
+<LB/><MILESTONE UNIT="line" N="190"/> flesshlynesse of wich of hem Crist ment. Þe first
+<LB/><MILESTONE UNIT="line" N="191"/> deþ is deþ of soule þat forsakiþ her God bi synne,
+<LB/><MILESTONE UNIT="line" N="192"/> but many bi þe gret merci of God keueren aȝen
+<LB/><MILESTONE UNIT="line" N="193"/> from þis deþ. Þe second deþ is deþ of bodi; and
+<LB/><MILESTONE UNIT="line" N="194"/> þis deþ neiþer gode men nor yuel shuln a-sterte.
+<LB/><MILESTONE UNIT="line" N="195"/> Þe þrid deþ is deþ of soule oonli þat it suffriþ
+<LB/><MILESTONE UNIT="line" N="196"/> in pyne whan it is departid fro þe bodi. Þe fourþe
+<LB/><MILESTONE UNIT="line" N="197"/> deþ is whan þe soule receyueþ his bodi to be cast
+<LB/><MILESTONE UNIT="line" N="198"/> in fier withouten ende; and þis is þe deþ þat
+<LB/><MILESTONE UNIT="line" N="199"/> oure Lord spak of, þat þe Iewis vndirstoden not.
+<LB/><MILESTONE UNIT="line" N="200"/> Þis deþ saw not Abraham, neiþer þe profetis, bi
+<LB/><MILESTONE UNIT="line" N="201"/> experience suffryng it in hemsilf, bicause of
+<LB/><MILESTONE UNIT="line" N="202"/> riȝtwisnesse of her bileue.</P>
+<P> <MILESTONE UNIT="line" N="203"/> And Crist spekiþ ferþer of Abraham, and seiþ
+<LB/><MILESTONE UNIT="line" N="204"/> þus to þe Iewis, <Q>"Abraham</Q> þat was <Q>ȝoure fadir</Q>
+<LB/><MILESTONE UNIT="line" N="205"/> aftir þe flessh, for he was þe fer stok þat ȝe
+<LB/><MILESTONE UNIT="line" N="206"/> comen of, but ȝe ben not his children bi trewe
+<LB/><MILESTONE UNIT="line" N="207"/> folewyng of his bileue, and þat is moost for to
+<LB/><MILESTONE UNIT="line" N="208"/> charge, <Q>ioied þat he shuld se my day.</Q> Þat is to
+<LB/><MILESTONE UNIT="line" N="209"/> sey, he ioied þat it was shewid hym bi þe Hooli
+<LB/><MILESTONE UNIT="line" N="210"/> Goost to vndirstonde an euerlastyng day of blisse.
+<Q> <MILESTONE UNIT="line" N="211"/> He ioied þat he shuld se</Q> in spirit <Q>my day</Q> of
+<LB/><MILESTONE UNIT="line" N="212"/> takyng mankynde for sauacioun of hym and his
+<LB/><MILESTONE UNIT="line" N="213"/> childryn. And for it is writen: 'Þe desijr of þe
+<LB/><MILESTONE UNIT="line" N="214"/> riȝtwis man shal come to hym' þerfor, <Q>he saw</Q> on
+<LB/><MILESTONE UNIT="line" N="215"/> þis maner, and <Q>was gladid.</Q> He saw in spirit myn
+<LB/><MILESTONE UNIT="line" N="216"/> endeles day, whan in figure of þe hiȝ Trinite, he
+<LB/><MILESTONE UNIT="line" N="217"/> receyued me with two aungels. He saw in spirit
+<LB/><MILESTONE UNIT="line" N="218"/> my day of takyng of mankynde whan, in figure of my
+<LB/><MILESTONE UNIT="line" N="219"/> incarnacioun, he sent his seruaunt with his sone,
+<LB/><MILESTONE UNIT="line" N="220"/> for his sone shuld wedde a wijf, and made his
+<LB/><MILESTONE UNIT="line" N="221"/> seruaunt to swere vpon his leende." For in þis
+<LB/><MILESTONE UNIT="line" N="222"/> dede he saw afer þat Crist shuld be bore of his
+<LB/><MILESTONE UNIT="line" N="223"/> seed, þat shuld aȝenbie mankynde þat was forlore.</P>
+<P> <MILESTONE UNIT="line" N="224"/> But now, aftir moral sence, þer ben þre
+<LB/><MILESTONE UNIT="line" N="225"/> spiritual daies þat man lediþ his lijf ynne. <MILESTONE UNIT="folio" N="68r"/>
+<LB/><MILESTONE UNIT="line" N="226"/> Þe first day is drede, þe second is treuþe and þe
+<LB/><MILESTONE UNIT="line" N="227"/> þrid is charite. Þe sunne of þe first dai is
+<LB/><MILESTONE UNIT="line" N="228"/> power; þe sunne of þe second dai is wisdom, and
+<LB/><MILESTONE UNIT="line" N="229"/> þe sunne of þ[e] þrid dai is benyngnite. Power
+<LB/><MILESTONE UNIT="line" N="230"/> parteyneþ to þe Fadir, wisdom to þe Sone, and
+<LB/><MILESTONE UNIT="line" N="231"/> benyngnite to þe Hooli Goost. Of þese daies seiþ
+<LB/><MILESTONE UNIT="line" N="232"/> Dauiþ þus, "Shewe ȝe fro dai [in]to dai his helþe".
+<LB/><MILESTONE UNIT="line" N="233"/> What is [his] helþe? Oure Lord Ihesu, þe Fadris
+<LB/><MILESTONE UNIT="line" N="234"/> Sone of heuen þat haþ taken kynde of man. And
+<LB/><MILESTONE UNIT="line" N="235"/> þerfor he is clepid helþe, for bi hym man is
+<LB/><MILESTONE UNIT="line" N="236"/> reformed to helþe, boþe of bodi and of soule. And
+<LB/><MILESTONE UNIT="line" N="237"/> þus þe dai of wisdom, þat is to sey of oure Lord
+<LB/><MILESTONE UNIT="line" N="238"/> Ihesu is treuþe, for þer was noon worþi to be
+<LB/><MILESTONE UNIT="line" N="239"/> sent for to fulfille treuþe but he in whom stood
+<LB/><MILESTONE UNIT="line" N="240"/> al fulnesse of treuþe. For he it is þat, as he
+<LB/><MILESTONE UNIT="line" N="241"/> bihiȝt, haþ aȝenbouȝt mankynde and alle þyngs
+<LB/><MILESTONE UNIT="line" N="242"/> fulfillid þat wern biforseid of hym bi profetis.
+<LB/><MILESTONE UNIT="line" N="243"/> And so of þis dai Abraham ioied, for he [knew]
+<LB/><MILESTONE UNIT="line" N="244"/> in spirit þat Goddis Sone wold aȝenbie man and
+<LB/><MILESTONE UNIT="line" N="245"/> þis he couetid with gret desijr.</P>
+<P> <MILESTONE UNIT="line" N="246"/> But day of drede was in tyme of þe olde
+<LB/><MILESTONE UNIT="line" N="247"/> Lawe þat [bi] gret pyne tauȝt synful men to drede
+<LB/><MILESTONE UNIT="line" N="248"/> and to knowe her God, and þis knowyng was þanne
+<LB/><MILESTONE UNIT="line" N="249"/> dai, but not cleer, for it was ful dusk bi
+<LB/><MILESTONE UNIT="line" N="250"/> derknesse of synne. And in þis dai was Goddis
+<LB/><MILESTONE UNIT="line" N="251"/> power of punysshyng moche shewid. But þe dai of
+<LB/><MILESTONE UNIT="line" N="252"/> treuþe is day of helþe, þat sette a-doun synne
+<LB/><MILESTONE UNIT="line" N="253"/> and made þe former dai more cleer, not vttirlich
+<LB/><MILESTONE UNIT="line" N="254"/> takeng awei þe former drede, but chaungyng it
+<LB/><MILESTONE UNIT="line" N="255"/> into more better drede; and þis was a gret
+<LB/><MILESTONE UNIT="line" N="256"/> wisdom of Ihesu Crist þat is treuþe. But ȝit was
+<LB/><MILESTONE UNIT="line" N="257"/> not ful clerenesse of þis dai among men til þat þe
+<LB/><MILESTONE UNIT="line" N="258"/> dai of þe Hooli Goost, þat is to sey charite, were
+<LB/><MILESTONE UNIT="line" N="259"/> ioyned to men þat wern in tyme of þis former treuþe.
+<LB/><MILESTONE UNIT="line" N="260"/> For as it is writen, þe Hooli Goost tauȝt al
+<LB/><MILESTONE UNIT="line" N="261"/> treuþe and fullid þe world with grace and vertu.
+<LB/><MILESTONE UNIT="line" N="262"/> And so in þe tyme of þe Olde Testament, þat
+<LB/><MILESTONE UNIT="line" N="263"/> riȝtli mai be clepid dai of drede, was mannes synne
+<LB/><MILESTONE UNIT="line" N="264"/> openli punysshid bi þe dredful power of God þe
+<LB/><MILESTONE UNIT="line" N="265"/> Fadir.</P>
+<P> <MILESTONE UNIT="line" N="266"/> But now in tyme of þe Newe Testament, þat
+<LB/><MILESTONE UNIT="line" N="267"/> mai wel be clepid dai of treuþe, God, þe Second
+<LB/><MILESTONE UNIT="line" N="268"/> Persone veri treuþe, dide awei synne fro man
+<LB/><MILESTONE UNIT="line" N="269"/> þat treulich wold receyue his Lawe. And of þis
+<LB/><MILESTONE UNIT="line" N="270"/> day not oonlich Abraham but also alle his
+<LB/><MILESTONE UNIT="line" N="271"/> feiþful children aboute in þe world maden ioye.
+<LB/><MILESTONE UNIT="line" N="272"/> But in tyme of liȝtnyng of þe Hooli Goost, þat
+<LB/><MILESTONE UNIT="line" N="273"/> is clepid dai of charite, haþ man mater of gret
+<LB/><MILESTONE UNIT="line" N="274"/> confort, for he makiþ man sad in al goodnesse
+<LB/><MILESTONE UNIT="line" N="275"/> þat he haþ bigunne. And þus drede, treuþe, and
+<LB/><MILESTONE UNIT="line" N="276"/> charite ben þre daies iourney þat we shulden
+<LB/><MILESTONE UNIT="line" N="277"/> trauele ynne, if we wolen be trewe Abrahams
+<LB/><MILESTONE UNIT="line" N="278"/> sones þat in figure herof, ȝede þre daies to offre
+<LB/><MILESTONE UNIT="line" N="279"/> Ysaac his sone vp[on] þe mount þat God bad hym.
+<LB/><MILESTONE UNIT="line" N="280"/> For drede techiþ vs to bowe from yuel; treuþe
+<LB/><MILESTONE UNIT="line" N="281"/> lerneþ vs to do good; but parfit charite enformeþ
+<LB/><MILESTONE UNIT="line" N="282"/> vs to contynue in godnesse. And þis is sumwhat
+<LB/><MILESTONE UNIT="line" N="283"/> þe menyng of þese wordis: <Q>"Abraham ȝoure fadir
+<LB/><MILESTONE UNIT="line" N="284"/> ioied þat he shuld se my dai and he saw it and
+<LB/><MILESTONE UNIT="line" N="285"/> was gladid."</Q></P>
+<P> <MILESTONE UNIT="line" N="286"/> But þe Iewis, al ouercomen with flesshli
+<LB/><MILESTONE UNIT="line" N="287"/> errour, vnderstoden not a Godlich kynde but
+<LB/><MILESTONE UNIT="line" N="288"/> oonlich þe kynde of man in Cristis persone; and
+<LB/><MILESTONE UNIT="line" N="289"/> þerfor þei seide, <MILESTONE UNIT="folio" N="68v"/> <Q>"Þou hast not ȝit fifty wynter
+<LB/><MILESTONE UNIT="line" N="290"/> and hast þou seyn Abraham?"</Q> ȝhe, þouȝ Crist bi
+<LB/><MILESTONE UNIT="line" N="291"/> his manhed had be an hundrid wynter olde, ȝit
+<LB/><MILESTONE UNIT="line" N="292"/> shuld not he in al þis tyme haue seyn Abraham
+<LB/><MILESTONE UNIT="line" N="293"/> lyuyng in flessh. And so for to distrie þe errour
+<LB/><MILESTONE UNIT="line" N="294"/> of flesshli vndirstondyng of þe Iewis, Crist
+<LB/><MILESTONE UNIT="line" N="295"/> shewid hem þat he spak to hem of his Godhed and
+<LB/><MILESTONE UNIT="line" N="296"/> seide þus, <Q>"Soþeli, soþeli, I seie to ȝow, bifore
+<LB/><MILESTONE UNIT="line" N="297"/> þat Abraham shulde be maad, I am."</Q> He seide not,
+<Q> <MILESTONE UNIT="line" N="298"/> "Bifore þat Abraham shuld be maad</Q> I was," but <Q>"I
+<LB/><MILESTONE UNIT="line" N="299"/> am."</Q> For to his Godhed al þyng is present. But
+<LB/><MILESTONE UNIT="line" N="300"/> þe Iewis, enemyes of treuþe, supposiden þat þis
+<LB/><MILESTONE UNIT="line" N="301"/> had ben a gret blasfemye <Q>and token vp stones for
+<LB/><MILESTONE UNIT="line" N="302"/> to cast vpon hym.</Q></P>
+<P> <MILESTONE UNIT="line" N="303"/> Lo, as flesshli men rennen to flesshli
+<LB/><MILESTONE UNIT="line" N="304"/> werkis, so [þe] hard men of hert runnen to
+<LB/><MILESTONE UNIT="line" N="305"/> stoones, and purposiden for to haue þrowen hym
+<LB/><MILESTONE UNIT="line" N="306"/> doun and slayn hym of whom þei shulden haue axid
+<LB/><MILESTONE UNIT="line" N="307"/> lijf and forȝeu[en]esse of her synnes. <Q>But Ihesu</Q>
+<LB/><MILESTONE UNIT="line" N="308"/> for to shewe þat he dide as he tauȝte, <Q>hid hym and
+<LB/><MILESTONE UNIT="line" N="309"/> went out of þe temple.</Q> And [so] he ȝede out and
+<LB/><MILESTONE UNIT="line" N="310"/> hid hym, for ȝit was not þe houre of his passioun
+<LB/><MILESTONE UNIT="line" N="311"/> come, and also he chees not þis maner of deþ.
+<LB/><MILESTONE UNIT="line" N="312"/> And þis goyng out and hidyng bitokened þe
+<LB/><MILESTONE UNIT="line" N="313"/> wiþdrawyng of his grace fro þe Iewis, and þat he
+<LB/><MILESTONE UNIT="line" N="314"/> wold ȝeue it to heþen folk, for he seiþ hymsilf
+<LB/><MILESTONE UNIT="line" N="315"/> in an oþer place, "Lo, ȝoure hous shal be left to
+<LB/><MILESTONE UNIT="line" N="316"/> ȝou desolat."</P>
+<P> <MILESTONE UNIT="line" N="317"/> And þus Crist, with his ensaumple of
+<LB/><MILESTONE UNIT="line" N="318"/> pacience, sufficientli enformeþ vs þat whan we
+<LB/><MILESTONE UNIT="line" N="319"/> moun wiþstonde oure enemyes, we shulden mekeli
+<LB/><MILESTONE UNIT="line" N="320"/> bowe awei from her maliciouse pride. Þerfor if
+<LB/><MILESTONE UNIT="line" N="321"/> we wolen verili be pacient, þreste we out noon
+<LB/><MILESTONE UNIT="line" N="322"/> irouse wordis, þouȝ men speken maliciousli to vs.
+<LB/><MILESTONE UNIT="line" N="323"/> Holde we no wraþþe nor hate in hert, but
+<LB/><MILESTONE UNIT="line" N="324"/> ouercome we yuel men with oure goodnesse and, þat
+<LB/><MILESTONE UNIT="line" N="325"/> more is, loue we hem þat we þus suffren. For he
+<LB/><MILESTONE UNIT="line" N="326"/> þat loueþ not his pursueris but suffriþ hem, he
+<LB/><MILESTONE UNIT="line" N="327"/> ȝeueþ not forþ pacience, but feyneþ hym for to
+<LB/><MILESTONE UNIT="line" N="328"/> shewe it. And if we moun not resonabli ceessen
+<LB/><MILESTONE UNIT="line" N="329"/> þe wraþþe of oure pursueris, at þe leest fle we
+<LB/><MILESTONE UNIT="line" N="330"/> from hem and ȝyue we place to her wraþþe. For if
+<LB/><MILESTONE UNIT="line" N="331"/> we wolen treuli folewe Crist, it is more glorious
+<LB/><MILESTONE UNIT="line" N="332"/> victorie to ouercome bi pacient suffryng þan bi
+<LB/><MILESTONE UNIT="line" N="333"/> bodili maisturful wiþstondyng aȝen. And þus
+<LB/><MILESTONE UNIT="line" N="334"/> pacience, as seiþ þe apostle, is ful necessarie
+<LB/><MILESTONE UNIT="line" N="335"/> to vs. For whan man haþ it without feynyng, it
+<LB/><MILESTONE UNIT="line" N="336"/> meueþ man moche to manyfold plesyng of God. It
+<LB/><MILESTONE UNIT="line" N="337"/> makiþ a man plese his neiȝbore. It quenchiþ
+<LB/><MILESTONE UNIT="line" N="338"/> wraþþe and brekiþ pride. It makiþ a mannes hert
+<LB/><MILESTONE UNIT="line" N="339"/> glad. It kepiþ mekenesse and charite. Also it
+<LB/><MILESTONE UNIT="line" N="340"/> loueþ riȝtwisnesse and dressiþ a mannes hope vp
+<LB/><MILESTONE UNIT="line" N="341"/> to Godward, and hem þat contynuen treuli
+<LB/><MILESTONE UNIT="line" N="342"/> þerynne it bryngeþ hem to blisse þat haþ noon
+<LB/><MILESTONE UNIT="line" N="343"/> ende. Amen.</P></DIV1>
+<DIV1 TYPE="sermon" N="Palm Sunday">
+<HEAD>[7.] [Here bigynneþ be Gospel on] Palm Sunday. </HEAD>
+<EPIGRAPH><BIBL>Seche þe text of þis Gospel at þe first Sunday of Aduent.</BIBL><Q> <MILESTONE UNIT="line" N="1"/> Whan oure Lord Ihesu cam nyȝ [to] Ierusalem.</Q></EPIGRAPH>
+<P> <MILESTONE UNIT="line" N="2"/> Oure Lord Ihesu, whan he shuld go toward his
+<LB/><MILESTONE UNIT="line" N="3"/> passioun, and vpon Palm Sunday shuld come vp to
+<LB/><MILESTONE UNIT="line" N="4"/> Ierusalem, he chees hym a wey þat bitokened
+<LB/><MILESTONE UNIT="line" N="5"/> vertues of obedience and mekenesse. And þis was
+<LB/><MILESTONE UNIT="line" N="6"/> for ensaumple of Cristen men þat [shulden] be his
+<LB/><MILESTONE UNIT="line" N="7"/> disciplis to wandre in þe same spiritual wey, and
+<LB/><MILESTONE UNIT="line" N="8"/> withouten ony turnyng backward, to folewe hym þat
+<LB/><MILESTONE UNIT="line" N="9"/> is wey, treuþe and lijf. For as seiþ Ioon þe
+<LB/><MILESTONE UNIT="line" N="10"/> Euangelist, <Q>"He þat wole dwelle in Crist, must
+<LB/><MILESTONE UNIT="line" N="11"/> wandre as he wandrid."</Q> And þerfor he þat presumeþ
+<LB/><MILESTONE UNIT="line" N="12"/> to <MILESTONE UNIT="folio" N="69r"/> go an oþer weie, he shal not be Cristis
+<LB/><MILESTONE UNIT="line" N="13"/> disciple or his folewer, to þat he turne into
+<LB/><MILESTONE UNIT="line" N="14"/> Cristis weye aȝen.</P>
+<P> <MILESTONE UNIT="line" N="15"/> And so þer ben þre maner of weies wherynne
+<LB/><MILESTONE UNIT="line" N="16"/> ofte tyme dyuerse men walken. Þe first is weie
+<LB/><MILESTONE UNIT="line" N="17"/> of God; þe second is weie of man; þe þrid is wey
+<LB/><MILESTONE UNIT="line" N="18"/> of þe fend. Þe wei of God is treuþe; þe wei of
+<LB/><MILESTONE UNIT="line" N="19"/> man is necessite, þat he drawe on oon [side] or
+<LB/><MILESTONE UNIT="line" N="20"/> oþer; but þe wei of þe deuel is wickidnesse. Þe
+<LB/><MILESTONE UNIT="line" N="21"/> wei of God and þe wei of þe deuel moun not be
+<LB/><MILESTONE UNIT="line" N="22"/> bowid, þat ne þei strecchen ech of hem to his ende,
+<LB/><MILESTONE UNIT="line" N="23"/> for þe wei of God mai not be yuel nor þe wei of
+<LB/><MILESTONE UNIT="line" N="24"/> þe deuel mai not be good. But þe wei of man is
+<LB/><MILESTONE UNIT="line" N="25"/> chaungeable for it mai be bowid ouþer to þe wei
+<LB/><MILESTONE UNIT="line" N="26"/> of God or ellis to þe wei of þe fend. And so if
+<LB/><MILESTONE UNIT="line" N="27"/> mannes necessite be bowid to couetise, and so to
+<LB/><MILESTONE UNIT="line" N="28"/> oþer wickidnesse, þanne it is maad wei of þe
+<LB/><MILESTONE UNIT="line" N="29"/> fend; but if it be bowid to good mesure, and so
+<LB/><MILESTONE UNIT="line" N="30"/> forþ to oþer riȝtwisnesse, þanne it is maad þe wei
+<LB/><MILESTONE UNIT="line" N="31"/> of God þat takiþ his bigynnyng of mekenesse.</P>
+<P> <MILESTONE UNIT="line" N="32"/> And herfor oure Lord, whan he cam to Ierusalem,
+<LB/><MILESTONE UNIT="line" N="33"/> he sat not vpon a proude hors, but vpon a boner
+<LB/><MILESTONE UNIT="line" N="34"/> and a meke asse. And bi þis asse mai riȝtli be
+<LB/><MILESTONE UNIT="line" N="35"/> vnderstonden Holi Chirche or ech persone þerof bi
+<LB/><MILESTONE UNIT="line" N="36"/> hymsilf. And þus seiþ God bi Ysaie, <Q>"Vpon whom
+<LB/><MILESTONE UNIT="line" N="37"/> shal my spirit reste but vpon þe mylde and þe
+<LB/><MILESTONE UNIT="line" N="38"/> meke and on hym þat drediþ my wordis."</Q> And Crist
+<LB/><MILESTONE UNIT="line" N="39"/> bad his apostlis to vnbynde þis asse, in tokene
+<LB/><MILESTONE UNIT="line" N="40"/> þat þei hadden power of byndyng and losyng of
+<LB/><MILESTONE UNIT="line" N="41"/> mennes synnes in Holi Chirche. And vpon þis
+<LB/><MILESTONE UNIT="line" N="42"/> gostli asse Crist sitteþ and restiþ ech dai, and
+<LB/><MILESTONE UNIT="line" N="43"/> makiþ hir esi with þe ȝok of his techyng and loue
+<LB/><MILESTONE UNIT="line" N="44"/> of vertues, and so at þe laste bryngiþ hir to his
+<LB/><MILESTONE UNIT="line" N="45"/> stable of blisse euerlastyng þat is bitokened bi
+<LB/><MILESTONE UNIT="line" N="46"/> erþeli Ierusalem.</P>
+<P> <MILESTONE UNIT="line" N="47"/> But if we take riȝt good heede to þe
+<LB/><MILESTONE UNIT="line" N="48"/> bigynnyng of þis wei, myddil and ende, we moun
+<LB/><MILESTONE UNIT="line" N="49"/> haue þerbi gret edificacioun. For lo, oure Lord
+<LB/><MILESTONE UNIT="line" N="50"/> took his wei fro Bethanye, þat is to sei, fro þe
+<LB/><MILESTONE UNIT="line" N="51"/> hous of obedience. For as þe apostel seiþ, "He
+<LB/><MILESTONE UNIT="line" N="52"/> was maad obedient to þe deþ of þe cros." And
+<LB/><MILESTONE UNIT="line" N="53"/> þus ech man þat wole come to Ierusalem, þat is
+<LB/><MILESTONE UNIT="line" N="54"/> to sei, to þe blisse of heuen, he must bigynne
+<LB/><MILESTONE UNIT="line" N="55"/> at þis weie of obedience. For whoso wole forþenke
+<LB/><MILESTONE UNIT="line" N="56"/> hym of his synne and aftirward fle yuel dedis
+<LB/><MILESTONE UNIT="line" N="57"/> and so offre hymsilf a quyk oost to God, he must
+<LB/><MILESTONE UNIT="line" N="58"/> haue a louelich drede wiþynneforþ and fle
+<LB/><MILESTONE UNIT="line" N="59"/> synful flesshli desires þat fyȝten aȝens þe soule.
+<LB/><MILESTONE UNIT="line" N="60"/> For whil a man dwelliþ in synne and so folewiþ
+<LB/><MILESTONE UNIT="line" N="61"/> his owen flesshli wille, he is not treulich
+<LB/><MILESTONE UNIT="line" N="62"/> obedient. But aftirward Crist cam to Bethfage,
+<LB/><MILESTONE UNIT="line" N="63"/> þat is to sei, to þe hous of a cheke, þat
+<LB/><MILESTONE UNIT="line" N="64"/> bitokeneþ knoulechyng.</P>
+<P> <MILESTONE UNIT="line" N="65"/> And se now þe gode acoord of þis iourney.
+<LB/><MILESTONE UNIT="line" N="66"/> First is set obedience, and aftirward knoulechyng.
+<LB/><MILESTONE UNIT="line" N="67"/> For man must first obedientli forsake his synne,
+<LB/><MILESTONE UNIT="line" N="68"/> and þanne he must knouleche Crist with his mouþ
+<LB/><MILESTONE UNIT="line" N="69"/> to his helþe, as þe apostle seiþ. For, as
+<LB/><MILESTONE UNIT="line" N="70"/> withouten veri penaunce, litel or nouȝt profitiþ
+<LB/><MILESTONE UNIT="line" N="71"/> knoulechyng of mouþ, so without treue knoulechyng
+<LB/><MILESTONE UNIT="line" N="72"/> of mouþ, man plesiþ not Crist his God.</P>
+<P> <MILESTONE UNIT="line" N="73"/> And aftir þis Crist ascendid to þe Mount of
+<LB/><MILESTONE UNIT="line" N="74"/> Olyuet, þat is to sey, to þe werkis of merci,
+<LB/><MILESTONE UNIT="line" N="75"/> wherynne charite is norisshid and wexiþ warm, as
+<LB/><MILESTONE UNIT="line" N="76"/> olyues wexen and ben norisshid in mountis. And
+<LB/><MILESTONE UNIT="line" N="77"/> herfor seiþ a gret clerk þat no þyng commendiþ <MILESTONE UNIT="folio" N="69v"/>
+<LB/><MILESTONE UNIT="line" N="78"/> a man more to God þan doiþ merci, nor no man shal
+<LB/><MILESTONE UNIT="line" N="79"/> be more blessid, þan he þat vndirstondiþ vpon þe
+<LB/><MILESTONE UNIT="line" N="80"/> nedi and þe pore. Whi so? For in þe yuel dai,
+<LB/><MILESTONE UNIT="line" N="81"/> God shal delyuere hym. And not oonli he shal
+<LB/><MILESTONE UNIT="line" N="82"/> delyuere hym from yuel of wickid men, but also he
+<LB/><MILESTONE UNIT="line" N="83"/> shal glorifie hym in þe blisful ȝeldyng of
+<LB/><MILESTONE UNIT="line" N="84"/> riȝtwis men. [Þis] is þe wey of þre daies iourney
+<LB/><MILESTONE UNIT="line" N="85"/> þat we musten nedis passe if we woln ascape fro
+<LB/><MILESTONE UNIT="line" N="86"/> þe fend, þat is bitokened bi Farao, and make
+<LB/><MILESTONE UNIT="line" N="87"/> sacrifice to God with clennesse of herte, with
+<LB/><MILESTONE UNIT="line" N="88"/> puttyng awei of foule synful þouȝtis, þat ben
+<LB/><MILESTONE UNIT="line" N="89"/> bitokened bi þe abhomynaciouns of Egipt.</P>
+<P> <MILESTONE UNIT="line" N="90"/> Also þese þre vertues ben bitokened bi þe þre
+<LB/><MILESTONE UNIT="line" N="91"/> ȝatis þat þe puple of Israel muste passe þorouȝ or
+<LB/><MILESTONE UNIT="line" N="92"/> þei entriden into þe lond of biheest. Þe first
+<LB/><MILESTONE UNIT="line" N="93"/> of þese ȝatis is narow. Þe second is narower, but
+<LB/><MILESTONE UNIT="line" N="94"/> þe þrid is narowest, for as Crist seiþ, "Þe wei
+<LB/><MILESTONE UNIT="line" N="95"/> þat lediþ to lijf is narow and hard. " And so þe
+<LB/><MILESTONE UNIT="line" N="96"/> first ȝate, þat is to sei of obedience, is ful
+<LB/><MILESTONE UNIT="line" N="97"/> narowe, for streiȝt it is obedientli to forsake
+<LB/><MILESTONE UNIT="line" N="98"/> oure olde synful wone, and tempre oure wille and
+<LB/><MILESTONE UNIT="line" N="99"/> werkis aftir Goddis biddyng. For such yuel
+<LB/><MILESTONE UNIT="line" N="100"/> customs ben as bitter wedis þat drawen doun þe
+<LB/><MILESTONE UNIT="line" N="101"/> swete corn. But we musten ordeyne vs hokis of
+<LB/><MILESTONE UNIT="line" N="102"/> penaunce and of hooli preiers, and so bi þe help
+<LB/><MILESTONE UNIT="line" N="103"/> of God, we shuln litil and litil kut hem vp.</P>
+<P> <MILESTONE UNIT="line" N="104"/> Þe second ȝate, þat is to sei of treue
+<LB/><MILESTONE UNIT="line" N="105"/> knoulechyng of Crist, is more streiȝt, for
+<LB/><MILESTONE UNIT="line" N="106"/> many for shame and for leesyng of wordli
+<LB/><MILESTONE UNIT="line" N="107"/> frenship and oþer peyne, dursten not treulich
+<LB/><MILESTONE UNIT="line" N="108"/> knouleche þis name. But Crist seiþ þat whoso is
+<LB/><MILESTONE UNIT="line" N="109"/> ashamed of hym and of his wordis, Mannes Sone
+<LB/><MILESTONE UNIT="line" N="110"/> shal ashame hym, whan he comeþ in þe maieste of
+<LB/><MILESTONE UNIT="line" N="111"/> his Fadir and of his holi aungels. And as
+<LB/><MILESTONE UNIT="line" N="112"/> touchyng wordli frenship Crist seiþ þat whoso
+<LB/><MILESTONE UNIT="line" N="113"/> loueþ fadir or modir, sustir of broþer, ȝhe, or
+<LB/><MILESTONE UNIT="line" N="114"/> his owen lijf, more þan hym, he is not worþi to
+<LB/><MILESTONE UNIT="line" N="115"/> be his. And, as touchyng oþer peyne, Crist seiþ,
+<LB/><MILESTONE UNIT="line" N="116"/> "Nyle ȝe drede hem þat sleen þe bodi, but drede
+<LB/><MILESTONE UNIT="line" N="117"/> hym þat boþe bodi and soule mai caste into helle. "
+<LB/><MILESTONE UNIT="line" N="118"/> And for þis k[n]oulechyng is hard, þerfor bi sich
+<LB/><MILESTONE UNIT="line" N="119"/> knoulechyng of mouþ is helþe maad to mannes soule.</P>
+<P> <MILESTONE UNIT="line" N="120"/> Þe þred ȝate, þat is to seie of loue and
+<LB/><MILESTONE UNIT="line" N="121"/> merci, is moost streiȝt, for hard it is alle þyngs
+<LB/><MILESTONE UNIT="line" N="122"/> to forsake for Goddis loue, but harder it is a man
+<LB/><MILESTONE UNIT="line" N="123"/> þat tristiþ in his richessis and wole not spende
+<LB/><MILESTONE UNIT="line" N="124"/> vpon þe pore, to entre into þe kyngdom of heuen.
+<LB/><MILESTONE UNIT="line" N="125"/> For þe ȝate of merci and of loue receyueþ pore
+<LB/><MILESTONE UNIT="line" N="126"/> men and in mysese, and þat more is, it receyueþ
+<LB/><MILESTONE UNIT="line" N="127"/> enemyes to loue; but bi þis ȝate passiþ not þe
+<LB/><MILESTONE UNIT="line" N="128"/> wickid riche man nor þe auerouse nor þe wraþful
+<LB/><MILESTONE UNIT="line" N="129"/> man. And þus it is nedeful to go vp to þe Mount
+<LB/><MILESTONE UNIT="line" N="130"/> of Olyues, þat is to sei to þe werkis of merci,
+<LB/><MILESTONE UNIT="line" N="131"/> and so wiþ þis goostli oyle of gladnesse to anoynte
+<LB/><MILESTONE UNIT="line" N="132"/> þe hardnesse of oure hert. For oyl of olyues
+<LB/><MILESTONE UNIT="line" N="133"/> puttiþ awei achis and aswagiþ swellyngs and alwei
+<LB/><MILESTONE UNIT="line" N="134"/> fletiþ aboue and makiþ a mannes face glad. So
+<LB/><MILESTONE UNIT="line" N="135"/> charite makiþ esi and delectable to man þe werkis
+<LB/><MILESTONE UNIT="line" N="136"/> of merci þat bifore wern to hym harde, for þouȝ a
+<LB/><MILESTONE UNIT="line" N="137"/> man þenke þese werkis esi to hym þat is of þe gret
+<LB/><MILESTONE UNIT="line" N="138"/> grace of God þat makiþ of bitter þyngs swete. And
+<LB/><MILESTONE UNIT="line" N="139"/> in figure herof in Helisees <MILESTONE UNIT="folio" N="70r"/> tyme, þe mete þat was
+<LB/><MILESTONE UNIT="line" N="140"/> in þe pot was bittir to þe profetis sones, and
+<LB/><MILESTONE UNIT="line" N="141"/> herfor þei seiden to Helisee, "Goddis man, deþ is
+<LB/><MILESTONE UNIT="line" N="142"/> in þe pot." And he spryngid meele in þe pot þat
+<LB/><MILESTONE UNIT="line" N="143"/> bitokeneþ þe grace of God, and anoon þe mete was
+<LB/><MILESTONE UNIT="line" N="144"/> swet ynow to hem alle, to whom bifore it was bitter.</P>
+<P> <MILESTONE UNIT="line" N="145"/> But now bicause þat in þe Mount of Olyuet,
+<LB/><MILESTONE UNIT="line" N="146"/> þat is to sey, in hiȝnesse of such vertues, sum
+<LB/><MILESTONE UNIT="line" N="147"/> tyme crepiþ yn swellyng of pride, þerfor we muste
+<LB/><MILESTONE UNIT="line" N="148"/> go doun to þe Vale of Iosaphat, þat is as moche
+<LB/><MILESTONE UNIT="line" N="149"/> for to sey as mekenesse of doom. For if man
+<LB/><MILESTONE UNIT="line" N="150"/> ascende to hiȝnesse of vertues and folili presumeþ
+<LB/><MILESTONE UNIT="line" N="151"/> þat he haþ þis of hymsilf, he demeþ not mekeli nor
+<LB/><MILESTONE UNIT="line" N="152"/> riȝtli hymsilf. For he þat is in þe valey of
+<LB/><MILESTONE UNIT="line" N="153"/> mekenesse, he rettiþ it fulli to God, and if he do
+<LB/><MILESTONE UNIT="line" N="154"/> ony þyng yuel, he puttiþ it to his owen feblenesse.
+<LB/><MILESTONE UNIT="line" N="155"/> And þus such a man takiþ heede to his owne
+<LB/><MILESTONE UNIT="line" N="156"/> freelte. He doiþ noon vnworship to Goddis grace.
+<LB/><MILESTONE UNIT="line" N="157"/> He worshipiþ hem þat ben hier of degre þan he.
+<LB/><MILESTONE UNIT="line" N="158"/> He suffriþ his euene; he is felawlich vertuousli
+<LB/><MILESTONE UNIT="line" N="159"/> to hem þat ben lower þan he. And þus at þe last,
+<LB/><MILESTONE UNIT="line" N="160"/> he entriþ ful sikirli into Ierusalem, þat is to
+<LB/><MILESTONE UNIT="line" N="161"/> sey, to þe visioun of pees, with moche worship
+<LB/><MILESTONE UNIT="line" N="162"/> and ioie.</P>
+<P> <MILESTONE UNIT="line" N="163"/> For in token herof, Crist entrid on Palm
+<LB/><MILESTONE UNIT="line" N="164"/> Sunday into Ierusalem, and wolde be receyued of
+<LB/><MILESTONE UNIT="line" N="165"/> þe puple, with preisyng and worship of whom he
+<LB/><MILESTONE UNIT="line" N="166"/> was vnworshipid longe bifore. And al þis was
+<LB/><MILESTONE UNIT="line" N="167"/> doon to enforme vs þat shulden vnderfongen hym,
+<LB/><MILESTONE UNIT="line" N="168"/> to mete hym with braunchis of palmes, þat is to
+<LB/><MILESTONE UNIT="line" N="169"/> sey, with floures of vertues, and to strewe oure
+<LB/><MILESTONE UNIT="line" N="170"/> cloþes in þe wey, þat is to sey, to putte awey
+<LB/><MILESTONE UNIT="line" N="171"/> oure synful fless[h]li lustis, þat we mowe
+<LB/><MILESTONE UNIT="line" N="172"/> vndirfonge hym and brynge hym with al spiritual
+<LB/><MILESTONE UNIT="line" N="173"/> myrþe to þe temple of oure soule.</P>
+<P> <MILESTONE UNIT="line" N="174"/> Also oure Lord wolde haue pore men and
+<LB/><MILESTONE UNIT="line" N="175"/> children for to mete hym, in token þat hym
+<LB/><MILESTONE UNIT="line" N="176"/> likiþ moche þe seruyce of ynnocent men and meke.
+<LB/><MILESTONE UNIT="line" N="177"/> And herfor seiþ Crist in an oþer place, <Q>"Suffriþ
+<LB/><MILESTONE UNIT="line" N="178"/> litle children for to come to me, for of such is þe
+<LB/><MILESTONE UNIT="line" N="179"/> kyngdom of heuen."</Q> As if Crist seide, "Veri
+<LB/><MILESTONE UNIT="line" N="180"/> ynnocent men and meke deseruen to haue þe
+<LB/><MILESTONE UNIT="line" N="181"/> kyngdom of heuen, and not wickid men nor gilours."
+<LB/><MILESTONE UNIT="line" N="182"/> Þerfor pore men shulden not be dispisid nor caste
+<LB/><MILESTONE UNIT="line" N="183"/> awey, but þei shulden be receyued, loued and
+<LB/><MILESTONE UNIT="line" N="184"/> worshipid as Cristis temple, as þe receyuyng place
+<LB/><MILESTONE UNIT="line" N="185"/> of þe Hooli Goost, and þe herburgeries and
+<LB/><MILESTONE UNIT="line" N="186"/> hostagis of þe Hooli Trynyte.</P>
+<P> <MILESTONE UNIT="line" N="187"/> But þat þe cumpany of puple ȝede bifore and
+<LB/><MILESTONE UNIT="line" N="188"/> cam aftir, criyng to þe sone of Dauiþ, bitokeneþ
+<LB/><MILESTONE UNIT="line" N="189"/> oon bileue of God in þe Olde Testament goyng bifore,
+<LB/><MILESTONE UNIT="line" N="190"/> and in þe Newe Testament folewyng aftir. Þerfor
+<LB/><MILESTONE UNIT="line" N="191"/> if we wolen treuli folewe Crist, we musten wandre
+<LB/><MILESTONE UNIT="line" N="192"/> in þe wey of obedience, for bi þis vertue we
+<LB/><MILESTONE UNIT="line" N="193"/> musten gete aȝen þa loue of God þat we losten bi
+<LB/><MILESTONE UNIT="line" N="194"/> vnobedience. Also bi obedience we musten gete
+<LB/><MILESTONE UNIT="line" N="195"/> aȝen oure heritage of blisse þat we losten bi
+<LB/><MILESTONE UNIT="line" N="196"/> vnobedience. Also if we wolen come to þe
+<LB/><MILESTONE UNIT="line" N="197"/> visioun of blisful pees, we musten holde þe vertu
+<LB/><MILESTONE UNIT="line" N="198"/> of trewe knoulechyng of Crist, þat is, as it were,
+<LB/><MILESTONE UNIT="line" N="199"/> þe second boord þat kepiþ vs from drenchyng in
+<LB/><MILESTONE UNIT="line" N="200"/> synne. For it is lasse greef for to suffre shame
+<LB/><MILESTONE UNIT="line" N="201"/> and peyne of men here þan to be shamed bifore <MILESTONE UNIT="folio" N="70v"/>
+<LB/><MILESTONE UNIT="line" N="202"/> God and alle his halewen, and to renne into
+<LB/><MILESTONE UNIT="line" N="203"/> endeless dampnacioun of helle. Also if we wolen
+<LB/><MILESTONE UNIT="line" N="204"/> haue endeless worship with Crist, we musten fulfille
+<LB/><MILESTONE UNIT="line" N="205"/> þe werkis of merci as he hymsilf haþ tauȝt vs.
+<LB/><MILESTONE UNIT="line" N="206"/> And þanne we shuln haue merci at þe fulle and as
+<LB/><MILESTONE UNIT="line" N="207"/> it were, gold for erþe and an hundrid fold for
+<LB/><MILESTONE UNIT="line" N="208"/> oon, and þe best good þat mai be for þyng of nouȝt
+<LB/><MILESTONE UNIT="line" N="209"/> in regard of þat. But now with þese þre vertues
+<LB/><MILESTONE UNIT="line" N="210"/> we musten haue mekenesse, not oonli in mouþ, but
+<LB/><MILESTONE UNIT="line" N="211"/> also in hert and in werkis, for þis vertu is
+<LB/><MILESTONE UNIT="line" N="212"/> keper of alle þe toþer. And þanne with þis trewe
+<LB/><MILESTONE UNIT="line" N="213"/> loue, we shuln come aftir to þe visioun of veri
+<LB/><MILESTONE UNIT="line" N="214"/> pees, þat is to sey, to heuenli Ierusalem, and
+<LB/><MILESTONE UNIT="line" N="215"/> with gret goostli solempnite, receyue þere Ihesu
+<LB/><MILESTONE UNIT="line" N="216"/> Crist with Ebreu children and so ioie with hym
+<LB/><MILESTONE UNIT="line" N="217"/> withouten ende. Amen.</P>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

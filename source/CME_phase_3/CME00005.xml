@@ -1,0 +1,2012 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>6-22-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; removed P FIGURE; removed a P; added a P. Checked <SUP>s</SUP>. Reviewed structure; removed some P FIGUREs; changed some Ps to LIST ITEMs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs; added a description. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00005">
+<STC T="M">5</STC>
+<BIBNO T="mec">CME00005</BIBNO>
+<VID>CME00005</VID>
+</IDG>
+<TEXT LANG="enm">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>A NOBLE BOKE OFF COOKRY FFOR A PRYNCE HOUSSOLDE OR ENY OTHER ESTATELY HOUSSOLDE</P>
+<P>REPRINTED VERBATIM FROM A RARE MS. IN THE HOLKHAM COLLECTION</P>
+<P>EDITED BY MRS. ALEXANDER NAPIER.</P>
+<P>LONDON: ELLIOT STOCK, 62, PATERNOSTER ROW, E.C. 1882.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="title page of part">
+<PB REF="2"/>
+<P>her begynnythe a noble boke off cookry ffor a prynce houssolde or eny other estately houssolde.</P>
+</DIV1>
+<DIV1 TYPE="illustration">
+<PB REF="3"/>
+<PB REF="4"/>
+<P><FIGURE><FIGDESC>men and women seated at banquet table</FIGDESC>
+</FIGURE></P>
+</DIV1>
+<DIV1 TYPE="collection of menus">
+<DIV2 TYPE="feast">
+<HEAD>The ffeste off kynge henry the iiij<SUP>th</SUP> to the herawldes and ffrenche men when they had justed in Smytheffelde.</HEAD>
+<DIV3 N="1" TYPE="course">
+<HEAD>The ffirst course</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">E</SEG></HI>urmente with ven∣yson potage</ITEM> 
+<ITEM>viand ryalle potage</ITEM> 
+<ITEM>gross char poudred potage</ITEM>
+<ITEM>signet rost</ITEM> 
+<ITEM>cawpon de haut grece</ITEM> 
+<ITEM>fessand and lesshe lesshe</ITEM> 
+<ITEM>jassper stones of dyuers coloures</ITEM> 
+<ITEM>a custad</ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 N="2" TYPE="course">
+<PB N="4" REF="5"/>
+<HEAD>The second course</HEAD>
+<P><LIST>
+<ITEM>Bruet sairsyn, gilly, potage</ITEM> 
+<ITEM>pigge, cony, rost</ITEM> 
+<ITEM>kyd rosted</ITEM> 
+<ITEM>chekyn ffarced</ITEM> 
+<ITEM>pegion</ITEM> 
+<ITEM>A lesshe of braun with seint Georges armes</ITEM> 
+<ITEM>longe fritturs fflampayne</ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 N="3" TYPE="course">
+<HEAD>The iij<SUP>rd</SUP> course</HEAD>
+<P><LIST>
+<ITEM>creme of almondes potage</ITEM> 
+<ITEM>larkes stewed potage</ITEM> 
+<ITEM>venyson</ITEM> 
+<ITEM>pertuche</ITEM> 
+<ITEM>quailes</ITEM> 
+<ITEM>Egret</ITEM> 
+<ITEM>rabetes</ITEM> 
+<ITEM>plouers</ITEM> 
+<ITEM>Teelis</ITEM> 
+<ITEM>pomerings</ITEM> 
+<ITEM>A lesshe of braun with garters</ITEM>
+</LIST></P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="feast">
+<HEAD>The crownacon off kyng henry the ffyfte</HEAD>
+<DIV3 N="1" TYPE="course">
+<HEAD>The ffirste course</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">V</SEG></HI>enyson in brothe potage</ITEM> 
+<ITEM>Blank de serre potage</ITEM> 
+<ITEM>Pyk, lampry poudred potage</ITEM> 
+<ITEM>Gurnard</ITEM> 
+<ITEM>Trout</ITEM> 
+<ITEM>Roche</ITEM> 
+<ITEM>ffried creves</ITEM> 
+<ITEM>Tartes</ITEM> 
+<ITEM>braun counterfet for lesshe withe the ribe ther in a gret swan for suttellte sittinge upon a grene stok displaid with a skriptur in his bille
+<PB N="5" REF="6"/>
+·/. <HI REND="italic">Regardez Roy la droyt voy</HI> and VI signetes grow∣inge out of the sam stok under hir ech on with a skripture
+<LIST>
+<ITEM>for the ffirste <HI REND="italic">Theney la ley</HI></ITEM>
+<ITEM>for the second <HI REND="italic">Gardez la fey</HI></ITEM>
+<ITEM>for the third <HI REND="italic">Hors de court</HI></ITEM>
+<ITEM>for the ffourthe <HI REND="italic">Soit bannez tort</HI></ITEM>
+<ITEM>ffor the ffyfte <HI REND="italic">Eyez pete</HI></ITEM>
+<ITEM>ffor the sexte <HI REND="italic">des comunalte</HI></ITEM>
+</LIST></ITEM>
+<ITEM>Then xxiiij swannys euychon of them a byll in the mouthe, ·/. <HI REND="italic">noble honour and joy</HI></ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 N="2" TYPE="course">
+<HEAD>The second course</HEAD>
+<P><LIST>
+<ITEM>Vyand Ryalle</ITEM>
+<ITEM>gilly with swannys of braun ther in for the king and ffor other Es∣tates</ITEM>
+<ITEM>congur freche</ITEM>
+<ITEM>halybut</ITEM>
+<ITEM>Bace</ITEM>
+<ITEM>molet</ITEM>
+<ITEM>samon</ITEM>
+<ITEM>sooles</ITEM>
+<ITEM>egre, eles, and lamprous rost</ITEM>
+<ITEM>place ffried</ITEM>
+<ITEM>lampry bak</ITEM>
+<ITEM>fflampayne</ITEM>
+<ITEM>lesshe lombard</ITEM>
+<ITEM>Antelopes for suttellte with a scriptur ·/. <HI REND="italic">un sauvez plus maynteyn dieux</HI></ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 N="3" TYPE="course">
+<HEAD>The iij course</HEAD>
+<P><LIST>
+<ITEM>Creme frez</ITEM>
+<ITEM>dates in compost</ITEM>
+<ITEM>carpes</ITEM>
+<ITEM>perche</ITEM>
+<ITEM>sturgion welkes</ITEM>
+<ITEM>tenche in braissell</ITEM>
+<ITEM><PB N="6" REF="7"/>
+fflounders</ITEM>
+<ITEM>porpas rost</ITEM>
+<ITEM>lampry roste</ITEM>
+<ITEM>cloves de edewede</ITEM>
+<ITEM>menewes fried</ITEM>
+<ITEM>paynpuff</ITEM>
+<ITEM>dowcettes</ITEM>
+<ITEM>Egillis of gold displayde for suttellte withe a scriptur in their billes ·/. <HI REND="italic">dest jour notable est honorable</HI></ITEM>
+</LIST></P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="feast">
+<HEAD>The stallinge of clifford Bischope off Londone</HEAD>
+<DIV3 N="1" TYPE="course">
+<HEAD>The first cours</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">E</SEG></HI>furmente with porpas</ITEM>
+<ITEM>viand cypers</ITEM>
+<ITEM>milvet poudred</ITEM>
+<ITEM>lampry poudred</ITEM>
+<ITEM>pik boiled</ITEM>
+<ITEM>halibut boiled</ITEM>
+<ITEM>samon</ITEM>
+<ITEM>porpas</ITEM>
+<ITEM>a lesche beaucreme</ITEM>
+<ITEM>a brod custad with a castell ther in with a stuff in the castelle of a gille and the demon in the myd∣des brynging a doctur to suttllete in a pulpit in clothinge of grene tabard and hood withe a rolle on his hed wretyn thereon <HI REND="italic">in deo salutare meo</HI></ITEM></LIST></P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="feast">
+<PB N="7" REF="8"/>
+<HEAD>The ffest off Nevell Archebisshope of York and Chaunceler of Englond att his stallacon in York</HEAD>
+<DIV3 N="1" TYPE="course">
+<HEAD>The ffirst course</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">B</SEG></HI>raun with mus∣tard</ITEM>
+<ITEM>ffurmente with venyson</ITEM>
+<ITEM>hert poudred</ITEM>
+<ITEM>ffessand in brayn</ITEM>
+<ITEM>Swan rost</ITEM>
+<ITEM>Ganetz</ITEM>
+<ITEM>Gullez</ITEM>
+<ITEM>capon de haut grece</ITEM>
+<ITEM>heron roste</ITEM>
+<ITEM>carpet in venison</ITEM>
+<ITEM>pik in ereblad</ITEM>
+<ITEM>leshe caute rialle</ITEM>
+<ITEM>ffritur boyse</ITEM>
+<ITEM>venyson bak</ITEM>
+<ITEM>custad planted</ITEM>
+<ITEM>chewetts riall with a sut∣tellte</ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 N="2" TYPE="course">
+<HEAD>The second course</HEAD>
+<P><LIST>
+<ITEM>Gilly parti riall</ITEM>
+<ITEM>viand rasens</ITEM>
+<ITEM>venison in brakes</ITEM>
+<ITEM>pecock in trapille</ITEM>
+<ITEM>cony roste</ITEM>
+<ITEM>roo reversed</ITEM>
+<ITEM>lardes de venison</ITEM>
+<ITEM>pertuches</ITEM>
+<ITEM>wodcok</ITEM>
+<ITEM>plouer</ITEM>
+<ITEM>Goodwitts</ITEM>
+<ITEM>red shankes</ITEM>
+<ITEM>yarowe helpes</ITEM>
+<ITEM>knottes</ITEM>
+<ITEM>Oxene</ITEM>
+<ITEM>Creme in purpull</ITEM>
+<ITEM><PB N="8" REF="9"/>
+leshe cipirs</ITEM>
+<ITEM>ffritur napkyne</ITEM>
+<ITEM>tarte in molde</ITEM>
+<ITEM>chatowe dyuers riall with a suttellte</ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 N="3" TYPE="course">
+<HEAD>The third course</HEAD>
+<P><LIST>
+<ITEM>Bland desere</ITEM>
+<ITEM>dates in comfet</ITEM>
+<ITEM>neutes vert</ITEM>
+<ITEM>Bittur rostid</ITEM>
+<ITEM>Curlew rostid</ITEM>
+<ITEM>fessand rostid</ITEM>
+<ITEM>Railes rost</ITEM>
+<ITEM>Egret rost</ITEM>
+<ITEM>Rabettes</ITEM>
+<ITEM>quailes</ITEM>
+<ITEM>poums vert</ITEM>
+<ITEM>Göt whelpes rost</ITEM>
+<ITEM>dotterelles rost</ITEM>
+<ITEM>martynets rost</ITEM>
+<ITEM>Gret birds</ITEM>
+<ITEM>larkes rost</ITEM>
+<ITEM>sparowes</ITEM>
+<ITEM>ffreche sturgion</ITEM>
+<ITEM>lesshe blaunche</ITEM>
+<ITEM>ffritur cuspe</ITEM>
+<ITEM>quinces bak</ITEM>
+<ITEM>rosestis florishid</ITEM>
+<ITEM>chamlettes withe a sut∣teltte</ITEM>
+</LIST></P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="feast">
+<HEAD>prime coursis le princ ffest</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">C</SEG></HI>reme buyle</ITEM>
+<ITEM>ung potage</ITEM>
+<ITEM>puysson potage</ITEM>
+<ITEM>pik, lampry</ITEM>
+<ITEM>ung puysson freche</ITEM>
+<ITEM>ung viand de paste</ITEM>
+<ITEM>potage</ITEM>
+<ITEM>Samon. pik</ITEM>
+<ITEM>gurnard. soles</ITEM>
+<ITEM>Eles roste.</ITEM>
+<ITEM>ung viand de past</ITEM>
+<ITEM>ung potage. trout</ITEM>
+<ITEM>perche flounders</ITEM>
+<ITEM>shrympes. crabs</ITEM>
+<ITEM>loppsters lesches</ITEM>
+<ITEM>Ung Viand de past</ITEM>
+</LIST></P>
+</DIV2>
+<DIV2 TYPE="feast">
+<PB N="9" REF="10"/>
+<HEAD>Le second ffeste</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">V</SEG></HI>enison in furmenty</ITEM>
+<ITEM>potage viand</ITEM>
+<ITEM>Brusez. chef de singler</ITEM>
+<ITEM>gross chare</ITEM>
+<ITEM>signet rost. pik</ITEM>
+<ITEM>viand in past</ITEM>
+<ITEM>custad lombard</ITEM>
+<ITEM>Ung subtillite</ITEM>
+<ITEM>gilly blandeserre</ITEM>
+<ITEM>porcell rosted</ITEM>
+<ITEM>heron, pouchans endorez</ITEM>
+<ITEM>Breme. tartes</ITEM>
+<ITEM>braun brisez</ITEM>
+<ITEM>cony. ung subtilite</ITEM>
+<ITEM>Bruet de Almayne</ITEM>
+<ITEM>stew lombard</ITEM>
+<ITEM>venison rost</ITEM>
+<ITEM>Egret rost</ITEM>
+<ITEM>pegions rost</ITEM>
+<ITEM>pertuche rost</ITEM>
+<ITEM>colombes</ITEM>
+<ITEM>rabettes rost</ITEM>
+<ITEM>qualis rost</ITEM>
+<ITEM>larkes rost</ITEM>
+<ITEM>perche gilli</ITEM>
+<ITEM>longe ffriturs</ITEM>
+<ITEM>Ung subtelite</ITEM>
+</LIST></P>
+</DIV2>
+<DIV2 TYPE="feast">
+<HEAD>le tercius fest</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">V</SEG></HI>enison in furmente</ITEM>
+<ITEM>potage viand</ITEM>
+<ITEM>brusez</ITEM>
+<ITEM>ung lez</ITEM>
+<ITEM>chef de paris</ITEM>
+<ITEM>gross char</ITEM>
+<ITEM>signett rost</ITEM>
+<ITEM>pik. custada</ITEM>
+<ITEM>ung subtilite</ITEM>
+<ITEM>ung potage</ITEM>
+<ITEM>nomine gille</ITEM>
+<ITEM>ung potage</ITEM>
+<ITEM>blandesere</ITEM>
+<ITEM>porcelle rostez</ITEM>
+<ITEM>pullez endorez</ITEM>
+<ITEM>breme. tartes</ITEM>
+<ITEM><PB N="10" REF="11"/>
+braun brusez</ITEM>
+<ITEM>cony rostez</ITEM>
+<ITEM>ung subtilite</ITEM>
+<ITEM>ung potage</ITEM>
+<ITEM>brewet de alemayn</ITEM>
+<ITEM>stewe lombard</ITEM>
+<ITEM>venison rostez</ITEM>
+<ITEM>pegions rostez</ITEM>
+<ITEM>perche rostez</ITEM>
+<ITEM>colombes rostez</ITEM>
+<ITEM>rabetes rostez</ITEM>
+<ITEM>qualis rostez</ITEM>
+<ITEM>Lark rostez</ITEM>
+<ITEM>Pertuche rostez</ITEM>
+<ITEM>Long fritur</ITEM>
+<ITEM>Ung subtilite</ITEM>
+</LIST></P>
+</DIV2>
+<DIV2 TYPE="feast">
+<HEAD>Le primer fest</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">V</SEG></HI>enison in furmente</ITEM>
+<ITEM>Viand brusez</ITEM>
+<ITEM>Grosse chare</ITEM>
+<ITEM>Chif de singlez</ITEM>
+<ITEM>Capon de haut grece</ITEM>
+<ITEM>Signett rostez</ITEM>
+<ITEM>Herond rostez</ITEM>
+<ITEM>Fessand rostez</ITEM>
+<ITEM>Granns tartes</ITEM>
+<ITEM>Ung subtilite</ITEM>
+<ITEM>Braun in egre douce</ITEM>
+<ITEM>Blanche serre</ITEM>
+<ITEM>porcell rostid</ITEM>
+<ITEM>curlews rost</ITEM>
+<ITEM>conys rost</ITEM>
+<ITEM>Biturs rost</ITEM>
+<ITEM>Venison rost</ITEM>
+<ITEM>ffartels</ITEM>
+<ITEM>Graunt custard</ITEM>
+<ITEM>blanche braun</ITEM>
+<ITEM>friturs</ITEM>
+<ITEM>ung subtilite</ITEM>
+<ITEM>dates in compost</ITEM>
+<ITEM>violetes</ITEM>
+<ITEM>Brewez rost</ITEM>
+<ITEM>pigions rost endort</ITEM>
+<ITEM>quailes</ITEM>
+<ITEM>plovers</ITEM>
+<ITEM>graund oseaux</ITEM>
+<ITEM>pull endourez</ITEM>
+<ITEM>rabettes</ITEM>
+<ITEM>larke. braun brusez</ITEM>
+<ITEM>freturs. de metes in past</ITEM>
+<ITEM>Ung in subtilite</ITEM>
+</LIST></P>
+</DIV2>
+<DIV2 TYPE="feast">
+<PB N="11" REF="12"/>
+<HEAD>Le secund feste</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">V</SEG></HI>enison en furmente</ITEM>
+<ITEM>viand brusez</ITEM>
+<ITEM>grosse char</ITEM>
+<ITEM>chif de singler</ITEM>
+<ITEM>Signet</ITEM>
+<ITEM>capon de haut grece</ITEM>
+<ITEM>fessand rostez</ITEM>
+<ITEM>pik in brasy</ITEM>
+<ITEM>custad</ITEM>
+<ITEM>Ung subtilite</ITEM>
+<ITEM>gille viand riall</ITEM>
+<ITEM>porcelle rost. crayn</ITEM>
+<ITEM>cony rost. bittur</ITEM>
+<ITEM>Venison rost. tenche</ITEM>
+<ITEM>tartes. Blanche braun</ITEM>
+<ITEM>Ung viand de past</ITEM>
+<ITEM>Ung subtilite</ITEM>
+<ITEM>peres in ceripe</ITEM>
+<ITEM>bruwez</ITEM>
+<ITEM>Curlewes</ITEM>
+<ITEM>pertuches</ITEM>
+<ITEM>rabettes</ITEM>
+<ITEM>larkes</ITEM>
+<ITEM>ung viand de past</ITEM>
+<ITEM>Doucet</ITEM>
+<ITEM>Toost lombard</ITEM>
+<ITEM>ffritur</ITEM>
+<ITEM>anguil rostez</ITEM>
+<ITEM>Ung subtilite</ITEM>
+</LIST></P>
+</DIV2>
+<DIV2 TYPE="feast">
+<HEAD>Le tercius fest</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">B</SEG></HI>or en venered blaumage</ITEM>
+<ITEM>po∣tage</ITEM>
+<ITEM>Borhed armed</ITEM>
+<ITEM>Gret bef and moton</ITEM>
+<ITEM>Swan and capon</ITEM>
+<ITEM>Dragon</ITEM>
+<ITEM>Custad</ITEM>
+<ITEM>Venison in firmente</ITEM>
+<ITEM>mammene potage</ITEM>
+<ITEM>Gret tartes</ITEM>
+<ITEM>Pigge. vele</ITEM>
+<ITEM><PB N="12" REF="13"/>
+Braune fried</ITEM>
+<ITEM>cony. fessand</ITEM>
+<ITEM>bores hed gilt</ITEM>
+<ITEM>creme buyle</ITEM>
+<ITEM>peres in ceripe</ITEM>
+<ITEM>peti puellis</ITEM>
+<ITEM>rabettes</ITEM>
+<ITEM>pertuches</ITEM>
+<ITEM>wockes</ITEM>
+<ITEM>snytes</ITEM>
+<ITEM>plouers</ITEM>
+<ITEM>quailes</ITEM>
+<ITEM>larkes</ITEM>
+<ITEM>longe friturs</ITEM>
+<ITEM>pertuches gilt</ITEM>
+<ITEM>chekyn rost</ITEM>
+<ITEM>ung potage</ITEM>
+<ITEM>breuelle</ITEM>
+<ITEM>pestellis in cresses</ITEM>
+<ITEM>swan. conye</ITEM>
+<ITEM>lesshe custad</ITEM>
+<ITEM>gilly lambe</ITEM>
+<ITEM>Venyson. heron</ITEM>
+<ITEM>Venison bak</ITEM>
+<ITEM>cold bake mete</ITEM>
+<ITEM>friturs. peres in ceripe</ITEM>
+<ITEM>Curlewes. rabbetts</ITEM>
+<ITEM>quales</ITEM>
+<ITEM>gret birdes</ITEM>
+<ITEM>lesthe. paynpuf</ITEM>
+<ITEM>cold bak mete</ITEM>
+<ITEM>antelopes</ITEM>
+<ITEM>friturs</ITEM>
+</LIST></P>
+<DIV3 N="1" TYPE="course">
+<HEAD>The first course</HEAD>
+<P><LIST>
+<ITEM>Ryse to potage</ITEM>
+<ITEM>bacon hering</ITEM>
+<ITEM>grene fisshe</ITEM>
+<ITEM>salt ele</ITEM>
+<ITEM>pik</ITEM>
+<ITEM>lesshe</ITEM>
+<ITEM>bak eles</ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 N="2" TYPE="course">
+<HEAD>The second course</HEAD>
+<P><LIST>
+<ITEM>·/. potage</ITEM>
+<ITEM>brill</ITEM>
+<ITEM>tenche</ITEM>
+<ITEM>carpe</ITEM>
+<ITEM>welks</ITEM>
+<ITEM>fried roches</ITEM>
+<ITEM>rost eles</ITEM>
+<ITEM>lesshe</ITEM>
+<ITEM>breme bacone.</ITEM>
+</LIST></P>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="fragment">
+<PB N="13" REF="14"/>
+<DIV2 TYPE="month">
+<HEAD>Servys in the monthe of Janyuar.</HEAD>
+<DIV3 TYPE="menu">
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">B</SEG></HI>raun and mustard nomble to po∣tage</ITEM>
+<ITEM>pestelles of pork and swane</ITEM>
+<ITEM>mortyns to potage</ITEM>
+<ITEM>pige. pelle</ITEM>
+<ITEM>lambe. cony. and bitur. and then for a soket doucet of friturs of ap∣pilles</ITEM>
+</LIST></P>
+</DIV3>
+<DIV3 TYPE="menu">
+<HEAD>A dener for housolds in the sam monethe</HEAD>
+<P><LIST>
+<ITEM>furmente to potage with venyson</ITEM>
+<ITEM>beef. moton</ITEM>
+<ITEM>swan and pigge</ITEM>
+<ITEM>mortins to potage</ITEM>
+<ITEM>vele. lambe</ITEM>
+<ITEM>cony. and wild fowle</ITEM>
+<ITEM>birdes and fritures.</ITEM>
+</LIST></P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="month">
+<HEAD>Servis in the monthe of fevrielle.</HEAD>
+<DIV3 TYPE="menu">
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">B</SEG></HI>raun and mustard</ITEM>
+<ITEM>gruelle</ITEM>
+<ITEM>beef</ITEM>
+<ITEM>pestelles of pork</ITEM>
+<ITEM>Swane</ITEM>
+<ITEM>lambe</ITEM>
+<ITEM>heron</ITEM>
+<ITEM>Wegions</ITEM>
+<ITEM>ptuche</ITEM>
+<ITEM>quailes</ITEM>
+<ITEM>tansay</ITEM>
+<ITEM>fritures</ITEM>
+<ITEM>Wayfurs and ypocras</ITEM>
+</LIST></P>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="fragment">
+<DIV2 TYPE="course">
+<PB N="14" REF="15"/>
+<HEAD>The first course</HEAD>
+<P>first braun and mustard nombles to potage beef. moton pestelles of pork in ceripe capon and lesche mortyns to potage lambe cony bittur wodcok lesshe bake metes then a sewet tansey small birds bak quynces peres and appilles with blanche pouder</P>
+<TRAILER>Her endethe the fest ryalle and the servys to a kyng or a prince</TRAILER>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="title page of part">
+<PB N="15" REF="16"/>
+<P>Her begynnethe the kalender of the book off cookry.</P>
+</DIV1>
+<DIV1 TYPE="table of contents">
+<PB REF="17"/>
+<PB REF="18"/>
+<HEAD>Kalender of the book off cookry</HEAD>
+<P><LIST>
+<ITEM><HI REND="italic"><SEG REND="decorInit">P</SEG></HI>otage for somer sesson</ITEM>
+<ITEM>Buknade</ITEM>
+<ITEM>charmarchand</ITEM>
+<ITEM>jussele sengle</ITEM>
+<ITEM>comyne</ITEM>
+<ITEM>chekins in sauce</ITEM>
+<ITEM>chekins in musy</ITEM>
+<ITEM>chekins in kertyn</ITEM>
+<ITEM>smale joutes</ITEM>
+<ITEM>charlet forced</ITEM>
+<ITEM>alander de moton</ITEM>
+<ITEM>alander de beef</ITEM>
+<ITEM>lange de bees</ITEM>
+<ITEM>musy for soper</ITEM>
+<ITEM>yonge possen</ITEM>
+<ITEM>younge pesson rialle</ITEM>
+<ITEM>creme buyle</ITEM>
+<ITEM>mon amye</ITEM>
+<ITEM>cawdelle ferry</ITEM>
+<ITEM>cawdelle ferryis</ITEM>
+<ITEM>soupes chett</ITEM>
+<ITEM>murre</ITEM>
+<ITEM>Bailes</ITEM>
+<ITEM>Jusselle enforced</ITEM>
+<ITEM>let lorre</ITEM>
+<ITEM>caudelle rynying</ITEM>
+<ITEM>potage of Inde</ITEM>
+<ITEM>turnsele</ITEM>
+<ITEM>garnard</ITEM>
+<ITEM>bruet de Almayne for Xmesse</ITEM>
+<ITEM>bruet sairsyen for Xmesse</ITEM>
+<ITEM>ceripe for stokfishe fried</ITEM>
+<ITEM>leshe frees</ITEM>
+<ITEM>goos in perre</ITEM>
+<ITEM>goos in hochepot</ITEM>
+<ITEM><PB N="18" REF="19"/>
+mallardes in sewe</ITEM>
+<ITEM>ffische potage in egre douce</ITEM>
+<ITEM>tenche in filik</ITEM>
+<ITEM>charlet contrefet of fishe</ITEM>
+<ITEM>to make a salt lampry freche in a nyght</ITEM>
+<ITEM>Eeles in sorre</ITEM>
+<ITEM>Eeles in braisselle</ITEM>
+<ITEM>congur in peell</ITEM>
+<ITEM>a gilly of fleshe</ITEM>
+<ITEM>quynces bak</ITEM>
+<ITEM>viand de cipres for XLmesse</ITEM>
+<ITEM>viand de bourton</ITEM>
+<ITEM>viand ryall for XLmesse</ITEM>
+<ITEM>lesche lombard</ITEM>
+<ITEM>eles in bruet</ITEM>
+<ITEM>pik in braiselle</ITEM>
+<ITEM>mortins of ffishe</ITEM>
+<ITEM>bland sorre</ITEM>
+<ITEM>hennes farced</ITEM>
+<ITEM>to mak ij capons of one</ITEM>
+<ITEM>to contrefet a kid</ITEM>
+<ITEM>egge rost in lent</ITEM>
+<ITEM>to mak a somer sewe</ITEM>
+<ITEM>to mak a sew without fyere</ITEM>
+<ITEM>braun riall in Lent</ITEM>
+<ITEM>breteyn in Lent</ITEM>
+<ITEM>breteyne in fleshe tyme</ITEM>
+<ITEM>sturgion for sopers</ITEM>
+<ITEM>cold lesche viand</ITEM>
+<ITEM>cold bruet for rabbetts</ITEM>
+<ITEM>cristal gilly</ITEM>
+<ITEM>a gilly of fleshe</ITEM>
+<ITEM>creme of Almonds</ITEM>
+<ITEM>hagges of Almayne</ITEM>
+<ITEM>quystes</ITEM>
+<ITEM>votese</ITEM>
+<ITEM>rostand</ITEM>
+<ITEM>samatard</ITEM>
+<ITEM>longe ffretures</ITEM>
+<ITEM>payn perdieu</ITEM>
+<ITEM>pestelles of pork endort</ITEM>
+<ITEM>hattes</ITEM>
+<ITEM>another hattes in Lent</ITEM>
+<ITEM>sauce madam</ITEM>
+<ITEM>sauce camelyn for qwhails</ITEM>
+<ITEM>chaudron for swan</ITEM>
+<ITEM>freshe lampry bak</ITEM>
+<ITEM>soupes in galentyn</ITEM>
+<ITEM>wellid peper for rost vele</ITEM>
+<ITEM>tartes of fflesche</ITEM>
+<ITEM>to bak porpas or turbot</ITEM>
+<ITEM>pyes of fflesche</ITEM>
+<ITEM>custad lombard</ITEM>
+<ITEM>custad opyne</ITEM>
+<ITEM>chewetes of beef</ITEM>
+<ITEM><PB N="19" REF="20"/>
+bak chekkins</ITEM>
+<ITEM>chewettes rialle</ITEM>
+<ITEM>chewettes on fische dais</ITEM>
+<ITEM>dariolites</ITEM>
+<ITEM>prymrolle in pasthe</ITEM>
+<ITEM>to make aposthot</ITEM>
+<ITEM>breny</ITEM>
+<ITEM>pies of paris</ITEM>
+<ITEM>losengs fried in lent</ITEM>
+<ITEM>haire blad opyn</ITEM>
+<ITEM>lesche frees</ITEM>
+<ITEM>bak mete on ffische days</ITEM>
+<ITEM>to slay a swan and rost hym</ITEM>
+<ITEM>fessand rost</ITEM>
+<ITEM>pertuche rost</ITEM>
+<ITEM>quaile rost</ITEM>
+<ITEM>heron rost</ITEM>
+<ITEM>crayn rost</ITEM>
+<ITEM>bittur rost</ITEM>
+<ITEM>Egret rost</ITEM>
+<ITEM>curlew rost</ITEM>
+<ITEM>brewe rost</ITEM>
+<ITEM>cony rost</ITEM>
+<ITEM>rabettes rost</ITEM>
+<ITEM>sarcell rost</ITEM>
+<ITEM>plouer rost</ITEM>
+<ITEM>snyt rost</ITEM>
+<ITEM>Wodcok rost</ITEM>
+<ITEM>kid rost</ITEM>
+<ITEM>venyson rost</ITEM>
+<ITEM>the sid of hie grece</ITEM>
+<ITEM>chekins endort</ITEM>
+<ITEM>ffelets of pork</ITEM>
+<ITEM>capon or goose roste</ITEM>
+<ITEM>Apetito</ITEM>
+<ITEM>Goos or capon fassed</ITEM>
+<ITEM>pige farced</ITEM>
+<ITEM>brestis of moton in sauce</ITEM>
+<ITEM>capon stewed</ITEM>
+<ITEM>trout boiled</ITEM>
+<ITEM>crabs or lopster</ITEM>
+<ITEM>breme in sauce</ITEM>
+<ITEM>breme in brasse</ITEM>
+<ITEM>Sole in brasse</ITEM>
+<ITEM>Sturgion boiled</ITEM>
+<ITEM>haddok in cevy</ITEM>
+<ITEM>codling or haddok</ITEM>
+<ITEM>bace molet or breme</ITEM>
+<ITEM>congur turbot or halibut</ITEM>
+<ITEM>gurnard or rochet boiled</ITEM>
+<ITEM>place or flounders boiled</ITEM>
+<ITEM>welks boiled</ITEM>
+<ITEM>perche boiled</ITEM>
+<ITEM>freche makrell</ITEM>
+<ITEM>soupes in doce</ITEM>
+<ITEM>hoot mylk of almondes</ITEM>
+<ITEM>cold mylk of almondes</ITEM>
+<ITEM><PB N="20" REF="21"/>
+sauce galentyn</ITEM>
+<ITEM>sauce guingere</ITEM>
+<ITEM>vert sauce</ITEM>
+<ITEM>sauce aliper—for rost beff</ITEM>
+<ITEM>garbage</ITEM>
+<ITEM>musculs in shelles</ITEM>
+<ITEM>musculles in brothe</ITEM>
+<ITEM>pik in brasy</ITEM>
+<ITEM>cony or malard in cevy</ITEM>
+<ITEM>pik in galentyne</ITEM>
+<ITEM>pik in soupes</ITEM>
+<ITEM>tenche in cevy</ITEM>
+<ITEM>lossenge on fische daies</ITEM>
+<ITEM>cawdelle of almondes</ITEM>
+<ITEM>oile soupes</ITEM>
+<ITEM>chard warden</ITEM>
+<ITEM>to mak ryse</ITEM>
+<ITEM>to mak wort</ITEM>
+<ITEM>canebyns</ITEM>
+<ITEM>another canebyns with bacon</ITEM>
+<ITEM>To mak buttred wort</ITEM>
+<ITEM>Cabage wort</ITEM>
+<ITEM>haire or goos in wortes</ITEM>
+<ITEM>pik and eles in ballok brothe</ITEM>
+<ITEM>furmente with porpas</ITEM>
+<ITEM>to mak jusselle</ITEM>
+<ITEM>ledlardes of iij coloures</ITEM>
+<ITEM>gruelle enforced</ITEM>
+<ITEM>chaudron for samon</ITEM>
+<ITEM>codd or keling</ITEM>
+<ITEM>lesch penon</ITEM>
+<ITEM>ffelets in galentyn</ITEM>
+<ITEM>nombles of porpas</ITEM>
+<ITEM>chaudron of pigges fet</ITEM>
+<ITEM>bruet of lombardy</ITEM>
+<ITEM>Bruet of Spayne</ITEM>
+<ITEM>Bruet rose</ITEM>
+<ITEM>stewed malardes</ITEM>
+<ITEM>stewed lombard</ITEM>
+<ITEM>stewed coloupes</ITEM>
+<ITEM>bruet busbayn</ITEM>
+<ITEM>bruet of kiddes</ITEM>
+<ITEM>blanche bruet</ITEM>
+<ITEM>sauce sairssnet</ITEM>
+<ITEM>kid stewed</ITEM>
+<ITEM>pertuche stewed</ITEM>
+<ITEM>alowsid beef</ITEM>
+<ITEM>pik in sauce</ITEM>
+<ITEM>turbot in sauce rost</ITEM>
+<ITEM>samon rost in sauce</ITEM>
+<ITEM>breme in confet</ITEM>
+<ITEM>braun rialle</ITEM>
+<ITEM>blanche braun</ITEM>
+<ITEM>laid mylk</ITEM>
+<ITEM>peres in compost</ITEM>
+<ITEM>furmente</ITEM>
+<ITEM><PB N="21" REF="22"/>
+amydon</ITEM>
+<ITEM>conys in grave</ITEM>
+<ITEM>chekins in kirtyn</ITEM>
+<ITEM>viand de cipre</ITEM>
+<ITEM>mortens of flesche</ITEM>
+<ITEM>blanch mang of flesche</ITEM>
+<ITEM>chaudron</ITEM>
+<ITEM>nombles</ITEM>
+<ITEM>another nombles</ITEM>
+<ITEM>charlet</ITEM>
+<ITEM>charlet colouret</ITEM>
+<ITEM>jusselle</ITEM>
+<ITEM>Bruet de almondes</ITEM>
+<ITEM>blank desire</ITEM>
+<ITEM>buknard</ITEM>
+<ITEM>rosse</ITEM>
+<ITEM>ledlardes</ITEM>
+<ITEM>blanched mortins</ITEM>
+<ITEM>stewed pegions</ITEM>
+<ITEM>soupes dorrey</ITEM>
+<ITEM>gruell dalmond</ITEM>
+<ITEM>joutes dalmond</ITEM>
+<ITEM>cawdelle dalmond</ITEM>
+<ITEM>Z S V</ITEM>
+<ITEM>Ryse</ITEM>
+<ITEM>Cawdell ferry</ITEM>
+<ITEM>Rape</ITEM>
+<ITEM>Mylk rostid</ITEM>
+<ITEM>Potage of welks</ITEM>
+<ITEM>Potage of oystirs</ITEM>
+<ITEM>sauce synes</ITEM>
+<ITEM>compost</ITEM>
+<ITEM>blank mang of fisshe</ITEM>
+<ITEM>mortis of fisshe</ITEM>
+<ITEM>pese de almondes</ITEM>
+<ITEM>acoles</ITEM>
+<ITEM>gruelle de pork</ITEM>
+<ITEM>cony in cevy</ITEM>
+<ITEM>haire in cevy</ITEM>
+<ITEM>haire in albroturs</ITEM>
+<ITEM>haire in perdolons</ITEM>
+<ITEM>hennes in bruet</ITEM>
+<ITEM>chekins in bruet</ITEM>
+<ITEM>chekins in brothe</ITEM>
+<ITEM>chekins in cawdell</ITEM>
+<ITEM>to boile fessand</ITEM>
+<ITEM>or pertuche</ITEM>
+<ITEM>Roo in sewe</ITEM>
+<ITEM>Hennes in grave</ITEM>
+<ITEM>hennes in gaucell</ITEM>
+<ITEM>lampry in bruet</ITEM>
+<ITEM>lampry in galentyn</ITEM>
+<ITEM>tenche in grave</ITEM>
+<ITEM>chaudron de boise</ITEM>
+<ITEM>capon in cassolant</ITEM>
+<ITEM>mamony</ITEM>
+<ITEM>lange de bef</ITEM>
+<ITEM>rape of fisshe</ITEM>
+<ITEM><PB N="22" REF="23"/>
+a figge</ITEM>
+<ITEM>pomes moiled</ITEM>
+<ITEM>pigge harced</ITEM>
+<ITEM>fraunt hemelle</ITEM>
+<ITEM>Bours</ITEM>
+<ITEM>pomes</ITEM>
+<ITEM>Hastelets on fisshe daies</ITEM>
+<ITEM>Lampry beak</ITEM>
+<ITEM>Appillinose</ITEM>
+<ITEM>Charlet</ITEM>
+<ITEM>Cratonnes</ITEM>
+<ITEM>haddok in cevy</ITEM>
+<ITEM>Tenche in gilly</ITEM>
+</LIST></P>
+<TRAILER>Her endethe the kalender of the Book of cookry</TRAILER>
+</DIV1>
+<DIV1 TYPE="title page of part">
+<PB REF="24"/>
+<P>Her begynnyth the making of all thes kind as ye shall find here aftur in the bok more playnly the dighting of xiiij<SUP>ss</SUP> and iij dysshes.</P>
+</DIV1>
+<DIV1 TYPE="collection of recipes">
+<PB REF="25"/>
+<PB REF="26"/>
+<DIV2 TYPE="recipe">
+<HEAD>To make potage for somer sessone</HEAD>
+<P><SEG REND="decorInit">T</SEG>AK felettes of pork or of befe well betten in a mortair rawe and in betteinge alay the fleshe with egges then tak up the fleshe in a faire vesselle and putt ther to pouder of cloves pouder of pepper and salt and coloure it with saffron and mele it well and mak ther of small pilotes and cast them into a pan with watir boiling on the fier and when it is well boiled put them in a faire vesselle then tak almonde mylk mad with brothe of freshe beef and put it in a faire pott putt ther to hole cloves mace pynes raysins of corans gengile mynced then set the pot on the fiere and sturr it welle and put the pilotes in the pot and let them haue one boyle or twaine and colour with cawdelle hewe and salt it and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak Buknad</HEAD>
+<P>To mak buknad tak vele smale and vele par∣boiled then gader up the flesh and streyn the broth
+<PB N="26" REF="27"/>
+through a stren and put it in to the pot and sett it on the fyer and put ther to onyons mynced pouder of pepper powder of cloves and canelle and in the boil∣ing put in the fleshe then tak raw yolkes in a bolle and cast ther to the het brothe and mele it well to gedere and in the setting downe put in the egg and stirr it to geder in the setting down and geve it a litill color of saffron and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>for to mak charmarchaunt</HEAD>
+<P>Tak restes of motton choped and put them in a faire pot and set them on the fier with clene water and boile it welle then take parsley and saige and bete it in a mortair with bred and draw it up to the brothe and put it in the pot with the flesh and let it sethe to gedure and salt it and serve it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak juselle sengle</HEAD>
+<P>To mak juselle sengle tak freshe brothe of fleshe and set it on the fiere in a pan and put there to saige leuys brok in two or in thre and parsley and colour the brothe then tak egge and grated bred and mele them to gedur. and when the pot boilithe put the comand to the brothe and salt it and stirr it till it
+<PB N="27" REF="28"/>
+crudd and when it crudithe gadur it to gedur with a scemer and alay it with a litille ale or cold brothe and serve it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak comyne</HEAD>
+<P>To mak comyne set almond mylk on the syer then tak amydon and stepe it and drawe it and put ther to pouder of comyne and boile it and stirr it well put ther to sugur or hony and colour it with saffron and salt it and let it be rynyinge, and ye will have it stand∣ing tak raw yolks of eggs well betene and put it in the pot at the setting downe then leshe it in dyshes and cast on a drige mad with hard yolks of eggs sugur mynced ginger clowes maces and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chekyns in sauce</HEAD>
+<P>To dight chekyns in sauce tak chekine chapped for comons for a lord tak hole chekins and boile them with swet brothe of bef with a quantite of wyne and when they be ny enough tak out the chekins and bette the yolks of xl eggs in a mortair with saige and parsley and alay with good wyne and draw it throughe a stren put ther to poudre of clowes an unce of sugur an unce of canelles a litille veniger and colour it with saffron and salt then couche the chekins in dishes and put the ceryp in dyshes upon the mete and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="28" REF="29"/>
+<HEAD>To mak chekyns in musy</HEAD>
+<P>To dight chekins in musy, tak smale chikins boiled in swet brothe of wyne then chop hem and put ther to parsly and saige and put ther to poudre of pepper and granys and colour yt with saffron then tak wiht of egges and ale and draw throughe a stren and put ther to and stir it welle to gedur and put ther to an unce of guinger and when it begininethe to boile set it from the syere and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chekins in kirtin</HEAD>
+<P>To dight chekins in kirtyn tak iij pound of al∣mondes made with good pik mylk with swet brothe and put it in a pot and put ther to clowes mace sugur and pynes hole and let it boile to gedur till it be honging and put ther to an unce of ginger and vini∣gar and put it in the pot then tak chekins ehalvyd/ for a lord tak hole chekins and sethe them a litille then pull of the skyne and fry them in swete grece and put them in large dishes and pour on the ceripe and do ther on sugur and pouder of ginger and serue.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>smalle joutes</HEAD>
+<P>To mak smale joutes tak dyners and sethe them in clene water and hewe them smalle and bet them in a
+<PB N="29" REF="30"/>
+mortair but put out the water and tak of the stalkes then put them in a pot to swete brothe and alay the pot withe bred and sett the pot on the fyer and let it boille and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Charlet forced</HEAD>
+<P>To mak charlet forced tak cowe mylk and yolks of eggs draw throughe a stren and bet it to gedur then tak freshe pork smalle hewene and cast all to gedure in a pan and colour it with saffrone and let it boile till it be on a crud then take it up and lay it on a clothe upon a bord and presse out the whey then tak the mylk of almondes or cow creme and sett it on the fyere put ther to sugur and colour it depe with saffrone then leshe out the crud and couche it in dishes and pour out the ceripe and cast on sugur and canelle and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Alander de moton</HEAD>
+<P>To mak alander de moton tak y legge of moton and sethe it till it be tender by it selue and when it is sodene bray the fleshe in a mortair and alay it with the sam brothe and put ther to pouder of clowes pouder of canelle colour it with saffron boile it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="30" REF="31"/>
+<HEAD>Alander de beeff</HEAD>
+<P>To mak alander de bef, tak the clodde of beef and make lesks of a span longe then tak parsley and hewe it smalle with shepes tallowe and mak pouder of pepper and canelle meled to gedure and cast ther to salt and couche one lesche with rawe yolks of egg and rolle up the leske and prik them close and put them on a broche and rost them and serue them in a good ceripe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Longe de bef</HEAD>
+<P>To mak longe de bef, tak ox tunges and scrape them and wesche them then lesk them thyn then tak dates small mynced and yolks cromyd onyons mynced smalle raissins of corran parsly, ysope, tyme sandrey a quantite of saige and a quantite of pouder marchand pouder of pepper and salt then stuff your lesks and rolle them to gedure and boile them in swet brothe till it be boiled in then mak a cerip with wyne and of the same stuf and boile it upe and colour it with saffron and put ther to a quantite of venyger and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak musy for soper</HEAD>
+<P>To mak musy for soper tak smalle chekins chopped and boile them in good brothe of beef and wyne and
+<PB N="31" REF="32"/>
+cast ther to clowes maces pynes parsly ysope and saige and put ther to pepper or granes de paris and draw a strain of yolks of eggs throughe a strener and put ther to an unce of ginger and put all to gedur in a pot with the chekins and let them boile to gedure and at the first boile sett them from the syere and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Yonge pessene</HEAD>
+<P>To mak yonge pessene tak pessen and par boille hem in water then gadar hem up and set the tone half upon the fyere with good brothe of beef and bray the remniant in a mortair withe parsley ysope and bred and draw it throughe a strener into a pot with the other pessen and boile it and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak yonge pessen ryalle</HEAD>
+<P>To mak yonge pessen ryall tak yonge pessen and parboile them then bray the half in a mortair with parsley mynt and bred and in the brayinge alay it with almond mylk and put the cony in the pot with the remnyant of the pessene and boil them all to gedur and put ther to sugur or hony and colour yt with saffron and the pot be of iiij galons put ther to xij yolks of egge rawe and in the settinge downe stirre it welle and salt it and let the pessen be rynyng and serue it with a litille sugur caste ther on.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="32" REF="33"/>
+<HEAD>To mak creme buyle</HEAD>
+<P>To mak creme buile tak cow creme and yolks of eggs drawe and well bet that it be stonding and put ther to sugur and colour it with saffron and salt it then lesk it in dyshes and plant ther in floures of borage and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>mon amy</HEAD>
+<P>To mak mon amy, tak and boile cows creme and when it is bolid set it asid and let it kele then tak cow cruddes and press out the whey, then bray them in a mortair and cast them in the potte to the creme and boile all to gedure put ther to sugur hony and may buttar colour it up with saffron and in the settynge doun put in yolks of egg, well bett and do away the streyne and let the potage be stonding then lesk it in dyshes and plant ther in floures of violettes and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Cawdelle ferry</HEAD>
+<P>To mak cawdelle ferry, tak clene yolks of egge welle betene and in the betyng do away the scome then put them in a pot with swet wyne and stirr hem
+<PB N="33" REF="34"/>
+well all to gedure and alay it with bred of payn mayne stept in swete wyne and boile it and put sugure ther to and colour it with saffron and salt it and at the first boile set it from the fyere then dres it in lesks iij or iiij in a dyshe and cast on sugur and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak cawdelle fferrens</HEAD>
+<P>To mak cawdelle fferrens, tak hennys parboiled and conys and chop them and put them in a pot with swet brothe of beef and set it to the fyere and put ther to clowes mace pynes and raissins of corrans put ther to a litille wyne and colour it with saffron, and it be to xmesse tak the yolks of xl eggs well bet and do away the streyne then tak canelle and sanders mellide with som licour and draw it through a cloth and put it into the pot and tak half a pound of pouder of guinger and put it to the egg at the setting doune and stirre it to geddure and mak thy pot rynyinge and somdele honging and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>For to mak soupes chet</HEAD>
+<P>To mak soupes chet tak almond mylk mad with good brothe and sett it on the fyere to boile put ther to clowes maces pynes raissins of corrans guinger mynced and plente of sugur.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="34" REF="35"/>
+<HEAD>Lesk lombard</HEAD>
+<P>Boile gadur of the skome and set it to the syere agayne put ther to pouder of pepper canelle and grated bred and stirre it well to gedur colour it withe faffron and sanders and in the settinge doun do ther to a litill venygar mellid with pouder of guinger and stirr it and let it be stif then gadur it up in a clothe and splat it some dele abrod and couer it with the same clothe till it be colde and lay ij or iij lesks in a dyshe and straw ther on pouder of guinger mellid with sugur and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak eles in Bruet</HEAD>
+<P>To mak eles in bruet tak eles culpond and boile them with mynced onyons parsley and saige and draw it with whit bred and wyne put ther to pouder of pepper canelle and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pyk in Braisselle</HEAD>
+<P>To mak pik in brasselle chope the pik when he is slit out and let the gebenes hong eche by othere then cast ther on salt and rost it on a gredirn and mak a cerip of the graue of the pik with sugur clowes maces pynes and alay it with chips of bred draw with wine
+<PB N="35" REF="36"/>
+pouder guingyure canelle and colour it with saffron put ther to venygar then lay the fishe in a chargiour and pour on the ceripe and serue it and in the same manner ye may mak tenches in celik.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak mortins of ffische</HEAD>
+<P>To mak mortins of syshe tak codlinge haddok whiting or thornbak and sethe it and pik out the bones and pull of the skyne then bet the fishe in a mortair with the lever of the same fysche and temper it up with almond mylk or cow creme and put it in a clene pot and let it boile and put ther to sugur and hony and alay thy potage with fleur of rise draw with milk through a strein and stirr it well and mak it stondinge then drese v or vi lesks in a dyshe and cast on pouder guingyur mellid with sugur and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak bland sorre</HEAD>
+<P>To mak bland sorre tak the mylk of almondes blanched mad with capon brothe then tak the braun of a capon and bet it in a mortair and mele the fishe and the mylk to gedur in the mortair with the pestelle and thik it with flour of rise and boile it put ther to sugur or hony and mak it stondinge then lesk it in dyshes and diaper it with turnsole and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="36" REF="37"/>
+<HEAD>Hennys enforced</HEAD>
+<P>To mak hennes enforced tak hennes or yonge pul∣letts and blow them at the brest then tak stuffur that is mad with pork boiled and grond and alay it with herd yolks of egge put ther to pounded guinger raissins of corrans and salt it and fors the hennes between the skyne and the body and rost him and en∣dore them yallowe or grene and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak two capons of one</HEAD>
+<P>To mak two capons of one tak a capon and scald hym clene and keme of the skyn by the bak then fley off the skyn but kepe it hole then grind figges and freshe pork with pouder of guinger and canelle and fers the skyne and sowe it faste and rost it sokingly and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>The capon body</HEAD>
+<P>Also tak the body of the capon and put it on a broche by his fellowe and rost hym and stanche it with grace and when it is rost endore it with yolks of eggs and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="37" REF="38"/>
+<HEAD>For to counterfet a kidde</HEAD>
+<P>To counterfet a kidde take a kid and fley of the skyn and fille it full of swet mete as ye did the capon skyn and trusse hym on a broche in the maner of a kidde then rost hym and endore hym with yolk of egge and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To rost eggs in lent</HEAD>
+<P>To rost eggs in lent tak and blowe out the mete at the end of the egg and washe the shelles with warme water than tak thik mylk of almonds and set it to the fyere till it be at the boiling then put it in a canvas and let the water run out and kep all that hangethe in the clothe and gadur it to gedure in a dyshe put it to whyt sugure and colour the tone half with saffron and put ther in a litill newe berme and pouderd guinger and canelle and put som of the whit in the eggshell and in the mydl put in of the yallow to be the yolk and fill it up with whyt then set it in the fyere to rost and to xl eggs tak a lb of almond and a quarter gyngyure and canelle.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>For to mak a somer sewe</HEAD>
+<P>To mak a somer sewe tak almond mylk and temper it with freche brothe then tak yonge pork and sethe
+<PB N="38" REF="39"/>
+it and hewe it and grind it and temper it with the mylk and sett it on the fyere then tak flour of rise almond mylk saffron pouder guinger and cannelle and draw them throughe a strener and put it in the pot and stirr it for clodding to gedur then sett it on the fyere and cast ther to sugur and put in dyshes as many lesks as ye wille and strew it on a dishe and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>For to mak a sewe without fyere</HEAD>
+<P>To mak a sewe without fyere tak iiij b̄ of almonds and lay them in water one nyght then blanche them and grind them in a mortair and draw them up to the same mylk through a strener then put it in a clene bolle and part it in iii vesseles and put in one vessell sugur and quybibes and clowes maces and pouder of canelle and let one part be whyt anothere part yallowe with saffron and mak the third part grene withe the juce of mynte and parsley and lay a lesk of ech on in a dishe and let your mylk be temperd with whyte wyne and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak braun ryall in Lent</HEAD>
+<P>To make braun ryall in Lent tak sownds of stok fishe dry and do them in water iij daies and chaunge
+<PB N="39" REF="40"/>
+the watter euerie daie tak theme up and lay them upon a bord and scrape them clene with the bak of your knyf and weshe them and sethe them in water then tak them up and sethe them in freshe fishe brothe and put to eles for to amend the brose then tak blanched almondes grond and draw them with the sam brothe bete and ye wille ye may mak ther of almaner of braun as ye did of fleshe also tak eggs, and breke a hole in the gret ende and put out the mete and washe them and dry them and set them in salt upryght and luk it be sessoned then put in som of the whit braun and som of the same braun cold and colour it with saffron and put it in pepyns as gret as an egge and fill them up/ and when they be cold pull of the shelle and set them in salt and pricke it with clowes iiij or viij aboue and fill up the crown with blanche pouder and serue it furthe insted of eggs/ and in the sam manner do with pouder of guinger and chaunge the colour and cutt it in gret peeces and serue it furthe as ye do braun.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Breteyn in Lent</HEAD>
+<P>To mak Breteyne in Lent tak braun that is mad in lent put ther to poudur of pepper pouder of clowes and cannelle a good dele of sanders then tak blanched almondes diced in a parte of wyne and a part of vinygar and put it to gedur in a pot and when it is
+<PB N="40" REF="41"/>
+boiled put it into another vesselle and when it is cold leshe it and serue it as ye did braun ryalle.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak Breteyn in fleshe tyme</HEAD>
+<P>To mak Bretyn in fleshe tym tak calves feet skald them and sethe them in wyne and a part of swet brothe till they be tender then tak them upe and lay them upon a bord and pik out the bones and chope them all to gedure and tempere them up with the sam brothe and put them into the pot and dice the synuks then tak blanched almonde pouder of pepper and pouder of clowes a gret dele and meld alitill pouder of cannelle and sanders and saffron and set them on the fyere and when it comethe put ther to yolks of eggs diced smalle pouder of guinger venyegar and salt and put it in a small vessell and when it is cold leshe it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak sturgion for sopers</HEAD>
+<P>To mak sturgion for sopers tak calves feet the hert and the lung soden tender then hewe them and tem∣per them up with the same brothe and ye may grond them and strawe on foilis of parsly poudre of pepper guinger clowes and salt and boile it and lay it on a clene bord and kepe it well to gedure that it run not
+<PB N="41" REF="42"/>
+abrod and when it is cold cutt it in iij lesks then put venygar in a bolle and mynte onyons parsly and pouder of guinger and lay the leskes ther in and serue iij or iiij in a dyshe and som of the sauce poured on.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Cold leshe viand</HEAD>
+<P>To mak cold lesche vyand, tak quynces boiled paire them and pik out the core and cutt them in small pesses and put them in an erthen pot put ther to whyt grec and alay them up with hony claryfied and with raw yolks of egges and a littil almonde mylk and dates pouder of saffron and lesche it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak cold Bruet for Rabettes</HEAD>
+<P>To mak cold bruet for rabettes tak and grind raissines or dates and drawe them up with ossay put ther in creme of almonds and pouder of cannelle a good quantite drawen with swet wyne and with pouder lombard pouder of guinger venygar and sugur then sett it on the fyere and when it is at boilinge tak it doun and put it in a bole then tak a rabet and boile it in good brothe then tak hym up and unlace hym by the bak from the bones on bothe sides and lay them in the sewe and when ye serue them furthe chop them in peces and raise the wings and leggs of chekkins and kerue them hole and chop the bodis and
+<PB N="42" REF="43"/>
+put them in the sewe and serue them furthe in the manner of sewe ryalle or egre douce</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Crystalle gilly</HEAD>
+<P>To mak cristalle gilly tak whyt wyne that will hold hir colour and boil the fishe ther in and let it stand and serve it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A gilly of fleshe</HEAD>
+<P>To mak a gilly of fleshe take conys and fley them and skald pegions chop them and fley of the skyne skald chekins and chope kiddes and put all to gedur and boile it in red wyne then tak it upe and lay it in a clene clothe dry the peces of the kid pigions and conys and couche them in dishe and chope chekkins and put ther to then set the chekkins in a cold place where it may stand stille then set the brothe to the fyere agayne and luk it be well strened that no fat abid ther on then tak skalded caluys feet and lay them in the same brothe till they be tender and luk the brothe be clene scomed sessen it up with salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Creme of Almonds</HEAD>
+<P>To mak creme of almonds tak blanched almondes and grind them up and temper them up akurd thik
+<PB N="43" REF="44" MS="y"/>
+mylk with faire water drawe it into the pot and sett it on the fyere and stirre it welle when it begynnethe to rise/ and ye have to myche put ther to a dishefulle of venygar. if ther be alitille putt ther in the lesse hille the pot and let it stand awhile then tak a clene cloth and hold it abrod betweene iiij men strait cast the creme there in and rube it undirnethe the clothe with a ladille toward and froward with the egge of the ladille to draw out the watter then gadur it to gedur unto the myddle of the clothe then bind the corners to gedur and hong it upon a pyne and let the water run out then put it in a bolle and temper it up withe wyne and bruse it with a saucer as soft as ye wille and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To make hagges of Almayne</HEAD>
+<P>To mak an hagges of Almayne tak and draw eggs through a strener and parboile parcely in fat brothe then hew it and hew yolks of eggs to gedure put ther to pouder of guinger sugur and salt. and put mary in a strene and let it honge in the pot boilling and par∣boille it and tak it upe and let it kele then cutt it smalle and tak egg drawen throughe a strener and put them into a pan and let the pan be moist of grece let the batter ryn abrod into a foile then couche ther in iij hard yolks of eggs and mary and parsly and turn the iiij sides to gedur that they close to gedur aboue
+<PB N="44" REF="45"/>
+that they lie square then tak of the same bater and whit of egge that it hold stanche and close it and serue yt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak quystis</HEAD>
+<P>To mak quystis tak a pece of beef or of moton and wyne and water and boile it and scem it clene then stop the quistes within with whole peppur and cast them in a pot and cover it and let it stewe welle put ther to poudur of guinger watire and salt and cast ther to and put them in faire disches one or ij in a dische for a maner of potage and when they be serued furthe tak alitill brothe and put in the disches among the quystis and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak votose</HEAD>
+<P>To mak votose tak gobettes of mary and dates cutt gret sugur and poudur of guinger saffron and salt and mak afoile as ye did be for and do it out of the pot and mak another then tak the for said stuf and couche ther in almost as brod as the foile and wet the bredes of the foille aboue and closse it and back it essely and when it is bak cutt it in peces eury pece ij enche square.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="45" REF="46"/>
+<HEAD>To mak rostand</HEAD>
+<P>To mak rostand tak and mak a stiff bater of egg and pured floure sugur a goodelle and alitill yest of new ale and set it by the fier or els in a pot with boillinge watur that it may take alitile heet when it riseth swinge it to gedur and let it fall agayne and let the ovene be heet and clene swept and put the floure in an ovone to bak that it ryse as frenche bred then tak it out and cut away the cruste about the brod of a noble and mak a hole and raise it all about under the cruste and longe and ouer thwart as thyk as thou may with a knyf and so doun to the botom hole the crust all about set on the crust aboue and set them in the ovene till they be somdele dried and serue it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak samartard</HEAD>
+<P>To mak samartard tak wetted cruddes er they bee pressed and put them in a clothe and grinde them well to pured flour and temper hem with eggs and cowe creme and mak ther of a good batere that it be rynynge then tak whit grece in a pan and let it be hete and tak out the batter with a saucer and let it ryn into the grece and draw your hand bakward that it may ryn abrod then fry it welle and whit and somwhat craking and serue it furthe in dishes with sugur ther on.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="46" REF="47"/>
+<HEAD>long ffritturs</HEAD>
+<P>To mak longe fritturs tak som of the same batter and let none other ther in for it will be the more stiff then lay it on a clene bord that is no brodder than the hond and tak the bone of a ribe of a beste and wet it in grece that the batter cleve not ther on then strik of the bater with a bone in to the pan that it may fall in smalle peces euye fritur a hand full longe serue them hot and strawe ther on sugur and ye may grind thes in the sam manner and ye will tak pork sodden tender and grind therin and mak pilottes as gret as an egge that is called fritture lombard and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak payn pardieu</HEAD>
+<P>To mak payn pardieu tak paynmayne or freshe bred and paire away the cruste cutt them in schyues and fry them alitill in clarified butter then tak yolks of eggs drawe throughe a strene as hot as ye may and lay the bred ther in and turn it therin that they be coueryd in batter and serue it and straw on sugur enowghe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak pestelles of pork endored</HEAD>
+<P>To mak pestelles of pork, endored tak and broche pestellis of pork and put of the skyn and rost it then
+<PB N="47" REF="48"/>
+tak poudur and baist it and yolk of egge draw throughe a strener and when they be rosted dry it at the greuyng up and endor hem with yolks of eggs and serue them furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak hattes in flesche tyme</HEAD>
+<P>To mak hattes in flesche tyme mak a paiste of pured flour, knodene with yolks of eggs and mak a stuf of vele or pork sodene tender and ground with yolks of eggs put ther to mary diced and dates mynced smalle and raissins of corrans with sugur saffron and salt and pouder mellid to gedur in paiste and wound foilles of the brod of a saucere as thyn as ye may dryf them and dryf them that the bredes may cuver to the middes of the foile then turn them to gedur that the bredes of the inor sid met all about and lesse the bred and turn upward without in the manner of an hatte and close welle the eggs that they hold full ther in and luk the stuf haue a good batter made with yolks of eggs and flour of whet the open sid that is downward luk ther in that the stuf be clossed and so set it in hot grece up right and when the battur is fried lay them doun and serve them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak hattes in lent</HEAD>
+<P>To mak hattes in lent mak a paist of pured flour knoddene with mylk of almondes then tak saffron eles
+<PB N="48" REF="49" MS="y"/>
+base or molet and the leuer of the fishe sodden and grond put them to alitille fritture pouder of saffron and salt and mak the bater of pured floure and almond mylk and do it as ye did be for.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak sauce madame</HEAD>
+<P>To mak sauce madame tak the tharmes of a gose and slit them and shave them clene then tak the gossern the wings the skyn and the soule of the gose and put them all in a pot with mynced onyons mynced wardens and grapes rostid then rost hir and smyt hir in peces and lay here in a chargiour and put the farser in a pot put ther to wyn and sesson it up with pouder and salt and venygar and thou wilt thou may tak yolks of egges sodene herd and cromyd smalle and put ther to and let it be salt and pour it on the peces and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak sauce camelyn for quaylle</HEAD>
+<P>To mak sauce camelyne for quaile, tak whyt bred and drawe it in the sauce in the manner of guinger sauce with venyger put ther to pouder of guinger canelle and pouder-lombard a goodelle and ye may draw alitille mustard ther with and sesson it up with mustard that it be douce salt it and colour it with saffron and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="49" REF="50"/>
+<HEAD>To mak chandron for swan</HEAD>
+<P>To mak chandron for swannes, tak the hert of a swan and the gossern and the tharmes and slit them and shave them and sethe them, do ther to the feet and wings mak them smalle and put them in a pot and boile it then drawe a liour of bred and red wine and alay it up then sesson it with pouder of pepper guinger and salt and let it haue a good colour of blod then tak out the smale bones of the feet and let the skyn be hole and lay a foot in a disshe and a wing there on and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak a freshe lamprey bake</HEAD>
+<P>To bak a freche lampry tak and put a quyk lampry in a pot put ther to a porcyon of red wyne then stop the pot close that he lep not out and when he is dyinge tak him out and put hym in skaldinge water then tak hym in your handes with alyn clothe and a handfull of hay in the tother hand and strik hym so that the skyn go away and saue him hole then weshe hym and cut hym out whart a straw brod from the naville so that the stringe be lowse, then slitt hym a litill at the throt and tak out the string and kep the blode in a vesselle and it be a female thrust in your hand from the naville upwards so that the spawn com out ther as ye tak out
+<PB N="50" REF="51"/>
+the stringe and ye will boile it salt it a littill in the same place within that ye may cum and lowse the bone with a prik from the fische and brek it a litill from the hed and slit hym a litill from the taille then put the prik betwene the bone and the fische and drawe the bone from the taille as esly as ye may that it cum out all hole from the taile then wind the bone about thy finger and drawe it out softly for breking and so ye shall tak it out hole then chope the lampry oū twhart the bak eury pece iij fingers brode and let them hold to gedure and toile them welle in the blod, and ye will mak your galentyn of crust of whit bred cutt it in schyves and toiste it on a gredirne that it be somdelle broun and tak a quart of good red wyne for the bakinge of the lampry and put the bred ther in and drawe it and mak it not chargaunt and ye will ye may grind a fewe of raissins and mak it up ther with and let the fyft part be venygar put ther to pouder of cannelle a gretdele, pouder galingalle pouder lombard pouder of guinger sugur saffron and salt and let it be be tweene braun and yallowe and mak thy colour of sanders then mak a large coffyn of pured floure and put thy lampry ther in and put in the galentyn that it stand as highe as the lampery and let it haue a good lide and wet the bredes round about and lay it in the coffyn and close it round about to the pen for ye must haue a pen betweene the lidd and the coffyne to blow the pen that the lid may rise welle and luk the ovene be hoot and set it in to it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="51" REF="52"/>
+<HEAD>To mak souppes in galentyne</HEAD>
+<P>To mak souppes in galentyne. When your lampry is away tak out your galentyn in a vesselle put ther to wyne and meld it to gedur tille it be smothe and put ther to sugur and it be ned tak mace poudre and meld them togedur so that it be somewhat thyn and put it in an erthen pot and set it on the fyere tille it be at the boilling and stirre it welle then tak whyt bred cutt in thyne schyves as browse and tost them a litille and cast them in the wyne and put of the same galentyn into the coffyn so that it may wet the bottome and couch ther to some of the bred and put in mor galentyn and the remynant of the bred and the remynant of the galentyn and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak wellid peper for rost vele</HEAD>
+<P>To mak wellid peper for rost vele tak and cutt bred in schyves and toist it upon a gridirne that it be som∣dele broun and ye may grat it and temper it with wyne or ale and drawe it throughe a strener that it be somdele thik put ther to pouder and saffron and boile it and serue it hot but let it haue a taist of venygar.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="52" REF="53"/>
+<HEAD>To mak tartes of fflesche</HEAD>
+<P>To mak tartes of fleshe tak pork and pik out the bones and grind it smale then boile figges in the freche brothe of flesche of wyne or of ale hewe it and grind it with egge then paire tender ches and grind ther with and let the most part stand by flesche then tak pynes and raissins and fry them a litille in grece and put it to the other with hole clowes maces poudur of pepper and cannele a goodele of guinger saffron sugur or hony clarified then salt it and toile them welle to gedur while the grece is hot, and mak gret coffynes with lowe liddes and ye may strawe ther to clowes maces and mynced dates whedur ye wille mold them with the stuf or strawe them aboue, and lay on the liddes wild werks and endor them with mylk of almondes and saffron and endore them as ye bak them and serue them furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>For to mak Tartolettes</HEAD>
+<P>To mak tartalettes, mak smalle coffins in the same manner as ye did the tother and mak your stuf of boylled figges ground and good powdure and spices and put ther to other fische or fleshe and sesson it up in the same manner and fille the coffins ther with and ye may fry them or bak them whedure ye wille and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="53" REF="54"/>
+<HEAD>Porpas sturgion or turbot</HEAD>
+<P>To bak porpas sturgion or turbot tak poudred por∣pas and parboile it welle and stripe of the skyn and tak pouder of pepper and canelle. and it be nēd meld it well with the fische then close it up in the foile or paiste and bak it, and ye may tak venyson in the sam manner.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Flesh pies of capon or of fessand</HEAD>
+<P>To mak pyes of flesche of capon or of fessand tak good beef pork vele and venison hew it smalle do ther to pork of peper clowes maces guinger and mynced dates and raissins of corans mete it with malmsey or vergius and cast in saffron and salt and luk it be welle sessoned then couch it in a large coffyne and couch in the capon or fessand hole and if ye wille smyt them in peces and colour them with saffron and put in it other wild foule if ye wille and plant ther in hard yolks of egges and strawe on clowes maces dates mynced raissins of corrans quybibes then close them up and bak them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak custad lombard</HEAD>
+<P>To mak custad lombard mak a large coffyn then tak dates from the stones tak gobettes of mary and
+<PB N="54" REF="55" MS="y"/>
+smalle birdes and parboile them in salt brothe and couche ther in then tak clowes mace and raisins of corans and pynes fryed and strawe ther on and sett them in the oven to bak and luk ye haue a coup of cowes creme yolks of eggs good pouderes saffron sanderes and salt then fill the coffins ther with, and on fishe daies boille wardens or other peres paire them and hole them at the crown then fill them full of blaunche poudur and torn them in blaunche poudur and skoche them all about that the pouder may abid ther in then set the stalks upryght and ye may mak your coup of creme of almondes and shak up your custad as ye did of flesche and when they be bak gilt the stalkes of the peres and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak custad opyne</HEAD>
+<P>To mak custad opyne, tak and chope vele in smale peces and put it into a pot and let it boile then tak parsly saige ysope sandrey and hew theme and cast ther to the flesche, when it boilithe tak pouder of peppur clowes maces saffron and salt and boile them with a gooddele of wyne and when the flesche is boilid tak it up and brek eggs in a strener into the brothe that it be stif and make coffins and close in thy flesche iij or iiij in a coffyne then tak pynes and dates cut and cast ther to pouder of guinger and salt it and set the coffyns in an oven till they be stif and fille them up and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="55" REF="56"/>
+<HEAD>Chewettes of beef.</HEAD>
+<P>To mak chewettes of beef tak beef and cutt it smalle and do ther to pouder of guinger clowes and other good poudurs grapes vergius saffron and salt and toile them welle to gedure put chekins chopped in coffins and yolks of eggs brok smale and bak them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bak chekyns</HEAD>
+<P>To bak chekyns tak chekins clene skaldid and truse them as short as ye may colour them with saffron and salt them then couche them in coffins and take salt lard of pork and dice it smale and melleit with vergious saffron and good poudurs and couche them in coffins and close them and bak them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chewettes ryalle</HEAD>
+<P>To mak chewettes rialle cutt mary in small peces and couche it in smale coffins with smale birdes par∣boiled or rabettes and dates put ther to sugur salt vergious and saffron and luk it stond welle by mary put ther to pouder of guinger and other good pouders then close them bak them and serue them</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="56" REF="57"/>
+<HEAD>To mak chewettes on fishe daies</HEAD>
+<P>To mak chewettes on fische dais tak molet freshe samon or bace rawe clef them frome the bone and chope them in peces and couche them in coffins put eles ther to and othere metes as ye did be for and mak a ceripe of thik almond mylk all saue the juce of eggs then set the coffins in the ovon and fille them fulle of good ceripe and ye may fry the fische and serue it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak daryolites</HEAD>
+<P>To mak dariolites tak mynced fisshe and almond mylk mad with wyne and mynced bred sanders saffron raissins of corans hony and pouder and mele all to gedur so that it be thik and put it in the coffyn and bak it in the manner of flawnes and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak prymerolle</HEAD>
+<P>To mak prymerolle in pasthe tak blanched almondes and flour of prymerose grind it and temper it with swet wyne and good brothe drawinge into the thik mylk put it into a pot with sugur salt and saffron that it haue colour lik prymerolle and boile it that it be
+<PB N="57" REF="58"/>
+stondinge and alay it with flour of rise and serue it as a standinge potage and strawe ther on flour of prym∣erolle aboue and ye may diaper it with rape rialle in dressinge of some other sewe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A posthot</HEAD>
+<P>To mak a posthot, put cow mylk in a pan and set it on the syer and when it is at boiling do ther in other wyne or ale and no salt then tak it from the fyer and kele it and assone as the curddes gaddure take up the curddes with a saucer or a ladille and serue it and straw ther on pouder of ginger and ye may tak the sam curdde and lay it on the clothe and presse out the wyne and drawe it through a strener with swet wyne put ther to pouder of guinger and sugur and mele it to gedure and serue it as a stonding sewe for sopers and straw ther on anise in comfettes.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak Breney</HEAD>
+<P>To mak Breney, put wyne in a pot and clarified hony saunders canelle peper clowes maces pynes dates mynced raissins of corans put ther to vinegar and sett it on the fyer. and let it boile then sethe fegges in wyne grind them and draw them through a strener and cast ther to and let them boile to gedur then tak
+<PB N="58" REF="59"/>
+flour saffron sugur and faire water and mak ther of faire cakes and let them be thyne then cut them bigge lassengis wise and fry them in oile a stonding sewe for sopers and strawe ther on annes in comfets and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak pies of paris</HEAD>
+<P>To mak pyes of paris tak and smyt fair buttes of pork and buttes of vele and put it to gedure in a pot with freshe brothe and put ther to a quantite of wyne and boile it tille it be enoughe then put it in to a treene vesselle and put ther to raw yolks of eggs pouder of guinger sugur salt and mynced dates and raissins of corans and mak a good thyn paiste and mak coffyns and put it ther in and bak it welle and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak lossenges fried in lent</HEAD>
+<P>To mak lossenges fried in lent make a paiste of pured flour knodden with faire water sugur saffron and salt then mak a thyn foile in lossengis the bred of your hond or lese and fry them in oile and serue them iij or iiij in a dysshe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>for to mak hayrblad opyn</HEAD>
+<P>To mak hairblad opyne tak Buttes of pork and smyt them to peces boille them in faire water till they
+<PB N="59" REF="60"/>
+be enough do it on a bord and put away the skyne and the bones and hewe it small and put it in a fair bolle then tak parsly ysope and saige and hewe it smale and put it in a bolle do ther to fat of the brothe and boile them and put ther to the fleshe mynced dates clowes mace raissins of corans saffron salt pouder of guinger yolks of eggs and draw them throughe a strener and labour it to gedure welle and mak round coffins and hardyn them in an oven then tak them up and fill them with a dysshe with the stuf and set them in the ovene all opyne and let them bak and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak lesche freez</HEAD>
+<P>To mak lesche freey tak and cutt tenches in sshevers and put it in hot skaldinge watur and when it rynnyth and yeldithe to gedure ye may do away the watir clene and and put it to clarified buttur hot a gret dele and hony clarified and toile them to gedur with yolks of eggs then tak brod coffyns with lowe lidds as thyn as ye may dryf them and fill them with the stuf and bak them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak Bakmetes on fisshe days</HEAD>
+<P>To mak bak metes on fysshe days tak lamprons and strip them with a cloth till they be clene and boile
+<PB N="60" REF="61"/>
+them in watur salt and venegar and labur hem welle in pouder and salt and lay them in coffins then tak a thyk mylk of almonds and draw it up with faire watir or with the brothe of fisshe put ther to pouder sugur and foilis of parsley venegar and salt and set them in the ovene and fill them up ther with and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To slay a swan and almainner of foule and to dight them.</HEAD>
+<P>To sley a swan and allmaner of fowle and to dight them, tak a swan and cutt him in the roof of the mouthe toward the brayne of the hed and lett hym bled to dethe then kep the blod to colour the chau∣dron and knyt the nek and let him dye then skald hym drawe hym rost him and serue hym with chaudron.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A fessand roste</HEAD>
+<P>A fessand let him blod in the mouth to the dethe then pull him dry and cut of the hed and the nek and the leggs from the body par boile hym and lard him then put the kneys in the vent and rost hym and raise his leggs and his wings as it were a henne and no sauce but salt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="61" REF="62" MS="y"/>
+<HEAD>A pertuche rost</HEAD>
+<P>A pertuche tak a fedir and put it in to his hed and let hym dye and pulle hym dry and drawe hym and rost hym as ye wold raise the legges and wingys of an henne and mynce hym sauce hym with wyne pouder of guinger and salt and warme it on the fyere and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Quayle rost</HEAD>
+<P>A quayle tak and sley hym and rost hym as a pertuche and raise his legges and his wyngs as a hene and no sauce but salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A crayne rost</HEAD>
+<P>A crayne let him bled as a swann and draw hym at the vent then fold up his leggs and cut off his wings by the joint next to the body then wind the nek about the broche and put the bill in the brest against the wings and leggs as he gothe, and ye sauce hym tak and anynte hym and sauce hym with pouder of guinger mustard venygar and salt and serue it, also ye may sauce it with sauce pelito.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="62" REF="63"/>
+<HEAD>Heron rost</HEAD>
+<P>A heron let hym bled in the mouthe as a crayne skald hym and draw hym at the vent and cut away the bone of the nek and let the hed be on stille with the skyne of the nek and folde the nek about the broche and put the hed in at the gollet as a crayne and brek away the bone from the kne to the foot and let the skyn be hole and cut the wings at the joint next the body then put hym on a broche and bynde the leggs to the spit with the skyn of the leggs and rost hym and raise his leggs and his wings as a crayne and sauce him with vinegar mustard poudered guinger and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bittur Rost</HEAD>
+<P>A Bittur take and sley him in the mouthe as a heron drawe him as a henne and fold up his leggs as a crayne and lett the wings be on then tak a waye the bone of the nek as ye did a heron and put the hed into the gullet or in to the shulder then raise hym and raise his leggs and his wyngs as a herone and no sauce but salt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="63" REF="64"/>
+<HEAD>An Egret rost</HEAD>
+<P>An Egret tak and brek his nek and cutt of the roof of his mouthe and scald him and draw him as a henne then cutt of his wings by the body and fold up his legs as a bittur and rost hym and raise his leggs and his wings as a heron and no sauce but salt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Curlew rost</HEAD>
+<P>A Curlew tak and sley him in the mouthe as a fessand pull hym dry cutt of his wings and draw hym as a henne and fold up his feet like an egret and let his hed and his nek be one and tak away the nether lipe and the throt holle and put his bille in his shuldurs and rost hym and raise his leggs and his wings as a henne and no sauce but salt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Brew rost</HEAD>
+<P>A Brewe sley him in the mouthe as a curlewe skald hym and drawe hym as an henne then brek his leggs at the kne and tak away the bone from the kne to the foot as a heron cut of the nek by the bodye then rost hym and raise his winges and his legges as a heron and no sauce but salt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="64" REF="65"/>
+<HEAD>Cony rost</HEAD>
+<P>A conye tak and drawe hym and parboile hym rost hym and lard hym then raise his leggs and hys winges and sauce hym with venegar and pouder of guinger and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Rabettes rost</HEAD>
+<P>To rost rabettes tak and flay them drawe them and rost them and let their heddes be on first parboile them as a cony or ye rost them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Sarcelle rost</HEAD>
+<P>To rost a sarcelle brek his nek and pulle hym dry and drawe hym as a chekyn cutt of his feet his wings and his nek and rost him and raise his leggs and his wings as a heron and no sauce but salt, and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Plouer roste</HEAD>
+<P>To rost a plouer tak and brek his skull and drawe hym as a chekyne and cutt of his legges and his wings by the body and rost hym and raise his legges and his wings as a henne and no sauce but salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="65" REF="66"/>
+<HEAD>Snyt rost</HEAD>
+<P>To rost a snytte tak and slay hym as a plouer and pull him dry and let his nek be hole saue the wings and let the hed be on and put the hed in the shulder and fold up his legges as ye did a crayne and cut of his winges then rost hym and raise his winges and his leggs and shulders as a plouer and no sauce but salt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Wodcok rost</HEAD>
+<P>To rost a wodcok tak and sley him as a snyet and pulle hym dry or brek his bak but kep his skull hole and drawe hym as a snyt and put his bille through bothe hys sides then rost hym and raise his leggs and his wings as a hen and no sauce but salt.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Kyd rost</HEAD>
+<P>To rost a kyd tak and slit of the skyn at the throt and seche for the vanys on bothe sides the gorge and cut them and slit them and put there in bothe the forelegs and the hinder leggs bothe sides eliche and prik them and parboile hem and rost them and lard them and serue them with sauce guinger.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="66" REF="67"/>
+<HEAD>Venyson rost</HEAD>
+<P>To rost venison tak feletes of venyson bound and cutt away the skyne and parboile it and let it be throughe stiff then lard it with salt and put it on a smale broche and rost it and if it be ned leche it abrod in leskes and lay them in a dysshe and strow on pouder of guinger and salt, and ye may do with buttes of venyson in the same manner.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>The sid of highe grece</HEAD>
+<P>The sid of high grece tak and wesche it and do away the feletes put them on a broche and stoche them out whart and crose wyse in the manner of lesenges of the flesshe sid rost them then tak red wyne pouder of pepper and salt and boille it till it be enoughe and set a plater under to kep that fallithe and baist it ther with against the fyere then tak it of and smyt it as ye list and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chekyns endort</HEAD>
+<P>To mak chekyns endort tak chekyns and skald them and tak out the brest bone and saue the skyn hole then rost them till they be enoughe and endore them with yolkes of eggs and when the endoringe is stiff let them rost no more also ye may rost kidde and endore them in the same manner.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="67" REF="68"/>
+<HEAD>Feletes of pork</HEAD>
+<P>To dight felettes of pork tak and rost felettes of pork and endor them with the same bater ye did the chekins and rost them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Capon or goos roste</HEAD>
+<P>To rost capon or gose tak and drawe his leuer and his guttes at the vent and his grece at the gorge and tak the leef of grece parsly ysope rosmarye and ij lengs of saige and put to the grece and hew it smale and hew yolks of eggs cromed raissins of corans good poudurs saffron and salt melled to gedure and fers the capon there withe and broche hym and let hym be stanche at the vent and at the gorge that the stuffur go not out and rost hym long with a soking fyere and kep the grece that fallithe to baist hym and kepe hym moist till ye serue hym and sauce hym with wyne and guingere as capons be.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Apetito</HEAD>
+<P>To mak apetito tak the garbage of yonge gees heddes nekes wings feet gessern hert and the lever and boille them welle then lay them on a bord and cut the wings the feet and the gesserns the hert the leuer and the lungs and fry them in fair grece then tak pouder of pepper salt and yolks of eggs draw throughe a
+<PB N="68" REF="69"/>
+strener and put them into the frying pan when it is hardenyd turn it and fry it not to myche but that it may hold ethe to gedure and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To fasse capon or goose</HEAD>
+<P>To fasse goos or capon tak parsly saige and isope suet and parboile it in freche brothe then tak it up and put ther to herd yolks of eggs hewene then tak grapes mynced onyons and pouder of ginger canelle peppur and salt and fers the goos or capon with it and rost them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A pigge rost</HEAD>
+<P>To mak a pigge harsed tak freche pork sodene tender and do away the skyne and the bones then hew the flesshe and half a dossen figges there with and grind them with yolks of eggs and put ther to raissins poudur sugur saffron and salt fat pork and grated bred and cows creme and fars the pige and sow it and rost it and serue it with sauce guinger.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Brest of moton in sauce</HEAD>
+<P>To mak Brestis of moton in sauce tak brestes of moton rost them and chope them then chauf vergious on the fiere put ther to pouder venyger and salt and cast on thy moton and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="69" REF="70"/>
+<HEAD>A stewed capon</HEAD>
+<P>To stew a capon tak parsly saige ysope rosmary and brek them between your handes and stop the capon ther with and colour it with saffron and couch it in an erthen pot and lay splentes under nethe and about the sides of the pot and straw erbes about the capon and put ther to a quart of wyn and non other licour then couer the pot close that no brothe passe out then set it on a charcole fyere and stew it softly and when it is enoughe set it on a wispe of strawe that it touche not the ground for brekinge then tak out the capon with a prik and luk yf it be enoughe or els stewe it better and mak a ceripe of good wyne mynced dates and canelle and draw it with the same wyne put ther to raissins of corands sugur saffron and salt and guinger and wyn then lay the capon in a dysshe and put the fat of the sew to the ceripe and poure it on the capon and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Trout boiled</HEAD>
+<P>To boill a trout tak and nawpe hym in the hed and mak a sauce of faire water and salt and parsly and when it begynnythe to boile strene it then drawe hym at the belly and ye will haue hym rond cutt hym in the backe in ij or iij places and drawe hym iij stoches by the hed then sethe hym and serue hym furthe with
+<PB N="70" REF="71"/>
+vert sauce cold and foilis of parsly, or els sethe the pouche as ye do of a pik and mynce it with the grave and do that to pouder of guinger and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Crabe or lopster</HEAD>
+<P>To dight crabe or lopster tak crabe or lopster and stop hym at the vent with one of the litille clees and sethe hym in clene water or els stop hym in the same manner and cast hym in an ovene and let hym bak and serue it with venygar.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Breme in Sauce</HEAD>
+<P>To dight a breme in sauce tak and stale hym and drawe hym at the belly and prik hym at the chyne and broylle him on a gredyrne till he be enoughe then tak wyne boiled and cast it to pouder of guinger and vergius then lay the breme in a dysshe and poure on the ceripe and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak a breme in Brasse</HEAD>
+<P>To dight a breme in brasse ye shall dight hym in the same manner then tak pouder of canelle and draw theme throughe a strener with red wyn put ther to hole clowes maces pynes and sanders then set it on the fyere and when yt is boilling put ther to pouder of
+<PB N="71" REF="72"/>
+guinger venygar or vergius and let it be chargaut of pouders and lay the breme on a dysshe and pour on the brase and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A tenche in brasse</HEAD>
+<P>To dight a tenche in brasse splat hym by the bak through the hed let the belly be hole do away the draught and stoche hym a litille outwhart on the sische sid and lay them on a gredirn till they be enoughe then lay it in a disshe the fische sid upward and tak the same brase ye tok to the breme and pour ther on and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To make a sole in brase</HEAD>
+<P>To mak a sole in brasse tak and fley soiles and draw hym and rost hym and lay hym in a dysshe and mak the same bras ye did to the breme saue clowes and maces and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To boylle sturgion</HEAD>
+<P>To boile sturgion tak and cutt of the fynnys from the taile to the hed and chyne hym as a samon and cutt his sides in faire peces and mak a sauce of water and salt and when it boileth scom it clene and cast in the peces and let them boile and serve them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="72" REF="73"/>
+<HEAD>Haddok in covy</HEAD>
+<P>To dight haddok in covy drawe haddok at the belly and he be large cut of the hed and rost the body on a gredirne till he be enoughe then stewe bred in the brothe of samon or other good fisshe draw liere with the brothe hew parsly put it to red wyn hole clowes maces pouder of pepper and a gooddele of canelle then tak the lever and the pouche of an haddok and hew it and put it in a possuet and raissins of corans saffron sanders and salt and boile it and sesson it with pouder and virgus put away the skyn of the haddok and lay it in a chargiour and put the covy aboue and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To dight codlinge or haddock</HEAD>
+<P>To dight codlinge hak or haddok draw them at the belly and cut them outwhart in rond peces and the haddok be large cut of the hed and mak a large taile and mak the sauce of water and salt and when it boilethe scome it clene and cast in the fische and the lever and parsly and let it ly in the sauce till ye serue it hot and the leuer there with.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bace molet or Breme</HEAD>
+<P>To dight bace molet or breme drawe them at the belly and skale them clene and wesche them and mak
+<PB N="73" REF="74"/>
+ye sauce of water and salt and when it boilithe scom it clene and scoche them outwhat the sides and cast them in at the boiling put ther to parsly and saige and serue it. the bace and the molet with guinger.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Congur. turbot or halibut</HEAD>
+<P>To dight congur. turbot or halibut scald your congur but be ware of brekyng then clef the congur hed and cutt the congur a litille befor the naville and lowse the got and tak it out at the throt and the leuer and the gutte and cut it in rond peces and let it be clene shaven that the skyne be not away.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Turbot</HEAD>
+<P>and draw the turbot by the gille out of the hed and the body out whart</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Halibut</HEAD>
+<P>and chyne a halibut and sethe hym with water and salt and when it boilithe then skeme it and when the congur is enoughe tak it up with a strene and lay it in a vesselle and when the turbot and halibut is enoughe pour out the brothe and put water ther to and tak up the fische and lay it in water and salt and serue it ij or iij peces
+<PB N="74" REF="75"/>
+of congur in a disshe and straw ther on parsly and serue it furthe with venygar and the turbot and halibut serue it with pouder and venygar.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Gurnard or rochet</HEAD>
+<P>To boile gurnard or rochet draw a gurnard at the belly and tak out the sound and the resset and slit the pok shave it clene and let it hang by then wesche it and mak the sauce of water and salt and when it boilithe skom it clene and put in the fisshe and when it is sodden tak it up with a scomer and serue it with sauce guinger.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Place and flounders</HEAD>
+<P>To boile place or flounders tak a place and draw hym under the vyn and draw a flounder and stoche hym outwhart across on the whit side wesche hym and boile hem with water and salt cast ther to parsley and sethe them and serue them with the brothe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To boille welks</HEAD>
+<P>To boile welks put them in a pot with water so they may flot then set them on the fyer and let them stond longe or they sethe then tak them out of the water
+<PB N="75" REF="76"/>
+and tak out the fisshe with a prik and put away the hulles then wesche them well with watire and salt ij or iij tymes then lay them in clene water till ye serue them with grene parsly.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Perche boiled</HEAD>
+<P>To boylle a perche draw hym at the gills and let the belly be hole and mak a stiff sauce of water and salt and ale and when it boilithe cast in the perche and let it sethe and scrape of the skyne and lay it in a disshe and let the hed and the taile be on straw on parsley and serue it with venyger.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Freche makrelle</HEAD>
+<P>To dight a freche makerelle tak and draw a mak∣erelle at the gil and let the belly be hole and wesche hym and mak the sauce of water and salt and when it boilithe cast in mynt and parsly and put in the fisshe and serue it furthe with sorell sauce.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Soupes in dose</HEAD>
+<P>To mak soupes in doce grinde blanched almondes and serup them up with water into a faire mylke and
+<PB N="76" REF="77"/>
+draw it into a pot through a strener put ther to sugur saffron and salt set it on the fyere and stirr it welle when it boilith do it to a litill wyn and tak it from the fyere and stirr it well for qualinge then cutt whit bred in shyues and toist it on a gredirne that it be browne then put them in wyne and lay them on the gredirne agayne and lay the toistes iij or iiij in a disshe and put on the mylk and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak hoot milk of almondes.</HEAD>
+<P>To mak hot mylk of almonds tak blanched almonds and grind them and draw them with faire water and sugar or Hony clarified then salt it and boile it and serue it furthe hoot and toisted bred ther in.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>cold mylk of almondes</HEAD>
+<P>To mak cold mylk of almondes put fair water in a pot with sugur or hony clarified so that it be douce then salt it and set it on the fyere and when it is at boilling scom it and let it boile awhile then tak it from the fyere and let it kele then blanche youre almondes and grind them and temper them with the same water in to a good thik mylk and put it to wyne that it may haue a good flavour ther of and serue it then cut bred and toist it and baist it and toist it again that it be hard and serue them in one disshe and the mylk in an other disshe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="77" REF="78"/>
+<HEAD>Sauce galentyne</HEAD>
+<P>To mak sauce galentyne tak crust of brown bred and stepe them in venygar put ther to pouder of canelle and let it step till it be broun then streyn it ij or iij tymes cast it to pouder and salt and let it be stonding and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Sauce guinger</HEAD>
+<P>To mak sauce guinger tak whit bred and step it in venygar and streyn it ij or iij tymes then tak pouder of guinger and salt and let it not be thyne and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>vert sauce</HEAD>
+<P>To mak vert sauce tak parslye mynte sorell cyves and sauce alone then tak bred and step it in venygar do ther to peper and salt and grind them and temper them upe and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak sauce aliper for rost bef</HEAD>
+<P>To mak sauce aliper for rostid bef tak broun bred and stepe it in venygar and toiste it and streyne it and stampe garlik and put ther to pouder of pepper and salt and boile it a litill and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="78" REF="79"/>
+<HEAD>Garbage</HEAD>
+<P>To mak a garbage tak the heed the garbage the leuer the gessern the wings and the feet and wesche them and clene them and put them in a pot and cast ther to brothe of beef poudere of pepper clowes maces parsly saige mynced then step bred in the sam brothe and cast it to pouder of guingere venygar saffron and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Muscules in shellis</HEAD>
+<P>To mak a muscullis in shelles tak and pik muskles and pik them and wesche them and cast them in a pot put ther to mynced onyons wyn and venygar and when they do open serue them furthe</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Musculles in brothe</HEAD>
+<P>To mak musculles in brothe tak muscles and sethe them and pik out the mete and when they be soden in the brothe put them in to the pot and set it on the fyer then streyn bred with the same brothe and cast ther to mynced onyons salt wyne and pouder of guinger and pepper and let it boile put ther to the muscules with poudur and saffron and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="79" REF="80"/>
+<HEAD>Pik in Brasy</HEAD>
+<P>To mak a pik in Brasye tak and rost a pik then tak almondes and bray them in a mortair and temper them with wyne and streyne them then tak mynced onyons clowes and poudur and sugur canelle pepper guinger venygar salt and let it boile and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Cony or malard in covy</HEAD>
+<P>To mak cony or malard in cevy tak cony henne or malard and rost them till they be almost enoughe or els chope them and fry them in freche grece and fry onyons mynced and put them in a pot and cast ther to freche brothe and half wyne clowes maces pouder of guinger and pepper and draw it with venygar and when it is boiled cast ther to thy licour and pouder of guingere and venygar and sesson it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pik in galentyne</HEAD>
+<P>To mak a pik in galentyne sethe a pik in good sauce then couche hym in a vesselle and when it is cold tak bred and stepe it in wyne and venygar and cast ther to canelle and draw it in a pot and cast ther to pouder of pepper salt and onyons fried in oile and cast ther to sanders and let it boille a litille and cast ther to upon the pik and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="80" REF="81"/>
+<HEAD>A pik in soupes</HEAD>
+<P>To mak a pik in soupes tak a pik and boile hym with rosmary tym and parsley then mak a sherpe sauce of wyne water and ale and tak the resset and chope it smalle and sethe it with wyne and watur and put ther to clowes maces raissins of corans guinger senymon dates mynced and sugur then cutt whit bred and lay it in a platter and the pyk aboue and cast on the resset with the fattest of the brothe that the pik was soden in and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Tenche in cevy</HEAD>
+<P>To mak a tenche in cevy tak and cutt tenches in smalle peces thene fry them and draw a liour of raissins of corans with wyne and water and do ther to other raissins hole pouder of guinger clowes canelle and pepper and put your tenche ther in and sethe it with water and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Lessingis on fische dais</HEAD>
+<P>To mak lessenges on fische dais tak almondes and grind them and mak a thik mylk with faire water
+<PB N="81" REF="82"/>
+and alay it upe with lossinges and cast ther to sugur saffron and salt and mese it furthe and florisshed with colliander comfet and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Cawdell of Almondes</HEAD>
+<P>To mak a cawdelle of almondes tak blanched almondes and draw them up with wyne put ther to saffron and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Oyle soupes</HEAD>
+<P>To mak oyle soupes tak and boyle mylk and yolks of eggs and draw them through a strener and cast it into the mylk and heet it but lett it not boile and stir it till it be somdele thik then cast ther to sugur and salt cutte whit bred in sopes and cast the sopes ther in and serue it in the manner of potage.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Charwarden</HEAD>
+<P>To mak chard wardene tak wardens and bak them in an oven then tak them out and paire them and grind them in a mortair and streyne them smothe throwghe a streyner then put them in an erthene pot and put ther to sugur till they be douced as ye think
+<PB N="82" REF="83"/>
+best and put ther to pouder of notmeggs guinger and granes and let the pouder be farcede put ther to powder of sanders tille it be coloured and stirr it with a pot stik and set yt on a soft fyere and let it boile till yt be stiff as leche lombard and ye put amydon or rise it is bettere and when it is cold lay it fair abrod in the coffyn and let it stond ij dais and ye liste strawe senymom upon it and a day aftur the bred is out of the ovene then set it ther in and it shalle en be hard and then ye shall mak chardquynce.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Ryse</HEAD>
+<P>To mak ryse pik them clene and then wesshe them in two or thre waters and let the water be warm and sethe them in clene water till they begyn to boile and at the first boile put out the water and sethe them with brothe of fleshe or with the brothe of freche flesshe or of freche fisshe and put ther to sugur saffron and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Wortis</HEAD>
+<P>To mak wortes tak coles and stripe them from the stalks then tak betees avens borage violettes mallowes parsly betayne prymrose pacyens the whyt of lekes and cropes of nettilles and parboile them upon a bord and pres out the water and mynce them smalle put ther to
+<PB N="83" REF="84"/>
+otemelle and tak the brothe of turbot congur samon or other fishe and put them in a pot with the for said erbes and when the pot is at boillinge cast in the erbes and the wort and boile them up and salt them and ye tak brothe tak eles and boile them and tak them upe and strip the fisshe from the bones and grind it up with the sam brothe and put them all to the wort and sethe them up. Also ye may sethe muskelles with as mych water as they may swym in and boile them tille they be opyne then streyne the brothe and tak some erbes as ye did befor and put it to the muskall brothe and set them on the fyere and boile them and when they be boiled put to the erbes and the brothe and put to the drawen muskalls and salt them, and ye may tak pessen drawe through a streyn and mak them up with the wort and faire water and put ther to oile that hath bene skald and in the boiling alay it up with pessene ye shall put none otemele ther in, also parboile the whit of lekes and pres out the water and chop them smalle and canebyns with faire water and set it to the fyere to boile it and put yt to the whit of leekes but do none otemele ther in and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak canebyns</HEAD>
+<P>To mak canebyns tak whit benes and lay them to stepe in rynynge water ij dais and ij nights and change
+<PB N="84" REF="85"/>
+the water eury day then tak them up and let them are and put them in an ovene to hardyne and shelle them at the mylne and put away the hulles and clef the benes in ij or iij or iiij at the most and fry them and ye may kep them as longe as ye will.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Another canebyns</HEAD>
+<P>To mak another canebyns take canebines and wesshe them and step them a litille and mak them up with mylk of almondes put ther to sugur and salt, and out of lent mak it up with mylk and clarified hony then falt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Canebyns with bacon</HEAD>
+<P>To mak canebyns with bacon tak and put swete brothe in a pot then wesche canebyns clene and put to none other licour but boile them up and let them be salt and serue them then tak ribbes of bacon boled and do away the skyn and lay them in another disshe and serue them as ye do furmente and venysen.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak buttered worts</HEAD>
+<P>To mak buttered wortes tak good erbes and pik them and wesche them and shred them and boile
+<PB N="85" REF="86"/>
+them in watur put ther to clarified buttur a good quantite and when they be boiled salt them and let none otemele cum ther in then cutt whit bred thyn in dysshes and pour on the wort.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak cabage wortis</HEAD>
+<P>To mak cabages wortis tak whit cabage and shred them smale and mak them up, also tak whit cabages and cut them from the stalks and wesche them and parboile them and presse out the water and hew them smale in flesshe tym put fat brothe of beef in a pot of capon brothe or the brothe of other good flesche and when it is boiled put in thy cabages and maribones all to brokene and boile them up do ther to saffron or salt and alay it upe with grond bred and luk it be chargant of canebyns and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak haire or goose poudred in wortis</HEAD>
+<P>To mak hayre or goose poudred in wort put good brothe of flesshe in a pot and maribones and set it on the syere and chope the haire in peces, and put ther to and draw the brothe throughe a streyn with the blod then tak coles the whit of leekes other erbes and otemele and shred them smale to gedur and it be an
+<PB N="86" REF="87"/>
+old hayre let hir boile welle or ye put in your wortis and it be a younge hayre put in the hare and the wort to gedure and els tak a goos of a nyght and a day murdring and chope hir in the wort in the sam manner and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pik and eles in ballok brothe that muste our dame haue, or els she will be wrothe.</HEAD>
+<P>To mak eles and pikes in ballok brothe tak and splat a pik and splat hym and skale hym and culpon eles smale and put them in a pot do ther to grene onyons and quybibes and mynce them and sesson them up with a liore of bred and put it to clowes maces pouder of canelle and saffron and put ther to a quantite of stok fische lik unto the eles and let the pik boile esely and serue the hole pik for a lord and quarto of a pik for comons and culpans and let them be sessoned and put the brothe with the sauce upon the pyk and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak surmente with porpas in lent</HEAD>
+<P>To make furmente with porpas in lent tak clene whet and bet it in a mortoire and vane it clene and
+<PB N="87" REF="88"/>
+sethe it till it be on enbreston then tak blanched almondes and grind them in a mortoire and drawe ther of swet mylk with the brothe and boile it till it be tendur and colour it with saffron and leshe thy porpas and when it is sodene lay it in dishes and serue it furthe in dysshes.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak jusselle</HEAD>
+<P>To mak jusselle tak the swet brothe of a capon or of other good flesshe and set it on the fyere in a large vesselle colour it with faffron put ther to saige cut gret and salt it then tak eggs and drawe them through a strener and temper grated bread and eggs and stirre it to gedure till they be ronn and let the erbes be well mellid to gedur and when yt begyn∣nythe to boille tak out the pot stik and turn the curd about with a scomer and let not the fyere be to hasty when it is throughe knyt tak it from the fyere and couyr it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak ledlardes of iij coloures</HEAD>
+<P>To mak ledlardes of iij colloures tak clene cows mylk and put it in thre pots and brek to euy pot a quantite of eggs and colour on withe saffron another with sanders and the third made grene with erbes and
+<PB N="88" REF="89"/>
+to euy part tak a litill lard of salt bacon well sodene and dice it smalle and put it into the pott put ther to salt and boile them to gedur all thre at once and stirr them welle for breking then tak them doun and cast them in a cloth ech on aboue other and fold up the clothe to gedure and presse out the brothe then tak them out and mak leskes of them and lay iij or iiij leskes in a disshe and serue it</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Gruelle enforced</HEAD>
+<P>To mak grewelle enforced tak mary bones and freche brothe and mak grewelle and draw them throughe a strener then tak pork sodene tender and pick out the bones and the senewes and pille of the skyn and hew it and grind it smale in a mortair and temper it with the same gruelle that is drawen and mak it smothe and let it stond myche by freche pork and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chaudron for samon</HEAD>
+<P>To mak chaudron for samone tak the draught of samon and mak it clene and put it in a pot and all the blod of the samon ther with and boile it till it be enoughe then tak it up and grind the spawn and draw a liour of bred and of whit wyne and put ther to
+<PB N="89" REF="90"/>
+poudere of pepper and canelle and boile it and stirr it and sesson it up with pouder of guinger venygar saffron and salt and ye may serve it furthe in sted of potage or els a sauce for samon.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Codling or kelyng</HEAD>
+<P>To dight codlinge or keling tak a kelinge and cut them smale and put them in brothe of freche samon and boile them put ther to almond mylk and drawe bred and colour them with saffron and sanders do ther to sugur and pouder of pepper and serue it and other fisshe among as turbot pike samon chopped and sesson them with venygur and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>lesshe penon</HEAD>
+<P>To mak lesshe penon take almond mylk and temper it with whit wyne and water then cut parsly and onyons and put ther to saffron and hole pepper hole clowes or chopped and boile it and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Felettes in galentyne</HEAD>
+<P>To mak felettes in galentyne tak of the best of ribbes of pork and fley of the skyn and put the flesshe
+<PB N="90" REF="91"/>
+upon a broche and rost it till it be almost enoughe then tak it of and chope it in peces and put it in a pot with onyons butter and faire grece hole clowes maces quybibes and put it to gedur with a crust of bred and try it through a strener with whit wyne put ther to pouder of peper and put it in the pot and when it boilithe let it not be chargant and sesson it up with poudre of guingere and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak nombles of porpas or other fische</HEAD>
+<P>To mak nombles of porpas or of other good fisshe and ye may cut som of the fisshe smalle and put it in the pot and draw a liour with cruste with the same blod and some of the brose and red wyne and put all to gedur in a pot and put thereto pouder of peper clowes and canelle and set it on the fyere and sesson it up with pouder guingere venygere and salt, and ye may mak nombles of congure codlinge or other good fisshe in the same manner and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chaudron of piggs feet</HEAD>
+<P>To mak chaudron of piggs feet take swines feet clene skalded and boile the [word illegible] and the eres in freche brothe then take them up and cutt them small and put them in a pot and the brothe and draw
+<PB N="91" REF="92"/>
+liour of whit bred and wyne and put them to gedur and mak foilis of past and cut iij small pilotes and frye them and sesson them up with pouder of pepper and salt and colour it to saffron and put the pilottes hote in disshes and put the sewe above and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bruet of Lombardy</HEAD>
+<P>To mak Bruet of lombardye tak hennes conys or other flesshe soden tender and try it and put it in a pot do ther to mylk bred and yolks of eggs sodden hew and grind them and drawe them upe with juic of parsly put ther to grece or claryfied butter or the fat of pork and sesson it and salt and put ther to venygar and mak it lik blod with alkaned and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bruet of Spayne</HEAD>
+<P>To mak bruet of Spayne take venyson and mak long lesshes then fry them in buttur and wesshe them in wyn then tak sugur almond mylk clowes maces quybibes and boile them to gedur and sesson them with poudure and venyger and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bruet rosse</HEAD>
+<P>To mak bruet rose tak the flesshe of a Roo par∣boile it and try it and put it in a pot then tak the
+<PB N="92" REF="93"/>
+same brothe and other good brothe and draw it throughe a stren and put it in to the pot with onyons and erbes hole clowes maces and qubibes and set yt to the fyere and yf yt haue ned alay it with crustis of bred with a litille of the sam brothe and blod and colour it with saffron and salt it and cast ther to poudre of pepper and canelle and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Stewed lombard</HEAD>
+<P>To mak stewed lombard tak pork and rost it and chop it into a pot with wyne sugur and hole clowes onyons guingere saffron and sanders then fry almondes and temper them up with wyne pouder gyngyure canelle and galingale and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Another stewed lombard</HEAD>
+<P>To mak another stewed lombard take almondes and grind them and drawe them up with swet brothe of vele or of pork then tak the flesshe and pair it clene from the skyn hew it grind it and mele it with mynced dates raissins of corrans and good poudure and mak it in pilottes as gret as plomes and set the mylk on the fyer and stir it well when it boilithe cast in thy pilots and let them stewe upon the fyere and put ther to pouder and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="93" REF="94"/>
+<HEAD>Stewed colopes</HEAD>
+<P>To mak stewed colopes tak collopes of venyson rostid and put them in a pot and do ther to hole clowes pouder of pepper canelle and other spice and boille it up with a gret part of swet brothe and session it up with pouder gyngir and the venyson and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Busbayne</HEAD>
+<P>To mak Busbayne take mary and capons and other good flesshe and put it in a pot and chop chekins in peces and erbes hole clowes maces and pouder of pepper and sot them on the fyer and grind raw pork or vele with yolks of eggs and put ther to raissins of corane pouder and salt and saffron and mele them to gedure and when the potte boilethe put in the peletes like an hassille nott and cast them ther in boillinge and colour it with saffron put ther to parsly and other good erbes and boile it upe and put it to venyger and sesson it up with pouder and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bruet of Kiddes</HEAD>
+<P>To mak a bruet of kiddes tak kide or vele and boile it chop it and dry it and put it into a pot then tak
+<PB N="94" REF="95"/>
+almonde mylk and drawe it with swet wyne and brothe do ther to hole clowes and flour of ryse alay it and astur the boiling sesson it up with pouder of pepper gyngyr canelle and sugure and put it to venygar and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Blanche Bruet</HEAD>
+<P>To mak blanche Bruet tak hennes and pork half rostid then chop them in peces and put them in a pot do ther to almond mylk and alay it up with flour of ryse or with whet floure and put ther to brothe or wyne hole clowes maces and sesson it with venygar pouder and sugur that is strawed with alkened and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Sauce sairsnet</HEAD>
+<P>To mak sauce sairsnet tak thik almond mylk and put it in a pott with flour of rise saffron maces guin∣gere quybibes canelle and sugur and wet the botom of the disshes with swet brothe or withe wyne and put ther to hole maces and sesson it up with sugur veny∣gar good pouder and guinger strawed with alkened and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="95" REF="96"/>
+<HEAD>Kid stewed</HEAD>
+<P>To stewe a kid tak a kid and rost yt a litille and chop it in peces raw and put it in the pot do ther to erbes onyons and swet brothe and wyne hole clowes maces and pouder and sethe them and sesson them up with guinger galingale and a litille lier of bred saffron and salt and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pertuche stewed</HEAD>
+<P>To stewe a pertuche or a wod cok and draw them and wesshe them clene and chope them with hole clowes and peper and couche them in an erthen pot put ther to dates mynced gret raisins of corans wyne and swet brothe salt it and cover the pot and set it on the fyer when it is enoughe sesson it with pouder of guinger and venygar and colour it with saffron and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A lowsid bef</HEAD>
+<P>To mak a lowsid bef tak leney beef and cut it in thyn lesks and lay them abrod then tak the fat of moton or of beef erbes or onyons chopped small put ther to pouder of pepper and salt then tak the sewet
+<PB N="96" REF="97"/>
+and the erbes and lay upon the leskes and rolle them to gedur and put them on a broche and rost them welle and endor them or els ye may put them in a pot and put ther to good brothe and wyne then tak clowes maces onyons and erbes and chope them smale and put ther to pouder of pepper and saffron then salt it and alay it up with guinger and galingalle and stewe it up and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A pyk in sauce</HEAD>
+<P>To dight a pik in sauce tak and dight the pouche and the fee of a pik and sethe it half in wyne and half in water cast ther to parsly and onyons mynced smale boile them well and sethe pik in good brothe and as it boilithe tak of the grece and cast yt to the pouche and fee then tak som payn mayn cutt thyn as brewes and toist it on a gredirne then mynce the pouche and the fee and alay it up with ale and cast ther to venygar then lay the pik in a chargiour and the resset with the pouche and the fee aboue and serue it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Turbot rost in sauce</HEAD>
+<P>To dight turbot rost in sauce tak and cutt away the fyn of the turbotte and cutt the fisshe in the manner of felettes and put them on a round broche and when
+<PB N="97" REF="98"/>
+it rostis springle on salt then tak vergius venyger or wyn and pouder of guinger and canelle and cast ther to in the rosting and set a vesselle under to kep that fallithe and cast it on agayne and when it is rost cast the sauce upon the fisshe in disshes and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak samon rost in sauce</HEAD>
+<P>To mak samon rost in sauce tak a samon and cutt hym in round peces and rost hym on a gredirne and tak wyn and pouder of canelle and draw them throughe a stren and mynce onyans smalle and do ther to and boile them then tak vergius pouder of peper and guin∣ger and salt and do ther to then lay the samon in a disshe and pour on the ceripe and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Breme in comfet</HEAD>
+<P>To dight breme in comfet tak and sethe a freche breme tille he be enoughe then grind it in a mortair and temper it with almond mylk and drawe it throwe a stren in to a pott put ther to suger pouder of pepper canelle clowes and guingere and boile it then tak it out of the pot and put it into alynclothe and pres out the thyn then tak the ribbes of a bore and couch them along through the leske and serue one or ij in a disshe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="98" REF="99"/>
+<HEAD>To mak braun rialle</HEAD>
+<P>To mak braun rialle tak and boille freche braun in faire water till it be som dele tender then tak blanched almondes and grind them and draw them up with som of the sam brothe and apart of wyne as hoot as ye may then mak the mylk hot and do the braun in the strener hot and drawe it with the mylk het, put ther to grece and venyger and set it on the fyere to boile and salt it and put it in a vesselle and when it is cold take it out or chauf the vesselle with out with hoote water or againste the fyere and when ye haue it out cutt it in thyn shyves and lay iij lesks in a disshe aftur the quantite and tak pouder of guinger or pared guinger mynced with annes in comfettes and ye may draw it with som of the same with a parte of the wyne or els thou may cutt it in lesks and serue it furthe, or els ye may tak it into another colour what ye wille, and ye will haue it grene draw it with mylk of al∣mondes and grind leke leves in a mortair and put ther to saffron and when it is ground myche or litille coloure it ther with, when ye tak it from the fyere and do as ye did the tother tym and ye may do ther to a quantite of canelle guinger or sanders and mak it broun and serue it furthe, or els ye may tak turn sole and wesshe it and wringe it well in wyn that ye sesson it up with, and when it is boiled colour it up blew or
+<PB N="99" REF="100"/>
+sangwene whedur ye wille and do ther with as ye did be for, or when ye tak it from the fyer and hath bene sessoned then tak freche braune sodyn tender and cutt it in thyn lesks or dice smalle and cast it into the pot and stirre it welle to gedure then put it unto another vesselle and when it is cold leshe it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Blanche Braun</HEAD>
+<P>To mak blanche braun tak and mak a stif mylk of almondes and dice the braun smalle and put yt in a pot put ther to sugur and salt and boile them tyll they be enoughe and let it be douced then put it in a basyn and let it stond till yt be cold then leshe it but lett it not be thyn and lay a leshe or twain in a disshe and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Alayd mylk</HEAD>
+<P>To mak alayd mylk take cow mylk and sugur and put it in a pot and set it on the fyere and when it boilithe alay it up with yolks of eggs and let it be rynynge and not chargant then tak whit bred and cut it in thyn peces and lay them in a disshe and let the mylk be somewhat salt and serue it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="100" REF="101"/>
+<HEAD>Peres in composte</HEAD>
+<P>To mak peres in composte tak a good quantite of canelle and sugur and set it on the fyer to boile and draw yt throughe a stren then lesk dates thyn and put them ther to in a pot and boille wardens and pair them and put them in the ceripe put ther to sanders and boile them and alay them up with chardwins and salt it and mak yt doucet and chargaunt and put it out of the vesselle in to a treene vesselle and let it boille then pare smalle raisins and tried guinger and temper it ij dais or ij nyghtes with wyne then lay it in clarified hony cold a day and nyght then tak the raisins out of the hony and cast ther to peres in composte and serue it furthe with a cold ceripe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Furmente</HEAD>
+<P>To mak furmente tak whet and pik it clene and put it in a mortair and bray it till it hull then wenowe it and wesshe it and put it unto the pot and boile it till it brest then sett it down and play it up with cow mylk till yt be enoughe alay it with yolks of eggs and kep it that it byrn not, colour it with saffron do ther to sugar and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="101" REF="102"/>
+<HEAD>Amydon</HEAD>
+<P>To mak amydon take whet and step it in water x dais and change the water eury daye then bet yt smalle in a mortair and sethe it with water and mylk and sye it throughe a clothe and let yt stond and setelle and pour out the water and lay it in a clothe and turn it till it be drye.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Conys in graue</HEAD>
+<P>To mak conys in graue fley your conys and wesshe them and sethe them then take almond mylk and alay it with bred or whit amydon and fors it with clowes and galingale and boile yt welle and hew your conys and boile yt welle and hew your ceripe and put them ther to and sesson it with wyne and sugur and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chekyns in kyrtyn</HEAD>
+<P>To dight chekins in kirtyne tak cow creme and alay it with flour or whit amydon and fors it with galingalle guinger canelle comyn and saffron then sethe your chekins and quarter them and sesson them with sugur and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="102" REF="103"/>
+<HEAD>Viande de cipre</HEAD>
+<P>To mak viand de cipre, tak the braun of capon or of henne parboille it and dry it then hew it smalle in a mortair and putt ther to almond mylk and lay it up with amydon or with flour of rise coloure it with saffron and boille it and chargant it with the braed braun and sesson it with sugur and florishe it with almondes and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A mortins of flesche</HEAD>
+<P>Tak mortyns of flesche tak hennes and freche pork and sethe them to gedour then tak them up and enbane them for the nonse and hewe the pork and grain it and cast it in again and chargejour it with myed bred and colour it with saffron and boile it and set it down alay it with yolks of eggs and staunch it with pouder and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak blaunche mang of flesshe</HEAD>
+<P>To mak blanche mange of flesshe tak ryse and wesshe it and draw it throughe a stren and temper it with almond mylk then teese the braun of capon or
+<PB N="103" REF="104"/>
+henn small and put the rise to the mylke and boile it and charge it with the tosed flesshe sesson it with sugur and florisshe it with almonds and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak chaudron for swan wild duck or pigge.</HEAD>
+<P>To mak chaudron for swan wild duck or pigge take and wesshe the issus of a swan and skour the guttes with salt and sethe them to gedour and hewe small bothe the slesshes and the guttes and put ther to canelle or galing ale put myed bred ther to and temper it with the brothe or with the blod and sesson it to venygar and boille them in a possuet and serue them furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Nombles</HEAD>
+<P>To mak nombles tak hert middrif and kidney and hew them smalle and prise out the blod and sethe them in water and ale and colour it with brown bred or with blod and fors it with canell and galingalle and when it boilithe kole it a litille with ale and serwe it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Another nombles</HEAD>
+<P>To mak another nombles tak the nombles of venyson and wesche them in water and salt and sethe
+<PB N="104" REF="105"/>
+them in water and salt then tak brown bred pepper and ale and temper it with the secund brothe then hew the nombles and boile the sewe and serue it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Charlet</HEAD>
+<P>To mak charlet tak swet mylk and colour it with saffron then tak freche pork and boile it and hew yt smalle then swinge eggs and cast them into the mylk and boile them and stirr them lest they bren and bete it with a litill ale and set it doun and let it not be brown and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Charlet collouret</HEAD>
+<P>To make charlet colouret tak almondes blanched wesshe them temper them and grind them and put ther to red wyne and alay it up with flour of rise and pynes and other spice bothe good and strenge and colour it with saffron and boile it and salt it and florisshe it with annes in comfettes and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Jusselle</HEAD>
+<P>To mak jusselle tak and swinge eggs and myed bred to gedur then tak freche brothe of bef and
+<PB N="105" REF="106"/>
+colour it with saffron and boile it softly and cast in parsley and saige and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bruet de almonds</HEAD>
+<P>To mak Bruet de almondes tak almond mylk and alay it with amydon or with whet flour bulted coloure it with saffron and fors it with pouder of ginger canelle and galingale then tak pertuche or chekens and sethe them and hew them in quarto and set the mylk on the fyere to boylle and florish it with pouders and serue it</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Blank de sirre</HEAD>
+<P>To mak blank de sire tak ryse and wesshe it and grind it small and temper it up with almond mylk and boile it then tak the braun of capon or henne and hew it small and grind it with myed bred and sesson it with sugur and florishe it with almondes and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Buknard</HEAD>
+<P>To mak Buknard tak almond mylk and colour it with saffron and fers it with pouder then tak lard of pork well sodene and hewe it small and put them to
+<PB N="106" REF="107"/>
+the mylk and alay it with flour or with amydon and boile it well and florishe it withe pouder and colour it with sanders and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Rose</HEAD>
+<P>To mak rose, tak flour of ryse and temper it with almond mylk and mak it chaungynge then tak the braun of capon or of henne sodyn and grind it and charge it ther with and colour it with sanders and blod and fors it with clowes and maces and sesson it with sugur and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>ledlardes</HEAD>
+<P>To mak ledlardes of one coloure tak eggs and cow mylk and swinge them to gedur then sethe it and hew it in small peces and boile it and stirre it till be ron upon a herd curde then lesshe it and rost it upon a gredirn and serue it</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Blanched mortrus</HEAD>
+<P>To mak blanched mortrus tak and sethe hennes and freche pork to gedur then bray unblanched almondes and temper them with clene brothe and alay the fleshe small ground ther to put ther to flour
+<PB N="107" REF="108"/>
+of rise and do all to gedur and cast in pouder of guingere and sugur and luk it be not thyn salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pegions stewed</HEAD>
+<P>To mak pegions stewed hew pegions small and put them in an erthen pot then tak erbes and pilled garlike and chope them to gedur and put them in good brothe put ther to whit grece poudur and vergious colour it with saffron and salt it and stew it well and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Soupes dorrey</HEAD>
+<P>To mak soupes dorrey tak almondes and bray them asid wring them up and boile them with wyn and temper them with wyne and salt then toost whit bred and lay it in a disshe and enbane it with wyne and pour it ouer the met and florisshe it with sugur and guingere and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Gruell dalmond</HEAD>
+<P>To mak gruelle dalmond tak unblanched almondes and bray them put ther to otemele and grind it to gedur and draw it with water then boile it and colour it with saffron and serue it</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="108" REF="109"/>
+<HEAD>Jouts dalmond</HEAD>
+<P>To mak joutes dalmond tak erbes and parboile them and grind them with unblanched almondes and set the mylk on the fyere and sethe it all to gedure cast ther to sugur and salt &amp; serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Cawdell dalmond</HEAD>
+<P>To mak cawdelle dalmond tak unblanched almondes and bray them and draw them with wyne put ther to pouder of guinger and sugur and boile all to gedur and colore it with saffron and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak Z S. V</HEAD>
+<P>To mak Z S. V tak thik almond mylke and boile it and in the boilinge cast in wyne or venygar and put it in a canvas and let it ren on a hepe then honge it in a clothe and lay it in cold water and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Ryse</HEAD>
+<P>To mak ryse pik the rise wesshe them and grind them temper them up with almonds mylk and
+<PB N="109" REF="110"/>
+draw it throughe a stren and boile it and sesson it with sugur and fors it with fried almonds and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Cawdell ferry</HEAD>
+<P>To mak cawdelle ferry tak unblanched almonds wesshe them and grind them and temper them up with wyne and drawe it throughe a canvas into a pot and colour it with saffron and alay it up with amydon or flour of rise and se that it be thik sesson it with sugur and florishe it with maces and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Rape.</HEAD>
+<P>To mak rape, tak raissins of corans and other raissins and sethe them with wyne and boile them a litille then rost them on a spit and tak it of and bray it in a mortair with crustes of bred and put them in a possuet put ther to raissins swet wyne venygar poudur of peppur clowes maces pynes quibibes and boile them and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak mylk rostid</HEAD>
+<P>To mak mylk rostid fwynge egges and swet mylk togedur put ther to saffron and boile it till it be thik then sethe it and sie it throughe a clothe and pres the remnyant and lesshe it cold and serue it in schyves.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="110" REF="111"/>
+<HEAD>Potage of welks</HEAD>
+<P>To mak potage of welks tak and wesshe the welks in watur and salt and chop them smale upon a bord and sethe them in almond mylk and alay it with amydone colour it with saffron cast on poudur of pepper and comyn and serue it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Potage of oystirs</HEAD>
+<P>To mak potage of oystirs parboile your oystirs and tak them up and kep the brothe then chap them smale upon a bord and bet them in a mortair then put them in ther own brothe agayne put ther to almond mylk alay it up with amydon and mynced onyons worte or in mylk sethe it and do it to good poudure and colour yt with saffron and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak saige synes</HEAD>
+<P>To mak saige synes tak swannys feet and sethe them in water put ther to poudur of peppur and temper it with venygar and when they be sodene tak the feet and cleef them and lay them in disshes and sauce ther on yolks of eggs and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="111" REF="112"/>
+<HEAD>To mak compost</HEAD>
+<P>To mak composte tak chekins and halve them then tak saige parsly lekes and other good erbes and chop them small then tak a pint of hony and som of the erbes and lay in the botom of the pot and som of the chekyn then tak lard of pork smale mynced and lay it on and cast ther to pouder of guingere and canelle and boille it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Blank mang</HEAD>
+<P>To mak blank mang of fisshe tak a pound of rise and sethe it and bray it till it brests and cast it to almond mylk then tak a tenche or a lampry and cast ther to and sethe them to gedure and serwe it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Mortins of fisshe</HEAD>
+<P>To mak mortins of fisshe tak the wellks of the ffisshe sown and the lewer and sethe them with ale peppur and bred and temper it to good brothe and sethe all to gedour and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>pessen de Almondes</HEAD>
+<P>To mak pessen de almonds tak whit pessen and wesshe them and sethe them till they hulle and when
+<PB N="112" REF="113"/>
+they be done cast they in to a pot and couer it and boile it and cast ther to almond mylk flour of ryse and salt it colour it with saffron and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>A colles</HEAD>
+<P>To mak a colles tak the braun of capon or henne and hew it small and bray it with otemele and whit bred cast ther to good pouders and saffron then tak out the bones and grind the flesshe small and cast it unto the brothe and sie it throughe a clothe and salt it boile it and serue it</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Cawdelle de pork</HEAD>
+<P>To mak cawdelle de pork tak the braun of pork parboile it and grind it small with yolks of eggs and set it on the fyer to boile put whit grece ther to colour it with saffron and serue it furthe with pouder douce.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Conys in cevy</HEAD>
+<P>To mak conys in cevy smyt conys in small peces and sethe them in good brothe put ther to mynced onyons and grece and draw a liour of broun bred and blod and sesson it with venygar and cast on pouder and salt and serve it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="113" REF="114"/>
+<HEAD>Haires in covy</HEAD>
+<P>To make haires in covy boile a haire, rost hir and lard here then fry her in grece with pepper ale and onyons mynced small and colour it with saffron then lay the hair in a platter and pour on the covy and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Hayres in sewe</HEAD>
+<P>To mak hayres in sewe, tak a raw haire and chop hir in small gobettes and sethe hir in hir own blod thene temper it with ale pepper and bred and boile it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Haires in Albroturs</HEAD>
+<P>To mak haires in Albroturs tak and hew your hayre in small gobettes and sethe hir in good brothe with all hir blod when it is soden draw it through a stren then tak blanched almondes temper them and grind them and temper them with the same brothe and parboille onyons and cutt them small and cast ther to venygar and salt and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Haires in pardolos</HEAD>
+<P>To mak haires in pardolous tak an haire and par∣boille hir in good brothe swong eggs ther to and hew
+<PB N="114" REF="115"/>
+fleshe smalle and cast it in the sewe and sethe them well then tak obleys or waiffurs and couche them in a platter and salt the sewe and put it upon the obleys and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Hennes in Bruet</HEAD>
+<P>To mak hennes in Bruet sethe hennes and freche pork to gedure then grind pepper bred and comyne and sesson it and temper it with the hennes brothe boile it and colour it with saffron salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chekins in brothe</HEAD>
+<P>To mak chekins in brothe tak and skald your chekins then tak parsly saige and other erbes and grapes and put it in the chekins and sethe them in good brothe and colour the brothe with saffron cast on pouder douce and salt it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chekins in cawdelle</HEAD>
+<P>To mak chekins in cawdelle tak your chekins and boile them in good brothe and allay the brothe with yolks of eggs then tak poudur of guingere saffron and
+<PB N="115" REF="116"/>
+salt and set it on the fyere and serue it with the chekins in the disshe and the cawdell ther on.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>ffessand or pertuche</HEAD>
+<P>To boile fessand or pertuche tak good brothe put ther in your ffessand or pertouche and put ther to ale flour pepper canelle guinger and saffron and boile it well and salt it and serue it furthe with pouder douce.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Roo for sewe</HEAD>
+<P>To mak roo in sewe tak the roo and pik it and boille it then hew it in gobettes and put it in the pot cast ther to wyne parsly saige and ysope and put them in the pot do ther to pepper guinger clowes saunders and blod and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Hennes in grave</HEAD>
+<P>To mak hennes in grave tak hennes and rost them and hew them small and fry them then tak wyn or venygere and pepper and grind it with the hennes fleshe and liere it with yolks of egges and colour it with saffron and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="116" REF="117"/>
+<HEAD>To mak capon in cassolont</HEAD>
+<P>To mak capon in cassolont tak a capon and skald hym and opyn the skyn behynd the hed and blow the skyn with a pen and raise it all about then tak pork and hennes flesh and good pouders and mak a farsor ther of and sew the skyn and parboille it then rost the capon and lard it and mak a batter of almond mylk and amydon and colour it with saffron at the fyer and enbane it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Capon in couns</HEAD>
+<P>To mak capons in couns tak a capon and sethe it and hew it then grind pepper and bred and temper it with the capon then tak the whit of egg herd sodene and hew them small and boile the capons and colour it with saffron and lay yolks of eggs in the disshe hole and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>To mak hennys in gauncelle</HEAD>
+<P>To mak hennes in gauncelle tak and rost your hennes then tak garlik and mold it with mylk and put it in a pan then hew your henne and put ther to and mele it with yolks of eggs and colour it with saffron and boile it well and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="117" REF="118"/>
+<HEAD>Lamprey in Bruet</HEAD>
+<P>To mak a Lampry in bruet tak a lampry and skald hym and rost hym on a gredirn then grind pepper guingere clowes and saffron and sethe it well and put pepper in the lampry and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Lamprey in galentyne</HEAD>
+<P>To mak lamprey in galentyne tak a lamprey and let hym bleed at the navile and rost him and lay him hole in a platter and serue it with galentyn sugur canelle guinger and galingale</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Tenche in graue</HEAD>
+<P>To mak tenche in grave, tak and splat your tenche and sethe hym and alay it with myed bred pepper and saffron and temper it with the tenches brothe then lay the tenche in a platter and poure on the grave and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Chaudwen de boyse</HEAD>
+<P>To mak chawdwen de boyse tak noot kirnelles and fry them in oile then sethe them in almond mylk put
+<PB N="118" REF="119"/>
+ther to flour of ryse and other poudures and fry not kirnelles and colour them with saffron and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>mammony</HEAD>
+<P>To mak mamony, tak whit wyne and sugur then bray the braun of viii capons with a galon of oile and a quart of hony put ther to poudur of pepper galin∣galle guingere and canelle and stirre it welle and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Lang de bef</HEAD>
+<P>To mak lange de bef tak an ox tonge schave it sethe it broche it and lard it with clowes then rost it and enbane it with yolks of eggs and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Rape of Fisshe</HEAD>
+<P>To mak rape of fisshe tak luces and tenches or other fisshe and fry them in oile then tak canelle and crusts of bred and bray them in a mortair and temper them with wyn clenssed throughe a clothe colour it with saffron cast in clowes maces quybibbes and boile it and lay the fisshe in a platter and the rape aboue and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="119" REF="120"/>
+<HEAD>A figge</HEAD>
+<P>To mak a figge tak figges and boile them in wyne then bray them in a mortair put ther to bred and boile it with wyne cast ther to clowes maces guinger pynes and hole raissins and florisshe it withe pongar∣nettes and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pommes moiled</HEAD>
+<P>To mak pomes molid tak rise and bray them and boile them with almond mylk then tak almondes and shere them small and put them there to and cast in sugur pouder of guingere canelle pepper and saffron and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pige harsed</HEAD>
+<P>To harse a pige swinge eggs and floure togedur put ther to poudur of pepper and guingere and mell them togedure and colour it with saffron and put it in the pigges belly and sew it and rost it and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>ffraunt hemelle</HEAD>
+<P>To mak fraunt hemele tak and swinge eggs and cow creme togedure put it to grated bred pepper
+<PB N="120" REF="121"/>
+guinger clowes and saffron then mynce swet flesshe and fill the bage ther with and sow it and boile it welle and rost it on a gredirn and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Bours</HEAD>
+<P>To mak Bours, tak and grind bef and pork to gedure with cloves canelle and pepper then boile them welle withe salt and ale and iii times tille good tid this mete will serue for both dener and sopper and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Pomes</HEAD>
+<P>To mak pomes tak and grind raw pork and temper them with swonge egges cast ther to good poudurs and <NOTE N="1" PLACE="foot">quere, rolle omitted?</NOTE> it in a balle and lay it in boillinge water to hardyn then tak it up and endore it with yolks of eggs and ye may make it grene or red with juce of erbes and serue it</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Hastolettes on fisshe days</HEAD>
+<P>To mak hastolettes on fisshe dais tak figges quartered and raissins dates and almondes [word illegible] then rost them on an irne broche and endore them withe yolks of egges and serue them.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="121" REF="122"/>
+<HEAD>Lampry bak</HEAD>
+<P>To bak a lampry tak and skale hym and rere your coffyn of good floure then tak pouder of pepper clowes maces onyons mynced dates and red wine then roll up the lamprey and put in saffron and close thy coffyn and lett a towelle be on the lid and feed yt with wyne then set it in the oven to bak and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Appillinose</HEAD>
+<P>To mak an appillinose, tak appelles and sethe them and lett them kelle then fret them throughe an heryn syff on fisshe dais take almonde mylk and oile olyf ther to. and on flesshe days tak freche brothe and whit grece and sugur and put them in a pot and boile it and colour it with saffron and cast on pouders and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Charlet</HEAD>
+<P>To mak charlet tak freche porke and sethe it and swing eggs ther withe then hewe the pork smalle and boile it in swet mylk and serue it.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<PB N="122" REF="123"/>
+<HEAD>Cratones</HEAD>
+<P>To mak cratonnes tak chekins and sethe them fley them and quarter them then grind pepper bred and comyne and boile the chekins in mylk then swinge eggs flour and hony togedure and put faire grece in a possuet and cast in the bater and stirr it till it be in many and serue it as friturs.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Haddok in cevy</HEAD>
+<P>To mak haddok in cevy tak and sethe your haddok and rost hym then boile bred pepper saffron and alle and onyons fried in oile and boile alle togedur then lay the haddok in a plater, and pour on the cevy and serue it furthe.</P>
+</DIV2>
+<DIV2 TYPE="recipe">
+<HEAD>Tench in gilly.</HEAD>
+<P>To mak tenche in gilly put red wyn in a pan then skald the tenche and splat him and cast hym into the panne and sethe hym and when he is enoughe lay hym in a plater and pill of the skyn and pik out the bones then set the licour and the skyn to the fyere and put ther to sugur to mak it doucet but ye may not put in the sugar till they two have boiled then cast in saffron
+<PB N="123" REF="124"/>
+salt ginger and vergius and let it renne throughe a strene and lay your tenche in a platter and plant hyme with blanched almondes and put on the gilly and serue it.</P>
+<TRAILER>Her endithe a noble book of cookry and the festis Ryalle and the making of xiiij disshes and iiij disshes for to serue a prince houssold or any other estates houssold.</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

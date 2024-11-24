@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-31-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed sub HEAD to HEADNOTE P; added TAILNOTE. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00123">
+<STC T="M">123</STC>
+<BIBNO T="mec">CME00123</BIBNO>
+<VID>CME00123</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="household inventory">
+<PB REF="1"/>
+<PB N="101" REF="2"/>
+<HEAD>HOUSEHOLD INVENTORY OF THE FIFTEENTH CENTURY.</HEAD>
+<HEADNOTE><P>(FROM A MANUSCRIPT IN PRIVATE HANDS.)</P></HEADNOTE>
+<P>THES parcelles her after wretyn ben in my place in litill Barw(?), that is for to sey, in the halle and in the parlour, and in the chambre above and benethe, in the botry, and in the lardirhous, and in the kechyn, wretyn with mine own hand the xv day of May, Anno Domini m<SUP>l</SUP> iiij<SUP>c</SUP> lxiij<SUP>o</SUP></P>
+<LIST>
+<ITEM>En primez, in the halle:
+<LIST>
+<ITEM>A standyng sper</ITEM>
+<ITEM>An angying of steyned werk</ITEM>
+<ITEM>A mappa mundi of parchement</ITEM>
+<ITEM>A syde table, j. dormond</ITEM>
+<ITEM>A bem, with vj. candilstykkus</ITEM>
+</LIST></ITEM>
+<ITEM>Item, in the parlour:
+<LIST>
+<ITEM>An hang' of worsted red and gren</ITEM>
+<ITEM>A cobbord of escchebordes</ITEM>
+<ITEM>A table and a peyr trestelz</ITEM>
+<ITEM>A branche of laton with iiij. ligtes</ITEM>
+<ITEM>A peyr of aundyrens</ITEM>
+<ITEM>A peyr of tongges</ITEM>
+<ITEM>A fform to sit uppon</ITEM>
+<ITEM>And a cheyre.</ITEM>
+</LIST></ITEM>
+<ITEM>Item, in the botry:
+<LIST>
+<ITEM>A flat basyn bolyond abowt be the egges</ITEM>
+<ITEM>And a round basyn</ITEM>
+<ITEM>And a ij. candilstikes, on of the sam with ij. nosis</ITEM>
+<ITEM>A chargour of pewter</ITEM>
+<ITEM>viij. platers, viij. disches</ITEM>
+<ITEM>And viij. sawcers of pewter</ITEM>
+<ITEM>And iij. table clothes, and therof on of worke and ij. pleyn</ITEM>
+<ITEM>And a towelle of werke</ITEM>
+<ITEM>And ij. pleyn towells</ITEM>
+<ITEM>Aud ij. rollers</ITEM>
+<ITEM>And iiij. sanappus</ITEM>
+<ITEM>iij. tubbis</ITEM>
+<ITEM>A good chern of xij. galons.</ITEM>
+</LIST></ITEM>
+<ITEM>Item, en the chambre:
+<LIST>
+<ITEM>j. ffethirbedd</ITEM>
+<ITEM>And iij. bolsters with fethirs</ITEM>
+<ITEM>And ij. matras</ITEM>
+<ITEM>And ij. peyr blankettes</ITEM>
+<ITEM>And iij. coverlettes</ITEM>
+<ITEM><PB N="102" REF="3"/>
+And xiij. shetes</ITEM>
+<ITEM>A sylour and iij. curteyns of blew bokeram</ITEM>
+<ITEM>And cost's abowt the chambre of blew bokeram</ITEM>
+<ITEM>And a whit sylour and chamberyng costours abowt with alle white clothe</ITEM>
+<ITEM>And vj. pelows stuffid with downe, etc.</ITEM>
+<ITEM>And a peyr aundyrons</ITEM>
+<ITEM>A gret chest with ij. lyddis</ITEM>
+<ITEM>A less chest with a lock and key</ITEM>
+<ITEM>A prus desk chest</ITEM>
+<ITEM>A close almery in the low chambre</ITEM>
+</LIST></ITEM>
+<ITEM>Item, in the kechyn:
+<LIST>
+<ITEM>A brasyn pott of <HI REND="italic">iiij. galons</HI> (?)</ITEM>
+<ITEM>A cawdron off xij. <HI REND="italic">galons</HI> (?)</ITEM>
+<ITEM>A littil cawdroun off . . .</ITEM>
+<ITEM>A chaffre to mak a <HI REND="italic">sell</HI> . . .</ITEM>
+<ITEM>A fryyng pann and a . . .</ITEM>
+<ITEM>A brasyn ladylle</ITEM>
+<ITEM>A fflesch hok</ITEM>
+<ITEM>A peyr rakkus of yren</ITEM>
+<ITEM>A morter off marbil</ITEM>
+<ITEM>A crow of iren</ITEM>
+<ITEM>An axe</ITEM>
+<ITEM>A haget</ITEM>
+<ITEM>A bille.</ITEM>
+</LIST></ITEM>
+<ITEM>En the bultyng hous:</ITEM>
+<ITEM>En the stable:
+<LIST>
+<ITEM>ij. sadelz</ITEM>
+<ITEM>iij. bridelz</ITEM>
+<ITEM>i. panelle.</ITEM>
+</LIST></ITEM>
+<ITEM>En the ches hous:</ITEM>
+<ITEM>En the berne:
+<LIST>
+<ITEM>A wayn schodd with iren</ITEM>
+<ITEM>With iij. long cheyuns therto.</ITEM>
+</LIST></ITEM>
+</LIST>
+<TAILNOTE><P>[There is nothing in the original manuscript to enable us to identify the writer.]</P></TAILNOTE>
+<CLOSER><SIGNED>W.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

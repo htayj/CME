@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-6-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; removed a P. Checked <SUP>s</SUP>. Reviewed structure; removed incorrect MILESTONEs from NOTEs; changed pars to Verbars; changed several mdashes to hyphens. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00115">
+<STC T="M">115</STC>
+<BIBNO T="mec">CME00115</BIBNO>
+<VID>CME00115</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="2"/>
+<P>Sir Gowther.</P>
+<P>Eine englische romanze aus dem XV jahrhundert kritisch herausgegeben nebst einer litterarhistorischen untersuchung über ihre quelle sowie den gesamten ihr verwandten sagen- und legenden-kreis mit zugrundelegung der sage von Robert dem Teufel von Karl Breul.</P>
+<P>Oppeln. Eugen Franck's buchhandlung (Georg Maske).</P>
+<P>1886.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 N="6" TYPE="poem">
+<PB REF="154" MS="y"/>
+<HEAD>VI. Text.</HEAD>
+<LG N="1">
+<HEAD>I</HEAD>
+<L><HI REND="italic">God, that art of myghtis most,</HI> <MILESTONE N="116a" UNIT="B. fol."/></L>
+<L><HI REND="italic">Fader and sone and holy gost,</HI> <NOTE PLACE="foot">2 ffader <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">That bought man</HI> s<HI REND="italic">o dere,</HI> <NOTE PLACE="foot">3 man on rode <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">Shilde us from the fowle fende,</HI></L>
+<L><HI REND="italic">That is about mannys sowle to shende</HI> <MILESTONE N="5"/></L>
+<L><HI REND="italic">All tymes of the yere!</HI></L>
+<L><HI REND="italic">Sum tyme the fende hadde postee</HI></L>
+<L><HI REND="italic">For to dele with ladies free</HI></L>
+<L><HI REND="italic">In liknesse of here</HI> f<HI REND="italic">ere,</HI> <NOTE PLACE="foot">9 ffere <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">So that he bigat</HI> M<HI REND="italic">erlyng and mo</HI> <MILESTONE N="10"/> <NOTE PLACE="foot">10 merlyng <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And wrought ladies so mikil wo,</HI></L>
+<L><HI REND="italic">That ferly it is to here.</HI> <NOTE PLACE="foot">1-12 <HI REND="italic">fehlen in A, doch können, da mit dem das gedicht beginnenden roten initialen, von welchem nur noch der unterste teil erhalten ist, nur 1½ zeilen fortgerissen sind (vgl. die entspr. lücke v. 42-45) und vor fol. 11 kein blatt in A fehlt, die 12 ein∣gangsverse überhaupt nicht in A gestanden haben.</HI></NOTE></L>
+</LG>
+<LG N="2">
+<HEAD>II</HEAD>
+<L><HI REND="italic">A selcowgh thyng that is to here,</HI> <MILESTONE N="11a" UNIT="A. fol."/> <NOTE PLACE="foot">13 A—here] <HI REND="italic">f. A</HI></NOTE></L>
+<L><HI REND="italic">þat fendus niȝ</HI>yt weme<HI REND="italic">n</HI> nere <NOTE PLACE="foot">14 þat—niȝyt] . . . ȝyt <HI REND="italic">(davor nur noch ein teil von</HI> i?) <HI REND="italic">A,</HI> A fend to nyegh <HI REND="italic">B</HI> ‖ wemen] a woman so <HI REND="italic">B</HI></NOTE></L>
+<L>And makyd hom w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> chyld, <MILESTONE N="15"/> <NOTE PLACE="foot">15 And] To <HI REND="italic">B</HI> ‖ makyd] make <HI REND="italic">B</HI> ‖ hom] here <HI REND="italic">B</HI></NOTE></L>
+<L>Þo kynde of men wher þ<HI REND="italic">ei</HI> hit tane, <NOTE PLACE="foot">16 And mannes kynde of here to tan <HI REND="italic">B</HI></NOTE></L>
+<L>For of hom selfe had þ<HI REND="italic">ei</HI> nan, <NOTE PLACE="foot">17 For—þei] For of him self hath he <HI REND="italic">B</HI> ‖ nan] nev<HI REND="italic">er</HI> nan <HI REND="italic">A,</HI> non <HI REND="italic">B</HI></NOTE></L>
+<L>Be meydon <HI REND="italic">M</HI>are mylde. <NOTE PLACE="foot">18 Be marie maide mylde <HI REND="italic">B</HI> ‖ mare <HI REND="italic">A</HI></NOTE></L>
+<L><PB N="136" REF="155"/>
+Þ<HI REND="italic">er</HI>of sey<HI REND="italic">us</HI> clerk<HI REND="italic">us</HI> (y wotte, how), <NOTE PLACE="foot">19 As clerkis sayn and weten wel howe <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t s<HI REND="italic">chal</HI>l not be rehersyd now, <MILESTONE N="20"/> <MILESTONE N="20"/> <NOTE PLACE="foot">20 þat—rehersyd] Y may not all reherce <HI REND="italic">B</HI></NOTE></L>
+<L>As <HI REND="italic">C</HI>ryst fro schame me schyld: <NOTE PLACE="foot">21 As] But <HI REND="italic">B</HI> ‖ me] us <HI REND="italic">B</HI></NOTE></L>
+<L>Bot y s<HI REND="italic">chal</HI>l tell yow of a warlocke greytt, <NOTE PLACE="foot">22 Bot] <HI REND="italic">f. B</HI> ‖ of—greytt] how a child was gete <HI REND="italic">B</HI></NOTE></L>
+<L>What sorow at his mod<HI REND="italic">ur</HI> hart he seẏt <MILESTONE N="116b" UNIT="B. fol."/> <NOTE PLACE="foot">23 What] And in what <HI REND="italic">B</HI> ‖ at—hart] his moder <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his war<HI REND="italic">cus</HI> wylde. <NOTE PLACE="foot">24 warcus] workis so <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>III</HEAD>
+<L>I<HI REND="italic">e</HI>s<HI REND="italic">u C</HI>ryst, þ<HI REND="italic">a</HI>t barne blyþ<HI REND="italic">e,</HI> <MILESTONE N="25"/> <NOTE PLACE="foot">25 Of that baron yborn unblithe <HI REND="italic">B</HI> ‖ r <HI REND="italic">in</HI> barne <HI REND="italic">nach∣träglich A</HI></NOTE></L>
+<L>Gyff hom ioy, þ<HI REND="italic">a</HI>t lov<HI REND="italic">us</HI> to lyþ<HI REND="italic">e</HI> <NOTE PLACE="foot">26 Crist yeve him ioy that wulle lythe <HI REND="italic">B</HI></NOTE></L>
+<L>Of ferlys, þ<HI REND="italic">a</HI>t befell. <NOTE PLACE="foot">27 ferlys] auntres <HI REND="italic">B</HI></NOTE></L>
+<L>A la<HI REND="italic">i</HI> of <HI REND="italic">B</HI>reyten long y soȝght <NOTE PLACE="foot">28 A lai] A law <HI REND="italic">A,</HI> yn the bayes <HI REND="italic">B</HI> ‖ long] that was <HI REND="italic">B</HI></NOTE></L>
+<L>And owt þ<HI REND="italic">er</HI>of a tale have broȝht, <NOTE PLACE="foot">29 þerof—have] of oon was <HI REND="italic">B</HI> ‖ broȝht] y broȝht <HI REND="italic">A B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t lufly is to tell. <MILESTONE N="30"/> <MILESTONE N="30"/></L>
+<L>Þ<HI REND="italic">er</HI> wonde a duke in <HI REND="italic">E</HI>stryke: <NOTE PLACE="foot">31 wonde] was <HI REND="italic">B</HI> ‖ Estryk] Ostrych <HI REND="italic">B</HI></NOTE></L>
+<L>He weddyt a lade, non hur lyke <NOTE PLACE="foot">32 He] <HI REND="italic">f. B</HI> ‖ non—lyke] nobil and riche <HI REND="italic">B</HI></NOTE> <NOTE PLACE="foot">32 x-mare] Ful VII yere togeder thei were <HI REND="italic">B</HI></NOTE></L>
+<L>For comly und<HI REND="italic">ur</HI> kell; <NOTE PLACE="foot">33 for—kell] She was fayre of flessh <HI REND="italic">and</HI> felle <HI REND="italic">B</HI></NOTE></L>
+<L>To þ<HI REND="italic">e</HI> ly<HI REND="italic">ly was likened that lady clere,</HI> <MILESTONE N="11b" UNIT="A. fol."/> <NOTE PLACE="foot">34 To—clere] <HI REND="italic">f. A bis auf</HI> To þ<HI REND="italic">e</HI> ly <HI REND="italic">(die drei letzten buchstaben nur teilweise erhalten).</HI></NOTE></L>
+<L>Hur rod reyde, <HI REND="italic">as blosmes on brere,</HI> <MILESTONE N="35"/> <NOTE PLACE="foot">35 Hur—reyde] Here rody was rede <HI REND="italic">B</HI> ‖ as—brere] <HI REND="italic">f. A</HI></NOTE></L>
+<L>þ<HI REND="italic">a</HI>t ylke der<HI REND="italic">e</HI> damsell. <NOTE PLACE="foot">36 y. d.] courteis <HI REND="italic">B, velleicht in A</HI> dere <HI REND="italic">zu lesen, ein fleck im ms. an der stelle, wo das</HI> e <HI REND="italic">stehen müsste.</HI></NOTE></L>
+</LG>
+<LG N="4">
+<HEAD>IV</HEAD>
+<L>Whe<HI REND="italic">n</HI> he had weddyd þ<HI REND="italic">a</HI>t meydyn schene, <NOTE PLACE="foot">37 he h.] she was <HI REND="italic">B</HI> ‖ meydyn] ladi <HI REND="italic">B</HI></NOTE></L>
+<L>And sche <HI REND="italic">was</HI> duches, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt wene, <NOTE PLACE="foot">38] And—duches] Duches she was <HI REND="italic">B</HI> ‖ was] <HI REND="italic">f. A</HI> ‖ withowt] w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>outen <HI REND="italic">B</HI></NOTE></L>
+<L>A mangere con þei make; <NOTE PLACE="foot">39 man∣gere] grete fest <HI REND="italic">B</HI></NOTE></L>
+<L>Knyȝt<HI REND="italic">us</HI> of honowr þ<HI REND="italic">o</HI> furst dey <MILESTONE N="40"/> <MILESTONE N="40"/> <NOTE PLACE="foot">40 of h.] and squyres on <HI REND="italic">B</HI></NOTE></L>
+<L>Iustyd gently hom to pley, <NOTE PLACE="foot">41 Iustyd] On steedes <HI REND="italic">B</HI> ‖ g. h.] hem gentely <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">Here shaftes gan thei shake.</HI> <NOTE PLACE="foot">42 <HI REND="italic">Die verse 42-44 fehlen in A, ohne dass die lücke äusserlich kenntlich gemacht wird.</HI></NOTE></L>
+<L><PB N="137" REF="156" MS="y"/>
+<HI REND="italic">On the morow the lordes gente</HI></L>
+<L><HI REND="italic">Made a riall tournement</HI></L>
+<L>For that lady sake. <MILESTONE N="117a" UNIT="B. fol."/> <MILESTONE N="45"/> <NOTE PLACE="foot">45 that] the <HI REND="italic">B</HI> ‖ lady] lady is <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> duke hym selfe wan sted<HI REND="italic">ys</HI> .x. <NOTE PLACE="foot">46 hym selfe] <HI REND="italic">f. B</HI> ‖ X] ten <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And</HI> bare don full doghty men <NOTE PLACE="foot">47 full] many <HI REND="italic">B</HI></NOTE></L>
+<L>And mony a cron con crake. <NOTE PLACE="foot">48 And—cron] Here shildes <HI REND="italic">B</HI> ‖ con] gan he <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="5">
+<HEAD>V</HEAD>
+<L>Whe<HI REND="italic">n</HI> þ<HI REND="italic">i</HI>s turment <HI REND="italic">con to</HI> ses, <NOTE PLACE="foot">49 þ. t.] the feste <HI REND="italic">B</HI> ‖ con] was <HI REND="italic">A,</HI> gan <HI REND="italic">B</HI> ‖ to] y <HI REND="italic">A</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> ryche duke <HI REND="italic">and</HI> þ<HI REND="italic">o</HI> duches <MILESTONE N="50"/> <MILESTONE N="50"/> <NOTE PLACE="foot">50 ryche] worthi <HI REND="italic">B</HI> ‖ <HI REND="italic">zweites</HI> þo] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Lad hor lyfe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wyn. <NOTE PLACE="foot">51 Lad—lyfe] They levid togeder <HI REND="italic">B</HI> ‖ wyn] wenne <HI REND="italic">B</HI></NOTE></L>
+<L>X. yer <HI REND="italic">and</HI> su<HI REND="italic">m</HI> dele mare</L>
+<L>He chylde non geyt ne sche no<HI REND="italic">n</HI> bare: <NOTE PLACE="foot">53 He—bare] He gat no childe ne none she bere <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> ioy began to tyne. <NOTE PLACE="foot">54 þer] Here <HI REND="italic">B</HI> ‖ began—tyne] gan wex ful thenne <HI REND="italic">B</HI></NOTE></L>
+<L>To is lade sone co<HI REND="italic">n</HI> he seyn: <MILESTONE N="55"/> <NOTE PLACE="foot">55 <HI REND="italic">diesem vers entspricht v. 56 in B</HI> To the lady he gan say. <HI REND="italic">als v. 55 hat B</HI> As it bifill uppon a day</NOTE></L>
+<L>'Y tro, þ<HI REND="italic">o</HI>u be su<HI REND="italic">m</HI> bar<HI REND="italic">e</HI>yn; <NOTE PLACE="foot">56 <HI REND="italic">f. B</HI> ‖ bareyn] baryn <HI REND="italic">A</HI></NOTE></L>
+<L>Hit is gud, þ<HI REND="italic">a</HI>t we twyn. <NOTE PLACE="foot">57 Now mote we part atwene <HI REND="italic">B</HI></NOTE></L>
+<L>Y do bot wast my tyme on þ<HI REND="italic">e,</HI> <MILESTONE N="12a" UNIT="A. fol."/> <NOTE PLACE="foot">58 But ye myght a childe bere <HI REND="italic">B</HI></NOTE></L>
+<L>Eireles mon owre lond<HI REND="italic">ys</HI> bee'. <NOTE PLACE="foot">59 That myght my londes weld and were <HI REND="italic">B</HI></NOTE></L>
+<L>For gretyng he con not blyn. <MILESTONE N="60"/> <MILESTONE N="60"/> <NOTE PLACE="foot">60 F. g.] She wept <HI REND="italic">B</HI> ‖ he] and <HI REND="italic">B</HI> ‖ con] myght <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="6">
+<HEAD>VI</HEAD>
+<L>Þ<HI REND="italic">o</HI> lade sykud <HI REND="italic">and</HI> made yll chere, <NOTE PLACE="foot">61 Than morned the lady clere <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t all feylyd hur whyte lere, <NOTE PLACE="foot">62 all f.] al falwyd <HI REND="italic">B</HI> ‖ w. l.] faire chere <HI REND="italic">B</HI></NOTE></L>
+<L>For schu conseyvyd noght.</L>
+<L>Scho preyd to god and <HI REND="italic">M</HI>are mylde, <NOTE PLACE="foot">64 god] crist <HI REND="italic">B</HI></NOTE></L>
+<L>Schuld gyffe hur g<HI REND="italic">ra</HI>ce to have a chyld: <MILESTONE N="65"/> <NOTE PLACE="foot">65 gyffe] <HI REND="italic">f. B</HI></NOTE></L>
+<L>On what man<HI REND="italic">er,</HI> scho ne roȝth. <NOTE PLACE="foot">66 On] In <HI REND="italic">B</HI></NOTE></L>
+<L>In hur orchard apon a day <MILESTONE N="117b" UNIT="B. fol."/> <NOTE PLACE="foot">67 In] As sche walkyd yn <HI REND="italic">B</HI></NOTE></L>
+<L>Ho meyt a mon, þ<HI REND="italic">o</HI> sothe to say, <NOTE PLACE="foot">68 þo—say] in a riche aray <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t hur of luffe besoȝth, <NOTE PLACE="foot">69 Of loue he here <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="138" REF="157"/>
+As lyke hur lorde, as he myȝt be: <MILESTONE N="70"/> <MILESTONE N="70"/> <NOTE PLACE="foot">70 He come in liknesse of here lord free <HI REND="italic">B</HI></NOTE></L>
+<L>He leyd hur down und<HI REND="italic">ur</HI> a tre, <NOTE PLACE="foot">71 Undernethe a chestayn tree <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hur is wyll he wroȝtth. <NOTE PLACE="foot">72 With—wyll] His will with hire <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="7">
+<HEAD>VII</HEAD>
+<L>When he had is wylle all don, <NOTE PLACE="foot">73 all] <HI REND="italic">f. B</HI> ‖ don] ydoon <HI REND="italic">B</HI></NOTE></L>
+<L>A felturd fende he start up son <NOTE PLACE="foot">74 felturd] fowle <HI REND="italic">B</HI> ‖ start] stode <HI REND="italic">B</HI></NOTE></L>
+<L>And stode <HI REND="italic">and</HI> hur beheld. <MILESTONE N="75"/> <NOTE PLACE="foot">75 A. stode] He lokid <HI REND="italic">B</HI> ‖ h <HI REND="italic">vor</HI> beheld <HI REND="italic">getilgt A</HI></NOTE> <NOTE PLACE="foot">75 He] And <HI REND="italic">B</HI> ‖ seyd] said dame <HI REND="italic">B</HI> ‖ a ch.] <HI REND="italic">f. B (doch vgl. var. zu v. 77)</HI></NOTE></L>
+<L>He seyd: 'y have geyton a chylde on þ<HI REND="italic">e,</HI></L>
+<L>Þ<HI REND="italic">a</HI>t in is yothe full wylde s<HI REND="italic">chal</HI>l bee <NOTE PLACE="foot">77 þat] A childe that <HI REND="italic">B</HI> ‖ y. f.] yougthe <HI REND="italic">B</HI></NOTE></L>
+<L>And weppons wyȝtly weld'. <NOTE PLACE="foot">78 And] His <HI REND="italic">B</HI> ‖ weppons] wepen <HI REND="italic">B</HI> ‖ wyȝtly] for to <HI REND="italic">B</HI></NOTE></L>
+<L>Sche blessyd hur <HI REND="italic">and</HI> fro hym ran, <MILESTONE N="12b" UNIT="A. fol."/></L>
+<L>In to hur chambur fast ho wan, <MILESTONE N="80"/> <MILESTONE N="80"/> <NOTE PLACE="foot">80 fast—wan] anon she cam <HI REND="italic">B</HI></NOTE></L>
+<L>Þat was so bygly b<HI REND="italic">e</HI>ld. <NOTE PLACE="foot">81 bygly] stronge of <HI REND="italic">B</HI> ‖ beld] byld <HI REND="italic">A,</HI> belde <HI REND="italic">B</HI></NOTE></L>
+<L>Scho seyd to hur lord, þ<HI REND="italic">a</HI>t lade myld: <NOTE PLACE="foot">82 þat—myld] so mylde <HI REND="italic">B</HI></NOTE></L>
+<L>'To nyȝt we mon geyt a chyld, <NOTE PLACE="foot">83 we—geyt] y hope to conceyve <HI REND="italic">B</HI></NOTE></L>
+<L>Þat schall owre lond<HI REND="italic">us</HI> weld. <NOTE PLACE="foot">84 owre] yowre <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="8">
+<HEAD>VIII</HEAD>
+<L>A na<HI REND="italic">n</HI>gell com fro hevon bryght <MILESTONE N="85"/> <NOTE PLACE="foot">85 com—hevon] that was so faire and <HI REND="italic">B</HI></NOTE></L>
+<L>And told me so þ<HI REND="italic">i</HI>s same nyght, <NOTE PLACE="foot">86 And] <HI REND="italic">f. B</HI> ‖ same] yonder <HI REND="italic">B</HI></NOTE></L>
+<L>Y hope, was god<HI REND="italic">us</HI> sond. <NOTE PLACE="foot">87 Y—godus] I trust to cristis <HI REND="italic">B</HI></NOTE></L>
+<L>Þen wyll þ<HI REND="italic">a</HI>t stynt all owr stryfe'. <NOTE PLACE="foot">88 þen] That he <HI REND="italic">B</HI> ‖ þat—owr] stynt us of owre <HI REND="italic">B</HI></NOTE></L>
+<L>Be þ<HI REND="italic">o</HI> lappe he laȝt his wyfe <MILESTONE N="118a." UNIT="B. fol."/> <NOTE PLACE="foot">89 Be—laȝt] In his armys he toke <HI REND="italic">B</HI></NOTE></L>
+<L>And seyd: 'dame, we schall fonde'. <MILESTONE N="90"/> <MILESTONE N="90"/> <NOTE PLACE="foot">90 And—schall] That frely was to <HI REND="italic">B</HI></NOTE></L>
+<L>At evon to beyd þ<HI REND="italic">ei</HI> hom ches, <NOTE PLACE="foot">91 a. e.] What it was even <HI REND="italic">B</HI> ‖ hom] <HI REND="italic">f. B</HI> ‖ ches] chase <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> ryche duke <HI REND="italic">and</HI> þ<HI REND="italic">o</HI> duches,</L>
+<L>And wold no leng<HI REND="italic">ur</HI> wonde. <NOTE PLACE="foot">93 And] For no man <HI REND="italic">B</HI> ‖ no l.] thei <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="139" REF="158" MS="y"/>
+He pleyd hym w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">a</HI>t lade hende,</L>
+<L><HI REND="italic">And</HI> ei yode scho bownden w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">o</HI> fende, <MILESTONE N="95"/> <NOTE PLACE="foot">95 And—bownden] She was bounde <HI REND="italic">B</HI> ‖ þo] a <HI REND="italic">B</HI></NOTE></L>
+<L>To god wold losse hur bonde. <NOTE PLACE="foot">96 To g.] Til crist <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>IX</HEAD>
+<L>Þ<HI REND="italic">i</HI>s chyld w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>in hur was no nod<HI REND="italic">ur,</HI></L>
+<L>Bot eyvon <HI REND="italic">M</HI>arlyon halfe brod<HI REND="italic">ur:</HI> <NOTE PLACE="foot">98 eyvon] <HI REND="italic">f. B</HI> ‖ Marlyon] Marlyng<HI REND="italic">is B</HI></NOTE></L>
+<L>For won fynd gatte hom bothe. <NOTE PLACE="foot">99 For] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Þei s<HI REND="italic">er</HI>vyd nev<HI REND="italic">er</HI> of odyr þyng, <MILESTONE N="100"/> <MILESTONE N="13a" UNIT="A. fol."/> <MILESTONE N="100"/> <NOTE PLACE="foot">100 He <HI REND="italic">B</HI> ‖ of] for <HI REND="italic">B</HI></NOTE></L>
+<L>But for to tempe weme<HI REND="italic">n</HI> y<HI REND="italic">y</HI>ng; <NOTE PLACE="foot">101 for—tempe] temptid men and <HI REND="italic">B</HI> ‖ yyng] yong <HI REND="italic">A</HI></NOTE></L>
+<L>To deyle w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hom was wothe. <NOTE PLACE="foot">102 w. w.] for sethe <HI REND="italic">B</HI></NOTE></L>
+<L>Ylke a day scho grette fast <NOTE PLACE="foot">103 Ylke—grette] Thus the lady gretid <HI REND="italic">B</HI></NOTE></L>
+<L>And was delyv<HI REND="italic">er</HI>id at þ<HI REND="italic">o</HI> last <NOTE PLACE="foot">104 And] Til sche <HI REND="italic">B</HI></NOTE></L>
+<L>Of won, þ<HI REND="italic">a</HI>t <HI REND="italic">wold</HI> do skathe. <MILESTONE N="105"/> <NOTE PLACE="foot">105 wold] coth <HI REND="italic">A,</HI> wolde <HI REND="italic">B (doch war auch in A ursprünglich</HI> wold <HI REND="italic">geschrieben, es ist dann aber unterpunktiert und durchgestrichen und</HI> coth <HI REND="italic">dahinter geschrieben)</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> duke hym gard to kyrke beyre, <NOTE PLACE="foot">106 To the chirch thei gon him bere <HI REND="italic">B</HI></NOTE></L>
+<L>Crystond hym <HI REND="italic">and</HI> cald hym <HI REND="italic">G</HI>wother, <NOTE PLACE="foot">107 And cristen his name Goughthere <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t syþyn wax breme <HI REND="italic">and brathe.</HI> <NOTE PLACE="foot">108 syþyn] afterward <HI REND="italic">B</HI> ‖ a. b.] as barre <HI REND="italic">A</HI></NOTE></L>
+</LG>
+<LG N="10">
+<HEAD>X</HEAD>
+<L>Þ<HI REND="italic">o</HI> duke co<HI REND="italic">m</HI>ford þ<HI REND="italic">a</HI>t duches heynde, <NOTE PLACE="foot">109 duke] lord <HI REND="italic">B</HI> ‖ þat—heynde] the lady gent <HI REND="italic">B</HI></NOTE></L>
+<L>And aft<HI REND="italic">ur</HI> melche wemen he sende, <MILESTONE N="110"/> <MILESTONE N="110"/> <NOTE PLACE="foot">110 m. w.] norsis anone <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> best in þat cuntre, <MILESTONE N="108b" UNIT="B. fol."/> <NOTE PLACE="foot">111 þo] Of the <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t was full gud knyȝtt<HI REND="italic">ys</HI> wyffys. <NOTE PLACE="foot">112 þat—gud] Su<HI REND="italic">m</HI>me were nobill <HI REND="italic">B</HI></NOTE></L>
+<L>He sowkyd hom so, þei lost þ<HI REND="italic">er</HI> lyvys: <NOTE PLACE="foot">113 sowkyd—so] sak so sore <HI REND="italic">B</HI> ‖ þer] here <HI REND="italic">B</HI></NOTE></L>
+<L>Sone had he sleyn three. <NOTE PLACE="foot">114 Sone] Ful sone <HI REND="italic">B</HI> ‖ h. he] he hadde <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> chyld was yong, <HI REND="italic">and</HI> fast he wex: <NOTE PLACE="foot">115 <HI REND="italic">der vers steht in A hinter 116</HI> ‖ was—wex] throfe and swythe wax <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">e</HI> duke gard prycke aft<HI REND="italic">ur</HI> sex. <NOTE PLACE="foot">116 g.—a.] sent after other <HI REND="italic">B</HI></NOTE></L>
+<L>Hende, harkons yee! <NOTE PLACE="foot">117 As wetnesse the storie <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="140" REF="159" MS="y"/>
+Be twelfe moneþys was gon, <NOTE PLACE="foot">118 Be] Bi that the <HI REND="italic">B</HI> ‖ w. g.] weren comyn and gon <HI REND="italic">B</HI></NOTE></L>
+<L>IX norsus had he slon, <NOTE PLACE="foot">119 IX] Nyen <HI REND="italic">B</HI> ‖ h. he] he had <HI REND="italic">B</HI> ‖ slon] ysloon <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">L</HI>adys feyr and fre. <MILESTONE N="120"/> <MILESTONE N="120"/> <NOTE PLACE="foot">120 Ladys] Of ladys <HI REND="italic">A</HI></NOTE></L>
+</LG>
+<LG N="11">
+<HEAD>XI</HEAD>
+<L>Knyȝt<HI REND="italic">us</HI> geydyrd hom <HI REND="italic">in</HI> samu<HI REND="italic">n</HI> <MILESTONE N="13b" UNIT="A. fol."/> <NOTE PLACE="foot">121 Knyȝtus] Knyȝt<HI REND="italic">us</HI> of þ<HI REND="italic">a</HI>t cuntre <HI REND="italic">A B</HI> ‖ in] <HI REND="italic">f. A</HI></NOTE></L>
+<L>And seyd to þ<HI REND="italic">o</HI> duke, hit was no gamu<HI REND="italic">n</HI> <NOTE PLACE="foot">122 to þo d.] forsothe <HI REND="italic">B</HI> ‖ h. w.] this is <HI REND="italic">B</HI></NOTE></L>
+<L>To lose hor wyffus soo. <NOTE PLACE="foot">123 lose] sleyn <HI REND="italic">B</HI> ‖ wyffus] ladies <HI REND="italic">B</HI></NOTE></L>
+<L>Þei badde hym orden for is son:</L>
+<L>'He geyt<HI REND="italic">ys</HI> no more is olde won, <MILESTONE N="125"/> <NOTE PLACE="foot">125 For he myght not have his wone <HI REND="italic">B</HI></NOTE></L>
+<L>Norsus now no moo.' <NOTE PLACE="foot">126 Norsus—no] Nor non norses <HI REND="italic">B</HI></NOTE></L>
+<L>His mod<HI REND="italic">ur</HI> fell a fowle unhappe, <NOTE PLACE="foot">127 Than bifill his moder a ferly happe <HI REND="italic">B</HI></NOTE></L>
+<L>Apon a day bad hym þ<HI REND="italic">o</HI> pappe,</L>
+<L>He snaffulld to hit soo: <NOTE PLACE="foot">129 He—hit] And he ariȝhte hire <HI REND="italic">B</HI></NOTE></L>
+<L>He rofe þ<HI REND="italic">o</HI> hed fro þ<HI REND="italic">o</HI> brest; <MILESTONE N="130"/> <MILESTONE N="130"/> <NOTE PLACE="foot">130 rofe] tare <HI REND="italic">B</HI> ‖ þ.—þ.] the oon side of hire <HI REND="italic">B</HI></NOTE></L>
+<L>Scho fell backeward <HI REND="italic">and</HI> cald a prest, <NOTE PLACE="foot">131 Scho—cald] The lady cried after <HI REND="italic">B</HI></NOTE></L>
+<L>To chamb<HI REND="italic">ur</HI> fled hym froo. <NOTE PLACE="foot">132 To] In to a <HI REND="italic">B</HI> ‖ fled]she fled <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="12">
+<HEAD>XII</HEAD>
+<L>Lechus helud þat lade yare; <MILESTONE N="119a" UNIT="B. fol."/> <NOTE PLACE="foot">133 Lechus] Than a leche <HI REND="italic">B</HI> ‖ helud] helid uppe <HI REND="italic">B</HI> ‖ þat] the <HI REND="italic">B</HI> ‖ yare] sore <HI REND="italic">B</HI></NOTE></L>
+<L>Weme<HI REND="italic">n</HI> durst gyffe hym souke no mare, <NOTE PLACE="foot">134 Wemen] She <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t yong chyld <HI REND="italic">G</HI>owther, <MILESTONE N="135"/></L>
+<L>Bot fed hym up w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> rych fode <NOTE PLACE="foot">136 rych] other <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And</HI> þ<HI REND="italic">a</HI>t full mych, as hym beho<HI REND="italic">de,</HI> <NOTE PLACE="foot">137 And—full] As <HI REND="italic">B</HI> ‖ behode] behovyd <HI REND="italic">A,</HI> behovid <HI REND="italic">B</HI></NOTE></L>
+<L>Full safly mey y sweyre. <NOTE PLACE="foot">138 That dare y savely swere <HI REND="italic">B</HI></NOTE></L>
+<L>Be þat he was xv yere of eld, <NOTE PLACE="foot">139 139-144 <HI REND="italic">f. B</HI></NOTE></L>
+<L>He made a wepon, þat he schuld weld <MILESTONE N="140"/></L>
+<L>(No nod<HI REND="italic">ur</HI> myȝht hit beyr), <NOTE PLACE="foot">141 nod.] nod<HI REND="italic">ur</HI> mon <HI REND="italic">A</HI></NOTE></L>
+<L><PB N="141" REF="160"/>
+A fachon boþ<HI REND="italic">e</HI> of styll and yron, <MILESTONE N="13a" UNIT="A. fol."/></L>
+<L>Wytte yow wyll, he wex full styron,</L>
+<L>And fell folke con he feyr.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII</HEAD>
+<L>In a twelmond more he wex, <MILESTONE N="145"/> <NOTE PLACE="foot">145 In] That in <HI REND="italic">B</HI> ‖ a t.] oo yere <HI REND="italic">B</HI></NOTE></L>
+<L>Þen odur chyld<HI REND="italic">ur</HI> in seyvon or sex: <MILESTONE N="140"/> <NOTE PLACE="foot">146 in—or] did in <HI REND="italic">B</HI></NOTE></L>
+<L>Hym semyd full well to ryde. <NOTE PLACE="foot">147 full] <HI REND="italic">f. B</HI></NOTE></L>
+<L>He was so wekyd in all kyn wyse, <NOTE PLACE="foot">148 was so] wax <HI REND="italic">B</HI> ‖ k. w.] withe <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> duke hym myght not chastyse, <NOTE PLACE="foot">149 þ. d.] His fader <HI REND="italic">B</HI> ‖ chastithe <HI REND="italic">B</HI></NOTE></L>
+<L>Bot made hym knyȝt þat tyde. <MILESTONE N="150"/></L>
+<L><HI REND="italic">He gaf him his best swerd in honde:</HI> <NOTE PLACE="foot">151 <HI REND="italic">151 u. 152 folge ich B, da A völlig verderbt scheint</HI> ‖ W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> cold brade bronde <HI REND="italic">A</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> was no <HI REND="italic">knyght</HI> in <HI REND="italic">all</HI> þ<HI REND="italic">a</HI>t londe,</L>
+<L>Þ<HI REND="italic">a</HI>t dynt of hym durst byde. <NOTE PLACE="foot">153 þat] A <HI REND="italic">B</HI> ‖ of—byde]durst him abyde <HI REND="italic">B</HI></NOTE></L>
+<L>For sorro þ<HI REND="italic">o</HI> duke fell don ded; <NOTE PLACE="foot">154 For—don] But after whan his fader was <HI REND="italic">B</HI></NOTE></L>
+<L>His mod<HI REND="italic">ur</HI> was so wo of red, <MILESTONE N="155"/> <NOTE PLACE="foot">155 Carfull was his moder rede <HI REND="italic">B</HI></NOTE></L>
+<L>Hur care scho myȝt not hyde. <MILESTONE N="150"/> <NOTE PLACE="foot">156 care] sorow <HI REND="italic">B</HI> ‖ scho—not] myght no man <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="14">
+<HEAD>XIV</HEAD>
+<L><HI REND="italic">Dowrey</HI> for hym sche myȝt have non, <NOTE PLACE="foot">157 Dowrey] Mor sorro <HI REND="italic">A</HI> ‖ sche m.] must she <HI REND="italic">B</HI></NOTE></L>
+<L>Bot to a castyll of lyme and ston <NOTE PLACE="foot">158 to] in <HI REND="italic">B</HI> ‖ a] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Frely þen scho fled. <NOTE PLACE="foot">159 F. þ.] Fast from him <HI REND="italic">B</HI></NOTE></L>
+<L>Scho made hit strong <HI REND="italic">and</HI> held h<HI REND="italic">ur</HI> þare. <MILESTONE N="160"/> <NOTE PLACE="foot">160 hit] hire <HI REND="italic">B</HI></NOTE></L>
+<L>Hor men myȝt tell of sorro <HI REND="italic">and</HI> care: <NOTE PLACE="foot">161 tell] syng <HI REND="italic">B</HI></NOTE></L>
+<L>Evyll þei wer bested; <MILESTONE N="119b" UNIT="B. fol."/> <NOTE PLACE="foot">162 Evyll] So strait <HI REND="italic">B</HI></NOTE></L>
+<L>For, wher he meyt hom be þ<HI REND="italic">o</HI> way, <MILESTONE N="14b" UNIT="A. fol."/></L>
+<L>'Evyll heyle' myȝt þei say, <NOTE PLACE="foot">164 Alas the while thei m. s. <HI REND="italic">B</HI></NOTE></L>
+<L>Þat ev<HI REND="italic">er</HI> mod<HI REND="italic">ur</HI> hom fed; <MILESTONE N="165"/> <NOTE PLACE="foot">165 modur h.] his moder him <HI REND="italic">B</HI></NOTE></L>
+<L>For w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his fachon he wold hom slo <MILESTONE N="160"/></L>
+<L>And gurde hor horss<HI REND="italic">us</HI> back<HI REND="italic">us</HI> in too: <NOTE PLACE="foot">167 A. gurde] Or strik <HI REND="italic">B</HI> ‖ horssus] hors <HI REND="italic">B</HI> ‖ backus] bak <HI REND="italic">B</HI> ‖ in t.] a twoo <HI REND="italic">B</HI></NOTE></L>
+<L>All seche p<HI REND="italic">ar</HI>ell<HI REND="italic">ys</HI> þei dred. <NOTE PLACE="foot">168 All] <HI REND="italic">f. B</HI> ‖ parell <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="15">
+<PB N="142" REF="161"/>
+<HEAD>XV</HEAD>
+<L>Now is he duke of greyt renown <NOTE PLACE="foot">169 Now—he] Thus was the <HI REND="italic">B</HI></NOTE></L>
+<L>And men of holy kyrke dyngg<HI REND="italic">us</HI> down, <MILESTONE N="170"/> <NOTE PLACE="foot">170 And] <HI REND="italic">f. B</HI> ‖ h. k.] reli∣gion <HI REND="italic">B</HI> ‖ dynggus] he throng hem <HI REND="italic">B</HI></NOTE></L>
+<L>Wher he myȝt hom mete;</L>
+<L>Masse ne matens wold he non here <NOTE PLACE="foot">172 ne] nor <HI REND="italic">B</HI></NOTE></L>
+<L>Nor no prechyng of no frere, <NOTE PLACE="foot">173 Nor] Ne <HI REND="italic">B</HI> ‖ prechyng] s <HI REND="italic">vor</HI> c <HI REND="italic">radiert A</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t dar I heyly hette. <NOTE PLACE="foot">174 þat] Thus <HI REND="italic">B</HI> ‖ h. h.] yow behete <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">Erly and</HI> late, lowde <HI REND="italic">and</HI> styll <MILESTONE N="170"/> <MILESTONE N="175"/> <NOTE PLACE="foot">175 <HI REND="italic">In B sind 175 und 176 umgestellt.</HI> ‖ E. a.] For <HI REND="italic">A</HI></NOTE></L>
+<L>He wold wyrke is fad<HI REND="italic">ur</HI> wyll, <NOTE PLACE="foot">176 He—fadur] And tho that wold not werk his <HI REND="italic">B</HI></NOTE></L>
+<L>Wher he stod or sete. <NOTE PLACE="foot">177 Ful sore he wold hem bete <HI REND="italic">B</HI></NOTE></L>
+<L>Hontyng lufde he ald<HI REND="italic">ur</HI> best <NOTE PLACE="foot">178 l. h.] he loved <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">In</HI> parke <HI REND="italic">and in</HI> wylde forest, <NOTE PLACE="foot">179 In] <HI REND="italic">f. A</HI> ‖ parke] parkes <HI REND="italic">B</HI> ‖ a. in] wodd <HI REND="italic">and A</HI></NOTE></L>
+<L><HI REND="italic">Where he myght it g</HI>e<HI REND="italic">te.</HI> <MILESTONE N="180"/> <NOTE PLACE="foot">180 Boþ<HI REND="italic">e</HI> be wey<HI REND="italic">us</HI> and strete <HI REND="italic">A</HI> ‖ gate <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="16">
+<HEAD>XVI</HEAD>
+<L>He went to honte apon a day, <NOTE PLACE="foot">181 He—honte] As he rode on huntyng <HI REND="italic">B</HI></NOTE></L>
+<L>He see a no<HI REND="italic">n</HI>ry be þ<HI REND="italic">o</HI> way, <MILESTONE N="120a" UNIT="B. fol."/> <NOTE PLACE="foot">182 see] saw <HI REND="italic">B</HI> þo] the high <HI REND="italic">B</HI></NOTE></L>
+<L>And þed<HI REND="italic">ur</HI> con he ryde.</L>
+<L>Tho pryorys and hur covent <MILESTONE N="15a" UNIT="A. fol."/> <NOTE PLACE="foot">184 pryorys] proresse <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> presescion ageyn hym went <MILESTONE N="180"/> <MILESTONE N="185"/> <NOTE PLACE="foot">185 presescion] p<HI REND="italic">re</HI>∣cession <HI REND="italic">B</HI></NOTE></L>
+<L>Full hastely þat tyde. <NOTE PLACE="foot">186 F. h.] Trewly in <HI REND="italic">B</HI></NOTE></L>
+<L>Þei wer full ferd of his body, <NOTE PLACE="foot">187 Thei kneled down oppon here knee <HI REND="italic">B</HI></NOTE></L>
+<L>For he and is men boþ<HI REND="italic">e</HI> leyn hom by <NOTE PLACE="foot">188 And said leige lord welcome be yee <HI REND="italic">B</HI></NOTE></L>
+<L>(Þ<HI REND="italic">o</HI> sothe why schuld y hyde?); <NOTE PLACE="foot">189 Yn hert is nowght to hide <HI REND="italic">B</HI></NOTE></L>
+<L>And syþyn he spard hom in hor kyrke <MILESTONE N="190"/> <NOTE PLACE="foot">190 And—hom] He drof hem home <HI REND="italic">B</HI> ‖ in] in to <HI REND="italic">B</HI> ‖ kyrke] chirche <HI REND="italic">B</HI></NOTE></L>
+<L>And brend hom up: þ<HI REND="italic">us</HI> con he w<HI REND="italic">y</HI>rke. <NOTE PLACE="foot">191 wyrke] werke A, werch <HI REND="italic">B</HI></NOTE></L>
+<L>Þen went his name full wyde. <NOTE PLACE="foot">192 þen—name] His lose sporng <HI REND="italic">(so) B</HI></NOTE></L>
+</LG>
+<LG N="17">
+<HEAD>XVII</HEAD>
+<L>All, þ<HI REND="italic">a</HI>t ev<HI REND="italic">er</HI> on <HI REND="italic">C</HI>ryst <HI REND="italic">wold</HI> le<HI REND="italic">v</HI>e, <NOTE PLACE="foot">193 All] Al tho <HI REND="italic">B</HI> ‖ ever—Cryst] wold on god <HI REND="italic">B</HI> ‖ wold] con <HI REND="italic">A</HI> ‖ leve] lefe <HI REND="italic">A,</HI> belefe <HI REND="italic">B</HI></NOTE></L>
+<L>Yong and old, he con hom greve <NOTE PLACE="foot">194 Yong—hom] He was abowte hem to <HI REND="italic">B</HI></NOTE></L>
+<L>In all, þat he myȝt doo. <MILESTONE N="195"/></L>
+<L><PB N="143" REF="162" MS="y"/>
+Meydyns maryag<HI REND="italic">ys</HI> wolde he spyll <MILESTONE N="190"/> <NOTE PLACE="foot">196 maryagys] maryage <HI REND="italic">A,</HI> mariagies <HI REND="italic">B</HI></NOTE></L>
+<L>And take wyff<HI REND="italic">us</HI> ageyn hor wyll</L>
+<L>And sley hor husbond<HI REND="italic">u</HI>s too</L>
+<L>And make frer<HI REND="italic">us</HI> to leype at kragg<HI REND="italic">us</HI> <NOTE PLACE="foot">199 And—frerus] He made prestes and clerkes <HI REND="italic">B</HI> ‖ at] on <HI REND="italic">B</HI></NOTE></L>
+<L>And p<HI REND="italic">ar</HI>sons for to heng on knagg<HI REND="italic">us</HI> <MILESTONE N="200"/> <NOTE PLACE="foot">200 And—for] Monkes and freres <HI REND="italic">B</HI> ‖ heng] hong <HI REND="italic">B</HI></NOTE></L>
+<L>And od<HI REND="italic">ur</HI> prestys sloo; <NOTE PLACE="foot">201 Thus wonderly wold he doo <HI REND="italic">B</HI></NOTE></L>
+<L>To bren armett<HI REND="italic">ys</HI> was is dyssyre, <NOTE PLACE="foot">202 He brent up heremites on a fere <HI REND="italic">B</HI></NOTE></L>
+<L>A powre wedow to seyt on fyre <MILESTONE N="120b" UNIT="B. fol."/> <NOTE PLACE="foot">203 And paid wedows the same hire <HI REND="italic">B</HI></NOTE></L>
+<L>And werke hom mykyll woo. <NOTE PLACE="foot">204 A. w.] He wrought <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="18">
+<HEAD>XVIII</HEAD>
+<L>A nolde erle of þ<HI REND="italic">a</HI>t cuntre <MILESTONE N="15b" UNIT="A. fol."/> <MILESTONE N="205"/> <NOTE PLACE="foot">205 nolde] l <HI REND="italic">nachtr. A,</HI> good old <HI REND="italic">B</HI></NOTE></L>
+<L>Unto þ<HI REND="italic">o</HI> duke þen ryd<HI REND="italic">ys</HI> hee <MILESTONE N="200"/> <NOTE PLACE="foot">206 To <HI REND="italic">B</HI> ‖ rydys] rode <HI REND="italic">B</HI></NOTE></L>
+<L>And seyd: 'syr, why dose þ<HI REND="italic">o</HI>u soo? <NOTE PLACE="foot">207 dose] doest <HI REND="italic">B</HI></NOTE></L>
+<L>We howpe, þ<HI REND="italic">o</HI>u come nev<HI REND="italic">er</HI> of crysto<HI REND="italic">n</HI> stryn, <NOTE PLACE="foot">208 W. h.] <HI REND="italic">f. B</HI> ‖ come] comest <HI REND="italic">B</HI></NOTE></L>
+<L>Bot art su<HI REND="italic">m</HI> fend<HI REND="italic">ys</HI> son, we weyn, <NOTE PLACE="foot">209 Bot] Thou <HI REND="italic">B</HI> ‖ we] y <HI REND="italic">B</HI></NOTE></L>
+<L>Þat werk<HI REND="italic">us</HI> hus þis woo. <MILESTONE N="210"/> <NOTE PLACE="foot">210 Bi thi werkis it semith so <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u dose nev<HI REND="italic">er</HI> gud, bot ey þ<HI REND="italic">o</HI> ylle, <NOTE PLACE="foot">211 never] no <HI REND="italic">B</HI> ‖ ey] ever <HI REND="italic">B</HI> ‖ þo] <HI REND="italic">f. B</HI></NOTE></L>
+<L>We hope, þ<HI REND="italic">o</HI>u be full syb þ<HI REND="italic">o</HI> de<HI REND="italic">v</HI>yll.' <NOTE PLACE="foot">212 Thou art bisibbe the devel of hell <HI REND="italic">B</HI> ‖ deyll <HI REND="italic">A</HI></NOTE></L>
+<L>S<HI REND="italic">yr G</HI>owther wex þen throo. <NOTE PLACE="foot">213 Syr—þen] Than was sir Gowghter <HI REND="italic">B</HI></NOTE></L>
+<L>Hee seyd: 's<HI REND="italic">yr,</HI> and þ<HI REND="italic">o</HI>u ly on mee, <NOTE PLACE="foot">214 Hee] And <HI REND="italic">B</HI> ‖ syr] <HI REND="italic">f. B</HI> ‖ and] if <HI REND="italic">B</HI></NOTE></L>
+<L>Hongud and drawon s<HI REND="italic">chal</HI>l þ<HI REND="italic">o</HI>u bee <MILESTONE N="215"/> <NOTE PLACE="foot">215 drawon] to draw <HI REND="italic">B</HI> ‖ schall] shalt <HI REND="italic">B</HI></NOTE></L>
+<L>And nev<HI REND="italic">er</HI> qwycke heyþyn goo.' <MILESTONE N="210"/> <NOTE PLACE="foot">216 And—heyþyn] Er than thow fro me <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="19">
+<HEAD>XIX</HEAD>
+<L>He gard to putte þ<HI REND="italic">o</HI> erle in hold, <NOTE PLACE="foot">217 gard—erle] kept this erll fast <HI REND="italic">B</HI></NOTE></L>
+<L>And to his mod<HI REND="italic">ur</HI> castyll he wold <NOTE PLACE="foot">218 modur] moder is <HI REND="italic">B</HI></NOTE></L>
+<L>As fast, as he myȝt ryde; <NOTE PLACE="foot">219 myȝt] my <HI REND="italic">B</HI></NOTE></L>
+<L>He seyd: 'dame, tell me in hye, <MILESTONE N="220"/> <NOTE PLACE="foot">220 dame—hye] to his moder free <HI REND="italic">B</HI></NOTE></L>
+<L>Who was my fad<HI REND="italic">ur,</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt lye, <NOTE PLACE="foot">221 w. l.] tell thow me <HI REND="italic">B</HI></NOTE></L>
+<L>Or þ<HI REND="italic">i</HI>s schall thoro þ<HI REND="italic">e</HI> glyde'. <NOTE PLACE="foot">222 þis] my swerd <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="144" REF="163"/>
+He sette his fachon to h<HI REND="italic">ur</HI> hart: <NOTE PLACE="foot">223 h. f.] the poynt <HI REND="italic">B</HI> ‖ hart] brest <HI REND="italic">B</HI></NOTE></L>
+<L>'Have done, yf þ<HI REND="italic">o</HI>u lufe þ<HI REND="italic">i</HI> qwart!' <NOTE PLACE="foot">224 And said dame thow getest non other prest <HI REND="italic">B</HI></NOTE></L>
+<L>Ho onswarde hym þat tyde: <MILESTONE N="225"/> <MILESTONE N="16a" UNIT="A. fol."/> <NOTE PLACE="foot">225 The sothe if thow hide <HI REND="italic">B</HI></NOTE></L>
+<L>'My lord', scho seyd, 'þ<HI REND="italic">a</HI>t dyed last'. <MILESTONE N="220"/> <MILESTONE N="121a" UNIT="B. fol."/> <NOTE PLACE="foot">226 My—seyd] She said sone the duke <HI REND="italic">B</HI></NOTE></L>
+<L>'Y hope', he seyd, 'þ<HI REND="italic">o</HI>u ly<HI REND="italic">us</HI> full fast'. <NOTE PLACE="foot">227 That is owt of this world past <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> teyr<HI REND="italic">us</HI> he lett don glyde. <NOTE PLACE="foot">228 He weddid me with pride <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="20">
+<HEAD>XX</HEAD>
+<L>'Son, syþon y schall þ<HI REND="italic">o</HI> soþ<HI REND="italic">e</HI> say, <NOTE PLACE="foot">229 Son—soþe] The sothe trewly shal I <HI REND="italic">B</HI></NOTE></L>
+<L>In owre orcharde apon a day <MILESTONE N="230"/> <NOTE PLACE="foot">230 In] As y went in <HI REND="italic">B</HI></NOTE></L>
+<L>A fende gat þe þare <NOTE PLACE="foot">231 gat] bygatte <HI REND="italic">B</HI></NOTE></L>
+<L>As lyke my lorde, as he myȝt be, <NOTE PLACE="foot">232 He come in liknesse of my lord so free <HI REND="italic">B</HI></NOTE></L>
+<L>Und<HI REND="italic">ur</HI>neyth a cheston tre.'</L>
+<L>Þe<HI REND="italic">n</HI> weppyd þei boþ<HI REND="italic">e</HI> full sare. <NOTE PLACE="foot">234 þ. w.] Tho sythed <HI REND="italic">B</HI> ‖ þ. b.] sir Gowghter <HI REND="italic">B</HI></NOTE></L>
+<L>'Go, schryfe þ<HI REND="italic">e,</HI> mod<HI REND="italic">ur, and</HI> do þ<HI REND="italic">y</HI> best, <MILESTONE N="235"/> <NOTE PLACE="foot">235 Go] And said <HI REND="italic">B</HI> ‖ þy] þ<HI REND="italic">o</HI> A</NOTE></L>
+<L>For y wyll to <HI REND="italic">R</HI>ome, or þ<HI REND="italic">a</HI>t y rest, <MILESTONE N="230"/> <NOTE PLACE="foot">236 o. þ.] er than <HI REND="italic">B</HI></NOTE></L>
+<L>To lerne anod<HI REND="italic">ur</HI> lare.' <NOTE PLACE="foot">237 lerne] leve up <HI REND="italic">B</HI> ‖ lare] lere <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">i</HI>s þoght come on hym sodenly: <NOTE PLACE="foot">238 þis] Swych a <HI REND="italic">B</HI> ‖ c. o.] fil uppon <HI REND="italic">B</HI> ‖ sodenly] dowtely <HI REND="italic">B</HI></NOTE></L>
+<L>'Lorde, m<HI REND="italic">er</HI>cy!' con he cry <NOTE PLACE="foot">239 That ofte he gan to cry mercy <HI REND="italic">B</HI></NOTE></L>
+<L>To god, þ<HI REND="italic">a</HI>t <HI REND="italic">M</HI>are bare. <MILESTONE N="240"/> <NOTE PLACE="foot">240 god] i<HI REND="italic">es</HI>u <HI REND="italic">B</HI> ‖ bare] bere <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="21">
+<HEAD>XXI</HEAD>
+<L>To save hym fro is fad<HI REND="italic">ur</HI> þ<HI REND="italic">o</HI> fynde <NOTE PLACE="foot">241 <HI REND="italic">v. 241-46 fehlen in B</HI></NOTE></L>
+<L>He preyd to god and <HI REND="italic">M</HI>are hynde,</L>
+<L>Þ<HI REND="italic">a</HI>t most is of poste,</L>
+<L>To bryng is sowle to þ<HI REND="italic">o</HI> blys,</L>
+<L>Þ<HI REND="italic">a</HI>t he boght to all his <MILESTONE N="245"/></L>
+<L>Apon þ<HI REND="italic">o</HI> rodetre. <MILESTONE N="16b" UNIT="A. fol."/></L>
+<L>Sythyn he went hym hom ageyn <NOTE PLACE="foot">247 Syþyn—went] Than sir Gowghter rode <HI REND="italic">B</HI></NOTE></L>
+<L>And seyd to þ<HI REND="italic">o</HI> erle, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt leyn: <NOTE PLACE="foot">248 seyd—leyn] to the olde erll he gan sayn <HI REND="italic">B</HI></NOTE></L>
+<L>'Þ<HI REND="italic">o</HI> sothe tale tolde þ<HI REND="italic">o</HI>u mee; <NOTE PLACE="foot">249 þ. s.] A trew <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="145" REF="164"/>
+Y wyll to <HI REND="italic">R</HI>ome to þ<HI REND="italic">o</HI> apost<HI REND="italic">o</HI>yll, <MILESTONE N="250"/> <NOTE PLACE="foot">250 Y w.] Now wol I <HI REND="italic">B</HI> ‖ þo] that <HI REND="italic">B</HI> ‖ apostoyll] Apostyll <HI REND="italic">A,</HI> Appostell <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t he mey schryfe me and asoyll, <NOTE PLACE="foot">251 To be schreven and after asoyled <HI REND="italic">B</HI></NOTE></L>
+<L>Kepe þ<HI REND="italic">o</HI>u my castyll free.' <MILESTONE N="240"/> <NOTE PLACE="foot">252 kepe] Good sir kepe <HI REND="italic">B</HI> ‖ þou] <HI REND="italic">f. B</HI></NOTE></L>
+</LG>
+<LG N="22">
+<HEAD>XXII</HEAD>
+<L>Þ<HI REND="italic">i</HI>s old erle laft he þeyr <NOTE PLACE="foot">253 Thus he left the old erll thare <HI REND="italic">B</HI></NOTE></L>
+<L>For to be is sty<HI REND="italic">w</HI>a<HI REND="italic">rd</HI> heyre; <NOTE PLACE="foot">254 To kepe his londes lesse and mare <HI REND="italic">B</HI> ‖ styward <HI REND="italic">Z.]</HI> stydfast <HI REND="italic">A</HI></NOTE></L>
+<L>S<HI REND="italic">yr G</HI>wother forþ<HI REND="italic">e</HI> co<HI REND="italic">n</HI> glyde; <MILESTONE N="121b" UNIT="B. fol."/> <MILESTONE N="255"/></L>
+<L>Toward <HI REND="italic">R</HI>ome he radly ranne: <NOTE PLACE="foot">256 Toward—radly] Uppon his fote faste he <HI REND="italic">B</HI></NOTE></L>
+<L>Wold he nowd<HI REND="italic">ur</HI> hors ne man <NOTE PLACE="foot">257 He toke with him hor<HI REND="italic">[s]</HI> nor man <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym to ren ne ryde. <NOTE PLACE="foot">258 Him was lever to ryn than ryde <HI REND="italic">B</HI></NOTE></L>
+<L>His fauchon co<HI REND="italic">n</HI> he w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym take, <NOTE PLACE="foot">259 con—take] he toke with him thoo <HI REND="italic">B</HI></NOTE></L>
+<L>He laft hit not for weyle ne wrake, <MILESTONE N="260"/> <NOTE PLACE="foot">260 hit] that <HI REND="italic">B</HI> ‖ not] never <HI REND="italic">B</HI> ‖ wrake] woo <HI REND="italic">B</HI></NOTE></L>
+<L>Hyt hong ei be his syde. <NOTE PLACE="foot">261 Hyt—ei] But hynge that <HI REND="italic">B</HI></NOTE></L>
+<L>Toward <HI REND="italic">R</HI>ome cety co<HI REND="italic">n</HI> hee seche: <MILESTONE N="250"/> <NOTE PLACE="foot">262 Toward—cety] And to the cowrt <HI REND="italic">B</HI></NOTE></L>
+<L>Or he come to þ<HI REND="italic">o</HI> powpe speche, <NOTE PLACE="foot">263 come] myght come <HI REND="italic">B</HI> ‖ powpe] popis <HI REND="italic">B</HI></NOTE></L>
+<L>Full long he con abyde.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII</HEAD>
+<L>As sone has he þ<HI REND="italic">e</HI> pope co<HI REND="italic">n</HI> see, <MILESTONE N="265"/> <NOTE PLACE="foot">265 <HI REND="italic">f. B</HI></NOTE></L>
+<L>He knelys adown apon is kne <NOTE PLACE="foot">266 knelys] kneled <HI REND="italic">B</HI> ‖ adown] down <HI REND="italic">B</HI></NOTE></L>
+<L>And heylst hym full sone; <NOTE PLACE="foot">267 heylst] said to <HI REND="italic">B</HI></NOTE></L>
+<L>He preyd hym w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> mylde devocyon <MILESTONE N="17a" UNIT="A. fol."/> <NOTE PLACE="foot">268 preyd—devocyon] askid him w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> high sown <HI REND="italic">B</HI></NOTE></L>
+<L>Boþ<HI REND="italic">e</HI> of schryfte <HI REND="italic">and</HI> absolyscion; <NOTE PLACE="foot">269 B. of] <HI REND="italic">f. B</HI></NOTE></L>
+<L>He granttyd hym is bone. <MILESTONE N="270"/> <NOTE PLACE="foot">270 He] The pope <HI REND="italic">B</HI> ‖ g. h.] him graun∣ted <HI REND="italic">B</HI></NOTE></L>
+<L>'Wheþon art þ<HI REND="italic">o</HI>u <HI REND="italic">and</HI> of what cu<HI REND="italic">n</HI>tre?' <NOTE PLACE="foot">271 Wheþon] Whens <HI REND="italic">B</HI></NOTE></L>
+<L>'Duke of <HI REND="italic">E</HI>stryke, lorde', q<HI REND="italic">uod</HI> hee, <NOTE PLACE="foot">272 lorde] sir <HI REND="italic">B</HI> ‖ quod] said <HI REND="italic">B</HI></NOTE></L>
+<L>'Be tru god in trone; <MILESTONE N="260"/></L>
+<L><PB N="146" REF="165" MS="y"/>
+Þ<HI REND="italic">er</HI> was y geyton w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a feynde <NOTE PLACE="foot">274 þer] þat <HI REND="italic">B</HI> ‖ y] <HI REND="italic">f. B</HI></NOTE></L>
+<L>And borne of a duches hende, <MILESTONE N="275"/> <NOTE PLACE="foot">275 duches] lady <HI REND="italic">B</HI></NOTE></L>
+<L>My fad<HI REND="italic">ur</HI> hase frenchyp<HI REND="italic">us</HI> f<HI REND="italic">one.</HI>' <NOTE PLACE="foot">276 Y trowe my good dayes ben done <HI REND="italic">B</HI> ‖ fone] few <HI REND="italic">A</HI></NOTE></L>
+</LG>
+<LG N="24">
+<HEAD>XXIV</HEAD>
+<L>'Y wyll gladly, be my fey. <NOTE PLACE="foot">277 Art thow cristyn said hee <HI REND="italic">B</HI></NOTE></L>
+<L>Art þ<HI REND="italic">o</HI>u crystond?' he seyd: 'ȝey, <MILESTONE N="122a" UNIT="B. fol."/> <NOTE PLACE="foot">278 Trewly sir he saide yee <HI REND="italic">B</HI></NOTE></L>
+<L>My name it is <HI REND="italic">G</HI>wother.' <NOTE PLACE="foot">279 e <HI REND="italic">in</HI> name <HI REND="italic">aus etw. and. A</HI> ‖ it] <HI REND="italic">f. B</HI></NOTE></L>
+<L>'Now y lowve god, þ<HI REND="italic">o</HI>u art co<HI REND="italic">m</HI>mun hed<HI REND="italic">ur,</HI> <MILESTONE N="280"/> <NOTE PLACE="foot">280 Now—god] Than said the pope <HI REND="italic">B</HI></NOTE></L>
+<L>For ell<HI REND="italic">us</HI> y most a traveld þed<HI REND="italic">ur</HI> <NOTE PLACE="foot">281 For] Or <HI REND="italic">B</HI> ‖ a] have <HI REND="italic">B</HI> ‖ traveld] gon <HI REND="italic">B</HI></NOTE></L>
+<L>Apon þe for to weyre; <NOTE PLACE="foot">282 And that ful lothe me were <HI REND="italic">B</HI></NOTE></L>
+<L>For þ<HI REND="italic">o</HI>u hast holy kyrke dystr<HI REND="italic">o</HI>yed.' <MILESTONE N="270"/> <NOTE PLACE="foot">283 dystroyed] dystryed <HI REND="italic">A</HI></NOTE></L>
+<L>'Nay, holy fad<HI REND="italic">ur,</HI> be noght a<HI REND="italic">noye</HI>d, <NOTE PLACE="foot">284 Nay] <HI REND="italic">f. B</HI> ‖ fadur] fader he said <HI REND="italic">B</HI> ‖ he] be þou <HI REND="italic">A</HI> ‖ anoyed] agrevyd <HI REND="italic">A</HI></NOTE></L>
+<L>Y schall þ<HI REND="italic">e</HI> truly swere <MILESTONE N="285"/> <NOTE PLACE="foot">285 truly] verely <HI REND="italic">B</HI></NOTE></L>
+<L>At þ<HI REND="italic">i</HI> byddyng beyn to be <NOTE PLACE="foot">286 That what pen<HI REND="italic">au</HI>nce ye me yeve <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And</HI> hald þ<HI REND="italic">o</HI> pena<HI REND="italic">n</HI>s, þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u leys to me, <NOTE PLACE="foot">287 I shall do that if y may leve <HI REND="italic">B</HI></NOTE></L>
+<L>And nev<HI REND="italic">er</HI> cryston deyre.' <NOTE PLACE="foot">288 cryston] cristen man <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="25">
+<HEAD>XXV</HEAD>
+<L>'Lye down þ<HI REND="italic">i</HI> fachon þe<HI REND="italic">n</HI> þ<HI REND="italic">e</HI> fro: <MILESTONE N="17b" UNIT="A. fol."/></L>
+<L>Þ<HI REND="italic">o</HI>u schallt be screvon, or y goo, <MILESTONE N="290"/> <NOTE PLACE="foot">290 y] thow <HI REND="italic">B</HI></NOTE></L>
+<L>And asoyly<HI REND="italic">d,</HI> or y blyn.' <NOTE PLACE="foot">291 <HI REND="italic">das</HI> d <HI REND="italic">in</HI> asoylyd <HI REND="italic">durch einen klecks verdeckt, doch zu erkennen A</HI></NOTE></L>
+<L>'Nay, holy fad<HI REND="italic">ur',</HI> seyd <HI REND="italic">G</HI>wother,</L>
+<L>'Þ<HI REND="italic">i</HI>s bo<HI REND="italic">us</HI> me ned<HI REND="italic">us</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> mee beyr: <MILESTONE N="280"/> <NOTE PLACE="foot">293 bous] fauchon <HI REND="italic">B</HI> ‖ me n.] most y <HI REND="italic">B</HI></NOTE></L>
+<L>My frend<HI REND="italic">ys</HI> ar full thyn'. <NOTE PLACE="foot">294 ar] happely ben <HI REND="italic">B</HI></NOTE></L>
+<L>'Wher ser þ<HI REND="italic">o</HI>u t<HI REND="italic">r</HI>avell<HI REND="italic">ys</HI> be northe or soth, <MILESTONE N="295"/> <NOTE PLACE="foot">295 Wherser—be] Thow shalt walk <HI REND="italic">B</HI> ‖ and sowthe <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u eyt no meyt, bot of hownd<HI REND="italic">us</HI> moþ<HI REND="italic">e</HI> <NOTE PLACE="foot">296 þou—no] And gete thi <HI REND="italic">B</HI> ‖ bot] bot þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u rev<HI REND="italic">us A,</HI> owt <HI REND="italic">B</HI> ‖ moþe] mouth <HI REND="italic">B</HI></NOTE></L>
+<L>Cu<HI REND="italic">m</HI> thy body w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>in, <NOTE PLACE="foot">297 This pen<HI REND="italic">au</HI>nce shalt thow gynne <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="147" REF="166" MS="y"/>
+Ne no worde speke for evyll ne g<HI REND="italic">o</HI>d, <NOTE PLACE="foot">298 Ne—speke] And speke no word <HI REND="italic">B</HI> ‖ f. e.] even <HI REND="italic">B</HI> ‖ god] gud <HI REND="italic">A,</HI> odde <HI REND="italic">B</HI></NOTE></L>
+<L>Or þ<HI REND="italic">o</HI>u reyde tokyn have fro god, <NOTE PLACE="foot">299 Or—have] Til thow have very wetyng <HI REND="italic">B</HI> ‖ fro] of <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t forgyfyn is þ<HI REND="italic">i</HI> syn.' <MILESTONE N="122b" UNIT="B. fol."/> <MILESTONE N="300"/> <NOTE PLACE="foot">300 þat] <HI REND="italic">f. B</HI> ‖ is] be all <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="26">
+<HEAD>XXVI</HEAD>
+<L>He knelyd down befor þ<HI REND="italic">o a</HI>posto<HI REND="italic">y</HI>le, <NOTE PLACE="foot">301 down] <HI REND="italic">f. B</HI> ‖ þo] the worthy <HI REND="italic">B</HI> ‖ apostoyle] pope stole <HI REND="italic">A,</HI> appostell <HI REND="italic">B</HI></NOTE></L>
+<L>And solemly he con hym asoyle, <NOTE PLACE="foot">302 And] That <HI REND="italic">B</HI> ‖ he] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> sarten sothe to sey. <MILESTONE N="290"/> <NOTE PLACE="foot">303 þo—to] With word as y yow <HI REND="italic">B</HI></NOTE></L>
+<L>Meyte in <HI REND="italic">R</HI>ome gatte he non, <NOTE PLACE="foot">304 Meyte—Rome] Of all that day mete <HI REND="italic">B</HI></NOTE></L>
+<L>Bot of a dog mothe a bon, <MILESTONE N="305"/> <NOTE PLACE="foot">305 Bot] Saufe owt <HI REND="italic">B</HI> ‖ dog] houndes <HI REND="italic">B</HI></NOTE></L>
+<L>And wyȝttly went is wey. <NOTE PLACE="foot">306 wyȝttly] forth he <HI REND="italic">B</HI></NOTE></L>
+<L>He went owt of þ<HI REND="italic">a</HI>t ceté <NOTE PLACE="foot">307 went] t<HI REND="italic">ra</HI>yvayled <HI REND="italic">B</HI> ‖ cuntre <HI REND="italic">getilgt vor</HI> cete <HI REND="italic">A</HI></NOTE></L>
+<L>Into anod<HI REND="italic">ur</HI> far cuntré,</L>
+<L>Þ<HI REND="italic">o</HI> testament<HI REND="italic">ys</HI> þ<HI REND="italic">us</HI> þei sey. <NOTE PLACE="foot">309 þo—sey] For sothe as I yow say <HI REND="italic">B</HI></NOTE></L>
+<L>He seyt hym down und<HI REND="italic">ur</HI> a hyll, <MILESTONE N="310"/> <NOTE PLACE="foot">310 u. a] uppon an <HI REND="italic">B</HI></NOTE></L>
+<L>A greyhownde broȝt hym meyt untyll <NOTE PLACE="foot">311 hym—untyll] brede him till <HI REND="italic">B</HI></NOTE></L>
+<L>Or evon yche a dey. <MILESTONE N="18a" UNIT="A. fol."/> <NOTE PLACE="foot">312 Or—a] At hegh none of the <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="27">
+<HEAD>XXVII</HEAD>
+<L>Þre neȝtht<HI REND="italic">y</HI>s þ<HI REND="italic">er</HI> he ley, <NOTE PLACE="foot">313 neȝthtys] dayes <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And</HI> þ<HI REND="italic">o</HI> grwhownd ylke a dey <NOTE PLACE="foot">314 And] <HI REND="italic">f. A</HI> ‖ þo] a <HI REND="italic">B</HI> ‖ y. a.] ev<HI REND="italic">er</HI>y <HI REND="italic">B</HI></NOTE></L>
+<L>A whyte lofe he hym broȝht. <MILESTONE N="315"/> <NOTE PLACE="foot">315 whyte] barly <HI REND="italic">B</HI> ‖ he] <HI REND="italic">f. B</HI> ‖ broȝht] bowght <HI REND="italic">B</HI></NOTE></L>
+<L>On þ<HI REND="italic">o</HI> fort day come hym non, <NOTE PLACE="foot">316 On—hym] The fowrethe day him come <HI REND="italic">B</HI></NOTE></L>
+<L>Up he start <HI REND="italic">and</HI> forþ<HI REND="italic">e</HI> con gon <NOTE PLACE="foot">317 <HI REND="italic">fehlt in B, ohne dass die lücke kenntlich wird</HI></NOTE></L>
+<L>And lovyd god in his þoȝt. <NOTE PLACE="foot">318 lovyd] thankid <HI REND="italic">B</HI> ‖ his] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Besyde þ<HI REND="italic">er</HI> was a casstell, <NOTE PLACE="foot">319 þer] him <HI REND="italic">B</HI> ‖ was] stode <HI REND="italic">B</HI> ‖ a] a faire <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">The</HI> emp<HI REND="italic">er</HI>owr <HI REND="italic">of Almayn</HI> þ<HI REND="italic">er</HI>in co<HI REND="italic">n</HI> dwell, <MILESTONE N="300"/> <MILESTONE N="320"/> <NOTE PLACE="foot">320 þ<HI REND="italic">er</HI>in an emp<HI REND="italic">er</HI>owr co<HI REND="italic">n</HI> dwell <HI REND="italic">A</HI></NOTE></L>
+<L>And þed<HI REND="italic">ur</HI>warde he soȝht. <NOTE PLACE="foot">321 þedurward—soȝt] theder him gothe ful softe <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="148" REF="167" MS="y"/>
+He seyt hym down w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt þ<HI REND="italic">e</HI> yate</L>
+<L>And durst not ent<HI REND="italic">ur</HI> in þ<HI REND="italic">er</HI> atte, <NOTE PLACE="foot">323 And] He <HI REND="italic">B</HI> ‖ entur] goon <HI REND="italic">B</HI></NOTE></L>
+<L>Þof he wer well wroȝt. <MILESTONE N="123a" UNIT="B. fol."/> <NOTE PLACE="foot">324 þof] Of <HI REND="italic">A</HI> ‖ þof—wroȝt] Though him were woo yn thowght <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII</HEAD>
+<L>Þ<HI REND="italic">o</HI> weyt<HI REND="italic">us</HI> blu apon þ<HI REND="italic">o</HI> wall, <MILESTONE N="325"/> <NOTE PLACE="foot">325 þo] That <HI REND="italic">B</HI></NOTE></L>
+<L>Knyȝtt<HI REND="italic">us</HI> geydert into þ<HI REND="italic">o</HI> hall, <NOTE PLACE="foot">326 into] hem in to <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> lord buskyd to his saytte; <NOTE PLACE="foot">327 They wysshe and went to mete <HI REND="italic">B</HI></NOTE></L>
+<L>S<HI REND="italic">yr G</HI>wother up <HI REND="italic">and</HI> in co<HI REND="italic">n</HI> gwon, <NOTE PLACE="foot">328 S. G.] Up he <HI REND="italic">B</HI> ‖ up] rose <HI REND="italic">B</HI> ‖ con] is <HI REND="italic">B</HI></NOTE></L>
+<L>At þ<HI REND="italic">o</HI> dor uschear fond he non <NOTE PLACE="foot">329 At—uschear (e <HI REND="italic">nachtr.)]</HI> Ussher at the hall dore <HI REND="italic">B</HI></NOTE></L>
+<L>Ne port<HI REND="italic">er</HI> at þ<HI REND="italic">o</HI> y<HI REND="italic">e</HI>tte, <MILESTONE N="310"/> <MILESTONE N="330"/> <NOTE PLACE="foot">330 yette] yatte <HI REND="italic">A,</HI> yate <HI REND="italic">B</HI></NOTE></L>
+<L>Bot gwosse prystely þoro þ<HI REND="italic">o</HI> pres, <NOTE PLACE="foot">331 Bot—prystely] He presid blythely <HI REND="italic">B</HI></NOTE></L>
+<L>Unto þ<HI REND="italic">o</HI> hye bord he chesse; <NOTE PLACE="foot">332 Unto] Even til <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> und<HI REND="italic">ur</HI> he made is seytt.</L>
+<L>Þ<HI REND="italic">o</HI> styward come w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yarde in honde, <MILESTONE N="18b" UNIT="A. fol."/> <NOTE PLACE="foot">334 There come the steward w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a rod in his honde <HI REND="italic">B</HI></NOTE></L>
+<L>To geyt hym þeþyn fast co<HI REND="italic">n</HI> he fonde <MILESTONE N="335"/> <NOTE PLACE="foot">335 geyt] do <HI REND="italic">B</HI> ‖ þ. fast] thens thus <HI REND="italic">B</HI> ‖ c. h.] he wold <HI REND="italic">B</HI></NOTE></L>
+<L>And throly hym co<HI REND="italic">n</HI> þreyt <NOTE PLACE="foot">336 And thret him to bete <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="29">
+<HEAD>XXIX</HEAD>
+<L>To beyt hy<HI REND="italic">m,</HI> bot he wende awey. <NOTE PLACE="foot">337 What is that said the emp<HI REND="italic">er</HI>o<HI REND="italic">ur B</HI></NOTE></L>
+<L>'What is þat?' þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our co<HI REND="italic">n</HI> sey. <NOTE PLACE="foot">338 The stew∣ard said w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> grete honowre <HI REND="italic">B</HI></NOTE></L>
+<L>'My lord', he seyd, 'a m<HI REND="italic">a</HI>n <NOTE PLACE="foot">339 h. s.] it is <HI REND="italic">B</HI> ‖ man] mon <HI REND="italic">A</HI></NOTE></L>
+<L>And þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI> feyryst, þ<HI REND="italic">a</HI>t ev<HI REND="italic">er</HI> y sye; <MILESTONE N="320"/> <MILESTONE N="340"/> <NOTE PLACE="foot">340 And—feyryst] The fayrest and the most <HI REND="italic">B</HI></NOTE></L>
+<L>Cu<HI REND="italic">m,</HI> loke on hym, it is no lye'. <NOTE PLACE="foot">341 loke—it] se yowre self that <HI REND="italic">B</HI></NOTE></L>
+<L>And þed<HI REND="italic">ur</HI> wyȝtly he wan. <NOTE PLACE="foot">342 The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> till him cam <HI REND="italic">B</HI></NOTE></L>
+<L>Won word of hym he myȝt not geyt; <NOTE PLACE="foot">343 Won] But <HI REND="italic">B</HI> ‖ he—not] cowde they non <HI REND="italic">B</HI></NOTE></L>
+<L>Þei lette hym sytt <HI REND="italic">and</HI> gafe hym meyt. <NOTE PLACE="foot">344 þei] <HI REND="italic">f. B</HI> ‖ sytt] sit said the emp<HI REND="italic">er</HI>o<HI REND="italic">ur B</HI> ‖ gafe] gete <HI REND="italic">B</HI></NOTE></L>
+<L>'Full lytyll gud he can; <MILESTONE N="345"/></L>
+<L><PB N="149" REF="168" MS="y"/>
+And yett may happon þ<HI REND="italic">o</HI>ro su<HI REND="italic">m</HI> chans, <NOTE PLACE="foot">346 A. y.] Or that <HI REND="italic">B</HI></NOTE></L>
+<L>Þat it wer gyffon hym in penans', <NOTE PLACE="foot">347 wer] is <HI REND="italic">B</HI> ‖ in] in su<HI REND="italic">m B</HI></NOTE></L>
+<L>Þo lord þ<HI REND="italic">us</HI> onsward þan. <MILESTONE N="123b" UNIT="B. fol."/> <NOTE PLACE="foot">348 Thus said the emp<HI REND="italic">er</HI>owre thanne <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="30">
+<HEAD>XXX</HEAD>
+<L>When þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owr was seyt <HI REND="italic">and</HI> s<HI REND="italic">er</HI>vyd <NOTE PLACE="foot">349 s. a.] all <HI REND="italic">B</HI></NOTE></L>
+<L>And knyȝtt<HI REND="italic">us</HI> had is breyd <HI REND="italic">y</HI>k<HI REND="italic">e</HI>rvyd, <MILESTONE N="330"/> <MILESTONE N="350"/> <NOTE PLACE="foot">350 A. k.] A knyght <HI REND="italic">B</HI> ‖ breyd] mete <HI REND="italic">B</HI> ‖ ykervyd] karvyd <HI REND="italic">A</HI></NOTE></L>
+<L>He send þ<HI REND="italic">o</HI> dompmon parte;</L>
+<L>He lette hit stond <HI REND="italic">and</HI> wold ryȝt non. <NOTE PLACE="foot">352 ryȝt] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> come a spanyell w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a bon, <NOTE PLACE="foot">353 þer—spanyell] But a spaynel come rynne <HI REND="italic">B</HI> ‖ <HI REND="italic">dahinter v. 355 bis</HI> d, <HI REND="italic">aber getilgt A</HI></NOTE></L>
+<L>In his mothe he hit bare: <NOTE PLACE="foot">354 In] And in <HI REND="italic">B</HI> ‖ h. b.] that lart <HI REND="italic">B</HI></NOTE></L>
+<L>S<HI REND="italic">yr G</HI>wother hit fro hym droȝhe, <MILESTONE N="19a" UNIT="A. fol."/> <MILESTONE N="355"/> <NOTE PLACE="foot">355 The domme man to him he raught <HI REND="italic">B</HI></NOTE></L>
+<L>And gredely on hit he gnoȝ<HI REND="italic">h</HI>e. <NOTE PLACE="foot">356 And that bone to him he awght <HI REND="italic">B</HI> ‖ gnoȝhe] gnofe <HI REND="italic">A</HI></NOTE></L>
+<L>He wold nowd<HI REND="italic">ur</HI> curlu ne tartte; <NOTE PLACE="foot">357 Thereon fast he tare <HI REND="italic">B</HI></NOTE></L>
+<L>Boddely sustyna<HI REND="italic">n</HI>s wold he n<HI REND="italic">a</HI>n, <NOTE PLACE="foot">358 B. s.] For other sustinaunce <HI REND="italic">B</HI> ‖ w. he] he had <HI REND="italic">B</HI> ‖ nan] non <HI REND="italic">A,</HI> nowght <HI REND="italic">B</HI></NOTE></L>
+<L>Bot what so he fro þ<HI REND="italic">o</HI> hownd<HI REND="italic">us</HI> wan, <NOTE PLACE="foot">359 wh. so] such as <HI REND="italic">B</HI> ‖ þo] <HI REND="italic">f. B</HI> ‖ wan] cawght <HI REND="italic">B</HI></NOTE></L>
+<L>Yf it wer gnaffyd or mard. <MILESTONE N="340"/> <MILESTONE N="360"/> <NOTE PLACE="foot">360 The more was his care <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="31">
+<HEAD>XXXI</HEAD>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owre and þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>rys</L>
+<L>And knyȝtt<HI REND="italic">ys and</HI> lad<HI REND="italic">ys</HI> at þ<HI REND="italic">o</HI> des <NOTE PLACE="foot">362 A. k.] Lord <HI REND="italic">(oder</HI> Lord<HI REND="italic">is?</HI>) <HI REND="italic">B</HI> ‖ at] on <HI REND="italic">B</HI></NOTE></L>
+<L>Seyt <HI REND="italic">and</HI> hym behelld; <NOTE PLACE="foot">363 Seyt] Thay satt <HI REND="italic">B</HI></NOTE></L>
+<L>Þei gaffe þ<HI REND="italic">o</HI> hond<HI REND="italic">us</HI> meyt ynoȝhe, <NOTE PLACE="foot">364 gaffe] bed yeve <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> dompe duke to hom he droȝhe, <MILESTONE N="365"/> <NOTE PLACE="foot">365 duke] man <HI REND="italic">B</HI> ‖ to] with <HI REND="italic">B</HI> ‖ he droȝhe] gnowh <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t was is best beld. <NOTE PLACE="foot">366 þat] There <HI REND="italic">B</HI></NOTE></L>
+<L>Among þ<HI REND="italic">o</HI> hownd<HI REND="italic">ys</HI> þ<HI REND="italic">us</HI> was he fed, <NOTE PLACE="foot">367 Among] Thus among <HI REND="italic">B</HI> ‖ þo] <HI REND="italic">f. B</HI> ‖ þus—he] he was <HI REND="italic">B</HI></NOTE></L>
+<L>At evon to a lytyll chamb<HI REND="italic">ur</HI> led <NOTE PLACE="foot">368 a l.] his <HI REND="italic">B</HI> ‖ led] he was ledde <HI REND="italic">B</HI></NOTE></L>
+<L>And hyllyd und<HI REND="italic">ur</HI> teld; <NOTE PLACE="foot">369 hyllyd] yhelyd <HI REND="italic">B</HI> ‖ teld] a teld <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="150" REF="169" MS="y"/>
+At none <HI REND="italic">he</HI> come into þ<HI REND="italic">o</HI> hall, <MILESTONE N="350"/> <MILESTONE N="370"/> <NOTE PLACE="foot">370 At none (e <HI REND="italic">über der zeile)]</HI> And ev<HI REND="italic">er</HI>y day <HI REND="italic">B</HI> ‖ he] <HI REND="italic">f. A</HI> ‖ into þo] to <HI REND="italic">B</HI></NOTE></L>
+<L>Hob hor fole þei co<HI REND="italic">n</HI> hy<HI REND="italic">m</HI> call; <MILESTONE N="124a" UNIT="B. fol."/> <NOTE PLACE="foot">371 Hob] And Hobbe <HI REND="italic">B</HI> ‖ hor] the <HI REND="italic">B</HI></NOTE></L>
+<L>To god he hym con yelde. <NOTE PLACE="foot">372 god] criste <HI REND="italic">B</HI> ‖ he c.] gan him <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="32">
+<HEAD>XXXII</HEAD>
+<L>But now þ<HI REND="italic">i</HI>s ylke emp<HI REND="italic">er</HI>owre <NOTE PLACE="foot">373 B. n.] Than hadde <HI REND="italic">B</HI> ‖ ylke] same <HI REND="italic">B</HI></NOTE></L>
+<L>Had a doght<HI REND="italic">ur</HI> whyte, as flowre, <NOTE PLACE="foot">374 Had] <HI REND="italic">f. B</HI> ‖ whyte] as white <HI REND="italic">B</HI> ‖ flowre] lylie flowre <HI REND="italic">B</HI></NOTE></L>
+<L>Was too soo dompe, as hee. <MILESTONE N="375"/></L>
+<L>Scho wold have spokyn <HI REND="italic">and</HI> myȝt noȝt, <MILESTONE N="19b" UNIT="A. fol."/> <NOTE PLACE="foot">376 and—noȝt] but she ne myght <HI REND="italic">B</HI></NOTE></L>
+<L>Þat meydon was worþely wroȝt, <NOTE PLACE="foot">377 There fore ful ofte she sighed <HI REND="italic">B</HI></NOTE></L>
+<L>Boþ<HI REND="italic">e</HI> feyr, curteys and free. <MILESTONE N="358"/> <NOTE PLACE="foot">378 The ladi bright of blee <HI REND="italic">B</HI> ‖ <HI REND="italic">nun folgen in B die folgenden 6 verse, die ich aber für unursprünglich halte:</HI> To him she was a ful good frend | And mete to houndes for his love wold send | Ful ofte and grete plente. | Ether of hem loved other right | But to other no word thei speke ne myght, | That was the more pete. <HI REND="italic">die strophe XXXII, wie schon XXX, erscheint in beiden handschriften in sehr verderbter überlieferung, ich weiss aber nicht, wie zu bessern, vgl. die anmerkung</HI></NOTE></L>
+<L>A messynger come apon a dey, <MILESTONE N="365"/> <NOTE PLACE="foot">379 Than in on morow come a masynger <HI REND="italic">B</HI></NOTE></L>
+<L>Tyll her fadur con he sey: <MILESTONE N="380"/> <NOTE PLACE="foot">380 To the emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> with sterne chere <HI REND="italic">B</HI></NOTE></L>
+<L>'My lord wele gret<HI REND="italic">ys</HI> the. <NOTE PLACE="foot">381 And said to him ful right <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> sawdyn, þ<HI REND="italic">a</HI>t is of mykyll myȝht, <NOTE PLACE="foot">382 Syr my lord wel greteth the <HI REND="italic">B</HI></NOTE></L>
+<L>Wyll wer apon þ<HI REND="italic">e</HI> dey <HI REND="italic">and</HI> nyȝtt <NOTE PLACE="foot">383 That is Sowdan of Perce <HI REND="italic">B</HI></NOTE></L>
+<L>And bren þ<HI REND="italic">i</HI> bowr<HI REND="italic">us</HI> free <MILESTONE N="370"/> <NOTE PLACE="foot">384 Man most of myght <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII</HEAD>
+<L>And sley þ<HI REND="italic">i</HI> men, bot þ<HI REND="italic">o</HI>u hym sende <MILESTONE N="385"/> <NOTE PLACE="foot">385 And—þou] And byddeth that thow shuldest <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">i</HI> doȝtt<HI REND="italic">ur,</HI> þ<HI REND="italic">a</HI>t is so feyr <HI REND="italic">and</HI> heynde, <NOTE PLACE="foot">386 þ. d.] Thyn owne dowȝter <HI REND="italic">B</HI> ‖ f. a.] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t he mey hur wedde.' <MILESTONE N="124b" UNIT="B. fol."/> <NOTE PLACE="foot">387 mey] myght <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owr seyd: 'y have bot won, <NOTE PLACE="foot">388 bot] none but <HI REND="italic">B</HI></NOTE></L>
+<L>And þat is dompe, as any ston, <NOTE PLACE="foot">389 þat] she <HI REND="italic">B</HI></NOTE></L>
+<L>Feyr<HI REND="italic">ur</HI> þar non be feyd, <MILESTONE N="390"/> <NOTE PLACE="foot">390 Feyrur—be] The fairest that ever was <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="151" REF="170" MS="y"/>
+And y wyll not, be <HI REND="italic">C</HI>ryst wo<HI REND="italic">w</HI>nde, <NOTE PLACE="foot">391 not] never <HI REND="italic">B</HI> ‖ b. C.] while y am <HI REND="italic">B</HI> ‖ wownde] wonde <HI REND="italic">A,</HI> sownd <HI REND="italic">B</HI></NOTE></L>
+<L>Gyffe hor to no heþon hownde: <NOTE PLACE="foot">392 no] none <HI REND="italic">B</HI></NOTE></L>
+<L>Þen wer my bale bredde. <NOTE PLACE="foot">393 bale] bales <HI REND="italic">B</HI></NOTE></L>
+<L>Yeit mey god <HI REND="italic">gyffe hur</HI> þoro is myȝt <MILESTONE N="380"/> <NOTE PLACE="foot">394 god—hur] god <HI REND="italic">A</HI> ‖ god—myȝt] she sum good halowe seche <HI REND="italic">B</HI></NOTE></L>
+<L>Ageyn to geyt hur spech ryght.' <MILESTONE N="395"/> <NOTE PLACE="foot">395 Thorow g<HI REND="italic">ra</HI>ce of god to have speche <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> messynger ageyn hym spedde <NOTE PLACE="foot">396 Agayn the masseng<HI REND="italic">er</HI> spedde <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV</HEAD>
+<L>To þ<HI REND="italic">o</HI> sadyn and told hym soo. <MILESTONE N="20a" UNIT="A. fol."/> <NOTE PLACE="foot">397 To—and] And when he <HI REND="italic">B</HI> ‖ hym] his lord <HI REND="italic">B</HI></NOTE></L>
+<L>Þen wakynd ey more wo <HI REND="italic">and</HI> wo, <NOTE PLACE="foot">398 In that contree was moch woo <HI REND="italic">B</HI></NOTE></L>
+<L>He toke is oste and come nere: <NOTE PLACE="foot">399 The sowdan cam ful nere <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owr doȝtty und<HI REND="italic">ur</HI> schyld <MILESTONE N="400"/> <NOTE PLACE="foot">400 doȝtty] was dowghti man <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> anod<HI REND="italic">ur</HI> kepped hym in þ<HI REND="italic">o</HI> fyld; <NOTE PLACE="foot">401 With—hym] And mett the sowdan <HI REND="italic">B</HI></NOTE></L>
+<L>Eyd<HI REND="italic">ur</HI> had batell sere. <NOTE PLACE="foot">402 Eydur] For bothe <HI REND="italic">B</HI> ‖ sere] there <HI REND="italic">B</HI></NOTE></L>
+<L>S<HI REND="italic">yr G</HI>wother went to a chamb<HI REND="italic">ur</HI> smart <NOTE PLACE="foot">403 a] <HI REND="italic">f. B</HI> ‖ smart] smert <HI REND="italic">B</HI></NOTE></L>
+<L>And preyd to god in his hart, <MILESTONE N="390"/> <NOTE PLACE="foot">404 p. to] bysowght <HI REND="italic">B</HI> ‖ hart] hert <HI REND="italic">B</HI></NOTE></L>
+<L>On rode þ<HI REND="italic">a</HI>t boȝtt hym dere, <MILESTONE N="405"/> <NOTE PLACE="foot">405 On—þat] As he had <HI REND="italic">B</HI></NOTE></L>
+<L>Schuld sende hym arm<HI REND="italic">ur,</HI> schyld <HI REND="italic">and</HI> speyr <NOTE PLACE="foot">406 Schuld] To <HI REND="italic">B</HI> ‖ arm<HI REND="italic">ur aus</HI> arm<HI REND="italic">us</HI> A, bothe armo<HI REND="italic">ur B</HI> ‖ schyld—speyr] and shilde <HI REND="italic">B</HI></NOTE></L>
+<L>And hors to helpe is lord in weyr, <NOTE PLACE="foot">407 helpe—weyr] ride in the fild <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t wyll susstand hym þ<HI REND="italic">e</HI>re. <NOTE PLACE="foot">408 þat—hym] To help his lord <HI REND="italic">B</HI> ‖ þere] þare <HI REND="italic">A,</HI> yere <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="35">
+<HEAD>XXXV</HEAD>
+<L>He had no ner is preyr made, <NOTE PLACE="foot">409 He ne had so sone that ithought <HI REND="italic">B</HI></NOTE></L>
+<L>Bot hors and arm<HI REND="italic">ur</HI> boþ<HI REND="italic">e</HI> he hade, <MILESTONE N="125a" UNIT="B. fol."/> <MILESTONE N="410"/> <NOTE PLACE="foot">410 A colblak stede was him ybrought <HI REND="italic">B</HI></NOTE></L>
+<L>Stode at his chamb<HI REND="italic">ur</HI> dor. <NOTE PLACE="foot">411 at—chambur] redy withowt the <HI REND="italic">B</HI></NOTE></L>
+<L>His arm<HI REND="italic">ur,</HI> is steid was blacke colo<HI REND="italic">u</HI>r. <NOTE PLACE="foot">412 His] And <HI REND="italic">B</HI> ‖ is] <HI REND="italic">f. B</HI> ‖ steid—blake] of the same <HI REND="italic">B</HI> ‖ colour] color <HI REND="italic">A</HI></NOTE></L>
+<L>He leyp<HI REND="italic">us</HI> on hors, þ<HI REND="italic">a</HI>t stythe in stowr, <NOTE PLACE="foot">413 Up he stert w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> grete hono<HI REND="italic">ur B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t stalworþ<HI REND="italic">e</HI> was and store, <MILESTONE N="400"/> <NOTE PLACE="foot">414 þat—was] He was both styf <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="152" REF="171"/>
+His scheld apon his schuld<HI REND="italic">ur</HI> hong, <MILESTONE N="415"/> <NOTE PLACE="foot">415 His—schuldur] Shyld on shulder gan he <HI REND="italic">B</HI></NOTE></L>
+<L>He toke his speyre, was large <HI REND="italic">and</HI> long, <NOTE PLACE="foot">416 He—speyre] And cawght a swerd that <HI REND="italic">B</HI></NOTE></L>
+<L>And spard nod<HI REND="italic">ur</HI> myre ne more; <NOTE PLACE="foot">417 And] He <HI REND="italic">B</HI> ‖ nodur] nether <HI REND="italic">B</HI> ‖ myre] lesse <HI REND="italic">B</HI></NOTE></L>
+<L>Forthe at þ<HI REND="italic">o</HI> yat<HI REND="italic">us</HI> on hors he went, <MILESTONE N="20b" UNIT="A. fol."/> <NOTE PLACE="foot">418 Forthe] Owt <HI REND="italic">B</HI> ‖ yatus] castel yates <HI REND="italic">B</HI> ‖ on hors] <HI REND="italic">f. B</HI></NOTE></L>
+<L>Non hym knew, bot þ<HI REND="italic">a</HI>t meydyn gent, <NOTE PLACE="foot">419 Non—meydyn] Al this saw the du<HI REND="italic">m</HI>me lady <HI REND="italic">B</HI></NOTE></L>
+<L>And aft<HI REND="italic">ur</HI> hur fad<HI REND="italic">ur</HI> he fore. <MILESTONE N="420"/> <NOTE PLACE="foot">420 As she stode in hire towre <HI REND="italic">B</HI> ‖ fo <HI REND="italic">vor</HI> he <HI REND="italic">getilgt A</HI></NOTE></L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI</HEAD>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our had a batell kene, <NOTE PLACE="foot">421 The sowdan that was so sterne and stowte <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> sawden anod<HI REND="italic">ur,</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt wene, <NOTE PLACE="foot">422 Ful fast in the fild he prikyd abowte <HI REND="italic">B</HI></NOTE></L>
+<L>Assemuld, as was hor kast; <NOTE PLACE="foot">423 Assemuld—hor] To sembill his men he <HI REND="italic">B</HI></NOTE></L>
+<L>Bot, fro <HI REND="italic">Syr G</HI>wother co<HI REND="italic">m</HI>mu<HI REND="italic">n</HI> wer<HI REND="italic">e,</HI> <MILESTONE N="410"/> <NOTE PLACE="foot">424 By that tyme sir Gowȝhter was come there <HI REND="italic">B</HI></NOTE></L>
+<L>Mony a crone con he stere <MILESTONE N="425"/> <NOTE PLACE="foot">425 And many stowte shildes down he bere <HI REND="italic">B</HI></NOTE></L>
+<L>And hew apon full fast. <NOTE PLACE="foot">426 hew—full] laid on wonder <HI REND="italic">B</HI></NOTE></L>
+<L>He gard sted<HI REND="italic">us</HI> for to stakur <NOTE PLACE="foot">427 He—for] Grete stedes he made <HI REND="italic">B</HI></NOTE></L>
+<L>And knyȝtt<HI REND="italic">us</HI> hart<HI REND="italic">ys</HI> for to flakur, <NOTE PLACE="foot">428 hartys—flakur] armo<HI REND="italic">ur</HI> all to slato<HI REND="italic">ur B</HI></NOTE></L>
+<L>Whe<HI REND="italic">n</HI> blod <HI REND="italic">þro</HI> bren<HI REND="italic">us b</HI>rast, <NOTE PLACE="foot">429 þro] and <HI REND="italic">A</HI> ‖ brenus] brenyys <HI REND="italic">B</HI> ‖ brast] con brast <HI REND="italic">A, vor</HI> brast <HI REND="italic">ein</HI> canne <HI REND="italic">durchgestrichen B</HI></NOTE></L>
+<L>And mony a heyþon hed of smott, <MILESTONE N="430"/> <NOTE PLACE="foot">430 Many helmys there he hitt <HI REND="italic">B</HI></NOTE></L>
+<L>And owt of hor sadyls, wylle y wott, <NOTE PLACE="foot">431 Upright myght thei not sitt B</NOTE></L>
+<L>Þei tombull at þ<HI REND="italic">o</HI> last. <NOTE PLACE="foot">432 But to the ground he hem cast <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII</HEAD>
+<L>He putte þ<HI REND="italic">o</HI> sawden to þ<HI REND="italic">o</HI> flyȝth <MILESTONE N="125b" UNIT="B. fol."/> <NOTE PLACE="foot">433 <HI REND="italic">zweites</HI> þo] <HI REND="italic">f. B</HI></NOTE></L>
+<L>And made þ<HI REND="italic">o</HI> chasse, to it was nyȝth, <MILESTONE N="420"/> <NOTE PLACE="foot">434 Sir Gowghter so moch of myght <HI REND="italic">B</HI></NOTE></L>
+<L>And sluye þ<HI REND="italic">o</HI> sarsyns kene; <MILESTONE N="435"/> <NOTE PLACE="foot">435 And] He <HI REND="italic">B</HI> ‖ sluye] slow <HI REND="italic">B</HI> ‖ þo] <HI REND="italic">f. B</HI> ‖ kene] by dene <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="153" REF="172" MS="y"/>
+Syþon rode befor þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owr, <NOTE PLACE="foot">436 Syþon] He <HI REND="italic">B</HI> ‖ rode] rode home <HI REND="italic">B</HI></NOTE></L>
+<L>Non hym knew, bot þ<HI REND="italic">a</HI>t bryȝtt in bowr, <NOTE PLACE="foot">437 Al this saw the lady in her towre <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> dompe meydon schene. <NOTE PLACE="foot">438 þo—meydon] That was bothe bright and <HI REND="italic">B</HI></NOTE></L>
+<L>To chamb<HI REND="italic">ur</HI> he went, dysharnest hy<HI REND="italic">m</HI> sone, <NOTE PLACE="foot">439 To—went] He went to his chamber <HI REND="italic">B</HI> ‖ dysharnest] and unarmyd <HI REND="italic">B</HI></NOTE></L>
+<L>His hors, is arm<HI REND="italic">ur</HI> awey wer done: <MILESTONE N="440"/> <NOTE PLACE="foot">440 is a.] and harneys <HI REND="italic">B</HI> ‖ wer] was <HI REND="italic">B</HI></NOTE></L>
+<L>He ne wyst, wher hit myȝt bene. <MILESTONE N="21a" UNIT="A. fol."/> <NOTE PLACE="foot">441 ne] <HI REND="italic">f. B</HI> ‖ m. b.] bycam <HI REND="italic">B</HI></NOTE></L>
+<L>In hall he fond his lorde at meyt, <NOTE PLACE="foot">442 When the emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> wessh and went to mete <HI REND="italic">B</HI> ‖ H <HI REND="italic">vor</HI> In <HI REND="italic">getilgt A</HI></NOTE></L>
+<L>He seytt hym down <HI REND="italic">and</HI> made is seytt <NOTE PLACE="foot">443 He—and] Undur the hegh bord he <HI REND="italic">B</HI></NOTE></L>
+<L>Too small raches betwene. <MILESTONE N="430"/> <NOTE PLACE="foot">444 betwene] to him come <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII</HEAD>
+<L>Þ<HI REND="italic">o</HI> meydon toke too gruhownd<HI REND="italic">us</HI> fyn <MILESTONE N="445"/> <NOTE PLACE="foot">445 meydon] lady <HI REND="italic">B</HI> ‖ too] twey <HI REND="italic">B</HI></NOTE></L>
+<L>And waschyd hor mowþ<HI REND="italic">us</HI> cleyn w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wyn <NOTE PLACE="foot">446 waschyd] wyssh <HI REND="italic">B</HI></NOTE></L>
+<L>And putte a lofe in þ<HI REND="italic">o</HI> ton,</L>
+<L>And in þ<HI REND="italic">o</HI> tod<HI REND="italic">ur</HI> flesch full g<HI REND="italic">o</HI>d: <NOTE PLACE="foot">448 <HI REND="italic">f. B</HI> ‖ god] gud <HI REND="italic">A</HI></NOTE></L>
+<L>He raft boþ<HI REND="italic">e</HI> owt w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> eygg<HI REND="italic">ur</HI> mode, <NOTE PLACE="foot">449 raft] rawght <HI REND="italic">B</HI> ‖ b. o.] it fro him <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t doȝthy of body and bon. <MILESTONE N="450"/> <NOTE PLACE="foot">450 Ful wel was him bygone <HI REND="italic">B</HI></NOTE></L>
+<L>He seytt, made hym wyll at es, <NOTE PLACE="foot">451 He s.] Whan he had <HI REND="italic">B</HI></NOTE></L>
+<L>Syþyn to chamb<HI REND="italic">ur</HI> con he ches <NOTE PLACE="foot">452 Syþyn] He went <HI REND="italic">B</HI> ‖ con—ches] and toke his ese <HI REND="italic">B</HI></NOTE></L>
+<L>In þ<HI REND="italic">a</HI>t worþely won. <NOTE PLACE="foot">453 In] Withyn <HI REND="italic">B</HI></NOTE></L>
+<L>On þ<HI REND="italic">o</HI> morne cu<HI REND="italic">m</HI> a messengere <NOTE PLACE="foot">454 c. a.] agayn come the <HI REND="italic">B</HI></NOTE></L>
+<L>Fro þ<HI REND="italic">o</HI> sawdyn w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> store chere, <MILESTONE N="440"/> <MILESTONE N="455"/> <NOTE PLACE="foot">455 store] sterne <HI REND="italic">B</HI></NOTE></L>
+<L>To þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owr <HI REND="italic">come he sone.</HI> <MILESTONE N="126a" UNIT="B. fol."/> <NOTE PLACE="foot">456 c.—sone] sone he come <HI REND="italic">A,</HI> is he gone <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX</HEAD>
+<L>He seyd: '<HI REND="italic">syr,</HI> y bryng yow a lett<HI REND="italic">ur,</HI> <NOTE PLACE="foot">457 He] And <HI REND="italic">B</HI> ‖ y—a] here is my <HI REND="italic">B</HI></NOTE></L>
+<L>My lord is co<HI REND="italic">m</HI>mu<HI REND="italic">n,</HI> wyll take hy<HI REND="italic">m</HI> bett<HI REND="italic">ur:</HI> <NOTE PLACE="foot">458 wyll—hym] to assay the <HI REND="italic">B</HI></NOTE></L>
+<L>Yest<HI REND="italic">ur</HI>dey ye sloȝ his men,</L>
+<L><PB N="154" REF="173" MS="y"/>
+To dey he is co<HI REND="italic">m</HI>mu<HI REND="italic">n</HI> into þ<HI REND="italic">o</HI> feyld <MILESTONE N="460"/> <NOTE PLACE="foot">460 To—commun] He hath asembled <HI REND="italic">B</HI> ‖ into] in <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> knyȝt<HI REND="italic">ys,</HI> þ<HI REND="italic">a</HI>t beyr<HI REND="italic">us</HI> speyr <HI REND="italic">and</HI> schyld, <NOTE PLACE="foot">461 Of dowghti sarezyns und<HI REND="italic">ur</HI> shild <HI REND="italic">B</HI></NOTE></L>
+<L>Thowsand<HI REND="italic">us</HI> mo, þen ten. <MILESTONE N="21b" UNIT="A. fol."/> <NOTE PLACE="foot">462 Syxti thowsand and ten <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">On the he will avenied be'.</HI> <NOTE PLACE="foot">463 <HI REND="italic">v.</HI> 463-5 <HI REND="italic">f. A</HI></NOTE></L>
+<L><HI REND="italic">'Hors and armo</HI>ur', <HI REND="italic">than said he,</HI></L>
+<L><HI REND="italic">'Hastly had we thenne'.</HI> <MILESTONE N="450"/> <MILESTONE N="465"/></L>
+<L>God sende <HI REND="italic">Syr G</HI>woþ<HI REND="italic">er</HI> þro is myȝth</L>
+<L>A reyd hors <HI REND="italic">and</HI> arm<HI REND="italic">ur</HI> bryȝth, <NOTE PLACE="foot">467 reyd] blode rede <HI REND="italic">B</HI> ‖ hors] stede <HI REND="italic">B</HI></NOTE></L>
+<L>He fo<HI REND="italic">lw</HI>yd þro fryþ<HI REND="italic">e and</HI> fen. <NOTE PLACE="foot">468 folwyd] fowlyd <HI REND="italic">A</HI></NOTE></L>
+</LG>
+<LG N="40">
+<HEAD>XL</HEAD>
+<L>When boþ<HI REND="italic">e</HI> batels wer areyd, <NOTE PLACE="foot">469 When—wer] Bothe p<HI REND="italic">ar</HI>ties ware wel <HI REND="italic">B</HI></NOTE></L>
+<L>Truly, as þ<HI REND="italic">o</HI> romand<HI REND="italic">ys</HI> seyd, <MILESTONE N="470"/> <NOTE PLACE="foot">470 Truly—romandus] Sir Gowghter as the story <HI REND="italic">B</HI></NOTE></L>
+<L>S<HI REND="italic">yr G</HI>wother rode betwene. <NOTE PLACE="foot">471 Syr—rode] Come ridyng hem <HI REND="italic">B</HI></NOTE></L>
+<L>Mony a sturdy gard he stombull, <NOTE PLACE="foot">472 Mony—he] Grete steedes he made to <HI REND="italic">B</HI></NOTE></L>
+<L>Toppe ov<HI REND="italic">er</HI> teyle hor horss<HI REND="italic">us</HI> to tombull, <NOTE PLACE="foot">473 Toppe—horssus] Knyghtes over hors backys <HI REND="italic">B</HI></NOTE></L>
+<L>For to wytte w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt wene. <NOTE PLACE="foot">474 That hardy were and kene <HI REND="italic">B</HI></NOTE></L>
+<L>He hewde insond<HI REND="italic">ur</HI> helme <HI REND="italic">and</HI> schelde, <MILESTONE N="460"/> <MILESTONE N="475"/> <NOTE PLACE="foot">475 hewde] hew <HI REND="italic">B</HI> ‖ insondur] asonder <HI REND="italic">B</HI> ‖ helme] bothe helme <HI REND="italic">B</HI></NOTE></L>
+<L>He feld þ<HI REND="italic">o</HI> ban<HI REND="italic">er</HI> in þ<HI REND="italic">o</HI> feld, <NOTE PLACE="foot">476 He—baner] Feld down here baners <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t schon so bryȝt <HI REND="italic">and</HI> schene; <NOTE PLACE="foot">477 sch. so] were bothe <HI REND="italic">B</HI></NOTE></L>
+<L>He leyd apon þ<HI REND="italic">o</HI> sarsyns blake <NOTE PLACE="foot">478 l. a.] bet adown <HI REND="italic">B</HI></NOTE></L>
+<L>And gard hor basnett<HI REND="italic">us</HI> in too crake: <MILESTONE N="126b" UNIT="fol."/> <NOTE PLACE="foot">479 gard] made <HI REND="italic">B</HI> ‖ basnettus] backes <HI REND="italic">B</HI> ‖ in too] for to <HI REND="italic">B</HI></NOTE></L>
+<L>He kyd, þat he was kene. <MILESTONE N="480"/> <NOTE PLACE="foot">480 kyd] kede <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="41">
+<HEAD>XLI</HEAD>
+<L>'A, lord god', seyd þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owre, <MILESTONE N="481"/> <NOTE PLACE="foot">481 A. l.] Now dere <HI REND="italic">B</HI></NOTE></L>
+<L>'What knyȝt is yond<HI REND="italic">ur</HI> so styffe in stowr, <NOTE PLACE="foot">482 When com the knyght that is so styf and stowre <HI REND="italic">B</HI> ‖ <HI REND="italic">ein buchstabe getilgt vor</HI> knyȝt <HI REND="italic">A</HI></NOTE></L>
+<L>And all areyd in red,</L>
+<L><PB N="155" REF="174" MS="y"/>
+Boþ<HI REND="italic">e</HI> his arm<HI REND="italic">ur</HI> and his ste<HI REND="italic">d?</HI> <NOTE PLACE="foot">484 <HI REND="italic">erstes</HI> his] hors <HI REND="italic">B</HI> ‖ sted] stedyd <HI REND="italic">A</HI></NOTE></L>
+<L>Mony a heþon he gars to bled <MILESTONE N="470"/> <MILESTONE N="485"/> <NOTE PLACE="foot">485 A thowsand sarezyns he hath made blede <HI REND="italic">B</HI></NOTE></L>
+<L>And dyngg<HI REND="italic">us</HI> hom to þ<HI REND="italic">o</HI> deyd <NOTE PLACE="foot">486 dynggus—deyd] beten him to dethe <HI REND="italic">B</HI></NOTE></L>
+<L>And hed<HI REND="italic">ur</HI> come to helpe me: <MILESTONE N="22a" UNIT="A. fol."/> <NOTE PLACE="foot">487 And] That <HI REND="italic">B</HI> ‖ come] is come <HI REND="italic">B</HI></NOTE></L>
+<L>A nod<HI REND="italic">ur</HI> in blacke yest<HI REND="italic">ur</HI>dey had we, <NOTE PLACE="foot">488 And yesterday in blak was he <HI REND="italic">B</HI></NOTE></L>
+<L>Þat styrd hym wyll in þ<HI REND="italic">i</HI>s styd, <NOTE PLACE="foot">489 wyll] <HI REND="italic">f. B</HI> ‖ þis] þat <HI REND="italic">B</HI></NOTE></L>
+<L>Dyscomfytt þ<HI REND="italic">e</HI> sawden <HI REND="italic">and</HI> mony a s<HI REND="italic">er</HI>syn; <MILESTONE N="490"/> <NOTE PLACE="foot">490 <HI REND="italic">f. B</HI></NOTE></L>
+<L>So wyll yond<HI REND="italic">ur</HI> do, as y wene: <NOTE PLACE="foot">491 And so he will er he goo hens <HI REND="italic">B</HI></NOTE></L>
+<L>His dynt<HI REND="italic">ys</HI> ar heyve, as leyde. <NOTE PLACE="foot">492 ar] ben <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="42">
+<HEAD>XLII</HEAD>
+<L>His fochon is full styffe of stele: <NOTE PLACE="foot">493 He behild his fawchon fel <HI REND="italic">B</HI></NOTE></L>
+<L>Loke, he war<HI REND="italic">us</HI> his dynt<HI REND="italic">us</HI> full wele <NOTE PLACE="foot">494 Loke—full] And saw he beset his strok<HI REND="italic">is B</HI></NOTE></L>
+<L>And wast<HI REND="italic">us</HI> of hom nev<HI REND="italic">er</HI> won'. <MILESTONE N="495"/> <NOTE PLACE="foot">495 wastus—won] that he wastid none <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>owr pryck<HI REND="italic">us</HI> into þ<HI REND="italic">o</HI> pres, <MILESTONE N="480"/> <NOTE PLACE="foot">496 pryckus] priked <HI REND="italic">B</HI> ‖ þo] his <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> doȝtty knyȝt w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym he ches <NOTE PLACE="foot">497 A nobill knyght w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owten les <HI REND="italic">B</HI></NOTE></L>
+<L>And byrkons hom flesche <HI REND="italic">and</HI> bon. <NOTE PLACE="foot">498 He made the sowdan to gon <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> sawdyn to a forest fled, <NOTE PLACE="foot">499 <HI REND="italic">v.</HI> 499-504 <HI REND="italic">f. B</HI></NOTE></L>
+<L>And his ost w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym he led, <MILESTONE N="500"/></L>
+<L>Þ<HI REND="italic">a</HI>t laft wer onslon. <NOTE PLACE="foot">501 onslon] <HI REND="italic">A hat zwischen</HI> on <HI REND="italic">und</HI> slon <HI REND="italic">ein unterpunk∣tiertes</HI> lyve</NOTE></L>
+<L>S<HI REND="italic">yr G</HI>wother t<HI REND="italic">ur</HI>nyd is brydyll bryȝt <NOTE PLACE="foot">502 brydyll] <HI REND="italic">erstes</HI> l <HI REND="italic">aus</HI> d <HI REND="italic">A</HI></NOTE></L>
+<L>And rode befor is lorde full ryȝtt,</L>
+<L>To chamb<HI REND="italic">ur</HI> þen <HI REND="italic">is gon.</HI> <NOTE PLACE="foot">504 is gon] he hym cheys <HI REND="italic">A</HI></NOTE></L>
+</LG>
+<LG N="63">
+<HEAD>LXIII</HEAD>
+<L>When his arm<HI REND="italic">ur</HI> of wer don, <MILESTONE N="505"/> <NOTE PLACE="foot">505 Sir Gowghter went to his chamber sone <HI REND="italic">B</HI></NOTE></L>
+<L>His hors <HI REND="italic">and</HI> hit away wer son, <NOTE PLACE="foot">506 hit—son] his armo<HI REND="italic">ur</HI> away was done <HI REND="italic">B</HI></NOTE></L>
+<L>Þat he wyst not, whare. <NOTE PLACE="foot">507 þat] <HI REND="italic">f. B</HI> ‖ not] nev<HI REND="italic">er B</HI></NOTE></L>
+<L><PB N="156" REF="175" MS="y"/>
+Whe<HI REND="italic">n</HI> he come in to þ<HI REND="italic">o</HI> hall, <MILESTONE N="127a" UNIT="B. fol."/> <NOTE PLACE="foot">508 The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> wyssh and went to mete <HI REND="italic">B</HI></NOTE></L>
+<L>He fond, þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>o<HI REND="italic">ur and</HI> is me<HI REND="italic">n</HI> all <NOTE PLACE="foot">509 And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> him other lordes grete <HI REND="italic">B</HI></NOTE></L>
+<L>To meyt was gwon full yare. <MILESTONE N="510"/> <MILESTONE N="22b" UNIT="A. fol."/> <NOTE PLACE="foot">510 That at the bataile were <HI REND="italic">B</HI> ‖ <HI REND="italic">ein buchstabe getilgt vor</HI> yare <HI REND="italic">A</HI></NOTE></L>
+<L>Among þ<HI REND="italic">o</HI> hownd<HI REND="italic">us</HI> down he hy<HI REND="italic">m</HI> seytt, <NOTE PLACE="foot">511 Among—he] Undur the high bord Sir Gowgther <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> meydon forþ<HI REND="italic">e</HI> þ<HI REND="italic">o</HI> greyhond<HI REND="italic">us</HI> feytt <MILESTONE N="490"/> <NOTE PLACE="foot">512 meydon—þo] lady haght here <HI REND="italic">B</HI> ‖ feytt] yfette <HI REND="italic">B</HI></NOTE></L>
+<L>And leytt, as noȝtt ware, <NOTE PLACE="foot">513 And noȝtt] Prevely as no thyng <HI REND="italic">B</HI></NOTE></L>
+<L>Fedde <HI REND="italic">H</HI>ob þ<HI REND="italic">o</HI> fole, for soþ<HI REND="italic">e</HI> to sey, <NOTE PLACE="foot">514 Fedde] She fed <HI REND="italic">B</HI> ‖ Hob] how <HI REND="italic">B</HI> ‖ þo—soþe] the ful sothe <HI REND="italic">B</HI></NOTE></L>
+<L>Lyke as sche dyd þ<HI REND="italic">o</HI> forme dey, <MILESTONE N="515"/> <NOTE PLACE="foot">515 Lyke] Right <HI REND="italic">B</HI> ‖ forme] first <HI REND="italic">B</HI></NOTE></L>
+<L>To chamb<HI REND="italic">ur</HI> syþon con fare. <NOTE PLACE="foot">516 For no man wold she spare <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="44">
+<HEAD>XLIV</HEAD>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> þonkud god of hevu<HI REND="italic">n,</HI> <NOTE PLACE="foot">517 <HI REND="italic">v.</HI> 517-528 <HI REND="italic">f. B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t schope þ<HI REND="italic">o</HI> nyȝt <HI REND="italic">and</HI> þ<HI REND="italic">o</HI> dey<HI REND="italic">us</HI> seyvu<HI REND="italic">n,</HI></L>
+<L>Þ<HI REND="italic">a</HI>t he had soo sped,</L>
+<L>Dyscomfyd þ<HI REND="italic">o</HI> sawdyn thwys <MILESTONE N="520"/></L>
+<L>And slen is men most of prys</L>
+<L>Save þ<HI REND="italic">os,</HI> þ<HI REND="italic">a</HI>t w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym fled.</L>
+<L>'Ant<HI REND="italic">urus</HI> knyȝt<HI REND="italic">us</HI> come us too,</L>
+<L>Ayd<HI REND="italic">ur</HI> dey won of thoo,</L>
+<L>Y ne wyst, wher þ<HI REND="italic">ei</HI> wer bred, <MILESTONE N="525"/></L>
+<L>Þ<HI REND="italic">o</HI> ton in reyd, þ<HI REND="italic">o</HI> tod<HI REND="italic">ur</HI> in blacke:</L>
+<L>Had eyd<HI REND="italic">ur</HI> of hom byn to lacke,</L>
+<L>Full evyll we had ben steyd'.</L>
+</LG>
+<LG N="45">
+<HEAD>XLV</HEAD>
+<L>Þey pypud <HI REND="italic">and</HI> trompud in þ<HI REND="italic">o</HI> hall, <NOTE PLACE="foot">529 þey—trompud] Lordes revelid <HI REND="italic">B</HI></NOTE></L>
+<L>Knyȝt<HI REND="italic">us</HI> and lad<HI REND="italic">ys</HI> dancyd all <MILESTONE N="530"/> <NOTE PLACE="foot">530 There daunsid many a lady small <HI REND="italic">B</HI></NOTE></L>
+<L>Befor þ<HI REND="italic">a</HI>t mynstralsy. <NOTE PLACE="foot">531 B. þ] With here <HI REND="italic">B</HI></NOTE></L>
+<L>S<HI REND="italic">yr G</HI>wother in his chamb<HI REND="italic">ur</HI> ley, <NOTE PLACE="foot">532 in—chambur] went to his bed and <HI REND="italic">B</HI></NOTE></L>
+<L>He lyst nowd<HI REND="italic">ur</HI> dance ne pley, <NOTE PLACE="foot">533 Hym lystyd no thyng for to play <HI REND="italic">B</HI></NOTE></L>
+<L>For he was full wery, <MILESTONE N="500"/> <MILESTONE N="23a" UNIT="A. fol."/></L>
+<L><PB N="157" REF="176" MS="y"/>
+Bryssud for strok<HI REND="italic">us,</HI> þ<HI REND="italic">a</HI>t he had laȝtth, <MILESTONE N="535"/> <NOTE PLACE="foot">535 B. f.] For gret <HI REND="italic">B</HI> ‖ laȝtth] cawght <HI REND="italic">B</HI></NOTE></L>
+<L>When he in þ<HI REND="italic">o</HI> batell faȝtth <NOTE PLACE="foot">536 in þo] atte <HI REND="italic">B</HI></NOTE></L>
+<L>Amo<HI REND="italic">n</HI>ghe þ<HI REND="italic">a</HI>t carefull cry.</L>
+<L>He had no þoȝt, bot of is syn, <NOTE PLACE="foot">538 He—of] His thowght was moch uppon <HI REND="italic">B</HI></NOTE></L>
+<L>And how he myȝt is soule wyn <NOTE PLACE="foot">539 And] <HI REND="italic">f. B</HI></NOTE></L>
+<L>To þ<HI REND="italic">o</HI> blys, þ<HI REND="italic">a</HI>t god co<HI REND="italic">n</HI> by. <MILESTONE N="540"/> <NOTE PLACE="foot">540 þo] <HI REND="italic">f. B</HI> ‖ þat—by] above the skye <HI REND="italic">B</HI> ‖ con] con hym <HI REND="italic">A</HI></NOTE></L>
+</LG>
+<LG N="46">
+<HEAD>XLVI</HEAD>
+<L>Þes lord<HI REND="italic">ys</HI> to bed con hom bown <NOTE PLACE="foot">541 þes] Than grette <HI REND="italic">B</HI> ‖ con] were <HI REND="italic">B</HI> ‖ hom <HI REND="italic">f. B</HI></NOTE></L>
+<L>And knyȝtt<HI REND="italic">ys and</HI> ladys of renown: <MILESTONE N="127b" UNIT="B. fol."/> <NOTE PLACE="foot">542 <HI REND="italic">erstes</HI> And] <HI REND="italic">f. B</HI> ‖ ladys] squyers <HI REND="italic">B</HI> ‖ renown] grete renown <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">us</HI> þis romans told. <NOTE PLACE="foot">543 þus—romans] In story as it is <HI REND="italic">B</HI></NOTE></L>
+<L>On þ<HI REND="italic">o</HI> morne come a messyng<HI REND="italic">er</HI> <MILESTONE N="510"/> <NOTE PLACE="foot">544 On þo] A <HI REND="italic">B</HI> ‖ morne] <HI REND="italic">das</HI> e <HI REND="italic">trotz eines fleckes noch zu erkennen A,</HI> morow agayn <HI REND="italic">B</HI> ‖ come] came <HI REND="italic">B</HI> ‖ a] the <HI REND="italic">B</HI></NOTE></L>
+<L>And seyd to þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our: 'now is wer, <MILESTONE N="545"/> <NOTE PLACE="foot">545 Fro the sowdan with sterne chere <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">i</HI> care mey be full cold. <NOTE PLACE="foot">546 And said sir emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> thi ioy is cold <HI REND="italic">B</HI></NOTE></L>
+<L>My lord is comu<HI REND="italic">n</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his powyr: <NOTE PLACE="foot">547 is—his] hath sembled a new <HI REND="italic">B</HI></NOTE></L>
+<L>Bot yf þ<HI REND="italic">o</HI>u gyff hym þ<HI REND="italic">i</HI> doȝtt<HI REND="italic">ur</HI> dere, <NOTE PLACE="foot">548 Bot—hym] And byddeth the send <HI REND="italic">B</HI></NOTE></L>
+<L>He wyll hamp<HI REND="italic">ur</HI> þ<HI REND="italic">e</HI> in hold, <NOTE PLACE="foot">549 Or dere hir love shall be sold <HI REND="italic">B</HI> ‖ o <HI REND="italic">in</HI> hold <HI REND="italic">aus etw. and.? A</HI></NOTE></L>
+<L>And byrkon þ<HI REND="italic">e</HI> boþ<HI REND="italic">e</HI> blod <HI REND="italic">and</HI> bon <MILESTONE N="550"/> <NOTE PLACE="foot">550 And—blod] Or he wull hurt the body <HI REND="italic">B</HI></NOTE></L>
+<L>And leyve on lyfe noȝt won <NOTE PLACE="foot">551 leyve—noȝt] alyve leve not <HI REND="italic">B</HI> ‖ <HI REND="italic">das zweite</HI> e <HI REND="italic">in</HI> leyve <HI REND="italic">zuerst undeutlich und daher gleich dahinter widerholt A</HI></NOTE></L>
+<L>Off all þ<HI REND="italic">i</HI> barons bold'. <NOTE PLACE="foot">552 all] <HI REND="italic">f. B</HI> ‖ barons] burgeys <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="47">
+<HEAD>XLVII</HEAD>
+<L>'Y count hym noȝt', q<HI REND="italic">uod</HI> þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>o<HI REND="italic">ur,</HI> <NOTE PLACE="foot">553 count—quod] come to him said <HI REND="italic">B</HI> ‖ þ<HI REND="italic">o über der zeile A</HI></NOTE></L>
+<L>'Y schall gare sembull as styff i<HI REND="italic">n</HI> sto<HI REND="italic">ur</HI> <MILESTONE N="520"/> <NOTE PLACE="foot">554 gare—stour] do semble a wel strong power <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And</HI> meyt hy<HI REND="italic">m,</HI> yf y mey'. <MILESTONE N="555"/> <NOTE PLACE="foot">555 <HI REND="italic">2-3 buchstaben getilgt vor</HI> meyt <HI REND="italic">A</HI></NOTE></L>
+<L><PB N="158" REF="177" MS="y"/>
+Þ<HI REND="italic">o</HI> doȝtty men, þ<HI REND="italic">a</HI>t to hym dyd long, <NOTE PLACE="foot">556 þo] <HI REND="italic">f. B</HI> ‖ men—dyd] knyght<HI REND="italic">is</HI> larg and <HI REND="italic">B</HI></NOTE></L>
+<L>Anon wer armyd, old <HI REND="italic">and</HI> yong, <NOTE PLACE="foot">557 Wel yarmyd ev<HI REND="italic">er</HI> among <HI REND="italic">B</HI></NOTE></L>
+<L>Be und<HI REND="italic">ur</HI> of þ<HI REND="italic">o</HI> dey. <NOTE PLACE="foot">558 undur] high prime <HI REND="italic">B</HI></NOTE></L>
+<L>Þei leype on hors, toke schyld <HI REND="italic">and</HI> speyr: <NOTE PLACE="foot">559 þ. l.] <HI REND="italic">f. B</HI> ‖ toke] redy w<HI REND="italic">i</HI>t<HI REND="italic">h B</HI></NOTE></L>
+<L>Þen þ<HI REND="italic">o</HI> gud knyȝt <HI REND="italic">Syr G</HI>wotheyr <MILESTONE N="560"/> <NOTE PLACE="foot">560 þen] <HI REND="italic">f. B</HI> ‖ gud] nobill <HI REND="italic">B</HI> ‖ Syr] <HI REND="italic">f. A</HI></NOTE></L>
+<L>To god in hart con prey, <NOTE PLACE="foot">561 God—hart] i<HI REND="italic">e</HI>su crist <HI REND="italic">B</HI> ‖ con] gan he <HI REND="italic">B</HI></NOTE></L>
+<L>Schulde sende hym hors <HI REND="italic">and</HI> arm<HI REND="italic">ur</HI> tyte; <NOTE PLACE="foot">562 h. a.] <HI REND="italic">f. B</HI> ‖ tyte] <HI REND="italic">in B erst</HI> tyghte <HI REND="italic">geschrieben, dann durchgestrichen und</HI> tite</NOTE></L>
+<L>Sone he had boþe mylke whyte <NOTE PLACE="foot">563 Sone] So <HI REND="italic">B</HI> ‖ he h.] had he <HI REND="italic">B</HI> ‖ boþe] and a steede <HI REND="italic">B</HI></NOTE></L>
+<L>And rod aft<HI REND="italic">ur</HI> in gud arey. <MILESTONE N="530"/> <MILESTONE N="128a" UNIT="B. fol."/></L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII</HEAD>
+<L>Hys to co<HI REND="italic">m</HI>myng<HI REND="italic">us</HI> þ<HI REND="italic">o</HI> dompe meydon had sene <MILESTONE N="565"/> <NOTE PLACE="foot">565 to] twey <HI REND="italic">B</HI> ‖ meydon] lady <HI REND="italic">B</HI> ‖ h. s.] seen had <HI REND="italic">B</HI></NOTE></L>
+<L>And to þ<HI REND="italic">o</HI> thryd went, w<HI REND="italic">i</HI>t<HI REND="italic">howt</HI> wene: <NOTE PLACE="foot">566 to þo] his <HI REND="italic">B</HI> ‖ went] wendyng <HI REND="italic">B</HI> ‖ withowt] w<HI REND="italic">i</HI>t<HI REND="italic">h A,</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owten <HI REND="italic">B</HI></NOTE></L>
+<L>No mon hit knew bot god. <NOTE PLACE="foot">567 She prayd for him full radde <HI REND="italic">B</HI></NOTE></L>
+<L>For he fard nod<HI REND="italic">ur</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> brag ne bost, <NOTE PLACE="foot">568 For—nodur] Rode he not <HI REND="italic">B</HI> ‖ ne] nor <HI REND="italic">B</HI></NOTE></L>
+<L>Bot preystely pryckys aft<HI REND="italic">ur</HI> þ<HI REND="italic">o</HI> ost <NOTE PLACE="foot">569 <HI REND="italic">f. B</HI></NOTE></L>
+<L>And foloud on hor tr<HI REND="italic">o</HI>d. <MILESTONE N="570"/> <NOTE PLACE="foot">570 And] He <HI REND="italic">B</HI> ‖ on—trod] ev<HI REND="italic">er</HI> the tradde <HI REND="italic">B</HI> ‖ trod <HI REND="italic">Z]</HI> trowd <HI REND="italic">A</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">erour</HI> was in þ<HI REND="italic">o</HI> voward, <NOTE PLACE="foot">571 emperour] emp<HI REND="italic">er</HI>ov<HI REND="italic">ur A</HI> ‖ was—voward] had the forward <HI REND="italic">B</HI></NOTE></L>
+<L>And <HI REND="italic">G</HI>owþ<HI REND="italic">er</HI> rode befor is lord, <NOTE PLACE="foot">572 b <HI REND="italic">getilgt vor</HI> rode <HI REND="italic">A</HI> ‖ lord] bard <HI REND="italic">B</HI></NOTE></L>
+<L>Of knyȝtt<HI REND="italic">ys</HI> was he odde. <NOTE PLACE="foot">573 w. he] he was <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> berons wer to þ<HI REND="italic">o</HI> deþ<HI REND="italic">e</HI> dongon <NOTE PLACE="foot">574 Grete lordis of hethenesse to deth he throng <HI REND="italic">B</HI></NOTE></L>
+<L>And ba<HI REND="italic">ner</HI>s bryght in slad<HI REND="italic">us</HI> slongo<HI REND="italic">n</HI> <MILESTONE N="540"/> <MILESTONE N="575"/> <NOTE PLACE="foot">575 And hire baners to the erth he slong <HI REND="italic">B</HI> ‖ baners] barons <HI REND="italic">A</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> strok<HI REND="italic">us</HI> greyt and lowd. <NOTE PLACE="foot">576 His strokes fill full sadde <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="49">
+<HEAD>XLIX</HEAD>
+<L>Þ<HI REND="italic">o</HI> sawdyn bare <HI REND="italic">in</HI> sabull blacke <NOTE PLACE="foot">577 in] a <HI REND="italic">A</HI></NOTE></L>
+<L>.iij. lyons rampa<HI REND="italic">n</HI>d, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt lacke, <NOTE PLACE="foot">578 iij] Thre <HI REND="italic">B</HI> ‖ rampand] <HI REND="italic">f. B</HI></NOTE></L>
+<L><HI REND="italic">A</HI>ll of silv<HI REND="italic">er</HI> sch<HI REND="italic">e</HI>ne: <MILESTONE N="24a" UNIT="A. fol."/> <NOTE PLACE="foot">579 All] þ<HI REND="italic">a</HI>t all <HI REND="italic">A</HI> ‖ i <HI REND="italic">in</HI> silv<HI REND="italic">er über der zeile A</HI> ‖ schene] schon <HI REND="italic">A</HI></NOTE></L>
+<L><PB N="159" REF="178" MS="y"/>
+Won was corvon w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> golys redde, <MILESTONE N="580"/> <NOTE PLACE="foot">580 corvon] crowned <HI REND="italic">B</HI></NOTE></L>
+<L>A nod<HI REND="italic">ur</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gold in þat steyd,</L>
+<L>Þ<HI REND="italic">o</HI> thryde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> aser, y wene, <NOTE PLACE="foot">582 aser—wene] dyvers of grene <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And</HI> his helmyt full rychely frett, <NOTE PLACE="foot">583 And] <HI REND="italic">f. B</HI> ‖ helmyt] helme was <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> charbuckol<HI REND="italic">us</HI> ston<HI REND="italic">us</HI> sett <NOTE PLACE="foot">584 With—stonus] Al w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> riche charbocles <HI REND="italic">B</HI> ‖ sett] suryly sett <HI REND="italic">A,</HI> bysett <HI REND="italic">B</HI></NOTE></L>
+<L>And dyamond<HI REND="italic">us</HI> betwene, <MILESTONE N="550"/> <MILESTONE N="585"/></L>
+<L>And his batell wele areyd, <NOTE PLACE="foot">586 And] <HI REND="italic">f. B</HI> ‖ wele] was ful well <HI REND="italic">B</HI></NOTE></L>
+<L>And his ban<HI REND="italic">er</HI> brodly dyspleyd; <MILESTONE N="128b" UNIT="B. fol."/> <NOTE PLACE="foot">587 brodly] <HI REND="italic">ein buchstabe</HI> (b?) <HI REND="italic">getilgt zwischen</HI> b <HI REND="italic">und</HI> r <HI REND="italic">A,</HI> ful brode <HI REND="italic">B</HI></NOTE></L>
+<L>Sone aft<HI REND="italic">ur</HI> tyde hom tene. <NOTE PLACE="foot">588 t. h.] turned to him <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="50">
+<HEAD>L</HEAD>
+<L>Þ<HI REND="italic">o</HI> gud knyȝt <HI REND="italic">Syr G</HI>owtheyr, <NOTE PLACE="foot">589 þo] For the <HI REND="italic">B</HI> ‖ gud] nobill <HI REND="italic">B</HI> ‖ Syr] <HI REND="italic">f. B</HI></NOTE></L>
+<L>He styrd hym styfly in his geyr: <MILESTONE N="590"/> <NOTE PLACE="foot">590 styrd] r <HI REND="italic">über der zeile A,</HI> bare <HI REND="italic">B</HI> ‖ styfly] so goodely <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> levyd non doȝttear þ<HI REND="italic">anne.</HI> <NOTE PLACE="foot">591 <HI REND="italic">v.</HI> 591-602 <HI REND="italic">f. B</HI> ‖ þanne] y wene <HI REND="italic">A</HI></NOTE></L>
+<L>Ylke a dyntte, þ<HI REND="italic">a</HI>t he smotte,</L>
+<L>Þro owt steyll helm<HI REND="italic">us</HI> it boott:</L>
+<L>He felld boþ<HI REND="italic">e</HI> hors and m<HI REND="italic">a</HI>n <NOTE PLACE="foot">594 boþe] o <HI REND="italic">über getilgtem</HI> e <HI REND="italic">A</HI> ‖ man] mon <HI REND="italic">A</HI></NOTE></L>
+<L>And made hom tombull to þ<HI REND="italic">o</HI> gro<HI REND="italic">n</HI>de. <MILESTONE N="595"/></L>
+<L>Þ<HI REND="italic">o</HI> fotemen on þ<HI REND="italic">o</HI> feld co<HI REND="italic">n</HI> stonde</L>
+<L>And þenward radly ranne.</L>
+<L>Þ<HI REND="italic">o</HI> sawdyn for þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our<HI REND="italic">us</HI> doȝtt<HI REND="italic">ur</HI></L>
+<L>Gard cryston <HI REND="italic">and</HI> heþon to dye in slaȝtt<HI REND="italic">ur:</HI> <NOTE PLACE="foot">599 Gard] r <HI REND="italic">über der zeile A</HI></NOTE></L>
+<L>Þat tyme hym burd wele ban. <MILESTONE N="600"/></L>
+</LG>
+<LG N="51">
+<HEAD>LI</HEAD>
+<L><HI REND="italic">To</HI> whyle <HI REND="italic">Syr G</HI>woþ<HI REND="italic">er</HI> freschely faȝtte, <MILESTONE N="24b" UNIT="A. fol."/> <NOTE PLACE="foot">601 To] Bo <HI REND="italic">A</HI> ‖ freschely] l <HI REND="italic">zwischen</HI> f <HI REND="italic">und</HI> r <HI REND="italic">getilgt A</HI></NOTE></L>
+<L>Mony <HI REND="italic">a</HI> hors is deyþ<HI REND="italic">e</HI> þ<HI REND="italic">er</HI> kaȝtte, <NOTE PLACE="foot">602 a] a doȝtte <HI REND="italic">A</HI></NOTE></L>
+<L>Þat he myȝtte ov<HI REND="italic">er</HI>reche: <NOTE PLACE="foot">603 Men nedeth no better to seche <HI REND="italic">B</HI></NOTE></L>
+<L>All, þat he w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his fawchon hytte,</L>
+<L>Þei fell to þ<HI REND="italic">o</HI> ground <HI REND="italic">and</HI> rosse not y<HI REND="italic">y</HI>tte, <MILESTONE N="605"/> <NOTE PLACE="foot">605 yytte] yette <HI REND="italic">A,</HI> yet <HI REND="italic">B</HI></NOTE></L>
+<L>Nor lokyd aft<HI REND="italic">ur</HI> no leyche. <NOTE PLACE="foot">606 N. l.] To seke <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="160" REF="179"/>
+Bot he wold not for yre ne tene <MILESTONE N="560"/> <NOTE PLACE="foot">607 Bot—yre] Yet durst he never in ang<HI REND="italic">ur B</HI></NOTE></L>
+<L>No worde speyke, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt wene, <NOTE PLACE="foot">608 No—speyke] Speke no word <HI REND="italic">B</HI> ‖ withowt] w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owten <HI REND="italic">B</HI></NOTE></L>
+<L>For dowtte of god<HI REND="italic">us</HI> wre<HI REND="italic">ch</HI>e; <NOTE PLACE="foot">609 dowtte] drede <HI REND="italic">B</HI> ‖ wreche] wreke <HI REND="italic">A</HI></NOTE></L>
+<L>Yf all he hongurt, noȝt he dyd eytte, <MILESTONE N="610"/> <NOTE PLACE="foot">610 Yf—he] And thow him <HI REND="italic">B</HI> ‖ noȝt—dyd] he durst not <HI REND="italic">B</HI></NOTE></L>
+<L>Bot, what he myȝt fro þ<HI REND="italic">o</HI> hownd<HI REND="italic">us</HI> geyt; <NOTE PLACE="foot">611 what] such as <HI REND="italic">B</HI> ‖ he—howndus] from houndes he myght <HI REND="italic">B</HI></NOTE></L>
+<L>He dyd, as þ<HI REND="italic">o</HI> pwope co<HI REND="italic">n</HI> teche. <NOTE PLACE="foot">612 con] con hym <HI REND="italic">A</HI></NOTE></L>
+</LG>
+<LG N="52">
+<HEAD>LII</HEAD>
+<L>S<HI REND="italic">yr G</HI>wother, þat styþe in stowre, <NOTE PLACE="foot">613 Thus did sir Gowghter the gentil knyght <HI REND="italic">B</HI></NOTE></L>
+<L>Ryd<HI REND="italic">ys</HI> ey w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our <NOTE PLACE="foot">614 <HI REND="italic">v.</HI> 614-625 <HI REND="italic">f. B</HI></NOTE></L>
+<L>And weyr<HI REND="italic">us</HI> hym fro wothe. <MILESTONE N="615"/></L>
+<L>Þ<HI REND="italic">er</HI> was no sarsyn so mykull of strenþ<HI REND="italic">e,</HI></L>
+<L>Þ<HI REND="italic">a</HI>t durst come w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>in <HI REND="italic">hor</HI> speyre lenthe: <NOTE PLACE="foot">617 hor] is <HI REND="italic">A</HI></NOTE></L>
+<L>So doȝtt<HI REND="italic">y</HI> wer þei boþ<HI REND="italic">e.</HI> <NOTE PLACE="foot">618 doȝtty] doȝttely <HI REND="italic">A</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his fachon large <HI REND="italic">and</HI> long</L>
+<L>Syche dynt<HI REND="italic">us</HI> on þem he dong, <MILESTONE N="620"/></L>
+<L>Hor lyf<HI REND="italic">us</HI> myȝtte þe<HI REND="italic">m</HI> lothe. <NOTE PLACE="foot">621 þem] þ<HI REND="italic">e A</HI></NOTE></L>
+<L>All, þat ev<HI REND="italic">er</HI> abode þat becur,</L>
+<L>Of hor deyþ<HI REND="italic">us</HI> meȝtt be secur:</L>
+<L>He styrd his hond<HI REND="italic">us</HI> so rathe. <MILESTONE N="25a" UNIT="A. fol."/></L>
+</LG>
+<LG N="53">
+<HEAD>LIII</HEAD>
+<L>Þ<HI REND="italic">a</HI>t dey he tent noght, bot is fyght: <MILESTONE N="625"/></L>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> faght w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all his myght, <NOTE PLACE="foot">626 þ<HI REND="italic">o]</HI> But the <HI REND="italic">B</HI> ‖ faght—myght] that was so sterne in fight <HI REND="italic">B</HI></NOTE></L>
+<L>Bot radly was he ta<HI REND="italic">n</HI> <NOTE PLACE="foot">627 Bot—he] Ful smartly he was <HI REND="italic">B</HI> ‖ tan] takon <HI REND="italic">A,</HI> tanne <HI REND="italic">B</HI> ‖ <HI REND="italic">dahinter v. 631 bis</HI> him <HI REND="italic">getilgt B</HI></NOTE></L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">o</HI> sawdyn awey was led; <NOTE PLACE="foot">628 And] And away <HI REND="italic">B</HI> ‖ a. w.] he was <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> dompe duke gard hy<HI REND="italic">m</HI> ley a wed, <MILESTONE N="570"/> <NOTE PLACE="foot">629 Sir Gowghter rode after and made him leve his wedde <HI REND="italic">B</HI></NOTE></L>
+<L>Stroke of his hed anon, <MILESTONE N="630"/> <NOTE PLACE="foot">630 Stroke] And smote <HI REND="italic">B</HI> ‖ anon] þanne <HI REND="italic">B</HI></NOTE></L>
+<L>Rescowyd is lord, broȝt hym ageyn <NOTE PLACE="foot">631 Rescowyd] Thus rescued he <HI REND="italic">B</HI> ‖ broȝt] and browght <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">And</HI> lovy<HI REND="italic">d</HI> god in hart <HI REND="italic">f</HI>ul feyn, <NOTE PLACE="foot">632 And] <HI REND="italic">f. A</HI> ‖ lovyd] lovyd be <HI REND="italic">A,</HI> thankid <HI REND="italic">B</HI> ‖ in] with <HI REND="italic">B</HI> ‖ hart] d <HI REND="italic">vor</HI> t <HI REND="italic">getilgt A</HI> ‖ ful] was ful <HI REND="italic">A</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t formod boþ<HI REND="italic">e</HI> blod and bon. <MILESTONE N="129a" UNIT="B. fol."/> <NOTE PLACE="foot">633 blod] llode <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="161" REF="180"/>
+Þ<HI REND="italic">er</HI> come a sarsyn w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a speyre, <NOTE PLACE="foot">634 þer] Right w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> that <HI REND="italic">B</HI></NOTE></L>
+<L>Thro þ<HI REND="italic">o</HI> schold<HI REND="italic">ur</HI> smott <HI REND="italic">G</HI>otheyr: <MILESTONE N="635"/> <NOTE PLACE="foot">635 þo] shilde and <HI REND="italic">B</HI></NOTE></L>
+<L>Þe<HI REND="italic">n</HI> made þ<HI REND="italic">e</HI> dompe meydon mon. <NOTE PLACE="foot">636 þen] þo <HI REND="italic">B</HI> ‖ meydon] lady <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="54">
+<HEAD>LIV</HEAD>
+<L>For sorro fell owt of h<HI REND="italic">ur</HI> toure <NOTE PLACE="foot">637 fell—toure] she saw that stowre <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> doght<HI REND="italic">ur</HI> of þo emp<HI REND="italic">er</HI>our, <NOTE PLACE="foot">638 She sowne and fill owt of hir towre <HI REND="italic">B</HI></NOTE></L>
+<L>To whyte w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt wene. <MILESTONE N="580"/> <NOTE PLACE="foot">639 And brak full negh hir necke <HI REND="italic">B</HI></NOTE></L>
+<L>A doȝtty sqwyer in hur bare, <MILESTONE N="640"/> <NOTE PLACE="foot">640 A—sqwyer] Two squyres <HI REND="italic">B</HI></NOTE></L>
+<L>Of all too dey<HI REND="italic">us</HI> hoo styrd no mar<HI REND="italic">e,</HI> <NOTE PLACE="foot">641 And III dais she moved not yare <HI REND="italic">B</HI></NOTE></L>
+<L>Þen ho deyd had ben. <NOTE PLACE="foot">642 As thowh sho had be dede <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> lord come hom, to meyt was seytt, <NOTE PLACE="foot">643 The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> wyssh and went to mete <HI REND="italic">B</HI></NOTE></L>
+<L>And þ<HI REND="italic">o</HI> doȝtty knyȝt<HI REND="italic">us</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owt leytt, <MILESTONE N="25b" UNIT="A. fol."/> <NOTE PLACE="foot">644 <HI REND="italic">dieser vers aus versehen doppelt (als letzter vers auf fol. 25<SUP>a</SUP> und erster auf fol. 25<SUP>b</SUP>) geschrieben (das zweite mal</HI> lett <HI REND="italic">statt</HI> leytt) <HI REND="italic">A,</HI> And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> him other lord<HI REND="italic">is</HI> grete <HI REND="italic">B</HI> ‖ knyȝtus] knyȝt <HI REND="italic">A</HI></NOTE></L>
+<L>Þat had in þ<HI REND="italic">o</HI> batell byn. <MILESTONE N="645"/> <NOTE PLACE="foot">645 had—batell] at the bateill hadde <HI REND="italic">B</HI></NOTE></L>
+<L>Þis gud knyȝt <HI REND="italic">Syr G</HI>wothere, <NOTE PLACE="foot">646 v. 646 nach 647 A ‖ Sir Gowghter was wounded sare <HI REND="italic">B</HI></NOTE></L>
+<L>To chamb<HI REND="italic">ur</HI> he went, dyd of is geyre, <NOTE PLACE="foot">647 In to the hall he gan fare <HI REND="italic">B</HI> ‖ b <HI REND="italic">in</HI> chambur <HI REND="italic">aus etw. and. A</HI></NOTE></L>
+<L>Þen myssyd he þ<HI REND="italic">a</HI>t meydon schene. <NOTE PLACE="foot">648 þen—meydon] He myssyd the lady <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="55">
+<HEAD>LV</HEAD>
+<L>Emong þ<HI REND="italic">o</HI> hownd<HI REND="italic">us</HI> is meyt he wan. <MILESTONE N="590"/></L>
+<L>Þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our was a drury man <MILESTONE N="650"/> <NOTE PLACE="foot">650 drury] carful <HI REND="italic">B</HI></NOTE></L>
+<L>For his doȝtt<HI REND="italic">ur</HI> gent;</L>
+<L>He gard erlys <HI REND="italic">and</HI> barons go to <HI REND="italic">R</HI>ome <NOTE PLACE="foot">652 He—go] Massyngers were sent <HI REND="italic">B</HI></NOTE></L>
+<L>Aft<HI REND="italic">ur</HI> þ<HI REND="italic">o</HI> pope, and <HI REND="italic">sone he come</HI> <NOTE PLACE="foot">653 sone—come] he come sone <HI REND="italic">A, B</HI></NOTE></L>
+<L>To hur enterment <NOTE PLACE="foot">654 enterment] terement <HI REND="italic">B</HI></NOTE></L>
+<L>And cardynals to þ<HI REND="italic">o</HI> beryng, <MILESTONE N="129b" UNIT="B. fol."/> <MILESTONE N="655"/> <NOTE PLACE="foot">655 Whan cardynales herd this tidyngis <HI REND="italic">B</HI></NOTE></L>
+<L>To assoyle þ<HI REND="italic">a</HI>t swett þyng. <NOTE PLACE="foot">656 Thei come to hir beryeng<HI REND="italic">is B</HI></NOTE></L>
+<L>Syche grace god hur sentt, <NOTE PLACE="foot">657 god] god hath <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="162" REF="181"/>
+Þ<HI REND="italic">a</HI>t scho raxeld hur <HI REND="italic">and</HI> rase <NOTE PLACE="foot">658 r. h.] stered hir self <HI REND="italic">B</HI></NOTE></L>
+<L>And spake word<HI REND="italic">us,</HI> þ<HI REND="italic">a</HI>t wyse was, <MILESTONE N="600"/> <NOTE PLACE="foot">659 wyse] witti <HI REND="italic">B</HI></NOTE></L>
+<L>To <HI REND="italic">S</HI>yr <HI REND="italic">G</HI>wother, varement. <MILESTONE N="660"/> <NOTE PLACE="foot">660 varement] w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> good entent <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="56">
+<HEAD>LVI</HEAD>
+<L>Ho seyd: 'my lord of heyvon gret<HI REND="italic">ys</HI> þ<HI REND="italic">e</HI> well <NOTE PLACE="foot">661 Ho] And <HI REND="italic">B</HI></NOTE></L>
+<L>And forgyffe<HI REND="italic">us</HI> þe þ<HI REND="italic">i</HI> syn yche a dell <NOTE PLACE="foot">662 Foryeve ben thi synnes ev<HI REND="italic">er</HI>y dell <HI REND="italic">B</HI></NOTE></L>
+<L>And grant<HI REND="italic">ys</HI> þ<HI REND="italic">e</HI> þ<HI REND="italic">o</HI> blys <NOTE PLACE="foot">663 þo] his <HI REND="italic">B</HI></NOTE></L>
+<L>And bydd<HI REND="italic">us</HI> þ<HI REND="italic">e</HI> speyke on hardely, <NOTE PLACE="foot">664 And] He <HI REND="italic">B</HI> ‖ speke—hardely] speke boldely <HI REND="italic">B</HI></NOTE></L>
+<L>Eyte <HI REND="italic">and</HI> drynke and make mery: <MILESTONE N="665"/> <NOTE PLACE="foot">665 Eyte] To ete <HI REND="italic">B</HI> ‖ make] make the <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u schallt be won of his.'</L>
+<L>Scho seyd to hur fad<HI REND="italic">ur:</HI> 'þ<HI REND="italic">i</HI>s is he, <MILESTONE N="26a" UNIT="A. fol."/> <NOTE PLACE="foot">667 Fader she said to the emp<HI REND="italic">er</HI>our <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t faȝt for yow deys thre <NOTE PLACE="foot">668 This is the knyght that bath fowghten in stowre <HI REND="italic">B</HI></NOTE></L>
+<L>In strong batell, ywys.' <MILESTONE N="610"/> <NOTE PLACE="foot">669 In—batell] For yow in thre batellis <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI> pope, had schryvon <HI REND="italic">Syr G</HI>other, <MILESTONE N="670"/> <NOTE PLACE="foot">670 h. sch.] that shroffe <HI REND="italic">B</HI> ‖ Syr] <HI REND="italic">f. B</HI> ‖ Gother] Gowghter at <HI REND="italic">R</HI>ome <HI REND="italic">B</HI></NOTE></L>
+<L>He lovyd god <HI REND="italic">and M</HI>are þ<HI REND="italic">er,</HI> <NOTE PLACE="foot">671 Byknew him whan he theder come <HI REND="italic">B</HI></NOTE></L>
+<L>And radly hym con kys <NOTE PLACE="foot">672 radly] lowly <HI REND="italic">B</HI> ‖ h. c.] gan him <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="57">
+<HEAD>LVII</HEAD>
+<L>And seyd: 'now art þ<HI REND="italic">o</HI>u godd<HI REND="italic">us</HI> chyld: <NOTE PLACE="foot">673 A. s.] <HI REND="italic">f. B</HI> ‖ þou] thow bycome <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">e</HI> þar not dowt þ<HI REND="italic">o</HI> warlocke wyld, <NOTE PLACE="foot">674 dowt] drede of <HI REND="italic">B</HI> ‖ þo] thi <HI REND="italic">B</HI> ‖ warlocke] workys <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> waryd mot he bee.' <MILESTONE N="675"/> <MILESTONE N="130a" UNIT="fol."/> <NOTE PLACE="foot">675 For sothe I tell it the <HI REND="italic">B</HI></NOTE></L>
+<L>Þro þ<HI REND="italic">o</HI> pope and þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our asent <NOTE PLACE="foot">676 Thorow grace of god and the popis atent <HI REND="italic">B</HI> ‖ emperour] empour <HI REND="italic">A</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> he weyd þat meydyn gent, <NOTE PLACE="foot">677 þer—meydyn] He was made wedde the lady <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t curtesse was and fre.</L>
+<L><HI REND="italic">S</HI>cho <HI REND="italic">was</HI> a lady gud <HI REND="italic">and f</HI>eyr, <MILESTONE N="620"/> <NOTE PLACE="foot">679 Scho] And scho <HI REND="italic">A</HI> ‖ was] <HI REND="italic">f. A</HI> ‖ a] <HI REND="italic">f. B</HI> ‖ feyr] ffeyr <HI REND="italic">A</HI></NOTE></L>
+<L>Of all hur fad<HI REND="italic">ur</HI> lond<HI REND="italic">us</HI> eyr, <MILESTONE N="680"/></L>
+<L>Beytt<HI REND="italic">ur</HI> þurte non bee. <NOTE PLACE="foot">681 Beyttur] A better <HI REND="italic">B</HI> ‖ þurte] may <HI REND="italic">B</HI></NOTE></L>
+<L><PB N="163" REF="182" MS="y"/>
+Þ<HI REND="italic">o</HI> pope toke his leyfe to weynde, <NOTE PLACE="foot">682 toke—wende] wold no lenger lend <HI REND="italic">B</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þam he laft his blessyng <HI REND="italic">heynde:</HI> <NOTE PLACE="foot">683 With—laft] But yaf him all <HI REND="italic">B</HI> ‖ heynde] <HI REND="italic">f. A</HI></NOTE></L>
+<L>Ageyn to <HI REND="italic">R</HI>ome went hee. <NOTE PLACE="foot">684 Ageyn] <HI REND="italic">f. B</HI> ‖ went] than went <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="58">
+<HEAD>LVIII</HEAD>
+<L>When þ<HI REND="italic">is</HI> ma<HI REND="italic">n</HI>geyre was broȝt to ende, <MILESTONE N="685"/> <NOTE PLACE="foot">685 þ. m.] the fest <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">Syr G</HI>wother con to <HI REND="italic">E</HI>stryke wende</L>
+<L>And gaffe þ<HI REND="italic">o</HI> old erle all;</L>
+<L>Made <HI REND="italic">h</HI>ym duke of þat cuntré <MILESTONE N="26b" UNIT="A. fol."/> <NOTE PLACE="foot">688 Of all his faderis londes he made him eyre <HI REND="italic">B</HI> ‖ hym] kym <HI REND="italic">A</HI></NOTE></L>
+<L>And lett hym wed his mod<HI REND="italic">ur</HI> fre, <MILESTONE N="630"/> <NOTE PLACE="foot">689 And made him wedde his moder fayre <HI REND="italic">B</HI></NOTE></L>
+<L>Þat lade gent and small. <MILESTONE N="690"/> <NOTE PLACE="foot">690 l. g.] was bothe gentill <HI REND="italic">B</HI></NOTE></L>
+<L>And þ<HI REND="italic">er</HI> he made an abbey <NOTE PLACE="foot">691 And—made] Syghte he bildyd <HI REND="italic">B</HI></NOTE></L>
+<L>And gaff þ<HI REND="italic">er</HI> to rent for ey</L>
+<L>And <HI REND="italic">seyd:</HI> 'here lye y schall,' <NOTE PLACE="foot">693 seyd] <HI REND="italic">f. A</HI> ‖ h. l.] be beried here <HI REND="italic">B</HI></NOTE></L>
+<L>And putte þ<HI REND="italic">er</HI>in monk<HI REND="italic">us</HI> blake <NOTE PLACE="foot">694 p. þ.] there yn put <HI REND="italic">B</HI></NOTE></L>
+<L>To rede and syng for god<HI REND="italic">ys</HI> sake <MILESTONE N="695"/></L>
+<L>And closyd hit w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gud wall. <NOTE PLACE="foot">696 w. g.] w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yn a <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="59">
+<HEAD>LIX</HEAD>
+<L>All yf þ<HI REND="italic">o</HI> pope had hym schryvyn <NOTE PLACE="foot">697 A. y.] For thowh <HI REND="italic">B</HI> ‖ schryvyn] yshreve <HI REND="italic">B</HI></NOTE></L>
+<L>And god is synn<HI REND="italic">us</HI> clene forg<HI REND="italic">y</HI>von, <MILESTONE N="130b" UNIT="B. fol."/> <NOTE PLACE="foot">698 god] <HI REND="italic">f. B</HI> ‖ clene] were <HI REND="italic">B</HI> ‖ forgevon <HI REND="italic">A</HI></NOTE></L>
+<L>Yett was his hart full sare, <MILESTONE N="640"/></L>
+<L>Þ<HI REND="italic">a</HI>t ev<HI REND="italic">er</HI> he schuld so yll wyrke <MILESTONE N="700"/> <NOTE PLACE="foot">700 ever] <HI REND="italic">f. B</HI> ‖ yll] wyckedly <HI REND="italic">B</HI> ‖ wyrke] wrech <HI REND="italic">B</HI></NOTE></L>
+<L>To bren þ<HI REND="italic">o</HI> nu<HI REND="italic">n</HI>n<HI REND="italic">us</HI> in hor kyrke <NOTE PLACE="foot">701 kyrke] cherch <HI REND="italic">B</HI></NOTE></L>
+<L>And made hor plasse so bare. <NOTE PLACE="foot">702 A nother abbay made he thore <HI REND="italic">B</HI></NOTE></L>
+<L>For hom gard he make þ<HI REND="italic">a</HI>t abbey <NOTE PLACE="foot">703 There he did make a nother abbay <HI REND="italic">B</HI></NOTE></L>
+<L>And a covent þe<HI REND="italic">r</HI>in for ey, <NOTE PLACE="foot">704 a—ey] put theryn monkes gray <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t mekull cowde of lare, <MILESTONE N="705"/></L>
+<L><HI REND="italic">To syng and rede to</HI> þ<HI REND="italic">o</HI> word<HI REND="italic">us</HI> end <NOTE PLACE="foot">706 To—to] For þem unto <HI REND="italic">A</HI> ‖ wordus] worlde ys <HI REND="italic">B</HI></NOTE></L>
+<L>For hor soul<HI REND="italic">us,</HI> þ<HI REND="italic">a</HI>t he had brend, <NOTE PLACE="foot">707 h. s.] the nonnes <HI REND="italic">B</HI> ‖ had] <HI REND="italic">f. B</HI></NOTE></L>
+<L>And all, þat cryston ware. <NOTE PLACE="foot">708 And] <HI REND="italic">f. B</HI></NOTE></L>
+</LG>
+<LG N="60">
+<PB N="164" REF="183" MS="y"/>
+<HEAD>LX</HEAD>
+<L>And þen he went hym hom ageyn, <MILESTONE N="650"/> <NOTE PLACE="foot">709 And—hym] Thus went Sir Gowghter <HI REND="italic">B</HI></NOTE></L>
+<L>And, be þ<HI REND="italic">a</HI>t he come in <HI REND="italic">A</HI>llmeyn, <MILESTONE N="710"/> <NOTE PLACE="foot">710 And <HI REND="italic">f. B</HI> ‖ þat] that tyme <HI REND="italic">B</HI> ‖ in] to <HI REND="italic">B</HI></NOTE></L>
+<L>His fad<HI REND="italic">ur</HI> þ<HI REND="italic">o</HI> emp<HI REND="italic">er</HI>our was deyd: <MILESTONE N="27a" UNIT="A. fol."/> <NOTE PLACE="foot">711 His—emperour] His wyfis fader <HI REND="italic">B</HI></NOTE></L>
+<L><HI REND="italic">Tho was</HI> he lord and emp<HI REND="italic">er</HI>owr, <NOTE PLACE="foot">712 Tho w.] And <HI REND="italic">A</HI></NOTE></L>
+<L>Of all cryston knyȝtt<HI REND="italic">us</HI> þ<HI REND="italic">o</HI> flowre <NOTE PLACE="foot">713 c. k.] cristendome he bare <HI REND="italic">B</HI></NOTE></L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">o</HI> sarsyns dredde. <NOTE PLACE="foot">714 Above the Sarezyns hede <HI REND="italic">B</HI></NOTE></L>
+<L>What mon b<HI REND="italic">a</HI>d hym for god<HI REND="italic">ys</HI> loffe doo, <MILESTONE N="715"/> <NOTE PLACE="foot">715 bad] so byd<HI REND="italic">us A</HI> ‖ loffe] sake <HI REND="italic">B</HI></NOTE></L>
+<L>He was ey redy bown þ<HI REND="italic">er</HI> too <NOTE PLACE="foot">716 He—bown] Trewly he was redy <HI REND="italic">B</HI></NOTE></L>
+<L>And stod pore folke in styd <NOTE PLACE="foot">717 folke] men <HI REND="italic">B</HI></NOTE></L>
+<L>And <HI REND="italic">mayntened</HI> ryche men in hor ryght <NOTE PLACE="foot">718 mayntened] <HI REND="italic">f. A</HI> ‖ ryche] pover <HI REND="italic">B</HI></NOTE></L>
+<L>And halpe holy kyrke in all is myght: <MILESTONE N="660"/> <NOTE PLACE="foot">719 kyrke] chi<HI REND="italic">[r]</HI>che <HI REND="italic">B</HI> ‖ in all] with <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">us</HI> toke he bett<HI REND="italic">ur</HI> reyd. <MILESTONE N="720"/> <MILESTONE N="131a" UNIT="fol."/> <NOTE PLACE="foot">720 toke] <HI REND="italic">davor</HI> to he <HI REND="italic">getilgt A,</HI> cawght <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="61">
+<HEAD>LXI</HEAD>
+<L>Furst he reynod mony a yere, <NOTE PLACE="foot">721 Furst—reynod] And levid in good lyf <HI REND="italic">B</HI></NOTE></L>
+<L>An emp<HI REND="italic">er</HI>our of greyt power, <NOTE PLACE="foot">722 An] <HI REND="italic">f. B</HI></NOTE></L>
+<L>And whysyle con he wake,</L>
+<L>And when he dyed, þ<HI REND="italic">o</HI> sothe to sey, <NOTE PLACE="foot">724 And] <HI REND="italic">f. B</HI> ‖ þo] for <HI REND="italic">B</HI></NOTE></L>
+<L>Was beryd at þ<HI REND="italic">o</HI> same abbey, <MILESTONE N="725"/> <NOTE PLACE="foot">725 Was] He was <HI REND="italic">B</HI> ‖ at—same] in that <HI REND="italic">B</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t hym selfe gart make; <NOTE PLACE="foot">726 h. g.] he first gan <HI REND="italic">B</HI></NOTE></L>
+<L>And he is a varre corsent p<HI REND="italic">ar</HI>f<HI REND="italic">y</HI>tt <NOTE PLACE="foot">727 <HI REND="italic">im folgenden—v. 750 hat</HI> B <HI REND="italic">lücken, auch ist die reihenfolge der verse von der in</HI> A <HI REND="italic">ab∣weichend. ich gebe zu jedem verse die betr. varianten. v. 727-29 f. B</HI> ‖ parfytt] parfett <HI REND="italic">A</HI></NOTE></L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> cryston pepull wele belovyd. <NOTE PLACE="foot">728 wele] <HI REND="italic">erstes</HI> e <HI REND="italic">aus etw. and. A</HI></NOTE></L>
+<L>God hase done for his sake <MILESTONE N="670"/></L>
+<L>Myrrakull, for he <HI REND="italic">w</HI>as hy<HI REND="italic">m</HI> hold, <MILESTONE N="730"/> <NOTE PLACE="foot">730 Myrrakull—hold] And doth maracles as it is told <HI REND="italic">B hinter</HI> 731 ‖ was] has <HI REND="italic">A</HI></NOTE></L>
+<L>Þ<HI REND="italic">er</HI> he lyse in schryne of gold, <NOTE PLACE="foot">731 in] in a <HI REND="italic">B</HI></NOTE></L>
+<L>Þat suffurd for godd<HI REND="italic">us</HI> sake. <NOTE PLACE="foot">732 And hatt Seynt Gotlake <HI REND="italic">B</HI></NOTE></L>
+</LG>
+<LG N="62">
+<HEAD>LXII</HEAD>
+<L>Who so sechys hy<HI REND="italic">m</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hart fre, <MILESTONE N="27b" UNIT="fol."/> <NOTE PLACE="foot">733 <HI REND="italic">V.</HI> 733-38 <HI REND="italic">f. B</HI></NOTE></L>
+<L>Of hor bale bote mey bee,</L>
+<L>For so god hase hym hyȝt. <MILESTONE N="735"/> <NOTE PLACE="foot">735 <HI REND="italic">am rande von ders. hand A</HI></NOTE></L>
+<L><PB N="165" REF="184"/>
+Þes word<HI REND="italic">us</HI> of hy<HI REND="italic">m</HI> þar no mo<HI REND="italic">n</HI> wast,</L>
+<L>For he is inspyryd w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">o</HI> holy gost,</L>
+<L>Þat was þ<HI REND="italic">o</HI> cursod knyȝt.</L>
+<L>For he gar<HI REND="italic">us</HI> þ<HI REND="italic">o</HI> blynd to see <NOTE PLACE="foot">739 For—blynd] He make<HI REND="italic">[th]</HI> blynd men for <HI REND="italic">B</HI></NOTE></L>
+<L>And þ<HI REND="italic">o</HI> dompe to speyke, p<HI REND="italic">ar</HI>de, <MILESTONE N="740"/> <NOTE PLACE="foot">740 Wode men to have here wit parde <HI REND="italic">B</HI></NOTE></L>
+<L>And mak<HI REND="italic">us</HI> þ<HI REND="italic">o</HI> crokyd ryght <NOTE PLACE="foot">741 Crokyd here crucches forsake <HI REND="italic">B</HI></NOTE></L>
+<L>And gyff<HI REND="italic">us</HI> to þ<HI REND="italic">o</HI> mad hor wytte <NOTE PLACE="foot">742 <HI REND="italic">v.</HI> 742-750 <HI REND="italic">f. B</HI> ‖ yytte] yette <HI REND="italic">A</HI></NOTE></L>
+<L>And mony od<HI REND="italic">ur</HI> meracull<HI REND="italic">us</HI> y<HI REND="italic">y</HI>tte</L>
+<L>Þoro þ<HI REND="italic">o</HI> grace of god allmyȝt.</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII</HEAD>
+<L>Þ<HI REND="italic">us Syr G</HI>wother cov<HI REND="italic">er</HI>y<HI REND="italic">d</HI> is care <MILESTONE N="745"/> <NOTE PLACE="foot">745 coveryd] coverys <HI REND="italic">A</HI></NOTE></L>
+<L>Þat fyrst was ryche <HI REND="italic">and</HI> syþon bare</L>
+<L>And effte was ryche ageyn</L>
+<L>And geyton w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a felteryd feynd: <NOTE PLACE="foot">748 felteryd] <HI REND="italic">zweites</HI> e <HI REND="italic">nicht ganz deutlich A</HI></NOTE></L>
+<L>G<HI REND="italic">ra</HI>ce he had to make þat eynd,</L>
+<L>Þat god was of hym feyn. <MILESTONE N="750"/></L>
+<L>Þis is wreton in p<HI REND="italic">ar</HI>chem<HI REND="italic">y</HI>n, <NOTE PLACE="foot">751 þis] This tale <HI REND="italic">B</HI> ‖ p<HI REND="italic">ar</HI>chemeyn <HI REND="italic">A</HI></NOTE></L>
+<L>A story boþ<HI REND="italic">e</HI> gud and fyn, <NOTE PLACE="foot">752 A—boþe] In a stori <HI REND="italic">B</HI></NOTE></L>
+<L>Owt off a la<HI REND="italic">i</HI> of <HI REND="italic">B</HI>reyt<HI REND="italic">e</HI>yn. <NOTE PLACE="foot">753 Owt—a] In the first <HI REND="italic">B</HI> ‖ lai] law <HI REND="italic">A</HI> ‖ breytyn <HI REND="italic">A</HI></NOTE></L>
+<L>I<HI REND="italic">e</HI>su Cryst, godd<HI REND="italic">ys</HI> son, <NOTE PLACE="foot">754 <HI REND="italic">von hier ab weicht der schluss in B völlig ab. er lautet v.</HI> 754-62
+<LG>
+<L>Now god, that is of mythes most,</L>
+<L>Fader and sone and holy gost <MILESTONE N="755"/></L>
+<L>Of owre sowles be fayne!</L>
+<L>All, that hath herd this talkyng, <MILESTONE N="690"/></L>
+<L>Lytill, moche, old and yyng,</L>
+<L>Yblyssyd mote they be.</L>
+<L>God yeve hem grace, whan they shal ende, <MILESTONE N="760"/></L>
+<L>To hevyn blys here sowles wend <MILESTONE N="131b" UNIT="B. fol."/></L>
+<L>With angelys bryght of ble!</L>
+<L>Amen par charite.</L>
+<TRAILER><HI REND="italic">Explicit Vita S</HI>an<HI REND="italic">c</HI>t<HI REND="italic">i.</HI></TRAILER>
+</LG></NOTE></L>
+<L>Gyff us myȝt w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym to won, <MILESTONE N="755"/></L>
+<L>Þat lord, þ<HI REND="italic">a</HI>t is most of meyn!</L>
+<CLOSER>Ame<HI REND="italic">n.</HI></CLOSER>
+</LG>
+<TRAILER>Explicit <HI REND="italic">Syr G</HI>oþ<HI REND="italic">er.</HI></TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,4456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>5-26-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; removed a P; added a P; removed P FIGURE. Checked <SUP>s</SUP>. Reviewed structure; changed several TRAILERs to CLOSERs; changed DIV2 to FLOATEXT; changed some HEADs to OPENERs; changed ARGUMENTs to EPIGRAPH Qs; changed HEAD to CLOSER. Checked placement and completeness of PBs; moved some PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00029">
+<STC T="M">29</STC>
+<BIBNO T="mec">CME00029</BIBNO>
+<VID>CME00029</VID>
+</IDG>
+<TEXT LANG="enm lat">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="4"/>
+<P>English Metrical Homilies FROM MANUSCRIPTS OF THE FOURTEENTH CENTURY</P>
+<P>WITH <HI REND="italic">An Introduction and Notes</HI> BY JOHN SMALL, M. A. <HI REND="italic">Librarian, University, Edinburgh</HI></P>
+<P><HI REND="italic">Edinburgh WILLIAM PATERSON,</HI> 74 <HI REND="italic">PRINCES STREET</HI> M.DCCC.LXII.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="prologue">
+<PB REF="28"/>
+<HEAD>Prologus.</HEAD>
+<LG>
+<L><SEG REND="decorInit">F</SEG>ADER and sun and haligast,</L>
+<L>That anfald God es ay stedfast,</L>
+<L>Worthi driht in trinite,</L>
+<L>A God a miht in persons iii,</L>
+<L>With outen end and biginning,</L>
+<L>Rihtwis Lauerd and mihti king,</L>
+<L>That mad of riht noht alle thing,</L>
+<L>And geres the erthe froit forth bring,</L>
+<L>Wit outen the nan froit mai spring,</L>
+<L>For al es loken in thi welding.</L>
+<L>Thou ert Lauerd that worthi drihte,</L>
+<L>That al ophaldes wiht thi mihte,</L>
+<L>Thou that al craftes kanne,</L>
+<L>Of erth and lam thou made manne,</L>
+<L>And gaf him gast of schilwisnes</L>
+<L>That thou mad efter thi liknes,</L>
+<L><PB N="2" REF="29"/>
+Thou filde this gaste sa full of witte,</L>
+<L>Sa quaynt and crafti mad thou itte,</L>
+<L>That al bestes er red for man,</L>
+<L>Sa mani wyle and wrenk he can.</L>
+<L>Forthi suld man in thi seruis</L>
+<L>Despend his witte and his quaintis,</L>
+<L>For thu gaf man skil and insiht,</L>
+<L>And heuenis blis thou hauis him hiht,</L>
+<L>To kouenand that he serue the riht,</L>
+<L>And se and knau thi mikel miht,</L>
+<L>On the bird be his mast thouht,</L>
+<L>That ses quat thou for him has wroht,</L>
+<L>And fra quat bale thou him broht,</L>
+<L>Quen thou fra helle on rode him boht.</L>
+<L>An unkind man es he,</L>
+<L>That turnes alle his thoht fra the,</L>
+<L>And wel bird ever ilk man,</L>
+<L>Lof God after that he kan,</L>
+<L>Lered men wit rihtwis lare,</L>
+<L>And laued folk wit rihtwis fare,</L>
+<L>Prestes wit matines and wit messe,</L>
+<L>And laued men wiht rihtwisnes,</L>
+<L>Clerk wit lar of Godes worde,</L>
+<L>For he haues in him Godes horde</L>
+<L>Of wisdom and of gastlic lare,</L>
+<L>That he ne an noht for to spare,</L>
+<L><PB N="3" REF="30"/>
+Bot scheu it forthe til laued menne,</L>
+<L>And thaim the wai til heuin kenne.</L>
+<L>For [all than] sal we yeld acount,</L>
+<L>Quat that wisdom mai amount,</L>
+<L>That God hauis giuen us for to spend,</L>
+<L>In god oys til our liues end.</L>
+<L>Forthi suld ilke precheour schau,</L>
+<L>The god that Godd hauis gert him knau,</L>
+<L>For qua sa hides Godes gift,</L>
+<L>God mai chalange him of thift.</L>
+<L>In al thing es he nouht lele,</L>
+<L>That Godes gift fra man wil sele,</L>
+<L>Forthi the litel that I kanne,</L>
+<L>Wil I schau til ilke manne,</L>
+<L>Yf I kan mar god than he,</L>
+<L>For than lif Ic in charite,</L>
+<L>For Godes wisdom that es kid,</L>
+<L>And na thing worthe quen it is hid,</L>
+<L>Forthi wil I of my pouert,</L>
+<L>Schau sum thing that Ik haf in hert,</L>
+<L>On Ingelis tong that alle may</L>
+<L>Understand quat I wil say,</L>
+<L>For laued men hauis mar mister,</L>
+<L>Godes word for to her,</L>
+<L>Than klerkes that thair mirour lokes,</L>
+<L>And sees hou thai sal lif on bokes,</L>
+<L><PB N="4" REF="31"/>
+And bathe klerk and laued man,</L>
+<L>Englis understand kan,</L>
+<L>That was born in Ingeland,</L>
+<L>And lang haues ben thar in wonand,</L>
+<L>Bot al men can noht, I wis,</L>
+<L>Understand Latin and Frankis,</L>
+<L>Forthi me think almous it isse,</L>
+<L>To wirke sum god thing on Inglisse,</L>
+<L>That mai ken lered and laued bathe,</L>
+<L>Hou thai mai yem thaim fra schathe,</L>
+<L>And stithe stand igain the fend,</L>
+<L>And til the blis of heuen wend,</L>
+<L>Mi speche haf I mint to drawe,</L>
+<L>Of Cristes dedes and his sau,</L>
+<L>On him mai I best found mi werke,</L>
+<L>And of his dedes tac mi merke,</L>
+<L>That maked al this werd of noht,</L>
+<L>And der mankind on rode boht,</L>
+<L>The faur godspellers us schawes,</L>
+<L>Cristes dedes and his sawes,</L>
+<L>Al faur a talle thay telle,</L>
+<L>Bot seer saues er in thair spelle,</L>
+<L>And of thair spel in kirk at messe,</L>
+<L>Er leszouns red bathe mar and lesse,</L>
+<L>For at euer ilke messe we rede</L>
+<L>Of Cristes wordes and his dede,</L>
+<L><PB N="5" REF="32"/>
+Forthi tha godspells that always</L>
+<L>Er red in kirc on sundays,</L>
+<L>Open Inglis wil Ic undo,</L>
+<L>Yef God wil gif me grace tharto,</L>
+<L>For namlic on the sunnenday,</L>
+<L>Comes lawed men thair bede to say</L>
+<L>To the kirc, an for to lere</L>
+<L>Gastlic lare that thar thai here,</L>
+<L>For als gret mister haf thay,</L>
+<L>To wit quat the godspel wil say</L>
+<L>Als lered men, for bathe er bouht</L>
+<L>Wit Cristes blod, and sal be broht</L>
+<L>Til heuenis blis ful menskelie,</L>
+<L>Yef thai lef her rihtwislie,</L>
+<L>For wil Ic on Inglis schau,</L>
+<L>And ger our laued brether knawe,</L>
+<L>Quat alle tha godspelles saies,</L>
+<L>That falles tille the sunnendayes,</L>
+<L>That thai mai her and hald in hert</L>
+<L>Thinge that thaim til God mai ert,</L>
+<L>And forthi at our biginninge,</L>
+<L>Pray we God of heuin kinge,</L>
+<L>That he help us for to bringe</L>
+<L>This ilk werk to god endinge,</L>
+<L>And gif me grace sua make</L>
+<L>This werk for laued mannes sake,</L>
+<L><PB N="6" REF="33"/>
+That I mai haf for my mede,</L>
+<L>Heuenrik blis quen I am dede,</L>
+<L>And our werk be worschipe</L>
+<L>To God, and to the fend scendschipe</L>
+<L>And joy til halwe and till angel,</L>
+<L>And cresten folk til sauel hel,</L>
+<L>That it be sua says inwardlye,</L>
+<L>Pater noster Ave Marie. Pat. <ABBR>nr.</ABBR> et cet.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="34"/>
+<DIV2 TYPE="part">
+<OPENER>Explicit Prologus. Incipit ratio quare presens opus in∣cipiat dominicam primam Adventus Domini.</OPENER>
+<LG>
+<L><SEG REND="decorInit">A</SEG>R the fulthe of tim was comen,</L>
+<L>Satenas al folk aued nomen,</L>
+<L>For mankind in prisoun he held,</L>
+<L>Wiht outen help wit outen belde,</L>
+<L>Ai til God in trinite</L>
+<L>Of mankind hafd sa gret pite,</L>
+<L>That he send his son for to take</L>
+<L>Fleys and blod for mannes sake,</L>
+<L>For wit outen fleis and blode,</L>
+<L>Moht Crist noht by apon the rode</L>
+<L>Mankind, that in fleis and felle,</L>
+<L>Was demed to the pin of helle,</L>
+<L>Forthi hafd God of man mercye,</L>
+<L>That was bigiled thoru envie</L>
+<L>Of Satenas that wiht lesinge</L>
+<L>Gabbid Adam and his ofspringe,</L>
+<L><PB N="8" REF="35"/>
+And gert mankind ga tille helle,</L>
+<L>Thar he suld euer mar duelle,</L>
+<L>Yef it ne hauid ben Godd almihti,</L>
+<L>That send his son thoru his merci,</L>
+<L>To yeld for mankind raunceoun,</L>
+<L>And lesse us al of prisoun,</L>
+<L>Goddes sun and Goddes sande,</L>
+<L>Com to les mankind of bande,</L>
+<L>And was born of mayden Marye,</L>
+<L>Mankind on rode for to bie,</L>
+<L>And forthi Crist com us to,</L>
+<L>Our aller nedes for to do,</L>
+<L>A monethe bifor his birthe,</L>
+<L>Hali kirk wit menske and mirht,</L>
+<L>Welcomes him euer ilke a yer,</L>
+<L>And thankes God on fair maner,</L>
+<L>For Cristes com and Goddes sande,</L>
+<L>That lesed us of the fendes bande,</L>
+<L>And forthi at that blissful tyme,</L>
+<L>Quen hali kirk welcumes hime,</L>
+<L>Wil I bigin to mak my spelle,</L>
+<L>And of his com sum thing telle,</L>
+<L>For Cristes to com mad endinge,</L>
+<L>Of al our soru and our murning.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="part">
+<PB N="9" REF="36"/>
+<OPENER>Explicit istud precedens Argumentum. Incipit Euange∣lium ejusdem Dominice secundum Marcum.</OPENER>
+<EPIGRAPH>
+<Q><P>Inicium Euangelii Ihesu Cristi filii Dei, sicut scriptum est in Ysaya Propheta. Ecce mitto angelum meum ante faciem tuam qui preparabit viam tuam ante te. Vox clamantis in deserto parate viam Domini, rectas semitas facite ejus. Fuit Iohannes in deserto. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L>Sayn Mark byginnes his godspel</L>
+<L>Wit wordes that I wil you tel,</L>
+<L>And tas witnes of Ysaye,</L>
+<L>That spekes of Crist in prophecye.</L>
+<L>This Ysaye than spekes ful euen,</L>
+<L>In the fader nam of heuin,</L>
+<L>Til Crist of sayn Johan the Baptiste,</L>
+<L>That bodword broht of him that Crist;</L>
+<L>I send, he says, my messager</L>
+<L>Bifor thi face thi word to ber,</L>
+<L>That sal graithe bifor the the way,</L>
+<L>Wit word that he of the wil say.</L>
+<L>Thir wordes says God almihty,</L>
+<L>Thoru the prophet Malachye,</L>
+<L>And als than spekis Ysaie,</L>
+<L>Of sayn Jon ful openlye,</L>
+<L><PB N="10" REF="37"/>
+Thai scheu bathe an wit sere letter,</L>
+<L>Forthi bers us trow thaim the better.</L>
+<L>Thai tald how sayn Jon the Baptist</L>
+<L>Suld graithe the gates bifor Criste,</L>
+<L>For sayn Jon was in wildernes,</L>
+<L>And baptized folk in forgifnes</L>
+<L>Of sin, and kend thaim the way</L>
+<L>Tilward that blis that lastes ay,</L>
+<L>For mikel folk of a contre</L>
+<L>That our godspelles kalles Jude,</L>
+<L>And of Jerusalemes cite,</L>
+<L>Com of sain Jon baptized to be,</L>
+<L>Thai schraf thaim of thair sines clen,</L>
+<L>And sayn Jon baptized thaim biden.</L>
+<L>In strang penance his lif he ledde,</L>
+<L>Wit camel hare was he cledde,</L>
+<L>Wod hony and froit he ete,</L>
+<L>And taht the folk thair sine to bete,</L>
+<L>And said a stither gom than I,</L>
+<L>Efter me sal com in hy,</L>
+<L>That es sa menscful and mihty,</L>
+<L>That I me self es noht worthi</L>
+<L>To les the thuanges of his schon,</L>
+<L>Sa mikel god thoru him bes don;</L>
+<L>For I in water baptiz you,</L>
+<L>Bot apon him aw ye to trow,</L>
+<L><PB N="11" REF="38"/>
+For he sal wit the haligaste</L>
+<L>Baptiz you and your sinnes waste.</L>
+<L>This es the strenthe of our godspel,</L>
+<L>That man wit Englis tung mai telle.</L>
+<L>In this godspel als think me,</L>
+<L>Tua thinges mai we gastli se.</L>
+<L>The first es worsip and louing</L>
+<L>Of Jhesu Cristes to coming,</L>
+<L>For it falles to a mihty king,</L>
+<L>That messager word of him bring.</L>
+<L>Ar he com til his biging,</L>
+<L>Als sain Jon broht of Crist tithing;</L>
+<L>Of quaim Ysay the prophet</L>
+<L>Bers witnes wit wordes suet,</L>
+<L>And sain Mark settes his witnes,</L>
+<L>In our godspel als wel worthe es.</L>
+<L>The tothers thinge that we may se,</L>
+<L>In our godspel als think me,</L>
+<L>Than es the gret derworthines</L>
+<L>Of precheours that bers witnes</L>
+<L>Of his to com and mas it couthe,</L>
+<L>Wit word that comes of thair mouthe,</L>
+<L>For thai er Cristes messagers,</L>
+<L>Til al that thair sermoun heres.</L>
+<L>Thay telle the folk on quat maner,</L>
+<L>That mankind was to Godd sa der,</L>
+<L><PB N="12" REF="39"/>
+That he send his son us to,</L>
+<L>Our aller nedes for to do.</L>
+<L>That was our Lauerd Crist Jesus,</L>
+<L>That was send to dey for us,</L>
+<L>Forthi bird we in his cuming,</L>
+<L>Welcum him als worthi king,</L>
+<L>For in hali bok find we,</L>
+<L>Of Cristes to cuminge [poyntys] thre.</L>
+<L>The first was quen he com to tak</L>
+<L>Fleis and blod for mannes sak,</L>
+<L>He lyhted doun ful mekeli</L>
+<L>Into the maiden wamb of Mary,</L>
+<L>And schop him bodi of hir fleyse,</L>
+<L>And dubbed him wit our liknes,</L>
+<L>And welk in werld als sinful man,</L>
+<L>Bot sinles was he al an;</L>
+<L>Wit our licnes bigiled he</L>
+<L>The fend that his manhed moht se,</L>
+<L>But pride made the fend sa blind,</L>
+<L>That his godhed moht he noht find.</L>
+<L>He wend that Crist war noht bot man,</L>
+<L>And thoru his godhed was he tan.</L>
+<L>Cristes godhed the fend tok,</L>
+<L>Als fisce es tan wit bait and hoc;</L>
+<L>For his godhed in fleis was felid</L>
+<L>Als hok in bait, quare thoru he telid</L>
+<L><PB N="13" REF="40"/>
+The fend, that telid our fadir Adam,</L>
+<L>And broht mankind in mikel blam;</L>
+<L>Hauid Satenas wist witerlye</L>
+<L>That Criste hauid ben Godd almihtye,</L>
+<L>For al this werld hauid he noht gert,</L>
+<L>The Jowes sting him to the hert,</L>
+<L>Bot for he sau him noht bot man,</L>
+<L>Godhed in him wend he war nan,</L>
+<L>Forthi he fanded ithenlye,</L>
+<L>To harl him in til his balye,</L>
+<L>He wend wel wit him to fare,</L>
+<L>Als he hauid don with other are,</L>
+<L>For quen Crist suelt apon the tre,</L>
+<L>His sawel gern spied he,</L>
+<L>Yef he moht se or find thar inne,</L>
+<L>Any filth or spotte of sinne,</L>
+<L>And for he fand thar in riht nan,</L>
+<L>Als fisce wit hok was he tan.</L>
+<L>The fendes miht that was ful stithe,</L>
+<L>That he was won bifor to kithe,</L>
+<L>Was alle taken in Cristes hand,</L>
+<L>That him in hel sa harde band,</L>
+<L>That neuer mar sal he wend</L>
+<L>Out of hel, bot ay thar lend,</L>
+<L>And Crist reft him than mani man,</L>
+<L>That he fra Crist bifor had tan.</L>
+<L><PB N="14" REF="41"/>
+For son, quen Crist on rod was slain,</L>
+<L>He herid hel als mihti thain,</L>
+<L>And broht thaim al that war his,</L>
+<L>Mihtfullik in till his blis,</L>
+<L>His godhed and his sauel samen,</L>
+<L>Broht thaim al fra pin to gamen,</L>
+<L>Thus com ur Lauerd Crist us to</L>
+<L>To bring us al fra, til rest and ro;</L>
+<L>Forthi beres man that ese mad hale,</L>
+<L>And blisfully bette of his bale,</L>
+<L>Welcom Crist that com to bring</L>
+<L>Us til his blis als mihti king.</L>
+<L>Nou se ye qui and for quas sake,</L>
+<L>Crist com til us our kind to take.</L>
+<L>His first com was bodilye,</L>
+<L>Bot an other est gastilye,</L>
+<L>That es quen Crist gifes us wille,</L>
+<L>His comandmenz to fulfille,</L>
+<L>For son, quen we haf wil to do</L>
+<L>Al that the precheour says us to,</L>
+<L>And feles our hert in charite,</L>
+<L>For sothe ful siker mai we be,</L>
+<L>That Crist es comen in til our hertes</L>
+<L>Gastli that us til godnes ertes,</L>
+<L>Of us self haf we noht bot sin,</L>
+<L>Bot quen Crist wirkes us wit in,</L>
+<L><PB N="15" REF="42"/>
+Than at the first biginne we,</L>
+<L>God cresten men for to be,</L>
+<L>That mai ye se aperteli,</L>
+<L>Wit mani ensampel witerly,</L>
+<L>Namly bi Mari Maudelayn,</L>
+<L>That lang hauid in sin lain,</L>
+<L>Quen Crist com gastly til hir hert,</L>
+<L>Ris of her sinne son he hir gert.</L>
+<L>For son, quen scho hauid hir tanne</L>
+<L>To Crist, scho wex a god womman,</L>
+<L>Of hir wil Ik aperteli telle,</L>
+<L>Yef ye will list and lithe mi spel.</L>
+<L>Werldes welthe gert Marie wede, <NOTE PLACE="marg">Rotanda Relatio.</NOTE></L>
+<L>Quil scho was yong in hir fairhede.</L>
+<L>Scho gaf hir hert til sinful play,</L>
+<L>And kest hir maidenhed away.</L>
+<L>For rifli gers werldes win</L>
+<L>Thir fair wimmen fal in sin,</L>
+<L>Scho lived hir lif in licherye,</L>
+<L>Ai til Crist haued of hir mercie,</L>
+<L>He com til her gastilye,</L>
+<L>And gert hir leue al hir folie,</L>
+<L>Scho umthot hir quat scho hauid tint,</L>
+<L>And igain sin gan scho stint,</L>
+<L>Hir rewed of hir self ful sare,</L>
+<L>And hauid for hir sin slik kare</L>
+<L><PB N="16" REF="43"/>
+That nan that hers spek of Marie,</L>
+<L>Thar haf wanhop of Godes mercie,</L>
+<L>For do man neuer sa mikel sin,</L>
+<L>And he wil his sin blin,</L>
+<L>Godd of heuin es ai redi,</L>
+<L>For to haf of him mercie,</L>
+<L>That was sen in the Maudelayn,</L>
+<L>That bird mak sinful man ful fain.</L>
+<L>Sain Louk the god godspeller,</L>
+<L>Telles us on quat maner,</L>
+<L>That this ilc sinful Marye,</L>
+<L>Gat forgifnes and mercie.</L>
+<L>He sais that in that ilk toun,</L>
+<L>Woned a man that hiht Symoun,</L>
+<L>Thar Mary woned that tim that scho</L>
+<L>Hafd will penanz for to do,</L>
+<L>This ilk Simonde was a mesel,</L>
+<L>Bot Crist hafd gifen him his hel,</L>
+<L>He hafd inoh quar of to lif,</L>
+<L>And almous to the pouer to gif.</L>
+<L>Fell auntour that he prayd Crist</L>
+<L>To eet wit him at his biwist,</L>
+<L>And Crist that seknes fra him kest,</L>
+<L>Com and eet wit him als gest,</L>
+<L>And son, quen Mari herd telle,</L>
+<L>That Crist suld to the meet thar duelle,</L>
+<L><PB N="17" REF="44"/>
+Scho com thar Crist him seluen sette,</L>
+<L>And sua sar than gun scho grede,</L>
+<L>That wit teres scho wes his fete,</L>
+<L>That scho of hir eyen lete,</L>
+<L>Scho wiped his feet wit her hare,</L>
+<L>And kissed thaim wit suetli suare,</L>
+<L>And blotned thaim wit smersles suete,</L>
+<L>That al feled suetnes that thar sete,</L>
+<L>Scho hauid boht this ointment,</L>
+<L>To smer hir auen bodi gent,</L>
+<L>To mak suet smelland hir bodye,</L>
+<L>Quil scho haunted hir folye.</L>
+<L>This Symond, of quaym I spak are,</L>
+<L>Biheld this womman lufli fare,</L>
+<L>And thoht that yef Crist war prophet,</L>
+<L>Him bird wit qua handeles his fet,</L>
+<L>Als qua say, him bird wit that scho</L>
+<L>War noht worthi this dede to do,</L>
+<L>For sin mas hir unworthi,</L>
+<L>To nehe him that sud be hali.</L>
+<L>And als Symond thoht this,</L>
+<L>Crist wist quat he [thoht] I wis,</L>
+<L>And said, Symond tak yem to me,</L>
+<L>Ik haf sum thing to spek wit the,</L>
+<L>Simond ansuered and said him tille,</L>
+<L>Sai on maister, quat es thi wille.</L>
+<L><PB N="18" REF="45"/>
+And Crist sette him ensampel than,</L>
+<L>And said it was a riche man,</L>
+<L>This riche man hauid dettours fele,</L>
+<L>And sum war fals and sum war lele,</L>
+<L>A man haht him fifty penis,</L>
+<L>Another an honderet or the prise,</L>
+<L>And nauther hauid penis for to yeld,</L>
+<L>And he kid [thaim] curtaysi and beld,</L>
+<L>And forgaf thaim thair dette bathe,</L>
+<L>Wit outen stez wit outen schathe,</L>
+<L>Quether of thir tua lufd him mar,</L>
+<L>And Symond ansuerd Crist ful yar,</L>
+<L>And said, he quaym he mar forgafe,</L>
+<L>Wit riht mar lufe sudd til him hafe;</L>
+<L>And Crist said, you hauid demid riht,</L>
+<L>For thus fars dette of sinful pliht;</L>
+<L>I com hider in als uncouthe man,</L>
+<L>Water to min fet bedd thou nan,</L>
+<L>And this womman hauis wasced mi fet,</L>
+<L>Wit salt teres that scho gret,</L>
+<L>And her heuid hauis scho mad al bare,</L>
+<L>And wiped min fet wit hir hare;</L>
+<L>You kissed me noht sin I com ine,</L>
+<L>To kis min fet can scho noht blin;</L>
+<L>Forthi es hir forgiuen hir sin,</L>
+<L>For mikel luf that scho kidd her in,</L>
+<L><PB N="19" REF="46"/>
+The les that man luues me,</L>
+<L>The les sin mai him forgiuen be,</L>
+<L>Bot for hir luf es til me lele,</L>
+<L>I forgif hir sinnes ful fele,</L>
+<L>Ga, he said, womman in pes,</L>
+<L>For al thi sinnes forgiuen es.</L>
+<L>This tal haf I tald you,</L>
+<L>To scheu on quat maner and hou,</L>
+<L>That quen Crist cumes intil our hertes,</L>
+<L>To lef our sin he us ertes,</L>
+<L>And geres us ask him forgiuenes,</L>
+<L>Of al our sinnes mar and les.</L>
+<L>His first to com was bodili</L>
+<L>Quen he was born of our Lefdi,</L>
+<L>For than he com in fles and bane</L>
+<L>For to hel sinful man;</L>
+<L>His other com es gastilye,</L>
+<L>Til our hert, quen we lef folye,</L>
+<L>For of us self haf we bot sin,</L>
+<L>Of him comes al our welth and win,</L>
+<L>For quen he cumes gastlic us to,</L>
+<L>Than haf we wil us god to do.</L>
+<L>Nou haf ye herd twifald to com,</L>
+<L>The thred sal be on day of dom,</L>
+<L>Quen we sal ris thoru blast of bem</L>
+<L>And Crist sal cum al folc to dem.</L>
+<L><PB N="20" REF="47"/>
+Til god men sal he be quem,</L>
+<L>And to the wik ful grisli sem,</L>
+<L>Igain thaim sal he be sa brem,</L>
+<L>That of his land he sal thaim flem,</L>
+<L>Of this to com tel I noht nou,</L>
+<L>For Crist him seluen telles hou</L>
+<L>He sal cum than, and wit quat miht,</L>
+<L>In our godspel to dai sefniht,</L>
+<L>And qua sa wil that godspel her,</L>
+<L>Than mai ye se on quat maner</L>
+<L>Crist sal cum to dem us alle,</L>
+<L>For igain him may we noht calle,</L>
+<L>Forthi red I we al pray</L>
+<L>That he be til us quem that day,</L>
+<L>And bring us til his mikel blis,</L>
+<L>That til rihtwis men graithed es.</L>
+<L>Amen say we al samen,</L>
+<L>Thar bes joy and endles gamen.</L>
+</LG>
+</DIV2>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="48"/>
+<HEAD>Dominica ii. Adventus Domini secundum Lucam.</HEAD>
+<EPIGRAPH>
+<Q><P>Dixit Ihesus discipulis suis, Erunt signa in sole, et luna, et stellis, et in terris, pressura gentium pre confusione sonitus maris et fluctuum. Arescentibus hominibus pre timore et ex∣pectatione que superuenient uniuerso orbi. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">T</SEG>ODAY sain Louk telles us</L>
+<L>In our godspel, that Jesus</L>
+<L>Spac of thing that es to com,</L>
+<L>And namelic of the dai of dom.</L>
+<L>Takning he said sal be don</L>
+<L>Bathe in the son, and in the mon,</L>
+<L>And in the sternes al biden,</L>
+<L>And folc sal thol wandreth and ten,</L>
+<L>For folc sal duin for din of se,</L>
+<L>And for baret that than sal be,</L>
+<L>Ouer al this werd bes rednes,</L>
+<L>Wandreth, and uglines,</L>
+<L>For mihti gastes of the heuin</L>
+<L>Sal be afrayed of that steuin,</L>
+<L><PB N="22" REF="49"/>
+Than sal Crist cum that men may se</L>
+<L>In maistri and in gret pouste.</L>
+<L>Quen this bigines for to be,</L>
+<L>Lokes up and ye may se</L>
+<L>That your biing and your pris</L>
+<L>Ful ner cumen tilward you es.</L>
+<L>Him self our biing he calde,</L>
+<L>For he boht us quen he was salde.</L>
+<L>Quen Crist hauid said this grimli sau,</L>
+<L>An ensampel gan he schau,</L>
+<L>And said, quen ye se lefes spring,</L>
+<L>And thir tres froit forthe bring,</L>
+<L>Than wat we wel that somer es ner.</L>
+<L>Als may ye wit on that maner,</L>
+<L>Quen ye se thir takeninges in land,</L>
+<L>That Crist es ful ner cumand.</L>
+<L>For heuin and erthe sal pas thar,</L>
+<L>Bot my word passes neuer mar;</L>
+<L>Als qua sai, thing that I you telle,</L>
+<L>Ne mai na miht fordo ne felle,</L>
+<L>Quen this werld that I mad of noht</L>
+<L>Sal be gane and til end broht,</L>
+<L>Than sal mi word be sothe fast,</L>
+<L>For mi kinric sal euer last.</L>
+<L>This es the strenthe of our godspel,</L>
+<L>Als man wit Inglis tung may tel.</L>
+<L><PB N="23" REF="50"/>
+The maister on this godspel preches,</L>
+<L>And sais that Crist thar in us teches</L>
+<L>For to forsak this werdes winne,</L>
+<L>Ful of wrechedhed and sinne,</L>
+<L>For Crist sais us hou it sal end,</L>
+<L>And warnes us ful fair als frend,</L>
+<L>He telles us takeninges snelle</L>
+<L>Thar he biginnes his godspelle,</L>
+<L>And sais kinric sal rohly rise</L>
+<L>Igain kinric, and ger men grise,</L>
+<L>For bale sal ger thir bernes blede,</L>
+<L>And mak in land hunger and nede.</L>
+<L>This bale sal bald baret breu,</L>
+<L>And fel mikel of this werdes gleu.</L>
+<L>Slic wordes said Crist of thir wers</L>
+<L>That folc in werd ful derf deres,</L>
+<L>For quatkin wer sal fal in land,</L>
+<L>Til pouer folk es it sarest schouand,</L>
+<L>That felis wel nou hali kirk</L>
+<L>That bers of baret be ful irk;</L>
+<L>For it and pouer men hauis bathe</L>
+<L>Of wer and wandreht al the schathe,</L>
+<L>This baret pinnes pouer pride</L>
+<L>Als thai wel wat that walkes wide,</L>
+<L>Bot werdes haht and hey tures</L>
+<L>Getes thir cite men fra stures,</L>
+<L><PB N="24" REF="51"/>
+Forthi riche men hauis ay, I wis,</L>
+<L>Inohe of met and drinc and blis,</L>
+<L>Bot pouer tholes the baret,</L>
+<L>That hauis defaut of clathe and met,</L>
+<L>And forthi warnes Jesus bathe</L>
+<L>Riche and pouer of thair schathe,</L>
+<L>Thar he schaues in our godspelle</L>
+<L>Takeninges that bird our pride felle.</L>
+<L>He sais takeninges sal be don</L>
+<L>Bathe in the sone and in the mon,</L>
+<L>The sun sal turn intil mirknes,</L>
+<L>Als sais Joel, that bers witnes</L>
+<L>Of Crist that thir takeninges us schaues</L>
+<L>In our godspelle wit grisli sawes:</L>
+<L>For mon, he sais, sal turned be</L>
+<L>In til blod, that folk sal se,</L>
+<L>Quen sun and mon sal thusgat turn,</L>
+<L>Than sal the sinful sar scurn,</L>
+<L>For than may thai wit witerly,</L>
+<L>That Crist sal com to dem in hi,</L>
+<L>Bot god men sal na thing dred,</L>
+<L>For than sal thai be seker of med</L>
+<L>In that blisful land that thay</L>
+<L>Sal euer lif in gamen and play;</L>
+<L>And Crist in our godspel forthy</L>
+<L>Confortes us ful mildeli,</L>
+<L><PB N="25" REF="52"/>
+And bides us lok til grouand tres</L>
+<L>For quen men leues on thaim sees,</L>
+<L>Men wat that ful ner es somer comand,</L>
+<L>And riht sua mai we understand</L>
+<L>Quen we se thir takenis cume,</L>
+<L>That nerhand es the dai of dom.</L>
+<L>Bot for Crist spekes of takeninge</L>
+<L>That tithand of this dom sal bringe,</L>
+<L>Forthi es god that I you telle</L>
+<L>Sum thing of thir takeninges snelle:</L>
+<L>Sain Jerom telles that fiften</L>
+<L>Ferli takeninges sal be sen</L>
+<L>Bifor the day of dom, and sal</L>
+<L>Ilkan of thaim on ser dai fal.</L>
+<L>The first dai sal al the se</L>
+<L>Boln and ris and heyer be</L>
+<L>Than ani fel of al the land,</L>
+<L>And als a felle up sal it stand,</L>
+<L>The heyt thar of sal passe the felles</L>
+<L>Bi sexti fot, als Jerom telles,</L>
+<L>And als mikel the tother day</L>
+<L>Sal it sattel and wit away,</L>
+<L>And be lauer than it nou esse,</L>
+<L>For water sal it haf wel lesse.</L>
+<L>The thride dai mersuine and qualle</L>
+<L>And other gret fises alle</L>
+<L><PB N="26" REF="53"/>
+Sal yel, and mak sa reuful ber</L>
+<L>That soru sal it be to her.</L>
+<L>The ferthe day freis water and se</L>
+<L>Sal bren als fir and glouand be.</L>
+<L>The fift day sal greses and tres</L>
+<L>Suet blodi deu that grisli bes.</L>
+<L>The sexte day sal doun falle</L>
+<L>Werdes werks bathe tours and halle.</L>
+<L>The seuend day sal stanes gret</L>
+<L>Togider smit and bremly bete.</L>
+<L>And al the erthe the achtande day</L>
+<L>Sal stir and quac and al folc slay.</L>
+<L>The neynd day the fels alle</L>
+<L>Be mad al euin wit erthe salle.</L>
+<L>The tend day sal folc up crep,</L>
+<L>Als wod men of pittes dep.</L>
+<L>The elleft day sal banes rise</L>
+<L>And stand on graues thar men nou lies.</L>
+<L>The tuelft day sal sternes falle.</L>
+<L>The thretend day sal quek men dey alle,</L>
+<L>Wit other ded men to rise,</L>
+<L>And com wit thaim to gret asise.</L>
+<L>The faurtend day at a schift</L>
+<L>Sal bathe brin bathe erthe and lift.</L>
+<L>The fifetende day thai bathe</L>
+<L>Sal be mad newe and fair ful rathe,</L>
+<L><PB N="27" REF="54"/>
+And al ded men sal rise,</L>
+<L>And cum bifor Crist our iustise.</L>
+</LG>
+<Q><TEXT LANG="lat"><BODY><DIV1 TYPE="part">
+<OPENER>Vnde Versus de ejusdem Signis.</OPENER>
+<LG>
+<L>Signis ter quinis se prodet ad ultima finis</L>
+<L>Mundani motus Domino soli modo notus.</L>
+<L>In signo primo surget mare stans quasi murus</L>
+<L>Erigat in proprios post pauca sinus rediturus,</L>
+<L>Atque quater denis cubitis transcendere montes</L>
+<L>Cernetur, paucique fluent in flumina fontes.</L>
+<L>Oculet in signo sic se maris unda secundo,</L>
+<L>Ut vix aspectum capiat: diuersa profundo</L>
+<L>Monstra super fluctus post hec ubi nata patebunt,</L>
+<L>Rugitusque sui celos horrore mouebunt.</L>
+<L>Quarto cum fluuiis ardebunt equoris unde,</L>
+<L>Fontibus ut latices effundant non erit unde.</L>
+<L>Rorem sanguineum quinto deducet ab [herbis]</L>
+<L>Horror et arboribus lacrimis perfusus acerbis.</L>
+<L>Hinc turres et tecta cadent, que diruet edes</L>
+<L>Sexta dies, omnis que solo ruet ardua sedes.</L>
+<L>Augebit lapidum conflictus in orbe timorem,</L>
+<L>Terribilemque dabit collisio seua fragorem.</L>
+<L>Concuciet terram post hec motus generalis,</L>
+<L>Omnia conturbans, horrendus, et exitialis.</L>
+<L>Omnibus equatis in plano terra jacebit,</L>
+<L>Strata superficies nichil asperitatis habebit.</L>
+<L><PB N="28" REF="55"/>
+Hinc velud amentes exibunt ante latentes</L>
+<L>In latebris homines et fari nulla ualentes.</L>
+<L>Sicca super tumbis post hec surgencia stabunt.</L>
+<L>Casus stellarum signans discrimine finem</L>
+<L>Nesciet ulterius clarum deducere finem.</L>
+<L>Corpore uiuentes simul absque mora morientur,</L>
+<L>Ut pariter clangente tuba cuncti repetentur.</L>
+<L>Optimus inde status celum terramque nouabit,</L>
+<L>Luce sub eterna, quem nulla dies uariabit,</L>
+<L>Conuocet ut cunctos cum buccina protinus urgens</L>
+<L>Iudicis ante pedes ueniet plebs tota resurgens.</L>
+</LG>
+<CLOSER>Isti Versus omittantur a lectore quando legit Anglicum coram laycis.</CLOSER>
+</DIV1></BODY></TEXT></Q>
+<LG>
+<L>Than sal Crist dem als king ful wis,</L>
+<L>And ger the sinful sare grise,</L>
+<L>Sa grisli sal he to thaim be,</L>
+<L>That thaim war leuer that thai moht fle</L>
+<L>Fra that dom that he sal dem</L>
+<L>Than al this werd, sa bes he brem</L>
+<L>Tille thaim that sinful cumes thar,</L>
+<L>And forthi sal thai gret sar,</L>
+<L>And say allas that we war born,</L>
+<L>Schamlic haf we us self forlorn.</L>
+<L>Than salle thair wike dedes alle,</L>
+<L>Stand and igaines thaim kalle,</L>
+<L>And with thair takening ber witnes</L>
+<L><PB N="29" REF="56"/>
+Of thair sin and thair wiknes.</L>
+<L>Of mikel soru sal thai telle,</L>
+<L>For Satenas wit feres felle,</L>
+<L>To bind thaim he sal be ful snelle,</L>
+<L>And bremli draw thaim till helle,</L>
+<L>Thar thai sal euermare duelle,</L>
+<L>And wafullic in pines welle,</L>
+<L>And endeles of soru telle.</L>
+<L>This bes thair dom that her in sin</L>
+<L>Ligges, and wil thair sin noht blin,</L>
+<L>Bot wald thai think on domes dai</L>
+<L>Thaim bird lef thair plihtful play.</L>
+<L>Allas allas quat sal thai say</L>
+<L>Bifor him that miht ful may,</L>
+<L>Quen al the men that was and esse</L>
+<L>Sal se thair sines mare and lesse,</L>
+<L>And al the angeles of the heuin,</L>
+<L>And ma fendes than man mai nefen.</L>
+<L>Igain sawe may thar nan be,</L>
+<L>Of thing that alle men may se.</L>
+<L>Of this openlic schauing</L>
+<L>Hauis Godd schawed many taking,</L>
+<L>Of a taking that I haf herd telle,</L>
+<L>That falles wel til our godspelle.</L>
+<L>A blak munk of an abbaye <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>Was enfermer of all I herd say,</L>
+<L><PB N="30" REF="57"/>
+He was halden an hali man</L>
+<L>Imange his felaus eurilkan,</L>
+<L>An cloyster monk loued him ful wel,</L>
+<L>And was til him ful speciel,</L>
+<L>For riuelic togider drawes</L>
+<L>Faithe lufreden god felawes.</L>
+<L>Fel auntour that this enfermer</L>
+<L>Was sek, and he that was til him der</L>
+<L>Com to mak him glad and blithe,</L>
+<L>And his lufredene til him to kithe,</L>
+<L>He asked him hou he him felid,</L>
+<L>And he his stat alle til him telld,</L>
+<L>And said ful hard fel I me,</L>
+<L>To dede I drawe als ye mai se.</L>
+<L>His felau was for him sary,</L>
+<L>And praied him ful gern forthie,</L>
+<L>That yef Godd did of him his wille,</L>
+<L>That he suld scheu his stat him tille.</L>
+<L>This seke monk hiht to com him to,</L>
+<L>Yef he moht get lef thar to:</L>
+<L>I sal, he said, yef I may,</L>
+<L>Com to the my stat to say.</L>
+<L>Quen this was sayd, he deyed son,</L>
+<L>And his felau asked his bon,</L>
+<L>And prayed Godd for his mercye,</L>
+<L>That he suld schew him openly,</L>
+<L><PB N="31" REF="58"/>
+Other wakand or slepand,</L>
+<L>Of his felaw state sum tithand,</L>
+<L>And als he lay apon a niht,</L>
+<L>His felaw com wit lemes liht,</L>
+<L>And tald him bathe of heuin and helle,</L>
+<L>And he prayed he suld him telle</L>
+<L>His state, and he said wel far I</L>
+<L>Thoru the help of our Lefdi,</L>
+<L>War scho ne hafd ben, I hauid gan</L>
+<L>To won in helle wit Satan.</L>
+<L>His felau thoht herof ferly,</L>
+<L>And asked him quarfor and qui,</L>
+<L>And sayd, we wend alle wel that thou</L>
+<L>Haued ben an hali man til nou:</L>
+<L>Hou sal it far of us kaytefes,</L>
+<L>That in sin and foli lyes,</L>
+<L>Quen thou that led sa hali life,</L>
+<L>Was demed tille hell for to drife.</L>
+<L>Quen this was said, the ded ansuerd</L>
+<L>And tald his felaw hou he ferd,</L>
+<L>And said son quen I gaf the gaste,</L>
+<L>Till my dom was I led in haste,</L>
+<L>And als I stod my dom to her</L>
+<L>Bifor Jesus, wit dreri cher,</L>
+<L>Of fendes herd Ic mani upbrayd,</L>
+<L>And a boc was bifor me layd,</L>
+<L><PB N="32" REF="59"/>
+That was the reuel of sain Benet,</L>
+<L>That Ic hiht to hald and get.</L>
+<L>This reul thai gert me rapli rede,</L>
+<L>And als I red, sar gan I drede,</L>
+<L>For ouerlop moht I mac nan,</L>
+<L>Bot of the clauses euerilkan,</L>
+<L>Yald Ic account hou I thaim held,</L>
+<L>And my consciens gan me meld,</L>
+<L>It schawed thar ful openlye</L>
+<L>That I led mi lif wrangwislie,</L>
+<L>For in the reul es mani pas,</L>
+<L>That than igain me casten was,</L>
+<L>Quar thoru almast haued I thare</L>
+<L>Ben demid til helle for to fare.</L>
+<L>Bot for I lufed wel our Lefdye</L>
+<L>Quil I lifd, Ic hafd forthie</L>
+<L>Ful god help thar thoru hir mercy,</L>
+<L>For scho bisoht Crist inwardlie</L>
+<L>That I moht in purgatorie</L>
+<L>Clens mi sin and mi folye.</L>
+<L>Forthi hop I to far ful welle,</L>
+<L>For mi soru sal son kele;</L>
+<L>Forthi my frend I prai the,</L>
+<L>That thou ger felaus prai for me.</L>
+<L>Quen this was said, awai he went,</L>
+<L>And his felawe ful mikel him ment,</L>
+<L><PB N="33" REF="60"/>
+And efter this siht mani a dai</L>
+<L>Gert he for his sawell prai.</L>
+<L>This tal haf I tald you,</L>
+<L>To schew on quat maner and hou</L>
+<L>We sal be demed, and yeld acount</L>
+<L>Quat our sinnes mai amount,</L>
+<L>For al sal com to rounge, I wis,</L>
+<L>Thar, that her mistakin isse</L>
+<L>Bi the lest idel thoht,</L>
+<L>For thar forgifnes bes riht noht.</L>
+<L>Than sal we bye the sines dere</L>
+<L>Of quilke we er noht schriuen here,</L>
+<L>Yef we be her of sines schriuen,</L>
+<L>Thar hauis Godd us thaim forgiuen,</L>
+<L>Forthi birdd us our sin her bete,</L>
+<L>Wit schrift of mouthe and wonges wete.</L>
+<L>For schrift of mouthe es medecine</L>
+<L>That schildes man fra helle pin,</L>
+<L>For if we schrif us clen of sinne</L>
+<L>Wit penanz, ded we sal haf winne,</L>
+<L>And mai be siker on domes dai,</L>
+<L>To wind intil that blisful plai,</L>
+<L>Thar Crist sal euer mar be king,</L>
+<L>For his merci he thider us bring.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="61"/>
+<HEAD>Dominica iii. Adventus Domini secundum Matheum.</HEAD>
+<EPIGRAPH>
+<Q><P>Cum audisset Iohannes in vinculis opera Cristi, mittens duos de discipulis suis, ait illi; Tu es qui venturus es, an alium expectamus. Et respondens Ihesus, dixit illis: Euntes renunciate Iohanni que audistis et uidistis. Ceci uident, claudi ambulant. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">S</SEG>AYN Mathew the wangeliste</L>
+<L>Sais that sain Jon the Baptiste</L>
+<L>Was in prisoun, and herd telle</L>
+<L>Of Cristes dedes and his spelle,</L>
+<L>And send of his decipils twa,</L>
+<L>And bad thaim thai suld ga</L>
+<L>To wit at Crist, quither it war he</L>
+<L>That suld cum mannes bote to be,</L>
+<L>Or we, he said, an other Crist sal bide,</L>
+<L>That fel miht the fendes pride.</L>
+<L>Sain Jon decipels yed and said</L>
+<L>Thair erand that on thaim was laid,</L>
+<L><PB N="35" REF="62"/>
+And quen Crist thair asking herd,</L>
+<L>Ful mildely he thaim ansuerd,</L>
+<L>And bad thaim tille thair maister schaw</L>
+<L>His dedis that thai herd and sawe.</L>
+<L>Als qua sai, dedes bers wittenes</L>
+<L>Of me, that I sothefast Godd es,</L>
+<L>I gif the blind, he said, thair siht,</L>
+<L>I ger the halt men ga riht,</L>
+<L>I mac unhale men al hale,</L>
+<L>And def men I bet of bale,</L>
+<L>I rais men fra ded to life,</L>
+<L>And pouer men mas me ful rife,</L>
+<L>And ful bliced, he said, es he</L>
+<L>That es noht sclaunderd in me.</L>
+<L>Als qua sai, Jowes hauis eftand nithe</L>
+<L>At me for the ferlikes that I kithe,</L>
+<L>Forthi er thai sclaundered in me,</L>
+<L>Quen thai miht of mi goddhed se,</L>
+<L>And forthi bliz Ic him wit graze</L>
+<L>That folues noht the Jewes traze.</L>
+<L>Slic wordes til thaim spak Crist</L>
+<L>That com fra sayn Jon the Baptist,</L>
+<L>And quen thai hafd herd Crist sawe,</L>
+<L>Hamward til sain Jon gan thai drawe,</L>
+<L>And als thai til sain Jon ward yode,</L>
+<L>Crist spac tille thaim that bi him stode,</L>
+<L><PB N="36" REF="63"/>
+For thai hauid ben sain Jon to se</L>
+<L>In wildernes, for thar woned he,</L>
+<L>Bifor that Herodis the feloun</L>
+<L>Did sain Jon in his prisoun.</L>
+<L>Forthi asked Crist mare and lesse,</L>
+<L>Quat thing thai soht in wildernes.</L>
+<L>Quat thing, he said, yed ye</L>
+<L>Intil wildernes to se,</L>
+<L>Wend ye of sain Jon for to finde</L>
+<L>A red that waiues wit the wind.</L>
+<L>Als qua say, he es nan of tha</L>
+<L>That waifes for welthe or for wa,</L>
+<L>For werdes welthe and wa es winde,</L>
+<L>That makis werdes men ful blinde,</L>
+<L>For welthe to pride our hert draus,</L>
+<L>And wa geres us thol hard traues,</L>
+<L>Bitwix thir tua we held als reed,</L>
+<L>In wa we murne, in welthe we wede,</L>
+<L>Bot sain Jon igain bathe stode,</L>
+<L>For nouther of thaim chaunged his mod;</L>
+<L>Forthi asked Crist quether man him soht</L>
+<L>Als he war man of fliker thoht,</L>
+<L>And thus askid Crist quether men yede</L>
+<L>To se a wind waiuande rede,</L>
+<L>Quen thai yed sain Jon to se,</L>
+<L>That stithe stod als stalworth tre,</L>
+<L><PB N="37" REF="64"/>
+Als qua sai, wen ye that he</L>
+<L>Es als tuifald of hert als ye,</L>
+<L>Nai, for he es sa stedfaste</L>
+<L>That na wind mai him fra me caste.</L>
+<L>Slic wordes als I you telle</L>
+<L>Sais Crist to dai in our godspelle</L>
+<L>Of sain Jon, that stithe stode</L>
+<L>Igain fanding of werdes flode,</L>
+<L>For he no was noht lic in dede</L>
+<L>Til thaim that heldes als the rede.</L>
+<L>For mani man mai bisend be</L>
+<L>Unto the rede, als thinc me,</L>
+<L>That es at say, thir glotherers</L>
+<L>That in thair an hand fir beres,</L>
+<L>In the tother water ber thai,</L>
+<L>Als lawed men er won to say.</L>
+<L>Thai kindel baret wit bacbiting,</L>
+<L>And slokenes it wit thair glothering,</L>
+<L>Thai heeld in tuin, als dos the red,</L>
+<L>Wit fair speche and wit falshed,</L>
+<L>Thai ger thair riche men misdo,</L>
+<L>For al thair thing thai spek thaim to;</L>
+<L>For quethir sa thai do wel or ille,</L>
+<L>Thai hald wit thaim in al thair wille.</L>
+<L>Mirthe and med and werdes belde</L>
+<L>Gers thaim til falshed helde,</L>
+<L><PB N="38" REF="65"/>
+Bot sua did noht sain Jon, I wis,</L>
+<L>That snibbed Herod quen he did misse,</L>
+<L>And said it was igain the lawe</L>
+<L>His brother wif fleyslic to knawe.</L>
+<L>He helded noht, bot stithe stod,</L>
+<L>And for sothesawe sched his blod.</L>
+<L>In sted of tal, I wille you telle</L>
+<L>Hou it of his slahter felle.</L>
+<L>The king Herode wit mikel unriht <NOTE PLACE="marg">Nota.</NOTE></L>
+<L>Raeft his brother his wif that hiht</L>
+<L>Herodias, and sain Jon herde</L>
+<L>Wit quatkin sin Herodes ferd,</L>
+<L>And snibbed him of his sinne,</L>
+<L>And bad him that he suld it blinne.</L>
+<L>Quar thoru Herodes als feloun</L>
+<L>Did sain Jon in his prisoun.</L>
+<L>Herodias als wikke womman</L>
+<L>Wald that sain Jon hauid ben slan.</L>
+<L>He mired hir flesly liking,</L>
+<L>Forthi scho wald to ded him bring,</L>
+<L>Bot chesoun till him fand scho nan,</L>
+<L>For Herodes that him hafd tan,</L>
+<L>Sau that he was an hali man,</L>
+<L>And thoht ful lathe to be his ban,</L>
+<L>For of sain Jon stod him awe,</L>
+<L>And sinned les for his sawe,</L>
+<L><PB N="39" REF="66"/>
+And herd his word wit god wille,</L>
+<L>And did mikel that he said him tille.</L>
+<L>Herodes mad a fest, and cald</L>
+<L>Princes thar to and bernes bald,</L>
+<L>And als he wit his gestes seete,</L>
+<L>And mad him glad, and drank and eet,</L>
+<L>Bifor him com a fair yong lasce,</L>
+<L>That Herodias dohter was,</L>
+<L>And tumbeled sa wel for alle,</L>
+<L>That thar was gedered in that halle,</L>
+<L>That al war payed of hir play,</L>
+<L>And Herodes til hir gan say,</L>
+<L>Quat sa thou wil, thou ask me,</L>
+<L>For freli sal I graunt the.</L>
+<L>He swar his athe that he suld fille</L>
+<L>Alle hir asking and hir wille.</L>
+<L>Thoh thou he said ask haluen dele</L>
+<L>Mi kingerik, I grant it wele.</L>
+<L>This mai ran tille hir moder swithe,</L>
+<L>And bad hir that scho suld hir lithe</L>
+<L>Quat the king hir hauid bed,</L>
+<L>And askid hir moder quat scho red.</L>
+<L>Hir moder was fain quen scho this herd,</L>
+<L>And sone hir dohter scho ansuerd,</L>
+<L>And said, loc that you ask noht</L>
+<L>Bot that sain Jones hefd be broht</L>
+<L><PB N="40" REF="67"/>
+In a disce sone bifor the,</L>
+<L>For this thing wald I gladli se.</L>
+<L>This maiden child ran to the king,</L>
+<L>And said, sir, this es min asking,</L>
+<L>Yef thou wil that mi wil be don,</L>
+<L>Thou grant me min asking son,</L>
+<L>And gif me in a disce weued</L>
+<L>Sain Jon the Baptist heued.</L>
+<L>Ful ille payed was the king</L>
+<L>Quen he herd this asking,</L>
+<L>Him thoht scham igain to kalle</L>
+<L>That he hauid hiht bifor thaim alle,</L>
+<L>And for he hauid sworn his athe,</L>
+<L>To wrech that laze thoht him lathe,</L>
+<L>Forthi he send his queller soune</L>
+<L>And bad hir wille suld be don.</L>
+<L>His queller did als he him bad,</L>
+<L>And mad this maiden child ful glad,</L>
+<L>For he broht hir als scho hauid said,</L>
+<L>Sain Jones heuid in a disce laid.</L>
+<L>Thus was this mai sain Jones ban,</L>
+<L>That was for riht and sothesaw slan,</L>
+<L>But thurt him noht haf tint his heued,</L>
+<L>Yef he als red wald haf weuid.</L>
+<L>Yef he hauid noht snibbed the king,</L>
+<L>Bot loued his dedes wit glothering,</L>
+<L><PB N="41" REF="68"/>
+Than moht he haf gan quit away,</L>
+<L>And lifd in werdes welth and play.</L>
+<L>Bot he did wel better than, I wisse,</L>
+<L>For nou es he in well mar blisse,</L>
+<L>And Herod and Herodias</L>
+<L>Er bathe in hel wit Satenas.</L>
+<L>Nou haf ye herd hou sain Jon stod</L>
+<L>For sothefastnes, and ched his blod.</L>
+<L>Forthi in our godspel sais Crist</L>
+<L>Til the folc, of sain Jon the Baptist,</L>
+<L>Wend ye of sain Jon for to find</L>
+<L>A red that waiues wit the wind,</L>
+<L>Nay, but swa stedfast es he,</L>
+<L>That na thing gers him tuifald be,</L>
+<L>For he sal stand in sothefastnes,</L>
+<L>And thol ded for rihtwisnes.</L>
+<L>An other asking, als auntour felle,</L>
+<L>Asked Crist in our godspelle,</L>
+<L>Til thaim that stod him about,</L>
+<L>And of sain Jon hauid dout,</L>
+<L>Quat yed ye, he said, to se</L>
+<L>In wildernes, ye tel me,</L>
+<L>A man robed in wlank wede,</L>
+<L>Als qua sai, nai, ne in fairhede,</L>
+<L>For al men wist that knew sain Jon,</L>
+<L>That he hauid camel har him upon,</L>
+<L><PB N="42" REF="69"/>
+Forthi asked Crist, quethir thai yed</L>
+<L>To se sain Jon in wlanke wede,</L>
+<L>Als qua sai, es he nan of tha</L>
+<L>That er cled in gren and gra.</L>
+<L>Crist spac of thaim that gas in gren,</L>
+<L>To scheu the folc quat he wald men.</L>
+<L>In kinges houses, he said, won thai</L>
+<L>That er cled in gren and grai,</L>
+<L>Als qua sai, about kinges es</L>
+<L>Wel mar pride than in wildernes.</L>
+<L>Her mai ye se that Jhesu Crist</L>
+<L>Loues sain Jon the Baptiste.</L>
+<L>For he in pouer wed was cled,</L>
+<L>And in pouert his lif he led,</L>
+<L>And her bi wil Crist us lere,</L>
+<L>To forsak proud clething her.</L>
+<L>The god clerk sain Gregorie</L>
+<L>Schewes us aperteli,</L>
+<L>Yef sin no war in wlanke wede,</L>
+<L>Haued noht Crist loued sain Jon in lede</L>
+<L>For the clething of pouert:</L>
+<L>For thoh prid be al in the hert,</L>
+<L>Riche clething noht forthi</L>
+<L>Schroudes sua man bodi,</L>
+<L>That rifli geres it man think mar</L>
+<L>Of his bodi, that it wel far,</L>
+<L><PB N="43" REF="70"/>
+Than he of his sawel dos,</L>
+<L>Sua thinc him of his wed gret ros,</L>
+<L>Quil he fandes his fleis to fede,</L>
+<L>And mac it fayr wit wlanc wede.</L>
+<L>His fairnes witout he schawes</L>
+<L>To sem better than his felaues.</L>
+<L>For elles forze wald he nan mak</L>
+<L>Quether his clething war quit or blac,</L>
+<L>Bot for he wil be heier calde</L>
+<L>Than othere, and for better talde,</L>
+<L>Forthi he schroudes his bodi</L>
+<L>And lates of pouer men hetheli;</L>
+<L>The liking of his wlanc wede</L>
+<L>Gers him tin his sawel mede.</L>
+<L>Forthi loues Crist in our godspel</L>
+<L>Pouer wed [our prid to fell],</L>
+<L>And askes ef the folc yed</L>
+<L>To se sain Jon in wlanc wede.</L>
+<L>Als qua sai, bisen sal ye take</L>
+<L>This werdes welthe for to forsak,</L>
+<L>For werdes welthe and prid and play</L>
+<L>Endes al wit ten and tray.</L>
+<L>In our godspel yet askis Crist</L>
+<L>Of sain Jon the Baptiste,</L>
+<L>For thris the folc askid he,</L>
+<L>Quat thing they yed for to se</L>
+<L><PB N="44" REF="71"/>
+In wildernes, and at the last</L>
+<L>He cald sain Jon prophet sothefast,</L>
+<L>And said to thaim, I sai you yet,</L>
+<L>Yed ye to bihald the prophet,</L>
+<L>Of sain Jon in wildernesse,</L>
+<L>Ya, wit ye wel that mar he esse</L>
+<L>Than prophetes war in his tim,</L>
+<L>For prophetes spac mikel of him,</L>
+<L>Thoru quaim God hit he suld send</L>
+<L>His angel, mannes lif to mend.</L>
+<L>I send, he said, my messager</L>
+<L>Bifor mi face mi word to berre.</L>
+<L>This sais the fader of heuin to Crist</L>
+<L>Of sain Jon the Baptist,</L>
+<L>That bifor Crist graythed the way</L>
+<L>Als sais our godspel of today.</L>
+<L>Nou haf I graytheli you tald</L>
+<L>Hou sain Jon the Baptist es cald</L>
+<L>Jesus Crist messager,</L>
+<L>For he was send his word to ber,</L>
+<L>And I to dai fourtenniht tald</L>
+<L>Hou sain Jon bodword broht bald.</L>
+<L>He was ryt Cristes messager,</L>
+<L>For he broht word that he was ner.</L>
+<L>And als was he mar than a prophet</L>
+<L>Quen he scheued that he bihet.</L>
+<L><PB N="45" REF="72"/>
+It falles to prophet for to sai</L>
+<L>The thing that efter falle may,</L>
+<L>Bot sain Jon said and scheued bathe,</L>
+<L>For that he hit, he scheued rathe.</L>
+<L>Quen Crist com to flum Jordan</L>
+<L>Als other men did mani an,</L>
+<L>Of sain Jon to be baptist,</L>
+<L>Than said sain Jon Jesu Crist</L>
+<L>Til al that folc wit swetli swar</L>
+<L>That thar habout him gederid war,</L>
+<L>This es that lamb that I you hiht,</L>
+<L>That dos away this werdes pliht,</L>
+<L>Godes lamb mai ye se her,</L>
+<L>Of him spac Ic als messager.</L>
+<L>Bot her mai sum man thinc ferly,</L>
+<L>Als sais the clerk sain Gregorie,</L>
+<L>That sin sain Jon the Baptist</L>
+<L>Knew sa wel that Jesu Crist,</L>
+<L>Quarfor send he sithen him tille,</L>
+<L>To wit quether he suld fulfille</L>
+<L>Thing that was said in prophecie</L>
+<L>Of him that mankind suld bie.</L>
+<L>First sain Jon said that Crist was he,</L>
+<L>That al mankind bot suld be,</L>
+<L>And sithen he spired quether he war cumen</L>
+<L>To felle the fend that man hauid nomen.</L>
+<L><PB N="46" REF="73"/>
+Ful schilfuli and wit resoun</L>
+<L>Mai men ask this questioun.</L>
+<L>The god man sain Gregorie</L>
+<L>Undos this word dohtilye,</L>
+<L>And sais that sain Jon ful wel wist</L>
+<L>That he of quaim he spac was Crist,</L>
+<L>That tok kind of maiden Mari,</L>
+<L>Bot he no wist noht witerlye,</L>
+<L>Quether he suld mankind bye,</L>
+<L>And heri helle als king mihtye,</L>
+<L>And forthi send sain Jon him to,</L>
+<L>To wit quether he war com to do</L>
+<L>Thing that moht bring man fra helle,</L>
+<L>Thar him bihoued euer dwelle,</L>
+<L>Tille he war comen that haued mihte</L>
+<L>To fulfille that the prophetes hauid hiht,</L>
+<L>That es at say, to mak the fin</L>
+<L>For sin, and bring thaim of pin</L>
+<L>To blis that may haf na ending,</L>
+<L>Our Lauerd Jesus thider us bring.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="74"/>
+<HEAD>Dominica iiii. in Adventu Domini secundum Iohannem.</HEAD>
+<EPIGRAPH>
+<Q><P>Miserunt Iudei ab Ierosolymis Sacerdotes et Leuitas ad Iohannem ut interrogarent eum: Tu quid es. Et confessus est, et non negauit: et confessus est: Quia non sum ego Cristus. Et interrogauerunt eum. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">T</SEG>ODAY sais Jon the god godspellere</L>
+<L>In our godspel, als ye mai her,</L>
+<L>That Jowes thair messager send</L>
+<L>Tille Jon the Baptist, for thai wend</L>
+<L>That he hauid ben Crist, for he</L>
+<L>Baptized al that baptized wald be.</L>
+<L>Thir messagers sain Jon fand,</L>
+<L>And said til sain Jon thair erand.</L>
+<L>Bot first quat he was, askid thai,</L>
+<L>And he igain to thaim gan sai,</L>
+<L>Crist that ye sek am I noht,</L>
+<L>And thus he schewed quat thai thoht,</L>
+<L>For thai wend wel that he hauid ben</L>
+<L>Crist, that baptized folc biden.</L>
+<L><PB N="48" REF="75"/>
+Thai asked yef he war Elye,</L>
+<L>Or man that couthe of prophecye.</L>
+<L>And he ansuerd and said nay,</L>
+<L>Bot quat he was, he gan thaim say:</L>
+<L>Ic am, he said, a criand steuin,</L>
+<L>I bid you mac the gates euin</L>
+<L>To Crist, als said saint Ysaye,</L>
+<L>For Cristes messager es I.</L>
+<L>Thir messagers was Pharisenes,</L>
+<L>That sundered men on Englys menes.</L>
+<L>Thai war sundered of comoun lif,</L>
+<L>And wit sain Jon gan thai to strife,</L>
+<L>And said, sine thou ert noht Elye,</L>
+<L>No Crist, no prophet, sai us quye</L>
+<L>Baptizes thou tha folc biden,</L>
+<L>And makis thaim of sinne clen.</L>
+<L>And sain Jon ansuerid thanne,</L>
+<L>I mai noht baptize bot als manne,</L>
+<L>For goddhed haf I in me nan,</L>
+<L>Bot Goddis sun manhed hauis tan,</L>
+<L>And you wit water baptiz I,</L>
+<L>He sal baptiz you gastily,</L>
+<L>Imang you wonand he isse,</L>
+<L>Bot ye no knaw him noht, I wisse,</L>
+<L>He es Crist that bifor me</L>
+<L>Was Godd, and es, and ai sal be.</L>
+<L><PB N="49" REF="76"/>
+He es sa god and derworthi,</L>
+<L>That I meself es noht worthi</L>
+<L>Bifor him for to sit on knes,</L>
+<L>The binding of his scho to les.</L>
+<L>Betani was cald that land</L>
+<L>Thar sain Jon was than baptizand,</L>
+<L>Quen thir Jowes til him yed,</L>
+<L>To spir of him and of his dede.</L>
+<L>This es the strenketh of our godspelle,</L>
+<L>Als man wit Englis tung kan telle.</L>
+<L>In this godspelle mai we wel knawe</L>
+<L>Gret meknes in sain Jones sawe,</L>
+<L>For thar men wend that he war Crist,</L>
+<L>He wald that thai the sothe wist,</L>
+<L>And granted son that he was noht</L>
+<L>The Lauerd that thai thar soht.</L>
+<L>Her may ye alle ensampel tak,</L>
+<L>Ongart and rosing to forsak,</L>
+<L>For mani man him better mas</L>
+<L>Than he es in ilke place,</L>
+<L>And geres men wen that he be</L>
+<L>Mar worthe than other thre:</L>
+<L>He roses him of his cumly kinde,</L>
+<L>He wenes his mak mai na man find,</L>
+<L>He wald be haldin derworthi</L>
+<L>Thoru hendelaic and curtaisy,</L>
+<L><PB N="50" REF="77"/>
+His wordes mas him man ful hend,</L>
+<L>Wit lesing serues he the fend,</L>
+<L>That sal him rewli rif at eend,</L>
+<L>[Bot he amende hym ore he wende.]</L>
+<L>Thus did noht sain Jon the Baptist,</L>
+<L>For he said that he was noht Crist.</L>
+<L>Cristes nam wad he noht tak,</L>
+<L>No better than he was him mak.</L>
+<L>Haf we forthi in word meknes,</L>
+<L>Als sain Jon hauid in wildernes,</L>
+<L>Mak we us better noht than we er,</L>
+<L>For Godd no mai we nangat der.</L>
+<L>In our godspelle wille we se yete,</L>
+<L>Qui sain Jon him prophet nitte,</L>
+<L>And said, prophet nan am I,</L>
+<L>Als qua sai, I openly</L>
+<L>Ken you till him of quaim I spek,</L>
+<L>That salle the fendes bandes brek,</L>
+<L>Bot sua did neuer prophet are,</L>
+<L>Forthi bird you trou me the mare,</L>
+<L>For Ic am seluen in wildernes</L>
+<L>To graithe the gat of rihtwisnes.</L>
+<L>Als qua sai, Crist cries in me,</L>
+<L>And biddes al folc rihtwis be,</L>
+<L>For rihtwis gates graithes he</L>
+<L>That loues Godd in Trinite,</L>
+<L><PB N="51" REF="78"/>
+Bathe in thoht and word and dede,</L>
+<L>For this gat ledis man to mede,</L>
+<L>And in this gate mai thai wel spede</L>
+<L>That wille thair lif in lewte led,</L>
+<L>That es at say, if man till nehbor do,</L>
+<L>That he wald he did him to,</L>
+<L>This es the gat that sain Jon kend,</L>
+<L>Sinful mannes lif to mend.</L>
+<L>This es the gat of rihtwisnes,</L>
+<L>That ledes man til joi and pes,</L>
+<L>Yef we hald us in this gate</L>
+<L>Ful redi sal we haf inlate</L>
+<L>In to that blis that lastes ay,</L>
+<L>For thider ledes Godes way.</L>
+<L>Gern prayed Dauy the prophet,</L>
+<L>That God suld wisse him to that stret,</L>
+<L>And said Lauerd thou scheu me</L>
+<L>The wai that ledes man to the.</L>
+<L>Forthi I red we hald this gate,</L>
+<L>Ai til we cum til heuin yate.</L>
+<L>This gat biddes sain Jon us grathe</L>
+<L>Wit ded, and lef the waies laythe</L>
+<L>That ledes man til pin of hel,</L>
+<L>Als Crist us schawes in our godspel.</L>
+<L>Thar he sais, brad es that gat that ledes</L>
+<L>Til hel, wit sin and wik dedis,</L>
+<L><PB N="52" REF="79"/>
+This gat es stany and thornye</L>
+<L>Wit couaitys, and glotounye,</L>
+<L>Wit prid, and nithe, and licherye,</L>
+<L>And mani foles gas thar bye,</L>
+<L>And forthi I red wel that we leete</L>
+<L>This gat, and tak the hey strete</L>
+<L>That ledis god men [full euen]</L>
+<L>Wit penanz to the blis of heuin.</L>
+<L>Bot Satenas our wai will charre,</L>
+<L>Forthi bihoues us be waire</L>
+<L>That we ga bi na wrange sties,</L>
+<L>For Satenas ful gern us spies.</L>
+<L>For ef this thef mai us met</L>
+<L>Out of this forsayd hey stret,</L>
+<L>He bes ful redi, als outlawe,</L>
+<L>To harl us in to wod schawe,</L>
+<L>And mak us bathe nakid and nais,</L>
+<L>Als sain Gregorie us says,</L>
+<L>Ilk dai mak we a iorne</L>
+<L>Till heuin, ef we god men be,</L>
+<L>Bot in our gat lis Satenas</L>
+<L>Wit his felawes, als thef in pas,</L>
+<L>And spies ful gern ef we straye,</L>
+<L>And haldes noht the riht way.</L>
+<L>That es at sai, ef we lef</L>
+<L>Riht liuelad, he mai us ref</L>
+<L><PB N="53" REF="80"/>
+Meknes, faithe, and chastite,</L>
+<L>Buxumnes, and charite,</L>
+<L>And yef he haf of us pouste,</L>
+<L>He wil ref us al our lewte,</L>
+<L>And led us in that werid waye,</L>
+<L>That ledis til waharmes aye.</L>
+<L>Of this wai riht nou I spake,</L>
+<L>Forthi I red we it forsak,</L>
+<L>And hald we us in rihtwisnes,</L>
+<L>That riht gat till ward heuin es.</L>
+<L>Bot for I said that Satenas</L>
+<L>Waites us als thef in pas,</L>
+<L>I wille you tel of a pilgrim,</L>
+<L>Hou Satenas bigiled him.</L>
+<L>It was a man als Ic herd say, <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>That til sain Jamis hit the way,</L>
+<L>And that day that he suld wend,</L>
+<L>He mad a fest til al his frend,</L>
+<L>Fel auntour that he was sa gladde,</L>
+<L>That Satenas mad him ful madde,</L>
+<L>And gert him dedeli sinne</L>
+<L>Wit a womman, that was thar inne.</L>
+<L>Quen he hauid his sin don,</L>
+<L>Apon his wai he went him son,</L>
+<L>And he that gert him falle in blam,</L>
+<L>Met him in liknes of sain Jam,</L>
+<L><PB N="54" REF="81"/>
+And askid him quider he wald wende,</L>
+<L>Bot he wist noht it was the fende,</L>
+<L>And said, I mac mi vaiage,</L>
+<L>Til sain Jam in pilgrimage.</L>
+<L>The fend ansured and said sone,</L>
+<L>No wat thou noht quat thou hauis done</L>
+<L>In licheri igaines me,</L>
+<L>Ic es sain Jam that spekis wit the,</L>
+<L>Thou ert unworthie me to seke,</L>
+<L>Thi vayage es noht worthe a leke:</L>
+<L>Wend thou thi sin fra me to hide,</L>
+<L>Quen thou it did, I was biside,</L>
+<L>Thi vayage mai noht pai me,</L>
+<L>Bot ef thou do that I bid the.</L>
+<L>This man wend that he sain Jam ware,</L>
+<L>And said, Lauerd Ic am al yare</L>
+<L>For to be boxom you to,</L>
+<L>And do al that ye sai me to.</L>
+<L>Ga swithe, he said, and geld the,</L>
+<L>That I thi repentanze mai se,</L>
+<L>And scher thi throt in tua riht son,</L>
+<L>For hauis thou mi wille don,</L>
+<L>And quen thou hauis thi seluen slan,</L>
+<L>Til heuin salle I ger the be tane.</L>
+<L>This pilgrim wend to pai sain Jam,</L>
+<L>And did himseluin mikel scham,</L>
+<L><PB N="55" REF="82"/>
+And he schar al awai ful rathe,</L>
+<L>His members and his penndanz bathe,</L>
+<L>And sithen he schar his throt in tua,</L>
+<L>And son quen he hafede don sua,</L>
+<L>Satanas was ful redie,</L>
+<L>And tok that sawel gredilye,</L>
+<L>And mad ful gret joi of his prai,</L>
+<L>And til ward helle he tok the wai.</L>
+<L>Sain Peter and sain Jam him mette,</L>
+<L>And baithe thai gan his wai to lette,</L>
+<L>And sain Jam said to the fend,</L>
+<L>Quider wil to wit mi pilgrim wend.</L>
+<L>And he ansuerd and said til helle,</L>
+<L>Thar he sal for his sinnes duel,</L>
+<L>For he was his awen ban,</L>
+<L>Forthi in him part haf ye nan,</L>
+<L>Wit riht and resoun he es mine,</L>
+<L>To wend wit me til helle pine.</L>
+<L>Than ansuerd sain Jam for his man,</L>
+<L>And said, thou lies traytour Satan,</L>
+<L>Thou wat wel thef, thou hauis the woh,</L>
+<L>For in mi nam himself he sloh,</L>
+<L>He wend wel that thou hauid ben I,</L>
+<L>Quen thou gert him do his folye,</L>
+<L>In deed was he til me bowxom,</L>
+<L>And forthi sal he wit me com.</L>
+<L><PB N="56" REF="83"/>
+The fend said, that mai noht be,</L>
+<L>Wit riht and law mai thou se</L>
+<L>That he es min thoru jogement,</L>
+<L>For quen he on his vayage went,</L>
+<L>He filed his sawel dedelye</L>
+<L>Wit the filth of licherie,</L>
+<L>And sithen wit his awen knife</L>
+<L>He set him seluin of his life,</L>
+<L>Wy, sai me Jam, on quatkin wisse</L>
+<L>Moht he mar dey in mi seruise,</L>
+<L>Loc quether I wit riht and lawe,</L>
+<L>May him wit me til helle drawe.</L>
+<L>Sain Jam ansuerd and said him to,</L>
+<L>Wrang no wille I nan the do,</L>
+<L>Bot yef we wil the sothe treye,</L>
+<L>Gon we til dom of our Leuedye,</L>
+<L>And als scho demes sal it be,</L>
+<L>For that es riht als think me.</L>
+<L>And sain Peter his felawe</L>
+<L>Said, this think me riht and lawe,</L>
+<L>Mari, he said, es god iustise,</L>
+<L>Scho wil do wrang on nan wyse.</L>
+<L>Quen thai com bifor ur Leuedye,</L>
+<L>Scho demid son wit hir mercye,</L>
+<L>At that sawel til the bodye</L>
+<L>Suld turn, and penance do worthi,</L>
+<L><PB N="57" REF="84"/>
+And said, this sawel, als it nou isse,</L>
+<L>Mai nangat cum til heuin blis,</L>
+<L>Ar it be clensed in bodye</L>
+<L>Of sin, wit penance worthi,</L>
+<L>Forthi for jugement gif I,</L>
+<L>That it turn til the bodye,</L>
+<L>And clens it wit penance worthi,</L>
+<L>And yem it sithen fra meschanz.</L>
+<L>The fend for this dom was sarie,</L>
+<L>And ille payed that our Leuedye</L>
+<L>Hauid reft him wit riht jogement</L>
+<L>That man that he wit gil had schent.</L>
+<L>Quen this sawel was cumen igain</L>
+<L>To the bodi, this man was fain,</L>
+<L>And monc in Cluny he him yald,</L>
+<L>And tis tal til his abbot tald,</L>
+<L>Hou he was schent thoru gilri,</L>
+<L>And saued thoru our Leuedi.</L>
+<L>Georard he hiht, and fra that tim</L>
+<L>That Satenas hafd gabbid him,</L>
+<L>Hali man he was and god,</L>
+<L>And seruid Godd wit miht and mod,</L>
+<L>Bot thar his throt was scorn wit knif,</L>
+<L>A red merk was al his lif,</L>
+<L>And thar his members was bifore,</L>
+<L>Hauid he noht sithen bot a bore.</L>
+<L><PB N="58" REF="85"/>
+Bi this tal har may we se,</L>
+<L>That wis and wair bihoues us be,</L>
+<L>That Satenas ne ger us rayk</L>
+<L>Fra rihtwisnes, to sinful laik,</L>
+<L>For yef he find us out of stret,</L>
+<L>He bindes us baith hand and fete,</L>
+<L>That es at say, ef he us find</L>
+<L>In dedeli sin, he may us bind</L>
+<L>Wit wik will, and ger us wend</L>
+<L>Fra sin to sin, and sua us schend.</L>
+<L>For als he gert this pilgrim ga</L>
+<L>Fra sin to sin, and himself sla,</L>
+<L>Sua gers he man ga gastilye,</L>
+<L>Fra glotouny to licherye,</L>
+<L>Fra lychery to couaytye,</L>
+<L>And sua to prid and enuy,</L>
+<L>And at the last in his prisoun</L>
+<L>He dos him, als thef in prisoun,</L>
+<L>Quen he gers him in wanhop falle,</L>
+<L>For wanhop his prisoun I calle,</L>
+<L>For qua sa cumes anes thar inne,</L>
+<L>Thar of may he noht lihtli winne,</L>
+<L>For qua deyes in that prisoun,</L>
+<L>His sawel es broht til a donjoun,</L>
+<L>Thar it wit outen end sal lend,</L>
+<L>Wit al faas, wit outen frend,</L>
+<L><PB N="59" REF="86"/>
+For it bes felaw wit the fend,</L>
+<L>That snellik sal it scham and schend,</L>
+<L>And quen this werd bes broht til end,</L>
+<L>Than sal the bodi thider wend,</L>
+<L>Wit that sari sawel to lend,</L>
+<L>Thar wormes sal it rewli rend,</L>
+<L>Thar sal it bi that sari sinne,</L>
+<L>That it no wald noht hir blinne,</L>
+<L>That soru mai na tung telle,</L>
+<L>That it sal drey wit fendes felle.</L>
+<L>Hald we us forthi in stret,</L>
+<L>That Satenas may us noht met,</L>
+<L>That es at say, in rihtwisnes,</L>
+<L>Quarof sain Jon in wildernes</L>
+<L>Spac, and bad us graythe that way</L>
+<L>That ledis man til gamen and play.</L>
+<L>Our Lauerd in this wai us lede</L>
+<L>Til heuin, and yeld us thar our med.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="87"/>
+<HEAD>Ad missam in Nocte Natalis Domini secundum Lucam.</HEAD>
+<EPIGRAPH>
+<Q><P>Exiit edictum a Cesare Augusto ut discriberetur uniuersus orbis. Hec descriptio prima facta est a preside Syrie Cyrino. et cetera.</P></Q>
+</EPIGRAPH>
+<HEAD>Ad missam in Mane secundum Lucam.</HEAD>
+<EPIGRAPH>
+<Q><P>Pastores loquebantur ad inuicem. Transeamus usque Beth∣leem, et videamus hoc verbum quod factum est, quod fecit Dominus et ostendit nobis. Et uenerunt festinantes, et inuene∣runt Mariam, et Iosep. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">V</SEG>A and wanderet walkes wide,</L>
+<L>That com of couaitis and prid,</L>
+<L>Toru couaitis and prid, bigan</L>
+<L>Man to haf maystri of man.</L>
+<L>That wasse first sen in him that hiht</L>
+<L>Nembrot, that was sa bald and wiht,</L>
+<L>That in his tim maistri he wan</L>
+<L>Of al the men that lifd than.</L>
+<L>The bibel telles us openlye</L>
+<L>Of Nembrot and his maistri,</L>
+<L>Hou the folc that was wit him</L>
+<L>Bigan to mak a tour that tim,</L>
+<L><PB N="61" REF="88"/>
+That suld reche to the lifte,</L>
+<L>Bot Godd that skilfulli kan skift,</L>
+<L>Mad them alle serely spekand,</L>
+<L>That nan moht other understand,</L>
+<L>And gert them lef thair wilgern werk,</L>
+<L>Bot of thair not yet standes merk,</L>
+<L>In Babilony the tour yet standes,</L>
+<L>That that folk mad wit thair handes.</L>
+<L>Of that tour nou spek I,</L>
+<L>For lauerdhed and for maistri,</L>
+<L>That Nembrot hauid first of man,</L>
+<L>Bifor quaim werdes king was nan.</L>
+<L>For he, thoru prid and couaitise,</L>
+<L>Gert folc first bowe til his seruise,</L>
+<L>Of him men gan ensampel tak,</L>
+<L>King and thain in land to mak,</L>
+<L>For efter him com kinges fele,</L>
+<L>That gan this werld imang thaim dele,</L>
+<L>And he that hauid mast miht,</L>
+<L>Feld the waiker king in fiht,</L>
+<L>Bot at the last, wan Rom the prisse,</L>
+<L>And toc of al this werld seruisse.</L>
+<L>For alle kinges yald trouage</L>
+<L>Till Rom, and seruis and homage.</L>
+<L>In Rom was, als fel auntour,</L>
+<L>A wonder myhti emperour,</L>
+<L><PB N="62" REF="89"/>
+That hiht Cesar and Augustus,</L>
+<L>Als our bibel telles us,</L>
+<L>And in his tim ger he telle,</L>
+<L>Als sais sayn Louc in our godspelle,</L>
+<L>Of all this werd the cuntres,</L>
+<L>And of cuntres the cites,</L>
+<L>And al the men that war wonand</L>
+<L>Bathe in borwis and apon land,</L>
+<L>Sua that ilk man of eld</L>
+<L>Suld cum til his boru, and gif yeld</L>
+<L>For himself and for his menye,</L>
+<L>And graunt that he suld buxum be,</L>
+<L>Efter his miht in al thing,</L>
+<L>Til Cesar, that of Rom was king;</L>
+<L>And ouer al this werd, thoru and thoru,</L>
+<L>Com men and wymmen til thair boru,</L>
+<L>To do the king comandement,</L>
+<L>For qua sa did noht, he war schent.</L>
+<L>And than was Josep Mari spouse,</L>
+<L>For he hauid broht hir than til house,</L>
+<L>And forthi led he hir him with</L>
+<L>Til Bedhelem imang his kith,</L>
+<L>To yeld thar that to thaim felle,</L>
+<L>Als said to day our first godspelle.</L>
+<L>And for Mari wit child wasse,</L>
+<L>He ledd hir wit him on an asse,</L>
+<L><PB N="63" REF="90"/>
+And an ox, as we find in spelle,</L>
+<L>Broht Josep wit him for to selle.</L>
+<L>Bot ar thai war to toun comen,</L>
+<L>War innes al bifor thaim nomen,</L>
+<L>Sua that thar was na herberie</L>
+<L>To Josep and his spouse Marie,</L>
+<L>Bot a pendize [that] was wawles,</L>
+<L>Als oft in borwis tounes es.</L>
+<L>And thar Josep a crithe wroht</L>
+<L>Til bestes that he wit him broht,</L>
+<L>And als he mad a pouer bedd</L>
+<L>Til Mary, that he wit him ledd,</L>
+<L>For than com tim Mari mild</L>
+<L>Suld be deliuerd of hir child.</L>
+<L>And son quen scho deliuerd wasse,</L>
+<L>Scho laid hir son bifor [hyr] asse,</L>
+<L>[And by fore that ox bathe,</L>
+<L>So thay knew hym fore Gode full rathe.</L>
+<L>For in propheci was it sayd,</L>
+<L>That he sulde before thaim be layde.</L>
+<L>Fore Abakuk and Ysay</L>
+<L>Spak tharof apeyrtly;</L>
+<L>And hyrdes that woke that ilke nyght</L>
+<L>About thair bestes, saght a lyght</L>
+<L>Of heuen come lightand thaim aboute,</L>
+<L>And of this lyght thai had a grete doute,</L>
+<L><PB N="64" REF="91"/>
+And an aungell bysyde thaime stode,</L>
+<L>And gladded sone thair sory mode,</L>
+<L>And bad thai sulde haue na radnes.</L>
+<L>Forethi, he sayd, I comen es</L>
+<L>To bryng you bodword of that blys,</L>
+<L>That sall glad all this werld, I wys,</L>
+<L>For Crist, God sonne, ryght nowe</L>
+<L>Ys borne in Bethleem unto ȝowe,</L>
+<L>That ȝe be syker of this hehtynge,</L>
+<L>I gyf you this to takenynge,</L>
+<L>That ȝe sall fynd a chylde thar bonnden</L>
+<L>In a creke, wit cloutes wonnden.</L>
+<L>When this [was] sayd, aungelles fele</L>
+<L>Louid God wit this aungele,</L>
+<L>And [saide], blys and yoi in heuen be</L>
+<L>To worthy Gode in trinite,</L>
+<L>And als in erthe to man be pees,</L>
+<L>That in ryght trewthe and gude lyf es.</L>
+<L>Aftyr this brygnes and this leme,</L>
+<L>Thare herdes come to Bethleem,</L>
+<L>And fand in chyldebede our Lauedy,</L>
+<L>And als so Joseph standand hyr by,</L>
+<L>And the chylde in strethe layde,</L>
+<L>Ryght als the aungele thaim had sayd,</L>
+<L>And by that takyn knew thai ryght,</L>
+<L>That that was Criste that lang was hyght,</L>
+<L><PB N="65" REF="92"/>
+Before that tyme, in many prophecy,</L>
+<L>And thai loued God full gerne forthi,</L>
+<L>For blys that thar in was layd.</L>
+<L>And Mari toke yeme what thai sayd,</L>
+<L>And held in hert thair wordes all,</L>
+<L>And thoght well what of Criste suld fall.</L>
+<L>Now haue ȝe herd whare Criste was borne,</L>
+<L>That boght us all when we war lorne.</L>
+<L>Full wele burd us of hys byrth</L>
+<L>Be glade, and make bath yoi and myrth,</L>
+<L>And loue God, that hym us sende,</L>
+<L>And wit penaunce oure lyue to amend.</L>
+<L>For in his burght now may we lere</L>
+<L>Meknes, that mas man tyll him dere,</L>
+<L>For Criste wit swylke mekenes ferde,</L>
+<L>That mare meknes was neuer harde,</L>
+<L>Forethi bird us ensampell take</L>
+<L>Of hys meknes, and pryd forsake,</L>
+<L>When we thynk inwerdly how he,</L>
+<L>That es sa heght in Trinite,</L>
+<L>Was sa meke that he wald take</L>
+<L>Flesche and blode for mannes sake,</L>
+<L>And sythen be borne thus purely</L>
+<L>O the pouer mayden Mary,</L>
+<L>Noght in castyll, ne in tour,</L>
+<L>Ne in hall, ne in boure,</L>
+<L><PB N="66" REF="93"/>
+Bot in a pouer pentiȝ, I wys,</L>
+<L>That lytill was of worldes blys.</L>
+<L>That Lord that syttes heght in tronne,</L>
+<L>And schope bath sterne, sone, and mone,</L>
+<L>And heuen, and hell, and erth, and fee,</L>
+<L>And makes frute and flour of tre,</L>
+<L>And all this worlde made of noght,</L>
+<L>And man aftyr hys lyknes wroght,</L>
+<L>Wham all that lyues, loues and loutes,</L>
+<L>For mannes sake was layde in cloutes.</L>
+<L>Whar hard man euer of swylk meknes,</L>
+<L>Me thynk that he unsely es,</L>
+<L>That lyues in pryde and enuy here,</L>
+<L>And wyll of Criste na meknes lere.</L>
+<L>A pryde and enuy wa ye be,</L>
+<L>Fore garn burd us that athe fle,</L>
+<L>When we thynk how thai sall far,</L>
+<L>That wyll noght lete at Cristes lare,</L>
+<L>Ne folow hys trasce in meknes,</L>
+<L>That es grunde of all gudnes.</L>
+<L>Fore thurght meknes es Mary,</L>
+<L>Of heuen and erth, qwene and lady,</L>
+<L>And Satanas thurght pride he fell</L>
+<L>Oute of heuen doune into hell.</L>
+<L>In heuen was he aungell fayreste,</L>
+<L>And sythen in hell, fend laytheste.</L>
+<L><PB N="67" REF="94"/>
+O pryde comes all his unsell,</L>
+<L>That neuer may slake ne kell.</L>
+<L>Fore all wa that in this werlde es,</L>
+<L>Come of pryde and of unbuxumnes;</L>
+<L>For gyf Adams pryd ne war,</L>
+<L>He had bene qwyt of sorow and kar,</L>
+<L>Bot for he ȝernede for to be</L>
+<L>Als wys als Gode, forthi was he</L>
+<L>Thurght pryde, maked full unwys,</L>
+<L>And flemed oute of paradyse.</L>
+<L>God flemed noght hym allane,</L>
+<L>Bot thurght hys pryde, us euerilkane.</L>
+<L>Fore had he bene in ryght meknes,</L>
+<L>He had haldyn buxumnes,</L>
+<L>And done als his lorde hym bade,</L>
+<L>And endles in ioy bene stede,</L>
+<L>Noght he allane, bot hys ofsprynge</L>
+<L>Suld ay haue lyued wyht outen ende,</L>
+<L>If he had bene buxume hym to,</L>
+<L>That taght hym all how he suld do.</L>
+<L>Bot fore he troued mar hys wyfe</L>
+<L>Then God, that gaf hyme lym and lyfe,</L>
+<L>And brak Goddes commaundment,</L>
+<L>Forthi was all hys ofsprynge schent,</L>
+<L>And oute of paradyse flemede,</L>
+<L>And to pyne of hell demede.</L>
+<L><PB N="68" REF="95"/>
+Forthi come Goddes sone to menne,</L>
+<L>The way of mekenes thaim to kenne,</L>
+<L>And in hys burght meknes he us kende,</L>
+<L>And in hys lyfe, and in hys ende;</L>
+<L>And forthi es gude that we be meke,</L>
+<L>And our lorde Criste in mekns seke.</L>
+<L>Fore it es na thyng that swa schendes,</L>
+<L>Na dose sa mekyll schame to fendes,</L>
+<L>Als dose meknes, whar wit Criste boght</L>
+<L>Mankynde fra hell, when he thus wroght.</L>
+<L>That may we by that takenyng se,</L>
+<L>That gars fendes fra us flee,</L>
+<L>That es the takenynge of the rode,</L>
+<L>Whar on Criste schede hys blode.</L>
+<L>He schewed the maste meknes thar,</L>
+<L>That euer he schewed sythen, or ar,</L>
+<L>And for the Fende was ay and es</L>
+<L>Proude, may he tholl bot na meknes,</L>
+<L>And forthi when men the takyne mas</L>
+<L>Of the cros, then flees Satanas.</L>
+<L>For na thyng es, als I sayd are,</L>
+<L>That woundes Satanas sa sare,</L>
+<L>Als dos the takenying of meknes,</L>
+<L>Fore agayne the fende mast it es.</L>
+<L>That may ȝe be saint Martyn see, <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>For in his lyue thus writen find we,</L>
+<L><PB N="69" REF="96"/>
+That als he was in orisoune,</L>
+<L>Then come the Fende als kyng wit croune,</L>
+<L>Cled in pall and in rych wede,</L>
+<L>And sayd, Martyne, I will the lede</L>
+<L>To heuen, that bese thi beste bewyste,</L>
+<L>For wyt ȝou well that I am Criste,</L>
+<L>That may thou by my fayrnes se,</L>
+<L>Forthi will I that thou loute me.</L>
+<L>And sant Martyn thurght grace it wyste,</L>
+<L>That he was noght Jhesu Crist,</L>
+<L>And sayd to hym wyt mylde chere,</L>
+<L>Wyll I noght se my lord here,</L>
+<L>Bot in that blys, thare he ay es.</L>
+<L>And for this worde of meknes,</L>
+<L>The Fend went away als reke,</L>
+<L>And fled hym for hys answar meke.</L>
+<L>And of saint Anton fynd we,</L>
+<L>That swa meke and myld was he,</L>
+<L>That thurght meknes, many tyme</L>
+<L>Flayed he fendes fell fra hyme.</L>
+<L>And als he was hys ane in stede,</L>
+<L>He saw how all the erth was sprede,</L>
+<L>Wyt pantre bandes, and gylders blake,</L>
+<L>That Satanas had layd to take</L>
+<L>Mans saull, als a fouler</L>
+<L>Tas foules wyt gylder and panter.</L>
+<L><PB N="70" REF="97"/>
+Than sayd Antone, this gude ermyte,</L>
+<L>Lorde, what thyng sall passe qwyte,</L>
+<L>And be noght in this snarres tane,</L>
+<L>And God answerde, meknes allane.</L>
+<L>Anothyr ermyte hyght Makary,</L>
+<L>To wham the fende had grete enuy,</L>
+<L>And on a day the fend hym mete,</L>
+<L>Fore fayne he wald his sawes lette,</L>
+<L>And sayd, thou dos me grete dyspyte,</L>
+<L>For wyt na syne [may] I the smyte,</L>
+<L>And the pennance noght forthi</L>
+<L>I see the do, all that do I.</L>
+<L>Thou fastes mekyll, and I faste ay,</L>
+<L>For I ete nouthyr nyght na day,</L>
+<L>Thow wakys mekyll, and swa I do,</L>
+<L>For I hafe neuer ryste ne ro,</L>
+<L>Bot wyt a thyng pas thou me,</L>
+<L>Sa that I may noght do at the.</L>
+<L>And what es that, sayd Makary.</L>
+<L>Of thi meknes, he sayd, speke I,</L>
+<L>For wit meknes thou passes me,</L>
+<L>That schendes me, when I it se.</L>
+<L>For swa meke was Makary,</L>
+<L>That of hys meknes was ferly.</L>
+<L>In ermytage lange wonnd he,</L>
+<L>On felles, bysyde a gret cyte.</L>
+<L><PB N="71" REF="98"/>
+Out of the cyte was he flede,</L>
+<L>And als a ermytte swylke lyue he lede,</L>
+<L>That hys meknes and hys gude lyue</L>
+<L>Was sone in the cyte full ryue.</L>
+<L>Anothyr ermyte come hym tyll,</L>
+<L>And serued hym at all hys wyll.</L>
+<L>Fell auntour, that this Makary</L>
+<L>Come unto the cyte full rywely,</L>
+<L>To sell thar hys handwerke,</L>
+<L>And sa fell auntour, that a clerke</L>
+<L>Spak wit a burgas doghter swa,</L>
+<L>That synfull play laykyd thai twa.</L>
+<L>When scho wit chylde persayd was,</L>
+<L>Fadir askyd and modyr this case,</L>
+<L>Wha had done wit hyr foly,</L>
+<L>And scho answerede, a ermyte Makary.</L>
+<L>Full wrath wer all hyr frendes than</L>
+<L>Wyt Makary, that hali man.</L>
+<L>Thai gart take hym and do hym schame,</L>
+<L>Als he had spylte this wommane fame.</L>
+<L>Aboute the merket thai hym lede,</L>
+<L>And dange hym that hys body blede,</L>
+<L>And gart hym fynd borghes than,</L>
+<L>To fede and clethe this wyk wommane.</L>
+<L>The tother ermyte that serued hym</L>
+<L>Was bysyde that ilke tyme,</L>
+<L><PB N="72" REF="99"/>
+And thoght gret schame os this chaunce,</L>
+<L>And grete for hys maister penaunce.</L>
+<L>Makary prayd hym that he</L>
+<L>Suld in that cas his borow be,</L>
+<L>And he become hys borow thar,</L>
+<L>Full wa was hym for hys mysfar.</L>
+<L>To hymselfe sayd Makary,</L>
+<L>A wyfe has thou, and forthi</L>
+<L>Behoues the werk faster and mar,</L>
+<L>Baith nyght and day, than thou dyd ar,</L>
+<L>Els may thou noght wit thi dede</L>
+<L>Thi selfe and thi lemman fede.</L>
+<L>Bathe nyght wroght Makary and day,</L>
+<L>And sent this woman a pert ay,</L>
+<L>That he myght wit hys werke gete,</L>
+<L>And thar wytall scho boght hyr mete.</L>
+<L>This womane yode wit chylde full lange,</L>
+<L>And tholed paynes sely strang,</L>
+<L>For myght scho haue na delyueraunce,</L>
+<L>Ar scho had talde thurght whatkyne chaunce</L>
+<L>Scho consaywed, and thurgh whame,</L>
+<L>And qwyt sante Makary of hys blame.</L>
+<L>When hyr frendys herd of this,</L>
+<L>Thame thoght that thai had done of mys,</L>
+<L>When thai bette Sainte Makary,</L>
+<L>Forthi thai wald cry hym mercy,</L>
+<L><PB N="73" REF="100"/>
+And sainte Makary hard say</L>
+<L>At thai wald come, and flede away.</L>
+<L>For he was rad to tyne mekenes</L>
+<L>Wit louely worde and dereworthynes.</L>
+<L>For loufe word and worldes blys</L>
+<L>Gers men tyne meknes, I wys,</L>
+<L>Forthi flede Criste man louynge,</L>
+<L>When the Jewes wald make hym kynge;</L>
+<L>Fore worldes wandretht and pouerte</L>
+<L>Haldes meknes in many mans herte,</L>
+<L>And worldes welth mas man full made,</L>
+<L>Forthi Makary away it flede.</L>
+<L>Thir thre tales haue I you talde,</L>
+<L>To ger you in your hertes halde,</L>
+<L>That ay the halyar that a man es,</L>
+<L>The mar lufes he meknes;</L>
+<L>For Crist us kend, als I sayd ar,</L>
+<L>Meknes in all hys pouer far,</L>
+<L>For in his burght meknes he kende,</L>
+<L>And in hys liue, and at hys last ende.</L>
+<L>Forthi I rede that we faste pray,</L>
+<L>That Criste lede us here be the way</L>
+<L>Off meknes, unto that blys</L>
+<L>That to meke men graythede es.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="101"/>
+<HEAD>Dominica infra Octavam Nativitatis Domini secundum Lucam.</HEAD>
+<EPIGRAPH>
+<Q><P>Erant Ioseph et Maria mater Ihesu mirantes super his que dicebantur. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">T</SEG>HYSE Jewes made ilka zer</L>
+<L>Seuen festes on thair maner.</L>
+<L>But theder come both zong and olde,</L>
+<L>That war for Jewes in Jewery tolde,</L>
+<L>In to the temple for to her</L>
+<L>Goddes seruyse on thair maner,</L>
+<L>And for to make thair offerand thar,</L>
+<L>Efter that thair esse war.</L>
+<L>And fell auntour, when Criste was chylde,</L>
+<L>That both Joseph and Mary mild,</L>
+<L>Come to the temple omang thair kyth,</L>
+<L>And toke yong Jhesu tham wyth.</L>
+<L>And both Joseph and Mary</L>
+<L>Thoght of Jhesu gret ferly,</L>
+<L><PB N="75" REF="102"/>
+For ferlyes herd thai of hym tell,</L>
+<L>Als sayd saynt Luke in oure godspell.</L>
+<L>And in the temple fand thai than</L>
+<L>Seynt Symeon, the olde mane,</L>
+<L>That had the haly gaste hym ynne,</L>
+<L>And wyst what Crist suld thole for synne.</L>
+<L>He blyssed Joseph and Mary,</L>
+<L>And [childe] Jhesu that stod hym by,</L>
+<L>And spake of Crist, [and saide that he</L>
+<L>Was sett to many a man to be]</L>
+<L>Bath in rysyng and in fallyng,</L>
+<L>And in takyng of gayn seying,</L>
+<L>Als who say, gode men sall ryse,</L>
+<L>When this chyld sall be justyse</L>
+<L>On domesday, when wyk men sall</L>
+<L>In to the pitt of hell fall,</L>
+<L>Bot good men sall ryse and wende</L>
+<L>In to the blys wit owten ende.</L>
+<L>But thar he spak of taknyng</L>
+<L>[Was ment] of Cristes up rysyng,</L>
+<L>That was taknyng of gayne sawe,</L>
+<L>For Jewes wald noght hys rysyng knaw,</L>
+<L>It made tham sory and unfayn,</L>
+<L>And tharfor spak thay thare agayne.</L>
+<L>And forthi sayd sant Symeon</L>
+<L>Of Crist, when he layd hand hym on,</L>
+<L><PB N="76" REF="103"/>
+This chylde, he sayd, ys sett in taken</L>
+<L>That bes agayn sayd and forsaken.</L>
+<L>And to our Lady als spekes he,</L>
+<L>And sayd, so sorowefull sall thou be,</L>
+<L>That swerd of sorowe sall thorowe styng</L>
+<L>Thi sowle, for dol and murnyng.</L>
+<L>So dyd hyr hert for sorowe thorugh stang,</L>
+<L>When scho on rode sugh hyr son hang;</L>
+<L>And then was sene what Jewes thoght,</L>
+<L>When thai thoght bryng hym to noght.</L>
+<L>And als saynt Symeon spak thus</L>
+<L>To Mary, of hyr son Jhesus,</L>
+<L>So com thar gangand ane old wyf,</L>
+<L>That was a wydow of haly lyf,</L>
+<L>And thorowȝ prophecy scho wyst</L>
+<L>Full many thynges suld fall of Crist,</L>
+<L>And to the folk scho tald that tyme</L>
+<L>Thynges that suld fall of hym,</L>
+<L>How he was sent mans bote to be,</L>
+<L>And by man kynde on rode tre.</L>
+<L>When Mary and Joseph had done</L>
+<L>That fell to lawe, thai ȝode home sone,</L>
+<L>And wel wex Jhesu thair childe</L>
+<L>For grace and wysdom hym fullfylde.</L>
+<L>This es the strenght of our gospell,</L>
+<L>Als man on Englysch tounge may tell.</L>
+<L><PB N="77" REF="104"/>
+But a worde sayd saynt Symeone,</L>
+<L>That ys on sere manere undone,</L>
+<L>Ther he sayd, Jhesu our Lord Kyng</L>
+<L>Was sent in fallyng and rysyng.</L>
+<L>On a manere, the wordes may</L>
+<L>Full well betaken domesday,</L>
+<L>When gode men, als I sayd are,</L>
+<L>Sall ryse and to blys fare,</L>
+<L>And wykked folk sall fall doun</L>
+<L>Into hell, that foule dongoun.</L>
+<L>Bot men may se another thyng,</L>
+<L>In this fallyng and this rysyng,</L>
+<L>For the Jewes fell fra all gude,</L>
+<L>When thai slow Crist on the rode,]</L>
+<L>[And hethen men fra synne ras,</L>
+<L>That before was Criste faase.</L>
+<L>For thai rase gasteli with Criste</L>
+<L>Fra synne, when that thai ware baptiste,</L>
+<L>And wha swa euere es Cristis lyme,</L>
+<L>Him awe to rise gasteli with hyme.</L>
+<L>For when we of oure synnes us schryue,</L>
+<L>We rise gastely fra dede to lyue,</L>
+<L>Fra dede of synne to life of grace,</L>
+<L>That geres us fle the fendes trace,</L>
+<L>And we may see reeulye,</L>
+<L>That som men fallis in foly,</L>
+<L><PB N="78" REF="105"/>
+And risis of synne so wightlye,</L>
+<L>That bettir man es he in hye,</L>
+<L>Than euer ȝitt before was he,</L>
+<L>That be this tale we maye wele se.</L>
+<L>And ersbisschope beȝonde the se, <NOTE PLACE="marg">A Tale.</NOTE></L>
+<L>Was wonande in a saire cite.</L>
+<L>A hali man and gude he wase,</L>
+<L>Bot first he fell, and sithene he rase.</L>
+<L>The Fende at him had grete enuye,</L>
+<L>And gert him fall in lyccherye</L>
+<L>Apon a full selcouthe manere,</L>
+<L>Als ȝe may be this tale here.</L>
+<L>A nonnery was in that contree,</L>
+<L>Fyue myle fra the bisschope see,</L>
+<L>And in this ilk forsaide nonnrye</L>
+<L>Was wonand nonnes full manye,</L>
+<L>That serued God and oure Ladye,</L>
+<L>And kepid thaim wele fra uilanye.</L>
+<L>And aunter fell, that to that howse</L>
+<L>Come maydens Jhesu Criste to spouse.</L>
+<L>Thir maydens were sent thaire uayles to take</L>
+<L>Of that bisschope, of whaim I spake.</L>
+<L>This bisschope, als the manere es,</L>
+<L>Reueste him to synge his messe.</L>
+<L>Thir maydens come bifore the autere,</L>
+<L>And toke thaire uayles on gude manere.</L>
+<L><PB N="79" REF="106"/>
+And this bisschope his eye uppe kest</L>
+<L>To ane of thaim that was fayrest,</L>
+<L>And sone on hir his lufe was fest</L>
+<L>Swa harde, that he might haue na rest,</L>
+<L>For Sathanas did his maistrie,</L>
+<L>And fandid him with lyccherye.</L>
+<L>Swa nere his hert hir lufe gon lye,</L>
+<L>That right him thoght that he suld dye,</L>
+<L>Bot he had of hir his will,</L>
+<L>And might with hir his lust fullfill.</L>
+<L>Here maye ȝe se on whatkin wyse</L>
+<L>The Fend men fandes with his qwayntise,</L>
+<L>For ȝerne he lokis on ilka syde</L>
+<L>To gere us tyne heuens pride.</L>
+<L>Him think full lathe men come thare in,</L>
+<L>Forthi geres he men fall in synne.</L>
+<L>Thir nonnes when that thai halowid ware,</L>
+<L>Thai toke thaire leue hame to fare</L>
+<L>Full faire to thaire nonnrye,</L>
+<L>Bot this bisschope lefft sarye.</L>
+<L>So was he fondid inwardelie</L>
+<L>With brinnand lust of liccherie,</L>
+<L>That might he nouther ete ne drink,</L>
+<L>Ne haue night rest, ne slepe no wynk.</L>
+<L>For lust him thoght his hert wald brest,</L>
+<L>And he umthoght him what was best,</L>
+<L><PB N="80" REF="107"/>
+How he might this ilk nonne fange</L>
+<L>To slake his lust that was so strange.</L>
+<L>Than lettirs sent he hasteli,</L>
+<L>Unto the abbeys of that nonnrye,</L>
+<L>And bad scho suld come swithe him to,</L>
+<L>The nedes of hir house to do.</L>
+<L>When this abbeys thir tithandes herd,</L>
+<L>To the bisschope full sone scho ferd,</L>
+<L>And sone when scho was comen thare,</L>
+<L>The bisschop schewid her all his care.</L>
+<L>So mikil sorowe, he saide, I drye</L>
+<L>That for lufe all moste I dye.</L>
+<L>Bot if thou helpe me in this case,</L>
+<L>I may saye for euer allase.</L>
+<L>Helpe of me than sall thou tyne,</L>
+<L>Bot if thou helpe me of this pyne.</L>
+<L>I haue halden thi hous to right,</L>
+<L>And helpid the with all mi might,</L>
+<L>Now may thou me my trauaile ȝelde,</L>
+<L>If thou will to my langynge helde.</L>
+<L>I pray the, graunte me my will,</L>
+<L>And ger that nonne come me untill,</L>
+<L>That I had here ȝistirdaye,</L>
+<L>For allgate buse me with hir playe,</L>
+<L>Or elles forsothe, as I the saye,</L>
+<L>Dede mon I be or the thridde daye.</L>
+<L><PB N="81" REF="108"/>
+To do the gude I haue mynte,</L>
+<L>And if thou ne do, thou hase it tynt,</L>
+<L>And if thou helpe me in this nede,</L>
+<L>Full wele sall I qwite the thi mede,</L>
+<L>For now may I wele se and fynde,</L>
+<L>If thou to me will be kynde.</L>
+<L>I praie the, swithe graunte me my bone,</L>
+<L>And ger that nonne come to me sone.</L>
+<L>And neuened the nonne be hir name,</L>
+<L>For he lettid for na schame.</L>
+<L>When this abbes thir wordes herd,</L>
+<L>Scho was forwondird and afferde,</L>
+<L>For wende scho neuer mare to here</L>
+<L>The bischope speke of swilk matere,</L>
+<L>And scho umthoght hir als sone,</L>
+<L>What gude the bisschope had hir done,</L>
+<L>And to hir hous, and hir couent,</L>
+<L>For bathe he had hir giuen and lent.</L>
+<L>And ȝitt scho thoght hir forthermare</L>
+<L>That he hir gert be abbeys thare,</L>
+<L>And forthi thoght hir lathe</L>
+<L>In any thinge, to make him wrathe,</L>
+<L>And hir had leuar Goddes wrethe,</L>
+<L>Than for to haue hir bisschopes lethe.</L>
+<L>Forthi scho grauntid him his bone,</L>
+<L>And went hame to hir nonnry sone,</L>
+<L><PB N="82" REF="109"/>
+And priuely this nonne scho callde,</L>
+<L>And talde hir what the bisschope walde,</L>
+<L>And saide, bot if scho did his will,</L>
+<L>That nonnerie walde he strothe and spill.</L>
+<L>This ilk ȝonge nonne was unmightie</L>
+<L>To stand agayne this foule folye,</L>
+<L>And saide full swith, my dere ladie,</L>
+<L>To do ȝoure will, I am redye.</L>
+<L>This nonne to the bisschope fore,</L>
+<L>And of hir self scho made a hore.</L>
+<L>Allas, that scho ne had halden the triste</L>
+<L>That scho made with Jesu Criste.</L>
+<L>For sothe I saie, and scho had sene</L>
+<L>How faire hir self was, and how schene,</L>
+<L>When that scho was mayden clene,</L>
+<L>Had scho noght synned als I wene.</L>
+<L>Allas, that scho noght undirstude</L>
+<L>How Criste, that boght hir on the rude,</L>
+<L>Had tane hir als his leeue spouse,</L>
+<L>And broght hir to his awne howse.</L>
+<L>Methink scho chaungid wricchidlye,</L>
+<L>When scho left Criste hir leue luttbye,</L>
+<L>And toke hir to a synfull man,</L>
+<L>For to be his lemmane.</L>
+<L>A Lorde, sorowfull had scho bene,</L>
+<L>If scho hir awne state had sene,</L>
+<L><PB N="83" REF="110"/>
+How faire gasteli scho was and bright,</L>
+<L>Whiles hir maydenhede was hir tight.</L>
+<L>Lathe had hir bene to do that synne,</L>
+<L>For any werldes gode to wynne.</L>
+<L>Bot for scho was als wommane waike,</L>
+<L>Scho heldid sone to synfull layke,</L>
+<L>That made hir to God full lathe,</L>
+<L>In bodie, and in saule bathe.</L>
+<L>For thare scho tynt hir maydenhede,</L>
+<L>And thare with all that blissfull mede,</L>
+<L>That maydens sall haue in that blisse,</L>
+<L>Thare Criste thaire lemman sall thaim kisse.</L>
+<L>And all that will this tale here,</L>
+<L>Gode ensaumpil may thai lere,</L>
+<L>Unsikir of thaim self to be,</L>
+<L>If thai will understand and se,</L>
+<L>How wyse man this bisschope wasse,</L>
+<L>And sithen to foly gon he passe,]</L>
+<L>Sa stithelic igain him ras</L>
+<L>The fend, that him feld in place.</L>
+<L>Full ille bers us lah and kinc,</L>
+<L>Quen apon this bischop we think,</L>
+<L>For he, that thef that gert him falle,</L>
+<L>Es about to sla us alle.</L>
+<L>Bot sinful man gers him oft schurne,</L>
+<L>And castis him wit his awen turne,</L>
+<L><PB N="84" REF="111"/>
+Quen [he] him schrifes of his sin,</L>
+<L>And kepes no mar falle thar inne.</L>
+<L>Lauerd, mikel es thi mercie,</L>
+<L>For ay Lauerd, es thou redye</L>
+<L>For to forgif us our folye,</L>
+<L>Als oft als we for mercie the crye;</L>
+<L>Be our sin neuer sa ugli,</L>
+<L>Thou forgifes us sa freli,</L>
+<L>That al men mai think ferlye</L>
+<L>Of thi pete, and thi mercye.</L>
+<L>For thar na man fal in wanhop,</L>
+<L>That thinkes wel on this bischop,</L>
+<L>For this bischop, of quaim I telle,</L>
+<L>Sa dep in filth of sinne he felle,</L>
+<L>That he was worthe to brinne in helle.</L>
+<L>And thar euermar to duelle,</L>
+<L>Yef it no hafd ben thi mercye,</L>
+<L>That gert him ris of sin in hy,</L>
+<L>And forthi suld alle men lof the,</L>
+<L>And bowsom to thi wille be.</L>
+<L>For thou, that geris the dumbe spek,</L>
+<L>Thoru schrift, thou gert this bischop brek</L>
+<L>The fendes band, and his maistri,</L>
+<L>Wel birs us blis the derworthelye.</L>
+<L>Kep I na langer her to duelle,</L>
+<L>Bot forthi our tal will I telle,</L>
+<L><PB N="85" REF="112"/>
+How this bischop, wit penanz ras</L>
+<L>Out of his sin, thoru Goddes grace.</L>
+<L>Quen this bischop this sin hafd don,</L>
+<L>Our Lauerd send him grace ful son,</L>
+<L>And gert him think wel of his state,</L>
+<L>And son bigan he for to grate,</L>
+<L>And said, allas, that I was borne,</L>
+<L>Schamlic haf I me forlorne,</L>
+<L>Bischop I am, and suld wel lif,</L>
+<L>And god ensampil til other gif,</L>
+<L>And haf swa my sawel schente,</L>
+<L>That I war worthe for to be brente,</L>
+<L>Allas, thate euer was I clerc,</L>
+<L>Qui tok I on me Goddes werc,</L>
+<L>Forsothe Ic am wel mar to blame,</L>
+<L>And for to thol wel mar schame,</L>
+<L>Thanne er thir simpel lawed menne,</L>
+<L>Thaim I suld bathe lere and kenne,</L>
+<L>And now am I wel wer than thaye,</L>
+<L>Ic haf plaied a sorful playe,</L>
+<L>For Ic haf broken Goddes house,</L>
+<L>And reft Ic haf Jesus his spouse,</L>
+<L>Allas, allas, that I was born,</L>
+<L>For al folc mai drife me to schorn,</L>
+<L>How sal I fare on domes daye,</L>
+<L>Quen I salle be flemid awaye</L>
+<L><PB N="86" REF="113"/>
+Fra Goddes faz, til pin of helle,</L>
+<L>Wit outen end tharinne to dwelle.</L>
+<L>Quen he him thoht of helle pin,</L>
+<L>And quat thai thol that er tharin,</L>
+<L>And of that joy that he hafd tinte,</L>
+<L>To sla him self he hafd minte,</L>
+<L>Sa sorful was this erzbischop,</L>
+<L>That almast fel he in wanhop,</L>
+<L>Bot Goddes graz was son redye,</L>
+<L>And wald noht thol him miscarye,</L>
+<L>Bot conforted him wit swetly sware,</L>
+<L>And lethed his soru and his kare,</L>
+<L>And gert him ful son haf god hop,</L>
+<L>That the lestes blodes drop</L>
+<L>Of that ilc derworthi blode,</L>
+<L>That Jesus sched apon the rode,</L>
+<L>Was of wel mar derworthines,</L>
+<L>Than alle men sin of wikednes.</L>
+<L>And son he gan to kalle and krye</L>
+<L>At the yates of mercye.</L>
+<L>He gert graithe him a priue sted,</L>
+<L>Thar he moht lif wit water and brede.</L>
+<L>A pouer hous was son purvaide,</L>
+<L>And pouer atir tharin was layde,</L>
+<L>And thar woned this bischop lange,</L>
+<L>In soru of hert and penanz strange.</L>
+<L><PB N="87" REF="114"/>
+Quen paroschenis com him to,</L>
+<L>Mani nedes wit him to do,</L>
+<L>He gert his serganz til thaim saie,</L>
+<L>That he in Godes bandes laie.</L>
+<L>For he fended the serganz</L>
+<L>That thai suld tel man his penanz.</L>
+<L>This erzebischop lifd thare,</L>
+<L>In strang penanz, and soru, and kare.</L>
+<L>Wit hayr ful hard his bodi he cledde,</L>
+<L>Wit bred and water was he fedde,</L>
+<L>He wroht that bodi wa inohe,</L>
+<L>That him to filth of sin drohe.</L>
+<L>He yald it that it gert him do,</L>
+<L>Wit pin, and reft it rest and ro.</L>
+<L>His foul fleis drohn him to sin,</L>
+<L>Forthi he mad it pouer and thin.</L>
+<L>The lawed folc was iuel payed,</L>
+<L>And for thair bischop gern prayed,</L>
+<L>For thai wend alle that he sek ware,</L>
+<L>And for him was thair hert ful sare.</L>
+<L>Erles, knihtes, and baronnes,</L>
+<L>Prestes, vikers, and parsonnes</L>
+<L>Toht of thair bischop gret ferli,</L>
+<L>And pleined thaim, and askid qui,</L>
+<L>That thai moht noht thair bischop se.</L>
+<L>And wel thai wend that ded war he.</L>
+<L><PB N="88" REF="115"/>
+Sum mananced his durs to brek,</L>
+<L>Bot yef thai moht wit him spek.</L>
+<L>Than wald his chamberlain thaim stille,</L>
+<L>And fair he graunted thaim thair wille,</L>
+<L>He bad thaim in the palays duelle,</L>
+<L>And said he suld his lauerd telle,</L>
+<L>Alle thair langing and thair wille,</L>
+<L>[And ger the byschop come thaim tylle].</L>
+<L>This chamberlain to chamber yode,</L>
+<L>And said his lauerd, wit sari mode,</L>
+<L>Alle quat the folc said him to,</L>
+<L>Bot yef thai moht cum him to.</L>
+<L>And quen the bischop herd this,</L>
+<L>Ful sorful was his hert, I wis,</L>
+<L>He chanded son his ouri wed,</L>
+<L>And forth into the halle he yed.</L>
+<L>The folc saw wel his pouer state,</L>
+<L>And sar for him gan thai grate,</L>
+<L>For wel thai thoht that he was sek,</L>
+<L>For pal and clungen was his chek,</L>
+<L>His skin was klungen to the bane,</L>
+<L>For fleische apon him was thar nane.</L>
+<L>Quen folc wit him thair fille hauid spokin,</L>
+<L>Igain in chamber was he lokin,</L>
+<L>His frendes saw wel bi his faz,</L>
+<L>That he hafd mister of solaz,</L>
+<L><PB N="89" REF="116"/>
+And gert him wel eet and drinc,</L>
+<L>And lef his utrageous swinc;</L>
+<L>Bot ai he thoht apon his sinne,</L>
+<L>That stang his hert ful sar wit inne.</L>
+<L>And quen the laued folc wel herd,</L>
+<L>That thair bischop better ferd,</L>
+<L>Ful fain thai war, and com riht son</L>
+<L>Til him, and askid him a bon;</L>
+<L>That he suld on hey fest day,</L>
+<L>Sing them a messe, gern prayed thai.</L>
+<L>The bischop son him umthoht,</L>
+<L>That sing the mes moht he noht,</L>
+<L>Ar he was scrifen of his sinne,</L>
+<L>That bate his hert sa sar within.</L>
+<L>Bot noht forthi, him was ful lathe</L>
+<L>To wain thaim, or mac thaim wrathe.</L>
+<L>He hiht the folk thair messe to sing,</L>
+<L>And thai war fain of his hihting.</L>
+<L>Bathe ald and yong, and mar and lesse,</L>
+<L>Com for to her the bischop messe,</L>
+<L>Apon a hey fest day,</L>
+<L>For it to her ful fain war thai.</L>
+<L>Quen the bischop to sing was graithed,</L>
+<L>And riche atir on auter laid,</L>
+<L>He stod stille, and bigan to preche,</L>
+<L>Als man that cuthe the folc teche.</L>
+<L><PB N="90" REF="117"/>
+He preched on sa fair maner,</L>
+<L>That it was joi for to her,</L>
+<L>And quen his sermoun ended was,</L>
+<L>The folc wit mikel joi up ras,</L>
+<L>And thankid Jesus in that plaz,</L>
+<L>That gaf thair bischop sli graz.</L>
+<L>Bot he gert thaim sit doun igain,</L>
+<L>And said, you bird be unfain</L>
+<L>Of me, that sulde be your bischop,</L>
+<L>For Ic es werr man than ye hop.</L>
+<L>Ye wen ful wel nou euerilkan,</L>
+<L>That I be a ful hali man,</L>
+<L>And I say you, forsothe, that ye</L>
+<L>Foullic deceuid er of me.</L>
+<L>For me self haf I swa schent,</L>
+<L>That I war worthe for to be brent,</L>
+<L>For Ic am a kaitif lechour,</L>
+<L>And ille man, and Goddes traytour.</L>
+<L>Bifor him al the folc he kald,</L>
+<L>And tille thaim alle his sin he tald.</L>
+<L>Quen he hauid said his sinful ded,</L>
+<L>He kest of him that riche wed,</L>
+<L>That es at sai, his vestement,</L>
+<L>And thoru the folc barfot he went.</L>
+<L>This folc bigan to grat and cry,</L>
+<L>And bad him turn igain in hey.</L>
+<L><PB N="91" REF="118"/>
+Thai said, our Lauerd es ful redi</L>
+<L>To haf of the ful god mercy.</L>
+<L>We wil, thai said, apon us take</L>
+<L>Al thi sin, and al thi wrak.</L>
+<L>Forthi fader, we praye the,</L>
+<L>Thou turne igain, and bischop be.</L>
+<L>Bot moht thair praier noht auail,</L>
+<L>For wald he noht trow thair consail,</L>
+<L>Bot did him forthe, als he wair wode,</L>
+<L>Wit soru, and sit, and dreri mode.</L>
+<L>Awai he ran, and sar he gret,</L>
+<L>And wit a womman son he met,</L>
+<L>That bar a child in hir arm,</L>
+<L>In swethel cloutes liand warm.</L>
+<L>This child was noht and half yer ald,</L>
+<L>And spac, thohquethir, wordes bald</L>
+<L>Til the bischop, and askid qui</L>
+<L>He was sa sorful and sary.</L>
+<L>The child spac thoru the haligaste,</L>
+<L>And bad him turne igain in haste.</L>
+<L>Ga swithe, he said, and fing thi messe,</L>
+<L>For al thi sin forgiuen esse.</L>
+<L>This child spac graytheli wit mouthe,</L>
+<L>Bot thoru kind, spec it ne kouthe.</L>
+<L>Bot thoru mirakel spac he thare,</L>
+<L>And bad the bischop lef his kare,</L>
+<L><PB N="92" REF="119"/>
+And turn igain, als Ic haf said,</L>
+<L>Thar it in noriz arm was laid.</L>
+<L>This bischop flekerid in his thoht,</L>
+<L>For graitheli no wist he noht,</L>
+<L>Hougat this yong child spac him tille,</L>
+<L>Quethir with god gast, or wit ille.</L>
+<L>Forthi wald he noht turne igain,</L>
+<L>No to the childes norz be bain,</L>
+<L>And did him forthe als he war madde,</L>
+<L>For riht repentanz mad him radde.</L>
+<L>And an angel bi wai he mette,</L>
+<L>In mannes fourm, that him grette,</L>
+<L>And said, Godd sendes me to the,</L>
+<L>And biddes the bald and siker be,</L>
+<L>That al thi sin forgiuen isse,</L>
+<L>And biddes the turn and sing thi messe.</L>
+<L>The bischop for, als he war medde,</L>
+<L>And the angel to kirc him ledde,</L>
+<L>And did his vestement him on,</L>
+<L>And gert him sing his messe riht son.</L>
+<L>The bischop wel sang his messe than,</L>
+<L>And sithen bicom a hali man,</L>
+<L>That bathe lered, and lawed said,</L>
+<L>That this auntour was for him laid,</L>
+<L>To ger him better be manne,</L>
+<L>And stither stand igain Satane.</L>
+<L><PB N="93" REF="120"/>
+And bi this tale, mai we se alle,</L>
+<L>That God tholes god men to falle,</L>
+<L>For he wil that they stither rise,</L>
+<L>And be cunnand in his seruise.</L>
+<L>Als oft als man in sin falles,</L>
+<L>Als oft Crist fra sin him calles,</L>
+<L>And biddes him turn, wit swetli sware,</L>
+<L>Fra sinne, and fall tharin no mare.</L>
+<L>And forthi that Crist on slic wis</L>
+<L>Bathe lates us falle, and gers us ris,</L>
+<L>Symeon in our godspel said,</L>
+<L>That Crist to mani man was laid,</L>
+<L>In falling and in rising bathe,</L>
+<L>For Crist lates falle and rise bathe,</L>
+<L>Als we mai bi this bischop se,</L>
+<L>For first he felle, and sithen ras he.</L>
+<L>Prai we till God of heuin forthi,</L>
+<L>That he haf of us mercye</L>
+<L>And yef we fal in any schathe,</L>
+<L>He gif us graz to rise rathe,</L>
+<L>And cum wit him to that blisse,</L>
+<L>That nou this bischop wit him isse.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="121"/>
+<HEAD>In Epiphania Domini secundum Matheum.</HEAD>
+<EPIGRAPH>
+<Q><P>Cum natus esset Iesus in Bethleem Iude, in diebus Herodis regis: Ecce magi ab oriente uenerunt Ierosolyman, dicentes; Vbi est qui natus est rex Iudeorum. Vidimus enim stellam eius in oriente. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">T</SEG>HE tuelft dai fra Cristes birthe</L>
+<L>Bides cristen men mak joy and mirthe,</L>
+<L>For Matheu scheues in our godspelle,</L>
+<L>Quat mensk til Crist als this dai felle.</L>
+<L>He telles us, hou kinges thre,</L>
+<L>Com to Jerusalems cyte,</L>
+<L>And said, the king of Jowes quar es he,</L>
+<L>That nou es born, him seke we.</L>
+<L>We saw a stern in our contre,</L>
+<L>We com wit giftes for to se,</L>
+<L>And for to worschip him als king,</L>
+<L>That schewed us sly takening.</L>
+<L>The king Herod herd this tithand,</L>
+<L>And was tharsor ful ille likand.</L>
+<L><PB N="95" REF="122"/>
+And alle folk of that cyte,</L>
+<L>Toht ferli of thir kinges thre.</L>
+<L>The king Herodes cald in hie</L>
+<L>The Jowes that knew the prophecye,</L>
+<L>And sperid in quat time, and quat cyte,</L>
+<L>That Goddes sun suld born be.</L>
+<L>And thai ansuerd and said, that he</L>
+<L>Suld be born in that cyte,</L>
+<L>That Bedleem was cald in lede,</L>
+<L>And namcouthe born in that thede.</L>
+<L>Thai schewed the king openlye,</L>
+<L>That spac of this thing witerlye.</L>
+<L>Herodes gert calle thir thre kinges,</L>
+<L>And prayed thaim on alle thinges,</L>
+<L>That thai suld gern spire efter Crist,</L>
+<L>And send him word quar was his gist;</L>
+<L>For I wille, he said, tille him come,</L>
+<L>And worschip him als worthi gome.</L>
+<L>And he spired efter that sterne,</L>
+<L>Quar for thai soht him sa gerne.</L>
+<L>Quen he riht tim tharof wist,</L>
+<L>He bad thaim gern spir efter Crist,</L>
+<L>And said, loc ye wit me to say</L>
+<L>Quar ye him find, for than I may</L>
+<L>Com son, and fallen him to bete,</L>
+<L>And him als king wit worschip gret.</L>
+<L><PB N="96" REF="123"/>
+This said Herodes in vaidye,</L>
+<L>For at Crist hauid he gret enuye.</L>
+<L>For he was rad that Crist suld cum,</L>
+<L>And put him out of his kingdom.</L>
+<L>Forthi wald he wit quar he ware,</L>
+<L>And him to sla was he ful yare.</L>
+<L>That was wel sen, quen he gert sla</L>
+<L>Seuin schor thousand childer and ma,</L>
+<L>To fand Cristes walk to felle,</L>
+<L>For imang thaim he wald him quelle.</L>
+<L>But igain Godd, that es sa wise,</L>
+<L>Mai noht awail mannes quaintise.</L>
+<L>Quen Herod hauid said quat he wald,</L>
+<L>Tille thir thre kinges, that war cald,</L>
+<L>On wai thai went, and son thai sawe</L>
+<L>The stern, that thaim the gat gan schawe,</L>
+<L>Ai til it com euenlye</L>
+<L>Thar Crist was abowen, and Marye.</L>
+<L>Thai war ful fain quen thai it sawe,</L>
+<L>And tille that house gan thai drawe.</L>
+<L>Thar Crist satte on his moder kne,</L>
+<L>Redi to kep thair giftes thre.</L>
+<L>Thir kinges com in menskelie,</L>
+<L>And knelid bifor Crist in hie,</L>
+<L>And menskid him wit giftes thre.</L>
+<L>Als anfald Godd in Trinite.</L>
+<L><PB N="97" REF="124"/>
+The first gifte was gold, that isse</L>
+<L>Richest of alle metal, I wisse,</L>
+<L>And bitakenis that Crist was king,</L>
+<L>For king hafs riueli gold in bing.</L>
+<L>The tother gift that thai gaf Crist,</L>
+<L>Was rekelis, for wel thai wiste,</L>
+<L>That rekelis bisend his goddhede,</L>
+<L>Als now shewes hali kirk indede,</L>
+<L>For rekeles rekes upward euin,</L>
+<L>And menskis him that wonis in heuin.</L>
+<L>The thrid gift thai him tok,</L>
+<L>Was a smerlis, als sais the boc,</L>
+<L>That bitter es, and mir is cald,</L>
+<L>And mai the man fra roting hald</L>
+<L>Quen he es ded, forthi es sene</L>
+<L>That thai his dede bi [myrr] wald mene.</L>
+<L>Thai saw wel, him bihoued dreye</L>
+<L>Pyn of bodi, and sithen deye.</L>
+<L>Forthi wit mirr thai schewed thanne,</L>
+<L>That him bihoued dey als manne.</L>
+<L>For al bihoues us passe that pase,</L>
+<L>For dede bathe riche and pouer tase.</L>
+<L>Quen thir ilc thre rihtwis kinges</L>
+<L>Hafd ofred to Crist thir thre thinges,</L>
+<L>A steuin in slep gaf thaim warning,</L>
+<L>That thai suld lef Herod the king,</L>
+<L><PB N="98" REF="125"/>
+And turn ham bi another way</L>
+<L>In to thair land, and sua did thai.</L>
+<L>This es the godspel of todai,</L>
+<L>Als man on Englis telle mai.</L>
+<L>Her on spekes sayn Gregorie,</L>
+<L>And sais the Jowes war unseli,</L>
+<L>That saw ful fel takeninges</L>
+<L>Of Cristes birth, and hou thir kinges</L>
+<L>Thar schewed thaim sa openlye</L>
+<L>Thing that thai saw in prophecy,</L>
+<L>And bar witnes that Crist war cumen,</L>
+<L>And hafd man kind opon him numen.</L>
+<L>And sithen, for al that boc moht sai,</L>
+<L>Igain Crist said the Jowes ai.</L>
+<L>The prophecyes knew thai welle,</L>
+<L>Til thair awen mikel unsele;</L>
+<L>For thai wald nangat trou that sau,</L>
+<L>No Jesus for thair Lauerd knawe.</L>
+<L>Hefen and erthe, and sun and se,</L>
+<L>Bar witnes that cumen was he,</L>
+<L>That suld mannes state amend,</L>
+<L>For heuin and sterne in witnes send,</L>
+<L>That he was cumen that broht us liht</L>
+<L>Into this warld, and makid briht</L>
+<L>The trowthe, that ar was mirk als niht,</L>
+<L>For thoru Crist, trow we nou riht.</L>
+<L><PB N="99" REF="126"/>
+The erthe bar als ful graith witnes</L>
+<L>Igain the Jowes wrangwisnes,</L>
+<L>For it schewed with graithe takening,</L>
+<L>That Crist was Godd of all thing.</L>
+<L>For writen es in hali boc,</L>
+<L>That quen Crist deyed the erthe quoc;</L>
+<L>The sunne bar witnes, for it knew</L>
+<L>That Crist was Godd, quen it witdrew</L>
+<L>The bemis, and was mirk als niht,</L>
+<L>Quen Crist deyed for mannes pliht;</L>
+<L>The se kneu als Crist goddhede,</L>
+<L>And was hard quen he tharon yed;</L>
+<L>And mani ertheli other thing</L>
+<L>Schewed that Crist was Godd and King;</L>
+<L>For roches raf als dos the clay,</L>
+<L>And quic ras rafes that dede laye,</L>
+<L>That tim that Crist was on rode slain,</L>
+<L>And yet war Jowes him igain;</L>
+<L>For wald thai noht thair lesing lette,</L>
+<L>And said that Crist was fals prophete.</L>
+<L>For na takening that thai moht se,</L>
+<L>Wald thai trow that Crist, Godd moht be.</L>
+<L>Bot haythen folc gan goddhed schaw</L>
+<L>In Crist, that Jowes wald noht knaw.</L>
+<L>For als this dai com kinges thre,</L>
+<L>And bar witnes that born was he,</L>
+<L><PB N="100" REF="127"/>
+Of quaim the prophecies was spokin,</L>
+<L>Bot thai wist noht quare he was lokin;</L>
+<L>The sted quare he was born thai soht,</L>
+<L>For of his birth douted thai noht.</L>
+<L>Thir cumly kinges, als we finde,</L>
+<L>War cumen of Balaames kind,</L>
+<L>That lang bifor in prophecye,</L>
+<L>Spac of this stern apertelye,</L>
+<L>And of Cristes birth bathe,</L>
+<L>Quar for the king Balac was wrath.</L>
+<L>Lang war to telle of that storie</L>
+<L>That Balaam spac in prophecie.</L>
+<L>Balam kind was won to wac,</L>
+<L>And wait this stern of quaim he spac,</L>
+<L>For thoru his prophecy thai wist,</L>
+<L>That it suld bring tithand of Crist.</L>
+<L>Forthi was Balaam kind won</L>
+<L>To wak, for ilk man bad his son,</L>
+<L>Quen he war ded, to wak riht gern,</L>
+<L>And faand yef thai moht se the stern.</L>
+<L>And mani hondret winters yed,</L>
+<L>Quil Balaam kin fulfild this ded;</L>
+<L>For faderes to thair sun kend</L>
+<L>To wak ai to thair liues end.</L>
+<L>And on this maner, war thir kinges</L>
+<L>Gret clerkes thoru niht wakinges,</L>
+<L><PB N="101" REF="128"/>
+For thai couthe mikel of that clergi</L>
+<L>That clerkes kalles astronomi,</L>
+<L>That spekes of stern, and sun, and mon,</L>
+<L>And schewes thing that ferr es don.</L>
+<L>Bot of that stern wille I you telle</L>
+<L>Quarof to dai spekis our godspelle.</L>
+<L>Sain Jon wit the gilden mouthe</L>
+<L>Sais us that this stern was selcouthe,</L>
+<L>For it no stud noht up on hey,</L>
+<L>Bot tille thir kinges lan it fley,</L>
+<L>On feld thar thai woc on yol niht,</L>
+<L>And tharin sau thai selcouthe siht,</L>
+<L>A fair child in this stern thai sau,</L>
+<L>That Cristes birth til thaim gan schau,</L>
+<L>And bad thaim sek imang the Jowes,</L>
+<L>A child in quaim es alle uertues.</L>
+<L>For fain war thai of thir tithandes,</L>
+<L>And for feir in to Jowes landes,</L>
+<L>To sek quar Jesus was duelland,</L>
+<L>And thoru this stern thai him fand.</L>
+<L>Nou haf ye herd hou thir thre kinges</L>
+<L>Ofred tille Jesus thre thinges,</L>
+<L>And thohquether war thai haythen men;</L>
+<L>For bi thair ded wil Crist us ken,</L>
+<L>For to mensk him gastelye</L>
+<L>Wit giftes, als thai did bodilye.</L>
+<L><PB N="102" REF="129"/>
+For if we in charite lif,</L>
+<L>God gastly gold to Godd we gif.</L>
+<L>For gold bitakenis charite,</L>
+<L>For na mettal mai better be</L>
+<L>Than gold, for na thing better isse,</L>
+<L>Than charite til mar and lesse.</L>
+<L>For if we haf riht charite,</L>
+<L>Til thaim that er mar than we,</L>
+<L>Tille thaim er we sa lele and holde,</L>
+<L>That our seruis es to thaim golde.</L>
+<L>For yef we do that thai bid us</L>
+<L>In god, than folu we Jesus,</L>
+<L>That tille his fader was bowsom,</L>
+<L>Quen he intil this werld wald com,</L>
+<L>And tholed dede on rode tre,</L>
+<L>To gif ensampel of charite.</L>
+<L>For charite schewed he than</L>
+<L>Bathe tille his fader and til man.</L>
+<L>Til Godd his fader schewed he</L>
+<L>Riht bousomnes, and charite</L>
+<L>Til mankind, that he lufd sua,</L>
+<L>That for man tholid al that wa.</L>
+<L>Forthi bihoues us ilkan</L>
+<L>Haf riht luf til our ouer man,</L>
+<L>And quat god sa he biddes us do,</L>
+<L>Bousom we au to be him to.</L>
+<L><PB N="103" REF="130"/>
+For Cristes bidding we forsac,</L>
+<L>Yef we prelate bidding noht tac,</L>
+<L>Als himself bers god witnes,</L>
+<L>Thar he spekis of bousomnes,</L>
+<L>For sin him seluen moht noht com</L>
+<L>Til heuin, but yef he war bowsom,</L>
+<L>Hou wil we com thar he now es,</L>
+<L>Bot yef we lif in bousomnes,</L>
+<L>Ful lang es euer, lang es euer,</L>
+<L>Bot yef we hon, com we thar neuer.</L>
+<L>Our Lauerd Crist len us the graz,</L>
+<L>To folu in bowsomnes thi traz;</L>
+<L>For charyte tharin we schau</L>
+<L>That we til our prelates au.</L>
+<L>And noht allan til thaim au we</L>
+<L>To haf riht luf and charite,</L>
+<L>Bot bathe tille brother and felau,</L>
+<L>For thaim we au to til and drau</L>
+<L>Wit god ensampil til godnes,</L>
+<L>And snibbe thaim for unbowsomnes,</L>
+<L>And yef thai of our help haf nede,</L>
+<L>We aw to help thaim with our dede,</L>
+<L>And yef thai do misse igain us,</L>
+<L>Forgif we thaim als did Jesus,</L>
+<L>For he hafd charite inoh,</L>
+<L>Quen he forgaf him that him sloh,</L>
+<L><PB N="104" REF="131"/>
+And asked thaim forgifnes,</L>
+<L>To scheu us quat charite es.</L>
+<L>For als he did, bihoues us do,</L>
+<L>For elles cum we noht him to.</L>
+<L>That es at sai, bot we forgif</L>
+<L>Leth, and wreth, quil we her lif,</L>
+<L>We mai noht com thar now es he,</L>
+<L>For thider ledes charite.</L>
+<L>Yef we than in charite lif,</L>
+<L>God gastli gold tille Crist we gif.</L>
+<L>For charite in boc es cald</L>
+<L>Gastly gold, als I you tald.</L>
+<L>Nou haf ye herd wel apertie,</L>
+<L>Quat gold bitakenes gastilye,</L>
+<L>For gold was the first thing</L>
+<L>That kinges gaf til Crist our king.</L>
+<L>The tother gift, als I ar said,</L>
+<L>Er rekeles that on fir er laid,</L>
+<L>And gifs smek that smelles wele,</L>
+<L>And fer men mai the smek fele;</L>
+<L>And sua dos cresten man praier,</L>
+<L>That es to Crist ful lef and der,</L>
+<L>Yef it be laid opon the fire,</L>
+<L>It slakes Goddes wrec and ire.</L>
+<L>This fir calle I charite,</L>
+<L>That brinnand in us au to be.</L>
+<L><PB N="105" REF="132"/>
+It clenses man of sinful lust,</L>
+<L>Als fire clenses iren of rust.</L>
+<L>Opon this fir au we to lai</L>
+<L>Gastli recles, that es at sai,</L>
+<L>God praier, that ful suet smelles,</L>
+<L>And Goddes wreth swages and felles,</L>
+<L>And geres him grant man his bon,</L>
+<L>Haf he neuer sli sin don.</L>
+<L>The thred gift, als I you tald,</L>
+<L>Was mirre, that mannes fles mai hald</L>
+<L>Abowen erthe fra roting,</L>
+<L>And es of penanz graith takening.</L>
+<L>Bot mirre bites, als I said are,</L>
+<L>And penanz bites man ful sare,</L>
+<L>Bot ai the sarer that it bites,</L>
+<L>The clener of sin the man it quites.</L>
+<L>This filth cal I roting of sin,</L>
+<L>That geres the sawel rot wit in.</L>
+<L>This mirr haldes us fra roting,</L>
+<L>That es, fra lust and fra liking.</L>
+<L>Nou haf ye herd of gold gastelye,</L>
+<L>And als of rekeles apertelie,</L>
+<L>And als of mirr, the thrid thing,</L>
+<L>Quarof man mas gasteli offering.</L>
+<L>Do we forthi, als did thir kinges,</L>
+<L>And mensk we Crist wit thir thre thinges.</L>
+<L><PB N="106" REF="133"/>
+Bot folu we first the stern, that ledes</L>
+<L>God men til mirthful medes.</L>
+<L>This stern cal I Godes worde,</L>
+<L>That precheour bringes out of horde,</L>
+<L>That kennes man the riht wai</L>
+<L>Until that joi that lastes ai.</L>
+<L>Our Lauerd Jesus Crist us rede</L>
+<L>To do penanz, and thider us lede.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="134"/>
+<HEAD>Dominica infra Octauam Epiphanie, secundum Lucam.</HEAD>
+<EPIGRAPH>
+<Q><P>Cum factus esset Ihesus annorum xii., Ascendentibus pa∣rentibus ejus in Ierusalem, secundum consuetudinem diei festi, consummatisque diebus, cum redirent, remansit puer Ihesus in Ierusalem, et non cognouerunt parentes. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">T</SEG>HE Jowes woned in ser contre,</L>
+<L>And a cuntre hit Galile,</L>
+<L>And burwis tounes war tharinne,</L>
+<L>Thar Jowes wodes with welth and winne.</L>
+<L>And Mari ledd hir lif with methe,</L>
+<L>In a toun that hiht Nazarethe,</L>
+<L>For thar als hoswif held scho house,</L>
+<L>Wit Josep, hir lele spouse,</L>
+<L>And wit our Lauerd Crist hir son.</L>
+<L>Bot quen tim com, that thai war won</L>
+<L>In to Jerusalem to fare,</L>
+<L>For to mac thair offerand thare,</L>
+<L>Thider thai yod imang thair kithe,</L>
+<L>And led child Jesus thaim withe,</L>
+<L><PB N="108" REF="135"/>
+Quen he wasse tuelf yer ald,</L>
+<L>Als we find in our godspel tald.</L>
+<L>Sain Loc sais in our godspelle,</L>
+<L>That quen thai hauid don that felle</L>
+<L>Til Moyses lauh, ham gan thai ga,</L>
+<L>And child Jesus willed them fra.</L>
+<L>Quen thai him missed, thai him soht</L>
+<L>Imang thair kith, and fand him noht,</L>
+<L>And forthi Josep, and Mari</L>
+<L>War for him sorful and sari.</L>
+<L>Thai turned in to the cite,</L>
+<L>And soht ful gern quar he moht be,</L>
+<L>And in the tempil fand thai</L>
+<L>Child Jesus, on the thrid dai,</L>
+<L>Imang maisteres of the Jowes law,</L>
+<L>That thoht ferlic of Cristes saw.</L>
+<L>For al thoht thaim of him selcouthe,</L>
+<L>For wisdom that com of his mouthe.</L>
+<L>And til hir sun said our Leuedy,</L>
+<L>Sun, qui haues tou mad us sari,</L>
+<L>Ic and thi fader haues the soht</L>
+<L>Karful, bot we no fand the noht.</L>
+<L>And Crist ansuerd and said, quye</L>
+<L>Haf ye soht me sa ithenly,</L>
+<L>Wist ye noht me bihoued in deedes</L>
+<L>Be bisi in mi fader nedes.</L>
+<L><PB N="109" REF="136"/>
+And thai wist neuer quat he ment,</L>
+<L>Bot til his word Mari toc tent,</L>
+<L>And Crist ham wit his frendes went</L>
+<L>Til Nazaret, quarof I ment,</L>
+<L>And underlout til thaim was he,</L>
+<L>Als god child au til elderes be.</L>
+<L>And bath til Godd and man he thraf</L>
+<L>Wit witte and graz, that Godd him gaf.</L>
+<L>This es the strenthe of our godspelle,</L>
+<L>Als man on Ingelis tung may telle.</L>
+<L>On this godspel scheues sain Bede</L>
+<L>Cristes godhed, and his manhede.</L>
+<L>His resoun and his wise thewes,</L>
+<L>That he was Godd, ful graitheli schewes.</L>
+<L>For wise men, als are said I,</L>
+<L>Of his wisdom thot gret ferlye;</L>
+<L>And bi his meknes mai man se,</L>
+<L>That man in felle and flesche was he.</L>
+<L>For he that alle wisdom couthe,</L>
+<L>Herd wisdom mekli of thair mouthe,</L>
+<L>That lesse god couthe than he,</L>
+<L>Forthi bird yong men mek be.</L>
+<L>For Crist was of tuelf winter elde,</L>
+<L>Quen al wisdom was in his weld,</L>
+<L>And thohquether herd he mekeli</L>
+<L>Wisdom of thaim that sat him bi.</L>
+<L><PB N="110" REF="137"/>
+Forthi bird yong men prid forsake,</L>
+<L>And of child Jesus bisen take;</L>
+<L>For mekeli suld thai wisdom here,</L>
+<L>Ar thai suld other men lere.</L>
+<L>Bot nou er yong man sa bald,</L>
+<L>That thai wil lere bathe yong and ald,</L>
+<L>For ar thai kann thaim seluen ken,</L>
+<L>Wil thai wisdom lere other men.</L>
+<L>Fair eld schew thai in thair youthe,</L>
+<L>Wit modi wordes of thair mouthe,</L>
+<L>At Cristes lar wil thai noht lete,</L>
+<L>That sat mekeli at maisters fete,</L>
+<L>And herd mekeli, als I said are,</L>
+<L>Al thair wisdom, that thai spac thare.</L>
+<L>Crist askid wisdom first at wise,</L>
+<L>Ar he wald sai thaim his auise,</L>
+<L>And sua kend he us first to her,</L>
+<L>And sithen other men to lere.</L>
+<L>Bot thar Josep, and Mari fand</L>
+<L>Crist imang wise men sitand,</L>
+<L>Thar mai we graithe ensampel take,</L>
+<L>Unwise felawschip to forsake,</L>
+<L>And hald us imang wise men,</L>
+<L>That kan us wisdom lere and ken.</L>
+<L>For riueli se we him that drawes</L>
+<L>Til recolage of ille felawes,</L>
+<L><PB N="111" REF="138"/>
+Falle als fol in fele folies,</L>
+<L>Be he neuer sa quaint and wise.</L>
+<L>For he mai nangat be lot lese</L>
+<L>Of thair sin, and thair wiknese.</L>
+<L>For qua sa nehe wit hend or slefes</L>
+<L>Hate molten pic, on thaim it cleuis:</L>
+<L>Pik that cleues quen it is tan,</L>
+<L>Bisens deling wit wik man,</L>
+<L>For his sin clefes on god men,</L>
+<L>And mas thaim fouler thanne the Fen:</L>
+<L>And forthi red I that man drawe</L>
+<L>Til hali man, and god felawe,</L>
+<L>That mai amend him of his sake,</L>
+<L>And chasti him, ef he mistake.</L>
+<L>Als did sain Jon the godspeller,</L>
+<L>That for efter a fol ful fer,</L>
+<L>And did awai his dedes dim,</L>
+<L>And mad an hali man of him.</L>
+<L>For thoru il felawes was he</L>
+<L>Mad als ille man als he moht be.</L>
+<L>Bot sain Jon turned him fra sin,</L>
+<L>And gert him hali lif begin,</L>
+<L>Forthi es god that I you telle,</L>
+<L>Hou it of that man liuelad felle,</L>
+<L>For bi him we mai bisen betac</L>
+<L>Ille felawschip for to sorsak.</L>
+<L><PB N="112" REF="139"/>
+Quen hali kirc bigan newli, <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>Sain Jon was sisel, and bisi,</L>
+<L>In ordaining of priestes, and clerkes,</L>
+<L>And in casting kirc werkes.</L>
+<L>And mani bischopes ordainte he,</L>
+<L>Abowen the lawed folc to be.</L>
+<L>And als he com a kirc to se,</L>
+<L>A selcouthe fair child thar saw he,</L>
+<L>Bot noht forthi, that ilke childe</L>
+<L>Was sa unthewed and sa wilde,</L>
+<L>That alle the schathe that he moht do,</L>
+<L>He did quen he bigan to thro.</L>
+<L>And sain Jon hafd gret pite,</L>
+<L>That slic a child suld dampned be.</L>
+<L>Sayn Jon bitaht this ilke childe,</L>
+<L>Til a bischop to mak him mild,</L>
+<L>And said, bischop, I comand the,</L>
+<L>That this tresor wel yemed be;</L>
+<L>Yem this child, for I biteche</L>
+<L>Him to the, als til god leche;</L>
+<L>Lat thou noht this child miscarye,</L>
+<L>For yef he do, til the tac I.</L>
+<L>This bischop tok this child him to,</L>
+<L>And baptized it, and gert him do</L>
+<L>The thing that fel til crestendom.</L>
+<L>Bot ille felawes til him com,</L>
+<L><PB N="113" REF="140"/>
+And droh him first til dronkennes,</L>
+<L>And sithen til lust of his fleys,</L>
+<L>And sithen til thift and robberie,</L>
+<L>And mad his maister ful sarie,</L>
+<L>For that bischop kal Ic his maister,</L>
+<L>Til quaim sain Jon thot him to faister.</L>
+<L>For ille felawes hafd sli maistri</L>
+<L>To tille this yong man to foli,</L>
+<L>That the bischop moht noht him halde,</L>
+<L>Bot leet him gang quar he walde.</L>
+<L>Thir theues war of him ful fain,</L>
+<L>For til thair wille wex he ful bain.</L>
+<L>Sa stithe and stalward man wex he,</L>
+<L>That thai gert him thair maister be,</L>
+<L>And lang he welc wit his felawes,</L>
+<L>And reft lele men in wode schawes.</L>
+<L>And sain Jon com another time,</L>
+<L>And asked his maister efter hime,</L>
+<L>And said, quar es mi tresore,</L>
+<L>Thou ger him swithe com me bifor.</L>
+<L>This bischop stod als he war schent,</L>
+<L>For he wist noht quat sain Jon ment.</L>
+<L>He wend he asked siluer or gold,</L>
+<L>Or uestement of riche fold.</L>
+<L>And forthi til sain Jon said he,</L>
+<L>I wat neuer quat ye ask me.</L>
+<L><PB N="114" REF="141"/>
+And sain Jon said, quare es he,</L>
+<L>That child that I bitaht to the.</L>
+<L>Quen this bifchop his asking herd,</L>
+<L>He gret ful sare, and thus ansuerd,</L>
+<L>Allas, that Ic him euer sau,</L>
+<L>For he es bycomen an outelau.</L>
+<L>And sain Jon gret, and said him tille,</L>
+<L>Allas, qui yemed thou him sa ille.</L>
+<L>Til him hauis thou ille yemer ben,</L>
+<L>For that es on him nou wel sen.</L>
+<L>An hors, he said, ye sadel me,</L>
+<L>For I wille sehe him quar he be.</L>
+<L>And sain Jon fore thar he was,</L>
+<L>And fand him sitand in a pas.</L>
+<L>And quen his felawes sain Jon saw,</L>
+<L>Til him gan thai alle drawe,</L>
+<L>Bot thair maister knew his face,</L>
+<L>And fled ful swithe out of that place.</L>
+<L>Sa mikel scham of him, him thoht,</L>
+<L>That loc on sain Jon moht he noht,</L>
+<L>Bot fled fra him ful fast runnande,</L>
+<L>And sain Jon folued fast calland,</L>
+<L>And said, lef sun, I prai the,</L>
+<L>Thou cum igain, and spec wit me.</L>
+<L>Qui flees thou thi fader qui,</L>
+<L>Al thi sinne on me tak I.</L>
+<L><PB N="115" REF="142"/>
+And at the last, this outlaw stode,</L>
+<L>And loked doun wit dreri mode,</L>
+<L>And sain Jon fel him son to fete,</L>
+<L>And sar bifor him gan he grete.</L>
+<L>And said, son, at mi lare thou lete,</L>
+<L>God forgifnes I the bihete,</L>
+<L>Thi sinnes tak I al on me,</L>
+<L>And I sal prai Godd for the,</L>
+<L>And sikerlic I her the hyte</L>
+<L>God forgifnes of al thi plihte.</L>
+<L>This man fel to sain Jones fete,</L>
+<L>And sar bigan he for to gret,</L>
+<L>And said, I grant wel mi foly,</L>
+<L>Of me fader thou haf mercye.</L>
+<L>He foloued sain Jon to the kirc,</L>
+<L>And hiht him al his wille to werc,</L>
+<L>And was sa god man fra that time,</L>
+<L>That al the folc hafd joy of hime.</L>
+<L>Her mai ye se a tal that schewes,</L>
+<L>That mikel schathe dos il felawes,</L>
+<L>For il felawes oft drawes</L>
+<L>God men til iuel plawes.</L>
+<L>Forthi es god we draw thaim tille,</L>
+<L>That gastly wirkes Goddes wille,</L>
+<L>For Crist in our godspel us schawes</L>
+<L>Ensampel to drau to god felawes.</L>
+<L><PB N="116" REF="143"/>
+For our godspel sais quar and quen,</L>
+<L>Crist was funden imang wis men,</L>
+<L>And noht imang fol felawes,</L>
+<L>That tilles man til plihtful plawes.</L>
+<L>To tel you yet haf I thoht,</L>
+<L>Of tha thre dayes that Crist was soht,</L>
+<L>For gladli wald I it war sen,</L>
+<L>Quat thir thre dayes wald men.</L>
+<L>I tald hou Josep and Marye</L>
+<L>Soht Crist thre daies ythenlye.</L>
+<L>The first dai that thai soht him,</L>
+<L>Bitakes that ilke ald tim,</L>
+<L>That was fra Adam, to that law</L>
+<L>That Godd wald to Moyses schaw,</L>
+<L>In a felle, that than was kald</L>
+<L>Sinay, als in boc es tald.</L>
+<L>For patriarkes in that tim</L>
+<L>Soht Crist, bot thai no fand noht him.</L>
+<L>The tother dai quen Crist was soht,</L>
+<L>Bitakens tim quen lau inbroht</L>
+<L>Knawing of sin, that es at sai,</L>
+<L>Quen lau did unknawing awai.</L>
+<L>For thoru wissing of Goddes law,</L>
+<L>Biganne man sin for to knaw:</L>
+<L>Bifor was thar na pain laid,</L>
+<L>On thaim that mis did, or mis said,</L>
+<L><PB N="117" REF="144"/>
+Bot son quen law til Moyses com,</L>
+<L>It schewed ilke man his dom.</L>
+<L>This tim lasted fra Moyses</L>
+<L>Til Crist, that kend us rihtwisnes.</L>
+<L>And in this tim, was Crist soht</L>
+<L>Wit prophetis gern, bot fand thai noht.</L>
+<L>Bot on the thrid dai was he</L>
+<L>Funden, for nou him find we.</L>
+<L>This tim es nou, and lastes ay,</L>
+<L>Fra Cristes birth to domesday.</L>
+<L>Quen this tim bigan, was Crist funden</L>
+<L>Liggand, in pouer cloutes bunden.</L>
+<L>This thrid tim bisend isse</L>
+<L>Bi that thrid dai, I wisse,</L>
+<L>That Josep and Mari mild</L>
+<L>Fand in the tempel Crist thair child.</L>
+<L>Yet mai we other thinges se</L>
+<L>Riht gastli, bi thir dayes thre,</L>
+<L>That Crist was soht, and on the thrid</L>
+<L>Was he funden, thar he was hid.</L>
+<L>Reuthe of hert for plihtful plai,</L>
+<L>Es bisned bi the first dai.</L>
+<L>And bi the tother, open schrift,</L>
+<L>That geres man his hert uplift.</L>
+<L>And worthi penanz bi the thrid,</L>
+<L>That geres man for Godd be red.</L>
+<L><PB N="118" REF="145"/>
+Yef we seke Jesus wit thir thre,</L>
+<L>In his tempil him find sal we.</L>
+<L>His tempil cal Ic heuin ryke,</L>
+<L>That mai til tempil be mad like,</L>
+<L>For tempil is mikel, lang, and wide,</L>
+<L>And mikel thing man mai thar hide.</L>
+<L>And sua sal be in heuen blis</L>
+<L>God cristen sawles, I wisse,</L>
+<L>Fra Satenas, and al his miht,</L>
+<L>That her was won with him to fiht.</L>
+<L>In that tempil es Jesus king,</L>
+<L>For his merci he thider us bring.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="146"/>
+<HEAD>Dominica prima post Octavam Epiphanie, secundum Iohannem.</HEAD>
+<EPIGRAPH>
+<Q><P>Nuptie facte sunt in Cana Galilee, et erat mater Ihesu ibi. Vocatus est Ihesus et discipuli eius ad nuptias. Et deficiente uino dicit mater Ihesu ad eum; uinum non habent. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">S</SEG>AIN Jon telles us a talle</L>
+<L>In our godspel, of a bridale</L>
+<L>That was maked in a cyte,</L>
+<L>That hiht Cana Galile.</L>
+<L>And our Lefdi Mari was thare,</L>
+<L>And Crist wit his decipeles yare</L>
+<L>War thider cald, and als thai seet,</L>
+<L>Wine wanted thar thai ete.</L>
+<L>And Mari til Crist mad her mane,</L>
+<L>And said, sun, win haf thai nane.</L>
+<L>And Crist ansuerd and said thanne,</L>
+<L>Quat es til me and the, wommane.</L>
+<L>Als qua sai, qui askes thou me</L>
+<L>Mirakel, that I toc noht of the.</L>
+<L><PB N="120" REF="147"/>
+Of the toc I noht bot manhed,</L>
+<L>That mai scheu na mirakel in dede,</L>
+<L>For yef I sal help in this nede,</L>
+<L>Itt bihoues com of mi goddhede,</L>
+<L>And noht of brukel blod and bane,</L>
+<L>That I toc of the, wommane.</L>
+<L>Wit dett mai thou noht ask me,</L>
+<L>Bot manhed that I toc of the.</L>
+<L>Mi tim, he said, com noht yete,</L>
+<L>Als qua sai, bale sal I bete</L>
+<L>Wit mirakel, that I sal schaw,</L>
+<L>And mikel folc fra vantrauth draw.</L>
+<L>Bot min dedes noht forthi</L>
+<L>Bes noht schewed sa hastili,</L>
+<L>Quen tim cumes mi miht to schaw,</L>
+<L>Than sal thou, and ma men it knaw.</L>
+<L>And seruanz war at this bridale,</L>
+<L>That birled win in cupp and schal,</L>
+<L>And Mary bad that thai suld do</L>
+<L>Al that Jesus said thaim to.</L>
+<L>Sex feteles of stan war thar stanand,</L>
+<L>Als than was cumand in the land,</L>
+<L>And Crist bad thaim thir feteles fille</L>
+<L>Wit water, and thai did son his wille,</L>
+<L>And filled thaim of water ilkan,</L>
+<L>And Jesus blisced thaim on an,</L>
+<L><PB N="121" REF="148"/>
+And bad thaim dib thair cuppes alle,</L>
+<L>And ber tille bern best in halle.</L>
+<L>Thai did Crist comandement,</L>
+<L>And bar the wine riht thar he ment.</L>
+<L>This wine tasted that bern balde,</L>
+<L>And til him the bridgom he cald,</L>
+<L>And said, ilc man that makes feste,</L>
+<L>Gifes first forthe the win strangest,</L>
+<L>And sithen quen men dronken ere,</L>
+<L>Than birles he thaim wit waikere;</L>
+<L>For think me ferli that thou,</L>
+<L>Held ai thi best win til nou.</L>
+<L>This was the first mihti dede,</L>
+<L>Quar wit Crist schewed his godhed,</L>
+<L>And euer fra that ilke time,</L>
+<L>His decipeles troued in hime.</L>
+<L>This es the strenthe of our godspelle,</L>
+<L>Als man on Inglis tong mai telle.</L>
+<L>On this godspel spekis sain Bede,</L>
+<L>And lofes Cristes mihti dede;</L>
+<L>And ef Crist paied no ware</L>
+<L>Of matirmoyne, hafed he noht thar</L>
+<L>Cumen to schew thar his goddhede,</L>
+<L>For god lif mai spoused men lede.</L>
+<L>This spousing gasteli schewes us,</L>
+<L>That hali kirc was til Jesus</L>
+<L><PB N="122" REF="149"/>
+Spoused als wif in our Lefdi bodi,</L>
+<L>Of quaim Crist toc fleys us to bi.</L>
+<L>For mannes sawel ess Cristes spouse</L>
+<L>That he sal bring til heuin his house.</L>
+<L>For herof spac God til Adame,</L>
+<L>Quen he him made of erthe and lam,</L>
+<L>And said, fader and moder sal man forsake,</L>
+<L>And til his spoused wif him tac.</L>
+<L>Sua did Crist that this werld forsoc,</L>
+<L>And til mannes sawel him toc.</L>
+<L>He left Josep and Mari bathe,</L>
+<L>And deyed to les our sawel of scathe.</L>
+<L>Than bird our sawel lef other thing,</L>
+<L>And luf Crist hir spous and hir king.</L>
+<L>Hir ald fader bird hir lefe,</L>
+<L>And on hir lemman clep and wete.</L>
+<L>Hir ald fader cal I Adam,</L>
+<L>That broht hir into balful blam.</L>
+<L>Hir bird lef, yef scho war wis,</L>
+<L>Dedes that reft us paradis,</L>
+<L>Als prid and unbowsomnes</L>
+<L>And couaitis that als ill es.</L>
+<L>Thir thre reft Adam paradis,</L>
+<L>Als sais sain Gregori the wis,</L>
+<L>Als nethir mar man find mai</L>
+<L>In Lenten on the first sundai:</L>
+<L><PB N="123" REF="150"/>
+Thar mai man Adam dedes find,</L>
+<L>That flemid him, and al his kind.</L>
+<L>Hir steffader cal I the Fend,</L>
+<L>For igain hir es he unhende;</L>
+<L>For bathe niht and dai he fandes</L>
+<L>For to bring hir in til his bandes.</L>
+<L>And ef our sawel forsac him,</L>
+<L>That es again hir fell and grim,</L>
+<L>Hir bihoues forsac alsua,</L>
+<L>Hir stepmoder that dos hir wa.</L>
+<L>Hir stepmoder es fleys liking,</L>
+<L>That til hir stepfader wil hir bring.</L>
+<L>This fader and this moder bathe,</L>
+<L>Er ay about to do hir schathe.</L>
+<L>Forthi es god that scho thaim lefe,</L>
+<L>And on hir lemman clep and wefe,</L>
+<L>And sai, Jesus, mi fa I fle,</L>
+<L>And til the, lemman, tac I me.</L>
+<L>And ef scho gern opon him crye,</L>
+<L>And luf hir lemman inwardelye,</L>
+<L>Hir lufli lat es win gastlye,</L>
+<L>That Jesus drinkes ful gladlye.</L>
+<L>Bot ef scho gif of him na tale,</L>
+<L>Than wantes wine at hir bridale,</L>
+<L>For al hir lof and hir suetnes,</L>
+<L>In gasteli water turned es,</L>
+<L><PB N="124" REF="151"/>
+That es at sai, til werldes play,</L>
+<L>That als water wites awai.</L>
+<L>Bot Crist wit graz cumes her ine,</L>
+<L>And turnes this water till wine.</L>
+<L>For into wine Crist water turnes,</L>
+<L>Quen sinful man for sin murnes,</L>
+<L>For yef he haf hop of merci,</L>
+<L>And lofes Jesus inwardlye,</L>
+<L>Ic hop that his luf and his swetnes</L>
+<L>God gasteli win in boc cald es.</L>
+<L>This turning was bitakend thar,</L>
+<L>Thar Crist turned, als I said are,</L>
+<L>Water into win wit his miht,</L>
+<L>For water bisenes sin and pliht.</L>
+<L>That was wel sen quen sain Thomas</L>
+<L>Of Canterburi born was;</L>
+<L>His moder dremid that scho sawe,</L>
+<L>Quen sain Thomas was in hir maw,</L>
+<L>Al the mikel water of Temis</L>
+<L>Rin in the bosem of hir kemes:</L>
+<L>Sho tald hir drem til a god man,</L>
+<L>And he undid it sone on an,</L>
+<L>And said, a child es the witin,</L>
+<L>In quaim many il man sal sin,</L>
+<L>For baret sal he thol and wa</L>
+<L>Of sinful caitifes and thra:</L>
+<L><PB N="125" REF="152"/>
+This water flowed gastili,</L>
+<L>Wit eft and nythe and felonny,</L>
+<L>Quen sain Thomas schedd his blod,</L>
+<L>For his luf that boht him on the rod.</L>
+<L>Ye se hou sin and wikkenes</L>
+<L>Bi water gasteli bisen es;</L>
+<L>Forthi ef water be us ine,</L>
+<L>Our Lauerd turn it into wine.</L>
+<L>Gasteli wyn cal I charite,</L>
+<L>Our Lauerd lens us graz that we</L>
+<L>Mai haf it in ur tid and time,</L>
+<L>For this es wine that paies him.</L>
+<L>Lat we this god wyn in us sink,</L>
+<L>And birl we him tharof to drinc;</L>
+<L>For god win til Crist birl we,</L>
+<L>Ai quil we lif in charite.</L>
+<L>Our Lauerd len us that we mai</L>
+<L>Drinc wit him wyn that lastes ai.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="153"/>
+<HEAD>Dominica ii. post Octavam Epiphanie, secundum Matheum.</HEAD>
+<EPIGRAPH>
+<Q><P>Cum descendisset Ihesus de monte, secute sunt eum turbe multe; et ecce leprosus ueniens adorabat eum, dicens: Domine, si uis, potes me mundare: et extendens manum tetigit eum. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">S</SEG>AYN Matheu sais in our godspelle,</L>
+<L>That Crist com dunward of a felle,</L>
+<L>And folc ful fel folued him,</L>
+<L>And a lazer that ilk tim,</L>
+<L>Com and asked Crist his hele,</L>
+<L>Bifor tha fern of folc sa fele.</L>
+<L>And Crist on him his hand he laid,</L>
+<L>And mildelie til him he said,</L>
+<L>I wil mac the of leper clene,</L>
+<L>And sone was na wem on him sene:</L>
+<L>And Crist bad him that he suld hele,</L>
+<L>And sai noht qua gaf him his hele,</L>
+<L>Bot loc, he said, that thou the schaw</L>
+<L>Unto the prest of Moyses law,</L>
+<L><PB N="127" REF="154"/>
+And mac offerand that ber witnes</L>
+<L>Of thin heling, als bad Moyses.</L>
+<L>And Crist went til Chapharnaume,</L>
+<L>And met thar wit a mihti gume,</L>
+<L>That maister was of knihtes fele,</L>
+<L>And praied Crist, that he suld hele</L>
+<L>His sergant of parlesye.</L>
+<L>And Crist said, I sal cum in hie</L>
+<L>Thi seke sergant for to hele.</L>
+<L>And he ansuerd als man ful lele</L>
+<L>And said, Ic am unworthi gom,</L>
+<L>That thou in til min hous suld com,</L>
+<L>Bot witt thi word thou bid him be</L>
+<L>Al hale, and son al hale bes he.</L>
+<L>For Ic am man under pouste,</L>
+<L>And Ic haf knihtes under me,</L>
+<L>And I comand an gang, and he</L>
+<L>Gas, and another cum to me,</L>
+<L>And suithe comes he me to,</L>
+<L>And dos al that I bid him do.</L>
+<L>Als qua sai, I trou wel that thou</L>
+<L>Es almihty and worthi nou,</L>
+<L>Yef thou an lepi word wil say,</L>
+<L>Thi word mi sergant hele maye.</L>
+<L>Quen this man haued said his wille,</L>
+<L>And schewed that Crist moht it fille,</L>
+<L><PB N="128" REF="155"/>
+Of his trouthe thoht Crist ferlie,</L>
+<L>And said til thaim that stod him bie,</L>
+<L>Til you, he said, forsothe I saye,</L>
+<L>That Ic haf walked mani waie</L>
+<L>Imang Jowes, bot fand I nan</L>
+<L>Sa mikel trouthe als in this man:</L>
+<L>Als qua sai, thoh he payen be,</L>
+<L>He hauis mare trouth in me,</L>
+<L>Than Jowes that me for Godd suld knau,</L>
+<L>Als thai find writen in the lau.</L>
+<L>Forthi schaued Crist thar, hou Jowes</L>
+<L>That wald noht trow on his uertues,</L>
+<L>Suld ga for thar wantrauth til pine;</L>
+<L>And payns that trowed him ine,</L>
+<L>Thoru trouth of hali kirc suld wende,</L>
+<L>Until the blis witouten ende.</L>
+<L>And said, mikel folc fra bi weste,</L>
+<L>And fra bi est, sal com and rest</L>
+<L>Wit Abraham and Ysaic,</L>
+<L>And with Jacob, that thaim sal tac</L>
+<L>Into thair felawschip in heuin,</L>
+<L>Quen Satenas sal Jowes quenen</L>
+<L>In ouer mirkenes, thar sare greting</L>
+<L>Sal euer be, with teth gnaisting.</L>
+<L>This es the strenthe of Cristes saw,</L>
+<L>That our godspel today wil schaw.</L>
+<L><PB N="129" REF="156"/>
+Bot noht forthi Crist granted sone,</L>
+<L>Until this comli gom his bon,</L>
+<L>And said thi praier haf I done,</L>
+<L>And thar the her na langer hone,</L>
+<L>And his sergant that cumbered was</L>
+<L>Wit parlesi, al hal he rase.</L>
+<L>Thus endes our godspel to daie,</L>
+<L>Als man on Ingelis telle maye.</L>
+<L>The maister sais on this godspelle,</L>
+<L>That for Crist com doun of this felle,</L>
+<L>This forsaid leprous was made hale,</L>
+<L>And blissfulli bet of his bale;</L>
+<L>Bot ef Crist hafd noht comen doune,</L>
+<L>Hafd he noht hafd his benisoune.</L>
+<L>And herbi wille the maister mene,</L>
+<L>That mankind hafd noht ben mad clen</L>
+<L>Of sin, bot Crist haued comen doun</L>
+<L>Fra heuen, to gif for man ranzoun.</L>
+<L>For man quaim sinne mad unhale,</L>
+<L>Hafd noht ben bette of his bale,</L>
+<L>Bot yef Crist haued til him comen,</L>
+<L>And his seknes opon him nomen,</L>
+<L>And clensed him of leper of sinne,</L>
+<L>That alle mankind was fallen in.</L>
+<L>For riht als leper mas bodi</L>
+<L>Ugli, and lathe, and unherly,</L>
+<L><PB N="130" REF="157"/>
+Sua mas the filth of licheri,</L>
+<L>The sawel ful lath, gastelye,</L>
+<L>And the bolning of priue pride</L>
+<L>Es leper, that na man mai hide.</L>
+<L>And eft and nythe and felounye</L>
+<L>Mai be cald leper gastilie,</L>
+<L>And couaitis of symounye,</L>
+<L>That was wel sen on Gyseye;</L>
+<L>For Gyezi and al his kind,</L>
+<L>Als we in boc of Kinges find,</L>
+<L>Was unhale thoru symonye,</L>
+<L>That mikel spilles nou clergye.</L>
+<L>For it es sin quar wit man bies</L>
+<L>Wit werdes catel prelacyes;</L>
+<L>And thing that Goddes gift suld be,</L>
+<L>For werldes welthe selle we,</L>
+<L>Ai quen we do gastly dede</L>
+<L>For gift, mar than for Goddes mede;</L>
+<L>Als did unthriuand Giezye,</L>
+<L>That wex unhale thoru his gilrye.</L>
+<L>The boc of Kinges telles us, <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>Hou the prophet Heliseus</L>
+<L>Of leper heled an hethen man,</L>
+<L>That mihti was, and hiht Naaman,</L>
+<L>Bot gift of him wald he nan take,</L>
+<L>For him thoht it war sin and sake,</L>
+<L><PB N="131" REF="158"/>
+To sel the gift that Godd him gafe.</L>
+<L>Bot he hafd an unseli knafe,</L>
+<L>That wald gladli katel haue,</L>
+<L>For couaitis til sin him draue,</L>
+<L>For he ran efter Naaman,</L>
+<L>Quen he was fra his maister gan,</L>
+<L>And said, mi maister sendes me</L>
+<L>To tac sum curtaisi of the,</L>
+<L>For frendes er cumen him to,</L>
+<L>And sum god bihoues him thaim do.</L>
+<L>And Naman gaf him robes tua,</L>
+<L>And fair wan of siluer als sua,</L>
+<L>And in his hous he hid ful rathe,</L>
+<L>The siluer and the robes bathe.</L>
+<L>Bot his maister, thoru prophecye,</L>
+<L>Wist al his dede and his gilrye.</L>
+<L>And Gyezi, als noht ne ware,</L>
+<L>Com til hisse maister hous ful yare,</L>
+<L>And his maister asked him son,</L>
+<L>Quethen comes thou, quat hauis thou don:</L>
+<L>And he said, sir, I yod nouther quare.</L>
+<L>And his maister ansuerd him yare,</L>
+<L>And said, I saw ful wel thi thift,</L>
+<L>Of Naaman hauis thou tan gift,</L>
+<L>Forthi that Godd Naaman helid</L>
+<L>Toc thou gift, and sithen it helid,</L>
+<L><PB N="132" REF="159"/>
+Forthi thou, and thi sones ilk ane,</L>
+<L>Sal be mishale als was Naamane.</L>
+<L>And riht als Helyseus hiht,</L>
+<L>Sua fel him for his awen pliht;</L>
+<L>For Giezi, and his offpring,</L>
+<L>Was unhale for this mistaking.</L>
+<L>Toru this resoun es symonye</L>
+<L>Cald leper in hali boc gastlye,</L>
+<L>And this leper, and other ma</L>
+<L>Com Crist in our sawel to sla.</L>
+<L>Mankind of Adam leper haued smitte,</L>
+<L>Ai til Crist com and heled it,</L>
+<L>Riht als he held bodilye,</L>
+<L>This forsaid unhal man in hye,</L>
+<L>Quen he com dounward of the felle,</L>
+<L>Als this dai telles our godspelle.</L>
+<L>Sua helid he gastli mankinne</L>
+<L>That was unhal wit filth of sinne,</L>
+<L>Quen he com doun fra heuen hey,</L>
+<L>To hele man, and for him dey.</L>
+<L>Bot quen Crist com doun of this felle,</L>
+<L>Als to dai telles our godspelle,</L>
+<L>Folc loued him, als I said, ful fele;</L>
+<L>Bot sum loued him for sawel hele,</L>
+<L>Sum his mirakel for to se,</L>
+<L>And sum for luf and charite;</L>
+<L><PB N="133" REF="160"/>
+And he that loues in rihtwisnes,</L>
+<L>Cristes foluer gastlic he es;</L>
+<L>Bot foles fele loues the Fend,</L>
+<L>Quen thai fra sin to sin wende,</L>
+<L>Fra glotonie to licherie,</L>
+<L>Fra couaitis to tricherie,</L>
+<L>This es the Fende wai, that ledes</L>
+<L>Til Satenases brinnand gledes.</L>
+<L>Bot he that liues in charite,</L>
+<L>Crist himseluen folues he;</L>
+<L>And yef we folu Jesu Crist,</L>
+<L>He ledes us til his biwist,</L>
+<L>Thar we sal lif in gamen and plai,</L>
+<L>Wit outen ten, wit outen trai.</L>
+<L>Our Lauerd Jesu Crist us spede</L>
+<L>To do penanz, and thider us lede.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="161"/>
+<HEAD>Dominica iii. post Octavam Epiphanie, secundum Matheum.</HEAD>
+<EPIGRAPH>
+<Q><P>Ascendente Ihesu in naviculam secuti sunt eum discipuli eius; et ecce motus magnus factus est in mari ita ut navicula operiretur fluctibus. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">S</SEG>AIN Matheu the wangeliste</L>
+<L>Telles us todai, hou Crist</L>
+<L>Schipped into the se a time,</L>
+<L>And his decipelis al wit him.</L>
+<L>And quen thair schip com on dep,</L>
+<L>Jesu seluen fel on slep,</L>
+<L>And gret tempest bigan to rise,</L>
+<L>That gert the schipmen sar grise.</L>
+<L>Thai wakned Crist, and said yare,</L>
+<L>Help us Lauerd, for we sofare.</L>
+<L>And Crist, als mihti Godd, ansuerd</L>
+<L>And said, foles qui er ye fered;</L>
+<L>Als qua sai, Godd es in this schip</L>
+<L>That mai wel saue this felauschip.</L>
+<L><PB N="135" REF="162"/>
+And Crist comanded wind and se</L>
+<L>To lethe, and fair weder be.</L>
+<L>And sa fair weder was in hie,</L>
+<L>That al his felaues thoht ferlie,</L>
+<L>And said, quatkin man mai this be,</L>
+<L>Til him bues bathe winde and se.</L>
+<L>This es the strenthe of our godspelle</L>
+<L>Als man on Ingelis tong mai telle.</L>
+<L>Al hali kirc, als thinc me,</L>
+<L>Mai bi this schippe takened be,</L>
+<L>That Crist rad in and his felawes,</L>
+<L>Imang dintes of gret quawes.</L>
+<L>For schip fletes ou the flode,</L>
+<L>And hali kirc wit costes gode,</L>
+<L>Fletes abouen this werldes se,</L>
+<L>Flouand wit sin and caitifte;</L>
+<L>God cresten men er hali kirc,</L>
+<L>That Goddes wil wille gladli werc.</L>
+<L>This schip ful gret wawes kepes,</L>
+<L>And Crist tharin gasteli slepes,</L>
+<L>Quen he tholes god men and lele,</L>
+<L>Wit wic men and fals dele,</L>
+<L>That betes thaim wit dede and word</L>
+<L>Als se bare betes on schip bord.</L>
+<L>For wit ensampel, mai we se</L>
+<L>That al this werld es bot a se,</L>
+<L><PB N="136" REF="163"/>
+That bremli bares on banc wit bale,</L>
+<L>And gret fisches etes the smale.</L>
+<L>For riche men of this werd etes,</L>
+<L>That pouer wit thair trauail getes.</L>
+<L>For wit pouer men fares the king,</L>
+<L>Riht als the quale fars wit the elringe,</L>
+<L>And riht als sturioun etes merling,</L>
+<L>And lobbekeling etes sperling,</L>
+<L>Sua stroies mare men the lesse,</L>
+<L>Wit wa and werldes wrangwisnes,</L>
+<L>And schathe that lesse tholes of mare</L>
+<L>Smites als storm of se ful sare.</L>
+<L>And forthi that Crist tholes this,</L>
+<L>Ite sembeles that he slepand is;</L>
+<L>Bot thai that thol thir strange stowres,</L>
+<L>Thai waken Crist and askes socoures</L>
+<L>Wit orisoun, that es prayer,</L>
+<L>That wakenes Crist, and gers him her</L>
+<L>Al thair wandreth and thair wrake,</L>
+<L>And wit his miht he geres it slake.</L>
+<L>For rihtwis cristen man praier</L>
+<L>Es til Jesus sa lef and dere,</L>
+<L>That quat sa euer we ask tharin,</L>
+<L>And we be out of dedeli sin,</L>
+<L>Our Lauerd granntes it us son,</L>
+<L>Yef sawel hel be in our bon.</L>
+<L><PB N="137" REF="164"/>
+For yef we prai God that he</L>
+<L>Grant that igain our sawel be,</L>
+<L>Us au to thinc na ferlye</L>
+<L>Thoh Godd it warnes ouertlye.</L>
+<L>For bi ensampel mai we se</L>
+<L>That praier mai unschilful be;</L>
+<L>Als ef thou prai Godd that he</L>
+<L>Apon thi fais venge the,</L>
+<L>Thi praier es igain his wille,</L>
+<L>Forthi wil he it noht fulfille;</L>
+<L>Or yef thou prai efter catele,</L>
+<L>That es igain thi sawel hele;</L>
+<L>Or efter werdes mensc and miht,</L>
+<L>That geres foles fal in pliht;</L>
+<L>Or ef thou praye him that he leche</L>
+<L>Thi fandinges, and thi wandrethe,</L>
+<L>That dos in to the sawel gode,</L>
+<L>Yef thou it thol wit milde mode;</L>
+<L>Wit resoun mai thou Godd noht wite,</L>
+<L>Yef he the silc askinges nite,</L>
+<L>For yef he graunt the thi schathe,</L>
+<L>Thou war noht lef til him, bot lathe.</L>
+<L>Forthi es godd that we him praye</L>
+<L>Thing that our sawel hele mai;</L>
+<L>For ar we bigin our prayer,</L>
+<L>Wat he quarof we haf mister.</L>
+<L><PB N="138" REF="165"/>
+Bot for our godspel spekes of se,</L>
+<L>Quarbi this werld mai bisend be,</L>
+<L>Forthi wil I schaw other thinges,</L>
+<L>That er apert biseninges,</L>
+<L>Bituixe this wlanc werld and se,</L>
+<L>This werldes welth to do fle.</L>
+<L>Bi salte water of the se,</L>
+<L>Ful gratheli mai bisend be</L>
+<L>This werldes welth, auht, and catel,</L>
+<L>That werdes men lufes ful wel,</L>
+<L>For salte water geres men threst,</L>
+<L>And werdes catel geres men brest.</L>
+<L>The mar thou drinkes of the se,</L>
+<L>The mare and mar threstes ye;</L>
+<L>And ai the richer that man esse,</L>
+<L>The mar him langes efter riches.</L>
+<L>And in se dronkenes folc ful fele,</L>
+<L>And sua dos in werdes catele;</L>
+<L>For water drunkenes the bodie,</L>
+<L>And catel the sawel gastelie;</L>
+<L>For catel drawes man til helle,</L>
+<L>Thar wattri wormes er ful felle,</L>
+<L>And of thir wormes wil I telle</L>
+<L>A tal, yef ye wil her mi spelle.</L>
+<L>An hali man biyond se, <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>Was bischop of a gret cite;</L>
+<L><PB N="139" REF="166"/>
+God man he was, and Pers he hiht,</L>
+<L>And thar bisyd woned a kniht,</L>
+<L>That thoru kind was bond and thralle,</L>
+<L>Bot knihthed gat he wit catelle.</L>
+<L>This catel gat he wit okering,</L>
+<L>And led al his lif in corsing,</L>
+<L>For he haunted bathe dai and niht</L>
+<L>His okering, sine he was kniht,</L>
+<L>Als fast as he did bifore,</L>
+<L>And tharwit gat he gret tresore.</L>
+<L>Bot Crist that boht us der wit pine,</L>
+<L>Wald noht this mannes sawel tine,</L>
+<L>Bot gaf him graz himself to knaw,</L>
+<L>And his sin to the bischop schaw.</L>
+<L>Quen he him schraf at this bischop,</L>
+<L>This bischop bad him haf god hop,</L>
+<L>And asked him, yef he walde tac</L>
+<L>Riht penanz, for his sinful sac.</L>
+<L>Ful gladli wil I tac, he said,</L>
+<L>The penanz that bes on me laid;</L>
+<L>And the bischop said, thou sal mete</L>
+<L>A beggar gangand by the strete,</L>
+<L>And quat als euer he askes the,</L>
+<L>Gif him, this sal thi penanz be.</L>
+<L>And ful wel paid was this kniht,</L>
+<L>For him thoht his penanz ful liht.</L>
+<L><PB N="140" REF="167"/>
+And als he for hamward, he mette</L>
+<L>A beggar that him cumly grette,</L>
+<L>And said, lef sir, par charite,</L>
+<L>Wit sum almous thou help me.</L>
+<L>This kniht asked quat he wald haf;</L>
+<L>Lauerd, he said, sum quet I craue.</L>
+<L>Hou mikel, he said, askes thou me;</L>
+<L>A quarter lauerd, par charite.</L>
+<L>This kniht granted him his bone,</L>
+<L>And gert met him his corn sone.</L>
+<L>This pouer man was will of wan,</L>
+<L>For poc no sek no hauid he nan,</L>
+<L>Quarin he moht this quete do;</L>
+<L>And forthi this kniht said him to,</L>
+<L>This quete, I rede thou selle me,</L>
+<L>For ful pouer me thinc the.</L>
+<L>The pouer said, layth thinc me</L>
+<L>To selle Goddes charite,</L>
+<L>Bot len me sum fetel tharto,</L>
+<L>Quarin I mai thin almous do.</L>
+<L>And he ansuered and said, nai,</L>
+<L>For al that this beggar moht sai,</L>
+<L>And said, this thou selle me,</L>
+<L>For fetil wil I nan len the.</L>
+<L>The beggar moht na better do,</L>
+<L>Bot sald this corn igain him to,</L>
+<L><PB N="141" REF="168"/>
+And toc thar for fif schilling,</L>
+<L>And went him forthe on his begging.</L>
+<L>Quen this corn to the kniht was sald,</L>
+<L>He did it in an arc to hald,</L>
+<L>And opened this arc the thrid daye,</L>
+<L>And fand tharin, selcouthe to saye,</L>
+<L>Snakes and nederes thar he fand,</L>
+<L>And gret blac tades gangand,</L>
+<L>And arskes and other wormes felle,</L>
+<L>That I kan noht on Inglis telle.</L>
+<L>Thai lep upward til his visage,</L>
+<L>And gert him almast fal in rage.</L>
+<L>Sa was he for thir wormes ferde,</L>
+<L>Bot noht forthi that arc he speride,</L>
+<L>And to the bischope in a ras</L>
+<L>He ran, and tald him his cas.</L>
+<L>The bischop sau that Godd wald tak</L>
+<L>Of this man sin wrethful wrac.</L>
+<L>And said, yef thou wil folfille</L>
+<L>Wit worthi penanz, Goddes wille,</L>
+<L>And clens wit penanz riht worthi,</L>
+<L>Al thi sinnes and thi foli,</L>
+<L>I red that thou self the falle</L>
+<L>Nakid, imang tha wormes alle,</L>
+<L>No gif thou of the self na tale,</L>
+<L>Bot bring thi sawel out of bale.</L>
+<L><PB N="142" REF="169"/>
+Thoh tha wormes thi caroin gnawe,</L>
+<L>Thi pynes lastes bot a thrawe;</L>
+<L>And than sal thi sawel wende</L>
+<L>To lif of blis, witouten ende.</L>
+<L>This okerer was selli radde,</L>
+<L>To do that this bischop him badde,</L>
+<L>Bot of mercy haft he god hop,</L>
+<L>And gern he prayd the bischop,</L>
+<L>And said, lef fader, I prai the,</L>
+<L>That thou prai inwardli for me,</L>
+<L>That God gif me his graz to fang</L>
+<L>One my bodi, this penanz strang.</L>
+<L>The bischop hiht this man lelye,</L>
+<L>To prai for him riht inwardlye.</L>
+<L>This man went ham thoh he war rad,</L>
+<L>And did als his bischop him badde;</L>
+<L>For imang al thir wormes snelle,</L>
+<L>Als nakid als he was born he felle.</L>
+<L>Thir wormes ete that wrethe manne,</L>
+<L>And left nathing of him bot ban.</L>
+<L>The bischop went in to that toun,</L>
+<L>Wit clerkes in processioun,</L>
+<L>And come into this knihtes wanes,</L>
+<L>And soht ful gern his hali banes;</L>
+<L>And til this forsaid arc he yod,</L>
+<L>And opened it wit joiful mod,</L>
+<L><PB N="143" REF="170"/>
+And riped imang tha wormes lathe,</L>
+<L>Bot nan of thaim moht do him schathe,</L>
+<L>And forthe he gan tha banes draw,</L>
+<L>And thai war als quite als snaw.</L>
+<L>Quen al tha banes out tan ware,</L>
+<L>Tha wormes gert he brin ful yare,</L>
+<L>And bar thir bannes menskelye,</L>
+<L>And fertered thaim at a nunrye;</L>
+<L>Thar Godd schewes mirakelle and miht,</L>
+<L>And gifes blind men thar siht,</L>
+<L>And croked men thar geres he ga,</L>
+<L>And leches seke men of wa,</L>
+<L>And schewes wel wit fair ferlikes,</L>
+<L>That thas banes er god relikes.</L>
+<L>This tal haf I nou tald here,</L>
+<L>To ger you se on quat maner,</L>
+<L>That the mar catel that man haues,</L>
+<L>The mar and mare his hert craues;</L>
+<L>And namlic thir okerers,</L>
+<L>That er cursed for thair aferes;</L>
+<L>Bot yef thai her thair lif amend,</L>
+<L>Thai wend til wormes witouten end,</L>
+<L>That sal thaim reuli rif and rend</L>
+<L>In helle pine witouten end,</L>
+<L>That wist this bischop witerlye,</L>
+<L>And forthi did he quaintelye,</L>
+<L><PB N="144" REF="171"/>
+Quen he gert wormes ete this man,</L>
+<L>To yem his sawel fra Satan.</L>
+<L>For wormes suld his sawel haf rended,</L>
+<L>Quar sa euer it suld haf lended,</L>
+<L>Yef he no hauid wel ben scriuen,</L>
+<L>And his caroin til wormes giuen.</L>
+<L>Bot for his fleis was pined here,</L>
+<L>His sawel es now til Godd ful dere,</L>
+<L>Thar it wones in plai and gamen,</L>
+<L>Godd bring us thider alle samen.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="172"/>
+<HEAD>Dominica iiii. post Octavam Epiphanie, secundum Matheum.</HEAD>
+<EPIGRAPH>
+<Q><P>Dixit Iesus discipulis suis; Simile est regnum celorum homini qui seminauit bonum semen in agro suo. Cum autem dormirent homines, uenit inimicus eius et super seminauit. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">T</SEG>IL his decipeles said Jesus,</L>
+<L>Als Sain Matheu her telles us,</L>
+<L>Heuen es lic til an husband,</L>
+<L>That seu god sed apon his land,</L>
+<L>And quen al folc on slep ware,</L>
+<L>Than com his fa, and seu riht thare</L>
+<L>Darnel, that es an iuel wede,</L>
+<L>Riht al imang this hosband sede:</L>
+<L>And quen this sede quarof I mene,</L>
+<L>Was hey abouen the erthe sene,</L>
+<L>Than was thar darnel sen imang,</L>
+<L>That thoht this hosband hine ful strang.</L>
+<L>Thir hyne said til this hosband,</L>
+<L>Seu thou noht god sed on thi land,</L>
+<L><PB N="146" REF="173"/>
+Quethen com darnel that es sen</L>
+<L>Imang thi corn nou albiden.</L>
+<L>This hosband ansuerd thaim sone</L>
+<L>And said, mi fa this ded haues done.</L>
+<L>Thai asked him yef he wald thaye</L>
+<L>Suld draw it op and do it awaye.</L>
+<L>And he ansuerd and said naye,</L>
+<L>For suagat spil mi corn ye maye,</L>
+<L>Yef ye draw up the darnel smalle,</L>
+<L>Ye mai draw up the corn witalle,</L>
+<L>Bot lates it til heruest stande,</L>
+<L>And I sal say til men scherande,</L>
+<L>Gaderes the darnel first in bande,</L>
+<L>And brennes it opon the land,</L>
+<L>And scheres sithen the corn rathe,</L>
+<L>And bringes it unto my lathe.</L>
+<L>This es the strenthe of our godspelle,</L>
+<L>Als man on Ingelis tung mai telle.</L>
+<L>We mai wel gastli understande,</L>
+<L>Godd almihti bi this hosbande,</L>
+<L>For Godd schawes in mennes hertes</L>
+<L>His graz, that thaim til godnes ertes;</L>
+<L>For Goddes graz es gastly sede,</L>
+<L>That beres froyt of rihtwis dede,</L>
+<L>And other sede our Lauerd sawes,</L>
+<L>That cresten men til god lif drawes,</L>
+<L><PB N="147" REF="174"/>
+Quen he sendes his messageres,</L>
+<L>That es at sai, thir sarmouneres,</L>
+<L>That clenses man of gastli wede,</L>
+<L>And schawes in him Goddes sede;</L>
+<L>For quen thai snib us of misdedes,</L>
+<L>Than clenses thai us of gastli wedes;</L>
+<L>And quen thai scheu us heuenes mede,</L>
+<L>Than sau thai in us Goddes sede.</L>
+<L>This es the sede that gastli springes,</L>
+<L>And froyt of god werkes forthe bringes;</L>
+<L>For it bringes forth charite,</L>
+<L>And bousomnes, and chastite,</L>
+<L>And riht penanz, wit almous dedes,</L>
+<L>That into the blis of heuen ledes.</L>
+<L>Bot Satenas es Cristes fa,</L>
+<L>And waites ay to do us wa.</L>
+<L>He sawes imang Goddes sede</L>
+<L>In mannes hert darnel and wede,</L>
+<L>That geres men oft and mani sithe,</L>
+<L>In dedes wic costes kithe,</L>
+<L>For sede of darnel geres men wed,</L>
+<L>And swa dos that unseli wede,</L>
+<L>That Satan saues in our hertes,</L>
+<L>For us to wekkednes it ertes;</L>
+<L>Of this waful sede springes wrethe,</L>
+<L>And prid, and nithe, and brother lethe.</L>
+<L><PB N="148" REF="175"/>
+And couaitys, and tricherie,</L>
+<L>And glotounye, and licherye.</L>
+<L>And of this sede that Satan sawes, <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>A god tal sain Jerom us schawes,</L>
+<L>Of an ermyt, an hali man,</L>
+<L>That woned in wasti bi him an;</L>
+<L>And als he in his celle sate,</L>
+<L>He saw a fend ga bi the gate,</L>
+<L>And boystes on himsele he bare,</L>
+<L>And ampolies, als leche ware:</L>
+<L>And thar biside was an abbaye,</L>
+<L>And thiderward he toc the waye.</L>
+<L>That hali man that saw this fende,</L>
+<L>Asked him quider he wald wende.</L>
+<L>Til yon abbaye, he said, I gang,</L>
+<L>For thethen haf I ben to lang.</L>
+<L>And this ermyt thoht gret ferlye</L>
+<L>Of thir boystes, and asked qui</L>
+<L>He bar on him tha boystes alle.</L>
+<L>With thaim, he said, housel I salle</L>
+<L>Al the brother of yon abbaye,</L>
+<L>For wit thaim wille I fand to playe,</L>
+<L>And qua sa a medicin forsake,</L>
+<L>Another sal I ger him take;</L>
+<L>Yef he wil noht of glotounye,</L>
+<L>I sal him housel wit enuye,</L>
+<L><PB N="149" REF="176"/>
+Or with sum other specerye,</L>
+<L>Of prid and nith and felonnye,</L>
+<L>Or wit sum other lufli drinc,</L>
+<L>That may ger him of sin thinc.</L>
+<L>This ermet leet that fend ga,</L>
+<L>And bad him com igain riht swa,</L>
+<L>And prayed Godd help in that nede,</L>
+<L>And lett that fend in al his dede.</L>
+<L>This fend in til that abbay yede,</L>
+<L>And faand yef he moht oht spede.</L>
+<L>Quen he haued don al that he moht,</L>
+<L>And sau that his dede litel doht,</L>
+<L>And com igain bi this ermite,</L>
+<L>Wit waful cher and soru and site,</L>
+<L>This ermit asked him fol son,</L>
+<L>Hou hauis thou sped, hou hauis thou don.</L>
+<L>And he said, Ic haf sped ful ille,</L>
+<L>For nan of thaim wille do mi wille,</L>
+<L>[Thar] wald nan of thaim mi lare liste,</L>
+<L>Bot an that hatte Teocist,</L>
+<L>For I find him redi to do</L>
+<L>Mi wil, ay quen I com him to.</L>
+<L>Quen this was said, he went away,</L>
+<L>And this ermit yod to the abbay.</L>
+<L>The monkes com al him igaine,</L>
+<L>For of his com thai was ful fayne.</L>
+<L><PB N="150" REF="177"/>
+He asked efter Teocist,</L>
+<L>And thai kend him til his biwist;</L>
+<L>For ilkan woned in sere celle,</L>
+<L>Als it than til thair order felle.</L>
+<L>Wit Teocist this ermit mette,</L>
+<L>And aither other comly grette.</L>
+<L>This ermyt asked yef he war oht</L>
+<L>Fanded wit fleis liking in thoht,</L>
+<L>And he ansuered and said, naye,</L>
+<L>For him thoht lathe the soth to saye.</L>
+<L>And this ermyt ansuerd him thanne,</L>
+<L>And said, Ic am a wel ald mane,</L>
+<L>And thohquethir noht a day til ende,</L>
+<L>Mai I mi fleis fra fanding fende;</L>
+<L>Hou may thou than be in thi youthe</L>
+<L>Wit fleysly fanding sa uncouthe.</L>
+<L>Thusgat spac this ermyt him tille,</L>
+<L>To ger him schaw his thohtes ille;</L>
+<L>And Teocist asked mercye,</L>
+<L>And said, lef fader sua am I</L>
+<L>Sua hard fandede witt licherye,</L>
+<L>That my fleys may I noht chastye.</L>
+<L>This ermyt kend him than hou he</L>
+<L>Suld stithe igain Satanas be;</L>
+<L>And quen this monc was broht in state,</L>
+<L>This ermyt toc hamward the gate,</L>
+<L><PB N="151" REF="178"/>
+And son tharefter eft he sawe</L>
+<L>The Fend tilward that abbay draw;</L>
+<L>And sone efter com he igain,</L>
+<L>And this ermyt bigan to frain</L>
+<L>At Satenas, hou he hafd spedde,</L>
+<L>And he ansuered als he war medde,</L>
+<L>And said, allas and wailewaye</L>
+<L>That euer I com at you abbaye,</L>
+<L>For in na chaffar may I winne,</L>
+<L>Of tha lurdanes that won tharinne,</L>
+<L>For likes nan of thaim my play,</L>
+<L>Bot alle thar kache me away.</L>
+<L>In thaim part may I haf nan,</L>
+<L>For al the craftes that I kan,</L>
+<L>For Teocist that me was left,</L>
+<L>Es nou ful schamli fra me reft;</L>
+<L>To me was he won to be bain,</L>
+<L>Nou es he stithest me igain,</L>
+<L>Forthi I se that me no chare,</L>
+<L>Til ward yon abbay founde mare.</L>
+<L>This ermit lofad Godde almihtye,</L>
+<L>That mad the Fendes craft emptye.</L>
+<L>This tal ful openly us schawes</L>
+<L>Quat sed of helle the Fend sawes.</L>
+<L>Pray we forthi that Godd us reede,</L>
+<L>And child us fra the Fendes seede,</L>
+<L><PB N="152" REF="179"/>
+That he no haf miht us to tele</L>
+<L>With gastly dranc and wit darnele.</L>
+<L>For sed that Satan in man sawes,</L>
+<L>Thair fleys til lust and liking drawes.</L>
+<L>Our Lauerd schild us fra that sede,</L>
+<L>And len us sa our lif to lede,</L>
+<L>That we may gastli froyt forthe bring,</L>
+<L>On domesday bifor our king,</L>
+<L>That wic men fra god sal schille,</L>
+<L>And cal the god men him tille,</L>
+<L>And send the wik to tac thair hire,</L>
+<L>For thair froit tille helle fire;</L>
+<L>Bot god men sal Crist than lede,</L>
+<L>Til hefenes blis to tak thar mede.</L>
+<L>Our Lauerd Jesus thider us bring,</L>
+<L>Amen, amen, we alle sing.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+<DIV1 TYPE="verse homily">
+<PB REF="180"/>
+<HEAD>In Purificationem Beate Marie, secundum Lucam.</HEAD>
+<EPIGRAPH>
+<Q><P>Postquam impleti sunt dies purgacionis Marie secundum legem Moysy, tulerunt illum in Ierusalem, ut sisterent eum Domino, sicut scriptum est in lege Domini: Quia omne mas∣culinum adaperiens wuluam, sanctum Domino. et cetera.</P></Q>
+</EPIGRAPH>
+<LG>
+<L><SEG REND="decorInit">I</SEG>N hali boc find we</L>
+<L>That this dai hafes names thre;</L>
+<L>The first es cald Maries clensing,</L>
+<L>The tother es cald Cristes meeting,</L>
+<L>The third es cald Candelmesse day,</L>
+<L>Als lawed folc it calles ay.</L>
+<L>Candel that we to kirc bring</L>
+<L>Bitakenes Jesu Crist our king;</L>
+<L>For Crist was offered als to daye,</L>
+<L>Als I you sal nou son saye.</L>
+<L>And riht als ilke man mai se</L>
+<L>In brinnand candel thinges thre,</L>
+<L>That es at say, wax, wec, and liht,</L>
+<L>Sua es in Crist goddhed and miht,</L>
+<L><PB N="154" REF="181"/>
+And tharto sawel and bodie,</L>
+<L>That er bisened apertelye</L>
+<L>Bi candel, quar in we mai se</L>
+<L>Wax, wec, liht, that er thinges thre.</L>
+<L>For riht als candel haues liht,</L>
+<L>Sua haued Crist in him Goddes miht;</L>
+<L>For liht bitakenis his goddhede,</L>
+<L>Als we ful oft in bokes rede;</L>
+<L>Rob wec that in wax loken esse,</L>
+<L>Cristes sawel bitaken esse,</L>
+<L>That was loken and hidde in fleys,</L>
+<L>For fleys es brokel als wax, and neys.</L>
+<L>We ber to dai thoru this resoun,</L>
+<L>Our candel in processioune,</L>
+<L>And bi this resoun es wel sene</L>
+<L>That this nam Candelmes wil mene.</L>
+<L>The other nam als ar said I,</L>
+<L>Es cald clensing of our Lefdye,</L>
+<L>And thohquethir hafd scho na mister</L>
+<L>To be clensed on slic maner,</L>
+<L>Bot for scho wald forfille the lawe,</L>
+<L>And mekenes in hir dedes schawe,</L>
+<L>Forthi com scho this dai to do</L>
+<L>For hir clensing that felle tharto.</L>
+<L>For it was comanded in the law</L>
+<L>That wif fra kirc hir sold witdraw,</L>
+<L><PB N="155" REF="182"/>
+The faurty dayes al bidene,</L>
+<L>Sua lang was scho halden unclen,</L>
+<L>Efter that scho deliuered ware</L>
+<L>Of knaf child, and thanne ful yare</L>
+<L>Quen faurty dawes wer broht til ende,</L>
+<L>Than sold scho to the tempel wende</L>
+<L>Wit hir child, and hir hosbande,</L>
+<L>To mak thar for this child offerande;</L>
+<L>And yef thaie riht riche men ware,</L>
+<L>Thai suld offer a lamb riht thare,</L>
+<L>Yef thai war pouer, than suld thay</L>
+<L>Offer opon this clensing day</L>
+<L>Tua turteles, or tua douf briddes,</L>
+<L>Als Godd in Moyses law biddes;</L>
+<L>And for Crist com noht for to spille</L>
+<L>The alde lawe, bot it fulfille,</L>
+<L>Forthi com his moder to day,</L>
+<L>To do that fel to Jowes lay,</L>
+<L>And thoru resoun of this thing,</L>
+<L>Es this dai cald Maryes clensing.</L>
+<L>Nou haf we herd quar for and qui</L>
+<L>This fest hatte clensing of Mary.</L>
+<L>The first nam es Candelmesse,</L>
+<L>The tother Maryes clensing esse,</L>
+<L>The thred Cristes meting es cald,</L>
+<L>Als our godspel to dai us tald.</L>
+<L><PB N="156" REF="183"/>
+It sais hou Crist als this [day] mette</L>
+<L>Wit tua men, that him comly grette,</L>
+<L>The tan was man, the tother wif,</L>
+<L>Bot bathe thai ledde ful hali lif:</L>
+<L>For he was prest in Jowes laye,</L>
+<L>And scho lele widow many daye;</L>
+<L>And Simeon hiht the carmanne,</L>
+<L>And the womman was cald dam Anne,</L>
+<L>Scho wist thoru gast of prophecye,</L>
+<L>That Godd suld send his son in hye,</L>
+<L>Mankind nede for to do,</L>
+<L>And Cristes com lang habad scho;</L>
+<L>And als to day mett scho wit Crist,</L>
+<L>And spac of him thing that scho wist,</L>
+<L>Hou he suld man on rod bye,</L>
+<L>For scho wist that thoru prophecye.</L>
+<L>And Symeon the prest alsua,</L>
+<L>Toc Jesus in his armis tua,</L>
+<L>And said, Lauerd, nou mai I deye,</L>
+<L>For I se the wit fleysly eye;</L>
+<L>I se that I ber in my hande</L>
+<L>Goddes awen son and his sand,</L>
+<L>That stithe igain the Fend sal stand,</L>
+<L>And les mankind out of his band.</L>
+<L>Sain Symeon slic wordes said,</L>
+<L>uen Crist was in his armes layd,</L>
+<L><PB N="157" REF="184"/>
+For wel lang thar bifor he wist,</L>
+<L>That him bihoued se Jesu Crist;</L>
+<L>The hali gast haued warned him</L>
+<L>That he suld dey noht ar that tim,</L>
+<L>That he hauid wit his eyen sen</L>
+<L>This blized barn of quaim I men.</L>
+<L>Forthi he said, quen I him seye,</L>
+<L>Lauerd in pes nou mai I dey,</L>
+<L>For thou haues don that thou me hiht,</L>
+<L>And schued the self to mi siht,</L>
+<L>I se that thou mankind haues tan,</L>
+<L>And for mankind bicomen man.</L>
+<L>Nou se ye that thoru resoun</L>
+<L>That Crist mett witt sain Symeoun,</L>
+<L>And withe dam Anne of quaim I tald,</L>
+<L>This dai es Cristes meting cald;</L>
+<L>For in the tempel bathe mett thaye,</L>
+<L>With Crist and Marye als this daye.</L>
+<L>Nou hop I that ye al se</L>
+<L>Hou this fest hauis names thre.</L>
+<L>The first nam es Candelmesse,</L>
+<L>The tother Maryes clensing esse,</L>
+<L>The thred nam als Ic haf talde,</L>
+<L>Es Cristes meting gratheli cald,</L>
+<L>In tempele first offered was he,</L>
+<L>And sithen on the rod tre,</L>
+<L><PB N="158" REF="185"/>
+And ilke day in prestes hand,</L>
+<L>May we se Crist be mad offerand.</L>
+<L>Thus was Crist offered for our hele,</L>
+<L>Forthi bird us be til him lele,</L>
+<L>Of us self bird us offerand mak,</L>
+<L>Quen we for his luf fast and wak,</L>
+<L>For than pin we our bodye,</L>
+<L>With torfir and with martyrye.</L>
+<L>We offer us seluen til Jesus,</L>
+<L>That offered him seluen for us;</L>
+<L>For offered for us al was he,</L>
+<L>Quen he for us deyed on tre.</L>
+<L>Yet wil I you on Englis saye,</L>
+<L>Quat was offered for Crist to daye.</L>
+<L>We find that Josep and Marye</L>
+<L>War bathe pouer, and forthie</L>
+<L>Offered thai for Crist Mari son</L>
+<L>Slic thing als pouer men war won.</L>
+<L>Tua turteles, als I haf you tald,</L>
+<L>Or tua douf briddes yef thai wald;</L>
+<L>And I wil tel you forthie,</L>
+<L>Quat thir foules menes gastelye,</L>
+<L>In thir tua fules may we se</L>
+<L>Bathe mildenes and charite;</L>
+<L>For douf a ful mec fuel es,</L>
+<L>And bitakenes riht mildenes,</L>
+<L><PB N="159" REF="186"/>
+And bi the turtel douf may we</L>
+<L>Ful riht understand charite;</L>
+<L>For yef the turtel tin hir mak,</L>
+<L>Neuer mar wil scho other thac;</L>
+<L>Forthi bi hir mai bysend be</L>
+<L>Riht clen lif and charite.</L>
+<L>Fand we forthi sua for to lif,</L>
+<L>That we mai Godd god offerand gif,</L>
+<L>Of chastite and mildnes,</L>
+<L>That in thir foules bisend es.</L>
+<L>We offer turtel douf gastlye,</L>
+<L>Quen [we] feyht igain licherye,</L>
+<L>And quen we hald our hert fra wreth,</L>
+<L>And hastiwes, and brother wreth,</L>
+<L>And loues our brether inwardlye,</L>
+<L>We offer doufes gastilye.</L>
+<L>We may als by thir fouls tuinne,</L>
+<L>Understand sorue for our sinne;</L>
+<L>For bathe thir foules haues crowding</L>
+<L>Insted of sang, and stille murning,</L>
+<L>And bitakenes that sinful man,</L>
+<L>That schilwisnes and insyt can,</L>
+<L>Suld of thir fules bisenes take,</L>
+<L>To murne for his sin and sake.</L>
+<L>For better es that man her murne,</L>
+<L>Than for his sin til helle turne.</L>
+<L><PB N="160" REF="187"/>
+Nou understand ye I wene</L>
+<L>Quat the fest of to daye wil mene.</L>
+<L>A tal of this fest haf I herd, <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>Hougat it of a widou ferd,</L>
+<L>That lufd our Lefdi sa welle,</L>
+<L>That scho gert mac hir a chapele;</L>
+<L>And ilke day deuotely,</L>
+<L>Herd scho messe of our Lefdye.</L>
+<L>Fel auntour that hir prest was gan</L>
+<L>His erand, and messe haued scho nan,</L>
+<L>And com this Candelmesse feste,</L>
+<L>And scho wald haf als wif honeste</L>
+<L>Hir messe, and for scho moht get nan,</L>
+<L>Scho was a ful sorful womman.</L>
+<L>In hir chapele scho mad prayer,</L>
+<L>And fel on slep bifor the auter,</L>
+<L>And als scho lay on slep, hir thoht</L>
+<L>That scho in til a kyrc was broht,</L>
+<L>And saw com gret compaynye</L>
+<L>Of fair maidenes wit a lefedye,</L>
+<L>And al thai sette on raw ful rathe,</L>
+<L>And ald men and yong bathe</L>
+<L>Com efter thaim. and sette thaim bye,</L>
+<L>And a clerc broht cerges in heye,</L>
+<L>And euerilkan gaf he an,</L>
+<L>And an toc this slepand womman;</L>
+<L><PB N="161" REF="188"/>
+An tua clerkes scho saw comande</L>
+<L>In surplices wit serges berande,</L>
+<L>And efter thaim reuested rathe,</L>
+<L>Com suddeken and deken bathe,</L>
+<L>And Crist him seluen com thar nest,</L>
+<L>Reuested als a messe prest.</L>
+<L>Thai yod til auter gainli graythede,</L>
+<L>And priue prayer thair thai sayde,</L>
+<L>And clerkes son bigan the messe,</L>
+<L>Als costom in hali kirk esse;</L>
+<L>And quen thai com til thair offerande,</L>
+<L>This leuedy yed with serge in hande,</L>
+<L>And ofered first als comly quene,</L>
+<L>And efter hir other bidene.</L>
+<L>This wif satte ay stille, als hir thoht,</L>
+<L>For offer hir candel wald scho noht.</L>
+<L>The prest abade bifor the auter,</L>
+<L>Bot scho no wald noht cum him ner.</L>
+<L>And word til hir send our Leuedy,</L>
+<L>And said that scho did vilanye</L>
+<L>To ger the prest bide hir sa lang,</L>
+<L>And bad scho suld ris and gang,</L>
+<L>And offer hir serge als other had don.</L>
+<L>And scho ansuerd and said son,</L>
+<L>Wel moht the prest his messe forthe sing,</L>
+<L>My candel wil I noht him bring,</L>
+<L><PB N="162" REF="189"/>
+Bot ga and say til my Lefdye,</L>
+<L>That Godd hauis send me, hald wil I.</L>
+<L>And igain yod this messager,</L>
+<L>And tald his Leuedy hir answer.</L>
+<L>His Leuedi bad him suithe ga,</L>
+<L>And tac the serge with steece hir fra,</L>
+<L>Yef scho wald noht with god it yeld.</L>
+<L>Bot quen he com, fast scho it held,</L>
+<L>For al that he moht prai and say,</L>
+<L>Feitheli scho hir candel held aye,</L>
+<L>And he raht til hir at the laste</L>
+<L>And droh the serge, and scho held fast.</L>
+<L>This candel brac bituix thaim tua,</L>
+<L>And scho stec of hir slep riht sua,</L>
+<L>And fand a tronchoun redy broken,</L>
+<L>And fast in bathe hir hendes loken.</L>
+<L>Hir thoht thar of ful gret ferlye,</L>
+<L>And thanked Godd and our Lefdye,</L>
+<L>That wald suilc priuete hir schawe,</L>
+<L>And ger men it with taken knaw.</L>
+<L>For graithe takening was that tronchoun,</L>
+<L>Of hir ferlic avision.</L>
+<L>This tronchoun for relic scho held</L>
+<L>Al hir lif, with worschip and beld,</L>
+<L>And it dos yet, als find we tald,</L>
+<L>Ful fair mirakeles mani fald.</L>
+<L><PB N="163" REF="190"/>
+Bi this schort tal, als thinc me,</L>
+<L>Mai we our Lefdyes confort se,</L>
+<L>That wald profe this wifes wille,</L>
+<L>And hir langing wit joy fulfille,</L>
+<L>And noht allan in heuen rike,</L>
+<L>Bot her in erthe with fair ferlic;</L>
+<L>For fair ferlic was this tronchoun,</L>
+<L>That scho gatte wit deuotyoun.</L>
+<L>Yet wil we spec of our Lefdye,</L>
+<L>That bar that barn of hir bodye,</L>
+<L>That was offered als him seluen wald</L>
+<L>On thrinne wis, als Ic haf tald.</L>
+<L>Of his offering to day spec we,</L>
+<L>For als to day offered was he</L>
+<L>In tempel, and sithen on rode,</L>
+<L>Thar he for our sak sched his blode;</L>
+<L>And on the thred wise es he</L>
+<L>Offered at messe, als we mai se.</L>
+<L>Forthi me thinc that god it es,</L>
+<L>To spek sum thing of hir godnes,</L>
+<L>That bar of hir bodi that brith,</L>
+<L>That broht mankind til mensk and mirht.</L>
+<L>Mary mild and maiden clene,</L>
+<L>Es Goddes moder of quaim I mene,</L>
+<L>And bathe of heuen and erthe quen,</L>
+<L>And helpes sinful men biden;</L>
+<L><PB N="164" REF="191"/>
+Bot namlic helpes scho tha,</L>
+<L>That turnes noht thair lof hir fra,</L>
+<L>Bot menskes hir on al thair wisse</L>
+<L>And er sysel in hir seruyse.</L>
+<L>Bot scho es moder of mercye,</L>
+<L>And til sinful men ay redye.</L>
+<L>Scho fayles neuer mar in nede,</L>
+<L>That mai we se bi many dede</L>
+<L>That scho dos oft for sinful man,</L>
+<L>That haues igain hir son mistan.</L>
+<L>For do man neuer sa gret sinne,</L>
+<L>And he haf wil his sinne to blin,</L>
+<L>And ask hir holp riht inwardlye,</L>
+<L>He may be siker of mercye.</L>
+<L>That mai ye se bi a lefdy,</L>
+<L>That was abbes of a nunrye;</L>
+<L>Bot als scho for apon a day <NOTE PLACE="marg">Narracio.</NOTE></L>
+<L>About nedes of hir abbay,</L>
+<L>In cloutes bi the gate scho fande</L>
+<L>A yong mayden child suelande.</L>
+<L>Scho haued pyte of this funding,</L>
+<L>And gert it til hir nunry bring,</L>
+<L>And gert it be ful gaynli gette,</L>
+<L>And sithen til boc scho it sett,</L>
+<L>And mad hir nunne in that nunrye,</L>
+<L>And lufed hir ful inwardlye;</L>
+<L><PB N="165" REF="192"/>
+For scho lufed als god womman</L>
+<L>Hir dohteris gastely euerilkan,</L>
+<L>And sa wel order lufed scho,</L>
+<L>That na misse moht hir dohteris do,</L>
+<L>That scho no chastid thaim in hye,</L>
+<L>And gert thaim lef thair folie.</L>
+<L>And god wimmen lufed hir forthie,</L>
+<L>And foles hated hir dedelye.</L>
+<L>And at hir haued the Fend envoye,</L>
+<L>And fanded hir ful ithenlye,</L>
+<L>Bot niht and day he was bysye</L>
+<L>To kindel lust in hir bodye,</L>
+<L>And at the last in licherye</L>
+<L>He gert hir fal ful wrethelye,</L>
+<L>For hir spense knew hir fleysleye,</L>
+<L>And hir wamb wex gret in hye,</L>
+<L>Bot fair scho bar hir noht forthye,</L>
+<L>Als wimmen can that dos folye.</L>
+<L>Scho umthoht hir niht and daye,</L>
+<L>Quaim scho moht best hir consayl say;</L>
+<L>And hir thoht wele that best moht scho</L>
+<L>Hir dern dede til hir undo,</L>
+<L>Quaim scho hafd [fra] funding fedde,</L>
+<L>And fair in nunne wede [hyr] cledde;</L>
+<L>For scho was halden til hir mast,</L>
+<L>To be til hir lele and stedefast.</L>
+<L><PB N="166" REF="193"/>
+Scho tald this nunne ful priuelye,</L>
+<L>And said til hir, dohter mercye,</L>
+<L>Ic haf a derne priuete,</L>
+<L>To schew bytuixe me and the,</L>
+<L>Bot dede war me leuer to be,</L>
+<L>Than thou of my dede melded me,</L>
+<L>For yef thou thar of me melde,</L>
+<L>Ic haf tinte werdes mensc and belde.</L>
+<L>This nune ansuerd and said, leuedye,</L>
+<L>For al this werld gold wald I</L>
+<L>Do thing that war igaines the;</L>
+<L>Forthi, lefedy, thou telle me</L>
+<L>Wit outen dout thi priuete,</L>
+<L>For than mai thou prof my leute;</L>
+<L>Schew baldely thi wil to me,</L>
+<L>For siker mai thou of me be.</L>
+<L>This abbes trowed wele hir sawe,</L>
+<L>And hir sinne scho gan hir schaw,</L>
+<L>And said, lef dohter, me es wa,</L>
+<L>For gret with child riht now I ga.</L>
+<L>This nunne ansuerd and said, lefdye,</L>
+<L>Be thou for this thing noht sarye,</L>
+<L>For wel I sal thi consayl hele,</L>
+<L>And do wit the als dohter lele,</L>
+<L>For quen the childe es born, sal I</L>
+<L>Do it of daw sa priuely,</L>
+<L><PB N="167" REF="194"/>
+That na wiht sal the squeling here,</L>
+<L>And delf it sithen in our herbere.</L>
+<L>This abbes trowed hir ful wele,</L>
+<L>And wend that scho war treu als stele.</L>
+<L>Bot qua sa leses fra hinging</L>
+<L>Thef, or bringes up funding,</L>
+<L>Of nauther getes he mensc ne mede,</L>
+<L>No socour quen he hauis nede.</L>
+<L>For that was sen ful openlye</L>
+<L>In this funding, that hir leuedye</L>
+<L>Wreyed til the bischop sone,</L>
+<L>And tald him al quat scho hauid don.</L>
+<L>And qua was wrathe bot that bischop,</L>
+<L>For of this abbes haued he hop,</L>
+<L>That scho haued ben a god womman,</L>
+<L>And forthoht that scho hauid mistan.</L>
+<L>Hir dohteres herd of hir folye,</L>
+<L>And sum war gladd and sum sarye;</L>
+<L>For fole wimmen war ful fain</L>
+<L>That thai haued chesoun hir igain,</L>
+<L>And wit thair letteres prayed thaye,</L>
+<L>[That the byschop suld sette a daye</L>
+<L>To proue thair abbas of hyr play,</L>
+<L>That scho myght noght agayn say.</L>
+<L>The day was sette, the tyme come neght</L>
+<L>That this abbas suld paynes dreght,</L>
+<L><PB N="168" REF="195"/>
+And be delyuer of hir chylde,</L>
+<L>Scho made hyr mane to Mary myld.</L>
+<L>That nyght in hyr schapelle scho woke,</L>
+<L>That wyfes suld on the morne hyr loke;</L>
+<L>For the byschoppe agaynes the morne</L>
+<L>Somonde the wyfes hym beforne,</L>
+<L>That him suld all the soth say,</L>
+<L>Wehedyr this abbas war wyfe ore may;</L>
+<L>And forthi was this abbas ferde,</L>
+<L>When scho this sorowfull tydans herd.</L>
+<L>Scho gret full sar on owre Lady,</L>
+<L>And asked hyr helpe and mercy.</L>
+<L>When scho was wery of hyr prayer,</L>
+<L>Scho fell on slepe before the auter,</L>
+<L>And to hyr come sonne our Lady,</L>
+<L>And snybed hyr sonne of hyr foly,</L>
+<L>And on hyr wambe scho layd hyr hande,</L>
+<L>And this abbas was all slepand</L>
+<L>Delyuer of a fayr knawe chylde,</L>
+<L>That sonne was gude man and mylde.</L>
+<L>Our Lady tuk this chylde all warme,</L>
+<L>And layd it in a aungell arm,</L>
+<L>And bad hym ber this chyld ryght tyte</L>
+<L>Opon hyr halfe to a armyte,</L>
+<L>That woned fra thine myles seuen,</L>
+<L>And the chylde name gan scho neuen,</L>
+<L><PB N="169" REF="196"/>
+And sayd, byd hym the childe baptize,</L>
+<L>And bryng it up as gud nurys.</L>
+<L>When this was sayd, scho wyte away,</L>
+<L>And this abbas woke thar to day,</L>
+<L>And on hyr bar kneys scho hyr sette,</L>
+<L>And swetly our Lady scho grete;</L>
+<L>And sayd, Lady, I thanke it the,</L>
+<L>Fore well has thou delyuered me.</L>
+<L>And in that chapell all that nyght</L>
+<L>Scho loued our Lady to day lyght.</L>
+<L>The byschoppe come wit his clergy</L>
+<L>Opon the morne to that nunry,</L>
+<L>To gyfe ryght lawfull jugement</L>
+<L>Of this abbas that was sa schent;</L>
+<L>Bot he gart wyfes noght forethi,</L>
+<L>Luke aldyr fryste hyr body,</L>
+<L>And gart them swer that thai suld say</L>
+<L>Whethyr thai fand hyr wyfe or may;</L>
+<L>And when thai had hyr body senne,</L>
+<L>Scho semed than mayden clene,</L>
+<L>And than the byschoppe was ful tene</L>
+<L>To thas nonnes all bydene,</L>
+<L>On that nune that talde hym this tale,</L>
+<L>And bad scho sulde be brynde in bale,</L>
+<L>Als wyked womane that wykedly</L>
+<L>Had lyed sa opon hyr lauedy.</L>
+<L><PB N="170" REF="197"/>
+This abbas had of hyr grete pyte,</L>
+<L>That scho for hyr suld dampned be,</L>
+<L>And talde the byschoppe full pryuely</L>
+<L>The sothe, all how that our Lauedy</L>
+<L>Deluyerd hyr and made hyr qwyte,</L>
+<L>And sent hyr sonne to a ermyte,</L>
+<L>To nurrysch it, and to sette it to lar.</L>
+<L>The byschoppe swethly ryght thar</L>
+<L>Assoyld hyre, and then loued mar.</L>
+<L>And euer he thanked Mary,</L>
+<L>That unto synfull es ay redy.</L>
+<L>To this ermyte he sent hys sande,</L>
+<L>And thar hyr chylde in credyll fande;</L>
+<L>And when it was of seuen zere,</L>
+<L>The bischope made it gude scholere;</L>
+<L>And when this byschoppe was dede,</L>
+<L>This clerke was bischoppe in hys stede.</L>
+<L>Be this tale may we gastely se,</L>
+<L>That no man in dyspayr thar be,</L>
+<L>That na synfull schamed thar be,</L>
+<L>Haue thai done neuer swilke foly,</L>
+<L>If they wyll call on oure Lauedy.</L>
+<L>Forethi if we in synne fall,</L>
+<L>I rede that opone hyr we call,</L>
+<L>That scho purchaysse gras us sone to ryse,</L>
+<L>And sythen to duelle in hyr seruysse,</L>
+<L><PB N="171" REF="198"/>
+Ewyr mar to our lyues ende,</L>
+<L>And syker may we be to wende,</L>
+<L>Unto that court thare scho es qwene,</L>
+<L>Thider scho bryng us all bydenne.]</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

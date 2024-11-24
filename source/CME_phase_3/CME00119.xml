@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-9-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed some incorrect MILESTONEs; added TAILNOTE and Qs at end; added DIV3s; changed DIV1 to DIV2; added ARGUMENTs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00119">
+<STC T="M">119</STC>
+<BIBNO T="mec">CME00119</BIBNO>
+<VID>CME00119</VID>
+</IDG>
+<TEXT LANG="eng enm">
+<BODY>
+<DIV1 TYPE="preface">
+<PB N="740" REF="1"/>
+<HEAD>Extracts from the First Version of Hardyng's Chronicle</HEAD>
+<P>As promised in the last number of this Review, the three most distinctive passages of the version of Hardyng's Chronicle, which the author finished and presented to Henry VI in 1457, are now given in full from the only copy in the Lansdowne MS. 204. They are (i) The Introduction, (ii) The Praise of King Henry V, and (iii) The Conclusion celebrating the fame of Robert Umfraville, and exhorting Henry VI to keep peace and law and reward the writer. As explained on pp. 470-6 above, these passages give something of Hardyng's autobiography, and have a special interest for their picture of the state of England at the time when he wrote. To the description of Umfraville as the accomplished knight should be added Hardyng's account of the training of a young lord, which is quoted by Ellis, on p. i of the preface to his edition, from f. 12 of the same manuscript.</P>
+<CLOSER><SIGNED>C. L. KINGSFORD.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="poem">
+<DIV2 N="1" TYPE="introduction">
+<HEAD>I. INTRODUCTION</HEAD>
+<DIV3 TYPE="dedication">
+<HEAD>[DEDICATION]</HEAD>
+<LG>
+<L>O Souerayne lorde, be it to your plesance</L>
+<L>This book to take of my symplicite,</L>
+<L>Thus now newly made for Rememorance,</L>
+<L>Whiche no man hath in worlde bot oonly ye;</L>
+<L>Whiche I compiled vnto your Rialte,</L>
+<L>And to the Queenes hertes consolacion</L>
+<L>To know thestate of youre domynacion;</L>
+</LG>
+<LG>
+<L>And for the Prynce to haue playne conyshance</L>
+<L>Of this Region, in what nobilite</L>
+<L>It hath been kept alway of gret pushance</L>
+<L>With baronage and lordes of dignyte;</L>
+<L>The whiche alway God graunte that ye and he</L>
+<L>May so kepe forth vndyr your gouernance</L>
+<L>To Goddes plesir withouten variance.</L>
+</LG>
+<LG>
+<L>Thus to yow thre Rials in vnyte</L>
+<L>This book with hert and lowly obeishance</L>
+<L>I present now with al benygnyte</L>
+<L>To been euermore within your gouernance,</L>
+<L>For soueraynte and your inherytance</L>
+<L>Of Scotlond hool, whiche shulde your Reule obaye</L>
+<L>As Souereyn lorde, fro whiche thay prowdly straye.</L>
+</LG>
+<LG>
+<L>Wythin thre yer thair grete Rebellion</L>
+<L>Ye myght oppresse and vttirly restrayne,</L>
+<L>And haue it all in youre possession,</L>
+<L>And to obaye your myght make thaym full fayne,</L>
+<L>As Kynge Edward the first with hungir and payne</L>
+<L>Thaym conquerde hool to his subieccion</L>
+<L>To byde for euer vndir his hole proteccion.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="proem">
+<PB N="741" REF="2"/>
+<HEAD>[PROEM]</HEAD>
+<LG>
+<L>Who hath an hurte and will it nought diskure</L>
+<L>And to his leche can nought his sore complayne,</L>
+<L>In wo euermore withouten any cure</L>
+<L>All helples forth he muste comporte his payne;</L>
+<L>And who his own erande forgatte to seyne,</L>
+<L>As alle thise wise men say alway and wote,</L>
+<L>Men calle a Fool or elles an Idyote.</L>
+</LG>
+<LG>
+<L>Wherfore to yow, as prynce most excellent,</L>
+<L>I me compleyne, as reson techeth me,</L>
+<L>That youre Fadir gafe me in commaundement</L>
+<L>In Scotlonde ryde for his Regalyte</L>
+<L>To seke his ryght thar for his souereynte,</L>
+<L>And euydence to gette and to espy</L>
+<L>Appurtenant vnto his monarchy.</L>
+</LG>
+<LG>
+<L>Whiche euydence by labour and processe</L>
+<L>Thre yere and halfe amonge the enmyte,</L>
+<L>On lyfes peryle, maymed in grete distresse,</L>
+<L>With costages grete as was necessite,</L>
+<L>I boughte and gatte of grete auctorite;</L>
+<L>Of whiche I gafe vnto your excellence</L>
+<L>At Esthamstede <NOTE N="1" PLACE="foot">In July 1440; see pp. 464-5, 467, above.</NOTE> parte of that euydence.</L>
+</LG>
+<LG>
+<L>I gafe yow ther a lettre of Rialte,</L>
+<L>By whiche ten men claymyng the croune</L>
+<L>Of Scotlond than boonde thaym by thaire agre</L>
+<L>The iuggement to bide and constitucion</L>
+<L>Of kynge Edward with longshankes by surnoun,</L>
+<L>Whiche of thaym shulde of Scotlond been the kynge</L>
+<L>Vndir thaire seels hys souereynte expressynge.</L>
+</LG>
+<LG>
+<L>I gafe yow als other two patentes rial,</L>
+<L>By whiche Dauid and Robert ye Scotes Kynges</L>
+<L>Boonde thaym and al thaire haires in general</L>
+<L>To holde Scotlond of Kyng Edward, expressynge</L>
+<L>His soueraynte by clere and playn writynge</L>
+<L>Vndre thaire seels to bide perpetualy,</L>
+<L>As playnly is in thaym made memory.</L>
+</LG>
+<LG>
+<L>I gafe yow als the Relees, that Edwarde</L>
+<L>The thrid to Kyng Robert of Scotlond made</L>
+<L>In tendre age; whiche whill it was in warde</L>
+<L>Of Vmfreuile was dreynt in oyl and defade,</L>
+<L>Sex woukes ligging in it, as it abade;</L>
+<L>Bot noght forthy it may hurte yow right noght,</L>
+<L>For it is all agayn youre hieghnesse wroght.</L>
+</LG>
+<LG>
+<PB N="742" REF="3"/>
+<L>[In] the lettres is graunt Yorkes primacy <NOTE N="2" PLACE="foot">The defect of these stanzas is due to a corner of the leaf on which they are written having been torn away. The words in brackets are restored in part from a comparison with the parallel passage on p. 751, below.</NOTE></L>
+<L>[Thru]gh all Scotlonde and to hys successours</L>
+<L>[To ha]ue and vse aboue the prelacy</L>
+<L>[As dyd] afore of olde hys predecessours</L>
+<L>[And also t]he hows of Durham of honours</L>
+<L>[And C]uthbertes ryght with all the liberte</L>
+<L>[Thrugh al]l Scotlonde withoute difficulte. <NOTE N="3" PLACE="foot">This refers to the forged letters of David Bruce exemplifying a charter of Alexander of Scotland, in which the English overlordship is acknowledged, and the rights of York and Durham are reserved: Palgrave, <HI REND="italic">Documents,</HI> pp. cciv-v, 368-9.</NOTE></L>
+</LG>
+<LG>
+<L>[Also that p]rynce of grete magnificence,</L>
+<L>[Your Fadir] so gafe me in commaundement</L>
+<L>[Scotlond to] spy with alkyns diligence,</L>
+<L>[How that it] myght bene hostayde thrugh and brent</L>
+<L>[.....] wele to his wille and intent,</L>
+<L>[Whatkyns p]assage were for ane hoste to ryde,</L>
+<L>[What toures a]nde touns stode on the este see syde,</L>
+</LG>
+<LG>
+<L>[Wher tha]t hys flete myght londe and with hym mete</L>
+<L>[With hys] vitayle, gunnes and ordenance</L>
+<L>[Hys host to] fresshe, and lygge in all quyete</L>
+<L>[From stor]mes grete and wethyrs variance.</L>
+<L>[Whiche] all I dydde and putte in remembrance</L>
+<L>[At hys] biddynge and riall commaundement,</L>
+<L>[Bot was] nought rewarded aftyr his intent.</L>
+</LG>
+<LG>
+<L>Whiche remembrance now to youre sapience</L>
+<L>Vpon the ende of this boke in figure</L>
+<L>Illumynde is for your intelligence,</L>
+<L>Declared hool by wrytynge and lettrure,</L>
+<L>How lyghte wer now vnto your hiegh nature</L>
+<L>For to conquer by rial assistence,</L>
+<L>And kepe it euer vndir your hiegh regence.</L>
+</LG>
+<LG>
+<L>Now seth that prynce is gone, of excellence,</L>
+<L>In whom my helpe and makynge shulde haue bene,</L>
+<L>I vouche it sauf, wyth all benyvolence,</L>
+<L>On yow, gode lorde, hys sonne and hayre that bene,</L>
+<L>For to none other my complaynte can I mene;</L>
+<L>So lynyall of his generacioun</L>
+<L>Ye bene discent by very demonstracioun.</L>
+</LG>
+<LG>
+<L>For other none will fauour his promyse,</L>
+<L>Ne none that wylle ought forther myne intente,</L>
+<L>Bot if it lyke vnto your owne avyse,</L>
+<L>Alle oonly of your rial Regymente</L>
+<L><PB N="743" REF="4"/>
+To comforte now withoute impedymente</L>
+<L>Your pore subgite, maymed in his seruyse,</L>
+<L>Withoute rewarde or lyfelode any wyse.</L>
+</LG>
+<LG>
+<L>Sex yer now go I pursewed to your grace;</L>
+<L>And vndirnethe your lettres secretary,</L>
+<L>And Priuy Seel that longeth in that cace,</L>
+<L>Ye graunted me to haue perpetualy</L>
+<L>The maner hool of Gedyngton truely</L>
+<L>To me and to myne hayres in heritage,</L>
+<L>With membres hool and other all auauntage.</L>
+</LG>
+<LG>
+<L>Bot so was sette your noble chaunceller,</L>
+<L>He wolde nought suffre I had such waryson,</L>
+<L>That cardinal was of York withouten per;</L>
+<L>That wolde noght parte with londe ne yit with ton,</L>
+<L>Bot rather wolde, er I had Gedyngton,</L>
+<L>Ye shulde forgo your ryall soueraynte</L>
+<L>Of Scotlonde, whiche long to your rialte.</L>
+</LG>
+<LG>
+<L>Your patent couthe I haue in nokyns wyse,</L>
+<L>Bot if I sewed to alle youre grete counsayle,</L>
+<L>To whiche my purs no lengar myght suffyse:</L>
+<L>So wente I home withoute any auayle;</L>
+<L>Thus sette he me all bakhalfe on the tayle:</L>
+<L>And alle your grace fro me he dyd repelle,</L>
+<L>Your lettres bothe fro me he dyd cancelle.</L>
+</LG>
+<LG>
+<L>Bot vndirnethe your Fadir's magnificence</L>
+<L>He durste nought so haue lette hys righte fall doun</L>
+<L>Ne layde asyde so riall euydence</L>
+<L>Appertenant vnto hys rial croun,</L>
+<L>Who sonner wolde suche thre as Gedyngton</L>
+<L>Hafe youe than so forgone that euydence</L>
+<L>By whiche the Scottes obey shulde hys regence.</L>
+</LG>
+<LG>
+<L>For whiche Kynge Iames vnto my waryson</L>
+<L>A thousonde marke me highte of Englisshe golde;</L>
+<L>Whiche I forsoke in myne oppynyon,</L>
+<L>As natyfe birth and alkyns reson wolde;</L>
+<L>Sex and thretty yer I haue it kepte and holde</L>
+<L>In truste ye wolde of youre haboundant grace</L>
+<L>Your Fadirs promyse so fauoure in thys cace.</L>
+</LG>
+<LG>
+<L>Whiche euydence in this afore comprised,</L>
+<L>With other mo whiche I shal to yow take,</L>
+<L>Four hundre marke and fifty ful assised</L>
+<L>Cost me treuly for youre Fadir sake,</L>
+<L>With incurable mayme that maketh me wake.</L>
+<L>Wherfore plese it of youre magnificence</L>
+<L>Me to rewarde as pleseth youre excellence.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="paean">
+<PB N="744" REF="5"/>
+<HEAD>II. THE PRAISE OF KING HENRY V</HEAD>
+<ARGUMENT><P>The compleynt and lamentacion of the maker of thys for the Kynges deth, w<SUP>t</SUP> commendacion of his gouernance.</P></ARGUMENT>
+<LG>
+<L>O gode lorde god, why lete thou so sone passe</L>
+<L>This noble prynce, that in all Cristente</L>
+<L>Had than no pere in no londe more ne lesse;</L>
+<L>So excellent was his fortunyte</L>
+<L>In florisshyng age of all fresh Iuuente:</L>
+<L>That myght haue lete hym leue to gretter age</L>
+<L>Tyll he had hole reioysed his herytage</L>
+</LG>
+<LG>
+<L>Of Fraunce, all hole Guyen and Normandy,</L>
+<L>Whiche thre wer his of olde inheritaunce,</L>
+<L>And Angoy eke of full olde auncetry,</L>
+<L>As Cronyclers haue made remembraunce;</L>
+<L>For he was sette with myghty grete puisaunce</L>
+<L>To conquere than the londe of all Surry, <NOTE N="4" PLACE="foot">Syria.</NOTE></L>
+<L>That ys the londe of byheest proprely.</L>
+</LG>
+<LG>
+<L>To whiche he than, and eke the Emperour,</L>
+<L>Accorded wer withoute colusion</L>
+<L>To Criste, goddes sonne, to gyfe thair hole labour</L>
+<L>Fro tyme that thay myght make an vnyon</L>
+<L>Betwyx Englonde and Fraunce by gode reson,</L>
+<L>With helpe of other londes that wolde assent</L>
+<L>To that vyage and conquest excellent.</L>
+</LG>
+<LG>
+<L>O gode lorde god, that knew his hertes intent,</L>
+<L>That was so sette for soules remyssion</L>
+<L>To thyne honour by his attendement</L>
+<L>To conuerte so that londe of promyssion;</L>
+<L>Or elles it sette by Cristes hole permyssion</L>
+<L>With Cristen folke, fayling thair conuersion</L>
+<L>For thair foly and thayr peruersion.</L>
+</LG>
+<LG>
+<L>O verry lorde, that arte omnipotent,</L>
+<L>What hath Englonde so felly the offende,</L>
+<L>This noble prynce, peerlesse of Regyment,</L>
+<L>To Rauysshe so fro vs withouten ende?</L>
+<L>O lorde, who shall Englond now defende?</L>
+<L>Seth he is gone that was our hiegh Iustyse</L>
+<L>For whom none durste his neyghbor than supprise.</L>
+</LG>
+<LG>
+<L>Aboue all thynge he kept the lawe and pese</L>
+<L>Thurgh all Englonde, that none insurreccion</L>
+<L>Ne no riotes than wer withouten lese,</L>
+<L>Ne neyghbours werre in fawte of his correccion:</L>
+<L>Bot pesybly vndyr his proteccion</L>
+<L>Compleyntes of wrongs alway in generall</L>
+<L>Refourmed were so vndyr his yerde egall.</L>
+</LG>
+<LG>
+<PB N="745" REF="6"/>
+<L>Whan he in Fraunce dayly was conuersaunt</L>
+<L>His shadow so abowmbred all Englonde</L>
+<L>That pese and lawe wer kept contynuant</L>
+<L>In his absence full wele thrugh all the londe:</L>
+<L>And elles, as I can sayne and vndyrstonde,</L>
+<L>His power had bene lyte to conquerr Fraunce</L>
+<L>Nor other Reme that wer wele lasse perchaunce. <NOTE N="5" PLACE="foot">This and the previous stanza appear with but slight variation in the later version Ellis, p. 388.</NOTE></L>
+</LG>
+<LG>
+<L>The pese at home and law so wele conserued</L>
+<L>Wer rote and hede of all his grete conqueste,</L>
+<L>Whiche exilde bene away and foule ouerterued</L>
+<L>In so ferr forthe that north and south and weste</L>
+<L>And este also is now full lytill reste,</L>
+<L>Bot day and nyght in euery shire thurgh out</L>
+<L>With salades bright and iakkes make grete route.</L>
+</LG>
+<LG>
+<L>O souereyne lorde, take hede of this meschefe,</L>
+<L>That regnyth now in londe so generaly;</L>
+<L>Such Ryottours sende after by your brefe</L>
+<L>And prison so the partyse opynly,</L>
+<L>And raunson thaym; els is no remedy:</L>
+<L>And seurte take of thaym, afore ye cese,</L>
+<L>With thayr neyghbours forthward to bere the pese,</L>
+</LG>
+<LG>
+<L>Enrolled in your courte of Chauncelry,</L>
+<L>Thar to abyde for alway of recorde:</L>
+<L>For your Iustyse of pese darr noght reply</L>
+<L>Suche tyrauntes that perteyne to any lorde,</L>
+<L>For parseners thay bene of suche discorde;</L>
+<L>Or els thay ere the comon Barectours</L>
+<L>Or of suche folyse the pryuy manteynours.</L>
+</LG>
+<LG>
+<L>Or els thay bene so symple of estate</L>
+<L>The malefesours by law to Iustyfy:</L>
+<L>Or els thay bene with fe so alterate</L>
+<L>That thay darr noght agayn suche Tyrany</L>
+<L>By thayre office, so do no remedy;</L>
+<L>Iustyse of pese thay bene, as I deme can,</L>
+<L>As now on days men call the blacke oxe swan.</L>
+</LG>
+<LG>
+<L>Bot, O gode lorde, by ye the chefe Iustyse</L>
+<L>Of pese thurgh oute your londe as for a yer</L>
+<L>Withoute fauour or grace to excersyse</L>
+<L>Your offyce wele after your hiegh power,</L>
+<L>And ye shall wyn heuyn to your mede full clere,</L>
+<L>And Rychesse also of fynes for thayr outrage,</L>
+<L>That suche riote do make ouer your homage.</L>
+</LG>
+<LG>
+<PB N="746" REF="7"/>
+<L>And at the leeste ye may sende hem ouer se</L>
+<L>To kepe your right in Fraunce and Normandy:</L>
+<L>Thayr hiegh corage to spende and Iolyte</L>
+<L>In sauyng of your noble Regaly;</L>
+<L>For better is ther thair manly vyctory,</L>
+<L>Than her eche day with grete malyuolence</L>
+<L>Make neyghbours werre with myghty violence.</L>
+</LG>
+<LG>
+<L>Men chastyse ofte grete courours by hakenayse,</L>
+<L>And writhe the wande while it is yonge and grene;</L>
+<L>Therfore whare so er any such affrayse</L>
+<L>For both partyse sende, forth to come, I mene,</L>
+<L>To your presence riall what so er ye bene,</L>
+<L>And putte thaym in suche reule and gouernaunce,</L>
+<L>Than men shall drede youre wytte and gouernaunce.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="conclusion">
+<HEAD>III. THE CONCLUSION</HEAD>
+<ARGUMENT><P><NOTE N="6" PLACE="foot">In the margin are illuminated the Umfraville arms: gules, a cinquefoil, the field powdered with crosslets paty, or.</NOTE> How the maker of this commendeth his maystir syr Robert Vmfreuile, and by exemple of his gude Reule to enforme the Kynge to kepe the publike profite of his Reme and with pees and lawe.</P></ARGUMENT>
+<LG>
+<L>In this mene tyme syr Robert Vmframuyle, <NOTE N="7" PLACE="foot">Robert Umfraville died on 29 January 1436.</NOTE></L>
+<L>That was my lorde distilde by kynde nature,</L>
+<L>Thurgh besy age, right as I can compile,</L>
+<L>To suche waykenesse he might no more endure,</L>
+<L>Bot fell so in his graue and sepulture</L>
+<L>Thrugh cruell deth that wyll forbere no wyght,</L>
+<L>Whom so afore that neuer man conquer myght.</L>
+</LG>
+<LG>
+<L>Thof my body here be a symple wyght</L>
+<L>Abydynge at the wyll omnipotent,</L>
+<L>My herte with hym shalbe bothe day and nyght</L>
+<L>To pray for hym with all my hole intent.</L>
+<L>A beter lorde I trow God neuer yit sent</L>
+<L>Into the north of all gode sapience,</L>
+<L>Ne so helply with knyghtly diligence.</L>
+</LG>
+<LG>
+<L>Ne contekour he was in his Cuntre,</L>
+<L>Nor neuer drewe swerde ne knyfe to Englyshman,</L>
+<L>Ne Riotour, ner neuer made assemble</L>
+<L>Agayn neyghbour that any man tell kan.</L>
+<L>The Comonte he halpe and neuer ouer ran;</L>
+<L>A trew Iustyse of pese in his Cuntre</L>
+<L>He was alway withouten partyalte.</L>
+</LG>
+<LG>
+<L>A beter knyght was neuer in that Cuntre</L>
+<L>To kepe the trewes whils that it dyd endure;</L>
+<L>With costage grete eche wouke in sertaynte</L>
+<L>Days of redresse to euery creature,</L>
+<L><PB N="747" REF="8"/>
+To Scottes he helde, and Englyssh also full sure;</L>
+<L>Who so complaynde of ought it was refourmed,</L>
+<L>So godelyly to pese he hym conformed.</L>
+</LG>
+<LG>
+<L>In so ferr forth his Iugementes wer approued</L>
+<L>That Scottes feel byyonde the Scottysshe see</L>
+<L>Thar own Iugges forsoke as hole reproued,</L>
+<L>And by assent to Berwyke came I se;</L>
+<L>And bonde thaym thar to stonde to his decre,</L>
+<L>And plesed were with all his iugymentes,</L>
+<L>So right wyse was his reule and Regymentes.</L>
+</LG>
+<LG>
+<L>With Couetyse he was neuer yit infecte,</L>
+<L>Nor key of lok kepte neuer in his possession</L>
+<L>Iewell ne golde, so was he hole protecte</L>
+<L>With gentyll herte by his discression.</L>
+<L>Comon profyte withoute oppression</L>
+<L>Was his labour and all his diligence</L>
+<L>In pese and werr with hole benyvolence.</L>
+</LG>
+<LG>
+<L>Bot noght forthy whan enmyse gafe vp pese,</L>
+<L>And it away with werre had hole exilde,</L>
+<L>As lyon fell he putte hym forth in prese,</L>
+<L>The werre maynteynde and kepte hym vnreuylde.</L>
+<L>What so men gat couetyse noght hym fylde,</L>
+<L>The wynners had it all withoute surpryse;</L>
+<L>For whiche the folke wer glad to his seruyse,</L>
+</LG>
+<LG>
+<L>And with hym rode away euer at his wyll,</L>
+<L>So hole he had thayr hertes to hym inclyned;</L>
+<L>What so he wolde the londe assent hym tyll,</L>
+<L>His language so thair hertes medycyned,</L>
+<L>So benygne was and trewe it vndyrmyned</L>
+<L>Thair hertes hole to loue hym at thair myght,</L>
+<L>And go with hym whar as he went to fight.</L>
+</LG>
+<LG>
+<L>Of the Garter full eght and thretty yere</L>
+<L>He was a knyght electe for worthihode,</L>
+<L>Whan his lyfelode exceded noght all clere</L>
+<L>An hundreth marke to leue vpon in dede,</L>
+<L>Bot oonly of the werres thurgh his manhede;</L>
+<L>Yit helde he than a countenaunce and estate</L>
+<L>With hym that was a baron nomynate.</L>
+</LG>
+<LG>
+<L>His seruantes wolde he noght rebuke ne chide,</L>
+<L>Bot softely say to hym in pryuyte</L>
+<L>All his defaute and as his preest it hide;</L>
+<L>And whan thay stale his gode that he dyd se,</L>
+<L>He wolde it layne fro his other maynee,</L>
+<L>And noght repreue hym more in any wyse,</L>
+<L>So was he kynde withouten couetyse.</L>
+</LG>
+<LG>
+<PB N="748" REF="9"/>
+<L>An hardyer knyght was neuer none gatte ne bore,</L>
+<L>For at my dome he was neuer yit aferde;</L>
+<L>Nor wyser knyght for to deuyse afore</L>
+<L>The fetes of werre, with whiche he had conquerde</L>
+<L>His foose full ofte and made thaym many auerde;</L>
+<L>Nor frear knyght of herte was none I gesse,</L>
+<L>So he want noght he count by no rychesse.</L>
+</LG>
+<LG>
+<L>A clenner knyght of his leuynge was none</L>
+<L>In all degre withouten vice detecte,</L>
+<L>And as of treuth he myght be sette allone;</L>
+<L>His worde so sadde was wele and euer protecte,</L>
+<L>With variance yit that it was neuer infecte;</L>
+<L>In so ferre forthe his fose had delectacion</L>
+<L>Mor in his worde than neyghbours obligacion.</L>
+</LG>
+<LG>
+<L>Of sapyence and verry gentylnesse,</L>
+<L>Of lyberall herte and knyghtly gouernaunce,</L>
+<L>Of hardyment, of treuth and grete gladnesse,</L>
+<L>Of honest myrth withoute any greuaunce,</L>
+<L>Of gentyll bourdes and knyghtly daliaunce</L>
+<L>He hath no make: I darr right wele auowe;</L>
+<L>Now is he gone, I may not glose hym nowe.</L>
+</LG>
+<LG>
+<L>His vertuse dygne so hole were and plenere,</L>
+<L>That thay hym made so excellent in all,</L>
+<L>That fortune satte hym on hir whele so clere</L>
+<L>At his deuyse and wolde neuer latte hym fall;</L>
+<L>Ne his honoure she suffred neuer appall,</L>
+<L>Bot euer hir whele tyll hym she dyd apply</L>
+<L>That of his fose he had ay vyctory.</L>
+</LG>
+<LG>
+<L>And yit he faught vndyr his own banere,</L>
+<L>And what also vndyrnethe his penon,</L>
+<L>Eghtene tymes agayne the Kynges fose clere</L>
+<L>In socour of the Kynges Region,</L>
+<L>And nothyng for his own opynyon,</L>
+<L>Bot in defence of all the comonte</L>
+<L>Marchyng so with the Scottes in his contre.</L>
+</LG>
+<DIV3 TYPE="part">
+<ARGUMENT><P>How the Kynge shulde Reule moste specialy the comon profyte of his Reme with pese and lawe aftir syr Robert Vmfreuile.</P></ARGUMENT>
+<LG>
+<L>Treuly he was a Iewell for a Kynge</L>
+<L>In wyse counsayle and knyghtly dede of werre;</L>
+<L>For comon profyte aboue all other thynge</L>
+<L>He helped, euer was nothyng to hym derre,</L>
+<L>In werr and pese comon profyte he dyd preferre,</L>
+<L>For that poynt passed neuer out of his mynde,</L>
+<L>Which poynt he sayde shulde longe a Kynge of kynde.</L>
+</LG>
+<LG>
+<PB N="749" REF="10"/>
+<L>Wharfore to yow, moste souereyn prynce and lorde,</L>
+<L>It fytteth wele that poynte to execute,</L>
+<L>The comon wele and verry hool concorde,</L>
+<L>That none ouer ronne your comons ne rebute,</L>
+<L>And kepe your lawe as it is constytute,</L>
+<L>And chastyse hem that market dassehers bene</L>
+<L>In euery shire that now of new er sene;</L>
+</LG>
+<LG>
+<L>In euery shire with Iakkes and Salades clene</L>
+<L>Myssereule doth ryse and maketh neyghbours werre;</L>
+<L>The wayker gothe benethe, as ofte ys sene,</L>
+<L>The myghtyest his quarell wyll preferre,</L>
+<L>That pore mennes cause er putte on bakke full ferr;</L>
+<L>Whiche thrugh the pese and law wele conserued</L>
+<L>Myght bene amende, and thanke of God deserued.</L>
+</LG>
+<LG>
+<L>Thay kyll your men alway by one and one,</L>
+<L>And who say ought he shall be bette doutlesse;</L>
+<L>For in your Reme Iustyse of pese bene none</L>
+<L>That darr ought now the contekours oppresse;</L>
+<L>Suche sekenesse now hath take thaym and accesse,</L>
+<L>Thay wyll noght wytte of Ryot ne debate,</L>
+<L>So comon is it now in eche estate.</L>
+</LG>
+<LG>
+<L>Bot this I drede full sore withouten gabbe</L>
+<L>Of such riottes shall ryse amore mescheue,</L>
+<L>And thrugh the sores vnheled wyll brede a skabbe</L>
+<L>So grete that may noght bene restreynt in breue;</L>
+<L>Wharfore gode lorde, iff ye wyll gyffe me leue,</L>
+<L>I wolde say this vnto your excellence,</L>
+<L><NOTE N="8" PLACE="foot">In margin: Principiis obsta ne deterius contingat.</NOTE> Withstonde the first mysreule and violence.</L>
+</LG>
+<LG>
+<L>Wythstonde, gode lorde, begynnyng of debate,</L>
+<L>And chastyse well also the Ryotours</L>
+<L>That in eche shire bene now consociate</L>
+<L>Agayne youre pese, and all thair mayntenours;</L>
+<L>For treuly els wyll fall the fayrest flours</L>
+<L>Of your coroune and noble monarchy,</L>
+<L>Whiche God defende and kepe thrugh his mercy.</L>
+</LG>
+<LG>
+<L>Who prayeth yow for any contekoure,</L>
+<L>Whether he be Duke, Erle, or other estate,</L>
+<L>Blame him as for the verry mayntenoure</L>
+<L>Of suche mysreule contecte and eke debate:</L>
+<L>Whiche elles your lawe woulde chastyse and abate,</L>
+<L>If mayntenours wolde suffre it haue the course</L>
+<L>That playntyffs myght to lawe haue thayre recourse,</L>
+</LG>
+<LG>
+<PB N="750" REF="11"/>
+<L>The lawe is lyke vnto a Walshmannes hose,</L>
+<L>To eche mannes legge that shapen is and mete;</L>
+<L>So mayntenours subuerte it and transpose,</L>
+<L>Thurgh myght it is full low layde vndyr fete,</L>
+<L>And mayntnanse vp in stede of law complete;</L>
+<L>All, if lawe wolde, thynge wer by right reuersed,</L>
+<L>For mayntenours it may noght bene rehersed.</L>
+</LG>
+<LG>
+<L>Consyder nowe, moste gracious souereyn lorde,</L>
+<L>In this tretyse how long your auncetry</L>
+<L>In welthe and hele regned of hiegh recorde,</L>
+<L>That keped pese and law contynuly:</L>
+<L>And thynke thay ere of all your monarchy</L>
+<L>The fayrest floures and hieghest of empryse</L>
+<L>And sounest wyll your foreyn foos suppryse.</L>
+</LG>
+<LG>
+<L>Consyder als in this symple tretyse,</L>
+<L>How kynges kept nayther law ne pese</L>
+<L>Went sone away in many dyuers wyse</L>
+<L>Withouten thanke of God at thayr decese,</L>
+<L>And noght were dred within ner out no lese,</L>
+<L>Bot in defaute of pese and law conserued.</L>
+<L>Distroyed wer, right as thay had deserued.</L>
+</LG>
+<LG>
+<L>Consyder als, most souereyn lorde and prynce,</L>
+<L>In these Cronycles that hath bene redde or seyne</L>
+<L>Was neuer no prynce of Bretayns hole prouynce</L>
+<L>So yonge as ye wer wan ye gan to reyne;</L>
+<L>And thenkes hym that was so your wardeyne,</L>
+<L>Aboue all thynges that is omnipotent,</L>
+<L>That keped yow whils ye wer innocent.</L>
+</LG>
+<LG>
+<L>Consyder als, he <NOTE N="9" PLACE="foot"><HI REND="italic">Read</HI> how.</NOTE> that the dyademe</L>
+<L>Of Remes two, of Englond and of Fraunce,</L>
+<L>Vpon your hede bene sette, as dyd wele seme,</L>
+<L>In tendre age suffred withoute distaunce</L>
+<L>Thurgh pese and lawe and all gode gouernaunce</L>
+<L>Whiche if ye kepe, ye shall haue vyctory,</L>
+<L>Shall none gayn stonde your noble monarchy.</L>
+</LG>
+<LG>
+<L>Consyder als, moste souereyn erthly lorde,</L>
+<L>Of Frenssh ne Scottes ye gette neuer to your pay</L>
+<L>Any trety of trews and gode concorde,</L>
+<L>Bot iff it be oonly vndyr your Baner ay;</L>
+<L>Whiche may neuer bene by reson any way</L>
+<L>Bot iff your Reme stonde hole in vnyte</L>
+<L>Conserued wele in pese and equyte;</L>
+</LG>
+<LG>
+<PB N="751" REF="12"/>
+<L>Than may ye wele and saufly with baner</L>
+<L>Ryde into Fraunce or Scotlonde for your right,</L>
+<L>Whils your rereward in Englond stondyth clere;</L>
+<L>With you hauyng gode power for to fight</L>
+<L>Vndyr your baner, the enmyse will yow hight</L>
+<L>Better trety within a lytill date</L>
+<L>Than in foure yere to youre embassiate.</L>
+</LG>
+</DIV3>
+<DIV3 TYPE="part">
+<ARGUMENT><P>How the maker of this boke compleyneth his greuance and sore to the Kynge touchant the Euydence of the souereynte of Scotlonde, that he gefe to the Kyng and noght rewarded as the Kynges wille was.</P></ARGUMENT>
+<LG>
+<L>O souereyn lorde, to yow now wyll I mene</L>
+<L>Myne owne erande that greueth me full sore.</L>
+<L>Your noble Fadyr, most famouse as was sene,</L>
+<L>To me, his pore liege subgyt, that was bore</L>
+<L>Iohn Hardyng so, promysed for euer more</L>
+<L>Fourty pounde by yere of londe assised</L>
+<L>Whare that it myght by reson ben deuysed,</L>
+</LG>
+<LG>
+<L>To holde for ay to me and to myne hayres</L>
+<L>For feute fre of all maner seruyse</L>
+<L>In fe symple to thaym and to thayres:</L>
+<L>So thought he wele that it wolde me suffyse</L>
+<L>For my labour amonges his enmyse</L>
+<L>And costage grete with sore corporall mayme,</L>
+<L>Whiche I may neuer recouer ne reclayme.</L>
+</LG>
+<LG>
+<L>For to enquere and seke his Euydence</L>
+<L>Of his riall lordship and souereynte</L>
+<L>Of Scotlond, which longe to his excellence</L>
+<L>Of auncyen tyme ande longe antiquyte;</L>
+<L>And vndyr that that prynce of dignyte,</L>
+<L>Your Fadyr, so gafe me in commaundement</L>
+<L>Scotlonde to spye than after his extent;</L>
+</LG>
+<LG>
+<L>How that it myght bene hostayed and distroyed,</L>
+<L>Whatkyns passage wer for an hoste to ryde.</L>
+<L>Thrugh out that londe, with whiche thay myght ben noyed:</L>
+<L>And what tounes stode vpon the Este se syde,</L>
+<L>Whare that his flete myght mete hym and abyde</L>
+<L>With his vytayll and all his artelry</L>
+<L>His hoste to fressh in eche coste by and by.</L>
+</LG>
+<LG>
+<L>Whose charges so I labourde bysyly,</L>
+<L>And wrote it all to his intelligence,</L>
+<L>And drew it eke to byde in memory,</L>
+<L>Lyke as he bad me of his sapience,</L>
+<L>And as me thought was moste expedyence</L>
+<L>For his noblay to haue that londe conquerde,</L>
+<L>With grete costage I spyed it and enquerde.</L>
+</LG>
+<LG>
+<PB N="752" REF="13"/>
+<L>Of whiche Cuntrey a fygure now depaynte</L>
+<L>To your noblesse right as my wytte suffyse</L>
+<L>I haue her drawe, whils that this boke remaynte</L>
+<L>To byde with yow and with your hayres wyse,</L>
+<L>By whiche ye may it hostay and supprise,</L>
+<L>And conquerr it as your priorite,</L>
+<L>Or by concorde reioyse your souerente.</L>
+</LG>
+<LG>
+<L>For whiche lyfelode I pursewed to your grace,</L>
+<L>And vndyr neth your lettres secretary</L>
+<L>And pryuy sele that longed in that case</L>
+<L>Ye graunted me to haue perpetualy</L>
+<L>The maner hole of Gedyngton trewly</L>
+<L>To me and to myne heyres in heritage</L>
+<L>With membres hole and all other auauntage.</L>
+</LG>
+<LG>
+<L>Bot so was sette your noble Chaunceller,</L>
+<L>He wolde noght suffre I had suche warison</L>
+<L>By counsayll of your trusty Tresorer,</L>
+<L>That wolde not parte with londe ne yit with ton,</L>
+<L>Bot rather wolde er I had Gedyngton</L>
+<L>That ye shulde lese your riall soueraynte</L>
+<L>Of Scotlonde, whiche longe to your Rialte.</L>
+</LG>
+<LG>
+<L>Youre patent couth I haue in nokyns wyse,</L>
+<L>Bot iff I serued to all youre wyse counsayle,</L>
+<L>To whiche my purse than myght nothing suffyse:</L>
+<L>Wharfore I yede than home withoute avayle.</L>
+<L>Thus sette thay me all bakkhalf on the tayle,</L>
+<L>And all your grace thay dyd for me repelle,</L>
+<L>Youre letrres bothe thay dyd fro me cancelle.</L>
+</LG>
+<LG>
+<L>Bot vndyrneth your Fadyrs magnificence</L>
+<L>Thay durst noght so haue lette his right fall doune</L>
+<L>Ne layde on syde so riall euydence</L>
+<L>Appurtenaunt vnto his riall croune:</L>
+<L>For whiche Kyng James vnto my warison</L>
+<L>A thousonde marke me hight of Englisshe golde,</L>
+<L>Deliuerde thaym than to hym iff I wolde.</L>
+</LG>
+<LG>
+<L>O noble prynce and moste souereyn lorde,</L>
+<L>Meruell yow noght thof I thus sore compleyne,</L>
+<L>Seth my makyng stode in his mysericorde,</L>
+<L>That now is dede and all my truste in veyne;</L>
+<L>And no wyght wyll for me ought to yow seyne;</L>
+<L>Youre offycers vnfauours his promyse,</L>
+<L>That som tyme wolde haue plesed hym in all wyse.</L>
+</LG>
+<TAILNOTE><PB N="753" REF="14"/>
+<P>[In the following chapter Hardynge describes
+<Q><P>How the Kynge may moste esely conquere Scotlonde, with a figure of the londe and the myles fro towne to towne, and whare his flete may vpon euery coste mete hym, begynnynge on the Este coste of Scotlond at Berwyk on Twede; and how he may charge the wardeyns of Marche to do with lesse costages if he will abide at home. <NOTE N="10" PLACE="foot">Cf. <HI REND="italic">Chron.,</HI> ed. Ellis, pp. 423-9; see p. 476, above.</NOTE></P></Q>
+At the end (fo. 226<SUP>v</SUP>) he gives the two stanzas following, as an Envoy: with slight alteration they reappear in the later version at the beginning of the Excusacion to Edward IV. <NOTE N="11" PLACE="foot"><HI REND="italic">Chron.,</HI> ed. Ellis, p. 420.</NOTE>]
+<Q><LG>
+<L>Off thys mater I haue sayde myne intente,</L>
+<L>Like as I couthe espy and thare inquyre;</L>
+<L>Whiche if it may yow plese and wele contente</L>
+<L>Myne herte reioyeth to comforte youre desyre,</L>
+<L>And of youre grace euer more I yow requyre</L>
+<L>For to consider my losse in this matere,</L>
+<L>My mayme also that neuer more may be clere.</L>
+</LG>
+<LG>
+<L>Besechyng euer vnto your Rialte</L>
+<L>To take in thonke this boke and my seruyse,</L>
+<L>Thus newly made of my symplicite:</L>
+<L>Amonges makers that neuer was holden wyse;</L>
+<L>Bot yit I wolde in that I couthe deuyse</L>
+<L>To your estate Rial do some plesance,</L>
+<L>To whiche I lakke nought elles but suffishance.</L>
+</LG></Q></P></TAILNOTE>
+</DIV3>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

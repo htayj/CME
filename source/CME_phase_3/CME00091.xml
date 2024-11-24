@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-19-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed titles. Checked <SUP>s</SUP>; removed <SUP>s</SUP> from MILESTONEs. Reviewed structure; added some Ls to Qs; added some Ps to Qs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00091">
+<STC T="M">91</STC>
+<BIBNO T="mec">CME00091</BIBNO>
+<VID>CME00091</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="182" REF="3"/>
+<HEAD>Cambridge, Univ. Libr., Gg. I 1. <NOTE N="1" PLACE="foot">Die hs. hat für <HI REND="italic">þ</HI> und <HI REND="italic">ȝ</HI> dasselbe zeichen, dem runenzeichen für <HI REND="italic">w</HI> ähnlich sehend. Ich scheide im drucke <HI REND="italic">þ</HI> und <HI REND="italic">ȝ.</HI></NOTE></HEAD>
+<HEAD>Ici commence le livre de Hendi<HI REND="italic">n</HI>g. <MILESTONE N="476v" UNIT="bl."/></HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Jhesu Crist, al folkis rede,</L>
+<L>Þat for us alle þoled dede</L>
+<L>Apon þe rodetre,</L>
+<L>Lern us alle to be wise,</L>
+<L>And to hendi in godis servise.</L>
+<L>Amen, par charite.</L>
+<EPIGRAPH>
+<Q><P>'Wel is him þat wel ende mai'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Ne mai no man þat is in londe,</L>
+<L>For no þing þat he mai fonde,</L>
+<L>Wonni at home and spede, <NOTE PLACE="foot">2 c. <HI REND="italic">Wonni,</HI> H(alliwell) <HI REND="italic">Wonin.</HI></NOTE></L>
+<L>So fele þewis for to lerne,</L>
+<L>So he þat had isowt ȝerne</L>
+<L>Aventures in fele dede.</L>
+<EPIGRAPH>
+<Q><L>'Also fele dedis,</L>
+<L>Also fele þewis'</L></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Ne be þi childe nevir so dere,</L>
+<L>And he wil misþewis lere, <NOTE PLACE="foot">3 b. <HI REND="italic">misþewis,</HI> H <HI REND="italic">nul thewis.</HI></NOTE></L>
+<L>Bete him oþirwile; <NOTE PLACE="foot">3 c. <HI REND="italic">oþirwile,</HI> H <HI REND="italic">othir wele.</HI></NOTE></L>
+<L>Ȝef þou letist him havin his wille,</L>
+<L>Wiltou, niltow, he wil spille,</L>
+<L>And becomin a file.</L>
+<EPIGRAPH>
+<Q><L>'Lothe childe behovid lore, <NOTE PLACE="foot">3 g. <HI REND="italic">Lothe,</HI> H <HI REND="italic">Sothe.</HI></NOTE></L>
+<L>And leve childe som del more'</L></Q>
+<BIBL>Q<HI REND="italic">uo</HI>d H<HI REND="italic">ending.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Soche lore as man uil lerne,</L>
+<L>And nim hit into herte ȝerne,</L>
+<L>Man in his ȝouthe,</L>
+<L>Hi sul him and elde folow,</L>
+<L>Boþe an eve and eke a morw, <NOTE PLACE="foot">4 e. <HI REND="italic">an eve,</HI> H <HI REND="italic">avene.</HI></NOTE></L>
+<L>To be him wel cowþe.</L>
+<EPIGRAPH>
+<Q><L>'He is iblessid oso goddis mowþe, <MILESTONE N="477r"/></L>
+<L>Þat god craft lernit in is ȝougthe' <NOTE PLACE="foot">4 h. <HI REND="italic">ȝougthe,</HI> H <HI REND="italic">thougthe.</HI></NOTE></L></Q>
+<BIBL>[Quod Hending.]</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Witte and wisdome lernit ȝerne,</L>
+<L>Loc þat no man of hit werne</L>
+<L><PB N="183" REF="4"/>
+To ben wis and hende;</L>
+<L>Better hit were to be wis,</L>
+<L>Þan to weri fow and grise,</L>
+<L>Wan man ssall hen wende.</L>
+<EPIGRAPH>
+<Q><L>'Witte and wisdome</L>
+<L>Is gode warisoune'</L></Q>
+<BIBL>Q<HI REND="italic">uo</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Man mai lere a seli childe,</L>
+<L>Þat ne lernith botte a wile,</L>
+<L>Uith a litil lore;</L>
+<L>Ȝef man nul forþir teche,</L>
+<L>Þan willit his herte reche</L>
+<L>For to holde wel more.</L>
+<EPIGRAPH>
+<Q><L>'Seli childe is sone ilerid,</L>
+<L>And unselinis nevir aferid'</L></Q>
+<BIBL>Q<HI REND="italic">uod</HI> H<HI REND="italic">ending.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Ȝef þou list a sinne do,</L>
+<L>And þi wille be alle þerto,</L>
+<L>God his þat þou blinne;</L>
+<L>Wan þi lust is overgone,</L>
+<L>And þi witte is comin home,</L>
+<L>Þou ssalt þench it winne.</L>
+<EPIGRAPH>
+<Q><P>'Let luste overgone, and efte þat ssal þe licke'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Ȝef þou ert of þouhtes fele,</L>
+<L>And þou fallist for unsele</L>
+<L>Into a wikid sinne,</L>
+<L>Nadleez <HI REND="italic">(sic)</HI> do hit selde,</L>
+<L>For to letin al at þin elde,</L>
+<L>Þat þou ne deie nout þerinne.</L>
+<EPIGRAPH>
+<Q><P>'Betir is þe heie sore, þan alle blinde'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>Wiltou flesces luste overcome,</L>
+<L>Fle þou most and flitte on roume,</L>
+<L>With eie and eke with herte.</L>
+<L>Flesce þare þe icomit in sceame;</L>
+<L>Þowh ham lik<HI REND="italic">e</HI> wel þe game,</L>
+<L>Hit doth þe sowil smerte.</L>
+<EPIGRAPH>
+<Q><P>'Wel fisthit, þat wel fleth'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>Man þat nimith over flode,</L>
+<L>And his wedir be nost gode,</L>
+<L>Noþer vair no stille,</L>
+<L><PB N="184" REF="5"/>
+Þol and bide, ȝef he mai,</L>
+<L>He ssal haven an other dai</L>
+<L>Wedir to his wille.</L>
+<EPIGRAPH>
+<Q><P>'Birre haved, þat wele bide mai'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Þouch þou be wis man biholde,</L>
+<L>Ne be þou noust þarfor to bolde,</L>
+<L>And becomin wilde;</L>
+<L>Preisi þe nout wrþel <HI REND="italic">(sic)</HI> gloue,</L>
+<L>Bote þou lede þe with love,</L>
+<L>And be meke and milde.</L>
+<EPIGRAPH>
+<Q><P>'Hou bind wis man'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Wis man holdit his wordes ine,</L>
+<L>Forþi he nel no gle beginne,</L>
+<L>Ar he temp<HI REND="italic">er</HI> his pipe;</L>
+<L>Sot is sot, and þat is sene, <MILESTONE N="477v"/></L>
+<L>For he spekit is wordes grene,</L>
+<L>Ar þai ben half ripe.</L>
+<EPIGRAPH>
+<Q><P>'Fole is bolt is sone iscoutin'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>Telle þou nevir to no man</L>
+<L>Sceam and scaþe þat þe is opan,</L>
+<L>Þine harme, no þi wo;</L>
+<L>For he wille boþe nȝht <HI REND="italic">(sic)</HI> and dai</L>
+<L>Fonde ȝeorne, ȝef he mai,</L>
+<L>To mac of one two.</L>
+<EPIGRAPH>
+<Q><P>'Telle þou nevir to þi fo þat þi fote slepit'</P></Q>
+<BIBL>Q<HI REND="italic">uo</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>Ȝef þou havest bred and ale,</L>
+<L>Pilt hit nouht alle in þine male,</L>
+<L>Dele þe som aboute;</L>
+<L>Be þou fre of þine meles,</L>
+<L>Ware men met deles,</L>
+<L>Gose þou nouht withoute.</L>
+<EPIGRAPH>
+<Q><L>'Betir is one appil iȝevin,</L>
+<L>Þan twein iȝetin'</L></Q>
+<BIBL>Quod Hendi<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+<EPIGRAPH>
+<Q><L>'Soche, man, þou misth ȝevin</L>
+<L>Þat betir wer<HI REND="italic">e</HI> ȝetin'</L></Q>
+<BIBL>Q<HI REND="italic">uo</HI>d Marcol.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>Ȝef þe wantit met and cloþe,</L>
+<L>Hou þou nout to mac þe wrothe,</L>
+<L><PB N="185" REF="6"/>
+Þouch þou bid and borou;</L>
+<L>He þat hauet is stronge plouh,</L>
+<L>Met and cloþe and gode inouh,</L>
+<L>Ne wot he of no sorwe.</L>
+<EPIGRAPH>
+<Q><P>'Credi is þat godeleez'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>Þare is mani gadeling,</L>
+<L>Wan man ȝeved him litil þing,</L>
+<L>Wroþe in his þoute;</L>
+<L>Ich wene he doþe wel bi me,</L>
+<L>Þat ȝeved me a litil fe,</L>
+<L>And howith me rith noute.</L>
+<EPIGRAPH>
+<Q><P>'Wo me litil ȝevid, he is me live an'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>Man þat is leve for to done il,</L>
+<L>Wan þe worlde goth aftir his wil,</L>
+<L>Sore he mai drede;</L>
+<L>Wan men seth þat he fal,</L>
+<L>Hii wil of his owein gal</L>
+<L>Senden him to his nede.</L>
+<EPIGRAPH>
+<Q><P>'First sour brewit, sit sour drinkit'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>Man no wimman ne can ich cnou,</L>
+<L>Wile þat ever ham stondet hou,</L>
+<L>And beth ondir þorde,</L>
+<L>So fele i se, wan hi mowen</L>
+<L>Haven har wille and ben aboven,</L>
+<L>Taken ham to werde.</L>
+<EPIGRAPH>
+<Q><P>'Wan man mai done als he wille, þan doth he als he is'</P></Q>
+<BIBL>Q<HI REND="italic">uo</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>Mani man, þat is unwise,</L>
+<L>Sechet frendis, ware none ise,</L>
+<L>To spele his owen wone;</L>
+<L>Ac ar he mai home wende,</L>
+<L>He scel mete with unhende,</L>
+<L>To done him scam and sconde.</L>
+<EPIGRAPH>
+<Q><P>'Este beth owen gledes' <MILESTONE N="478r"/></P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>Þouh þe wolde wel becum</L>
+<L>For to welde housin roum,</L>
+<L>Þou most nede abide,</L>
+<L>And in þi litil wonis wende,</L>
+<L><PB N="186" REF="7"/>
+Fort þat Crist þe betir sende</L>
+<L>Alle withoute pride.</L>
+<EPIGRAPH>
+<Q><P>'Under bousse man scal wedir abide'</P></Q>
+<BIBL>Quod Hendi<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="21">
+<HEAD>21.</HEAD>
+<L>Holde hit no man for unsel,</L>
+<L>Oþerwile þouh he fele</L>
+<L>Sum þing þat him smert;</L>
+<L>Wan man is in tene meste,</L>
+<L>Þan gode sendit him neiste</L>
+<L>Wate he bedit mid herte.</L>
+<EPIGRAPH>
+<Q><L>'Wan þe bale is meste,</L>
+<L>Þan bote is neiste'</L></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="22">
+<HEAD>22.</HEAD>
+<L>Drawe þine honde sone aȝein,</L>
+<L>Ȝef man doth þe ouht unbein,</L>
+<L>Þar þine herte is ilende;</L>
+<L>Als þe childe withdrawit is honde</L>
+<L>Fro þe fire and fro þe bronde,</L>
+<L>Þat onis is ibrande.</L>
+<EPIGRAPH>
+<Q><P>'Brande childe fire dredit'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="23">
+<HEAD>23.</HEAD>
+<L>Such man ichave ilend mi clod,</L>
+<L>þat heavid maked maked me ful wrod,</L>
+<L>Ar hit come aȝein;</L>
+<L>He þat me servit al so,</L>
+<L>He scal, ȝef he bidit mo,</L>
+<L>Finde me unbein.</L>
+<EPIGRAPH>
+<Q><L>'Selde comit lone</L>
+<L>Lechind home'</L></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="24">
+<HEAD>24.</HEAD>
+<L>Lepni þe to borowing,</L>
+<L>Misse þou scelt mani a þing, <NOTE PLACE="foot">24 b. <HI REND="italic">misse,</HI> in der hs. wol <HI REND="italic">missee</HI> zu lesen, doch nicht deutlich.</NOTE></L>
+<L>Ful lef wan þou ware;</L>
+<L>Wan þou havest þin owen won,</L>
+<L>Þan is þat borowing agone,</L>
+<L>Al withoute care.</L>
+<EPIGRAPH>
+<Q><P>'Owin is owin, and other man is hedwite'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="25">
+<HEAD>25.</HEAD>
+<L>Worlde is love nis but a wreche,</L>
+<L>Wo se hit hirith, me ne reche,</L>
+<L>þouch i spek<HI REND="italic">e</HI> on heie;</L>
+<L>Wan i se þat o brother</L>
+<L><PB N="187" REF="8"/>
+Telle litil bi þat other</L>
+<L>Wa[n] he his out of his eie.</L>
+<EPIGRAPH>
+<Q><P>'Fer fro eie, fer fro herte'</P></Q>
+<BIBL>Quod Hendi<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="26">
+<HEAD>26.</HEAD>
+<L>Wilde and untou is þat eie,</L>
+<L>Þat makith man his hert to fleie,</L>
+<L>And wende out of reste;</L>
+<L>Bettir wer man him to hide,</L>
+<L>Þan to letin hi<HI REND="italic">m</HI> se so wide:</L>
+<L>Þat is, man, alirbeste.</L>
+<EPIGRAPH>
+<Q><P>'Þat eie ne seth, herte ne mournit'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="27">
+<HEAD>27.</HEAD>
+<L>Wilde and wise is hertewune;</L>
+<L>So þe brid þat is uncunende <HI REND="italic">(sic),</HI></L>
+<L>Þouch him ung<HI REND="italic">ri</HI> sore,</L>
+<L>He nel bite nevir o bitte, <MILESTONE N="478v"/></L>
+<L>Fort his eie do him to witte,</L>
+<L>Wo goth here and þare.</L>
+<EPIGRAPH>
+<Q><P>'Wise is þat ware is'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="28">
+<HEAD>28.</HEAD>
+<L>Boldeliche beswiket he me,</L>
+<L>Þat of my gode maket him fre,</L>
+<L>Fort win him gode worde;</L>
+<L>And is himsilve þe meste quede,</L>
+<L>Þat evir more mai breke brede</L>
+<L>At his oun borde.</L>
+<EPIGRAPH>
+<Q><P>'Of unbeswinke hide man kervit a brod þuange'</P></Q>
+<BIBL>Quod Hen<HI REND="italic">ding.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="29">
+<HEAD>29.</HEAD>
+<L>Mani man seith, were he riche,</L>
+<L>Ne scolde no man be him liche,</L>
+<L>So hende no so fre;</L>
+<L>Bote wan he havid gode begette,</L>
+<L>Al his fredome is forȝete,</L>
+<L>And ileid anunder kne.</L>
+<EPIGRAPH>
+<Q><P>'He is fre of hors, þat none havet'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="30">
+<HEAD>30.</HEAD>
+<L>Þe man þat wil in londe live,</L>
+<L>Him bihovid for to ȝeve,</L>
+<L>Þouh him þink pine,</L>
+<L>Sum for love of leve frendes,</L>
+<L>Sum for eȝ of loþe fendes,</L>
+<L>Þat him wolde do tene.</L>
+<EPIGRAPH>
+<Q><P>'With silverine stike man scal golde grave'</P></Q>
+<BIBL>Quod Hen<HI REND="italic">ding.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="31">
+<PB N="188" REF="9"/>
+<HEAD>31.</HEAD>
+<L>Mani man with a litil gode</L>
+<L>Ȝevith his douhter to a wiked blode,</L>
+<L>Þa litil is þe bette;</L>
+<L>A wis man with a litil more</L>
+<L>Miht wel withoute sore</L>
+<L>Habin hir wel besete.</L>
+<EPIGRAPH>
+<Q><P>'Lith chepe liþer forweldeth'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="32">
+<HEAD>32.</HEAD>
+<L>Þou miht se mani a pover þral</L>
+<L>Gatin him boþe bour and hal,</L>
+<L>And wex sone riche;</L>
+<L>Mani auther with brod londe</L>
+<L>For no þing ne mai fonde</L>
+<L>Fort be him iliche.</L>
+<EPIGRAPH>
+<Q><P>'Wi, one havit happe, an oþir hangith þarbi'</P></Q>
+<BIBL>Q<HI REND="italic">uo</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="33">
+<HEAD>33.</HEAD>
+<L>Wan man havid gode begette,</L>
+<L>Ne mai he fram his herte hit lete,</L>
+<L>Ac doth hit to ȝeme;</L>
+<L>Al to dere is bouht þe ware,</L>
+<L>Þat ma<HI REND="italic">n</HI> scal al mid care</L>
+<L>His wilful herte queme.</L>
+<EPIGRAPH>
+<Q><L>'Al to dere his bouht honni,</L>
+<L>To lik<HI REND="italic">e</HI> up hauh þorne'</L></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="34">
+<HEAD>34.</HEAD>
+<L>In morwintide growith g<HI REND="italic">ri</HI>me,</L>
+<L>Sterne and grimlich in sum time,</L>
+<L>Sit wexit mek<HI REND="italic">e</HI> and milde;</L>
+<L>So doth mani modirsunne,</L>
+<L>Wan he levit his ivil wonne,</L>
+<L>Chastit him as childe.</L>
+<EPIGRAPH>
+<Q><P>'At eve man scal þe dai heri'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="35">
+<HEAD>35.</HEAD>
+<L>Ȝef man doth þe scame and scaþe, <MILESTONE N="479r"/></L>
+<L>Na take þou nouht þarfor to raþe</L>
+<L>Anone for to do wreche;</L>
+<L>Do bi god and gode redis,</L>
+<L>Þan sullit alle þine dedis</L>
+<L>To þine wille reche.</L>
+<EPIGRAPH>
+<Q><P>'Betir is rede þan res'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="36">
+<HEAD>36.</HEAD>
+<L>Wat ich þe ȝeve, tak<HI REND="italic">e</HI> hit sone,</L>
+<L>For ȝef þou bidist til aftir none,</L>
+<L><PB N="189" REF="10"/>
+For þu wost me trewe,</L>
+<L>Wiltou, niltou, þar mai rise</L>
+<L>Letting in ful mani a wise,</L>
+<L>Eft hit wil þe rewe.</L>
+<EPIGRAPH>
+<Q><P>'Wan man ȝevit þe a pig, opin þe powch'</P></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="37">
+<HEAD>37.</HEAD>
+<L>Þ[a]t nechbor þat is þi frende,</L>
+<L>To him þou wolt þi sondes sende,</L>
+<L>To witin of his wille;</L>
+<L>He þat in þin erend scalle go,</L>
+<L>Of a worde he maket two,</L>
+<L>Beter him were be stille.</L>
+<EPIGRAPH>
+<Q><L>'Wan þe tunge maket more þan he solde,</L>
+<L>Oft scel he hire, wan hi<HI REND="italic">m</HI> loþe wolde'</L></Q>
+<BIBL>Q<HI REND="italic">uod Hending.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="38">
+<HEAD>38.</HEAD>
+<L>Wan þe glotun find gode ale,</L>
+<L>He pultit so mochel in his male,</L>
+<L>Ne levit he for non eȝe;</L>
+<L>So longe he doth aȝenis þe richt,</L>
+<L>Þat he wendit home al bi nicht,</L>
+<L>And liþe dede be þe weye.</L>
+<EPIGRAPH>
+<Q><P>'Drink<HI REND="italic">e</HI> eft lasse, and go bi lith home'</P></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="39">
+<HEAD>39.</HEAD>
+<L>Wikit man and wikit wif,</L>
+<L>Wan hi doth har derne lif,</L>
+<L>Ne let þat for no sinne;</L>
+<L>Wil þei, nil þei, out hit scel,</L>
+<L>And be wel couþe everi del,</L>
+<L>Þat his loþe to blinne.</L>
+<EPIGRAPH>
+<Q><P>'Ever comith out liþre spon ȝerne'</P></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="40">
+<HEAD>40.</HEAD>
+<L>Þe man þat metit his leve frende,</L>
+<L>He doth also fre and hende,</L>
+<L>To clepin and to kisse;</L>
+<L>Þarafter metit he his fo,</L>
+<L>He loutit to him and letit him go,</L>
+<L>Ne doth he him no blisse.</L>
+<EPIGRAPH>
+<Q><P>'Wel wote badde wose berde he lickith'</P></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="41">
+<HEAD>41.</HEAD>
+<L>Þou þat art riche man here,</L>
+<L>Þou ȝevist him þat his þi pere,</L>
+<L>And preist him to þi feste;</L>
+<L>Þe povre þou drivist for fram þi cleve,</L>
+<L><PB N="190" REF="11"/>
+Forþi no gode ne mai he ȝeve,</L>
+<L>Þat nis nouht in þis meste. <NOTE PLACE="foot">41 f. <HI REND="italic">in,</HI> hs. <GAP DESC="illegible" EXTENT="1 letter" REASON="faint" DISP="•"/> n̄.</NOTE></L>
+<EPIGRAPH>
+<Q><P>'Ever man fedit þe fat swine for þe smere'</P></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="42">
+<HEAD>42.</HEAD>
+<L>Þe maide þat ȝevit hirsilf alle</L>
+<L>Oþir to fre man, oþir to þralle,</L>
+<L>Ar ringe be set an honde,</L>
+<L>And pleiit with þe crok<HI REND="italic">e</HI> and wiþ þe balle, <MILESTONE N="479v"/></L>
+<L>And mekit gret þat erst was smalle,</L>
+<L>Þe wedding got to sconde.</L>
+<EPIGRAPH>
+<Q><L>'Ȝeve þi cunte to cunnig,</L>
+<L>And crave affetir weddi<HI REND="italic">n</HI>g'</L></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="43">
+<HEAD>43.</HEAD>
+<L>Þat ich telle a liþir lippe,</L>
+<L>Wo se lepit into þe scippe,</L>
+<L>Wile þe winde is wode;</L>
+<L>Ar þat he icum to londe,</L>
+<L>He mai siche and wringe his honde,</L>
+<L>And be ful dreri of mode.</L>
+<EPIGRAPH>
+<Q><P>'Oft and lome rak<HI REND="italic">e</HI> ful rewit'</P></Q>
+<BIBL>Quod Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="44">
+<HEAD>44.</HEAD>
+<L>Warto willit þe sunnis strive,</L>
+<L>Wile þe fader is a live,</L>
+<L>Wo schal hab þe londe?</L>
+<L>Al he mai ham ovirbide,</L>
+<L>And sit þe londe mai glide</L>
+<L>Into an othir honde.</L>
+<EPIGRAPH>
+<Q><L>'Heiht he sithit <NOTE PLACE="foot">44 g. oder <HI REND="italic">sichit.</HI></NOTE></L>
+<L>Þat acris delit'</L></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="45">
+<HEAD>45.</HEAD>
+<L>Þe man þat ever þenchit sceame</L>
+<L>And turnit his harmis al to grame</L>
+<L>To þai þat bit hi<HI REND="italic">m</HI> aboute,</L>
+<L>Ȝef he longe livit in londe,</L>
+<L>Sum unsele he scal fonde,</L>
+<L>Þat seit he mai doute.</L>
+<EPIGRAPH>
+<Q><P>'Wrothelich endit þat liþir doth'</P></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="46">
+<HEAD>46.</HEAD>
+<L>Riche and pover, ȝung and olde,</L>
+<L>Þe wile ȝe habet ȝoure tung i wolde,</L>
+<L>Be ȝoure sowel bote;</L>
+<L><PB N="191" REF="12"/>
+Wan ȝe wenit allirbeste</L>
+<L>To habbe lif and hele and reste,</L>
+<L>Þe ax is at rote.</L>
+<EPIGRAPH>
+<Q><P>'Wo se nel, wan he mai, he ne scel nouth, wan he wolde'</P></Q>
+<BIBL>Quod Hend<HI REND="italic">ing.</HI></BIBL>
+</EPIGRAPH>
+<EPIGRAPH>
+<Q><L>'Al to late, al to late,</L>
+<L>Wan þe deth is at þe ȝate'</L></Q>
+<BIBL>Quod Marcol.</BIBL>
+</EPIGRAPH>
+</LG>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Oxford, Bodl., Digby 86.</HEAD>
+<HEAD>Hending þe hende. <MILESTONE N="140v" UNIT="bl."/>, <MILESTONE N="1" UNIT="sp."/></HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>J<HI REND="italic">es</HI>u Crist, al þis worldes red,</L>
+<L>Þat for oure su<HI REND="italic">n</HI>nes wolde be ded</L>
+<L>On þat holi rodetre,</L>
+<L>He lete ous alle to ben wise,</L>
+<L>And enden in his servise.</L>
+<L>Am<HI REND="italic">en,</HI> p<HI REND="italic">ar</HI> seinte charite.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Wit and wisdom lerneþ ȝerne,</L>
+<L>And loke þat no man oþer werne</L>
+<L>To ben ful wis and hende;</L>
+<L>For betere were to ben wis,</L>
+<L>Þan to werien fou and gris,</L>
+<L>Were se mon shal ende.</L>
+<EPIGRAPH>
+<Q><L>'Wit and wisdom</L>
+<L>Is god wareisu<HI REND="italic">n</HI>'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>May no mon þat is in londe,</L>
+<L>For no þing þat he con fonde,</L>
+<L>Wonen at hom and spede,</L>
+<L>Fele þewes for to lere,</L>
+<L>So he þat haveþ wide were</L>
+<L>Souht in fele þede.</L>
+<EPIGRAPH>
+<Q><L>'Also fele þedes,</L>
+<L>Also fele þewes'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Beo þi child þe no so dere,</L>
+<L>And hit wille ounþewes lere,</L>
+<L>Bet hit oþerwile;</L>
+<L>For mote hit haven al his uille,</L>
+<L>Niltou, wiltou, hit shal spille,</L>
+<L>And bicomen a file.</L>
+<EPIGRAPH>
+<Q><L>'Lef child bihoveþ lore,</L>
+<L>And evere þe levere þe more;</L>
+<L>For betere were child ounboren, þen ounbeten'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="5">
+<PB N="192" REF="13"/>
+<HEAD>5.</HEAD>
+<L>Swilke lores as þou lerest,</L>
+<L>After þat þou sest and herest, <MILESTONE N="2" UNIT="sp."/></L>
+<L>Man, in þine ȝouþe,</L>
+<L>Shulen þe in helde folewen,</L>
+<L>Boþe on even and on morewen,</L>
+<L>And ben þe ful couþe.</L>
+<EPIGRAPH>
+<Q><L>'Ȝoung wonez,</L>
+<L>Hold moneþ'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>If þou art ful wis mon holden,</L>
+<L>Noust þou nout þeron to bolden, <NOTE PLACE="foot">6 b. Hinter <HI REND="italic">nout</HI> noch <HI REND="italic">be</HI> übergeschrieben.</NOTE></L>
+<L>Ne bicomen to wilde;</L>
+<L>Ne preise ich þe nouht for a gloue,</L>
+<L>Bote þou lede þe mid howe,</L>
+<L>And be meke and milde.</L>
+<EPIGRAPH>
+<Q><P>'Howe bind wisdom'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Uuis man halt his wordes inne,</L>
+<L>For he nelle no gle biginne,</L>
+<L>Er he tempre his pipe;</L>
+<L>Sot is soþ, and þat is sene,</L>
+<L>For he spekeþ wordes grene,</L>
+<L>Ar þen hoe ben ripe.</L>
+<EPIGRAPH>
+<Q><P>'Sottes bolt is sone isotten'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">en</HI>di<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>If þe luste a sunne don,</L>
+<L>And þin herte is al þeron,</L>
+<L>þanne is god þou blinne;</L>
+<L>For wen þat hete is overgon,</L>
+<L>And þi wit is comen hom,</L>
+<L>Þe shal þinken winne.</L>
+<EPIGRAPH>
+<Q><P>'Let lust overgon, and eft hit shal þe liken'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>If þou art of þoutes liȝte,</L>
+<L>And þou falle for ounmiȝte</L>
+<L>In ani dedlik sunne,</L>
+<L>Ich rede þat þou hit do selde,</L>
+<L>In þat sunne þat þou ne helde, <MILESTONE N="141r"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>Ne deie þou nout þerinne.</L>
+<EPIGRAPH>
+<Q><P>For 'betere is heye sor, þen al blind'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="10">
+<PB N="193" REF="14"/>
+<HEAD>10.</HEAD>
+<L>If þou wilt fleses lust overcome,</L>
+<L>Flen þou most and drawe a rome,</L>
+<L>Mid eye and eke mid herte.</L>
+<L>Of fleses lust comeþ muche same;</L>
+<L>Þey þe þinke swete þe game,</L>
+<L>He doþ þe soule smerte.</L>
+<EPIGRAPH>
+<Q><P>'Wel fiȝt, þat wel fleþ'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Wel is him þat sunne hateþ,</L>
+<L>And þat hit leteþ and forsakeþ,</L>
+<L>Er hit ronke in rote;</L>
+<L>For þe mon þat longe abideþ,</L>
+<L>Mani hertetene him tideþ,</L>
+<L>Er him come bote.</L>
+<EPIGRAPH>
+<Q><P>'Wone wole wille haven oþer wo bide'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Tel þou nevere to þat mon</L>
+<L>Ani same þat þe on,</L>
+<L>Þin harm and þi wo;</L>
+<L>For he wolle niȝt and day</L>
+<L>Fonden hevere, þan he may,</L>
+<L>To maken of on two.</L>
+<EPIGRAPH>
+<Q><P>'Tel þou nevere þi fo þat þi fot slepeþ'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>Hold þou no mon for unsele,</L>
+<L>Oþerwile þey he fele</L>
+<L>Soum þing þat him smerte;</L>
+<L>For wan mon is in kare and tene,</L>
+<L>þenne hereþ god his bene, <NOTE PLACE="foot">13 e. hs. <HI REND="italic">herereþ.</HI></NOTE></L>
+<L>Þat he bit mid herte.</L>
+<EPIGRAPH>
+<Q><L>'Þere þe bale is mest,</L>
+<L>Þere is þe bote nest'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>Þe mon þat is lef to don ille,</L>
+<L>Þan þe world goþ after his wille,</L>
+<L>Ful sore him may drede;</L>
+<L>For if man seþ þat he falle,</L>
+<L>After help longe he may calle,</L>
+<L>And faillen at þe nede.</L>
+<EPIGRAPH>
+<Q><L>'So þe bet þe be,</L>
+<L>So þe bet þe bise'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">en</HI>di<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="15">
+<PB N="194" REF="15"/>
+<HEAD>15.</HEAD>
+<L>Wo se wile here in londe liven,</L>
+<L>Mani manere he mot given,</L>
+<L>Þey him þinke pine;</L>
+<L>Sum for love of leve frendes,</L>
+<L>Soum for heye of loþe fendes,</L>
+<L>Þat willen him don tine.</L>
+<EPIGRAPH>
+<Q><P>'Mid selvrene stikke me shal gold graven'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>Of al þat ich evere ues in hirde,</L>
+<L>Nevere ne likede me mi wirde,</L>
+<L>For non wines fille;</L>
+<L>Bote nou at min owene won</L>
+<L>Win and water, stok and ston,</L>
+<L>Al goþ me to wille.</L>
+<EPIGRAPH>
+<Q><L>For 'betere is on ey wiþ heste,</L>
+<L>Þen on oxe wiþ cheste.</L>
+<L>Este ben owene brondes'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">en</HI>ding.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>Þey þe wolde wel bicomen</L>
+<L>For to welden houses roume,</L>
+<L>Þou most nede abide,</L>
+<L>And in litele wones wike,</L>
+<L>Til þat god þe make rike,</L>
+<L>Al wiþouten pride.</L>
+<EPIGRAPH>
+<Q><P>'Ounder buskes me shal fair weder abide'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">en</HI>di<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>Þe worldes love hit is wreche, <MILESTONE N="141v"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>Wo hit here, ne me reche,</L>
+<L>Þau ich speke on heie;</L>
+<L>For ich se þe selve broþer,</L>
+<L>Þat litel þenkeþ of þat oþer,</L>
+<L>Come he out of his heye.</L>
+<EPIGRAPH>
+<Q><P>'Fer from eye, fer from herte'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>Wilde and waker is þat eye,</L>
+<L>Þat doþ manes herte fleye,</L>
+<L>And flitten out of his rest;</L>
+<L>Þerefore on mon hit to huide,</L>
+<L>And nout leten hit so wide,</L>
+<L>Þat is aldrebest.</L>
+<EPIGRAPH>
+<Q><P>For 'þat eye ne seeþ, herte ne reweþ'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>Swech man havi land <HI REND="italic">(sic)</HI> mi cloþ,</L>
+<L>Þat ofte haveþ imaked me wroþ,</L>
+<L><PB N="195" REF="16"/>
+Er hit come aȝein.</L>
+<L>Efte þau he havede nede,</L>
+<L>And he wene wel to spede,</L>
+<L>Hic shal ben him unbein.</L>
+<EPIGRAPH>
+<Q><P>'Selden comeþ lone lauinde homward'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="21">
+<HEAD>21.</HEAD>
+<L>Men seþ ofte a muche file,</L>
+<L>Þey he serve boten a wile,</L>
+<L>Bicomen swiþe riche,</L>
+<L>And an oþer no þing fonge,</L>
+<L>Þat haveþ served swiþe longe;</L>
+<L>Evere he is iliche.</L>
+<EPIGRAPH>
+<Q><P>'Som haveþ happe, and sum hongeþ bi'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="22">
+<HEAD>22.</HEAD>
+<L>Swech is katel to bigeten,</L>
+<L>Serewe and kare er mid leten <HI REND="italic">(sic),</HI> <MILESTONE N="2" UNIT="sp."/></L>
+<L>And eke treȝe and tene; <NOTE PLACE="foot">22 c. hs. <HI REND="italic">treþe.</HI></NOTE></L>
+<L>Al to dere is bouht þat ware,</L>
+<L>Þat man ne may wiþouten kare</L>
+<L>His owne herte queme.</L>
+<EPIGRAPH>
+<Q><L>'Al to dere is bouht honi,</L>
+<L>Þat mon shal liken of þornes'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">endin</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="23">
+<HEAD>23.</HEAD>
+<L>Þat i give, tak hit sone;</L>
+<L>If þou bidest til eftsone,</L>
+<L>For þou wost me trewe,</L>
+<L>Nilli, willi, þer may rise</L>
+<L>Wrache on mani kunnes wise,</L>
+<L>Þat þe wille rewe.</L>
+<EPIGRAPH>
+<Q><P>'Wen me bedeþ þe gris, opene þe shet'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="24">
+<HEAD>24.</HEAD>
+<L>Þe glotoun, þer he fint goed ale,</L>
+<L>He doþ so muchel in his male,</L>
+<L>Let he for non heye;</L>
+<L>So longe he doþ euch mon riȝt,</L>
+<L>Þat he walkeþ hom bi niȝt,</L>
+<L>And liþ ded bi þe waye.</L>
+<EPIGRAPH>
+<Q><P>'Drink eft lasse, and go bi liȝtte hom'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="25">
+<HEAD>25.</HEAD>
+<L>If þou havest bred and ale,</L>
+<L>Pult hit nout al in þi male,</L>
+<L><PB N="196" REF="17"/>
+Del þe sum aboute;</L>
+<L>Do þou menske of þine meles,</L>
+<L>Overal þer me mete deles,</L>
+<L>Ne best þou nout wiþoute.</L>
+<EPIGRAPH>
+<Q><L>'Betere is appel iȝeven,</L>
+<L>Þen al ieten'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="26">
+<HEAD>26.</HEAD>
+<L>If þe uonteþ mete and cloþ,</L>
+<L>Ne make þe nout forþi to wroþ,</L>
+<L>Þey þou bidde and borewe;</L>
+<L>For he þat haveþ his stronge plou, <MILESTONE N="142r"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>Mete and cloþ and goed inou,</L>
+<L>Wot he nout þi serewe.</L>
+<EPIGRAPH>
+<Q><P>'Gredi is þe goedles'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="27">
+<HEAD>27.</HEAD>
+<L>Ich se mani gadeling,</L>
+<L>Wen me ȝefþ him a luitel þing,</L>
+<L>Ful wroþ in his þout;</L>
+<L>Me þinkeþ he doþ wel bi me,</L>
+<L>Þat ȝeveþ me a luitel fe,</L>
+<L>And noweþ me riȝt nouht.</L>
+<EPIGRAPH>
+<Q><P>'He þat me luitel ȝefþ, he me lif on'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">ending.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="28">
+<HEAD>28.</HEAD>
+<L>Ful baldeliche biswikeþ he me,</L>
+<L>Þat of mi katel makeþ him fre,</L>
+<L>For to geten him word;</L>
+<L>And is himself þe meste qued,</L>
+<L>Þat evere more brekeþ bred</L>
+<L>At his houne bord.</L>
+<EPIGRAPH>
+<Q><P>'Of ounbiserewe <HI REND="italic">(sic)</HI> huide me takeþ brod þwong'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="29">
+<HEAD>29.</HEAD>
+<L>Mani on seiþ, were he riche,</L>
+<L>Sholde non oþer ben him liche,</L>
+<L>Ne ben so large and fre;</L>
+<L>Wen þe katel is igeten,</L>
+<L>Þenne is þe fredom al forȝeten,</L>
+<L>And leid ounder kne.</L>
+<EPIGRAPH>
+<Q><P>'He is fre of hors, þat non ne haveþ'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="30">
+<HEAD>30.</HEAD>
+<L>Mani man mid a luitel haute</L>
+<L>Gifþ his douter at ounmaute,</L>
+<L>Þer hire is luitel þe bet;</L>
+<L>He miȝtte, wis man ȝif he were,</L>
+<L><PB N="197" REF="18"/>
+Given hire mid a luitel more,</L>
+<L>And haven hire wel biset.</L>
+<EPIGRAPH>
+<Q><P>'Liȝtte chepes luþere forȝeldeþ' <MILESTONE N="2" UNIT="sp."/></P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">en</HI>d<HI REND="italic">in</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="31">
+<HEAD>31.</HEAD>
+<L>Mon þat markeþ after his miȝtte,</L>
+<L>Boþe bi day and eke bi niȝtte,</L>
+<L>þey him god of þinke os hise dedes <HI REND="italic">(sic),</HI></L>
+<L>Him shal ofte wel bitiden,</L>
+<L>Wen þe sot shal sore siken</L>
+<L>In alle hise nedes.</L>
+<EPIGRAPH>
+<Q><P>'Sene hon hende, sene on al'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hen<HI REND="italic">din</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="32">
+<HEAD>32.</HEAD>
+<L>Þou me lovest and i þe,</L>
+<L>Þeraȝein ne willi nout be,</L>
+<L>Bote hele wat so we seye;</L>
+<L>He þe worþeþ, he welies nohut,</L>
+<L>For he wot þe monnes þohut,</L>
+<L>He wot seþþe þe weye.</L>
+<EPIGRAPH>
+<Q><L>'Sor is word and sor is werk,</L>
+<L>Sor is bite and sor is berk'</L></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">endin</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="33">
+<HEAD>33.</HEAD>
+<L>Ofte morewen grei bigrowen,</L>
+<L>Seþ man þe day faire dowen,</L>
+<L>And ful briȝt on hende;</L>
+<L>So doþ mani modersone,</L>
+<L>Wan he lat his holde wone,</L>
+<L>He waxeþ wis and hende.</L>
+<EPIGRAPH>
+<Q><P>'At even me shal preisen þe feire dai'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">ending.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="34">
+<HEAD>34.</HEAD>
+<L>If men doþ þe shame an scaþe,</L>
+<L>Rape þou nohut al to raþe</L>
+<L>To resen and to wreken;</L>
+<L>Folu god and godes redes,</L>
+<L>Þan þe sullen þine dedes <NOTE PLACE="foot">34 e. <HI REND="italic">sullen</HI> schreibe ich nach C <HI REND="italic">(sullit).</HI> In der hs lese ich <HI REND="italic">en</HI> und davor fünf senkrechte striche.</NOTE></L>
+<L>To þi wille rechen.</L>
+<EPIGRAPH>
+<Q><P>'Betere is red þen res'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="35">
+<HEAD>35.</HEAD>
+<L>If þi loverd is neufangel,</L>
+<L>Ne be þou nout forþi outgangel</L>
+<L>Mid illore iwon;</L>
+<L><PB N="198" REF="19"/>
+Betere is þe holde loverd þen þe newe, <MILESTONE N="142v"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>þat þe wole frete and gnawe</L>
+<L>To þe bare bon.</L>
+<EPIGRAPH>
+<Q><P>'Houngri flei bit sore'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hendi<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="36">
+<HEAD>36.</HEAD>
+<L>Lipne þou nohut to borewinge,</L>
+<L>For þou shalt missen of mani þinge,</L>
+<L>Ful lef wen þe were;</L>
+<L>If þou havest þine oune won,</L>
+<L>Þenne is þe borewinge overgon,</L>
+<L>Al wiþouten kare.</L>
+<EPIGRAPH>
+<Q><P>'Owene is owene and oþer mannes edwyt'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="37">
+<HEAD>37.</HEAD>
+<L>Mani man and mani wif</L>
+<L>Wenen to leden here lif</L>
+<L>Here in derne senne;</L>
+<L>Wille þei, nille þei, out hit shal,</L>
+<L>And ben ful couþ overal,</L>
+<L>Boþe þikke and þenne.</L>
+<EPIGRAPH>
+<Q><P>'Evere comeþ out uvel spo<HI REND="italic">n</HI>nen wolle, bote if me hit wiþinne for∣bre<HI REND="italic">n</HI>ne'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="38">
+<HEAD>38.</HEAD>
+<L>Mani man bitwixen frendes</L>
+<L>Oþerwile wordes sendes,</L>
+<L>Er þen þey weren seide;</L>
+<L>Þenne wit and heres wikke <HI REND="italic">(sic!)</HI></L>
+<L>Maken ofte wordes wikke,</L>
+<L>Þat wel miȝtten ben leyde.</L>
+<EPIGRAPH>
+<Q><P>'Misherinde men he me biwreien'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="39">
+<HEAD>39.</HEAD>
+<L>Men seþ ofte breþren strive,</L>
+<L>Þe wiles þe fader is on live,</L>
+<L>Wo shal haven þat lond;</L>
+<L>Þe fader may boþe overbide,</L>
+<L>And þat lond hit may atglide <MILESTONE N="2" UNIT="sp."/></L>
+<L>Into a fremde hond.</L>
+<EPIGRAPH>
+<Q><P>'Heye he sit, þat akeres deleþ'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">ending.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="40">
+<HEAD>40.</HEAD>
+<L>Þat ich telle on uvel lipe,</L>
+<L>Mon þat sheteþ him into shipe,</L>
+<L>Wen þat wind is wod;</L>
+<L>For be he comen into þat depe,</L>
+<L><PB N="199" REF="20"/>
+Þanne may he sike and wepe,</L>
+<L>And ben drerimod.</L>
+<EPIGRAPH>
+<Q><P>'Ofte rape reweþ'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hendi<HI REND="italic">n</HI>g.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="41">
+<HEAD>41.</HEAD>
+<L>If þou þenkest over flod,</L>
+<L>Wen þe wind is waxe wod,</L>
+<L>Abid fair weder and stille;</L>
+<L>Abid and þole, if þou may,</L>
+<L>And þou shalt haven an oþer day</L>
+<L>Weder after þi wille.</L>
+<EPIGRAPH>
+<Q><P>'Muchel of his wille abit, þat wel may þolien'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="42">
+<HEAD>42.</HEAD>
+<L>Þarf þe nevere gon ne sitten</L>
+<L>Fro dore to dore, for to witten,</L>
+<L>In londe ne in more,</L>
+<L>Þat he ne wille hireselwen kuiþe,</L>
+<L>Wo se wile þerafter liþe,</L>
+<L>Þe wimman þat is hore.</L>
+<EPIGRAPH>
+<Q><P>'Þarf þe nevere houngen belle on bicchetaille'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="43">
+<HEAD>43.</HEAD>
+<L>Drau þin hond wel sone aȝein,</L>
+<L>If men doþ þe ani ounfein,</L>
+<L>Þere þin auhte is lend,</L>
+<L>So þe child þat draweþ is hond</L>
+<L>Fro þe leye an fro þe brond,</L>
+<L>Þat is enes ibrend.</L>
+<EPIGRAPH>
+<Q><P>'Brend child fuir fordredeþ'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d H<HI REND="italic">ending.</HI></BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="44">
+<HEAD>44.</HEAD>
+<L>Hit ben manie þat ich cnowe <MILESTONE N="143r"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>Ounwreste and wiþere <HI REND="italic">(sic),</HI> slac and slowe,</L>
+<L>Stertful, mod and sterne;</L>
+<L>And so evere don ounwreste,</L>
+<L>Þat hy for love ne for cheste</L>
+<L>No goed nullen lerne.</L>
+<EPIGRAPH>
+<Q><P>'Sher asse and shrap asse, ne bringest þou nevere asse to gode rodehorse'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="45">
+<HEAD>45.</HEAD>
+<L>Wilde and wantoun is hertes wone;</L>
+<L>So is þe fowel þey he shone <HI REND="italic">(sic),</HI></L>
+<L>Þey him hungere sore,</L>
+<L>For to biten ani bite,</L>
+<L>Bote his [eye] do him wite,</L>
+<L>Wo goþ here and tore.</L>
+<EPIGRAPH>
+<Q><P>'Wis is þat war is'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="46">
+<PB N="200" REF="21"/>
+<HEAD>46.</HEAD>
+<L>Frendes wordes þer hy ben grete,</L>
+<L>Su<HI REND="italic">m</HI>me bittere and su<HI REND="italic">m</HI>me swete,</L>
+<L>And wel ful of swike;</L>
+<L>Swich haveþ þouhttes wel unclene,</L>
+<L>Þat hit wot wel al bidene,</L>
+<L>And con hem faire slike.</L>
+<EPIGRAPH>
+<Q><P>'Hit nis nout al gold, þat shineþ'</P></Q>
+<BIBL>Quad Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+<LG N="47">
+<HEAD>47.</HEAD>
+<L>Riche and povere, ȝonge and olde,</L>
+<L>Þe wiles þey haven here to<HI REND="italic">n</HI>ge i wolde,</L>
+<L>Þey seken here soules bote;</L>
+<L>For ofte wen mon wenez best</L>
+<L>Lif and hele, ro and rest,</L>
+<L>Þe ax is at þe rote.</L>
+<EPIGRAPH>
+<Q><P>'Mani man weneþ þat he wene ne þarf, longe to liven, and him lieþ þe wrench'</P></Q>
+<BIBL>Q<HI REND="italic">ua</HI>d Hending.</BIBL>
+</EPIGRAPH>
+</LG>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

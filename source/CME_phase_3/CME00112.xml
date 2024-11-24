@@ -1,0 +1,2745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-2-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed. Checked <SUP>s</SUP>. Reviewed structure. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00112">
+<STC T="M">112</STC>
+<BIBNO T="mec">CME00112</BIBNO>
+<VID>CME00112</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="chronicle">
+<PB REF="1"/>
+<HEAD>A SHORT ENGLISH CHRONICLE, FROM LAMBETH MS. 306.</HEAD>
+<DIV2 TYPE="part">
+<HEAD>Cronycullys of Englonde.</HEAD>
+<P>IN the noble londe of Surrye <NOTE N="a" PLACE="foot">Syria.</NOTE> was some tyme a greate kynge and a myghty that was named Dioclesyan, and he was the moste worthiest kynge than levinge on erthe, as the story seythe. And this brevelye to procede, he hade by dyverse wiffes xxxiij<SUP>ti</SUP> doughteres, the whiche were geven in to maryage to xxxiij<SUP>ti</SUP> kynges of dyverse contres. And all the kynges were under Dioclesyan, and obedient unto hym. And after it be fell so that thes wiffes wexen so proude and sterne toward ther husbondes by one assent compleyned upon hem to Dioclesyan the grete kynge; and so ther fader were gretly amevid of ther governaunce; and so he gave his daughtres a grete rebuke in presens of all her husbondes. And so the nexte nyght folowynge for male talent and greate ire that they were so foule blamed of ther fader through grete complaynte of ther husbondes, they toke their counselle togeder, and thought to be avenged. And so the nexte nyght by one assent thei cut her husbondis throtes, and violensely they were slayne alle. And tho were all the xxxiij<SUP>ti</SUP> false women that were quenes of diverse londis exiled oute of all the londe of Surrye, and put into a shippe withouten helpe of any man. And toke hem vitaile for halfe a yere or more, and be toke hem to Mahonde and Appolyne to kepe. And so thei were in the see longe and mony a daye. Till at the last thei were drevyn in to this londe, that tho was all disserte and wildernesse and full of wilde bestis. And than they come alande wher they fonde no creature þerin. Tho saide Albyne, the eldest sister, I se
+<PB N="2" REF="2"/>
+well by reyson that we ben the fyrst creatures that ever came here; wherefor I will have this lond called after my name, Albyon londe. Tho levid they here in this londe as bestis by erbis and rotis, and ete rawe flesshe and dranke wilde bestis blode, and so they wex coragious and ranke, and desired gretely the feleshippe of men. And tho came sprytes of the ayre and wonderly delid with hem, and so they brought forthe giantes as the story reherseth, as Gogge, Ma gogge and other; and so levid forthe the geauntes un till the cominge of Brute.</P>
+<P>Fro the begynnynge of the worlde unto the distruccion of the grete cyte of <NOTE N="a" PLACE="foot"><HI REND="italic">the grete cyte of.</HI> These words are interlined by a second hand, by which most of the side-notes have been supplied.</NOTE> Troye was iiijM<SUP>l</SUP>iiij<SUP>xx</SUP> and iiij yere. That is for to sey, afor the Carnacion of Crist M<SUP>l</SUP>CXV yere. [Fro þ<SUP>e</SUP> begynnynge of the worlde unto the destruccion of the grete cite of Troye was M<SUP>l</SUP>iiij<SUP>xx</SUP> and iiij yere.] <NOTE N="b" PLACE="foot">Erased in the MS.</NOTE> And fro that tyme in to the comynge of Brute fyrst into this londe was lxxiiij yere. And that was by for the Incarnacion M<SUP>l</SUP>xlj yere, &amp;c.</P>
+<P>The fyrst kynge that ever was in this londe was Brutus, the <NOTE PLACE="marg">Brute was a Trojane.</NOTE> whiche was come of the gentill blode of Troye, as the storye telleth. And he began first London, and named hit at that tyme Newe Troye, because he was com of the lynage of the Troye. And also he lette call this lande Brutayne after his name, and the people that he brought with hym he named Brutones, and he yave his men grete yeftis, and gaffe hem londe to lyve upon, and they bilded howses and bilded many townes through helpe of ther kynge Brute. And when Brute had regned xxv yere than he dyed, and lieth at Newe Troye that nowe is called London. And ther he was worthely entered, and he was xxx<SUP>ti</SUP> yere of age or he was crowned kynge of Brutayne. The some of his age or he dyed was lv yere, and that was be for the Incarnacion of Criste M<SUP>l</SUP>xvj yere.</P>
+<P>Afftyr kynge Brutus regned his sonne Locryne, a gode knyght <NOTE PLACE="marg">Locryne.</NOTE> and a myghty, and he regned but vj yere.</P>
+<P><PB N="3" REF="3"/>
+Aftir kynge Locryne regned his wiffe Guendolyn, the whiche <NOTE PLACE="marg">Guendolyne.</NOTE> that hade a sonne that hight Madahan, þat was kynge Locrynes' <NOTE PLACE="marg">Madahan.</NOTE> sonne. And the quene kepte him in hir governaunce till that he was xx<SUP>ti</SUP> wynter olde. And than he was made kynge, and so the quene regned xvj yere after Locryn dyed. And so regned Madahan, that was Locrynes sonne, xxxij yere, and lythe at Newe Troye.</P>
+<P>After him regned his sonne Memprice xxviij yere. <NOTE PLACE="marg">Mempryce.</NOTE></P>
+<P>After hym regned his sonne Eboranke, <NOTE N="a" PLACE="foot">In the names Eborank and Eborawyke, the "o" is inserted between b and r by the second hand, both in the text and in the margin.</NOTE> the which was a gode <NOTE PLACE="marg">Eborank. <NOTE N="a" PLACE="foot">In the names Eborank and Eborawyke, the "o" is inserted between b and r by the second hand, both in the text and in the margin.</NOTE></NOTE> knyght and a myghty, for he conquered all the londe of Fraunce, and gate grete umbre of gode. That whane he come home a yene he lete make a fayre cite and lete called after his name Eborawyke, <NOTE N="a" PLACE="foot">In the names Eborank and Eborawyke, the "o" is inserted between b and r by the second hand, both in the text and in the margin.</NOTE> that nowe men clepeth Yorke. And he hade by dyverse women xx<SUP>ti</SUP> sonnes and xxiij<SUP>ti</SUP> doughtres; and his sonnes were grete lordys, and conqured many contres. And this kynge Eboranke <NOTE N="a" PLACE="foot">In the names Eborank and Eborawyke, the "o" is inserted between b and r by the second hand, both in the text and in the margin.</NOTE> regned lxj yere; he dyed and lieth at Yorke.</P>
+<P>After hym regned his sonne Brute Greneshyld, the whiche was a <NOTE PLACE="marg">Brute Grenesh[yld].</NOTE> gode knyght and a worthy, and whan that he had regned xxxij yere he died, and lithe at Yorke. After regned his sonne Lyell; <NOTE PLACE="marg">Lyell.</NOTE> he made the towne of Carlyll, he regned the full of xxiij yere, and lyeth at Karleyll; and that time regned Kynge Salamonde in Jeru∣salem. After that regned Lud Ludebras, Lyell is sonne, ix yere. <NOTE PLACE="marg">Lud Ludibras.</NOTE> After hym regned Bladud, his sonne, the whiche was a grete negre∣mancer, <NOTE PLACE="marg">Bladud.</NOTE> and he made the hote bathe be his sotill crafte of nigro∣mancye; he regned xxij yere.</P>
+<P>After him regned Kynge Leyre, a gode kynge and a worthie, <NOTE PLACE="marg">Leyre.</NOTE> and he made the towne of Leyseter; he regned xliiij yere.</P>
+<P>Than regned Cordell, that was Leyres doughter, þ<SUP>e</SUP> whiche was <NOTE PLACE="marg">Cordel.</NOTE> Quene of Fraunce; she regned v yere.</P>
+<P>After that regned Cordell sonne, that right Morgane and his <NOTE PLACE="marg">Morgan.</NOTE> brother Conadage; thei departed the londe be twene hem, and regned bothe to geder in pese xij yere. And after that fell a dis∣taunce,
+<PB N="4" REF="4"/>
+and Conadage slough Morgan. And after that Conadage regned in rest and pece full xxx yere.</P>
+<P>After hym regned his sonne Regnolde, a gode knyght and an <NOTE PLACE="marg">Reynolde.</NOTE> hardye, and in his tyme hit reyned blode durynge iij dayes; and he regnid xxij yere, and lithe at Yorke.</P>
+<P>After hym regned Corbodian in rest and pese xvij yere. Than <NOTE PLACE="marg">Gorbodyan.</NOTE> stode this londe dissolate withowten kynge xvj yere. Than was ther an erle in Gornewale that hight Gloton; and he hade a sonne that heght Doneband, and he was right eyre of this lande. And he <NOTE PLACE="marg">Doneband.</NOTE> was the fyrst kynge þat ever wered crowne of golde in this londe; <NOTE PLACE="marg">The fyrst kyng that ever ware crowne of golde in Englonde. Beleyne.</NOTE> and he hade ij sonnes, Beleyn and Bren; he regned durynge xlj yere. Aftir hym regned Kynge Beleyn, and he made Beleynges gate, with a castell and a fayre towre, upon Temmesside; he was a noble knyght, for he conquerd Romayn and Lombardye; and whan he had regned xij yere he dyed, and lieth at Newe Troye.</P>
+<P>After hym regned his sonne Cornebatrus, a gode knyȝt and a <NOTE PLACE="marg">Cornebatrus.</NOTE> worthye; and he regned xxvj yere, and lieth at Newe Troye.</P>
+<P>Aftyr hym regned his sonne Gwentholyn xxvj yere. <NOTE PLACE="marg">Gwentolyne.</NOTE></P>
+<P>After him regned his sonne that heght Kynnore, <NOTE N="a" PLACE="foot">The "o" in this name is altered by another hand into "a."</NOTE> and he regned <NOTE PLACE="marg">Kynnore.</NOTE> xix yere.</P>
+<P>After hym regned his sonne Howayne þe fers xj yere. <NOTE PLACE="marg">Owayne.</NOTE></P>
+<P>After him regned his sonne Morwyth þe wekkyd ix yere. <NOTE PLACE="marg">Morwyth.</NOTE></P>
+<P>After hym regned his sonne Seysell xvj yere. <NOTE PLACE="marg">Seysell.</NOTE></P>
+<P>After him regned his sonne Grandobodian, and he made the <NOTE PLACE="marg">Grandobodyan.</NOTE> toure of Grantam and Cambryge; and he had iiij sonnes, Artogayll, Hesydere, Hygamus, and Petiture, and whan Grandobodyan had regnyd xij yere he dyed, and lithe at Newe Troye.</P>
+<P>After him regned his eldeste sonne Arthogayle v yere, and for his <NOTE PLACE="marg">Arthogayle.</NOTE> wekidnes the Bretons pute him downe and made his brother Hesydere kynge, and he regned v yere; and than Artogale put downe Hesydere, and so he regned a yene vj yere, and than he died, and lieth at Grantham.</P>
+<P><PB N="5" REF="5"/>
+After that Higamus and Petiture departed the londe by twene <NOTE PLACE="marg">Higamus and Petytur by partyted the lond betwene them.</NOTE> hem both, and so they regnyd togeder vij yere; tho dyed Higamus, and a none after died Petiture at the vij yere ende.</P>
+<P>And after that the Bretons crownyde Hesydere kynge a yene, <NOTE PLACE="marg">Hesydere.</NOTE> and tho he regned here in pees xvij yere, and lieth at Newe Troye. Some of the regne of thes xxiiij kynges vjc and ix yere.</P>
+<P>After that regned xxxiij kynges in rest and pese everyche after other, as the story telleth, and how long tyme they regned.</P>
+<P>Fyrst regned Grandabodian Rouse xiij yere and a halfe; item, Morgan regned vij yere; item, Eyghanas regned vj yere; item, Edwalyn regned viij yere; item, Rohngo Regina xj yere and di.; item, Voghem regned xiij yere; item, Katyll regned xv yere; item, Porrex regnid vj yere; item, Cheryne regnid xvij yere; item, Coysell regnide xij yere; item, Surgeus regned xiij yere; item, Andragie regnid xviij yere; item, Uryan regnid vj yere; item, Elyaud regnid vij yere; item, Eldaux regnid v yere; item, Cornegund regnid vij yere; item, Caphe regnid ij yere and di.; item, Morthan regnid vj yere; item, Bladagh regnid vj yere; item, Geen regnid vj yere; item, Seysell blod regnid xxj yere; item, Grabreth regned xxij yere; item, Archynall regnid xiiij yere; item, Errok regnid xxx yere; item, Rodyngum regnid xxxj yere; item, Hertyer regnid vj yere; item, Hamprey regnid vj yere; item, Carpoire regned vj yere; item, Dyngneyld regnid vij yere; item, Ragan regned xxij yere; item, Samoell regnid xxiiij yere; item, Rede regned vj yere; item, Kynge Elye reind but halfe a yere. Summa of the regnie of xxxiij kynges, <NOTE PLACE="marg">Hely.</NOTE> ccclxxix yere. And this was a for the Incarnacion of Crist.</P>
+<P>Fro the begynnyng of the worlde un to the regne of Kynge <NOTE PLACE="marg">Lud.</NOTE> Lud vM<SUP>l</SUP>cxlvij, &amp;c.</P>
+<P>After the dethe of Kynge Ely regnid his sone Lud the whiche turned the name of newe Troye to London, and he lete make a fayre gate and called hit Ludgate after his name; he regned in pees xj yere and lithe in Ludgate.</P>
+<P>After him regnid his brother Cassibalaun, and in his tyme came <NOTE PLACE="marg">Cassibalaun.</NOTE> Julyus Cesar into the londe and werred upon him longe tyme <NOTE PLACE="marg">Julius Cesar</NOTE>
+<PB N="6" REF="6"/>
+durynge vj yere, and after they were accorded. And Julyus Cesar made the towre of London.</P>
+<P>After that regnid Cassibalaun in pees xvij yere. After him regned his brothers sonne Anddroughenne, whiche was Erle of <NOTE PLACE="marg">Anddroughenne.</NOTE> Cornewayle viij yere, and lieth at London.</P>
+<P>After him regnid his sonne Kynge Kymbelyne, the whiche was <NOTE PLACE="marg">Kymbelyne.</NOTE> a gode man and right wele belovyde of the comon people, and in <NOTE PLACE="marg">Tempore hujus natus est Cristus.</NOTE> the vj yere of his regne was our lord Jhesu Crist borne of the Virgyn Marye. And he regnid after that xvj yere, and he had ij sonnes Gynder and Armyger, and whan he had regned full xxvj yere than he dyed, and lithe at London, &amp;c.</P>
+<P>After hym regnid his sonne Gyndere, a gode man and a trewe <NOTE PLACE="marg">Gynder.</NOTE> to alle the comone people, and his tyme came the Emperour Glaudius in to this londe and made greate werre for a trewage the whiche he chalanged of this londe. And the forsaide Kynge Gynder was slayne in his place by tresoun of Hamond, the Emperour styward; he regned xij yere.</P>
+<P>After hym regned Armynger, Gyngere broþer, and he made his <NOTE PLACE="marg">Armyger.</NOTE> pese with Glaudyus, and he made the towne of Glowseter. And after that Glaudyus went to Rome ayene. And then regned Armyger in rest and pese all his lyfe tyme; and in the vj yere of his regne, as the story telleth, our lorde Jhesu Crist suffred dethe <NOTE PLACE="marg">Hic passus est Christus.</NOTE> for redempcioun of manes soule; and whan he hade regned xxvj yere he dyed at London.</P>
+<P>After hym regnid his sonne Westmere, a gode knyght and an <NOTE PLACE="marg">Westmere.</NOTE> hardy, and bilded in the northe partye of Brettayne, and called all that contre after his name, Westmerland; and he regned xxvij yere, and lith at Karlhill. After hym regnid his sonne Coyle, a <NOTE PLACE="marg">Coyle.</NOTE> gode man and welbelovyd a monge all the people of Bretayne, and well governed the londe in pese, and he regnid xxj yere. After hym regned Goran the grete, in trouble and debate with his people <NOTE PLACE="marg">Goran.</NOTE> durynge xxij yere.</P>
+<P>After hym regned his sonne Lucye, that was a gode kynge <NOTE PLACE="marg">Lucye.</NOTE> and a trewe, and welbelovyd with all the comyne peple of the londe,
+<PB N="7" REF="7"/>
+and he sent to Rome to Pope Eleuthie and desired to be a Cristen∣man; <NOTE PLACE="marg">Anno Domini C[l]xiij<SUP>o</SUP> erat prim [us] Christianis∣simus Re[x] Angliae, nomine Lucium. <NOTE N="a" PLACE="foot"><HI REND="italic">Lucium.</HI> So in MS. This marginal note is mutilated, the edge of the paper having been cut by the binder, so that it is uncertain what the date assigned to the conversion of Lucius was. But it was most probably 163 (CLXIII), the L being now lost.</NOTE></NOTE> and so the pope was joyfull therof and sentt heder ij leggates that highte Pagan and Olybane for to baptice Kynge Lucye and his peple, and so he was the first cristen kynge þat ever was in this londe. And fro Brute unto Lucye is M<SUP>l</SUP>clxv yere. Tho was Kynge Lucye crowned and regned kynge xxiij yere or he was cristened aftyr that he regned liiij yere. Summa of his regne lxxvij yere; than he dyed and lithe enterred att London.</P>
+<P>The yere of oure Lorde Jhesu Crist CCj, A<SUP>o</SUP>——</P>
+<P>After the dethe of Lucye this londe stode dissolate with outen kynge and governour in grete werre amonges hem selfe for defaute of a kynge and governour durynge lxij yere.</P>
+<P>The yere of our Lord CClxiij.</P>
+<P>And that tyme were the Romayns governers of this londe, and they chase amonge hem a kynge þat hight Asclepades, the whiche regned in grete trouble vj yere.</P>
+<P>After him regned Coyll, the whiche made the towne of Colchester <NOTE PLACE="marg">Coyl.</NOTE> and the castell of Dover. And in his tyme come a noble prince from Rome that hight Constance, and he chalanged the trewage that the kynge oughte to pay to Rome. And Kynge Coyll grawnte him for to paye all that he ought to done of right. And so they were acorded that this noble prince spowsed Kynge Coyll is <NOTE PLACE="marg">Seynt Elyn.</NOTE> doughter that high Elyn, the whiche was right eyre to the londe, and she was a gode holy woman and a grete clerke. And whan Kynge Coyle had regned xiiij yere he dyed, and lieth at Colchester.</P>
+<P>After him regned Constaunce of Rome, for he had spoused Eleyn <NOTE PLACE="marg">Constaunce.</NOTE> that was Coylls doughter, and by hir he had a son that hight Con∣stantyne that was Seint Eleyns sonne, and this gode Kynge Con∣stance regned xv yere and lieth at Yorke.</P>
+<P><PB N="8" REF="8"/>
+After that regnid his sonne Constantyne <NOTE N="a" PLACE="foot">Over the name "Constantyne" in the text is written by the annotator "Emperowre."</NOTE> that was Seint Elyns <NOTE PLACE="marg">Constantyne.</NOTE> sonne, and in the ij yere of his regne come tidingis to the kynge that a wode tyrawnte Maxence was come to Rome for to distroye the cite, and he distroyed all the Cristen folke that he myght come by; and that same tyme was Seint Kateryne martered, the yere of our <NOTE PLACE="marg">Martirizasio Sancte Katerine.</NOTE> Lorde CCCx. And when Costantyne herde tell ther of, he gedered a grete nombre of peple, and toke his moder with him, and wente to Rome, and gate the cite, and slowe the Sarsynes, and distroyed all that were in mys beleve, and after he was Emperour of Rome and kynge of the londe. Tho was Octavyan, Erle of Cornwayle, warden of the londe and keper under the emperour and kynge, and the x yere of his regne he died at Rome the yere of our Lorde CCCxvij<SUP>e</SUP>.</P>
+<P>After that was Octavyan, wardeyn of this londe, crownyd kynge, <NOTE PLACE="marg">Octavian.</NOTE> and he regned durynge xvij yere.</P>
+<P>After him regnid Maximean, that was Costantinges cosyne, and <NOTE PLACE="marg">Maxymyan.</NOTE> he wedded Octavians doughter; and he went over the see in to the londe of Morycon <NOTE N="b" PLACE="foot">Armorica.</NOTE> and conquerd the londe and called hit Litell Brettayn; and tho he made Canon Meredok kyng of that londe. And aftir this was done Maximian went to Rome and was made emperour the xj yere of his regne. And the same yere Seint Ursula, <NOTE PLACE="marg">Ursula, a Erles dou[ghter] of Corn∣wale.</NOTE> the Erles doughter of Cornwale, was sent over the see with xj m<SUP>l</SUP> maydenes in to Lytell Bretayne, and tho þei were drevyn with tempest in to Holonde; and ther was a Saresyn kynge of that londe that hight Gawhan, and he brought all the forsaide maydenes to Coleyne, and ther they were martered the yere of our Lord CCCxlvj. A none after came Gawhan into this londe and warred upon Cristen <NOTE PLACE="marg">Gawhan.</NOTE> peple many a yere; and the lordis of this londe were at grete de bate within hem selfe, and þerfore were the Saresynes myche the more the bolder, and at that tyme was no kynge ne governor in this londe, wher for the Brutis made grete mone and sorowe. And at that tyme was Seint Albone marterd, the yere of our Lorde <NOTE PLACE="marg">Martirizacio Sancti Albani.</NOTE>
+<PB N="9" REF="9"/>
+CCClxxviij. Tho sent the Bretones to Rome for socoure and helpe for to dryve oute the Sarsynes of this londe and to save the Cristen people. After that came a worthi prince from Rome that was called Grayne, and brought with him xxiiij thousande of fyghting <NOTE PLACE="marg">Grayne.</NOTE> men, and came in to this londe, and chasid oute the Sarsynes, and Gowhan fled home into his owne contre. And this trouble dured in this londe xlj yere. And than Gracyan was crownyd kynge of this <NOTE PLACE="marg">Gracyan.</NOTE> londe. After he wax so stoute and stere a yens the Bretens that thei lovid him nought, and the thred yere of his regine he was slayne, the yere of our Lorde lxxxx<SUP>e</SUP>.</P>
+<P>After that came Gouhan ayene in to this londe and werred and <NOTE PLACE="marg">Gouhan.</NOTE> distroyed the Cristen peple all that ever he myght durynge vij yere.</P>
+<P>Than came a worthi knyght oute of Litell Bretayne that hight Constantyne, the which was the kynges cosyne, and he came with a grete oste and yave the Sarseyns a batayle, and ther was the tirawnte slayne and all the Saresynes discomfited.</P>
+<P>And tho came Costantyne, of London, and ther he was crowned kynge of Grawnte Brettayne, and after he regnid well and worthely xxvj ye., the yere of our Lord CCCCxxiij<SUP>e</SUP> yere. And he hade iij sonnes; the eldest heght Custance, and he was made a monke at <NOTE PLACE="marg">Constance, Aurilam bos, Uter, iij filii Constantini.</NOTE> Wynchester by his faders leve. And Aurylambos and Uter were but yonge children when her fader dyed, and none of them bothe were not of age to ber the crowne, for ther was so grete wer and stryffe in this londe. Tho was Urtager, Erle of Esex, he consayled Counstance that was a monke for to forsake his abitt and to ber the crowne, and Urtager to be governour of the londe, so under that forme he myght be made kynge, for Constaunce was innocent and cowthe no skyll of wer. And so Constaunce was crowned kynge, <NOTE PLACE="marg">Constance.</NOTE> and he made Urtager his governour of his londe, and whan he had regned iij yere he was slayne. Anone after that was Urtager made <NOTE PLACE="marg">Urtager.</NOTE> kynge, and the Bishop of London, hight Coslyn, and he, sent the ij brethren Aurylambros and Uter into Litell Brettayne to norysshe and fede till they came of age. Sone after came Engest of Saxonye, <NOTE PLACE="marg">Engest Rex Cancie.</NOTE>
+<PB N="10" REF="10"/>
+of the londe of Germayn, with a grete noumbre of people whiche were fayre folke, but they were not cristned; and at the last they encresid so faste in this londe that they over come the Bretones, for they slewe in one daye with treyson xxxm<SUP>l</SUP>.lxij of gode knightes and chevaleres of the best that were in this londe. And tho Engest seysed all this londe in to his honde and hade Urtager in prison; and than he changed the name of this londe of Brettayne in to Englonde and called the peple Englishe men, and the peple of the londe that were Bretones fled into Wales and into Cornwayle. And Engest devided this londe in viij parties, ande made him sylfe kynge <NOTE PLACE="marg">Terra divisa in octo regna.</NOTE> of Kente and lord of londe; and at that tyme was Merlyon xiiij yere of age. And this werre duryd in this londe xxij yere, the yer of <NOTE PLACE="marg">Merlion tunc erat xiiij annorum.</NOTE> of our Lorde CCCCxlviij. And whan Engest had departid the londe aftir his owne device in viij kyngdomes, that is to sey, Kent, <NOTE N="a" PLACE="foot">The names of the eight kingdoms are repeated in a marginal note.</NOTE> Esex, Mydangle, Westsex, Estangle, Morchelond, Derham, and Ebrusam that nowe is called Yorkeshire. And this Engest was kynge aboven hem all, and he regened xij yere.</P>
+<P>Tho came Aurylambos and Uter his brother oute of Litell <NOTE PLACE="marg">Aurilambos.</NOTE> Brettayne with a grete noumbre of peple, and all the Brettones that were in Cornwayle and in oþer parties of this londe that durst not be seyne for drede of Engest, they came to Aurylambros and his broþere to helpe hem dryve oute the Saxons. Fyrst he went in to Walis, and there he slowe Urtager, and after Engest and his peple were overe come and discomfid all the paynymes. And the Saresynes sawe the people þat were converted to God; and than Aurylambros had regnid viij yere; and he was enpoysoned with a drynke and died slepynge, the yere of our Lord CCCClxviij.</P>
+<P>After him regned his brother Uter Pendragon, þe whiche was a <NOTE PLACE="marg">[U]ter Pendragon.</NOTE> gode knyght and a worthi; and he weddid a faire lady the whiche was called Ingrene, that was the Erlys wife of Cornewayle, and she came of the lynage of Cornebyus of Troye; and at that tyme was a grete abbicion for the londis name. Some did call hit Brettayne, and some called hit Engelonde; and for the love that Uter had to
+<PB N="11" REF="11"/>
+his wyfe, and for the gentill blode that she came of, he named this londe after hir name Ingerne, Englond; and upon hir he gate the doughty Kynge Arthure. And whan Uter hade regned wele worthely xlvij yere, the yere of our Lorde vCxvj<SUP>e</SUP>.</P>
+<P>After that regned the gode Kynge Arthur, the worthy con∣querour <NOTE PLACE="marg">Arthure</NOTE> that conquered many a region. Fyrst he began at Irlande, Skotlond, Norwey and Denmarke, Fraunce, Burgoyne, Gascoyne, Gyan, Lombardy, and Almayne, and Romayne; and after he came home ayene into Englonde and regned well and worthely xxvj yere, the yere of our Lorde vCxlij<SUP>e</SUP>; but where he is beryed the story make no mencion.</P>
+<P>After the dethe of Brute unto the regne of Kynge Arthur regnid in Englande diverse kynges, that is for to sey an C, of the whiche was xvj Cristen.</P>
+<P>After Arthur regned Constantyne, Erle of Cornwayle, in peese <NOTE PLACE="marg">Constantyne.</NOTE> viij yere; and after fell grete stryfe a monge the lordes of the londe, that every lord werred upon oþer in dyverse partyes of Englond duryng vj yere, the yere of our Lorde vClvj<SUP>e</SUP>.</P>
+<P>Aftir him regned Kyng Cordyff, and in his tyme fell so grete wer <NOTE PLACE="marg">Cordyff.</NOTE> and stryfe with in this londe sylffe thatt this londe was all moste loste throwe werre, &amp;c. And than came the Saxsones in to this londe that called hem selfe Englisshemen for the name of the name of the Engest, for to conquer the londe, and werred sore upon the Bretons and drove hem oute of this londe in to Walis and Cornwayle, and some in to Litell Brettayne; and þat tyme fell the grete myschefe in this londe, that Cristendome was distroyed through the Saxsones that were paynymes and hethen folke, for they keste downe houses and chirches of religeoun, and quelled all the Cristen folke that they myght come by; and whan the Saxsones had conquered the londe of the Bretones tho they departed the lond a monge hem like as it was in Egestes tyme; and this grete trowble and sorowe dured in this londe xiij yere, the yere of our Lord vClxx.</P>
+<P>And at that tyme regned Athelbryght, Kynge of Kent, and he <NOTE PLACE="marg">Athylbryght, Kyng o Kent.</NOTE> was a gode man and loved well rest and pece; and he had a cosyne
+<PB N="12" REF="12"/>
+that was called Sygeberde, <NOTE N="a" PLACE="foot">The "ge" in this name, in both these places, alike in the text and in the margin, is an interlineation by another hand.</NOTE> that was Kynge of Westsex, and a noþer cosyne, that hight Elfride, the whiche was Kynge of Northe∣homberlond; and thes thre kynges loved wele peese; mo other kynges ther were, but they were noþinge of theire condicion; and Athilbryght was chefe kynge a bouen hem all. And in the xxv yere of his regne Seint Augustyne came in to Engelonde for to cristen the Englisshe men that were come of the Saxones. And therfor Seint Austyne is called postill of Englond, for he brought fyrst Cristendome to Englisshe folke. But the Bretons that were dwellinge in this londe were Cristen peple many yeres afore. And whan Athilbright was cristen and all his people, sone after he lete make in the honour of God and Seynte Poule the churche of Poules at London.</P>
+<P>Anno of our Lorde vC.iiij<SUP>xx</SUP>xviij was the fondacion of the chirche <NOTE PLACE="marg">Fundacio ecclesie Sancti Pauli, A<SUP>o</SUP> Do<SUP>i</SUP> 598.</NOTE> of Poules by Altherbryght. And when this gode Kynge Alther∣bryght had regnyd after that he was cristened xxj yere, and so he regnyd in all xlvj yere, and than dyed, the yere of our Lord vjC.xvj. And in Athilbryghtes tyme Sygebert <NOTE N="a" PLACE="foot">The "ge" in this name, in both these places, alike in the text and in the margin, is an interlineation by another hand.</NOTE> was Kyng of <NOTE PLACE="marg">Sygebert, Kyng of Westsex.</NOTE> Westsex, and he was founder of Westminstre, anno of our Lorde vjC.xv.</P>
+<P>After that regned Kynge Edwyne of Northehomberlond above <NOTE PLACE="marg">Edwyne, Kynge of Northehumberlond.</NOTE> all the kynges of Engelond, and he regnid xj yere, the yere of our Lorde vjC.xxvij<SUP>e</SUP>.</P>
+<P>After him regened Seint Oswalde, Kynge of Northehomberlonde, <NOTE PLACE="marg">Oswalde, Kyng [of] Northehumberlond.</NOTE> and he regned above all the kynges of Engelond; and in the ix yere of his regne he was martred, the yere of oure Lord vjC.xxxvj<SUP>e</SUP>. Aftir hym regned Oswyne, his brother, Kynge of Northehumber∣londe, <NOTE PLACE="marg">Oswyne.</NOTE> and whan he hade regned xviij yere he dyed, and lythe at Tynmothe, the yere of our Lorde vjC.liiij<SUP>e</SUP>.</P>
+<P>After hym regnid Cadwaladere of Leyceter for chefe Kynge of <NOTE PLACE="marg">Cadwalader.</NOTE> Englonde, and he was a Breton; and when he hade regned xij yere ther fell grete stryfe in this londe be twene the Bretones and the
+<PB N="13" REF="13"/>
+Englisshemen, that every kynge werred upon oþer. And the same tyme fell so grete derthe of skarssyte that men myght neþer gete mete nor drynke to by for no money, for almaner cornes and frutes fayled; and all maner of bestis, bothe wilde and tame, both foules and fysshes, dyed in all maner partes of Engelonde, that men myght no vitayle gett, so grete skarssete ther was; and at that tyme fell the grete mortalite of pestilence, that peple dyed sodeynly goynge in the stretes, with gronyng, fuesynge, and coughynge, slepynge and wakynge, and in all maner weyes peple dyed. Than Kyng Cadwaladre, seynge this grete vengeaunce, he toke a serteyne meyne with him and went him to shippe and forsoke his owne kyngdome, and went in to Lytell Brettayne to his cosyne, Kynge Aleyne, <NOTE PLACE="marg">Alanus Rex.</NOTE> and after went to Rome and þere dyed, the yere of our Lorde vjC.lxxvj.</P>
+<P>After that Cadwaladre had forsake his owne londe and was in Litell Brettayne, came the noble Quene Sexburga, with a grete <NOTE PLACE="marg">Sexburga.</NOTE> nombre of people oute of Saxony, and they toke up all the londe of Northehomberlande to West Walis; and at that tyme were many kyngis in this londe in dyverse parties, and thei werred everyche upon other, and the strengest parti be nome the feblest partyes londes; and so this wer endured many yerys be twene the Bretons and the Englissh. And so, at the laste, Kynge Offa regnid as for <NOTE PLACE="marg">Offa.</NOTE> cheffe Kynge of Englonde; and he lete make the Abbaye of Seint <NOTE PLACE="marg">[Ki]ng Offa founder of Seynt [Al]bons.</NOTE> Albonys, and he regnid xxvij yere, the yere of our Lord vijC and iij<SUP>e</SUP>.</P>
+<P>After him regned his broþer sonne, Kynge Alffryde, a gode man <NOTE PLACE="marg">Alfryde.</NOTE> and a welbelovyd of all his people, and he regnid xxvj yere.</P>
+<P>After him regnid Kynge Osbryght of Northhomberlond, the <NOTE PLACE="marg">Osbryght.</NOTE> whiche was slayne in playne bataile; he regned xxvj yere.</P>
+<P>After him regnid Kynge Godeyne of Denmarke, and he made <NOTE PLACE="marg">Godeyne.</NOTE> werr in this londe durynge many yers, and he regnid xxvij yere.</P>
+<P>After him regnid Kynge Albryght of Laycester, the whiche was <NOTE PLACE="marg">Albryght.</NOTE> a gode man and a trewe, and loved well peese, and in the viij yere of his regne he was martred, and lith at Hertforde.</P>
+<P><PB N="14" REF="14"/>
+After him regnid Kynge Elle of Northehomberlonde, in grete <NOTE PLACE="marg">Elle.</NOTE> weire and stryffe, durynge xxx yere.</P>
+<P>Aftir hym regned Kynge Kenelme, a gode man and an holy, <NOTE PLACE="marg">Kenelme.</NOTE> and loved well God and Holy Chirche, and in the v<SUP>e</SUP> yere of his regne he was martred, and lithe at Wynchecombe, the yere of our Lord viijC.xxv yere.</P>
+<P>Anone after came Danys in to Engelonde for to conquer the londe, <NOTE PLACE="marg">Danys cam yn to Englonde.</NOTE> and made grete werr, and distroyed Cristen peple, and gate all the contrey off Northehomberlonde and Estangle. This wer duryd in this londe xxx yere by the kynge him selffe and his successores, the yere of our Lorde viijC.lv.</P>
+<P>After him regned Edmond, Kynge of Northefolke, and of all the <NOTE PLACE="marg">Edmonde Kyng [of] Estangle that n[ow] is callyd Northfol[k] and Southfolke.</NOTE> contre of Southefolke; and tho came the Danys off Northehomber∣londe and werred upon Englissh men many yeris. After that Hubla and Hungar, that were princes of the Danes, came to Bury, and ther the gode Kynge Edmonde was take, and they bounde him to a tre and shotte him with brode arowes, and after smote of his hede; and so was Seint Edmond, the gode kynge, martred, the xv yere of his regne, the yere of our Lord viijC.lxxj<SUP>e</SUP>. After that regned Kynge Aluerde of Southesex, and he werred upon the Danys, and <NOTE PLACE="marg">Alurede was th[e] fyrst anoynted Kyng of Englond, and he was anoynt[ed] at Rome by Pope Leo the iiij<SUP>th</SUP> and h[e] was Kyng of Southe∣sex.</NOTE> at the last discomfied them and toke the kynge prisoner, and brought him to London; and than he besought the kynge of grace, and seyde he wolde become Cristen for his love, and never to make were a yenes him; and ther Kynge Alurede brought him to West∣minster, and ther he was baptysed and called Athelstone. And than were all the Danys cristened that were in Engelonde; and for grete joye that Kynge Alured had for the Danys were converted to God he lete make a grete feste and after levid in pees; and Kynge Adel∣ston went home in to Denmarke ayen. And whan Kynge Alurede had regned al most xxx yere he dyed, and lieth worthely enterred at Wynchester, the yere of our Lord ixC primo. After him regnid his sonne that was called the first Edward; he was a gode man and <NOTE PLACE="marg">Edwardus [j] ante Conque[stum].</NOTE> a trewe, and lovyd well pees. And whan he had regned xxiiij yere he dyed, and lithe at London. And the seyde Kynge Edwarde hade
+<PB N="15" REF="15"/>
+iiij sonnes, Athelston, Edmond, Eldred, and Edwyn. And that tyme regned the gode knyght Gy of Warwyke, &amp;c.</P>
+<P>After Edwarde regned his eldest sonne Athelstone. And in his <NOTE PLACE="marg">Adelstone.</NOTE> tyme was Seint Donstone borne; he regned xvj yere, and lieth at Malmesburye. <NOTE N="a" PLACE="foot">This sentence is added in by the hand of the marginal annotator.</NOTE> Aftyr hym reyned hys brother Edmonde, and he <NOTE PLACE="marg">Edmonde.</NOTE> reyned vj yere, and lyeth at Glastynbery.</P>
+<P>After him renge his broþer Eddrede; he regned ix yere, and lythe <NOTE PLACE="marg">Eddrede.</NOTE> at Wynchestre.</P>
+<P>After him regned his broþer Edwyn, crowned at Kyngeston; <NOTE PLACE="marg">Edwyne.</NOTE> and whan he hade regned iiij yere he died, and lieth at Wynchester, the yere of our Lorde ixC.lxj.</P>
+<P>After Edwyne regnid his sonne Edgare, and crowned at Kynge∣ston, <NOTE PLACE="marg">Edgare.</NOTE> the wheche was a gode kynge and a worthi; and in his tyme regned the doughti knyght Beves of Hampton. And whan this gode kyng had regned xvj yere he dyed, and lieth at Glastonburye.</P>
+<P>After Edgar regnid his sonne Edward the Secounde, a gode <NOTE PLACE="marg">Edwardus ij<SUP>us</SUP> ante Conquestum. Iste erat martiratus <HI REND="italic">(sic).</HI></NOTE> kynge and an holy; and in the iiij yere of his regne his step moder lete him be marterd, and lieth at Shaftisberye, the yere of our Lord ixC.iiij<SUP>xx</SUP> primo.</P>
+<P>After hym regned his broþer Etheldrede, crowned at Kyngeston, <NOTE PLACE="marg">Etheldrede.</NOTE> and he had a sonne that hight Edmonde Irenside. And in his tyme come Kynge Sweyne of Denmarke in to þe londe for to conquer this londe. And Kynge Etheldred fled into Normandye, and ther he wedded the Dukes doughter, and begate on hir ij sonnes, Alured and Edwarde, and after came a yene in to Engelonde <NOTE PLACE="marg">This Edward is the holy Kyng and Confessour.</NOTE> with his iij sonnes and conquered the lond a yene of the Danes, and afterward levid in pees; and so he regned al most xxxv yere, and lith at London at Poules.</P>
+<P>Aftir him regned his sonne Edmond Irensyde, the therd Edmond <NOTE PLACE="marg">Edmond Irensyde, iij<SUP>us</SUP> Edmundus Anglie.</NOTE> of Engelonde, and he regned after his fader all moste ij yere. And after that he was slayne, sone after that his fader was dede, through a false Dane that hight Edryght of Stratton; and than he was beryed at Glastonburye, the yere of our Lorde M<SUP>l</SUP>xvij<SUP>e</SUP>.</P>
+<P><PB N="16" REF="16"/>
+After hym regned Kynge Knotte, the whiche was a Dane, and <NOTE PLACE="marg">Knotte Edmond Irensydes sones.</NOTE> he sent over the see to Denmarke þe twoo brothers Edward and Edwyne, the whiche were right eyres of Engelonde ther to be distroyed. And Edward went him in to Hungerye, and ther he wedded the kynges doughter; and for he was exiled oute of Englonde, he was called Edward the Outelawe. And whan that Kynge Knought had regned xix yere he dyed, and lithe at Wyn∣chester.</P>
+<P>The yere of our Lorde M<SUP>l</SUP> quatragesimo secundo tunc erat a Nativitate Jesu Christi usque ad regnum Sancti Edwardi regis et confessoris.</P>
+<P>Fluxerunt divisum <NOTE N="a" PLACE="foot">Sic in MS.</NOTE> in Anglia centum et septaginta <NOTE N="a" PLACE="foot">Sic in MS.</NOTE> quinque reges, de quibus Oswynus, Oswaldus, Ethelbristes, <NOTE N="a" PLACE="foot">Sic in MS.</NOTE> Kenelmus, Edmundus, Edwardus, martinizati; <NOTE N="a" PLACE="foot">Sic in MS.</NOTE> Constans, Edwaldus, Sebertus, Wynfridus, Etheldredus, Edbertus, Offa and <NOTE N="a" PLACE="foot">Sic in MS.</NOTE> Kynredus in monacha∣tum sepulti, anno M<SUP>l</SUP>xl.</P>
+<P>After the dethe of Kynge Knoght the Englisshe men wolde not suffre the Danes no more to regne in Engelonde, but drove hem oute of this londe. And than was the gode holy man Seint <NOTE PLACE="marg">Sanctus Edwardus et Confessor fuit primus unctus rex in Ang[lia], et fuit iij<SUP>us</SUP> rex Edwardus ante Conquestum. Tamen Rex Alver[edus] fuit unctus ante h[ac] per papam Leonem iiij<SUP>um</SUP> in Roma.</NOTE> Edward the Confessoure crowned Kynge of Engelonde; and in the ij yere of his regne he was crowned at Wynchester, the yere of our Lord M<SUP>l</SUP>xlij<SUP>e</SUP>. And he was the fyrst anoynted kynge that ever was in Engelande, and he regned well and worthely; and he did make many gode statutes and lawes, the whiche ben used yette in this londe; and he wedded a wyfe and levyde in clennes and virginite all his lyffe, and so he dyed, and lith at Westmester shryned. The forsaide gode Kynge Edwarde regned here xxv yere, the yere of Lorde M<SUP>l</SUP>lxv<SUP>e</SUP>.</P>
+<P>After the dethe of Seint Edward, Harolde, Duke of Westsex, that <NOTE PLACE="marg">Rex Haraldus.</NOTE> was Godewynes sonne, a Dane, had sesed al Englonde in to his honde a yene the right. And therfor he regned but a while for his untrouthe, for he was sworne upon a boke that he shulde have wedded Duke Williams bastard doughter of Normandye, and
+<PB N="17" REF="17"/>
+Harolde shulde have kepte the realme of Engelond to Duke Williams be hove, but Harolde seised alle in his owne hondis, and therfor Duke William conquered the londe of him and slowe him in bataille in the seconde yere of his regne in a felde beside Tonbrygge. And Kynge Haroll lithe buryed in the abbaye of Waltham, the yere of our Lord M<SUP>l</SUP>lxij. And the bataill was done upon Seynt Kalixtes daye, &amp;[c].</P>
+<P>After him regned William Bastarde that was Duke of Normandy, <NOTE PLACE="marg">Willelmus Conquestor.</NOTE> the whiche conquered all Engelond, and discomfide all the Danes, and drove hem oute of Englond, and after conquered all Scotland, and made the Kynge of Scottis his liege man. And he was crowned at Westminster on Cristmas day; and whan he had regned xvij yere, þo he made William Rouse his secunde sonne Kynge of Engelond, <NOTE N="a" PLACE="foot">In the margin occurs the following note by another hand: "Robert Curthos primogenitus cui Willelmus Conquestor in sua morte reliquit sibi totam Normaniam, ut habetur in alia cronica."</NOTE> and him selfe went in to Normandye and levid there iiij yere after; and tho he fell seke and dyed, and lithe beryed at Cane <NOTE PLACE="marg">William Rowse ij<SUP>dus</SUP> filius, dyed w<SUP>t</SUP>owte yssue.</NOTE> in Normandye.</P>
+<P>Aftir him regned his sonne William the Rous, the whiche was <NOTE PLACE="marg">The iij<SUP>de</SUP> sone of Wylliam Conquerour was callyd Rychard, whiche decesyd.</NOTE> crowned at Westmester by his faders lyve, the yere of our Lorde M<SUP>l</SUP>lxxxvj<SUP>e</SUP>; whiche kynge was a contraryous man bothe to God and to Holy Chirche, for he distroyed and kest downe xxvj townes and lij chirches and houses of religion for to make the Newe Forest; and after he was slayne with an arowe in the same forest, the xxiij yere of his regne, and lieth at Wynchester.</P>
+<P>After him regned his brother Henry Bewclek, the iiij sonne of <NOTE PLACE="marg">Henricus Primus iiij<SUP>tus</SUP> filius.</NOTE> William Conquerour, the whiche is called the first kynge Henry of Engelonde, and he was crowned at Westmester the v day of August, the yere of our Lord M<SUP>l</SUP>.C. Anone after he spoused Dame Maude, Kynge Matelyns <NOTE N="b" PLACE="foot">Malcolm.</NOTE> doughter, of Scotlond, and upon hir he begate ij sonnes, William and Richarde, and a doughter, the whiche was maryed to the Emperour of Almayne. And after the kynges ij
+<PB N="18" REF="18"/>
+sonnes were drevyn over the see in a tempest of weder. And when Kynge Henry the First had regned almoste xxxv yere he dyed and lithe beryed at the abbaye of Redynge, wherof he was founder, the yere of M<SUP>l</SUP>.C.</P>
+<P>After him regned his nevewe Stephen, the which was kynge <NOTE PLACE="marg">Stephyn.</NOTE> Herryes sister sonne, an erlis sonne of Boleyn, and he was crowned at Westmester anone after that his uncle Kynge Henry was dede; and that was no right; for Henry the empres sonne shulde have be kynge after the right rule and lyne, and therfor was grete stryfe be∣tw[e]ne hem; and whan Kynge Stephen had regned all moste xix yere he died and lieth at Feversam. After Kynge Stephen regnyd Henry the Secunde, that was the Empresse sonne, and he was <NOTE PLACE="marg">Henricus ij<SUP>dus</SUP>.</NOTE> crowned at Westmester on the day of Conception of Our Lady by for Cristmas the yere of our Lorde M<SUP>l</SUP>.C.liiij. And in the xvj yere of his regne was Seynt Thomas, at that tyme Archebisshope of Caun∣terbery, <NOTE PLACE="marg">Martirium Sancti Thome Cantuariensis Archiepiscopi.</NOTE> marterd for the right and feythe of Holy Chirche, the yere of our Lor M<SUP>l</SUP>Clxxj<SUP>e</SUP>. This Henry helde a paramour besyde the quene, the whiche was called Rosamoundes Bowre. And by the quene he had ij sonnes, Richard was the first, and John was the secunde. And when he had regned xxxv yere he dyed in Fraunce, and lieth at Fownte Everrard, the yere of our Lorde M<SUP>l</SUP>Ciiij<SUP>xx</SUP>ix<SUP>e</SUP>.</P>
+<P>After him regned his sonne Richarde the Fyrst, the whiche was <NOTE PLACE="marg">Ricardus Primus.</NOTE> called Richard the Conquerour, and he was crowned at Westmester sone after his faders disses, and after he wente into the Holy Londe with a grete oste of peple, and ther he werred upon the hethen folke and gate ayene all that Cristen men had lost a for tyme; and as this worthi conquerour came homwarde he mett with his enmyse at the Castell Gaylarde, for ther he was shott with a quarell and died in the x yere of his regne, and he was buryed at Fownte Everarde be side his fader, the yere of oure Lorde M<SUP>l</SUP>.C.iiij<SUP>xx</SUP>xix, and died withoute yssewe.</P>
+<P>Aftir Kynge Richarde the Fyrst regnid his brother John, that <NOTE PLACE="marg">Rex Johannes.</NOTE> ever was a contraryous man to God and to Holy Chirche and to all the comyn peple, and therfor all Englond was enterdited for vij
+<PB N="19" REF="19"/>
+yere; and in his tyme Seint Hewe of Lyncole diede. And in his tyme was lost myche londe of Gascoyne, Brettayne, and Nor∣mandy. And in his tyme was grete derthe, for a peny lofe was worthe xij<SUP>d</SUP>; and for his wekid rede a monke of the Abbay of Swyneshede yave him poyson to drynke, and so he died in the xviij yere of his regne, and lieth at Worcester, the yere of our Lord M<SUP>l</SUP>CCxvj<SUP>e</SUP>.</P>
+<P>The yere of our Lord M<SUP>l</SUP>C[C]iiij<SUP>xx</SUP>xviij was the fundacioun of the Fre[re] Prechores.</P>
+<P>The yere of our Lorde M<SUP>l</SUP>CCvj was the fundacioun of the order off the Frere Menures.</P>
+<P>After the dethe of Kynge John was crowned his son Kyng Henry the Therde, at Glowceter, on Seint Symons day and Jude, of a leget of Rome that hight Swalowe, <NOTE N="a" PLACE="foot">Gualo.</NOTE> that come into Englond to make peece be twene Lowes of Fraunce and Kynge Henrye; and in the iiij yere of his regne he was crowned at Westmester, of the Erche∣bisshope of Caunterbery, by the comen assent of all the lordes of Englonde; and in the same yere was Seint Thomas of Caunterberye <NOTE PLACE="marg">Translacio Sancti Thome Martiris, Anno Domini 1220.</NOTE> translated; and in the yere of grace M<SUP>l</SUP>CCxx<SUP>e</SUP>, and in the xlviij yere of his regne, began the werre betwene Kynge Herry and his lordes of the realme for diverse causes for the comyne wele of Englond, and therfor was the batayle at Lewes on Seint Pancras daye in May; and ther Sir Symonde Momford, Erle of Leycester, had the victorye; and in that battaylle the kinge him selfe was taken, and Sir Edwarde his sonne; and Syr Richarde, Earle of Cornwayle, that was the kynges brother, and many oþer lordis were in warde of the forsaide Sir Symonde. And the nexte yere after thatt <NOTE N="b" PLACE="foot">So in MS., repeated.</NOTE> and the next yere after that <NOTE N="b" PLACE="foot">So in MS., repeated.</NOTE> aboute the myddis of August was the batayll of <NOTE PLACE="marg">Batyl of Ewssh[am].</NOTE> Evessham be twene Kynge Henry and the barones of this londe, and ther was slayne Sir Symond Moundford and his sonne and many other lordis, and in the lvij yere of his reg[n]e he died, and lieth at Westmester, on Seynt Edmondis day M<SUP>l</SUP>CCxiij.</P>
+<P>Aftir Kynge Henry regned his sone Edwarde the First with <NOTE PLACE="marg">Edwardus Primus post Conquestum,</NOTE>
+<PB N="20" REF="20"/>
+longe shankes, the whiche was crowned at Westmestre sone after his <NOTE PLACE="marg">wyth the longe shankys.</NOTE> faders death in the yere of grace M<SUP>l</SUP>CClxxiiij.</P>
+<P>This Kynge Edwarde was a gracious man, for wher so ever he came in any londe he had the victorye of his enemyes; and he toke homage of Kynge Elysaundre of Scotlonde, and discomfyde Newlyn Preince of Walis, and conquered all the londe, and toke Irlonde in to his honde. And by his first wyfe he hade a sonne that was called Edwarde of Carnervan; after that died the quene. And tho he spowsed Quene Margerett, Kynge Phelippes sister of Fraunce; and upon hir he begatte ij sonnes, Thomas Bretherton, Erle Marchall, and Emond of Wodstoke his broþer. And when he had regned well and worthely all moste xxxv yere he died, and lithe at Westmester M<SUP>l</SUP>CCCvij<SUP>e</SUP>.</P>
+<P>Anno Domini M<SUP>l</SUP>CCCvj, Invencio nove solempnitatis Corporis Christi.</P>
+<P>After him regnid his sonne Edward of Carnarvan, and he was <NOTE PLACE="marg">Edwardus ij<SUP>us</SUP> post Conquestum.</NOTE> crowned at Westmester the xx daie of Feverell in the yere of our Lorde M<SUP>l</SUP>CCCvij<SUP>e</SUP>. And in the same yere he spoused Isabell, Kyng Phelippes doughter of Fraunce, in the chirche of Bolayne, and he broȝt hir in to Englond. And in the same yere folowinge were the Templers dist[r]oied thorowe all Cristendome for hir <NOTE PLACE="marg">Destruccio Templari∣orum.</NOTE> mysbeleve and untrowith that they used.</P>
+<P>Anone after Robert le Bruse, Kynge of Scotland, came oute of Northe Wales with a grete pussaunce of peple and werred sore in Northehomberlonde and distroyed all the contrey. And than Kynge Edward was scomfide and put to flight and many of his lordis slayne, for ther was so grete nombre of Scottis, x men ayenest one Englisshe man. The batayll was upon Seint Johns daye Baptist, in the yere of our Lord M<SUP>l</SUP>CCCxij<SUP>e</SUP> yere, and in the v<SUP>e</SUP> yere of his regne. And in the same yere was brone at Wyndesore Edward the <NOTE PLACE="marg">Edwardus Tertius natus.</NOTE> Thred, upon Seint Bricis daye. And in the xv yere of his regne fell grete debate be twene the kynge and the gode lordis of this lond for thei helden with the comyne wele of þe lond. Wherfor Sir Thomas, the gode Erle of Lancaster, was be heded at Pomfrett, and <NOTE PLACE="marg">Sanctus Thomas comes Lancastrie decollatus.</NOTE> many oþer barons and knyghtes for the same cause, and all
+<PB N="21" REF="21"/>
+through the false counsell of the Spencers, the fader and the sonne, the whiche were the robbers of this londe. And in the same yere fell a grete derthe in this londe, for a quarter of whete <NOTE PLACE="marg">Quarterium frumenti, xl s.</NOTE> was solde for xl s., the yere of our Lord M<SUP>l</SUP>CCCxxj<SUP>e</SUP>. After that, by false counsaill off the Spencers, Kynge Edward exiled Quene Isabelle his wiffe, and Sir Edwarde his eldest sonne, oute of Englond, and went in to Fraunce; and after that thei came a yene in to Englond with a grete strenthe of people. And Sir John Hennawde, the erles brother of Hennawde, come with hem with all the power that he myght to strenthe hem in right; and thei londed fast by Herwiche in Southefolke; tho all the contre fell to them and held with hem to distroye the venym of London. And anone thei toke the kynges counsellours, that is to sey, the fader and sonne called the Spencers and Maister Robert Baldok, a fals peled clerke, that was chaunceler of Englond. And Maister Water Stapilton, that was þo Bysshoppe of Exceter and Tresourere of Engelond, and þe Erle of Arondell, and many oþer that was consent to them, thei were done to dethe in sondrye wise, some hanged and quarterd and some beheded. And so by counsayll of all the lordis of Englond, Kynge Edwarde of Carnarvan was deposed and put downe of his kyngdome, in the yere of our Lorde M<SUP>l</SUP>CCCxxvj<SUP>e</SUP>, in the xix yere of his regne.</P>
+<P>And anone after that was Kyng Edward the Thred of Wyndsore <NOTE PLACE="marg">Edwardus iij[<SUP>cius</SUP>] post Conquestum.</NOTE> crowned at Westmester the first day of Feverell, and in the xv yere of his age; and this Kynge Edwarde was called the floure of knyghte∣hode of all Cristendome. And in the same yere, through counsell of Quene Isabell and Sir Roger Mortymer, was Sir Edward of Carnarvan broȝt from the castell of Kyllingworthe to Berkle, and fro thens to the castell of Corffe; and ther he was mortherd betwene ij feþer beddis, and an hote brenynge spitt put in his fondement, and so brent his bodi with in; and that was on Seint Matheus daye in Septembre; and tho was he enterred at Glowceter. And in the nexte yere folowynge Kynge Edward spowsed Quene Phelippe, the Erles doughter of Hennawde, at Yorke, upon the feste of Conver∣cion of Seint Poule, the yere of our Lord M<SUP>l</SUP>CCCxxvij<SUP>e</SUP>. And
+<PB N="22" REF="22"/>
+while Kynge Edward was of tender age he suffred many prejudice done in Engelonde, for Quene Isabell and Sir Roger Mortymer ruled all Engelond as hem liked. But aftir King Edward redressed hit full wele bi his discrete counsell, and chastesid the traytors and the rebellis of Englond full wele and manfully. And in the third yere of his regne, Edmond of Wodstok, that was the kynges uncle, was be hedid at Wynchestre wrongfully, and all throwe Sir Roger Mortymer that was late made Erle of Marche; and sone aftir, for his grete covetise and falshede that he did to al the realme, he was drawen and hanged at Tiborne upon Seint Andres evyn, the v yere of his regne. After that, he went in to Scotlond, and conqured a yene all þe fewte and homage that the Scottes owid to the crowne off Englond. And in the vj yere of his regne was the batayle at Hayldon Hill besides Berwyk; and at that batayle was slayne xxxvM<SUP>l</SUP>vijC and xij of Scottes and nombred by herawdes, and of Englissh men but xxvij persones, thanked be God, for this was a grete victorye. And this was upon Seint Margaretes even, the yere of our Lorde M<SUP>l</SUP>CCCxxxij. And after that he conquered all Scotlond, and made the Kynge of Scottes his liege man, to do him fewte and homage as he ought of right. And in the xiiij yere of his regne Kynge Edwarde made him redy with a grete nombre of peple for to go in to Fraunce, for to chalange the crowne be right tytell and erytaunce by his moder Quene Isabell. And Kynge Karoll died with oute issewe, and Phelipp Valeys, his emys sonne, ocupyed the crowne ayenes right. And so Kynge Edward and his oste were shipped taward Fraunce, and thought to lande in Flaundres ther as Phelippe of Valoys was with grete navye of dyverse nacions. And so Kynge Edward and his oste aryved with his navy in the haven of Skluse. And the viij day off Julii ther was a grete bataylle, and ther was slayne of the Frensshe partye xxxM<SUP>l</SUP> men, and oure kynge toke þer many grete shippis and cogges and hulkes. And so that tyme Kynge Edwarde hade a gracious victory, in the yere of our Lord M<SUP>l</SUP>CCCxl. And in the xviij yere of his regne the kynge made his eldest sonne Edward, Prince of Walys, Duke of Corn∣wayle and Erle of Chester. And in the xxj yere of his regne wa
+<PB N="23" REF="23"/>
+the bataylle of Cressey, the xxvj daye of August. Ther were slayne and take many grete lordis of Fraunce, and the Frensshe kynge was put to flight, the yere of our Lorde M<SUP>l</SUP>CCCxlvj<SUP>ti</SUP>. And in the therday of Septembre nexte folowing Kynge Edward laide sege to Calys, the whiche contenewed unto the iij daye of August, the nexte yere after, and than hit was yelden up for evir, bothe towne and castell, the yere M<SUP>l</SUP>.iijC.xlvij<SUP>ti</SUP>. And in the same yere duringe the sege was the Kynge off Scottes sore werrynge in Englond, and robbed and revid the contre aboute Derham; and so ther was taken Kynge David of Scotlonde, the Erle Mountyf, Sir William Douglas, and many oþer, the whiche were brought to the Toure of London; and than was the Kynge of Scotlonde taxed at an C.M<SUP>l</SUP>. marke to be paid in x yere daye. And in the nexte yere after was the grete pestilence at London, from Michelmas to Lammas. And in the xxv yere of his regne ther was a grete bataill on the see with the Spaynardes upon the coste of Wynchilsey, and ther were taken xxiiij<SUP>ti</SUP> grete shippis off Spayne. And in the xxviij yere of his regne was a corde made be twene Kyng Edward and the Frensshe kynge, so that he shulde have Normandye, Gascoyne, and Gyane in pees. And anone after died Phelippe of Valeys. Tho was his sonne John made Kynge of Fraunce, and he did myche harme in Gascoyne, and distroyed all the contre. Tho went Prince Edward to Burdeux for to kepe the contrey. After the one and therty yere of his regne was the bataylle of Peyters, the xx day of Septembre; and ther was taken Kynge John of Fraunce and Phelipp his sonne, and many oþer lordis, the whiche Prince Edward brought in to Englond to Kyng Edwarde his fader; the whiche Kyng John was taxed at iij melyons of scutis, that is to sey, vC.M<SUP>l</SUP>.<HI REND="italic">li.</HI> of mony. And in the xxxiiij yere of his regne Syr John off Gawnte, Erle of Rychemond, that was Kyng Edwardes therde sonne, spoused Dame Blanche, Duke Henryes doughter of Lancastre, by dispensacion of the Pope, the xiiij day of Julij, and than was made pees be twene Englond and Fraunce. And the nexte yere after was the grete wynde upon Seynt Maurys daye in June, A<SUP>o</SUP> M<SUP>l</SUP>.CCCxlj. Also the
+<PB N="24" REF="24"/>
+same yere be for the grete wynde was þe secunde pestilence, in the whiche died the noble man and myghty Harry, Duke of Lancaster. And than was Sir John of Gaunte, Erle of Rychemond, made Duke of Lancaster, for he hade spowsed Duke Henry doughter. And in the same yere Prynce Edward spoused the Countes of Kentt; also in þe same yere Sir Lionell, Kynge Edwardes sonne, was made Duke of Clarence, and Sir Edmond of Langley was made Duke of Yorke, and Sir Thomas Wodstok was made Duke of Glowcester. Alle thes v lordes were Kyng Edwardis sonnes. And in the xxxix yere of his regne came iij kynges in to this londe for to speke with Kyng Edward, that is to sey, the kynge of Siprys, the kynge of Fraunce, and the Kynge of Scotlond; and in the same yere died Kyng John off Fraunce, in Engelonde, at Savoye, in þe Dukis place of Langastre. And in the xlj yere of his regne was Richard, Prince Edwardes sonne, born at Burdeux; and in the xliij yere of Kynge Edwarde dyed that noble Quene Philippe of Englond, and lithe at Westmester enterred, the yere of oure Lord M<SUP>l</SUP>CCC.lxix. And in the same yere was a grete derthe in Engelond, a busshell of whete was worthe xl d. Also the xlvij yere of his regne the Duke of Lancaster spoused the kynges doughter of Spayne, and the Duke of Yorke spoused that oþer doughter. And in the l. yere of his regne dyed the noble Preince Edwarde, the viij day of Jun, in the feste of the Trinite, and lieth at Caunterbury. And in the nexte yere folowynge died the noble conquerour Kynge Edwarde the iij<SUP>e</SUP>, of Wyndsore, flour of knyghthode, at Shene the xxj daye of June, and lieth worthely enterred at Westmester, in the yere of our Lorde M<SUP>l</SUP>CCClxxvj<SUP>e</SUP>.</P>
+<P>And in the lj yere of his regne regned Richard the Secounde, <NOTE PLACE="marg">Ricardus ij<SUP>us</SUP>, filius Edwardi Tercii. <NOTE N="a" PLACE="foot">The annotator here commits the gross blunder of representing Richard II. as the son, instead of grandson, of Edward III.; and, not content with this inaccuracy in the margin, he has written over "Prince Edwardis sonne" in the text the words "Edwardus iij<SUP>us</SUP>" above the line.</NOTE></NOTE> the whiche was Prince Edwardis sonne after the right lyne, and he was crowned kynge at Westmester the xvj day of Julij, in the yere
+<PB N="25" REF="25"/>
+a forseyde, at the age of xj. And whiles the kynge was in yonge age certeyn lordis of the realme ruled the londe as hem list; and so thei made an ordenaunce amonge hem in the iiij yere of his regne that every man, woman, and childe in this londe of the age of xiiij yere and above shulde paye to tallage iiij d., pore man and other; the whiche ordenaunce was cause of myche trouble and sorowe in this londe. Wherfor anone after in the somer folowinge for the comyns of this londe a resyn up in diverse parties of the realme and deden myche harme, the whiche was called the hurlyng tyme, <NOTE PLACE="marg">The Hurlyng tyme.</NOTE> the yere of our Lord M<SUP>l</SUP>.CCC.lxxxj<SUP>e</SUP>.</P>
+<P>And the comenys of Kent and Essex rysen up and gaderd hem togeder, and came to London the xiiij day of Junij, and as it fell in the yere hit was the Fridaye after Corpus Christi daye, and they toke Sir Symond Sudbery, Erchebisshoppe of Caunterburye, and Sir Robert Halis, Priour of Seint Johnis, and a White Frere, that was the kynges confessore, and other mo, and brought hem to the Toure Hill and smoten of her hedis, and come a yene to London, and slowe men of lawe and false juges, and all the alyauntes that thei couthe owher fynde, and smoten of her hedis and toke awey ther godis, and wenten to Savey and distroyed and wasted all that was ther, and sett fyre on the place when they went, and dedyn moche harme in many placis with in the cite and with oute at Westmester; thei sparid none. And this horlynge endured iij dayes, and no man durst sett upon hem, the nombre was so grete. And þe Monday folowing William Walworthe, that tyme being Meyre <NOTE PLACE="marg">Wylliam Walworth slow Jak Strawe.</NOTE> of London, slowe Jack Strawe with his owne hondes, and lete smyte of his hede, and set it on London Brigge. And a none, as the capteyn was dede, every man fled a wey as hit had never ben thei. And the v yere of his regne Kynge Richard spoused Quene Anne, the kynges doughter of Beam and Emperour of Almayne, apon Seint Fabian and Sebastians daye, in the Abbaye of West∣mester. And upon Seint Vincentes daye <NOTE N="a" PLACE="foot">After "Seint Vincentes daye" about a line and a-half is crossed out, beginning "of May was the Erthe quake." The erased words occur in the text immediately below; which shows that the MS. is here a copy and that the transcriber had missed a line.</NOTE> nexte folowynge she was
+<PB N="26" REF="26"/>
+crowned. And in the same yere, the xxj daye of May, was the erthequake, the Wenesday a for Witsonday, the yer of our Lord <NOTE PLACE="marg">Terre motus.</NOTE> M<SUP>l</SUP>.CCC.lxxxij<SUP>ti</SUP>. And in the nexte yere folowing Syr Richard Spencer, Bysshuppe of Norwyche, went over the see in to Flaundres with holy water stickys, and ther he gate the towne of Gravenyng, Borborowe, Dunkerk, and Newporte. And ther was done a grete bataylle be twene the Englisshe men and the Flemynges, but the Englisshe men had the victorye. And in the xj yere of Kynge Richarde v lordis of Englond a ryssen at Ratcote to brynge in the discenccion the rebellis þat were that tyme in the realme. The first was Sir Thomas of Wodstok, the kynges uncle and Duke of Gloucester, and Sir Richard, Erle of Arondell, and Sir Richard, Erle of Warwyk, Sir Henry Bolyngbrok, Erle of Derby, and Sir Thomas Moubraye, Erle of Notyngham. And these v lordes seynge the myschefe and falssed of the Kynges Counsell, these v lordes thought to amend hit, and a none the chefe lordes of the kynges counsell fled over the see; that is to say, Sir Elysander Nevell, Erchebisshuppe of Yorke, and Sir Robert Vere, Marques of Develyn, the Erle of Oxenford, and Sir Michell Poole, Erle of Southefolk, and Chaunseler of Englond. And thes lordes went over the see and came no more a yene, for ther they dyed; sone after was Sir Robert Tresylyan, justice, Sir Nicoll Brembre, knyght and alderman of London, and Sir John Salysbury, knyght of the kynges householde, and Thomas Huske, sergeauntes of armes, and Thomas Blake, clerke of the kynges house, were drawen, hanged, and by heded at Tiborne. And Sir Symonde Beverle, a knyght of the garter, and Sir John Bechamp, knyght and stiward of the kynges housholde, a[nd] Sir James Berners, and oþer mo were be hedid at the Toure Hill. And in the xvij yere of his renge dyed the Quene Anne in þe maner of Shene upon Witsondaye, and lithe at Westmester, the yere of our Lord M<SUP>l</SUP>.CCC.iiij<SUP>xx</SUP>xiiij<SUP>e</SUP>.</P>
+<P>And in the xx yere of his regne Kyng Richarde spoused Quene Isabell the kynges doughter of Fraunce in the towne of Caleys, and after she was brought in to Englond and crowned at Westmester the Sonday after Seint Clementes daye. And the xxv day of August
+<PB N="27" REF="27"/>
+nexte folowynge, by evill exitacion and false counsell, and for pure malice that Kynge Richarde had to his uncle and to other lordes, he rode to Plaschey, and ther Kyng Richard a rested hem with his owne handes, Sir Thomas of Wodstock Duke of Glowcester, and comaunded him to Caleys, and there he was morthered betwene ij feder beddes; and on Seint Matheus day nexte after was Sir Richard, the gode Erle of Aroundell, be heded at the Toure Hill, and Sir Richard Erle of Warwyk and the Lorde Cobham were dampned at Westmester to perpetuell preison. And in the same yere fell grete dissencion be twene the Erle of Derby and Sir Henry Bolyng∣broke, the whiche was made Duke of Herfford, and the Erle Marchall, that was newe made Duke of Northefolke for serteyne poyntes, in so myche they waged batayll to have fought with in listes, and ther place was assigned at Coventre where þ<SUP>e</SUP> batayll shulde be. But at the last the kynge of his gode grace toke hit in his honde and wolde not suffre hem to fyght, but exiled the Duke of Herfford for the term of x yere and the Duke of Northfolke for ever. And Sir Thomas Aroundel, Erchebisshuppe off Caunterbury, deposyd of his cee and exiled for ever. The went thes lordes in to dyverse londes. And a none Kyng Richard sett all Englond to ferme to iiij persones, to Sir William Scrowpe, <NOTE N="a" PLACE="foot">The original text read "Sir John Busshe;" but "John" is crossed through and "Wylliam Scrowpe" inserted in the margin by another hand, with a caret in the text after the cancelled word.</NOTE> Busshe, Bagott, and Grene, the whiche broȝt in myche tene. And Kyng Richard went him selffe in to Irelond. Anone came tidynges in to Fraunce to Sir Henry Bollyngbroke whate governaunce was in Engelond, and anone he came downe to Caleys with his meyne that he had, and met ther with Sir Thomas of Arondell, þat was Erchebysshuppe of Caunterbery, and cam over the see in to Englond a yene, and londed at Ravonspor in the northe contre. And when thei were londed all the contre fell downe to them and were joifull of his comynge in helpinge of hem and destroyenge of the fals rule and governaunce of the londe. This was in the xxij yere of the regne of Kynge
+<PB N="28" REF="28"/>
+Richard. Than came he home oute of Irlond in haste, and come to the Castell of Flyntt, and thought to take his counsell whate was best to done. Anone all is men forsoke him and lefte him alone. Tho was Kynge Richarde taken and doen in warde in the Toure of London, and by comon assent of al the lordis of Englonde he was deposed and put downe of this riall realme and kyngdome. Tho he was put in to the Castell of Pomffrett and kept full streyte terme of his lyfe. And than was Sir William Scrowpe, Busshe, Baggott, and Grene were done to dethe for her false covetise. <NOTE N="a" PLACE="foot">There is no stop here in the MS. the punctuation of which is evidently wrong. The sentence ends with "Kynge Richard," the words "the ij<SUP>de</SUP>" being added by the corrector's hand. A mark is also put to indicate the beginning of a new sentence at "Henry of Bolyngbrok."</NOTE> Aftir the deposinge of Kynge Richard the ij<SUP>de</SUP>, Henry of Bolyngbrok, Erle of Derby, Duke of Herford, and Duke of Lancaster, by all the Comyns assent was made kynge for his worthines. And so Henry the iiij<SUP>e</SUP> <NOTE PLACE="marg">Henricus iiij<SUP>tus</SUP>.</NOTE> was crowned at Westmester upon Seint Edwardis daye in Octobre, the yere of our Lord M<SUP>l</SUP>.CCC.iiij<SUP>xx</SUP>xix<SUP>e</SUP>. And a none after he made Henry his eldist sonne Prince of Walys, Duke of Cornwayle and Erle of Chester. And in the fyrst yere of his regne Kynge Richard died in the Castell of Poumffrett and was beryed at Langeley. On whose soule God have mercy. And in the same yere the Duke of Surrey, the Duke of Excester, the Erle off Salisbury, the Erle of Glowcester, and oþer moo of ther affynite were accorded to sle the kynge at Cristmas a twelffe nyght, with a momynge at Wyndsore. But the kynge had knowlech ther of, and came to London in haste. And thes lordes wiste wele that they were be wrayed and fled awaye, and after they were taken and put to dethe.</P>
+</DIV2>
+<DIV2 TYPE="part">
+<HEAD><HI REND="italic">William Conquerour.</HI> <NOTE N="b" PLACE="foot">What follows is a corrupt text of Lydgate's Verses on the Kings of England which I printed from another MS. in "Collections of a London Citizen" edited for the Camden Society in 1876. They are here printed precisely as they stand in this M</NOTE></HEAD>
+<P>This myghti William, Duke of Normandie, as bokes olde maketh <NOTE PLACE="marg">Wylliam Conqueroure reyned xxj yere.</NOTE> mencion, be juste title and by chevalrye made kynge be conquest
+<PB N="29" REF="29"/>
+of Brutes Albyon, put oute Harrolde and toke possession, and bare the crowne full xxj yere, buryed at Cane, thus saithe the crone∣klere.</P>
+<P>Next in ordre succession William Ruffus, his sonne, crowned <NOTE PLACE="marg">Wylliam Rufus xiiij yere.</NOTE> kynge with gode devocion, distroyed chirches of olde and newe bildinge for to make a forest plesaunt for huntynge; xiiij yere he bare his crowne in dede; beryed at Wynchester, in the cronekle ye may rede.</P>
+<P>His broþer nexte, called the fyrst Henrye, was at London <NOTE PLACE="marg">Herry the fyrst, xxxiij yere.</NOTE> crow[n]ed kynge, as y fynde, whose broþer Robert, Duke of Nor∣mandye, be ganne on him to werre, the cronycle maketh mynde. Reconciled, all rancoure sett be hynde, full xxxiij, be record of writynge, yerys he regned; beryed at Redynge.</P>
+<P>His cosyne Stephen, whan first Henry was dede, tawarde Eng∣lond <NOTE PLACE="marg">Stephyn, xix yere.</NOTE> can crosse his sayle; the Erchebysshope sett upon his hede a riche crowne, beynge of his counsell; xix yere with sorowe and grete travaile he bare his crowne, had he no rest; at Feversham lithe beryed in his cheste.</P>
+<P>Harry the Secounde, sonne to thEmpryse, was crowned nexte, <NOTE PLACE="marg">Herry the ij<SUP>de</SUP>, xxxv yere.</NOTE> a full manly knyght, as bokes olde playnly dothe expresse; this saide Henry, be forwarde forse and myghte, slowe Seint Thomas for Holy Chirche right; xxxv yere reyned, hit is made in mynde. Att Fownt Everard lythe beryd, as I fynde.</P>
+<P>Richard his sonne, next be succession, fyrst of that name, stronge, <NOTE PLACE="marg">Richarde the fyrst, cal[led] Cure de Lyon, ix yere.</NOTE> hardy, and notable, was crowned kinge; called Cure de Lyon, with Sarsyne hedis servid at his table; slayne at Gayliarde by deth full lementable; the space of him regned fully ix yere; his herte beryed at Rome <NOTE N="a" PLACE="foot">So in MS., instead of Rone, <HI REND="italic">i. e.</HI> Rouen.</NOTE> at the high autere.</P>
+<P>Nexte Kynge Richard regned his broþer John; after sone entred <NOTE PLACE="marg">Kyng John, xviij yere.</NOTE> into Fraunce, lost Anjoye and Normandy anone. This londe entir∣dited by his governaunce, and, as it is put in remembraunce, xviij yers was kyng of this region; lithe at Worseter, dede with poyson.</P>
+<P>Hanry the iij<SUP>e</SUP>, his sonne, of ix yere of age, was at Glouceter <NOTE PLACE="marg">Herry the iij<SUP>de</SUP>, lv[j yere].</NOTE>
+<PB N="30" REF="30"/>
+crowned, as I rede; longe werr he had with his baronage, gretly delited in almesdede; lvj yere he regned I rede; beryed at West∣mester, by recorde of writinge. The day of Seint Edward was made kynge.</P>
+<P>Edward the First, with shankes longe, was after crowned, that <NOTE PLACE="marg">Edwarde the fyrs[t,] xxxv yere, with the longe sh[ankes].</NOTE> was a gode knyght; wanne Scotlond, magry the Scottes stronge; and all Walis, spite of her myght; durynge his lyve manteyne trouthe and right; xxxv yere he was kynge; lithe at Westmester for trouthe and no lesynge.</P>
+<P>Edward, his sonne, called Carnarvan, succedinge after to make <NOTE PLACE="marg">Edward the ij<SUP>de</SUP>, called Edwar[de of] Carnarv[on], xix yere.</NOTE> his alyaunce, as the cronekyll will recorde, wedded the doughter of the Kynge of Fraunce. Thomas Lancaster, by dethe he toke vengaunce; xix yere helde he his rigalye. Beryed at Glowcester as bokes specefie.</P>
+<P>The iij<SUP>e</SUP> Edward, borne at Wyndsore, myche in knyght hode he <NOTE PLACE="marg">Edwarde the iij<SUP>d</SUP>, lij yere.</NOTE> hade gre preise; enherytor of Fraunce, with outen more, bare in his armes iij lyons and iij floures de lyse. And he gate Caleys with his prudent devyse. Regned in Englond lij <NOTE N="a" PLACE="foot">Corrected into "lj," the "i" being erased with the knife.</NOTE> yere, lyth at Westmester, this seith the Cronecle[re].</P>
+<P>Sonne to Prince Edwarde, Kynge Richard the ij. In whose <NOTE PLACE="marg">Rycharde the ij<SUP>de</SUP>, xxij yere.</NOTE> tyme was pees and plenty. Wedded Quene Anne, of Almayne, as it is fownde; Isabell of Fraunce, who lust to see; xxij yere, he regned here parde. At Langley buryed first, so stode the case. After to Westmester his body caryed was.</P>
+<P>Harry the fourthe, nexte crowned in certeyne, a famouse knyght <NOTE PLACE="marg">Herry the iiij<SUP>th</SUP>, xiiij yere.</NOTE> and of grete semblenesse, from his exile whan he came home agayne, travaylled after with wer and grete sekenes; xiiij yere regned in sothnesse. Buryed at Caunterbery, in that holy place God of his mercy do his soule grace.</P>
+<P>The v<SUP>e</SUP> Henrye, of knyghthode lodester, wyse and right manly to <NOTE PLACE="marg">Herry the v<SUP>th</SUP>, ix yere.</NOTE> termyne right. Fortunate preved in pees and werre. Erthly expert and mercyall displyn, worthi to stonde a monge the worthie
+<PB N="31" REF="31"/>
+ix. Regned ix yere, who list have rewarde; lieth at Westmester not far from Seint Edwarde.</P>
+<P>Harry the vj<SUP>e</SUP>, crowned at Westmester and at Paryse; in his <NOTE PLACE="marg">Herry the vj<SUP>te</SUP>, xxxix yere.</NOTE> youthe he had grete noblenes, bothe in Englond and Fraunce; and in his last daies ther fell grete distaunce through his false counsell that was covetowse, he was put downe from the crowne by all the comyns. So he regned kynge here all moste xxxix yere.</P>
+<P>The names of the Kepers and Baylyffes of the Cite of London in the tyme of Kynge Richarde the fyrst, the whiche was crowned iij <NOTE PLACE="marg">Ricardus Primus.</NOTE> daye of Septembre.</P>
+<P>Henry Cornhill, Richard Remer, Baylyves A<SUP>o</SUP> primo.</P>
+<P>The same day of the kynges coronacion all the Jewes that were fownde or myght be take were distroyed as well be nyght as by day.</P>
+<LG>
+<L>John Herlyon, Roger Duke, Baylyves A<SUP>o</SUP> ij.</L>
+<L>William Averyll, John Boknott, Bayllives A<SUP>o</SUP> iij<SUP>e</SUP>.</L>
+<L>Nicholas Dukett, Peter Newlyn, Bailyves the iiij<SUP>e</SUP> yer.</L>
+<L>Roger Dewke, Richard Aleyn, B. the v yere.</L>
+<L>William FitzIsabell, William FitzArnulff, B. the vj.</L>
+</LG>
+<P>The same yere the kynge comyng homard warde from Jerusalem was take wythe the Duke of Ostrych and was rawnsoned, and for to pay his rawnson euche other chalis throwe this londe was coyned in monye.</P>
+<LG>
+<L>Robert Besaunt, Jokerell Josue, Baylives the vij.</L>
+<L>Gerrard Antilache, Robert Durant, B. the viij.</L>
+<L>Roger Blont, Nicholas Dukett, B. the ix<SUP>e</SUP>.</L>
+<L>Costotinus Arnulff, Robert Lovell, B. þ<SUP>e</SUP> x<SUP>e</SUP> yere.</L>
+</LG>
+<P>This yere dyed Kynge Richard, and lythe at Powntlarge.</P>
+<P>The names of the Kepers and Baylyves in Kynge Johns tyme, <NOTE PLACE="marg">Rex Johannes.</NOTE> the Assencion daye of our Lorde at Westmester.</P>
+<P>Arnolde Arnulffsone, Richard Darthy, B. þ<SUP>e</SUP> j yere.</P>
+<P><PB N="32" REF="32"/>
+This yere the kynge had of every plowelond in þis lond iij s.</P>
+<LG>
+<L>Roger Dosett, Jamys Darthy, B. the ij yere.</L>
+</LG>
+<P>This yere died Seint Hugh of Lyncolne.</P>
+<LG>
+<L>Water FizAlis, Simond Alderman, B. the iij yere.</L>
+<L>Norman Blonden, John Ely, B. the iiij<SUP>e</SUP>.</L>
+</LG>
+<P>This yere Englond and Walys was enterdited, the whiche dured v yere.</P>
+<LG>
+<L>Water Browne, William Chamburlayne, B. þ<SUP>e</SUP> v yere.</L>
+<L>Thomas Averyll, Hamonde Bronde, B. the vj<SUP>e</SUP>.</L>
+</LG>
+<P>This yere began the Order of Frere Prechurs.</P>
+<LG>
+<L>John Waldgrave, Richard Wynchestre, B. the vij<SUP>e</SUP>.</L>
+<L>John Holylonde, Edmond Gerrard, B. viij<SUP>e</SUP>.</L>
+<L>Roger Wychester, Edmond Hardell, B. ix.</L>
+</LG>
+<P>This yere Henry the kynges sonne was borne, and the enter∣dityng sessed.</P>
+<P>All presentes that was Kepers and Baylyves at that tyme were <NOTE PLACE="marg">A<SUP>o</SUP> x<SUP>o</SUP> Regis Johannis, a<SUP>o</SUP> vero Domini 1210.</NOTE> put downe, and chosyn Mayr and Shoreffes for the Cite of London.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Alwyn, Mayr</CELL>
+<CELL>Petyr Duke</CELL>
+<CELL ROWS="2">Shoryffis</CELL>
+<CELL ROWS="2">x<SUP>o</SUP>. <NOTE PLACE="marg">Primus major, quia ante fuerunt ballivi.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Nell</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the chirche of Seint Mary Overes was fyrst fownded.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">Harry Alwyn, Meir</CELL>
+<CELL>Petir Joswe</CELL>
+<CELL ROWS="2">the xj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Glond</CELL>
+</ROW>
+<ROW>
+<CELL>Adam Wittley</CELL>
+<CELL ROWS="2">the xij<SUP>e</SUP>. <NOTE PLACE="marg">1211. iij.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Stephen Legras</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge wente in to Irelonde, and made the rebelles sogetis to hym.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Alwyn, Meir</CELL>
+<CELL>Josevus Petresson</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>. <NOTE PLACE="marg">1212. iiij.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>John Garlond</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Sowthewerke, London, the Brygge, and the most part of the Cite of London, was brent.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Alwyn, Meir</CELL>
+<CELL>Raff Holylond</CELL>
+<CELL ROWS="2">the xiiij<SUP>e</SUP>. <NOTE PLACE="marg">1213, iiij.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Costantyne Joswe</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="33" REF="33"/>
+This yere the stone brygge was fyrste be gon, and Castell Bay∣narde destroyed.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Roger Aleyn, Meir</CELL>
+<CELL>Martyn FizAlis</CELL>
+<CELL ROWS="2">the xv<SUP>e</SUP>. <NOTE PLACE="marg">1214, iiiij.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Petyr Batte</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Serle Mercer, Meir</CELL>
+<CELL>Salman Basynge</CELL>
+<CELL ROWS="2">þ<SUP>e</SUP> xvj<SUP>e</SUP>. <NOTE PLACE="marg">1215, j<SUP>o</SUP>.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Hugh Basyng</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">William Hardell, Meir</CELL>
+<CELL>John Travers</CELL>
+<CELL ROWS="2">þ<SUP>e</SUP> xvij<SUP>e</SUP>. <NOTE PLACE="marg">1216.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Hugh Basynge</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere, the morne after Seint Lukys day, dyed Kyng John, and is beryed at Wursceter.</P>
+<P>The name of the Meyres and Shoreffes of London in the renge <NOTE PLACE="marg">Henricus iij<SUP>us</SUP>.</NOTE> of Kyng Henry the iij<SUP>e</SUP>, the whiche was crowned at Glowcester in thest <NOTE N="a" PLACE="foot">So in MS.</NOTE> of Simond and Jude.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Jacob Alderman, Meir</CELL>
+<CELL>Benet Coventre</CELL>
+<CELL ROWS="2">þ<SUP>e</SUP> j.</CELL>
+</ROW>
+<ROW>
+<CELL>William Blunttravers</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Serle Mercer, Meir</CELL>
+<CELL>Thomas Bokerell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Holylond</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Serle Mercer, Meir</CELL>
+<CELL>John Wayle</CELL>
+<CELL ROWS="2">þ<SUP>e</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Josevus Spicer</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge had of every plowe londe ij s. And the same yere Seint Thomas of Caunterbery was translatyd, 1 yere aftir that he was martred.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="6">Serle Mercer, Meyr</CELL>
+<CELL>Richard Wymbyldey</CELL>
+<CELL ROWS="2">A. iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Waylle</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Renger</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Josevus Ruff</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Rengee</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Josevus Ruff</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge was in purpose to caste downe the wallys of London.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Serle Mercer, Meir</CELL>
+<CELL>Richard Renger</CELL>
+<CELL ROWS="2">the vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Lamberd</CELL>
+</ROW>
+<PB N="34" REF="34"/>
+<ROW>
+<CELL ROWS="2">Richard Renger, Mair</CELL>
+<CELL>William Joyner</CELL>
+<CELL ROWS="2">the viij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Lambard</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere came Frere Mynours first in to Englonde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="6">Richard Renger, Meyre</CELL>
+<CELL>John Travers</CELL>
+<CELL ROWS="2">þ<SUP>e</SUP> ix.</CELL>
+</ROW>
+<ROW>
+<CELL>Andrewe Bokerell</CELL>
+</ROW>
+<ROW>
+<CELL>Roger Duke</CELL>
+<CELL ROWS="2">the x<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Martyn FizWilliam</CELL>
+</ROW>
+<ROW>
+<CELL>Stephen Bokerell</CELL>
+<CELL ROWS="2">the xj.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Cobham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere all the weerys that were in Temmes were distroyed by the kynges ordynaunce. And the same yere the kynge graunted to the Cite of London waren.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Roger Duke, Meir</CELL>
+<CELL>Stephen Bokerell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xij<SUP>e</SUP>. <NOTE N="a" PLACE="foot">Owing to an erroneous entry before the last paragraph which is crossed out, this and all the subsequent years of the reign have been dated a year in advance and afterwards corrected, as far as the 39th year, originally written "xl", in which the numeral letters are simply crossed out without further correction.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Harry Cobham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge grawnted that eche Shereffe of London sholde have ij Clerkis and ij Sergauntes and no moo. Also the kynge graunted to the Citezeynes of London that thei shulde have a Comyne Seale, þ<SUP>e</SUP> whiche shulde be in kepynge of ij Aldermen and ij Com[en]ers of the seid Cite. And that the seid seale shuld not be denyed to any comener of the seide Cite whan hit is reson∣ablye asked. And nothinge be taken for the seid seale, &amp;c.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Roger Duke, Maire</CELL>
+<CELL>Water Wynchester</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert FizJohn</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Andrew Bokerell, Mair</CELL>
+<CELL>Richard Watyr</CELL>
+<CELL ROWS="2">A. xiiij.</CELL>
+</ROW>
+<ROW>
+<CELL>John Wouborne</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was ordeyned that from that day forwarde shold never after Shoreff of London be in Office lenger then one yere.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">And[r]ewe Bokerell, Meyre</CELL>
+<CELL>Mighell of Seint Ellyns</CELL>
+<CELL ROWS="2">A. xv.</CELL>
+</ROW>
+<ROW>
+<CELL>Water of Denffeld</CELL>
+</ROW>
+<PB N="35" REF="35"/>
+<ROW>
+<CELL ROWS="6">Andrewe Bokerell, Mair</CELL>
+<CELL>Harry Edylmetory</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Gerrard Batte</CELL>
+</ROW>
+<ROW>
+<CELL>Symond Marye</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Roger Bontt</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Ashewy</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xviij.</CELL>
+</ROW>
+<ROW>
+<CELL>John Norman</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete wynde and an erthequake.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Andrewe Bokerell, Maire</CELL>
+<CELL>Gerrard Batte</CELL>
+<CELL ROWS="2">A. xix.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Ardell</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge spoused the eldest doughter of the Pro∣vynce <NOTE N="a" PLACE="foot">So in MS. The word "the" before "Provynce" is interlined in a later hand.</NOTE> at Caunterburye.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Andrew Bokerell, Mair</CELL>
+<CELL>Harry Cobham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xx.</CELL>
+</ROW>
+<ROW>
+<CELL>Jordeyn Coventre</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">William Juyn, Mair</CELL>
+<CELL>John Tolesan</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxj<SUP>o</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Gervys Cordwan</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Richard Date, Mair</CELL>
+<CELL>John Wilhale</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Saundres</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Edward the kynges sonne was borne.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Rauffe Grene, Maire</CELL>
+<CELL>Reynold Bongey</CELL>
+<CELL ROWS="2">A. xxiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Ascheheme</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Richard Renger, Mair</CELL>
+<CELL>John Gysors</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxiiij.</CELL>
+</ROW>
+<ROW>
+<CELL>Myhell Truy</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">Stephen de Bongey, Maire</CELL>
+<CELL>John Wayle</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Durham</CELL>
+</ROW>
+<ROW>
+<CELL>John FizJohn</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Aschewy</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Rauff Ashewy, Mayre</CELL>
+<CELL>Hugh Blunt</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Adam Bassynge</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Newlyn Prynce of Walys meved wer a gayne the kynge, and Gryffyn, Newlyns sonne, fell oute of the Toure of London and brake his neck.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Michell Tony, Meir</CELL>
+<CELL>Rauffe Spicer</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxviij.</CELL>
+</ROW>
+<ROW>
+<CELL>Nicolas Batte</CELL>
+</ROW>
+<PB N="36" REF="36"/>
+<ROW>
+<CELL ROWS="4">John Gysors, Mair</CELL>
+<CELL>Robert Cornhill</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxix.</CELL>
+</ROW>
+<ROW>
+<CELL>Adam Bentley</CELL>
+</ROW>
+<ROW>
+<CELL>Symond Mary</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxx.</CELL>
+</ROW>
+<ROW>
+<CELL>Lawrens Frowyke</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Roger FizRoger, Maire</CELL>
+<CELL>John Wayle</CELL>
+<CELL ROWS="2">A. xxxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Nicolas Batte</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">Michell Tony, Maire</CELL>
+<CELL>Nicholas Joce</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Geffrey Wynchester</CELL>
+</ROW>
+<ROW>
+<CELL>Raffe Ardell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Tolesan</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Nornya, Meir</CELL>
+<CELL>Geffrey Basynge</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiiij.</CELL>
+</ROW>
+<ROW>
+<CELL>William FizRichard</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Cite of Damaske was won with Cristen men.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Adam Basynge, Maire</CELL>
+<CELL>Lawrens Frowyke</CELL>
+<CELL ROWS="2">A. xxxv.</CELL>
+</ROW>
+<ROW>
+<CELL>William FizRichard</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere be gan Frere Austines fyrst in Engelonde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Teson, Maire</CELL>
+<CELL>William Durham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Wyndborn</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Nicholas Bamme, Maire</CELL>
+<CELL>John Norhampton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Pykard</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Rauff Ardell, Maire</CELL>
+<CELL>William Asshewey</CELL>
+<CELL ROWS="2">A. xxxviij.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Bylton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was Seint Peter of Melayne martered.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="8">Rauff Ardell, Maire</CELL>
+<CELL>Stephen Oystergate</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> [xl]. <NOTE N="a" PLACE="foot">Crossed out.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Harry Walmote</CELL>
+</ROW>
+<ROW>
+<CELL>Martyn Bokerell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Mynor</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Ewell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Asshewey</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas FizRichard</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xliij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Catlegre</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Gesors, Maire</CELL>
+<CELL>John Adryan</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xliiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Cornhill</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="37" REF="37"/>
+This yere the kynge lete gader the scowtage, that is to sey of every knyghtes fee throw Englond xl s.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">William Riche, Meir</CELL>
+<CELL>Adam Brownyng</CELL>
+<CELL ROWS="2">A<SUP>o</SUP>. xlv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Norhampton</CELL>
+</ROW>
+<ROW>
+<CELL>Rychard Pykard</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Coventre</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Thomas FizThomas, Maire</CELL>
+<CELL>Phelip Walbroke</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlvj. <NOTE N="a" PLACE="foot">Corrected from "xlvij."</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL>Richard Taylor</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the bataylle of Lewys, and stella comata apered xv wekys.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="6">Thomas Fiz Thomas, Maire</CELL>
+<CELL>Robert Momplers</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlvij.</CELL>
+</ROW>
+<ROW>
+<CELL>Osbern Bukessell</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Lampforde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlviij.</CELL>
+</ROW>
+<ROW>
+<CELL>Gregory Mukessell</CELL>
+</ROW>
+<ROW>
+<CELL>Edward Blunt</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlviij.</CELL>
+</ROW>
+<ROW>
+<CELL>Peter Augre</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Ryche, Costos</CELL>
+<CELL>John Lynde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> l.</CELL>
+</ROW>
+<ROW>
+<CELL>John Walme</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Almanus Godich, Costos</CELL>
+<CELL>John Adryan</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> lj.</CELL>
+</ROW>
+<ROW>
+<CELL>Lucas Bradcourt</CELL>
+</ROW>
+<ROW>
+<CELL></CELL>
+<CELL>Water Hermy</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> lij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL></CELL>
+<CELL>William Duranson</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Hugh Thomas, Mair</CELL>
+<CELL>Thomas Basyng</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> liij.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Cornhill</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge did translate Seint Edward in to a precious shryne, and in the same yere was the erþe quake.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">John Adryan, Maire</CELL>
+<CELL>Watyr Porter</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> lv.</CELL>
+</ROW>
+<ROW>
+<CELL>John Taylor</CELL>
+</ROW>
+<ROW>
+<CELL>Gregory Rokisley</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> lvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Waleys</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the stepill of Bowchyrche fell downe and did myche <NOTE PLACE="marg">A<SUP>o</SUP> Do<SUP>i</SUP> M<SUP>l</SUP>.ij.c.iij<SUP>xx</SUP>ix.</NOTE> harme.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Adryan, Maire</CELL>
+<CELL>Robert Mylkotte</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> lvij.<SUP>e</SUP></CELL>
+</ROW>
+<ROW>
+<CELL>Petyr Cosyn</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="38" REF="38"/>
+This yere died that noble kynge, whose bones ben buryed at Westmestre.</P>
+<P>Thes bethe the names of the meyres and shereffes in the regne of <NOTE PLACE="marg">Edwardus Primus.</NOTE> Kynge Edwarde the First.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Hervy, Meir</CELL>
+<CELL>John Horne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>Water Porter</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Harry Walleys, Meir</CELL>
+<CELL>Nicolas Wynchester</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Coventre</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Gregory Rokysley, Meire</CELL>
+<CELL>Lucas Madcourt</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Frowycke</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete erthe quake.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="8">Gregory Rokysle, Meire</CELL>
+<CELL>John Horne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Blunt</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Bras</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Raff Fyner</CELL>
+</ROW>
+<ROW>
+<CELL>John Adryan</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Water Langley</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Basynge</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Morle</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the house of Frere Prechours was first founded at Castell Baynarde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">Gregory Rokysley, Meire</CELL>
+<CELL>Thomas Box</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> viij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Raffe More</CELL>
+</ROW>
+<ROW>
+<CELL>William Farendon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Nicolas Wynchester</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">Harry Walleys, Meire</CELL>
+<CELL>William Meyre</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> x<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Chykwell</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Blunte</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Ankyrtyn Betle</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Newlyn Prince of Walis was take and beheded.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Walleys, Meire</CELL>
+<CELL>Jordane Godechepe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Martyn Box</CELL>
+</ROW>
+<PB N="39" REF="39"/>
+<ROW>
+<CELL ROWS="6">Roger Rokesley, Meire</CELL>
+<CELL>Stephen Cornhill</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Rikysle</CELL>
+</ROW>
+<ROW>
+<CELL>Watyr Blunt</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Wade</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Gros</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Antony</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="6">Rauffe Southe, Meir</CELL>
+<CELL>William Harfford</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Stanys</CELL>
+</ROW>
+<ROW>
+<CELL>William Betayne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Caunterbury</CELL>
+</ROW>
+<ROW>
+<CELL>Fult Edmond</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Salmon Langfford</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Cartsteyne, Meire</CELL>
+<CELL>Thomas Romayne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Lyre</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge ordeyned that all the Jewes that were dwellinge in this londe shulde be exiled for evir.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">Rauffe Blunt, Maire</CELL>
+<CELL>Rauffe Blunt</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xx<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Hamond Box</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Belle</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Ellyse Russell</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="8">Sir John Kyrton, Costos</CELL>
+<CELL>Martyne Ambreshire</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxij.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Rokysley</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Glowestre</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Hary Box</CELL>
+</ROW>
+<ROW>
+<CELL>John Donstable</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Adam Alyngbury</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Southe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Adam Fulham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge toke the towne and castell off Berwyke, and ther were slayne many Scottes.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Sir John Kyrton, Costos</CELL>
+<CELL>William Stafford</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Stafford</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="40" REF="40"/>
+This yere the kynge did a grete batayll in Scotlande.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Walles, Meire</CELL>
+<CELL>Richarde Soperlane</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Cely</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Elys Russell, Meire</CELL>
+<CELL>Harry Fyngreth</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Anetres</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="6">Syr John Blunt, Meire</CELL>
+<CELL>Lucas Averyng</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Cambe</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Taylor</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxx<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Petyr Basynge</CELL>
+</ROW>
+<ROW>
+<CELL>Hugh Proude</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Symond Parys</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">Sir John Bluntt, Meire</CELL>
+<CELL>William Commate</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Burfford</CELL>
+</ROW>
+<ROW>
+<CELL>Roger Paryce</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Lyncolne</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the lordis of Scotlond were sworne liege men to the kynge of Engelonde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">Harry Wales</CELL>
+<CELL>Reynold Underle</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Cosyne</CELL>
+</ROW>
+<ROW>
+<CELL>Symond Benett</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Geffrey Conditt</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere died the noble kynge, whos bonys ben buried at Westmester.</P>
+<P>Thes bethe the names of the Meires and Shereffes of the Cite of London in the tyme of þ<SUP>e</SUP> regne of Kynge Edwarde the Secunde. <NOTE PLACE="marg">Edwardus ij<SUP>dus</SUP>.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Romayn, Maire</CELL>
+<CELL>William Furney</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>Nelle Drury</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge spowsed Isabell, the kynges doughter of Fraunce, and in the same tyme proffessied the holy chanone of Brydlyngton.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Romayne, Maire</CELL>
+<CELL>William Basynge</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Boteler</CELL>
+</ROW>
+<PB N="41" REF="41"/>
+<ROW>
+<CELL ROWS="2">Nicolas Faryngdon, Meir</CELL>
+<CELL>Roger Palmer</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Edmond</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Richard Bosham, Meire</CELL>
+<CELL>Symond Cropp</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Petyr Blakeney</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Gysors, Meire</CELL>
+<CELL>Symond Morwade</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Wilfford</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was Edward the kynges sonne borne at Wyndsore on Seint Bricys daye.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">Nicholas Faryngdon, Meir</CELL>
+<CELL>John Lambuy</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Lutkyn</CELL>
+</ROW>
+<ROW>
+<CELL>Adam Burton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Hugh Gayton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge went in to Scotlond with a riall power.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Gysors, Meir</CELL>
+<CELL>Stevyn Abyngdon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> viij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Bedyngham</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Stephen Abyngdon, Meire</CELL>
+<CELL>Hamond Goodchepe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ix.</CELL>
+</ROW>
+<ROW>
+<CELL>William Bedyngton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the towne and the castell of Berwyk was lost throwe treson of Peris of Spaldynge [ <NOTE N="a" PLACE="foot">This between brackets has been added by the Corrector at the top of the page, fo. 24b.</NOTE> whom the kyng had put there to kepe the towne with many burgesys of the same towne, where fore the chyldren that were put in hostage thorugh the burgesys of Berwyke folowde the kynges marchalse many dayes fetterd in strong yrens. And after that cam two cardynals in to Englonde to make peace be twene Englond and Scotlond. And as they went toward Durham to have consecrate one Master Lewys of Beamount Bysshop of Durham they were robbyd uppon the more of Wyngles∣dome, of whiche robrye Syr Gylbert of Mytton was atteynt, take, drawne, hangyd, hys hed smyt of, and quarterde. And the same tyme be fel many myscheves in Englond, for the pore people dyed for hungre, and so faste that unethe men myght bury them. For a
+<PB N="42" REF="42"/>
+quarter of whete was then at xl s., and two yere and <HI REND="italic">di.</HI> whete was at x marke a quarter, in so moche that pore people stole chyrdern and ete them, and all so ete howndes, hors, and cattes.]</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="6">John Wyngrave</CELL>
+<CELL>William Palmer</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> x<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Gawston</CELL>
+</ROW>
+<ROW>
+<CELL>John Pryour</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Furnex</CELL>
+</ROW>
+<ROW>
+<CELL>John Pulteney</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Dollynge</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge helde his Parlement at Yorke, and Sir Hugh Spencer sone was made chefe Chamburlayne of Inglonde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Hugh Chykwell, Meyr</CELL>
+<CELL>Symond Abyngdon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Preston</CELL>
+</ROW>
+</TABLE></P>
+<P>This same yere was bothe Lord Spencer and his sonne exiled oute of Ingelond, and, sone after, the kynge commaunded ayene to the Lordis governaunce.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Faryngdon, Maire</CELL>
+<CELL>William Pordon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiiij<SUP>e</SUP>. <NOTE PLACE="marg">This yere were the fyrst nobles, <HI REND="italic">di.</HI> nobles, and farthynges of gold made, for a fore this tyme there was no mony but sterlyng.</NOTE></CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">Hamond Chykewell, Mair</CELL>
+<CELL>Rychard Costantyne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Akeney</CELL>
+</ROW>
+<ROW>
+<CELL>John Grantham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Roger Ely</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Nicholas Faryngdon, Maire</CELL>
+<CELL>Adam Salysbury</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Oxynford</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Hamond Chykwell, Maire</CELL>
+<CELL>Benett Fullham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Gawston</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Bysshoppe of Exceter, <NOTE N="a" PLACE="foot">The original reading was "Oxenford," which has been corrected into "Exceter" by a later hand.</NOTE> that tyme was <NOTE N="a" PLACE="foot">The original reading was "Oxenford," which has been corrected into "Exceter" by a later hand.</NOTE> Tresorer of Inglonde, was be heded at the Standarde in Chepe.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Rechard Betey, Meyre</CELL>
+<CELL>Gilbert Mordon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xix.</CELL>
+</ROW>
+<ROW>
+<CELL>John Cotton</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="43" REF="43"/>
+This yere the kynge was deposed and Edward his sonne made kynge.</P>
+<P>The names of the Meire and Shereffes of London in þ<SUP>e</SUP> yere of <NOTE PLACE="marg">Edwardus iij<SUP>us</SUP>.</NOTE> the regne of Kynge Edwarde the iij<SUP>e</SUP>.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Hamond Chikwell, Maire</CELL>
+<CELL>Richard Deryng</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>Roger Chaunceler</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge spoused the Erlis doughter off Henawde. And in the same yere the kynges fader was morthered at the castell of Berkele.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">Hamond Chikwell, Meire</CELL>
+<CELL>Richard Deterynge</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Darcy</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Deterynge</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Roger Chaunceler</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Grantham, Maire</CELL>
+<CELL>Symond Fraunces</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Chamburleyne</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was Roger Mortymer honged for holding of the Quene.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Symond Swanlond, Mayre</CELL>
+<CELL>Richard Later</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Gesors</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">John Powntney, Maire</CELL>
+<CELL>Robert off Ely</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Herwolde</CELL>
+</ROW>
+<ROW>
+<CELL>John of Mokkyng</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Andrew Aubry</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was Berwik yolden to oure kynge.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">John Powntney, Maire</CELL>
+<CELL>Nicholas Pyke</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> viij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Howsbonde</CELL>
+</ROW>
+<ROW>
+<CELL>William Haunsed</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Haunseyd</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Reynold Condit, Maire</CELL>
+<CELL>John Hyngeston</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> x<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Watyr Turke</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">John Powntney, Maire</CELL>
+<CELL>Watir Mordon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Upton</CELL>
+</ROW>
+<ROW>
+<CELL>William Beklesworthe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Northhalle</CELL>
+</ROW>
+<PB N="44" REF="44"/>
+<ROW>
+<CELL ROWS="4">Harry Dacy, Maire</CELL>
+<CELL>Watyr Neell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Nicholas Crane</CELL>
+</ROW>
+<ROW>
+<CELL>William of Pounfret</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Hugh of Markeber</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Andrewe Awbrye</CELL>
+<CELL>William Thorney</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xv.</CELL>
+</ROW>
+<ROW>
+<CELL>Roger of Forsham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the bataylle of Slews in Flawndres.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="4">John of Oxynford, Maire</CELL>
+<CELL>Adam Lucas</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Bertilmewe Denmarke</CELL>
+</ROW>
+<ROW>
+<CELL>Richard of Berwyk</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Rokysle</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Symond Frawnces, Maire</CELL>
+<CELL>John Lovekyn</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard of Kyllyngbury</CELL>
+</ROW>
+</TABLE></P>
+<P>In this yere was an erthe quake.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Hamonde, Maire</CELL>
+<CELL>John Sewarde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John of Haylham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere began the knyghtys of the Garter a yene.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Hamonde, Maire</CELL>
+<CELL>Geffrey Wyngham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xx<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Legge</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the kynge of Scotlonde take and broȝte in to Ingelonde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Richard Lacer, Maire</CELL>
+<CELL>Edmond of Evynhall</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John of Glowcester</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the Batayll of Cressy and the Sege of Caleys, be gonne 1346.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Geffrey Wychyng∣ham, Maire</CELL>
+<CELL>William Clapton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Croydon</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was Calys wonne and yelde to Kynge Edwarde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Thomas the Gaye, Meir</CELL>
+<CELL>Adam Brabanson</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxiij.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard of Basyngstoke</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the fyrst Pestelence.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Loffkyn, Meire</CELL>
+<CELL>Harry Pykard</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Symond Dolseley</CELL>
+</ROW>
+<PB N="45" REF="45"/>
+<ROW>
+<CELL ROWS="2">John Turke, Maire</CELL>
+<CELL>Adam Bury</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauffe of Lynne</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the grete Pestelence.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Richard Beslyng∣bury, Maire</CELL>
+<CELL>John Nott</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William of Worseter</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Andrewe Aubry, Maire</CELL>
+<CELL>John Wrothe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Styryntrope</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="4">Adam Fraunces, Maire</CELL>
+<CELL>John Peche</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxviij<SUP>e</SUP> <NOTE N="a" PLACE="foot">The following note occurs in the margin opposite the 28th year: "This yere were the fyrst g[ro]tes and <HI REND="italic">di.</HI> grotes, that is to s[aye] iiij d. and ij d. of sylver made, [and] afore ther was no monye b[ut] the noble, the half noble, the [far]thyng of gold and sterlyng o[f] sylver."</NOTE>.</CELL>
+</ROW>
+<ROW>
+<CELL>John of Stody</CELL>
+</ROW>
+<ROW>
+<CELL>William of Welde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Lytell</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Thomas Legge, Mair</CELL>
+<CELL>William of Tudham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxx<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard of Smolt</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Symond Fraunces, Mayre</CELL>
+<CELL>Watyr Frost</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas of Lardon</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge of Fraunce was brought in to Ingelonde prisoner, the whiche Prince Edwarde toke in þ<SUP>e</SUP> felde at the Batayle of Peyters. And the Crow[n]e off Scotlond yelden to oure kynge.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Pycard, Maire</CELL>
+<CELL>Richard Notyngham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Dolsle</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Stoody, Maire</CELL>
+<CELL>Stephanus Caundiche</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Bertilmewe Frestlynge</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Lovekyn, Maire</CELL>
+<CELL>John of Burys</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John of Banys</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Symonde Dolse, Maire</CELL>
+<CELL>Symond of Bodyngton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John of Chechester</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the threde Pestelence.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Wrothe, Maire</CELL>
+<CELL>John Denys</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>James Andrewe</CELL>
+</ROW>
+<PB N="46" REF="46"/>
+<ROW>
+<CELL ROWS="2">John Peche, Maire</CELL>
+<CELL>William Holbeche</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Jamys of Tame</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete wynde on Seint Mawres daye.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Stephen Candysh, Meir</CELL>
+<CELL>John de Seint Albonis</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>James Andrewe</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Notte, Maire</CELL>
+<CELL>Richard of Croydon</CELL>
+<CELL>A<SUP>o</SUP> xxxix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Hiltoft</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Adam of Bury, Maire</CELL>
+<CELL>Symond of Mordon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xl<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John of Medfford</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Adam of Bury, Mair to þ<SUP>e</SUP> xvij day of Janyuer</CELL>
+<CELL>John Brekyllesworthe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Irelonde</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Lovekyn, Maire</CELL>
+<CELL>John Warde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Atlee</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">James Andrewe, Maire</CELL>
+<CELL>John Tornegold</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xliij<SUP>e</SUP> stella comata.</CELL>
+</ROW>
+<ROW>
+<CELL>William Dikeman</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the fourthe Pestilence, and in the monthe of Marche apperid. <NOTE N="a" PLACE="foot">So in MS. Doubtless the words "stella comata" written above under the regnal year ought to have been inserted here.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Symond Mordon</CELL>
+<CELL>Adam Wymondham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xliiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Gurdeler</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere went Sir Robert Knollis in to Fraunce with a grete power.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Chechester, Maire</CELL>
+<CELL>John Pyll</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Hugh Holbech</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was called the grete dere yere, and that same yere was a quarter of whete at iiij nobles.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Bernys, Maire</CELL>
+<CELL>William Walworthe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Gayton</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Pyell, Maire</CELL>
+<CELL>John Philpott</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Nicholaus Brambyll</CELL>
+</ROW>
+<PB N="47" REF="47"/>
+<ROW>
+<CELL ROWS="2">John Bernys, Maire</CELL>
+<CELL>Robert Hattfeld</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Adame Stable</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was John Norword, mercer, slayne att the Blacke hethe at a wrestelynge.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Adam of Bury, Maire</CELL>
+<CELL>John Aubrye</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xlix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Fysshehed</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">William Walwothe, Maire</CELL>
+<CELL>Richard Lyons</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> l.</CELL>
+</ROW>
+<ROW>
+<CELL>William Woodhows</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Warde, Maire</CELL>
+<CELL>John Hadley</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> lj.</CELL>
+</ROW>
+<ROW>
+<CELL>William Newport</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the wode Satyrdaye for the Duke of Lancaster at Sir Johnis Inne of Prys; the same yere was the v pestelence. This yere dyed Prince Edwarde, and lithe at Caunterburye.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Adam Staple, Maire</CELL>
+<CELL>John Northehampton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> lij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Launde</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was Adam Stable deposid of his meyralte by John Duke of Lancaster on Palme Sondaye eve, that is to sey the xij day of Aprile. And in his stede was made Nicholas Bremble. And on the same day was John Mynsterworthe hangged and heded. And on Seint Albones even dyed Kynge Edwarde [the thirde], <NOTE N="a" PLACE="foot">The words between brackets are inserted by the Corrector.</NOTE> and is enterred at Westmester.</P>
+<P>Thes bethe the names of the Maires and Shoreffes of the Cite of <NOTE PLACE="marg">Ricardus ij<SUP>dus</SUP>.</NOTE> London in the tyme of the renge of Kyng Richard the ij<SUP>e</SUP>.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Bremble, Maire</CELL>
+<CELL>Andrewe Pykeman</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>Nicholas Twyfford</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere every man, woman, and childe after the age of xiiij yere payd to the kynge iiij d.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2"> <NOTE N="b" PLACE="foot">The names and heading for this year are supplied by the Corrector at the foot of a page.</NOTE> John Philpot, Mayre</CELL>
+<CELL>Thomas Cornwales</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Basham</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="48" REF="48"/>
+This yere was a bushell of whete at vj d. And a galon of white wyne at vj d. and a galon of rede wyne at iiij d.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Hadle, Maire</CELL>
+<CELL>John Aylsdon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Bareyte</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the Parlement at Northampton, and ther was Kyrkeby drawen and hanged for the dethe of Marshaunt Janyn. And in the same yere, be for the feste of Seint Michell, were the gallyes in Temmes brent at Gravysende; and for the same cause was Sir Rauffe Ferres appellyd. In the same was a bataylle at West∣mester be twene Sir John Aunsell, knyght, appellaunt, and Thomas Katerton, defendaunt. And in this yere come a grete peple oute of Kentt and Essex to London and brent the Savey and a parcell of Seynt Johns and the maner of Heybury. And so entryd in to London and fette oute of the Toure the Erchebysshoppe of Caunter∣bury, the priour of Seint Jonys, and a Frere Robert Halys, and Frere William Appylton, and a Frere Menor, and John Legge, a sergeaunt of armes, and Richard Somner, were be hedid at Towre Hill. And Richard Lyons behedid at the Standard in Chepe. And on the morowe after was William Walworth, Nicholas Brembyll, John Philpott, and Robert Lawnde, made knyghtis in Smythfeld. And uppon Samfford Hill was the Erle Marchall, and the Erle Pembroke, and Syr Nicholas Twyfford and Sir Adam Fraunces, knyghtes, with in a shortt tyme. And this was called the Hurlynge tyme.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Walworthe, Maire</CELL>
+<CELL>Watyr Begette</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Knyghtcott</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge hade of every man and woman be twene lx and xvj yere xij d., for the whiche þ<SUP>e</SUP> rysinge afore be ganne.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Norhampton, Maire</CELL>
+<CELL>John Rote</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Hende</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere, the vij day of Januer, on a Saterdaye, Quene Anne came to the Toure of London, and the Sonday followinge she was weddid to Kynge Richard the Secounde. And the xxiiij day of Maye was a grete Erthe quawe.</P>
+<LG>
+<PB N="49" REF="49"/>
+<L>A post Dunstanum post tempore meridianum</L>
+<L>C circulum vixi terre motum tibi dixi. <NOTE N="a" PLACE="foot">I confess the meaning of these lines is beyond me.—<HI REND="italic">Editor.</HI></NOTE></L>
+</LG>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Norhampton, Mair</CELL>
+<CELL>Adame Bamme</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Cely</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Bysshoppe of Norwyche went in to Flaundres and slewe many Flemynges. This yere was John Norhamton, John More, John Norbury, dampned in the Toure of London for cer∣teyne congregaciouns that were made a yenes þ<SUP>e</SUP> pese.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Bremble, Mair</CELL>
+<CELL>Nicholas Exton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Fresche</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Nicholas Bremble, Maire</CELL>
+<CELL>Symond Wynchecombe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> viij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John More</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge wentt in to Scotlonde with a riall power and distroyed all the londe to the Scottes see.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Bremble, Maire</CELL>
+<CELL>John Orgon</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Churcheman</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere went the Duke of Lancaster in to Spayne for to cha∣lange the crowne.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Exstone, Meir</CELL>
+<CELL>William Staunton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> x<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William More</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the Erle of Arondell mad Amell of the see, and toke in that yere lxxx<SUP>xx</SUP> <NOTE N="b" PLACE="foot">"lxxx<SUP>xx</SUP>." So in MS.</NOTE> shippis of enmyes and mo with xiiijM<SUP>l</SUP> ton wyne.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Exston, Mayre</CELL>
+<CELL>William Venor</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Hugh Fasthalffe</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete dissencion amonge the lordis, that is to sey, the Duke of Glowcester, the Erle of Derby, the Erle of Arondell, the Erle off Warwyk, and the Erle of Notyngham, a gayne the Erle of Oxynford, and the Erle of Southfolke, and the Erche∣bysshope of Yorke, Sir Robert Tresylyan, and Sir Nicholas Bremble, the whiche Sir Robert and Sir Nicholas were drawen and hanged, and the Erle of Oxynforde and the Erle of Southefolke fled in to
+<PB N="50" REF="50"/>
+Braband, and ther died, and the Erchebysshuppe of Yorke fled in to Scotlonde and ther died, and all ther godes fell in to the kynges hande.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Twyffor, Mair</CELL>
+<CELL>Thomas Austyn</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Adam Carlhill</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">William Venor, Maire</CELL>
+<CELL>John Walcotte</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Loveney</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete Pestylence.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Adame Bamme, Maire</CELL>
+<CELL>Thomas Vyment</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Fraunces</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Hende, Maire</CELL>
+<CELL>Harry Vanner</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Shodworth</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the Mayre and bothe the Shoryves were putt downe of her offyce, and Syr Edwarde Delyngrege made wardeyn by the kynge. And after him Syr Bawdewyne Radynton in the xv yere of the kynge and Gebonde Mandfeld and Thomas Newnton chosyn Shoreffys, and London rawnsoned at a M<SUP>l</SUP> marke.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Staunton</CELL>
+<CELL>Gylberd Mansfeld</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Neunton</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Hadle, Maire</CELL>
+<CELL>Drue Barentyn</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Wytington</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere on Witsondaye dyed Quene Anne and lithe at West∣mester; and in the same yere the kynge wentte in to Irlonde and toke all the rebelles of that londe.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Fresshe, Meire</CELL>
+<CELL>Thomas Knollys</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Bramton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere came the kynge oute of Irlande.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William More, Maire</CELL>
+<CELL>Roger Elys</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Heryngham</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Adame Bamme, Maire</CELL>
+<CELL>Thomas Welford</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xx<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Perker</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Quene Isabell was wedded to Kynge Richard at Caleys. And also the same yere, the xxi day of June, was the Duke of Glowcester, the Erle of Arondell, the Erle of Warwyke, the
+<PB N="51" REF="51"/>
+Lord Cobham, Sir Thomas of Arondell, the Erchebysshoppe of Caunterburye were a rested, and the Duke of Glowcester was sent to Caleys and ther mortherd, and the Erle of Arondell behedid at the Toure Hill on Seint Matheus Eve. And the Erle of War∣wyke, the Erle of Arondell, the Lord Cobham, and Sir John Cheyne, were dampned to perpetuall prison.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Richard Wytington, Maire</CELL>
+<CELL>William Ascame</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Wodcok</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge made v Dukes and a Markes and iiij Erlys. Fyrst was the Erle of Derby was made Duke of Herforde, and the Erle of Rutlonde Duke of Arondell, and the Erle of Kent Duke of Surre, the Erle of Hontyngdon Duke of Excester, and the Erle Marchall Duke of Northefolke, the Erle of Somersed Markes of Dorsett, and the Lord Spencer Erle of Glowceter, the Lord Nevell Erle of Westmerlond, Sir Thomas Percy Erle of Worseter, and Sir William Scroope Erle of Wilshire.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Drew Baryngtyn, Mayre</CELL>
+<CELL>John Wade</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Warner</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere dyed the Duke of Lancaster and is buryed at Seint Poules in London. Also the Friday after Seint Peter and Poule the Duke of Lancaster after his fader disses came in to Englonde, with him his sonne Thomas Arondell that was Erchebysshoppe of Caunterbury, and they londed in the northe contre at a place called Ravenspore, to whom came in haste the Erle of Northehomberlonde and his sonne Sir Harry Percy, and many other lordis with grete power, and thei went to Brystowe wher thei fonde Sir William Scrope, Tresourer of Engelonde, and Sir John Busshe, and Sir John Grene, and all were be heded. And in þ<SUP>e</SUP> monthe of Septem∣bre the kynge resseyved his dignite in the Toure of London.</P>
+<P>Thes bethe the names of the Maires and Shoreffes of the Cite off <NOTE PLACE="marg">Henricus iiij<SUP>tus</SUP>.</NOTE> London in the regne of Kynge Henry the iiij<SUP>th</SUP>, the whiche was crowned at Westmestre in the daye of Translacioun of Seint Edwarde, the yere of our Lord M<SUP>l</SUP>iij<SUP>c</SUP>lxxxxix. <NOTE N="a" PLACE="foot">The words following "Seint Edwarde" are added by the Corrector.</NOTE></P>
+<P><PB N="52" REF="52"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Knollys, Maire</CELL>
+<CELL>William Walden</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>William Hide</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the vj day of Feverell were all the seales of blanke chartours brent at the Standarde in Chepe, and the x<SUP>th</SUP> day of Marche Kynge Richarde the Secunde <NOTE N="a" PLACE="foot">The words "the Secunde" and "from Pomfret—decessyd" are inserted by the Corrector in the margin."</NOTE> was brought from Pomfret Castel whereyn he decessyd <NOTE N="a" PLACE="foot">The words "the Secunde" and "from Pomfret—decessyd" are inserted by the Corrector in the margin."</NOTE> to London in to Powles, and the nexte day after he was caryed to Langley to be buryed there yn a howce of freers. <NOTE N="b" PLACE="foot">"there—freers." These words are inserted by the Corrector.</NOTE> And in the same yere was the Erle of Kent, the Erle of Salisbery, be hedid at Susseter. <NOTE N="c" PLACE="foot">Cirencester.</NOTE> And Sir Thomas Blunt, Sir Rauffe Lomney, Sir John Cely, and Thomas Venter, were be hedyd at Oxenford. And Sir John Holond and the Duke of Excester were be hedyd at Plaschey. And the Lord Spencer was be hedid at Bristowe.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Fraunces, Maire</CELL>
+<CELL>John Wakele</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Gnotte</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the Batel at Halydon Hyl. <NOTE N="d" PLACE="foot">This sentence is inserted by the Corrector in the margin.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Shadworthe, Maire</CELL>
+<CELL>William Venor</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Frelyngham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge spoused Dame Jane, Duches of Brettaynge. And the same yere apperyd stella comata v wekys in Leynte. Also the yere the Priour of Launde and Sir Roger Claryngton and viij Frerys Menoures were drawen and honged upon a day.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Walkott, Maire</CELL>
+<CELL>Richard Marlowe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Checheley</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere, on Mary Mawdelen day, <NOTE N="e" PLACE="foot">"on Mary Mawdelen day." These words are inserted by the Corrector.</NOTE> was the Bataylle of Shrowys∣bury, and ther was Syr Harry Percy slayne and Syr Thomas Percy his eme take, and ij dayes after he was drawe and hanged, and the Erle of Stafford slayne under the kynges baner.</P>
+<P><PB N="53" REF="53"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">William Askam, Maire</CELL>
+<CELL>Thomas Faukener</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Polle</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was William Serle, that mordered the Duke of Glow∣cester at Calleys, drawen, hanged, quarterde, and beheded <NOTE N="a" PLACE="foot">"and beheded." Added by the Corrector.</NOTE> at London.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Hende, Maire</CELL>
+<CELL>William Lowthe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Stephyn Spilman</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere on the Monday in Witsonweke Syr Roger Scrope, Erchebysshoppe of Yorke, and the Erle Marchall, were behedid at Yorke. The same yere was a grete frost that endured xv wekes and m[o]. <NOTE N="b" PLACE="foot">This sentence beginning "The same yere" is added by the Corrector.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Wodcok, Maire</CELL>
+<CELL>Harry Barton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Crowmer</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Richard Wityngton, Maire</CELL>
+<CELL>Nicholas Wotton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> viij<SUP>th</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Geffrey Brooke</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Erle of Kent spoused the Duches doughter of Myllayne.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Stawnton, Mair</CELL>
+<CELL>Harry Poumfrett</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Harry Halton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Erle of Nothehomberlonde and the Lorde Bardollff was be hedid. Also the same yere was a stronge frost that duryd xv wekys, and the Erle of Kent was slayne in Brettayne.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Dreugh Barentyn, Mair</CELL>
+<CELL>Thomas Duke</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> x<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Norton</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Richard Marlowe, Meire</CELL>
+<CELL>John Lane</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Chechiley</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Thomas Knolles, Maire</CELL>
+<CELL>John Penne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Pyke</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere came Enbassatours from the Duke of Burgoyne to have men a gayne the Duke of Orlyance. And the Prince sent over the Erle of Arondell and the Lord Cobham with other dyverse lordes.</P>
+<P><PB N="54" REF="54"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Robert Chechiley, Maire</CELL>
+<CELL>William Reynwell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Cotton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Thomas the kynges sonne was made Duke of Cla∣rence, and he wente over the see with a faire mayne in help ynge of the Duke of Orlyaunce a gayne the Duke of Borgoyne. Also the same yere the kynge lete smyte a newe mynte the noble lesse wight than the olde noble by halfe apeny wight of gold.</P>
+<P>This yere in one day were iij floddys yn the Temmys water. <NOTE N="a" PLACE="foot">This sentence is added in the margin by the Corrector.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Waldren, Maire</CELL>
+<CELL>Rauffe Lovenam</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Sevenoke</CELL>
+</ROW>
+</TABLE></P>
+<P>And in this yere dyed the kynge, and lithe enterred at Caunter∣bury.</P>
+<P>The names of the Maires and Shoreffes of London the whiche were in the tyme of the regne off Kynge Henre the v<SUP>the</SUP>, the whiche <NOTE PLACE="marg">Henricus Quintus.</NOTE> was crowned at Westmestre the ix<SUP>th</SUP> day of Aprel, the whiche than was Passyon Sonday and a grete raynye daye. <NOTE N="b" PLACE="foot">The words following "Westmestre" in this sentence are added by the Corrector and carried out into the margin.</NOTE> This yere the kynge lete fetche frome Langley the bonys of Kyng Richard the ij<SUP>de</SUP> <NOTE N="c" PLACE="foot">"the ij<SUP>de</SUP>" is interlined by the Corrector.</NOTE> to Westmestre in to the tombe that he did make him selffe for hym and his Quene Anne. And the same yere Sir John Oldcaste was a rested in to the Towre, and after brake oute of prison.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Wylliam <NOTE N="d" PLACE="foot">The name was "John" in the text, but it is crossed through and "Wylliam" is written over. The Corrector has added the following note in the margin, relative to the year of his mayoralty: "Primo, quia bis fuit maior civitatis."</NOTE> Crowmer, Mair</CELL>
+<CELL>John Sutton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>John Nicoll</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Sir John Oldecastell with many oþer lordes and heritikes had emagened the distruccion of the kynge and of Holy Chirche, but the kynge with stode hem and toke many of them, which were drawe and hanged and brentt, galowes and all, to the nombre of xlij<SUP>ti</SUP> persones, but Sir John Oldcastell scapyd.</P>
+<P><PB N="55" REF="55"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Fawkener, Mair</CELL>
+<CELL>John Michell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Aleyn</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was brent in Smythfeld John Claydon, Skynner, and Richarde Gutmyn, Baker, for herytekys. Also the same yere the kynge toke his jorney toward Normandy, and at Southehampton the Erle of Cambryge and the Lorde Scrope and Sir Thomas Graye were be heded for conspirynge of the kynges dethe. And þan the kynge passed the see with iiijC. shippes. And the xvj day of August he landed a litell from Hareflete and leide a sege to the towne, and conteneued to the xx day of Septembre, and than was the towne yolde to oure kynge. And than the kynge wente towarde Caleys, and on Crispine Crispianis day at Agyncortte all the rialte of Fraunce come be for the kynge to lett him of his <NOTE PLACE="marg">The Batel of Agyn∣corte in Pycardy on the day of Cryspini and Crispynian beyng Fryday.</NOTE> wey. And the kynge faughte with hem and discomfid them and slewe many lordis and other peple, and toke many prisoners, Dukes, Erlis, and othir lordes. And on the xxiiij day of Novembre the kynge with his prisoneres came to London.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Wotton, Maire</CELL>
+<CELL>Aleyn Everarde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Cambryge</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Empour of Almayne came in to Engelond and <NOTE PLACE="marg">[E]mperowre of Allmen.</NOTE> was at Seint Georges fest. And at the procession the kynge went a bove him, and at the masse the kynge sate a bove him, and at the mete the kynge sate on the right honde of the emperoure. And the Duke of Bedforde, Chaunsler of Englonde, sate on the lifte side of the Emperour, and the Beshuppe of Dyvelyn and dukys that came with the Emperour sate on the right honde of the Kynge. And the first sotilte that came on the table was our Lady armyng Seint George and an angill doinge on his sporys. The secounde sotilte was Seint George fightynge with the dragon, and the spere in his honde. The therde sotilte was a castell, and Seint George and the kynges doughter ledyng the lambe in to the castell gate. Also this yere Duke William of Holond came in to Engelonde.</P>
+<P><PB N="56" REF="56"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Harry Barton, Mayre</CELL>
+<CELL>Robert Wityngton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>th</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Coventre</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge sailed in to Normandy and londed the first day of August be syde Towcke and toke the towne and castell sone after; on our Ladye day the Nativite the kynge wan the towne of Cane, and sone after the castell. Also the Duke of Clarence beseged the towne of Bayue and wan hit. And the same yere the kynge wan many other townes and castelles and stronge abbeyes longe be for the fest of Seint Edward in Octobre.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Richard Merlowe, Maire</CELL>
+<CELL>Harry Rede</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Gedney</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the generall counsell was endyde atte Custaunce, and an unyversale pece made in Holy Chirche and a Pope chosyn, whiche was called Martinus quintus. Also Sir John Oldcastell was take and dampned at Westmestre, drawen and brentt, galows and all. Also the same yere the kynge besegide the towne and castell of Falloyes and gate hem bothe; also the towne and castell of Shirebrough yelden to the Duke of Glowcester. And after the kynge gatte Pountelarge and many other streynthes. And a boute Lammas the kynge layde sege to Rone.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Sevenoke, Maire</CELL>
+<CELL>John Pernesse</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Rauff Barton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere on Seint Wolstones day the towne and castell of Rone was yolde to oure kynge.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Richard Wityngton, Maire</CELL>
+<CELL>John Boteler</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Wytyngham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge came to Troyes in Champayne where he was worthely resseyved of all the lordys spirituall and temporall. And on the morowe the kynge mett withe the Quene of Fraunce and Dame Kateryne hir doughter and the Duke of Boyrgoyne in the body of Seint Petris churche; and after they went up to the auter and there the articles of the pees were redde and othes made on eyther syde. And then was the kynge and Dame Kateryne ensured togeder. And on the morowe after Trinite Sondaye, that
+<PB N="57" REF="57"/>
+is to sey the iij day of June, he spoused Dame Kateryne in the seide chirche of Seint Peter in Troyes, and the kynge was made Regent and Eyre of Fraunce.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Cambryge, Maire</CELL>
+<CELL>John Wellis</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> viij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Botler</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the ix day of Feverell the kynge and the Quene <NOTE PLACE="marg">The Coronacyon of Quene Kateryne.</NOTE> Kateryne came to London, and the xxj daye of the same mo[n]the she was crowned at Westmester, and the fest was holden in the grete hall.</P>
+<P>Off the Feste of þ<SUP>e</SUP> Cronacioun of Quene Kateryne and of Service. Fyrst, the quene sate in hir astate, and the Erchebysshoppe of Caunterbury and the Bysshoppe of Wynchester satte upon the righ[t] honde of the quene, and the Kynge of Scottis sate in his estate upon þe lyfte hand of the quene. And the Duches of York and the Countes of Huntyngdon sate upon the same side. And att every course nexte the quene the Bysshoppis were servid, covered as the quene, and than the Kynge of Scottis and other lordis. And the Duke of Glowcester was Surveour, and the Erle Marchall knelyd in the right side of the quene holdyng in his honde upryght a septure, and the Knyght Marchall holdyng a noþer septure on the lifte syde of the quene. And the Countesse of Kente sittinge on the right fote of the quene. And the Countesse Marchall sytting on the lifte fote of the quene.</P>
+<P>Also this same yere sone after Wytsonday the kynge sayled in to Fraunce and laide a sege to the Cite of Mewes Embrye <NOTE N="a" PLACE="foot">Meaux en Brie.</NOTE> and contenewed forthe. This yere was a new wedercok set u[p] on Powles stepyl. <NOTE N="b" PLACE="foot">The last sentence is added by the Corrector in the margin.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Robert Checheley, Maire</CELL>
+<CELL>Richard Goslynge</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ix<SUP>o</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Weston</CELL>
+</ROW>
+</TABLE></P>
+<P>This same yere on Seint Nicholas day Henry the kynges sonne <NOTE PLACE="marg">Henricus vj<SUP>tus</SUP> natus vz. [vj.] die Decem∣bris, hoc est die Sancti Nicholai episcopi, A<SUP>o</SUP> Domini M<SUP>lo</SUP>iiij<SUP>c</SUP>xxj<SUP>o</SUP>.</NOTE> was borne at Wyndsore, and in the monthe of Maye the Cite of
+<PB N="58" REF="58"/>
+Mewes in Brye was yolden to the kynge. Also the same monthe the quene shipped at Hampton, and so passed the see in to Fraunce. Also in this yere the last daye of August dyed Kynge Harry the <NOTE PLACE="marg">Henricus quintus ultimo Augusti diem cla[u]sit e[xtre]mum. Et sic vixit post nativitatem filij sui Henr[ici] vj<SUP>ti</SUP> xxx<SUP>ta</SUP> et octo septimanas [et] fere duos dies.</NOTE> v<SUP>th</SUP> at Boys Vynsent with oute Parys, whos bonys the viij<SUP>th</SUP> day of November at Westmester were enterred.</P>
+<P>The names of the maires and shoreffes of the Cite of London in the tyme of the regne of Kyng Henry the vj<SUP>th</SUP>.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Waldren, Mair</CELL>
+<CELL>William Estffeld</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Tetersalle</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the xxj day of Octobre (betwene vij and viij of the clok a fore none in the Cite of Parys <NOTE N="a" PLACE="foot">This parenthesis is inserted by the Corrector.</NOTE>) dyed Kynge Charles of Fraunce. Also the first day of Marche William Tayler was brent in Smythfeld for eresy. Also the secounde day of March Pownt∣melayne was yolden to the gode Erle of Salysbury. Also John Duke of Bedford, the kynges uncle, Regent of Fraunce, spoused the Dukys sister off Burgoyne.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Crowmer, Maire</CELL>
+<CELL>Nicholas Jamys</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Wandisfford</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the xxj day of Octobre was the Parlement holden at Westmester. And the xxvj day of Novembre the kynge was brought in to the Parlement. And the same daye the kynge remevid to Waltham, and the Parlement was engorned in to the xx day after Cristmas. This yere the xiiij<SUP>th</SUP> day of Feveryere dyvers bylles were cast in London and in the subbarbys of the same a yenst mer∣chantes strawngers. <NOTE N="b" PLACE="foot">This sentence is inserted by the Corrector in the upper margin of the MS.</NOTE> Also the xiiij day of Feverell Sir John Mor∣tymer was dampned be Parlement, hanged, drawe, and quarterd for brekynge of prison.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Michell, Maire</CELL>
+<CELL>Symond Seman</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Bewatyr</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="59" REF="59"/>
+This yere in the monthe of Octobre the Duke of Glowceter and his Duches sayled to Caleys and so forthe in to Henaude wher was his wiffes eritage, where he was at the fyrst worsshupfully resseyved, but after they sett nott by him, and so came home and lefte his lady at Moynys in Henaude. And then the Duke of Burgoyne beseged hir and wanne the towne and brought hir to Gawnte in Flaundres, but she scaped from thens and came in to Holonde, and there longe tyme helde wer a yenes the Duke and put him dyverse tymes at the worste.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Coventre, Maire</CELL>
+<CELL>William Mildred</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Brokley</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere on Witsonday the kynge was made knyght at Leyseter of my Lorde of Bedford, and the kynge made xxxiiij<SUP>ti</SUP> other knyghtis. Also the same yere was a grete dissencioun be twene the Duke of Glowcester and the Bysshoppe of Wynechester that tyme Chauncyler, for the whiche all London a rose with the Duke a yenest the for∣saide Bysshoppe.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Reynwell, Maire</CELL>
+<CELL>Robert Arnold</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> v<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Hygham</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere be for Shroftide the Bysshoppe of Wynchester saylled over to Caleys, and sone after the Duke of Bedford and his Duches. And upon our Lady day the Annonciacion the Bysshoppe of Wynechestre was made cardenall in Seint Mary chirche of Caleys, beyng ther present the Duke of Bedfford and his Duches. And be for the masse be gan, the whiche the Bysshoppe shuld doo, the popis cosynne brought in the cardenalles hatte, and with grete reverence sett it upon the auter, and ther hit stode all the masse tyme. And whan the bysshoppe had songe and was un revessed, ther was done on him an habite in maner of a freres cope off fyne scarled furred with puryd graye. And than he knelid downe upon his kneys befor the auter, while the Popis bullys were red to him. And the first byll was his charge, and the secounde byll was that
+<PB N="60" REF="60"/>
+the pope confermed that he shulde have still all the benefies that he hathe in Englonde. And whan this was done the Duke of Bedforde went up to the auter and toke the cardenales hatt and sett it on the bysshoppys hede and abeyed to hym, and afterwarde toke him all wey above him. This yere Wylliam Wa[we] was drawen, hanged, [and] quarterde. <NOTE N="a" PLACE="foot">This sentence is added by the Corrector.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Gedney, Maire</CELL>
+<CELL>Harry Frowyk</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Otley</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Duches of Holond, whiche longe tyme was besegid and vexid by the Duke of Burgoyne, understondynge that no remedy nor helpe was ordeyned for hir in Ingelonde, and also cosiderynge that the Duke of Glowcester hadde for sake hir and spowsed a noþer woman, by gode and wyse consayll submytt to be governed afterward by the Duke of Borgoyne. Also the same yere the Cardenale came to London upon Seint Gylis daye, and the Meir Shoreffes and the craftis of London rode a gaynes him in a gode a raye.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Marton, Maire</CELL>
+<CELL>John Abbott</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> vij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Duffhous</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere sone upon Midsomer the Cardenall saylled over the see with a fayre mayne waged to werre upon the lordis of Prage. But a lite a for the departynge of the Cardenall oute of Englonde the Erle of Southefolke, the Lord Talbott, the Lorde Scalys, and many oþer lordys, knyghtis, and squiers were taken, and many slayne at the sege of Orlyaunce, and the sege broken.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Estffeld, Maire</CELL>
+<CELL>Rauff Holond</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> viij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Russe</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere on Seint Lenardes <NOTE N="b" PLACE="foot">Corrected from "Lauernce." The Corrector ought also to have noticed that "Dessembre" should have been November.</NOTE> daye in Dessembre the kynge was crowned at Westmestre (the dominical letter B <NOTE N="c" PLACE="foot">The parenthesis added by the Corrector.</NOTE>).</P>
+<P><PB N="61" REF="61"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Wotton, Maire</CELL>
+<CELL>Water Churchesey</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Large</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Wellis</CELL>
+<CELL>Stephen Browne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> x<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Aderley</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kyng went in to Fraunce and the xiij day of Decembre was he was crowned in Parys. <NOTE N="a" PLACE="foot">This sentence is added in the margin by the Corrector, who has also interlined under the names of the mayors and sheriffs, "The kyng was crowned in Parise.'</NOTE></P>
+<P>This yere the kynge came oute of Fraunce in to Ingelonde in savete to the Cite of London. And the Maire, Aldurmen and Shoryvis with all the comenalte of the Cite him resseyved right worthely.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Perneys, Mair</CELL>
+<CELL>John Padysley</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Olney</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a gre clepes on Seint Botholles daye.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Brokley, Maire</CELL>
+<CELL>Thomas Chalton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Lynge</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Robert Otley, Maire</CELL>
+<CELL>Thomas Barnwell</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Symond Eyre</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete froste, the whiche dured from Seint Katerynes daye to Seint Volantynes daye. And the vintage of wyne came ovir Sheters Hill in cartys from Gravisende.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Frowick, Maire</CELL>
+<CELL>Robert Clopton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Catworthe</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere hit was oppenly knowen that the Duke of Burgoyne was forsworne unto the Crowne off Engelonde, for in this yere he laide sege unto Caleys, and he lete make a grete bastyle, the whiche bastile oure men of Calleys wanne, and toke ther in many prisoners, and slowe all the remnante, and forthe with brent it. And that tyme the Duke of Glowcester, the Duke of Northfolke, the Erle of Huntyngdon, þ<SUP>e</SUP> Erle of Stafford, the Erle of Warwyck, and many oþer erles, baronez, knyghtes, and sqwyers, were poynted to goo to Calleys to breke the sege. But the peple of Calleys had broke the sege or they were redy, and þat tyme every lord founde a cer¦teyn
+<PB N="62" REF="62"/>
+meyne on her owne coste, and every bysshoppe, abbay, howsell of religiouns, and every gode towne fonde a certayne of men. And London sent a for that vC sowdyors for to kepe Calys. And yet London yave to the werrys M<SUP>l</SUP><HI REND="italic">li.</HI> And so my Lord of Glowseter toke his shippe with many other lordes at Wynchelsey, and so sayled to Calleys with all his oste, and his shippis waitinge on the see coste off Flawndres upon our Oste. And so the Duke of Glowseter toke his jorney taward Flaundres the Monday after Seint Lauerence daye, in the yere of our Lorde M<SUP>l</SUP>.CCCC.xxxvij<SUP>the</SUP>, and lay that nyght at Sparkys place be syde Oye; upon the morne he passed the water of Gravenynge at x of the clokke, with l.M<SUP>l</SUP> men nombryd. And ther he made dyverse knyghtis. And so passyd forthe to Mardyke and brent hit and Poperynge and Bell, and so distroyed all West Flawndres. And our shippis brentt a gode Ile whiche is called Cagent, and sone after the Duke with all his oste retorned to Caleys, and so came a yene in to Englond.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Michell, Maire</CELL>
+<CELL>Thomas Morsted</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Gregory</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere fell downe the Towre of London Brygge with ij arches. And the same yere dyed Quene <NOTE N="a" PLACE="foot">Above these words is written by the Corrector: "uxor Henrici quinti."</NOTE> Kateryne, þ<SUP>e</SUP> whiche is buryed at Westmester.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Estfeld, Mair</CELL>
+<CELL>William Halys</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Chapman</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Stephen Browne, Maire</CELL>
+<CELL>Hugh Dyke</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Nicholas Yoo</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Duke of Orlyaunce went over the see to Caleys with a certayne lordys, and so was delyverd by composicioun made; and in that yere the Erle of Hontyngdon was sent in to Gascoyne. And in that yere whete was worthe throwe the londe xvj d. a busshell. And in that yere was ordeyned that all the comyn strom∣petes sholde were raye hodis and white roddis in her hondes.</P>
+<P><PB N="63" REF="63"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Robert Large, Maire</CELL>
+<CELL>Robert Marchall</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Phelyppe Malpas</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the water condyt was in Flete strete fyrst made. <NOTE N="a" PLACE="foot">This sentence is inserted by the Corrector.</NOTE></P>
+<P>This yere hit was ordeyned by Parlement that all maner strangers shulde go to Oste. In that yere were two men honged in Temmes by yonde Seynt Katerynes, for they had rubbed vitalers in Temmes. And in this yere was Sir Robert White, some tyme vicorye of Dep∣fford, and anoþere seculer man, dampned for heresye, and brent at Toure Hill in a mornyng at vij of the cloke.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Padysle, Maire</CELL>
+<CELL>William Whetnalle</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Sutton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Duke of Yorke was made Regent of Fraunce and Normandy for v yere, and went overe þ<SUP>e</SUP> see with a ryall power. And in that yere was a chalange made of a knyght of Spayne and Sir Richarde Wodfelde, knyght, whiche was done in Smythfeld a for the kynge and the lordys. And the kynge toke it in his honde with in iiij strokes, and so was ended. And in that yere Dame Elynore Cobham, Duches of Glowseter, and a clerke of hires <NOTE PLACE="marg">Elynor Cobham, Duches of Glo∣[cester]. <NOTE N="b" PLACE="foot">To this note is added in a hand considerably later: "and the wytche of Eye."</NOTE></NOTE> that was called Maiste Roger Bultyngbroke, throwe nigrymancye, and a wyche of the Eye, by wychcrafte, had conspired the kynges dethe. All thre were a rested and put in holde.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Robert Clopton, Mair</CELL>
+<CELL>William Combys</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xx.<SUP>e</SUP></CELL>
+</ROW>
+<ROW>
+<CELL>Richard Riche</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Dame Elynor Cobham a for wreten was made to go throwe London, openly beryng a taper in hir hande by pennaunce enjoyned by the Chirche and the Kynge, and after hir body to per∣petuall prison. And the clerke was dampned to be hanged, drawe, and quartered, and þ<SUP>e</SUP> wiche was brent in Smythfelde for the treson afor wretyn. And this yere was a chalange previd with in lystis in Smythfelde a for the kynge of a knyght of Aragon and John Assheley, squyer, the whiche Assheley had the felde, and of
+<PB N="64" REF="64"/>
+the kynges honde was made knyght in the felde for his wele doynge. And the lorde of Aragon after that offerd up his harneys at Wyndsore.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Athirle, Mayre</CELL>
+<CELL>Thomas Bemond</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Northern</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Duke of Somersed went in to Fraunce with X M<SUP>l</SUP> men, and that yere came the Cardenalle Erchebysshope of Rone, Chaunseler of Normandy and Bysshoppe of Hely, in to Englond, and here dyed, &amp;c.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Catworthe, Maire</CELL>
+<CELL>Nicholas Wyffolde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Norman</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere came the Duke of Somersed oute of Fraunce, þ<SUP>e</SUP> whiche had lost myche of his peple. And that yere the Erle of Southe∣folk, and the Prevey Sealle, <NOTE N="a" PLACE="foot">Adam Moleyns, afterwards Bishop of Chichester.</NOTE> and Sir Robert Roose, the kynges secretory, went on enbassetory in to Fraunce to trete for pees, and to make a maryage for the Kynge with the Dukys doughter of Angios, whiche pees was made for xviij monthes, and seuerte hadde of the maide for maryage a for recorde of all the riales of Fraunce in presens of oure enbassetours. And so they came a yene in to Engelond, presentyng the kynge this tythinges, for the whiche was made bothe in Inglonde and Fraunce grete solemnyte. And in that yere died the Duke of Somersett. And in that yere was ordeyned that no markett sholde be holde on the Sonday. And this yere the Erle of Stafford was made Duke of Bokynham, þ<SUP>e</SUP> Erle of Dorsett was made Markes of Dorsett, the Erle of Southefolke Markes of Southefolke, the Erle of Warwyke made Duke of Warwyke.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Harry Frowyk, Maire</CELL>
+<CELL>Stephen Foster</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Hugh Wiche</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Quene Margeret came in to Englond with grete rialte <NOTE PLACE="marg">Quene Margaret, the Duke of Angyos dowghter, cam fyrst into Englonde, A<SUP>o</SUP> D'ni 1444.</NOTE> of the kynges coste. And the xxix daye of Maye all the craftes of London with the Meire and Aldermen met with the quene on hors backe in blewe gownes browdered and rede hodis, and brought hir to the Towre of London; and on the same day was made xlvij
+<PB N="65" REF="65"/>
+knyghtis of the Bathe. And on the morowe all the craftes of London in her best a ray brought hir to Westmester, and all the forsaide knyghtes a for ridynge. And the xxx day of May (the whiche was than the Sonday next after Trinite Sonday <NOTE N="a" PLACE="foot">The parenthesis is inserted by the Corrector in the margin below.</NOTE>) she was <NOTE PLACE="marg">Coronacio Regine Margarete uxoris Henrici Sexti.</NOTE> crowned at Westmestre. And iij dayes after open justynge to all tho that wolde come. And in this yere the priour of Kylmayne of Irlonde apeled the Erle of Ormond. And in this yere came ser∣teyne enbassetours oute of Fraunce to trete for pees to be hadde generall whiche duryd not but xij monthis after the xviij monthis a for wretyn. And in this yere was the translacioun of Seynt <NOTE PLACE="marg">The Translacion of Seyn[t] Edwarde made halyd[ay].</NOTE> Edward made holy throwe London; and Poules stepyll sett on fire with lyghtnynge.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Symond Eyre, Maire</CELL>
+<CELL>John Derby</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Geffray Feldyng</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">John Olney, Mayre</CELL>
+<CELL>Robert Horne</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Geffrey Boleyn</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the Parlement at Bury for the Duke of Glowcester <NOTE PLACE="marg">The Parlament at Saynt Edmundes Bury, and Humfrey Dewke of Glowceter and regent of Englond there was slayne, A<SUP>o</SUP> Domini 1446, viz. 24<SUP>to</SUP> die Januarij.</NOTE> with grete treison wrought a yenes him comyng thedir, and was loged in the Ospitale, for whom was raysed lx M<SUP>l</SUP> men. And as he sate at soper, lordis of dyverse degreis came to him in the kynges name dischargeynge him of the kynges presense, and of all other maner of answeres. And so they a restid him of hie treyson. And þat he mekely obeyed, and all his men were avoyded from him full hevely. And sone after he dissesyd, the sykenes howe God knowith. And xxxij of his men were sentt to dyverse persones, and afterward v of his men were broȝt to London. And ther thei were dampned to be drawe, hanged, and quarterd; and so they were drawe to Tiborn. And thes bethe ther names: Arteys the Dukys bastard sonne, and Herberd squyer, Medilton squyer, and Sir Roger Cham∣burlayne knyght, and Nedame yoman. And ther thei were hanged and lette downe quycke; and ther was the Markes of Southefolke, and shewed a chartour generall for hem all; and so they were par∣doned and had lyfe and godes.</P>
+<P><PB N="66" REF="66"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">John Gedney, Meire</CELL>
+<CELL>William Abraham</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Scott</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the xxij day of Marche the water brake in oute of Temmes be syde Lymeoste, and in a noþer place in Temmes, and dide myche harme. And in the same yere was an herytik brent at the Toure Hill.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Stephen Browne, Maire</CELL>
+<CELL>William Cantlowe</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Marowe</CELL>
+</ROW>
+<ROW>
+<CELL ROWS="2">Thomas Chalton, Maire</CELL>
+<CELL>Thomas Canynges</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Hewlyn</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge helde his Parlement at Westmester. And that same yere was all Normandy loste. And also in the terme of Cristmas while the Parlement was at Westmester the Duke of Southefolke was a rested and sent to the Toure of London. And with in a moneth after the kynge sent after the duke frome the Toure to the towre at Westmestre, and a yenes Ester the Parlement was enjorned to Leyseter, and the kynge toke with him the Duke of Southefolke. And whan the kynge and the comenys were come to Leyseter the comenys saide that they wolde have excusyon don upon the traytors that hadde solde Normandy, Gyan, and Gascoyne, and were causes of the dethe of the Duke of Glowcester, for the whiche the Duke of Suthefolke was named chefe, and the Lord Saye and Danyell squyer, and many other. And so the comenys cryed so sore on the Duke of Southefolke that at the laste the kynge did exile hym oute of the londe. And so the duke shepped and was forwarde in the see, and ther mett with him a shippe calles <NOTE N="a" PLACE="foot">So in MS.</NOTE> Nicholas of the Toure, and toke the duke and smote of his hede in the see the first day of Maye. And so he was brought to Dovyr a londe, and forthe with the Parlement was ended. And than the comynes of Kent a rose and hade chosen hem a capteyne the whiche namyd hym sylfe John Mortymer, whose very trew name was John <NOTE PLACE="marg">John Cade.</NOTE> Cade, and he was an Iresheman; <NOTE N="b" PLACE="foot">"whose—Iresheman." This clause is inserted by the Corrector.</NOTE> and so he come to the Black
+<PB N="67" REF="67"/>
+hethe withe the comynes of Kentt. And the kynge with all his lordis made hem redy with all her power for to with stonde him. And the capteyn hiryng that the kynge was comynge, and so the nyght a fore the capteyne with drowe him and his peple; and so the xviij day of June the kynge toke his wey taward the Blacke Hethe. And Sir Umfrey Stafford, knyght, and John Stafford, squyer, with her peple went in the fowarde, and they were slayne and myche of her peple. And the kynge came to the Blacke Hethe with his lordys. They hirynge of þis jorney a none the lordis meyne went togeder and said, but the kynge wolde do excussyon on suche traytors as were named else they wolde turne to the capteyn of Kent. And than the kynge grawnte hem that they shuld have ther entent, and bade hem name suche persones as were fectyffe, and they shulde have as lawe wolde. And than the lordis men saide that the Lorde Saye was one, the Bysshuppe of Salysbury, the Baron of Dudley, the Abbott of Glowcester, and Danyell, and many moo. And the Lord Saye was a rested in the kynges presence, and sent to the Toure of London; and so the kynge went to Grenewiche, and so to London by water, and ther was ij or iij dayes, and than made him redy to remeve to Kyllyngworthe. And the Meire of London with the comynes of the cite came to the kynge besekynge him that he wolde tarye in the cite and they wolde lyve and dye with him, and pay for his costes of housholde an halff yere; but he wold nott, but toke his jorney to Kyllingworthe. And whan the kynge was gone the capteyn with the comynes of Kent came a yene to the Black hethe. And the iij<SUP>the</SUP> day of Juyll he came to London; and as sone as thei entred in London they rubbed Phelippe Malpas. And the iiij day of Jule he behedid Crowmer and a noþer man at Myle Ende; and the same day at after none the Lorde Say was fett oute of the Toure to the Yelde Hall to for the meire to have jugement, and whan he came befor the meir he saide he wolde be juged by his perys. And then the comenes of Kent toke him from the officers and ledd him to the Standart in Chepe and there smote of his hede. And than the capteyn did do drawe him thorowe London, and over London brige,
+<PB N="68" REF="68" MS="y"/>
+and to Seint Thomas Watring, and ther he was hanged and quartered, and his hede and Crowmers hede and a noþer manes hede were sett on London brige. And after that he smote of ij oþer menes hedis in Sowthewerke. And the v<SUP>th</SUP> day of Jule at nyght (and beyng Sondaye <NOTE N="a" PLACE="foot">This parenthesis is added in the margin by the Corrector.</NOTE>) the comynes of London sett upon the comynes <NOTE PLACE="marg">The batel on London Bryge by twene men of London and Kent∣yssh men, Jack Cade beyng capten of Kent.</NOTE> of Kent, for they began to rubbe. And all the men of Kent that were in London that nyght they went to her capteyne in to Sowthewerke. And the same nyght the Meir and Shoreffes and my Lorde Scalys and Mathew Gowghe and the comynes of London went to London Brygge, and ther they faughte from ix of the cloke at eve till ix on the morowe, and at the laste the capteyne fired the drawe brigge. And forthe withe went the Chaunseler <NOTE N="b" PLACE="foot">Cardinal Kemp.</NOTE> to þ<SUP>e</SUP> capteyne and sessed him and yave him a chartur and his men a noþer, and so with drowe hem homward. Than the xij daye of Juyll was in every shire proclamed that whate man that couthe take the forsaide cap∣teyne shulde have a M<SUP>l</SUP> marke and brynge him to the kynge quycke or dede, and as for any man that longed to him, x marke; for hit was openly knowe that his name was nott Mortymer, his name was John Cade, and þerfor his chartor stode in no streynthe. And so one Alexandre Iden, a squyre of Kent, toke hym in a garden yn <NOTE PLACE="marg">John Cade taken yn Kent, and so hurt yn his takyng that he dyed the same nyght.</NOTE> Sowthsex the xiij day of Jule; <NOTE N="c" PLACE="foot">This passage has been altered by the Corrector. The sentence originally stood: "And so the xiij day of Jule John Cade was take in Kentt."</NOTE> and in the takynge of him he was hurtt and died that same nyght, and on the morowe he was brought in to the Kynges Bynche, and after was drawe throwe London and his hede set on London brige.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Nicholas Wyffold, Maire</CELL>
+<CELL>William Dere</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Medilton</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge went in to Kent to Caunterbury and sate and did grete justice upon tho that rose with the capteyne, and ther dyed viij men upon a daye. And in oþer places in Kent the kynge did grete justice; and so þ<SUP>e</SUP> kynge wentt in to Southsex, and so
+<PB N="69" REF="69"/>
+westwarde to Salisbery, and ther as the Bysshoppe of Salysbery <NOTE N="a" PLACE="foot">William Ayscough, who was murdered in the preceding year.</NOTE> was slayne. And the same yere stode at ones xiij hedis on London brige. And this yere was Burdeux lost. <NOTE PLACE="marg">Burdeus lost.</NOTE></P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Gregory, Maire</CELL>
+<CELL>Mathew Phelipp</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxx<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Krystofer Water</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Richard Duke of Yorke came oute of Walys by Kyngeston brygge unto the Blacke Hethe with a grete power to clere him selfe a gaynes Kynge Henrey of all maner poyntes that the kynge was his hevy lorde fore. And the kynge came ridinge thorowe London with a riall power agayn the sayde duke. And ther the lordis bothe spirituall and temporall toke the mater in honde and entretid hem of rest and pees; the whiche the seid duke at the last agred to on this condission, that his peticiouns for the wele of the kynge and the realme myght be hadde and his enemyes to the Toure to a bide the lawe; and so were the lordis a greed and sworne euche to other. A none the duke sent home his men ayen, and him selfe mekely obeyed the kynge at the Black Hethe, and his adversaryes stode present contrary the poyntment and othis. And so they brought him thorowe London ungirde by twene two bysshopis to his owne place, and after that made him sworne on the sacrement at Powles after ther entente, and putte him from his gode peticiouns.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Geffrey Feldynge, Maire</CELL>
+<CELL>Richard Lee</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Alley</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was the quene delyverde of a sonne, the whiche was <NOTE PLACE="marg">The byrthe of Prince Edwarde, the sonne of Kyng Henrye the vj<SUP>te</SUP>.</NOTE> called Edwarde, that tyme called Prince.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">John Norman, Maire</CELL>
+<CELL>John Walden</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Thomas Cooke</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the ridynge of the Mayres to Westmester was for done, and John Norman, Draper, was the first maire that went to West∣mester by barge.</P>
+<P><PB N="70" REF="70"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Stephen Foster, Maire</CELL>
+<CELL>John Felde</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Taylor</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the Lord Egrymond was take by Sir John Nevell, my <NOTE PLACE="marg">The fyrst Batel at Seint Albons.</NOTE> Lorde of Salysburys sone. And in the same yere (the xx<SUP>th</SUP> day of May, beyng Thyrsday <NOTE N="a" PLACE="foot">Inserted in margin by the Corrector.</NOTE>) was the fyrst <NOTE N="b" PLACE="foot">"the fyrst." Interlined by the Corrector in place of "a," struck out.</NOTE> batayll at Seint Albonys; and ther was slayne the Duke of Somersett, the Erle of Northe∣homberlonde, the Lord Clyfforde, with oþer mo under the kynges baner. And the Duke of Yorke, the Erle of Warwyke, the Erle of Salysburye wanne the felde, and so came with the kynge to London with mycche ryalte. And this yere the Kynge of Scottys with the rede face layde sege to Berwyke bothe by water and londe. But he was dryve thensse, and all his ordenaunce and vitayle that was on the watir syde lefte be hynde them.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Marowe, Maire</CELL>
+<CELL>John Yonge</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxiiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Holgrave</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete horlynge be twene the mercers and Lom∣bardes; and then the kynge helde his Counsell at Coventre. And Cauntelowe, mercer and alderman, was sent ffore to come a ffor the kynges Counsell; and as sone as he came he was a rested by the kynges commaundement, and the Baron of Dodley had him in kepinge in the Castell of Dudley for the mater a for wretyn.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Canynges, Maire</CELL>
+<CELL>Rauffe Verney</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxv<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Stewarde</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Sir Thomas Percy brake oute of Newgate. And in the same yere was an hurlynge by twene mercers with oþer craftes a yenes Lombardes. And after that by comaundement of the kynge xxviij<SUP>ti</SUP> mercers men and other were sent to Wyndsore Castell, and the Lorde Fakonbrige had the kepynge of them till thei came to the kynges presence. And in this same yere the Sencyall of Normandy, Sir Peers the Brasyle, <NOTE N="c" PLACE="foot">Pierre de Brézé, Seigneur de la Varenne.</NOTE> and Flokket, <NOTE N="d" PLACE="foot">Robert de Floquet, bailiff of Evreux. See Monstrelet, iii. 71.</NOTE> came with iij M<SUP>l</SUP>
+<PB N="71" REF="71"/>
+men and londyd be syde Sandwyche, and toke the towne and spoyled hit, and toke a way myche goode, and slewe dyverse persones, and toke many prisoners; but the contre came downe and drove hem a wey, and in her fleynge to shippe ther were drowned mo than vj<SUP>xx</SUP> men of the Frensshe parties.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Geffrey Bolleyn, Maire</CELL>
+<CELL>John Reyner</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxvj<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>William Edward</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere as the Duke of Yorke and the Erle of Salysbury lay peasablye in London, than came to London the Duke of Somersett, and the Erle of Northehomberlond, and the Lord Egrymond, and other lordes of ther affynite, and loged hem from Tempill Bar to Westmester, with myche people all aboute to Seynt Gylis; and they came in that entent for to fight with the Duke of Yorke. And in the meane tyme came from Caleys the Erle of Warwyke with a godely fellaueshippe to helpe the Duke of Yorke and his fader, but the Meire off London with a godely fellaueshippe of men of armes kepte the pees. And in the same yere Bysshoppe Pecok <NOTE PLACE="marg">Bysshop Pecok.</NOTE> was acusyd of heresye, and many of his bokys brent, and he put in holde to the Erchebysshoppe of Caunterbury. And the same yere the Erle of Warwyke destressed the Flete of Spayne taward Flawndres. Also a none after he toke xvij hulkes with oþer smaler vesselles laden with salt for be cause they wolde not strike in the kinges name of Inglond.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Scott, Maire</CELL>
+<CELL>Rauffe Josselyng</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxvij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Medam</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was a grete fraye be twene the Cite of London and <NOTE PLACE="marg">A grete fray in [F]letestrete betwene [t]he Cyte and the men of Corte.</NOTE> men of Cowrte, which were drevyn with the Archeres of the Cite from the Standarde in Flete strete to ther innes, the xiij day of Apreill, and some were slayne and some were taken, where for William Tayllour, Alderman of the same warde, was sent to Wyndsore to a byde the kynges grace, and ther thei bode till Hewlyn was Meire, and so thorowe his prayer thei had grace of the kynge. And þis same yere the kynge and the quene and ther lordes lete make a grete gaderynge in the northe contre, where of
+<PB N="72" REF="72"/>
+was grete noyse. And the Erle of Warwyke came from Caleys thorowe London, and the Erle of Salysbery went from Medlame for to mete withe the Duke of Yorke and Warwyke his sonne with iiij M<SUP>l</SUP> men, and the quene lay by the wey with xiiij M<SUP>l</SUP> men to stoppe his wey. And he toke a felde manly at Blorehethe the <NOTE PLACE="marg">Blorehethe felde.</NOTE> xxiij day of Septembre, and faught and slowe many and put the remnant to flight, and helde forthe his wey in purpos to Ludlowe, where Kynge Henry came with l M<SUP>l</SUP> men a gayne the Duke of Yorke, the Erle of Marche, the Erle of Rotlonde, the Erle of Warwyke, the Erle of Salysbury, the whiche never entendid to be oþerwyse then feythefull and trewe liege men to the kynge, but crowelly were banysshed oute of this londe and not excepte like as thei were worthi. And so ther departed the Duke of Yorke and his sonne Rotlond thorowe Godis helpe in to Irelonde; and the Erle of Marche, the Erle of Warwyke, and the Erle of Salysbury, and Sir John Wenloke in a litell vessell, Almighti God gided hem oute of the Weste Contre by the see to Caleys.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">William Hewlyn, Maire</CELL>
+<CELL>John Plomer</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxviij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Stocker</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere the kynge graunted the Duke of Somersett for to be Capteyne of Caleys. A[nd] anone he made him redy thedirwarde; but the Erle of Warwyke was þer a fore, and kepte him that he myght not londe there; and so he was conveyed to Gynes and his pepylle, and assone as he was with in the castell he made stronge werre a gaynes Caleys, and they of Calys a gaynes him. And than he sent in to Englonde to the kynge for more pepull. And so the kyng sent the Lorde Ryveres and his sonne Antony with iiij<SUP>e</SUP> men for to strenthe the Duke of Somersett. And as they were at Sand∣wyche the Erle off Warwyke had knowleche, and a none he made a sawte over with a godely fellaweshippe and londed at Sandwyche, and toke the Lorde Reveres and his sonne and distrussyd all his pepull. And so they were brought to Caleys a yenes her will. And this yere a for this tyme the Duke of Exceter was syned for kepe the see a yenes the Erle of Warwike, but his viage turned to
+<PB N="73" REF="73"/>
+nought; and or he went to the see he toke a gentilman of the Temple that was called Nevell, and John Goode felaue, vinter, and oþer viij persones, and bare hem on honde that they were going to Caleys to the Erle of Warwyke with bowestrenges and arowes heded. And here upon thei were dampned of treison, and her hedis sett on London Brige, and ther quarters on the yatis aboute the towne. And this yere Judde, that was maister of the kynges ordenaunce, as he caried ordenaunce to the kynge warde, a litell beyonde Seint Albonis, he was slayne on Seint Albones daye. And þat same tyme Moumfford was made capteyne of iiij<SUP>e</SUP> men for to goo to helpe the Duke of Somersett. And as they were at Sand∣wiche the Erle of Warwyke had knowleche of them, and a none he made oute a pussaunce of pepulle and beseged Sandwyche, and wanne the towne, and toke Moumford, and many of his men slayne; and so they led him to Caleys, and so led him to Rise banke, and ther the shipmen smote of his hede, and ij of his menes hedis. And sone after came the Erle of Marche, the Erle of Warwyke, the Erle of Salysbury, and Sir John Wenlok, and the Lorde Audeley from Caleys, and londid at Sandwyche; and so they came to London warde, and ther mett with hem the Lorde Cobham and oþer statys and comyns of Kentt, and so they came to London. And the Lorde Scalys was that tyme in London, and he desired to be capteyn of the cite but the comenys wolde not have him. Than the Lord Scalis, the Lord Lovell, the Erle of Kendale, Thorpe, and Browne of Kentt, and many galy men, with oþer peopulle, went to the Toure of London, and made grete werre a yenes the cite. And in the mene tyme thes oþer lordes sent to the meire and to the statis of the cite for to have all ther hertes. And a none ther was sent sertayne aldermen and comynes for to well come them; and so they came with all ther pussaunce of pepull in to Sowthwerke. And on the morowe they came, to the nombre of xlM<SUP>l</SUP>, to London Brigge, and toke downe suche hedis as were there, and beryed them at Seint Mangnus; and so they rode forthe to Seint Powlys and ther offerd. And þere mett with them the Erchebysshoppe of Cawnterbury,
+<PB N="74" REF="74"/>
+withe many other bysshoppes, and the meire and the aldermen, with all the statis of the cite; and ther was declared all the poyntis and pardon to all the realme. And than all thes lordis went to the Grey Frerys and helde ther a counsell on the Thorsday. And on the Fryday they went to the Gelde halle, and ther was endited many persones and putt in presone. And sone after rode the Erche∣bysshoppe of Caunterbury, the Bysshoppe of Excester, and many other bysshoppis, and a legett, <NOTE N="a" PLACE="foot">Francesco Coppini, bishop of Teramo.</NOTE> and the Erle of Marche, and the Erle of Warwyke, the Lord Faconbryge, the Lorde Bowser, and his sonnes, with myche other pepull of Kent, Southesex, and Esex, tawarde the kynge with grete ordenaunce; and the Erle of Salys∣bury, the Lorde Cobham, and Sir John Wenlock, were lefte in the cite of London with the meire. And forthe with the Lord Cobham and the shoreffes went and laide grete ordenaunce a yenes the Toure on the towne syde, and Sir John Wenlok, an[d] Harow mercer, kept on Seint Katerynes side, and myche harme done on bothe parties. And in all placis of London was grete watche for doute of tresoun. And then they skyrmysed to gedir, and myche harme was done dayly. And on the Thorsdye, the ix<SUP>th</SUP> <NOTE N="b" PLACE="foot">Should be the 10th, which was Thursday.</NOTE> day of Julle, was the batayll be syde Northhampton in the Newfelde be twene Har∣syngton and Sandyfforde, and ther was the kynge take in his tente. And ther was slayne the Duke of Bockyngham, the Erle of Shrovys∣bury, the Vycounte Bemonde, the Lord Egremonde, and Sir William Lucy, and many other knyghtes and squyers, and many comyners were drowned. And than the Erle of Marche, and the Erle of Warwyke, with oþer lordis, brought the kynge to North∣ampton with myche rialte. And so the kynge with his lordis came to London, with him the Erle of Marche; þ<SUP>e</SUP> Erle of Warwyke bare the kynges swerde. And ther came with the kynge the Bysshoppe of Caunterburye, withe many other bysshoppes and lordis. And the Erle of Salysbury rode a yenes the kynge withe myche rialte; and then was called and sett a Parlement. And on
+<PB N="75" REF="75"/>
+the Fryday after the kynge herde the masse of Jesus at Poulys, and so went a processyon thorowe the cite. And on that same daie was the Towre yolden. And on the Satyrday Sir John Wenlok and Harowe mercer were sent to the Toure to put hem to warde that were gilty, and so thei dide; but they sent the Lord Scalys a <NOTE PLACE="marg">The Lorde Scalys slayne the xx<SUP>th</SUP> day of July, A<SUP>o</SUP> D'ni M<SUP>l</SUP>.iiij.<SUP>e</SUP> lx.</NOTE> wey prevely. And that was perceyved by the shippmen, and they laide watche and toke him, and slowe him and leyde him naked in Seint Mary Overes chirche yerde. And forthe with the Erle of Warwyke rode to the Toure, and ther he made a proclamacion, and all a boute the cite, chargynge that no maner of persone shuld not sle, nor stelle, nor morder, on peyne of dethe. And the same day dyned all the bysshoppes and lordis with the meire. And on the Wenesday aftir the lordis and the meire went to the Gildhall, and they comaundid the shorevys to fette the prisoners from the Toure, and so they feghte Senkeler, and Browne of Kent, Okeley, Monkys, Davy John, Fawkoner, with oþer, whiche were reyned, and some were dampned of tresoun, and were drawe and hanged, and her hedis smytten of. And this yere Thorpe was goinge a wey, and he was disgysed, but he was take and brought to London a yene with a newe shave crowne, and so brought to the Erle of Salysbury place, and afterwarde sent to the Toure of London. This yere came the Duke of Yorke and his sonne Erle of Rotlonde oute of Irlonde to Westmester, to the forsaide Parlement, on a Friday, the x day of Octobre, cleymynge his right and titell, where in the lordis were a yenes him, but that was afterward full dere bought. And ther it was argued and prevyd be twene Kynge Harry and the seid duke, with all ther wise counsell, spirituall and temporall, in the seid Parlement, that þ<SUP>e</SUP> right of the crowne is of Inglond and of Fraunce to þ<SUP>e</SUP> seid duke and his eyres perteyneth and longethe, and to none othir. And yett they be liege men a yene to Kyng Henry for his lyve tyme, and eche to oþer sworne to be trewe, and hit was proclamed.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Richard Lee, Maire</CELL>
+<CELL>John Lambard</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> xxxix<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Richard Flomynge</CELL>
+</ROW>
+</TABLE></P>
+<P><PB N="76" REF="76"/>
+This yere the Duke of Yorke, the Erle of Rotland, and the Erle of Salysbury, with myche oþer pepull, rode northewarde to kepe her Crystmas. And there lay in her wey at Wakefelde to stope hem <NOTE PLACE="marg">Wakefelde on new yere evyn.</NOTE> the Duke of Excester, the Duke of Somersett, the Erle of Wilde∣shire, the Lord Roose, with other lordys and myche other pepull, and so fell upon hem and slowe the Duke of Yorke, the Erle of Rotlonde, the Erle of Salysbury, and Harowe and Pekerynge, mercers, and myche other pepull; and this was done on newe yeris evyn. And a none after the quene reysed all the northe and all oþer pepull by the wey, compelled, dispoyled, rubbed, and dis∣troyed all maner of cattell, vetayll, and riches to Seint Albones, where þ<SUP>e</SUP> Duke of Northefolke, the Erle of Warwyke, and many oþer lordis with Kynge Harrye and grete multitude of comynes and ordynaunce mett with hem with batayle, and slewe myche <NOTE PLACE="marg">The Secunde Batell [at] Seynt Albons.</NOTE> pepull on bothe the parties. And there Kynge Henry brake his othe and grement made be twene hym and his trewe lordis, and so wyckedly for sworne went to the contrary parte of the northe, and disseyved his trewe lordis that stode in grete jopardy for his sake, Northeffolke, Warwyke, with other moo, whiche were full fayne to scape with her lyves, and the Lorde Bonvyle and Sir Thomas Kyryell, that bode with the kynge and trusted on him, for he graunted to save them; and they were be hedid evyn a for the quene and prince so called at that tyme. And so the kynge and the quene purposed for to come to London and do excucion upon suche persones as was a yenes the quene; but the comynes of the cite wolde not suffer hem, nor none of herrys, to entyr in to London; and so they torned northewarde. And the Erle of Marche <NOTE PLACE="marg">M<SUP>d</SUP>., the Erle of Marche, fyrst so callyd, after was kyng, namyd Edwarde the iiij<SUP>th</SUP>.</NOTE> kept his Crystmas at Glowceter. And when tythinges came that my lorde his fader and his brother with many oþer lordys falsely was mortherd and slayne, to hym the grettes hevynes that might be, and how the northe was reysed like as it is a for wretyn com∣mynge southewarde, than a none he dide sende in to dyverse shires of knowlache, and sone after he hadde xxx M<SUP>l</SUP> of gode men commyng to fyght with hem. Than came sodenly oþer tidynges
+<PB N="77" REF="77"/>
+that the Erle of Wildshire and the Erle of Pembroke by see were come in to Walys with Frensshemen and Brettons, and Iresshe men, comynge and reysen Walys thorowe purposynge hem for to distroye hym, and he with all his men torned a yene bacwarde in to Walis and mett with hem at Mortymers Crosse, where that hit was <NOTE PLACE="marg">Mortymers Crosse in Walys.</NOTE> saide on a Sonday Candilmasday by the morowe appered the sonne as iij sonnys sondry on hym in the este and closyd a yene to geder. And than he kneled doune on his kneis and made his prayers and thanked God. And anone fresshly and manly he toke the felde upon his enemyes and put hem at flyght, and slewe of them iij M<SUP>l</SUP>, and some of ther capteyns were take and be hedide, but Pembroke and Wildshire stale a wey prevely disgysed and fled oute of the contrey. And a none forthe with he made him redy a gayne in the marche of Walis, and on the Thorsday the first weke of Lenten he came to London with xxx M<SUP>l</SUP> men of Westren men and Walsshmen, Kentes men and Esex men togeders, and so in feld and towne everychone called Edward Kynge of Ingelond and of Fraunce. <NOTE PLACE="marg">Md. Kyng Edward the iiij<SUP>th</SUP> at West∣mynster the iiij<SUP>th</SUP> day of Marche toke fyrst hys septor with his dignite, but not hys crowne.</NOTE> And the iiij<SUP>th</SUP> day of Marche he rode to Westmester and resseyved the septor with his dignite. And also that tyme Sir Baudewyn Fulforde, knyght, and Haysond, squyer, were saylenge on the see taward Brettayne for to reysse pepull agaynes Kynge Edwarde, but they were take and brought to Bristowe, and ther were drawe, hanged, and quartered, and Sir Baudwyns hede caryed to Excester and sate upon the castell yate. And than our Kynge Edwarde <NOTE PLACE="marg">Palme Sonday fe[lde] called York felde, the xxix<SUP>th</SUP> day of Marche, A<SUP>o</SUP> D'ni M<SUP>l</SUP>.iiij<SUP>e</SUP>.lxj<SUP>o</SUP>.</NOTE> made him redy with hym the Duke of Northeffolke, the Erle of Warwyke, the Erle of Kent, with oþer lordis, knyghtes, and squyers northewarde, and hem folowed grete multitude of pepull, and thei mette be side Shireborne with the lordes of the northe on ether syde lyke an C. M<SUP>l</SUP>. And ther was slayne on bothe partes xxxvj M<SUP>l</SUP>. vijc. lxxvij. And ther wan Kynge Edwarde the felde thanked by Jesu. And than rode the kynge to Yorke and ther he was rialy resseyved. And ther he in the castell toke the Erle of Devynysshyre and oþer mo, and did lett smyte of her hedes. And Kynge Harrye fled with his quene and dyverse lordis with hem to
+<PB N="78" REF="78"/>
+Berwyke, and they delyverd that towne and many oþere castelles in the northe to the Scottis and to the Frensshemen for to have socoure of hem. And after that Kynge Edward came a yene to London, and ther he was rialy resseyved, and forthe with he was crowned at Westmester the xxviij daye of June on Seint Petirs <NOTE PLACE="marg">Coronacio Edwardi iiij<SUP>ti</SUP>, 28 die Junii, A<SUP>o</SUP> D'ni 1461.</NOTE> evyn. And there he made his ij brethern dukys, that is to sey, Lorde George Duke of Clarence, the Lorde Richard Duke of Glowcester, and he made many knyghtes and squyers.</P>
+<P>Thes bethe the names of the Maires and Shoreffes of the Cite of <NOTE PLACE="marg">Edwardus iiij<SUP>tus</SUP>.</NOTE> London in the tyme of the regne of Kynge Edward the Fourthe.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Hugh Wyche, Maire</CELL>
+<CELL>John Locke</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> primo.</CELL>
+</ROW>
+<ROW>
+<CELL>George Irelond</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere was imagened and wrought grete treyson a yenes the kynge by the menys of the Erle of Oxenford and his sonne Aubry, with oþer knyghtes and the kynges rebelles, traytors and adves∣saryes with oute the londe, the whiche tresones God sent the kynge hym selfe knowleche, and anon they were taken and juged to dethe. Fyrst the Lorde Aubrye was drawe the xx daye of Feverell thorowe London to the Toure Hill, and ther he was behedid; and the xxiij day of Feveryll was Sir Thomas Tudnam, knyght, and Sir William Tyrrell and John Mongomery, squyer, drawe from Westmester thorowe London to the Toure Hill, and ther was be hedyd upon a scaffolde. And the xxvj day of the same monthe was John Veer the Erle of Oxynford led thorowe London to the Toure Hill, and ther was be heded on the same scaffolde. And the fyrst d[a]y of Marche was Sir William Kenedy, knyght, led from Westmester thorowe London to the Toure Hill, and ij other men with him, and ther were be hedid on the same scaffold. Also this yere the Egill on Poulis stepell was take downe for hit was broke, but whan hit shulde be set up a yene he that shulde have set it up fell downe and was dede, and so anoþer man was hired and sett up the Egyll the iij daye of Juyll. This yere was dyverse of the castelles in the northe yolden a yene to Kynge Edwarde.</P>
+<P><PB N="79" REF="79"/>
+<TABLE>
+<ROW>
+<CELL ROWS="2">Thomas Cooke, Maire</CELL>
+<CELL>William Hampton</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> ij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Bartilmewe James</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere Quene Margaret toke Bamburgh, Anwyke, and Don∣synburgh with the nombre of vj M<SUP>l</SUP> of Frensshemen; and in this same yere the kynge did make grete gunnes and other grete ordy∣naunce at London, and did do cary hit in to the northe contre. And ther the kynge with thes lordis laide sege to thes castelles a for wreten; the whiche were yolden, savynge Bambrough wold not yelde till the wallys were betten downe; and ther in was take Sir Rauffe Graye, knyght, and he was be heded at Yorke. Also this yere Thomas Routhe, squyer, and ij oþer men, were be hedid at the Toure Hill for treson. Also this yere the Duke off Somersett be came the kynges liege man and sworne, but he kepte not his othe, for he went a yene to the contrary parte.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Matheus Philippe, Maire</CELL>
+<CELL>Thomas Muscehamp</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>Robert Bassett</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere came diverse lordes and gentillez to Exham of the quenes affynete, and the Lord Mountegew with other knyghtes an squyers had knowleche of them, and ther thei toke the moste parti of them, that is for to sey: Harry the Duke of Somersett, the whiche was be heded the xv day of May at Exham; Sir Emonde Fyssh, knyght, Bradshawe, Rawlyne Honte, and Blacke Jackett, were be heded at Yorke the xv day of May; and the xviij day of May was be hedid Sir Thomas Hull, knyght, John Marfyn, late servaunte with the quene, John Botler, John Gosse, late kerver to the Duke of Somersett, Roger Water, late purcer to Kynge Henry that was, Harry Docfford, William Dawson, William Pryce, Thomas Hegge, Thomas Fenwyck, and John Champyon; at Midlam were be heded Sir Philippe Wynterworthe, <NOTE N="a" PLACE="foot">Wentworth.</NOTE> knyght, Sir William Ponyngton, war∣deyne of Topclyff, Olyver Wyntworthe, William Spyller of Yorke, Thomas Honte, late yoman with the quene that was. Also at Newcastell the xxvij day of May were beheded the Lord Honger∣ford,
+<PB N="80" REF="80"/>
+the Lorde Roose, Sir Thomas Fyndorne, knyght, Bernarde Delamore, Nicholas Massy, and the xxviij day of May was other vj persones be heded. Also this yere was a grete drouthe, the whiche <NOTE PLACE="marg">A grete drought, for it never reyned from the myddys of Marche tyl the morow after Mydsomer day.</NOTE> duryd from myddes of Marche till the morne after Mydsomer day that never reyned. And this yere whete was worthe iiij d. a busshell, and all maner of vetaille grete chepe, and wyne grete chepe, and grete skarssete of money. Also this yere was a grete pestilence thorowe all the realme.</P>
+<P><TABLE>
+<ROW>
+<CELL ROWS="2">Rauff Josselynge, Maire</CELL>
+<CELL>John Tate</CELL>
+<CELL ROWS="2">A<SUP>o</SUP> iiij<SUP>e</SUP>.</CELL>
+</ROW>
+<ROW>
+<CELL>John Stone</CELL>
+</ROW>
+</TABLE></P>
+<P>This yere there was a grete frost and grete snowne, where thorowe mych cattell of bestis and shepe for fawte of mete were distroyed. Also this yere the kynge spoused the duches doughter of Bedford, þ<SUP>e</SUP> whiche was crowned at Westmester the Sonday a <NOTE PLACE="marg">The coronacion of Quene Elyzabeth.</NOTE> for Wytsonday, that is to sey, the xxvj day of Maye, att the whiche coronacion was made xlvij Knyghtes of the Bathe, where of were foure men of London, þat is to sey, Rauffe Josselynge, draper, that tyme beynge maire, Hugh Wiche, mercer, John Plomer, grocer, Harry Waffer, draper. Also this same yere Kynge Harry was take in the northe contre, and ij doctors with him, the whiche wer called Doctor Mannynge and Doctor Beden, the whiche were all thre brought to London. And by the wey the Erle of War∣wyke mett with hem at Islyngdon by the kynges comaundement, and ther a rested the forsayde Kynge Hanry upon serteyne poyntes, and so brought him in att Newgate and thorowe Chepe side, and so thorow all London to the Toure, that is to sey, on Seint James evyn the xxiiij day of Jule. Also this yere the kynge lete smyte <NOTE PLACE="marg">Here be gan fyrst the nobyl of x s. callyd the ryal.</NOTE> a newe noble with a roose standyng there as the crosse shulde at the value of x s. ster. And the olde nobill was valued, and so to goo for viij s. iiij d. And ther was newe grotes and pensse made after the valewe of the nobyll, that is to sey, lighter then they were a fore. Also he lete make a pece of golde valued at vj s. viij d., that is to sey an angell, and oþer smaller peces of golde of les valure, &amp;c.</P>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

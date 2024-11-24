@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-8-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed some DIV4 HEADs to Qs; changed some DIV3s to DIV2s; removed incorrect MILESTONEs from Ps. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00075">
+<STC T="M">75</STC>
+<BIBNO T="mec">CME00075</BIBNO>
+<VID>CME00075</VID>
+</IDG>
+<TEXT LANG="enm ger lat">
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1"/>
+<HEAD>The desert of religion. Mit dem Bilde des Richard Rolle of Hampole.</HEAD>
+<HEAD TYPE="sub">Nach drei Handschriften zum erstenmal herausgegeben.</HEAD>
+<DIV2 N="1" TYPE="preface">
+<HEAD>I. Handschriftenbeschreibung und Text.</HEAD>
+<P>Das nachstehende Gedicht, dessen Titel aus v. 19 ersichtlich wird, ist uns in drei Handschriften des Britischen Museums—und, soweit ich feststellen konnte, nur in diesen—überliefert:</P>
+<P N="1">1) Additional Ms. 37049, fol. 46-67. Die ziemlich umfang∣reiche Handschrift—im ganzen 96 Blätter—stammt, wie der Katalog angibt, aus der ersten Hälfte des 15. Jahrhunderts und ist reich illustriert, wenn auch die Bilder meist recht grobe For∣men zeigen. Die Handschrift enthält eine grosse Reihe religiöser Abhandlungen, teils in Prosa, teils in Versen, z. B. Gedichte über die Mutter Gottes, die Seele im Fegefeuer, eine Vergleichung der Welt mit einem Meere und einer Wildnis, tätiges und be∣schauliches Leben. An der Handschrift sind mehrere Schreiber beteiligt, deren Schriftzüge oft nur schwer zu unterscheiden sind. Der Text des hier abgedruckten Gedichtes ist nur von einer Hand geschrieben; dagegen sind die Illustrationen neben dem Text mit den dazugehörigen erläuternden Worten und ebenso die Zeichnungen symbolischer Bäume, die dem Text stets auf der rechten Seite gegenüberstehen, von einem anderen Schreiber. Zwei Bilder, die in der Hs. C vor, in S vor und hinter dem Ge∣dicht stehen, finden sich hier an falscher Stelle zwischen anderen Texten: fol. 19 ein Sterbender, der um Hilfe gegen den mit einer Lanze eindringenden Tod fleht und für den Maria und Christus Fürbitte einlegen; fol. 36 ein Ritter, ein König und ein Geist∣licher, die die Vergänglichkeit irdischer Macht beklagen.</P>
+<P N="2">2) Cotton Ms. Faustina B VI, pars II, fol. 1-23, nach An∣gabe des Katalogs der Stowe-Hss. (vgl. 3) aus der ersten Hälfte des 15. Jahrhunderts. Die Handschrift enthält nur die hier be∣handelte Dichtung und ist von einem einzigen Schreiber her∣gestellt. Die Zeichnungen sind nicht so überladen wie in A, dafür aber sorgfältiger ausgeführt.—Vor der Handschrift findet sich folgende Eintragung von Sir Frederick Madden: <HI REND="italic">In the Index of Contents prefixed by James</HI> <NOTE N="1" PLACE="foot">Richard James, 1592-1638, Bibliothekar des Sir Robert Bruce Cotton.</NOTE> <HI REND="italic">to this Ms. the religious Poem now bound separately is ascribed to "Walter Hilton anchorite". On this authority Hilton has been received as the author by Smith in his Catalogue of the Cotton Library, 1697, by Tanner, Bibl. Brit., and by Ritson, Bibliogr. poetica. It appears, however, very doubtful indeed, whether James had
+<PB N="59" REF="4"/>
+any authority for attributing the Poem to Hilton, and I am inclined to think it arose from his confounding it with the prose tractate by Hilton on Contemplation of Life. F. M.</HI></P>
+<P N="3">3) Stowe Ms. 39, fol. 11-32, nach dem Katalog gleichfalls aus der ersten Hälfte des 15. Jahrhunderts, mit prachtvollem Bilderschmuck. Die ganze Handschrift, die im Jahre 1756 vom Rev. Gastrell an Rich. Greene und von diesem im Jahre 1767 an das Britische Museum geschenkt worden ist, weist die Züge einer einzigen Hand auf. Sie enthält ausser dem hier in Frage stehenden Gedicht noch einen religiösen Prosatraktat und eine Dichtung <HI REND="italic">The abbey of the Holy Ghost</HI> (nach Angabe des Katalogs vielleicht von John Alcock).</P>
+</DIV2>
+<DIV2 TYPE="poem">
+<EPIGRAPH><Q><P><HI REND="italic">Elongaui fugiens et mansi in solitudine.</HI> <MILESTONE N="46a." UNIT="fol."/> <NOTE PLACE="foot">s.] <HI REND="italic">f. C]</HI></NOTE></P></Q></EPIGRAPH>
+<LG>
+<L>Dauid, þat prophet was ay, <NOTE PLACE="foot">1 Dauit <HI REND="italic">C</HI></NOTE></L>
+<L>In þe sawter boke þus we here say: <NOTE PLACE="foot">2 buke <HI REND="italic">C</HI> h. w. s. <HI REND="italic">S, f. C</HI></NOTE></L>
+<L>Fleand I fled fra mare and les <NOTE PLACE="foot">3 fro more <HI REND="italic">S</HI></NOTE></L>
+<L>And dwelled in herd wyldernes. <NOTE PLACE="foot">4 hard <HI REND="italic">C</HI></NOTE></L>
+<L>Þis wyldernes be-takens wele <MILESTONE N="5"/> <NOTE PLACE="foot">5 betokens <HI REND="italic">S</HI></NOTE></L>
+<L>Herd penaunce, þat men suld fele <NOTE PLACE="foot">6 Scharp <HI REND="italic">C,</HI> Scherp <HI REND="italic">S</HI></NOTE></L>
+<L>Þat fleys fra þe werld—þat es þe flesch— <NOTE PLACE="foot">7 flees <HI REND="italic">S</HI> fro <HI REND="italic">S u. i.</HI> world <HI REND="italic">S u. i.</HI></NOTE></L>
+<L>And groves in gastely wyldernes, <NOTE PLACE="foot">8 groffes <HI REND="italic">S</HI> gastele wilderneche <HI REND="italic">C</HI></NOTE></L>
+<L>Als men of religioune dose,</L>
+<L>Þat fleys þe flesch in þe saule∣felose. <MILESTONE N="10"/> <NOTE PLACE="foot">10 flees <HI REND="italic">S</HI></NOTE></L>
+<L>For qwen man thurgh deuocioune <NOTE PLACE="foot">11 when <HI REND="italic">C u. i.</HI> men <HI REND="italic">C</HI></NOTE></L>
+<L>Enters in-to religioune, <NOTE PLACE="foot">12 entres <HI REND="italic">S</HI></NOTE></L>
+<L>He es als man þat suld wende <NOTE PLACE="foot">13 is <HI REND="italic">S</HI> als a m. <HI REND="italic">S</HI></NOTE></L>
+<L>In-to þe felde to fyght with þe fende; <NOTE PLACE="foot">14 feght <HI REND="italic">S</HI></NOTE></L>
+<L>Whare-for god-blyssed mot he be, <MILESTONE N="15"/> <NOTE PLACE="foot">15 blyste <HI REND="italic">S u. i.</HI> m. þu b. <HI REND="italic">C</HI></NOTE></L>
+<L>Qwhen he of þe fende faund wald be. <NOTE PLACE="foot">16 When <HI REND="italic">β</HI> (= <HI REND="italic">C S)</HI> faunded <HI REND="italic">C,</HI> fondid <HI REND="italic">S</HI> suld <HI REND="italic">S</HI></NOTE></L>
+<L>He went in-to deserte to dwell,</L>
+<L>Als itt is wryten in þe gospell:
+<Q><P><HI REND="italic">Ductus est Jesus in desertum a spiritu, ut tem[ptaretur].</HI> <NOTE PLACE="foot">a s.] <HI REND="italic">f. C</HI> u. t. a diabolo <HI REND="italic">S</HI></NOTE></P></Q></L>
+<L>For þe deserte of religioune</L>
+<L>Is cald a felde of temptacioune. <MILESTONE N="20"/></L>
+<L>Religioune, þat gude men suld hald,</L>
+<L>May be gude skyll deserte be cald;</L>
+<L>For als deserte commonly is sene <NOTE PLACE="foot">23 communli <HI REND="italic">C</HI></NOTE></L>
+<L>In stede whare no dayntes bene, <NOTE PLACE="foot">24 whore <HI REND="italic">S</HI></NOTE></L>
+<L>And far fra men deserte it es— <MILESTONE N="25"/> <NOTE PLACE="foot">25 fer <HI REND="italic">β</HI> it] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þar-for men calles wyldernes: <NOTE PLACE="foot">26 Þer <HI REND="italic">C u. ö.</HI></NOTE></L>
+<L>Ryght swa þe state of religioune, <NOTE PLACE="foot">27 so <HI REND="italic">β</HI></NOTE></L>
+<L>Þat falles to þe lyfe of perfeccioune, <NOTE PLACE="foot">28 fals <HI REND="italic">S</HI> lyue <HI REND="italic">C</HI></NOTE></L>
+<L>Suld be scharpe in all thynge</L>
+<L>Thurgh scharpenes of strayt lyf∣ynge, <MILESTONE N="30"/> <NOTE PLACE="foot">30 Thorgh <HI REND="italic">S</HI> li∣uinge <HI REND="italic">C,</HI> liffyng <HI REND="italic">S</HI></NOTE></L>
+<L>Þat es als a thorne-garth to tell <NOTE PLACE="foot">31 is <HI REND="italic">C</HI> os <HI REND="italic">S</HI> a] <HI REND="italic">f. S</HI> ȝert <HI REND="italic">S</HI></NOTE></L>
+<L>Agayn þe wykked gaste of hell,</L>
+<L>With þe whilk þe herte is closed abowt</L>
+<L>To hald þas wykked bestes owt. <NOTE PLACE="foot">34 þair <HI REND="italic">C,</HI> þos <HI REND="italic">S</HI></NOTE></L>
+<L>And ȝit in wyldernes men sees <MILESTONE N="35"/></L>
+<L>Many wykked wylde bestees, <NOTE PLACE="foot">36 bestes <HI REND="italic">S</HI></NOTE></L>
+<L>As beres, wolves and lyouns:</L>
+<L>Þeir er bot fendes temptaciouns,</L>
+<L>Þat þe gude religioune with his myȝt <NOTE PLACE="foot">39 his] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Kepes hym fra both day and nyght. <MILESTONE N="40"/> <NOTE PLACE="foot">40 K. þam fro <HI REND="italic">S</HI> both] <HI REND="italic">f. S</HI></NOTE></L>
+<L>In þis gastely foreste groves <NOTE PLACE="foot">41 gostly <HI REND="italic">S</HI> growes <HI REND="italic">C u. ö.,</HI> groffes <HI REND="italic">S u. i.</HI></NOTE></L>
+<L>Trees with braunches and boghes: <NOTE PLACE="foot">42 bowes <HI REND="italic">C</HI></NOTE></L>
+<L>Sum groves to heven, and sum to hell, <NOTE PLACE="foot">43 Some <HI REND="italic">S u. ö.</HI></NOTE></L>
+<L>Sum to stande, and sum to fell,</L>
+<L><PB N="60" REF="5"/>
+Sum to grove in gastely garthe, <MILESTONE N="45"/></L>
+<L>And sum to grub awai with þe swarthe. <NOTE PLACE="foot">46 <HI REND="italic">abgerissen A</HI> þe] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þe fyrste tre of þis forest schene <MILESTONE N="46b." UNIT="fol."/></L>
+<L>Is þe tre of vertus, þat ay is grene,</L>
+<L>Þat in mekenes festis his rotes; <NOTE PLACE="foot">49 roytes <HI REND="italic">S</HI></NOTE></L>
+<L>Of hym vertus vpwarde schotes, <MILESTONE N="50"/></L>
+<L>And sprynges and spredes his leues and groves,</L>
+<L>And buriones bath with braunches and boghes. <NOTE PLACE="foot">52 bouriouns <HI REND="italic">C</HI> both <HI REND="italic">S u. i.</HI></NOTE></L>
+<L>Þis tre be-takenes men þat ar mylde <NOTE PLACE="foot">53 be-takins <HI REND="italic">C,</HI> betokens <HI REND="italic">S</HI> er <HI REND="italic">β u. ö.</HI></NOTE></L>
+<L>And debonere als a chylde.</L>
+<L>Swylk ar þe varay scolers right <MILESTONE N="55"/></L>
+<L>Of our mayster: god of myght. <NOTE PLACE="foot">56 g. all mighte <HI REND="italic">S</HI></NOTE></L>
+<L>Mekenes falles in hert to dwell</L>
+<L>Thrugh þir four thynges to tell: <NOTE PLACE="foot">58 Thorgh <HI REND="italic">S u. i.</HI> þer <HI REND="italic">S u. i.</HI></NOTE></L>
+<L>Thrugh oft be-thynkyng vp and doune</L>
+<L>And thrugh veray contrycioune, <MILESTONE N="60"/></L>
+<L>Thrugh sufferance with-outen gruch∣ing, <NOTE PLACE="foot">61 grochinge <HI REND="italic">C</HI></NOTE></L>
+<L>Thrugh haly delyte with-outen changyng <NOTE PLACE="foot">62 holy <HI REND="italic">S</HI> chaunginge <HI REND="italic">C</HI></NOTE></L>
+<L>Or thynkyng of his wrechenes <NOTE PLACE="foot">63 wriched∣nes <HI REND="italic">β</HI></NOTE></L>
+<L>Or what god has done hym mar or les. <NOTE PLACE="foot">64 h.] <HI REND="italic">f. C</HI> m. and l. <HI REND="italic">C</HI></NOTE></L>
+<L>Þis thoght if he lat noght pas <MILESTONE N="65"/> <NOTE PLACE="foot">65 let <HI REND="italic">S</HI></NOTE></L>
+<L>And vmthynkyng, what he was <NOTE PLACE="foot">66 vmbithinkinge <HI REND="italic">C</HI> him w. h. w. <HI REND="italic">β</HI></NOTE></L>
+<L>And weþne he come; and right se, <NOTE PLACE="foot">67 weithen <HI REND="italic">C</HI></NOTE></L>
+<L>And what he is and wheyder sall he <NOTE PLACE="foot">68 whither <HI REND="italic">C</HI></NOTE></L>
+<L>And what he sall be at his ende</L>
+<L>And whyderward þat he sall wende— <MILESTONE N="70"/> <NOTE PLACE="foot">70 whitherward <HI REND="italic">C,</HI> wheþer-ward <HI REND="italic">S</HI></NOTE></L>
+<L>Hee sall be many skylles knaw <NOTE PLACE="foot">71 bi <HI REND="italic">C</HI> know <HI REND="italic">S</HI></NOTE></L>
+<L>Hym for to meke and for to law. <NOTE PLACE="foot">72 low <HI REND="italic">S</HI></NOTE></L>
+<L>For out of mekenes of dede and thoght</L>
+<L>Comes all þe vertus þat euer was wroght. <NOTE PLACE="foot">74 euir war <HI REND="italic">C</HI></NOTE></L>
+<L>In seuen braunches of þis tre <MILESTONE N="75"/></L>
+<L>Þe seuen vertus may men se; <NOTE PLACE="foot">76 In s. v. <HI REND="italic">A</HI> m. you s. <HI REND="italic">S</HI></NOTE></L>
+<L>And out of ilk a vertu euen</L>
+<L>Sprynges other vertus in leves seuen, <NOTE PLACE="foot">78 v. and l. <HI REND="italic">S</HI> leue <HI REND="italic">C</HI></NOTE></L>
+<L>Þat forth brynges þe froyte of lyfe</L>
+<L>Þat bath suld couayt man and wyfe. <MILESTONE N="80"/> <NOTE PLACE="foot">80 both <HI REND="italic">S</HI></NOTE></L>
+<L>Þis is þe tre of whylk we here,</L>
+<L>Þat Dauyd of spekes in þe sawtere:</L>
+<L>Þe ryghtwys is als a tre þat standes <NOTE PLACE="foot">83 is] <HI REND="italic">f. C</HI></NOTE></L>
+<L>Be-syde þe course of þe water∣strandes</L>
+<L>And gyfes his froyte in a conabill tyme— <MILESTONE N="85"/> <NOTE PLACE="foot">85 Sal gife <HI REND="italic">C,</HI> Sall gyf <HI REND="italic">S</HI> a] <HI REND="italic">f. S</HI></NOTE></L>
+<L>His lefe sall nother fade ne dwyne.</L>
+<L>Þe secund tre of þis foreste fayre <MILESTONE N="47b." UNIT="fol."/></L>
+<L>Is þe tre of vices þat may enpayre, <NOTE PLACE="foot">88 enpare <HI REND="italic">C</HI></NOTE></L>
+<L>Þat groves and festes his rotes on pryde <NOTE PLACE="foot">89 roytes <HI REND="italic">S</HI></NOTE></L>
+<L>And boghes and braunches on ilk a syde, <MILESTONE N="90"/> <NOTE PLACE="foot">90 b. with br. <HI REND="italic">S</HI></NOTE></L>
+<L>Þat dounward groves ay in-to hell—</L>
+<L>His froyte is bath bytter and fell. <NOTE PLACE="foot">92 both <HI REND="italic">S</HI></NOTE></L>
+<L>For out of pryde comes all wykkenes <NOTE PLACE="foot">93 wikkednes <HI REND="italic">C,</HI> wyckidnes <HI REND="italic">S</HI></NOTE></L>
+<L>Þat euer was wroght her mare or les; <NOTE PLACE="foot">94 more <HI REND="italic">S</HI></NOTE></L>
+<L>For pryde, þat comes of herte and thoght, <MILESTONE N="95"/> <NOTE PLACE="foot">95 F. þi p. <HI REND="italic">S</HI></NOTE></L>
+<L>Was þe fyrste synn þat euer was wroght. <NOTE PLACE="foot">96] <HI REND="italic">f. C</HI></NOTE></L>
+<L>Pryde was begynnyng of all ill,</L>
+<L>Pryde is contraryus to alkyn skill, <NOTE PLACE="foot">98 al∣kins <HI REND="italic">β</HI></NOTE></L>
+<L>Pryde brake fyrste þe company</L>
+<L>And þe ordour in heuen þat was semely. <MILESTONE N="100"/> <NOTE PLACE="foot">100 ordir <HI REND="italic">C,</HI> ordur <HI REND="italic">S</HI></NOTE></L>
+<L>Þar-for fra heuen doune he fell</L>
+<L>In-to þe depeste pytt of hell.</L>
+<L>Þe syn of pryde full perlyous is, <NOTE PLACE="foot">103 perilus <HI REND="italic">β</HI></NOTE></L>
+<L>Of wham sprynges all wykkednes. <NOTE PLACE="foot">104 whom <HI REND="italic">S</HI></NOTE></L>
+<L>It blyndes a man and reues hym syght, <MILESTONE N="105"/> <NOTE PLACE="foot">105 Hit <HI REND="italic">S</HI> a] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þat he knawes noght hym selfe ryght. <NOTE PLACE="foot">106 knowes <HI REND="italic">S</HI></NOTE></L>
+<L>Pryde may be lykkende wele <NOTE PLACE="foot">107 lyckend <HI REND="italic">S</HI></NOTE></L>
+<L>To þe fendes awne wyfe, as I fele, <NOTE PLACE="foot">108 awen <HI REND="italic">S</HI> als <HI REND="italic">S</HI></NOTE></L>
+<L>Þat semes gode and delycyous</L>
+<L>And is straunge and perlyous; <MILESTONE N="110"/> <NOTE PLACE="foot">110 strang <HI REND="italic">S</HI> perilius <HI REND="italic">C,</HI> perilous <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="61" REF="6"/>
+Thrugh þe whilk þe fende he can</L>
+<L>Make here dronken many a man,</L>
+<L>Þat ar reche here, wyght and myghty, <NOTE PLACE="foot">113 er riche <HI REND="italic">β</HI></NOTE></L>
+<L>Nobell, wyse, balde and hardy <NOTE PLACE="foot">114 Nobil <HI REND="italic">β</HI> bolde <HI REND="italic">S</HI></NOTE></L>
+<L>And—commonly to vnderstande— <NOTE PLACE="foot">115 comunli <HI REND="italic">C,</HI> comly <HI REND="italic">S</HI></NOTE></L>
+<L>All maner of men he lyfeande. <NOTE PLACE="foot">116 lifande <HI REND="italic">C,</HI> lyffand <HI REND="italic">S</HI></NOTE></L>
+<L>In seuen braunches of þis tre <NOTE PLACE="foot">117 brounches <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuen vices may men se, <NOTE PLACE="foot">118 In <HI REND="italic">A C</HI></NOTE></L>
+<L>And out of ilk vice doune euen <NOTE PLACE="foot">119 ilk a v. <HI REND="italic">C</HI></NOTE></L>
+<L>Sprynges other vices in leues seuen, <MILESTONE N="120"/> <NOTE PLACE="foot">120 leffes <HI REND="italic">S</HI></NOTE></L>
+<L>Þat forth brynges þe froyte of dede:</L>
+<L>Taste itt noght, man I þe red!</L>
+<L>Þis is þe tre þat in sermoune</L>
+<L>God bad fell and hew it doune</L>
+<L>And cast itt in a fyre to bryne, <MILESTONE N="125"/> <NOTE PLACE="foot">125 brenne <HI REND="italic">S</HI></NOTE></L>
+<L>For no froyte itt will begyne</L>
+<L>To bere—þat is at say of lyfe, <NOTE PLACE="foot">127 is to s. <HI REND="italic">S</HI></NOTE></L>
+<L>Nother to man ne to wyfe.</L>
+<L>Þar-for grub itt vp be þe rotes <NOTE PLACE="foot">129 by <HI REND="italic">S</HI> roytes <HI REND="italic">S</HI></NOTE></L>
+<L>And all þe braunches þat of hym schotes. <MILESTONE N="130"/></L>
+<L>In þis wod here may yu se <MILESTONE N="48b." UNIT="fol."/></L>
+<L>Spryngand full fayr a-nother tre,</L>
+<L>Wyth leues on ilk-a syde be-dene, <NOTE PLACE="foot">133 leffes <HI REND="italic">S</HI></NOTE></L>
+<L>Þat wynter and somer is ay grene <NOTE PLACE="foot">134 ay is <HI REND="italic">β</HI></NOTE></L>
+<L>And beres froyte þat is ay rype, <MILESTONE N="135"/> <NOTE PLACE="foot">135 ai is <HI REND="italic">C</HI></NOTE></L>
+<L>Þat nane bot meke with hend may grype: <NOTE PLACE="foot">136 none <HI REND="italic">S</HI></NOTE></L>
+<L>Þis is þe tre of mekenes gode,</L>
+<L>Þat our lady vnder-stode. <NOTE PLACE="foot">138 stude <HI REND="italic">C</HI></NOTE></L>
+<L>In mouthe mekenes schew itt may</L>
+<L>Thurgh four thynges, þat I sall say: <MILESTONE N="140"/></L>
+<L>Thurgh oft wreyng in schryft of ill, <NOTE PLACE="foot">141 wregh∣ing <HI REND="italic">S</HI></NOTE></L>
+<L>Thurgh deuote prayer, loude or still, <NOTE PLACE="foot">142 deuoute <HI REND="italic">S</HI></NOTE></L>
+<L>Thurgh hert contymel lowinge, <NOTE PLACE="foot">143 contumele loving <HI REND="italic">C,</HI> contumly louyng <HI REND="italic">S</HI></NOTE></L>
+<L>Thurgh gode schewyng and tech∣ynge.</L>
+<L>In werk mekenes may be sene <MILESTONE N="145"/></L>
+<L>Thurgh four thynges, þat here bene:</L>
+<L>Thurgh whytyng of all þat dett es, <NOTE PLACE="foot">147 wittinge <HI REND="italic">C</HI></NOTE></L>
+<L>Thurgh lely body-buxumnes, <NOTE PLACE="foot">148 lele <HI REND="italic">S</HI> bodeli <HI REND="italic">β</HI> buxomnes <HI REND="italic">C</HI></NOTE></L>
+<L>Thurgh wyrkyng of gode werkes namly, <NOTE PLACE="foot">149 of] <HI REND="italic">f. S</HI> gude <HI REND="italic">S</HI></NOTE></L>
+<L>Thurgh herd lyfe, þe flesch to chasty. <MILESTONE N="150"/> <NOTE PLACE="foot">150 hard <HI REND="italic">β</HI></NOTE></L>
+<L>For when a man in penaunce lyfes <NOTE PLACE="foot">151 And w. <HI REND="italic">S</HI> liues <HI REND="italic">C,</HI> lyffes <HI REND="italic">S</HI></NOTE></L>
+<L>And thurgh penaunce his flesch grefes <NOTE PLACE="foot">152 greues <HI REND="italic">β</HI></NOTE></L>
+<L>And fleys delyte and kepes hym chaste <NOTE PLACE="foot">153 flees <HI REND="italic">S</HI> kepis <HI REND="italic">S</HI></NOTE></L>
+<L>And for-sakes þat þe flesch lofes maste <NOTE PLACE="foot">154 þe] <HI REND="italic">f. C</HI> lufes <HI REND="italic">S</HI></NOTE></L>
+<L>And chastis itt and puttis itt law, <MILESTONE N="155"/></L>
+<L>Þan may men mekenes in hert knaw. <NOTE PLACE="foot">156 Þen <HI REND="italic">S</HI> kaw <HI REND="italic">A</HI></NOTE></L>
+<L>Þir tuelf degrese þat I now neuen <NOTE PLACE="foot">157 Þe <HI REND="italic">C</HI></NOTE></L>
+<L>Ledes uerray mekenes euen <NOTE PLACE="foot">158 uerra <HI REND="italic">C</HI></NOTE></L>
+<L>Be thre partes and makes itt lyght <NOTE PLACE="foot">159 By <HI REND="italic">S</HI> partis <HI REND="italic">C</HI> meknes i. l. <HI REND="italic">S</HI></NOTE></L>
+<L>In hert, in mouthe and wark ryght. <MILESTONE N="160"/> <NOTE PLACE="foot">160 werk <HI REND="italic">β</HI></NOTE></L>
+<L>With-outen þir tuelf in þir thre <NOTE PLACE="foot">161 and þer <HI REND="italic">S</HI></NOTE></L>
+<L>Verray mekenes may noght be.</L>
+<L>Þis tre floryschand, þat þu sees,</L>
+<L>Of mekenes is þe tuelf degrees,</L>
+<L>Þat in a meke hart fyrst begynnes <MILESTONE N="165"/> <NOTE PLACE="foot">165 in a man hert <HI REND="italic">C</HI></NOTE></L>
+<L>And sythen vp-ward spredes and sprynges</L>
+<L>And beres þe froyte, þat ay is swete</L>
+<L>And delycyous for to ette. <NOTE PLACE="foot">168 A. ful deliciouce <HI REND="italic">C</HI></NOTE></L>
+<L>Þis suld men sett in þair ortȝarde, <NOTE PLACE="foot">169 orthȝarde <HI REND="italic">A,</HI> ortȝerd <HI REND="italic">S</HI></NOTE></L>
+<L>Þat groves or clymbes to heuen warde, <MILESTONE N="170"/> <NOTE PLACE="foot">170 g. and c. <HI REND="italic">S</HI> werd <HI REND="italic">S</HI></NOTE></L>
+<L>And dyke itt with depe deuocioune, <NOTE PLACE="foot">171 depe] <HI REND="italic">f. β</HI></NOTE></L>
+<L>Þat wynd of pryde dryfe itt not doune, <NOTE PLACE="foot">172 driffe <HI REND="italic">C</HI> noght <HI REND="italic">C</HI></NOTE></L>
+<L>Ne stele þe froyte þat on it groves,</L>
+<L>Ne breke þe braunches ne boghes.</L>
+</LG>
+<LG>
+<L>Ȝit groves here in þis wylldernes <MILESTONE N="175"/> <MILESTONE N="49b." UNIT="fol."/></L>
+<L>A tre of grett wykkednes,</L>
+<L>Þat beres froyte bitter als gall; <NOTE PLACE="foot">177 as <HI REND="italic">S</HI></NOTE></L>
+<L>Þat itt tastes, itt poysouns all.</L>
+<L>Þe man þat thoght hym for to schryfe <NOTE PLACE="foot">179 for] <HI REND="italic">f. S</HI> scriue <HI REND="italic">C</HI></NOTE></L>
+<L>Braunches and boghes a-way suld ryfe; <MILESTONE N="180"/> <NOTE PLACE="foot">180 Brounches <HI REND="italic">S</HI> riue <HI REND="italic">C</HI></NOTE></L>
+<L><PB N="62" REF="7"/>
+For pryde agaynes god weres all∣ways <NOTE PLACE="foot">181 agayn <HI REND="italic">β</HI> weres a. w.] verrays <HI REND="italic">C,</HI> veray is <HI REND="italic">S</HI></NOTE></L>
+<L>And his godes, als clerkes says; <NOTE PLACE="foot">182 gudes <HI REND="italic">S</HI></NOTE></L>
+<L>And god weres agayn pryde <NOTE PLACE="foot">183 weres] werais <HI REND="italic">C,</HI> veray is <HI REND="italic">S</HI></NOTE></L>
+<L>And abates hir myght on ilk-a syde.</L>
+<L>Pryde is quene of all vyces, <MILESTONE N="185"/></L>
+<L>Þat to all wykkednes vs entices.</L>
+<L>Pryde is þe gredy lyonesse, <NOTE PLACE="foot">187 <HI REND="italic">zwischen</HI> 192 <HI REND="italic">und</HI> 193 <HI REND="italic">A</HI></NOTE></L>
+<L>Þat all gode swelous, as I gesse. <NOTE PLACE="foot">188 gude saules <HI REND="italic">S</HI></NOTE></L>
+<L>Pryde for-dose all grace and vertose <NOTE PLACE="foot">189 g.] gudes <HI REND="italic">S</HI> vertuse <HI REND="italic">S,</HI> vertoys <HI REND="italic">C</HI></NOTE></L>
+<L>And all gude werkes þat men dose. <MILESTONE N="190"/> <NOTE PLACE="foot">190 A. g. a. w. <HI REND="italic">AC</HI> doys <HI REND="italic">C,</HI> wyrkes <HI REND="italic">S</HI></NOTE></L>
+<L>Pryde is þe fyrste þat asayles faste</L>
+<L>Goddes knyght and leues hym laste; <NOTE PLACE="foot">192 Goddis <HI REND="italic">C</HI> lefes <HI REND="italic">C</HI></NOTE></L>
+<L>For when he has ouercommen ryght <NOTE PLACE="foot">193 has] is <HI REND="italic">S</HI></NOTE></L>
+<L>All other synnes thurgh grace and myght, <NOTE PLACE="foot">194 othir <HI REND="italic">S</HI></NOTE></L>
+<L>Þan commes pryde after þat vic∣tory <MILESTONE N="195"/> <NOTE PLACE="foot">195 Þen <HI REND="italic">S u. i.</HI> aftir <HI REND="italic">S</HI></NOTE></L>
+<L>And assayles hym maste stalworthly. <NOTE PLACE="foot">196 moste <HI REND="italic">S</HI></NOTE></L>
+<L>Pryde makes a man to wyn hell sone <NOTE PLACE="foot">197 mas <HI REND="italic">S</HI></NOTE></L>
+<L>And wastes all þe gude þat he has done.</L>
+<L>Pryde men makes hey state to co∣vayte <NOTE PLACE="foot">199 makes men <HI REND="italic">β</HI></NOTE></L>
+<L>And mastry ouer all other to layte. <MILESTONE N="200"/> <NOTE PLACE="foot">200 mays∣try <HI REND="italic">S</HI></NOTE></L>
+<L>Bott pryde, as clerkes in bokes cane rede, <NOTE PLACE="foot">201 bukes <HI REND="italic">C</HI> i. b.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>May be for-done thurgh gyfte of drede. <NOTE PLACE="foot">202] <HI REND="italic">f. C</HI></NOTE></L>
+<L>þis spreyngand tre, þat þu now sees, <NOTE PLACE="foot">203 springand <HI REND="italic">β</HI></NOTE></L>
+<L>Of pryde is called þe tuelfe degrees.</L>
+<L>Þe fyrste in proude hert festes his rotes <MILESTONE N="205"/> <NOTE PLACE="foot">205 Þat <HI REND="italic">C</HI></NOTE></L>
+<L>And sythen vpwarde his boghes schotes; <NOTE PLACE="foot">206 þe b. <HI REND="italic">S,</HI> þe bode vp <HI REND="italic">C</HI></NOTE></L>
+<L>Grub and graue als gode gardynere <NOTE PLACE="foot">207 Gub <HI REND="italic">C</HI> graffe <HI REND="italic">S</HI> gode] <HI REND="italic">f. S</HI> gardenere <HI REND="italic">C</HI></NOTE></L>
+<L>A-bowt þe rote bath day and ȝere <NOTE PLACE="foot">208 rute <HI REND="italic">C,</HI> royte <HI REND="italic">S</HI></NOTE></L>
+<L>And fell itt doune in-to þe fyre:</L>
+<L>Heuen þar-for sall be þi hyre! <MILESTONE N="210"/></L>
+<L>Vn-to þi lorde if þu be trew,</L>
+<L>In his erbere latt itt noght grew, <NOTE PLACE="foot">212 herbere <HI REND="italic">S</HI> grow <HI REND="italic">S</HI></NOTE></L>
+<L>In-to his gardyne when he will ga <NOTE PLACE="foot">213 to] <HI REND="italic">f. S</HI></NOTE></L>
+<L>His dyssporte þar in to ta. <NOTE PLACE="foot">214 dissport∣inge <HI REND="italic">C,</HI> disportyng <HI REND="italic">S</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis deserte is a-nother tre, <MILESTONE N="215"/> <MILESTONE N="50b." UNIT="fol."/> <NOTE PLACE="foot">215 groffes a tre <HI REND="italic">S</HI></NOTE></L>
+<L>Sprynges and spredes, as men may se, <NOTE PLACE="foot">216 as ȝe m. s. <HI REND="italic">S</HI></NOTE></L>
+<L>Þat nother groves in cite ne in toune, <NOTE PLACE="foot">217 nouthir <HI REND="italic">S</HI></NOTE></L>
+<L>Bott in places of religioune. <NOTE PLACE="foot">218 place <HI REND="italic">S</HI></NOTE></L>
+<L>Itt beres froyte þat is full soure <NOTE PLACE="foot">219 frute <HI REND="italic">C</HI></NOTE></L>
+<L>And full bytter of sauoure; <MILESTONE N="220"/> <NOTE PLACE="foot">220 sououre <HI REND="italic">S</HI></NOTE></L>
+<L>For þe state of religyoune</L>
+<L>Suld be—thurgh right intencioune— <NOTE PLACE="foot">222 entencioun <HI REND="italic">β</HI></NOTE></L>
+<L>Far fra þe werld, als þe boke telles, <NOTE PLACE="foot">223 Fer fro <HI REND="italic">β</HI> world <HI REND="italic">β</HI> as <HI REND="italic">S</HI></NOTE></L>
+<L>Als in deserte, war na man dwelles. <NOTE PLACE="foot">224 whar <HI REND="italic">C,</HI> wher <HI REND="italic">S</HI></NOTE></L>
+<L>For he þat kepes þat state wele <MILESTONE N="225"/> <NOTE PLACE="foot">225 s.] <HI REND="italic">f. A</HI></NOTE></L>
+<L>Þe maners of þe werld suld not fele. <NOTE PLACE="foot">226 world <HI REND="italic">S u. i.</HI> noght <HI REND="italic">S</HI></NOTE></L>
+<L>Swa man—thurgh right inten∣cioune— <NOTE PLACE="foot">227 So men <HI REND="italic">β,</HI> For man <HI REND="italic">A</HI> entencioune <HI REND="italic">β</HI></NOTE></L>
+<L>Þat is in þe state of relygioune <NOTE PLACE="foot">228 þ. er <HI REND="italic">β</HI></NOTE></L>
+<L>Ay þis werld suld hate and fle,</L>
+<L>Þat is ay full of vanyte, <MILESTONE N="230"/> <NOTE PLACE="foot">230 For it is <HI REND="italic">C</HI></NOTE></L>
+<L>Swa þat his conuersacioune be <NOTE PLACE="foot">231 So <HI REND="italic">β</HI></NOTE></L>
+<L>In heuen be-for þe trinyte.</L>
+<L>For he suld putt all his tresore <NOTE PLACE="foot">233 tresour <HI REND="italic">S</HI></NOTE></L>
+<L>In heuen, þat sekyrest is þar-fore: <NOTE PLACE="foot">234 sikereste <HI REND="italic">C,</HI> syker reste <HI REND="italic">S</HI></NOTE></L>
+<L>Sway may he þan his tresore saue <MILESTONE N="235"/> <NOTE PLACE="foot">235 So may you þen his tresour s. <HI REND="italic">S</HI></NOTE></L>
+<L>And in heuen itt fynd and haue. <NOTE PLACE="foot">236 haue and finde <HI REND="italic">C</HI></NOTE></L>
+<L>Þe tresore of men relygiouse</L>
+<L>Is pouert: þat is preciouse, <NOTE PLACE="foot">238 poruertt <HI REND="italic">A</HI></NOTE></L>
+<L>If itt come of a gode will <NOTE PLACE="foot">239 cum <HI REND="italic">S</HI> of a gude <HI REND="italic">C,</HI> of of a <HI REND="italic">S</HI></NOTE></L>
+<L>With-outen gruchyng loude or styll.</L>
+<L>Bott þe relygiouse þat loues his saule <NOTE PLACE="foot">241 louis <HI REND="italic">C,</HI> lufes <HI REND="italic">S</HI> h.] þe <HI REND="italic">S</HI></NOTE></L>
+<L>Suld take ensampell at saynt Paule <NOTE PLACE="foot">242 ensampil <HI REND="italic">C,</HI> ensaumpil <HI REND="italic">S</HI></NOTE></L>
+<L>And, als he dyd, þe werld forgett <NOTE PLACE="foot">243 as <HI REND="italic">S</HI></NOTE></L>
+<L>And all þat may relygioune lett.</L>
+<L><PB N="63" REF="10"/>
+Þir ar þe tuelfe abusyouns <MILESTONE N="245"/> <NOTE PLACE="foot">245 þes <HI REND="italic">S</HI></NOTE></L>
+<L>Þat groves in relygiouns.</L>
+<L>Þis tre suld þai nyght and day</L>
+<L>Be a-boute to hew a-way</L>
+<L>With his boghes and with his braunches <NOTE PLACE="foot">249 braunche <HI REND="italic">C,</HI> brounches <HI REND="italic">S</HI></NOTE></L>
+<L>Þat in relygioune makes dystaun∣ces, <MILESTONE N="250"/> <NOTE PLACE="foot">250 distaunce <HI REND="italic">C</HI></NOTE></L>
+<L>Whar þe saule suld duell in wilder∣nes, <NOTE PLACE="foot">251 Whore <HI REND="italic">S</HI> wildernece <HI REND="italic">C</HI></NOTE></L>
+<L>Þat has for-saken þe werkes of þe flesch. <NOTE PLACE="foot">252 sake <HI REND="italic">C</HI> werk <HI REND="italic">S</HI> fleschce <HI REND="italic">C</HI></NOTE></L>
+<L>Þis tre has poysound and broght doune <NOTE PLACE="foot">253 posond <HI REND="italic">S</HI></NOTE></L>
+<L>Many a man of relygioune.</L>
+</LG>
+<LG>
+<L>Ȝitt groves here in þis wilderness <MILESTONE N="255"/> <MILESTONE N="51b." UNIT="fol."/></L>
+<L>A tre of grete wykkedness <NOTE PLACE="foot">256 wyckidnes <HI REND="italic">S</HI></NOTE></L>
+<L>In tuelfe degrees of þis werlde, <NOTE PLACE="foot">257 degrece <HI REND="italic">C</HI></NOTE></L>
+<L>Als ilk-a day is sene and herde.</L>
+<L>Þe rotes of þis tre sees men sprede <NOTE PLACE="foot">259 roytes <HI REND="italic">S</HI></NOTE></L>
+<L>Ouer all þe werld on lengh and brede. <MILESTONE N="260"/> <NOTE PLACE="foot">260 lenght <HI REND="italic">S,</HI> hegh <HI REND="italic">C</HI></NOTE></L>
+<L>In hey states þis tre buriounes <NOTE PLACE="foot">261 hegh <HI REND="italic">S</HI></NOTE></L>
+<L>And all þe werld swa confundes; <NOTE PLACE="foot">262 þ. w. it so c. <HI REND="italic">S</HI></NOTE></L>
+<L>For be þis werld is our passage, <NOTE PLACE="foot">263 Fro <HI REND="italic">S</HI> be] þurgh <HI REND="italic">C, f. S</HI></NOTE></L>
+<L>By þe whilk we make pryualage; <NOTE PLACE="foot">264 priuelage <HI REND="italic">S,</HI> pilgremage <HI REND="italic">C</HI></NOTE></L>
+<L>For be þis way be-houes gange— <MILESTONE N="265"/> <NOTE PLACE="foot">265 vs g. <HI REND="italic">β</HI></NOTE></L>
+<L>Bott be wele ware, we ga not wrange! <NOTE PLACE="foot">266 b. we w. <HI REND="italic">S</HI> go <HI REND="italic">S</HI> noght <HI REND="italic">β</HI></NOTE></L>
+<L>Certis þis werld is nothyng elles <NOTE PLACE="foot">267 noght <HI REND="italic">C</HI></NOTE></L>
+<L>Bott wildernes, þat men in dwelles, <NOTE PLACE="foot">268 w. in wham (whom <HI REND="italic">S)</HI> m. d. <HI REND="italic">β</HI></NOTE></L>
+<L>And a stede of wrychednes,</L>
+<L>Of trauels, angers þat ay here es, <MILESTONE N="270"/> <NOTE PLACE="foot">270 trauails <HI REND="italic">β</HI></NOTE></L>
+<L>Of payne, of syn and of foly,</L>
+<L>Of senschypp and of velany, <NOTE PLACE="foot">272 vilany <HI REND="italic">C</HI></NOTE></L>
+<L>Of lettyng and of taryinge,</L>
+<L>Of frawardnes and of scornynge, <NOTE PLACE="foot">274 frawerdnes <HI REND="italic">C,</HI> frowardnes <HI REND="italic">S</HI></NOTE></L>
+<L>Of fylth and of corrupcioune, <MILESTONE N="275"/></L>
+<L>Of violence and of opprescioune,</L>
+<L>Of gyllori and of falshede, <NOTE PLACE="foot">277 gilliori <HI REND="italic">C</HI> falsede <HI REND="italic">C</HI></NOTE></L>
+<L>Of tresone, discorde and of drede,</L>
+<L>Of pompe and pryde and couatyse,</L>
+<L>Of vayne sleght and of qwayntyse. <MILESTONE N="280"/></L>
+<L>In þis werlde noght els we see</L>
+<L>Bot wrychednes and vanite.</L>
+<L>Þis is þe tre þat groves not euen, <NOTE PLACE="foot">283 es <HI REND="italic">S</HI></NOTE></L>
+<L>For itt groves dounward fra heuen. <NOTE PLACE="foot">284 fro <HI REND="italic">β</HI></NOTE></L>
+<L>Þe same tre þat no froyte walde bere, <MILESTONE N="285"/></L>
+<L>When itt was watterd all a ȝere, <NOTE PLACE="foot">286 was] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þis tre called Austyn in his sermouns</L>
+<L>Þe tre of tuelfe abusyouns,</L>
+<L>Þat groves and spredes in þis werlde here</L>
+<L>In tuelfe degrees, both fer and nere. <MILESTONE N="290"/> <NOTE PLACE="foot">290 bath <HI REND="italic">C</HI></NOTE></L>
+<L>Þe froyte of þis tre oft has marred</L>
+<L>And poysound many men of þe werld—</L>
+<L>Þat has bene in any degree</L>
+<L>Wryten in leves of þis tree.— <NOTE PLACE="foot">294 leffes <HI REND="italic">S</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis wildernes here groves <MILESTONE N="295"/> <MILESTONE N="52b." UNIT="fol."/> <NOTE PLACE="foot">295 groues <HI REND="italic">C</HI></NOTE></L>
+<L>A tre þat has fourtene boghes:</L>
+<L>Seuen on þe right syde for to rede—</L>
+<L>Þat ar þe seuen poyntes of þe god∣hede; <NOTE PLACE="foot">298 þ. is s. p. of þe crede <HI REND="italic">C</HI></NOTE></L>
+<L>And seuen apon þe left syde—þat es <NOTE PLACE="foot">299 on <HI REND="italic">S</HI></NOTE></L>
+<L>Seuen poyntes of þe manhede of his flesch. <MILESTONE N="300"/> <NOTE PLACE="foot">300 flec <HI REND="italic">C</HI></NOTE></L>
+<L>Þir ar ground of þe trouth to se, <NOTE PLACE="foot">301 þe gr. <HI REND="italic">C,</HI> grounded <HI REND="italic">S</HI></NOTE></L>
+<L>Þat founded is in þe trynite. <NOTE PLACE="foot">302 es <HI REND="italic">S</HI></NOTE></L>
+<L>For-why, als þe apostell telles, <NOTE PLACE="foot">303 apostil <HI REND="italic">C,</HI> gospell <HI REND="italic">S</HI></NOTE></L>
+<L>Criste in þe trouth ay duelles; <NOTE PLACE="foot">304 euermore d. <HI REND="italic">S</HI></NOTE></L>
+<L>Ande þe trouth is in þe thoght, <MILESTONE N="305"/> <NOTE PLACE="foot">305 A. in þ. t. <HI REND="italic">C</HI></NOTE></L>
+<L>And thoght is in þe hert broght;</L>
+<L>And þe hert is with-in þe breste, <NOTE PLACE="foot">307 breeste <HI REND="italic">C</HI></NOTE></L>
+<L>And þe body aboute itt neste;</L>
+<L>Ande þat is þe warde of þe castell <NOTE PLACE="foot">309 Ande] <HI REND="italic">f. β</HI> is] <HI REND="italic">f. S</HI> þe wall <HI REND="italic">S</HI></NOTE></L>
+<L>Of þe herte, whar trougth suld duell. <MILESTONE N="310"/> <NOTE PLACE="foot">310 whore <HI REND="italic">S</HI> trouth <HI REND="italic">S</HI></NOTE></L>
+<L>For men suld on þis maner wirke</L>
+<L>Thurgh þe trouth and be noght irke.</L>
+<L>Right trouth, als says þis clerkes, <NOTE PLACE="foot">313 as <HI REND="italic">S</HI> þir <HI REND="italic">C</HI></NOTE></L>
+<L>Is be-gynnyng of all gode werkes. <NOTE PLACE="foot">314 gude <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="64" REF="11"/>
+Trouth with-outen werkes is ded, <MILESTONE N="315"/> <NOTE PLACE="foot">315 es <HI REND="italic">C</HI> deede <HI REND="italic">C</HI></NOTE></L>
+<L>Of all gude werkes itt is þe hed; <NOTE PLACE="foot">316 gude <HI REND="italic">S</HI> heede <HI REND="italic">C,</HI> heued <HI REND="italic">S</HI></NOTE></L>
+<L>Thurgh werkes anly na man may— <NOTE PLACE="foot">317 onely <HI REND="italic">S</HI> no <HI REND="italic">S</HI></NOTE></L>
+<L>With-outen trouth—god wele pay.</L>
+<L>Þar-for we suld trow in mynde</L>
+<L>In his manhede of our kynde. <MILESTONE N="320"/></L>
+<L>For men suld trow with all þar myght <NOTE PLACE="foot">321 þe m. <HI REND="italic">S</HI></NOTE></L>
+<L>In his manhede day and nyght, <NOTE PLACE="foot">322 bath d. <HI REND="italic">C,</HI> both d. <HI REND="italic">S</HI></NOTE></L>
+<L>Þat Jesu Criste of myghtes maste <NOTE PLACE="foot">323 moste <HI REND="italic">S</HI></NOTE></L>
+<L>Was consaued thurgh þe haly gaste <NOTE PLACE="foot">324 W. conceyued of þe holy goste <HI REND="italic">S</HI></NOTE></L>
+<L>And of a virgyn, Mary, borne— <MILESTONE N="325"/></L>
+<L>Elles had we all bene for-lorne;</L>
+<L>And for to trow arly and late <NOTE PLACE="foot">327 A. we sall t. <HI REND="italic">C</HI></NOTE></L>
+<L>Þat Criste tholed vnder Pounce Pilate</L>
+<L>Mikell reproue and vilany <NOTE PLACE="foot">329 Mikil <HI REND="italic">C,</HI> Mekill <HI REND="italic">S</HI> velany <HI REND="italic">S</HI></NOTE></L>
+<L>And ded thurgh þe Iues envy; <MILESTONE N="330"/> <NOTE PLACE="foot">330 d.] <HI REND="italic">f. S</HI> Jewes <HI REND="italic">β</HI></NOTE></L>
+<L>And—als swa as I schew ȝow now— <NOTE PLACE="foot">331 als so <HI REND="italic">C,</HI> also <HI REND="italic">S</HI> os <HI REND="italic">S</HI></NOTE></L>
+<L>In all haly kyrke to trow, <NOTE PLACE="foot">332 holy <HI REND="italic">S</HI> k. sal we t. <HI REND="italic">C</HI></NOTE></L>
+<L>And we sall trow, if we vs kepe</L>
+<L>To commun with all haly felaw∣schepe. <NOTE PLACE="foot">334 common <HI REND="italic">β</HI> a. his] <HI REND="italic">f. S</HI> felyschipe <HI REND="italic">C,</HI> felischepe <HI REND="italic">S</HI></NOTE></L>
+<L>Þis tre be-houes be rotede wele <MILESTONE N="335"/> <NOTE PLACE="foot">335 t. bus be r. w. <HI REND="italic">β</HI></NOTE></L>
+<L>In our faith, if we will fele</L>
+<L>And taste þe froyte of itt in heuen:</L>
+<L>Þat is þ-ioy þat nane kane neuen. <NOTE PLACE="foot">338 no man <HI REND="italic">S</HI></NOTE></L>
+</LG>
+<LG>
+<L>Ȝitt standes þar in þis foreste fayre <MILESTONE N="53b." UNIT="fol."/> <NOTE PLACE="foot">339 Ȝ. her st. <HI REND="italic">S</HI> þ.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>A tre þat groves vp to þe ayre; <MILESTONE N="340"/></L>
+<L>Þat has fourtene braunches bryght, <NOTE PLACE="foot">341 haues <HI REND="italic">C</HI> broun∣ches <HI REND="italic">S u. i.</HI></NOTE></L>
+<L>Seuen on þe left syde and seuen on þe right.</L>
+<L>Þe rottes of þis tre euer to last <NOTE PLACE="foot">343 Thre roytes <HI REND="italic">S</HI></NOTE></L>
+<L>In haly kyrke er festend fast <NOTE PLACE="foot">344 holy <HI REND="italic">S</HI> er] <HI REND="italic">f. S</HI></NOTE></L>
+<L>And in þe hertes of haly men, <MILESTONE N="345"/> <NOTE PLACE="foot">345 holy <HI REND="italic">S</HI></NOTE></L>
+<L>Þat couaytes vertuse to kene. <NOTE PLACE="foot">346 v. for t. k. <HI REND="italic">S</HI></NOTE></L>
+<L>Of þe poyntes of trouth, þat men to tentes, <NOTE PLACE="foot">347 of þe tr. <HI REND="italic">S</HI></NOTE></L>
+<L>Hynges all þe seuen sacramentes,</L>
+<L>In þe whilk men aw to trow, <NOTE PLACE="foot">349 ogh <HI REND="italic">S</HI></NOTE></L>
+<L>Þat in þe tre groveand ar now. <MILESTONE N="350"/> <NOTE PLACE="foot">350 growande <HI REND="italic">C,</HI> gr. <HI REND="italic">nach</HI> er <HI REND="italic">S</HI></NOTE></L>
+<L>Baptem fyrste is called ane, <NOTE PLACE="foot">351 Baptyme <HI REND="italic">S</HI> one <HI REND="italic">S</HI></NOTE></L>
+<L>Þat is taken at þe fountstane. <NOTE PLACE="foot">352 þ. falles at þe founte to be tane <HI REND="italic">C,</HI> þ. falles to be tane at þe fontstone <HI REND="italic">S</HI></NOTE></L>
+<L>Þe secunde is to vnderstande <NOTE PLACE="foot">353 A-nothere <HI REND="italic">β</HI></NOTE></L>
+<L>Confermyng of byschope-hande.</L>
+<L>Þe thyrd is penaunce mare or les. <MILESTONE N="355"/> <NOTE PLACE="foot">355 more <HI REND="italic">β</HI></NOTE></L>
+<L>Þe ferth is þe sacrament of þe mes.</L>
+<L>Þe fyft is ordur of gret myght. <NOTE PLACE="foot">357 order <HI REND="italic">C,</HI> ordir <HI REND="italic">S</HI></NOTE></L>
+<L>Þe sext is matrymone ryght. <NOTE PLACE="foot">358 ful r. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent is last a-noyntynge: <NOTE PLACE="foot">359 þe laste enoyntyng <HI REND="italic">S</HI></NOTE></L>
+<L>Þir seuen in our trouth suld hynge <MILESTONE N="360"/></L>
+<L>With haly werkes, þat strenghes wele, <NOTE PLACE="foot">361 holy <HI REND="italic">S</HI></NOTE></L>
+<L>And gode vertus, als we may fele, <NOTE PLACE="foot">362 gude <HI REND="italic">β u. ö.</HI></NOTE></L>
+<L>And namely with þir vertuse seuen</L>
+<L>Þat in þis tre groves vpward euen, <NOTE PLACE="foot">364 heuene <HI REND="italic">C,</HI> seuen <HI REND="italic">S</HI></NOTE></L>
+<L>Þat is fayth, hope and charyte <MILESTONE N="365"/></L>
+<L>And sleght þat thurgh grace bus be, <NOTE PLACE="foot">366 þ.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Methfulnes, strenght and ryght∣wisnes, <NOTE PLACE="foot">367 Meknes <HI REND="italic">S</HI> strengh <HI REND="italic">β</HI> ue(r)tues <HI REND="italic">C</HI></NOTE></L>
+<L>Thurgh whilk ilk gode man gouernd es.</L>
+<L>Þir thre deuyne vertus men calles—</L>
+<L>And þir four efter—cardynalles. <MILESTONE N="370"/> <NOTE PLACE="foot">370 þe f. <HI REND="italic">C</HI> eftir <HI REND="italic">S</HI></NOTE></L>
+<L>Dyuyne men calles þe fyrst thre,</L>
+<L>Fayth and hope and charyte; <NOTE PLACE="foot">372 Trouth <HI REND="italic">S</HI> a.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>For þir thre ordayns specialy</L>
+<L>All þe hert to god all-myghty. <NOTE PLACE="foot">374 h. of man <HI REND="italic">S</HI></NOTE></L>
+<L>He þat had þir vertus all, <MILESTONE N="375"/></L>
+<L>A perfite man men myght hym call;</L>
+<L>For why? he suld be in gode wharte <NOTE PLACE="foot">377 qwy <HI REND="italic">S</HI> qwerte <HI REND="italic">β</HI></NOTE></L>
+<L>And ay at rest in pees of herte;</L>
+<L>Þan suld hym faylle here na thyng, <NOTE PLACE="foot">379 þen <HI REND="italic">S</HI> nothing <HI REND="italic">S</HI></NOTE></L>
+<L>Þat gode ware to his lyuyng. <MILESTONE N="380"/> <NOTE PLACE="foot">380 wer <HI REND="italic">S</HI> lyffyng <HI REND="italic">S</HI></NOTE></L>
+<L>Þis is þe tre of þe sacramentes</L>
+<L>And þe vertuse þat men to tentes,</L>
+<L>Þat men sall excuse and saue</L>
+<L>And bryng to blys, als god vouch∣saue.</L>
+</LG>
+<LG>
+<PB N="65" REF="12"/>
+<L>Here in þis foreste and in þis <MILESTONE N="54b." UNIT="fol."/> firthe <MILESTONE N="385"/> <NOTE PLACE="foot">385 fryrthe <HI REND="italic">A,</HI> fryth <HI REND="italic">S</HI></NOTE></L>
+<L>Groves a tre þat getes men girthe: <NOTE PLACE="foot">386 gryrthe <HI REND="italic">A,</HI> gryth <HI REND="italic">S</HI></NOTE></L>
+<L>Þe tre of mercy men itt calles, <NOTE PLACE="foot">387 c. righte <HI REND="italic">C</HI></NOTE></L>
+<L>And of pite, þat to all cristen falles. <NOTE PLACE="foot">388 Þe tre of pite also it highte <HI REND="italic">C,</HI> And of pite to þam þat falles <HI REND="italic">S</HI></NOTE></L>
+<L>Of þe tre of mercy, als telles clerkes, <NOTE PLACE="foot">389 t. þis c. <HI REND="italic">β</HI></NOTE></L>
+<L>On ayther syde groves seuen werkes; <NOTE PLACE="foot">390 ather <HI REND="italic">C</HI> grous <HI REND="italic">C</HI></NOTE></L>
+<L>On þe right syde gastely sprynges, <NOTE PLACE="foot">391 g. werks s. <HI REND="italic">C</HI></NOTE></L>
+<L>And on þe lyft syde bodely hynges, <NOTE PLACE="foot">392 left <HI REND="italic">β</HI> bodely bodily werks h. <HI REND="italic">C</HI></NOTE></L>
+<L>Þe whilk I will rekken on raw—</L>
+<L>Þe gastely werkes ar to knaw: <NOTE PLACE="foot">394 er þer t. <HI REND="italic">β</HI> know <HI REND="italic">S</HI></NOTE></L>
+<L>Þe fyrst gastely werke es <MILESTONE N="395"/> <NOTE PLACE="foot">395 w. þis e. <HI REND="italic">C,</HI> w. it is <HI REND="italic">S</HI></NOTE></L>
+<L>To counsayle þaim þat ar redeles. <NOTE PLACE="foot">396 To comforth <HI REND="italic">C</HI> er <HI REND="italic">C</HI> To counsell þam þat redles is <HI REND="italic">S</HI></NOTE></L>
+<L>Þe secunde es at vnderstande <NOTE PLACE="foot">397 A nother <HI REND="italic">S</HI></NOTE></L>
+<L>To teche and lere þe vnconande.</L>
+<L>Þe thyrd werk als-swa es þis: <NOTE PLACE="foot">399 also <HI REND="italic">β</HI> es <HI REND="italic">S</HI></NOTE></L>
+<L>To chasty þaim þat dose a-mys. <MILESTONE N="400"/> <NOTE PLACE="foot">400 þam <HI REND="italic">S</HI></NOTE></L>
+<L>Þe ferth is to do solase <NOTE PLACE="foot">401 es <HI REND="italic">S</HI> solace <HI REND="italic">C</HI></NOTE></L>
+<L>And comforth þaim þat anger hase. <NOTE PLACE="foot">402 A. to c. <HI REND="italic">C</HI> þam <HI REND="italic">S</HI> hace <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fift es here for to forgefe <NOTE PLACE="foot">403 es <HI REND="italic">S</HI> forgyfe <HI REND="italic">S</HI></NOTE></L>
+<L>Þaim þat hase vs done forgrefe. <NOTE PLACE="foot">404 vs h. <HI REND="italic">C,</HI> til vs h. <HI REND="italic">S</HI> grife <HI REND="italic">C,</HI> grefe <HI REND="italic">S</HI></NOTE></L>
+<L>Þe sext es in herte to haue pite <MILESTONE N="405"/> <NOTE PLACE="foot">405 es <HI REND="italic">C, f. S</HI></NOTE></L>
+<L>Of þaim þat we in anger se. <NOTE PLACE="foot">406 þam <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent is, with-outen faynteys, <NOTE PLACE="foot">407 fantesie <HI REND="italic">C,</HI> quayntyse <HI REND="italic">S</HI></NOTE></L>
+<L>To pray ilk day for our enmys.</L>
+<L>On þe left syde sprynges other seuen,</L>
+<L>Þat ar bodyly werkes to neuen. <MILESTONE N="410"/> <NOTE PLACE="foot">410 er bodely <HI REND="italic">S</HI></NOTE></L>
+<L>Twa es: hungry and thyrsthy to fede <NOTE PLACE="foot">411 Two es þe h. <HI REND="italic">S</HI> is <HI REND="italic">C</HI> thristi <HI REND="italic">C,</HI> thresty <HI REND="italic">S</HI></NOTE></L>
+<L>With mete and drynke, þat has nede.</L>
+<L>Þe thryde es:ay, when nede ware, <NOTE PLACE="foot">413 þe thirde is <HI REND="italic">C,</HI> Anoþer es <HI REND="italic">S</HI></NOTE></L>
+<L>To cleth þaim þat ar naked and bare. <NOTE PLACE="foot">414 þam <HI REND="italic">S</HI> nakyd <HI REND="italic">S</HI></NOTE></L>
+<L>Þe ferth, als man vnderstandes: <MILESTONE N="415"/> <NOTE PLACE="foot">415 f. is a. <HI REND="italic">β</HI></NOTE></L>
+<L>To viset þe ligand in godes bandes. <NOTE PLACE="foot">416 godis <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fift es: pore men to herbar <NOTE PLACE="foot">417 is <HI REND="italic">S</HI> her∣bere <HI REND="italic">C</HI></NOTE></L>
+<L>And pore pilgryms, þat walkes far. <NOTE PLACE="foot">418 p.] <HI REND="italic">f. S</HI> fere <HI REND="italic">C,</HI> fair <HI REND="italic">S</HI></NOTE></L>
+<L>Þe sext es, als in boke is founden: <NOTE PLACE="foot">419 is <HI REND="italic">S</HI> buk <HI REND="italic">C</HI> fundene <HI REND="italic">C,</HI> fon∣den <HI REND="italic">S</HI></NOTE></L>
+<L>To vysett presouns þat ar boun∣den. <MILESTONE N="420"/> <NOTE PLACE="foot">420 presoners <HI REND="italic">C</HI> er <HI REND="italic">S</HI> bundene <HI REND="italic">C,</HI> bonden <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent is: to bery þe ded—</L>
+<L>þe saules in payn may stand in sted, <NOTE PLACE="foot">422 To s. <HI REND="italic">S</HI></NOTE></L>
+<L>Als men may here in sentence say</L>
+<L>God hym seluen on dome day, <NOTE PLACE="foot">424 Þat gode selfe <HI REND="italic">C</HI> domes <HI REND="italic">S</HI></NOTE></L>
+<L>When he sall deme to hell or heuen— <MILESTONE N="425"/> <NOTE PLACE="foot">425 or] and <HI REND="italic">S,</HI> and to <HI REND="italic">C</HI></NOTE></L>
+<L>Þir werkes of mercy sall he neuen. <NOTE PLACE="foot">426 Þere wordes o. m. <HI REND="italic">C</HI> h.] <HI REND="italic">f. C</HI></NOTE> <NOTE PLACE="foot">425-426 <HI REND="italic">umgestellt C</HI></NOTE></L>
+</LG>
+<LG>
+<L>Here groves in þis forest a tre <MILESTONE N="55b." UNIT="fol."/> <NOTE PLACE="foot">427 þ. deserte <HI REND="italic">β</HI></NOTE></L>
+<L>Þat Crist sett thurgh his sciens sle</L>
+<L>On þe mounte of Synay for to grew, <NOTE PLACE="foot">429 of] <HI REND="italic">f. S</HI> grofe <HI REND="italic">S</HI></NOTE></L>
+<L>Bath in þe ald law and in þe new. <MILESTONE N="430"/> <NOTE PLACE="foot">430 Both <HI REND="italic">S</HI> olde lagh a. in n. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe rote of þis tre is full swete <NOTE PLACE="foot">431 royte <HI REND="italic">S</HI></NOTE></L>
+<L>And full delycius for to ete.</L>
+<L>Þat ar þe commaundmentes ten,</L>
+<L>Þat ar boden to all cristen men. <NOTE PLACE="foot">434 er bedene to a. c. m. <HI REND="italic">C,</HI> er gyfen til c. m. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe first is—with-outen erroure— <MILESTONE N="435"/></L>
+<L>Þat þu sall na fals goddes honoure. <NOTE PLACE="foot">436 s.] <HI REND="italic">f. S</HI> no f. godis <HI REND="italic">S</HI></NOTE></L>
+<L>Þe secunde is, trew and certayne: <NOTE PLACE="foot">437 Anoþer <HI REND="italic">S</HI> certane <HI REND="italic">C</HI></NOTE></L>
+<L>Þou sall noght take godes name in vayne.</L>
+<L>Þe thryd is: þi haly day þu kepe. <NOTE PLACE="foot">439 thirde <HI REND="italic">C</HI> to k. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe ferth: þi fader and moder wor∣schepe. <MILESTONE N="440"/> <NOTE PLACE="foot">440 modir <HI REND="italic">β</HI> worschipe <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fift: þu sla na man wilfully. <NOTE PLACE="foot">441 slo <HI REND="italic">S</HI> no <HI REND="italic">β</HI></NOTE></L>
+<L>Þe sext: with na woman do foly. <NOTE PLACE="foot">442 no w. þu d. f. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent: stele noght þat other mens es.</L>
+<L>Þe aghtent: bere no fals wittnes. <NOTE PLACE="foot">444 aghten <HI REND="italic">S</HI></NOTE></L>
+<L>Þe neyent: loke þou covayt noght <MILESTONE N="445"/> <NOTE PLACE="foot">445 nehint <HI REND="italic">C</HI></NOTE></L>
+<L>Þi neghbur wyfe thurgh dede ne thoght.</L>
+<L>Þe tent: covait noght, whar þu gase, <NOTE PLACE="foot">447 whore <HI REND="italic">S</HI></NOTE></L>
+<L>Na thyng þat þi neghbur hase. <NOTE PLACE="foot">448 Nothing <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="66" REF="13"/>
+Þir ten commaundmentes on raw</L>
+<L>Ar taken oute of þe ald law <MILESTONE N="450"/> <NOTE PLACE="foot">450 Er <HI REND="italic">C,</HI> Is <HI REND="italic">S</HI> olde <HI REND="italic">S</HI></NOTE></L>
+<L>And closed in twa of þe new, <NOTE PLACE="foot">451 two <HI REND="italic">S</HI></NOTE></L>
+<L>Þat in þe rote þu se grew, <NOTE PLACE="foot">452 Þ. next þe rude þu mai s. g. <HI REND="italic">C,</HI> Þ. in þe royte þu may s. g. <HI REND="italic">S</HI></NOTE></L>
+<L>Þat is: þu lufe god þat þe boght <NOTE PLACE="foot">453 loue <HI REND="italic">C</HI></NOTE></L>
+<L>With all þi hert and all þi thoght</L>
+<L>And all þi vertu and all þi witt <MILESTONE N="455"/> <NOTE PLACE="foot">455 and þi w. <HI REND="italic">S</HI></NOTE></L>
+<L>And all þi mynde to-gedyr knytt.</L>
+<L>Þis tre groveand standes ay nere <NOTE PLACE="foot">457 grouande <HI REND="italic">C,</HI> grofand <HI REND="italic">S</HI></NOTE></L>
+<L>Þe course þat rennes fra þe gode ryuere. <NOTE PLACE="foot">458 reuere <HI REND="italic">S</HI></NOTE></L>
+<L>Þar-for he gyfes in gode sesoune</L>
+<L>His froyte to ilk-a nacioune. <MILESTONE N="460"/></L>
+<L>Þe froyte þat groves apon þis tre <NOTE PLACE="foot">461 on <HI REND="italic">C</HI></NOTE></L>
+<L>Was gyfen to Moyses menȝe, <NOTE PLACE="foot">462 menyȝe <HI REND="italic">S</HI></NOTE></L>
+<L>Þat duelled in wildernes, <NOTE PLACE="foot">463 dulled <HI REND="italic">A</HI> dwellande ware <HI REND="italic">C</HI> in þe w. <HI REND="italic">S</HI></NOTE></L>
+<L>Was fourty ȝere and na les. <NOTE PLACE="foot">464 W. f. ȝ. als clekes witt∣nes <HI REND="italic">C</HI></NOTE></L>
+<L>Þis tre is roted swa fast <MILESTONE N="465"/> <NOTE PLACE="foot">465 so <HI REND="italic">β</HI></NOTE></L>
+<L>Þat na wynd doune may it cast. <NOTE PLACE="foot">466 no <HI REND="italic">S</HI></NOTE></L>
+<L>If his rotes in þis forest <NOTE PLACE="foot">467 roytes <HI REND="italic">S</HI></NOTE></L>
+<L>Stalworthly be knytt and fest, <NOTE PLACE="foot">468 knytted <HI REND="italic">S</HI></NOTE></L>
+<L>Þan may it spryng and sprede and grew <NOTE PLACE="foot">469 Þen <HI REND="italic">S</HI> grofe <HI REND="italic">S</HI> sp. in fere <HI REND="italic">C</HI></NOTE></L>
+<L>And burion and bere fair froit and new. <MILESTONE N="470"/> <NOTE PLACE="foot">470 A. borione and bere froite ful dere <HI REND="italic">C</HI> fair] <HI REND="italic">f. S</HI> now <HI REND="italic">S</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis gastely foreste groves <MILESTONE N="56b." UNIT="fol."/></L>
+<L>A tre þat hase bot fyue boghes <NOTE PLACE="foot">472 bowes <HI REND="italic">S</HI></NOTE></L>
+<L>And fyue leves, þat ar sene <NOTE PLACE="foot">473 lefes <HI REND="italic">S</HI> er grene <HI REND="italic">C</HI></NOTE></L>
+<L>Wynter and somer elyke grene.</L>
+<L>If þis tre be sadly sett <MILESTONE N="475"/></L>
+<L>And fra enmys grathly gett, <NOTE PLACE="foot">476 fro <HI REND="italic">S</HI> grartly <HI REND="italic">S</HI></NOTE></L>
+<L>Þar is nathyng man-saule may greve, <NOTE PLACE="foot">477 nothing <HI REND="italic">S</HI></NOTE></L>
+<L>Bot if þis tre graunt þaim leve.</L>
+<L>Þir fyue leves hase office sere, <NOTE PLACE="foot">479 f. verteus <HI REND="italic">β</HI></NOTE></L>
+<L>Þat men kepes on sere manere. <MILESTONE N="480"/></L>
+<L>Þis philozophurs, þat war wyse, <NOTE PLACE="foot">481 philosophers <HI REND="italic">S,</HI> phylofofers <HI REND="italic">A</HI> were <HI REND="italic">S</HI></NOTE></L>
+<L>Of þaim spekes apon þis wyse: <NOTE PLACE="foot">482 Of þam s. and þus saise <HI REND="italic">S</HI></NOTE></L>
+<L>Fra vanytes with all þi myght,</L>
+<L>Þat ar vnlefull, kepe þi syght;</L>
+<L>Fra vnlefull heryng þin eres <MILESTONE N="485"/></L>
+<L>Kepe and ditt man-saule þat deres;</L>
+<L>Þi nese fra all vnlefulnes <NOTE PLACE="foot">487 neese fro v. <HI REND="italic">S</HI></NOTE></L>
+<L>Of smellyng wele kepe with stres. <NOTE PLACE="foot">488 s. þou k. w. <HI REND="italic">S</HI></NOTE></L>
+<L>Be wise in hert ouer all thyng</L>
+<L>To kepe þi mouth fra vayn spek∣yng. <MILESTONE N="490"/></L>
+<L>Kepe þi fete fra wanton wayes, <NOTE PLACE="foot">491 fote fro <HI REND="italic">S</HI> wantons <HI REND="italic">C</HI></NOTE></L>
+<L>Bath be nyghtes and be dayes. <NOTE PLACE="foot">492 bi d. <HI REND="italic">C</HI></NOTE></L>
+<L>Fra thyng þat is vnlefull <NOTE PLACE="foot">493 vnmedfull <HI REND="italic">S</HI></NOTE></L>
+<L>To kepe þi hend is nedefull.</L>
+<L>All þat god bath lofes and hates <MILESTONE N="495"/> <NOTE PLACE="foot">495 both <HI REND="italic">S</HI> lufes <HI REND="italic">β</HI></NOTE></L>
+<L>In hert and oute gase be þir ȝates. <NOTE PLACE="foot">496 h.] <HI REND="italic">f. S</HI> by þer <HI REND="italic">S</HI></NOTE></L>
+<L>Þir ar þe fyue nobill besaundes, <NOTE PLACE="foot">497 þe] <HI REND="italic">f. C</HI> fiues <HI REND="italic">C</HI> noble <HI REND="italic">S</HI></NOTE></L>
+<L>Þat our lord be-taght to his ser∣uaundes,</L>
+<L>Þat, whar a seruaunt of þaim toke <NOTE PLACE="foot">499 whore one of þam t. <HI REND="italic">S</HI></NOTE></L>
+<L>And dowbell þaim, als says þe boke, <MILESTONE N="500"/> <NOTE PLACE="foot">500 dowbeld <HI REND="italic">C,</HI> doubill <HI REND="italic">S</HI> þam <HI REND="italic">S</HI></NOTE></L>
+<L>He gafe hym powere and hym made <NOTE PLACE="foot">501 g. þam p. a. þam m. <HI REND="italic">S</HI></NOTE></L>
+<L>Keper ouer ten citees brade.</L>
+<L>A castell mannes hert is called,</L>
+<L>Þat with vertuse wele is walled;</L>
+<L>Or els a cite þat hase gates: <MILESTONE N="505"/> <NOTE PLACE="foot">505 ellis <HI REND="italic">C,</HI> elles <HI REND="italic">S</HI></NOTE></L>
+<L>Þir fyue be-takens þe ȝates, <NOTE PLACE="foot">506 betokens <HI REND="italic">S</HI></NOTE></L>
+<L>Be þe whilk men gase oute or in, <NOTE PLACE="foot">507 By <HI REND="italic">S</HI> gos o. and inne <HI REND="italic">S</HI></NOTE></L>
+<L>Or þai þe cite lose or wyn.</L>
+<L>For if þe gates of any cite <NOTE PLACE="foot">509 þe ȝate <HI REND="italic">C,</HI> ȝates <HI REND="italic">S,</HI> þaites <HI REND="italic">A</HI></NOTE></L>
+<L>Be wele sperd, als þai suld be, <MILESTONE N="510"/> <NOTE PLACE="foot">510 sparde <HI REND="italic">C</HI> s. w. os þam ogh to be <HI REND="italic">S</HI></NOTE></L>
+<L>Þar is na enmys þat may dere <NOTE PLACE="foot">511 nane <HI REND="italic">C,</HI> none <HI REND="italic">S</HI></NOTE></L>
+<L>Nane þat with-in þe cite ere. <NOTE PLACE="foot">512 None <HI REND="italic">S</HI> were <HI REND="italic">S</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis forest ȝitt groves a tre, <MILESTONE N="57b." UNIT="fol."/> <NOTE PLACE="foot">513 ȝ.] <HI REND="italic">f. β</HI></NOTE></L>
+<L>Als telles þe boke of pryuete, <NOTE PLACE="foot">514 buk <HI REND="italic">C</HI> pry∣uate <HI REND="italic">S</HI></NOTE></L>
+<L>Þat god, þat is maste of myght, <MILESTONE N="515"/> <NOTE PLACE="foot">515 moste <HI REND="italic">S</HI></NOTE></L>
+<L>Þus says to hym þat kepes itt ryght: <NOTE PLACE="foot">516 til h. <HI REND="italic">C</HI> kepis <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="67" REF="14"/>
+I gyfe þe to ete—with-outen stryfe— <NOTE PLACE="foot">517 g. to þe mete w. o. s. <HI REND="italic">S</HI></NOTE></L>
+<L>Of þe froyte þat sprynges of þe tre of lyfe,</L>
+<L>Þat standes in-myddes paradyse. <NOTE PLACE="foot">519 Þ. is in <HI REND="italic">S</HI></NOTE></L>
+<L>Itt passes all þe froyt of pryse. <MILESTONE N="520"/> <NOTE PLACE="foot">520 For it p. <HI REND="italic">C,</HI> þat p. <HI REND="italic">S</HI></NOTE></L>
+<L>And he þat kepes noght þis tre,</L>
+<L>Of þat gude froyt sall noght se. <NOTE PLACE="foot">521-522] <HI REND="italic">f. β</HI></NOTE></L>
+<L>For who sa is synfull and ill, <NOTE PLACE="foot">523 who <HI REND="italic">S</HI> is so <HI REND="italic">C,</HI> so es <HI REND="italic">S</HI></NOTE></L>
+<L>Þir thre names he beres be skill:</L>
+<L>Godes thefe and thefes fere <MILESTONE N="525"/> <NOTE PLACE="foot">525 Godis <HI REND="italic">S</HI> þefis <HI REND="italic">S</HI></NOTE></L>
+<L>And mortherer of his doghter dere</L>
+<L>And godes traytor men hym calles, <NOTE PLACE="foot">527 godis <HI REND="italic">S</HI></NOTE></L>
+<L>Þe synfull man, þat in syn falles.</L>
+<L>First godes thefe he may be knawen; <NOTE PLACE="foot">529 goodis <HI REND="italic">β,</HI> god <HI REND="italic">A</HI></NOTE></L>
+<L>For he wastes þat is noght his awen, <MILESTONE N="530"/></L>
+<L>Þat he hym tok to kepe and welde, <NOTE PLACE="foot">531 Þer <HI REND="italic">S</HI></NOTE></L>
+<L>Of þe whilk hym buse a counte ȝelde. <NOTE PLACE="foot">532 acount <HI REND="italic">C,</HI> countes <HI REND="italic">S</HI></NOTE></L>
+<L>Mortherer he hym self mase, <NOTE PLACE="foot">533 Murthirher <HI REND="italic">S</HI></NOTE></L>
+<L>Þat thurgh syn his saule slase;</L>
+<L>For god ordayned it to blys, <MILESTONE N="535"/> <NOTE PLACE="foot">534-535] <HI REND="italic">f. S</HI></NOTE> <NOTE PLACE="foot">535 And puttis it fra goddis seruice <HI REND="italic">C</HI></NOTE></L>
+<L>Þat thurgh grace his doghter ys. <NOTE PLACE="foot">536 d. was <HI REND="italic">S</HI></NOTE></L>
+<L>Godes traytor he is be resone; <NOTE PLACE="foot">537 Goddis <HI REND="italic">C</HI></NOTE></L>
+<L>For he dose god grett tresone,</L>
+<L>When he ȝeldes to þe fende haly— <NOTE PLACE="foot">539 ȝeldis <HI REND="italic">β</HI> holy <HI REND="italic">S</HI></NOTE></L>
+<L>Þat is godes maste enmy— <MILESTONE N="540"/> <NOTE PLACE="foot">540 goddis <HI REND="italic">C</HI> es godis most <HI REND="italic">S</HI></NOTE></L>
+<L>Þe castell of his hert so qweme, <NOTE PLACE="foot">541 wheme <HI REND="italic">S</HI></NOTE></L>
+<L>Þe whilk god toke hym for to ȝeme. <NOTE PLACE="foot">542 tuk god <HI REND="italic">C</HI></NOTE></L>
+<L>For he þat in schryfe his hert lawes <NOTE PLACE="foot">543 schryfte <HI REND="italic">S</HI> laghes <HI REND="italic">S</HI></NOTE></L>
+<L>Spekes to god, þat itt wele knawes.</L>
+<L>For þe preste, þat is of schryfte herer, <MILESTONE N="545"/></L>
+<L>In schryfte is called goddes awn er. <NOTE PLACE="foot">546 godis <HI REND="italic">S</HI></NOTE></L>
+<L>Þis tre sprynges of a mannes hert, <NOTE PLACE="foot">547 Þes thre <HI REND="italic">S</HI> a] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þat vn-to god is convert <NOTE PLACE="foot">548 couerte <HI REND="italic">C</HI></NOTE></L>
+<L>Fra all wikkednes and his synnes, <NOTE PLACE="foot">549 syne <HI REND="italic">C</HI></NOTE></L>
+<L>When he with sare herte on þaim mynnes <MILESTONE N="550"/> <NOTE PLACE="foot">550 sore <HI REND="italic">S</HI> þam <HI REND="italic">S</HI> myne <HI REND="italic">C</HI></NOTE></L>
+<L>And schryfes hym clene and tase pennance <NOTE PLACE="foot">551 schriues <HI REND="italic">β</HI> takes <HI REND="italic">S</HI></NOTE></L>
+<L>And for þaim haues verray repen∣taunce <NOTE PLACE="foot">552 þam <HI REND="italic">S</HI> hase <HI REND="italic">C,</HI> haldes <HI REND="italic">S</HI> vrai <HI REND="italic">C</HI></NOTE></L>
+<L>And thynkes na mare to do þa synnes;</L>
+<L>Þis tre to florysch þan be-gynnes. <NOTE PLACE="foot">554 þen <HI REND="italic">S</HI></NOTE></L>
+<L>Þe froyte is satisfaccioune. <MILESTONE N="555"/></L>
+<L>Þat commes oute of confescioune.</L>
+</LG>
+<LG>
+<L>In þis forest groves a-nother tre, <MILESTONE N="58b." UNIT="fol."/> <NOTE PLACE="foot">557 n.] <HI REND="italic">f. C</HI></NOTE></L>
+<L>Þat in wyldernes sprynges full hee,</L>
+<L>Þe whilk tre, als I vnderstande, <NOTE PLACE="foot">559 a.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Sathanas sett itt with his hande. <MILESTONE N="560"/> <NOTE PLACE="foot">560 i.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>In þe fyrst braunche þu may se <NOTE PLACE="foot">561 m. þu s. <HI REND="italic">C</HI></NOTE></L>
+<L>Sex thynges, þat ar gode to fle.</L>
+<L>Þir sex ar full mykell in vse,</L>
+<L>Þat gode begynnyng of lyfe for-dose. <NOTE PLACE="foot">564 duse <HI REND="italic">C</HI></NOTE></L>
+<L>Ane is dasynes of hert anely, <MILESTONE N="565"/> <NOTE PLACE="foot">565 One es dulnes o. h. only <HI REND="italic">S</HI></NOTE></L>
+<L>Þe secunde is tendernes of body, <NOTE PLACE="foot">566 Þe <HI REND="italic">nachträglich hinzu∣gefügt A</HI> A-noþer <HI REND="italic">β</HI> tendirnes <HI REND="italic">S</HI></NOTE></L>
+<L>Þe thryd is idelnes of man in qwart, <NOTE PLACE="foot">567 thirde <HI REND="italic">C</HI> is] <HI REND="italic">f. S</HI> qwert <HI REND="italic">S</HI></NOTE></L>
+<L>Þe ferth is hevines of hert, <NOTE PLACE="foot">568 heuenes <HI REND="italic">S</HI> harte <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fift is lythernes of hert with-in,</L>
+<L>Þe sext is arghnes to be-gyn. <MILESTONE N="570"/></L>
+<L>Other sex in a braunche ar sett, <NOTE PLACE="foot">571 Othir <HI REND="italic">S</HI> in braunches er <HI REND="italic">β</HI></NOTE></L>
+<L>þat amendment of life may lett, <NOTE PLACE="foot">572 <HI REND="italic">zwischen</HI> 578 <HI REND="italic">und</HI> 579 <HI REND="italic">A</HI></NOTE> <NOTE PLACE="foot">572 reklisnes <HI REND="italic">C</HI></NOTE></L>
+<L>Als tariyng and reklesnes,</L>
+<L>Sone forgetyng and slawnes,</L>
+<L>Lachenes alswa and faylyng: <MILESTONE N="575"/> <NOTE PLACE="foot">575 Lothnes <HI REND="italic">S</HI> all so <HI REND="italic">C,</HI> also <HI REND="italic">S</HI> fallyng <HI REND="italic">S</HI></NOTE></L>
+<L>þir sex mase a grett lettyng. <NOTE PLACE="foot">576 Othir <HI REND="italic">S</HI> þen <HI REND="italic">S</HI></NOTE></L>
+<L>Other sex ar spryngand þan,</L>
+<L>Þat till ill endyng brynges a man; <NOTE PLACE="foot">578 to i. <HI REND="italic">β</HI></NOTE></L>
+<L>Þir ar þa sex þat ar noght gode: <NOTE PLACE="foot">579 Þer er þo sex þat noȝt gude es <HI REND="italic">S</HI></NOTE></L>
+<L>Vnbuxsumnes and vntholemode, <MILESTONE N="580"/> <NOTE PLACE="foot">580 vntholemodnes <HI REND="italic">S</HI></NOTE></L>
+<L>Gruchyng alswa and drerynes, <NOTE PLACE="foot">581 all so <HI REND="italic">C,</HI> also <HI REND="italic">S</HI></NOTE></L>
+<L>Langour, wanhope, þat werst es— <NOTE PLACE="foot">582 L. and w. <HI REND="italic">C</HI></NOTE></L>
+<L>Þir sprynges and spredes on ilka syde</L>
+<L>Oute of þe tre þat is called accyde. <NOTE PLACE="foot">584 O. of þe t. of accide <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="68" REF="15"/>
+Þir ar þe vices aghten to knaw, <MILESTONE N="585"/> <NOTE PLACE="foot">585 Þer <HI REND="italic">S</HI></NOTE></L>
+<L>In whilk men falles þat ar slaw.</L>
+<L>For þe fende thurgh idelnes can</L>
+<L>Lett þe gude lyfe of a man</L>
+<L>And occupie hym in his nedes,</L>
+<L>If he fynd hym idell in gode dedes. <MILESTONE N="590"/> <NOTE PLACE="foot">590 in his d. <HI REND="italic">S</HI></NOTE></L>
+<L>Þis tre with braunches and with boghes <NOTE PLACE="foot">591 thre w. brounches <HI REND="italic">S u. i.</HI></NOTE></L>
+<L>And with leves, þat on hym groves,</L>
+<L>Ware gode to grub and grave a-way <NOTE PLACE="foot">593 Wer <HI REND="italic">S</HI> graffe <HI REND="italic">S</HI></NOTE></L>
+<L>Oute of gastely gardyn for ay. <NOTE PLACE="foot">594 O. of gastli or gude gardine ai <HI REND="italic">C,</HI> O. of þe gardyn for ones and ay <HI REND="italic">S</HI></NOTE></L>
+<L>For itt is nawther gode ne abell <MILESTONE N="595"/> <NOTE PLACE="foot">595 nony <HI REND="italic">S</HI> gude nor abill <HI REND="italic">C,</HI> gude ne abill <HI REND="italic">S</HI></NOTE></L>
+<L>To bere thyng þat is perfectabell <NOTE PLACE="foot">596 perfita∣bill <HI REND="italic">C,</HI> prophetabill <HI REND="italic">S</HI></NOTE></L>
+<L>To man þat gode lyfe walde lede; <NOTE PLACE="foot">597 gude liffyng lede <HI REND="italic">S,</HI> gud lyfe will l. <HI REND="italic">C</HI></NOTE></L>
+<L>Itt sall him fayle in his maste nede. <NOTE PLACE="foot">598 For it will faile him in his nede <HI REND="italic">C</HI> moste <HI REND="italic">S</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis forest of delite <MILESTONE N="59b." UNIT="fol."/> <NOTE PLACE="foot">599 of grete d. <HI REND="italic">C</HI></NOTE></L>
+<L>Growes a tre þat is full white <MILESTONE N="600"/></L>
+<L>And clene and honest day and houre</L>
+<L>And full delycios of sauoure,</L>
+<L>Apon þe qwhilk þe halygaste <NOTE PLACE="foot">599-603 <HI REND="italic">das erste Wort jeder Zeile ausgefallen A</HI></NOTE> <NOTE PLACE="foot">603 whilk <HI REND="italic">β u. i.</HI></NOTE></L>
+<L>Makes duelling, for itt is chaste.</L>
+<L>For chastite men calles right <MILESTONE N="605"/></L>
+<L>A tre of grete vertu and might, <NOTE PLACE="foot">606 grot <HI REND="italic">S</HI> a. of m. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe whilk has seuen degrece sere <NOTE PLACE="foot">607 degree <HI REND="italic">C,</HI> degres <HI REND="italic">S</HI></NOTE></L>
+<L>And seuen braunches spryngand here. <NOTE PLACE="foot">608 spredande <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fyrst degre is—to be-gyn—</L>
+<L>Clyne consciens of hert with-in. <MILESTONE N="610"/> <NOTE PLACE="foot">610 Clene <HI REND="italic">S</HI> c. þe h. <HI REND="italic">β</HI></NOTE></L>
+<L>Þe secund aght to be full couthe, <NOTE PLACE="foot">611 f.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þat is honest speche of mouthe.</L>
+<L>Þe thryd is kepyng of þe wittes fyfe. <NOTE PLACE="foot">613 þat thirde <HI REND="italic">C</HI> þi w. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe ferth is straytnes here of lyfe. <NOTE PLACE="foot">614 h.] <HI REND="italic">f. S</HI> stratnes in hert of life <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fift is fleyng of ill company <MILESTONE N="615"/> <NOTE PLACE="foot">615 compeny <HI REND="italic">S</HI></NOTE></L>
+<L>And þe encheson of grete foly. <NOTE PLACE="foot">616 þe vnclennes <HI REND="italic">S</HI></NOTE></L>
+<L>Þe sext is gode occupacioune. <NOTE PLACE="foot">617 is a g. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent is prayer with deuocioune. <NOTE PLACE="foot">618 prainge <HI REND="italic">β</HI></NOTE></L>
+<L>Now will I schew efter my witt <NOTE PLACE="foot">619 eftir <HI REND="italic">β</HI></NOTE></L>
+<L>Þe seuen braunches, þat commes of itt: <MILESTONE N="620"/> <NOTE PLACE="foot">620 hitt <HI REND="italic">S</HI></NOTE></L>
+<L>Ane is of maydens, þat will fle <NOTE PLACE="foot">621 One</NOTE></L>
+<L>Flescly dede, to þai maryd be.</L>
+<L>Þe secund is of anlapy, <NOTE PLACE="foot">623 Another <HI REND="italic">β</HI> anlepi <HI REND="italic">C,</HI> anelepy <HI REND="italic">S</HI></NOTE></L>
+<L>Þat has bene filed and left foly.</L>
+<L>Þe thryd is þas þat wedded bene. <MILESTONE N="625"/> <NOTE PLACE="foot">625 thirde <HI REND="italic">C u. ö.</HI> þos þat weddid had bene <HI REND="italic">S</HI></NOTE></L>
+<L>Þe forth is state of wydouse clene. <NOTE PLACE="foot">626 farth <HI REND="italic">C,</HI> ferth <HI REND="italic">S</HI> s. is <HI REND="italic">S</HI> schene <HI REND="italic">S</HI></NOTE></L>
+<L>Þe fift state is of maydens schene <NOTE PLACE="foot">627 clene <HI REND="italic">S</HI></NOTE></L>
+<L>Þat, wils þai lyfe, thynkes schast to bene. <NOTE PLACE="foot">628 chaste <HI REND="italic">β</HI></NOTE></L>
+<L>Þe sext state of clerkes may be,</L>
+<L>Þat ar ordand in haly degre. <MILESTONE N="630"/> <NOTE PLACE="foot">630 er ordeynd <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent, als boke mas mencioune, <NOTE PLACE="foot">631 as <HI REND="italic">S</HI> makes <HI REND="italic">S</HI></NOTE></L>
+<L>Is þe state of men of religioune. <NOTE PLACE="foot">632 þ. s.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þis tre to men is full profytabill, <NOTE PLACE="foot">633 f.] <HI REND="italic">f. S</HI> prophetabill <HI REND="italic">S</HI></NOTE></L>
+<L>Itt festens þair hertes and mas þaim stabill, <NOTE PLACE="foot">634 Þat f. þe h. <HI REND="italic">S</HI> maise <HI REND="italic">C,</HI> makes <HI REND="italic">S</HI> þam <HI REND="italic">S</HI></NOTE></L>
+<L>Als tre in þe erth roted fast <MILESTONE N="635"/></L>
+<L>Þat wyndes ne stormes doune may cast. <NOTE PLACE="foot">636] <HI REND="italic">f. C</HI></NOTE></L>
+<L>Þis is þe gode tre of continence, <NOTE PLACE="foot">637 Þat is þe tre c. <HI REND="italic">C</HI></NOTE></L>
+<L>Þat men suld kepe with diligence <NOTE PLACE="foot">638 k.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Fra fleschly filth, þat itt may fyle,</L>
+<L>And fra þe fende, þat has many wyle. <MILESTONE N="640"/> <NOTE PLACE="foot">640 fra] <HI REND="italic">f. S</HI> m. a w. <HI REND="italic">S</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis forest a-nother tre sprynges, <MILESTONE N="60b." UNIT="fol."/> <NOTE PLACE="foot">641 In þ. f. ȝit a tre springes <HI REND="italic">C</HI> n.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þat many scharpe thornes forth brynges,</L>
+<L>Þat many prykes and makes wrath, <NOTE PLACE="foot">643 mase <HI REND="italic">S</HI></NOTE></L>
+<L>Þat deserues full litell schath. <NOTE PLACE="foot">644 deseruys <HI REND="italic">C</HI> litil <HI REND="italic">C</HI> scathe <HI REND="italic">C,</HI> skath <HI REND="italic">S</HI></NOTE></L>
+<L>Bot men may vnderstand and se <MILESTONE N="645"/></L>
+<L>Þat wikked tonge is þis tre,</L>
+<L>And þe leves in haly writt <NOTE PLACE="foot">647 lefes <HI REND="italic">β</HI> holy <HI REND="italic">S</HI></NOTE></L>
+<L>Is vnderstanden þe wordes of itt. <NOTE PLACE="foot">648 hitte <HI REND="italic">S</HI></NOTE></L>
+<L>And lange itt is to tell be talle <NOTE PLACE="foot">649 bi <HI REND="italic">C</HI> tale <HI REND="italic">β</HI></NOTE></L>
+<L>All þe leues grete and smale; <MILESTONE N="650"/> <NOTE PLACE="foot">650 A. þer <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="69" REF="16"/>
+Bot men may ten braunches knaw, <NOTE PLACE="foot">651 know <HI REND="italic">S</HI></NOTE></L>
+<L>Þas on þis tre groves hye and law— <NOTE PLACE="foot">652 hinges hee and l. <HI REND="italic">C,</HI> groffes hegh and low <HI REND="italic">S</HI></NOTE></L>
+<L>And þat may be cald be skill <NOTE PLACE="foot">653 þais <HI REND="italic">C,</HI> þos ten <HI REND="italic">S</HI> be s.] skill <HI REND="italic">A</HI></NOTE></L>
+<L>Þir ten synnes þat I neuen will:</L>
+<L>Idell speche and vayn a-vaunt∣yng, <MILESTONE N="655"/> <NOTE PLACE="foot">655 Idelschip <HI REND="italic">S</HI></NOTE></L>
+<L>Losengery and bakbiteyng,</L>
+<L>Leyng and floryschyng thurgh ath, <NOTE PLACE="foot">657 Leghyng <HI REND="italic">S</HI> oth <HI REND="italic">S</HI></NOTE></L>
+<L>Stryuyng and gruchyng bath,</L>
+<L>Frawardnes and sclaunder to neuen <NOTE PLACE="foot">659 Frowardnes <HI REND="italic">S</HI> to] no <HI REND="italic">S</HI></NOTE></L>
+<L>To god and to his halows in heuen. <MILESTONE N="660"/> <NOTE PLACE="foot">660] <HI REND="italic">f. C</HI></NOTE></L>
+<L>Here may men se spryngand wyde</L>
+<L>Þe tre of þe tonge þat noght can hyde,</L>
+<L>Þat men may call and halde be skill <NOTE PLACE="foot">663 kal <HI REND="italic">C</HI></NOTE></L>
+<L>Þe tre of þe tonge þat is ill. <NOTE PLACE="foot">664 þ. ay is <HI REND="italic">S</HI></NOTE></L>
+<L>And on þis tre ten leues hynges, <MILESTONE N="665"/> <NOTE PLACE="foot">665 thre l. <HI REND="italic">S</HI></NOTE></L>
+<L>Þat oute of wikked tonge sprynges, <NOTE PLACE="foot">666 Þ. of wickede oute t. s. <HI REND="italic">C</HI></NOTE></L>
+<L>Þe qwhilk may a man lede <NOTE PLACE="foot">667 whilk <HI REND="italic">S</HI></NOTE></L>
+<L>To þe pitt of hell, þat is to drede. <NOTE PLACE="foot">668 es <HI REND="italic">S</HI></NOTE></L>
+<L>Þis tre beres full many leves, <NOTE PLACE="foot">669 b. m. l. f. <HI REND="italic">C</HI></NOTE></L>
+<L>Þat many sakles oft tyme greves. <MILESTONE N="670"/></L>
+<L>Þis is þe tre þat god in yre</L>
+<L>Bad hew doune and caste in fyre. <NOTE PLACE="foot">672 in þe f. <HI REND="italic">C</HI></NOTE></L>
+<L>For þe froyte of it was full soure <NOTE PLACE="foot">673 hit <HI REND="italic">S</HI> of it is soure <HI REND="italic">C</HI></NOTE></L>
+<L>And bayske and bitter of odoure.</L>
+<L>A-mange thornes þis tre sprynges; <MILESTONE N="675"/></L>
+<L>For of it commes alkyn synnes, <NOTE PLACE="foot">676 of him <HI REND="italic">β</HI> many∣kins <HI REND="italic">C</HI></NOTE></L>
+<L>Þat dyseses bath man and wyfe; <NOTE PLACE="foot">677 deseses <HI REND="italic">S</HI> both <HI REND="italic">S,</HI> b. <HI REND="italic">nach</HI> m. <HI REND="italic">C</HI></NOTE></L>
+<L>Þis tre sprynges now full ryfe.</L>
+<L>Itt ware gode to hew itt doune</L>
+<L>And putt itt oute of religioune <MILESTONE N="680"/></L>
+<L>And all swa oute of all þe werlde, <NOTE PLACE="foot">681 also <HI REND="italic">S</HI></NOTE></L>
+<L>For itt fra heuen has many marrede. <NOTE PLACE="foot">682 merrede <HI REND="italic">C</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis deserte sprynges a tre, <MILESTONE N="61b." UNIT="fol."/> <NOTE PLACE="foot">683 a faire t. <HI REND="italic">C</HI></NOTE></L>
+<L>Þat spredes his boghes bath wyde and hee. <NOTE PLACE="foot">684 b.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þis tre is called prowes be name. <MILESTONE N="685"/></L>
+<L>Many braunches beres þe same; <NOTE PLACE="foot">686 bere <HI REND="italic">C</HI></NOTE></L>
+<L>For prowes is a vertu pryse,</L>
+<L>Itt mase a man hardy and wyse. <NOTE PLACE="foot">688 makes <HI REND="italic">S</HI></NOTE></L>
+<L>Seuen braunches has þis vertu,</L>
+<L>And seuen leves of grete valu. <MILESTONE N="690"/> <NOTE PLACE="foot">690 g. vertu <HI REND="italic">S</HI></NOTE></L>
+<L>Þir ar þe braunches first to knaw <NOTE PLACE="foot">691 Þar er <HI REND="italic">S</HI> know <HI REND="italic">S</HI></NOTE></L>
+<L>And ay ar groveand on a raw: <NOTE PLACE="foot">692 þai er growande <HI REND="italic">C,</HI> ay er groffand <HI REND="italic">S</HI> row <HI REND="italic">S</HI></NOTE></L>
+<L>Nobelnes of hert in ilk a chaunce, <NOTE PLACE="foot">693 Febilnes <HI REND="italic">S</HI></NOTE></L>
+<L>Traystyng, sekyrnes and sufferaunce, <NOTE PLACE="foot">694 sikirnes <HI REND="italic">C,</HI> sykernes <HI REND="italic">S</HI></NOTE></L>
+<L>Stedfastnes þat mekyll may wayle, <MILESTONE N="695"/> <NOTE PLACE="foot">695 vaile <HI REND="italic">β</HI></NOTE></L>
+<L>And lastandnes with-outen fayle,</L>
+<L>Hunger and thryst of rightwisnes,</L>
+<L>And ilk ane of þir a vertu es. <NOTE PLACE="foot">698 one <HI REND="italic">S</HI> of þes <HI REND="italic">S</HI></NOTE></L>
+<L>Bot seuen leues sprynges of itt,</L>
+<L>Þat men calles and haldes thurgh witt <MILESTONE N="700"/> <NOTE PLACE="foot">700 be witt <HI REND="italic">C</HI></NOTE></L>
+<L>Seuen victories, þat here awayles, <NOTE PLACE="foot">701 victors <HI REND="italic">S</HI> availes <HI REND="italic">β</HI></NOTE></L>
+<L>Of seuen manere of batayles,</L>
+<L>Thurgh qwhilk a man may not mys <NOTE PLACE="foot">703 noȝt <HI REND="italic">β</HI></NOTE></L>
+<L>Of seuen crounes in heuen blys. <NOTE PLACE="foot">704 corons of blysse <HI REND="italic">S</HI> Of þe s. c. of endles blis <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fyrst batayle—to be-gynne— <MILESTONE N="705"/></L>
+<L>Is þe batayle of dedely synne.</L>
+<L>Þe secund is penaunce harde. <NOTE PLACE="foot">707 A noþer <HI REND="italic">β</HI> herde <HI REND="italic">C</HI></NOTE></L>
+<L>Þe thryd is of þe flesch frawarde. <NOTE PLACE="foot">708 third <HI REND="italic">C</HI> froward <HI REND="italic">S</HI></NOTE></L>
+<L>In þe werld is þe ferth and þe fift, twa: <NOTE PLACE="foot">709 þe firth and þe fifte in þe werlde þis twa <HI REND="italic">C,</HI> In þe ferth and þe fyfte is þis world is two <HI REND="italic">S</HI></NOTE></L>
+<L>Þat ane is welth, þat other is wa. <MILESTONE N="710"/> <NOTE PLACE="foot">710 þe tane <HI REND="italic">C,</HI> þe ton <HI REND="italic">S</HI> þe tother is wo <HI REND="italic">S</HI></NOTE></L>
+<L>Þe sext is wikked men and fell.</L>
+<L>Þe seuent is þe fende of hell.</L>
+<L>Þir ar called þe seuen degrese <NOTE PLACE="foot">713 Þer <HI REND="italic">C,</HI> Þes <HI REND="italic">S</HI></NOTE></L>
+<L>Of prowes, þat a man may chese,</L>
+<L>And seuen braunches of victory, <MILESTONE N="715"/></L>
+<L>Þat men suld couayte for þe mays∣try, <NOTE PLACE="foot">716 s. chese <HI REND="italic">S</HI></NOTE></L>
+<L>Þat may hym lede þe right way <NOTE PLACE="foot">717 l. thurgh þe r. w. <HI REND="italic">S</HI></NOTE></L>
+<L>To heuen-blys, þat lastes ay. <NOTE PLACE="foot">718 To heuenly life <HI REND="italic">C,</HI> Of þe hegh lyste <HI REND="italic">S</HI></NOTE></L>
+<L>Þir batayles suld a man a-byde</L>
+<L>And fyght fast on ilk-a syde <MILESTONE N="720"/></L>
+<L>And stande stalworthly in þat stoure—</L>
+<L>God will hym helpe and socoure</L>
+<L><PB N="70" REF="17"/>
+And saue and kepe hym and de∣fende</L>
+<L>Fra þe begynnyng vn-to þe ende.</L>
+</LG>
+<LG>
+<L>In þis wylde foreste is a tre <MILESTONE N="725"/> <MILESTONE N="62b." UNIT="fol."/></L>
+<L>Grovand, þat gracius is to se.</L>
+<L>Þis tre may—be gode resoune—</L>
+<L>Be cald þe tre of perfeccioune; <NOTE PLACE="foot">728 B.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Þat groves in gastely lyuynge here <NOTE PLACE="foot">729 lifinge <HI REND="italic">C,</HI> lyffyng <HI REND="italic">S u. ö.</HI></NOTE></L>
+<L>And is grene all tymes of þe ȝere: <MILESTONE N="730"/></L>
+<L>Of perfite lyuynge tuelf degrese</L>
+<L>Groves in þe tre þat þu here sese:</L>
+<L>Conuersion is þe fyrste þat is herd. <NOTE PLACE="foot">733 harde <HI REND="italic">S</HI></NOTE></L>
+<L>Þe secund is despite of þe werld.</L>
+<L>Þe thyrd is pouert of man and wyfe. <MILESTONE N="735"/> <NOTE PLACE="foot">735 third <HI REND="italic">C</HI> p. of a wyfe <HI REND="italic">S</HI></NOTE></L>
+<L>Þe ferth is settyng of gode lyfe. <NOTE PLACE="foot">736 sottyng <HI REND="italic">S</HI></NOTE></L>
+<L>Tribulacione þe fift is þan. <NOTE PLACE="foot">737 þen <HI REND="italic">S</HI></NOTE></L>
+<L>Þe sext is penaunce of man. <NOTE PLACE="foot">738 of gude m. <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent is orisone, als telles þe text. <NOTE PLACE="foot">739 is praier <HI REND="italic">C</HI></NOTE></L>
+<L>Meditacione þe aghtent is next. <MILESTONE N="740"/> <NOTE PLACE="foot">740 aghen <HI REND="italic">S</HI></NOTE></L>
+<L>Þe neyent is lessone wysly soght. <NOTE PLACE="foot">741 neghente <HI REND="italic">C</HI></NOTE></L>
+<L>Þe tente is clennes of dede and thoght.</L>
+<L>Þe elleuent is lufe of godes sonn. <NOTE PLACE="foot">743 gode sone <HI REND="italic">C</HI></NOTE></L>
+<L>Þe tuelfte is contemplacioun. <NOTE PLACE="foot">744 twelfe <HI REND="italic">A</HI></NOTE></L>
+<L>Þir groves in ilk a man and wyfe <MILESTONE N="745"/> <NOTE PLACE="foot">745 ilke man <HI REND="italic">S</HI></NOTE></L>
+<L>Þat thynkes to be-gyn perfite lyfe. <NOTE PLACE="foot">746 to gyfe p. l. <HI REND="italic">S</HI></NOTE></L>
+<L>Þis tre groves and festes his rotes</L>
+<L>In meke hert, þat vpward schotes</L>
+<L>His leues—þat is to vnder-stande: <NOTE PLACE="foot">749 leffes <HI REND="italic">S</HI> vndirstande <HI REND="italic">S</HI></NOTE></L>
+<L>Þe vertu of þe contynuande; <MILESTONE N="750"/></L>
+<L>Þai sprede in vs, if we þaim kepe <NOTE PLACE="foot">751 þam <HI REND="italic">S</HI></NOTE></L>
+<L>Besely with deuocioune depe.</L>
+<L>Þat perfeccioune gers vs profe <NOTE PLACE="foot">753 gars <HI REND="italic">β</HI> lufe <HI REND="italic">S</HI></NOTE></L>
+<L>And on perfite lyfe to sett oure lofe. <NOTE PLACE="foot">754 lufe <HI REND="italic">S</HI></NOTE> <NOTE PLACE="foot">753 <HI REND="italic">und</HI> 754 <HI REND="italic">umgestellt S</HI></NOTE></L>
+<L>And als þe tre rotet in þe erth fast, <MILESTONE N="755"/> <NOTE PLACE="foot">755 And tre rotede <HI REND="italic">C</HI></NOTE></L>
+<L>Þat na tempest may itt doune cast, <NOTE PLACE="foot">756 no <HI REND="italic">S</HI></NOTE></L>
+<L>Swa serues men god, with-outen fall, <NOTE PLACE="foot">757 so <HI REND="italic">S</HI></NOTE></L>
+<L>For we suld be his seruandes all.</L>
+<L>Sum begynnes god wele to pay</L>
+<L>And faylles lange or þe terme∣day; <MILESTONE N="760"/> <NOTE PLACE="foot">760 þe] <HI REND="italic">f. C</HI></NOTE></L>
+<L>Bot he is worthy to haue na mede, <NOTE PLACE="foot">761 hafe no <HI REND="italic">S</HI></NOTE></L>
+<L>Þat wele begynnes and fayles in nede.</L>
+<L>He groves noght in þe tre of lyfe,</L>
+<L>Wheþer itt be man or wyfe. <NOTE PLACE="foot">764 <HI REND="italic">xwischen</HI></NOTE></L>
+<L>For man þat wele endens sall wende <MILESTONE N="765"/> <NOTE PLACE="foot">765 endes wele <HI REND="italic">S</HI></NOTE></L>
+<L>To ioie þat neuer sall haue ende. <NOTE PLACE="foot">766 hafe <HI REND="italic">S u. i.</HI></NOTE></L>
+</LG>
+<LG>
+<L>In þis deserte ȝitt groves a tre <MILESTONE N="63b." UNIT="fol."/></L>
+<L>Of tuelfe vertus, as men may se. <NOTE PLACE="foot">768 os <HI REND="italic">S</HI></NOTE></L>
+<L>Þis deserte call I noght elles</L>
+<L>Bot gastely lyfe, als scripture telles. <NOTE PLACE="foot">770 gostly lyff <HI REND="italic">S</HI></NOTE></L>
+<L>When we forsake þis werdly dedes <NOTE PLACE="foot">771 þes <HI REND="italic">S</HI> werldeli <HI REND="italic">C,</HI> wordly <HI REND="italic">S</HI></NOTE></L>
+<L>And gastely lyfynge lely ledes, <NOTE PLACE="foot">772 gostly <HI REND="italic">S</HI></NOTE></L>
+<L>Þan wende we on to wildernes, <NOTE PLACE="foot">773 þen <HI REND="italic">S</HI> vn to <HI REND="italic">C,</HI> in to <HI REND="italic">S</HI></NOTE></L>
+<L>Whare hard lyfynge and penaunce es. <NOTE PLACE="foot">774 Whore <HI REND="italic">S</HI> herde <HI REND="italic">C</HI></NOTE></L>
+<L>Þir ar þe tuelfe degrese of ver∣tus, <MILESTONE N="775"/></L>
+<L>Þat groves in þe tre, þat here feelus: <NOTE PLACE="foot">776 felous <HI REND="italic">C,</HI> folous <HI REND="italic">S</HI></NOTE></L>
+<L>Þe first is verray trouth of Criste.</L>
+<L>Þe secund is to be baptyste.</L>
+<L>Þe þryd is fornycacione to fle.</L>
+<L>Þe ferth is couetus noght to be. <MILESTONE N="780"/> <NOTE PLACE="foot">780 couatous <HI REND="italic">S</HI> to] <HI REND="italic">f. C</HI></NOTE></L>
+<L>Þe fift is glutonie to refreyne. <NOTE PLACE="foot">781 glutteni <HI REND="italic">C,</HI> gluteny <HI REND="italic">S</HI></NOTE></L>
+<L>Þe sext is penaunce, with-outen feyne.</L>
+<L>Lastandnes þe seuent is calde.</L>
+<L>Hospitalite þe aght we halde. <NOTE PLACE="foot">784 aghten <HI REND="italic">S</HI></NOTE></L>
+<L>Þe neyent is godes to fullfill, <MILESTONE N="785"/> <NOTE PLACE="foot">785 godis <HI REND="italic">S</HI> g. wil <HI REND="italic">C</HI></NOTE></L>
+<L>Þe tent to lefe our propur will. <NOTE PLACE="foot">786 propir <HI REND="italic">C</HI></NOTE></L>
+<L>Þe elleuent is chastite to spyr. <NOTE PLACE="foot">787 spere <HI REND="italic">S</HI></NOTE></L>
+<L>Þe tuelft is besynes of all þir.</L>
+<L>Þir grese of vertus men may fynde <NOTE PLACE="foot">789 þer groes <HI REND="italic">S</HI></NOTE></L>
+<L>In þe lyfe of saynt Thomas of Ynde. <MILESTONE N="790"/> <NOTE PLACE="foot">790 s.] <HI REND="italic">f. S</HI> Hinde <HI REND="italic">C</HI></NOTE></L>
+<L>Þir tre has full swete sauour;</L>
+<L>Þis tre beres full many a flour.</L>
+<L>Þis vertus a mannes hert ledes,</L>
+<L>Swa þat he na parels dredes, <NOTE PLACE="foot">794 So <HI REND="italic">S</HI> pilł <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="71" REF="18"/>
+And settes itt in a traysting fast <MILESTONE N="795"/> <NOTE PLACE="foot">795 settis <HI REND="italic">C</HI></NOTE></L>
+<L>And makes itt stabill and lange to last. <NOTE PLACE="foot">796 make <HI REND="italic">C</HI> i.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>For he þat will vnder-take <NOTE PLACE="foot">797 vndir <HI REND="italic">S</HI></NOTE></L>
+<L>A gode way for goddis sake, <NOTE PLACE="foot">798 god <HI REND="italic">A</HI></NOTE></L>
+<L>So fast his hert sall be sett <NOTE PLACE="foot">799 So] <HI REND="italic">f. S</HI> sall he sette <HI REND="italic">C</HI></NOTE></L>
+<L>On his purpose, þat noght itt lett <MILESTONE N="800"/></L>
+<L>And for na thyng to be a-bayste, <NOTE PLACE="foot">801 nothing <HI REND="italic">S</HI></NOTE></L>
+<L>Bot in god ay seker trayste <NOTE PLACE="foot">802 sikirli <HI REND="italic">C,</HI> sykerly <HI REND="italic">S</HI></NOTE></L>
+<L>To full-fill with all his myght</L>
+<L>Þat he has be-gunnen ryght.</L>
+<L>Þat is vertus for to chese, <MILESTONE N="805"/></L>
+<L>Þat men may se grew in þir trese,</L>
+<L>Þat ledes men þe way euen</L>
+<L>Þat gase to þe kyngdome of heuen. <NOTE PLACE="foot">808 gos <HI REND="italic">S</HI> vn to <HI REND="italic">C</HI></NOTE></L>
+</LG>
+<LG>
+<L>Þis tre groves in wildernes, <MILESTONE N="64b." UNIT="fol."/></L>
+<L>Whare many rampand lyon es: <MILESTONE N="810"/> <NOTE PLACE="foot">810 Whore <HI REND="italic">S</HI> ravmpande <HI REND="italic">C</HI></NOTE></L>
+<L>Þat ar fendes vgly and fell,</L>
+<L>Þat kepes þis tre þat groves in hell. <NOTE PLACE="foot">812 kepis <HI REND="italic">C</HI> g. to h. <HI REND="italic">S</HI></NOTE></L>
+<L>His froyte is bath bitter and soure <NOTE PLACE="foot">813 bittir <HI REND="italic">C</HI></NOTE></L>
+<L>To þaim þat tastes of his sauore, <NOTE PLACE="foot">814 þam <HI REND="italic">S</HI></NOTE></L>
+<L>In saule and body bath to-geder, <MILESTONE N="815"/> <NOTE PLACE="foot">815 gedir <HI REND="italic">β</HI></NOTE></L>
+<L>With-outen ende, when þai com þedyr. <NOTE PLACE="foot">816 wheme <HI REND="italic">S</HI> þidere <HI REND="italic">C</HI></NOTE></L>
+<L>Þis is þe tre of paynes fourtene <NOTE PLACE="foot">817 peine <HI REND="italic">C</HI></NOTE></L>
+<L>In hell, þat sall be felde and sene,</L>
+<L>Þat synfull sall be pyned with ay</L>
+<L>In body and saule eftyr domes∣day. <MILESTONE N="820"/></L>
+<L>Þe fyrst is fire full hate to reken, <NOTE PLACE="foot">821 hote <HI REND="italic">S</HI> rekkine <HI REND="italic">C</HI></NOTE></L>
+<L>Þat na maner of thyng may slekken. <NOTE PLACE="foot">822 no <HI REND="italic">S</HI> slekine <HI REND="italic">C,</HI> slokken <HI REND="italic">S</HI></NOTE></L>
+<L>Þe secund is calde, als says some, <NOTE PLACE="foot">823 sume <HI REND="italic">S</HI></NOTE></L>
+<L>Þat na fire may ouer-come. <NOTE PLACE="foot">824 no <HI REND="italic">S</HI></NOTE></L>
+<L>Þe thryd payn is bath filth and stynke, <MILESTONE N="825"/></L>
+<L>Stranger þan any hert may thynke. <NOTE PLACE="foot">826 Strangir þen a. here <HI REND="italic">S</HI></NOTE></L>
+<L>Þe ferth is hunger sharpe and strange.</L>
+<L>Þe fift is thryst brenand omange. <NOTE PLACE="foot">828 brinnande <HI REND="italic">C</HI> amange <HI REND="italic">β</HI></NOTE></L>
+<L>Þe sext is so grete myrknes,</L>
+<L>Þat itt may be graped—sa thyk itt es. <MILESTONE N="830"/> <NOTE PLACE="foot">830 groped so <HI REND="italic">S</HI></NOTE></L>
+<L>Þe seuent is þe horrybell syght <NOTE PLACE="foot">831 horribil <HI REND="italic">β</HI></NOTE></L>
+<L>Of deuels, þat ar full vgly dyght. <NOTE PLACE="foot">832 deuels] þam <HI REND="italic">S</HI></NOTE></L>
+<L>Þe aght payn is vermyn grette <NOTE PLACE="foot">833 aghten <HI REND="italic">S</HI></NOTE></L>
+<L>Þat synfull saules sall gnaw and frette. <NOTE PLACE="foot">834 þ. s. men sall knagh and frete <HI REND="italic">S</HI></NOTE></L>
+<L>Þe neyent is dynghyng of deles hand <MILESTONE N="835"/> <NOTE PLACE="foot">835 dingginge <HI REND="italic">C,</HI> dyngyng <HI REND="italic">S</HI> deuels <HI REND="italic">C,</HI> deuls <HI REND="italic">S</HI></NOTE></L>
+<L>With melles of iren hate gluand. <NOTE PLACE="foot">836 hote <HI REND="italic">S</HI> glowande <HI REND="italic">C,</HI> brennand <HI REND="italic">S</HI></NOTE></L>
+<L>Þe tent payn is gnayng with-in <NOTE PLACE="foot">837 gnawinge <HI REND="italic">C,</HI> gnaghyng <HI REND="italic">S</HI></NOTE></L>
+<L>Of consciens, þat bites as vermyn. <NOTE PLACE="foot">838 als <HI REND="italic">S</HI></NOTE></L>
+<L>Þe elleuent is hate teres of gretyng</L>
+<L>Þat þaim sall scald in doune-fallyng. <NOTE PLACE="foot">840 Þat þam skaldes <HI REND="italic">S</HI></NOTE></L>
+<L>Þe tuelfte is schame and senschyng of syn, <NOTE PLACE="foot">841 twelfe <HI REND="italic">A</HI> schenschip in s. <HI REND="italic">C</HI></NOTE></L>
+<L>Þat þai sall haue, þat neuer sall blyn.</L>
+<L>Þe thritene is bandes of iren bernand, <NOTE PLACE="foot">843 thirtende <HI REND="italic">C,</HI> thretent <HI REND="italic">S</HI> brennand <HI REND="italic">β</HI></NOTE></L>
+<L>Þat þaim sall bynde bath fote and hand. <NOTE PLACE="foot">844 Þai sal be bounden <HI REND="italic">β</HI> with bath <HI REND="italic">C,</HI> both <HI REND="italic">S</HI></NOTE></L>
+<L>Þe fourtene payne despayre is cald, <MILESTONE N="845"/> <NOTE PLACE="foot">845 fourtente <HI REND="italic">C</HI> dispar <HI REND="italic">C,</HI> dispayre <HI REND="italic">S</HI></NOTE></L>
+<L>Þat synfull men in hert sall hald. <NOTE PLACE="foot">846 s. m.] s. saule <HI REND="italic">C,</HI> þe synfull <HI REND="italic">S</HI> sall in h. h. <HI REND="italic">S</HI></NOTE></L>
+<L>Þis is þe tre of dampnacione</L>
+<L>To ilk a synfull nacione,</L>
+<L>When schame and senschipe dobell es <NOTE PLACE="foot">849 schenschipe <HI REND="italic">C</HI> dubbell <HI REND="italic">C,</HI> doubild <HI REND="italic">S</HI></NOTE></L>
+<L>To saule and body in hell endeles. <MILESTONE N="850"/> <NOTE PLACE="foot">850 endles hell <HI REND="italic">C</HI></NOTE></L>
+</LG>
+<LG>
+<L>Now groves here þe last tre of <MILESTONE N="65b." UNIT="fol."/> price, <NOTE PLACE="foot">851 grewes <HI REND="italic">C</HI> prise <HI REND="italic">β</HI></NOTE></L>
+<L>Þat sprynges to heuen fra paradice, <NOTE PLACE="foot">852 paradise <HI REND="italic">β</HI></NOTE></L>
+<L>Whas froyt sall be to man and wyfe <NOTE PLACE="foot">853 be] <HI REND="italic">f. β</HI> to] both <HI REND="italic">S</HI></NOTE></L>
+<L>Geuen in heuen efter his lyfe <NOTE PLACE="foot">854 Be giuene in heuen eftir þaire life <HI REND="italic">β</HI></NOTE></L>
+<L>And all þe ioyes and the blisse∣hedes, <NOTE PLACE="foot">855 blssehedes <HI REND="italic">A,</HI> blyssed∣hede <HI REND="italic">S,</HI> blissednes <HI REND="italic">C</HI></NOTE></L>
+<L>That men sall haue for þair gode dedes. <NOTE PLACE="foot">856 g. d.] gudnes <HI REND="italic">C</HI></NOTE></L>
+<L><PB N="72" REF="19"/>
+Seuen blyses þe body þere sall haue, <NOTE PLACE="foot">857 blissednes þar þe b. <HI REND="italic">C</HI></NOTE></L>
+<L>And seuen þe saule þat sall be saue.</L>
+<L>Þe first blis is brightnes cald—</L>
+<L>Þat saued bodis in heuen sall hald. <MILESTONE N="860"/> <NOTE PLACE="foot">860 safid b. <HI REND="italic">S,</HI> saued saules b. <HI REND="italic">C</HI></NOTE></L>
+<L>Þe secund blis is swyftnes—</L>
+<L>Þat bodis sall haue þat rightwis is. <NOTE PLACE="foot">862 es <HI REND="italic">C</HI></NOTE></L>
+<L>Þe thrid blis is strenght and myght—</L>
+<L>Þat bodys sall haue in heuen bryght.</L>
+<L>Þe ferth blis is fredome right— <MILESTONE N="865"/></L>
+<L>Þat bodis sall haue in heuenly sight.</L>
+<L>Þe fift blis is lastand hele— <NOTE PLACE="foot">867 is ay l. <HI REND="italic">S</HI></NOTE></L>
+<L>Þat saued bodis sall ay with dele.</L>
+<L>Þe sexte blis is grette delite—</L>
+<L>Þat bodis sall haue of men per∣fite. <MILESTONE N="870"/></L>
+<L>Þe seuent blis is endeles lyfe—</L>
+<L>Þat saued sall haue with - outen stryfe. <NOTE PLACE="foot">872 Þ. þe saued <HI REND="italic">S</HI></NOTE></L>
+<L>Þe first blis þe saule sall haue</L>
+<L>Is wisdome to þaim þat sall be saue. <NOTE PLACE="foot">874 þam <HI REND="italic">S</HI> safe <HI REND="italic">S</HI></NOTE></L>
+<L>Þe secund blis þat saules sall fele <MILESTONE N="875"/></L>
+<L>With þe bodis, als clarkes wate wele, <NOTE PLACE="foot">876 clerkes wote <HI REND="italic">S</HI></NOTE></L>
+<L>Sall be frenschipe and perfite loue <NOTE PLACE="foot">877 lufe <HI REND="italic">S</HI></NOTE></L>
+<L>Mare þan any man may proue. <NOTE PLACE="foot">878 More þen <HI REND="italic">S</HI></NOTE></L>
+<L>Þe thrid blis, als men may rede, <NOTE PLACE="foot">879 as <HI REND="italic">S</HI></NOTE></L>
+<L>Is verray a-corde and anehede. <MILESTONE N="880"/> <NOTE PLACE="foot">880 onehede <HI REND="italic">S</HI></NOTE></L>
+<L>Þat ferth blis sall be powere— <NOTE PLACE="foot">881 bl. is gret worschipe <HI REND="italic">(vgl.</HI> 883) <HI REND="italic">C</HI></NOTE></L>
+<L>Þat saued saulles sall haue in fere. <NOTE PLACE="foot">882 <HI REND="italic">zwischen</HI> 883 <HI REND="italic">und</HI> 885 <HI REND="italic">C</HI></NOTE></L>
+<L>Þe fifte blis is worschepe— <NOTE PLACE="foot">883 bl. sal be powere <HI REND="italic">(vgl.</HI> 881) <HI REND="italic">C</HI></NOTE></L>
+<L>Þat saved saules sall ay kepe. <NOTE PLACE="foot">884 <HI REND="italic">zwischen</HI> 881 <HI REND="italic">und</HI> 883 <HI REND="italic">C</HI></NOTE></L>
+<L>Þe sext blis sall be sekernes— <MILESTONE N="885"/> <NOTE PLACE="foot">885 sikirnes <HI REND="italic">C,</HI> sikernes <HI REND="italic">S</HI></NOTE></L>
+<L>Þat saules sall haue þat saved es.</L>
+<L>Þe seuent blis is ioye perfite—</L>
+<L>Þat saules sall haue with grete delite.</L>
+<L>Þis tre sall florysch in heuen-ryke,</L>
+<L>Whar ioye and blis lastes euer elyke. <MILESTONE N="890"/> <NOTE PLACE="foot">890 Whore <HI REND="italic">S</HI> l. e.] sall laste <HI REND="italic">S</HI> ilike <HI REND="italic">C</HI></NOTE></L>
+<L>Now pray we bath day and nyght, <NOTE PLACE="foot">891 we pray both <HI REND="italic">S</HI></NOTE></L>
+<L>Þat god graunt vs grace and myght</L>
+<L>To taste þe suete froyte of þis tree <NOTE PLACE="foot">893 swet <HI REND="italic">C</HI></NOTE></L>
+<L>With-outen ende in heuen hee.</L>
+</LG>
+<LG>
+<L>Of þis gastely wildernes <MILESTONE N="895"/> <MILESTONE N="66b." UNIT="fol."/> <NOTE PLACE="foot">895 How of <HI REND="italic">A</HI></NOTE></L>
+<L>In þe sawter boke þus writen es <NOTE PLACE="foot">896 buk <HI REND="italic">C</HI></NOTE></L>
+<L>In a salme on þis manere, <NOTE PLACE="foot">897 psalme <HI REND="italic">β</HI></NOTE></L>
+<L>Als yu may se writen here: <NOTE PLACE="foot">898 yu] mene <HI REND="italic">C,</HI> we <HI REND="italic">S</HI> se] fynde <HI REND="italic">C</HI> et v. s.] <HI REND="italic">f. S, das ganze Zitat f. C</HI></NOTE>
+<Q><P>Inuenit eum in terra deserta in loco horroris et v. s.</P></Q></L>
+<L>He fand hym in deserte-land <NOTE PLACE="foot">899 fond <HI REND="italic">S</HI></NOTE></L>
+<L>In ugly place traueland, <MILESTONE N="900"/> <NOTE PLACE="foot">900 trauayland <HI REND="italic">S</HI></NOTE></L>
+<L>In vaste and in wildernes, <NOTE PLACE="foot">901 waste <HI REND="italic">β</HI></NOTE></L>
+<L>Whare all walkes þat wilde es. <NOTE PLACE="foot">902 Whore <HI REND="italic">S</HI></NOTE></L>
+<L>Be þis deserte yu vnderstand <NOTE PLACE="foot">903 By <HI REND="italic">S</HI> vndirstand <HI REND="italic">S</HI></NOTE></L>
+<L>Penaunce of hert sorowand; <NOTE PLACE="foot">904 soruande <HI REND="italic">C nach</HI></NOTE></L>
+<L>For when a man for-sakens his flesch <MILESTONE N="905"/> <NOTE PLACE="foot">905 And ledes his lyfe in wyldernes <HI REND="italic">S</HI></NOTE></L>
+<L>And all thyng þat delycius es <NOTE PLACE="foot">906 thynges <HI REND="italic">S</HI> delicious <HI REND="italic">β</HI> es] <HI REND="italic">f. S</HI></NOTE></L>
+<L>And lyfes in saule be hardnes, <NOTE PLACE="foot">907 And all thyng þat is vicious <HI REND="italic">S</HI></NOTE></L>
+<L>Þan enters he in-to wildernes. <NOTE PLACE="foot">908 He dwels þan in þis w. <HI REND="italic">C</HI></NOTE></L>
+<L>In þat entent—als men may loke— <NOTE PLACE="foot">909 a. ȝe m. <HI REND="italic">S</HI></NOTE></L>
+<L>Als wildernes is wroght þis boke <MILESTONE N="910"/></L>
+<L>To gar men vnderstande and taste <NOTE PLACE="foot">911 vndirstand <HI REND="italic">S</HI></NOTE></L>
+<L>How vertus may grove in þair gaste,</L>
+<L>And whilk tre þai sall haunte and vse,</L>
+<L>And whilk þai sall fell and refuse,</L>
+<L>And whilk froyte ledes man to lyfe, <MILESTONE N="915"/> <NOTE PLACE="foot">915 vnto <HI REND="italic">S</HI></NOTE></L>
+<L>And whilk posouns man and wyfe.</L>
+<L>Take gude kepe to þis tretis,</L>
+<L>Þat here is writen on englis; <NOTE PLACE="foot">917-918 Kepis wele þis dere presande Þat firste was writen with hali man hand <HI REND="italic">C,</HI> Take now þis presand Þat I wryte þe with my hand <HI REND="italic">S</HI></NOTE></L>
+<L>For itt is taken of bokes sere <NOTE PLACE="foot">919 Þat es taken <HI REND="italic">S,</HI> For he it tok oute <HI REND="italic">C</HI> bokis sar <HI REND="italic">C</HI></NOTE></L>
+<L>And made groveand in treys here. <MILESTONE N="920"/> <NOTE PLACE="foot">920 m. it <HI REND="italic">C</HI> growand <HI REND="italic">β</HI> trees <HI REND="italic">β</HI> sere <HI REND="italic">S</HI></NOTE></L>
+<L><PB N="73" REF="20"/>
+Bath þu may study and see, <NOTE PLACE="foot">921 Both þou may <HI REND="italic">S,</HI> Þat men may þair on <HI REND="italic">C</HI> stodi <HI REND="italic">C</HI></NOTE></L>
+<L>Vertus to folow and vices to flee.</L>
+<L>Þis litell tretis of sere degreys <NOTE PLACE="foot">923 litil <HI REND="italic">C</HI> s.] <HI REND="italic">f. S</HI></NOTE></L>
+<L>Of vices and vertus in þir treys, <NOTE PLACE="foot">924 a.] <HI REND="italic">f. S</HI> in þe t. <HI REND="italic">β</HI></NOTE></L>
+<L>A haly man sent itt to his frende <MILESTONE N="925"/> <NOTE PLACE="foot">925 holy <HI REND="italic">S</HI> send <HI REND="italic">S</HI></NOTE></L>
+<L>To haue itt to þair lyfes ende, <NOTE PLACE="foot">926 vn to his l. e. <HI REND="italic">S</HI></NOTE></L>
+<L>And þan to lefe itt in som place, <NOTE PLACE="foot">927 þen <HI REND="italic">S</HI> lefte <HI REND="italic">A</HI></NOTE></L>
+<L>Whar gederyng of pepull wase; <NOTE PLACE="foot">928 Whore <HI REND="italic">S</HI> pepil <HI REND="italic">β</HI> wace <HI REND="italic">C</HI></NOTE></L>
+<L>For was itt nother his will ne rede, <NOTE PLACE="foot">929 it was <HI REND="italic">S</HI></NOTE></L>
+<L>Þat itt suld be lefte in baran stede, <MILESTONE N="930"/> <NOTE PLACE="foot">930 For to lefe it in baren s. <HI REND="italic">S</HI></NOTE></L>
+<L>For itt may in tyme comyng <NOTE PLACE="foot">931 mighte <HI REND="italic">C</HI></NOTE></L>
+<L>Turne som man to gode lyfeyng. <NOTE PLACE="foot">932 sum to gude <HI REND="italic">S</HI> liffyng <HI REND="italic">S,</HI> liuinge <HI REND="italic">C</HI></NOTE></L>
+<L>Haly men, perfite and gode, <NOTE PLACE="foot">933 Holy <HI REND="italic">S,</HI> For haly <HI REND="italic">C</HI></NOTE></L>
+<L>In-to þis wildernes ȝode, <NOTE PLACE="foot">934 Som tyme in to <HI REND="italic">C</HI> w. þai ȝ. <HI REND="italic">S</HI></NOTE></L>
+<L>In werld whilis þai war lyfeand: <MILESTONE N="935"/> <NOTE PLACE="foot">935 whiles <HI REND="italic">C,</HI> whils <HI REND="italic">S</HI></NOTE></L>
+<L>Now ar þai gane to ioye lastand, <NOTE PLACE="foot">936 gon <HI REND="italic">S</HI></NOTE></L>
+<L>Vn-to þe qwilk ioye he vs brynge,</L>
+<L>Þat for our sake on rode gun hynge, <NOTE PLACE="foot">938 rude <HI REND="italic">C</HI></NOTE></L>
+<L>Þar to duell with haly men <NOTE PLACE="foot">939 þore to <HI REND="italic">S,</HI> þar for to <HI REND="italic">C</HI> holy <HI REND="italic">S</HI></NOTE></L>
+<L>With-outen ende: amen, amen! <MILESTONE N="940"/></L>
+</LG>
+</DIV2>
+<DIV2 TYPE="afterword">
+<P>Die symbolischen Bäume, auf die der vorstehende Text mehr∣fach verweist, füllen jedesmal die rechte der beiden gegenüber∣stehenden Seiten, also die erste Seite jedes Blattes. Ihre Wurzel ist entweder mit einer guten Macht bezeichnet—<HI REND="italic">meknes, holy kirke, mercy, charite, lawe, hert honest and cleene, stabil trowthe, gra∣cious hert;</HI> oder mit einer schlechten—<HI REND="italic">pride, yll compeny, envy, hell, despayre.</HI> Die Äste und Blätter tragen dementsprechend die Namen der in dem gegenüberstehenden Textabschnitt auf∣gezählten Tugenden oder Laster.</P>
+<P>Die linke Seite, also die zweite Seite jedes Blattes, enthält ausser dem Text des Gedichtes regelmässig das Bild eines Ein∣siedlers oder einer Büsserin, in A und C neben, in S unter dem Text. Die heiligen Personon sitzen betend in einer Wildnis, die meistens nur durch zwei Bäume, bisweilen auch noch durch ein wildes Tier angedeutet ist. Sie preisen, wie aus den unter und neben den Bildern stehenden Worten hervorgeht, das Los des allem Irdischen abgekehrten Eremiten und flehen zu Gott um Schutz gegen Gefahren. In S sind sie nie mit Namen bezeichnet, wohl aber mehrfach in A und C, und zwar finden sich in beiden Handschriften folgende Namen: <HI REND="italic">Saint Antony, Mary Egyptiane, Mary Mawdleyn, Richard Hampole, S. John Baptist, Moyses;</HI> in A allein: <HI REND="italic">Paulus þe first hermet</HI> und <HI REND="italic">Abraham;</HI> in C allein: <HI REND="italic">S. Egidius, S. Hilarion, Goderyke hermit, S. Benedictus, S. Hilda.</HI></P>
+<P>Das interessanteste Bild ist das des Richard Rolle of Hampole. Nach A und S wird es hier zum erstenmal ver∣öffentlicht. Das Bild von C wurde kürzlich bereits in den Studies in English and comparative literature, Radcliffe College mono∣graphs 15, Boston and London 1910, S. 115 mitgeteilt, mag aber der Vollständigkeit halber hier nochmals vorgelegt werden.</P>
+<P><PB N="74" REF="21"/>
+Unter dem Heiligen sind in A die Verse zu lesen:
+<Q>
+<L>I syt and synge</L>
+<L>Of luf langyng,</L>
+<L>Þat in my breste is bred.</L>
+<L>Jesus my kynge</L>
+<L>And my ioyinge,</L>
+<L>When wer I to þe ledde?</L>
+</Q></P>
+<P>Über seinem Haupte steht: <HI REND="italic">Armonia odas canora.</HI></P>
+<P>In C ist ein Gedicht als Rahmen um das Bild herum∣geschrieben:
+<Q>
+<L>A solitari here</L>
+<L>Hermite-life i lede.</L>
+<L>For Jesus lóue so dere</L>
+<L>All flesch-lufe i flede.</L>
+<L>Þat gastili comforthe clere,</L>
+<L>Þat in my breste brede,</L>
+<L>Might me a thowsand ȝeere</L>
+<L>In heuenly strenghe haue stedd.</L>
+</Q></P>
+<P>Über seinem Haupte ist hier zu lesen: <HI REND="italic">Sanctus, sanctus, sanctus Dominus Deus Sabaoth. Pleni sunt celi gloria D[ei].</HI></P>
+<P>In S ist der Heilige nicht benannt. Da jedoch diesem Bilde dieselben Worte wie in C—bis auf den vierten Langvers—beigegeben sind, so ist sicherlich auch hier Richard Rolle gemeint. Ob und inwiefern diesen Bildern eine Porträtähnlichkeit mit dem Dichter des <HI REND="italic">Prick of conscience</HI> beizumessen ist, mag jetzt der Vergleich zeigen.</P>
+<P>Schliesslich erblickt man in A und C noch über dem Haupte der Einsiedler entweder den segnenden Christus oder die Mutter Gottes, oft auch einen Engel oder einen Schild mit den Blut∣malen Christi. Einer dieser Schilde (Hs. A fol. 636) trägt die Be∣zeichnung <HI REND="italic">scutum fidei</HI> und dazu die mystische Inschrift:</P>
+<P><FIGURE><FIGDESC>shield of faith</FIGDESC>
+<P><LIST>
+<ITEM>pater non est filius</ITEM>
+<ITEM>pater non est spiritus sanctus</ITEM>
+<ITEM>filius non est pater</ITEM>
+<ITEM>filius non est spiritus sanctus</ITEM>
+<ITEM>spiritus sanctus non est pater</ITEM>
+<ITEM>spiritus sanctus non est filius</ITEM>
+<ITEM>pater est deus</ITEM>
+<ITEM>filius est deus</ITEM>
+<ITEM>spiritus sanctus est deus</ITEM>
+</LIST></P>
+</FIGURE></P>
+<CLOSER><DATELINE>Berlin.</DATELINE>
+<SIGNED>Walter Hübner.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="commentary">
+<PB REF="22"/>
+<HEAD>The desert of religion.</HEAD>
+<DIV2 N="2" TYPE="part">
+<HEAD>II. Handschriftenkritik. Reim und Sprache. Zur Quellenkunde.</HEAD>
+<P>Die Handschriftenkritik ergibt zunächst, dass keine der drei Handschriften aus einer anderen geflossen ist; denn in jeder be∣gegnen einzelne Fehler, wofür die anderen das Richtige geben. Am reichsten an Fehlern ist S, die wenigsten Fehler stehen in A.</P>
+<P>Ferner lässt sich zeigen, dass C und S auf einer gemein∣samen Vorlage <HI REND="italic">β</HI> beruhen; denn sie teilen folgende Fehler: <HI REND="italic">er</HI> statt <HI REND="italic">is</HI> 228, Vers f. 521-22, 535 (ungeschickt ergänzt C), <HI REND="italic">lys</HI> statt <HI REND="italic">blys</HI> und dann selbständig nachgebessert in C und S 718, <HI REND="italic">presand(e)</HI> statt <HI REND="italic">tretis</HI> und dazu im nächsten Vers eine banale Phrase mit <HI REND="italic">hand</HI> statt <HI REND="italic">englis</HI> 917-18. Vielleicht hat an letzterer Stelle ein national gesinnter Schotte an <HI REND="italic">englis</HI> Anstand genommen und daher geändert, obwohl die germanischen Schotten bekanntlich bis Lindsay ihre Sprache als 'Inglis' bezeichneten.—Ein Fehler wie <HI REND="italic">in</HI> statt <HI REND="italic">the</HI> 118 in A und C konnte leicht auch zwei Schrei∣bern unabhängig voneinander passieren, weil <HI REND="italic">in</HI> im Vers unmittel∣bar darüberstand.</P>
+<P>Stammbaum der Handschriften:</P>
+<P><FIGURE><FIGDESC>family tree of manuscripts</FIGDESC>
+</FIGURE></P>
+<P>Danach musste A dem Texte zugrunde gelegt werden.</P>
+<P>Die Reime des Dichters leiden an mancherlei Unreinheit. Verschiedene Nasale werden miteinander gebunden—<HI REND="italic">tyme: dwyne</HI> 85, <HI REND="italic">sprynges: begynnes</HI> 166,: <HI REND="italic">synnes</HI> 675. Von zwei Kon∣sonanten braucht nur der erste zu reimen—<HI REND="italic">braunches: distaunces</HI> 249, <HI REND="italic">buriounes: confundes</HI> 261. Vielleicht gehört hierher auch die Vernachlässigung des <HI REND="italic">w</HI> in <HI REND="italic">felose: dose</HI> 10, <HI REND="italic">feelus, folows: vertus</HI> 776, <HI REND="italic">groves: boghes</HI> 41 u. ö. Dagegen haben wir es mit Doppel∣formen zu tun bei <HI REND="italic">neste</HI> vom nördlichen Positiv <HI REND="italic">nee: breste</HI> 308 und <HI REND="italic">next: text</HI> 740. Eine Reihe Reime mit bloss scheinbaren Konsonanten-Unreinheiten braucht uns hier nicht aufzuhalten.</P>
+<P>In vokalischer Hinsicht ist quantitative Unreinheit fest∣zustellen bei <HI REND="italic">sees: bestees</HI> 35, <HI REND="italic">hald: cald</HI> 21 u. ö., <HI REND="italic">dose: felose</HI> 9, <HI REND="italic">herer: er</HI> 545, <HI REND="italic">sonn: contemplacioun</HI> 743, <HI REND="italic">place: wase</HI> 927, während in <HI REND="italic">ten</HI> (: men) 433 wohl schon Kürzung, in <HI REND="italic">wende</HI> (: fende) 13 vielleicht Dehnung eingetreten war. Qualitative Unreinheit in
+<PB N="361" REF="23"/>
+Vokalen liegt vor bei <HI REND="italic">swete: ette</HI> 167, 431, <HI REND="italic">bene: clene</HI> 625, <HI REND="italic">for∣gefe: forgrefe</HI> 403, vielleicht in <HI REND="italic">groves: boghes</HI> 41 u. ö. In <HI REND="italic">marred: werld</HI> 291, 681 u. dgl. ist natürlich älteres <HI REND="italic">merred</HI> und die berech∣tigte Doppelform <HI REND="italic">werd</HI> einzusetzen.</P>
+<P>Dialektische Reime. Was Vokale betrifft, ist ags. <HI REND="italic">ae</HI> niemals in südlicher Weise auf <HI REND="italic">e</HI> gebunden—<HI REND="italic">was: pas</HI> 66,: <HI REND="italic">place</HI> 928, <HI REND="italic">hase: solace</HI> 402. Langes <HI REND="italic">a</HI> ist in nördlicher Art durchaus bewahrt: 21 = 784 = 846 = 860, 154, 213 = 447, 449, 502, 533, 603 = 912, 643. Immer ist ags. <HI REND="italic">y, ŷ</HI> in anglischer Weise entrundet: 311, 456, 553 = 676 = 706 = 841, 785, 787; 89 = 183, 639, 662, 672. Für ags. <HI REND="italic">êa</HI> oder an. <HI REND="italic">œ̂</HI> + <HI REND="italic">j</HI> steht in nördlicher Art <HI REND="italic">ee—hee: tre</HI> 684, 894, <HI REND="italic">sle: tre</HI> 428. Dehnung des <HI REND="italic">i, u</HI> in offener Silbe ist häufig—<HI REND="italic">lyfes: grefes</HI> 151, -<HI REND="italic">schepe: kepe</HI> 334, 440, 883; <HI REND="italic">lofe: profe</HI> 754, 877. Dass ws. <HI REND="italic">œ̂,</HI> ang. <HI REND="italic">ê</HI> bald mit offenem <HI REND="italic">e</HI> (122, 667, 772, 794, 929), bald mit geschlossenem (278, 297, 730, 879, 856) gefügt wird, fällt bei der Gleichgültigkeit unseres Reimers gegen diese beiden Laute nicht ins Gewicht. Sehr charakteristisch aber für den Norden ist die Bindung von <HI REND="italic">ô: ü—dose: vertuse</HI> 189,: <HI REND="italic">use</HI> 563.</P>
+<P>Die Konsonanten erfahren vielfach ausgesprochen nördliche Behandlung. So ist in <HI REND="italic">wirke</HI> (: irke) 311 die gutturale Tenuis be∣wahrt, in <HI REND="italic">ta</HI> (: ga) 214 und <HI REND="italic">mase</HI> (: slase) 533 gefallen. Für ags. <HI REND="italic">dêaþ</HI> erscheint <HI REND="italic">dede</HI> (: red) 121. Häufig reimt auslautendes <HI REND="italic">s: sh—flesh: -nes</HI> 7 u. ö., <HI REND="italic">englis: tretis</HI> 918.—Dass in der Ableitung ags. -<HI REND="italic">lice</HI> der Geräuschlaut bereits regelmässig gefallen ist (100, 149, 196, 373, 441 u. ö.), spricht gegen eine zu hohe Hinaufrückung des Gedichtes ins 14. Jahrhundert.</P>
+<P>Von unbetonten Vokalen sind die der Bildungssuffixe gut bewahrt, z. B. <HI REND="italic">certayne: in vayne</HI> 437, <HI REND="italic">batayles: awayles</HI> 702, was uns verhindern wird, das Gedicht ins 15. Jahrhundert hinab∣zurücken. Der unsicherste Suffixreim ist wohl <HI REND="italic">feelus, folows: vertus</HI> 776. Die Flexions-<HI REND="italic">e</HI> sind sehr häufig vom Dichter ignoriert, z. B. 13, 21, 65 u. ö., wozu auch der Rhythmus des Versinnern stimmt.</P>
+<P>Flexion. Das Verb flektiert fast ausschliesslich nördlich. 2. Sing. <HI REND="italic">sees: degrees</HI> 163, 203, 732; vgl. auch <HI REND="italic">gase: hase</HI> 3. Sing. 447.—3. Sing. auf -<HI REND="italic">es</HI> ist häufig: 83, 173, 186, 295, 415, 447, 486, 495, 550, 554, 564, 675, 770, 776, 794. Verb. subst. lautet immer -<HI REND="italic">es:</HI> 25, 103 usw.; nur einmal <HI REND="italic">is: blys</HI> 536.—Plur. endet auf -<HI REND="italic">es,</HI> wie 9, 35 (Sing.?) usw. Nach pronominalem Subjekt jedoch fehlt stets die Endung: 81, 108 usw., ausser in <HI REND="italic">we . . . ledes</HI> 772, wo so viele Wörter zwischen Subjekt und Verb standen, dass die Art des Subjekts leicht vergessen werden konnte. Vom verb. subst. zeigt der Plur. die nördliche Analogieform <HI REND="italic">ere: dere</HI> 512.—Der Konjunktiv bewahrt im Plur. noch sein <HI REND="italic">n—bene: clene</HI> 625; vgl. auch 24, 146.—Infinitiv stets ohne <HI REND="italic">n</HI> ausser <HI REND="italic">to bene: schene</HI>
+<PB N="362" REF="24"/>
+628; natürlich immer ohne -<HI REND="italic">i</HI>-: 376, 511, 787, 909; auch ohne die südlichen Scheideformen <HI REND="italic">segge</HI> 2, 140, <HI REND="italic">habbe</HI> 236, 857, 873. Be∣merkenswert ist der Infinitiv <HI REND="italic">grewe</HI> für ae. <HI REND="italic">grôwan,</HI> der sich wohl aus der an. Konjugation 1. <HI REND="italic">grô,</HI> 2. <HI REND="italic">grœ̂r,</HI> 3. <HI REND="italic">grœ̂r</HI> erklärt: 429, 452, 469. Natürlich nördl. <HI REND="italic">gange</HI> 265.—St. Part. Perf. stets auf <HI REND="italic">n: sene</HI> 23, 145, 473, 818, <HI REND="italic">done</HI> 198. Schwach erscheint <HI REND="italic">gett: sett</HI> 476.—Part. Präs. immer auf -<HI REND="italic">and</HI> 398, 750, 836, 843, 900, 904, ausgenommen <HI REND="italic">in tyme coming: to gode lyfeyng</HI> 931, wo Entlehnung aus der südlichen Kirchensprache vorliegen dürfte.</P>
+<P>Eine nördliche Pronominalform liegt vor in <HI REND="italic">þir: spyr</HI> 788.</P>
+<P>Danach ist es kaum mehr nötig, auf die besonders zahl∣reichen altnordischen Elemente des Wortschatzes zu verweisen, um den nördlichen Charakter des Denkmals zu sichern. Wenn <HI REND="italic">lawes</HI> 543 von afrz. <HI REND="italic">laver</HI> kommt, dürfte der Reim auf <HI REND="italic">knawes</HI> sogar mit einiger Wahrscheinlichkeit auf Schottland als Heimat des Dichters deuten; doch gibt die Stelle auch guten Sinn, wenn man das Wort von an. <HI REND="italic">lâgr</HI> herleitet und mit 'sich verdemütigen' übersetzt.</P>
+<CLOSER><SIGNED>K. Schreiner.</SIGNED></CLOSER>
+</DIV2>
+<DIV2 TYPE="part">
+<P>Der Dichter nennt v. 919 <HI REND="italic">bokes sere</HI> als die Quellen seines Verstraktates; wir dürfen also annehmen, dass wir es mit einer Originaldichtung zu tun haben, die nach mehreren religiösen Schriften kompiliert ist.</P>
+<P>Der geistliche Verfasser—<HI REND="italic">a haly man</HI> nennt er sich v. 925—trägt seine Bibelkenntnis nicht ungern zur Schau. Dreimal zitiert er Vulgatastellen: im Anfang <HI REND="italic">Elongavi fugiens et mansi in soli∣tudine,</HI> Psalm LIV, 8, auf Davids Aufenthalt in der idumäischen Wüste bezüglich; v. 18 <HI REND="italic">Ductus est Jesus in desertum a spiritu, ut temptaretur a diabolo,</HI> Matth. IV, 1; v. 898 <HI REND="italic">Invenit eum in terra deserta, in loco horroris et v[astae] s[olitudinis],</HI> Deuteronomium XXX, 10, aus Mosis Lied von der Erhöhung des in der Wüste aufgefundenen Jakob. Auch sonst fehlt es nicht an Hinweisen auf Bibelstellen ohne die Anführung des Wortlautes: v. 81 = Ps. I, 3; v. 462 = Numeri XIV, 33-34; v. 517 (Baum des Lebens) = Genesis VI.</P>
+<P>Nach der Art mittelalterlicher Dichter, die bekanntlich den Schein der Originalität meiden, beruft sich der Dichter häufig auf seine Quellen in meist formelhaften Wendungen: 201 <HI REND="italic">as clerkes in bokes cane rede,</HI> 223 <HI REND="italic">als þe boke telles,</HI> 419 <HI REND="italic">als in boke is founden,</HI> 481 f. <HI REND="italic">Þis philozophurs, þat ar wyse, Of þaim spekes apon þis wyse,</HI> 514 <HI REND="italic">Als telles þe boke of pryuete,</HI> 770 <HI REND="italic">als scripture telles.</HI> Derartige Anspielungen sind so unbestimmt, dass man nur durch Zufall aus der grossen kirchlichen Literatur die Vorlage des Dich∣ters herausfinden könnte. Auch die in v. 287 angezogene Stelle aus Augustins Predigten habe ich nicht feststellen können.</P>
+<P><PB N="363" REF="25"/>
+An einem Beispiel jedoch können wir sehen, wie eng der Verfasser sich manchmal an seine Vorlage angeschlossen hat. Im v. 790 wird der heilige Thomas erwähnt, der, wie uns Jacobus a Voragine in der 'Legenda aurea' (ed. Graesse, Dresdae et Lipsiae 1843, p. 33) berichtet, von Gott selbst den Auftrag erhalten hat, zu den Indern zu gehen. Die v. 775 ff. aufgezählten zwölf Grade der Tugenden finden sich in einer Predigt dieses Heiligen, a. a. O. S. 36: Tunc apostolus coepit eos docere et duodecim gradus vir∣tutum assignare. Primus est, ut in Deum crederent, qui est unus in essentia et trinus in personis, deditque iis triplex exemplum sensibile, quomodo sint in una essentia tres personae. ... Secundus gradus est, ut baptismum acciperent. Tertius est, ut se a forni∣catione continerent. Quartus, ut se ab avaritia temperarent. Quin∣tus, ut gulam restringerent. Sextus, ut poenitentiam tenerent. Septimus, ut in his perseverarent. Octavus, ut hospitalitatem amarent. Nonus, ut voluntatem Dei in faciendis quaererent et ea ope complerent. Decimus, ut eam in non faciendis quaererent et ea vitarent. Undecimus, ut caritatem amicis et inimicis impenderent. Duodecimus, ut in custodiendis his vigilem curam haberent.</P>
+<P>Das Interessanteste an unserem Gedicht ist die Kühnheit, mit der Bilder herangezogen und symbolisch gedeutet werden. Das Bild einer Wüste stellt den Rahmen dar, der die einzelnen Kapitel zusammenhält, und jeder Baum in dieser Wüste wird in einem besonderen Abschnitt erklärt. Da die menschliche Natur Tugenden und Laster aufweist, so müssen auch die Bäume gut oder schlecht sein; der Dichter kennt das Bibelwort Luc. VI, 13: Non potest arbor bona malos fructus facere, neque arbor mala bonos fructus facere.</P>
+<P>Die Mystik liebte solche Allegorien, da sie ihr ein Mittel zur Wirkung auf das Gemüt, zur Erweckung von Empfindungen an die Hand gaben. Schon Rabanus Maurus stellte in einer beson∣deren Schrift die 'Allegoriae in universam sacram scripturam' zu∣sammen, da er sie für einen der wertvollsten Bestandteile der biblischen Sprache hielt. In dem Vorwort—vgl. Patrologia ed. Migne CXII p. 849 f.—heisst es: Quisquis ad sacrae Scripturae notitiam desiderat pervenire, prius diligenter consideret quando historice, quando allegorice, quando anagogice, quando tropologice suam narrationem contexat ... Allegoria vero aliquid in se plus continet, quod per hoc quod locus de rei veritate ad quiddam dat intelligendum de fidei puritate, et sanctae Ecclesiae mysteria, sive praesentia, sive futura, aliud dicens, aliud significans, semper autem figmentis et velatis ostendit ... Dum enim haec, de qua loquimur, sacra Scriptura verba historiae simpliciter narrat, quasi inchoando fundamentum aedifici jactat, et dum per allegoriae exercitium fidei mysteria pandit, fabricam mentis in amorem veritatis extollit dum vero per anagogiae sublimitatem
+<PB N="364" REF="26"/>
+de aeternis supernae patriae gaudiis disserit, quodammodo tectum superponit: dum autem mysticum in tropologia, intellectum per contemplationum investigat exercitium, de quo loquimur, spirituale aedificium diversis virtutibus, tam iis quae intus ad Dominum quam quae extra pertinent ad proximum. In der Abhandlung selbst umschreibt Rabanus die für uns hauptsächlich in Betracht kommenden Bilder unter Heranziehung von Belegen aus der Bibel folgendermassen: arbor = Christus, crux, humilis Dei scientia, fides robusta, bona voluntas, voluntas mala, perfectus quilibet in fide, humana natura, tota simul reproborum massa, hic mundus, haeredici; desertum = ... multitudo impiorum, mens prava, mens sancta, sancta conversatio, daemones; solitudo = gentilitas, quies mentis—hier wird Psalm LIV, 8 zitiert: Et mansi in solitudine, id est, perseveravi in interna mentis quiete—; ligna = ... vir∣tutes spirituales, operationes bonae.</P>
+<P>In der späteren Patristik finden wir ähnliche Auslegungen der Allegorien, die zum Teil geradezu als festgelegte Formeln erscheinen. Garner, ein Pariser Kanonikus aus der zweiten Hälfte des 12. Jahrhunderts, schrieb ein 'Gregorianum, hoc est allegoricae omnium pene rerum in Bibliis contentarum explanationes promptae ex universis D. Gregorii papae scriptis'; vgl. Patrologia ed. Migne CXCIII. Er erklärt p. 288 <HI REND="italic">desertum</HI> mit <HI REND="italic">cor fidelium vel multi∣tudo immundorum spirituum,</HI> (269) <HI REND="italic">haeredicorum dogmata vel vitae temporalis commoda; solitudo</HI> wird umschrieben mit <HI REND="italic">quies mentis</HI> (269), <HI REND="italic">gentilitas</HI> (270), <HI REND="italic">separatio ab Ecclesia</HI> (271), <HI REND="italic">lignum</HI> mit <HI REND="italic">Dei sapientia</HI> (329), <HI REND="italic">anima humana</HI> (331).</P>
+<P>Von dem Abte Gottfried in dem steirischen Kloster Admont haben wir aus der ersten Hälfte des 12. Jahrhunderts eine Predigt über die Worte Matth. IV: <HI REND="italic">Ductus est Jesus in desertum</HI> ..., die auch dem Verfasser unseres Gedichtes als Ausgangspunkt dienen; vgl. Patrologia CLXXIV p. 165 ff. Hier heisst es p. 170: Per desertum cor hominis intelligitur, quod a vero et sancto habitatore, Spiritu sancto, est derelictum, in quo sunt animalia pusilla cum magnis, animales, dico, et bestiales luxus carnalium desideriorum, bestialis natio et partus efferarum et inutilium cogitationum, semi∣narium nefandorum verborum et operum ...</P>
+<P>Aus diesen wenigen Zeugnissen geht hervor, dass die un∣serem Gedicht zugrunde liegende Allegorie den Mystikern durch∣aus geläufig war. Wenn wir auch sicherlich dem englischen Dichter in der eingehenderen Ausgestaltung seiner Symbolik Originalität nicht absprechen können, so bewegt er sich doch in der Wahl seines Bilderschmuckes ebensosehr in der Bahn des in der Mystik Herkömmlichen wie in der auf eine <HI REND="italic">vita contemplativa</HI> gerichteten Gesamttendenz seiner Dichtung.</P>
+<CLOSER><DATELINE>Berlin.</DATELINE>
+<SIGNED>W. Hübner.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

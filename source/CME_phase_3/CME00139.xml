@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-24-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; added HEAD text and BYLINE text; removed prose fragment at beginning; restructured throughout, adding ABs, LABELs, LBs, and removing Ls and LGs. Checked placement and completeness of PBs; moved numerous PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00139">
+<STC T="M">139</STC>
+<BIBNO T="mec">CME00139</BIBNO>
+<VID>CME00139</VID>
+</IDG>
+<TEXT LANG="eng">
+<BODY>
+<DIV1 TYPE="collection of proverbs">
+<PB N="44" REF="1"/>
+<HEAD>Die mittelenglische Sprichwörtersammlung in Douce 52.</HEAD>
+<BYLINE>Von Max Förster.</BYLINE>
+<AB TYPE="proverb" N="1">
+<LABEL>1</LABEL>
+<LB/>He þ<HI REND="italic">a</HI>t doth as can,
+<LB/>Blame hy<HI REND="italic">m</HI> no ma<HI REND="italic">n.</HI>
+<LB/><HI REND="italic">Non e</HI>st <HI REND="italic">culpand</HI>us <HI REND="italic">faci</HI>ens <HI REND="italic">q</HI>uo<HI REND="italic">d scit, s</HI>ed <HI REND="italic">ama</HI>n<HI REND="italic">d</HI>us.
+</AB>
+<DIV2 N="D" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra D.</HEAD>
+<AB TYPE="proverb" N="2">
+<LABEL>2</LABEL>
+<LB/>He þ<HI REND="italic">a</HI>t a lytul me ȝeuyth, to me wyllyth longe lyffe.
+<LB/><HI REND="italic">Q</HI>u<HI REND="italic">i modicu</HI>m <HI REND="italic">m</HI>ih<HI REND="italic">i dat,</HI> <HI REND="italic">m</HI>ih<HI REND="italic">i vita</HI>m <HI REND="italic">lo</HI>n<HI REND="italic">gi</HI>us <HI REND="italic">optat.</HI>
+</AB>
+<AB TYPE="proverb" N="3">
+<LABEL>3</LABEL>
+<LB/>Ȝefe me <HI REND="italic">and</HI> I the,
+<LB/><HI REND="italic">And</HI> so schul we fre<HI REND="italic">n</HI>d<HI REND="italic">us</HI> be.
+<LB/><HI REND="italic">Des m</HI>ih<HI REND="italic">i demq</HI>ue <HI REND="italic">t</HI>ib<HI REND="italic">i;</HI> <HI REND="italic">sic nos iu</HI>n<HI REND="italic">gem</HI>ur <HI REND="italic">amici.</HI>
+</AB>
+<AB TYPE="proverb" N="4">
+<LABEL>4</LABEL>
+<LB/>Oft bryngeth on day, <NOTE PLACE="foot">4. Rawlinson-Prov. (Engl. Stud. XXI 16): <HI REND="italic">On dai bringd, thet al ier ne mai;</HI> J. Heywood's Proverbs, 1546 (ed. Sharman S. 67): <HI REND="italic">It hapth in one houre, that hapth not in seven yeare.</HI></NOTE>
+<LB/>Þ<HI REND="italic">a</HI>t all þe ȝere not may.
+<LB/><HI REND="italic">Sepe dat vna dies, fert</HI><SUP>1</SUP> <HI REND="italic">ann</HI>us <HI REND="italic">q</HI>uo<HI REND="italic">d neq</HI>ue<NOTE N="1" PLACE="foot">Lies <HI REND="italic">ferre</HI> und <HI REND="italic">nequit</HI> (Bradley).</NOTE> <HI REND="italic">vn</HI>us.
+</AB>
+<AB TYPE="proverb" N="5">
+<LABEL>5</LABEL>
+<LB/>Bett<HI REND="italic">er</HI> is herde sorow þan seen.
+<LB/><HI REND="italic">Est dolor auditu tollerabilior t</HI>ib<HI REND="italic">i visu.</HI>
+</AB>
+<AB TYPE="proverb" N="6">
+<LABEL>6</LABEL>
+<LB/>Eu<HI REND="italic">er</HI> is my tonge, þ<HI REND="italic">er</HI> the toth akys.
+<LB/><HI REND="italic">Quo dolor est dent</HI>is, <HI REND="italic">v</HI>er<HI REND="italic">sat</HI>ur <HI REND="italic">ling</HI>u<HI REND="italic">a dole</HI>n<HI REND="italic">t</HI>is.
+</AB>
+<AB TYPE="proverb" N="7">
+<LABEL>7</LABEL>
+<LB/>Ferr<HI REND="italic">e</HI> jfet <HI REND="italic">and</HI> der<HI REND="italic">e</HI> j-bowȝt is goode for ladys. <NOTE PLACE="foot">7. J. Heywood S. 67: <HI REND="italic">Deare bought and far fet are dainties for Ladies;</HI> Lyly's Euphues, 1579 (ed. Arber p. 93): <HI REND="italic">Farre fet and deere bought is good for Ladyes;</HI> Stubbs, Anatomy of Abuses, 1583 (Oxf. Dict.): <HI REND="italic">Farre fetched and deare boughte is good for Ladyes;</HI> J. Marston, Malcontent, 1604 (bei Sharman): <HI REND="italic">Some far fet trick, good for ladies;</HI> Beaumont &amp; Fletcher, Wit at Several Weapons, 1647 (bei Sharman): <HI REND="italic">Far fetched; therefore good for you, lady;</HI> De∣foe, Tour Gr. Brit., 1769 (Oxf. Dict.): <HI REND="italic">Farfetch'd, and dear bought, is fittest for the Ladies.</HI></NOTE>
+<LB/><HI REND="italic">Res longe lata b</HI>e<HI REND="italic">n</HI>e <HI REND="italic">fit d</HI>omi<HI REND="italic">nab</HI>us <HI REND="italic">amata.</HI>
+</AB>
+<AB TYPE="proverb" N="8">
+<PB N="45" REF="2"/>
+<LABEL>8</LABEL>
+<LB/>Aft<HI REND="italic">er</HI> mete disshes ben rybe<NOTE N="1" PLACE="foot">Lies <HI REND="italic">rive</HI> (H. Bradley).</NOTE>.
+<LB/><HI REND="italic">Crebrescu</HI>n<HI REND="italic">t vacui c</HI>er<HI REND="italic">te p</HI>ost <HI REND="italic">p</HI>r<HI REND="italic">andia disci.</HI>
+</AB>
+<AB TYPE="proverb" N="9">
+<LABEL>9</LABEL>
+<LB/>Helpe God and haue alle <NOTE PLACE="foot">9. Vgl. Havelock 648: <HI REND="italic">Þer God wile helpen, nouht ne dereth</HI> (?).</NOTE>
+<LB/><HI REND="italic">Det Deus auxiliu</HI>m, <HI REND="italic">fiat</HI> et <HI REND="italic">o</HI>mn<HI REND="italic">e suu</HI>m.
+</AB>
+<AB TYPE="proverb" N="10">
+<LABEL>10</LABEL>
+<LB/>At euene p<HI REND="italic">r</HI>ayse þe fayr<HI REND="italic">e</HI> day. <NOTE PLACE="foot">10. Hendyng, Cambr. Hs. Nr. 34: <HI REND="italic">At eve man scal þe dai heri</HI> und Oxf.|Hs. Nr. 33: <HI REND="italic">At even me shal preisen þe feire dai.</HI></NOTE>
+<LB/><HI REND="italic">Vesp</HI>er<HI REND="italic">e detur ei, si laus sit da</HI>n<HI REND="italic">da diei.</HI>
+</AB>
+<AB TYPE="proverb" N="11">
+<LABEL>11</LABEL>
+<LB/>Seldu<HI REND="italic">n</HI> comyth on harme <HI REND="italic">and</HI> no mo.
+</AB>
+<AB TYPE="proverb" N="12">
+<LABEL>12</LABEL>
+<LB/>Who is ferr<HI REND="italic">e</HI> fro<HI REND="italic">m</HI> his disshe, is nyhgh his harme.
+</AB>
+<AB TYPE="proverb" N="13">
+<LABEL>13</LABEL>
+<LB/>Blessyd be þe peny, þ<HI REND="italic">a</HI>t bryngyth too home.
+</AB>
+<AB TYPE="proverb" N="14">
+<LABEL>14</LABEL>
+<LB/>Of a litul me ȝeuyth a litul.
+</AB>
+<AB TYPE="proverb" N="15">
+<LABEL>15</LABEL>
+<LB/>The ner<HI REND="italic">e</HI> the chyrch<HI REND="italic">e,</HI> þe fer fro Crist. <NOTE PLACE="foot">15. J. Heywood S. 35: <HI REND="italic">The neer to the church, the further from God.</HI></NOTE>
+</AB>
+</DIV2>
+<DIV2 N="E" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra E.</HEAD>
+<AB TYPE="proverb" N="16">
+<LABEL>16</LABEL>
+<LB/>Spende, <HI REND="italic">and</HI> God wyl sende; <NOTE PLACE="foot">16. J. Heywood S. 115 nur: <HI REND="italic">Ever spare, and ever bare.</HI></NOTE>
+<LB/>Spar<HI REND="italic">e, and</HI> euer<HI REND="italic">e</HI> bar<HI REND="italic">e.</HI>
+<LB/><HI REND="italic">Expendas late, mittet De</HI>us <HI REND="italic">o</HI>mni<HI REND="italic">a grate.</HI>
+</AB>
+<AB TYPE="proverb" N="17">
+<LABEL>17</LABEL>
+<LB/>Short hors is son j-curryed. <NOTE PLACE="foot">17. J. Heywood S. 39: <HI REND="italic">A short horse is soone currid.</HI></NOTE>
+<LB/><HI REND="italic">Sufficit exiguo st</HI>r<HI REND="italic">igila</HI>ti<HI REND="italic">o curta caballo.</HI>
+</AB>
+<AB TYPE="proverb" N="18">
+<LABEL>18</LABEL>
+<LB/>Eu<HI REND="italic">er</HI> lenger, þe wors lokys þe blynde hors.
+<LB/><HI REND="italic">Semp</HI>er <HI REND="italic">cec</HI>us <HI REND="italic">equus sp</HI>e<HI REND="italic">ctat pei</HI>us et <HI REND="italic">puto pei</HI>us.
+</AB>
+<AB TYPE="proverb" N="19">
+<LABEL>19</LABEL>
+<LB/>Who-so wyl abyde, <NOTE PLACE="foot">19. Alisaundre V. 4291: <HI REND="italic">He that can his tyme abide, Ofte he schal his wille betyde.</HI> Vgl. Hendyng Harl.-Hs. Nr. 31: <HI REND="italic">Wel abit, þat wel may þolye</HI> und Oxf. Hs. Nr. 41: <HI REND="italic">Muchel of his wille abit, þat wel may þolien</HI> (Kneuer S. 23).</NOTE>
+<LB/>He schal wel be-tyde.
+</AB>
+<AB TYPE="proverb" N="20">
+<LABEL>20</LABEL>
+<LB/>While þe grasse growes, þe goode hors st<HI REND="italic">er</HI>ues. <NOTE PLACE="foot">20. Capgrave, Life of St. Katherine, ca. 1440 (Oxf. Dict.): <HI REND="italic">The gray hors, whyl his gras growyth, May sterue for hunger;</HI> R. Hilles, Common∣Place Book, ca. 1530 (Oxf. Dict.): <HI REND="italic">Whyle the grasse growyth, the hors stervyth;</HI>J. Heywood S. 64: <HI REND="italic">While the grasse groweth, the horse starveth;</HI> Whetstone, Promos and Cassandra, 1578 (bei Malone und Sharman): <HI REND="italic">Whylst grass doth growe, oft sterves the seely steede;</HI> Harl. Ms. 2321 (16. Jh. = Reliquiae An∣tiquae I 208): <HI REND="italic">While the grasse growes, the steede starves;</HI> The Paradise of Daintie Devises, 1578 (Malone): <HI REND="italic">While grass doth growe, the silly horse he starves;</HI> Shakspere, Hamlet III 2, 327: <HI REND="italic">I sir, but 'while the grasse growes',—the prouerbe is something musty</HI> (Q<SUB>2</SUB>).</NOTE>
+</AB>
+<AB TYPE="proverb" N="21">
+<PB N="46" REF="3"/>
+<LABEL>21</LABEL>
+<LB/>Who-so goth to chirch aȝenst his will, he comyth home acursyd.
+</AB>
+<AB TYPE="proverb" N="22">
+<LABEL>22</LABEL>
+<LB/>When þe hors is stole, steke þe stabull-dor<HI REND="italic">e.</HI><NOTE PLACE="foot">22. J. Heywood S. 44: <HI REND="italic">When the steede is stolne, shut the stable durre;</HI> Devises of Sundrie Gentlemen (bei Sharman): <HI REND="italic">The steede was stollen, before I shut the gate.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="23">
+<LABEL>23</LABEL>
+<LB/>While þe hors kykys, war that he the ne smyte.
+</AB>
+<AB TYPE="proverb" N="24">
+<LABEL>24</LABEL>
+<LB/>H<HI REND="italic">i</HI>t is bett<HI REND="italic">er</HI> not to be, than not to well be<NOTE N="1" PLACE="foot">Vielleicht <HI REND="italic">well to be?</HI></NOTE>.
+<LB/><HI REND="italic">Prestat no</HI>n <HI REND="italic">e</HI>ss<HI REND="italic">e, q</HI>u<HI REND="italic">am no</HI>n <HI REND="italic">felicit</HI>er <HI REND="italic">e</HI>ss<HI REND="italic">e.</HI>
+</AB>
+<AB TYPE="proverb" N="25">
+<LABEL>25</LABEL>
+<LB/>Who-so byldeth aft<HI REND="italic">er</HI> eu<HI REND="italic">er</HI>y ma<HI REND="italic">n</HI> his howse, h<HI REND="italic">i</HI>t schall stonde a-croke.
+</AB>
+<AB TYPE="proverb" N="26">
+<LABEL>26</LABEL>
+<LB/>Kepe þe fro car<HI REND="italic">e,</HI>
+<LB/><HI REND="italic">And</HI> blesse þe fro þe mar<HI REND="italic">e.</HI>
+</AB>
+</DIV2>
+<DIV2 N="F" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra F.</HEAD>
+<AB TYPE="proverb" N="27">
+<LABEL>27</LABEL>
+<LB/>Who-so sparyth to speke, sparyth to spede.<NOTE PLACE="foot">27. J. Heywood S. 67: <HI REND="italic">Spare to speak, spare to speed.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="28">
+<LABEL>28</LABEL>
+<LB/>Hungur brekyth ston<HI REND="italic">e and</HI> walle.<NOTE PLACE="foot">28. J. Heywood S. 82: <HI REND="italic">Hunger pearceth stone wall;</HI> Shakspere, Corio∣lanus I 1, 210: <HI REND="italic">Hunger broke stone-walls;</HI> Topsell Serpents, 1608 (Oxf. Dict.): <HI REND="italic">Hunger breaketh stone-walls.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="29">
+<LABEL>29</LABEL>
+<LB/>Hungur makyth harde benys swete.<NOTE PLACE="foot">29. J. Heywood S. 50: <HI REND="italic">Hunger maketh hard beans sweet.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="30">
+<LABEL>30</LABEL>
+<LB/>Welle wer<HI REND="italic">e</HI> hym, þ<HI REND="italic">a</HI>t<NOTE N="2" PLACE="foot">Lies <HI REND="italic">þat wist.</HI></NOTE> to wha<HI REND="italic">m</HI> he myȝht<NOTE N="3" PLACE="foot"><HI REND="italic">y</HI> ist aus ȝ verbessert.</NOTE> t<HI REND="italic">r</HI>ist, <NOTE PLACE="foot">30. Aschmole Ms. 1438 (XV. Jh.) II p. 82 (Catal. Codd. Mss. Bodleianae P. X 1845): <HI REND="italic">Wel were hym, þat wyst, / to wham he moght trist / yn tyme off nede: / Beter were he, þat knew / the falce fro the trew / clothyd yn oon wede.</HI></NOTE>
+<LB/>And so were hym, þ<HI REND="italic">a</HI>t knew false fro þe trewe.
+<LB/><HI REND="italic">Est b</HI>e<HI REND="italic">n</HI>e, <HI REND="italic">q</HI>u<HI REND="italic">i noscet, in q</HI>u<HI REND="italic">o confidere quiret</HI><NOTE N="4" PLACE="foot">Prof. P. Wolters schlägt vor, wegen <HI REND="italic">noscet</HI> hier <HI REND="italic">posset</HI> zu lesen.</NOTE>.
+<LB/><HI REND="italic">Felix q</HI>u<HI REND="italic">i sciret, in q</HI>u<HI REND="italic">o</HI> con<HI REND="italic">fider</HI>e <HI REND="italic">quiret;</HI>
+<LB/><HI REND="italic">Sic</HI> et <HI REND="italic">q</HI>u<HI REND="italic">i fidu</HI>m<NOTE N="5" PLACE="foot">Lies <HI REND="italic">infidum</HI> (H. Bradley).</NOTE> <HI REND="italic">cognorou</HI>er<HI REND="italic">it</HI> et <HI REND="italic">m</HI>od<HI REND="italic">o fidu</HI>m.
+</AB>
+<AB TYPE="proverb" N="31">
+<PB N="47" REF="4"/>
+<LABEL>31</LABEL>
+<LB/>Euyl spu<HI REND="italic">n</HI>nu<HI REND="italic">n</HI> ȝerne comyth euyll oute.<NOTE PLACE="foot">31. Hendyng, Harl.-Hs. Nr. 34: <HI REND="italic">Euer out comeþ euel sponne web,</HI> Oxf.-Hs. Nr. 37: <HI REND="italic">Evere comeþ out uvel sponnen wolle,</HI> Cambr.-Hs. Nr. 39: <HI REND="italic">Ever comith out liþre spon web;</HI> Towneley Mysteries II 435: <HI REND="italic">Ill spon weft ay comes foul out;</HI> How the Wise Man taught his Son V. 7 f.: <HI REND="italic">But ȝarn that is oft-tyme yll sponne, Euyll hyt comys out at the last.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="32">
+<LABEL>32</LABEL>
+<LB/>Do welle and haue welle. <NOTE PLACE="foot">32. J. Heywood S. 153: <HI REND="italic">Doe well and have well.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="33">
+<LABEL>33</LABEL>
+<LB/>Rodun<NOTE N="1" PLACE="foot">Wohl mit H. Bradley in <HI REND="italic">Bodun</HI> zu verbessern.</NOTE> seruycys stynkys. <NOTE PLACE="foot">33. Chaucer, Cant. Tales G 1066: <HI REND="italic">Profred servyse stynketh</HI> (Haeckel S. 47); J. Heywood S. 105.: <HI REND="italic">Proferd service stinketh.</HI></NOTE>
+<LB/><HI REND="italic">Omn</HI>i<HI REND="italic">b</HI>us <HI REND="italic">oblat</HI>us <HI REND="italic">sorder</HI>e <HI REND="italic">solet famulat</HI>us.
+</AB>
+<AB TYPE="proverb" N="34">
+<LABEL>34</LABEL>
+<LB/>Welle worth alle-moost don<HI REND="italic">e.</HI>
+<LB/><HI REND="italic">Res b</HI>e<HI REND="italic">n</HI>e <HI REND="italic">laudat</HI>ur; <HI REND="italic">cu</HI>m <HI REND="italic">ferme p</HI>er<HI REND="italic">ficat</HI>ur.
+</AB>
+<AB TYPE="proverb" N="35">
+<LABEL>35</LABEL>
+<LB/>Ese makyth thefe. <NOTE PLACE="foot">35. Hali Meidenhad S. 17: <HI REND="italic">Eise makeđ þeof.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="36">
+<LABEL>36</LABEL>
+<LB/>On betyth þe buske, a-noþ<HI REND="italic">er</HI> hathe<NOTE N="2" PLACE="foot">Lies <HI REND="italic">hath the.</HI></NOTE> brydde. <NOTE PLACE="foot">36. Ipomadon V. 6021 f.: <HI REND="italic">On the bushe bettes one, A-nothere man hath the bryde;</HI> Gower, Conf. Am. II 2355 f: <HI REND="italic">He... takth the bridd to his beyete, Wher othre men the buisshes bete;</HI> Lydgate, Falls of Princes I 14, 41: <HI REND="italic">One beateth the bush, another hath the sparrow;</HI> Generides V. 4524: <HI REND="italic">Some bete the bussh, and some the byrdes take;</HI> J. Heywood S. 13: <HI REND="italic">While I ... beate the bush, ... other men ... catch the burdes;</HI> H. Pettowe, Philochasander and Elanira, 1599 (bei Sharman): <HI REND="italic">I beat the bush, and others catch the bird.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="37">
+<LABEL>37</LABEL>
+<LB/>Yf þ<HI REND="italic">o</HI>u wylle hole be, lete all frute be.
+</AB>
+<AB TYPE="proverb" N="38">
+<LABEL>38</LABEL>
+<LB/>Þe last worde byndeth þe tale. <NOTE PLACE="foot">38. Sarmun, ab. 1300, V. 211 (Early English Poems, ed. Furnivall, S. 6 = Mätzner Sprachproben I 119): <HI REND="italic">þe last word bint þe tale.</HI></NOTE>
+</AB>
+</DIV2>
+<DIV2 N="G" TYPE="letter">
+<HEAD>[G].</HEAD>
+<AB TYPE="proverb" N="39">
+<LABEL>39</LABEL>
+<LB/>A cock wer<HI REND="italic">e</HI> a feyr<HI REND="italic">e</HI> fowle, ner<HI REND="italic">e</HI> he wher<HI REND="italic">e</HI><NOTE N="3" PLACE="foot"><HI REND="italic">where</HI> ist zu streichen.</NOTE> ofte j-seyn.
+</AB>
+<AB TYPE="proverb" N="40">
+<LABEL>40</LABEL>
+<LB/>All h<HI REND="italic">i</HI>t is for wo,
+<LB/>Þ<HI REND="italic">a</HI>t þe hen syng<HI REND="italic">e</HI>s i<HI REND="italic">n</HI> snowe.
+</AB>
+<AB TYPE="proverb" N="41">
+<LABEL>41</LABEL>
+<LB/>Þe g<HI REND="italic">r</HI>ace of God is bett<HI REND="italic">er</HI> þen III feyrys.
+<LB/><HI REND="italic">Gr</HI>ati<HI REND="italic">a d</HI>iu<HI REND="italic">i</HI>n<HI REND="italic">a valet vlt</HI>r<HI REND="italic">a q</HI>u<HI REND="italic">a</HI>m <HI REND="italic">fora bina.</HI>
+</AB>
+<AB TYPE="proverb" N="42">
+<LABEL>42</LABEL>
+<LB/>Þe tonge brekyth bon <NOTE PLACE="foot">42. Siehe meine Zusammenstellungen Engl. Stud. XXXI 6.</NOTE>
+<LB/><HI REND="italic">And</HI> hath hym-selfe non.
+</AB>
+<AB TYPE="proverb" N="43">
+<PB N="48" REF="5"/>
+<LABEL>43</LABEL>
+<LB/>As þe cocke croweth, so þe chekyn lernyth. <NOTE PLACE="foot">43. J. Heywood S. 39: <HI REND="italic">The yong cocke croweth, as he the old heareth;</HI> Barclay, Shyp of Folys, 1570 (Oxf. Dict.): <HI REND="italic">The yonge Cocke lerneth to crow hye of the olde;</HI> Puttenham, English Poesie (Arber S. 199): <HI REND="italic">As the olde cocke crowes, so doeth the chick.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="44">
+<LABEL>44</LABEL>
+<LB/>Thow hast bor<HI REND="italic">e</HI> þe welle.
+<LB/><HI REND="italic">Tu b</HI>e<HI REND="italic">n</HI>e <HI REND="italic">gessisti seu te bene nu</HI>n<HI REND="italic">c h</HI>ab<HI REND="italic">uisti.</HI>
+</AB>
+<AB TYPE="proverb" N="45">
+<LABEL>45</LABEL>
+<LB/>Spele Frenssh <HI REND="italic">and con</HI>strue art,
+<LB/><HI REND="italic">And</HI> þ<HI REND="italic">o</HI>u schalt selde co<HI REND="italic">m</HI> to thy part.
+</AB>
+<AB TYPE="proverb" N="46">
+<LABEL>46</LABEL>
+<LB/>He was neu<HI REND="italic">er</HI> wyse,
+<LB/>Þ<HI REND="italic">a</HI>t went on þe yse.
+</AB>
+<AB TYPE="proverb" N="47">
+<LABEL>47</LABEL>
+<LB/>A scalde ma<HI REND="italic">n</HI>nys hede is lefe to breke. <NOTE PLACE="foot">47. Harl.-Ms. 3362 (Ende 15. Jh.): <HI REND="italic">A scallyd mannys hed ys good to be broke</HI>—Frangitur ex facili caput infantis glabriosi; J. Heywood S. 103: <HI REND="italic">A scald head is soone broken.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="48">
+<LABEL>48</LABEL>
+<LB/>Who-so comyth late to his in, schall erly for-thynke. <NOTE PLACE="foot">48. Vgl. J. Heywood S. 168: <HI REND="italic">He that commeth last to the pot, is soonest wroth.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="49">
+<LABEL>49</LABEL>
+<LB/>Bett<HI REND="italic">er</HI> is worship then þe full wombe.
+</AB>
+</DIV2>
+<DIV2 N="I" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra I.</HEAD>
+<AB TYPE="proverb" N="50">
+<LABEL>50</LABEL>
+<LB/>Fayre <HI REND="italic">and</HI> softe me ferr<HI REND="italic">e</HI> gose.
+</AB>
+<AB TYPE="proverb" N="51">
+<LABEL>51</LABEL>
+<LB/>Wher<HI REND="italic">e</HI> no fyre, is no smoke. <NOTE PLACE="foot">51. J. Heywood S. 120: <HI REND="italic">No fire without some smoke.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="52">
+<LABEL>52</LABEL>
+<LB/>Brende chylde fyre dredis. <NOTE PLACE="foot">52. Hendyng, Cambr.-Hs. Nr. 22: <HI REND="italic">Brande</HI> [<HI REND="italic">Brend</HI> Harl. u Oxf.] <HI REND="italic">childe fire</HI> [<HI REND="italic">fur</HI> Harl, <HI REND="italic">fuir</HI> Oxf.] <HI REND="italic">dredit</HI> [<HI REND="italic">dredeþ</HI> Harl., <HI REND="italic">fordredeþ</HI> Oxf.]; Michel of Northgate, Ayenbite S. 116: <HI REND="italic">Þe ybernde uer dret:</HI> Chaucer, Rom. Rose V. 1820: <HI REND="italic">Brent child of fier hath myche drede;</HI> Lydgate, Chorl and Bird Nr. 26: <HI REND="italic">Brent childe dredethe fire;</HI> J. Heywood S 94: <HI REND="italic">Burnt child fire dredth;</HI> Coverdale, Spir. Perle, 1550 (Oxf. Dict.): <HI REND="italic">A burnt hande dreadeth the fire;</HI> Timon, ca. 1590 (ed. Dyce S. 89; bei Sharman): <HI REND="italic">A burnt childe dreads the ffyre;</HI> Lauderdale Papers, 1674 (Oxf. Dict.): <HI REND="italic">A burn'd child dreads the fire.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="53">
+<LABEL>53</LABEL>
+<LB/>Vnbodun gest not, wher<HI REND="italic">e</HI> he shall sytte.
+<LB/><HI REND="italic">Ignorat sedem no</HI>n <HI REND="italic">i</HI>n<HI REND="italic">uitat</HI>us <HI REND="italic">ad edem.</HI>
+</AB>
+<AB TYPE="proverb" N="54">
+<LABEL>54</LABEL>
+<LB/>H<HI REND="italic">i</HI>t is mery a ma<HI REND="italic">n</HI><NOTE N="1" PLACE="foot">Hs. <HI REND="italic">ama</HI>n.</NOTE> to syt by his owne fyr<HI REND="italic">e.</HI>
+</AB>
+<AB TYPE="proverb" N="55">
+<LABEL>55</LABEL>
+<LB/>Of a lytul sparkull comyth a g<HI REND="italic">r</HI>ete fyr<HI REND="italic">e.</HI> <NOTE PLACE="foot">55. Burgh's Cato V. 449: <HI REND="italic">Off brandis smale be maad thes fires grete.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="56">
+<PB N="49" REF="6"/>
+<LABEL>56</LABEL>
+<LB/>A ma<HI REND="italic">n,</HI> wote, when he goes; but he wote not, when he comys.
+</AB>
+<AB TYPE="proverb" N="57">
+<LABEL>57</LABEL>
+<LB/>As long leuyth a mery ma<HI REND="italic">n</HI> as a sory. <NOTE PLACE="foot">57. D. Lyndesay, Sat. 105 f.: <HI REND="italic">For as lang leifis the mirrie man, As the sorie</HI> (Kissel Nr. 49).</NOTE>
+</AB>
+</DIV2>
+<DIV2 N="L" TYPE="letter">
+<HEAD>De l<HI REND="italic">ite</HI>ra L.</HEAD>
+<AB TYPE="proverb" N="58">
+<LABEL>58</LABEL>
+<LB/>When game is best, <NOTE PLACE="foot">58. Proverbis of Wysdom V. 50 (15. Jh.), ed. Zupitza in Archiv f. d. Stud. d. n. Sprach. XC 241 ff.: <HI REND="italic">When game is best, is tyme to lete.</HI></NOTE>
+<LB/>H<HI REND="italic">i</HI>t is tyme to rest.
+</AB>
+<AB TYPE="proverb" N="59">
+<LABEL>59</LABEL>
+<LB/>Lothe to bedde <HI REND="italic">and</HI> lothe fro bedde me schall know þe slow.
+</AB>
+<AB TYPE="proverb" N="60">
+<LABEL>60</LABEL>
+<LB/>I wyll prayse my-selfe, syn no ma<HI REND="italic">n</HI><NOTE N="1" PLACE="foot">Hs. <HI REND="italic">noma</HI>n.</NOTE> ellys wyll.
+</AB>
+<AB TYPE="proverb" N="61">
+<LABEL>61</LABEL>
+<LB/>Holde þy tonge <HI REND="italic">and</HI> holde þy frende. <NOTE PLACE="foot">61. Chaucer, Cant. Tales I 319: <HI REND="italic">Keepe wel thy tonge and keepe thy freend;</HI> Peter Idle, Instructions to his Son (ed. Miesner, Greifswald 1903) V. 335: <HI REND="italic">Kepe thy tonge and kepe thy frende.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="62">
+<LABEL>62</LABEL>
+<LB/>Who-so hath an euyll tonge,
+<LB/>Eu<HI REND="italic">er</HI> he spekyth, that is wrong.
+</AB>
+<AB TYPE="proverb" N="63">
+<LABEL>63</LABEL>
+<LB/>By the litul welpys me chastys þe lyon. <NOTE PLACE="foot">63. Chaucer, Cant. Tales F 490: <HI REND="italic">By the whelpe chasted is the leoun;</HI> G. Herbert, Jacula Prudentum, vor 1640 (Skeat's Chaucer V 384): <HI REND="italic">Beat the dog before the lion;</HI> Shakspere, Othello II 3, 272: <HI REND="italic">even so as one would beat his offenceless dog to affright an imperious lion.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="64">
+<LABEL>64</LABEL>
+<LB/>Do thow bett<HI REND="italic">er,</HI> do thow worse, <NOTE PLACE="foot">64. J. Heywood S. 21 nur: <HI REND="italic">Doe you after him, that beareth the purse.</HI></NOTE>
+<LB/>Do aft<HI REND="italic">er</HI> hym, that beryth the purse.
+</AB>
+</DIV2>
+<DIV2 N="M" TYPE="letter">
+<HEAD>De hac <HI REND="italic">lite</HI>ra M.</HEAD>
+<AB TYPE="proverb" N="65">
+<LABEL>65</LABEL>
+<LB/>Mykull wulle mor<HI REND="italic">e.</HI>
+</AB>
+<AB TYPE="proverb" N="66">
+<LABEL>66</LABEL>
+<LB/>On begg<HI REND="italic">er</HI> is wo, þ<HI REND="italic">a</HI>t anothir in to þe town<HI REND="italic">e</HI> goth. <NOTE PLACE="foot">66. Taverner, Erasmus' Proverbs, 1552 (Oxf. Dict.): <HI REND="italic">One begger byddeth wo, that another by the dore shuld go.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="67">
+<LABEL>67</LABEL>
+<LB/>The<NOTE N="2" PLACE="foot">Bradley schlägt <HI REND="italic">Ther</HI> für <HI REND="italic">The</HI> vor.</NOTE> schall no ma<HI REND="italic">n</HI><NOTE N="3" PLACE="foot">Hs. <HI REND="italic">noma</HI>n.</NOTE> bete ne bynde a messyng<NOTE N="4" PLACE="foot">Lies <HI REND="italic">messynger.</HI></NOTE>.
+<LB/><HI REND="italic">No</HI>n <HI REND="italic">decet artar</HI>e, <HI REND="italic">q</HI>u<HI REND="italic">i mittit</HI>ur, <HI REND="italic">at</HI><NOTE N="5" PLACE="foot">Lies <HI REND="italic">aut.</HI></NOTE> <HI REND="italic">religare.</HI>
+</AB>
+<AB TYPE="proverb" N="68">
+<PB N="50" REF="7"/>
+<LABEL>68</LABEL>
+<LB/>Erly mayst<HI REND="italic">er,</HI> longe knaue. <NOTE PLACE="foot">68. Prouerbis of Wysdom V. 38: <HI REND="italic">To erly mayster, the sonner knave.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="69">
+<LABEL>69</LABEL>
+<LB/>Ther<HI REND="italic">e</HI> ben wome<HI REND="italic">n,</HI> ther<HI REND="italic">e</HI> ben wordis;
+<LB/>Ther<HI REND="italic">e</HI> ben gese, ther<HI REND="italic">e</HI> ben tordys.
+</AB>
+<AB TYPE="proverb" N="70">
+<LABEL>70</LABEL>
+<LB/>Many hondys makyn lyȝth<NOTE N="1" PLACE="foot">Lies <HI REND="italic">lyȝt.</HI></NOTE> worke. <NOTE PLACE="foot">70. Sir Beues V. 3012: <HI REND="italic">Many handes make lyght warke;</HI> How the Goode Wife taught hir Daughter (15. Jh.) V. 115: <HI REND="italic">Many handys make light werke;</HI> J. Heywood S. 114: <HI REND="italic">Many hands make light warke;</HI> Taverner, Erasmus' Prov., 1552 (Oxf. Dict.): <HI REND="italic">Many handes make a lyghte burthen;</HI> F. Hawkins, Youth's Behaviour, 1663 (Oxf. Dict.): <HI REND="italic">Many hands make light work.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="71">
+<LABEL>71</LABEL>
+<LB/>He comys not to late,
+<LB/>Þ<HI REND="italic">a</HI>t any gode is y-shape.
+<LB/><HI REND="italic">No</HI>n <HI REND="italic">mora fit dura, bo</HI>n<HI REND="italic">a cui su</HI>n<HI REND="italic">t vlla fut</HI>ur<HI REND="italic">a.</HI>
+</AB>
+<AB TYPE="proverb" N="72">
+<LABEL>72</LABEL>
+<LB/>Seldu<HI REND="italic">n</HI> get<HI REND="italic">es</HI> þe dom ma<HI REND="italic">n</HI> gode. <NOTE PLACE="foot">72. Digby Ms. 53 (Engl. Stud. XXXI 15): <HI REND="italic">Selden gifis men dumb man land</HI> (13. Jh.); Rawl. A 273 (a. a. O.): <HI REND="italic">Seld men gyfth a dumbe man lond.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="73">
+<LABEL>73</LABEL>
+<LB/>He is as clene, as catt<HI REND="italic">us</HI> hadde lykkyd hy<HI REND="italic">m.</HI>
+</AB>
+<AB TYPE="proverb" N="74">
+<LABEL>74</LABEL>
+<LB/>I kepe no mor<HI REND="italic">e</HI> but the skyn of the catt. <NOTE PLACE="foot">74. Vgl. J. Heywood S. 162: <HI REND="italic">Hee can have no more of the foxe but the skin.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="75">
+<LABEL>75</LABEL>
+<LB/>For the lesse me lefus the mor<HI REND="italic">e.</HI>
+</AB>
+<AB TYPE="proverb" N="76">
+<LABEL>76</LABEL>
+<LB/>Who-so nouȝt dois, nouȝt s<HI REND="italic">er</HI>uyth. <NOTE PLACE="foot">76. Vgl. Chaucer, Cant. Tales B 1820: <HI REND="italic">Yvele shal have, that yvele wol deserve.</HI></NOTE>
+<LB/><HI REND="italic">Nil ho</HI>min<HI REND="italic">i det</HI>ur, <HI REND="italic">q</HI>u<HI REND="italic">i nil sudans op</HI>er<HI REND="italic">et</HI>ur.
+</AB>
+<AB TYPE="proverb" N="77">
+<LABEL>77</LABEL>
+<LB/>Man<HI REND="italic">er</HI> makys ma<HI REND="italic">n.</HI> <NOTE PLACE="foot">77. Prouerbis of Wysdom V. 59: <HI REND="italic">Euer maner and clothyng makyth man,</HI> und dazu Zupitzas reiche Nachweise auf S. 254. Ausserdem Barclay, Shyp of Folys, 1509 (Oxf. Dict.): <HI REND="italic">Maners makyth man;</HI> W. de Worde's Druck von Lydgate's Horse, Goose and Sheep, Appendix (ed. Degenhardt S. 14 Nr. 2): <HI REND="italic">Manner maketh man.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="78">
+<LABEL>78</LABEL>
+<LB/>Welle wot<HI REND="italic">es</HI> the catte, whoos berde<NOTE N="2" PLACE="foot"><HI REND="italic">r</HI> über der Zeile.</NOTE> he lykkys. <NOTE PLACE="foot">78. Siehe meine Nachweise Engl. Stud. XXXI 7. [P. Meyer weist Ro∣mania XXXI 477 einen neuen Beleg für <HI REND="italic">badde</HI> 'Katze' nach: in der Fabel von der Katze und den Mäusen bei Nicolas Bozon (Contes Moralisés p. 144 f.) heisst die Katze <HI REND="italic">Sire Badde</HI>].</NOTE>
+</AB>
+<AB TYPE="proverb" N="79">
+<LABEL>79</LABEL>
+<LB/>H<HI REND="italic">i</HI>t is harde to lykke hony fro the thorne. <NOTE PLACE="foot">79. Vgl. Ureisun, ca. 1240 (Oxf. Dict.): <HI REND="italic">Huni þer-in beoþ liked of þornes.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="80">
+<PB N="51" REF="8"/>
+<LABEL>80</LABEL>
+<LB/>Der<HI REND="italic">e</HI> is þe hony bouȝt, <NOTE PLACE="foot">80. Hendyng, Cambr.-Hs. Nr. 33: <HI REND="italic">Al to dere his bouht honni To like up hauh þorne,</HI> Harl.-Hs. Nr. 30: <HI REND="italic">Dere is boht þe honey, þat is licked of þe þorne,</HI> Oxf.-Hs. Nr. 22: <HI REND="italic">Al to dere is bouht honi, þat mon shal liken of þornes.</HI> (Kneuer 43 f.)</NOTE>
+<LB/>Þ<HI REND="italic">a</HI>t on thornes is souȝt.
+</AB>
+<AB TYPE="proverb" N="81">
+<LABEL>81</LABEL>
+<LB/>Mesure is tresure<NOTE N="1" PLACE="foot">Dies Sprichwort ist zweimal geschrieben: fol. 24<SUP>a</SUP> unten und fol. 24<SUP>b</SUP> oben.</NOTE> <NOTE PLACE="foot">81. Lydgate, Minor Poems p. 82: <HI REND="italic">Mesoure is tresoure;</HI> Burgh's Cato V. 505: <HI REND="italic">The olde sawe seithe 'Mesure is tresur';</HI> Seager's Schoole of Vertue (1557) V. 477 f. (Furnivall's Babees Book p. 344): <HI REND="italic">For 'measure is treasure' the prouerbe doth say.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="82">
+<LABEL>82</LABEL>
+<LB/>Seldun comyth lone lauȝyng home. <NOTE PLACE="foot">82. Hendyng, Cambr.-Hs. Nr. 23: <HI REND="italic">Selde [Selden</HI> Oxf.] <HI REND="italic">comit [comeþ</HI> Oxf. u. Harl.] <HI REND="italic">lone lechind</HI> [<HI REND="italic">lahynde</HI> H, <HI REND="italic">lauinde</HI> O] <HI REND="italic">home [homward</HI> O], (Kneuer 37). Vgl. Harl. Ms. 2321 (16. Jh. = Rel. Ant. I 208): <HI REND="italic">When I lent, I was a frend; When I asked, I was unkinde.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="83">
+<LABEL>83</LABEL>
+<LB/>Sore I syke <HI REND="italic">and</HI> well I may
+<LB/>For thre thyng<HI REND="italic">is,</HI> þ<HI REND="italic">a</HI>t comyn ay.
+<LB/>Þe fyrst<NOTE N="1" PLACE="foot">Dies Sprichwort ist zweimal geschrieben: fol. 24<SUP>a</SUP> unten und fol. 24<SUP>b</SUP> oben.</NOTE> is: I schall hen;
+<LB/>Þe secunde: I not neu<HI REND="italic">er</HI> when;
+<LB/>Þe thrydde is most care:
+<LB/>I not ner<HI REND="italic">e,</HI> whid<HI REND="italic">ur</HI> I schall fare.
+<LB/><HI REND="italic">Su</HI>n<HI REND="italic">t t</HI>r<HI REND="italic">ia vere, q</HI>ue <HI REND="italic">faciu</HI>n<HI REND="italic">t me sepe doler</HI>e.
+<LB/><HI REND="italic">Est p</HI>rimu<HI REND="italic">m duru</HI>m, <HI REND="italic">q</HI>u<HI REND="italic">ia nosco me morit</HI>ur<HI REND="italic">u</HI>m;
+<LB/><HI REND="italic">Atq</HI>ue <HI REND="italic">seque</HI>n<HI REND="italic">s plango mag</HI>is, <HI REND="italic">q</HI>uia <HI REND="italic">nesc</HI>i<HI REND="italic">o q</HI>ua<HI REND="italic">n</HI>do.
+<LB/><HI REND="italic">Inde magis flebo, q</HI>uia <HI REND="italic">nescio q</HI>u<HI REND="italic">o remanebo.</HI>
+</AB>
+<AB TYPE="proverb" N="84">
+<LABEL>84</LABEL>
+<LB/>Muche he has, þ<HI REND="italic">a</HI>t wylle no mor<HI REND="italic">e.</HI>
+</AB>
+</DIV2>
+<DIV2 N="N" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra N.</HEAD>
+<AB TYPE="proverb" N="85">
+<LABEL>85</LABEL>
+<LB/>Kynde crep<HI REND="italic">us,</HI> ther h<HI REND="italic">i</HI>t may no<NOTE N="2" PLACE="foot">Wohl für nördl. <HI REND="italic">na</HI> stehend.</NOTE> go. <NOTE PLACE="foot">85. J. Heywood S. 58: <HI REND="italic">Kinde will creepe where it may not goe;</HI> Shak∣spere, Two Gentlemen IV 2, 20: <HI REND="italic">Love will creep in service where it cannot go.</HI></NOTE>
+</AB>
+</DIV2>
+<DIV2 N="O" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra O.</HEAD>
+<AB TYPE="proverb" N="86">
+<LABEL>86</LABEL>
+<LB/>The mor<HI REND="italic">e</HI> hast, þe worse spede. <NOTE PLACE="foot">86. J. Heywood S. 8: <HI REND="italic">The more haste, the lesse speede.</HI> Vgl. Barbour's Troybook II 1682 (Oxf. Dict.): <HI REND="italic">Of fule haist cummis no speid;</HI> Chaucer, Troi∣lus I 956: <HI REND="italic">He hasteth wel, that wisly can abide</HI> (dazu Haeckel Nr. 83-85).</NOTE>
+</AB>
+<AB TYPE="proverb" N="87">
+<LABEL>87</LABEL>
+<LB/>Oon scabbyd shepe makyth a fowle flock.
+</AB>
+<AB TYPE="proverb" N="88">
+<PB N="52" REF="9"/>
+<LABEL>88</LABEL>
+<LB/>The pot goth so lo<HI REND="italic">n</HI>ge to wat<HI REND="italic">er,</HI> þ<HI REND="italic">a</HI>t he comyth broke home. <NOTE PLACE="foot">88. Knight of La Tour-Landry (ed. Wright EETS 33): <HI REND="italic">The potte may goo so longe to water, that atte the laste it is broken;</HI> J. Heywood S. 142: <HI REND="italic">The pot so long to the water goth, Till at last it commeth home broken;</HI> Greene, Never too Late, 1590 (bei Sharman): <HI REND="italic">For so long went the pot to the water, that at last it came broken home.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="89">
+<LABEL>89</LABEL>
+<LB/>Seldu<HI REND="italic">n</HI> sey, sone for-ȝete. <NOTE PLACE="foot">89. Vernon-Ms. (Varnhagen, Anglia VII 281): <HI REND="italic">Þat selden iseiȝe is sone forȝete;</HI> Prouerbis of Wysdom V. 25: <HI REND="italic">Seld i-say ys sone for-yete;</HI> Harl.-Ms. 3362: <HI REND="italic">Zelde yseyȝe, sone forȝete;</HI> Political Songs &amp; Poems ed. Wright I 215: <HI REND="italic">Selden iseiȝe is sone forgete;</HI> J. Heywood S. 52: <HI REND="italic">Seldom seene, soone forgotten.</HI> Vgl. Proverbs of Alfred Nr. 27 (nur Jesus-Hs.): <HI REND="italic">For he, þat is ute biloken, he is inne sone for-geten.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="90">
+<LABEL>90</LABEL>
+<LB/>That, at<NOTE N="1" PLACE="foot">Vielleicht in <HI REND="italic">that</HI> zu bessern oder als Dittographie zu streichen; doch vgl. S. 41.</NOTE> is swete i<HI REND="italic">n</HI> thy mu<HI REND="italic">m</HI>me<NOTE N="2" PLACE="foot">Lies <HI REND="italic">mu</HI>n<HI REND="italic">ne</HI> (H. Bradley).</NOTE>,
+<LB/>Geue thy felawe su<HI REND="italic">m</HI>me.
+<LB/><HI REND="italic">Da p</HI>ar<HI REND="italic">te</HI>m <HI REND="italic">socio, q</HI>uo<HI REND="italic">d sapit ore tuo.</HI>
+</AB>
+</DIV2>
+<DIV2 N="P" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra P.</HEAD>
+<AB TYPE="proverb" N="91">
+<LABEL>91</LABEL>
+<LB/>When bale is heyst<NOTE N="3" PLACE="foot">Lies <HI REND="italic">hext</HI></NOTE>, <NOTE PLACE="foot">91. Siehe Zupitzas Verweise auf Hendyng (Kneuer 35), Owl and Night∣ingale 685 u. 697, Cursor Mundi 4775, Testament of Love II ch. 9, I. 143, Babees Book 119, 32, Heywood S. 81 und Sir Aldingar 111 (Percy's Fol. Ms.) in Arch. XC 249.</NOTE>
+<LB/>Bote is next.
+</AB>
+<AB TYPE="proverb" N="92">
+<LABEL>92</LABEL>
+<LB/>Who-so may not go byfor<HI REND="italic">e,</HI> com by-hynde.
+</AB>
+<AB TYPE="proverb" N="93">
+<LABEL>93</LABEL>
+<LB/>Alle to late, alle to late, <NOTE PLACE="foot">93. Hendyng, Cambr.-Hs. Nr. 47: <HI REND="italic">Al to late, al to late, Wan þe deth is at þe ȝate:</HI> Poema Morale V. 127: <HI REND="italic">Þanne deđ is et þere dure, wel late he biddeđ are</HI> (Lewin).</NOTE>
+<LB/>When deth is come to ȝate.
+</AB>
+<AB TYPE="proverb" N="94">
+<LABEL>94</LABEL>
+<LB/>Lytyll may helpe, þer<HI REND="italic">e</HI> myche be-houeth.
+</AB>
+<AB TYPE="proverb" N="95">
+<LABEL>95</LABEL>
+<LB/>When þe slowe is full, þen þe char<HI REND="italic">e</HI> is done.
+<LB/><HI REND="italic">Cu</HI>m <HI REND="italic">pig</HI>er <HI REND="italic">implet</HI>ur, <HI REND="italic">op</HI>er<HI REND="italic">is t</HI>un<HI REND="italic">c fi</HI>ni<HI REND="italic">s h</HI>abe<HI REND="italic">tur.</HI>
+</AB>
+<AB TYPE="proverb" N="96">
+<LABEL>96</LABEL>
+<LB/>Ofte drynke maketh þy wytt<HI REND="italic">es</HI> renne.
+</AB>
+<AB TYPE="proverb" N="97">
+<LABEL>97</LABEL>
+<LB/>So brewe, so drynke. <NOTE PLACE="foot">97. Hendyng, Cambr.-Hs. Nr. 17: <HI REND="italic">First sour brewit, sit sour drinkit</HI> (Kneuer 31); Cursor Mundi V. 2848: <HI REND="italic">Suilk als þei brucd, now ha þai dronken;</HI> Gower, Conf. Am. III. 1626 f: <HI REND="italic">And who-so wicked ale breweth, Fulofte he mot the werse drinke;</HI> Political Poems, 1451 (Oxf. Dict.): <HI REND="italic">Let hem drynk as they hanne brewe;</HI> Heywood S. 31: <HI REND="italic">As I would needes brewe, so must I nee∣des drinke;</HI> Pasquil's Night-cap, 1612 (Oxf. Dict.): <HI REND="italic">You must drinke as you have bru'd;</HI> Wodroephe, Spared Houres, 1623 (bei Sharman): <HI REND="italic">If you have browen wel, you shal drinke the better.</HI> Anspielung darauf bei Chaucer, House of Fame III 790.</NOTE>
+</AB>
+<AB TYPE="proverb" N="98">
+<PB N="53" REF="10"/>
+<LABEL>98</LABEL>
+<LB/>Holde þy thombe i<HI REND="italic">n</HI> thi fyst, <NOTE PLACE="foot">98. Prouerbis of Wysdom V. 90: <HI REND="italic">Euer be ware of 'Had I wyst'</HI> und Zupitzas reiche Nachweise zu dieser Stelle. Ausserdem Peter Idle, Instructions to his Son, ca 1420 (ed. Miesner, Greifswald 1903) V. 83: <HI REND="italic">Kepe cloos all thyng, as thombe in fiste, And euer beware of 'Hadd y wyste'.</HI></NOTE>
+<LB/>And kepe þe welle fro 'Had I wyst'.
+</AB>
+<AB TYPE="proverb" N="99">
+<LABEL>99</LABEL>
+<LB/>The smaller pesun, the mor<HI REND="italic">e</HI> to pott; <NOTE PLACE="foot">99. Sloane-Ms. 1210, fol. 134<SUP>a</SUP> (15. Jh. = Rel. Ant. II 40): <HI REND="italic">Tho</HI> [lies <HI REND="italic">The</HI>] <HI REND="italic">smallere pese, tho mo to the pott; Tho fayrere woman, tho more gyglott;</HI> The Schole-House of Women, 1561, V. 558 f. (ed. Halliwell, E. E. P. IV 126): <HI REND="italic">The smaller pease, the mo to the pot; The fairer woman, the more gillot;</HI> Heywood S. 20 nur: <HI REND="italic">Who hath many pease, may put the mo in the pot.</HI></NOTE>
+<LB/>The fayrer woma<HI REND="italic">n,</HI> the mor<HI REND="italic">e</HI> gylott.
+</AB>
+<AB TYPE="proverb" N="100">
+<LABEL>100</LABEL>
+<LB/>Lefe chylde lor<HI REND="italic">e</HI> be-houeth. <NOTE PLACE="foot">100. Hendyng, Harl.-Ms. Nr. 5: <HI REND="italic">Luef [Lef</HI> O<HI REND="italic">] child lore byhoueþ [bihoveþ lore</HI> O<HI REND="italic">],</HI> Cambr.-Hs. Nr. 3: <HI REND="italic">Lothe childe behovid lore And leve childe som del more;</HI> Goode Wife taught hir Doughter V. 160: <HI REND="italic">Leue childe lore be∣houeth;</HI> Symon's Lesson of Wysedome V. 88 (Furnivall's Babees Book p. 402): <HI REND="italic">A leve chyld, lore he be-houyth.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="101">
+<LABEL>101</LABEL>
+<LB/>Thow shall do, as þe p<HI REND="italic">re</HI>ste says, but not as þe p<HI REND="italic">re</HI>ste doos.
+</AB>
+<AB TYPE="proverb" N="102">
+<LABEL>102</LABEL>
+<LB/>Couenaunt is auenaunt.
+</AB>
+<AB TYPE="proverb" N="103">
+<LABEL>103</LABEL>
+<LB/>Bett<HI REND="italic">er</HI> is a ȝong<NOTE N="1" PLACE="foot">Hs. <HI REND="italic">aȝong.</HI></NOTE> chylde wepe than an olde man. <NOTE PLACE="foot">103. Heywood S. 59: <HI REND="italic">Better children weepe then old men.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="104">
+<LABEL>104</LABEL>
+<LB/>Of a raggud colte comes a gode hors. <NOTE PLACE="foot">104. Heywood S. 58: <HI REND="italic">Of a ragged colt there comth a good horse;</HI> Eastward Hoe, 1605 (bei Sharman): <HI REND="italic">The ragged colt may prove a good horse.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="105">
+<LABEL>105</LABEL>
+<LB/>The bett<HI REND="italic">er</HI> þ<HI REND="italic">o</HI>u be þe<NOTE N="2" PLACE="foot">Dies þ<HI REND="italic">e</HI> ist offenbar vor <HI REND="italic">bese</HI> zu stellen.</NOTE>, <NOTE PLACE="foot">105. Hendyng, Harl.-Hs. Nr. 20: <HI REND="italic">þe [So þe</HI> O<HI REND="italic">] bet þe be, þe [so þe</HI> O<HI REND="italic">] bet þe byse [bise</HI> O<HI REND="italic">];</HI> Owl and Nightingale V. 1267: <HI REND="italic">Evereuch man the bet him beo, Eaver the bet he hine beseo.</HI></NOTE>
+<LB/>The bett<HI REND="italic">er</HI> be-se.
+</AB>
+<AB TYPE="proverb" N="106">
+<PB N="54" REF="11"/>
+<LABEL>106</LABEL>
+<LB/>Bett<HI REND="italic">er</HI> is a chylde vnborne þen vnlerned. <NOTE PLACE="foot">106. Proverbs of Alfred, Trinity-Hs. Nr. 14: <HI REND="italic">For betere is child vnboren þenne vnbeten,</HI> Jesus-Hs. Nr. 23: <HI REND="italic">For betere is child vnbore þane vnbuhsum;</HI> Hendyng, Oxf.-Hs. Nr. 4: <HI REND="italic">For betere were child ounboren þen ounbeten;</HI> Goode Wife taught hir Doughter V. 175: <HI REND="italic">Better were a childe unborne than vntaught;</HI> Symon, Lesson of Wysedome, ca. 1450 (Furnivall, Babees Book p. 399): <HI REND="italic">A chyld were beter to be vnbore, than to be vntaught;</HI> Seager's Schoole of Vertue (1557) V. 725 f. (Furnivall p. 348): <HI REND="italic">Better vnfedde than vn∣taughte;</HI> Heywood S. 42: <HI REND="italic">Better unborne, then untaught.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="107">
+<LABEL>107</LABEL>
+<LB/>Pou<HI REND="italic">er</HI>te brekys companye. <NOTE PLACE="foot">107. Heywood S. 84: <HI REND="italic">Povertie parteth fellowship.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="108">
+<LABEL>108</LABEL>
+<LB/>Strenhgth mowes down<HI REND="italic">e</HI> þe medow.
+</AB>
+<AB TYPE="proverb" N="109">
+<LABEL>109</LABEL>
+<LB/>A fole sholde neu<HI REND="italic">er</HI> haue a babull in hande.
+<LB/><HI REND="italic">Pegma manu stult</HI>us <HI REND="italic">cuiq</HI>u<HI REND="italic">a</HI>m<NOTE N="1" PLACE="foot">P. Wolters schlägt vor, <HI REND="italic">nunquam</HI> statt <HI REND="italic">cuiquam</HI> zu lesen, H. Bradley ausserdem noch, wegen des Hiatus, <HI REND="italic">gestaret.</HI> H. Varnhagen sieht in der engl. Fassung eine Übersetzung einer verderbten lat. Form und vermutet, dass letztere ursprünglich <HI REND="italic">cinglam</HI> statt <HI REND="italic">cuiquam</HI> gelesen habe: „Den Narrenstab trägt in der Hand der Narr, den Schwertgürtel (als Ehrenpreis im Kriegsdienste) der Verständige.”</NOTE> <HI REND="italic">gestar</HI>e <HI REND="italic">adult</HI>us.
+</AB>
+<AB TYPE="proverb" N="110">
+<LABEL>110</LABEL>
+<LB/>For defawte of a goode man me sett<HI REND="italic">us</HI> a shrew on benche.
+</AB>
+<AB TYPE="proverb" N="111">
+<LABEL>111</LABEL>
+<LB/>So does, that so may.
+</AB>
+<AB TYPE="proverb" N="112">
+<LABEL>112</LABEL>
+<LB/>For a poynt the Picarde lost is ye. <NOTE PLACE="foot">112. H. Bradley verweist auf frz. <HI REND="italic">Faute d'un point Martin perdit son ane</HI> und gibt zu erwägen, ob nicht ursprünglich <HI REND="italic">asello</HI> statt <HI REND="italic">ocello</HI> zu lesen sei.</NOTE>
+<LB/><HI REND="italic">Vno p</HI>ro <HI REND="italic">pu</HI>n<HI REND="italic">cto caruit Picard</HI>us <HI REND="italic">ocello.</HI>
+</AB>
+<AB TYPE="proverb" N="113">
+<LABEL>113</LABEL>
+<LB/>Childe is pigge, <HI REND="italic">and</HI> fad<HI REND="italic">er</HI> is the flicche.
+<LB/><HI REND="italic">Porcell</HI>us <HI REND="italic">nati fit p</HI>er<HI REND="italic">na p</HI>at<HI REND="italic">ris vet</HI>er<HI REND="italic">ati.</HI>
+</AB>
+<AB TYPE="proverb" N="114">
+<LABEL>114</LABEL>
+<LB/>When me p<HI REND="italic">ro</HI>fereth þe pigge, opon<NOTE N="2" PLACE="foot">Für <HI REND="italic">open</HI> oder <HI REND="italic">opon.</HI></NOTE> þe pogh; <NOTE PLACE="foot">114. Hendyng Cambr.-Hs. Nr. 36: <HI REND="italic">Wan man ȝevit þe a pig, opin þe powch</HI> und Oxf.-Hs. 23: <HI REND="italic">Wen me bedeþ þe gris, opene þe shet;</HI> Heywood S. 11: <HI REND="italic">When the pigge is profferd to hold up the poke.</HI></NOTE>
+<LB/>For when he is an olde swyn, thow tyte hym nowȝht.
+<LB/><HI REND="italic">Cu</HI>m <HI REND="italic">t</HI>ib<HI REND="italic">i porcellu</HI>m <HI REND="italic">p</HI>re<HI REND="italic">bet q</HI>u<HI REND="italic">is, pande sacellum;</HI>
+<LB/><HI REND="italic">Cu</HI>m <HI REND="italic">fu</HI>er<HI REND="italic">it porc</HI>us, <HI REND="italic">no</HI>n <HI REND="italic">e</HI>ri<HI REND="italic">t ip</HI>s<HI REND="italic">e tuus.</HI>
+</AB>
+<AB TYPE="proverb" N="115">
+<LABEL>115</LABEL>
+<LB/>Lytyl wote þe full<NOTE N="3" PLACE="foot">Davor durch Punkte getilgtes <HI REND="italic">hungry.</HI></NOTE>, what þe hungry aylyȝ. <NOTE PLACE="foot">115. Sprüche aus Harl. 541 u. Egert. 1995 (ca. 1480) in Furnivall's Babees Book p. 16: <HI REND="italic">For the fulle wombe without any faylys Wot fulle lytyl, what the hungry aylys;</HI> Heywood S. 51: <HI REND="italic">Little knoweth the fat sow, what the leane doth meane.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="116">
+<PB N="55" REF="12"/>
+<LABEL>116</LABEL>
+<LB/>Fyrst þe chylde crepyth <HI REND="italic">and</HI> aft<HI REND="italic">er</HI> gooth. <NOTE PLACE="foot">116. Heywood S. 66: <HI REND="italic">Children learne to creepe, ere they can learne to goe.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="117">
+<LABEL>117</LABEL>
+<LB/>Ossyng comys to bossyng<NOTE N="1" PLACE="foot">Am Ende von fol. 27<SUP>b</SUP> steht hier als Kustos: <HI REND="italic">Pore me</HI>n<HI REND="italic">nys.</HI></NOTE>. <NOTE PLACE="foot">117. Ray's Proverbs 46 (Wright, Dial. Dict.): <HI REND="italic">Ossing comes to bossing.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="118">
+<LABEL>118</LABEL>
+<LB/>Powr<HI REND="italic">e</HI> me<HI REND="italic">n</HI>nys mony is fast j-knytt.
+</AB>
+<AB TYPE="proverb" N="119">
+<LABEL>119</LABEL>
+<LB/>Olde synnys makyn new shamys. <NOTE PLACE="foot">119. Havelock V. 2461: <HI REND="italic">Old sinne makes newe shame.</HI> Vgl. Arch. f. d. Stud. d. n. Spr. CVII 107.</NOTE>
+</AB>
+<AB TYPE="proverb" N="120">
+<LABEL>120</LABEL>
+<LB/>When I wowe, golde in my gloue; <NOTE PLACE="foot">120. Vgl. ne. <HI REND="italic">glove-money</HI> (im Oxf. Dict. unter <HI REND="italic">glove</HI>) und <HI REND="italic">glove-silver</HI> 'Gratifikation; Trinkgeld'.</NOTE>
+<LB/>When I haue, þ<HI REND="italic">a</HI>t, I wylle,
+<LB/>Goddys grame to thy bylle.
+<LB/><HI REND="italic">Cu</HI>m <HI REND="italic">p</HI>ro<HI REND="italic">cor, e</HI>st <HI REND="italic">auru</HI>m <HI REND="italic">cirotheci</HI>s <HI REND="italic">vndiq</HI>ue <HI REND="italic">stauru</HI>m;
+<LB/><HI REND="italic">Velle meo f</HI>a<HI REND="italic">c</HI>t<HI REND="italic">o, maled</HI>i<HI REND="italic">c</HI>t<HI REND="italic">a</HI><NOTE N="2" PLACE="foot">Lies <HI REND="italic">mala</HI> (H. Bradley).</NOTE> <HI REND="italic">gr</HI>ati<HI REND="italic">a</HI> si<HI REND="italic">t t</HI>ib<HI REND="italic">i rost</HI>ro.
+</AB>
+<AB TYPE="proverb" N="121">
+<LABEL>121</LABEL>
+<LB/>Be the fadur what he be,
+<LB/>Welle is the chylde to the.
+</AB>
+<AB TYPE="proverb" N="122">
+<LABEL>122</LABEL>
+<LB/>Of a gode begynnyng comyth a gode endyng. <NOTE PLACE="foot">122. Hendyng, Harl.-Hs. Nr. 2: <HI REND="italic">God beginning makeþ god endyng;</HI> Heywood S. 17: <HI REND="italic">A hard beginning makth a good ending.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="123">
+<LABEL>123</LABEL>
+<LB/>The mo cu<HI REND="italic">n</HI>tremen, the worse.
+</AB>
+<AB TYPE="proverb" N="124">
+<LABEL>124</LABEL>
+<LB/>He sparyth muche, that has nouhȝt.
+</AB>
+</DIV2>
+<DIV2 N="R" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra R.</HEAD>
+<AB TYPE="proverb" N="125">
+<LABEL>125</LABEL>
+<LB/>Hyde <HI REND="italic">and</HI> haue; publyssh <HI REND="italic">and</HI> nouhȝt haue.
+</AB>
+<AB TYPE="proverb" N="126">
+<LABEL>126</LABEL>
+<LB/>Whenne þ<HI REND="italic">o</HI>u bygynnys a thyng, thenke on the endynge. <NOTE PLACE="foot">126. Harl. Ms. 3810 (15 Jh. = Rel. Ant. I 92): <HI REND="italic">Thinke on the ende, or thu begyn, And thou schalt never be thral to syn.</HI></NOTE>
+</AB>
+</DIV2>
+<DIV2 N="S" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra S.</HEAD>
+<AB TYPE="proverb" N="127">
+<LABEL>127</LABEL>
+<LB/>Hope ne wer<HI REND="italic">e,</HI>
+<LB/>Hert brostu<HI REND="italic">n</HI> were.
+</AB>
+<AB TYPE="proverb" N="128">
+<LABEL>128</LABEL>
+<LB/>Who-so hewyth to hye, <NOTE PLACE="foot">128. Robert Brunne, Chronicle 91 (Oxf. Dict.): <HI REND="italic">Þat hewis ouer his heued, þe chip falles in his ine;</HI> Gower, Conf. Am. I 1917 f.: <HI REND="italic">Fulofte he heweth up so hihe, That chippes fallen in his yhe;</HI> Th. Usk, The Testament of Love, I Sh. 9, 1. 20: <HI REND="italic">He, that heweth to hye, with chippes he may lese his sight;</HI> Heywood c. 141: <HI REND="italic">Hew not too hie, lest the chips fall in thine eye;</HI> Montgomerie, Cherrie and Slae, 1597 (Oxf. Dict.): <HI REND="italic">Quha hewis to hie, The spail sall fall into his eie.</HI> Vgl. Lydgate, Secreta Secretorum V. 459: <HI REND="italic">Yit wer me loth ovir myn hed to hewe;</HI> Flour of Curtesye V. 158 f.: <HI REND="italic">Eschewing ay hem, that listen to hewe Aboue hir heed.</HI></NOTE>
+<LB/>Þ<HI REND="italic">er</HI>e falle chippis i<HI REND="italic">n</HI> his ye.
+</AB>
+<AB TYPE="proverb" N="129">
+<PB N="56" REF="13"/>
+<LABEL>129</LABEL>
+<LB/>So long þ<HI REND="italic">o</HI>u may, spitt on þe ston, þ<HI REND="italic">a</HI>t hit wil be wet.
+<LB/><HI REND="italic">Ipriguu</HI>m<SUP>1</SUP> <HI REND="italic">v</HI>er<HI REND="italic">e lapideu</HI>m<NOTE N="1" PLACE="foot">P. Wolters schlägt vor <HI REND="italic">irriguum</HI> und <HI REND="italic">lapidem</HI> zu lesen.</NOTE> <HI REND="italic">t</HI>ib<HI REND="italic">i sputa deder</HI>e.
+</AB>
+<AB TYPE="proverb" N="130">
+<LABEL>130</LABEL>
+<LB/>Thorowgh a litul hole a ma<HI REND="italic">n</HI> may se his frende.
+</AB>
+<AB TYPE="proverb" N="131">
+<LABEL>131</LABEL>
+<LB/>He, that wer<HI REND="italic">e</HI> wytty, wer<HI REND="italic">e</HI> sely.
+<LB/><HI REND="italic">Pl<HI REND="italic">u</HI>ri</HI>m<HI REND="italic">a qui sciret, hic felix semp</HI>er <HI REND="italic">abir</HI>e<HI REND="italic">t.</HI>
+</AB>
+<AB TYPE="proverb" N="132">
+<LABEL>132</LABEL>
+<LB/>Was he neu<HI REND="italic">er</HI> gode knappe, þ<HI REND="italic">a</HI>t hadde his dame at þe yate.
+</AB>
+<AB TYPE="proverb" N="133">
+<LABEL>133</LABEL>
+<LB/>Ther<HI REND="italic">e</HI> is nouȝht j-now, ther<HI REND="italic">e</HI> nouȝt leuys.
+</AB>
+<AB TYPE="proverb" N="134">
+<LABEL>134</LABEL>
+<LB/>Wyst eu<HI REND="italic">er</HI>y ma<HI REND="italic">n,</HI> how bretell wer<HI REND="italic">e</HI> his shen-bon,
+<LB/>Wolde he neu<HI REND="italic">er</HI> lepe, ther<HI REND="italic">e</HI> he myhȝt gon.
+</AB>
+<AB TYPE="proverb" N="135">
+<LABEL>135</LABEL>
+<LB/>Pryde goyth byfor<HI REND="italic">e, and</HI> shame comyth aft<HI REND="italic">er.</HI> <NOTE PLACE="foot">135. Prouerbis of Wysdom V. 11: <HI REND="italic">Pryde goyth before, and after comyþe shame</HI> und dazu Zupitza's Nachweise. Ausserdem Treatise of a Gallant, ca. 1510 (bei Sharman S. 46): <HI REND="italic">Pryde gothe before, and shame cometh behynde.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="136">
+<LABEL>136</LABEL>
+<LB/>Who-so con not be suget, he con not be sou<HI REND="italic">er</HI>ayn.
+</AB>
+<AB TYPE="proverb" N="137">
+<LABEL>137</LABEL>
+<LB/>H<HI REND="italic">i</HI>t is sone sharpe, that schal be a thorne.<NOTE PLACE="foot">137. Heywood S. 159: <HI REND="italic">It pricketh betimes, that will be a good thorne;</HI> Jacob and Esau, 1568 (bei Sharman): <HI REND="italic">Yong doth it pricke, that wyll be a thorne.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="138">
+<LABEL>138</LABEL>
+<LB/>Tristy lockes make true seruaunt<HI REND="italic">es.</HI> <NOTE PLACE="foot">138. Vgl. Gower, Conf. Am. V. 6631: <HI REND="italic">For this proverbe is evere new, That stronge lokes maken trewe Of hem, that wolden stele and pyke.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="139">
+<LABEL>139</LABEL>
+<LB/>The bett<HI REND="italic">er</HI> that thi state be,
+<LB/>The bett<HI REND="italic">er</HI> wysdom be-houys the.
+</AB>
+<AB TYPE="proverb" N="140">
+<LABEL>140</LABEL>
+<LB/>Bett<HI REND="italic">er</HI> is late than neu<HI REND="italic">er.</HI> <NOTE PLACE="foot">140. Chaucer, Cant. Tal. G 1410: <HI REND="italic">Bet than never is late;</HI> Pseudo-Lydgate. Assembly of Gods V. 1204: <HI REND="italic">Vyce to forsake ys bettyr late then neuer;</HI> More, Suppl. Soulys (Oxf. Dict.): <HI REND="italic">Late is better then neuer;</HI> Heywood S. 44: <HI REND="italic">Better late then never;</HI> Ockley, Saracens, 1708 (Oxf. Dict.): <HI REND="italic">Better late than never.</HI></NOTE>
+</AB>
+</DIV2>
+<DIV2 N="T" TYPE="letter">
+<PB N="57" REF="14"/>
+<HEAD>De hac l<HI REND="italic">ite</HI>ra. T.</HEAD>
+<AB TYPE="proverb" N="141">
+<LABEL>141</LABEL>
+<LB/>Alle thyng hath tyme. <NOTE PLACE="foot">141. Rhodes' Bokes of Nurture (1577) V. 481 (Furnivall p. 95): <HI REND="italic">There is a tyme for all things founde.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="142">
+<LABEL>142</LABEL>
+<LB/>A crokyd cake makyth a stronge wombe.
+<LB/><HI REND="italic">Tortula curuata dat visc</HI>er<HI REND="italic">a fortificata.</HI>
+</AB>
+</DIV2>
+<DIV2 N="V" TYPE="letter">
+<HEAD>De hac l<HI REND="italic">ite</HI>ra. V.</HEAD>
+<AB TYPE="proverb" N="143">
+<LABEL>143</LABEL>
+<LB/>Sonn<HI REND="italic">er</HI> plays fulle wombe then feyr<HI REND="italic">e</HI> clothis.
+<LB/><HI REND="italic">Vestito meli</HI>us <HI REND="italic">vent</HI>er <HI REND="italic">sit</HI><NOTE N="1" PLACE="foot">Lies <HI REND="italic">scit.</HI></NOTE> <HI REND="italic">luder</HI>e <HI REND="italic">plen</HI>us.
+</AB>
+<AB TYPE="proverb" N="144">
+<LABEL>144</LABEL>
+<LB/>Who-so wylle not, when he may, <NOTE PLACE="foot">144. Poema Morale V. 35 (ed. Lewin): <HI REND="italic">Þe wel ne deđ, þe hwile he mei, ne scal he, þanne he wolde;</HI> Hendyng, Cambr.-Hs. Nr. 46: <HI REND="italic">Wo-se nel, wan he mai, he ne scel nouth, wan he wolde;</HI> Bob. de Brunne, Handlyng Synne 4799f.: <HI REND="italic">He þat wyl nat, whan he may, He shal nat, when he wyl;</HI> Heywood S. 10: <HI REND="italic">He that will not when he may, When he would he shall have nay;</HI> Burton, Anatomy of Melancholy, 1621 (bei Sharman): <HI REND="italic">He that will not when he may, When he will he shall have nay.</HI></NOTE>
+<LB/>He shall not, when he wylle.
+</AB>
+<AB TYPE="proverb" N="145">
+<LABEL>145</LABEL>
+<LB/>Aft<HI REND="italic">er</HI> drowyth comyth drye. <NOTE PLACE="foot">145. Vgl. Vesp. A XXV (= Rel. Ant. I 323): <HI REND="italic">After droght commyth rayne; After plesur commethe payne; But yet it contynyth nyt so. For after rayne, Commyth drought agayne, And joye after payne and wo.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="146">
+<LABEL>146</LABEL>
+<LB/>When the fox fulles, then fleys he the gese.
+<LB/><HI REND="italic">Auca</HI>m <HI REND="italic">pelle sua spoliat vulpes sat</HI>ur<HI REND="italic">ata.</HI>
+</AB>
+<AB TYPE="proverb" N="147">
+<LABEL>147</LABEL>
+<LB/>Thre freris and thre fox maken thre shrewys;
+<LB/>And eu<HI REND="italic">er</HI> berus the fox the box of alle gode thewys.
+</AB>
+<AB TYPE="proverb" N="148">
+<LABEL>148</LABEL>
+<LB/>Who-so eu<HI REND="italic">er</HI> sey sothe, he shal be of-shende. <NOTE PLACE="foot">148. Ballade in O. IX. 38 (um 1500) Trinity Coll. Cambr. (Archiv CXI 407 nach James' Catalogue III): <HI REND="italic">Who sayth soth, he schall be schent.</HI></NOTE>
+<LB/><HI REND="italic">Veru</HI>m <HI REND="italic">dicentes su</HI>n<HI REND="italic">t culpa</HI>m <HI REND="italic">sepe fere</HI>n<HI REND="italic">tes.</HI>
+</AB>
+<AB TYPE="proverb" N="149">
+<LABEL>149</LABEL>
+<LB/>Alle the sothe, is not to be sayde. <NOTE PLACE="foot">149. Vgl. Lydgate(?), Passe Forthe, þou Pilgryme (ed. Förster im Arch. f. d. Stud. d. n. Spr. CI 51 u. CII 214) V. 10: <HI REND="italic">Sey neuer all þat, that wolde the sothe seme.</HI></NOTE>
+</AB>
+<AB TYPE="proverb" N="150">
+<LABEL>150</LABEL>
+<LB/>First loke and aftirward lepe; <NOTE PLACE="foot">150. <SUP>a</SUP> Heywood S. 9: <HI REND="italic">Looke ere ye leape,</HI> wozu Sharman auf Tottel's Miscellany und Tussers Husbandry verweist; Marriage of Wit and Science IV</NOTE>
+<LB/>Avyse the welle, or thow speke.
+</AB>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="addenda">
+<PB N="58" REF="15"/>
+<P>Anhangsweise seien hier noch einige englische Sprichwörter und Ähnliches zusammengestellt, die sich in dem anglofranzösischen Text der Exempelsammlung des in England tätigen Franziskaners Nicolas Bozon (ca. 1320) eingestreut finden. Der Urtext dieser <HI REND="italic">Contes moralisés</HI> (ed. T. Smith et P. Meyer, Paris 1889) ist in zwei Handschriften (in Gray's Inn und zu Cheltenham) überliefert, die beide aus der Mitte des 14. Jahrhunderts stammen; während die teilweise Übersetzung des Werkes ins Lateinische, wie sie im Harl. Ms. 1288 vorliegt, in das Ende desselben Jahrhunderts gehört. In das 14. Jahrhundert ist mithin auch das Englisch der nachfolgenden Sprüche zu verlegen. Wo <HI REND="italic">y</HI> für <HI REND="italic">þ</HI> steht, habe ich bei meinem Abdruck letzteres eingesetzt, ebenso in Nr. 1 und 9 <HI REND="italic">ȝ</HI> statt <HI REND="italic">z</HI> gebraucht.</P>
+<P>Als wirkliche Sprichwörter sind eigentlich wohl nur vier derselben, Nr. 1. 3. 4. 9, anzusprechen; vielleicht außerdem noch Nr. 7. Die übrigen, namentlich Nr. 5 und 8, könnten wohl—worauf schon die Herausgeber hingewiesen haben—aus ver∣lorenen englischen Fabelversionen stammen, die Bozon als Vor∣lage gedient hätten. Nr. 10 mag in letzter Linie auf Jesaias I 22 <HI REND="italic">Argentum tuum versum est in scoriam; vinum tuum mixtum est aqua</HI> zurückgehen.</P>
+<AB TYPE="proverb" N="1">
+<LABEL>1</LABEL>
+<LB/>For ȝif þe louerd bidd fle, <NOTE PLACE="foot">1. (Oxf. Dict.): <HI REND="italic">He that leapes before he loke,.</HI>.. <HI REND="italic">May leape in the myre.</HI> 150<SUP>b</SUP>. Cato B 45: <HI REND="italic">Hit byđ dysig, þoet man speca, oer þone he þoence;</HI> Prouer∣bis of Wysdome V. 117: <HI REND="italic">Avyse þe well, what euer þu say</HI> und Zupitzas reiche Verweise zu V. 24; außerdem Chaucer, Cant. Tal. I 324: <HI REND="italic">Man sholde hym avy∣se, what he speeke.</HI> Vgl. auch Engl. Stud. XXXI 8, Nr. 12.</NOTE>
+<LB/>Þe stiward biddes sle<NOTE N="1" PLACE="foot">Chelt Ms.: <HI REND="italic">If ye loverd biddes flo / Ye stiward biddes slo;</HI> Harl. Ms. p. 198: <HI REND="italic">Yf the lord byddyth fle / the stewward byddyth sle.</HI></NOTE>.<NOTE PLACE="marg">Bozon p. 12.</NOTE>
+</AB>
+<AB TYPE="proverb" N="2">
+<LABEL>2</LABEL>
+<LB/>Wel wurth suffraunce, þat abatez strif,
+<LB/>And wo wurth hastinece, þat reves man his lif<NOTE N="2" PLACE="foot">Harl. Ms. p. 203: <HI REND="italic">Well worthe suffrawns, yat abatyth stryfe, / And who worthe hastynesse, yat revyth mannys lyfe.</HI></NOTE>.<NOTE PLACE="marg">Bozon p. 20.</NOTE>
+</AB>
+<AB TYPE="proverb" N="3">
+<LABEL>3</LABEL>
+<LB/>Stroke oule and schrape oule, <NOTE PLACE="foot">3. Vgl. Hendyng, Oxf.-Hs. Nr. 44: <HI REND="italic">Sher asse and shrap asse, ne bringest þou nevere asse to gode rodehorse.</HI></NOTE>
+<LB/>And evere is oule oule.<NOTE PLACE="marg">Bozon p. 23.</NOTE>
+</AB>
+<AB TYPE="proverb" N="4">
+<PB N="59" REF="16"/>
+<LABEL>4</LABEL>
+<LB/>Trendle the appel nevere so fer, he couþes<NOTE N="1" PLACE="foot">So ist wohl für das conyes der franz. Ausgabe zu lesen.</NOTE>, fro what tree he cam<NOTE N="2" PLACE="foot">Chelt. Ms.: ....<HI REND="italic">hit kytes, wethin</HI> [lies <HI REND="italic">kythes whethir</HI>] <HI REND="italic">hit comes;</HI> Harl. Ms. p. 206: <HI REND="italic">Trendul an appull never so ferre, hyt wyll be know, fro wheyne he comyth.</HI></NOTE>. <NOTE PLACE="foot">4. Das Sprichwort erscheint schon in altenglischer Zeit in Cott. Faust. A. X (ed. Zupitza, Anglia I 285): Pomum licet ab arbore igitur unde [verderbt] reuoluitur, tamen prouidit [lies prodit], unde nascitur. <HI REND="italic">Se oeppel noefre poes feorr ne trenddeđ</HI> [lies <HI REND="italic">trendlađ</HI>], <HI REND="italic">he cyđ, hwanon he com.</HI> Im Archiv f. d. Stud. d. neuer. Sprachen XC 142 wies dann Zupitza darauf hin, dass dasselbe Sprichwort V 135 ff. des frühme. Gedichtes Owl and Nightingale (ed. Stratmann) zugrunde liegt: <HI REND="italic">Þeȝ appel trendli from þon treowe, Þar he and oþer mid greowe, Þeȝ he beo þar-from bicume, He cuþ wel, hwonene he is icume.</HI></NOTE><NOTE PLACE="marg">Bozon p. 23.</NOTE>
+</AB>
+<AB TYPE="proverb" N="5">
+<LABEL>5</LABEL>
+<LB/>Over me þou<NOTE N="3" PLACE="foot">Chelt. Ms.: <HI REND="italic">thow.</HI></NOTE> may. <NOTE PLACE="foot">5. So sprach das Schaf zu der auf ihrem Rücken sitzenden Krähe (s. Phae∣drus, Fab. app. 24).</NOTE><NOTE PLACE="marg">Bozon p. 54.</NOTE>
+</AB>
+<AB TYPE="proverb" N="6">
+<LABEL>6</LABEL>
+<LB/>Leve-in-þi-rokke ne is no thef; <NOTE PLACE="foot">6. <HI REND="italic">Leve-in-þi-rokke</HI> ist Name einer Frau: <HI REND="italic">une femme que fust appelé</HI> Leve in þi rokke, <HI REND="italic">qe fust sotil en le mester de peigneresce, mès nul oeveraigne pren∣dreit de homme ne de femme que ele ne prendreit e en porterait graund par∣tie de la leyne</HI> (Bozon p. 117). Auch sonst braucht Bozon ähnliche Namen: z. B. <HI REND="italic">Havegyf, Mikilmisauntir, Tristewell, Werldeshame.</HI></NOTE>
+<LB/>Take oþer mannez wulle is hire to lef.<NOTE PLACE="marg">Bozon p. 117.</NOTE>
+</AB>
+<AB TYPE="proverb" N="7">
+<LABEL>7</LABEL>
+<LB/>Clym! clam! <NOTE PLACE="foot">7. Das <HI REND="italic">clym! clam!</HI> scheint anomatopoetisch. Vielleicht hängt letzteres mit dem wohl gleichfalls anomatopoetischen ne. <HI REND="italic">clam</HI> 'zusammenklingen' zusammen, das freilich das Oxf. Dict. nur als Verb und zwar erst in später Verwendung kennt.</NOTE>
+<LB/>Cat lep over dam!<NOTE N="4" PLACE="foot">Harl. Ms. p. 212: <HI REND="italic">Clym! clam! the catte lepe over the damme.</HI></NOTE> <NOTE PLACE="marg">Bozon p. 145.</NOTE>
+</AB>
+<AB TYPE="proverb" N="8">
+<LABEL>8</LABEL>
+<LB/>Was it nevere my kynd <NOTE PLACE="foot">8. So sprach der betrogene Widder im Brunnengrunde (s. Phaedrus, Vul∣pes et Caper).</NOTE>
+<LB/>Chese in wellez<NOTE N="5" PLACE="foot">So nach Hs. Chelt. u. Harl.; das Gray's Inn Ms. liest <HI REND="italic">wellez</HI> grond. Harl. Ms. p. 215: <HI REND="italic">For was hyt never myn kynd / Chese in welle to fynd.</HI></NOTE> to fynde.<NOTE PLACE="marg">Bozon p. 151.</NOTE>
+</AB>
+<AB TYPE="proverb" N="9">
+<PB N="60" REF="17"/>
+<LABEL>9</LABEL>
+<LB/>Hyt ys a fowle brydde, that fylyȝth hys owne neste. <NOTE PLACE="foot">9. Owl and Nightingale V. 99. <HI REND="italic">Dahet habbe that ilke best, That fuleth his owne nest;</HI> Peter Idle, Instructions to his Son, V. 89 (ed. F. Miesner, Greifs∣wald. Diss. 1903): <HI REND="italic">It is an vnclene birde defouleth his neste;</HI> Skelton, Poems against Garnesche, 1520 (bei Sharman): <HI REND="italic">That byrd ys nat honest, That fylyth hys owne nest;</HI> Latimer, Sermons (Oxf. Dict.): <HI REND="italic">An evyll birde, that defiles hys own nest;</HI> Heywood S. 123: <HI REND="italic">It is a foule byrd, that fyleth his owne nest;</HI> Galt, Entail, 1823 (Oxf. Dict.): <HI REND="italic">It's a foul bird that files its ain nest.</HI></NOTE><NOTE PLACE="marg">Harl. Ms., Bozon p. 205.</NOTE>
+</AB>
+<AB TYPE="proverb" N="10">
+<LABEL>10</LABEL>
+<LB/>Hurre fayre speche ys turnyd into grucchyng; <NOTE PLACE="foot">10. Das Ganze ist wohl Übersetzung aus dem Französischen <HI REND="italic">Lur beal parol torné est en groundelour, e lur douceure en maufiel</HI> (Chelt. Ms. est <HI REND="italic">medlé ove mausavour</HI>).</NOTE>
+<LB/>Here swete smelle and sawowr ys turnyd into stynggyng<NOTE N="1" PLACE="foot">Lies stynkyng.</NOTE>. <NOTE PLACE="marg">Harl. Ms., Bozon p. 209.</NOTE>
+</AB>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

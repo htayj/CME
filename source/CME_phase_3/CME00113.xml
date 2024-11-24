@@ -1,0 +1,3484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-8-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; removed some ABBRs. Checked <SUP>s</SUP>. Reviewed structure; changed DIV1 to DIV2; changed some CLOSER SIGNEDs to BIBLs; changed some LGs to Qs; changed CLOSER SIGNED to marg NOTE; changed several TRAILERs to marg NOTEs; removed incorrect MILESTONE from NOTE; added stanza numbers to NOTEs; moved some NOTEs; added missing NOTE and text. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs; added description. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00113">
+<STC T="M">113</STC>
+<BIBNO T="mec">CME00113</BIBNO>
+<VID>CME00113</VID>
+</IDG>
+<TEXT LANG="enm">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="4"/>
+<P>THREE EARLY ENGLISH METRICAL ROMANCES.</P>
+<P>WITH AN INTRODUCTION AND GLOSSARY.</P>
+<P>EDITED FROM A MS. IN THE POSSESSION OF J. I. BLACKBURNE, ESQ. M.P. BY JOHN ROBSON, ESQ.</P>
+<P><FIGURE><FIGDESC>seal with portrait of William Camden</FIGDESC>
+<HEAD>THE CAMDEN SOCIETY FOUNDED MDCCC. XXXVIII N. 2 Maii 1551 Ob 9 Nov. 1623.</HEAD>
+</FIGURE></P>
+<P>PRINTED FOR THE CAMDEN SOCIETY,</P>
+<P>M.DCCC.XLII.</P>
+<P>Reprinted with the permission of the Royal Historical Society</P>
+<P>AMS PRESS</P>
+<P>NEW YORK · LONDON</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="collection of poems">
+<PB REF="48"/>
+<HEAD>EARLY ENGLISH METRICAL ROMANCES.</HEAD>
+<DIV2 TYPE="poem">
+<HEAD>THE ANTURS OF ARTHER AT THE TARNEWATHELAN.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>IN the tyme of Arther thys antur be-tydde,</L>
+<L>Be-syde the Tarnewathelan, as the boke tellus;</L>
+<L>That he to Karlylle was comun, that conquerour kydde,</L>
+<L>Wythe dukys, and with dosiperus, that with the deure dwellus,</L>
+<L>For to hunte atte the herd, that lung hase bynne hydde;</L>
+<L>Tyl on a day thay hom dyȝt into the depe dellus,</L>
+<L>Fellun to tho femalus, in forest was fredde;</L>
+<L>Fayre by fermesones, by frythys, and felles,</L>
+<L>To the wudde thay weyndun, these wlonkes in wedes;</L>
+<L>Bothe the kyng and the qwene,</L>
+<L>And other doȝti by-dene;</L>
+<L>Syr Gawan, graythist on grene,</L>
+<L>Dame Gaynore he ledus.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Thenne Syr Gawan the gode, Dame Gaynour he ledus,</L>
+<L>Inne a gliderand gyde, that glemit so gay;</L>
+<L>That was with rebans reuersut, quo so ryȝt redys,</L>
+<L>Arayit aure with rebans, rycheste of ray;</L>
+<L>Hur hud of a haa hew, that hur hede hidus,</L>
+<L>Of purpure, and palle werke, and perrè to pay;</L>
+<L>Wos schrod in a schort cloke, that the rayn shredes,</L>
+<L><PB N="2" REF="49"/>
+Set aure with saferes, quo sothely will say,</L>
+<L>Safers and seledyms, serclet on sydus;</L>
+<L>Her sadylle sette with that ilke,</L>
+<L>With ryche sa savmhellus of sylke,</L>
+<L>Opun a mule as the mylke;</L>
+<L>Thus gayli ho glydus. <NOTE PLACE="foot">ST. II. l. 13. <HI REND="italic">Saude with sambutes of sylke.</HI> MS. Douce.</NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>And thus Dame Gaynour the gode, gayli ho glidus</L>
+<L>The gatys with Syr Gawan, by a grene welle;</L>
+<L>And a byrne on a blonke, that with the quene a-bydus,</L>
+<L>That borne was in Burgoyne, be boke and by belle;</L>
+<L>So lung he ledys that lady by that loghe sydus, <NOTE PLACE="foot">III. 5.—<HI REND="italic">Loghe landez,</HI> MS. Lincoln.—<HI REND="italic">Lawe,</HI> MS. Douce.—V. infra, VII. 5.</NOTE></L>
+<L>Ther at a laurialle scho lyȝt, loe by a hille;</L>
+<L>The fellus, Arther and his hurles, hernestely he rydest,</L>
+<L>To teche hom to hor tristurs, quo truly wille telle;</L>
+<L>To hor tristurs he hom taȝte, quo truly me trowes,</L>
+<L>Yche lord with-outen lette,</L>
+<L>Vn-to a tre ar thay sette,</L>
+<L>Wyth bow and wyth berselette,</L>
+<L>Vndurneth the boes.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Thus vndur boes thay byde, than byrnes so bold,</L>
+<L>To beker atte the barrens, in bonkes so bare;</L>
+<L>There myȝte hathels on hye, herdus be-hold,</L>
+<L>To herkyn huntyng with horne, in holtis so hore;</L>
+<L>Thay kest of hor cowpullus, in cliffes so cold,</L>
+<L>Cumfordun hor kenettes, to kele hom of care;</L>
+<L>Thay felle to the female dure, feyful thyk fold;</L>
+<L>With felle houundus and with fresche, thay folo the fare.</L>
+<L><PB N="3" REF="50"/>
+Thay questun, thay quellun,</L>
+<L>By frythun, by fellun,</L>
+<L>The dere in the dellun,</L>
+<L>Thay droupun and daren.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Alle dyrkyns the dere, in the dym scoghes,</L>
+<L>For drede of the dethe droupus the doe;</L>
+<L>For the squyppand watur, that squytherly squoes,</L>
+<L>Thayre werre on the wild squyne wurchis hom wo.</L>
+<L>The hunteres thay haulen, by hurstes and by hoes,</L>
+<L>To the rest raches that releues of the roe:</L>
+<L>Thay geuen no gomen, nyf no grythe, that on the grounde groes, <NOTE PLACE="foot">V. 6,7.
+<Q>
+<L>And bluwe rechas, rially thei ranne to the ro.</L>
+<L>Thay gafe to no gamen, that on grownde growes.</L>
+<BIBL>MS. Douce.</BIBL>
+</Q>
+<Q>
+<L>And tille thaire riste, raches relyes onne thaire raye;</L>
+<L>They gafe no gamen, no grythe, that on grownde growes.</L>
+<BIBL>MS. Lincoln.</BIBL>
+</Q>
+<P><HI REND="italic">"And to their resting place hounds follow, on their track (?) They gave no sport, no respite."</HI> The second line is repeated (without the negative) infra XII 3, and appears to conclude with a sort of conventional or expletive phrase.</P></NOTE></L>
+<L>The grehoundys in the grene greues, so gladdely thay goe;</L>
+<L>Thus gladdely thay goe, in greuis so grene,</L>
+<L>The king blue a rechase,</L>
+<L>Folut fast on the trase,</L>
+<L>With mony seriandys of mase,</L>
+<L>That solas to see.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Thus that solas to see, the semelokest of alle,</L>
+<L>Thay soȝt to thayre souerayne, undur the scha schene;</L>
+<L>Alle butte Syr Gauan, graythest of alle,</L>
+<L>Was laft with Dame Gaynour, vndur the greues grene.</L>
+<L>By a lauryel ho lay, vndur a lefe sale,</L>
+<L>Of box and of barberè, byggyt ful bene;</L>
+<L>Euyn atte the mydday this ferly con falle,</L>
+<L>And this mykyl meruel, that I of mene;</L>
+<L><PB N="4" REF="51"/>
+Nou wold I of this meruel mele, if I moȝt,</L>
+<L>The day wex as dirke</L>
+<L>As the mydnyȝte myrke,</L>
+<L>Ther-of Syr Arther wos irke,</L>
+<L>And liȝte on his fote.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Thus on fote con thay founde, these frekes vn-fayn,</L>
+<L>And fled to the forest fro the fau fellus; <NOTE PLACE="foot">VII. 2. <HI REND="italic">Fawe fellis,</HI> MS. Lincoln.—<HI REND="italic">Fewe,</HI> MS. Douce.</NOTE></L>
+<L>Thay ran to the raches, for redeles of rayn, <NOTE PLACE="foot">3. <HI REND="italic">To the roches, for reddoure,</HI> MS. D. <HI REND="italic">to the rocks, for fear.</HI></NOTE></L>
+<L>For the snyterand snaue, that snaypely hom snellus;</L>
+<L>So come a lau oute of a loghe, in lede is noȝt to layn,</L>
+<L>In lykenes of Lucifere, lauyst in hellus;</L>
+<L>Glydand to Dame Gaynour, hyre gates were gayne,</L>
+<L>ȝauland ful ȝamerly, with mony loude ȝelles;</L>
+<L>Hyt ȝaulit, hit ȝamurt, with wlonkes full wete,</L>
+<L>And sayd with sykyng sare,</L>
+<L>"I banne the byrde that me bare,</L>
+<L>For noue comyn is my care,</L>
+<L>I gloppen and Y grete!"</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Alle gloppuns and gretys Dame Gaynour the gay,</L>
+<L>And sayd to Syr Gauan, "Quat is thi best rede?"</L>
+<L>"Hyt is but the clyppus of the sune, I herd a clerk say;"</L>
+<L>And thus he cumforthes the quene, throghe his knyȝt-hed;</L>
+<L>Ho sayd, "Syr Cador, Syr Clegius, Syr Costantyne, Syr Cay,</L>
+<L>These knyȝtes ar vn-curtas, by cros, and by crede!</L>
+<L>That thus haue laft me allone, at my dethe day,</L>
+<L>With on the grymlokkest gost, that euer herd I grete!"</L>
+<L>"Of the gost," quod the gome, "greue thè no mare;</L>
+<L><PB N="5" REF="52"/>
+For I wille speke with the sprete,</L>
+<L>And of hit woe wille I wete,</L>
+<L>Gif that I may hit bales bete,</L>
+<L>And the body bare."</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Alle bare was the body, and blak by the bone,</L>
+<L>Vmbeclosut in a cloude, in clething evyl clad;</L>
+<L>Hit ȝaulut, hit ȝamurt, lyke a woman,</L>
+<L>Nauthyr of hyde, nyf of heue, no hillyng hit had;</L>
+<L>Hyt stedyt, hit stode as stylle as a stone;</L>
+<L>Hyt menet, hit musut, hyt marret for madde.</L>
+<L>Vn-to the gryselyche gost Syr Gauane is gone,</L>
+<L>And rayket to hit in a res, for he was neuyr radde;</L>
+<L>Rad was he neuyr ȝette, quo so ryȝte redus;</L>
+<L>Opon the chefe of hur cholle,</L>
+<L>A padok prykette on a polle,</L>
+<L>Hyr enyn were holket and holle,</L>
+<L>And gloet as the gledes.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Alle gloet as the gledes, the gost qwere hit glidus,</L>
+<L>Was vmbyclosut in a cloude, in clething vn-clere</L>
+<L>Was sette aure with serpentes, that sate to the sydus;</L>
+<L>To telle the todus ther opon with tung were ful tere.</L>
+<L>Then this byrne braydet owte a brand, and the body bidus;</L>
+<L>For alle this chiualrouse knyȝt, chonget no chere;</L>
+<L>The houndes hyes to the holtes, and thayre hedus hidus;</L>
+<L>The greundes were alle a-gast, of the gryme bere.</L>
+<L>Thus were the grehondes a-gast of the gryme bere;</L>
+<L>The bryddus in the boes,</L>
+<L>That of the gost gous,</L>
+<L>Thay scryken in the scoes,</L>
+<L>That herdus myȝten hom here.</L>
+</LG>
+<LG N="11">
+<PB N="6" REF="53"/>
+<HEAD>XI.</HEAD>
+<L>Alle the herdus myȝtun here, the hyndest of alle,</L>
+<L>Off the schaft and the shol, shaturt to the shin;</L>
+<L>Thenne coniurt the knyȝt, and on Cryst callus,</L>
+<L>"As Thou was claryfiet on crosse, and clanser of synne,</L>
+<L>Wys me, thou waret wyȝte! quedur that thou schalle,</L>
+<L>Querfore that thou walkes these woddes with-inne?"</L>
+<L>Ho sayd, ho was a figure of flesche, fayrest of alle,</L>
+<L>"Crystunt and crisumpte with kingus in my kynne;</L>
+<L>I hade kingus in my kynne, that kyd were for kene;</L>
+<L>Thus God hase grauntut me grace,</L>
+<L>To dre my penawunse in this place,</L>
+<L>And I am comun in this cace,</L>
+<L>To carpe with ȝour qwene.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>For qwene was I sum-qwile, briȝter of broes</L>
+<L>Thenne Berel, or Brangeuayne, the birdus so bold;</L>
+<L>Of alle the gomun, and the grythe, that on the ground groes,</L>
+<L>Grattur thenne Dame Gaynour, be grete sowmus of gold;</L>
+<L>Of palas, of parkes, of poundes, of ploes,</L>
+<L>Of toures, of tounes, of tresurus vn-told;</L>
+<L>Of castels, of cuntrayes, of cliffes, of cloes,</L>
+<L>Thus am I cachet fro kythe, to cares so kold!</L>
+<L>Thus am I cachet to care, and couchet in clay;</L>
+<L>Lo! thou curtase knyȝte,</L>
+<L>Houe dylful dethe hase me dyȝte,</L>
+<L>To lette me onus haue a syȝte</L>
+<L>Of Ganore the gay."</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Thenne Syr Gauan the gode, to Gaynour is gone,</L>
+<L>Be-fore the body he hur broȝte, and the byrde bryȝte,</L>
+<L>Ho sayd, "Welcum, Waynor, i-wys, wurlok in wone</L>
+<L><PB N="7" REF="54"/>
+Lo! hou dilful dethe hase thi Dame dyȝte!</L>
+<L>For my rud was raddur then rose of the ron,</L>
+<L>My lere as the lilly that lauchet so lyȝte;</L>
+<L>Now I am a gryselyche gost, and griseliche I grone,</L>
+<L>With Lucifere, in a lake, thus lau am I lyȝte.</L>
+<L>Thus lau am I lyȝte, take wittenesse by me;</L>
+<L>For alle ȝour fresche forur, <NOTE PLACE="foot">XIII. 10.
+<Q>
+<L><HI REND="italic">For alle</HI> ȝ<HI REND="italic">oure fresche fauoure</HI></L>
+<L><HI REND="italic">Nowe moyse on this mirroure.</HI></L> <BIBL>MS. L.</BIBL>
+</Q></NOTE></L>
+<L>That menes of ȝour merur,</L>
+<L>Kynge, Duke, and Emperoure,</L>
+<L>Alle thus schalle ȝe be.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Thus dethe wille ȝo diȝte, I do ȝo oute of doute,</L>
+<L>And therfore hertely take hede, quyles that thou art here;</L>
+<L>Qwen thou art ray richest, and rydus in thi route, <NOTE PLACE="foot">XIV. 3. <HI REND="italic">Richely arrayede.</HI> MS. L.</NOTE></L>
+<L>Haue petè on the pore, quyl thou hase pouere:</L>
+<L>Quen birdus, and birnys ar besy thè aboute,</L>
+<L>Quyl thi body be boumet, and broȝte on a bere,</L>
+<L>Thay wille leue thè ful lyȝteli, that noue wil thè loute,</L>
+<L>And then helpes thè no thing, but holi prayere.</L>
+<L>For the prayer of the pore may purchase thi pece;</L>
+<L>Those at thou ȝees at thi ȝate,</L>
+<L>Quen thou art sette in thi sete,</L>
+<L>With alle the myrthes at thi mete,</L>
+<L>And dayntethis on dese.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>With alle dayntethis on dese, thi dietis ar diȝte,</L>
+<L>And I in dungun, and dill, is done for to duelle;</L>
+<L>Naxty, and nedy, and nakut, opon heȝte;</L>
+<L>For in wunnyng place, is woe for to duelle; <NOTE PLACE="foot">XV. 4. <HI REND="italic">There folo me a ferde of fendis of helle.</HI> MS. D.</NOTE></L>
+<L><PB N="8" REF="55"/>
+Thay hurlun me vn-hindely, thay haue me on heȝte,</L>
+<L>In brasse, and in brinstone, I brenne as a belle;</L>
+<L>For I ne wotte in this word, so woful a wiȝte;</L>
+<L>Hit were fulle tere for a tung, my tourmentes to telle.</L>
+<L>Now wold I of these tourmentes talk or I goe,</L>
+<L>Thenke thou throli opon this,</L>
+<L>And founde to mend of thi mys,</L>
+<L>For thou art warnut i-wis;</L>
+<L>Be-war of my woe!"</L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>"Ways me for thi wirde!" cothe Waynor, "i-wis,</L>
+<L>But on thing wold I wete, and thi wille ware,</L>
+<L>Quethir authir matyns, or masse, myȝt mend thè of mys,</L>
+<L>Or any mubulle on the muld, my myrthe were the more;</L>
+<L>Or bedus of these bischoppus, myȝte bringe thè to blis,</L>
+<L>Or couand in the cloystur, myȝt kele thè of care,</L>
+<L>For giffe thè were my modur, grete wundur hit ware,</L>
+<L>That euyr thy burliche body bryȝte is so bare!"</L>
+<L>Ho sayd, "I bare thè of my body, quat bote is to layne?</L>
+<L>By a token thou me troue,</L>
+<L>I breke a solem adecoue, <NOTE PLACE="foot">XVI. 11. <HI REND="italic">I brake a solempne a-vowe.</HI> MSS. D. and L.</NOTE></L>
+<L>That non wist but I and thou,</L>
+<L>Quo sotheli wille sayne!"</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>"Say me," quod Gaynour, "quat myȝte saue thè from site</L>
+<L>Fro citè I schalle sayntes ger seke sone for thi sake;</L>
+<L>For tho baleful bestus that on thi body bites;</L>
+<L>Alle blynde is my ble, thi blode is so blake!"</L>
+<L>"These ar luf peramourus, that listus and likes,</L>
+<L>Dose me lyȝte, and lynd lau in in a lake;</L>
+<L><PB N="9" REF="56"/>
+Alle the welthe of this worde thus a-way wytes,</L>
+<L>With these wrechut wurmus, that wurchen me this wrake.</L>
+<L>Thus to wrake am I wroȝte, Waynor, i-wis;</L>
+<L>Were thrittè trentes of masse done,</L>
+<L>Be-twyx vndur and none,</L>
+<L>My saule were socurt ful sone,</L>
+<L>And broȝte un-to blys."</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>Ho sayd, "To that blys bring thè that birne that boȝt vs with his blode,</L>
+<L>As he was clarifiet on crosse, and crounet with thorne,</L>
+<L>Cristunt and crisumte, with condul and with code,</L>
+<L>Folut in a fontestone, frely biforne;</L>
+<L>And Mary, his modur, that mylde is of mode,</L>
+<L>Of qwom that blisfulle barne in Bedelem was born;</L>
+<L>He gif me grace, to grete thi saule with the gode,</L>
+<L>And myn thè with massus, and matins, on morun."</L>
+<L>"To mynne me with massus, grete mestur hit were;</L>
+<L>For him that rest on the rode,</L>
+<L>Thou dele fast of thi gode,</L>
+<L>To tho that fales the fode,</L>
+<L>Qwillus that thou art here."</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>"Here I hete the my hond, thi hestus to hold,</L>
+<L>With a milium of masse to make thi mynnyng;</L>
+<L>But on thing," [cothe] Waynour, "that I wete wold,</L>
+<L>Quat wrathes Crist most at thi weting?"</L>
+<L>Ho sayd, "Pride with his purtenans, hase prophetes haue told,</L>
+<L>And enperit to the pepulle in hor preching; <NOTE PLACE="foot">XIX. 6. <HI REND="italic">By-fore the pople appertly, in thaire prechynge.</HI> MS. L. Fo "<HI REND="italic">appertly</HI>" the Douce MS. has "<HI REND="italic">apt in herre.</HI>"</NOTE></L>
+<L>These ar the branches full bittur, ther-of be thou bold,</L>
+<L><PB N="10" REF="57"/>
+Makes mony byrne full boune, to breke Goddus bidding,</L>
+<L>Quo his bidding brekes, bare is of blis;</L>
+<L>But if thay saluen hom of ther sare,</L>
+<L>Certis or thay hethun fare,</L>
+<L>Thay knaue of mekil care,</L>
+<L>ȝè Waynore, i-wis!"</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>"Now wis me," quod Waynor, "gif that thou wost,</L>
+<L>Quat bedus that myȝte best vs to blis bring?"</L>
+<L>Ho sayd, "Mesure and mekenes, that is the most,</L>
+<L>Haue petè of the pore, that plesus the kinge;</L>
+<L>Sethyn charitè is chefe to those that wyn be chast,</L>
+<L>Almesdede, that is aure alle other thingus.</L>
+<L>These ar the gracius giftus of the Holi Gost.</L>
+<L>That enspires iche sprete, with-oute spilling,</L>
+<L>Off this spiritualltè speke we no more;</L>
+<L>Quyll thou art quene in thi quarte,</L>
+<L>Hald these wurdus in thi herte,</L>
+<L>For thou mun lyf butte a starte,</L>
+<L>And hethun schalle thou fare." <NOTE PLACE="marg">A Fytte.</NOTE></L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>"HOW schalle we fare," quod Gauan, "that foundus to these fiȝtus,</L>
+<L>And defoules these folk, in fele kyngus londus;</L>
+<L>Riche remus orerennus, agaynes the ryȝtus,</L>
+<L>Wynnes wurschip, and wele, throghe wyȝtenes of hondus?"</L>
+<L>Scho sayd, "Yaure king is to couetus, and his kene knyȝtus,</L>
+<L>Ther may no strenȝthe him stir, quen the quele stondus;</L>
+<L>Quen he is in his magestè, most in his myȝtus,</L>
+<L>Then schalle he liȝte fulle lau, bi the see sondus.</L>
+<L>Thus ȝour chiualreis kynge, chefe schalle a chaunse;</L>
+<L><PB N="11" REF="58"/>
+Felles fortune in fyȝte,</L>
+<L>That wundurfulle quele-wryȝte,</L>
+<L>That lau wille lordis gere liȝte,</L>
+<L>Take wittenesse be Fraunse!</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>For Fraunse haue ȝe frely with ȝaure fiȝte wonnen,</L>
+<L>Frol, and his Farnet, ful fery haue ȝe leuyt; <NOTE PLACE="foot">XXII. 2. <HI REND="italic">The Frolo, and the Farnaghe, es frely by-leuede.</HI> MS. L. <HI REND="italic">Freol and his folke, fey ar they leued.</HI> MS. D.</NOTE></L>
+<L>Bretan, and Burgoyn, is bothe in ȝour bandum;</L>
+<L>And alle the Duseperis of Fraunse with ȝour dyn deuyt.</L>
+<L>Now may Gian grete, that euyr hit was begonun,</L>
+<L>Ther is noȝte lede on leue, in that lond leuet.</L>
+<L>ȝette schalle the riche Romans be with ȝou aure-runnun,</L>
+<L>And atte the Rountabulle, the rentus schalle be reuet,</L>
+<L>Hit schalle be tynte, as I troue, and timburt with tene.</L>
+<L>Gete thè wele, Sir Gauan,</L>
+<L>Turne thè to Tuscan,</L>
+<L>Or lese schalle ȝe Bretan,</L>
+<L>Thruȝe a knyȝte kene!</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>A knyȝte schalle kenely croyse the croune,</L>
+<L>And at Carlit be crounet for king, <NOTE PLACE="foot">XXIII. 2. <HI REND="italic">Carelyon.</HI> MS. L. <HI REND="italic">Carlele.</HI> MS. D.</NOTE></L>
+<L>That segge schalle ensese him, atte a session;</L>
+<L>Mykille barette, and bale, to Bretan schalle bring;</L>
+<L>ȝe schalle be told in Tuskan, of that tresun,</L>
+<L>And be turnut a-gaynne with that tithing;</L>
+<L>Ther schalle the Rountabulle lese the renowun,</L>
+<L>Be-syde Ramsay the riche, atte a ryding;</L>
+<L>In Desesde schalle dee the duȝty of alle. <NOTE PLACE="foot">9. <HI REND="italic">And at Dorsett.</HI> MS. L.</NOTE></L>
+<L><PB N="12" REF="59"/>
+Gete thè wele, Syr Gauan,</L>
+<L>The baldest of Bretan!</L>
+<L>For in a slac thou schalle be slayn,</L>
+<L>Seche ferlès schyn falle!</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>Seche ferlès schalle [falle] with-outen any fabull,</L>
+<L>Opon Corneuayle cost, with knyȝtus fulle kene;</L>
+<L>Ther Arthore auenant, onest, and abulle,</L>
+<L>Schalle be woundut, i-wis, wothelik I-wene;</L>
+<L>Alle the rialle route of the Rountabulle</L>
+<L>Thay schalle dee that day, tho duȝti be-dene!</L>
+<L>Sussprisut with a subiecte, that bere schalle of sabulle,</L>
+<L>With a sauter engralet, of siluer so schene;</L>
+<L>He berus hit of sabulle, quo sotheli wille saye;</L>
+<L>In Kyng Arther's halle,</L>
+<L>The child playes atte the balle,</L>
+<L>That outray schalle ȝo alle,</L>
+<L>Derfly that daye!</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>Ho sayd, "Haue gode day, Syr Gauan, and Gaynour the gode!</L>
+<L>I have no lengur tyme ȝo tithinges to telle,</L>
+<L>For I mun walke on my way, throȝe-oute ȝondur wud,</L>
+<L>For in my wunnyng place is wo for to welle.</L>
+<L>For him that ryȝtewis rest, and rose on the rode,</L>
+<L>Thenke quat dounger, and dele, that I inne duelle;</L>
+<L>Funde to grete my saule with sum of thi gode,</L>
+<L>And myn me with massus, and matyns i-mele.</L>
+<L>For massus ar medesins for us in bales bides;</L>
+<L>Vs thing a masse als squete,</L>
+<L>As any spyce that euyr thou ete."—</L>
+<L>Thus with a grysliche grete,</L>
+<L>The gost a-way glidus.</L>
+</LG>
+<LG N="26">
+<PB N="13" REF="60"/>
+<HEAD>XXVI.</HEAD>
+<L>Noue with a griseliche grete, the gost away glidus,</L>
+<L>And a sore gronyng, with a grym bere;</L>
+<L>The wynd and the welkyn, the wethur in that tide,</L>
+<L>The cloude vnclosut, the sune wex clere.</L>
+<L>The kynge his bugul con blau, opon the bent bides,</L>
+<L>His fayre folke on the fuilde, they flocken in fere,</L>
+<L>And alle the rial route to the quene ridus;</L>
+<L>Meles to hur mildely, opon thayre manere;</L>
+<L>Tho wees of the wederinges forwondret thay were;</L>
+<L>Princys, pruddust in palle,</L>
+<L>Gay Gaynoure and alle,</L>
+<L>Thay wente to Rondalle-sete halle,</L>
+<L>Vn-to thayre sopere.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Quen he to sopere was sette, and seruut in his sale,</L>
+<L>Vndur a seler of sylke, with dayntethis diȝte;</L>
+<L>With alle welthis to wille, and wynus to wale,</L>
+<L>Briddes bacun in bred, on brent gold bryȝte,</L>
+<L>So come in a seteler, with a symbale,</L>
+<L>A lufsum lady ledand a knyȝte;</L>
+<L>Ridus to the he dese, be-fore the rialle,</L>
+<L>And hailsutte King Arthore hindely on heȝte;</L>
+<L>Sayd to the soueran, wlonkest in wede,</L>
+<L>"Thou mon, makeles of myȝt,</L>
+<L>This is a nayre, and a knyȝt,</L>
+<L>Thou do him resun and ryȝte,</L>
+<L>For thi mon-hed."</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>Monli in his mantille he sate atte his mete,</L>
+<L>With palle puret in poon, was prudliche piȝte,</L>
+<L>Trowlt with trulufes and tranest be-tuene,</L>
+<L><PB N="14" REF="61"/>
+The tassellus were of topeus, that was ther-to tiȝte;</L>
+<L>He glysset up with his ene, that gray were and grete,</L>
+<L>With his beueren berd, opon the birne bryȝte;</L>
+<L>He was the semelist soueran on sittand in his sete,</L>
+<L>That euyr segge hade soȝte, or seen him syȝte.</L>
+<L>Thenne oure comeliche King carpus hur tille,</L>
+<L>And sayd, "Thou wurlych wiȝt,</L>
+<L>Liȝte, and leng alle nyȝt,</L>
+<L>Quethun is that ayre and that knyȝt,</L>
+<L>And hit were thi wille?"</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>Ho wos the wurliche wiȝte, that any wee wold;</L>
+<L>Hir gide that was glorius, was of a gresse-grene;</L>
+<L>Her belte was of blenket, with briddus ful bold,</L>
+<L>Beten with besandus, and bocult ful bene:</L>
+<L>Her fax in fyne perrè, was frettut and fold,</L>
+<L>Her countur-felit and hur kelle were colurt ful clene,</L>
+<L>With a croune cumly, was clure to be-hold;</L>
+<L>Hur kerchefes were curiouse, with mony a proud prene;</L>
+<L>Hur enparel was a-praysut, with princes of myȝte;</L>
+<L>Bryȝte birdus and bold,</L>
+<L>Hade i-nuȝhe to be-hold,</L>
+<L>Of that freli to fold,</L>
+<L>And the kene knyȝte.</L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<L>Than the knyȝte in his colurs was armit ful clene,</L>
+<L>With a crest comely, was clure to be-hold,</L>
+<L>His brene, and his basnet was busket ful bene,</L>
+<L>With a bordur a-boute, alle of brent gold:</L>
+<L>His mayles were mylke quyte, enclawet full clene,</L>
+<L>His stede trapput with that ilke, os true men me told;</L>
+<L>With a schild on his shildur, of siluer so schene,</L>
+<L><PB N="15" REF="62"/>
+With bore-hedis of blakke, and brees full bold;</L>
+<L>His stede with sandelle of Trise was trapput to the hele.</L>
+<L>Opon his cheueronne be-forn,</L>
+<L>Stode as a vnicorn,</L>
+<L>Als scharpe as a thorn,</L>
+<L>An nanlas of stele.</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>In stele was he stuffut, that sterne on his stede,</L>
+<L>With his sternes of gold, stanseld on stray;</L>
+<L>His gloues and his gamesuns gloet as the gledes,</L>
+<L>A-rayet aure with rebans, rychist of raye;</L>
+<L>With his schene schinbandes, scharpest in schredus.</L>
+<L>His polans with his pelidoddes were poudert to pay,</L>
+<L>Thus launce opon lofte that louely he ledus;</L>
+<L>A fauyn on a fresun him folut, in fay,</L>
+<L>The freson was afrayet, and ferd of that fare;</L>
+<L>For he was syldun wunte to se</L>
+<L>A tablet flourrè;</L>
+<L>Seche game, and siche glee,</L>
+<L>Seȝhe he neuyr are.</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>Then the king carput him tille, on hereand hom alle,</L>
+<L>"Qwethun art thou, wurliche we, and hit were thi wille?</L>
+<L>Tell me quethun thou come, and quethir thou schalle,</L>
+<L>Quy thou stedis in that stid, and stondus so stille?"</L>
+<L>Then he auaylet vppe his viserne fro his ventalle,</L>
+<L>With a knyȝteliche countenaunse, he carpes him tille;</L>
+<L>Sayd, "Quethir thou be Cayselle or Kyng, here I thè be-calle,</L>
+<L>For to fynde me a freke to feȝte on my fille;</L>
+<L>For feȝting thus am I fraest and foundut fro home."</L>
+<L>Then speke the kynge opon heȝte,</L>
+<L>Sayd, "Liȝte, and leng alle nyȝte;</L>
+<L>As thou art curtase knyȝte,</L>
+<L>Thou telle me thi name."</L>
+</LG>
+<LG N="33">
+<PB N="16" REF="63"/>
+<HEAD>XXXIII.</HEAD>
+<L>He sayd, "My nome is Syr Galrun, with-outen any gile,</L>
+<L>The grattus of Galway, of greuys and of gillus;</L>
+<L>Of Carrake, of Cummake, of Conyngame, of Kile,</L>
+<L>Of Lonwik, of Lannax, of Laudoune hillus;</L>
+<L>That thou hase wonun on werre with thi wrang wiles,</L>
+<L>Gifhen hom to Syr Gauan, that my hert grillus;</L>
+<L>Ȝette schalle thou wring thi hondus, and wary thè quiles,</L>
+<L>Or any we schild hom weld, atte my unnewilles;</L>
+<L>Atte my unnewilles, i-wis, he schalle hom neuyr weld.</L>
+<L>Qwil I the hed may bere,</L>
+<L>With schild and with scharpe spere,</L>
+<L>Butte he may wynne hom on were,</L>
+<L>Opon a fayre fylde.</L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<L>For in a fyld wille I feȝte, ther-to I make faythe,</L>
+<L>With any freke opon fuld, that is fre born;</L>
+<L>To lose suche a lordschip, me wold thinke laythe,</L>
+<L>And iche ledè, opon lyue, wold laghe me to scorne."</L>
+<L>"ȝe, we ar in wudlond," cothe the king, "and walkes on owre wayth,</L>
+<L>For to hunte atte the herd, with houunde and with horne;</L>
+<L>Gyf thou be gome gladdest, now haue we no graythe,</L>
+<L>ȝet may thou be machet be mydday to morne;</L>
+<L>For-thi I rede, rathe mon, thou rest thè all nyȝte."</L>
+<L>Thenne Gauan, graythest of alle,</L>
+<L>Lad him furthe thruȝhe the halle,</L>
+<L>Vn-tylle a pauelun of palle</L>
+<L>Was prudlyche i-pyȝte.</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>Hit was prudlyche y-piȝte, of purpure and palle,</L>
+<L>With beddus brauderit o brode, and bankers y-dyȝte;</L>
+<L><PB N="17" REF="64"/>
+Ther-inne was a schapelle, a chambur, and a halle,</L>
+<L>A schimnay of charcole, to chaufen the knyȝte.</L>
+<L>Thay halen vppe his stede, had him to stalle,</L>
+<L>Hay hely thay hade in haches vn-hiȝte; <NOTE PLACE="foot">XXXV. 6 <HI REND="italic">One hyghte.</HI> MS. L.</NOTE></L>
+<L>Prayd vp with a burd, and clothes couthe calle,</L>
+<L>With salers and sanapus, thay serue the knyȝte,</L>
+<L>With troches and broches and stondartis bi-twene;</L>
+<L>For to serue the knyȝte,</L>
+<L>And the wurliche wiȝte,</L>
+<L>With ryche dayntethis dyȝte,</L>
+<L>In syluyr so schene.</L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI.</HEAD>
+<L>Thus in siluyr so schene, thay serue of the best,</L>
+<L>With vernage, and verrès, in coupus ful clene; <NOTE PLACE="foot">XXXVI. 2 <HI REND="italic">In verrys and cowppys.</HI> MSS. L. and D.</NOTE></L>
+<L>With lucius drinkes, and metis of the best,</L>
+<L>Ryche dayntès en-doret, in dysshes bi-dene.</L>
+<L>As tyde as that rialle was rayket to his rest,</L>
+<L>The kinge callut his councelle, the doȝti be-dene,</L>
+<L>And bede, "Vmloke ȝo, lordinges, oure lose be notte lost,</L>
+<L>Quo schalle countur with ȝondur knyȝte, cast ȝo bi-tuene."</L>
+<L>Thenne sayd Syr Gauan, "Hit schalle vs noȝte greue;</L>
+<L>I wille countur with the knyȝte,</L>
+<L>For to maynteine my ryȝte,</L>
+<L>Ther-to my trothe y thè plyȝte,</L>
+<L>ȝe, Lord, with thi leve."</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>"I leue wele," quod the kinge, "thi lates ar lyȝte,</L>
+<L>But I wold notte for no lordschip se thi life lorne;"</L>
+<L>"Lette go," cothe Sir Gauan, "God stond with the ryȝte!</L>
+<L>For and he scapette scatheles, hit were a gret scorne."</L>
+<L><PB N="18" REF="65"/>
+And in the dayng of day ther doȝty were dyȝte,</L>
+<L>Herd matyns [and] mas, myldelik on morun;</L>
+<L>In myd Plumtun Lone, hor paueluns were piȝte,</L>
+<L>Quere neuyr frekes opon fulde hade foȝtun be forne.</L>
+<L>Thay sette listes on lenthe, olong on the lawnde;</L>
+<L>Thre soppus of demayn,</L>
+<L>Wos broȝte to Sir Gauan,</L>
+<L>For to cumford his brayne,</L>
+<L>The king gart cummaunde.</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<L>The kinge commawundet kindeli the Erle of Kente, <NOTE PLACE="foot">XXXVIII. 1. <HI REND="italic">Krudely, the erles sonne of Kent.</HI> MS. D.</NOTE></L>
+<L>For his meculle curtasy, to kepe the tother knyȝte;</L>
+<L>And made him with dayntethis to dine in his tente,</L>
+<L>And sythun this rialle men a-rayut hom o-ryȝte.</L>
+<L>And aftur Quene Waynor warly thay wente,</L>
+<L>And be-leues in hur warde, that wurlyche wiȝte;</L>
+<L>Sethin the hathels in hie, hor horses haue hente,</L>
+<L>In mydde the lyste of the lawunde, the lordus doune liȝte:</L>
+<L>Alle butte the stithest, in steroppus that stode;</L>
+<L>King Arther schayer was sette,</L>
+<L>O-boue in his chaselette,</L>
+<L>And thenne Dame Gaynour grette,</L>
+<L>For Gauan the gode. <NOTE PLACE="marg">A Fitte.</NOTE></L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX.<NOTE PLACE="foot">XXXIX. This stanza is given from the Douce MS.</NOTE></HEAD>
+<L>[GAWAYNE and Galleronne gurdenne here stedis,</L>
+<L>Alle in gleterande golde, gaye was here gere;</L>
+<L>The lordes be-lyfe hom to list ledis,</L>
+<L>Withe many seriant of mace, as was the manere.</L>
+<L>The burnes broched the blonkes, that the side bledis;</L>
+<L><PB N="19" REF="66"/>
+Aythire freke apponne fold has fastned his spere;</L>
+<L>Schaftis in shide wode thay shindre in schides;</L>
+<L>So jolyly thes gentille justede one were!</L>
+<L>Schaftis thay shindr, in sheldes so schene;</L>
+<L>And sithenne with brandes bryghte,</L>
+<L>Riche mayles thay righte;</L>
+<L>There encontres the knyghte</L>
+<L>With Gawayne, one grene.]</L>
+</LG>
+<LG N="40">
+<HEAD>XL.</HEAD>
+<L>Thenne Syr Gauan the gode was graythet in grene,</L>
+<L>With his griffuns of gold engrelet fulle gay,</L>
+<L>Trowlt with trulofes, and tranest be-twene;</L>
+<L>Opon a startand stede he strikes oute of stray.</L>
+<L>The tother in his turnyng, he talkes tille him in tene,</L>
+<L>And sayd, "Querto draues thou so dreȝghe, and mace suche deray?"</L>
+<L>He sqwapputte him in at the squyre, with a squrd kene,</L>
+<L>That greuut Syr Gauan euer tille his dethe day.</L>
+<L>The dyntus of that duȝty were douteouse be-dene;</L>
+<L>Syxti maylis and moe,</L>
+<L>The squrd squappes in toe,</L>
+<L>His canel-bone allsoe,</L>
+<L>And cleuet his schild clene.</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>He keruet of the cantel, that couurt the knyȝte,</L>
+<L>Thro his shild and his shildur, a schaft-mun he share;</L>
+<L>Then the latelest lord loghe opon heȝte,</L>
+<L>And Gauan grechut ther with, and greuut wundur sore:</L>
+<L>Sayd, "he shuld rewarde thè this route, and I con rede o ryȝte."</L>
+<L>He foundes into the freke with a fresche fare;</L>
+<L>Throȝt basynet and breny, that burnyschet wos bryȝte,</L>
+<L>With a bytand brand euyn throghet he him bare;</L>
+<L>He bare thruȝe his brenys, that burneyst were bryȝte.</L>
+<L><PB N="20" REF="67"/>
+Then gloppunt that gaye,</L>
+<L>Hit was no ferly, in faye,</L>
+<L>His stedes startun on straye,</L>
+<L>With steroppus fulle stryȝte.</L>
+</LG>
+<LG N="42">
+<HEAD>XLII.</HEAD>
+<L>Thenne with steroppus fulle streȝte, stifly he strikes,</L>
+<L>Waynes atte Sir Wawane, ryȝte as he were wode;</L>
+<L>Thenne his lemmon on lofte scrilles and scrykes,</L>
+<L>Quenne the balefulle birde blenked on his blode.</L>
+<L>Other lordus and ladès, thayre laykes welle likes,</L>
+<L>Thonked God of his grace, for Gawan the gode.</L>
+<L>With a squappe of his squrde, squeturly him strykes,</L>
+<L>Smote of Gauan stede heued, in styd quere he stode;</L>
+<L>The fayre fole foundret, and felle bi the rode;</L>
+<L>Gauan was smyther and smerte,</L>
+<L>Owte of his steroppus he sterte,</L>
+<L>As he that was of herte,</L>
+<L>Fro Greselle the gode.</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>"Greselle," quod Gauan, "gone is, God ote!</L>
+<L>He wos the burlokke[st] blonke, ther euyr bote brede!</L>
+<L>By him that inne Bedelem wasse borne for oure bote,</L>
+<L>I schalle reuenge thè to day, and I con ryȝt rede."</L>
+<L>"Foche thè my fresun," quod the freke, "is fayrest on fote,</L>
+<L>He wulle stond thè in stoure, in-toe so mycul styd."—</L>
+<L>"No more for thi fresun, then for a rysche rote,</L>
+<L>Butte for dylle of a dowmbe best, that thus schuld be ded;</L>
+<L>I mowrne for no matyttory, for I may gete more." <NOTE PLACE="foot">XLIII. 9. <HI REND="italic">I mourne for no monture.</HI> MSS. L. and D.</NOTE></L>
+<L>And as he stode bi his stede,</L>
+<L>That was gud in iche nede,</L>
+<L>Neȝtehond Syr Wauan wold wede,</L>
+<L>So wepputte he fulle sore.</L>
+</LG>
+<LG N="44">
+<PB N="21" REF="68"/>
+<HEAD>XLIV.</HEAD>
+<L>Sore wepput for woe, Syr Wauan the wiȝte,</L>
+<L>Bouun to his enmy, that woundut was sore;</L>
+<L>The tother droȝghe him o-dreghe, for drede of the knyȝte,</L>
+<L>Then he brochet his blonke, opon the bente bare.</L>
+<L>"Thus may we dryue furthe the day," quod Gauan, "to the dirke nyȝte,</L>
+<L>The sun is past the merke of mydday and more,"</L>
+<L>In myddes the lyist on the lawunde, this lordes doun lyȝte;</L>
+<L>A-gayn the byrne with his brand, he busket him ȝare:</L>
+<L>Thus to batelle thay boune with brandis so bryȝte;</L>
+<L>Shene schildus thay shrede,</L>
+<L>Welle ryche mayles wexun rede,</L>
+<L>And mony duȝty hadun drede,</L>
+<L>So fursely thai foȝtun.</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>Thus on fote con thai feȝte, opon the fayre fildus,</L>
+<L>As fresch as ij lions, that fawtutte the fille:</L>
+<L>Witturly ther weys, thayre weppuns thay weld;</L>
+<L>Wete ȝe wele, Sir Wauan, him wontut no wille,</L>
+<L>He berus to him with his brand, vndur his brode shild,</L>
+<L>Thro the wast of the body wowundet him ille;</L>
+<L>The squrd styntet for no stuffe, he was so wele stelet,</L>
+<L>The tother startes on bakke, and stondus stone stille;</L>
+<L>If he were stonit in that stounde, ȝette strykes he sore;</L>
+<L>He girdus to Syr Gauane,</L>
+<L>Throȝhe ventaylle and pusane,</L>
+<L>That him lakket no more to be slayne,</L>
+<L>Butte the brede of hore.</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI.</HEAD>
+<L>And thus the hardy on heyte, on helmis thai heuen,</L>
+<L>Betun downe berels, in bordurs so bryȝte,</L>
+<L><PB N="22" REF="69"/>
+That with stones iraille were strencult and strauen,</L>
+<L>Frettut with fyne gold, that failis in the fiȝte.</L>
+<L>With schildus on ther schildurs, schomely thay shewen,</L>
+<L>Stythe stapuls of stele, thay striken doune streȝte.</L>
+<L>Thenne byernes bannes the tyme, the bargan was bruen,</L>
+<L>That evyr these duȝti with dyntus, so dulfuly were diȝte.</L>
+<L>Hit hurte King Arther in herte, and mengit his mode;</L>
+<L>Bothe Sir Lote, and Sir Lake,</L>
+<L>Meculle menyng con make;</L>
+<L>Thenne Dame Gaynor grette for his sake,</L>
+<L>For Gawan the gode!</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>Thenne grette Dame Gaynour, with hur gray een,</L>
+<L>For grefe of Sir Gauan grimliche wouundes;</L>
+<L>Thenne the knyȝte, that was curtase, cruail, and kene,</L>
+<L>With a stelun brand, he strikes in that stounde;</L>
+<L>Alle the cost of the knyȝte, he keruys doune clene,</L>
+<L>Thro the riche mayles, that ronke were and rouunde;</L>
+<L>Suche a touche in that tyde, he taȝte hym in tene,</L>
+<L>And gurdes me Sir Gallerun, euyn grouelonges on grounde.</L>
+<L>Alle grouelonges in grounde, gronet on grene,</L>
+<L>Als wowundut as he wasse,</L>
+<L>Wundur rudely he rose,</L>
+<L>Fast he foundes atte his face,</L>
+<L>With a squrd kene.</L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII.</HEAD>
+<L>Thus that cruelle and kene, kerues on heȝte,</L>
+<L>With a cast of the carhonde, in a cantelle he strikes; <NOTE PLACE="foot">XLVIII. 2. <HI REND="italic">With a caste of the care, in kantelle he strikes.</HI> MS. L. The other MS. for <HI REND="italic">caste</HI> reads <HI REND="italic">scas.</HI></NOTE></L>
+<L>þorne waitis with woe, Sir Wauan the wiȝte,</L>
+<L><PB N="23" REF="70"/>
+Butte ȝette him limpus the wurs, and that me wele likes.</L>
+<L>He wend with a slyuyng, hade slayn him with slyȝt,</L>
+<L>The squrd slippus on slonte, and on the mayle slikes,</L>
+<L>Thenne Sir Gauan bi the coler, clechis the knyȝte,</L>
+<L>Thenne his lemmon on lofte, ho scrilles and scrikes,</L>
+<L>And sayd to Dame Gaynour, with grones full grille,</L>
+<L>"Thou Ladè, makelest of myȝte!</L>
+<L>Haue pety of ȝondur nobulle knyȝte,</L>
+<L>That is so dilfully dyȝte,</L>
+<L>And hit were thi wille."</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>Thenne wilfulle Waynour to the king wente,</L>
+<L>Keȝte of hur curonalle, and knelit him tille;</L>
+<L>Sayd, "As thou art ray richist, and rialle in rente,</L>
+<L>And I thi wedut wife, atte thi none wille;</L>
+<L>ȝondur byrnes in batelle, that bidus on the bent,</L>
+<L>Thay ar werè i-wisse, and woundut fulle ille;</L>
+<L>Throȝghe schildus, and shildurs, schomfully shente;</L>
+<L>The grones of Sir Gauan, hit dose my hert grille,</L>
+<L>The gronus of Sir Gauan the gode, hit greuis me sore:</L>
+<L>Wold ȝe, luflyche Lord!</L>
+<L>Make ȝondur knyȝtes at a-cord,</L>
+<L>Hit were a grete cumford,</L>
+<L>For alle that ther ware."</L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<L>But thenne speke Sir Galrun to Gawan the gode,</L>
+<L>"I wende neuyr we ȝette, hade bene so wiȝte;"</L>
+<L>And sayd, "Here I make thè relesche, rengthe, bi the rode!</L>
+<L>Before this rialle route resigne thè my riȝte:</L>
+<L>And sithin I make thè monraden, mildist of mode,</L>
+<L>As mon on this mydlert that most is of myȝte."</L>
+<L>He stalket touward the king, in stid quere he stode,</L>
+<L><PB N="24" REF="71"/>
+And bede the burlyche his brand, that burneschit was briȝt;</L>
+<L>And sayd, "Of rentis and of richas, I make thè relesche."</L>
+<L>Doune knelis the knyȝte,</L>
+<L>And speke these wurdis opon hiȝte;</L>
+<L>The king stode vppe ryȝte,</L>
+<L>And cummawundut pese.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>The king cummawundut pese, and stode vp-ryȝte,</L>
+<L>And Gauan godely he sesutt for his sake;</L>
+<L>And then these lordus so lele, thai lepe vp liȝte,</L>
+<L>Huaya Fus-uryayn, and Arrake Fy-lake, <NOTE PLACE="foot">LI. 4 <Q><L><HI REND="italic">Sir Owayne fytz-Vryene, and Arrake full rathe</HI></L>
+<L><HI REND="italic">Marrake and Menegalle.</HI></L> <BIBL>MS. L.</BIBL>
+</Q>
+<Q>
+<L><HI REND="italic">Ewaynne fiz-Erian and Arrake fiz-Lake</HI></L>
+<L><HI REND="italic">Sir Drurelat and Moylard.</HI></L> <BIBL>MS. D.</BIBL>
+</Q></NOTE></L>
+<L>Sir Meliaduke the Marrake, that mekille wasse of myȝte,</L>
+<L>These ij traueling men, truly vppe thay take.</L>
+<L>Vnnethe myȝte these sturun men stond vppe ryȝte,</L>
+<L>So for-brissutte, and for-bled, thayre blees were so blake;</L>
+<L>Alle blake was thayre blees, for-betun with brandis.</L>
+<L>With-outun any hersing,</L>
+<L>There diȝte was thayre saȝtenyng,</L>
+<L>Be-fore the comeliche king,</L>
+<L>Thay heldun vppe thayre hondus.</L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<L>"Now here I gife thè," quod the king, "Gauan the bold!</L>
+<L>Glawmorgan londus, with greuys fulle grene;</L>
+<L>The wurschip of Wales, to weld and thou wold,</L>
+<L>Kirfre Castelle with colurs ful clene; <NOTE PLACE="foot">LII. 4. <HI REND="italic">Griffon's Castelle.</HI> MSS. L. and D.</NOTE></L>
+<L>Iche Hulkershome, to haue and to hold, <NOTE PLACE="foot">5. <HI REND="italic">The Hustershaulle.</HI> MSS. L. and D.</NOTE></L>
+<L><PB N="25" REF="72"/>
+Wayifforthe and Waturforthe, wallet, I wene;</L>
+<L>Toe baroners in Bretan, with burgesse fulle bold,</L>
+<L>That is batelt aboute, and biggutte fulle bene.</L>
+<L>Here I doue thè as Duke, and dub the with my hondus;</L>
+<L>With thi, thou saȝtun with ȝondur knyȝte,</L>
+<L>That is so hardi and so wiȝte,</L>
+<L>And resingne him thi ryȝte,</L>
+<L>And graunte him his londus."</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>"Nowe here I gif thè, Galrun," quod Gauan, "with-outyn any gile</L>
+<L>Alle the londus for-sothe fro Logher to Layre;</L>
+<L>Carrake, Cummake, Conyngame and Kile,</L>
+<L>[That if he of cheualry, chalange ham for aire</L>
+<L>The Lother, the Lemmok, the Loynak, the Lile,]</L>
+<L>Sir, to thi seluun, and sithun to thine ayre,</L>
+<L>With thi, tille oure lordschip, thou leng in a qwile,</L>
+<L>And to the Roundtabulle to make thi repare;</L>
+<L>Here I feffe thè in fild, frely and fayre."</L>
+<L>Bothe the king and the quene,</L>
+<L>And other duȝti bi-dene;</L>
+<L>Throȝghe owte the greuis so grene</L>
+<L>To Carlille thay kayrit.</L>
+</LG>
+<LG N="54">
+<HEAD>LIV.</HEAD>
+<L>[The kyng to Carlele es comen, with knyghttis so kene,]</L>
+<L>Throghe greuis so grene, held the Rountabulle with rialle aray;</L>
+<L>These wees that were wothely woundet, I wene,</L>
+<L>Thenne surgens hom sauyt, quo sotheli wynne say;</L>
+<L>Cumfordun hom kindely, the king and the quene,</L>
+<L>And sithin dubbut hom Dukes, bothe on a day,</L>
+<L>And thenne he weddutte his wife, wlonkest I wene,</L>
+<L>With giftus, and with gersums, Sire Galrun the gay.</L>
+<L><PB N="26" REF="73"/>
+Thus Gauan and Galrun, gode frindes ar thay;</L>
+<L>Qwen thay were holle and sownde;</L>
+<L>Thay made Galrun in that stounde,</L>
+<L>A knyȝte of the Tabulle Rounde,</L>
+<L>Vntille his ending day.</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>Thenne gerut Dame Waynour to write into the west,</L>
+<L>To alle the religeus, to rede and to sing;</L>
+<L>Prustes, prouincials, to pray were fulle preste,</L>
+<L>With a meliun of massus, her modur mynnyng.</L>
+<L>Boke-lornut byrnus, and bischoppus of the beste,</L>
+<L>Thro-oute Bretan so bold, these bellus con ring.</L>
+<L>And this ferli be-felle in Ingulwud forest,</L>
+<L>Be-side holtus so hore, at a hunting:</L>
+<L>Suche a hunting in a holt, aw noȝte to be hidde,</L>
+<L>These knyȝtus, stalwurthe, and store,</L>
+<L>Throȝhe the forest thay fore,</L>
+<L>In the tyme of King Arthore</L>
+<L>This anter be-tidde.</L>
+</LG>
+<TRAILER>FINIS.</TRAILER>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="74"/>
+<HEAD>SIR AMADACE.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>Thenne the knyȝt and the stuard fre,</L>
+<L>Thay casten there houe hit best myȝte be</L>
+<L>Bothe be ferre and nere;</L>
+<L>The stuard sayd, "Sir, ȝe awe wele more,</L>
+<L>Thenne ȝe may of ȝour londus rere,</L>
+<L>In faythe this seuyn ȝere:</L>
+<L>Quo so may best, furste ȝe mun pray,</L>
+<L>A-byde ȝo tille a-nothir day;</L>
+<L>And parte ȝour cowrte in sere;</L>
+<L>And putte away fulle mony of ȝour men,</L>
+<L>And hald butte on, quere ȝe hald ten,</L>
+<L>Thaȝghe thay be neuyr so dere."</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Thenne Sir Amadace sayd, "I myȝte lung spare,</L>
+<L>Or alle these godus qwitte ware,</L>
+<L>And haue noȝte to spend;</L>
+<L>Sithun duelle here, quere I was borne,</L>
+<L>Bothe in hething and in scorne,</L>
+<L>And I am so wele kennit:</L>
+<L>And men fulle fast wold warè me,</L>
+<L>That of thayre godus hade bynne so fre,</L>
+<L>That I haue hade in honde;</L>
+<L><PB N="28" REF="75"/>
+Or I schuld hold men in awe or threte,</L>
+<L>That thay myȝte noȝte hor awne gud gete,</L>
+<L>Thenne made I a fulle fowle ende!</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Butte a-nothir rede I wulle me toe,</L>
+<L>Wurche a-nothir way then soe,</L>
+<L>Bettur sayd soro thenne sene!</L>
+<L>Butte, gode stuard, as thou art me lefe,</L>
+<L>Lette neuyr mon wete my grete mischefe,</L>
+<L>Butte hele hit vs be-twene.</L>
+<L>For seuyn ȝere wedsette my lond,</L>
+<L>To the godus that I am awand,</L>
+<L>Be quytte holly bi-dene:</L>
+<L>For oute of the cuntray I wille weynde,</L>
+<L>Quil I haue gold, siluyr to spende,</L>
+<L>And be owte of dette fulle clene.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>ȝette wulle I furst, or I fare,</L>
+<L>Be wele more rialle then I was are,</L>
+<L>Therfore ordan thou schalle;</L>
+<L>For I wulle gif fulle ryche giftus,</L>
+<L>Bothe to squiers and to knyȝtis;</L>
+<L>To pore men, dele a dole:</L>
+<L>Suche mon myȝte wete, that I were wo,</L>
+<L>That fulle fayn, wold hit were suche toe,</L>
+<L>That myȝte notte bete my bale!</L>
+<L>So curtase a mon was neuyr non borne,</L>
+<L>That schuld scape with oute a scorne,</L>
+<L>Be iche mon had told his tale."</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Thanne Sir Amadase, as I ȝo say,</L>
+<L>Hase ordanut him opon [a] day,</L>
+<L><PB N="29" REF="76"/>
+Of the cuntray in a stowunde;</L>
+<L>ȝette he gafe ful riche giftus,</L>
+<L>Bothe to squiers, and to knyȝtis,</L>
+<L>Stedus, haukes and howundes.</L>
+<L>Sethun afturward, as I ȝo say,</L>
+<L>Hase ordanut him opon [a] day,</L>
+<L>And furthe thenne conne he founde;</L>
+<L>Be that he toke his leue to wynde,</L>
+<L>He lafte no more in his cofurs to spende,</L>
+<L>But euyn xl. powunde.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Thenne Sir Amadace, as I ȝo say,</L>
+<L>Rode furthe opon his way,</L>
+<L>Als fast as euyr he myȝte;</L>
+<L>Thro owte a forest, by one citè,</L>
+<L>Ther stode a chapelle of stone and tre,</L>
+<L>And ther-inne se he a liȝte.</L>
+<L>Commawundut his knaue for to fare,</L>
+<L>To wete quat liȝte, that were thare,</L>
+<L>And tithing bring me ryȝte;</L>
+<L>The knaue did, as his maister him bade,</L>
+<L>Butte suche a stinke in the chapelle he hade,</L>
+<L>That dwelle ther he ne myȝte.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>He stopput his nase with his hude,</L>
+<L>Nerre the chapelle dur he ȝode,</L>
+<L>Anturs for to lere;</L>
+<L>And as he loket in atte the glasse,</L>
+<L>To wete quat meruail that ther wasse,</L>
+<L>So see he stonde a bere.</L>
+<L>Candils ther were brennyng toe,</L>
+<L>A woman sittyng, and no moe,</L>
+<L>Lord! carefulle wasse hur chere;</L>
+<L><PB N="30" REF="77"/>
+Tithinges there conne he non frayn,</L>
+<L>Butte to his lord he wente a-gayn,</L>
+<L>Told him quat he see thare.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>And sayd, "Sir, atte ȝondur chapelle haue I bene,</L>
+<L>A selcothe siȝte ther haue I sene,</L>
+<L>My herte is heuy as lede;</L>
+<L>Ther stondus a bere, and canduls toe,</L>
+<L>Ther sittus a woman, and no moe,</L>
+<L>Lord! carefulle is hur rede.</L>
+<L>Seche a stinke as I had thare,</L>
+<L>Sertis thenne had I neuyr are,</L>
+<L>No quere in no stid;</L>
+<L>For this palfray, that I on ryde,</L>
+<L>Ther myȝte I no lengur abide,</L>
+<L>I traue I haue keȝte my dede."</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Thenne Sir Amace commawundut his squier to fare,</L>
+<L>To witte quat woman that there ware,</L>
+<L>And tithinges bring thou me;</L>
+<L>As he loket in atte the walle,</L>
+<L>As the knaue sayd, he fund with-alle,</L>
+<L>Him thoȝte hit grete petè:</L>
+<L>Butte in his nace smote suche a smelle,</L>
+<L>That there myȝte he no lengur duelle,</L>
+<L>But sone a-gayn gose he;</L>
+<L>He sayd, "Gud Lord, now with ȝour leue,</L>
+<L>I pray ȝo take hit noȝte on greue,</L>
+<L>For ȝe may notte wete for me."</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>He sayd, "Sir, ther stondus a bere, and candils toe,</L>
+<L>A woman sittyng, and no moe,</L>
+<L><PB N="31" REF="78"/>
+Lord! carefulle is hur chere;</L>
+<L>Sore ho sikes, and hondus wringus,</L>
+<L>And euyr ho crius on heuyn kynges,</L>
+<L>How lung ho schalle be thare!</L>
+<L>Ho says, Dere God, quat may that be,</L>
+<L>The grete soro, that ho opon him se,</L>
+<L>Stingcand opon his bere!</L>
+<L>Ho says, ho wille notte leue him alleone,</L>
+<L>Till ho falle dede downe to the stone,</L>
+<L>For his life was hur fulle dere."</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Thenne Sir Amadace smote his palfray with his spur,</L>
+<L>And rode vn-to the chapelle dur,</L>
+<L>And hastelè doune he liȝte;</L>
+<L>As his mennè sayd, so con him thinke,</L>
+<L>That he neuyr are hade suche a stynke,</L>
+<L>And inne thenne wente that knyȝte.</L>
+<L>He sayd, "Dame, God rest with thè!"</L>
+<L>Ho sayd, "Sir, welcum most ȝe be!"</L>
+<L>A[nd] salit him anon ryȝte;</L>
+<L>He sayd, "Dame, quy sittus thou here,</L>
+<L>Kepand this dede cors opon this bere,</L>
+<L>Thus onyli vpon a nyȝte?"</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>Ho sayd, "Sir, nedelonges most I sitte him by,</L>
+<L>Hi-fath, ther wille him non mon butte I,</L>
+<L>For he wasse my wedutte fere."</L>
+<L>Thenne Sir Amadace sayd, "Me likes full ille,</L>
+<L>ȝe ar bothe in plyit to spille,</L>
+<L>He lise so lung on bere.</L>
+<L>Quat a mon in his lyue wasse he?"</L>
+<L><PB N="32" REF="79"/>
+"Sir, a marchand of this citè,</L>
+<L>Hade riche rentus to rere;</L>
+<L>And euiryche ȝere thre hundrythe pownde,</L>
+<L>Of redy monay and of rowunde,</L>
+<L>And for dette ȝette lise he here."</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Thenne Sir Amadace sayd, "For the rode,</L>
+<L>On quat maner spendutte he his gud,</L>
+<L>That thusgate is a-way?"</L>
+<L>"Sir, on gentilmen and officers,</L>
+<L>On grete lordus, that was his perus,</L>
+<L>Wold giffe hom giftus gay;</L>
+<L>Riche festus wold he make,</L>
+<L>And pore men, for Goddus sake,</L>
+<L>He fed hom euyriche day:</L>
+<L>Quil he hade any gud to take,</L>
+<L>He wernut no mon, for Goddus sake,</L>
+<L>That wolnotte onus say nay.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>ȝette he didde as a fole,</L>
+<L>He cladde mo men a-gaynus a ȝole,</L>
+<L>Thenne did a nobulle knyȝte;</L>
+<L>For his mete he wold not spare,</L>
+<L>Burdes in the halle were neuyr bare,</L>
+<L>With clothes richeli diȝte,</L>
+<L>Giffe I sayd he did noȝte wele,</L>
+<L>He sayd, God send hit eueryche dele,</L>
+<L>And sette my wurdus atte liȝte;</L>
+<L>Bi thenne he toke so mycul opon his name,</L>
+<L>That I dar notte telle ȝo, lord, for schame,</L>
+<L>The godus now that he aȝte.</L>
+</LG>
+<LG N="15">
+<PB N="33" REF="80"/>
+<HEAD>XV.</HEAD>
+<L>And thenne come dethe, wo hym be!</L>
+<L>And partutt my lord and me,</L>
+<L>Lafte me in alle the care;</L>
+<L>Quen my neȝteburs herd telle, that he seke lay,</L>
+<L>Thay come to me, as thay best may,</L>
+<L>Thair gud aschet thai thare:</L>
+<L>Alle that euyr was his and myne,</L>
+<L>Hors and naute, shepe and sqwyne,</L>
+<L>A-way thay drafe and bare;</L>
+<L>My dowary to my lyue I sold,</L>
+<L>And alle the peneys to hom told,</L>
+<L>Lord! ȝette aȝte he wele mare.</L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>Quen I hade quytte alle that I myȝte gete,</L>
+<L>ȝette aȝte he thritte powunde bi grete,</L>
+<L>Holly tille a stydde;</L>
+<L>Tille a marchand of this citè,</L>
+<L>Was fer oute in a-nothir cuntre,</L>
+<L>Come home quen he was dede.</L>
+<L>And quenne he herd telle of my febulle fare,</L>
+<L>He come to me as breme as bare,</L>
+<L>This corse the erthe forbede;</L>
+<L>And sayd, howundus schuld his bodi to-draw,</L>
+<L>Then on the fild his bonus to-gnaue,—</L>
+<L>Thus carefulle is my rede.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>And this xvi. weke I haue setyn here,</L>
+<L>Kepand this dede cors opon this bere,</L>
+<L>With candils brennand bryȝte;</L>
+<L>And so schalle I euyr more do,</L>
+<L>Till dethe cum, and take me to,</L>
+<L><PB N="34" REF="81"/>
+Bi Mary, most of myȝte!"</L>
+<L>Thenne Sir Amadace franut hur the marchandes name,</L>
+<L>That hade done hur alle that schame,</L>
+<L>Ho told him a-non ryȝte;</L>
+<L>He sayd, "God, that is bote of alle bale,</L>
+<L>Dame, cumford thè, and so he schale,</L>
+<L>And, Dame, haue thou gud nyȝte!" <NOTE PLACE="marg">A Fitte.</NOTE></L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>THENNE Sir Amadace on his palfray lepe,</L>
+<L>Vnnethe he myȝte forgoe to wepe,</L>
+<L>For his dedus him sore for-thoȝte;</L>
+<L>Sayd, "ȝondur mon, that lise ȝondur chapelle with-inne,</L>
+<L>He myȝte fulle wele be of my kynne,</L>
+<L>For ryȝte so haue I wroȝte!"</L>
+<L>Thenne he told his sometour quat the marchand heȝt,</L>
+<L>And sayd, "[I] wille sowpe with him to-nyȝte,</L>
+<L>Be God, that me dere boȝte!</L>
+<L>Go, loke thou diȝte oure soper syne,</L>
+<L>Gode ryalle metis and fyne,</L>
+<L>And spicis thenne spare thou noȝte."</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>And sone quen the sometour herd,</L>
+<L>To the marchandus howse he ferd,</L>
+<L>And ordanut for that knyȝte;</L>
+<L>Thenne Sir Amadace come riding thoe,</L>
+<L>But in his hert was him fulle woe,</L>
+<L>And hasteli dowun he liȝte.</L>
+<L>Sithun in-tylle a chambur the knyȝte ȝede,</L>
+<L>And kest opon him othir wede,</L>
+<L>With torches brennyng bryȝte;</L>
+<L>He cummawundutte his squier for to goe,</L>
+<L><PB N="35" REF="82"/>
+To pray the marchand and his wife allsoe,</L>
+<L>To soupe with him that nyȝte.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>Thenne the squier weyndut vpon his way,</L>
+<L>And to the marchand conne he say,</L>
+<L>His ernde told he thenne;</L>
+<L>He squere, "Be Jhesu, Marè sone!</L>
+<L>Thi lordus wille hit schalle be done,</L>
+<L>Of cumford was that man.</L>
+<L>Thenne thayre soper was nere diȝte,</L>
+<L>Burdes were houyn hee on hiȝte,</L>
+<L>[The] marchand [the] dees be-gan;</L>
+<L>Sir Amadace sate, and made gud chere,</L>
+<L>Butte on the dede cors, that lay on bere,</L>
+<L>Ful myculle his thoȝte was on!</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>Sir Amadace sayd, "To nyȝte, as I come bi the strete,</L>
+<L>I see a siȝte I thenke on ȝete,</L>
+<L>That sittus me nowe fulle sore;</L>
+<L>In a chapelle, be-side a way,</L>
+<L>A dede cors opon a bere lay,</L>
+<L>A womon alle mysfare."</L>
+<L>"ȝe," the Marchand sayd, "God gif him a sore grace,</L>
+<L>And alle suche waisters as he wasse,</L>
+<L>For he sittus me nowe sare;</L>
+<L>For he lise there with my thritti powunde,</L>
+<L>Of redy monay and of rowunde,</L>
+<L>Of hitte gete I neuyr more."</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>Thenne Sir Amadace sayd, "Take thè tille a bettur rede,</L>
+<L>Thenke that Gode for-gaue his dede,</L>
+<L>Grette merit thou may haue;</L>
+<L><PB N="36" REF="83"/>
+Thenke how God ordant for thè,</L>
+<L>Bettur grace then euyr had he;</L>
+<L>Lette the cors go inne his graue."</L>
+<L>Thenne he squere, "Be Jhesu, Marè sun,</L>
+<L>That body schalle neuyr in the erthe come,</L>
+<L>My siluyr tille that I haue;</L>
+<L>Tille ho be dede as wele as he,</L>
+<L>That howundus schalle, that I may se,</L>
+<L>On filde thayre bonus to-gnaue!"</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Quen Sir Amadace herd that he hade squorne,</L>
+<L>He cald his stuard him beforne,</L>
+<L>Of kyndenesse that knyȝte con kithe;</L>
+<L>And bede, "Go foche me thritti powunde,</L>
+<L>Of redy monay and of rowunde,</L>
+<L>Hastely and be-lyue."</L>
+<L>The stuard thoȝte hit was a-gaynus skille,</L>
+<L>Butte he most nede do his maistur wille,—</L>
+<L>Now listun and ȝe may lithe;</L>
+<L>Ther Sir Amadace payd him thritti powund of monay fyne,</L>
+<L>And thenne Sir Amadace asket to wyne,</L>
+<L>And prayd the Marchand be blythe.</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>Then Sir Amadace asket, "Awe he thè any mare?"</L>
+<L>"Nay, Sir," he sayd, "wele most ȝe fare!</L>
+<L>For thus muche he me aȝte."</L>
+<L>Thenne Sir Amadace sayd, "As furthe as x. pounde wille take,</L>
+<L>I schalle lette do for his sake,</L>
+<L>Querthroȝe he haue his riȝte.</L>
+<L>I schalle for him gere rede and singe,</L>
+<L>Bringe his bodi to Cristun berunge,</L>
+<L>That schalle thou see wythe siȝte;</L>
+<L><PB N="37" REF="84"/>
+Go, pray alle the religius of this citè,</L>
+<L>To morne that thay wold dyne with me,</L>
+<L>And loke thayre mete be dyȝte."</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>Howe erly quen the day con spring,</L>
+<L>Then holli alle the bellus con ring,</L>
+<L>That in the citè was;</L>
+<L>Religius men euirichon,</L>
+<L>Toward this dede cors are thay gone,</L>
+<L>With mony a riche burias.</L>
+<L>Thritty prustus that day con sing,</L>
+<L>And thenne Sir Amadace offurt a ring,</L>
+<L>Atte euyriche mas;</L>
+<L>Quen the seruise was alle done,</L>
+<L>He prayd hom to ete with him atte none,</L>
+<L>Holli more and lasse.</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>Thenne the marchand wente tille one pillere,</L>
+<L>Mony a mon droȝhe him nere,</L>
+<L>To wete quat he wold say;</L>
+<L>He sayd, "Sirs, there hase byn here,</L>
+<L>A ded cors opon a bere,</L>
+<L>ȝe wotte querfore hit lay.</L>
+<L>And hase comun a fulle rialle knyȝte,</L>
+<L>Of alle the godes the cors me heȝte,</L>
+<L>Hase made me redi pay;</L>
+<L>Vnto his cofurs he hase sente,</L>
+<L>And geuyn x. powunde to his termente,</L>
+<L>Wythe riche ringus to day.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Hit is on his nome that I say,</L>
+<L>He prays ȝo holly to mete to day,</L>
+<L><PB N="38" REF="85"/>
+Alle that ther bene here;"</L>
+<L>Thay did as the marchand bade,</L>
+<L>Mete and drinke y-nuȝhe thay hade,</L>
+<L>With licius drinke and clere.</L>
+<L>And Sir Amadace wold noȝte sitte downe,</L>
+<L>Butte to serue the pore folke he was fulle bowne,</L>
+<L>For thay lay his hert nere;</L>
+<L>And quen thay hade etun with inne that halle,</L>
+<L>Thenne Sir Amadace toke leue atte alle,</L>
+<L>Vn-semand with fulle glad chere.</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>Quen Sir Amadace hade etun,</L>
+<L>To sadulle his horse was noȝte forȝetun,</L>
+<L>Thay broȝte hym his palfray;</L>
+<L>Thenne his sometour-mon before was dyȝte,</L>
+<L>Ther as that lord schuld leng alle nyȝte,</L>
+<L>And hade nothing to pay.</L>
+<L>Quat wundur were hit, thaȝhe him were wo,</L>
+<L>Quen alle his godus were spendutte him fro,</L>
+<L>The sothe gif I schuld say?</L>
+<L>Thenne Sir Amadace kidde he was gentilman bornne,</L>
+<L>He come the grattust maystur be-forne,</L>
+<L>Toke leue, and wente his way.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>Quen he was gone on this kin wise,</L>
+<L>Thenne iche mon sayd thayre deuise,</L>
+<L>Quen he wasse passutte the ȝate;</L>
+<L>Sum sayd, "This gud fulle liȝteli he wan,</L>
+<L>That thusgate spendutte hit on this man,</L>
+<L>So liȝtely lete hit scape."</L>
+<L>Sum sayd, "In gud tyme were he borne,</L>
+<L>That hade a peny him bi-forne,</L>
+<L>That knew fulle litulle his state."</L>
+<L><PB N="39" REF="86"/>
+Lo, how thay demun the gentille knyȝte,</L>
+<L>Quen he hade spendut alle that he myȝte!</L>
+<L>Butte the trauthe fulle litulle thay wote.</L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<L>Quen he come sex mile the citè fro,</L>
+<L>A crosse partut the way a-toe,</L>
+<L>Thenne speke Sir Amadace:</L>
+<L>To his stuard he sayd fulle rathe,</L>
+<L>His sometour and his palfray-mon bothe,</L>
+<L>And alle ther euyr was,</L>
+<L>Sayd, "Gode Sirs, take noȝte on greue,</L>
+<L>For ȝe most noue take ȝour leue,</L>
+<L>For ȝoure seluun knauyn the cace;</L>
+<L>For I may lede no mon in londe,</L>
+<L>Butte I hade gold [and] siluyr to spende,</L>
+<L>Neuyr no quere in no place."</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>Now the hardust hertut men that there ware,</L>
+<L>For to wepe thai myȝt notte spare,</L>
+<L>Quen thay herd him say so;</L>
+<L>He sayd, "Gode Sirs, haue ȝe no care,</L>
+<L>For ȝe mone haue maysturs euyrqware,</L>
+<L>As wele wurthi ȝe ar soe:</L>
+<L>ȝette God may me sende of his sele,</L>
+<L>That I may keuyr of this fulle wele,</L>
+<L>And cum owte of this wo;</L>
+<L>A mery mon ȝette may ȝe se me,</L>
+<L>And be fulle dere welcum to me,</L>
+<L>Bothe ȝe and mony moe!"</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.<NOTE PLACE="foot">St. XXXII. From Weber's edition.</NOTE></HEAD>
+<L>[Sir Amadas seyd in that stonde;</L>
+<L>"The warst hors is worthe ten pownde,</L>
+<L><PB N="40" REF="87"/>
+Of hom all that here gon;</L>
+<L>Sqwyar, yomon, and knave,</L>
+<L>Ylke mon his owne schall have,</L>
+<L>That he syttes apon,</L>
+<L>Sadyll, brydyll, and oder geyre,</L>
+<L>Fowre so gud thoffe hit were,</L>
+<L>I woch hit save, bi Sen Jon!</L>
+<L>God mey make yo full gud men!</L>
+<L>Cryst of hevon, Y yo beken!"</L>
+<L>Thei weped, and partyd ylke on.]</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>Quen alle his men wos partutte him fro,</L>
+<L>The knyȝte lafte stille in alle the woe,</L>
+<L>Bi him seluun allone,</L>
+<L>Throȝhe the forest his way lay riȝte,</L>
+<L>Of his palfray doune he liȝte,</L>
+<L>Mournand and made grete mone,</L>
+<L>Quen he thoȝte on his londus brode,</L>
+<L>His castels hee, his townus made,</L>
+<L>That were a-way euyrichon;</L>
+<L>That he had sette, and layd to wedde,</L>
+<L>And was owte of the cuntray for pourtè fledde,</L>
+<L>Thenne the knyȝte wexe wille of wone.</L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<L>Thenne be-speke Sir Amadace,</L>
+<L>"A mon that litul gode hase,</L>
+<L>Men sittus ryȝte noȝte him bye;</L>
+<L>For I hade thre hundrythe powunde of rente,</L>
+<L>I spendut two in that entente.</L>
+<L>Of suche forloke was I!</L>
+<L>Euyr quylle I suche housold hold,</L>
+<L>For a grete lord was I tellut,</L>
+<L><PB N="41" REF="88"/>
+Muche holdun vppe thare-by;</L>
+<L>Nowe may wise men sitte atte home,</L>
+<L>Quen folus may walke full wille of wone,</L>
+<L>And, Crist wotte, so may hi!</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>He sayd, "Jhesu, as thou deet on the rode,</L>
+<L>And for me sched thi precius blode,</L>
+<L>And alle this word thou wanne;</L>
+<L>Thou lette me neuyr come in that syȝte,</L>
+<L>Ther I haue bene knauen for a knyȝte,</L>
+<L>Butte if I may avoue hit thanne;</L>
+<L>And gif me grace to somun alle tho,</L>
+<L>That wilsumly ar wente me fro,</L>
+<L>And alle that me gode ons hase done;</L>
+<L>Or ellus, Lord, I aske thè rede,</L>
+<L>Hastely that I were dede,</L>
+<L>Lord, wele were me thanne!</L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI.</HEAD>
+<L>"For alle for wonting of my witte,</L>
+<L>Fowle of the lond am I putte,</L>
+<L>Of my frindes I haue made foes;</L>
+<L>For kyndenes of my gud wille,</L>
+<L>I am in poynte my selfe to spille;"</L>
+<L>Thus flote Syr Amadace.</L>
+<L>He sayd, "Jhesu, as thou deut on tre,</L>
+<L>Summe of thi sokur send thou me,</L>
+<L>Spedely in this place!</L>
+<L>For summe of thi sokur and thou me send,</L>
+<L>And ȝett I schuld ful gladely spende,</L>
+<L>On alle that mestur hase."</L>
+</LG>
+<LG N="37">
+<PB N="42" REF="89"/>
+<HEAD>XXXVII.</HEAD>
+<L>Now thro the forest as he ferd,</L>
+<L>He wende that no mon hade him herd,</L>
+<L>For he seȝhe non in siȝte;</L>
+<L>So come a mon ryding him bye,</L>
+<L>And speke on him fulle hastely,</L>
+<L>Ther-of he was a-fryȝte.</L>
+<L>Milke quyte was his stede,</L>
+<L>And so was alle his othir wede,</L>
+<L>Hade conciens of a knyȝte;</L>
+<L>Now thoȝhe Sir Amadace wasse in mournyng broȝte,</L>
+<L>His curtasè forȝete he noȝte,</L>
+<L>He saylut him anon ryȝte.</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<L>Quod the quite knyȝte, "Quat mon is this,</L>
+<L>That alle this mowrnyng makes thus,</L>
+<L>With so simpulle chere?"</L>
+<L>Thenne Syr Amadace sayd, "Nay!"</L>
+<L>The quite knyȝte bede "do way,</L>
+<L>For that quile haue I bene here.</L>
+<L>Thowe schild noȝte mowrne no suche wise,</L>
+<L>For God may bothe mon falle and rise,</L>
+<L>For his helpe is euyr more nere!</L>
+<L>For gud his butte a lante lone,</L>
+<L>Sum tyme men [haue] hit, sum tyme none,</L>
+<L>Thou hast fulle mony a pere!</L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX.</HEAD>
+<L>"Now thenke on him, that deut on rode,</L>
+<L>That for vs sched his precius blode,</L>
+<L>For thè and monkynd alle!</L>
+<L>For a mon that geuees him to gode thewis,</L>
+<L>Authir to gentilmen or to schrewis,</L>
+<L><PB N="43" REF="90"/>
+On summe side wille hit falle.</L>
+<L>A mon that hase alle way bynne kynde,</L>
+<L>Sum curtas mon ȝette may he fynde,</L>
+<L>That mekille may stonde in stalle;</L>
+<L>Repente thè noȝte, that thou hase done,</L>
+<L>For he that schope bothe sunne and mone,</L>
+<L>Fulle wele may pay for alle!"</L>
+</LG>
+<LG N="40">
+<HEAD>XL.</HEAD>
+<L>Quod the quite knyȝte, "Wold thou luffe him aure alle thing,</L>
+<L>That wold thè owte of thi mournyng bringe,</L>
+<L>And keuyr thè owte of kare?</L>
+<L>For here be-side duellus a rialle king,</L>
+<L>And hase a doȝtur fayre and ȝinge,</L>
+<L>He luffis nothing mare.</L>
+<L>And thou art one of the semelist knyȝte,</L>
+<L>That euyr ȝette I see with syȝte,</L>
+<L>That any armes bare;</L>
+<L>That mun no mon hur wedde ne weld,</L>
+<L>Butte he that furst is inne the fild,</L>
+<L>And best thenne justus thare.</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>"And thou schalt cum thedur als gay</L>
+<L>Als any erliche mon may,</L>
+<L>Of thi sute schalle be non;</L>
+<L>Thou schalle haue for thi giftus geuand,</L>
+<L>Grete lordus to thi honde,</L>
+<L>And loke thou spare riȝte none.</L>
+<L>Thou say the mennè that come with thè,</L>
+<L>That thay were drounet on the see,</L>
+<L>With wild waturs slone;</L>
+<L>Loke that thou be large of feyce,</L>
+<L>Tille thou haue wonun gode congrece,</L>
+<L>And I schalle pay ichone."</L>
+<L><PB N="44" REF="91"/>
+He sayd, "That thou be fre of wage,</L>
+<L>And I schalle pay for thi costage,</L>
+<L>x. thowsand gif thou ladde;</L>
+<L>Ther schalle thou wynne fulle mekille honowre,</L>
+<L>Fild and frithe, towne and towre,</L>
+<L>That lady schalle thou wedde!</L>
+<L>And sithun I schalle come a-ȝayne to thè,</L>
+<L>Qwen thou hase come thi frindus to see,</L>
+<L>In stid quere thou art stadde;</L>
+<L>Butte a forwart make I with thè or that thou goe,</L>
+<L>That euyn to part be-twene vs toe,</L>
+<L>The godus thou hase wonun and spedde."</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>Thenne be-speke Sir Amadace,</L>
+<L>"And thou haue myȝte thruȝe Goddus grace,</L>
+<L>So to cumford to me;</L>
+<L>Thou schalt fynde me true and lele,</L>
+<L>And euyn, lord, for to dele,</L>
+<L>Be-twix thè and me!"</L>
+<L>"Fare wele," he sayd, "Sir Amadace!</L>
+<L>And thou schalle wurche thruȝe Goddus grace,</L>
+<L>And hit schalle be with thè."</L>
+<L>Sir Amadace sayd, "Haue gode day,</L>
+<L>And thou schalle fynde me, and I may,</L>
+<L>Als true as any mon may be!" <NOTE PLACE="marg">A Fitte.</NOTE></L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<L>NOW als Sir Amadace welke bi the se sonde,</L>
+<L>The broken schippus he ther fonde,</L>
+<L>Hit were meruayl to say;</L>
+<L>He fond wrekun a-mung the stones,</L>
+<L><PB N="45" REF="92"/>
+Knyȝtes in meneuere for the nones,</L>
+<L>Stedes quite, and gray.</L>
+<L>With alle kynne maner of richas,</L>
+<L>That any mon myȝte deuise,</L>
+<L>Castun vppe with waturs lay;</L>
+<L>Kistes and cofurs bothe ther stode,</L>
+<L>Was fulle of gold precius and gode,</L>
+<L>No mon bare noȝte a-way!</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>Thenne Sir Amadace he him cladde,</L>
+<L>And that was in a gold webbe,</L>
+<L>A bettur myȝte none be;</L>
+<L>And the stede that he on rode,</L>
+<L>Wasse the best that euyr mon hade,</L>
+<L>In iusting for to see.</L>
+<L>Ther he wanne fulle mecul honoure,</L>
+<L>Fild and frithe, toune and towre,</L>
+<L>Castelle and riche citè;</L>
+<L>Aure that gud he houet fulle ryȝte,</L>
+<L>That see the king and his doȝtur bryȝte,</L>
+<L>The iusting furthe schild be.</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI.</HEAD>
+<L>The kinge sayd to his doȝtur bryȝte,</L>
+<L>"Lo, ȝond houes a rialle knyȝte!"</L>
+<L>A messyngere he ches;</L>
+<L>His aune squier, and knyȝtes thre,</L>
+<L>And bede, "Go loke, quat ȝone may be,</L>
+<L>And telle me quo hit is.</L>
+<L>And his gud hitte schalle be tente,</L>
+<L>Holly to his cummawundemente,</L>
+<L>Certan with owtun lesse;</L>
+<L>Go we to his comyng alle to-gethir,</L>
+<L><PB N="46" REF="93"/>
+And say that he is welcum hethir,</L>
+<L>And he be comun o pese!"</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>As the messingerus welke bi the see sonde,</L>
+<L>Thay toke Sir Amadace bi the quite honde,</L>
+<L>And tithinges conne him fraynne;</L>
+<L>And sayd, "Oure lord, the king, hase send vs hethir,</L>
+<L>To wete ȝoure comyng alle to-gethir,</L>
+<L>And ȝe wold vs sayn.</L>
+<L>He says, ȝore gud hitte schalle be tente,</L>
+<L>Holly atte ȝaure commawundemente,</L>
+<L>Sertan is noȝte to layne;</L>
+<L>Quat-seuer ȝe wille with the kingus men do,</L>
+<L>ȝo thar butte commawunde hom ther to,</L>
+<L>And haue seruandis fulle bayne."</L>
+</LG>
+<LG N="42">
+<HEAD>XLVIII.</HEAD>
+<L>And Sir Amadace sayd, "I wasse a prinse of mekil pride,</L>
+<L>And here I hade thoȝte to ryde,</L>
+<L>For-sothe atte this iournay;</L>
+<L>I was vetaylet with wyne and flowre,</L>
+<L>Hors, stedus, and armoure,</L>
+<L>Knyȝtus of gode a-ray.</L>
+<L>Stithe stormes me ore-drofe,</L>
+<L>Mi nobulle schippe hit all to-rofe,</L>
+<L>Tho sothe ȝoure seluun may say;</L>
+<L>To spend, I haue enuȝhe plentè,</L>
+<L>Butte alle the men that come with me,</L>
+<L>For-sothe, thai bynne away."</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>Then Sir Amadace, that wasse so stithe on stede,</L>
+<L>To the castelle ȝates thay conne him lede,</L>
+<L><PB N="47" REF="94"/>
+And told the king alle the cace;</L>
+<L>The king sayd, "Thou art welcum here,</L>
+<L>I rede thè be of fulle gud chere,</L>
+<L>Thonke Jhesu of his grace!</L>
+<L>Seche a storme as thou was inne,</L>
+<L>That thou myȝte any socur wynne,</L>
+<L>A fulle fayre happe hit wase!</L>
+<L>I see neuyr man that sete in sete,</L>
+<L>So muche of my lufue myȝte gete</L>
+<L>As thou thi seluun hase."</L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<L>Thenne the king for Sir Amadace sake,</L>
+<L>A rialle cri thenne gerutte he make,</L>
+<L>Thro-oute in that citè;</L>
+<L>To alle that ther wold seruyse haue,</L>
+<L>Knyȝte, squiere, ȝoman and knaue,</L>
+<L>Iche mon in thayre degre.</L>
+<L>That wold duelle with Sir Amadace,</L>
+<L>Hade lost his men in a cace,</L>
+<L>And drownet hom on the se;</L>
+<L>He wold gif hom toe so muche, or ellus more,</L>
+<L>As any lord wold euyr or qware,</L>
+<L>And thay wold with him be.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>Quen gentilmen herd that cry,</L>
+<L>Thay come to him full hastely,</L>
+<L>With him for to be;</L>
+<L>Be then the iusting wase alle cryed,</L>
+<L>There was no lord ther be-syde,</L>
+<L>Had halfe as mony men as he.</L>
+<L>Ther he wanne so myculle honoure,</L>
+<L><PB N="48" REF="95"/>
+Fild and frithe, towne and toure,</L>
+<L>Castelle and riche citè;</L>
+<L>A hundrithe stedis he wan and moe,</L>
+<L>And gaue the king the ton halue of thoe,</L>
+<L>Butte ther othir til his felo keput he.</L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<L>Quen the iusting was alle done,</L>
+<L>To vnarme hom they wente a-none,</L>
+<L>Hastely and be-lyue;</L>
+<L>Then sayd the king a-non ryȝte,</L>
+<L>And bede, "Gromersy, gentulle knyȝte!"</L>
+<L>Ofte and fele sithe.</L>
+<L>Then the kingus doȝtur that wasse gente,</L>
+<L>Vnlasutte the knyȝte, to mete thay wente,</L>
+<L>Alle were thay gladde and blithe;</L>
+<L>Quen aythir of othir hade a siȝte,</L>
+<L>Suche a lufue be-tuene hom liȝte,</L>
+<L>That partut neuyr thayre lyue.</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>Quen thay hade etun, I vndurstonde,</L>
+<L>The king toke Sir Amadace bi the quite honde,</L>
+<L>And to him conne he say;</L>
+<L>"Sir," he sayd, "with-outun lesse,</L>
+<L>I haue a doȝtur, that my nayre ho isse,</L>
+<L>And ho be to ȝaure pay.</L>
+<L>And ȝe be a mon that wille wedde a wife,</L>
+<L>I vouche hur safe, be my life,</L>
+<L>On ȝo that fayre may;</L>
+<L>Here a gifte schalle I ȝo gife,</L>
+<L>Halfe my kyndome, quiles I life,</L>
+<L>Take alle aftur my daye."</L>
+</LG>
+<LG N="54">
+<PB N="49" REF="96"/>
+<HEAD>LIV.</HEAD>
+<L>["Gramarcy," seyd Sir Amadas,</L>
+<L>And thonkyd the kyng of that grace,</L>
+<L>Of his gyfftes gudde;</L>
+<L>Sone after, as y yow sey,</L>
+<L>To the kyrke yode thei,</L>
+<L>To wedde that frely fode.</L>
+<L>Ther was gold gyffon in that stonde,</L>
+<L>And plenty of syluer, mony a ponde,</L>
+<L>Be the way as thei yode;</L>
+<L>And after in hall thei satte all,</L>
+<L>The lordes and the ladès small</L>
+<L>That comon wer of gentyll blode.]</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>Thus is Sir Amadace keuyrt of his wo,</L>
+<L>That God lene grace, that we were so!</L>
+<L>A rialle fest gerut he make;</L>
+<L>Ther weddut he that lady briȝte,</L>
+<L>The maungery last a faurtenyȝte,</L>
+<L>With schaftes for to schake.</L>
+<L>Othir halfe ȝere thay lifd in gomun,</L>
+<L>A fayre knaue child hade thay somun,</L>
+<L>Grete myrthes con thay make.</L>
+<L>Listuns now, lordinges, of anters grete,</L>
+<L>Quylle on a day before the mete,</L>
+<L>This felau come to the ȝate.</L>
+</LG>
+<LG N="56">
+<HEAD>LVI.</HEAD>
+<L>He come in als gay gere,</L>
+<L>Ryȝte as he an angelle were,</L>
+<L>Cladde he was in quite;</L>
+<L>Vn-to the porter speke he thoe,</L>
+<L>Sayd, "To thi lord myn ernde thou go,</L>
+<L><PB N="50" REF="97"/>
+Hasteli and alstite.</L>
+<L>And if he frayne oȝte aftur me,</L>
+<L>For quethun I come, or quat cuntre,</L>
+<L>Say him my sute is quite;</L>
+<L>And say we haue to-gethir bene,</L>
+<L>I hope fulle wele he haue me sene,</L>
+<L>He wille hitte neuyr denyte."</L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<L>Thenne the porter wente in-to the halle,</L>
+<L>Alsone his lord he metes with-alle,</L>
+<L>He sailles him as he conne;</L>
+<L>Sayd, "Lord, here is comun the fayrist knyȝte,</L>
+<L>That euyr ȝette I see with syȝte,</L>
+<L>Sethen I was market mon.</L>
+<L>Milke quite is his stede,</L>
+<L>And so is alle his other wede,</L>
+<L>That he hase opon:</L>
+<L>He says ȝe haue to-gethir bene,</L>
+<L>I hope fulle welle ȝe haue him sene,</L>
+<L>Butte with him is comun no mon."</L>
+</LG>
+<LG N="58">
+<HEAD>LVIII.</HEAD>
+<L>"Is he comun," he sayd, "my nowun true fere?</L>
+<L>To me is he bothe lefe and dere,</L>
+<L>So aghet him wele to be!</L>
+<L>Butte, alle my men, I ȝo cummawunde,</L>
+<L>To serue him wele to fote and honde,</L>
+<L>Ryȝte as ȝe wold do me."</L>
+<L>Then Sir Amadace a-ȝaynus him wente,</L>
+<L>And allso did that ladi gente,</L>
+<L>That was so bryȝte of ble;</L>
+<L>And did wele that hur aghte to do,</L>
+<L>Alle that hur lord lufd wurschipput ho,</L>
+<L>Alle suche wemen wele myȝte be.</L>
+</LG>
+<LG N="59">
+<PB N="51" REF="98"/>
+<HEAD>LIX.</HEAD>
+<L>Quo schuld his stede to stabulle haue?</L>
+<L>Knyȝte, squier, ȝoman, ne knaue,</L>
+<L>Nauthir with him he broȝte;</L>
+<L>Thenne Sir Amadace wold haue takyun his stede,</L>
+<L>And to the halle him seluun lede,</L>
+<L>Butte so wold he noȝte.</L>
+<L>He sayd, "Sertan, the sothe to telle,</L>
+<L>I wille nauthir ete, drinke, ne duelle,</L>
+<L>Be God, that me dere boȝte!</L>
+<L>Butte take and dele hit euun in toe,</L>
+<L>Gif me my parte, and lette me goe,</L>
+<L>Gif I be wurthi oȝte!"</L>
+</LG>
+<LG N="60">
+<HEAD>LX.</HEAD>
+<L>Thenne speke Sir Amadace so fre,</L>
+<L>"For Goddus luffe, lette suche wurdus be!</L>
+<L>Thay greuun my herte fulle sore;</L>
+<L>For we myȝte noȝte this faurtenyȝte,</L>
+<L>Owre riche londus dele and diȝte,</L>
+<L>Thay liun so wide quare.</L>
+<L>Butte lette vs leng to-gethir here,</L>
+<L>Riȝte as we brethir were,</L>
+<L>As alle thi none hit ware;</L>
+<L>And othir gates noȝte part wille wee,</L>
+<L>Butte att thi wille, Sir, alle schalle bee,</L>
+<L>Goddes forbote, Sir, thou hit spare!"</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<L>He sayd, "Broke wele thi londus brode,</L>
+<L>Thi castels hee, the townus made,</L>
+<L>Of hom kepe I riȝte none;</L>
+<L>Allso thi wuddus, thi waturs clere,</L>
+<L>Thi frithis, thi forestus, fer and nere,</L>
+<L>Thi ringus with riche stone,</L>
+<L><PB N="52" REF="99"/>
+Allso thi siluyr, thi gold rede,</L>
+<L>For hit may stonde me in no stidde,</L>
+<L>I squere, bi Sayn John!</L>
+<L>But, be my faythe, with-outun stryue,</L>
+<L>Half thi child, and halfe thi wyue,</L>
+<L>And thay schalle with me gone."</L>
+</LG>
+<LG N="62">
+<HEAD>LXII.</HEAD>
+<L>"Alas!" sayd Sir Amadace than,</L>
+<L>"That euyr I this woman wan,</L>
+<L>Or any wordes gode!</L>
+<L>For his lufe, that deet on tre,</L>
+<L>Quat-seuer ȝe wille, do with me,</L>
+<L>For him that deet on rode!</L>
+<L>ȝe, take alle that euyr I haue,</L>
+<L>Wythe thi, that ȝe hur life saue!"</L>
+<L>Thenne the knyȝte wele vndurstode,</L>
+<L>And squere, "Be God, that me dere boȝte,</L>
+<L>Othir of thi thinge then kepe I noȝte,</L>
+<L>Of alle thi wordes gode!</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII.</HEAD>
+<L>Butte thenke on thi couenand, that thou made,</L>
+<L>In the wode, quen thou mestur hade,</L>
+<L>How fayre thou hettus me thare!"</L>
+<L>Sir Amadace sayd, "I wotte, hit was soe,</L>
+<L>But my lady for to sloe,</L>
+<L>Methinke grete synne hit ware."</L>
+<L>Then the lady vndurstode a-non,</L>
+<L>The wurd that was be-twene hom,</L>
+<L>And greuyt hur neuyr the more;</L>
+<L>Then ladi sayd, "For his luffe that deut on tre,</L>
+<L>Loke ȝore couandus holdun be,</L>
+<L>Goddes forbotte ȝe me spare!"</L>
+</LG>
+<LG N="64">
+<PB N="53" REF="100"/>
+<HEAD>LXIV.</HEAD>
+<L>Thenne be-speke that ladi briȝte,</L>
+<L>Sayd, "Ye schalle him hold that ȝe haue hiȝte,</L>
+<L>Be God, and Sayn Driȝtine!</L>
+<L>For his lufe that deet on tre,</L>
+<L>Loke ȝaure couandus holdun be,</L>
+<L>ȝore forward was fulle fyne.</L>
+<L>Sithun Crist wille that hit be so,</L>
+<L>Take and parte me euun in toe,</L>
+<L>Thou wan me and I am thine!</L>
+<L>Goddus forbotte that ȝe hade wyuut,</L>
+<L>That I schuld ȝo a lure makette,</L>
+<L>ȝore wurschip in londe to tyne!"</L>
+</LG>
+<LG N="65">
+<HEAD>LXV.</HEAD>
+<L>Still ho stode, with-outun lette,</L>
+<L>Nawthir changet chere, ne grette,</L>
+<L>That lady myld and dere!</L>
+<L>Bede, "Foche me my ȝung sun me be-forne,</L>
+<L>For he was of my bodi borne,</L>
+<L>And lay my herte fulle nere."</L>
+<L>"Now," quod the quite knyȝte thare,</L>
+<L>"Quethur of hom luffus thou mare?"</L>
+<L>He sayd, "My wife, so dere!"</L>
+<L>"Sithun thou luffus hur the more,</L>
+<L>Thou schalt parte hur euyn before,</L>
+<L>Hur quite sidus in sere."</L>
+</LG>
+<LG N="66">
+<HEAD>LXVI.</HEAD>
+<L>Thenne quen Sir Amadace see,</L>
+<L>That no bettur hitte myȝte bee,</L>
+<L>He ferd as he were wode;</L>
+<L>Thenne all the menè in that halle,</L>
+<L>Doune on squonyng ther con thay falle,</L>
+<L><PB N="54" REF="101"/>
+Be-fore thayre lord thay stode.</L>
+<L>The burd was broȝte, that schuld hur on dele,</L>
+<L>Ho kissutte hur lord sithis fele,</L>
+<L>And sithun therto ho ȝode;</L>
+<L>Ho layd hur downe mekely enuȝhe,</L>
+<L>A clothe then aure hur enyn thay droȝ he,</L>
+<L>That lady was myld of mode!</L>
+</LG>
+<LG N="67">
+<HEAD>LXVII.</HEAD>
+<L>Thenne the quite knyȝte, "I wille do thè no vnskille,</L>
+<L>Thou schalt dele hit atte thi wille,</L>
+<L>The godus that here now is."</L>
+<L>Thenne speke Sir Amadace so fre,</L>
+<L>Sayd, "Atte ȝour wille, lord, alle schalle be,</L>
+<L>And so I hope hit is."</L>
+<L>Then Sir Amadace a squrd vppe-hente,</L>
+<L>To strike the ladi was his entente,</L>
+<L>And thenne the quite knyȝte be[de] sese!</L>
+<L>He toke vppe the ladi, and the litulle knaue,</L>
+<L>And to Sir Amadace ther he hom gaue,</L>
+<L>And sayd, "Now is tyme of pees!"</L>
+</LG>
+<LG N="68">
+<HEAD>LXVIII.</HEAD>
+<L>He sayd, "I con notte wite thè, gif thou were woe,</L>
+<L>Suche a ladi for to slo,</L>
+<L>Thi wurschip thus wold saue;</L>
+<L>ȝette I was largely as gladde,</L>
+<L>Quen thou gafe alle that euyr thou hade,</L>
+<L>My bones for to graue.</L>
+<L>In a chapelle quere I lay to howundus mete,</L>
+<L>Thou payut furst thritty powund by grete,</L>
+<L>Sethun alle that thou myȝtus haue;</L>
+<L>Ther I be-soȝte God, schuld keuyr thè of thi care,</L>
+<L>That for me hade made thè so bare,</L>
+<L>Mi wurschip in lond to saue."</L>
+</LG>
+<LG N="69">
+<PB N="55" REF="102"/>
+<HEAD>LXIX.</HEAD>
+<L>"Fare-wele now," he sayd, "mynne awne true fere!</L>
+<L>For my lenging is no lengur her,</L>
+<L>With tunge sum I thè telle;</L>
+<L>Butte loke thou lufe this lady as thi lyue,</L>
+<L>That thus mekely, with-outen stryue,</L>
+<L>Thi forwardus wold fulfille!"</L>
+<L>Thenne he wente oute of that toune,</L>
+<L>He glode a-way as dew in towne,</L>
+<L>And thay a-bode ther stille;</L>
+<L>Thay knelutte downe opon thayre kne,</L>
+<L>And thonket God and Mary fre,</L>
+<L>And so thay hade gud skille!</L>
+</LG>
+<LG N="70">
+<HEAD>LXX.</HEAD>
+<L>Thenne Sir Amadace and his wiue,</L>
+<L>With joy and blis thay ladde thayre liue,</L>
+<L>Vnto thayre ending daye;</L>
+<L>Ther is ladìs now in lond fulle foe,</L>
+<L>That wold haue seruut hor lord soe,</L>
+<L>Butte sum wold haue sayd nay.</L>
+<L>Botte quo-so serues God truly,</L>
+<L>And his modur, Mary fre,</L>
+<L>This dar I sauely say;</L>
+<L>Gif hom sumtyme like fulle ille,</L>
+<L>ȝette God will graunte hom alle hor wille,</L>
+<L>Tille heuyn the redy waye.</L>
+</LG>
+<LG N="71">
+<HEAD>LXXI.</HEAD>
+<L>Then Sir Amadace send his messingerus,</L>
+<L>Alle the londus ferre and nere,</L>
+<L>Vnto his awne cuntre;</L>
+<L>Till all that euyr his lond with-held,</L>
+<L>Frithe or forest, towne or filde,</L>
+<L><PB N="56" REF="103"/>
+With tresur owte boȝte he.</L>
+<L>His stuard and othir, that with him were,</L>
+<L>He send aftur hom, as ȝe may here,</L>
+<L>And gafe hom gold and fee;</L>
+<L>And thay ther with him for to leng,</L>
+<L>Euyrmore tille thayre lyuus ende,</L>
+<L>With myrthe and solempnite!</L>
+</LG>
+<LG N="72">
+<HEAD>LXXII.</HEAD>
+<L>Thenne sone aftur the kinge deet, at Goddus wille,</L>
+<L>And thay a-bode thare stille,</L>
+<L>As ȝe schalle vndurstond;</L>
+<L>Thenne was he lord of toure and towne,</L>
+<L>And alle thay comun to his somoune,</L>
+<L>Alle the grete lordus of the londe.</L>
+<L>Thenne Sir Amadace, as I ȝo say,</L>
+<L>Was crownette kinge opon a day,</L>
+<L>Wyth gold so clure schinand;—</L>
+<L>Jhesu Criste in Trinite,</L>
+<L>Blesse and glade this cumpany,</L>
+<L>And ore vs halde his hande!</L>
+<TRAILER>FINIS DE SIR AMADACE.</TRAILER>
+</LG>
+</DIV2>
+<DIV2 TYPE="poem">
+<PB REF="104"/>
+<HEAD>THE AVOWYNGE OF KING ARTHER, SIR GAWAN, SIR KAYE, AND SIR BAWDEWYN OF BRETAN.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>He that made vs on the mulde,</L>
+<L>And fair fourmet the folde,</L>
+<L>Atte his wille, as he wold;</L>
+<L>The see, and the sande;</L>
+<L>Giffe hom joy, that wille here,</L>
+<L>Of duȝti men, and of dere,</L>
+<L>Of haldurs, that be-fore vs were,</L>
+<L>That lifd in this londe.</L>
+<L>One was Arther the kinge,</L>
+<L>With-owtun any letting,</L>
+<L>With him was mony lordinge,</L>
+<L>Hardi of honde;</L>
+<L>Wite and war ofte thay were,</L>
+<L>Bold vndur banere,</L>
+<L>And wiȝte weppuns wold were,</L>
+<L>And stifly wold stond.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>This is no fantum, ne no fabulle,</L>
+<L>ȝe wote wele of the Rowuntabulle,</L>
+<L>Of prest men, and priueabulle,</L>
+<L>Was holdun in prise;</L>
+<L><PB N="58" REF="105"/>
+Cheuetan of chiualry,</L>
+<L>Kyndenesse of curtesy,</L>
+<L>Hunting fulle warly,</L>
+<L>As wayt men and wise,</L>
+<L>To the forest tha fare,</L>
+<L>To hunte atte buk, and atte bare,</L>
+<L>To the herte, and to the hare,</L>
+<L>That bredus in the rise;</L>
+<L>The king atte Carlele he lay,</L>
+<L>The hunter cummys on a day,</L>
+<L>Sayd, "Sir, ther walkes in my way,</L>
+<L>A welle grim gryse!</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>He is a balefulle bare,</L>
+<L>Secheon seghe I neuyr are!</L>
+<L>He hase wroȝte me myculle care,</L>
+<L>And hurte of my howundes;</L>
+<L>Slayn hom downe slely,</L>
+<L>With feȝting fulle furcely,</L>
+<L>Wasse ther none so hardi,</L>
+<L>Durste bide in his bandus.</L>
+<L>On him spild I my spere,</L>
+<L>And myculle of my nothir gere,</L>
+<L>Ther mone no dintus him dere,</L>
+<L>Ne wurche him no wowundes;</L>
+<L>He is masly made,</L>
+<L>Alle of fellus that he bade,</L>
+<L>Ther is no bulle so brade,</L>
+<L>That in frithe foundes.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>He is heȝer thenne a horse,</L>
+<L>That vn-cumly corse,</L>
+<L>In fayth, him faylis no force,</L>
+<L><PB N="59" REF="106"/>
+Quen that he schalle feȝte;</L>
+<L>And ther-to, blake as a bere,</L>
+<L>Feye folke will he fere;</L>
+<L>Ther may no dyntus him dere,</L>
+<L>Ne him to dethe diȝte.</L>
+<L>Quen he quettus his tusshes,</L>
+<L>Thenne he betus on the busshes;</L>
+<L>Alle he riues and he russhes,</L>
+<L>That the rote is vnryȝte;</L>
+<L>He hase a laythelyche luffe,</L>
+<L>Quen he castus vppe his stuffe;</L>
+<L>Quo durst a-bide him a buffe,</L>
+<L>I-wisse he were wiȝte!"</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>He sais, in Ingulwode is hee,</L>
+<L>The tother biddus lette him bee!</L>
+<L>We schalle that Satnace see,</L>
+<L>Giffe that he be thare.</L>
+<L>The king callut on knyȝtis thre;</L>
+<L>Him seluun wold the fuyrthe be;</L>
+<L>He sayd, "There schalle o mo menè</L>
+<L>Wynde to the bore."</L>
+<L>Bothe Kay and Sir Gauan,</L>
+<L>And Bowdewynne of Bretan,</L>
+<L>The hunter and the howundus-squayn,</L>
+<L>Hase ȝarket hom ȝare;</L>
+<L>The kinge hase armut him in hie,</L>
+<L>And tho thre biurnes him bie,</L>
+<L>Now ar thay fawre alle redie,</L>
+<L>And furthe conne thay fare.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Vn-to the forest thay weynde,</L>
+<L><PB N="60" REF="107"/>
+That was hardy and heynde,</L>
+<L>The hunter atte the northe ende,</L>
+<L>His bugulle con he blaw;</L>
+<L>Vn-coupult kenettis as he couthe,</L>
+<L>Witturly thay soȝte the southe,</L>
+<L>Raches with opon mouthe,</L>
+<L>Rennyng on a raw,</L>
+<L>Funde fute of the bore,</L>
+<L>Faste folutte to him thore,—</L>
+<L>Quen that he herd, he hade care,</L>
+<L>To the denne conne he draw;</L>
+<L>He sloȝe hom downe slely,</L>
+<L>With feȝting fulle fuyrsly,</L>
+<L>But witte ȝe, Sirs, witturly,</L>
+<L>He stode butte litulle awe.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Thay held him fast in his hold,</L>
+<L>He brittunt bercelettus bold,</L>
+<L>Bothe the ȝunge and the old,</L>
+<L>And raste hom the rest;</L>
+<L>The raches comun rengnyng him by,</L>
+<L>And bayet him fulle boldely,</L>
+<L>Butte ther was non so hardy,</L>
+<L>Durste on the fynde fast.</L>
+<L>Thenne the hunter sayd lo him thare,</L>
+<L>"ȝaw thar suche him no mare,</L>
+<L>Now may ȝe sone to him fare,</L>
+<L>Lette see quo dose beste?</L>
+<L>ȝaw thar suche him neuyr more,</L>
+<L>Butte sette my hed opon a store,</L>
+<L>Butte giffe he flaey ȝo alle fawre,</L>
+<L>That griseliche geste!</L>
+</LG>
+<LG N="8">
+<PB N="61" REF="108"/>
+<HEAD>VIII.</HEAD>
+<L>Thenne the hunter turnes home a-gayn,</L>
+<L>The king callut on Sir Gauan,</L>
+<L>On Bawdewin of Bretan,</L>
+<L>And on kene Kay;</L>
+<L>He sayd, "Sirs, in ȝour cumpany</L>
+<L>Myne a-vow make I,</L>
+<L>Were he neuyr so hardy,</L>
+<L>ȝone Satenas to say,</L>
+<L>To brittun him, and downe bringe,</L>
+<L>With-oute any helpinge,</L>
+<L>And I may haue my leuynge,</L>
+<L>Her tille to-morne atte day;</L>
+<L>And now, Sirs, I cummaunde ȝo,</L>
+<L>To do as I haue done nowe,</L>
+<L>Ichone make ȝour a-vowe;"—</L>
+<L>Gladdely grawuntutte thay.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Then vnsquarut Gauan,</L>
+<L>And sayd godely a-gayn,</L>
+<L>"I a-vowe to Tarnewathelan,</L>
+<L>To wake hit alle nyȝte."</L>
+<L>"And I a-vow," sayd Kaye,</L>
+<L>"To ride this forest or daye;</L>
+<L>Quo-so wernes me the waye,</L>
+<L>Hym to dethe diȝte!"</L>
+<L>Quod Baudewyn, "To stynte owre strife,</L>
+<L>I a-vow, bi my life,</L>
+<L>Neuyr to be jelus of my wife,</L>
+<L>Ne of no birde bryȝte;</L>
+<L>Nere werne nomon my mete,</L>
+<L>Quen I gode may gete,</L>
+<L>Ne drede my dethe for no threte,</L>
+<L>Nauthir of king ner knyȝte."</L>
+</LG>
+<LG N="10">
+<PB N="62" REF="109"/>
+<HEAD>X.</HEAD>
+<L>Butte now thay haue thayre vowes made,</L>
+<L>Thay buskutte hom, and furthe rade,</L>
+<L>To hold that thay heȝte hade,</L>
+<L>Ichone sere way;</L>
+<L>The king turnus to the bore,</L>
+<L>Gauan, with any more,</L>
+<L>To the tarne con he fore,</L>
+<L>To wake hit to day.</L>
+<L>Thenne Kay, as I conne roune,</L>
+<L>He rode the forest vppe and downe,</L>
+<L>Boudewynne turnes to toune,</L>
+<L>Sum that his gate lay;</L>
+<L>And sethun to bed bownus he,</L>
+<L>Butte carpe we now of ther othir thre,</L>
+<L>How thay preuyd hor wedde-fee,</L>
+<L>Tho sothe for to say.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Furst to carpe of oure kinge,—</L>
+<L>Hit is a kyndeliche thinge,</L>
+<L>Atte his begynnyng,</L>
+<L>Howe he dedde his dede;</L>
+<L>Tille his houndus con he hold,</L>
+<L>The bore with his brode schilde,</L>
+<L>Folut hom fast in the filde,</L>
+<L>And spillutte on hom, gode spede,</L>
+<L>Then the kinge con crye,</L>
+<L>And carputte of venerie,</L>
+<L>To make his howundus hardi,</L>
+<L>Houut on a stede;</L>
+<L>Als sone as he come thare,</L>
+<L>A-ȝaynus him rebowndet the bare;</L>
+<L>He se neuyr no syȝte are</L>
+<L>So sore gerutte him to drede.</L>
+</LG>
+<LG N="12">
+<PB N="63" REF="110"/>
+<HEAD>XII.</HEAD>
+<L>He hade drede and doute,</L>
+<L>Of him that was stirrun, and stowte,</L>
+<L>He be-gan to romy and rowte,</L>
+<L>And gapes and gones;</L>
+<L>Men myȝte noȝte his cowche kenne</L>
+<L>For howundes and for slayn men,</L>
+<L>That he hade draun to his denne,</L>
+<L>And brittunt alle to bonus.</L>
+<L>Thenne his tusshes con he quette,</L>
+<L>Opon the kinge for to sette,</L>
+<L>He liftis vppe, with-outun lette,</L>
+<L>Stokkes and stonis;</L>
+<L>With wrathe he be-gynnus to wrote,</L>
+<L>He ruskes vppe mony a rote,</L>
+<L>With tusshes of iij. fote,</L>
+<L>So grisly he gronus!</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Thenne the kinge spanos his spere,</L>
+<L>Opon that bore for to bere,</L>
+<L>Ther may no dyntus him dere,</L>
+<L>So sekir was his schilde!</L>
+<L>The grete schafte that was longe,</L>
+<L>Alle to spildurs hit spronge,—</L>
+<L>The gode stede that was stronge,</L>
+<L>Was fallun in the filde!</L>
+<L>As the bore had mente,</L>
+<L>He gaue the king suche a dinte,</L>
+<L>Or he myȝte his bridulle hente,</L>
+<L>That he myȝte euyr hit fele;</L>
+<L>His stede was stonet, starke ded,</L>
+<L>He sturd neuyr owte of that sted,</L>
+<L>To Jhesu a bone he bede,</L>
+<L>Fro wothes hym weylde!</L>
+</LG>
+<LG N="14">
+<PB N="64" REF="111"/>
+<HEAD>XIV.</HEAD>
+<L>Thenne the king in his sadul sete,</L>
+<L>And wiȝtely wan on his fete,</L>
+<L>He prays to Sayn Margarete,</L>
+<L>Fro wathes him ware!</L>
+<L>Did as a duȝty knyȝte,</L>
+<L>Brayd oute a brand bryȝte,</L>
+<L>And heue his schild opon hiȝte,</L>
+<L>For spild was his spere.</L>
+<L>Sethun he buskette him ȝare,</L>
+<L>Squithe with-outun any mare,</L>
+<L>A-ȝaynus the fynde for to fare,</L>
+<L>That hedoes was of hiere;</L>
+<L>So thay cowunturt in the fild,—</L>
+<L>For alle the weppuns that he myȝte weld,</L>
+<L>The bore brittunt his schild,</L>
+<L>On brest he conne bere.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>There downe knelus he,</L>
+<L>And prayus tille him that was so fre,</L>
+<L>"Send me the vittorè,</L>
+<L>This Satanas me sekes!"</L>
+<L>Alle wrothe wex that sqwyne,</L>
+<L>Blu, and brayd vppe his bryne,</L>
+<L>As kylne other kechine;</L>
+<L>Thus rudely he rekes.</L>
+<L>The kynge myȝte him noȝte see,</L>
+<L>Butte lenyt him doune bi a tree,</L>
+<L>So nyȝe discumford was hee,</L>
+<L>For smelle other smekis;</L>
+<L>And as he neghet bi a noke,</L>
+<L>The king sturenly him stroke,</L>
+<L>That bothe his brees con blake,</L>
+<L>His maistry he mekes.</L>
+</LG>
+<LG N="16">
+<PB N="65" REF="112"/>
+<HEAD>XVI.</HEAD>
+<L>Thus his maistry mekes he,</L>
+<L>With dyntus that werun duȝtè,</L>
+<L>Were he neuyr so hardè,</L>
+<L>Thus bidus that brothe;</L>
+<L>The kinge with a nobulle brande,</L>
+<L>He mette the bore comande,</L>
+<L>On his squrd tille his hande,</L>
+<L>He rennes fulle rathe.</L>
+<L>He bare him inne atte the throte,</L>
+<L>He hade no myrthe of that mote,</L>
+<L>He began to dotur and dote,</L>
+<L>Os he hade keghet scathe;</L>
+<L>With sit siles he a-downe,—</L>
+<L>To brittun him the king was bowne,</L>
+<L>And sundurt in that sesun,</L>
+<L>His brode schildus bothe.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>The king couthe of venery,</L>
+<L>Colurt him fulle kyndely,</L>
+<L>The hed of that hardy,</L>
+<L>He sette on a stake;</L>
+<L>Sethun brittuns he the best,</L>
+<L>As venesun in forest,</L>
+<L>Bothe the ȝonge and lees,</L>
+<L>He hongus on a noke.</L>
+<L>There downe knelys hee,</L>
+<L>That loues her that is free,</L>
+<L>Sayd, "This socur thou hase send me,</L>
+<L>For thi Sune sake!"</L>
+<L>If he were in a dale depe,</L>
+<L>He hade no knyȝte him to kepe,</L>
+<L>For werre slidus he on slepe,</L>
+<L>No lengur myȝte he wake.</L>
+</LG>
+<LG N="18">
+<PB N="66" REF="113"/>
+<HEAD>XVIII.</HEAD>
+<L>The king hase fillut his avowe;—</L>
+<L>Of Kay carpe we nowe,</L>
+<L>How that he come fro his prowe,</L>
+<L>ȝe schalle here more;</L>
+<L>Als he rode in the nyȝte,</L>
+<L>In the forest he mette a knyȝte,</L>
+<L>Ledand a birde bryȝte,</L>
+<L>Ho wepputte wundur sore.</L>
+<L>Ho sayd, "Sayn Marè myȝte me spede,</L>
+<L>And saue me my madun-hede,</L>
+<L>And giffe the knyȝte, for his dede,</L>
+<L>Bothe soro and care!"</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>Thus ho talkes him tille,</L>
+<L>Quille ho hade sayd alle hur wille,</L>
+<L>And Kay held him fulle stille,</L>
+<L>And in the holte houes;</L>
+<L>He prekut oute prestely,</L>
+<L>And aure-hiet him radly,</L>
+<L>And on the knyȝte conne cry,</L>
+<L>And pertely him reproues.</L>
+<L>And sayd, "Recraiand knyȝte!</L>
+<L>Here I profur thè to fiȝte,</L>
+<L>Be chesun of that biurde briȝte,</L>
+<L>I bede thè my glouus!"</L>
+<L>The tother vnsquarut him with skille,</L>
+<L>And sayd, "I am redy, at thi wille,</L>
+<L>That forward to fulfille,</L>
+<L>In alle the me be-houus."</L>
+</LG>
+<LG N="20">
+<PB N="67" REF="114"/>
+<HEAD>XX.</HEAD>
+<L>"Now quethun art thou!" quod Kay,</L>
+<L>"Or quethur is thou on way?</L>
+<L>Thi riȝte name thou me say,—</L>
+<L>Quere wan thou that wiȝte?"</L>
+<L>The tother vnsquarut him agayn,</L>
+<L>"Mi riȝte name is, noȝte to layn,</L>
+<L>Sir Menealfe of the Mountayn,</L>
+<L>My gode-fadur hiȝte.</L>
+<L>And this lady sum I thè telle,</L>
+<L>I fochet hur atte Ledelle,</L>
+<L>Ther hur frindus con he felle,</L>
+<L>As foes in a fiȝte;</L>
+<L>So I talket hom tille,</L>
+<L>That muche blode conne I spille,</L>
+<L>And all a-ȝaynus thayre awne wille,</L>
+<L>There wan I this wiȝte."</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>Quod Kay, "The batelle I take,</L>
+<L>Be chesun of the birdus sake,</L>
+<L>And I schalle wurche thè wrake!"</L>
+<L>And sqwithely con squere;</L>
+<L>Thenne thay rode to-gedur ryȝte,</L>
+<L>As frekes redy to fiȝte,</L>
+<L>Be chesun of that birde bryȝte,</L>
+<L>Gay in hor gere!</L>
+<L>Menealfe was the more myȝty,</L>
+<L>He stroke Kay stifly,</L>
+<L>Witte ȝe, Sirs, witturly,</L>
+<L>With a scharpe spere;</L>
+<L>All to-schildurt his schilde,</L>
+<L>And aure his sadulle gerut him to held,</L>
+<L>And felle him flatte in the filde,</L>
+<L>And toke him vppe on werre.</L>
+</LG>
+<LG N="22">
+<PB N="68" REF="115"/>
+<HEAD>XXII.</HEAD>
+<L>Thus hase he wonun Kay on werre,</L>
+<L>And alle to-spild in his spere,</L>
+<L>And mekille of othir gere,</L>
+<L>Is holden to the pees;</L>
+<L>Thenne unsquarut Kay aȝayn,</L>
+<L>And sayd, "Sir, atte Tarnewathelan,</L>
+<L>Bidus me Sir Gauan,</L>
+<L>Is derwurthe on dese!</L>
+<L>Wold ȝe thethur be bowne,</L>
+<L>Or ȝe turnut to the towne,</L>
+<L>He wold pay my rawunsone,</L>
+<L>With-owtyn delees."</L>
+<L>He sayd, "Sir Kay, thi lyfe I thè heȝte,</L>
+<L>For a cowrce of that knyȝte;"</L>
+<L>ȝette Menealfe, or the mydnyȝte,</L>
+<L>Him ruet alle his rees.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Thus thay turnut to the Torne,</L>
+<L>With the thriuand thorne,</L>
+<L>Kay callut on Gauan ȝorne,</L>
+<L>Asshes, "Quo is there?"</L>
+<L>He sayd, "I, Kay, that thou knawes,</L>
+<L>That owte of tyme bostus and blawus,</L>
+<L>Butte thou me lese with thi lawes,</L>
+<L>I lif neuyr more.</L>
+<L>For as I rode in the nyȝte,</L>
+<L>In the forest I mette a knyȝte,</L>
+<L>Ledand a birde bryȝte,</L>
+<L>Ho wepput wundur sore;</L>
+<L>There to-gedur faȝte we,</L>
+<L>Be chesun of that lady free,</L>
+<L>On werre thus hase he wonun me,</L>
+<L>Gif that me lothe ware!</L>
+</LG>
+<LG N="24">
+<PB N="69" REF="116"/>
+<HEAD>XXIV.</HEAD>
+<L>This knyȝte, that is of renowun,</L>
+<L>Hase takyn me to presowun,</L>
+<L>And thou mun pay my rawunsun,</L>
+<L>Gawan, with thi leue."</L>
+<L>Then vnsquarutte Gauan,</L>
+<L>And sayd godely agayn,</L>
+<L>"I wille, wundur fayne,</L>
+<L>Quatt schalle I geue?"</L>
+<L>"Quen thou art armut in thi gere,</L>
+<L>Take thi schild and thi spere,</L>
+<L>And ride to him a course on werre,</L>
+<L>Hit schalle thè noȝte greue."</L>
+<L>Gauan asshes, "Is hit soe?"</L>
+<L>To tother knyȝt grauntus, ȝoe,</L>
+<L>He sayd, "Then to-gedur schulle we goe,</L>
+<L>How-sumeuyr hit cheuis."</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>And these knyȝtus kithum hor crafte,</L>
+<L>And aythir gripus a schafte,</L>
+<L>Was als rude as a rafte,</L>
+<L>So runnun thay to-gedur;</L>
+<L>So somun conne tha hie,</L>
+<L>That nauthir scaput for-bye,</L>
+<L>Gif Menealfe was the more myȝtie,</L>
+<L>ȝette dyntus gerut him to dedur.</L>
+<L>He stroke him sadde and sore,</L>
+<L>Squithe squonut he thore,</L>
+<L>The blonke him a-boute bore,</L>
+<L>Wiste he neuyr quedur!</L>
+<L>Quod Kay, "Thou hase that thou hase soȝte,</L>
+<L>Mi rauunsun is alle redy boȝte,</L>
+<L>Gif thou were ded I ne roȝte,—</L>
+<L>For-thi come I hedur.</L>
+</LG>
+<LG N="26">
+<PB N="70" REF="117"/>
+<HEAD>XXVI.</HEAD>
+<L>Thus Kay scornus the knyȝte,</L>
+<L>And Gauan rydus to him ryȝte,</L>
+<L>In his sadul sette him on hiȝte,</L>
+<L>Speke gif he may;</L>
+<L>Of his helme con he draw,</L>
+<L>Lete the wynde on him blaw,</L>
+<L>He speke with a vois law,</L>
+<L>"Delyueryt hase thou Kay.</L>
+<L>With thi laa hase made him leyce,</L>
+<L>Butte him is lothe to be in pece,</L>
+<L>And thou was aye curtase,</L>
+<L>And prins of iche play;</L>
+<L>Wold thou here a stowunde bide,</L>
+<L>A-nother course wold I ride,</L>
+<L>This that houes by my side,</L>
+<L>In wedde I wold hur lay!"</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Then vnsquarut Gauan,</L>
+<L>Sayd godely a-gayn,</L>
+<L>"I am wundur fayn,</L>
+<L>For hur for to fiȝte."</L>
+<L>These knyȝtus kithum thay gere,</L>
+<L>And aythir gripus a spere,</L>
+<L>Runnun to-gedur on werre,</L>
+<L>Os hardy and wiȝte.</L>
+<L>So somen that thay ȝode,</L>
+<L>That Gauan bare him fro his stede,</L>
+<L>That bothe his brees con blede,</L>
+<L>On growunde qwen he liȝte;</L>
+<L>Thenne Kay con on him calle,</L>
+<L>And sayd, "Sir, thou hade a falle,</L>
+<L>And thi wenche lost with-alle,</L>
+<L>Mi trauthe I thè pliȝte!"</L>
+</LG>
+<LG N="28">
+<PB N="71" REF="118"/>
+<HEAD>XXVIII.</HEAD>
+<L>Quod Kay, "Thi leue hase thou loste,</L>
+<L>For alle thi brag or thi boste,</L>
+<L>If thou haue oȝte on hur coste,</L>
+<L>I telle hit for tente!"</L>
+<L>Thenne speke Gauan to Kay,</L>
+<L>"A mon's happe is notte ay,</L>
+<L>Is none so sekur of a say,</L>
+<L>Butte he may harmes hente."</L>
+<L>Gauan rydus to him ryȝte,</L>
+<L>And toke vppe the tother knyȝte,</L>
+<L>That was dilfully dyȝte,</L>
+<L>And stonet in that stynte;</L>
+<L>Kay wurdus tenut him mare,</L>
+<L>Thenne alle the harmes that he hente thare,</L>
+<L>He sayd, "And we allone ware,</L>
+<L>This stryf schuld I stynte."</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>"ȝe, hardely!" quod Kay,</L>
+<L>"Butte thou hast lost thi fayre may,</L>
+<L>And thi liffe I dar lay,"—</L>
+<L>Thus talkes he him tille;</L>
+<L>And Gauan sayd, "Gode forbede!</L>
+<L>For he is duȝti in dede,"—</L>
+<L>Prayes the knyȝte gud spede,</L>
+<L>To take hit to none ille,</L>
+<L>If Kay speke wurdes kene,—</L>
+<L>"Take thou this dameselle schene,</L>
+<L>Lede hur to Gaynour the quene,</L>
+<L>This forward to fulfille;</L>
+<L>And say, that Gawan hur knyȝte,</L>
+<L>Sende hur this byurde briȝte,</L>
+<L>And rawunsun thè a-non riȝte,</L>
+<L>Atte hur awne wille."</L>
+</LG>
+<LG N="30">
+<PB N="72" REF="119"/>
+<HEAD>XXX.</HEAD>
+<L>Ther-to grawuntus the knyȝte,</L>
+<L>And truly his trauthe pliȝte,</L>
+<L>Inne saue-ward that byurde bryȝte,</L>
+<L>To Carlele to bringe;</L>
+<L>And as thay houet and abode,</L>
+<L>He squere on the squrd brode;—</L>
+<L>Be he his othe hade made,</L>
+<L>Thenne waknut the king.</L>
+<L>Thenne the day be-ganne to daw,</L>
+<L>The kinge his bugulle con blaw,</L>
+<L>His knyȝtus couthe hitte welle knaw,</L>
+<L>His was a sekur thinge;</L>
+<L>Sethun thay busket hom ȝare,</L>
+<L>Sqwith with owtun any mare,</L>
+<L>To wete the kingus welefare,</L>
+<L>With-owtun letting. <NOTE PLACE="marg">Primus Passus.</NOTE></L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>TO the forest thay take the way,</L>
+<L>Bothe Gawan and Kay,</L>
+<L>Menealfe and the fare May,</L>
+<L>Comun to the kinge;</L>
+<L>The bore brittunt thay funde,</L>
+<L>Was colurt of the kingus hunde,</L>
+<L>If he were lord of that londe,</L>
+<L>He hade no horsing.</L>
+<L>Downe thay take that birde bryȝte,</L>
+<L>Sette hur one, behinde the knyȝte,</L>
+<L>Hur horse for the king was dyȝte,</L>
+<L>With-outun letting;</L>
+<L>Gaue Kay the venesun to lede,</L>
+<L>And hiet hamward, gode spede,</L>
+<L>Bothe the birde and the brede,</L>
+<L>To Carlele thay bringe.</L>
+</LG>
+<LG N="32">
+<PB N="73" REF="120"/>
+<HEAD>XXXII.</HEAD>
+<L>Now as thay rode atte the way,</L>
+<L>The kynge him seluun con say,</L>
+<L>Bothe to Gauan and to Kay,</L>
+<L>"Quere wan ȝe this wiȝte?"</L>
+<L>Thenne Kay to the king spake,</L>
+<L>He sayd, "Sir, in the forest as I con wake,</L>
+<L>Atte the Anturis hoke,</L>
+<L>Ther mette me this knyȝte.</L>
+<L>Ther to-gedur faȝte we,</L>
+<L>Be chesun of this lady fre,</L>
+<L>On werre hase he thus wonun me,</L>
+<L>With mayn and wythe myȝte;</L>
+<L>And Gawan hase my rawunsun made,</L>
+<L>For a course that he rode,</L>
+<L>And felle him in the fild brode,</L>
+<L>He wanne this biurde bryȝte.</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>"He toke him there to presunnere;"—</L>
+<L>Then loghe that dameselle dere,</L>
+<L>And louet with a mylde chere,</L>
+<L>God and Sir Gawan!</L>
+<L>Thenne sayd the king opon hiȝte,</L>
+<L>Alle sqwithe to the knyȝte,</L>
+<L>"Quat is thi rawunsun opon ryȝte,</L>
+<L>The sothe thou me sayn?"</L>
+<L>The tothir vnsquarut him with skille,</L>
+<L>"I conne notte say thè ther-tille,</L>
+<L>Hit is atte the quene wille,</L>
+<L>Qwi schuld I layne?</L>
+<L>Bothe my dethe and my lyfe,</L>
+<L>Is inne the wille of thi wife,</L>
+<L>Quethur ho wulle stynte me of my strife,</L>
+<L>Or putte me to payne!"</L>
+</LG>
+<LG N="34">
+<PB N="74" REF="121"/>
+<HEAD>XXXIV.</HEAD>
+<L>"Grete God!" quod the king,</L>
+<L>"Gif Gawan gode endinge,</L>
+<L>For he is sekur in alle kynne thinge,</L>
+<L>To cowuntur with a knyȝte!</L>
+<L>Of alle playus he berus the prise,</L>
+<L>Loos of ther ladise,—</L>
+<L>Menealfe, and thou be wise,</L>
+<L>Hold that thou be-heȝte.</L>
+<L>And I schalle helpe that I maye,"</L>
+<L>The king him seluun con saye,—</L>
+<L>To Carlele thay take the waye,</L>
+<L>And inne the courte is liȝte;</L>
+<L>He toke this dameselle gente,</L>
+<L>Be-fore the quene is he wente,</L>
+<L>And sayd, "Medame, I am hedur sente</L>
+<L>Fro Gawan, ȝour knyȝte."</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>He sayd, "Me-dame, Gawan ȝour knyȝte,</L>
+<L>On werre hase wonun me to-nyȝte,</L>
+<L>Be chesun of this birde briȝte,</L>
+<L>Mi pride conne he spille;</L>
+<L>And gerut me squere squyftely,</L>
+<L>To bringe thè this lady,</L>
+<L>And my nowne body,</L>
+<L>To do hit in thi wille,</L>
+<L>And I haue done as he me bade,"—</L>
+<L>"Now," quod the quene, "and I am glade,</L>
+<L>Sethun thou art in my wille stade,</L>
+<L>To spare or to spille;</L>
+<L>I giffe thè to my lord, the kinge,</L>
+<L>For he hase mestur of suche a thinge,</L>
+<L>Of knyȝtus in a-cowunturinge,</L>
+<L>This forward to fullfille."</L>
+</LG>
+<LG N="36">
+<PB N="75" REF="122"/>
+<HEAD>XXXVI.</HEAD>
+<L>"Now," the quene sayd, "God Almyȝte!</L>
+<L>Saue me Gawan, my knyȝte,</L>
+<L>That thus for wemen con fiȝte,</L>
+<L>Fro wothus him were!"</L>
+<L>Gawan sayd, "Medame, as God me spede,</L>
+<L>He is duȝti of dede,</L>
+<L>A blithe burne on a stede,</L>
+<L>And graythe in his gere."</L>
+<L>Thenne thay fochet furthe a boke,</L>
+<L>Alle thayre laes for to loke,</L>
+<L>The kinge sone his othe toke,</L>
+<L>And squithely gerut him squere;</L>
+<L>And sekirly, with-outen fabulle,</L>
+<L>Thus dwellus he atte the Rowuntabulle,</L>
+<L>As prest knyȝte, and preuabulle,</L>
+<L>With schild and with spere.</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>Nowe gode frindus ar thay,</L>
+<L>Then carpus Sir Kay,</L>
+<L>To the king con he say,</L>
+<L>"Sire, a mervaelle thinke me,</L>
+<L>Of Bowdewyn's avouyng,</L>
+<L>ȝustur euyn in the eunyng,</L>
+<L>With-owtun any lettyng,</L>
+<L>Wele more thenne we thre."</L>
+<L>Quod the king, "Sothe to sayn,</L>
+<L>I kepe no lengur for to layn,</L>
+<L>I wold wete wundur fayn,</L>
+<L>How best myȝte be."</L>
+<L>Quod, Kay, "And ȝe wold gif me leue,</L>
+<L>And sithun take hit o no greue,</L>
+<L>Now schuld I propurly preue,</L>
+<L>As euyr myȝte I thee."</L>
+</LG>
+<LG N="38">
+<PB N="76" REF="123"/>
+<HEAD>XXXVIII.</HEAD>
+<L>"ȝisse," quod the king, "on that couande,</L>
+<L>That o payn on life and on londe,</L>
+<L>That ȝe do him no wrunge,</L>
+<L>Butte saue wele my knyȝte;</L>
+<L>As men monly him mete,</L>
+<L>And sithun for-sette him the strete,</L>
+<L>ȝe fynde him noȝte on his fete</L>
+<L>Be warre, for he is wyȝte!</L>
+<L>For he is horsutte fulle wele,</L>
+<L>And clene clad in stele,</L>
+<L>Is none of ȝo but he mun fele,</L>
+<L>That he may on-lyȝte;</L>
+<L>ȝe wynnun him noȝte owte of his way,"</L>
+<L>The king him seluun con say,</L>
+<L>"Him is lefe, I dar lay,</L>
+<L>To hald that he heȝte."</L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX.</HEAD>
+<L>Thenne sex ar atte on assente,</L>
+<L>Hase armut hom, and furthe wente,</L>
+<L>Brayd owte aure a bente,</L>
+<L>Bawdewyn to mete;</L>
+<L>With scharpe weppun and schene,</L>
+<L>Gay gownus of grene,</L>
+<L>To hold thayre armur clene,</L>
+<L>And were hitte fro the wete.</L>
+<L>Thre was sette on iche side,</L>
+<L>To werne him the wayus wide,</L>
+<L>Quere the knyȝte schuld furthe ride,</L>
+<L>For-sette hym the strete;</L>
+<L>With copus couert thay hom thenne,</L>
+<L>Ryȝte as thay hade bene vncowthe men,</L>
+<L>For that thay wold noȝte be kennet,</L>
+<L>Euyn downe to thayre fete.</L>
+</LG>
+<LG N="40">
+<PB N="77" REF="124"/>
+<HEAD>XL.</HEAD>
+<L>Now as thay houut, and thay hyild,</L>
+<L>Thay so a schene vndur schild,</L>
+<L>Come prekand fast aure the filde,</L>
+<L>On a fayre stede;</L>
+<L>Wele armut and dyȝte,</L>
+<L>As freke redy to fyȝte,</L>
+<L>Toward Carlele ryȝte,</L>
+<L>He hies, gode spede.</L>
+<L>He see ther sixe in his way,</L>
+<L>Thenne to thaym seluun con thay say,</L>
+<L>"Now he is ferd, I dar lay,</L>
+<L>And of his lyfe dredus;"</L>
+<L>Then Kay crius opon heȝte,</L>
+<L>Alle squythe to the knyȝte,</L>
+<L>"Othir flee or fiȝte,</L>
+<L>The tone be-houus the nede!"</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>Thenne thay kest thayre copus hom fro,</L>
+<L>Sir Bawdewyn se that hit wasse so,</L>
+<L>And sayd, "And ȝe were als mony mo,</L>
+<L>ȝe gerutte me notte to flee;</L>
+<L>I haue my ways for to weynde,</L>
+<L>For to speke with a frynde,</L>
+<L>As ȝe ar herdmen hinde,</L>
+<L>ȝe marre notte me!"</L>
+<L>Thenne the sex sembult hom in fere,</L>
+<L>And squere, "By him that boȝte vs dere!</L>
+<L>Thou passus neuyr a-way here,</L>
+<L>Butte gif thou dede be!"</L>
+<L>"ȝisse! hardely," quod Kay,</L>
+<L>"He may take a-nothir way,</L>
+<L>And ther schalle no mon do nere say,</L>
+<L>That schalle greue thè."</L>
+</LG>
+<LG N="42">
+<PB N="78" REF="125"/>
+<HEAD>XLII.</HEAD>
+<L>"Gode thè forȝilde," quod the knyȝte,</L>
+<L>"For I am in my wais riȝte,</L>
+<L>ȝistur euyn I the king hiȝte,</L>
+<L>To cumme to my mete;</L>
+<L>I warne ȝo, frekes, be ȝe bold,</L>
+<L>My ryȝte ways wille I holde;"—</L>
+<L>A spere in fewtre he foldes,</L>
+<L>A gode and a grete.</L>
+<L>Kay stode nexte him in his way,</L>
+<L>He jorput him aure on his play,</L>
+<L>That heuy horse on him lay,</L>
+<L>He squonet in that squete;</L>
+<L>He rode to there othir fyue,</L>
+<L>Thayre schene schildus con he riue,</L>
+<L>And faure felle he belyue,</L>
+<L>In hie in that hete!</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>Hardely, with-outen delay,</L>
+<L>The sex to hom hase takyn vppe Kay,</L>
+<L>And thenne Sir Bawdewin con say,</L>
+<L>"Wille ȝe any more?"</L>
+<L>The tother vnsquarutte him ther tille,</L>
+<L>Sayd, "Thou may weynd quere thou wille,</L>
+<L>For thou hase done vs noȝte butte skille,</L>
+<L>Gif we be wowundut sore."</L>
+<L>He brayd aure to the kinge,</L>
+<L>With-owtun any letting,</L>
+<L>He asshed, if he hade herd any tithing,</L>
+<L>In thayre holtus hore?</L>
+<L>The knyȝte stedit and stode,</L>
+<L>Sayd, "Sir, as I come thro ȝondur wode,</L>
+<L>I herd ne se butte gode,</L>
+<L>Quere I schuld furthe fare."</L>
+</LG>
+<LG N="44">
+<PB N="79" REF="126"/>
+<HEAD>XLIV.</HEAD>
+<L>Thanne was the kinge ameruaylet thare,</L>
+<L>That he wold telle him no more,—</L>
+<L>Als squithur thay ar ȝare,</L>
+<L>To masse ar thay wente;</L>
+<L>By the masse wasse done,</L>
+<L>Kay come home sone,</L>
+<L>Told the king be-fore none,</L>
+<L>"We ar alle schente.</L>
+<L>Of Sir Baudewyn, ȝour knyȝte,</L>
+<L>He is nobulle in the fiȝte,</L>
+<L>Bold hardy and wiȝte,</L>
+<L>To bide on a bente;</L>
+<L>Fle wille he neuyr more,</L>
+<L>Him is muche leuyr dee thore,</L>
+<L>I may banne hur that him bore,</L>
+<L>Suche harmes haue I hente!"</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>Noue the king sayd, "Fle he ne can,</L>
+<L>Ne werne his mete to no man,</L>
+<L>Gife any biurne schuld him ban,</L>
+<L>A meruail hit ware!"</L>
+<L>Thenne the king cald his mynstrelle,</L>
+<L>And told him holly his wille,</L>
+<L>Bede him layne atte hit were stille,</L>
+<L>That he schuld furthe fare,</L>
+<L>To Baudewins of Bretan,</L>
+<L>"I cummawunde thè or thou cum a-gayne,</L>
+<L>Faurty days o payne,</L>
+<L>Loke that thou duelle there;</L>
+<L>And wete me preuely to say,</L>
+<L>If any mon go meteles away,</L>
+<L>For thi wareson for ay,</L>
+<L>Do thou me neuyrmore."</L>
+</LG>
+<LG N="46">
+<PB N="80" REF="127"/>
+<HEAD>XLVI.</HEAD>
+<L>Then the mynstrelle weyndus on his way,</L>
+<L>Als fast as he may,</L>
+<L>Be none of the thryd day</L>
+<L>He funde thaym atte the mete;</L>
+<L>The lady and hur menè,</L>
+<L>And gestus grete plentè,</L>
+<L>Butte porter none funde he,</L>
+<L>To werne him the ȝate.</L>
+<L>Butte rayket in-to the halle,</L>
+<L>Emunge the grete and the smalle,</L>
+<L>And loket a-boute him aure alle,</L>
+<L>He herd of no threte;</L>
+<L>Butte rialle seruys, and fyne</L>
+<L>In bollus birlutte thay the wyne,</L>
+<L>And cocus in the kechine,</L>
+<L>Squytheli con squete!</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>Then the ladi conne he loute,</L>
+<L>And the biurdes alle a-boute,</L>
+<L>Bothe with-inne and with-oute,</L>
+<L>No faute he ther fonde:</L>
+<L>Knyȝte, squyer, ȝoman, ne knaue,</L>
+<L>Hom lacket noȝte that thay schuld haue,</L>
+<L>Thay nedut notte aftur hit to craue,</L>
+<L>Hit come to hor honde.</L>
+<L>Thenne he wente to the dece,</L>
+<L>Be-fore the pruddust in prece,</L>
+<L>That lady was curtase,</L>
+<L>And bede him stille stonde;</L>
+<L>He sayd, he was knoun and couthe,</L>
+<L>And was comun fro bi-southe,</L>
+<L>And ho had myrthe of his mouthe</L>
+<L>To here his tithand.</L>
+</LG>
+<LG N="48">
+<PB N="81" REF="128"/>
+<HEAD>XLVIII.</HEAD>
+<L>A sennyȝt duellut he thare,</L>
+<L>Ther was no spense for to spare,</L>
+<L>Burdes thay were neuyr bare,</L>
+<L>Butte euyr couurt clene;</L>
+<L>Bothe knyȝte and squiere,</L>
+<L>Mynstrelle and messyngere,</L>
+<L>Pilgreme and palmere,</L>
+<L>Was welcum, I wene.</L>
+<L>Ther was plenty of fode,</L>
+<L>Pore men hade thayre gode,</L>
+<L>Mete and drinke or thay ȝode,</L>
+<L>To wete, wythe-outyn wene;</L>
+<L>The lord lenge wold noȝte,</L>
+<L>Butte come home, qwen him gode thoȝte,</L>
+<L>And bothe he hase with him broȝte</L>
+<L>The kinge and the quene. <NOTE PLACE="marg">A Fitte.</NOTE></L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>NOW ther come fro the kechine</L>
+<L>Rialle seruice and fine,</L>
+<L>Ther was no wonting of wine,</L>
+<L>To lasse ne to mare;</L>
+<L>Thay hade atte thayre sopere,</L>
+<L>Riche metes and dere,</L>
+<L>The king with a blythe chere,</L>
+<L>Bade hom sle care!</L>
+<L>Then sayd the kinge opon hiȝte,</L>
+<L>Alle sqwithe to the knyȝte,</L>
+<L>"Suche a seruice on a nyȝte</L>
+<L>Se I neuyr are!"</L>
+<L>Thenne Bawdewyn smylit, and on him loghe,</L>
+<L>Sayd, "Sir, God hase a gud pluȝe,</L>
+<L>He may send vs alle enughe,</L>
+<L>Qwy schuld we spare?"</L>
+</LG>
+<LG N="50">
+<PB N="82" REF="129"/>
+<HEAD>L.</HEAD>
+<L>"Now I cummawunde thè," quod the king,</L>
+<L>To-morne in the mornyng,</L>
+<L>That thou weynde on huntyng,</L>
+<L>To wynne vs the dere;</L>
+<L>Fare furthe to the fenne,</L>
+<L>Take with thè howundus and men,</L>
+<L>For thou conne hom best kenne,</L>
+<L>Thou knoes best here.</L>
+<L>For alle day to-morne wille I bide,</L>
+<L>And no forthir wille I ride,</L>
+<L>Butte with the ladès of pride,</L>
+<L>To make me gud chere."</L>
+<L>To bed bownut thay that nyȝte,</L>
+<L>And atte the morun atte days liȝte,</L>
+<L>Thay blew hornys opon hiȝte,</L>
+<L>And ferd furthe in fere.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>Thenne the kynge cald his huntere,</L>
+<L>And sayd, "Felaw, come here;"—</L>
+<L>The tother, with a blithe chere,</L>
+<L>Knelet on his kne;</L>
+<L>Dowun to the kinge con he lowte,</L>
+<L>"I commawunde thè to be alle nyȝte oute,</L>
+<L>Bawdewyn, that is sturun and stowte,</L>
+<L>With thè schall he be.</L>
+<L>Erly in the dawyng,</L>
+<L>Loke that ȝe come fro huntyng,</L>
+<L>If ȝe no venesun bring,</L>
+<L>Full litille rechs me!"</L>
+<L>The tother vnsquarut him ther tille,</L>
+<L>Sayd, "Sir, that is atte ȝour aune wille,</L>
+<L>That hald I resun and skille,</L>
+<L>As euyr myȝte I the!"</L>
+</LG>
+<LG N="52">
+<PB N="83" REF="130"/>
+<HEAD>LII.</HEAD>
+<L>And atte euyn the king con him dyȝte,</L>
+<L>And callut to him a knyȝte,</L>
+<L>And to the chambur full riȝte,</L>
+<L>He hiees, gode waye;</L>
+<L>Qwere the lady of the howse,</L>
+<L>And maydyns ful beuteowse,</L>
+<L>Were curtase and curiowse,</L>
+<L>For sothe in bed lay.</L>
+<L>The kyng bede "Vndo;"—</L>
+<L>The lady asshes, "Querto?"—</L>
+<L>He sayd, "I am comun here loe,</L>
+<L>In derne for to play;"</L>
+<L>Ho sayd, "Haue ȝe notte ȝour aune quene here,</L>
+<L>And I my lord to my fere,</L>
+<L>To nyȝte more neȝe ȝe me nere,</L>
+<L>In faythe gif I may!"</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>"Vndo the dur," quod the kinge,</L>
+<L>"For bi him that made alle thinge,</L>
+<L>Thou schalle haue no harmynge,</L>
+<L>Butte in thi none wille!"</L>
+<L>Vppe rose a dameselle squete,</L>
+<L>In the kinge that ho lete,</L>
+<L>He sette him downe on hur beddus fete,</L>
+<L>And talkes so hur tille.</L>
+<L>Sayd, "Medame, my knyȝte</L>
+<L>Mun lye with thè alle nyȝte,</L>
+<L>Til to-morne atte days liȝte,</L>
+<L>Take hit on non ille;</L>
+<L>For als euyr myȝte I the,</L>
+<L>Thou schalle harmeles be,</L>
+<L>We do hit for a wedde-fee,</L>
+<L>The stryue for to stylle."</L>
+</LG>
+<LG N="54">
+<PB N="84" REF="131"/>
+<HEAD>LIV.</HEAD>
+<L>Thenne the kyng sayd to his knyȝte,</L>
+<L>"Sone that thou were vndyȝte,</L>
+<L>And in ȝondur bedde ryȝte,</L>
+<L>Hie thè, gud spede!"</L>
+<L>The knyȝte did as he him bade,</L>
+<L>And qwenne ho se him vnclad,</L>
+<L>Then the lady wex drede,</L>
+<L>Worlyke in wede.</L>
+<L>He sayd, "Lye downe preuely hur by,</L>
+<L>Butte neghe noȝte thou that lady,</L>
+<L>For and thou do, thou schalle dey,</L>
+<L>For thi derfe dede;</L>
+<L>Ne noȝte so hardy thou stur,</L>
+<L>Ne onus turne thè to hur;</L>
+<L>The tother sayd, "Nay, Sur,"</L>
+<L>For him hade he drede.</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>Thenne the kyng asshet a chekkere,</L>
+<L>And cald a damesel dere,</L>
+<L>Downe thay sette hom in fere,</L>
+<L>Opon the bed syde;</L>
+<L>Torches was ther mony liȝte,</L>
+<L>And laumpus brennyng fulle brȝte,</L>
+<L>Butte notte so hardy was that knyȝte,</L>
+<L>His hede onus to hide.</L>
+<L>Butte fro thay be-gan to play,</L>
+<L>Quyle on the morun that hit was day,</L>
+<L>Euyr he lokette as he lay,</L>
+<L>Baudewynne to byde;</L>
+<L>And erly in the dawyng,</L>
+<L>Come thay home from huntyng,</L>
+<L>And hertis conne thay home bring,</L>
+<L>And buckes of pride.</L>
+</LG>
+<LG N="56">
+<PB N="85" REF="132"/>
+<HEAD>LVI.</HEAD>
+<L>Thay toke this venesun fyne,</L>
+<L>And hade hit to kechine,</L>
+<L>The kinge sonde after Bawdewine,</L>
+<L>And bede him cum see;</L>
+<L>To the chaumbur he takes the way,</L>
+<L>He fyndus the king atte his play,</L>
+<L>A knyȝte in his bedde lay,</L>
+<L>With his lady.</L>
+<L>Thenne sayd the king opon hiȝte,</L>
+<L>"To nyȝte myssutte I my knyȝte,</L>
+<L>And hithir folut I him ryȝte,</L>
+<L>Here funden is hee;</L>
+<L>And here I held hom bothe stille,</L>
+<L>For to do hom in thi wille,</L>
+<L>And gif thou take hit now tille ille,</L>
+<L>No selcouthe thinge me."</L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<L>Then the king asshed, "Art thou wrothe?"</L>
+<L>"Nay, Sir," he sayd, "with-outen othe,</L>
+<L>Ne wille the lady no lothe,</L>
+<L>I telle ȝo as quy;</L>
+<L>For hitte was atte hur awen wille,</L>
+<L>Els thurt no mon comun hur tille,</L>
+<L>And gif I take hitte thenne to ille,</L>
+<L>Much maugreue haue Y,</L>
+<L>For mony wyntur to-gedur we haue bene,</L>
+<L>And ȝette ho dyd me neuyr no tene,</L>
+<L>And iche syn schalle be sene,</L>
+<L>And sette fulle sorely;"</L>
+<L>The king sayd, "And I hade thoȝte,</L>
+<L>Quy that thou wrathis thè noȝte,</L>
+<L>And fyndus him in bed broȝte,</L>
+<L>By thi laydy?"</L>
+</LG>
+<LG N="58">
+<PB N="86" REF="133"/>
+<HEAD>LVIII.</HEAD>
+<L>Quod Bawdewyn, "And ȝe wille sitte,</L>
+<L>I schalle do ȝo wele to witte;"—</L>
+<L>"ȝisse," quod the king, "I thè hete,</L>
+<L>And thou wille noȝte layne."—</L>
+<L>"Hit be-felle in ȝour fadur tyme,</L>
+<L>That was the kyng of Costantyne,</L>
+<L>Puruayed a grete oste and a fyne,</L>
+<L>And wente in-to Spayne.</L>
+<L>We werrut on a Sawdan,</L>
+<L>And alle his londus we wan,</L>
+<L>And him seluun, or we blan,</L>
+<L>Then were we fulle fayn;</L>
+<L>I wos so lufd with the king,</L>
+<L>He gafe me to my leding,</L>
+<L>Lordus atte my bidding,</L>
+<L>Was buxum and bayne.</L>
+</LG>
+<LG N="59">
+<HEAD>LIX.</HEAD>
+<L>He gafe me a castelle to gete,</L>
+<L>With alle the lordschippus grete,</L>
+<L>I hade men atte my mete,</L>
+<L>Fyue hundrythe and mo;</L>
+<L>And no wemen butte thre,</L>
+<L>That owre seruandis schild be;</L>
+<L>One was bryȝtur of ble</L>
+<L>Then ther othir toe,</L>
+<L>Toe were atte one assente,</L>
+<L>The thrid felow haue thay hente,</L>
+<L>Vnto a welle ar thay wente,</L>
+<L>And says hur alleso;</L>
+<L>"Sithin alle the loce in thè lise,</L>
+<L>Thou schalle tyne thine aprise;"</L>
+<L>And wurchun as the vnwise,</L>
+<L>And tite conne hur sloe.</L>
+</LG>
+<LG N="60">
+<PB N="87" REF="134"/>
+<HEAD>LX.</HEAD>
+<L>And for tho werkes were we wo,</L>
+<L>Gart threte tho othir for to slo,</L>
+<L>Thenne sayd the tone of tho,</L>
+<L>"Lette vs haue oure life;</L>
+<L>And we schalle atte ȝour bidding be,</L>
+<L>As myculle as we alle thre;—</L>
+<L>Is none of ȝaw in preuetè</L>
+<L>Schalle haue wontyng of wyfe."</L>
+<L>Thay held vs wele that thay heȝte,</L>
+<L>And diȝte vs on the day liȝte,</L>
+<L>And thayre body vche nyȝte,</L>
+<L>With-outun any stryue;</L>
+<L>The tone was more louely,</L>
+<L>That the tother hade enuy,</L>
+<L>Hur throte in sundur preuely,</L>
+<L>Ho cutte hitte with a knyfe.</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<L>Muche besenes hade we,</L>
+<L>How that best myȝte be,</L>
+<L>Thay asshed cowuncelle atte me,</L>
+<L>To do hur to dede;</L>
+<L>And I vnsquarut, and sayd, "Nay,</L>
+<L>Loke furst qwatt hur seluun wille say,</L>
+<L>Quether ho may serue vs alle to pay,</L>
+<L>That is a bettur rede.</L>
+<L>Ther ho hette vs in ther halle,</L>
+<L>To do alle that a woman schild falle,</L>
+<L>Wele for to serue vs alle,</L>
+<L>That stode in that stede;</L>
+<L>Ho held vs wele that ho heȝte,</L>
+<L>And diȝte vs on the day liȝte,</L>
+<L>And hur body iche nyȝte,</L>
+<L>In tille oure bed beed.</L>
+</LG>
+<LG N="62">
+<PB N="88" REF="135"/>
+<HEAD>LXII.</HEAD>
+<L>And bi this tale I vndurstode,</L>
+<L>Wemen that is of mylde mode,</L>
+<L>And syne giffes hom to gode,</L>
+<L>Meculle may ho mende;</L>
+<L>And tho that giffus hom to the ille,</L>
+<L>And sithin thayre folìs wille fullfille,</L>
+<L>I telle ȝo wele, be propur skille,</L>
+<L>No luffe wille inne hom lenge.</L>
+<L>With gode wille grathely hom gete,</L>
+<L>Meke and mylde atte her mete,</L>
+<L>Thryuandly with-outun threte,</L>
+<L>And joy atte iche ende;</L>
+<L>Forthi jelius schalle I neuer be,</L>
+<L>For no siȝte that I see,</L>
+<L>Ne no biurdes briȝte of ble,</L>
+<L>Iche ertheli thinke hase ende!"</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII.</HEAD>
+<L>The king sayd, "Thou says wele,—</L>
+<L>"Sir," he sayd, "as haue I sele,</L>
+<L>I wille thou wote hit iche dele,</L>
+<L>Therefore come Y;</L>
+<L>Thi lady gret me to squere squyftelè,</L>
+<L>Or I myȝte gete entrè,</L>
+<L>That ho schuld harmelès be,</L>
+<L>And alle hur cumpany.</L>
+<L>Then gerut I my knyȝte,</L>
+<L>To go in bed with the biurde bryȝte,</L>
+<L>On the fur syde of the liȝte,</L>
+<L>And lay hur dowun by;</L>
+<L>I sette me doune hom besyde,</L>
+<L>Here thè for to a-bide,</L>
+<L>He neȝhit neuyr no naked syde</L>
+<L>Of thi lady.</L>
+</LG>
+<LG N="64">
+<PB N="89" REF="136"/>
+<HEAD>LXIV.</HEAD>
+<L>For-thi of jelusnes be thou bold,</L>
+<L>Thine a-vow may thou hold,</L>
+<L>Butte of tho othir thinges that thou me told,</L>
+<L>I wold wete more;</L>
+<L>Quy thou dredus notte thi dede,</L>
+<L>Ne non that bitus on thi brede,</L>
+<L>As euyr brok I my hede,</L>
+<L>Thi ȝatis ar euyr ȝare!"</L>
+<L>Quod Bawdewyn, "I schalle ȝo telle;</L>
+<L>Atte the same castelle,</L>
+<L>Quere this antur befelle,</L>
+<L>Be-segitte we ware;</L>
+<L>On a day we vsshet oute,</L>
+<L>And toke presonerus stoute,</L>
+<L>The tone of owre foloys had doute,</L>
+<L>And durst notte furthe fare.</L>
+</LG>
+<LG N="65">
+<HEAD>LXV.</HEAD>
+<L>The caytef crope in-to a tunne,</L>
+<L>That was sette ther owte in the sunne,</L>
+<L>And there come fliand a gunne,</L>
+<L>And lemet as the leuyn;</L>
+<L>Lyȝte opon hitte atte the last,</L>
+<L>That was fastnut so fast,</L>
+<L>Alle in sundur hit brast,</L>
+<L>In six or in seuyn.</L>
+<L>And there hit sluȝe him als,</L>
+<L>And his hert was so fals,</L>
+<L>Sone the hed fro the hals,</L>
+<L>Hit lyputt fulle euyn!</L>
+<L>And we come fro the feȝting,</L>
+<L>Sowunde with-outun hurting,</L>
+<L>And then we louyd the king</L>
+<L>That heghehest was in heuyn;</L>
+</LG>
+<LG N="66">
+<PB N="90" REF="137"/>
+<HEAD>LXVI.</HEAD>
+<L>Then owre feloys con say,</L>
+<L>Schalle nomon dee or his day,</L>
+<L>Butte he cast him selfe a-way,</L>
+<L>Throȝhe wontyng of witte;</L>
+<L>And there myne a-vow made I,</L>
+<L>So dyd alle that cumpany,</L>
+<L>For dede neuyr to be drery,</L>
+<L>Welcum is hit.</L>
+<L>Hit is a kyndely thing."—</L>
+<L>"Thou says sothe," quod the king,</L>
+<L>"Butte of thi thryd a-vowyng,</L>
+<L>Telle me quyche is hit?</L>
+<L>Quy thi mete thou wille notte warne,</L>
+<L>To no leuand barne?</L>
+<L>Ther is no man that may hit tharne;"—</L>
+<L>"Lord, ȝe schalle wele wete.</L>
+</LG>
+<LG N="67">
+<HEAD>LXVII.</HEAD>
+<L>For the sege a-boute vs lay stille,</L>
+<L>We hade notte alle atte oure wille,</L>
+<L>Mete and drinke vs to fille,</L>
+<L>Vs wontutte the fode;</L>
+<L>So come a messyngere,</L>
+<L>Bade, "ȝild vppe alle that is here,"</L>
+<L>And speke with a sturun schere,—</L>
+<L>I nyll, by the rode!</L>
+<L>I gerutte him bide to none,</L>
+<L>Callud the stuard sone,</L>
+<L>Told him alle as he schuld done,</L>
+<L>As counselle is gud;</L>
+<L>Gerutte trumpe on the walle,</L>
+<L>And couerd burdes in the halle,</L>
+<L>And I my-self emunge hom alle,</L>
+<L>As a king stode.</L>
+</LG>
+<LG N="68">
+<PB N="91" REF="138"/>
+<HEAD>LXVIII.</HEAD>
+<L>I gerut hom wasshe, to mete wente,</L>
+<L>Aftur the stuard then I sente,</L>
+<L>I bede that he schuld take entente,</L>
+<L>That alle schuld welle fare;</L>
+<L>Bede bringe bred plentè,</L>
+<L>And wine in bollus of tre,</L>
+<L>That no wontyng schuld be,</L>
+<L>To lasse ne to mare.</L>
+<L>We hade no mete, butte for on day</L>
+<L>Hit come in a nobulle aray,</L>
+<L>The messyngere lokit ay,</L>
+<L>And se hom sle care;</L>
+<L>He toke his leue atte me[te];</L>
+<L>We gerutte him drinke atte the ȝate,</L>
+<L>And gafe him giftus grete,</L>
+<L>And furthe con he fare.</L>
+</LG>
+<LG N="69">
+<HEAD>LXIX.</HEAD>
+<L>But quen the messyngere was gone,</L>
+<L>These officers ichone,</L>
+<L>To me made thay grete mone,</L>
+<L>And drerely con say;</L>
+<L>Sayd, "In this howse is no bred,</L>
+<L>No quyte wine nyf red,</L>
+<L>ȝo be-houes ȝild vppe this stid,</L>
+<L>And for oure lyuys pray."</L>
+<L>ȝette God helpus ay his man,</L>
+<L>The messyngere come a-gayn than,</L>
+<L>With-oute to the cheuytan,</L>
+<L>And sone conne he say;</L>
+<L>"Thoȝhe ȝe sege this seuyn ȝere,</L>
+<L>Castelle gete ȝe none here,</L>
+<L>For thay make als mirry chere,</L>
+<L>Als hit were ȝole day!"</L>
+</LG>
+<LG N="70">
+<PB N="92" REF="139"/>
+<HEAD>LXX.</HEAD>
+<L>Then the messyngere con say,</L>
+<L>"I rede ȝo, hie ȝo hethinne a-way,</L>
+<L>For in ȝour oste is no play,</L>
+<L>Butte hongur and thurst;"</L>
+<L>Thenne the king con his knyȝtis calle,</L>
+<L>Sethinne to cowunselle wente thay alle,</L>
+<L>"Sythinne no bettur may be-falle,</L>
+<L>This hald I the best."</L>
+<L>Euyn atte the mydnyȝte,</L>
+<L>Hor lordis sembelet to a syȝte,</L>
+<L>That were hardy and wiȝte,</L>
+<L>Thay remuyt of hor rest;</L>
+<L>Mete laynes mony lakke,</L>
+<L>And there mete hor sege brake,</L>
+<L>And gerut hom to giffe vs the bake,</L>
+<L>To preke thay were fulle preste!</L>
+</LG>
+<LG N="71">
+<HEAD>LXXI.</HEAD>
+<L>And then we lokit were thay lay,</L>
+<L>And see oure enmeys a-way,</L>
+<L>And then oure felawis con say,</L>
+<L>The lasse and the mare;</L>
+<L>He that gode may gete,</L>
+<L>And wernys men of his mete,</L>
+<L>Gud Gode, that is grete,</L>
+<L>Gif him sory care!</L>
+<L>For the mete of the messyngere,</L>
+<L>Hitte mendutte alle oure chere."</L>
+<L>Then sayd the king, that thay myȝte here,</L>
+<L>And sqwythely con squere,</L>
+<L>"In thè conne we fynde no fabulle,</L>
+<L>Thine a-vowes arne profetabulle;"</L>
+<L>And thus recordus the Rowndetabulle,</L>
+<L>The lasse and the more.</L>
+</LG>
+<LG N="72">
+<PB N="93" REF="140"/>
+<HEAD>LXXII.</HEAD>
+<L>Thenne the kinge and his knyȝtis alle,</L>
+<L>Thay madun myrthe in that halle,</L>
+<L>And then the lady conne thay calle,</L>
+<L>The fayrist to fold;</L>
+<L>Sayde, "Bawdewyn, and thou be wise</L>
+<L>Take thou this lady of price,</L>
+<L>For muche loue in hur lyce</L>
+<L>To thine hert hold:</L>
+<L>Ho is a biurde fulle bryȝte,</L>
+<L>And therto semely to thy siȝte,</L>
+<L>And thou hase holdinne alle that thou hiȝte</L>
+<L>As a kniȝte schulde!"</L>
+<L>Now Jhesu Lord, Heuyn kynge,</L>
+<L>He graunt vs alle his blessynge</L>
+<L>And gife vs alle gode endinge,</L>
+<L>That made vs on the mulde!</L>
+</LG>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

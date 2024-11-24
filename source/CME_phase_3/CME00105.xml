@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-14-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed prose fragment from beginning of text; removed prose fragment from end of text; changed numerous marginal NOTEs to MILESTONEs; changed pars to Verbars; removed incorrect MILESTONEs from NOTEs; moved several misplaced unnumbered NOTEs to HEADs and TRAILERs; added preface DIV2; changed some DIV2s to DIV1s; DIV3s to DIV2s. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00105">
+<STC T="M">105</STC>
+<BIBNO T="mec">CME00105</BIBNO>
+<VID>CME00105</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="6" REF="6"/>
+<HEAD>The tale of the cok, that founde a p<HI REND="italic">re</HI>cyous <MILESTONE N="12r. a." UNIT="fol."/> stone, groundyd by Isopus, the phylosopher of Rome, that yche man shuld take in gree suche, as god sent. <NOTE PLACE="foot"><HI REND="italic">Die Überschrift rot C, dafür</HI> Isopos Fabules <HI REND="italic">L</HI></NOTE></HEAD>
+<LG>
+<L>Wisdom ys more in p<HI REND="italic">r</HI>ise, þen gold in cofers, <MILESTONE N="(1, 1)"/> <NOTE PLACE="foot">1 <HI REND="italic">der Rubrikator hat das ihm klein vorgeschriebene grosse</HI> W <HI REND="italic">hier ebensowenig gesetxt, wie</HI> R <HI REND="italic">V.</HI> 225, B 358 <HI REND="italic">und</HI> T 526 ‖ <HI REND="italic">erstes</HI> in] * of <HI REND="italic">L</HI> ‖ <HI REND="italic">mit V.</HI> 1 <HI REND="italic">und zum Teil mit V.</HI> 3 <HI REND="italic">vgl. Albon</HI> 1, 895 <HI REND="italic">f.</HI> A boke compyled rycher, than gold in coffers, Lyues of poetes and prudent philosophers; <HI REND="italic">Fall of Princes fol.</HI> 95 <HI REND="italic">v. a. oben</HI> This knot auayleth more, than gold in cofre, And is more glorious perpetually to abyde: A mighty prince to be a philosopher <HI REND="italic">u. s. w.;</HI> 106 <HI REND="italic">r. a. unten</HI> These old clerkes, these two philosophers, Were in tho dayes for doctrine souerayne Called in thys world the rich precious cofers; <HI REND="italic">Minor Poems</HI> 185 Thre grete wysdoms . . . More of walewe . . ., Than al the golde, that is shet in thi cofre</NOTE></L>
+<L>To he<HI REND="italic">m,</HI> þ<HI REND="italic">a</HI>t haue sauo<HI REND="italic">ur</HI> in lettrure.</L>
+<L>Olde examples of prudent philosophers</L>
+<L>Moche auaylyd to folke, þ<HI REND="italic">a</HI>t dyd her cure <NOTE PLACE="foot">4 *availith <HI REND="italic">L</HI> ‖ that <HI REND="italic">bezieht sich auf</HI> philosophers, <HI REND="italic">nicht etwa auf</HI> folke ‖ dyd] don <HI REND="italic">L</HI></NOTE></L>
+<L>To serche out lykenes in nature, <MILESTONE N="5"/> <NOTE PLACE="foot">5 in] of <HI REND="italic">L</HI></NOTE></L>
+<L>In whyche men myght conceue <HI REND="italic">and</HI> clerely see</L>
+<L>Notable sentence of gret moralyte. <NOTE PLACE="foot">7 sentences <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Vnto purpos þe poete laureate <NOTE PLACE="foot">8 Vnto my pur∣pos this <HI REND="italic">L</HI></NOTE></L>
+<L>Callyd Isopus dyd hy<HI REND="italic">m</HI> occupy <NOTE PLACE="foot">9 *hym so occupy <HI REND="italic">L</HI></NOTE></L>
+<L>Whylom in Rome to plese þe senate, <MILESTONE N="10"/></L>
+<L>Fonde out fables, þ<HI REND="italic">a</HI>t men myght he<HI REND="italic">m</HI> apply</L>
+<L>To sondry matyrs, yche man for hys party, <NOTE PLACE="foot">12 that echman in his party <HI REND="italic">L</HI></NOTE></L>
+<L>Aftyr þeyr lust, to conclude in substaunce,</L>
+<L>Dyu<HI REND="italic">er</HI>se moralytees set out to þeyr plesaunce.</L>
+</LG>
+<LG>
+<L>Som of foules, of best<HI REND="italic">ys</HI> and of fyssh, <MILESTONE N="15"/> <NOTE PLACE="foot">15 of bestis of foulis <HI REND="italic">L</HI> ‖ <HI REND="italic">ich löse die Schleife in C durch</HI> ys <HI REND="italic">und nicht</HI> is <HI REND="italic">auf wegen der Schreibung in V.</HI> 26. 27. 75. 84. 195. 196. 312. 337 <HI REND="italic">u. s. w.</HI></NOTE></L>
+<L>Thys Isopus founde out exsa<HI REND="italic">m</HI>ple pleyne. <NOTE PLACE="foot">16 *examples <HI REND="italic">L.</HI></NOTE></L>
+<L>Where sylu<HI REND="italic">er</HI> fayleþ, in a pewt<HI REND="italic">er</HI> dyssh</L>
+<L>Ryall dentees byn oft tymes seyne,</L>
+<L>And semblably poetes, in certeyne, <NOTE PLACE="foot">19 thus poyetes certayne <HI REND="italic">L.</HI></NOTE></L>
+<L><PB N="7" REF="7"/>
+In fables rude includyd gret prudence <MILESTONE N="20"/></L>
+<L>And moralytees full notable of sentence.</L>
+</LG>
+<LG>
+<L>Vnder blak erþe byn p<HI REND="italic">re</HI>cious stones founde,</L>
+<L>Ryche saphyres <HI REND="italic">and</HI> charbuncles full ryall, <NOTE PLACE="foot">23 charbuncles] *rubyes <HI REND="italic">L (vgl. Edmund</HI> 1, 977 The ruby, kyng of stonys alle; <HI REND="italic">Albon</HI> 1, 298 Amonge stones the ruby is moost shene; 3, 1182 Lyke to rubies most souerayne of renowne)</NOTE></L>
+<L>And, who þ<HI REND="italic">a</HI>t myneþ downe lowe in þe grounde, <NOTE PLACE="foot">24 <HI REND="italic">die Interpunktion bei Sauerstein (Komma erst hinter</HI> who) <HI REND="italic">ist wohl nur ein Druckfehler</HI> ‖ downe <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>Of gold <HI REND="italic">and</HI> sylu<HI REND="italic">er</HI> groweþ þe mynerall; <MILESTONE N="25"/> <NOTE PLACE="foot">25 groweþ] *fyndith <HI REND="italic">L</HI> ‖ <HI REND="italic">Sauerstein hat hinter V.</HI> 25 <HI REND="italic">keine Inter∣punktion, dagegen hinter V.</HI> 26 <HI REND="italic">ein Komma</HI></NOTE></L>
+<L>Perlys whyte, clere <HI REND="italic">and</HI> orientall</L>
+<L>Ben oft founde in muscle shellys blake,</L>
+<L>And out of fables gret wysdom men may take. <NOTE PLACE="foot">28 And] So <HI REND="italic">L</HI> ‖ wysdoms <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>For whyche I cast to folow þys poete <MILESTONE N="12r. b."/></L>
+<L>And hys fables in englyssh to translate, <MILESTONE N="30"/></L>
+<L>And, þough I haue no rethoryk swete, <NOTE PLACE="foot">31 And þough] Although <HI REND="italic">L, das Sauerstein, indem er nach V.</HI> 31 <HI REND="italic">einen Strichpunkt setzt, zum Vorhergehenden zieht</HI> ‖ <HI REND="italic">Vgl. Fall of Princes A</HI> III <HI REND="italic">v. a.</HI> To set a part all rethorikes swete</NOTE></L>
+<L>Haue me excusyd: I was born in Lydgate; <NOTE PLACE="foot">32 <HI REND="italic">Vgl. Daunce of Machabree (Len∣voye)</HI> Haue me excused: my name is John Lidgate; Rude of langage I was not borne in France</NOTE></L>
+<L>Of Tullius gardeyn I passyd nat þe gate, <NOTE PLACE="foot">33 <HI REND="italic">Cäsur hinter</HI> gardeyn <HI REND="italic">durch einen Punkt bezeichnet C; ebenso</HI> 59 <HI REND="italic">h.</HI> haþe, 126 <HI REND="italic">h.</HI> arestyd, 203 <HI REND="italic">h.</HI> werst, 469 <HI REND="italic">h.</HI> fayle, 495 <HI REND="italic">h.</HI> frosshe ‖ passyd] entrid <HI REND="italic">L</HI> ‖ <HI REND="italic">Vgl. Lydgates Guy</HI> 74, 5 In Tullius gardyn he gadrid neuer flour; <HI REND="italic">Edmund</HI> 1, 832 In Tullius gardeyn I gadrid neuer floures</NOTE></L>
+<L>And cause, why: I had no lycence</L>
+<L>There to gadyr floures of elloquence. <MILESTONE N="35"/></L>
+</LG>
+<LG>
+<L>Yet, as I can, forþe I woll procede <NOTE PLACE="foot">36 Yet as] Than <HI REND="italic">L</HI></NOTE></L>
+<L>In þys labo<HI REND="italic">ur and</HI> my style dresse <NOTE PLACE="foot">37 and] I wil <HI REND="italic">L</HI> ‖ <HI REND="italic">Mit</HI> my style dresse <HI REND="italic">vgl. Edmund</HI> 1, 204 <HI REND="italic">ff.</HI> And, blissid martir, my stile do so dresse . . ., That I nat erre in my translacioun <HI REND="italic">(vgl. V.</HI> 44)</NOTE></L>
+<L>To do plesaunce to þey<HI REND="italic">m,</HI> þ<HI REND="italic">a</HI>t shall hit rede,</L>
+<L>Requiryng he<HI REND="italic">m</HI> of v<HI REND="italic">er</HI>rey gentylnes, <NOTE PLACE="foot">39 gentillesse <HI REND="italic">L</HI></NOTE></L>
+<L>Of her grace to rewe on my rudenes, <MILESTONE N="40"/> <NOTE PLACE="foot">40 rewe on] pardon <HI REND="italic">L (vgl. mit der Lesart von C Minor Poems</HI> 22 O noble meyer, be it unto your plesaunce . . . On my rudnesse and on myne ignorance Of grace and mercy for to have pitee; <HI REND="italic">Albon</HI> 2, 1979 <HI REND="italic">ff.</HI> To haue compassyon, If ought be sayde in this translation Through ignorance . . ., and rewe on my symplenes)</NOTE></L>
+<L>Thys co<HI REND="italic">m</HI>pilacion for to take at gree,</L>
+<L>Whyche they<HI REND="italic">m</HI> to plese translatyd was by me.</L>
+</LG>
+<LG>
+<L>And, yef I fall bycause of ignoraunce, <NOTE PLACE="foot">43 fall] *faile <HI REND="italic">L.</HI></NOTE></L>
+<L>That I erre in my translacion,</L>
+<L><PB N="8" REF="8"/>
+Lowly of hert <HI REND="italic">and</HI> feyþfull obeysaunce <MILESTONE N="45"/></L>
+<L>I me submyt to þeyr correccion, <NOTE PLACE="foot">46 <HI REND="italic">obgleich auch L</HI> their <HI REND="italic">hat, ist wohl</HI> þe <HI REND="italic">zu schreiben (und dann das Komma hinter</HI> 46 <HI REND="italic">zu streichen)</HI></NOTE></L>
+<L>Of hem, þ<HI REND="italic">a</HI>t haue more clere inspeccion <NOTE PLACE="foot">47 Of] To <HI REND="italic">L</HI> 49 Me] And <HI REND="italic">L</HI> ‖ they me nat <HI REND="italic">L</HI></NOTE></L>
+<L>In matyrs, þ<HI REND="italic">a</HI>t touche poetry,</L>
+<L>Me to reforme þ<HI REND="italic">a</HI>t þey nat deny.</L>
+</LG>
+<LG>
+<L>And, as myn auctor doþe at þe cok begyn, <MILESTONE N="50"/> <NOTE PLACE="foot">50 doþe <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>I cast me to folow hy<HI REND="italic">m</HI> in substaunce,</L>
+<L>Fro þe trouþe in sentence nat to twyn,</L>
+<L>As god <HI REND="italic">and</HI> grace woll yeue me suffysaunce,</L>
+<L>Co<HI REND="italic">m</HI>pyle þys lybell for a reme<HI REND="italic">m</HI>braunce: <NOTE PLACE="foot">54 lybell] qwayer <HI REND="italic">L</HI> ‖ <HI REND="italic">Sauerstein hat kein Zeichen nach V.</HI> 54 <HI REND="italic">und ein Komma nach</HI> reders <HI REND="italic">V.</HI> 55</NOTE></L>
+<L>To the reders hereaftyr may be founde <MILESTONE N="55"/></L>
+<L>The thanke þ<HI REND="italic">er</HI>of fully to rebounde.</L>
+</LG>
+<LG>
+<L>The cok of kynde haþe a crest rede <MILESTONE N="(2, 1)"/> <NOTE PLACE="foot">57 hath of kynde <HI REND="italic">L</HI></NOTE></L>
+<L>Shape lyke a crowne, token of gret noblesse,</L>
+<L>By whyche he haþe, whyle hit stont on hys hede,</L>
+<L>As clerk<HI REND="italic">ys</HI> seyn, corage <HI REND="italic">and</HI> hardynes, <MILESTONE N="60"/> <NOTE PLACE="foot">60 and] of <HI REND="italic">L</HI></NOTE></L>
+<L>And of hys berde melancolyk felnes: <MILESTONE N="(2, 5)"/></L>
+<L>Aboute hys nek by m<HI REND="italic">er</HI>cyall apparayll <NOTE PLACE="foot">62 *marcial <HI REND="italic">L</HI></NOTE></L>
+<L>Nature haþe yeue hy<HI REND="italic">m</HI> a stately auentayll. <NOTE PLACE="foot">63 a <HI REND="italic">über der Zeile nachgetragen C</HI></NOTE></L>
+</LG>
+<LG>
+<L>Thys hardy foule w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> brest <HI REND="italic">and</HI> voyce so clere <MILESTONE N="12v. a."/> <NOTE PLACE="foot">64 so] ful <HI REND="italic">L</HI></NOTE></L>
+<L>Most trewly kepeþ þe tydes of þe nyght <MILESTONE N="65"/></L>
+<L>Of custom namyd comon astrologere <MILESTONE N="(2, 10)"/> <NOTE PLACE="foot">66 a comvne <HI REND="italic">L (vgl. Minor Poems</HI> 151 Comoun astrologeer, as folk expert weel knowe, To kepe the howrys and tydis of the nyght)</NOTE></L>
+<L>In throwpes smale to make þeyr hert<HI REND="italic">ys</HI> lyght; <NOTE PLACE="foot">67 theyr <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> spores sharpe enarmyd for to fyght</L>
+<L>Lyke a champion iustly doþe attende, <NOTE PLACE="foot">69 Lyke a champion; <HI REND="italic">vgl. Edmund</HI> 3, 398 Lyk a champioun in erthe sent from heuene; <HI REND="italic">Albon</HI> 2,889 Lyke a champion agayn them to warrye; <HI REND="italic">Fall of Princes</HI> 23 <HI REND="italic">v. a. oben</HI> To acquite himselfe like a champion; <HI REND="italic">Albon</HI> 2, 523 He rose vp lyke a stronge champyon ‖ doþe attende] to intende <HI REND="italic">L</HI></NOTE></L>
+<L>As a proud capten, hys broode for to defende; <MILESTONE N="70"/></L>
+</LG>
+<LG>
+<L>Beteþ hys wyng<HI REND="italic">ys,</HI> aforn or he do syng <MILESTONE N="(2, 15)"/> <NOTE PLACE="foot">71 He betyng <HI REND="italic">L</HI></NOTE></L>
+<L>But sluggy hert<HI REND="italic">ys</HI> out of þeyr slepe to wake, <NOTE PLACE="foot">72 But] *Therwith <HI REND="italic">L</HI></NOTE></L>
+<L>When Lucyfer toward þe dawnyng <NOTE PLACE="foot">73 Lucyfer] sulphur <HI REND="italic">L</HI></NOTE></L>
+<L>Lawgheth in þe oryent <HI REND="italic">and</HI> haþe þe west forsake <NOTE PLACE="foot">74 Lawghith in] Lowtith to <HI REND="italic">L</HI> ‖ and] whan he <HI REND="italic">L</HI></NOTE></L>
+<L>To chase awey þe myghty clowdys blake: <MILESTONE N="75"/> <NOTE PLACE="foot">75 þe <HI REND="italic">fehlt L</HI> ‖ *nyghty <HI REND="italic">L.</HI></NOTE></L>
+<L><PB N="9" REF="9"/>
+Towarde Aurora þys foule, who takeþ kepe, <MILESTONE N="(2, 20)"/> <NOTE PLACE="foot">76 <HI REND="italic">vgl. Edm.</HI> 3, 1014 Toward Aurora the martir . . . To hym appered ‖ ho that <HI REND="italic">L</HI></NOTE></L>
+<L>Byddyth folk ayene awake out of þeyr slepe, <NOTE PLACE="foot">77 to wake <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Whos waker callyng þryes tolde in no<HI REND="italic">m</HI>bre <NOTE PLACE="foot">78 Whos waker] Voyce vigour <HI REND="italic">L</HI> ‖ tolde <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> treble laudes youe to þe trinite <NOTE PLACE="foot">79 trebled <HI REND="italic">L</HI></NOTE></L>
+<L>Slouþe auoydyng clepeþ folk out of þ<HI REND="italic">er</HI> slo<HI REND="italic">m</HI>bre <MILESTONE N="80"/> <NOTE PLACE="foot">80 þer <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>(Good hope repeyreth to all, þ<HI REND="italic">a</HI>t heuy bee), <MILESTONE N="(2, 25)"/></L>
+<L>Comforteþ þe seke in hys infirmite, <NOTE PLACE="foot">82 hys] theyr <HI REND="italic">L</HI></NOTE></L>
+<L>Causeþ m<HI REND="italic">er</HI>chaunt<HI REND="italic">ys and</HI> pylgryms to be glad</L>
+<L>The þeuys swerde hyd vndyr þe shad</L>
+</LG>
+<LG>
+<L>Callyd þe p<HI REND="italic">ro</HI>phete of ioy <HI REND="italic">and</HI> all gladnes, <MILESTONE N="85"/> <NOTE PLACE="foot">85 ioy and all] yowre alther <HI REND="italic">L</HI></NOTE></L>
+<L>Embassiato<HI REND="italic">ur</HI> of Phebus fyry lyght, <MILESTONE N="(2, 30)"/></L>
+<L>Whyche put awey by musicall swetnes <NOTE PLACE="foot">87 put <HI REND="italic">C</HI> = puttith <HI REND="italic">L</HI></NOTE></L>
+<L>The vgly blaknes of þe derk nyght; <NOTE PLACE="foot">88 owgel <HI REND="italic">L</HI></NOTE></L>
+<L>For whyche me semeth, me shuld of dew ryght <NOTE PLACE="foot">89 <HI REND="italic">zweites</HI> me] I <HI REND="italic">L</HI></NOTE></L>
+<L>For .iij. causes p<HI REND="italic">re</HI>ferre þys foule among, <MILESTONE N="90"/></L>
+<L>For waker kepyng, for hardynes <HI REND="italic">and</HI> song. <MILESTONE N="(2, 35)"/> <NOTE PLACE="foot">91 and for song <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Thys foule ys waker ayen þe vyce of slouþe, <NOTE PLACE="foot">92 agenst <HI REND="italic">L</HI></NOTE></L>
+<L>In v<HI REND="italic">er</HI>tu strong <HI REND="italic">and</HI> hardy, as a lyon,</L>
+<L>Stable, as a geaunt, opon a grou<HI REND="italic">n</HI>de of trouþe, <NOTE PLACE="foot">94 geaunt] * centre <HI REND="italic">L (vgl. Albon</HI> 2, 935 Euer of one herte, as any centre, stable; <HI REND="italic">Fall of Princes</HI> 106 <HI REND="italic">v. b. unten</HI> In thys pur∣pose, as any centre, stable; <HI REND="italic">Story of Thebes</HI> 364 <HI REND="italic">r. b.</HI> Plein and hool, as a centre <HI REND="italic">[gedruckt</HI> contre], stable) ‖ on <HI REND="italic">L</HI> ‖ <HI REND="italic">vgl. Albon</HI> 2, 898 His sabba∣tons set on grounde of trouthe</NOTE></L>
+<L>Ayene all vyces þe morall champion, <MILESTONE N="95"/> <NOTE PLACE="foot">95 mortal <HI REND="italic">L</HI></NOTE></L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe entewnes of hys melodious soun <MILESTONE N="(2, 40)"/> <NOTE PLACE="foot">96 twnes <HI REND="italic">L</HI></NOTE></L>
+<L>He yeueþ ensample, as he hys voyce doþ reyse, <NOTE PLACE="foot">97 as—reyse] that we oure self shuld ease <HI REND="italic">L</HI></NOTE></L>
+<L>Howe day <HI REND="italic">and</HI> nyght we the lord shall preyse. <NOTE PLACE="foot">98 Howe] That <HI REND="italic">L</HI> ‖ shuld please <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>And, for because hys brest ys strong <HI REND="italic">and</HI> cleere <MILESTONE N="12v. b."/></L>
+<L>And on hys tipto dysposeþ for to syng, <MILESTONE N="100"/> <NOTE PLACE="foot">100 And <HI REND="italic">fehlt L</HI> ‖ typton disposyd <HI REND="italic">L</HI></NOTE></L>
+<L>He ys of poett<HI REND="italic">ys</HI> callyd chaunceleer. <MILESTONE N="(2, 45)"/> <NOTE PLACE="foot">101 He ys of] These <HI REND="italic">L</HI> ‖ callith hym <HI REND="italic">L</HI> ‖ * chauntcliere <HI REND="italic">L (lies</HI> Chauntecleere)</NOTE></L>
+<L>And, as myn aucto<HI REND="italic">ur</HI> reme<HI REND="italic">m</HI>breþ by wrytyng,</L>
+<L>Whylom þys foule in a glad mornyng</L>
+<L>Reioysyd hy<HI REND="italic">m</HI> ayene the son shene <NOTE PLACE="foot">104 <HI REND="italic">vgl. Giles</HI> 159 Dewy droopys ageyn the sonne sheene; <HI REND="italic">Albon</HI> 2, 223 Agayne the son shene</NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all hys flok to walke opon a grene. <MILESTONE N="105"/> <NOTE PLACE="foot">105 folke <HI REND="italic">L</HI> ‖ a] the <HI REND="italic">L.</HI></NOTE></L>
+</LG>
+<LG>
+<PB N="10" REF="10"/>
+<L>He was furst besy for to breke hys faste <MILESTONE N="(2, 50)"/> <NOTE PLACE="foot">106 for <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hys wyues about hy<HI REND="italic">m</HI> eu<HI REND="italic">er</HI>ychone,</L>
+<L>On a small dong hyll to fynde a good repaste</L>
+<L>Gan scrape <HI REND="italic">and</HI> sporne <HI REND="italic">and</HI> fast about gone. <NOTE PLACE="foot">109 to scrape <HI REND="italic">L</HI> ‖ to gon <HI REND="italic">L</HI></NOTE></L>
+<L>Hyd in þe dong hyll he fonde a iacynct stone, <MILESTONE N="110"/></L>
+<L>Yet hys labo<HI REND="italic">ur and</HI> hys besy cure <MILESTONE N="(2, 55)"/> <NOTE PLACE="foot">111 <HI REND="italic">vgl. Guy</HI> 66, 1 She scholde doon hir besy cure; <HI REND="italic">Albon</HI> 1, 766 Of one assent did theyr busy cure; 2, 1820 Do thy busy cure; 3, 707 Of false malyce dyd theyr busy cure; 1204 Dyd his busy cure; <HI REND="italic">p.</HI> 184 With his busy cure</NOTE></L>
+<L>Was for nat elles, but for hys pasture. <NOTE PLACE="foot">112 <HI REND="italic">wegen L s. oben S.</HI> 3</NOTE></L>
+</LG>
+<LG>
+<L>He yaue ensample, whyche gretly may auayle, <NOTE PLACE="foot">113 examples <HI REND="italic">L</HI></NOTE></L>
+<L>As he was oonly taught by nature, <NOTE PLACE="foot">114 taught only <HI REND="italic">L</HI></NOTE></L>
+<L>To auoyde slouþe by dylygent trauayle, <MILESTONE N="115"/></L>
+<L>By honest labo<HI REND="italic">ur</HI> hys lyuelood to procure. <MILESTONE N="(2, 60)"/></L>
+<L>For, who woll þryue, labo<HI REND="italic">ur</HI> must endure; <NOTE PLACE="foot">117 þryue] travaile he <HI REND="italic">L</HI></NOTE></L>
+<L>For idylnes <HI REND="italic">and</HI> froward negligence</L>
+<L>Makeþ sturdy beggars for lak of þeyr dyspence.</L>
+</LG>
+<LG>
+<L>Losengowres, þ<HI REND="italic">a</HI>t fele he<HI REND="italic">m</HI> strong ynough, <MILESTONE N="120"/> <NOTE PLACE="foot">120 hem self <HI REND="italic">L</HI></NOTE></L>
+<L>Whyche haue sauo<HI REND="italic">ur</HI> in slouþe <HI REND="italic">and</HI> slogardy, <MILESTONE N="(2, 65)"/></L>
+<L>Haue leu<HI REND="italic">er</HI> to beg, þen go at þe plough, <NOTE PLACE="foot">122 Had <HI REND="italic">L</HI> ‖ to <HI REND="italic">fehlt L</HI> ‖ at þe] to <HI REND="italic">L</HI></NOTE></L>
+<L>Dyche or delue þey<HI REND="italic">m</HI>sylf to occupy. <NOTE PLACE="foot">123 Dygge <HI REND="italic">L</HI> ‖ than hem self o. <HI REND="italic">L</HI></NOTE></L>
+<L>Thus idylnes causeþ robry <NOTE PLACE="foot">124 al robry <HI REND="italic">L</HI></NOTE></L>
+<L>In vacant pepyll, þ<HI REND="italic">a</HI>t to and fro dyd wende: <MILESTONE N="125"/> <NOTE PLACE="foot">125 vacant] vagabundis <HI REND="italic">L</HI> ‖ * doth <HI REND="italic">L</HI></NOTE></L>
+<L>For þeft arestyd at Tyburn make an ende. <MILESTONE N="(2, 70)"/></L>
+</LG>
+<LG>
+<L>They be no men, but folk<HI REND="italic">ys</HI> bestiall,</L>
+<L>Voyde of reson oonly for lak of grace, <NOTE PLACE="foot">128 Voyded <HI REND="italic">L</HI></NOTE></L>
+<L>Whyche ete <HI REND="italic">and</HI> drynke <HI REND="italic">and</HI> labo<HI REND="italic">ur</HI> nat at all.</L>
+<L>The cok was besy hys lyuelood to purchase <MILESTONE N="130"/></L>
+<L>The long day in many diu<HI REND="italic">er</HI>se plase, <MILESTONE N="(2, 75)"/></L>
+<L>Hym <HI REND="italic">and</HI> hys broode oonly to forstre, in trouþe,</L>
+<L>Suche folke rebukyng, þ<HI REND="italic">a</HI>t lyue in slo<HI REND="italic">m</HI>bre <HI REND="italic">and</HI> slouþe. <NOTE PLACE="foot">133 And suche folke to rebuken <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Vertu gynneþ at occupacion, <MILESTONE N="13r. a."/> <NOTE PLACE="foot">134 begynnyth <HI REND="italic">L</HI></NOTE></L>
+<L>Vyces all p<HI REND="italic">ro</HI>cede of idelnesse, <MILESTONE N="135"/> <NOTE PLACE="foot">135 founders <HI REND="italic">L: Sauerstein hat an das Ende von V.</HI> 135 <HI REND="italic">einen Strichpunkt gesetzt und dann weiter inter∣pungiert</HI> Vnto thefes, founders, and patroun <HI REND="italic">(dahinter Komma); er scheint</HI> founders = <HI REND="italic">'Gründer' im modernsten Sinne genommen zu haben, freilich weiss ich nicht zu raten, wie er sich</HI> patroun <HI REND="italic">zurechtgelegt hat</HI></NOTE></L>
+<L>Vnto þeues foundres <HI REND="italic">and</HI> patron; <MILESTONE N="(2, 80)"/></L>
+<L>Of thryft co<HI REND="italic">m</HI>meþ of v<HI REND="italic">er</HI>tuous besynesse, <NOTE PLACE="foot">137 Of] * As <HI REND="italic">L (vielleicht stand im Original von C</HI> Os)</NOTE></L>
+<L>So of myschyef slouth ys chief maistresse: <NOTE PLACE="foot">138 myschief of <HI REND="italic">L.</HI></NOTE></L>
+<L><PB N="11" REF="11"/>
+Thys ydelnes causeþ folk in dede <NOTE PLACE="foot">139 Thys = Thus <HI REND="italic">L</HI></NOTE></L>
+<L>To waste þeyr dayes in myschief <HI REND="italic">and</HI> in nede. <MILESTONE N="140"/></L>
+</LG>
+<LG>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> scrapyng, spornyng all þe long day <MILESTONE N="(2, 85)"/> <NOTE PLACE="foot">141 and spornyng <HI REND="italic">L</HI></NOTE></L>
+<L>The cok was besy hy<HI REND="italic">m and</HI> hys broode to fede,</L>
+<L>Founde a iacyncte, whyche in þe dong hyll lay,</L>
+<L>A ryche stone <HI REND="italic">and</HI> a p<HI REND="italic">re</HI>cious, as I rede; <NOTE PLACE="foot">144 as I rede] in dede <HI REND="italic">L (vgl. die nächste Zeile in L)</HI></NOTE></L>
+<L>Of whyche stone when þe cok toke hede, <MILESTONE N="145"/> <NOTE PLACE="foot">145 As I rede of <HI REND="italic">L</HI> ‖ þe cok] he <HI REND="italic">L</HI></NOTE></L>
+<L>Stynt awhyle, sodenly abrayde, <MILESTONE N="(2, 90)"/> <NOTE PLACE="foot">146 til sodainly at abrayde <HI REND="italic">L; vgl. Edmund</HI> 2, 468 <HI REND="italic">f.</HI> He gan abraide In fel lan∣gage, and thus to him he saide; 3, 594 <HI REND="italic">f.</HI> Dide sodenly abrayde, And unto Oswy euene thus it sayde; 965 <HI REND="italic">f.</HI> The martir gan abraide, And to his chapleyn euene thus he saide; 1084 <HI REND="italic">f.</HI> Sodenly abrayde, To his freendis euene thus he sayde <HI REND="italic">u. s. w.</HI></NOTE></L>
+<L>And to þe ston euyn þus he sayde: <NOTE PLACE="foot">147 And to] Vnto <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>'Who þ<HI REND="italic">a</HI>t knew þy nature <HI REND="italic">and</HI> þy kynde, <NOTE PLACE="foot">148 <HI REND="italic">erstes</HI> þy] the <HI REND="italic">L</HI> ‖ and] of <HI REND="italic">L</HI></NOTE></L>
+<L>All þe p<HI REND="italic">ro</HI>purtees, whyche of the be tolde, <NOTE PLACE="foot">149 And al thy <HI REND="italic">L</HI></NOTE></L>
+<L>A ieweller, yef he þe myght fynde, <MILESTONE N="150"/> <NOTE PLACE="foot">150 if that he myght the <HI REND="italic">L</HI></NOTE></L>
+<L>Wolde for þy v<HI REND="italic">er</HI>tues close þe in golde. <MILESTONE N="(2, 95)"/></L>
+<L>Euax to the yeueþ p<HI REND="italic">r</HI>aysyng manyfolde, <NOTE PLACE="marg">Euax rex Arabu<HI REND="italic">m</HI></NOTE> <NOTE PLACE="foot">152 <HI REND="italic">die in C rot geschriebene Randbemerkung fehlt L</HI> ‖ he yevith <HI REND="italic">L</HI></NOTE></L>
+<L>Whos lapydary bereþ opynly wytnesse, <NOTE PLACE="foot">153 His <HI REND="italic">L</HI></NOTE></L>
+<L>Geyn sorow <HI REND="italic">and</HI> wo þ<HI REND="italic">o</HI>u bryngest in gladnesse. <NOTE PLACE="foot">154 Agaynst <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>The best iacyncte in Ethiope ys founde <MILESTONE N="155"/></L>
+<L>And ys of colo<HI REND="italic">ur</HI> lyke þe saphyre ynde, <MILESTONE N="(2, 100)"/></L>
+<L>Co<HI REND="italic">m</HI>forteþ men, þ<HI REND="italic">a</HI>t ly in p<HI REND="italic">r</HI>ison bounde,</L>
+<L>Makeþ men strong <HI REND="italic">and</HI> hardy of hys kynde, <NOTE PLACE="foot">158 hys] * theyr <HI REND="italic">L</HI></NOTE></L>
+<L>Contract synewes þe iacyncte doþ vnbynde:</L>
+<L>Yet for all þy v<HI REND="italic">er</HI>tuous excellence <MILESTONE N="160"/></L>
+<L>Twene þe <HI REND="italic">and</HI> me ys no conuenience. <MILESTONE N="(2, 105)"/> <NOTE PLACE="foot">161 Bitwene <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>For me þ<HI REND="italic">o</HI>u shalt in þys place abyde,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> the I haue lyght or nought to done. <NOTE PLACE="foot">163 litel <HI REND="italic">L</HI></NOTE></L>
+<L>Late þese m<HI REND="italic">er</HI>chant<HI REND="italic">ys,</HI> þ<HI REND="italic">a</HI>t go so ferr <HI REND="italic">and</HI> ryde,</L>
+<L>Trete of þy valew, wheþ<HI REND="italic">er</HI> hit be late or sone, <MILESTONE N="165"/></L>
+<L>Deme, how þe cherle came furst in þe mone: <MILESTONE N="(2, 110)"/> <NOTE PLACE="foot">166 Late hem deme <HI REND="italic">L</HI></NOTE></L>
+<L>Of suche mysteryes I take but lytell hede; <NOTE PLACE="foot">167 mysterie I can take <HI REND="italic">L</HI> ‖ kepe <HI REND="italic">L</HI></NOTE></L>
+<L>Me lyst nat hewe chyppes aboue myn hede. <NOTE PLACE="foot">168 to hewe <HI REND="italic">L</HI> ‖ ouer <HI REND="italic">L (vgl. Edmund</HI> 3, 5 <HI REND="italic">ff.</HI> And I am ferful aboue myn hed to hewe, Lyst fro∣ward chippis of presumcioun Sholde blynde myn eyen in ther fallyng doun).</NOTE></L>
+</LG>
+<LG>
+<PB N="12" REF="12"/>
+<L>Precyous stones longen to iewellers <MILESTONE N="13r. b."/></L>
+<L>And to p<HI REND="italic">r</HI>inces, when þey lyst wel be seyn: <MILESTONE N="170"/> <NOTE PLACE="foot">170 wel] to <HI REND="italic">L</HI></NOTE></L>
+<L>To me more deynte in bernes or garn<HI REND="italic">er</HI>s <MILESTONE N="(2, 115)"/> <NOTE PLACE="foot">171 is in <HI REND="italic">L</HI> ‖ or in <HI REND="italic">L</HI></NOTE></L>
+<L>A lytell rewarde of corn or good greyn. <NOTE PLACE="foot">172 or of <HI REND="italic">L</HI> ‖ <HI REND="italic">Sauerstein hat hinter diesem Verse keine Interpunktion, dafür aber einen Strichpunkt hinter</HI> To take <HI REND="italic">in V.</HI> 173, <HI REND="italic">das aber ohne Zweifel zum Folgenden gehört</HI></NOTE></L>
+<L>To take þys stone to me hit were but veyn:</L>
+<L>Set more store (I haue hit of nature) <NOTE PLACE="foot">174 * I set <HI REND="italic">L</HI> ‖ of] by <HI REND="italic">L</HI></NOTE></L>
+<L>Among rude chaffe to shrape for my pasture. <MILESTONE N="175"/></L>
+</LG>
+<LG>
+<L>Lyke as folk<HI REND="italic">ys</HI> of relyk<HI REND="italic">ys</HI> haue deynte, <MILESTONE N="(2, 120)"/></L>
+<L>Theron þey set a valew or a pryce, <NOTE PLACE="foot">177 And theron set <HI REND="italic">L</HI></NOTE></L>
+<L>Hygh maters p<HI REND="italic">ro</HI>founde <HI REND="italic">and</HI> secrete <NOTE PLACE="foot">178 Hygh] Like as <HI REND="italic">L (aus V.</HI> 176) ‖ * secre <HI REND="italic">L (die überlieferten Texte bieten öfter</HI> secret <HI REND="italic">für das vom Reim ver∣langte</HI> secre: <HI REND="italic">Minor Poems</HI> 165 Tunge spreynt withe sugre, the galle kept secret [: the = <HI REND="italic">ae.</HI> þêon]; <HI REND="italic">Albon</HI> 3, 1272 Theyr trouble and rumour was not kept secrete [: aduersite, citie])</NOTE></L>
+<L>Ne shuld nat w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>out gret auyce <NOTE PLACE="foot">179 Ne] None <HI REND="italic">L</HI></NOTE></L>
+<L>Be shewyd in opyn to hem, þ<HI REND="italic">a</HI>t be nat wyse; <MILESTONE N="180"/></L>
+<L>For, as a wyseman in wysdo<HI REND="italic">m</HI> haþe delyte, <MILESTONE N="(2, 125)"/></L>
+<L>Ryght so a foole of doct<HI REND="italic">r</HI>ine haþe dyspyte.</L>
+</LG>
+<LG>
+<L>Golde <HI REND="italic">and</HI> stones be for a kyng<HI REND="italic">ys</HI> hede,</L>
+<L>Stele ys tryed for plat<HI REND="italic">ys</HI> in armure, <NOTE PLACE="foot">184 in] * and <HI REND="italic">L</HI></NOTE></L>
+<L>To couer churches couenable ys lede, <MILESTONE N="185"/></L>
+<L>Brasse for belles, iren long to endure <MILESTONE N="(2, 130)"/> <NOTE PLACE="foot">186 long] strong <HI REND="italic">L</HI></NOTE></L>
+<L>(Thus eu<HI REND="italic">er</HI>y þyng foloweþ hys nature),</L>
+<L>Pryncys to reygne, knyght<HI REND="italic">ys</HI> for batayll,</L>
+<L>Plowmen for tylþe, shypmen forto sayll. <NOTE PLACE="foot">189 <HI REND="italic">Cäsur hinter</HI> tylþe <HI REND="italic">durch einen Strich angedeutet C; ebenso</HI> 272 <HI REND="italic">hinter</HI> be, 276 <HI REND="italic">hinter</HI> here, 278 <HI REND="italic">hinter</HI> youres, 501 <HI REND="italic">hinter</HI> esca∣pyd ‖ shippes <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>The hert desyreþ to drynke of crystall welles, <MILESTONE N="190"/> <NOTE PLACE="foot">190 <HI REND="italic">Ps.</HI> 41, 1 Quemadmodum desiderat ceruus ad fontes aquarum</NOTE></L>
+<L>The swan to swy<HI REND="italic">m</HI>me in large brood riu<HI REND="italic">er</HI>es, <MILESTONE N="(2, 135)"/> <NOTE PLACE="foot">191 desirith to <HI REND="italic">L</HI> ‖ brood <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>The gentyll faucon w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gesse <HI REND="italic">and</HI> ryche belles <NOTE PLACE="foot">192 iessis <HI REND="italic">L</HI></NOTE></L>
+<L>To cache hys pray lyke to hys desyres, <NOTE PLACE="foot">193 lyke to hys desyres <HI REND="italic">'nach Wunsch'; vgl.</HI> 200 Lyke hys opinion; <HI REND="italic">Albon</HI> 2, 720 To serue hym duely lyke my profession; 1428 A place assigned lyke theyr opi∣nion; 1598 <HI REND="italic">f.</HI> For to accomplysshe, that we haue begon, Agayn our moste enemy lyke to our entention; 1763. 1800, 1879. 3, 663. 1253; <HI REND="italic">Edmund</HI> 2, 615 <HI REND="italic">u. s. w.</HI></NOTE></L>
+<L>I w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> my brode to scrape afore garn<HI REND="italic">er</HI>es: <NOTE PLACE="foot">194 And I <HI REND="italic">L</HI> ‖ afore] in corn <HI REND="italic">L</HI></NOTE></L>
+<L>P<HI REND="italic">re</HI>cious stonys noþyng app<HI REND="italic">er</HI>teyne <MILESTONE N="195"/> <NOTE PLACE="foot">195 doth appartene <HI REND="italic">L</HI></NOTE></L>
+<L>To gese nor fovlys, þ<HI REND="italic">a</HI>t pasture on þe grene. <MILESTONE N="(2, 140)"/> <NOTE PLACE="foot">196 To gees ne ganders nor <HI REND="italic">L.</HI></NOTE></L>
+</LG>
+<LG>
+<PB N="13" REF="13"/>
+<L>Of þeyr nature as folke byn dysposyd, <NOTE PLACE="foot">197 folkes <HI REND="italic">L</HI></NOTE></L>
+<L>Diu<HI REND="italic">er</HI>sely þey make eleccion. <NOTE PLACE="foot">198 theyr eleccioun <HI REND="italic">L</HI></NOTE></L>
+<L>Double of v<HI REND="italic">er</HI>tu þe saphyr in gold closyd.</L>
+<L>Yche man cheseþ lyke hys opinion: <MILESTONE N="200"/></L>
+<L>On cheseþ þe best of wysdom <HI REND="italic">and</HI> reson, <MILESTONE N="(2, 145)"/></L>
+<L>And anoþ<HI REND="italic">er</HI> (hys eyen byn so blynde) <NOTE PLACE="foot">202 <HI REND="italic">S. hat keine Klammer und nur am Ende des Verses ein Komma</HI></NOTE></L>
+<L>Cheseþ þe werst, þe best he lyt behynde.' <NOTE PLACE="foot">203 he lyt (= let)] abidith <HI REND="italic">L Das in C rot geschriebene Wort</HI> Lenuoy <HI REND="italic">fehlt L</HI></NOTE></L>
+</LG>
+<DIV2 TYPE="envoy">
+<HEAD>Lenuoy. <MILESTONE N="13v. a."/></HEAD>
+<LG>
+<L>Though þys fabyll be boysters and rurall, <NOTE PLACE="foot">204 bo boystous <HI REND="italic">L (vgl. Albon</HI> 2, 469 Boyṣtous folk and rude, <HI REND="italic">aber auch Minor Poems</HI> 166 Bosters withe boreas)</NOTE></L>
+<L>Ye may þ<HI REND="italic">er</HI>yn consider þyng<HI REND="italic">ys</HI> þre: <MILESTONE N="205"/> <NOTE PLACE="foot">205 conceyve <HI REND="italic">L</HI></NOTE></L>
+<L>Howe þ<HI REND="italic">a</HI>t diligence in especiall <MILESTONE N="(2, 150)"/> <NOTE PLACE="foot">206 þat <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>Haþe agayn slouþe caught þe sou<HI REND="italic">er</HI>eynte, <NOTE PLACE="foot">207 agenst <HI REND="italic">L</HI></NOTE></L>
+<L>And, where fre choyse haþ hys lib<HI REND="italic">er</HI>te, <NOTE PLACE="foot">208 <HI REND="italic">auch L hat</HI> hath, <HI REND="italic">aber dies scheint ein gemeinschaftlicher Fehler für</HI> at <HI REND="italic">(vgl. Minor Poems</HI> 262 See Baraban goon at his liberte): <HI REND="italic">das Komma hinter V.</HI> 208 <HI REND="italic">(Sauerstein hat da einen mir unbegreiflichen Strichpunkt) ist dann zu tilgen</HI></NOTE></L>
+<L>Cheseþ þe werst in ernest or in game,</L>
+<L>Who, but hymsylf, þ<HI REND="italic">er</HI>of ys to blame? <MILESTONE N="210"/> <NOTE PLACE="foot">210 is therof <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Who foloweþ v<HI REND="italic">er</HI>tu, vyces doþ eschew, <MILESTONE N="(2, 155)"/></L>
+<L>He cheseþ þe best in myn opinion. <NOTE PLACE="foot">212 He] Who <HI REND="italic">(aus der vorhergehenden Zeile) L</HI> ‖ þe <HI REND="italic">fehlt L</HI> ‖ in] to <HI REND="italic">L</HI></NOTE></L>
+<L>The cok demyd, to hy<HI REND="italic">m</HI> hit was more dew</L>
+<L>Small simple grayne, þen stones of hygh renoun, <NOTE PLACE="foot">214 hygh] grete <HI REND="italic">(vgl. Edmund</HI> 1, 181 Noblesse and hih renoun; 246 His famous hih renoun; 387 Al his hih renoun; 854 Thoruh his hih renoun; 938 The marcial hih renoun <HI REND="italic">u. s. w.)</HI></NOTE></L>
+<L>Of all treso<HI REND="italic">ur</HI> chief possessioun. <MILESTONE N="215"/></L>
+<L>Suche, as god sent, eche man take at gre, <MILESTONE N="(2, 160)"/></L>
+<L>Nat prowde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ryches nor groge w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> pou<HI REND="italic">er</HI>te. <NOTE PLACE="foot">217 <HI REND="italic">zweites</HI> with] in <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>The worldly man laboreth for rychesse,</L>
+<L>And on the worlde he set all hys intent.</L>
+<L>The v<HI REND="italic">er</HI>tuos man to auoyde all ydelnesse <MILESTONE N="220"/> <NOTE PLACE="foot">220 * man <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> suffisaunce holde hy<HI REND="italic">m</HI>sylf content. <MILESTONE N="(2, 165)"/> <NOTE PLACE="foot">221 holdith <HI REND="italic">L</HI></NOTE></L>
+<L>Eche man þ<HI REND="italic">er</HI>fore w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> suche, as god haþ sent,</L>
+<L>Thanke þe lorde, in v<HI REND="italic">er</HI>tu kepe hem stable, <NOTE PLACE="foot">223 and in <HI REND="italic">L</HI> ‖ * hym <HI REND="italic">L</HI></NOTE></L>
+<L>Whyche ys conclusion of þys lytyll fable. <NOTE PLACE="foot">224 <HI REND="italic">das erste</HI> n <HI REND="italic">in</HI> con∣clusion <HI REND="italic">aus etwas anderem C</HI> ‖ lite <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<TRAILER>Explicit. <NOTE PLACE="foot">Explicit <HI REND="italic">rot C,</HI> Here endith the tale of Isope how that the cok fonde a iaconet stone in þe dunghill <HI REND="italic">L.</HI></NOTE></TRAILER>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB N="14" REF="14"/>
+<HEAD>The tale of the wolfe and the lambe groundyd opon Isopus, the phylosophor of Rome, ayenst raueyn <HI REND="italic">and</HI> tiranny. <NOTE PLACE="foot">The secunde tale of Isopos <HI REND="italic">Titel in L</HI></NOTE></HEAD>
+<LG>
+<L>Ryght as atwene turment <HI REND="italic">and</HI> delyces <MILESTONE N="(3, 1)"/> <MILESTONE N="225"/> <NOTE PLACE="foot">225 <HI REND="italic">vgl. zu V.</HI> 1</NOTE></L>
+<L>There ys in kynde a gret difference,</L>
+<L>Ryght so atwene v<HI REND="italic">er</HI>tues lyfe <HI REND="italic">and</HI> vyces <NOTE PLACE="foot">227 vertues = vertuous <HI REND="italic">L</HI></NOTE></L>
+<L>There may be no iust conuenience:</L>
+<L>Malyce contrary to pure innocence, <MILESTONE N="(3, 5)"/> <NOTE PLACE="foot">229 ful contrary <HI REND="italic">L</HI> ‖ pure innocence] prouidence <HI REND="italic">L</HI></NOTE></L>
+<L>And phylosophers by wrytyng bere recorde, <MILESTONE N="230"/></L>
+<L>Twene trowþe <HI REND="italic">and</HI> fraude may be non acorde. <NOTE PLACE="foot">231 Atwene frawde and trowth <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Atwene ranco<HI REND="italic">ur and</HI> humble pacience <MILESTONE N="13v. b."/></L>
+<L>Ther ys in nature a gret diuision.</L>
+<L>A sely shepe make may no resistence <MILESTONE N="(3, 10)"/> <NOTE PLACE="foot">234 may make <HI REND="italic">L</HI></NOTE></L>
+<L>Ageyn þe power of a strong lyon. <MILESTONE N="235"/></L>
+<L>A dwerfe to fyght w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a champyon <NOTE PLACE="foot">236 a grete champioun <HI REND="italic">L</HI></NOTE></L>
+<L>Were to febyll in a felde to endure <NOTE PLACE="foot">237 a <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>By lykenes agayn nature. <NOTE PLACE="foot">238 agayn] *of reason and ageyne <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Grete pykes, þ<HI REND="italic">a</HI>t swy<HI REND="italic">m</HI>me in large stewes, <MILESTONE N="(3, 15)"/></L>
+<L>Smaller fysshe most felly þey deuour. <MILESTONE N="240"/> <NOTE PLACE="foot">240 Smal <HI REND="italic">L</HI></NOTE></L>
+<L>Who haþe most myght, þe febler gladly sewes:</L>
+<L>The pore haþe few hys party to socour. <NOTE PLACE="foot">242 few] for <HI REND="italic">L</HI> ‖ to] no <HI REND="italic">L</HI></NOTE></L>
+<L>The rauenous wolfe opon þe lambe doþe lour,</L>
+<L>Of whyche Isopus in hys booke <MILESTONE N="(3, 20)"/> <NOTE PLACE="foot">244 *whiche twayne <HI REND="italic">L</HI> ‖ his] this <HI REND="italic">L</HI></NOTE></L>
+<L>Full notably thys example he toke. <MILESTONE N="245"/> <NOTE PLACE="foot">245 he <HI REND="italic">fehlt L</HI></NOTE></L>
+</LG>
+<LG>
+<L>The lambe, þe wolf cont<HI REND="italic">r</HI>ary of nature <NOTE PLACE="foot">246 <HI REND="italic">das Asyndeton wird durch L bestätigt, und es ist unnötig, mit Sauer∣stein</HI> and <HI REND="italic">hinter</HI> lambe <HI REND="italic">einzuschieben; vgl.</HI> 467 Bacus, Thetis be causers of plesaunce = <HI REND="italic">L</HI> 6, 110 Bachus, Thetus be cause of plesaunce; <HI REND="italic">ferner in L allein</HI> 4, 81 The wolf, the puttok, that were ful loth to ly; 5, 83 His body, his lyf the laborer evyn partith; 7, 24 To goddis, goddessis: <HI REND="italic">an allen diesen Stellen hat Sauerstein ebenfalls ein</HI> and <HI REND="italic">interpoliert. In V.</HI> 141 <HI REND="italic">oben hat dies schon L gethan</HI></NOTE></L>
+<L>Euer diu<HI REND="italic">er</HI>se <HI REND="italic">and</HI> noþyng oon þey þynke. <NOTE PLACE="foot">247 noþyng] nat <HI REND="italic">L</HI></NOTE></L>
+<L>Boþe at onys of soden auenture <NOTE PLACE="foot">248 Boþe] But <HI REND="italic">L</HI></NOTE></L>
+<L>To a fresshe ryu<HI REND="italic">er</HI> þey came downe to drynke: <MILESTONE N="(3, 25)"/></L>
+<L>At þe hede spryng hy opon þe brynke <MILESTONE N="250"/> <NOTE PLACE="foot">250 hede] high <HI REND="italic">L (vgl. Edmund</HI> 1, 348 From fressh hed sprynges renne stre∣mys cristallyne; <HI REND="italic">Albon</HI> 3, 1108 It is the heede springe and the gostly streme) ‖ hy] aloft <HI REND="italic">L.</HI></NOTE></L>
+<L><PB N="15" REF="15"/>
+Stondeþ þe wolfe, a froward beste of kynde;</L>
+<L>The sely lambe stood fer abak behynde.</L>
+</LG>
+<LG>
+<L>Who þ<HI REND="italic">a</HI>t ys froward of condicion</L>
+<L>And disposyd to malyce <HI REND="italic">and</HI> outrage, <MILESTONE N="(3, 30)"/></L>
+<L>Can sone seke <HI REND="italic">and</HI> fynde occasion <MILESTONE N="255"/></L>
+<L>Pyke a quarell for to do damage; <NOTE PLACE="foot">256 To contryve <HI REND="italic">L</HI> (To <HI REND="italic">ist jedenfalls aufzunehmen)</HI></NOTE></L>
+<L>And vnto p<HI REND="italic">ur</HI>pose malycious of corage</L>
+<L>The furyos wolfe out w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hys venym brake,</L>
+<L>And euyn þys vnto þe la<HI REND="italic">m</HI>be he spake: <MILESTONE N="(3, 35)"/> <NOTE PLACE="foot">259 þys = thus <HI REND="italic">L (vgl. V.</HI> 139) ‖ to <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>'Lyke þy fadyr, þo<HI REND="italic">u</HI> art false <HI REND="italic">and</HI> double <MILESTONE N="260"/></L>
+<L>And hy<HI REND="italic">m</HI> resemblest of dysposicion;</L>
+<L>For he was wont my wat<HI REND="italic">er</HI> here to trouble,</L>
+<L>To meue þe þyk, þ<HI REND="italic">a</HI>t lay low doune:</L>
+<L>Þ<HI REND="italic">a</HI>t I myght haue no recreacioune <MILESTONE N="(3, 40)"/></L>
+<L>To drynk my fyll of wat<HI REND="italic">er</HI> pure and clere, <MILESTONE N="265"/></L>
+<L>He was so cont<HI REND="italic">r</HI>ary to trouble þys ryuere.</L>
+</LG>
+<LG>
+<L>And þ<HI REND="italic">o</HI>u of malyce art com to do þe same, <MILESTONE N="14r. a."/></L>
+<L>Sekest occasion by trobly vyolence <NOTE PLACE="foot">268 trobly <HI REND="italic">fehlt in den Wörterbüchern; vgl. Albon</HI> 1, 54 The troubly mystes from me to enchace Of rude langage; <HI REND="italic">Minor Poems</HI> 175 In troubly seis how they shal hem guye</NOTE></L>
+<L>Ayenst me <HI REND="italic">and</HI> makest þ<HI REND="italic">er</HI>of a game</L>
+<L>To fynde mat<HI REND="italic">er</HI>er and for to do offence.' <MILESTONE N="270"/> <NOTE PLACE="foot">270 <HI REND="italic">l.</HI> mater</NOTE></L>
+<L>The lambe answerd w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hu<HI REND="italic">m</HI>ble reuerence:</L>
+<L>'Thys may nat be; þe preef ys seyn full oft:</L>
+<L>I stond beneþe, <HI REND="italic">and</HI> ye stond aloft.</L>
+</LG>
+<LG>
+<L>Fro<HI REND="italic">m</HI> þe hyll þe ryu<HI REND="italic">er</HI> downe dyscendeþ:</L>
+<L>For to ascende hit were ageyn nature. <MILESTONE N="275"/></L>
+<L>That I stond here hit noþyng yow offendeþ.</L>
+<L>The trowble goþe low, aboue hit ys most pure. <NOTE PLACE="foot">277 trowble <HI REND="italic">ist wohl Adjektiv (siehe Halliwell, wo indessen kein Beleg gegeben ist); vgl. Minor Poems</HI> 67 Have dispite of folkes, that ben trouble (: double); <HI REND="italic">Alis. ed. Weber</HI> 4079 Theo eyr bycam tho trouble and thikke.</NOTE></L>
+<L>The clere ys youres, but I must endure,</L>
+<L>Tyll ye haue dronke, and þen at erst begyn,</L>
+<L>Take, as hit falleþ, þe þyk w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe þyn. <MILESTONE N="280"/></L>
+</LG>
+<LG>
+<L>I may nat chese: þe choyse to yow ys fall.</L>
+<L>Hyt were but foly for me w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yow to stryue.</L>
+<L>Ye shall for me haue yo<HI REND="italic">ur</HI> desyres all:</L>
+<L><PB N="16" REF="16"/>
+Of yo<HI REND="italic">ur</HI> ryght I wyll nat yow depryue.'</L>
+<L>But þe wolfe a cause gan contryue <MILESTONE N="285"/></L>
+<L>Ageyn þe lambe of naturall haterede,</L>
+<L>Seyd vnto hym quakyng in hys drede:</L>
+</LG>
+<LG>
+<L>'Thy feynyd speche flateryng <HI REND="italic">and</HI> benygne!</L>
+<L>I see hit well in myn inward syght,</L>
+<L>How þ<HI REND="italic">o</HI>u dost ayene me malygne <MILESTONE N="290"/></L>
+<L>To vex me wrongfully, yef þ<HI REND="italic">o</HI>u haddyst myght.</L>
+<L>The lawe shall part vs, whyche of vs haþ ryght.'</L>
+<L>But he no lengor on þe lawe abood,</L>
+<L>Deuouryd þe lambe <HI REND="italic">and</HI> aftyr soke hys blood.</L>
+</LG>
+<LG>
+<L>The lambe was sleyn, for he seyd soþ. <MILESTONE N="295"/></L>
+<L>Thus was law tornyd to rauyne,</L>
+<L>Dome execute by þe wolf<HI REND="italic">ys</HI> tothe,</L>
+<L>By whyche lawe Naboth lost hys vyne, <NOTE PLACE="marg">iii<SUP>o</SUP>. Reg<HI REND="italic">um</HI> xii<SUP>o</SUP> ca<SUP>o</SUP>.</NOTE> <NOTE PLACE="foot">298 <HI REND="italic">in der rot geschriebenen Randbemerkung ist</HI> XIII <HI REND="italic">ein Versehen statt</HI> XXI</NOTE></L>
+<L>Whylom co<HI REND="italic">m</HI>mau<HI REND="italic">n</HI>dyd by law, whyche ys dyuyne, <NOTE PLACE="foot">299 <HI REND="italic">absol. Participium</HI> ‖ whyche ys dyuyne <HI REND="italic">u. ä. braucht Lydgate sehr gern am Versschluss; vgl. Isopus in L</HI> 4, 183 In his preceptis, whiche that be devyne; <HI REND="italic">Edmund</HI> 1, 652. 3, 355 By grace, which is dyuyne; 1, 700 To do seruyse, which that is dyuyne; 3, 33 Tofor whos face and throne, that is deuyne; <HI REND="italic">Giles</HI> 7 Bynfluence of grace, which is divyne; <HI REND="italic">Albon</HI> 1, 269 By aspectes of grace, whiche is diuine; 2, 213 By his power, whiche that is deuine; 3, 1117 By grace causeth, whiche that is deuine <HI REND="italic">u. s. w.</HI></NOTE></L>
+<L>No rauenous beste (þe byble doþ deuyse) <MILESTONE N="300"/> <NOTE PLACE="foot">300 þe byble: <HI REND="italic">mein Kollege P. Kleinert bestätigt mir, dass eine derartige Bestim∣mung in der Bibel nicht vorkommt</HI></NOTE></L>
+<L>Shuld be offred to god in sacryfyse.</L>
+</LG>
+<LG>
+<L>Herdys be rekles þe lambe for to defende, <MILESTONE N="14r. b."/></L>
+<L>Take noon hede on theyr flok to tary.</L>
+<L>Ther hounde ys muett, whyche þ<HI REND="italic">a</HI>t shuld attende <NOTE PLACE="foot">304 muett <HI REND="italic">verblasst oder ausradiert C</HI></NOTE></L>
+<L>To kepe þe wache fro wolues most contrary; <MILESTONE N="305"/></L>
+<L>Fewe shep<HI REND="italic">er</HI>dys <HI REND="italic">and</HI> many m<HI REND="italic">er</HI>cynary, <NOTE PLACE="marg">Pauci pastores <HI REND="italic">et</HI> m<HI REND="italic">er</HI>ce∣narii multi</NOTE> <NOTE PLACE="foot">306 <HI REND="italic">vgl. Giles</HI> 183 Pastor callid, nat a mercenarye</NOTE></L>
+<L>That falsly entre, as Iohns gospell tolde, <NOTE PLACE="foot">307 Iohns gospell 10, 1 <HI REND="italic">(die Randbemerkung in C mit roter Tinte)</HI></NOTE></L>
+<L>By þe wyndow into Cryst<HI REND="italic">ys</HI> folde.</L>
+</LG>
+<LG>
+<L>The wolf ys clyppyd, chese and mylke ys peysyd, <NOTE PLACE="foot">309 wolf] f <HI REND="italic">steht auf Rasur und dahinter ist</HI> e <HI REND="italic">radiert: die Korrektur ist unberechtigt, es ist</HI> wolle <HI REND="italic">herzustellen.</HI></NOTE></L>
+<L>On felle <HI REND="italic">and</HI> flesshe ys set a certayn pryse, <MILESTONE N="310"/></L>
+<L>For tylþe of lond þe dong ys also preysyd,</L>
+<L>Noþyng foryete (shep<HI REND="italic">er</HI>dys be so wyse):</L>
+<L>The beest ys spoylyd <HI REND="italic">and</HI> nat w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>out avyse.</L>
+<L>The wolf haþ so ferre þe lambe p<HI REND="italic">ur</HI>chasyd,</L>
+<L>That he ys deuouryd <HI REND="italic">and</HI> haþ noþy<HI REND="italic">n</HI>g trespasyd. <MILESTONE N="315"/></L>
+</LG>
+<LG>
+<PB N="17" REF="17"/>
+<L>The ram in Colches bare a flees of golde;</L>
+<L>Therof he was dyspoylyd by Iason, <NOTE PLACE="foot">317 <HI REND="italic">vgl. L</HI> 4, 99 <HI REND="italic">ff.</HI> The ram of Colchos bare a flees of gold, Whiche was conquered manly by Iason</NOTE></L>
+<L>The body left hoole, lyke as hit ys tolde.</L>
+<L>But shepe þese dayes be spoylyd to þe bon;</L>
+<L>For þer be wolfes many mo, þen oon, <MILESTONE N="320"/></L>
+<L>That clyp lamborn at sessions <HI REND="italic">and</HI> at shyres <NOTE PLACE="foot">321 shyres: <HI REND="italic">vgl. Archiv</HI> LXXXIV, 123</NOTE></L>
+<L>Bare to þe bone, <HI REND="italic">and</HI> yet þey haue no sheres. <NOTE PLACE="foot">262-322 <HI REND="italic">fehlen L mit Ausnahme der als Custos ge∣setzten ersten beiden Worte von V.</HI> 262; <HI REND="italic">doch hat später Stowe die Verse</HI> 262-266 <HI REND="italic">(wahrscheinlich aus C) nachgetragen: s. oben S.</HI> 3 <HI REND="italic">zu</HI> 3, 38 <HI REND="italic">ff.</HI></NOTE></L>
+</LG>
+<LG>
+<L>The sely lambe ys spoylyd to þe bones, <MILESTONE N="(3, 43)"/></L>
+<L>The wolf goþ fre, wheþ<HI REND="italic">er</HI> hit be ryght or wrong.</L>
+<L>When iorro<HI REND="italic">ur</HI> haþe caught sauo<HI REND="italic">ur</HI> ones <MILESTONE N="325"/> <NOTE PLACE="foot">325 *a <HI REND="italic">nach</HI> Whan <HI REND="italic">L</HI></NOTE></L>
+<L>To be forsworn, custom makeþ hy<HI REND="italic">m</HI> strong.</L>
+<L><HI REND="italic">Si dedero</HI> ys now so mery a song,</L>
+<L>Haþ founde a practyk by lawe to make a preef <NOTE PLACE="foot">328 He hath a practis <HI REND="italic">L</HI> ‖ <HI REND="italic">nach</HI> preef <HI REND="italic">ein zweites</HI> f <HI REND="italic">radiert C</HI></NOTE></L>
+<L>To hang a trew man <HI REND="italic">and</HI> saue an errant theef.</L>
+</LG>
+<LG>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> empty hande men may noon hawk<HI REND="italic">ys</HI> lewre <MILESTONE N="(3, 50)"/> <MILESTONE N="330"/> <NOTE PLACE="foot">330 handis <HI REND="italic">L</HI></NOTE></L>
+<L>Nor cache a iorro<HI REND="italic">ur,</HI> but yef he yeue hy<HI REND="italic">m</HI> mede.</L>
+<L>The pore pleteþ: what ys hys auenture? <NOTE PLACE="foot">332 <HI REND="italic">Sauerstein hat hinter</HI> pleteþ <HI REND="italic">kein Zeichen und hinter</HI> auenture <HI REND="italic">ein Komma</HI></NOTE></L>
+<L>Voyde purse causeþ, he may nat spede.</L>
+<L>The lambe put bak þe wolf þe daunce doþ lede.</L>
+<L>Dyfference atwene þese best<HI REND="italic">ys</HI> tweyne <MILESTONE N="(3, 55)"/> <MILESTONE N="335"/> <NOTE PLACE="foot">335 Different betwene <HI REND="italic">L</HI></NOTE></L>
+<L>Causyd Isopus þys tale for to feyne. <NOTE PLACE="foot">336 Causith <HI REND="italic">L</HI> ‖ Is <HI REND="italic">aus e. a. ? C</HI> ‖ tale] fable <HI REND="italic">L</HI> ‖ sayne <HI REND="italic">L</HI> Conclusio <HI REND="italic">mit roter Tinte C, fehlt L</HI></NOTE></L>
+</LG>
+<DIV2 TYPE="conclusion">
+<LG>
+<HEAD>Conclusio. <MILESTONE N="14v. a."/></HEAD>
+<L>The wolfe ys lykenyd to folkys rauenous,</L>
+<L>The sely lambe rese<HI REND="italic">m</HI>bleþ þe porayle;</L>
+<L>The wolfe ys gredy, fell, cruell, dyspituous, <NOTE PLACE="foot">339 cruell] and <HI REND="italic">L</HI></NOTE></L>
+<L>The lambe content w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> grasse for hys vytayle. <MILESTONE N="(3, 60)"/> <MILESTONE N="340"/></L>
+<L>The dey boþe: þe wolfe may not auayle, <NOTE PLACE="foot">341 The = They <HI REND="italic">L</HI> ‖ dey] ded <HI REND="italic">L: bei dieser Lesart darf wohl hinter</HI> both, <HI REND="italic">wo bei Sauerstein ein Strichpunkt steht, keine stärkere Interpunktion gesetzt werden, da dann</HI> ded = <HI REND="italic">ne.</HI> dead <HI REND="italic">sein muss (nicht etwa = ne.</HI> died) <HI REND="italic">und demnach</HI> the wolfe <HI REND="italic">und</HI> the lamb <HI REND="italic">Appositionen zu</HI> they</NOTE></L>
+<L>Be hit for hound<HI REND="italic">ys</HI> caren most corru<HI REND="italic">m</HI>pable, <NOTE PLACE="foot">342 Be hit] * But only <HI REND="italic">L</HI></NOTE></L>
+<L>The lambe vp<HI REND="italic">er</HI> s<HI REND="italic">er</HI>uyd at þe kyng<HI REND="italic">ys</HI> table. <NOTE PLACE="foot">343 * vp <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>As men des<HI REND="italic">er</HI>ue, þey receue þeyr guerdon.</L>
+<L>Onrepentaunte þe tyraunt goþ to hell. <MILESTONE N="(3, 65)"/> <MILESTONE N="345"/></L>
+<L>The pore man w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> small possession <NOTE PLACE="foot">346 with his smal <HI REND="italic">L.</HI></NOTE></L>
+<L><PB N="18" REF="18"/>
+V<HI REND="italic">er</HI>tuosly doþ in þe erþe dwell, <NOTE PLACE="foot">347 doþ] liveth and doth <HI REND="italic">L</HI></NOTE></L>
+<L>Content w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> lytell doþ trewly by and sell</L>
+<L>And of hoole hert can loue god <HI REND="italic">and</HI> drede,</L>
+<L>When he goþ hens, haþe heuen to hys mede. <MILESTONE N="(3, 70)"/> <MILESTONE N="350"/> <NOTE PLACE="foot">350 to] for <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>To encrese v<HI REND="italic">er</HI>tu and vyces to confounde</L>
+<L>Example here shewyd of gret diu<HI REND="italic">er</HI>syte <NOTE PLACE="foot">352 <HI REND="italic">Sauerstein hat einen Strichpunkt hinter diesem Verse: mir scheint aber</HI> example <HI REND="italic">als Apposition zu</HI> þys fable <HI REND="italic">gefasst werden zu müssen</HI></NOTE></L>
+<L>By Isopus was þys fable founde, <NOTE PLACE="foot">353 was <HI REND="italic">fehlt L</HI> ‖ I founde <HI REND="italic">L</HI></NOTE></L>
+<L>Where ys rehersyd, toforne as ye may se, <NOTE PLACE="foot">354 Where ys] Whan he <HI REND="italic">L</HI></NOTE></L>
+<L>The wolf<HI REND="italic">ys</HI> felnesse, þe lambes p<HI REND="italic">ro</HI>perte; <MILESTONE N="(3, 75)"/> <MILESTONE N="355"/></L>
+<L>The lambe co<HI REND="italic">m</HI>mendyd for naturall mekenes,</L>
+<L>The wolfe rebuked for rauenous felnes.</L>
+<TRAILER>Explicit. <NOTE PLACE="foot"><HI REND="italic">Für das in L rot geschriebene</HI> Explicit <HI REND="italic">hat L</HI> Here endith the secunde tale of Isope declaryng how the wolf founde agenst the lamb a quarel.</NOTE></TRAILER>
+</LG>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The tale of the frogge and þe mowse foundyd by Isopus, þe philosophor, groundyd ayenst de∣ceyte. <NOTE PLACE="foot">Die Überschrift in C rot, fehlt L</NOTE></HEAD>
+<LG>
+<L>By a decree of natures law <MILESTONE N="(6, 1)"/> <NOTE PLACE="foot">358 <HI REND="italic">vgl. zu V.</HI> 1 ‖ a decree] de∣crees <HI REND="italic">L</HI></NOTE></L>
+<L>Peysyd egally þe balance of reson,</L>
+<L>Who þ<HI REND="italic">a</HI>t cast hym deceue hys felaw, <MILESTONE N="360"/> <NOTE PLACE="foot">360 to dissayve <HI REND="italic">L</HI></NOTE></L>
+<L>Shall of deceyte receue þe guerdon.</L>
+<L>Salary to feynyng ys simulacion. <MILESTONE N="(6, 5)"/></L>
+<L>Who by dyssimelyng <HI REND="italic">and</HI> fraude doþ p<HI REND="italic">ro</HI>cede, <NOTE PLACE="foot">363 dyssimelyng] disceyte <HI REND="italic">L</HI></NOTE></L>
+<L>Lyke a defrauder receue shall hys mede.</L>
+</LG>
+<LG>
+<L>Som reioyse þeym in malyce <HI REND="italic">and</HI> in fraude <MILESTONE N="14v. b."/> <MILESTONE N="365"/></L>
+<L>And cou<HI REND="italic">er</HI>tely to hynder þeyr neyghbors.</L>
+<L>As men des<HI REND="italic">er</HI>ue, reporte yeueþ they<HI REND="italic">m</HI> þeyr lawde. <MILESTONE N="(6, 10)"/></L>
+<L>Cloþe falsly wouen may kepe no fresshe colo<HI REND="italic">ur</HI>s. <NOTE PLACE="foot">368 *fresshe <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>The dorre on donghyll, þe bee on holsom floures, <NOTE PLACE="foot">369 dunghills <HI REND="italic">L</HI> ‖ the .B. in <HI REND="italic">L</HI></NOTE></L>
+<L>As þey receue, þey bryng home to theyr heue: <MILESTONE N="370"/></L>
+<L>The oon doþe damage, þe oþ<HI REND="italic">er</HI> doþ releue. <NOTE PLACE="foot">371 that other <HI REND="italic">L.</HI></NOTE></L>
+</LG>
+<LG>
+<L>Aftyr þeyr naturall disposicions <MILESTONE N="(6, 15)"/></L>
+<L>In man <HI REND="italic">and</HI> beste ys shewyd exp<HI REND="italic">er</HI>yence:</L>
+<L>Som haue to v<HI REND="italic">er</HI>tew þeyr inclinacions,</L>
+<L><PB N="19" REF="19"/>
+Oone to p<HI REND="italic">ro</HI>fyte, anoþ<HI REND="italic">er</HI> to do offence; <MILESTONE N="375"/> <NOTE PLACE="foot">375 <HI REND="italic">hinter</HI> 376 <HI REND="italic">L</HI></NOTE></L>
+<L>Som man pesyble, som man doþ violence; <NOTE PLACE="foot">376 <HI REND="italic">erstes</HI> man] men <HI REND="italic">L</HI> ‖ <HI REND="italic">zweites</HI> man <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>Som man delyteþ in trouþe in hys entent, <MILESTONE N="(6, 20)"/> <NOTE PLACE="foot">377 <HI REND="italic">erstes</HI> in] to <HI REND="italic">L</HI></NOTE></L>
+<L>Anoþ<HI REND="italic">er</HI> reioyseþ to be fraudulent. <NOTE PLACE="foot">378 for to <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Who þ<HI REND="italic">a</HI>t meneþ treson or falsnes</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a p<HI REND="italic">re</HI>tence outward or frenshyp or frendlyhede, <MILESTONE N="380"/> <NOTE PLACE="foot">380 or frenshyp or] *of <HI REND="italic">L</HI></NOTE></L>
+<L>Face count<HI REND="italic">er</HI>fete of feynyd fals gladnes, <NOTE PLACE="foot">381 countrefeted <HI REND="italic">L</HI></NOTE></L>
+<L>Of all enemyes suche oon ys most to drede, <MILESTONE N="(6, 25)"/> <NOTE PLACE="foot">382 most <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>And Isopus to purpos, as I rede, <NOTE PLACE="foot">383 And] Wherfor <HI REND="italic">L</HI></NOTE></L>
+<L>Telleþ, how a frosshe felle and contraryouse <NOTE PLACE="foot">384 felle and] ful <HI REND="italic">L</HI> ‖ contraryouse] <HI REND="italic">ein langes</HI> s <HI REND="italic">aus einem kurzen C</HI></NOTE></L>
+<L>Dowble of entent deceuyd haþe þe movse. <MILESTONE N="385"/> <NOTE PLACE="foot">385 movse] v <HI REND="italic">aus etwas anderem und ein langes</HI> s <HI REND="italic">aus einem kurzen C</HI></NOTE></L>
+</LG>
+<LG>
+<L>Of þys fable þe p<HI REND="italic">ro</HI>cesse for to tell,</L>
+<L>The frosshe of custom abode at a ryuer; <MILESTONE N="(6, 30)"/> <NOTE PLACE="foot">387 a] the <HI REND="italic">L</HI></NOTE></L>
+<L>The mowse also soiornyd at a myll, <NOTE PLACE="foot">388 a] the <HI REND="italic">L</HI></NOTE></L>
+<L>That stood besyde from all dangere; <NOTE PLACE="foot">389 *ferre from <HI REND="italic">L</HI></NOTE></L>
+<L>And a morow, when Phebus shone full clere, <MILESTONE N="390"/> <NOTE PLACE="foot">390 *on a morn <HI REND="italic">L</HI></NOTE></L>
+<L>So as þe frosshe passyd þ<HI REND="italic">er</HI>besyde,</L>
+<L>The mowse besought hy<HI REND="italic">m</HI> goodly to abyde. <MILESTONE N="(6, 35)"/></L>
+</LG>
+<LG>
+<L>Lad hym vp to þe myll alofte, <NOTE PLACE="foot">393 * After lad <HI REND="italic">L</HI></NOTE></L>
+<L>Shewyd hym the hop<HI REND="italic">er,</HI> þe trowgh <HI REND="italic">and</HI> þe myll stone, <NOTE PLACE="foot">394 þe trowgh <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>On a corne sak made hy<HI REND="italic">m</HI> syt softe, <MILESTONE N="395"/> <NOTE PLACE="foot">395 * And on <HI REND="italic">L</HI> ‖ to sitte <HI REND="italic">L</HI></NOTE></L>
+<L>Seyde, he shuld to dyn<HI REND="italic">er</HI> go anone, <NOTE PLACE="foot">396 * And seyde <HI REND="italic">L</HI></NOTE></L>
+<L>Leyde afore hym greynes many oone: <MILESTONE N="(6, 40)"/> <NOTE PLACE="foot">397 of dyuers greynes <HI REND="italic">L</HI> (of <HI REND="italic">ist wohl auf∣zunehmen)</HI></NOTE></L>
+<L>To shewe hy<HI REND="italic">m</HI> of gentylnes gret fauo<HI REND="italic">ur</HI>ure <NOTE PLACE="foot">398 To shewe hym] Thus <HI REND="italic">L</HI> ‖ grete] the mowse shewid hym grete <HI REND="italic">L</HI> ‖ * favoure <HI REND="italic">L</HI></NOTE></L>
+<L>The second course he brought in mele <HI REND="italic">and</HI> floure.</L>
+</LG>
+<LG>
+<L>'See', quoth þe mowse, 'þys ys a mery lyfe. <MILESTONE N="15r. a."/> <MILESTONE N="400"/></L>
+<L>Here ys my lordshyp <HI REND="italic">and</HI> dominacion.</L>
+<L>I lyue here esyly out of noyse <HI REND="italic">and</HI> stryfe. <MILESTONE N="(6, 45)"/></L>
+<L>Thys cloos all hoole ys in my subieccion. <NOTE PLACE="foot">403 This is al hooly vnder my possessioun <HI REND="italic">L</HI></NOTE></L>
+<L>Suffisaunce ys my possessione. <NOTE PLACE="foot">404 In suffisaunce is my condicioune <HI REND="italic">L</HI></NOTE></L>
+<L>As I haue appetyte, I dyne late or sone; <MILESTONE N="405"/> <NOTE PLACE="foot">405 <HI REND="italic">zweites</HI> I] to <HI REND="italic">L</HI></NOTE></L>
+<L>For Gyb, þe catte, haþe here noþyng to done.</L>
+</LG>
+<LG>
+<L>As me semeþ, I am here ryght well easyd. <MILESTONE N="(6, 50)"/> <NOTE PLACE="foot">407 here <HI REND="italic">fehlt L.</HI></NOTE></L>
+<L>Bett<HI REND="italic">er</HI> ys quyete, þen troble w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ryches.</L>
+<L><PB N="20" REF="20"/>
+A poreman, þ<HI REND="italic">a</HI>t ys w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> lytyll plesyd,</L>
+<L>Laboreþ truly, meneþ no falsenes <MILESTONE N="410"/> <NOTE PLACE="foot">410 l <HI REND="italic">in</HI> falsenes <HI REND="italic">aus etwas anderem C</HI></NOTE></L>
+<L>And ys sequestryd fro worldly besynes, <NOTE PLACE="foot">411 from al worldly riches <HI REND="italic">L</HI></NOTE></L>
+<L>He may at nyght by many sondry p<HI REND="italic">re</HI>ues <MILESTONE N="(6, 55)"/> <NOTE PLACE="foot">412 preues] brefis <HI REND="italic">L</HI></NOTE></L>
+<L>Meryly slepe for any fere of theues.</L>
+</LG>
+<LG>
+<L>Blessyd be pou<HI REND="italic">er</HI>te, þ<HI REND="italic">a</HI>t causeþ assurance, <NOTE PLACE="foot">414 <HI REND="italic">Sauerstein hat unnötigerweise</HI> aswraunce, <HI REND="italic">wie L schreibt, in</HI> a swrance <HI REND="italic">getrennt</HI></NOTE></L>
+<L>Namely when gladnes doþ hys brydyll lede. <MILESTONE N="415"/></L>
+<L>What god sendeþ, hit ys to þeyr plesance, <NOTE PLACE="foot">416 What that <HI REND="italic">L</HI> ‖ to <HI REND="italic">fehlt L</HI> ‖ <HI REND="italic">auch L hat</HI> theyr, <HI REND="italic">aber es ist doch wohl wegen V.</HI> 418 hys <HI REND="italic">zu lesen</HI></NOTE></L>
+<L>Thankeþ þe lorde, grogeþ for no nede. <MILESTONE N="(6, 60)"/> <NOTE PLACE="foot">417 * and gr. <HI REND="italic">L</HI></NOTE></L>
+<L>As he fyndeþ, þ<HI REND="italic">er</HI>on he doþ hy<HI REND="italic">m</HI> fede.</L>
+<L>Thus am I content here in my householde</L>
+<L>As well, as Cresus was w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all hys golde. <MILESTONE N="420"/> <NOTE PLACE="foot">420 his riche gold <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Tresour of Mygdas medelyd was w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> drede, <NOTE PLACE="foot">421 Mygdas = Mydas <HI REND="italic">L</HI></NOTE></L>
+<L>Broke slepes, reft hy<HI REND="italic">m</HI> hys libertees. <MILESTONE N="(6, 65)"/> <NOTE PLACE="foot">422 *Brak his slepes <HI REND="italic">L</HI> ‖ *liberte <HI REND="italic">L</HI></NOTE></L>
+<L>The pore man slepeþ fearelese, takeþ noon hede,</L>
+<L>Who ryde or go: hys gat<HI REND="italic">ys</HI> opyn bee. <NOTE PLACE="foot">424 ridith or goth <HI REND="italic">L</HI></NOTE></L>
+<L>And I suppose, noman ys more free <MILESTONE N="425"/></L>
+<L>Nor more assuryd to myne opynyon,</L>
+<L>Then glad pou<HI REND="italic">er</HI>t w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> small possession. <MILESTONE N="(6, 70)"/></L>
+</LG>
+<LG>
+<L>Salomon wryteþ, howe hit ys bet by halfe <NOTE PLACE="foot">428 Salomon: <HI REND="italic">Lydgate hat wohl Sprüche</HI> 15, 17 <HI REND="italic">im Sinne:</HI> Melius est uocari ad olera cum caritate, quam ad uitu∣lum saginatum cum odio ‖ better <HI REND="italic">L</HI> ‖ <HI REND="italic">Sauerstein schreibt</HI> behalf <HI REND="italic">statt</HI> be half, <HI REND="italic">scheint also darin ein Substantivum gesehen zu haben; vgl. aber Grein s. v.</HI> healf, <HI REND="italic">wo zu</HI> healfe þŷ swêtre <HI REND="italic">altn. Parallelen angeführt werden. Ähn∣lich braucht man auch jetzt noch</HI> by half; <HI REND="italic">vgl. Dickens, Bleak House (House∣hold Edition)</HI> 146 <HI REND="italic">b</HI> You girls are more trouble than you're worth, by half; 227 <HI REND="italic">b</HI> That grandfather of his is too keen by half; <HI REND="italic">Payn, Confidential Agent</HI> 24 They are already too clever by half; <HI REND="italic">Smedley, Lewis Arundel</HI> 32 Bell's too lazy by half; <HI REND="italic">Mrs. H. Ward, Rob. Elsmere (Tauchn.)</HI> 1, 301 You clergy are too inventive by half; <HI REND="italic">Miss Betham-Edwards, For One and the World (Tauchn.)</HI> 217 My heir is a worthy man enough, but already too rich by half</NOTE></L>
+<L>A lompe of brede w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> reioysyng, <NOTE PLACE="foot">429 lompe] *smal morsel <HI REND="italic">L</HI> ‖ with joy and rejoysyng <HI REND="italic">L</HI></NOTE></L>
+<L>Then at fest<HI REND="italic">ys</HI> to haue a rostyd calfe <MILESTONE N="430"/></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> heuy chere, frownyng or grogyng. <NOTE PLACE="foot">431 frown∣yng or] and forward <HI REND="italic">L</HI></NOTE></L>
+<L>Nature ys content w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> full lytell þyng. <MILESTONE N="(6, 75)"/></L>
+<L>As men seyen <HI REND="italic">and</HI> reporte at þe leste, <NOTE PLACE="foot">433 leste] best <HI REND="italic">L.</HI></NOTE></L>
+<L>Nat many deyntees, but good chere makeþ a feste.</L>
+</LG>
+<LG>
+<PB N="21" REF="21"/>
+<L>Where a tyraunt haþ power noon nor myght, <MILESTONE N="15r. b."/> <MILESTONE N="435"/></L>
+<L>Ys sewre abydyng vnto þe porayll. <NOTE PLACE="foot">436 There is <HI REND="italic">L</HI></NOTE></L>
+<L>Diogenes was w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hys towne as lyght, <MILESTONE N="(6, 80)"/> <NOTE PLACE="foot">437 towne] *tonne <HI REND="italic">L</HI> ‖ as] of <HI REND="italic">L</HI></NOTE></L>
+<L>As Alysaundre w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all hys apparayll. <NOTE PLACE="foot">438 As riche as Ali∣saundre <HI REND="italic">L</HI> ‖ all <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>Thys lytyll mylle fynt me my vytayll: <NOTE PLACE="foot">439 Thus this <HI REND="italic">L</HI></NOTE></L>
+<L>I haue þ<HI REND="italic">er</HI>in as gret lust and ioy, <MILESTONE N="440"/> <NOTE PLACE="foot">440 lust and] a <HI REND="italic">L</HI></NOTE></L>
+<L>As kyng P<HI REND="italic">r</HI>iam<HI REND="italic">us</HI> had in hys towne of Troy. <NOTE PLACE="foot">441 As euer had priamus of his <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>The poreman mery in hys cotage, <MILESTONE N="(6, 85)"/> <NOTE PLACE="foot">442 as <HI REND="italic">vor</HI> mery <HI REND="italic">L (es ist wohl statt dessen</HI> ys <HI REND="italic">in den Text zu setzen)</HI></NOTE></L>
+<L>As ys þe m<HI REND="italic">er</HI>chaunt in hys stuffyd house;</L>
+<L>The plowman glad w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> bacon <HI REND="italic">and</HI> potage,</L>
+<L>As in þeyr paleyse byn prynces gloriouse. <MILESTONE N="445"/> <NOTE PLACE="foot">445 As princis with delicatis in theyr paleys glorious <HI REND="italic">L (es ist wohl</HI> byn <HI REND="italic">zu streichen)</HI></NOTE></L>
+<L>And, þough þ<HI REND="italic">a</HI>t I be but a lytell movse, <NOTE PLACE="foot">446 <HI REND="italic">Sauerstein interpungiert seltsamerweise</HI> And though, that ‖ movse] v <HI REND="italic">aus etwas anderem C</HI></NOTE></L>
+<L>Ther ys no lorde, mo castelles haþ to kepe, <MILESTONE N="(6, 90)"/></L>
+<L>Then I haue hernes <HI REND="italic">and</HI> hooles in to crepe.</L>
+</LG>
+<LG>
+<L>Abyde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> me all nyght in þys mylle, <NOTE PLACE="foot">449 alnyght with me <HI REND="italic">L</HI></NOTE></L>
+<L>That we togedyr may haue our dalyaunce. <MILESTONE N="450"/></L>
+<L>Of greyn <HI REND="italic">and</HI> mele þ<HI REND="italic">o</HI>u shalt haue þy fylle.</L>
+<L>When frend<HI REND="italic">ys</HI> mete, ys ioy <HI REND="italic">and</HI> plesaunce. <MILESTONE N="(6, 95)"/> <NOTE PLACE="foot">452 it is <HI REND="italic">L</HI></NOTE></L>
+<L>At eue at soper we shall haue a petaunce, <NOTE PLACE="foot">453 to souper <HI REND="italic">L</HI></NOTE></L>
+<L>And, when Aurora to morow doþ apere, <NOTE PLACE="foot">454 doth to morwe <HI REND="italic">L</HI></NOTE></L>
+<L>Or we departe, we shall dyne in fere.' <MILESTONE N="455"/></L>
+</LG>
+<LG>
+<L>The frosshe answeryd <HI REND="italic">and</HI> gan hys tale telle: <NOTE PLACE="foot">456 to telle <HI REND="italic">L</HI></NOTE></L>
+<L>'I haue had here plente of vytayll, <MILESTONE N="(6, 100)"/> <NOTE PLACE="foot">457 *of goode vitaile <HI REND="italic">L</HI></NOTE></L>
+<L>Of fresshe lyco<HI REND="italic">ur</HI> þys ys a baren mylle. <NOTE PLACE="foot">458 * But of <HI REND="italic">L</HI></NOTE></L>
+<L>I prayse no feeste, where good drynke doþ fayll,</L>
+<L>And what ys worþe all þe apparayll <MILESTONE N="460"/> <NOTE PLACE="foot">460 And <HI REND="italic">fehlt L</HI> ‖ þe] the straunge <HI REND="italic">L</HI></NOTE></L>
+<L>Of diu<HI REND="italic">er</HI>se deyntees to a mannys lust, <NOTE PLACE="foot">461 deyntees] metis <HI REND="italic">L</HI> ‖ a <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>When aftyr mete men gon awey a thrust? <MILESTONE N="(6, 105)"/> <NOTE PLACE="foot">462 men] gestis <HI REND="italic">L</HI> ‖ <HI REND="italic">auch in L getrennt</HI> a thurst: <HI REND="italic">man sah darin wohl ein Nomen = ae.</HI> on þurste</NOTE></L>
+</LG>
+<LG>
+<L>Good drynke at festes makeþ all þe chere,</L>
+<L>Well sesenyd mete, of good drynke habundance. <NOTE PLACE="foot">464 of—hab.] * requirith drynk suffisaunce <HI REND="italic">L</HI> (suffisaunce <HI REND="italic">zeigt dieselbe Konstruktion wie</HI> plente <HI REND="italic">u. dgl.).</HI></NOTE></L>
+<L>Here fast by ys a brode ryuere, <MILESTONE N="465"/></L>
+<L><PB N="22" REF="22"/>
+Whyche of fresshe watyr haþ all suffisaunce. <NOTE PLACE="foot">466 suffisaunce] *habaundaunce <HI REND="italic">L</HI></NOTE></L>
+<L>Bacus, Thetis be causers of plesaunce, <NOTE PLACE="marg">Bacus god of wyne, Thet<HI REND="italic">is</HI> god of wat<HI REND="italic">er.</HI></NOTE> <NOTE PLACE="foot">467 <HI REND="italic">ff. Die Randbemerkung rot C, fehlt L</HI></NOTE> <NOTE PLACE="foot">467 <HI REND="italic">Asyndeton auch in L, aber Sauerstein hat</HI> and <HI REND="italic">interpoliert (vgl. zu V.</HI> 246) ‖ Thetus <HI REND="italic">L</HI> ‖ cause <HI REND="italic">L (Sauerstein hat gegen die Handschrift</HI> because <HI REND="italic">zusammengeschrieben: ich weiss nicht, wie er das verstanden hat)</HI></NOTE></L>
+<L>And, to discure þe sentence of my þought, <NOTE PLACE="foot">468 discure] discord <HI REND="italic">L</HI></NOTE></L>
+<L>Where þey two fayle, I sey, þe fest ys nought.' <NOTE PLACE="foot">469 þey] these <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>They passyd forþe by a grene mede: <MILESTONE N="15v. a."/> <MILESTONE N="470"/></L>
+<L>The sylu<HI REND="italic">er</HI> dew toward þe mornyng <NOTE PLACE="foot">471 þe <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>Haþe of þe mowse soylyd so þe wede, <MILESTONE N="(6, 115)"/> <NOTE PLACE="foot">472 soylyd] wet <HI REND="italic">L</HI></NOTE></L>
+<L>That he haþ lost hys power of rennyng. <NOTE PLACE="foot">473 of] and <HI REND="italic">L</HI></NOTE></L>
+<L>Thus were þese wormes contrary of lyuyng:</L>
+<L>The frosshe delyteþ to abyde in mory lakys, <MILESTONE N="475"/> <NOTE PLACE="foot">475 delyteþ] desirith <HI REND="italic">L</HI></NOTE></L>
+<L>The mowse to fede hym on chese <HI REND="italic">and</HI> tendyr cakys.</L>
+</LG>
+<LG>
+<L>The mowse was wery w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe frosshe to abyde, <MILESTONE N="(6, 120)"/></L>
+<L>But þe frosshe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a false feynyd chere <NOTE PLACE="foot">478 feyneng <HI REND="italic">L</HI></NOTE></L>
+<L>Seyþe to þe mowse: 'Yende on þe oþer syde <NOTE PLACE="foot">479 Sayde <HI REND="italic">L</HI> ‖ yonder on that <HI REND="italic">L</HI></NOTE></L>
+<L>Ys myne abydyng vppon þe water clere. <MILESTONE N="480"/></L>
+<L>Lat vs go swy<HI REND="italic">m</HI>me ou<HI REND="italic">er</HI> þe ryuere,</L>
+<L>And, lyke as I haue vnto þe tolde, <MILESTONE N="(6, 125)"/></L>
+<L>Thow shalt abyde <HI REND="italic">and</HI> see þere my householde.'</L>
+</LG>
+<LG>
+<L>The mowse answeryd quakyng in hys drede:</L>
+<L>'I haue of swy<HI REND="italic">m</HI>myng noon exp<HI REND="italic">er</HI>ience.' <MILESTONE N="485"/></L>
+<L>'No', quoth þe frosshe, 'I shall tey a threde</L>
+<L>About þy nek by gret diligence, <MILESTONE N="(6, 130)"/></L>
+<L>The other ende shall for þy defence <NOTE PLACE="foot">488 That other <HI REND="italic">L</HI></NOTE></L>
+<L>At my leg sore be knyt behynde <NOTE PLACE="foot">489 sore] fast <HI REND="italic">hinter</HI> knyt <HI REND="italic">L</HI> (fast <HI REND="italic">ist wohl vorzuziehen)</HI></NOTE></L>
+<L>Ou<HI REND="italic">er</HI> þe broke passage for to fynde.' <MILESTONE N="490"/></L>
+</LG>
+<LG>
+<L>Thus gan þe frosshe cou<HI REND="italic">er</HI>tly to feyne</L>
+<L>Of false fraude þe lytell mowse to drowne. <MILESTONE N="(6, 135)"/></L>
+<L>The frosshe by swy<HI REND="italic">m</HI>myng dyd hys besy peyne</L>
+<L>To make þe mowse lowe to plonge downe. <NOTE PLACE="foot">494 adowne <HI REND="italic">L.</HI></NOTE></L>
+<L>Forþe goþ þe frosshe, þe mowse for fere gan sowne, <MILESTONE N="495"/></L>
+<L>And in þys whyle a kyte, or þey toke hede,</L>
+<L>Raught hem boþe vp hangyng by þe þrede. <MILESTONE N="(6, 140)"/></L>
+</LG>
+<LG>
+<L>Fatte was þe frosshe, þe mowse sklender <HI REND="italic">and</HI> lene;</L>
+<L>The frosshe deuouryd because of hys fatnes.</L>
+<L>The threde tobrake, þe mowse fell on þe grene, <MILESTONE N="500"/></L>
+<L><PB N="23" REF="23"/>
+Fro deþe escapyd: þe frosshe for hys falsnes <NOTE PLACE="foot">501 he skapid <HI REND="italic">L</HI></NOTE></L>
+<L>Gwerdon receueþ of vnkyndenes. <MILESTONE N="(6, 145)"/> <NOTE PLACE="foot">502 Gwerdon] Gwer <HI REND="italic">undeutlich C</HI> ‖ of] for his <HI REND="italic">L</HI></NOTE></L>
+<L>For conclusion, clerk<HI REND="italic">ys</HI> put in mynde, <NOTE PLACE="foot">503 For this c. <HI REND="italic">L</HI></NOTE></L>
+<L>Lawe <HI REND="italic">and</HI> nature pleynyn on folke vnkynde. <NOTE PLACE="foot">504 That lawe <HI REND="italic">L</HI> ‖ of folkis <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<DIV2 TYPE="conclusion">
+<HEAD>Conclusio. <MILESTONE N="15v. b."/> <NOTE PLACE="foot">Conclusio <HI REND="italic">rot in C, fehlt L</HI></NOTE></HEAD>
+<LG>
+<L>Of vyces all, shortly to conclude, <MILESTONE N="505"/></L>
+<L>Ther ys no vyce in co<HI REND="italic">m</HI>paryson <NOTE PLACE="foot">506 in comparyson] * so parilous of reason <HI REND="italic">L</HI></NOTE></L>
+<L>To þe vyce of ingratitude; <MILESTONE N="(6, 150)"/> <NOTE PLACE="foot">507 To] *As is <HI REND="italic">L</HI></NOTE></L>
+<L>For hit ys worse, þen pestylence or poyson,</L>
+<L>More to be drad, me semeþ, of reson: <NOTE PLACE="foot">509 And more <HI REND="italic">L</HI></NOTE></L>
+<L>P<HI REND="italic">re</HI>s<HI REND="italic">er</HI>uatyf made for pestylence, <MILESTONE N="510"/> <NOTE PLACE="foot">510 *Preservatifs are made <HI REND="italic">L</HI></NOTE></L>
+<L>But agayn fraude may be no defence.</L>
+</LG>
+<LG>
+<L>In þys fable for an exemplary <MILESTONE N="(6, 155)"/></L>
+<L>For þe party of pure innocence <NOTE PLACE="foot">513 parties in pure <HI REND="italic">L</HI></NOTE></L>
+<L>The mowse ys but sympyll, nat contrary, <NOTE PLACE="foot">514 but <HI REND="italic">fehlt L</HI> ‖ *and nat <HI REND="italic">L</HI></NOTE></L>
+<L>Where þe frosshe by fraude <HI REND="italic">and</HI> violence <MILESTONE N="515"/></L>
+<L>Vnder colo<HI REND="italic">ur</HI> of frendly dylygence</L>
+<L>Was eu<HI REND="italic">er</HI> besy hys felow to encloy: <MILESTONE N="(6, 160)"/></L>
+<L>The cause out sought hit dyd hy<HI REND="italic">m</HI>sylf dystroy. <NOTE PLACE="foot">518 hit] he <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>To a deceyuo<HI REND="italic">ur</HI> by ryght, as hit ys founde: <NOTE PLACE="foot">519 <HI REND="italic">ist</HI> by = be <HI REND="italic">L als Konj. des Verb. subst. zu nehmen? 'Dem Betrüger gehe es genau, wie man es (in der Fabel) findet'?</HI></NOTE></L>
+<L>Kynde requyreþ in folk<HI REND="italic">ys</HI> fraudulent, <MILESTONE N="520"/></L>
+<L>Where fraude ys vsyd, fraude mot rebounde,</L>
+<L>Gwerdon for fraude most conuenient; <MILESTONE N="(6, 165)"/></L>
+<L>For whyche Isopus in hys fynall entent <NOTE PLACE="foot">523 in hys] *to this <HI REND="italic">L (vgl.</HI> 2, 416)</NOTE></L>
+<L>Thys fable wrote full soþly in hys wyt: <NOTE PLACE="foot">524 soþly] shortly <HI REND="italic">L</HI></NOTE></L>
+<L>Who useþ fraude, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> fraude shalbe quyt. <MILESTONE N="525"/> <NOTE PLACE="foot">525 shalbe <HI REND="italic">auch in L zusammengeschrieben</HI></NOTE></L>
+<TRAILER>Explicit. <NOTE PLACE="foot">Explicit <HI REND="italic">rot C,</HI> Here endith the .v. fable of Isopos discernyng the myschief that the frossh <HI REND="italic">(hier fehlt wohl ein Verbum, etwa</HI> hadde) for his ingratitud shewed to the mowse <HI REND="italic">L</HI></NOTE></TRAILER>
+</LG>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>The tale of þe hownde and þe shepe groundyd ayen p<HI REND="italic">er</HI>iure <HI REND="italic">and</HI> false wytnes founde by Isopus. <NOTE PLACE="foot">The tale—Isopus <HI REND="italic">rot C,</HI> Here begynneth the .iii. fabul of Isopos <HI REND="italic">L</HI></NOTE></HEAD>
+<LG>
+<L>The world made diu<HI REND="italic">er</HI>se by froward folk<HI REND="italic">ys</HI> tweyne, <MILESTONE N="(4, 1)"/> <NOTE PLACE="foot">526 <HI REND="italic">vgl. zu V.</HI> 1.</NOTE></L>
+<L>By a false iorro<HI REND="italic">ur</HI> and a false wytnesse,</L>
+<L>Horryble monstres enbrasyd in a cheyne</L>
+<L><PB N="24" REF="24"/>
+Trouþe forto assayle <HI REND="italic">and</HI> greuosly to oppresse, <NOTE PLACE="foot">529 forto] to <HI REND="italic">L</HI></NOTE></L>
+<L>Whyche forto clypse þe lyght of ryghtwysnesse <MILESTONE N="(4, 5)"/> <MILESTONE N="530"/></L>
+<L>Be nat aferde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hande put forþe toforn <NOTE PLACE="foot">531 a forn <HI REND="italic">L</HI></NOTE></L>
+<L>Vppon a boke falsely to be forsworn!</L>
+</LG>
+<LG>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> cancryd lyppes <HI REND="italic">and</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> tung double <MILESTONE N="16r. a."/></L>
+<L>Twene ryght <HI REND="italic">and</HI> wrong forþe þey woll p<HI REND="italic">ro</HI>cede, <NOTE PLACE="foot">534 Atwene <HI REND="italic">L</HI> ‖ forþe þ. w.] that wiln forth <HI REND="italic">L</HI></NOTE></L>
+<L>Ryghtfull causes to trau<HI REND="italic">er</HI>se <HI REND="italic">and</HI> trouble, <MILESTONE N="(4, 10)"/> <MILESTONE N="535"/> <NOTE PLACE="foot">535 Rightwis <HI REND="italic">L</HI> ‖ trauerse and] transgres <HI REND="italic">L</HI></NOTE></L>
+<L>To be forsworn on a boke for mede. <NOTE PLACE="foot">536 vpon <HI REND="italic">L</HI></NOTE></L>
+<L>Of conscience þey take so lytell hede;</L>
+<L>Whyche þyng to p<HI REND="italic">re</HI>ue by exsa<HI REND="italic">m</HI>ples full notable <NOTE PLACE="foot">538 thynges <HI REND="italic">L</HI> ‖ example notable <HI REND="italic">L</HI></NOTE></L>
+<L>Of olde Isopus whylom wrote þys fable. <NOTE PLACE="foot">539 olde date <HI REND="italic">L</HI> ‖ whylom <HI REND="italic">fehlt L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Hauyng thys conceyte set hit for a grounde: <MILESTONE N="(4, 15)"/> <MILESTONE N="540"/> <NOTE PLACE="foot">540 and set <HI REND="italic">L</HI></NOTE></L>
+<L>By man<HI REND="italic">er</HI> lyknes rehersyng in sentence <NOTE PLACE="foot">541 * By a maner <HI REND="italic">L</HI></NOTE></L>
+<L>He wrete, þ<HI REND="italic">er</HI> was whylom a gret hounde, <NOTE PLACE="foot">542 writeth <HI REND="italic">L (ist</HI> wrete <HI REND="italic">in C</HI> = writ, writeth <HI REND="italic">oder für</HI> wrote <HI REND="italic">verschrieben?)</HI> ‖ that ther <HI REND="italic">L</HI></NOTE></L>
+<L>Whyche toke a quarell by hatefull violence <NOTE PLACE="foot">543 toke] to <HI REND="italic">L</HI></NOTE></L>
+<L>Agayns a shepe simple of innocence, <NOTE PLACE="foot">544 of] and <HI REND="italic">L</HI></NOTE></L>
+<L>Whyche stood alone voyde of all refuge, <MILESTONE N="(4, 20)"/> <MILESTONE N="545"/></L>
+<L>Constreynyd by force to apere afore a iuge. <NOTE PLACE="foot">546 a] the <HI REND="italic">L</HI> ‖ <HI REND="italic">Der übrige Teil des Blattes leer C.</HI></NOTE></L>
+</LG>
+</DIV1>
+<DIV1 TYPE="fable">
+<HEAD>III. Die Fabel vom Hund und Schatten</HEAD>
+<HEAD TYPE="sub">nach der Oxforder Hs. Ashmole 59.</HEAD>
+<DIV2 TYPE="preface">
+<P><HI REND="italic">Die Oxforder Hs. (= O) ist von Shirley geschrieben: man setzt sie</HI> 1430-40. <HI REND="italic">Am Anfang einer neuen Strophe steht ein Paragraphzeichen. Im übrigen verweise ich auf die Vorbemer∣kung unter</HI> II. <HI REND="italic">Die Abschrift der Fabel verdanke ich meinem Freunde Napier.</HI></P>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>Here begynneþe a notable proverbe of Ysopus <MILESTONE N="24v." UNIT="fol."/> Ethiopyen in balad by daun Iohan Liedegate made in Oxenford. <NOTE PLACE="foot">Die Überschrift fehlt L</NOTE></HEAD>
+<LG>
+<L>An olde proverbe haþe beo seyde and shal <MILESTONE N="(8, 1)"/></L>
+<L>Touching þe vyce of gredye coveytyse: <NOTE PLACE="foot">2 coveytyse] <HI REND="italic">der obere Teil des ersten</HI> e <HI REND="italic">ist in O verblasst</HI></NOTE></L>
+<L>Who al coveyteþe, offt he leseþe al;</L>
+<L>Loo, wherevppon Isopus doþe devyse <NOTE PLACE="foot">4 * Loo <HI REND="italic">fehlt L.</HI></NOTE></L>
+<L>A moral fabul rehersing in þis wyse, <MILESTONE N="5"/></L>
+<L><PB N="25" REF="25"/>
+Howe a grehounde over a brugge ful sqware <NOTE PLACE="foot">6 * grete hownd <HI REND="italic">L</HI> ‖ * ful <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>A large cheese in his mouþe he bare.</L>
+</LG>
+<LG>
+<L>Casting his looke adowne into þe ryviere <NOTE PLACE="foot">8 downe <HI REND="italic">L</HI> ‖ * to <HI REND="italic">L</HI></NOTE></L>
+<L>By apparence and fals illusyoun, <NOTE PLACE="foot">9 and] of <HI REND="italic">L</HI></NOTE></L>
+<L>As Isopus dempte, þere did appere, <MILESTONE N="10"/> <NOTE PLACE="foot">10 Isopus <HI REND="italic">(statt</HI> o <HI REND="italic">könnte man allenfalls auch</HI> a <HI REND="italic">lesen) O,</HI> * he <HI REND="italic">L</HI> ‖ * a cheese ther <HI REND="italic">L</HI></NOTE></L>
+<L>Whiche was nought ellis, but þe reflecc<HI REND="italic">i</HI>on <NOTE PLACE="foot">11 Whiche <HI REND="italic">O,</HI> And <HI REND="italic">L</HI></NOTE></L>
+<L>Of þe cheese, grehounde hade possessyoun; <NOTE PLACE="foot">12 grehounde hade] * in his <HI REND="italic">L</HI></NOTE></L>
+<L>Whiche for to kacche þe grehounde did his peyne, <NOTE PLACE="foot">13 for <HI REND="italic">fehlt L</HI> ‖ þe greh.] * whan he <HI REND="italic">L</HI></NOTE></L>
+<L>And opunyng his mouþe he loste boþe tweyne. <NOTE PLACE="foot">14 * And <HI REND="italic">fehlt L</HI></NOTE></L>
+</LG>
+<LG>
+<L>By whiche ensample men may here lere <MILESTONE N="15"/> <NOTE PLACE="foot">15 here] *conseyve and <HI REND="italic">L</HI></NOTE></L>
+<L>(Þexparyence is proeved in many place), <NOTE PLACE="foot">16 * Be experience proved in many a place <HI REND="italic">L</HI></NOTE></L>
+<L>Who al þat coveyteþe, leseþe offte al in feere; <NOTE PLACE="foot">17 * þat <HI REND="italic">fehlt L</HI> ‖ leseþe offte] faileth <HI REND="italic">L</HI></NOTE></L>
+<L>A man al oone ne may not al purchace <NOTE PLACE="foot">18 For oo man <HI REND="italic">L</HI> ‖ ne <HI REND="italic">fehlt L</HI></NOTE></L>
+<L>Ne in heos armes al þe worlde enbrace. <NOTE PLACE="foot">19 Nor <HI REND="italic">L</HI></NOTE></L>
+<L>A meene is beste with gode governance <MILESTONE N="20"/> <NOTE PLACE="foot">20 meene] man <HI REND="italic">L</HI></NOTE></L>
+<L>To hem, þat beon contente with suffisance. <NOTE PLACE="foot">21 with litel suffisance <HI REND="italic">L</HI></NOTE></L>
+</LG>
+<LG>
+<L>Þere is noman, þat liveþe more at eese,</L>
+<L>Þane he, þat cane with lytel beo contente.</L>
+<L>Þe contrarye he stondeþe ay in disese, <MILESTONE N="25r." UNIT="fol."/> <NOTE PLACE="foot">24 Þe] In <HI REND="italic">L</HI> ‖ euer <HI REND="italic">L</HI></NOTE></L>
+<L>Þat in his herte with coveytyse is blent. <MILESTONE N="25"/></L>
+<L>With suche fals etykes many man is shent, <NOTE PLACE="foot">26 etykes] de∣sires <HI REND="italic">L: die Lesart von O ist gewiss vorzuziehen, da Lydgate sehr oft</HI> etyke (= <HI REND="italic">ne.</HI> hectic; <HI REND="italic">vgl. Halliwell) in übertragenem Sinne braucht: Fall of Princes</HI> 83 <HI REND="italic">r. a. unten</HI> To staunch the etike of hys gredinesse; 89 <HI REND="italic">v. b.</HI> Their hungry etike kyndleth so the fiers Of auarice; 91 <HI REND="italic">v. a. unten</HI> Their freting etik of hate incomparable; 93 <HI REND="italic">r. b. oben</HI> Whose freting etik there mai no plentie fede <HI REND="italic">u. s. w.</HI> ‖ many a <HI REND="italic">L</HI></NOTE></L>
+<L>Lyche þe grehounde nought content w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oone cheese <NOTE PLACE="foot">27 * Like as the hownd <HI REND="italic">L</HI></NOTE></L>
+<L>Desireþe tweyne, þerfore he doþe boþe leese. <NOTE PLACE="foot">28 But *desired <HI REND="italic">L</HI> ‖ þerfore—boþe] * and both he dide <HI REND="italic">L</HI> ‖ <HI REND="italic">Schluss in L</HI> Here en∣dith the .vii. fable of Isopos declaryng what damage folwith on couetise.</NOTE></L>
+</LG>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

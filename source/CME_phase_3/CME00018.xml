@@ -1,0 +1,3683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>6-21-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; added two P; removed two Ps. Checked <SUP>s</SUP>. Reviewed structure; changed TRAILER to CLOSER. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00018">
+<STC T="M">18</STC>
+<BIBNO T="mec">CME00018</BIBNO>
+<VID>CME00018</VID>
+</IDG>
+<TEXT LANG="enm">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>THE SEVEN SAGES,</P>
+<P>IN ENGLISH VERSE,</P>
+<P>EDITED FROM A MANUSCRIPT IN THE PUBLIC LIBRARY OF THE UNIVERSITY OF CAMBRIDGE BY THOMAS WRIGHT, ESQ., M.A., F.S.A. HON. M.R.S.L., ETC.</P>
+<P>CORRESPONDING MEMBER OF THE INSTITUTE OF FRANCE, (ACADEMIE DES INSCRIPTIONS ET BELLES LETTRES.)</P>
+<P>LONDON. PRINTED FOR THE PERCY SOCIETY, BY T. RICHARDS, 100, ST. MARTIN'S LANE.</P>
+<P>M.DCCC.XLV.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2"/>
+<HEAD>THE SEVEN SAGES.</HEAD>
+<LG>
+<L>IN Rome was an emperour,</L>
+<L>A man of swyth mikil honur,</L>
+<L>As the book tellys us,</L>
+<L>Is name was Deocclicius,</L>
+<L>Al the londe hadde to gye,</L>
+<L>And hadd a wyfe that hight Helie.</L>
+<L>Bitwene thaym twa come an ayer,</L>
+<L>A good child and a faire;</L>
+<L>The emperour and is wif</L>
+<L>Lovenden the child as hare lyf. <MILESTONE N="10"/></L>
+<L>The emperour wax an old man,</L>
+<L>And on a day thynke he gan</L>
+<L>Uppon his sone that was so bolde,</L>
+<L>And was bot sevene wyntur olde.</L>
+<L>The emperour for-thoght sore</L>
+<L>Tha the child ware sette to lore;</L>
+<L>After the seven sages he sent,</L>
+<L>And messangers anon thare went,</L>
+<L>And broghten the clerkes of honour</L>
+<L>Ryght byfore the emperour. <MILESTONE N="20"/></L>
+<L><PB N="2" REF="3"/>
+Into a chambir out of the halle</L>
+<L>He toke thaym, and refreynde alle,</L>
+<L>Whilk of thaym he myght take</L>
+<L>Hys sone a wyes man to make.</L>
+<L>The heldest answerde the emperour,</L>
+<L>That whas a man of mykil honour,</L>
+<L>A lene oor man he was,</L>
+<L>Kyd was callid Baucillas;</L>
+<L>He sayed to the emperour,</L>
+<L>"Woldestow do me that honour,</L>
+<L>To bytake thy sone to me, <MILESTONE N="30"/></L>
+<L>Thow scholdest bath here and see,</L>
+<L>Er thys seven ȝer ware a-goon,</L>
+<L>He sholde conne hym self al on,</L>
+<L>By God Almighty that is in heven,</L>
+<L>Also mykyl as we sevene."</L>
+<L>The secunde mayster was nawt so holde</L>
+<L>Ase Baucillas, no nawt so bolde;</L>
+<L>A man he was that loved pees,</L>
+<L>And whas callid Ancillees. <MILESTONE N="40"/></L>
+<L>"Sire emperoure, ȝif it so bee</L>
+<L>Thow wille bytake thy sone to me,</L>
+<L>For thy love I wille hym teche,</L>
+<L>Into his hert fort reche</L>
+<L>Al the clergy undir sonne</L>
+<L>That we seven clerkes cunne.</L>
+<L>This I wile sikere the,</L>
+<L>Gyf he schal byleve with me."</L>
+<L>The thirde a lene man was,</L>
+<L><PB N="3" REF="4"/>
+And couthe mykil solas, <MILESTONE N="50"/></L>
+<L>And was callid Lentulus:</L>
+<L>Hee sayed to the emperour thus,</L>
+<L>"Sire emperour, take nowt a-greef,</L>
+<L>Tak me thy childe that is te leve,</L>
+<L>And er ther passe thre and fyve,</L>
+<L>Yf he have wyt and his on lyve,</L>
+<L>He schal conne hym self alone</L>
+<L>As mykil wit as we ilkone."</L>
+<L>The fyrde mayster he roos and spake,</L>
+<L>He was nowthir whyit no blake, <MILESTONE N="60"/></L>
+<L>And inred man he was,</L>
+<L>And was callid Maladas;</L>
+<L>"Sire," he sayde, "take me thyn heire,</L>
+<L>That his bothe good and faire;</L>
+<L>Bote for sothe I wile for-sake</L>
+<L>That my felawes hase undirtake:</L>
+<L>A wondir thyng that were bygyne</L>
+<L>To teche hym that my felawes cune.</L>
+<L>Bot I walde teche hym, as I am a man,</L>
+<L>Also mykil good as I can." <MILESTONE N="70"/></L>
+<L>The fyfte mayster up araes,</L>
+<L>That of wisdom bare grete loos,</L>
+<L>He was boren in Rome toune,</L>
+<L>And was callid mayster Caton;</L>
+<L>He sayd, "Sire emperour, i-wis,</L>
+<L>The sothe tale that his this,</L>
+<L>To teche hym that my felawes cane,</L>
+<L>A grete foly it were bygyne;</L>
+<L><PB N="4" REF="5" MS="y"/>
+Bote yf thow wilt bitake hym me,</L>
+<L>I wille, for honour of the, <MILESTONE N="80"/></L>
+<L>As I am trewe mane,</L>
+<L>Hym teche the clergy that I can."</L>
+<L>The sexte was a ȝong man</L>
+<L>That no berd non bygane,</L>
+<L>And sayed, "Sire, bythoght fening,</L>
+<L>Take thy sone in my kypyng,</L>
+<L>And that wole do so by myn attente,</L>
+<L>That ȝe no schal nouȝt repente."</L>
+<L>In this manere answerde he,</L>
+<L>And was callid maystir Jess. <MILESTONE N="90"/></L>
+<L>The sevent mayister answerd thus,</L>
+<L>And was hoten Marcius:</L>
+<L>"Sire, I have servyd the ȝare,</L>
+<L>Sythen I couthe first of lare,</L>
+<L>Fram that day hidyr to,</L>
+<L>Al that evere I have done</L>
+<L>I queth ȝou, sire emperoure;</L>
+<L>Woltow do me that honour,</L>
+<L>To take me thy childe to ȝeme,</L>
+<L>And I wille teche hym the to greme." <MILESTONE N="100"/></L>
+<L>The emperour with wordis stille</L>
+<L>Thaynked thaym with good wille;</L>
+<L>"By the deth that I schal dee,</L>
+<L>I nylle party ȝoure company,</L>
+<L>I nylle take my sone to one,</L>
+<L>I bytake hym ȝow ilkone,</L>
+<L>To teche hym in chambyr and in halle,</L>
+<L><PB N="5" REF="6"/>
+That I be holden to ȝou alle."</L>
+<L>Thay thanked alle the emperour,</L>
+<L>That grauntyd hem that honour, <MILESTONE N="110"/></L>
+<L>To have in hare kepyng</L>
+<L>That he loved thorou al thyng.</L>
+<L>Thay token leve at the emperour,</L>
+<L>And ladde the childe with honour,</L>
+<L>The sevene mayster alle y-fere,</L>
+<L>Ther the childe schulde lere.</L>
+<L>Than sayd maystir Catone,</L>
+<L>"Yf he dwelle here in the toune,</L>
+<L>Certes it may nought be</L>
+<L>That he schal here or see <MILESTONE N="120"/></L>
+<L>Wylen to don or speke with mouthe,</L>
+<L>And that nolde we nought that he couth.</L>
+<L>Sykyrly for to telle,</L>
+<L>There most he nouȝt dwelle."</L>
+<L>The seven maysteres thay hym nome</L>
+<L>I note how mykil out of Rome,</L>
+<L>For to ordayne and dyvise,</L>
+<L>Or the childe ware sette aprise,</L>
+<L>Ware thay myȝte a stude make,</L>
+<L>A real, for the childes sake, <MILESTONE N="130"/></L>
+<L>Whare he myght of wit lere,</L>
+<L>And none vileny heere.</L>
+<L>A studie thay fonden swyth fayre,</L>
+<L>And a stude of good eeir;</L>
+<L>Fayre welles there wellyde fast,</L>
+<L>And fayre trees schadow to kast.</L>
+<L><PB N="6" REF="7"/>
+In the fayrest place of alle</L>
+<L>They lete reren a halle;</L>
+<L>Nought as anothir halle it nas,</L>
+<L>Even four cornarde it was. <MILESTONE N="140"/></L>
+<L>Thay late rere in ilce a syde</L>
+<L>Fayre chambirs many and wyde;</L>
+<L>Every mayster hadde oone</L>
+<L>In to lygge and to goon.</L>
+<L>Than al togydir was wrought,</L>
+<L>Er the childe wer thydir brought,</L>
+<L>Fyrst gamen to bygynne,</L>
+<L>The sevene sciens payent therin.</L>
+<L>Whan al togydyr was wrought,</L>
+<L>The childe thar-in was brought, <MILESTONE N="150"/></L>
+<L>Amyd the halle hys bede was made,</L>
+<L>When he lay ther-in naked,</L>
+<L>Hon ilce half he myȝt byholde</L>
+<L>At ilke tyme whane he wolde,</L>
+<L>Uppon the wallis he myght see</L>
+<L>What hys lesson schulde bee.</L>
+<L>Alle hys maystirs were about,</L>
+<L>To teche hym, for hys fadir dout;</L>
+<L>Evermore wil he wooke,</L>
+<L>When on levede, anothir tooke, <MILESTONE N="160"/></L>
+<L>That or the sevene ȝere were goon,</L>
+<L>Of seven artis nastir noon</L>
+<L>That he no couthe good skil inne,</L>
+<L>Wastir noon to bygynne.</L>
+<L>Whan his maystirs taught noght,</L>
+<L><PB N="7" REF="8"/>
+He lernede of his owen thoght;</L>
+<L>That on a day in the halle</L>
+<L>He disputide with ham alle,</L>
+<L>And thay were glad of that he couthe,</L>
+<L>And sayed ilcon with othir to mouthe, <MILESTONE N="170"/></L>
+<L>"The childe wax a wyes man;</L>
+<L>Prove we more what he can."</L>
+<L>Thay were bythout in a wile</L>
+<L>For to do the childe a gyle,</L>
+<L>For to prove of hym more,</L>
+<L>How depe he was in lore.</L>
+<L>The childes bede was maked in stage,</L>
+<L>Of four postis as a kage;</L>
+<L>Undir ilc post thay layden,</L>
+<L>Aste the clercus hem selven sayden, <MILESTONE N="180"/></L>
+<L>Four yven leves togydir knyt,</L>
+<L>For to proven of his wit.</L>
+<L>Uppon morwen, tho it was day,</L>
+<L>The childe awakid there he lay,</L>
+<L>He loked low, he loked hee,</L>
+<L>And kast wildeliche his hye;</L>
+<L>He loked in ilce half of his bede,</L>
+<L>As a man thot ware adrad.</L>
+<L>Than come the maystir Baucillas,</L>
+<L>And askyde the childe what him was: <MILESTONE N="190"/></L>
+<L>"Wy lokesttow so aboute thy bede?</L>
+<L>Artou of eny thyng adrade?"</L>
+<L>The childe answerde in his bede,</L>
+<L>"I am of no man adrade;</L>
+<L><PB N="8" REF="9"/>
+Bote a lytil I merveyle me</L>
+<L>Of a thyng that I see.</L>
+<L>This house that is so strange dyȝt,</L>
+<L>The rofe hys sonkon to nyght,</L>
+<L>Or the flore his resyn on hye,</L>
+<L>Sythen I last the rofe see." <MILESTONE N="200"/></L>
+<L>"Certys," quod Maladas,</L>
+<L>"That ware a wondir kas!</L>
+<L>For in noone kynne wyse,</L>
+<L>The flore ne may nouȝt aryse.</L>
+<L>The post been grete and nouȝt smal,</L>
+<L>How myȝte the rofe awale?</L>
+<L>Hyt ne may on non wys be,</L>
+<L>Thyng that thow tellyst me."</L>
+<L>"By God, maister, I am noght dronken,</L>
+<L>Yf the rofe his nouȝt sonken, <MILESTONE N="210"/></L>
+<L>Ne the flore rysyn on hye,</L>
+<L>Sithen I last the rofe see,</L>
+<L>Than his my bede undir-layede;</L>
+<L>That no may nouȝt bee wyt-sed."</L>
+<L>Thay nolden no langer with hym ȝede,</L>
+<L>Ne suffry langer lygge in bede.</L>
+<L>Bote while he wente in solas,</L>
+<L>Maden the bedde as hit was:</L>
+<L>Ilkon sayed to other thus,</L>
+<L>"He his a wyse man y-wys." <MILESTONE N="220"/></L>
+<L>Wyl the childe at scole was,</L>
+<L>Hym byfel a harde caes;</L>
+<L>Hys modir deyde, that hatte Elye,</L>
+<L><PB N="9" REF="10"/>
+As we schalle alle dye.</L>
+<L>Sone aftir that scho was dede,</L>
+<L>Hys fadir hadde anothir rede;</L>
+<L>Grete lordis of honour</L>
+<L>Come anone to the emperour,</L>
+<L>And sayden, "Thow hase londis y-now;</L>
+<L>Hit were tyme for to wouwe, <MILESTONE N="230"/></L>
+<L>And to have anothir wyf,</L>
+<L>For to ledde with thy lif,</L>
+<L>Thou ne havest no childe bot hon,</L>
+<L>And mygtyst susteyne many oon."</L>
+<L>The emperour was jolyf of blode,</L>
+<L>And hare councel undirstood;</L>
+<L>And to thaym alle sayede hee,</L>
+<L>"Lordyngs, thanne aspye ȝe</L>
+<L>A womman worthy to be my make,</L>
+<L>And with ȝoure consel I wil hire take." <MILESTONE N="240"/></L>
+<L>Tho thay seen he wolde acente,</L>
+<L>For to seche anon thay wente,</L>
+<L>Of hye lynage and faire manere</L>
+<L>A lady for to be his feere.</L>
+<L>Alle the lordis soghten fast,</L>
+<L>And fande a lady at the last.</L>
+<L>At schorte wordis for to telle,</L>
+<L>The emperour ne wolde nouȝt dwel,</L>
+<L>Hee wedded hirre ase the law was,</L>
+<L>And lyveden togydir in solas. <MILESTONE N="250"/></L>
+<L>Bot it lastid bot a while,</L>
+<L>The wyf for-dide hit with a gyle.</L>
+<L><PB N="10" REF="11"/>
+The emperasse was sone tolde</L>
+<L>Of that child that was so bolde,</L>
+<L>That was the emperour eir,</L>
+<L>A good childe and a faire.</L>
+<L>He that tolde hire that tale,</L>
+<L>Broght hir in mykil bael;</L>
+<L>For ever more scho was in thoght,</L>
+<L>That the childe were to deth broght. <MILESTONE N="260"/></L>
+<L>In a myry morny[n]g of May,</L>
+<L>The emperour in his bedde lay,</L>
+<L>And the emperesse in feere;</L>
+<L>What we saye now non schal here.</L>
+<L>"Sire," scho sayed, "hit is me tolde,</L>
+<L>That thou hase a sone bolde,</L>
+<L>A good childe and a faire,</L>
+<L>That sal be oure bothe ayere.</L>
+<L>For sothe, sire, I hold hym myn,</L>
+<L>Also wel as thou dost thyn. <MILESTONE N="270"/></L>
+<L>Therefore I besyche the,</L>
+<L>For love thou ouwest to me,</L>
+<L>Send after hym, yf it his thy wylle,</L>
+<L>And late me spek with hym my fylle:</L>
+<L>Graunt my bone, and make me glade,</L>
+<L>Hyt his the first that ever I badde."</L>
+<L>The emperour lay al stille,</L>
+<L>And lete hyre saye al hire wille;</L>
+<L>Of falsnesse non heed he nam,</L>
+<L>Bot at the last out hit kame. <MILESTONE N="280"/></L>
+<L>The emperour answerde tho,</L>
+<L><PB N="11" REF="12"/>
+"Certis, dame, I have no mo,</L>
+<L>No child bot hym i-wis;</L>
+<L>And now I wot how hit his</L>
+<L>That thow desyres hym to see,</L>
+<L>He schal come hom to the."</L>
+<L>The lady sayed thare,</L>
+<L>"Leve sire, this ilke daye</L>
+<L>Lat dyght messangers ȝare,</L>
+<L>Aftir hym for to fare." <MILESTONE N="290"/></L>
+<L>Quod the emperour, and swor ther-to,</L>
+<L>"For soth, dame, hit sal be doon."</L>
+<L>Bot the emperour wist nought</L>
+<L>What was hire wikkyd thought.</L>
+<L>An evyl deth mot scho dey!</L>
+<L>Scho purchasede thourugt nigremancye,</L>
+<L>That seven dayes and seven nyght</L>
+<L>He no schold spek with no wyght,</L>
+<L>Yf ony word hym hadde sprong,</L>
+<L>That men myght here of his tong, <MILESTONE N="300"/></L>
+<L>Anon hys hert scholde to-breke,</L>
+<L>Ne schold he never eft more speke.</L>
+<L>This hadde the wikkid womman wrout,</L>
+<L>For brynge the childe to nowt.</L>
+<L>Than messangers were ȝare,</L>
+<L>After the childe for to fare:</L>
+<L>He sayed to the messangeres,</L>
+<L>That ware bolde and feres,</L>
+<L>"To the seven sages ȝe sal wynde,</L>
+<L>And saye that I ham gretyng sende, <MILESTONE N="310"/></L>
+<L><PB N="12" REF="13"/>
+And bidde thaym withouten delay</L>
+<L>Come withinne the thyrdde day,</L>
+<L>And bryng with thaym my sone dere</L>
+<L>That thay have for to lere."</L>
+<L>Thay nolden there longe dwelle,</L>
+<L>The messangers were ful snelle,</L>
+<L>Hastilich the way thay nomen,</L>
+<L>To the seven sages thay comen,</L>
+<L>And sayden, "Clerkis of honour,</L>
+<L>Wylle ȝow gretis the emperour, <MILESTONE N="320"/></L>
+<L>And byddis ȝow within this third day</L>
+<L>Come to hym, without delay,</L>
+<L>And bryng with ȝow his sone dere,</L>
+<L>That he betauȝt ȝou to lere."</L>
+<L>Thay were resayved with gret honour,</L>
+<L>For love of the emperour.</L>
+<L>The childe and his maisters alle</L>
+<L>Went dowen out of halle</L>
+<L>Into a herber to make solas,</L>
+<L>And there sawe a wondir kas; <MILESTONE N="330"/></L>
+<L>Hit neght fast toward nyght;</L>
+<L>And the mone schone wil bryght,</L>
+<L>And thay byhelden towarde the scky,</L>
+<L>Uppon the mone that so hyȝe,</L>
+<L>And on sternes there bysyde,</L>
+<L>Of thyng that affter wolde bytyde.</L>
+<L>Than byspake maystir Caton,</L>
+<L>"Felaus, I see in the mone,</L>
+<L>We have made us alle to-don.</L>
+<L><PB N="13" REF="14"/>
+The emperour hase send us sonde, <MILESTONE N="340"/></L>
+<L>That we schal brynge his sone alle to honde;</L>
+<L>And when he comes his fadir byfore,</L>
+<L>And he speke he his lore,</L>
+<L>His stepmodir hase thorug nigrimancye</L>
+<L>So demed how the child schal dye,</L>
+<L>Yf he speke he his y-lore;</L>
+<L>And we schal by schend ther-fore.</L>
+<L>The emperour, by swete Jhesus!</L>
+<L>Alle he wille wyten us."</L>
+<L>The childe kast hys heyn a-hey, <MILESTONE N="350"/></L>
+<L>And sawe alle that Caton see;</L>
+<L>"Maystir," he sayde, "a! see ȝe</L>
+<L>Another thyng that I se?</L>
+<L>In a stere I see me lyche,</L>
+<L>And I myghte forbere speche</L>
+<L>Seven dayes and seven nyght,</L>
+<L>I scholde covere agayn my syght,</L>
+<L>And my woo turne to game,</L>
+<L>And ȝe alle out of blame."</L>
+<L>Than sayd mayster Baucillas, <MILESTONE N="360"/></L>
+<L>"For soth this his wondir cas:</L>
+<L>Tharefore take counsel sone</L>
+<L>What his best to don,</L>
+<L>How we myghte overcome this wyf,</L>
+<L>For to save oure aler lyf.</L>
+<L>For bettir be avisemend,</L>
+<L>Certenlych we be schent."</L>
+<L>The childe answerd ther he stood,</L>
+<L><PB N="14" REF="15"/>
+"I wyle gyf ȝou counsel good;</L>
+<L>Seven dayes I mot forbere</L>
+<L>That I ne gyf no answere;</L>
+<L>And yf I speke loude or stille,</L>
+<L>With the forme word I sal deye.</L>
+<L>And ȝe both, ȝe maistires sevene,</L>
+<L>The wysesde I holde undir evene,</L>
+<L>Fondys ilkon, yf ȝe may,</L>
+<L>For to holde my lyf a day</L>
+<L>With qweyntys of clergye;</L>
+<L>For ȝe be schent yf I deye."</L>
+<L>Baucillas sayed, "If I may,</L>
+<L>I schal save thy lyf a daye."</L>
+<L>And alle the othir sayed, i-wys,</L>
+<L>That ilkon wolde be for hys,</L>
+<L>And ilc mayster toke hys day</L>
+<L>To kepe hit, withouten delay.</L>
+<L>Sonenday hadde Baucillas;</L>
+<L>And ilkon wyst wylk his was.</L>
+<L>Thus thay were at on alle,</L>
+<L>And wenten agayen into the halle,</L>
+<L>And maden the messangers solas,</L>
+<L>And ȝede to bede wan tym was.</L>
+<L>O morwe, when the day was lyght.</L>
+<L>Thay hyeden that the childe were diȝt,</L>
+<L>He went forth in mykil care,</L>
+<L>And left alle hys maysters thare;</L>
+<L>With hym toke he nevere oon,</L>
+<L>Bot maistir Baucillas aloon.</L>
+<L><PB N="15" REF="16"/>
+And anon, are the none,</L>
+<L>Ryght to the cité of Rome</L>
+<L>The childe into palayes kame, <MILESTONE N="400"/></L>
+<L>And into halle the way he name.</L>
+<L>And hys fadir he gan lowte</L>
+<L>And the lordyngs al abowt.</L>
+<L>Hys fadir askyd how he ferde,</L>
+<L>And the child nowt answerde,</L>
+<L>But lowtid to his fadir anon,</L>
+<L>And stod stille as a stoon.</L>
+<L>The emperour than wroth was,</L>
+<L>Spake to the maystir Baucillas,</L>
+<L>"Mayster, how his this game goone, <MILESTONE N="410"/></L>
+<L>That my sone speke wordis noone?</L>
+<L>And tho I hym bytoke to ȝow</L>
+<L>He spake langage good i-nowe,</L>
+<L>And now ne spakys he bettir no wors:</L>
+<L>Therefore have Godys curse."</L>
+<L>"Sire," quod maystir Baucillas,</L>
+<L>"For soth hit his a wondir cas:</L>
+<L>Ȝyster day he spak as wel</L>
+<L>As ony of us, by saynt Myghel."</L>
+<L>Wyle the emperour and Baucillas <MILESTONE N="420"/></L>
+<L>Spake of that wondir cas,</L>
+<L>To the emperesse the worde was broght,</L>
+<L>That the childe ne spake noght.</L>
+<L>Scho come a-doun into the halle,</L>
+<L>And hyre maydens with hire alle,</L>
+<L>And welkomede the childe anone.</L>
+<L><PB N="16" REF="17"/>
+And he stod stille as a ston,</L>
+<L>And fayre he gan the lavydy loute,</L>
+<L>And hir mayden alle aboute.</L>
+<L>He stod stille and spake noughte: <MILESTONE N="430"/></L>
+<L>He wist ful wille hir wikyd thouȝt.</L>
+<L>The lavedy sayed to the emperour,</L>
+<L>"Y grette thy sone for gret honour,</L>
+<L>And hys mouth whas fast stoke,</L>
+<L>He wolde never a word speke."</L>
+<L>Thanne sayede the emperour,</L>
+<L>"Dame, by saynt Saviour,</L>
+<L>He wolde nothyng spek with me,</L>
+<L>How scholde he, dam, spek with the?"</L>
+<L>The lavedy sayd, that thouȝt gile, <MILESTONE N="440"/></L>
+<L>"Sire, lete us twayne bee a wyle</L>
+<L>In a chambir togidir steke,</L>
+<L>And certis, yf he sal ever speke,</L>
+<L>I sal make hym speke, i-wys,</L>
+<L>Yf anny speche in hym ys:</L>
+<L>For soth I shal bee his leche,</L>
+<L>Yf ever more shal have speche."</L>
+<L>The emperour of alle the londe</L>
+<L>Tok hys sone by the honde,</L>
+<L>And sayed, "Dame, take hym here, <MILESTONE N="450"/></L>
+<L>And wende wydir ȝe wille i-fere;</L>
+<L>I vowch hym wylle save on the,</L>
+<L>To do what thy wylle bee."</L>
+<L>The emperesse of alle the londe</L>
+<L>Tok the childe by the honde,</L>
+<L><PB N="17" REF="18"/>
+And wente into a chambyr i-fere,</L>
+<L>And ful evyly, as ȝe mowe hyre,</L>
+<L>Ful sone scho hadde a lesyng wrouȝt,</L>
+<L>For to bryng the childe to nouȝt.</L>
+<L>When scho into the chambur cam, <MILESTONE N="460"/></L>
+<L>The childe by the honde scho nam,</L>
+<L>And sayed to hym, "Lemman dere,</L>
+<L>Men wenes I be thy faderes fere:</L>
+<L>By hym that made sone and mone,</L>
+<L>He ne hade nevere with me done,</L>
+<L>No nevere more he ne schal;</L>
+<L>My body, maydenhod and alle,</L>
+<L>I have tokyn hyt to the,</L>
+<L>To do with what thy wille bee."</L>
+<L>The childe stod and spake nought, <MILESTONE N="470"/></L>
+<L>And was in swyth gret thought.</L>
+<L>Aboute hys neke hyre armees ho layed,</L>
+<L>And with hir fals tonge sayed,</L>
+<L>"Kys me, yf thy wylle bee,</L>
+<L>Alle my lyfe hys longe on the."</L>
+<L>The childe thouȝt on hevene blys,</L>
+<L>He nolde nought the lavedy kys,</L>
+<L>And non othir thynge do,</L>
+<L>Bot crepe out of hire armes two.</L>
+<L>Anon as the lady see, <MILESTONE N="480"/></L>
+<L>Out of hire armes that he flee,</L>
+<L>Al that on hir hed was layed</L>
+<L>Scho brayd hit a-don at on brayd,</L>
+<L>To-rente hyre clothes and foule ferde,</L>
+<L>And cryde at the emperour herde;</L>
+<L><PB N="18" REF="19"/>
+For men scholde tak hed,</L>
+<L>Scho made hyre vysages for to bled.</L>
+<L>Than the emperour herde hyr crye,</L>
+<L>Into the chambir he gan hye;</L>
+<L>And anon has he cam, <MILESTONE N="490"/></L>
+<L>A grete scryke up ho nam,</L>
+<L>And sayde, "My lord, syre emperour,</L>
+<L>Lo hyre what a grete honour</L>
+<L>Thy sone walde have done the,</L>
+<L>Here he walde have strangyl me,</L>
+<L>Or he walde have lyen my by,</L>
+<L>Bot I hadde areryd cry.</L>
+<L>For soth he nys nouȝt thy blode;</L>
+<L>Hit his a devel, and his wode:</L>
+<L>For sothe, bot he be bondon anon, <MILESTONE N="500"/></L>
+<L>He wil schende us ilc oon."</L>
+<L>The emperour was nere wode,</L>
+<L>When he sawe hys wyfys bloode,</L>
+<L>Hire heved bare, hire clothes rente;</L>
+<L>He swore anon, by saynt Vyncent,</L>
+<L>"I schal nevere hete brede,</L>
+<L>Here the thyfe traytour by dede."</L>
+<L>Anon ryght the emperour</L>
+<L>Callid to hym a tormentour,</L>
+<L>And anothir, and the thyrde, <MILESTONE N="510"/></L>
+<L>And sayde, "I ȝow hote and byde,</L>
+<L>Take thys thyf, and bynde hym fast,</L>
+<L>Whyle the cordis wyle laste,</L>
+<L>And ledis ȝe hym thare thyfys hyng,</L>
+<L>Anon that he have hys endyng;</L>
+<L><PB N="19" REF="20"/>
+And loke that he no tarye nouȝt,</L>
+<L>Er he be to deth brought."</L>
+<L>None durste wyth-sytte hys heste,</L>
+<L>Nouthir the lest no the moste.</L>
+<L>Thay tokyn hym, and bandyn hym fast, <MILESTONE N="520"/></L>
+<L>Whyle the cordis wolde laste,</L>
+<L>Thourth the emperours commandement,</L>
+<L>Thay laddyn hym toward juggement.</L>
+<L>Knyghtys and levedys in the halle,</L>
+<L>Squyers and maydens alle,</L>
+<L>Hadde wondire in hir thouth</L>
+<L>What wo was in the chambir wrought.</L>
+<L>Erlys and barrons in the halle</L>
+<L>Wenton to the emperour alle,</L>
+<L>And sayed, "Lord, syr emperour, <MILESTONE N="530"/></L>
+<L>Thow doost thy selfe lytil honour,</L>
+<L>For to suffyre thy sone by slawe,</L>
+<L>Withouten any proses of lawe.</L>
+<L>Lat hym leve al this nyght,</L>
+<L>Til to morwe that day by lyght,</L>
+<L>And than yf he schal by schent,</L>
+<L>Lat hym passe thourgh juggement."</L>
+<L>Than answerde the emperour</L>
+<L>To the lordis of honour,</L>
+<L>"Lordyngs, I wil ȝow telle, <MILESTONE N="540"/></L>
+<L>For ȝoure love he schal dwelle</L>
+<L>On lyve tyl to morwe day,</L>
+<L>And by than as hit may."</L>
+<L>Thay thank hit al the emperour,</L>
+<L>That hadde don ham that honour,</L>
+<L><PB N="20" REF="21"/>
+That he grauntit ham that bone,</L>
+<L>And that thay hadden hit so sone.</L>
+<L>The emperour comandede anone,</L>
+<L>Afftir the childe for to goon;</L>
+<L>And thay brought hym into the halle, <MILESTONE N="550"/></L>
+<L>Among the gret lordis all.</L>
+<L>The emperour comanded anone</L>
+<L>That he scholde to prison goon,</L>
+<L>And in prison he lay ale nyght,</L>
+<L>Til on the morwen the day lyȝt.</L>
+<L>Now his the childe the prison brouȝt;</L>
+<L>Mykile sorowe was in hys thout.</L>
+<L>God that sytys in magesté,</L>
+<L>Delyvere hym whan his wil bee!</L>
+<L>The emperes was sory in thout, <MILESTONE N="560"/></L>
+<L>That the childe agayn was brogt;</L>
+<L>Scho morned and made mykil wo,</L>
+<L>Til the day was a-go,</L>
+<L>Than thay were in bed brought,</L>
+<L>For to change hir lordis thouht,</L>
+<L>When thay were in bede i-fere.</L>
+<L>What scho sayed ȝe schulle here,</L>
+<L>How ho brought hire lorde in wille,</L>
+<L>Er hit was daye, the childe to spille.</L>
+<L>Scho wippe and hir hondis wronge, <MILESTONE N="570"/></L>
+<L>And afte syked sore amange.</L>
+<L>The emperour laye and herde,</L>
+<L>And asked hyre why ho so ferde,</L>
+<L>And sayed, "Tel me anon</L>
+<L>Why thow makyst al this mon."</L>
+<L><PB N="21" REF="22"/>
+"Sire," quod the lady tho,</L>
+<L>"Hit his no wondir tho me be wo!</L>
+<L>Thow were bettir to be dede,</L>
+<L>Than wyrke eftyr sory rede.</L>
+<L>Thou brewest thy self mykil bale, <MILESTONE N="580"/></L>
+<L>To leve ilke mans tale:</L>
+<L>Also mote bytide the</L>
+<L>As dyde the fyne appul-tre,</L>
+<L>For a branche that sprange biside</L>
+<L>The grettir les alle hir pride."</L>
+<L>"Certis, dame," quod [the] emperour,</L>
+<L>"I woot thow lovyste my honour,</L>
+<L>And thare-fore, dame, I the bydde,</L>
+<L>Tel me how that bytydde,</L>
+<L>And latte us studye thare-uppon <MILESTONE N="590"/></L>
+<L>What his best for to doon."</L>
+</LG>
+<DIV2 TYPE="tale">
+<HEAD>FYRST TALLE.</HEAD>
+<LG>
+<L>Anon the lavedy hire tale bygan,</L>
+<L>And sayd, "Sire, hit was a man,</L>
+<L>As men sayen, hit was a knyȝt,</L>
+<L>And hadde a herber fayr dyght!</L>
+<L>Now schaltou here how hit bytyde.</L>
+<L>In the herber ryght amyde,</L>
+<L>Oppon the appul-tre thare stoode,</L>
+<L>A fayre tre and a goode;</L>
+<L>Bothe harlyche and latte <MILESTONE N="600"/></L>
+<L>The lorde was of tyme thare-atte,</L>
+<L>And grette daynté he hadde</L>
+<L>The tree see fayre spradde.</L>
+<L>Withinne a wylle, hit is nouȝt longe,</L>
+<L><PB N="22" REF="23"/>
+A branche out of the tre spronge,</L>
+<L>And the knyght dayenteth hadde,</L>
+<L>How hit wax and fayre spradde.</L>
+<L>Oppon a day kam the knyght,</L>
+<L>And sawe hym crokyn a lytil wyght;</L>
+<L>A bou of the grette tre <MILESTONE N="610"/></L>
+<L>Lettyde hym that he myȝt nout the.</L>
+<L>Quod the lorde to his gardinere,</L>
+<L>'Go feche an ax wil I ham here,</L>
+<L>And hew a-down this mykyl bowe,</L>
+<L>And latte the branche have rome y-now.'</L>
+<L>The gardiner was sone went</L>
+<L>To do the lordis commaundement.</L>
+<L>Thus he lette norische the ȝong</L>
+<L>That was out of the holde sprong,</L>
+<L>And of hold he lete hewe <MILESTONE N="620"/></L>
+<L>Many bowes and nowght fewe.</L>
+<L>They lette the ȝonge branche sprede,</L>
+<L>And the holde tre bygan to dede.</L>
+<L>"The gardiner sawe alle the rote,</L>
+<L>For sothe, sir, thare his no bote,</L>
+<L>Al the vertu ther scholde bee,</L>
+<L>Is lopon into the lytyl tre.</L>
+<L><HI REND="italic">'Par fay!'</HI> quod the lorde tho,</L>
+<L>Gardyner, when hit hys sooe,</L>
+<L>Ther nyl bee non other botte, <MILESTONE N="630"/></L>
+<L>Bot dyggyt up by the rote.</L>
+<L>Thus was the tre bodun wronge,</L>
+<L>For the braunche that of hym spronge.</L>
+<L>Than the mykil tree wax al badde,</L>
+<L><PB N="23" REF="24"/>
+And the lytil the maystré he hadde.</L>
+<L>Thus sal the branche that of the spronge</L>
+<L>Fondon for to do the wronge,</L>
+<L>And hewes thy bowys in ilke a syde,</L>
+<L>That hys thy power that spredis so wide;</L>
+<L>Thus when he bygynnys to bolde, <MILESTONE N="640"/></L>
+<L>He wille brynge the a-down in olde."</L>
+<L>Thus whas the wykkyd womman tale,</L>
+<L>For to browe the childes bale.</L>
+<L>"Dame," quod the emperour,</L>
+<L>"By lorde saynt Savour,</L>
+<L>For alle the men that beres brethe,</L>
+<L>He sal to morwen thole dethe."</L>
+<L>On the morwen, tho hit was day bryȝt,</L>
+<L>The emperour clepid a knyght:</L>
+<L>"To my pryson thou schalt goon, <MILESTONE N="650"/></L>
+<L>And say my tormentours anoon,</L>
+<L>Thay do my sone to tormentrie:</L>
+<L>Certis, this day he schal dee."</L>
+<L>The knyght was sory in hys thought,</L>
+<L>Bote withsaye hym dorst he nought,</L>
+<L>Bote bade the tormentours ilkon</L>
+<L>Do the childe to dethe anoone.</L>
+<L>Anoon the childe was lade to spyle,</L>
+<L>To doo the emperours wille.</L>
+<L>To-ward the deth as he was, <MILESTONE N="660"/></L>
+<L>He mette with mayster Baucillas.</L>
+<L>The childe was aferde to dee,</L>
+<L>A kast on hym a ruful hye.</L>
+<L>He rade forth and sayed nought;</L>
+<L><PB N="24" REF="25"/>
+He wyst wylle the childis thought.</L>
+<L>For to save the childes honour,</L>
+<L>He come wille sone to the emperour.</L>
+<L>"Sire," quod maystir Baucillas,</L>
+<L>"Certis, this his a wondir cas,</L>
+<L>That thow art in wille pytte, <MILESTONE N="670"/></L>
+<L>To sle thy sone withouten gylte."</L>
+<L>Thanne sayed the emperour anoon,</L>
+<L>"I have enchesone mo than oon.</L>
+<L>Ȝe sevene have haddyn in ȝoure powere</L>
+<L>My sone al this seven ȝere,</L>
+<L>To teche nortyre and wyt,</L>
+<L>And ȝe have hys tonge cnyt.</L>
+<L>Whan I prayd hym for charité,</L>
+<L>He walde nought speke a worde with me.</L>
+<L>And anothir cheson I have goode, <MILESTONE N="680"/></L>
+<L>The fule thefe, the unky[n]de blode,</L>
+<L>He was aboute my wyf to spyle,</L>
+<L>For he no most nought have hys wille</L>
+<L>To by hyr flesche lygge.</L>
+<L>He schal dee syrtnlyche,</L>
+<L>And ȝe also, by Good in hevene,</L>
+<L>Ȝe schal dee al sevene."</L>
+<L>Than sayde Baucillas,</L>
+<L>"A! sire emperour, alas!</L>
+<L>That thow grevest the so sore, <MILESTONE N="690"/></L>
+<L>Or thow haddyst queryd more.</L>
+<L>Certys, I dare lygge my lyf,</L>
+<L>Of that thow tellis of thy wyf,</L>
+<L>The childe ne thought nought bot gode,</L>
+<L><PB N="25" REF="26"/>
+Wymman been of wundyr mode."</L>
+<L>The [emperour] that wroth was,</L>
+<L>Answerde Baucillas,</L>
+<L>"Baucillas, lat be thy fare,</L>
+<L>I see my wyfys hed bare,</L>
+<L>And hir clothes al to-rent, <MILESTONE N="700"/></L>
+<L>Afte the thef wold hir have schent."</L>
+<L>Baucillas answerd tho,</L>
+<L>For the childe hym wa[s] wo,</L>
+<L>And sayed, "Sire, for thy lyf,</L>
+<L>Bynym nought thy sonnys lyf;</L>
+<L>And yf thow dost, so mot byfalle,</L>
+<L>As fel the knyght in hys halle,</L>
+<L>That byname hys growhund lyf,</L>
+<L>That hadde savyd hys sonnys lyfe;</L>
+<L>And for the dule he made ther-fore, <MILESTONE N="710"/></L>
+<L>The knyght hym selven he was for-lore."</L>
+<L>Quod [the] emperour than to Baucillas,</L>
+<L>"Tel me how that tale was."</L>
+<L>"Sire," quod Baucillas, "Wer-to?</L>
+<L>Wat awantage were that to do?</L>
+<L>Er the tale were tolde,</L>
+<L>The childes blode wolde bee colde."</L>
+<L>The emperour commande tho,</L>
+<L>Afftir the childe for to goo.</L>
+<L>The childe, that glad was of sokur, <MILESTONE N="720"/></L>
+<L>Was brought byfore the emperour;</L>
+<L>Thourow the emperour commandement,</L>
+<L>Agayn to prison he was sende.</L>
+<L>Anoon as the childe was agoon,</L>
+<L>The mayster bygan hys tale anoon.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<PB N="26" REF="27"/>
+<HEAD>A TALE OF THE MAYSTER.</HEAD>
+<LG>
+<L>He sayed how ther was a knyght,</L>
+<L>A ryche man of gret myghte,</L>
+<L>And had a good womman to wyf,</L>
+<L>And a womman of good lyf.</L>
+<L>Bytwen thaym thare cam a ayer, <MILESTONE N="730"/></L>
+<L>A good child and a fayre,</L>
+<L>And ȝonge hagge hit was,</L>
+<L>A twelmowth holde it was.</L>
+<L>Ther was no thing syrcurliche,</L>
+<L>That the knyght lovyd so myche.</L>
+<L>The knyght hadde another juel,</L>
+<L>That he lovyd swyth wel,</L>
+<L>A grewhond that was good and snel,</L>
+<L>And the knyght lovyde hit wel,</L>
+<L>And was swyth good of dede. <MILESTONE N="740"/></L>
+<L>To alle bestis that he to ȝode;</L>
+<L>And for his godnesse he was lore,</L>
+<L>And the knyght was sory ther-fore.</L>
+<L>[The] knyght ordaynde a day,</L>
+<L>In a tyme, hit was in May,</L>
+<L>Elcon with othir wolde play,</L>
+<L>And fond to breke a schaft or twey.</L>
+<L>The knyght of hit [herde] tell,</L>
+<L>In his felde thay wolde dwelle,</L>
+<L>Ryght a lytil fram his halle, <MILESTONE N="750"/></L>
+<L>Ther thay were asembild alle;</L>
+<L>Al that in the court was,</L>
+<L>Wente to see the solas,</L>
+<L>Save the childes norises two,</L>
+<L><PB N="27" REF="28"/>
+Thay ne durst nower ware goo.</L>
+<L>Wen thay seen al ware goo,</L>
+<L>And noman leved bot thay two,</L>
+<L>And herdyn tronpe and taburne,</L>
+<L>Thay forgate hare honoure;</L>
+<L>Thay left the childe anon tho, <MILESTONE N="760"/></L>
+<L>And dyde ham bothe forth goo,</L>
+<L>In a toure thay clymbyd on hyghe</L>
+<L>Pryvyliche tha[t] no man see;</L>
+<L>Thare thay stode both stille,</L>
+<L>And seen the gam al at wille.</L>
+<L>In the court ther was wrowt</L>
+<L>An olde toure that servyd of nouȝt,</L>
+<L>And in a crevas there was brede</L>
+<L>A nedder, and hadde there-in a bedde.</L>
+<L>Tho the nadder wok and herde <MILESTONE N="770"/></L>
+<L>Al the pepyl how hit ferde,</L>
+<L>Trumpe, tabur, and melodye,</L>
+<L>And heraudis loude crye,</L>
+<L>The nadder sowt way ower alle,</L>
+<L>Til scho come out of the walle.</L>
+<L>Out of the walle scho came,</L>
+<L>Into the halle the way scho name,</L>
+<L>And drow hym toward the credile ther-byne,</L>
+<L>To sle the child that was ther-inne.</L>
+<L>Toward the credyl as he suythe, <MILESTONE N="780"/></L>
+<L>The good grew-hond lay and syȝe,</L>
+<L>And was swyth wrothe withalle</L>
+<L>That he cam into the alle.</L>
+<L>The grewhond stood uppe anon,</L>
+<L><PB N="28" REF="29"/>
+And to the naddir he gan goon;</L>
+<L>Ther thay faugthen togydir long,</L>
+<L>And ayther wondid othyr strong.</L>
+<L>As thay foghten, here ȝe moun,</L>
+<L>The credyl went uppe-so-doun;</L>
+<L>The credyl uppone the pomels stoode, <MILESTONE N="790"/></L>
+<L>The child hadde nought bote goode;</L>
+<L>Hyt no woke, no hyt no wyppe,</L>
+<L>Bote alle stille and sleppe.</L>
+<L>The grewhond ȝede the worme so nyghe,</L>
+<L>That into the ȝerd the worme flyghe;</L>
+<L>The grewhonde sewed hym so faste,</L>
+<L>That he slew hym at the last.</L>
+<L>Tho the naddir was falle,</L>
+<L>The grewhonde layde hym in the halle,</L>
+<L>Evelle wo[n]dyd over alle, <MILESTONE N="800"/></L>
+<L>And for sothe he lay and ȝal.</L>
+<L>When the justis were doon,</L>
+<L>The norise hiede ham in ful sone,</L>
+<L>Thay ne durst no langer dwelle,</L>
+<L>Thay fande the grewhond lye and ȝelle,</L>
+<L>And ferd as he were wodde,</L>
+<L>And hys hed al by-bledde;</L>
+<L>Thay two norise was were and seghe,</L>
+<L>The credyl bothume turnyd on hyghe,</L>
+<L>And sawe the grewhond al by-bled, <MILESTONE N="810"/></L>
+<L>Thay war both sore a-drede.</L>
+<L>"Felaw," scho sayed, "be my blode,</L>
+<L>Thys grewhond his waxyn woode,</L>
+<L>And hase eten the childe ther-fore:</L>
+<L><PB N="29" REF="30"/>
+Alas! that ever we were bore!"</L>
+<L>The tother noris sayed i-wis,</L>
+<L>"Certis, felaw, sothe hit his:</L>
+<L>Alas! that stonde," sayde schoe,</L>
+<L>"That we ȝeden justys to see!"</L>
+<L>Thay were ful of sorow and wo, <MILESTONE N="820"/></L>
+<L>And dyde thaym bothe for to goo.</L>
+<L>As thay flowen toward the felde,</L>
+<L>The lavydy lay and byhelde,</L>
+<L>And hyre herte bygane to colde,</L>
+<L>As womman herte sone wolde;</L>
+<L>And wondird wat hit myght bee,</L>
+<L>Tho he segh hir noris flee;</L>
+<L>And clepid hir anoon a swayn,</L>
+<L>And badde hym faste fete the noris agayne.</L>
+<L>Byfore the lady thay were brought; <MILESTONE N="830"/></L>
+<L>The lavydy was sory in hire thoght,</L>
+<L>And askid ware the childe was.</L>
+<L>And thay veppe and sayed, alas!</L>
+<L>"Certis, dam," quod that oon,</L>
+<L>"As wel mow we telle anoon:</L>
+<L>My lordis grewhond his wexen wode,</L>
+<L>And hase etten hym flesche and blode."</L>
+<L>The lady swyth sory was,</L>
+<L>And bygan to cry, alas.</L>
+<L>The lord herde the lady crye, <MILESTONE N="840"/></L>
+<L>And thydirward he gan hye,</L>
+<L>And sayed, "Dam, wat is this fare?</L>
+<L>Tel me anoon, nought no spare."</L>
+<L>The lady, that was so woo,</L>
+<L><PB N="30" REF="31"/>
+Sayed to hyre lorde tho,</L>
+<L>"Sire," ho sayed, "sycurlyche,</L>
+<L>The childe that thou lovedest so myche,</L>
+<L>Thy grewhond has waxen woode,</L>
+<L>And hase eten hym flesche and blood."</L>
+<L>Than was the lorde sory i-nowe; <MILESTONE N="850"/></L>
+<L>In towarde the halle he hym drowe,</L>
+<L>And the lady with hym nam.</L>
+<L>Into the halle sone he kam:</L>
+<L>The grewhond hys lorde syghe,</L>
+<L>And sete bothe hys fete on hyghe</L>
+<L>Oppon hys brest to make solas;</L>
+<L>And the more harme was.</L>
+<L>The knyght drow out hys swerd anoon,</L>
+<L>And smot out the rygge boon.</L>
+<L>The knyght comanded anoon ryght, <MILESTONE N="860"/></L>
+<L>Bere the cradyl out of hys syght.</L>
+<L>Ther stood a man that was glad</L>
+<L>To do that the knyght bade,</L>
+<L>And bare the credyl out in hys arme,</L>
+<L>And sawe the childe hadde no harme.</L>
+<L>In hys arme the childe he hent,</L>
+<L>And into the halle he went,</L>
+<L>And sayed, "Alas, thy good grewhond!</L>
+<L>Hire isti sone hole and sounde."</L>
+<L>Tho that weren in the halle <MILESTONE N="870"/></L>
+<L>Hadden grette wondyr alle,</L>
+<L>That the chylde on lyve was,</L>
+<L>And sayden hit was a wondir cas.</L>
+<L>At the last thay fanden alle,</L>
+<L><PB N="31" REF="32"/>
+How the cas was byfalle,</L>
+<L>How the naddir was y-slawe,</L>
+<L>That the grewhond hadde to-drawe.</L>
+<L>"Alas!" quod the knyght tho,</L>
+<L>"My good grewhond hys a-goo."</L>
+<L>The knyght was sory ther-fore, <MILESTONE N="880"/></L>
+<L>That hys grewhond was for-lore;</L>
+<L>Into hys horchard thay way he nome,</L>
+<L>And to a fische-pole he come,</L>
+<L>And for dule of hys hounde</L>
+<L>He lepe in and sanke to gronde.</L>
+<L>"Sire," quod maystir Baucillas,</L>
+<L>"Now thow havest herde this cas,</L>
+<L>Yf thow wolt thy sone spille,</L>
+<L>For to suffyre thy wyves wylle,</L>
+<L>Also mote the byfalle <MILESTONE N="890"/></L>
+<L>As dyde the knyght in hys halle,</L>
+<L>That slew hys hounde and lyse hys lyfe,</L>
+<L>For a worde of hyse wyfe."</L>
+<L>Tho the emperour herde</L>
+<L>Of that tale, how hit ferde,</L>
+<L>He sayed, "Maystir Baucillas,</L>
+<L>Me ne schal nouȝt bytyde that cas</L>
+<L>For no word of my wyf,</L>
+<L>To day ne schal he lyse hys lyfe;</L>
+<L>No nouȝt he ne schal by boundon so sore, <MILESTONE N="900"/></L>
+<L>Arre I have inqueryd more."</L>
+<L>Thus thorow the maystir Baucillas,</L>
+<L>That day the childe savyd was.</L>
+<L>Myghte no man the lady glade,</L>
+<L><PB N="32" REF="33"/>
+Scho syghyd and sory semlant made,</L>
+<L>And was sory in hyre thought</L>
+<L>That the childe agayne was brought,</L>
+<L>And bythought hire agayens nyght,</L>
+<L>And dyd thare-to alle hyre myghte,</L>
+<L>To brynge the emperour in wille <MILESTONE N="910"/></L>
+<L>Uppon morwen the childe to spylle.</L>
+<L>In bede than thay were brought,</L>
+<L>"Sire," scho sayed, "What have ȝe thoght?</L>
+<L>Ne see thou nouȝt with thyn eyen</L>
+<L>Were I was in poynt to deyen,</L>
+<L>As thy sone me wolde a schent,</L>
+<L>That hys agayn to prison sente.</L>
+<L>Also mote bytyde the,</L>
+<L>As dyde the bore undyr the tre,</L>
+<L>That was clavyd, and thought hit gode, <MILESTONE N="920"/></L>
+<L>And lese ther-fore hys hert blode."</L>
+<L>Quod the emperour to hys wyfe,</L>
+<L>"Dame, lete be thy stryf,</L>
+<L>And tel me nowe, I the byde,</L>
+<L>Of the bore how hit bytydde.</L>
+<L>And</L>
+<L>Anoon hire tale by-gane.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>And sayed, "Syre, hit was a bore,</L>
+<L>And woned in a holde hor;</L>
+<L>Ther was a tre in the forest <MILESTONE N="930"/></L>
+<L>That the bore loved best,</L>
+<L>To ete the fruyte that thare was oon.</L>
+<L><PB N="33" REF="34"/>
+Every day that cam to maane</L>
+<L>He come thydyr aboute undiren,</L>
+<L>To ete the fruyte that laye ther-under.</L>
+<L>A h[e]rde man hadde a best lore,</L>
+<L>And mykyl dule made ther-fore;</L>
+<L>Longe nolde he nought abyde,</L>
+<L>He soughte hys best in hilk a syde.</L>
+<L>Into the forest the way he nam, <MILESTONE N="940"/></L>
+<L>And byfore the tre he cam,</L>
+<L>There the bore was wont by fede,</L>
+<L>And her he ȝede he was a-drede.</L>
+<L>Hym thought that the fruyt was goode,</L>
+<L>And gadderd bret ful hys hoode.</L>
+<L>The bore come rennyng towarde the tree</L>
+<L>There hys mete was wounte to bee;</L>
+<L>Tho the knave hadde a fryȝt,</L>
+<L>Of the bore he hadde a syȝt,</L>
+<L>And the bore neghyd nee; <MILESTONE N="950"/></L>
+<L>He clam uppon the tree on hyghe.</L>
+<L>The bore byhyde hym thydyr faste,</L>
+<L>And uvele spede at the laste.</L>
+<L>And has he come, ful wyle he syghe</L>
+<L>How the knave clam on hyghe,</L>
+<L>And bygan tothes to wette,</L>
+<L>And to the tre byre he fette,</L>
+<L>And layden as he were wode,</L>
+<L>Til hys mouthe famed of blode.</L>
+<L>And thau the tree were rote faste, <MILESTONE N="960"/></L>
+<L>Ȝyt was the knave agaste;</L>
+<L>Of the fruyt that was browne</L>
+<L><PB N="34" REF="35"/>
+The knave kast the bore a-doune,</L>
+<L>And he was for-ungrid sore,</L>
+<L>And ete, and nolde hew no more.</L>
+<L>Undir the tre he stode ful stille,</L>
+<L>And of the fruyt ete hys fylle.</L>
+<L>The knave stode uppon a bowghe,</L>
+<L>And kest a-downe fruyt i-noughe,</L>
+<L>When the bore hase eten hys fylle, <MILESTONE N="970"/></L>
+<L>Undir the tree he stode ful stille.</L>
+<L>That knave kest hym fruyt y-nowe,</L>
+<L>And clam a-doune fra bough to boghe,</L>
+<L>And with hys on hond at the laste</L>
+<L>And with hys legges held hym fast;</L>
+<L>The tohir honde he lete doun glidde,</L>
+<L>And clavde the bore undir the syde.</L>
+<L>The bore lykyde the clavyng wele,</L>
+<L>And anoon to grounde felle,</L>
+<L>And lay slepyng stille as stoon. <MILESTONE N="980"/></L>
+<L>The knave drowe out a knyf anoon,</L>
+<L>And rent hys wombe with the knyf,</L>
+<L>And bynam the bore hys lyf.</L>
+<L>Thus schaltou be clovyd alse</L>
+<L>With fykyl wordis and with false,</L>
+<L>An[d] thy sone the traytur</L>
+<L>Schal be madde a emperour:</L>
+<L>Thorugh thy false clerkis sevene</L>
+<L>Thow wylt by gylled, by Good in heven!"</L>
+<L>Quod the emperour, "By saynt Brydde, <MILESTONE N="990"/></L>
+<L>That no sal me nouȝt bytydde;</L>
+<L>He ne sal do no more sorowe,</L>
+<L><PB N="35" REF="36"/>
+Certis, he sal dee to-morne."</L>
+<L>Oppon the morwen, wen hit was day,</L>
+<L>The eemperour made grete ray,</L>
+<L>And commaunde hys men anoon</L>
+<L>To slee the childe thay schuld gone.</L>
+<L>Thay took the childe out of prison,</L>
+<L>And ladde hym withouten toun:</L>
+<L>As thay ladde hym by the strete, <MILESTONE N="1000"/></L>
+<L>On of hys maystirs he gan mete,</L>
+<L>Toward the emperour he rode,</L>
+<L>And welne al to longe he bode.</L>
+<L>When he hadde the child mette,</L>
+<L>The maystir made hys hor go bete,</L>
+<L>For to save the childe fram schame.</L>
+<L>Ancillas was hys name.</L>
+<L>Ful hastylich the way he nam,</L>
+<L>Byfore the emperour he cam,</L>
+<L>A clerk he was of grete honour, <MILESTONE N="1010"/></L>
+<L>And gret anoon the emperour.</L>
+<L>The emperour answerde with ire,</L>
+<L>"Maugré have thow, bone sire,</L>
+<L>I ȝow took my sone to teche,</L>
+<L>And ȝe have raft hym hys speche:</L>
+<L>By Jhesu Crist, that hys in hevene,</L>
+<L>Ȝe sal to prison al sevene."</L>
+<L>"A! sire," quod mayster Ancilles,</L>
+<L>"God almighty send us pees!</L>
+<L>Sire, ne make ȝow nouȝt so wroth, <MILESTONE N="1020"/></L>
+<L>Thow wost nowght alle how hit goth;</L>
+<L>And yf thy sone lyse hys lyfe,</L>
+<L><PB N="36" REF="37"/>
+For the talys of thy wyfe,</L>
+<L>I bysyke God in hevene,</L>
+<L>For hys dyrworth mannys sevene,</L>
+<L>That ȝe bytyde swilk a cas</L>
+<L>As bytyde Ypocras,</L>
+<L>That slow hys cosyn withouten gylt,</L>
+<L>And hym selven ther-fore was spylt."</L>
+<L>Quod the emperour to Ancilles, <MILESTONE N="1030"/></L>
+<L>"Certis, thou schalt never have pees,</L>
+<L>Er I wyt of that cas,</L>
+<L>That bytyde Ypocras."</L>
+<L>Quod Ancillas, "Sire, were-to?</L>
+<L>Wat avantage were that y-do?</L>
+<L>Er my tale wer tolde,</L>
+<L>The childys blode wolde be colde;</L>
+<L>Bote yf I mote hys lyf borowe</L>
+<L>Al thys nyght tyl to-morwen,</L>
+<L>Gyf he myght on lyf dwelle, <MILESTONE N="1040"/></L>
+<L>Of Ypocras I wylle telle."</L>
+<L>Anon the childe was aftir sent,</L>
+<L>Thorow the emperoures commandement.</L>
+<L>Than was the mayster a glad man,</L>
+<L>And anon hys tale bygane.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALLE.</HEAD>
+<LG>
+<L>"A nobile fysysian thar was,</L>
+<L>And was callid Ypocras;</L>
+<L>He hadde a cosyn of hys blode</L>
+<L>That longe walde leren no goode,</L>
+<L>Of the world lytyl he thought, <MILESTONE N="1050"/></L>
+<L><PB N="37" REF="38"/>
+Bote at the laste he hym bythought,</L>
+<L>How and in what manere</L>
+<L>He myghte any goodys lere.</L>
+<L>Hys emys bokis he unselde,</L>
+<L>And ilk a day on thaym byhelde,</L>
+<L>And bycam a fysysian,</L>
+<L>Also good as anny mane.</L>
+<L>The kynge sone of Hungrye</L>
+<L>Hadde a woundir maladye:</L>
+<L>The kynge sent aftir Ypocras, <MILESTONE N="1060"/></L>
+<L>For to wyten wat hym was.</L>
+<L>Ypocras was ale olde,</L>
+<L>And hys blode wax ale colde,</L>
+<L>He let atyre wile a[nd] fyne,</L>
+<L>And sent thydyre hys cosyne.</L>
+<L>Anon as he was comen,</L>
+<L>By the hande he was nome,</L>
+<L>And he was ladde anoon,</L>
+<L>Also stille as a ston,</L>
+<L>Ther the kynge sone laye, <MILESTONE N="1070"/></L>
+<L>That hadde by syke many day.</L>
+<L>The childe couthe of fysenamye,</L>
+<L>That he saw wyl with hys eye,</L>
+<L>When he hade a wyle syttyne,</L>
+<L>That the childe was mys-gettyne.</L>
+<L>Syche wyse clerkys were goo;</L>
+<L>Now no byther non of tho:</L>
+<L>Thay late be al the clergye,</L>
+<L>And tornys to pryde and lycherie.</L>
+<L>Thanne the childe were gode of lore, <MILESTONE N="1080"/></L>
+<L><PB N="38" REF="39"/>
+Ȝyt he wolde aqwere more;</L>
+<L>Fram hyre maydens ten or twelve,</L>
+<L>He took the quene by hyre selvene,</L>
+<L>And sayde, 'Madame, be nought wroth,</L>
+<L>To telle ȝe me thynke nowt lothe,</L>
+<L>Yf thou wilt have thy sone on lyve,</L>
+<L>For sothe, dame, thou most the schryve:</L>
+<L>Tel me how thow havest wroght,</L>
+<L>For sothe the kynge ne gat hym nouȝt,</L>
+<L>And bot thow telle how hit hys, <MILESTONE N="1090"/></L>
+<L>I may nought hel thy sone i-wys.</L>
+<L>Of hys hele he ase ne swat,</L>
+<L>Bot thow telle wo hym bygate.'</L>
+<L>The quen that was the kyngys wyf,</L>
+<L>Was lothe to lesyn hyre sone lyfe,</L>
+<L>And sayd to hym privyliche,</L>
+<L>Bytwen thaym two specialiche,</L>
+<L>'Thare was a prince hire bysyde,</L>
+<L>And oft sythes he wolde ryde</L>
+<L>With my lorde for to play, <MILESTONE N="1100"/></L>
+<L>And love wax bytwen us twey,</L>
+<L>And so [was] he getyn i-wys:</L>
+<L>Now thow wost how hit hys.'</L>
+<L>When he wyst al the cas,</L>
+<L>He tornyd hit al [to] solas,</L>
+<L>And the childe undirtoke,</L>
+<L>As taught hym Ypocras booke;</L>
+<L>And he helyd the childe ol and sound,</L>
+<L>And hadde ther-fore many a pound,</L>
+<L>And of the quene many gyftis fele, <MILESTONE N="1110"/></L>
+<L><PB N="39" REF="40"/>
+For he schulde hire counsel hele;</L>
+<L>And went hom to Ypocras,</L>
+<L>And told hym al how hit was.</L>
+<L>Ypocras was welny wode,</L>
+<L>That hys cosin couthe so mykyl good,</L>
+<L>And thout anoon a wylkyd thout,</L>
+<L>For to bryng hys cosyn to nowt.</L>
+<L>Oppon a day thay went to pleye,</L>
+<L>He and hys cosyn thay twey,</L>
+<L>Into a swyth fayre mede, <MILESTONE N="1120"/></L>
+<L>There fayre floure gan sprede.</L>
+<L>Ipocras stille stood,</L>
+<L>And saw a gras that was god:</L>
+<L>'Bon cosyn,' quod Ypocras,</L>
+<L>'I se a gras of grete solas,</L>
+<L>Were hyt dyggyd uppe by the rote,</L>
+<L>Of many thyngs hit myght be bote.'</L>
+<L>Than sayd the childe to Ypocras,</L>
+<L>'Leve syre, were hys that gras?'</L>
+<L>Quod Ypocras, ever vorthym wo, <MILESTONE N="1130"/></L>
+<L>'Loe, were hyt stondis at my too.</L>
+<L>Knele a-doun oppon thy knee,</L>
+<L>And dyggyd uppe and bryng hit me,</L>
+<L>And I wyl the telle, i-wys,</L>
+<L>What vertu ther-inne hys.'</L>
+<L>The childe knelid anoon a-doun:</L>
+<L>Ypocras drow anoon fauchon,</L>
+<L>And slow hys cosyn, the more arme was,</L>
+<L>Wyle he dyggyd aftyr the gras.</L>
+<L>Tho went he hom anoon, <MILESTONE N="1140"/></L>
+<L><PB N="40" REF="41"/>
+And bernyd hys bokys ilkon,</L>
+<L>In wrat, as a man that were wode,</L>
+<L>For noman schuld lerne of ham good.</L>
+<L>When he hadde hys bokys brent,</L>
+<L>And hys cosyn was schent,</L>
+<L>He fel in a maladye,</L>
+<L>That he was in poynt to dye.</L>
+<L>Than was ale hys bokys lore,</L>
+<L>And he ne couthe medycyne ther-fore:</L>
+<L>Tho hadde he slane hys cosyne, <MILESTONE N="1150"/></L>
+<L>That couthe wel of medycyne;</L>
+<L>For faut of helpe he ferde amys,</L>
+<L>And at the laste he deyde, i-wys.</L>
+<L>"Thus was Ypocras dede,</L>
+<L>And, sire, ther-fore take thy rede.</L>
+<L>Thow no havest no sone bote oon;</L>
+<L>Yf thow lattis hym to deth gon,</L>
+<L>Whan helde byndys thy bones stoute,</L>
+<L>Thare hys bote fewe that wyle the doute.</L>
+<L>And yf thou havest thy sone bolde, <MILESTONE N="1160"/></L>
+<L>For soth, were thow never so holde,</L>
+<L>For thy sone men wyle the drede,</L>
+<L>Let hym lyve, I wylle the rede."</L>
+<L>Quod the emperour, "By myn hede,</L>
+<L>To nyght no schal he nought be dede,</L>
+<L>Bytwene thys and to morwen day,</L>
+<L>Be thanne as hit be may."</L>
+<L>Al that in the palas was</L>
+<L>Maden myrth and solas,</L>
+<L>Bothe more and the lesse; <MILESTONE N="1170"/></L>
+<L><PB N="41" REF="42"/>
+Save the wykkyd emperesse,</L>
+<L>Scho syghed and swore amonge,</L>
+<L>Ala! alas! was hyre songge.</L>
+<L>The emperour herd hyre say, alas!</L>
+<L>And askyd hyre what hyre was.</L>
+<L>"Sire," scho sayed, "Wo hys me!</L>
+<L>And al togydyr hit hys for the;</L>
+<L>Thare thow art both lorde and sire,</L>
+<L>And maystir over al the emperire,</L>
+<L>Thow arte abowte thy selven to spylle; <MILESTONE N="1180"/></L>
+<L>Yf thy clerkys have thare wylle,</L>
+<L>Thay wille make hym emperour,</L>
+<L>That thyf that lyes in the tour.</L>
+<L>And yf thou lovest hym more thane me,</L>
+<L>Also mote bytyde the,</L>
+<L>As hym that in the lym was dede,</L>
+<L>That made hys sone smyt of hys hede."</L>
+<L>Quod the emperour, "I the byde,</L>
+<L>Telle me how that bytydde."</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>The emperesse hire tale bygane, <MILESTONE N="1190"/></L>
+<L>And sayd, "Sire, hit was a mane,</L>
+<L>Emperour of Rome he was,</L>
+<L>And nowt lovyd no solas,</L>
+<L>Bot was about to fylle a toure</L>
+<L>Ful of golde and ryche tresour.</L>
+<L>Swylke seven clerkys hadde hee</L>
+<L>Undir hym as have ȝe.</L>
+<L>The seven clerkis that with hym were,</L>
+<L><PB N="42" REF="43"/>
+Alle at hom nouȝt thay were;</L>
+<L>Thorow the emperour comandement, <MILESTONE N="1200"/></L>
+<L>The fyve were out wente,</L>
+<L>And the twa at home thay byeth,</L>
+<L>For to do that he thaym bydeth.</L>
+<L>That othir ladde myry lyf,</L>
+<L>And haddyn both childryn a[nd] wyf;</L>
+<L>Hit was a man withouten kare,</L>
+<L>And ryclych he wolde fare,</L>
+<L>What he spendid he nouȝt rought,</L>
+<L>And that hys nek sore abought.</L>
+<L>When hys catel bygan to slake, <MILESTONE N="1210"/></L>
+<L>And he ne myght no fest make,</L>
+<L>There felle a wyel in hys thoute,</L>
+<L>And ther-thourow he wente to nowt,</L>
+<L>And bitidde a wondir kas,</L>
+<L>And ȝe schal here how hit was.</L>
+<L>He adde a sone that was heyre,</L>
+<L>A good childe and a fayre;</L>
+<L>Thay wente and breken that tour,</L>
+<L>And bare away mykyl tresoure,</L>
+<L>And mad hym myry, and spendid faste, <MILESTONE N="1220"/></L>
+<L>Al the wylle that hit wolde laste.</L>
+<L>He that lokyd the tresour,</L>
+<L>Come a day into the tour,</L>
+<L>And over-al he keste hys syght,</L>
+<L>To loke whehir hit ferde ryght.</L>
+<L>He was freche, he was nought dronke,</L>
+<L>He saw the tresour was sonke;</L>
+<L>He lette remue the tresour anone,</L>
+<L><PB N="43" REF="44"/>
+And fand ware the thyf was goon.</L>
+<L>Byfore thare the hole was, <MILESTONE N="1230"/></L>
+<L>He sette a deppe caudron of bras,</L>
+<L>A manere of glowe he dyde thare-inne,</L>
+<L>To halden all that com thare inne,</L>
+<L>And helyd thare the cawdron stode,</L>
+<L>As thare were nought bot gode.</L>
+<L>He that the tresour stale,</L>
+<L>Hadde spendid hit and wastyd alle:</L>
+<L>He sayes, 'Sone, by Goddys sore,</L>
+<L>Of the tresour we wylle have more.'</L>
+<L>He and hys sone were at on, <MILESTONE N="1240"/></L>
+<L>And thydyr-ward thay gan goon,</L>
+<L>In the wanyng of the mone;</L>
+<L>The fadir was desavyde sone.</L>
+<L>In at the hole the fadir crepe,</L>
+<L>And in the caudron sone he lepe,</L>
+<L>And anoon he styked faste.</L>
+<L>Than was hys sone sore agaste.</L>
+<L>'Sone,' he sayed, 'I ham hent;</L>
+<L>Fle anoon ar thow art schent.'</L>
+<L>'A! fadir,' he sayed, 'alas! <MILESTONE N="1250"/></L>
+<L>Certys thys hys a wondyr kas.</L>
+<L>For soth I can no rede nowe:</L>
+<L>Leve fadir, how reddyst thow?'</L>
+<L>'Certis,' he sayd, 'hit his no rede,</L>
+<L>Bot hastilich smyt of my hede,</L>
+<L>And god laysyr when thou myght have,</L>
+<L>Byrye hit in cristyne grave.'</L>
+<L>The childe was in grete thought,</L>
+<L><PB N="44" REF="45"/>
+To helpe his fadir he myght nouȝt,</L>
+<L>And saw thare was non othir rede, <MILESTONE N="1260"/></L>
+<L>Bote smote of his fadir hede,</L>
+<L>And knyt hit in hys lappe onoon,</L>
+<L>And dyde hym hastilyche to goon;</L>
+<L>And anoon has he ham came,</L>
+<L>Out of hys lape the hede he name,</L>
+<L>And in a forme he let hit fale,</L>
+<L>And dyde a wykkyd torne withalle.</L>
+<L>Thane he hadde hys fadir gode,</L>
+<L>Thane wax he hote of blode;</L>
+<L>No sorow in hert he ne hadde, <MILESTONE N="1270"/></L>
+<L>How foul deth hys fadyr hadde.</L>
+<L>Than he had that hys fadir gate,</L>
+<L>Hys fadir deth he al for-gat.</L>
+<L>Certis, sire, thus woltu fare:</L>
+<L>Ther-fore hys al my kare.</L>
+<L>Thou schalt lese thyn honour,</L>
+<L>And thy sone be emperour,</L>
+<L>As othir have doon thou schalt als,</L>
+<L>Thorow talys of thy clerkys fals."</L>
+<L>Quod the emperour to the emperesse, <MILESTONE N="1280"/></L>
+<L>"So I ever here mas,</L>
+<L>My sone ne schale never do me that sorowe,</L>
+<L>Certys he schal dee to-morwen."</L>
+<L>Thus hys wyf, that cursyd lyfte,</L>
+<L>Brewed the childys deth that nyght.</L>
+<L>Uppe of the morwen lange are prime,</L>
+<L>The emperour ros by tyme,</L>
+<L>And thys was hys commandement,</L>
+<L><PB N="45" REF="46"/>
+That the childe anoon where schent.</L>
+<L>The tormentours wer ful rade <MILESTONE N="1290"/></L>
+<L>To do tha[t] the emperour bade;</L>
+<L>Thay ne made noon delay,</L>
+<L>Bot took the child, and went hare way,</L>
+<L>And toward the studye thay hym lede</L>
+<L>There men schulde the chylde byhede.</L>
+<L>Ryght as thay come atte the ȝate,</L>
+<L>Hys o maystir hym mette thare-atte,</L>
+<L>In hys hert was no game,</L>
+<L>Lentulus was hys name.</L>
+<L>Oppon the childe he cast hys eie, <MILESTONE N="1300"/></L>
+<L>Hym thought for sorow he myght dee:</L>
+<L>Anoon the way he nam,</L>
+<L>And byfore the emperour cam,</L>
+<L>And sayed, "My lord, syr emperour,</L>
+<L>God the save and thyn honour!"</L>
+<L>The emperour answerde anoon,</L>
+<L>"A! tratour, thow art that oon</L>
+<L>That I bytook my sone teche,</L>
+<L>And he hase loste hys speche,</L>
+<L>And wolde have lyne by my wyf: <MILESTONE N="1310"/></L>
+<L>He schal dee, by my lyf!"</L>
+<L>"Syre," quod maystir Lentulus,</L>
+<L>"I ne leve hit nouȝt, by my lyf,</L>
+<L>To do vylany by thy wyf;</L>
+<L>Bot yf thou brewyst thy childis bale,</L>
+<L>For hys stepmodir tale,</L>
+<L>So mote the bytyde in thy lyfe,</L>
+<L>As dyd the olde man in hys lyf."</L>
+<L><PB N="46" REF="47"/>
+Quod the emperour, "I the byde,</L>
+<L>Tel me how that cas bytyde." <MILESTONE N="1320"/></L>
+<L>"Sire," quod maystir Lentulus,</L>
+<L>"I nylle, by swet Jhesus,</L>
+<L>Bot thy chylde deth by let,</L>
+<L>That he ben agayen fet,</L>
+<L>And mot lyve al this nyght</L>
+<L>Til to-morwen til day be bryght."</L>
+<L>The emperour comaunde anoon</L>
+<L>Aftyr the childe for to goon:</L>
+<L>Thorow commaundement of the emperour</L>
+<L>The childe was ladde into the tour. <MILESTONE N="1330"/></L>
+<L>Lentulus was a glad man,</L>
+<L>And anoon hys tale bygane.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>"Hyt was a man and hadde a wyfe,</L>
+<L>And loved hyre as hire owen lyf;</L>
+<L>Scho was both ȝong and bolde,</L>
+<L>And the housband whas holde,</L>
+<L>Hys myrth in bede bygan to slake,</L>
+<L>And scho tooke another make.</L>
+<L>In bed as thay lay in fere,</L>
+<L>The wyf aros, as ȝe moun here, <MILESTONE N="1340"/></L>
+<L>Fram hire hosbonde thare he lay,</L>
+<L>A lytyl wyl byfore daye,</L>
+<L>Witouten dore at the ȝate</L>
+<L>Scho mete hyre lemman thare-atte.</L>
+<L>The godman withinne a while</L>
+<L>Myssyd hys wyf, and thout gyle.</L>
+<L><PB N="47" REF="48"/>
+He ros uppe as stille as a stone,</L>
+<L>And to the dore he gane goone,</L>
+<L>And bygan ful stille to spye,</L>
+<L>And herde of hyre putrye, <MILESTONE N="1350"/></L>
+<L>And went hym stille as stoone,</L>
+<L>And steke to the dore anoone.</L>
+<L>When thay hadde done thayre wyle,</L>
+<L>And spoken togydir or fylle,</L>
+<L>The wyf fonde the dore faste;</L>
+<L>Than whas scho sore agaste.</L>
+<L>Scho pute at the dore in hye,</L>
+<L>And bygan loud to crye,</L>
+<L>And badde the delve hys neke to breke</L>
+<L>That the dore hadde steke. <MILESTONE N="1360"/></L>
+<L>The sylyman lay and herde,</L>
+<L>And hys wyf answerd,</L>
+<L>'Dame' he sayed, 'go thy way,</L>
+<L>Thow havest bygonne a sory play;</L>
+<L>To morwen sal oppon the gonne</L>
+<L>As many men as been in toune.'</L>
+<L>Walaway scho gan to synge,</L>
+<L>And hyr hondis for to wryng:</L>
+<L>'Mercy, sire, I am thy spouse,</L>
+<L>For Goddys love lat me to house!' <MILESTONE N="1370"/></L>
+<L>Quod the godman anoon,</L>
+<L>'Goo thare thow hast to goon:</L>
+<L>So God almyghty gyf me wyne,</L>
+<L>Thou ne schalt to come hyre-ine,</L>
+<L>Ar alle our frendys ilkon</L>
+<L>Have gounde oppon thy body alon.'</L>
+<L><PB N="48" REF="49"/>
+Quod the wyf, 'So moti i-thryve,</L>
+<L>I wylle nought so lange be alyve.'</L>
+<L>Hastilich within a wylle,</L>
+<L>Scho was bythought oppon a gylle; <MILESTONE N="1380"/></L>
+<L>Byfore the dore, as I ȝow telle,</L>
+<L>Thare was a mykyl deppe welle,</L>
+<L>And a stoon lay thare by</L>
+<L>As mykil as a manys the,</L>
+<L>As hit tellys in the booke,</L>
+<L>In hyr armes scho hit tooke,</L>
+<L>In the wel ho lette hit falle.</L>
+<L>The godman herdit into the halle,</L>
+<L>And hadde reuthe of hys wenche,</L>
+<L>And wende ho wold hyre self adrynge, <MILESTONE N="1390"/></L>
+<L>And ros uppe in hys serke anoon,</L>
+<L>And to the wel he gan goon,</L>
+<L>As man that was in good lyf,</L>
+<L>And thout for to save hys wyf.</L>
+<L>The wyf was ful wyly,</L>
+<L>And stod the dore swyth nee,</L>
+<L>Into the halle scho gan goon,</L>
+<L>And stek to the dore anoon.</L>
+<L>The godman was ful uvele myght,</L>
+<L>He sowt hys wyf in the pytte, <MILESTONE N="1400"/></L>
+<L>And hurt hym, and hent harme,</L>
+<L>And scho lay in hyr bede warme.</L>
+<L>On evyl deth mote scho dee!</L>
+<L>So bleryd the sely manys ee,</L>
+<L>And love hir so myche,</L>
+<L>Ful falle alle syche.</L>
+<L><PB N="49" REF="50"/>
+When he fandir nouȝt in the welle,</L>
+<L>He walde ther no langer dwelle,</L>
+<L>At hys dore he wolde inne,</L>
+<L>And hit was stoken with a pyne. <MILESTONE N="1410"/></L>
+<L>He schof ther-onne, and bade undo:</L>
+<L>Scho lay stille and let hym doo.</L>
+<L>The lawe was than so harde bounden,</L>
+<L>Yf a housbond were in hurdom founden,</L>
+<L>He schuld have a juggement,</L>
+<L>Were-thorow he schuld be schent;</L>
+<L>And armyd men by nyght thare ȝede.</L>
+<L>The godman was ful sore agaste,</L>
+<L>That he fande the dore faste;</L>
+<L>He knokede, and was in mykyl kare. <MILESTONE N="1420"/></L>
+<L>The wyf askyd wo was there,</L>
+<L>The goodman was ful sore adrade,</L>
+<L>That herd hys wyf in hys bede,</L>
+<L>And sayed, 'Dame, I ham here,</L>
+<L>Thy spouse and thy trewe fere:</L>
+<L>Arys uppe, and draw oute the pyne,</L>
+<L>Goode lef, and let me inne.'</L>
+<L>'A! traytour!' quod scho tho,</L>
+<L>'Ga bylyve were thou havest to go,</L>
+<L>To thyn hore there tho[u] were, <MILESTONE N="1430"/></L>
+<L>Go agayn and herborowe thare.'</L>
+<L>To speke fayre he to hede,</L>
+<L>For he saw hit was ned:</L>
+<L>'Dame, lete me in to my bede,</L>
+<L>And now be thow nought adrede;</L>
+<L>For by the lorde saynt Nycolas,</L>
+<L><PB N="50" REF="51"/>
+I wyl forgyve the thy trespas.'</L>
+<L>'Nay, traytour,' quod scho tho,</L>
+<L>'Certis also wel thow myght goo;</L>
+<L>By Good that hys ful of myght, <MILESTONE N="1440"/></L>
+<L>Thow schal nowt come here-in to nyght.'</L>
+<L>As thay spoken lowde togyder,</L>
+<L>The wakmen herde and come thydyr;</L>
+<L>The toon sayed, 'Wat art thow,</L>
+<L>That standys here thys tyme nowe?'</L>
+<L>'A! sire,' he sayed, 'mercy!</L>
+<L>And I wille ȝow telle resoune why:</L>
+<L>I hadde a spangel good of plyght,</L>
+<L>I have hit mysde al thys seven-nyght,</L>
+<L>And I not how hit ferde, <MILESTONE N="1450"/></L>
+<L>Me thought here-out I hym herde,</L>
+<L>And cam out to clepyn hym inne,</L>
+<L>And my wyf hase put in the pyne</L>
+<L>In the dore oppon hyre game:</L>
+<L>Go forth, a Godys name!"</L>
+<L>'Certis he lyes,' quod hys wyf,</L>
+<L>'Hyt hys a man of wykkyd lyfe.</L>
+<L>I have helyd, for I wende</L>
+<L>That he wolde somtyme amende;</L>
+<L>Ther-fore now ȝe have hym hent, <MILESTONE N="1460"/></L>
+<L>Lat hym passe by juggement.'</L>
+<L>The wakmen nolde no langer abyde,</L>
+<L>They token hym in ilke a syde,</L>
+<L>And lad hym into the toune,</L>
+<L>And put hym in prisone,</L>
+<L>And lay alle nyght in mykyl sorowe,</L>
+<L><PB N="51" REF="52"/>
+And hadde hys juggement a-morwen.</L>
+<L>Thus he hadde hys juggement,</L>
+<L>And thorow hys wyf he was schent. <MILESTONE N="1470"/></L>
+<L>So wyltou, sire emperour,</L>
+<L>Certis lese thyn honour,</L>
+<L>To bynym thy sonys lyf</L>
+<L>For a tale of thy wyffe."</L>
+<L>Quod the emperour, "By swet Jhesus,</L>
+<L>For thy tale, sire Lentulus,</L>
+<L>To day ne schal he lese the lyffe</L>
+<L>For no tale of my wyf."</L>
+<L>Than commande the emperour</L>
+<L>Do hys sone into the tour. <MILESTONE N="1480"/></L>
+<L>Thay dyden anoon as he bade:</L>
+<L>Tho was Lentulus glad.</L>
+<L>When the emperes that undirstode,</L>
+<L>For wrat scho was welne wode,</L>
+<L>That the emperours thout was went,</L>
+<L>And the childe to prison sent.</L>
+<L>Al that day scho fonded hyre flygt,</L>
+<L>How scho myght agayens nyght</L>
+<L>Fonden a tale al newe,</L>
+<L>The childe deth for to brewe. <MILESTONE N="1490"/></L>
+<L>Scho was al redy bythout,</L>
+<L>Wen scho was to bede brogt;</L>
+<L>Of[t] sythes scho sygkyd sore,</L>
+<L>And stilly scho sayed, "Lord, thy ȝore!"</L>
+<L>The emperour lay and herde,</L>
+<L>And acsyd hyre why scho so ferde.</L>
+<L>"Sire," quod [the] emperesse tho,</L>
+<L><PB N="52" REF="53"/>
+"It his no wondir tho me be wo:</L>
+<L>Now hys my wo to bygyne,</L>
+<L>Now we sal parten in twynne.</L>
+<L>I nylle no langer hyre abyde, <MILESTONE N="500"/></L>
+<L>To se the wo that ȝe sal bytyde.</L>
+<L>By God Almyghty that hys in hevene,</L>
+<L>Thy sonne and thy clerkys sevene</L>
+<L>Thay ben alle at on asent;</L>
+<L>Certys, syre, thow worst schent.</L>
+<L>And, syre, bot thow leve me,</L>
+<L>Also mote bytyde the</L>
+<L>As dyde the styward of hy[s] lyf,</L>
+<L>That gret gyng hys wyf."</L>
+<L>"Dame," quod the emperour, <MILESTONE N="1510"/></L>
+<L>"I bysyke the <HI REND="italic">par amour,</HI></L>
+<L>Tel me now of that kas,</L>
+<L>Whilk maner and how hyt was."</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALLE.</HEAD>
+<LG>
+<L>"Certis," quod the emperes,</L>
+<L>"Thow schalt here of wykkydnesse.</L>
+<L>In Pule was som tyme a kynge</L>
+<L>That hatyd wymmen of alle thyng;</L>
+<L>Never ȝyt in alle hys lyf</L>
+<L>He nolde never have no wyf.</L>
+<L>In Romauns hyt tellys in a booke, <MILESTONE N="1520"/></L>
+<L>That a grete ivel hym tooke;</L>
+<L>The ivel passyd over alle,</L>
+<L>That hys body al to-swal,</L>
+<L>That hys body was al to-blaw</L>
+<L>No man myght hys membris know.</L>
+<L>Into Salner he sent a man</L>
+<L><PB N="53" REF="54"/>
+Aftyr a nobile fesisian;</L>
+<L>Anoon has he was come,</L>
+<L>By the honde he was nome,</L>
+<L>Into the chambyr he was lade <MILESTONE N="1530"/></L>
+<L>For to make the kynge glade.</L>
+<L>When he saw the kyng pyne,</L>
+<L>He askyd anoon hys uryne;</L>
+<L>Anoon as he the uryne sawe,</L>
+<L>He wyst were hys ivel lay,</L>
+<L>And sayed, 'Sire, ne amay the nouȝt,</L>
+<L>For soth thy bote hys broght.'</L>
+<L>When [he] herde thys thythyng,</L>
+<L>Thane comfordede the kyng.</L>
+<L>The mayster was wys and snel, <MILESTONE N="1540"/></L>
+<L>And made hys medicyne wille,</L>
+<L>And anoon gaf he hit the kynge,</L>
+<L>And abatyd the swellyng.</L>
+<L>'Syre,' quod the fysisian,</L>
+<L>'The behoves have a womman</L>
+<L>To do thy wyl by a-nyght,</L>
+<L>Yf I schal helle the aryght.'</L>
+<L>Quod the kyng, 'So mot I the,</L>
+<L>Astow wylt hyt schal bee.'</L>
+<L>The kyng callyd hys senescal, <MILESTONE N="1550"/></L>
+<L>That hadde hys hows to kepe alle,</L>
+<L>And sayed to hym, 'Thow moste aspye,</L>
+<L>And hastylich thou most hye,</L>
+<L>A fayr lady of colour bryght</L>
+<L>For to lygge by me a-nyght,</L>
+<L>And at scho be of he lynage,</L>
+<L><PB N="54" REF="55" MS="y"/>
+And a lady of ȝong age.'</L>
+<L>'Sire,' quod the stiwarde anoon,</L>
+<L>'Al byssi schal I fynde oon:</L>
+<L>For los of thy malydye <MILESTONE N="1560"/></L>
+<L>Thay wille be aferd to dye.'</L>
+<L>Quod the kynge, 'Thow sayest thi wille,</L>
+<L>With gold and silver thow schal thaym tylle;</L>
+<L>Gyf thaym golde and silvyr i-nowe:</L>
+<L>I am ryche man i-nowhe?'</L>
+<L>Than the styward undirstood</L>
+<L>The kyng wald gyve so mykyl good,</L>
+<L>He took hys lyve and hom he cam,</L>
+<L>And by the hond hys wyf name,</L>
+<L>And sayed, "By sayent Benedyght, <MILESTONE N="1570"/></L>
+<L>Tho[u] schalt ly by the kyng to nyght,</L>
+<L>Golde and sylver thow schalt wynne,</L>
+<L>And ben asolyd of thy synne.'</L>
+<L>'Certis, syre,' quod hys wyfe,</L>
+<L>'Now thow lovest lytil my lyf.'</L>
+<L>For covetyse that he hadde,</L>
+<L>To the kynge hys wyf he ladde.</L>
+<L>He went unto the kynges bedde,</L>
+<L>And sayed, 'Syre, I have spede,</L>
+<L>I have a lady of hegh bloode, <MILESTONE N="1580"/></L>
+<L>Bot scho wyl have mykyl good,</L>
+<L>And dyrke scho wolde that hit bee,</L>
+<L>Scho nylle that no man hyre see.'</L>
+<L>'Parfay!' quod the kyng anoon,</L>
+<L>'Lette quenche the torches ilkon.'</L>
+<L>Ho lette quenche the torche ilkone,</L>
+<L><PB N="55" REF="56"/>
+And took hys wyf by honde anoon,</L>
+<L>And dyde hyre to bed with [the] kynge,</L>
+<L>That covetous gadlyng.</L>
+<L>Al the nyght thare scho lay, <MILESTONE N="1590"/></L>
+<L>Til a myl byfor the day:</L>
+<L>Al nyght scho sykkyd and sorow made;</L>
+<L>The kyng no myghte hyre nothyng glade.</L>
+<L>The styward was of day adrede,</L>
+<L>And kam to the kynges bede,</L>
+<L>And sayed, 'Syre, on al wys,</L>
+<L>Thow most that lady ryse.'</L>
+<L>Quod the kyng, 'By saynt Jon,</L>
+<L>Ȝyt no schal scho nouȝt gon.'</L>
+<L>He heldyr thare tyl hit was day; <MILESTONE N="1600"/></L>
+<L>And anoon as he saye</L>
+<L>Hyt was the stiward wyf,</L>
+<L>There bygan to ryse stryfe.</L>
+<L>Than sayed the kynge,</L>
+<L>That was wrothe som thyng,</L>
+<L>'Styward, so God the rede,</L>
+<L>Who made the do thys dyde?</L>
+<L>Be thow in my court founde</L>
+<L>Whanne the sonne gos to grounde,</L>
+<L>Withouten ony othyr lawe <MILESTONE N="1610"/></L>
+<L>Thow schalt be angyd and to-drawe;</L>
+<L>Loke withouten ony delay</L>
+<L>That I see the never aftyr thys day.'</L>
+<L>The senescal drade thys wordys sore,</L>
+<L>He ne durst dwel ther no more;</L>
+<L>Out of the court the way he name,</L>
+<L><PB N="56" REF="57"/>
+Wyste thay never were he bycam.</L>
+<L>Lo, my lord syre emperour,</L>
+<L>How he lese hys honour!</L>
+<L>The styward for hys covetyse, <MILESTONE N="1620"/></L>
+<L>Hys wyf he lost and hys servys.</L>
+<L>Certis, sire, so saltow alse,</L>
+<L>For covetyse of thy tales false</L>
+<L>That thyn fals clerkys tellen;</L>
+<L>For soth y nylle nouȝt longe dwellen,</L>
+<L>That thou nult lese thyn honour,</L>
+<L>And thyn sone ben emperour.</L>
+<L>I the telle as hit his,</L>
+<L>Do now what thy wille hys."</L>
+<L>Quod the emperour to the emperesse, <MILESTONE N="1630"/></L>
+<L>"By hym that made matyns and messe,</L>
+<L>I nyll to morwen ete no brede</L>
+<L>Er the thef traytour be ded."</L>
+<L>O-morwen commande the emperour</L>
+<L>Tak hys sone out of the tour,</L>
+<L>And leden hym to hys juggement,</L>
+<L>Anon that he were schent.</L>
+<L>Withoutyn ony more chest</L>
+<L>Thay dyden the emperour hest.</L>
+<L>Without the palas tho he was, <MILESTONE N="1640"/></L>
+<L>He mete with hys maystyr Maladas.</L>
+<L>Into the halle the way he nam,</L>
+<L>Byfore the emperour he cam,</L>
+<L>And sayd, "Alas! sir emperour,</L>
+<L>Thou dost thy self lytyl honour,</L>
+<L>That thy sone schal be slawe,</L>
+<L><PB N="57" REF="58"/>
+Withouten proses of lawe."</L>
+<L>"Certys," quod the emperour,</L>
+<L>"Bade men sle the wykkyd tratour,</L>
+<L>And thow thy felaws ȝe ben fals, <MILESTONE N="1650"/></L>
+<L>Thay schal ben hangede and thow alse."</L>
+<L>"Certys, syre," quod Maladas,</L>
+<L>"Thys hys a wondyr cas,</L>
+<L>To bynym thy sones lyf,</L>
+<L>For a tale of thy wyf;</L>
+<L>And yf thou dost, syre emperour,</L>
+<L>God leve the falle swilk honour</L>
+<L>As the olde man hadde welne hent,</L>
+<L>Ne hadde hys wyf have had chastement,</L>
+<L>That hadde mynt, without respyte, <MILESTONE N="1660"/></L>
+<L>Have doon hire a ful despyte."</L>
+<L>Quod the emperour to Maladas,</L>
+<L>"Thow sal tel me of that cas,</L>
+<L>For I ne herde never in my lyve</L>
+<L>Old man chasty ȝong wyf."</L>
+<L>"Sire," quod mayster Maladas,</L>
+<L>"Yf thow wylt here of that cas,</L>
+<L>By Jhesu Cryst omnypotent,</L>
+<L>The chylde schal ben aftyr sent."</L>
+<L>Thorow commandement of the emperour, <MILESTONE N="1670"/></L>
+<L>The childe was lade into the toure;</L>
+<L>Ther-fore gladdyd many a man,</L>
+<L>And Maladas hys tale bygane.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>"Sire," quod maystir Maladas,</L>
+<L>"Herkyn how fel that cas.</L>
+<L><PB N="58" REF="59"/>
+Hyt was a man of olde lyfe,</L>
+<L>And hadde a ȝong womman to wyfe,</L>
+<L>And hys blode bygan to colde,</L>
+<L>And the wenche bygane to bolde.</L>
+<L>Than he slakyd of hys werke, <MILESTONE N="1680"/></L>
+<L>Scho bygan to love a clerke.</L>
+<L>O day to the kyrke scho came,</L>
+<L>And hyr modyr in councel nam,</L>
+<L>And sayed to hyr modyr anoon,</L>
+<L>'My lordys merryghe hys welne gone,</L>
+<L>Now he slakys to lygge above;</L>
+<L>I wyl have another love.'</L>
+<L>'Dougter,' quod the moder tho,</L>
+<L>'I ne rede nouȝt thow do soe:</L>
+<L>Thow an old man holde hym stille, <MILESTONE N="1690"/></L>
+<L>Dougter, thou wost nought al hys wille.</L>
+<L>Ar thou do swylk a dede,</L>
+<L>Prove hym first, I wyle the rede.'</L>
+<L>The douter took hire leve anoon,</L>
+<L>And dyde hyre hastylych to gon,</L>
+<L>And thout hyr lorde for to prove.</L>
+<L>The lorde hadde an hympe gode,</L>
+<L>Tha[t] in a fayr herber stood,</L>
+<L>And the lorde loved hit myche;</L>
+<L>For in his orcher nere non syche, <MILESTONE N="1700"/></L>
+<L>So nobil pers as hyt bare.</L>
+<L>Thare-of the wyf [was] ware,</L>
+<L>On of hyr men with hyr he nam,</L>
+<L>And to the hymp sone he cam,</L>
+<L>And dyde anoon as a schrewe,</L>
+<L><PB N="59" REF="60"/>
+On the tre gobettys lette hewe,</L>
+<L>And in the halle let hit lygge,</L>
+<L>To loke what he wolde sygge.</L>
+<L>"When the lord in cam,</L>
+<L>Of the tre hed he nam; <MILESTONE N="1710"/></L>
+<L>'Dame,' he sayd, 'were grew this tre,</L>
+<L>That lyes thus hewen in trhe?'</L>
+<L>'Sire,' scho sayed, 'in thyn erber,</L>
+<L>Hyt grewe nowthir fer no ner.'</L>
+<L>'Depardus! dame,' quod he tho,</L>
+<L>'Now hit hewen hys, let hit go.'</L>
+<L>In hys hert he was wroth,</L>
+<L>Bote to contak he was loth;</L>
+<L>He ne sayed nouȝt al that he thout.</L>
+<L>The dougter anoon the way nam, <MILESTONE N="1720"/></L>
+<L>And to the modir sone he cam,</L>
+<L>And sayed, 'Modir, so mot I the,</L>
+<L>I have doon as thow bade me;</L>
+<L>Hys fayre hympe that thow see,</L>
+<L>That sprade so brood and so heye,</L>
+<L>I lete hewyt by the more,</L>
+<L>And ȝyt was he nowt wroth ther-fore.'</L>
+<L>"'Dogter,' quod the moder tho,</L>
+<L>'I walde red the, as I mot go,</L>
+<L>Prove hym ȝyt anothir stound, <MILESTONE N="1730"/></L>
+<L>Are love thow have to ard bound.</L>
+<L>Thow he were stille and spake nouȝt,</L>
+<L>Thou wost never what hys thout.'</L>
+<L>Ȝyt [scho] sewyd hyr modyr wylle,</L>
+<L>And went hom al ston stille,</L>
+<L><PB N="60" REF="61"/>
+And bythout hire al by the way</L>
+<L>Oppon a schrewydschyp or tway,</L>
+<L>And anoon in the stude</L>
+<L>A gret schrewnes he dude.</L>
+<L>The lord a lytyl kenet hadde, <MILESTONE N="1740"/></L>
+<L>He loved hit wel, the hit were bad.</L>
+<L>Hyt byfelle that ilke day</L>
+<L>The kenet on hir lappe lay;</L>
+<L>God gyfe hyre ivel happe!</L>
+<L>Scho slowe the kenet oppon hire lappe.</L>
+<L>'Dame,' quod he, 'why dustou soo?</L>
+<L>That was nouȝt wyl doo.'</L>
+<L>'Sire,' scho sayed, 'be nouȝt wroth,</L>
+<L>Lo he hase byfoulyd my clothes.'</L>
+<L>'Dame,' he sayed, 'by saynt Rycher, <MILESTONE N="1750"/></L>
+<L>Thou myghtyst drawe thy clothes nere,</L>
+<L>And late my hondis on lyf go:</L>
+<L>I pray the, dame, sle no mo,</L>
+<L>Thow thay lyge oppon thy clothe;</L>
+<L>Yf thou dost, I wylle be wrothe.'</L>
+<L>Scho thout tho, 'Thay that wil spare</L>
+<L>To have a lemman for hys fare.'</L>
+<L>That ilke day scho the way nam,</L>
+<L>And to hir modir sone he cam.</L>
+<L>'Dam,' scho sayed, 'So God my rede, <MILESTONE N="1760"/></L>
+<L>I have donn asstow me bede:</L>
+<L>Mi lorde hade a kenet fel,</L>
+<L>That he loved swyth wel;</L>
+<L>So God gyf me good happe,</L>
+<L>I hym slow on my lappe,</L>
+<L><PB N="61" REF="62"/>
+And made hym lese hys hert blode,</L>
+<L>And he sayed nouȝt bot good.</L>
+<L>I nylle wounde nowt i-wys,</L>
+<L>To love were my wille hys;</L>
+<L>For sothe, dame, I may wel, <MILESTONE N="1770"/></L>
+<L>I have spyde he hys nouȝt fel.'</L>
+<L>'Dougter,' quod the modir tho,</L>
+<L>'I reed that thow do nouȝt soo:</L>
+<L>Old men wille thole mykil wronge,</L>
+<L>Bot for soth hys wreche hys stronge;</L>
+<L>Ther-for my rede hys thys,</L>
+<L>Prove thrys ar thou doo amys.'</L>
+<L>'Dame,' quod the dogter tho,</L>
+<L>'Gladlych, so mot I goo;</L>
+<L>Bot thau he wrothe hym never so sore, <MILESTONE N="1780"/></L>
+<L>For sothe I nylle prove hym no more.'</L>
+<L>And at hir moder leve he nam;</L>
+<L>Toward hyr oune house ho cam,</L>
+<L>And by the way as scho ȝode,</L>
+<L>Scho thout oppon a schreud dede.</L>
+<L>"Sone aftyr hit bytydde,</L>
+<L>That the godman lete byde</L>
+<L>A swythe fayre companye,</L>
+<L>And made a fayre maungerye.</L>
+<L>As thay sytten and mad ham glade, <MILESTONE N="1790"/></L>
+<L>The goodman fayre semlant made;</L>
+<L>The wyf fast hyre keyes wrothe,</L>
+<L>In the ende of the borde clothe,</L>
+<L>Scho roos uppe and dyde hyre to gone,</L>
+<L>And drow doun coppys and dyschys ilkone,</L>
+<L><PB N="62" REF="63"/>
+And schent robys of riche grene,</L>
+<L>And broght al the gestis in tene.</L>
+<L>The goodman was ful wroth,</L>
+<L>And let castyn anothir cloth,</L>
+<L>And made hare clothes be wypit and dyȝt, <MILESTONE N="1800"/></L>
+<L>And solace thaym as wel as he myght.</L>
+<L>When alle hys gestys were a-goo,</L>
+<L>Than bygan to wakken wo;</L>
+<L>Bytwen the goodman and hys wyf,</L>
+<L>Than bygan to ryse a stryfe.</L>
+<L>'Dame,' he sayed, 'so mot I the,</L>
+<L>Thou havest don me despites thre;</L>
+<L>So God mak me good man,</L>
+<L>Thou schalt be chasted, yf I cane.</L>
+<L>Dame, thow havest ben thryes wode, <MILESTONE N="1810"/></L>
+<L>For soth thow shalt be latyn blode.'</L>
+<L>He ladde hyr into a chambyr,</L>
+<L>He and hys brothyr,</L>
+<L>And late the on arm blood ther,</L>
+<L>And after the thothyr;</L>
+<L>He leved no blode in hys wyf,</L>
+<L>Bot a lytil to holde hyre lyf.</L>
+<L>When sche hadde so blede,</L>
+<L>He layed hyre in a fayre bede.</L>
+<L>When scho wok out of a swoune, <MILESTONE N="1820"/></L>
+<L>He gaf hyre met and drynk anoone,</L>
+<L>And, 'Dame,' sayed, 'ly al stylle,</L>
+<L>Thou schalt have met and drynke at wile,</L>
+<L>And ever when thou waxist wode</L>
+<L>Thou schalt be latyn blood.'</L>
+<L><PB N="63" REF="64"/>
+'Sire,' scho sayed, 'mercy, I aske ȝore,</L>
+<L>And I wylle wrathe the no more.'</L>
+<L>'Par fay, dame,' quod he tho,</L>
+<L>'For-why that thou doo no moo</L>
+<L>Swilke trespas, while I leve, <MILESTONE N="1830"/></L>
+<L>This thre schal be forgyven.'</L>
+<L>Than walde sche no more</L>
+<L>Leven of the clerkis lore,</L>
+<L>For fere to be lat bloode;</L>
+<L>Bot heldir algat trew and good.</L>
+<L>"Sir," quod maystir Maladas,</L>
+<L>"Lo swilke a woundir kas</L>
+<L>Hadde welne bytyde the olde wise;</L>
+<L>Ne hadde he lerned to chatyse</L>
+<L>Hys wyf at hys comaundement, <MILESTONE N="1840"/></L>
+<L>How evilliche he hadde ben schent.</L>
+<L>Sertis, sire emperour,</L>
+<L>Thus schaltou lese thyn honour,</L>
+<L>And thow suffry thy wywys wille,</L>
+<L>That thow wilt thy sone spille.</L>
+<L>Aftir that mysdyde scho wile do mo,</L>
+<L>And bryng the into more wo."</L>
+<L>Quod the emperour, "By saynt Martyn,</L>
+<L>That schal scho nowt, wyf hys scho myn:</L>
+<L>So I evere broke myn hede, <MILESTONE N="1850"/></L>
+<L>To day ne schal my sone be dede."</L>
+<L>Than the emperes herde this,</L>
+<L>Scho was swith sori i-wys,</L>
+<L>Scho syghyd, and sory chere made,</L>
+<L>Myght hyr that day no man glade.</L>
+<L>When scho was to bede broght,</L>
+<L><PB N="64" REF="65"/>
+Scho syghyd sore and sayed noght.</L>
+<L>The emperour, that lay fol softe,</L>
+<L>Herde hys wyf syghen ofte, <MILESTONE N="1860"/></L>
+<L>And sayed, "Dame, saye me thy wylle,</L>
+<L>Why mornes thou and syghys so stille?"</L>
+<L>Quod the emperes to the emperour,</L>
+<L>"Certys, sire, for thyn honour:</L>
+<L>Thow art smytyn in covatyse,</L>
+<L>Whare-of thy sorowe wylle aryse.</L>
+<L>Thou covetes in alle manere</L>
+<L>Thyn seven clerkis for to here.</L>
+<L>Thou schalt lese thyn honour,</L>
+<L>As dyde Crassus the emperour, <MILESTONE N="1870"/></L>
+<L>That for covetyse was slawe</L>
+<L>Withouten any proses of lawe."</L>
+<L>Quod the emperour, "By saynt Jon,</L>
+<L>Thou schalt telle me anon</L>
+<L>How Crassus lese thourow covetyse</L>
+<L>Is lyf, and on wilk wyse."</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALLE.</HEAD>
+<LG>
+<L>The emperes hire tale bygane,</L>
+<L>And sayde, "Sire, hit was a mane,</L>
+<L>Merlyn he hatte, and was a clerke, <MILESTONE N="1880"/></L>
+<L>And bygan a wondir werke;</L>
+<L>He made in Rome thourow clergyse</L>
+<L>A piler that stode fol heyghe,</L>
+<L>Heyer wel than ony tour,</L>
+<L>And ther-oppon a myrrour,</L>
+<L>That schon over al the toun by nyght</L>
+<L><PB N="65" REF="66"/>
+As hyt were day lyght,</L>
+<L>That the wayetys myght see;</L>
+<L>Yf any man come to cité</L>
+<L>Any harme for to doon, <MILESTONE N="1890"/></L>
+<L>The cité was warnyd soone.</L>
+<L>Thare was contek ofte and lome</L>
+<L>Bytwen Pule and the cité of Rome.</L>
+<L>The kynge of Pule hadde no myght</L>
+<L>To stele oppon the town by nyght,</L>
+<L>For the myrrour was so clere,</L>
+<L>That kest lyght fer and nere.</L>
+<L>Twa clerkys was in hys londe,</L>
+<L>Twa bryther, that token on honde</L>
+<L>For to kast the myrour down, <MILESTONE N="1900"/></L>
+<L>That lyght over al Rome toune.</L>
+<L>The kyng asked the clerk bathe,</L>
+<L>What he scholde gyf hem twae.</L>
+<L>That oon clerk sayed to the kynge,</L>
+<L>'Certis, sire, we wylle no thynge,</L>
+<L>Er the myrrour be broght a-doune,</L>
+<L>And than gyf us oure warrysoun.'</L>
+<L>Quod the kyng, 'So mot I the,</L>
+<L>I graunt wel at hit so be.'</L>
+<L>Thanne sayed the heldest brothir, <MILESTONE N="1910"/></L>
+<L>'Sire kynge, thou most do anothyr;</L>
+<L>Ale prevyliche and stille</L>
+<L>Twa coffyns thou most fylle</L>
+<L>Of golde and of preciouse stonnys.</L>
+<L>Let make the coffynys for the nones,</L>
+<L>Hye that thay were dyght,</L>
+<L><PB N="66" REF="67"/>
+And the myrour schal lese hys lyght.'</L>
+<L>"The kynge hadde em redy dyght,</L>
+<L>And fylde thaym fulle that ilk nyght.</L>
+<L>Oppon the morne the way the nome, <MILESTONE N="1920"/></L>
+<L>Ryght to the cité of Rome.</L>
+<L>On morwen thay wenten messe to here,</L>
+<L>And after went to play i-fere;</L>
+<L>Into the felde the way thay nome,</L>
+<L>And lokyd that no man come,</L>
+<L>And maden lytyl pyttys twaye,</L>
+<L>And byrid the coffyns bathe,</L>
+<L>And setten redy markys there</L>
+<L>Wydyr-out the coffyns were,</L>
+<L>A[nd] went forth as stille a ston, <MILESTONE N="1930"/></L>
+<L>And comen to the emperour anon,</L>
+<L>And sayed, 'We wyte, sire emperour,</L>
+<L>About this cité gret tresour,</L>
+<L>Undyr the erth hit hys hyde;</L>
+<L>And yf thou wylt, hyt schal be kyde.</L>
+<L>For a sweven us come to nyght,</L>
+<L>Were the tresour hys undir erth dyght.'</L>
+<L>"Quod the emperour, 'By saynt Martyn,</L>
+<L>And I wole do wefor of myn.'</L>
+<L>Atte the emperour thay toke leve, <MILESTONE N="1940"/></L>
+<L>Ant wenten hom tho hyt was even;</L>
+<L>On the morwen wen the day wa[s] bryȝt,</L>
+<L>To the emperour thay come ful ryȝt,</L>
+<L>And sayden, 'Certis, syre emperour,</L>
+<L>We have aspyed wher hys the tresour;</L>
+<L>Therfore, sire, tak with ous a man,</L>
+<L><PB N="67" REF="68"/>
+That be wys man, ant can</L>
+<L>Stond by ous a lytil stounde,</L>
+<L>To save the tresour whan hit hys founde.'</L>
+<L>"The emperour toke with thaym a man anon, <MILESTONE N="1950"/></L>
+<L>And thay dydden ham to goon,</L>
+<L>And dolven a lytyl withinne the grounde,</L>
+<L>And the tresour was sone founde.</L>
+<L>Thay wenten anoon to the emperour,</L>
+<L>And schewden hym that nobil tresour.</L>
+<L>The emperour was payed ful wel,</L>
+<L>And wende hit were al gospel</L>
+<L>That the clerkys dyden hym to wite,</L>
+<L>And al was fals every smyte.</L>
+<L>Tho hyt neghyt toward evene, <MILESTONE N="1960"/></L>
+<L>The twa clerkys token leve,</L>
+<L>And went toward hare in agayen,</L>
+<L>Thare thay haddyn al nyght layen.</L>
+<L>Wyth myche myrthe to bede thay ȝede,</L>
+<L>For thay hoppen for to spede.</L>
+<L>A-morwen when the day spronge,</L>
+<L>In thayr bede thay thought longe,</L>
+<L>To the emperour they gune hye,</L>
+<L>For to blere more hys eye.</L>
+<L>That on clerke sayed anoon, <MILESTONE N="1970"/></L>
+<L><HI REND="italic">'Par fay,</HI> syre, we moten goon,</L>
+<L>That the tresour were fete,</L>
+<L>That we have of to nyȝt mete:</L>
+<L>Let senden a man the tresour to bede,</L>
+<L>As he that instay with ous ȝede.</L>
+<L>Ham to-lywryd a man anon,</L>
+<L><PB N="68" REF="69"/>
+And thider fast thay gone gone;</L>
+<L>Thay ne dyggyd bot a lytil stounde,</L>
+<L>The coffyn was ful sone founde,</L>
+<L>Hyt was no need depe to delve, <MILESTONE N="1980"/></L>
+<L>He may wel fynde that hyde hym selven.</L>
+<L>Thay brogten anoon the tresour</L>
+<L>Ryght byfore the emperour.</L>
+<L>The emperour was glad tho,</L>
+<L>That he hadde sylke clerkys two,</L>
+<L>That wyste ware to fynde so evene</L>
+<L>Ware were tresour hyd so evene.</L>
+<L>Tho the emperour herde thaym lye,</L>
+<L>And wend hit were al profecye,</L>
+<L>And grete love to ham kaste, <MILESTONE N="1990"/></L>
+<L>And al was lorne at the laste.</L>
+<L>Tho hyt neghit toward hevene,</L>
+<L>The clerkys token anoon hare leve,</L>
+<L>Ant went hom with myche honour,</L>
+<L>And louhe to scorne the emperour,</L>
+<L>And made ham et ese that nyght,</L>
+<L>Til on morwen the day bryght.</L>
+<L>On the morwen, tho the day sprong,</L>
+<L>Thaym thought in hare bed ful longe;</L>
+<L>Alle both thay goon goon <MILESTONE N="2000"/></L>
+<L>To the emperour anoon.</L>
+<L>The ton sayed, 'Sire emperour,</L>
+<L>Undir the pyler that berys merour,</L>
+<L>Ther hys a golde hord bygune,</L>
+<L>One the noblest undir sone.'</L>
+<L>"'Certis,' quod the emperour,</L>
+<L><PB N="69" REF="70"/>
+'I wolde nought for half the tresour</L>
+<L>That the myrrour fel a-down,</L>
+<L>Hyt helpis for to save the toun.'</L>
+<L>'Sire,' quod that on clerke, <MILESTONE N="2010"/></L>
+<L>'We conne ordeyn so our werke,</L>
+<L>Of the tresour to have oure wille,</L>
+<L>And late the myrrour stande stille.'</L>
+<L>Quod the emperour, 'By sayent Myghel,</L>
+<L>To swylke a forwarde I graunt wel;</L>
+<L>Go, and God almyghty ȝoue spede,</L>
+<L>And to the myrrour take hede.'</L>
+<L>The clerkys take mynours anoon,</L>
+<L>And to the piler thay goon;</L>
+<L>Thay bygune to dygge faste, <MILESTONE N="2020"/></L>
+<L>Than thay sayen at the laste</L>
+<L>How the piler stode in bras,</L>
+<L>And with sowdyng sowdyt faste.</L>
+<L>Than sayed the tone clerke,</L>
+<L>'Mynours, lat be ȝoure werke.'</L>
+<L>When the mynours were goon,</L>
+<L>The clerkys made a fyre anoon,</L>
+<L>The pylar fot al about,</L>
+<L>And closyd the fyere al witout.</L>
+<L>When thay hadden thus doon, <MILESTONE N="2030"/></L>
+<L>Thay wentyn hom, and hyt was non,</L>
+<L>Byfore the emperoure thay come,</L>
+<L>And anoon lef thay nome</L>
+<L>To whend hom into thayr in,</L>
+<L>To ordayn and dyvyse a gyne,</L>
+<L>For to holde the piler up-ryght,</L>
+<L><PB N="70" REF="71"/>
+And the myrrour that was so lyȝt.</L>
+<L>The emperour gaf thaym leve;</L>
+<L>And thay wolde no langer byleve,</L>
+<L>To hare in son thay come, <MILESTONE N="2040"/></L>
+<L>And at thayre ostage leve thay nome.</L>
+<L>The fyere was hote and bernyd faste,</L>
+<L>And malt the soudyng at the last;</L>
+<L>Thay were bot a lytil withouten toun,</L>
+<L>That the pyler fel a-doun.</L>
+<L>Alle the lordys of the cité</L>
+<L>Were ful sory, and myghte wel be;</L>
+<L>Thay wente anoon to the emperour,</L>
+<L>And asked of the myrour,</L>
+<L>Why he let kast a-doun <MILESTONE N="2050"/></L>
+<L>That help for to save the toune.</L>
+<L>Non answere couth the emperour,</L>
+<L>Bot for covetyse of tresoure,</L>
+<L>For to wyte of the wundyre,</L>
+<L>Wat tresour was hyd ther-undyre.</L>
+<L>Al that in Rome was,</L>
+<L>Riche and pore, none ther nas,</L>
+<L>That thay nere al at on</L>
+<L>To sle the emperour anoon;</L>
+<L>And a wyle yf ȝe wille dwelle, <MILESTONE N="2060"/></L>
+<L>How he was slawe I wyl ȝow telle.</L>
+<L>For he let falle the myrour</L>
+<L>For the covetyse of tresour,</L>
+<L>Thay were al at on red,</L>
+<L>Thourow tresour he scholde be dede.</L>
+<L>Thay token gold a grete bal,</L>
+<L><PB N="71" REF="72"/>
+And letten grynde hyt ryght smal,</L>
+<L>And puttyn out hys eyen two,</L>
+<L>And fylden the hollys folle bothe,</L>
+<L>Hys eyen, hys nose, and hys throte, <MILESTONE N="2070"/></L>
+<L>Thay fylden wit golde every grote;</L>
+<L>Thus thay were at on acent,</L>
+<L>For to gyfe hym that juggement."</L>
+<L>Quod the emperesse to the emperour,</L>
+<L>"Thus for golde and tresour</L>
+<L>The emperour was slawe,</L>
+<L>Withouten any proses of lawe.</L>
+<L>Thus ar thou falle in covetyse also,</L>
+<L>Thorow thy clerkys tales false;</L>
+<L>Thou wylt by schent, by swyte Jhesus, <MILESTONE N="2080"/></L>
+<L>As was the emperour Crassus."</L>
+<L>Quod the emperour, "By sayent Colas,</L>
+<L>I ne schal nouȝt bytyde that cas,</L>
+<L>For no lesyng that thay mon telle.</L>
+<L>My sone i-wys schal nouȝt dwelle</L>
+<L>On lyve lengur than to morwen,</L>
+<L>So Gode schilde me fra sorowe!"</L>
+<L>And anon has hyt was day,</L>
+<L>The emperour made non delay,</L>
+<L>To sla the childe he was ful rade, <MILESTONE N="2090"/></L>
+<L>He ferde as man that were made:</L>
+<L>He badde hys tormentours ilchon</L>
+<L>Doe thys childe to deth anoon.</L>
+<L>Thay dyden as the emperour bade.</L>
+<L>When the childe schulde dee,</L>
+<L>Thare was many a wyppyng hee.</L>
+<L><PB N="72" REF="73"/>
+Ryght withouten the palyes ȝate,</L>
+<L>Thay mete mayster Caton thare-ate;</L>
+<L>The childe lette hys [eyen] glyede</L>
+<L>Oppon hys maystyr al asyde. <MILESTONE N="2100"/></L>
+<L>Mayistyr Caton that was wyse,</L>
+<L>Lokyd on hys prentyse;</L>
+<L>He loutyd to hym, and lete hym goon,</L>
+<L>Ant went to the emperour anoon,</L>
+<L>And gret hym with gret honour,</L>
+<L>As men schulde an emperour;</L>
+<L>And he answerd ryght in the place,</L>
+<L>"Maugré have thou and male grace!"</L>
+<L>"A! sire," quod he,</L>
+<L>"<HI REND="italic">Mercy per saynt charité!</HI> <MILESTONE N="2110"/></L>
+<L>For Goddis love, syre emperoure,</L>
+<L>Hyre me speke for thyn honour."</L>
+<L>"Have doo, traytour," quod he,</L>
+<L>"Late see what thy resoon schal be."</L>
+<L>"Sire," quod mayster Caton,</L>
+<L>"Hyt hys al agayen reson,</L>
+<L>That a dome man schal bere juggment,</L>
+<L>And for lesyngs been schent.</L>
+<L>Yf thy sone to day hys slawe,</L>
+<L>Withouten any prossesse of lawe, <MILESTONE N="2120"/></L>
+<L>Also mote the befalle,</L>
+<L>As dyde the burgees in hys halle,</L>
+<L>That bynam hys byrdys lyf,</L>
+<L>For the tale of hys wyfe."</L>
+<L>Quod the emperour, "By seynt Colas,</L>
+<L>Thou schalt telle me of that cas,</L>
+<L><PB N="73" REF="74"/>
+That thou sayest that was bytyde,</L>
+<L>Of the burges and hys berde."</L>
+<L>"Sire," quod mayster Caton tho,</L>
+<L>"Thy sone that hys to dethe go, <MILESTONE N="2130"/></L>
+<L>Lete a knyght or a swayn</L>
+<L>Anon brynge the chylde agayne,</L>
+<L>And lete hym on lyfe dwelle,</L>
+<L>Whille that I my talle telle;</L>
+<L>Or by Good that alle wrought,</L>
+<L>I nylle telle the ryght nowt,</L>
+<L>Bot the childe be eftyr sent,</L>
+<L>That hys toward hys deth went."</L>
+<L>The emperour comande anoon</L>
+<L>Aftyr the childe for to goon. <MILESTONE N="2140"/></L>
+<L>Than gladdyd many a man,</L>
+<L>And mayster Caton hys tale bygane.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>ATTALE.</HEAD>
+<LG>
+<L>"Hit was a burgeis and hadde a wyf,</L>
+<L>And love hyre as hys ouen lyfe;</L>
+<L>And hadde a popynjay at spake,</L>
+<L>And wyst by hys wyf a lake,</L>
+<L>And tolde hym when he ham cam,</L>
+<L>Anothyr lotby scho nam;</L>
+<L>And than bygane to wax stryfe</L>
+<L>Bytwen the godman and hys wyfe. <MILESTONE N="2150"/></L>
+<L>The godman went a day to playe,</L>
+<L>Out on jornay or twae,</L>
+<L>To frendys that he sawe nowt ȝore,</L>
+<L>No wyste when he schulde more.</L>
+<L>When the goodman was went,</L>
+<L><PB N="74" REF="75"/>
+Than was the lemman after sent,</L>
+<L>And madyn myrth and melodye,</L>
+<L>Ryght byfore the bryddys eie.</L>
+<L>The wyf she thout oppon a wylle</L>
+<L>For to do the birde a gyle, <MILESTONE N="2160"/></L>
+<L>And ful sone scho was thought</L>
+<L>How that gyle myght be wrought.</L>
+<L>Scho hadde a knave al at hyr wile,</L>
+<L>That wyst hyr priveté loude and stille;</L>
+<L>Scho madde hym sette a leddy[r] on hygh,</L>
+<L>And oppon the laddyr he styghe,</L>
+<L>A piger of watyr he fete</L>
+<L>And oppon the rof he hyt sette;</L>
+<L>A piger of watyr he fete</L>
+<L>And oppon the rof he hyt sette;</L>
+<L>Oppon the rof he made an hole,</L>
+<L>He went don a[nd] bare uppe a cole, <MILESTONE N="2170"/></L>
+<L>And a torche up ther-myde,</L>
+<L>And as the wyf hym badde he dyde.</L>
+<L>When thay were a-bede y-fere,</L>
+<L>The wyf and hyre topinyere,</L>
+<L>The knave hadde al hys thynge dyȝt,</L>
+<L>He lokyd in and sawe lyght,</L>
+<L>And bygan onnoon hys rage,</L>
+<L>And cast watyr oppon the kage.</L>
+<L>When he hadde caste twyes or thrye,</L>
+<L>He dyde anothyr maystrie, <MILESTONE N="2180"/></L>
+<L>Grete blowen bladdyrs he brake,</L>
+<L>And thay gave a gret crake.</L>
+<L>He tende hys torche at a cole,</L>
+<L>And putte in ate the hole.</L>
+<L>The wyf sat oppon hire bede,</L>
+<L><PB N="75" REF="76"/>
+And made has scho were a-drede;</L>
+<L>Bote ofte sayed, 'Benedicite!</L>
+<L>What thynge may thys be?'</L>
+<L>"Quod hire horlyng in the bede,</L>
+<L>'Ly stille a[nd] be nought a-drede; <MILESTONE N="2190"/></L>
+<L>Hyt hys lyghtyn, thondyr, and rayne:</L>
+<L>Ly doun in thy bede agayn.'</L>
+<L>The byrde stode and sawe and herde</L>
+<L>Al that gile hou hyt ferde,</L>
+<L>And whende hyt were soth that ho sayed,</L>
+<L>And bylle undyr wynge layede,</L>
+<L>And toke rest tyl hyt was daye,</L>
+<L>And the horlynge went hys way.</L>
+<L>When the godman hame cam,</L>
+<L>To the cage the waye he nam, <MILESTONE N="2200"/></L>
+<L>And askyd the byrde how hyt ferde;</L>
+<L>And the byrde answerde,</L>
+<L>And sayed, 'sythyn I sawe the laste,</L>
+<L>I have been ful sore agaste.'</L>
+<L>"Quod the goodman to hys birde,</L>
+<L>'Tel me what was the bytydde.'</L>
+<L>'Sire,' he sayed, 'when thou wer gon,</L>
+<L>Oure dame lemman cam anoon,</L>
+<L>He was sent aftyr fol sone,</L>
+<L>And dyde as was to done— <MILESTONE N="2210"/></L>
+<L>And the nyght that was</L>
+<L>There byfel a wondyr cas,</L>
+<L>Hyt raynyd and lygnyd and thonryd fast,</L>
+<L>And alle we were sore agaste.'</L>
+<L>The godman went to hys wyf,</L>
+<L><PB N="76" REF="77"/>
+And abrayder of hyr lyf,</L>
+<L>That scho hadde don wil he was oute,</L>
+<L>And callyd hys wyf foule scout.</L>
+<L>'Alas! sire,' quod the wyf,</L>
+<L>'Why schul we lede thys lyf? <MILESTONE N="2220"/></L>
+<L>Thou lovest to myche thy byrdys lore,</L>
+<L>And al he lyees, by Goddy[s] hore.'</L>
+<L>'Dame,' he sayed, 'by my hals,</L>
+<L>Now thow schalt be proved fals:</L>
+<L>While I was out he was here,</L>
+<L>And in my chambyr ȝe lay i-fere,</L>
+<L>And that nyght the wedyr was strong,</L>
+<L>Hyt laytyd, thondred, and reynned among,</L>
+<L>Al that nyght til hyt was day,</L>
+<L>Thyn horlyng in that bede lay.' <MILESTONE N="2230"/></L>
+<L>"'A! sire,' quod scho, and was bolde,</L>
+<L>'He that that lesyng hase tolde,</L>
+<L>He lyed, by Good that alle hase wroght,</L>
+<L>Hyt raynyd ne thondryd ne layt nout</L>
+<L>Sythen thou wentyst out of thys toune,</L>
+<L>And by neghbours prove ȝe moune.'</L>
+<L>'Certis,' quod the godman,</L>
+<L>'I wil foundyn yf I can</L>
+<L>Prove the fals ryght anoon.'</L>
+<L>He clepyd hys neghburs ilkon. <MILESTONE N="2240"/></L>
+<L>When thay were al come,</L>
+<L>In concel thay were al nome,</L>
+<L>Whethyr anny rayn, thondyr, or lyȝt</L>
+<L>Hadde be of al that seven-nyght.</L>
+<L>Than the neghbours answerd anoon,</L>
+<L>'Swylk wedyr wastyr noon</L>
+<L><PB N="77" REF="78"/>
+Of al thys seven-nyght and more.'</L>
+<L>Than for-thout the burges sore,</L>
+<L>That he hadde hys wyf myssayde,</L>
+<L>And dyde anoon a lyther brayed; <MILESTONE N="2250"/></L>
+<L>Ryght in that ilke selve rage</L>
+<L>He slowe the byrde in the cage.</L>
+<L>Thus the burges thowrow hys wyf</L>
+<L>Bynam hys good byrd hys lyfe.</L>
+<L>So woltou, sire emperour,</L>
+<L>Do thy self lytyl honour,</L>
+<L>For the wordys of thy wyf</L>
+<L>To bynyme thy sonne lyfe."</L>
+<L>Quod the emperour anon,</L>
+<L>"For love of hym, by Saynt Symon, <MILESTONE N="2260"/></L>
+<L>That was so foule bleryd hy[s] eye,</L>
+<L>To day no schal my sone dee."</L>
+<L>Tho the emperes herde telle</L>
+<L>That he scholde on lyf dwel</L>
+<L>Al that nyght tyl on morwen,</L>
+<L>Than madde scho mykyl sorowe;</L>
+<L>Al that day to nyght come</L>
+<L>Alas! was ofte oppe y-nome;</L>
+<L>When thay comen to bede y-fere,</L>
+<L>The lady made sory chere. <MILESTONE N="2270"/></L>
+<L>Quod the emperour, "How may this be?</L>
+<L>Dame, what hys wyth the?"</L>
+<L>"Sire," scho sayed, "no thyng goode,</L>
+<L>For soth thou makest me welny wode.</L>
+<L>Thou art about thy selve to greve,</L>
+<L>For thou wyl no concel leve,</L>
+<L><PB N="78" REF="79"/>
+No good concel undir hevene,</L>
+<L>Bot of thyn fals clerkis sevene.</L>
+<L>Therfore I ware the sykirlich,</L>
+<L>Thou wylt love ham so myche, <MILESTONE N="2280"/></L>
+<L>That thou wilt [lese] thyn honour,</L>
+<L>As dyde Herode the emperour,</L>
+<L>That levyd concel agayn hys prowe,</L>
+<L>Of seven clerkis, as dostou."</L>
+<L>Quod the emperour, "By Goddis belle,</L>
+<L>Of that cas thou most me telle."</L>
+<L>"Gladlich," sayed scho,</L>
+<L>"The bettyr yf hyt wylle bee."</L>
+<L>For to brew the childes bale,</L>
+<L>Anon scho bygan hyr tale. <MILESTONE N="2290"/></L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>Scho sayed, "Hit was a emperour,</L>
+<L>A man of ful mykil honour,</L>
+<L>And hadde seven clerkys wyse,</L>
+<L>And broghten up a usage,</L>
+<L>That dyde swyth gret damage.</L>
+<L>Who so anny swevene by nyght,</L>
+<L>O morne when the day was bryght,</L>
+<L>And rych gyftis with hym nam,</L>
+<L>For the clerkis schuld telle</L>
+<L>Of the sweven that walde byfalle, <MILESTONE N="2300"/></L>
+<L>And wannyn riches to hare byhove,</L>
+<L>And broghten men in mysbyleve.</L>
+<L>And the emperour for wynne,</L>
+<L>Mayntend hom in synne,</L>
+<L>At lete ham have al hare wille,</L>
+<L><PB N="79" REF="80"/>
+And ate the last speddyn ille.</L>
+<L>The emperour hadde a maladye,</L>
+<L>A wondyrful for the maystry;</L>
+<L>Whan he wolde by any way</L>
+<L>Out of Rome wende to play, <MILESTONE N="2310"/></L>
+<L>Withouten toun as he come,</L>
+<L>Anon hys syght hym was bynom.</L>
+<L>Thare-fore he was sore agremed,</L>
+<L>And oft sythes sore aschamed.</L>
+<L>Of hys clerkis cautel he toke,</L>
+<L>And badde ham loke in hyr booke,</L>
+<L>Yf thay myghten with ony clergye,</L>
+<L>Hele hym of that maladye.</L>
+<L>Bot thare was non of ham that couthe</L>
+<L>Telle hym no thyng with mouthe, <MILESTONE N="2320"/></L>
+<L>How he myghte hele wyne</L>
+<L>Of that maladye that he was inne.</L>
+<L>At the last hyt was hym tolde</L>
+<L>Of a wys clerke and a bolde,</L>
+<L>That was hotyn Merlyn,</L>
+<L>That couthe many a medicyn;</L>
+<L>And anon he was sought,</L>
+<L>And byfore the emperour broght.</L>
+<L>Merlyn onon with gret honour</L>
+<L>Gret anon the emperour. <MILESTONE N="2330"/></L>
+<L>Ate schortys wordys for to telle,</L>
+<L>The emperour wolde no langer dwel,</L>
+<L>Bot tolde Merlyn al hys cas,</L>
+<L>Wych maner and how hit was.</L>
+<L>'Sire,' quod Merlyn, that was bolde,</L>
+<L><PB N="80" REF="81"/>
+'Of thynges that thou haves tolde,</L>
+<L>Cawe unto thy chambyr y-fere,</L>
+<L>And in skyle ȝe schal here</L>
+<L>Why and whare-fore hyt hys,</L>
+<L>That ȝoure syght fares amys.'</L>
+<L>The emperour and Merlyn anoon</L>
+<L>Into the chambyr thay gonne gone; <MILESTONE N="2340"/></L>
+<L>When thay were in chambyr brought,</L>
+<L>Merlyn told hym of hys thought,</L>
+<L>And sayed, 'Syre emperour, i-wys,</L>
+<L>Undyr thy bede a caudron hys,</L>
+<L>That buyles both day and nyght,</L>
+<L>And that revys the thy syght,</L>
+<L>And thy lyf there-fore hys worthy forlore,</L>
+<L>Bot any medicyne ben don ther-fore;</L>
+<L>And yf thow levest nought me,</L>
+<L>Remou thi bed and thow mayst se.' <MILESTONE N="2350"/></L>
+<L>The bed was remoude sone;</L>
+<L>Bot thare was more fyrst to doon,</L>
+<L>Er the caudron wer founde:</L>
+<L>Hyt was depe withinne the grounde.</L>
+<L>The emperour sawe atte the laste,</L>
+<L>That the caudron boylyd faste;</L>
+<L>And anoon undirstood</L>
+<L>Merlyn was trew and couthe gode,</L>
+<L>And sayed, 'Merlyn, <HI REND="italic">par charité,</HI></L>
+<L>What mervyle may thys bee?' <MILESTONE N="2360"/></L>
+<L>'Sire,' quod Merlyn, 'i-wys</L>
+<L>I wyll telle the how hyt hys.</L>
+<L>Thys sevene walmes sygnyfye</L>
+<L><PB N="81" REF="82"/>
+Seven devels in thy companye,</L>
+<L>That ben thy seven clerkys,</L>
+<L>That wyssys the to wykkyd werkys.</L>
+<L>Thay been rycher of tresour</L>
+<L>Than artou, sire emperour. <MILESTONE N="2370"/></L>
+<L>Thou havest maynted thaym ther-ine,</L>
+<L>And God hys wroth for that synne.'</L>
+<L>'Maystyr,' quod the emperour,</L>
+<L>'Myght we wet with ony tresour,</L>
+<L>With any concel arly or late,</L>
+<L>Thys sevene walmys for to abate?'</L>
+<L>'Ȝe, sire,' quod Merlyn,</L>
+<L>'Thow myght don hyt wylle a[nd] fyne.</L>
+<L>Thyn sevene clerkys in the halle,</L>
+<L>Sende aftyr the gretest mayster of alle, <MILESTONE N="2380"/></L>
+<L>And smyte of hys hede,</L>
+<L>And anoon when he hys dede</L>
+<L>Thow schalt fynde abatynge adone</L>
+<L>The gretyst walme of the caudrone.'</L>
+<L>The emperour taryd nowt,</L>
+<L>The grettest mayster in was broght,</L>
+<L>And fulfylde Merlyns rede,</L>
+<L>And lete smytte of hys hede;</L>
+<L>And went to the caudron anoon,</L>
+<L>Than was the maystyr walme agoon. <MILESTONE N="2390"/></L>
+<L>"Quod [the] emperour, 'by saynt Martyne,</L>
+<L>I fynde the trewe, mayster Merlyn;</L>
+<L>For oght that man kan saye thare-to,</L>
+<L>As thou concels I wole doe.'</L>
+<L>"Quod Merlyn, 'Sire, so mot I waxe,</L>
+<L><PB N="82" REF="83"/>
+Thane most thou slae thy clerkys;</L>
+<L>For by the deth that I schal dee,</L>
+<L>Thou schal never see with eye</L>
+<L>Withoute Rome toune i-wys,</L>
+<L>Wille ony of ham on lyve hys.' <MILESTONE N="2400"/></L>
+<L>"Quod the emperour, 'So mot I thryve,</L>
+<L>Thare schal none leve on lyve.'</L>
+<L>He clepyd hys tormentours anoon,</L>
+<L>And lete gyrde of the hedes ilkon,</L>
+<L>And went to the caudron tho;</L>
+<L>Than were the walmes a-goo.</L>
+<L>When thay were all slawe,</L>
+<L>Than the caudron was up-drawe.</L>
+<L>"Quod Merlyn to the emperour,</L>
+<L>'Sire, take knyghtes of honour, <MILESTONE N="2410"/></L>
+<L>And leppe to hors and wend to play</L>
+<L>Out of thys cité a jorné or twae,</L>
+<L>And say anon ryght</L>
+<L>How lykkys the nou thy syght.'</L>
+<L>The emperour wolde no langer abyde,</L>
+<L>He dyde hym anoon to ryde,</L>
+<L>And lopyn to hors ilkon,</L>
+<L>And wente out of the cité anoon.</L>
+<L>Tho the emperour come without the ȝate,</L>
+<L>Til he was lyght hym thought to late, <MILESTONE N="2420"/></L>
+<L>To knele and thanke the kynge of myght,</L>
+<L>That he hadde hys eyen syght.</L>
+<L>Than hadde Merlyn grete honour,</L>
+<L>And lafte with the emperour.</L>
+<L>Lo, sire," quod the emperesse,</L>
+<L><PB N="83" REF="84"/>
+"Wylke a mykyl wykkednes</L>
+<L>The sevene clerkys hadde welne do,</L>
+<L>Ne hadde Merlyne take hede ther-to.</L>
+<L>By God almygty that hys in hevene,</L>
+<L>Thus wil thy clerkys sevene <MILESTONE N="2430"/></L>
+<L>Do by the, or ellys worse,</L>
+<L>Yf thou lyvest, thow schal have cursse."</L>
+<L>Quod the emperour, "by Goddys hore,</L>
+<L>He schal never tene me more;</L>
+<L>He that makes al thys sorowe,</L>
+<L>Certys he schal be dede to morwen."</L>
+<L>The day was comen, and nyght gon,</L>
+<L>The emperour raes onnoon,</L>
+<L>There ne most be no lete,</L>
+<L>Anon hys sone was forthe fete, <MILESTONE N="2440"/></L>
+<L>And ladde ther he schulde dee;</L>
+<L>There was many a wepyng heye</L>
+<L>As the childe was forth ladde,</L>
+<L>Ryght als God almyghty bade.</L>
+<L>The sexte maystir than com be,</L>
+<L>That was hoten maystir Jesse,</L>
+<L>And sayed anoon, "Sire emperour,</L>
+<L>Certys thou dost lytil honour,</L>
+<L>For word of a womman</L>
+<L>To do deth swylk a man <MILESTONE N="2450"/></L>
+<L>And thy sone scholde bee,</L>
+<L>And he leve langer than ȝe.</L>
+<L>And yf thou lattys hym lese the lyfe</L>
+<L>For tales of thy wyf,</L>
+<L>Also mot the bytyde</L>
+<L><PB N="84" REF="85"/>
+As dyde the knyght in hys pryde,</L>
+<L>That deyed for dole of hys wyfe</L>
+<L>Was woundyt wyth a lytyl knyfe."</L>
+<L>Quod the emperour, "By Goddys belle,</L>
+<L>That tale thou schalt me telle." <MILESTONE N="2460"/></L>
+<L>"By God," quod mayster Jesse,</L>
+<L>"Thou schalt nout here a worde of me,</L>
+<L>Bot thy sone be after sent,</L>
+<L>That hys went to juggement."</L>
+<L>The emperour comaunded anoon</L>
+<L>After the childe for to goon.</L>
+<L>Than waster many a glad man,</L>
+<L>And mayster Jesse hys talle bygane.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>He sayed, "Sire emperour, i-wys,</L>
+<L>Hyt hys nowt lese, soth hyt hys, <MILESTONE N="2470"/></L>
+<L>Hyt was a knyght a riche schyreve,</L>
+<L>That was lot hys wyf to greve.</L>
+<L>He sate a daye by hys wyf,</L>
+<L>And in hys honde helde a knyf,</L>
+<L>At schort wordis for to telle,</L>
+<L>In gamen bothe as thay felle,</L>
+<L>With a lytil croume knyfe</L>
+<L>The schyref woundyt hys wyf,</L>
+<L>And took to hym so myche sorowe,</L>
+<L>That he deyd oppon the morowen. <MILESTONE N="2480"/></L>
+<L>For al so mykyl as he slew hym selven,</L>
+<L>In kyrke ȝarde men wolde hym nout delve,</L>
+<L>He was beryd bon and fel</L>
+<L>Withouten the toun at a chapel.</L>
+<L><PB N="85" REF="86"/>
+When in erth he was broght,</L>
+<L>Hys wyf wolde goo thyn nouȝt,</L>
+<L>Bot sayed for non wordlys wyne</L>
+<L>Schulde no man parte hom a-twyne.</L>
+<L>Of hyre frendys that were thare,</L>
+<L>Baden hire lat be hyre fare; <MILESTONE N="2490"/></L>
+<L>At schort wordys, hyt was nought,</L>
+<L>Myghte no mane torne hyre thoght,</L>
+<L>Bote thare scho wolde be sykyrlyche</L>
+<L>With hym that lovyd hyr so myche.</L>
+<L>Quod on of thaym that was thare,</L>
+<L>'Lete we been al thys fare,</L>
+<L>Lete hyr dwel al hyer scille,</L>
+<L>And when thys hete passid hys,</L>
+<L>Scho wille come hom hire selve, i-wys.'</L>
+<L>After clothes scho sent a knave, <MILESTONE N="2500"/></L>
+<L>And made hyre bede bysyde the grave.</L>
+<L>At schort wordys for to telle,</L>
+<L>There moste no man with hir dwelle.</L>
+<L>The nyght was comen and day gon,</L>
+<L>Scho made a good fyer anoon,</L>
+<L>And sete hir doun thare bysyde,</L>
+<L>For hyt was colde wyntir tyde,</L>
+<L>Scho wype and hyr hondys wronge.</L>
+<L>Fram the chappel a lytil wyght</L>
+<L>Ther hovyd a ȝong knyght, <MILESTONE N="2510"/></L>
+<L>Bysyde galows were thare strange,</L>
+<L>Ther were thre thefys an hangede;</L>
+<L>That was hys rent for hys londe,</L>
+<L>For to take theves on honde,</L>
+<L>To saven thaym with al hys myght,</L>
+<L><PB N="86" REF="87"/>
+That no man stelle ham the forme nyȝt.</L>
+<L>Than the knyght was both ȝonge and bolde,</L>
+<L>He was swith sore a-colde,</L>
+<L>And ate the chappel fyer he sawe lyght,</L>
+<L>And rode thyderward ful ryght. <MILESTONE N="2520"/></L>
+<L>He lyght adoun of hys stede,</L>
+<L>And into the chappel ȝede,</L>
+<L>And the lavedy anoon he grete,</L>
+<L>And by the fyre he hym sete,</L>
+<L>And sayed, 'Dame, by the leve,</L>
+<L>To warme me a wylle I mot have leve.'</L>
+<L>The lavedy than sayed, 'ȝae,</L>
+<L>Sire, welcome mot thou bee,</L>
+<L>Yf thow thynkyst non othyr harme,</L>
+<L>Bot to syt and make the warme.' <MILESTONE N="2530"/></L>
+<L>Than the knyght in hys atyre</L>
+<L>Was warm of that fyere,</L>
+<L>Hym thout hyt was a fayer leef,</L>
+<L>And he was withouten a wyf,</L>
+<L>And bygan onnoon to wowe,</L>
+<L>And hyr hert bygan to bowe,</L>
+<L>And knew wel hym by syght,</L>
+<L>And wyst wel he was a knyght.</L>
+<L>And anoon the lady bygane</L>
+<L>To have love toward the mane; <MILESTONE N="2540"/></L>
+<L>Er hyt was passyd mydde-nyght</L>
+<L>The lady was kast uppe-ryght,</L>
+<L>And the knyght lay above,</L>
+<L>And thus he wan the lady love.</L>
+<L>The knyght leppe uppon hys stede,</L>
+<L>For to wende and take hede</L>
+<L><PB N="87" REF="88"/>
+Whethir the thefys hange stille,</L>
+<L>Wylle he was aboute hys wylle.</L>
+<L>Wylle he was aboute hys playe</L>
+<L>The ton thef was awaye. <MILESTONE N="2550"/></L>
+<L>To the chappel he pryked anoon,</L>
+<L>And to the lady he made hys mone,</L>
+<L>And sayed, 'Dame, me hys wo,</L>
+<L>Myn on thef hys a-goo;</L>
+<L>I am ful sore agast thare-fore,</L>
+<L>Lest myn landys been lore.'</L>
+<L>'Sire,' quod the lady tho,</L>
+<L>'Ther-fore be nought wo,</L>
+<L>Ne make thou dole ther-fore,</L>
+<L>Ne schal nouȝt thy lond be lore. <MILESTONE N="2560"/></L>
+<L>To thys beriel we wyl goone,</L>
+<L>And dyggyn uppe the cors anoone,</L>
+<L>And hangge hym in hys stede</L>
+<L>As fayer as the othyr dyde.'</L>
+<L>'Dame,' quod he tho,</L>
+<L>'On ilke half me hys wo:</L>
+<L>There the thefys was funde,</L>
+<L>The toon hadde a myche wounde;</L>
+<L>He was woundyd, and no mo,</L>
+<L>And that body hys a-goo, <MILESTONE N="2570"/></L>
+<L>And yf he were founde,</L>
+<L>And he ne hadde no syche wounde,</L>
+<L>Thanne were my londys lore,</L>
+<L>And I were schent there-fore.'</L>
+<L>'Sire,' quod scho, 'lat be thy stryfe,</L>
+<L>Now havest thou bothe swerd and knyf;</L>
+<L>Tak the toon or the tothir,</L>
+<L><PB N="88" REF="89"/>
+And gyf hym swylk anothir.'</L>
+<L>'Certis, dame,' quod he tho,</L>
+<L>'Erst me schulde be ful wo, <MILESTONE N="2580"/></L>
+<L>Er I wolde been ate the rede</L>
+<L>To smyt a man that hys dede.'</L>
+<L>"'Sire,' quod scho tho, 'ther-of al,</L>
+<L>And drew a knyf out of hire schete,</L>
+<L>That was kenne and scharpe grounde,</L>
+<L>And made in hys hed a wounde,</L>
+<L>And put up hyr a knyf anoon,</L>
+<L>And sayed, 'Sire, wel we goon.'</L>
+<L>'Dame,' quod he, 'verrament,</L>
+<L>Ȝit myght I be schent: <MILESTONE N="2590"/></L>
+<L>In a countek he hadde lore</L>
+<L>Twa of hys teth byfore.'</L>
+<L>'Sire,'quod scho tho, 'by myn hede,</L>
+<L>Thare-to goos a good rede;</L>
+<L>He schal be markyd as was he,</L>
+<L>Tak and bete out two or thre.'</L>
+<L>'Dame,' quod he, 'by sayent Joon,</L>
+<L>I nyl bet out never on.'</L>
+<L>'Sire,' quod scho, 'by sayent Marie,</L>
+<L>Yf thou ne wolt nowt than schal I.' <MILESTONE N="2600"/></L>
+<L>In hyr hoond scho took a stoon,</L>
+<L>And knockyd out twa teth anoon!</L>
+<L>'Sire,' scho sayed, 'this char hys heved,</L>
+<L>Hye that we hadden i-sped</L>
+<L>That he ware up drawe,</L>
+<L>Er any day bygan to dawe.'</L>
+<L>Thay token the corse anoon,</L>
+<L>And to the galowes gone goone,</L>
+<L><PB N="89" REF="90"/>
+And hanged hym in that ilke stede</L>
+<L>Ryght thare that othyr dyde. <MILESTONE N="2610"/></L>
+<L>"Lo, sire," quod maystir Jesse,</L>
+<L>"Was nowt thys grete pyté,</L>
+<L>That he was schent thus for hys wyf,</L>
+<L>That for hir love lese hyse lyfe?</L>
+<L>Thus wol thou, sir emperour,</L>
+<L>Certes, lese thyn honour,</L>
+<L>And thou bynym thyn sone the lyf</L>
+<L>For the tales of thy wyf."</L>
+<L>Quod the emperour to mayster Jesse,</L>
+<L>"That cas no schal nouȝt betyd me; <MILESTONE N="2620"/></L>
+<L>So ever I broke my hede,</L>
+<L>To day ne schal my sone be dede!"</L>
+<L>The emperesse, when scho hit wyste,</L>
+<L>What scho myght do scho no wyst;</L>
+<L>So wo and so wroth scho was,</L>
+<L>Myght hyr glade no solas.</L>
+<L>To bede a even when scho cam,</L>
+<L>A gret sygh up scho nam,</L>
+<L>And sayed, "Alas! that harde stounde</L>
+<L>That evere I was to man bounde!" <MILESTONE N="2630"/></L>
+<L>The emperour lay and herde,</L>
+<L>And askyd hyr why scho so ferde.</L>
+<L>Quod the emperesse, "So mot I the,</L>
+<L>Al togyder hyt hys for the.</L>
+<L>I see the wounde, hyt hys so wente,</L>
+<L>Thourow thyn clerkys thow wil be schent;</L>
+<L>Thay wylle gyle the wyth hare werke,</L>
+<L>As dyde Genever the clerke,</L>
+<L>That wyth qweyntyes and with bost</L>
+<L><PB N="90" REF="91"/>
+Schend the kynge and hys hoste." <MILESTONE N="2640"/></L>
+<L>Quod the emperour, "By saynt Colas,</L>
+<L>Thou schalt telle me of that cas;</L>
+<L>Hyt hys the wounderest that ever I herde,</L>
+<L>I wylle wetyn how that ferde."</L>
+<L>The emperesse bygan hyr tale,</L>
+<L>For to brew the childes bale.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>The emperesse, as ȝe mowe here,</L>
+<L>Bygane hyre tale in thys manere,</L>
+<L>And sayed, "Thre haythyn kynges thay come</L>
+<L>Som tyme to bysege Rome; <MILESTONE N="2650"/></L>
+<L>And the pope thay walden have slawe,</L>
+<L>And a gyed Rome aftyr thayr lawe,</L>
+<L>And have been maystyrs of the toun,</L>
+<L>And broght crystondom adon.</L>
+<L>The haythyn men was ful strange,</L>
+<L>And segyde the town lange;</L>
+<L>Seven clerkys were in Rome,</L>
+<L>And holpen for to take game,</L>
+<L>Both day and the nyght,</L>
+<L>That the cité were lokyd aryght. <MILESTONE N="2660"/></L>
+<L>On ther was that was olde,</L>
+<L>And of speche he was bolde,</L>
+<L>And sayed, 'We been in thys cité</L>
+<L>Seven clerkys of grete bounté;</L>
+<L>Ilkon fonde, yf he may,</L>
+<L>Fram harm save the cité a day.</L>
+<L>Lete ilkon do what he can:</L>
+<L>And for I am an old man,</L>
+<L><PB N="91" REF="92"/>
+Lete me have the last daye,</L>
+<L>And fonde to do what I may.' <MILESTONE N="2670"/></L>
+<L>The hold man bythout hym faste</L>
+<L>How he myght at the laste</L>
+<L>Any thynge dyvyse</L>
+<L>To make the haythyn kyngys to gryse;</L>
+<L>And dyvysyde at the laste</L>
+<L>A gyn that made ham alle agaste,</L>
+<L>And alle was of hys oune thouȝt,</L>
+<L>And woundyrlych hyt was wroght.</L>
+<L>When hys day was come,</L>
+<L>Hys concel was sonne nome; <MILESTONE N="2680"/></L>
+<L>He comaunded alle with mouthe</L>
+<L>Arme thaym al wel as thay couthe.</L>
+<L>Alle that in the cité were</L>
+<L>Dyden as the olde mane gan lere;</L>
+<L>And hym self anoon he styghe</L>
+<L>Into the heyghest tour on hyghe,</L>
+<L>And dyde oppon hym a wondir tyre,</L>
+<L>Alle hyt glowyd as fyere;</L>
+<L>In the othyr honde a swerde he tooke,</L>
+<L>As tellys the Romauns booke, <MILESTONE N="2690"/></L>
+<L>And turnyd toward that syde</L>
+<L>There the Sarsyns were strawyd wyde,</L>
+<L>And bygane to skyrme bylyve,</L>
+<L>As al the worlde schul to-dryve;</L>
+<L>With a qweyntyse fyere he keste</L>
+<L>Ryght bytwene hys swyrdys in lenkthe,</L>
+<L>As tho he smytte hyt out with strenthe.</L>
+<L>The Sarsyns byhelde faste,</L>
+<L>And many were ful sore agaste,</L>
+<L><PB N="92" REF="93"/>
+For nowt on of thaym thare wase <MILESTONE N="2700"/></L>
+<L>That couthe dyvyse wat hyt was.</L>
+<L>The heythyn kyngys that there were</L>
+<L>For-thought sore that thay com thare,</L>
+<L>For al thay were sore a-fryght,</L>
+<L>When thay seyen that woundir syght;</L>
+<L>Ilkon askyd othyr tho</L>
+<L>What thynge hyt was that ferde soe.</L>
+<L>Tha oon kynge was an olde mane,</L>
+<L>And hys reson thus bygane:</L>
+<L>'Lordys, ȝe schul here, y-wys, <MILESTONE N="2710"/></L>
+<L>What me thynke that hyt hys;</L>
+<L>The crysten men hase non myght</L>
+<L>Agayens us for to fyght,</L>
+<L>And hare gode hys of grete myght,</L>
+<L>And hys into erth lyght,</L>
+<L>Certynlyche that hys he.</L>
+<L>For sothe I rede that we fle;</L>
+<L>For certis and he come adoune,</L>
+<L>He wylle sle syre Mahoune,</L>
+<L>And oure othyr goddys ilkon,</L>
+<L>And leve of us on lyve nought on.'</L>
+<L>When the kynge hadde thus tolde, <MILESTONE N="2720"/></L>
+<L>Thare was non of hem so bolde,</L>
+<L>That durst langer abyde fyghte,</L>
+<L>And anon turnyd to flyght.</L>
+<L>When thay of Rome sawe that syght,</L>
+<L>That Sarzyns turnyd to flyght,</L>
+<L>Thay wenten out harmyd ilkon,</L>
+<L>Al that myghten ryde or goon,</L>
+<L>And withinne a lytyl stounde</L>
+<L><PB N="93" REF="94"/>
+The Sarsyns ȝeden al to grounde.</L>
+<L>Thys Gynever the clerke, <MILESTONE N="2730"/></L>
+<L>With hys wylys and hys werke,</L>
+<L>Made to fle with hys boste</L>
+<L>Thre kyngys and hare hoste.</L>
+<L>Thus wyle thyn clerkys false</L>
+<L>With hare wylys schende the alse;</L>
+<L>And thou schalt lese thyn emperyre,</L>
+<L>And thy sone be lorde and sire.</L>
+<L>Thus is thy concel wrought.</L>
+<L>For to brynge the to nought."</L>
+<L>Quod the emperour, "So mot I the, <MILESTONE N="2740"/></L>
+<L>Emperour schal he nought bee;</L>
+<L>Na schal hym no man lenger borowe;</L>
+<L>Certys, he schal by dede to morowen."</L>
+<L>Than hadde the emperesse hire wylle;</L>
+<L>Thay felle on slepe, and lay stille.</L>
+<L>O morwen he ne forgat hyt nouȝt,</L>
+<L>The childe was outen of the toun brouȝt,</L>
+<L>Toward the deth he was lade;</L>
+<L>Than was the emperes glade.</L>
+<L>The sevenet mayster rode bylyve, <MILESTONE N="2750"/></L>
+<L>For to holden hym on lyve,</L>
+<L>And was hoten Marcius,</L>
+<L>And sayed to the emperour thus:</L>
+<L>"Syre, ryghtwys emperour,</L>
+<L>Thou dost thy selven lytyl honour,</L>
+<L>Thou levest wykked concel i-wys,</L>
+<L>That makes the fare amys;</L>
+<L>And yf thy sone hys don to dede,</L>
+<L>And slaue for thy wyfvys rede,</L>
+<L><PB N="94" REF="95"/>
+Gode, that tholyd deth on tree, <MILESTONE N="2760"/></L>
+<L>Leve so bytyde the,</L>
+<L>As dyde hym that levyd more</L>
+<L>The falnesse of hys wyfvis lore,</L>
+<L>Thane that hym selven sawe and herde,</L>
+<L>And ther-fore he mys-ferde."</L>
+<L>Quod [the] emperour, "By sayent Gervas,</L>
+<L>Thou schalt telle me of that cas."</L>
+<L>Quod Marcius to the emperour,</L>
+<L>"Nowt a word, by sayent Saveour,</L>
+<L>Bot thow slake thy sonnys sorowe, <MILESTONE N="2770"/></L>
+<L>And late hym lybbe tyl to morwen."</L>
+<L>Quod the emperour, "By sone and mone,</L>
+<L>I not what hys best to doone;</L>
+<L>Ȝe be about to save my sonys lyffe,</L>
+<L>And yf hit hys sothe that sayes my wyf,</L>
+<L>Certes, mayster, ȝe were worthe</L>
+<L>To be sete qwyke in erthe."</L>
+<L>"Sire, sire," quod Marcius,</L>
+<L>"Hyt hys nowt so, by swet Jhesus!</L>
+<L>That thou schalt wet by tyme <MILESTONE N="2780"/></L>
+<L>To morwen lange or pryme."</L>
+<L>The emperour comandyd anon</L>
+<L>After the childe for to goon.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>Than gladdyd maystyr Marcius,</L>
+<L>And bygan hys tale thus,</L>
+<L>To the emperour anoon ryght:—</L>
+<L>And sayed, "In Hungerye was a knyght,</L>
+<L>And mete a sweven byfore the daye,</L>
+<L><PB N="95" REF="96"/>
+That a levedy by hym laye;</L>
+<L>Bot hyt was a wondir cas, <MILESTONE N="2790"/></L>
+<L>He wyst never what the lady was.</L>
+<L>When he wok, hyt was so faste</L>
+<L>Hys love oppon that lady caste,</L>
+<L>Tha[t] hym thout withine a prowe,</L>
+<L>And he see hyr, he couth hir knowe.</L>
+<L>"And the levedy, that self nyght,</L>
+<L>Mete ryght so of the knyght.</L>
+<L>"The knyght tok hors and armes anon,</L>
+<L>And tok hys leve, and dyde hym to gon,</L>
+<L>To loke were he myght hir fet, <MILESTONE N="2800"/></L>
+<L>The levedy that he of met.</L>
+<L>He rode hys way thre wykkes and more,</L>
+<L>And oft sythes syghyde sore;</L>
+<L>And hys way forth he name,</L>
+<L>Into Puyle than he came.</L>
+<L>As he rode in the londe,</L>
+<L>O day a toun he fande,</L>
+<L>And a castel was ther-inne,</L>
+<L>That was ivel for to wynne.</L>
+<L>The lorde of the castel <MILESTONE N="2810"/></L>
+<L>Hadde swythe a fayere juwel,</L>
+<L>On the fayerest womman to wyfe</L>
+<L>That ever myght here lyfe;</L>
+<L>And the godman was gelous,</L>
+<L>And in a tour mad hyr a hous,</L>
+<L>And ther-in most no lyfe</L>
+<L>Bot a mayden and hys wyfe.</L>
+<L>And for he wolde of gyle be ware,</L>
+<L>Hys owen body the keye he bare;</L>
+<L><PB N="96" REF="97"/>
+And never more was the dore undo, <MILESTONE N="2820"/></L>
+<L>Bot when [he] wolde comen hyr to.</L>
+<L>The knyght that met that sweven at nyght,</L>
+<L>Of that lady was so bryght,</L>
+<L>Thorow the toun as he rode,</L>
+<L>A whyle he hovede and abode</L>
+<L>Ryght a lytyl fram the toure</L>
+<L>Thare was the lady of honour</L>
+<L>That mete the sweven of the knyght,</L>
+<L>In bede thare scho lay al nyght.</L>
+<L>The knyght kest hys hee on hyghe, <MILESTONE N="2830"/></L>
+<L>And ate the wyndow the lady he see,</L>
+<L>And by the syght he wyst hir thoght,</L>
+<L>That was the lady that he hadde sowt;</L>
+<L>And in the levedy hert hyt felle,</L>
+<L>That was the knyght that ho loved wel.</L>
+<L>Bothe thare hertys were ful lyghte,</L>
+<L>That hayther hadde of othyr syght.</L>
+<L>The knyght wente into the toune,</L>
+<L>And took hys ine, and lyght adoune;</L>
+<L>Hys hoste he in councel nam, <MILESTONE N="2840"/></L>
+<L>And sayed, 'Who hys thys castel,</L>
+<L>That hys touryde and kernelde wel?'</L>
+<L>"'Sire,' quod he, 'by saynt Symyoun,</L>
+<L>Hyt hys the lordes of thys toun,</L>
+<L>A swythe godman y-wys,</L>
+<L>And in mykyle tene hys.</L>
+<L>In thys contré hys a knyght</L>
+<L>That werys on hym day and nyght,</L>
+<L>And hase done twa ȝere and more,</L>
+<L>And that greves hym ful sore. <MILESTONE N="2850"/></L>
+<L><PB N="97" REF="98"/>
+He mande hym wel ate the knyght</L>
+<L>Al the daye and al the nyght;</L>
+<L>On morwen tho the day came,</L>
+<L>Towarde the castel the waye he nam,</L>
+<L>And wyth the lorde sone he mete,</L>
+<L>And ful hendlych hym grete,</L>
+<L>And sayed, 'Syre, I am comen</L>
+<L>For were that thou havest undirnome,</L>
+<L>For to helpe the for of thyne,</L>
+<L>Thy werre for to hende and fine.' <MILESTONE N="2860"/></L>
+<L>"Quod the lorde, 'So mot I the,</L>
+<L>Thou art ful welcome to me.'</L>
+<L>Atte schorte wordis for to telle</L>
+<L>He made the knyght with hym to dwelle;</L>
+<L>And he was good werrour and wyes,</L>
+<L>And conquerd al his enmys.</L>
+<L>The lord lovyd hym as hys lyfe,</L>
+<L>And al hys good, so hys wyfe,</L>
+<L>He bytoke undyr hys hond,</L>
+<L>And made hym stywarde of al hys londe. <MILESTONE N="2870"/></L>
+<L>"Oppon a day he went to playe,</L>
+<L>Undir the tour he made hys waye;</L>
+<L>The lady loked oute on heygh,</L>
+<L>And in the face the kynghte scho see,</L>
+<L>And kende anoon that was hee</L>
+<L>That scho desired so mykyl to see.</L>
+<L>The knyght kest upe hys hee</L>
+<L>To the lady that sat so hye.</L>
+<L>The levedy durst speke nowte,</L>
+<L>Bot of a qweyntys scho was bythoute; <MILESTONE N="2880"/></L>
+<L><PB N="98" REF="99"/>
+There were in hyr chambyr y-nowe</L>
+<L>Fayer reschys and longe growe,</L>
+<L>With that on and with that othir</L>
+<L>Scho putte ilke resche in other,</L>
+<L>And made a karole in a stounde,</L>
+<L>The ton hende touched to grounde,</L>
+<L>And the othir scho helde on heygh.</L>
+<L>And the knyght byhelde and see,</L>
+<L>And wyst wylle in hys thowt,</L>
+<L>Why that nicote was y-wroght. <MILESTONE N="2890"/></L>
+<L>The knyght privelyche and stylle</L>
+<L>Asayed alle the lordys wille,</L>
+<L>And thout wydyr-out and were,</L>
+<L>That he wolde a toure rere</L>
+<L>Lenand to the mykyl toure,</L>
+<L>To do in hys tresour.</L>
+<L>Thorow a qweyntyse he thout to wyne</L>
+<L>The lady that was loke there-inne.</L>
+<L>"Quod the lorde, 'Ne spare nought,</L>
+<L>Bot hye that hyt were wroght.' <MILESTONE N="2900"/></L>
+<L>Oppon a day stylle as stoon</L>
+<L>He sent eftyr masons anoon,</L>
+<L>Thay schuld ordeyn and dyvysse</L>
+<L>To make a waye with qweyntysse</L>
+<L>Out of on tour into that othyr.</L>
+<L>And a mason and hys brothyr</L>
+<L>Undirtoke anon ryght</L>
+<L>Hyt schulde be qwentlyche dyght,</L>
+<L>That he schulde with hir speke</L>
+<L>That was in the toure steke. <MILESTONE N="2910"/></L>
+<L><PB N="99" REF="100"/>
+That on masson was a clerke,</L>
+<L>And made so qwentilich the werke,</L>
+<L>That to levedy come the knyghte,</L>
+<L>When he wolde, daye and nyghte,</L>
+<L>That no man myght the wyser be,</L>
+<L>Bote the levedy hyr selfe and hee.</L>
+<L>So qweyntlich hit was wroght,</L>
+<L>The lorde persaved hit nowt.</L>
+<L>O daye to hire he cam,</L>
+<L>And hys leve than he name <MILESTONE N="2920"/></L>
+<L>A rynge of hir fynger scho tooke,</L>
+<L>As tellys the Romans booke,</L>
+<L>And put hyt on hys,</L>
+<L>And, 'Lemman, were thou thys,</L>
+<L>And late my lorde see hit aryght,</L>
+<L>And brynge hyt me agayn er nyght.'</L>
+<L>He dyde on the renge anoon,</L>
+<L>And took hys leve, and dyde hym to gon.</L>
+<L>Ate the met as he sate,</L>
+<L>The lorde the rynge undirrat, <MILESTONE N="2930"/></L>
+<L>And hadde merveyle in hys thout</L>
+<L>How the rynge was thydir broght.</L>
+<L>After mete the way he nam,</L>
+<L>And to the levedy sone he cam;</L>
+<L>Tho the lorde hadde y-swore,</L>
+<L>Ȝyt cam he in byfore,</L>
+<L>And kest the rynge in hyre barme,</L>
+<L>For to save hom bothe fra harme,</L>
+<L>And tok hys leve, and dyd hym to gon.</L>
+<L>And the lorde cam in anoon, <MILESTONE N="2940"/></L>
+<L><PB N="100" REF="101"/>
+And sayed, 'Dam, were hys thyn rynge,</L>
+<L>That was ate our bygynnyng</L>
+<L>The first gyfte that I gaf the,</L>
+<L>That rynge late me see.'</L>
+<L>'Sire,' scho sayed, 'thou myght wel,</L>
+<L>And many anothir juwel.'</L>
+<L>'Dame,' he sayed, 'lat ham bee,</L>
+<L>I wyl no mo than that see.'</L>
+<L>To hyre forcer scho gan goon,</L>
+<L>And broght the rynge anoon <MILESTONE N="2950"/></L>
+<L>That lay loken in hir tie;</L>
+<L>Thus scho bleryd hyre lordys eie.</L>
+<L>Anoon as the lorde was agoone,</L>
+<L>The styward come in anoon;</L>
+<L>Tho levedy tolde hym al that cas,</L>
+<L>How hyr lord bygylyd was,</L>
+<L>And sayed, 'Sire, doute the nowt,</L>
+<L>Al thy wylle schal be wroute,</L>
+<L>And I wylle telle the anoon</L>
+<L>Whilke manere and howe. <MILESTONE N="2960"/></L>
+<L>Saye thou havest in thyn contree</L>
+<L>Slane a man of grete bounté,</L>
+<L>There-fore were thy londys lore,</L>
+<L>And thou were outlawde ther-fore;</L>
+<L>And saye thou hase a leve wyfe,</L>
+<L>A lemman that hys nouȝt thy wyfe,</L>
+<L>And scho hys comen in a message</L>
+<L>To come hom to thyn erytage;</L>
+<L>And he wylle besyche the</L>
+<L>That he mot thy lemman see. <MILESTONE N="2970"/></L>
+<L><PB N="101" REF="102"/>
+And thou schalt graunt hym anon;</L>
+<L>And I wyl be redy to goon</L>
+<L>In anothir tyre than thys,</L>
+<L>To se me whan hys wyl hys.</L>
+<L>And whan he hase sene me hys fylle,</L>
+<L>Thanne mowe we haven oure wylle</L>
+<L>To gone wan we wyllen in fere,</L>
+<L>Thanne wylle he no talys here</L>
+<L>Nowthyr of me no of the,</L>
+<L>Bot wene that I thy lemman be.' <MILESTONE N="2980"/></L>
+<L>"Quod the stywarde, 'That may nouȝt fye,</L>
+<L>And he se the with hys eye,</L>
+<L>Anon as he haves a syght,</L>
+<L>He wyl knowe the anoon ryghte.'</L>
+<L>"'Sire,' quod scho, 'be myn hede,</L>
+<L>My rynge schal make oure parti goode,</L>
+<L>That he on thy fynger see,</L>
+<L>And sythyn he fande hyt here on heye;</L>
+<L>Ther-fore dout the nought,</L>
+<L>Thys schal been al hys thought, <MILESTONE N="2990"/></L>
+<L>As a rynge was lyche anothyr,</L>
+<L>So may a womman be lyche anothir.</L>
+<L>There schal the knote of gyle be knyt,</L>
+<L>The rynge schal blynde hys wyt.'</L>
+<L>The styward went, and was glade,</L>
+<L>For to make hys lorde made,</L>
+<L>And tolde hym that hys pes was nome,</L>
+<L>And how hys lemman was comen,</L>
+<L>And hadde broght the messages</L>
+<L>To come home to erytage; <MILESTONE N="3000"/></L>
+<L><PB N="102" REF="103"/>
+And asked hym leve for to wende.</L>
+<L>And hys loverd was ful hende,</L>
+<L>And sayed, 'Yf thy lemman hys comen,</L>
+<L>For soth scho hys welcome;</L>
+<L>Late hyre take to nyght rest,</L>
+<L>To morne scho sal be my geste.'</L>
+<L>On the morne to the mete scho cam,</L>
+<L>And by the hond the lorde hyre nam,</L>
+<L>And faste by hym he hyr sete,</L>
+<L>And made hyre to saye hys mete; <MILESTONE N="3010"/></L>
+<L>And he karf hys mete with hys knyf,</L>
+<L>And sat and byhelde hys wyf,</L>
+<L>And in gret thout he was</L>
+<L>Where hyt were hys wyfe er hit nas.</L>
+<L>Alse he sat in mornynge,</L>
+<L>Anon he thout oppon the rynge,</L>
+<L>And thout anoon in hys thought</L>
+<L>That hys wyf was hyt nowt,</L>
+<L>Bot as a rynge was lyche anothyr,</L>
+<L>So was a womman liche anothyr, <MILESTONE N="3020"/></L>
+<L>And sate stille and made hym glade,</L>
+<L>And thus hys wyf made hym made.</L>
+<L>Whan the bordis were adoun,</L>
+<L>Scho made semlant for to swone,</L>
+<L>For scho wolde ben a-gon</L>
+<L>Into the toure anoon;</L>
+<L>And thyder scho was sone brought</L>
+<L>That hire lorde wyste hyt nowt.</L>
+<L>The lorde he ne forgat hyt nowt,</L>
+<L>Scho was algate in hys thought; <MILESTONE N="3030"/></L>
+<L><PB N="103" REF="104"/>
+For the merveyle that he syghe,</L>
+<L>He went into the tour on hygh.</L>
+<L>To the levedy when he cam,</L>
+<L>In hir armes scho hym nam;</L>
+<L>He was blyth as bryde on bogh,</L>
+<L>And wende al were god y-nowe,</L>
+<L>And dweld with hir al tha nyght</L>
+<L>Til on the morne the day was bright.</L>
+<L>The styward let take al hys good,</L>
+<L>And bere hit into se flood <MILESTONE N="3040"/></L>
+<L>Into a god schype and trewe,</L>
+<L>That was maked al newe.</L>
+<L>When the wynd was good to goon,</L>
+<L>The senescal tok hys leve anoon.</L>
+<L>The lorde was bothe good and hynd,</L>
+<L>And gaf hym leve for to wende,</L>
+<L>And hym self broght him in way</L>
+<L>Into the see a myle or tway,</L>
+<L>Wyth truppys and other mynstralcie,</L>
+<L>Wyth many maner of melodye. <MILESTONE N="3050"/></L>
+<L>The lord halpe with myrthe and playe</L>
+<L>Tollyd hys oune wyf away.</L>
+<L>Thay token leve and wente o-two,</L>
+<L>And cysten as love schulde do.</L>
+<L>The schyppe saylyd over the sonde,</L>
+<L>The lorde went agayn to londe;</L>
+<L>Into the tour the way he nam,</L>
+<L>He lokyd both forth and bynne,</L>
+<L>And fande noman ther-inne.</L>
+<L>Than gaf hym hys hert anoon <MILESTONE N="3060"/></L>
+<L><PB N="104" REF="105"/>
+That hys wyf was goon</L>
+<L>With the senescal away:</L>
+<L>Than sayed he, walaway!</L>
+<L>That ever was he man boren!</L>
+<L>Than was al hys myrthe lorne.</L>
+<L>He lepe out of the tour anoon,</L>
+<L>And than brake hys neke boon.</L>
+<L>Thus was the goodman schent,</L>
+<L>And with hys wyvys wylys blent.</L>
+<L>Sire emperour," quod Marcius, <MILESTONE N="3070"/></L>
+<L>"Ryght on thys manere and thus</L>
+<L>Schal thy wyf bygile the,</L>
+<L>And thou leve hir, so mot I the.</L>
+<L>Hyre self with hyre wylys alone</L>
+<L>Haves gylyd my felawes ilcon,</L>
+<L>And me scho wille, yf scho may,</L>
+<L>Er to morwen that hyt be day,</L>
+<L>For to bryng thy sone to sorowe;</L>
+<L>Certys he schal speke to morowe,</L>
+<L>Thou schalt wyet er aut longe <MILESTONE N="3080"/></L>
+<L>Whethir of thaym hase the wronge."</L>
+<L>Quod the emperour to Marcius,</L>
+<L>"That were me lever, by swet Jhesus,</L>
+<L>Than any thyng that men telle couth,</L>
+<L>To here my sone speke with mouthe,</L>
+<L>For to see the ryght way,</L>
+<L>Who were gylty of thaym tway."</L>
+<L>"Sire," quod Marcius, "be stille,</L>
+<L>To morwen thou schalt have thy wille."</L>
+<L>When the lady herde thys, <MILESTONE N="3090"/></L>
+<L>Scho was swyth sory, i-wys;</L>
+<L><PB N="105" REF="106"/>
+Than wolde scho telle no more,</L>
+<L>But al that nyght syghyd sore.</L>
+<L>Oppon morwen ryght at prime,</L>
+<L>The emperour thout tyme;</L>
+<L>In the paleys withouten the halle</L>
+<L>Thare he lette asembyle alle,</L>
+<L>Erlys, barouns, sympile knyghtys,</L>
+<L>For to here jugge the ryghtys</L>
+<L>Bytwen hys sone and hys wyfe, <MILESTONE N="3100"/></L>
+<L>Whethir schuld lese the lyfe;</L>
+<L>For he hadden sworen hys hoth,</L>
+<L>Were he lyf, were he loth,</L>
+<L>He schuld dye withouten delay</L>
+<L>Who were founde gylty that day.</L>
+<L>When thay wystyn wat to doone,</L>
+<L>The pepyle was semyld sone,</L>
+<L>And ilke man hyed bylyve,</L>
+<L>For to have the childe on lyve.</L>
+<L>The emperour come out of hys halle, <MILESTONE N="3110"/></L>
+<L>And sete hym doun among thaym alle;</L>
+<L>The emperes was broght with pryde,</L>
+<L>And set adoun by hys syde.</L>
+<L>The childe was anoon efter sent,</L>
+<L>To come byfore the parlement.</L>
+<L>The childe was forthe broght;</L>
+<L>Many a man was glade in thought.</L>
+<L>Byfore hys fader he fal on knee,</L>
+<L>And cryed mercy for charyté;</L>
+<L>And sayed, "Fadyr, I have no gylte <MILESTONE N="3120"/></L>
+<L>Of thyng that hys oppon me pute,</L>
+<L><PB N="106" REF="107"/>
+Certys, no more than hadde he</L>
+<L>That hadde ben dronke on the see,</L>
+<L>Na hadde Goddys help ben neye,</L>
+<L>That broght hym to a roche on hye;</L>
+<L>And thourow myght of Godys sonde</L>
+<L>He was founden and broght to londe!"</L>
+<L>"Certys, sone," quod the emperour,</L>
+<L>"Hyt were us lytil honour,</L>
+<L>Bot we myght on wyle dwelle, <MILESTONE N="3130"/></L>
+<L>And suffyre the thy tale telle."</L>
+<L>And thay sytyn stille ilke mane,</L>
+<L>And the childe hys tale bygane.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="tale">
+<HEAD>A TALE.</HEAD>
+<LG>
+<L>"There was a man that was bolde,</L>
+<L>And hadde a vertu that was hyghe,</L>
+<L>Alle men lovede hym that hym syghe;</L>
+<L>Anothyr vertu Gode on hym layed,</L>
+<L>He wyst wat alle fouls sayed.</L>
+<L>Bysyde hys fadyr court a myle</L>
+<L>In the se was an ile, <MILESTONE N="3140"/></L>
+<L>And was no man in bot on,</L>
+<L>A hermete in a roche of ston.</L>
+<L>The fadyr and the sone o day</L>
+<L>Went thyder for to play,</L>
+<L>And thay rowed and were hot;</L>
+<L>Ryght byfore oppon the bote</L>
+<L>Thre ravenes lyghte adoun,</L>
+<L>And made a gret gargoun.</L>
+<L>The child was wys and of no bost,</L>
+<L><PB N="107" REF="108"/>
+And hadde wyt of the Holy Gost, <MILESTONE N="3150"/></L>
+<L>And wat thay sayden he undirgat,</L>
+<L>And hadde mykyl wondir of that,</L>
+<L>And hys ore faste he drowe,</L>
+<L>And byhelde hys fadyr, and loughe.</L>
+<L>"Hys fadir asked, that by hym sate,</L>
+<L>Why he loge and at wat.</L>
+<L>'Fadir,' quod he, 'so mot I the,</L>
+<L>I louke ate the ravens thre,</L>
+<L>That sayden in har gargoun,</L>
+<L>Anon as thay seten adoun, <MILESTONE N="3160"/></L>
+<L>That I schulde hyre-after be</L>
+<L>Man of so grete pousté,</L>
+<L>That thou schuldest by glad to fonde</L>
+<L>To gyf water to my honde,</L>
+<L>And myn moder glad to hye</L>
+<L>To brynge a towayl myn handys to drye.'</L>
+<L>The faders hert was ful of pryde,</L>
+<L>And thout hyt schulde nought so bytide,</L>
+<L>And tok hys sone by the hode,</L>
+<L>And threw hym into the salt flod. <MILESTONE N="3170"/></L>
+<L>When he was in the se kast,</L>
+<L>To dye he was sore agast;</L>
+<L>The wynde blew, the se was wod,</L>
+<L>And bare the childe into the flod.</L>
+<L>Thorow helpe of Gode that syt on hye,</L>
+<L>He negyd sone a roche nye;</L>
+<L>Out of the water he went anon,</L>
+<L>And clame uppon a roche of ston,</L>
+<L>And there he was ivel dyght</L>
+<L><PB N="108" REF="109"/>
+Twa dayes and twa nyght, <MILESTONE N="3180"/></L>
+<L>Ther he sat on the roche on hye,</L>
+<L>That no sokyr he no see.</L>
+<L>Jhesus gan sokur hym sende;</L>
+<L>Thare come a fyscher that was hende,</L>
+<L>When he come the roche nyghe,</L>
+<L>He kest up hys eyen and sygh</L>
+<L>The child oppon a roche harde,</L>
+<L>And drew hym fast thyderwarde.</L>
+<L>To the roche when he cam,</L>
+<L>The childe into the bot he nam. <MILESTONE N="3190"/></L>
+<L>Thar come a strem that was wode,</L>
+<L>And bare ham into the salt flode</L>
+<L>So fere fram there the childis was bore,</L>
+<L>That alle hys knowlech was lore,</L>
+<L>And he aryved fayr and welle</L>
+<L>Undir a nobil castille.</L>
+<L>Out of the bot the childe he nam,</L>
+<L>And into the castle sone he came,</L>
+<L>To the warden of the castel,</L>
+<L>And solde hym the childe bone and fel. <MILESTONE N="3200"/></L>
+<L>Anoon aste the childe was knowen,</L>
+<L>He was byloved with he and lowe,</L>
+<L>Alle that in the castel were;</L>
+<L>And many wynter he dwelde there.</L>
+<L>In the londe thare he was,</L>
+<L>The kynge bytydde a woundir cas:</L>
+<L>Thre ravens with a lothly crye</L>
+<L>Sewyd the kynge ever ful nye,</L>
+<L>Were he rode or were he ȝede,</L>
+<L><PB N="109" REF="110"/>
+That al the londe thare-of tok hede. <MILESTONE N="3210"/></L>
+<L>The kynge was schamyd ther-fore,</L>
+<L>That hym were levere ben unbore;</L>
+<L>Over alle hys lond hys bref was sente</L>
+<L>To aselen a comuyn parlyment,</L>
+<L>To wyt conceyl of ham alle</L>
+<L>Of that kas that was byfalle.</L>
+<L>The warden of the castel</L>
+<L>Let atyren hym ful wel,</L>
+<L>And the child with hym nam,</L>
+<L>And to the parlement he cam. <MILESTONE N="3220"/></L>
+<L>When the parlement was nome,</L>
+<L>And the pepyle al come,</L>
+<L>The kynge walde no lenger dwelle,</L>
+<L>Wat hym grevyd he gan telle,</L>
+<L>And to the pypyl he sayed this,</L>
+<L>'Who can telle me why hyt hys</L>
+<L>That the ravens on me crye,</L>
+<L>And brynge me out of that vylanye,</L>
+<L>That the ravens crye no more,</L>
+<L>Where-fore me schames sore, <MILESTONE N="3230"/></L>
+<L>I wyl gyf hym alf my londe,</L>
+<L>And sykyr hym trewly on honde,</L>
+<L>That I may gyf, by my lyf,</L>
+<L>And my dogter to ben hys wyf.'</L>
+<L>"The childe the fram the castel cam,</L>
+<L>These wordys undirnam,</L>
+<L>And that wyt God hym gafe,</L>
+<L>That on fouls lydyn he couthe;</L>
+<L>The childe hys mayster in concel nam,</L>
+<L><PB N="110" REF="111"/>
+And sayed, 'Mayster, that I am <MILESTONE N="3240"/></L>
+<L>That can of the sothe telle,</L>
+<L>Why thys ravens crye and ȝelle,</L>
+<L>And delyver the kynge</L>
+<L>Of alle hare lodly crying?'</L>
+<L>"'Sone,' he sayed, 'yf thou art bolde,</L>
+<L>To do that thou havest tolde,</L>
+<L>To the kynge wille I goon,</L>
+<L>And put forth thy nyddis anoon.'</L>
+<L>'Mayster,' he sayed hardylich,</L>
+<L>'Put forth oure nedys boldelych.' <MILESTONE N="3250"/></L>
+<L>Hys mayster tok the way anoon,</L>
+<L>And byfore the kynge he gan goon,</L>
+<L>And sayed, 'Sire, hire hys a mane</L>
+<L>That rydilich telle can</L>
+<L>Why the ravens on the crye,</L>
+<L>That dos the al that vylanye,</L>
+<L>And make ham take away thayr flyght,</L>
+<L>And thou wol holden that thow hase hyght.'</L>
+<L>The kynge byhelde the childe faste,</L>
+<L>And gret love to hym cast, <MILESTONE N="3260"/></L>
+<L>And sayed, 'Certis, that have het</L>
+<L>I wylle holden, and ȝyt do bet.'</L>
+<L>Byfore alle the baronage</L>
+<L>He sykyrd hym of that mariage.</L>
+<L>Byfore the kynge he knelyd adoun,</L>
+<L>And bygan hys resoun,</L>
+<L>And sayed, 'Sire kynge, as ȝe moue see,</L>
+<L>Ȝonder standys ravens thre,</L>
+<L>Twa males and o femel;</L>
+<L><PB N="111" REF="112"/>
+That to raven was ful holde, <MILESTONE N="3270"/></L>
+<L>In a wedyr that was colde,</L>
+<L>And for he was nouȝt of myght</L>
+<L>To fynde hys make mete aryght,</L>
+<L>For glotonye he brake hys fayth,</L>
+<L>And bete hys make and drove hire awaye.</L>
+<L>Hys make flee hest and weste,</L>
+<L>And fond for to do hir best,</L>
+<L>And met a raven that was bolde,</L>
+<L>A ȝonge raven and nowt holde,</L>
+<L>And soght a make and hadde noon, <MILESTONE N="3280"/></L>
+<L>And took hyr to hys make anoon,</L>
+<L>And over al about he drowe,</L>
+<L>And fand hys make mete y-nowe.</L>
+<L>The colde wedirs was a-goo,</L>
+<L>Ungyr, colde, and al wo,</L>
+<L>The holde raven was hote of blode,</L>
+<L>And sowt hys make has he were wode,</L>
+<L>And fande ham both there thay were,</L>
+<L>Hire and hyr make y-fere;</L>
+<L>He chalanged hire for hys, <MILESTONE N="3290"/></L>
+<L>The tohyr sayde he chalanged amys.</L>
+<L>Hyre fore thay cryen oppon the,</L>
+<L>That art kynge and havest pousté,</L>
+<L>And thay been in thy lond lent,</L>
+<L>And thou schalt gyfe the juggement;</L>
+<L>What the juggement hys gyven,</L>
+<L>Yf ever more wyl ȝe levene</L>
+<L>Hyre thaym anny more crye,</L>
+<L>Hardylich put out my eye.'</L>
+<L>Ever or he walde goon, <MILESTONE N="3300"/></L>
+<L><PB N="112" REF="113"/>
+The kynge gaf juggement anoon,</L>
+<L>'For the holde raven brak hys fayth,</L>
+<L>Wyth wronge drof hys make away,</L>
+<L>That juggement I gyfve,</L>
+<L>The ȝonge that helpe hyr for to lyve,</L>
+<L>He schal have that he ches,</L>
+<L>And the holde go makeless.'</L>
+<L>When the juggement was gyven,</L>
+<L>The ȝonge raven schulde ben above,</L>
+<L>The kynge no sawe ham never more. <MILESTONE N="3310"/></L>
+<L>Than levede he the childys lore,</L>
+<L>And loved the childe as hys lyf,</L>
+<L>And gaf hym dogter to wyf,</L>
+<L>And was sesed with alle hys thynge,</L>
+<L>And byleved with the kyng,</L>
+<L>And ferde swyth myry and wylle.</L>
+<L>And hys fader in powerte fel,</L>
+<L>In hys countreth, soth to telle,</L>
+<L>He ne myght nout for schame dwel,</L>
+<L>And wenten thyne hys wyf and hee <MILESTONE N="3320"/></L>
+<L>Fer into anothyr countré,</L>
+<L>And lyved thare, he and hys wyf,</L>
+<L>And lade swyth sympyl lyf.</L>
+<L>The childe let privelyche inquere</L>
+<L>In what stad hys fadyr were;</L>
+<L>Thay fande hem that went to spye</L>
+<L>In the toun of Plecie.</L>
+<L>Than went he agayn anoon,</L>
+<L>As fast as he myght goon</L>
+<L>With hys fet oppon the grounde, <MILESTONE N="3330"/></L>
+<L><PB N="113" REF="114"/>
+And sayed, 'Sire, I have founde</L>
+<L>That thou byden aspye</L>
+<L>In the cité of Plecie.'</L>
+<L>The childe dyght hym rychliche,</L>
+<L>And went thydir astiliche;</L>
+<L>Into Plecie when he was comen,</L>
+<L>Ner hys fadir hys in was nome.</L>
+<L>To mete when he was redy to gon,</L>
+<L>After hys fadir he sent anoon,</L>
+<L>And hys modir, a good wyf, <MILESTONE N="3340"/></L>
+<L>For to gladen hom of hare lyfe.</L>
+<L>When thay comen into the halle,</L>
+<L>Thay fayer resavyde alle;</L>
+<L>The childe askyd watyr anoon,</L>
+<L>And hys fadir bygan to goon,</L>
+<L>And the water wolde have fet,</L>
+<L>Bot he was sone let.</L>
+<L>Hys modir wold the towel have broute,</L>
+<L>Bot othir wolde suffry hyt nouȝt.</L>
+<L>And the child al togydir syghe, <MILESTONE N="3350"/></L>
+<L>And fadir and modir neghid nee,</L>
+<L>And by the honde both he nam,</L>
+<L>And sayed, 'For sothe, ȝoure sone I am.</L>
+<L>Fadyr, nowe hyt hys byfalle</L>
+<L>That I herde the ravens telle;</L>
+<L>I tolde ȝou withouten lesyng</L>
+<L>What thay sayeden in hyr gavlyng:</L>
+<L>For I hire cryhyng undirstode,</L>
+<L>Ther-fore thou puttyst me in the flod,</L>
+<L>Bot Jhesus held me by the hond, <MILESTONE N="3360"/></L>
+<L>And broght me sonne to londe.</L>
+<L><PB N="114" REF="115"/>
+Fadir, hadde I than be dronken,</L>
+<L>And in the salt flod sonkyn,</L>
+<L>So God schild me from curs,</L>
+<L>Now thou myghtyst fare the wars.'</L>
+<L>Than walde the sone speke no mare,</L>
+<L>And kyst hym and hys modir in fere,</L>
+<L>And made thaym swyth fayer chere,</L>
+<L>And gaf thaym londe and tresour,</L>
+<L>And thay levedyn in mykyl onour." <MILESTONE N="3370"/></L>
+<L>Quod the emperour sone to the emperour,</L>
+<L>"Hyre fel the fadir lytil honour,</L>
+<L>That for a wylle of hyghe blode</L>
+<L>Put hys sone in the floode.</L>
+<L>"Fadyr, so hase thou talent</L>
+<L>To sla me without juggement;</L>
+<L>And certys I have no more gylte</L>
+<L>Than he that was in the see pute.</L>
+<L>Bot the emperes loves me nout,</L>
+<L>There-fore hit was hir thout, <MILESTONE N="3380"/></L>
+<L>With wichecraft and with nygrimancie,</L>
+<L>Ordaynde that I schulde dee.</L>
+<L>Myn maysters loked in the mone,</L>
+<L>And tolde me wat was to doone;</L>
+<L>And sythen I was aftir sent,</L>
+<L>Hadde I spokyn I hadde ben schent,</L>
+<L>And my seven maysters also.</L>
+<L>Thus was my welle tornyd into wo;</L>
+<L>And alle was thorow thy wyvis rede,</L>
+<L>For scho wolde that I hadde ben dede. <MILESTONE N="3390"/></L>
+<L>Certys, sire, thus hyt hys;</L>
+<L>Do now what thy wille hys."</L>
+<L><PB N="115" REF="116"/>
+The emperour was ful of godnesse,</L>
+<L>And sayed anoon to the emperes,</L>
+<L>"Dame," he sayed, "wat sayes thou?</L>
+<L>Avise the wille of thyn answere;</L>
+<L>For the hede that I bere,</L>
+<L>Bot thou may the fayrer skere</L>
+<L>Of that myn sone haves tolde here,</L>
+<L>For alle the men that beres breth, <MILESTONE N="3400"/></L>
+<L>Thou schalt dye on schentfol deth."</L>
+<L>The emperes, sothe for to telle,</L>
+<L>Was combird wit fynde of helle,</L>
+<L>That scho myght nout forsake,</L>
+<L>That let the treson make,</L>
+<L>With wychecraft and felonye,</L>
+<L>For to make the childe to dye,</L>
+<L>And sayed, "My lord, sire emperour,</L>
+<L>For Godys love and thyn honour,</L>
+<L>Ordeyn wat thy willys bee, <MILESTONE N="3410"/></L>
+<L>Wat thou thynkest do by me,</L>
+<L>For, certis, I may forsake nowt</L>
+<L>The fame that on me hys broght.</L>
+<L>That thy sone haves sayed i-wys,</L>
+<L>Certeynlich soth hyt hys;</L>
+<L>Hyt was al togydir my red,</L>
+<L>For I wolde he hadde ben dede."</L>
+<L>Thus the thef the emperesse</L>
+<L>Knowleched hyre wykkednese,</L>
+<L>Thorow the fyndys entysment; <MILESTONE N="3420"/></L>
+<L>And anoon scho was schent,</L>
+<L>And bounden swyth fast,</L>
+<L>And hadde hire juggement at the last.</L>
+<L><PB N="116" REF="117"/>
+Thus the childe wan hys lyf;</L>
+<L>And the emperesse lees hire lyf;</L>
+<L>And maynted hys son aryght</L>
+<L>Bothe by day and by nyght,</L>
+<L>And hys clerkys thre and fyve,</L>
+<L>Tha[t] holpyn to save hys sone on lyve</L>
+<L>With sevene talys that thay tolde, <MILESTONE N="3430"/></L>
+<L>The sevene clerkys that were so bolde,</L>
+<L>Agayns the wyle traytoresse,</L>
+<L>Hys stepmoder the emperesse.</L>
+<L>There-fore the emperour</L>
+<L>Dyde thaym swyth mykyl honour;</L>
+<L>In alle thynges that he thout,</L>
+<L>By hare concel alle he wroght;</L>
+<L>And was wyduer al hys lyf,</L>
+<L>He wolde never have no wyf,</L>
+<L>That was algat in his thout; <MILESTONE N="3440"/></L>
+<L>For tresoun that scho hadde wrogt,</L>
+<L>He ne durst dele with no mo,</L>
+<L>Lest thay wrogten more wo.</L>
+<L>To lyve gode lyf he bygane,</L>
+<L>And bycam a chast man,</L>
+<L>And paynyd hym with al hys myght</L>
+<L>To holde ilke man to ryȝt,</L>
+<L>And lyvede in myrthe and solas,</L>
+<L>And dyed wan Godys wylle was,</L>
+<L>And went into heven-riche, <MILESTONE N="3450"/></L>
+<L>Thare joye and blysse hys evere i-lyche.</L>
+<L>To that ilke blysse brynge us Gode,</L>
+<L>That never in erth ȝed schodde.</L>
+</LG>
+<CLOSER>Amen, amen, ffor charité.</CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

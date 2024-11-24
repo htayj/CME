@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>6-27-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; removed two Ps; added a P. Checked <SUP>s</SUP>. Reviewed structure; added HEADNOTE; changed numerous incorrect "marg" NOTEs to "foot" NOTEs; changed MS ("leaf") NOTEs to MILESTONEs; moved Amen into L; . Checked placement and completeness of PBs; moved two PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00009">
+<STC T="M">9</STC>
+<BIBNO T="mec">CME00009</BIBNO>
+<VID>CME00009</VID>
+</IDG>
+<TEXT LANG="eng">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>The University of Chicago FOUNDED BY JOHN D. ROCKEFELLER</P>
+<P>THE ROMANCE OF EMARÉ</P>
+<P>RE-EDITED FROM THE MS WITH INTRODUCTION, NOTES, AND GLOSSARY</P>
+<P>A DISSERTATION SUBMITTED TO THE FACULTY OF THE GRADUATE SCHOOL OF ARTS AND LITERATURE IN CANDIDACY FOR THE DEGREE OF DOCTOR OF PHILOSOPHY (DEPARTMENT OF ENGLISH)</P>
+<P>BY EDITH RICKERT</P>
+<P>CHICAGO 1907</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="1" REF="2"/>
+<HEAD>Emare.</HEAD>
+<HEADNOTE><P><HI REND="italic">(MS. Cotton Caligula,</HI> A ii.)</P></HEADNOTE>
+<LG N="1">
+<HEAD>(1)</HEAD>
+<L>Ih<HI REND="italic">es</HI>u, þ<HI REND="italic">a</HI>t ys kyng in trone, <MILESTONE UNIT="leaf" N="71"/> <NOTE PLACE="marg">Jesus, who created all things,</NOTE></L>
+<L>As þ<HI REND="italic">o</HI>u shoope boþe son<HI REND="italic">n</HI>e <HI REND="italic">and</HI> mone,</L>
+<L>And all<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t shall<HI REND="italic">e</HI> dele <HI REND="italic">and</HI> dygħte, <MILESTONE N="3"/></L>
+<L>Now lene vs g<HI REND="italic">r</HI>ace such ded<HI REND="italic">us</HI> to done, <NOTE PLACE="marg">grant us grace to enter heaven.</NOTE></L>
+<L>In þy blys þ<HI REND="italic">a</HI>t we may wone,</L>
+<L>Men alle h<HI REND="italic">y</HI>t heuen lygħte; <MILESTONE N="6"/></L>
+<L>And þy mod<HI REND="italic">ur</HI> Mary, heuyn qwene,</L>
+<L>Bere our aru<HI REND="italic">n</HI>de so bytwene,</L>
+<L>That semely ys of sygħt, <MILESTONE N="9"/> <NOTE PLACE="marg">Mother Mary, intercede for us with thy Son.</NOTE></L>
+<L>To þy sone þ<HI REND="italic">a</HI>t ys so fre,</L>
+<L>In heuen w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hy<HI REND="italic">m</HI> þ<HI REND="italic">a</HI>t we may be,</L>
+<L>That lord ys most of mygħt. <MILESTONE N="12"/></L>
+</LG>
+<LG N="2">
+<HEAD>(2)</HEAD>
+<L>Menstrelles þ<HI REND="italic">a</HI>t walken fer <HI REND="italic">and</HI> wyde, <NOTE PLACE="marg">Minstrels who wander in many lands, should</NOTE></L>
+<L>Her <HI REND="italic">and</HI> þer in eu<HI REND="italic">er</HI>y a syde,</L>
+<L>In mony a dyuerse londe, <MILESTONE N="15"/></L>
+<L>Sholde, at her bygy<HI REND="italic">n</HI>nyng, <NOTE PLACE="marg">first invoke the Creator.</NOTE></L>
+<L>Speke of þ<HI REND="italic">a</HI>t ryghtwes <NOTE N="1" PLACE="foot">R. ryhtwes.</NOTE> kyng</L>
+<L>That made both see <HI REND="italic">and</HI> sonde. <MILESTONE N="18"/></L>
+<L>Who-so wyll<HI REND="italic">e</HI> a stou<HI REND="italic">n</HI>de dwelle, <NOTE PLACE="marg">Whosoever will stop a while shall hear a tale of mirth and sorrow, about a fair lady called Emaré.</NOTE></L>
+<L>Of mykyll<HI REND="italic">e</HI> myrght y may ȝou telle,</L>
+<L>And mornyng þer a-monge; <MILESTONE N="21"/></L>
+<L>Of a lady fayr <HI REND="italic">and</HI> fre,</L>
+<L>Her name was called Emare,</L>
+<L>As I here synge in songe. <MILESTONE N="24"/></L>
+</LG>
+<LG N="3">
+<PB N="2" REF="3"/>
+<HEAD>(3)</HEAD>
+<L>Her fadyr was an emp<HI REND="italic">er</HI>our, <NOTE PLACE="marg">Her father was an emperor called Sir Artyus, who had great possessions.</NOTE></L>
+<L>Of castell<HI REND="italic">e and</HI> of ryche towre,</L>
+<L>Syr Artyus was hys nome; <MILESTONE N="27"/></L>
+<L>He hadde boþe hallys <HI REND="italic">and</HI> bowrys,</L>
+<L>Frythes fayr, forestes w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> flowrys,</L>
+<L>So gret a lord was none. <MILESTONE N="30"/></L>
+<L>Weddedde he had a lady, <NOTE PLACE="marg">He had married a fair and courteous lady, Dame Erayne.</NOTE></L>
+<L>That was both fayr <HI REND="italic">and</HI> semely,</L>
+<L>Whyte as whales bone; <MILESTONE N="33"/></L>
+<L>Dame Erayne hette þ<HI REND="italic">a</HI>t emp<HI REND="italic">er</HI>es,</L>
+<L>She was full<HI REND="italic">e</HI> of loue <HI REND="italic">and</HI> goodnesse,</L>
+<L>So curtays lady was none. <MILESTONE N="36"/></L>
+</LG>
+<LG N="4">
+<HEAD>(4)</HEAD>
+<L>Syr Artyus was þe best ma<HI REND="italic">n</HI>ne <NOTE PLACE="marg">Sir Artyus was the best man in the world, brave</NOTE></L>
+<L>In þe worlde þ<HI REND="italic">a</HI>t lyuede þa<HI REND="italic">n</HI>ne,</L>
+<L>Both hardy and þ<HI REND="italic">er</HI>-to wygħt; <MILESTONE N="39"/></L>
+<L>He was curtays in all<HI REND="italic">e</HI> þyng, <NOTE PLACE="marg">and courteous and just.</NOTE></L>
+<L>Bothe to olde <HI REND="italic">and</HI> to ȝynge,</L>
+<L>And well<HI REND="italic">e</HI> kowth dele <HI REND="italic">and</HI> dygħt. <MILESTONE N="42"/></L>
+<L>He hadde but on chyld in h<HI REND="italic">y</HI>s lyue, <NOTE PLACE="marg">He had but one child of his wedded wife; but that was fair and seemly,</NOTE></L>
+<L>Be-geten on h<HI REND="italic">y</HI>s weddedde wyfe,</L>
+<L>And þ<HI REND="italic">a</HI>t was fayr and brygħt; <MILESTONE N="45"/></L>
+<L>For soþe, as y may telle þe,</L>
+<L>They called þ<HI REND="italic">a</HI>t chyld Emare, <NOTE PLACE="marg">and called Emaré.</NOTE></L>
+<L>That semely was of sygħt. <MILESTONE N="48"/></L>
+</LG>
+<LG N="5">
+<HEAD>(5)</HEAD>
+<L>When she was of her mod<HI REND="italic">ur</HI> born, <NOTE PLACE="marg">When she was born, she was the fairest crea∣ture in the land.</NOTE></L>
+<L>She was þe fayrest creature borne,</L>
+<L>That yn þe lond was þoo; <MILESTONE N="51"/></L>
+<L>The emp<HI REND="italic">er</HI>es, þ<HI REND="italic">a</HI>t fayr ladye, <NOTE PLACE="marg">The empress died before the child could speak or walk,</NOTE></L>
+<L>Fro her lord gan she dye,</L>
+<L>Or hyt kowþe speke or goo. <MILESTONE N="54"/></L>
+<L>The chyld, þ<HI REND="italic">a</HI>t was fayr <HI REND="italic">and</HI> gent, <NOTE PLACE="marg">so it was sent to a lady called Abro,</NOTE></L>
+<L>To a lady was hyt sente,</L>
+<L>That men kalled <NOTE N="1" PLACE="foot">R. called.</NOTE> Abro; <MILESTONE N="57"/></L>
+<L><PB N="3" REF="4"/>
+She thawȝtħ h<HI REND="italic">y</HI>t curtesye <HI REND="italic">and</HI> thewe, <NOTE PLACE="marg">who taught it courtesy and stitchery, among other maidens.</NOTE></L>
+<L>Golde <HI REND="italic">and</HI> sylke for to sewe,</L>
+<L>Amonge maydenes moo. <MILESTONE N="60"/></L>
+</LG>
+<LG N="6">
+<HEAD>(6)</HEAD>
+<L>Abro tawȝte þys mayden small<HI REND="italic">e,</HI> <NOTE PLACE="marg">Abro gave this small maiden the usual educa∣tion.</NOTE></L>
+<L>Nort<HI REND="italic">ur</HI> <NOTE N="1" PLACE="foot">R. Nortour.</NOTE> þ<HI REND="italic">a</HI>t men vseden̄ <NOTE N="2" PLACE="foot">R. usedenn.</NOTE> in sale,</L>
+<L>Whyle she was in her bowre. <MILESTONE N="63"/></L>
+<L>She was curtays in all<HI REND="italic">e</HI> thynge, <NOTE PLACE="marg">She was courteous to everybody,</NOTE></L>
+<L>Bothe to olde <NOTE N="3" PLACE="foot">R. old.</NOTE> <HI REND="italic">and</HI> to ȝynge,</L>
+<L>And whythe as lylye flowre; <NOTE PLACE="marg">white as a lily, clever with her hands, and loved by all.</NOTE> <MILESTONE N="66"/></L>
+<L>Of her hondes she was slye,</L>
+<L>All<HI REND="italic">e</HI> he[r] loued þ<HI REND="italic">a</HI>t her sye,</L>
+<L>Wyth menske <HI REND="italic">and</HI> mychyl hono<HI REND="italic">ur.</HI> <MILESTONE N="69"/></L>
+<L>At þe mayden̄ leue we, <NOTE PLACE="marg">Now let us leave the maiden and her nurse and speak of the emperor,</NOTE></L>
+<L>And at þe lady fayr <HI REND="italic">and</HI> fre,</L>
+<L>And speke we of þe emp<HI REND="italic">er</HI>o<HI REND="italic">ur.</HI> <MILESTONE N="72"/></L>
+</LG>
+<LG N="7">
+<HEAD>(7)</HEAD>
+<L>The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> of gentyll<HI REND="italic">e</HI> blode, <NOTE PLACE="marg">who, after his wife's death, led his life in widow hood, and greatly loved dalli∣ance.</NOTE></L>
+<L>Was a curteys lorde <HI REND="italic">and</HI> a gode,</L>
+<L>In all<HI REND="italic">e</HI> maner of thynge. <MILESTONE N="75"/></L>
+<L>Aftur, when h<HI REND="italic">y</HI>s wyf was dede,</L>
+<L>And ledde h<HI REND="italic">y</HI>s yn weddewede,</L>
+<L>And <NOTE N="4" PLACE="foot">G. <HI REND="italic">changes</HI> And <HI REND="italic">to</HI> He. <HI REND="italic">Other possible emendations are:</HI> And he ledde; <HI REND="italic">or, by analogy to l.</HI> 989, A ledde.</NOTE> myche loued playnge,— <MILESTONE N="78"/></L>
+<L>Sone aft<HI REND="italic">ur,</HI> yn a whyle, <NOTE PLACE="marg">Soon after, the great king of Sicily came to the emperor,</NOTE></L>
+<L>The ryche kynge of Cesyle</L>
+<L>To þe emp<HI REND="italic">er</HI>our gan̄ wende. <MILESTONE N="81"/></L>
+<L>A ryche p<HI REND="italic">re</HI>sent w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hym he browght, <MILESTONE UNIT="leaf" N="71, bk."/> <NOTE PLACE="marg">bringing a splendid cloth as present, and was nobly welcomed.</NOTE></L>
+<L>A cloth þ<HI REND="italic">a</HI>t was wordylye wroght.</L>
+<L>He well<HI REND="italic">e</HI>comed hym as þe hende. <MILESTONE N="84"/></L>
+</LG>
+<LG N="8">
+<HEAD>(8)</HEAD>
+<L>Syr Tergaunte þ<HI REND="italic">a</HI>t nobyll<HI REND="italic">e</HI> knyȝt (hyȝte), <NOTE N="5" PLACE="foot"><HI REND="italic">The omission of</HI> hyȝte <HI REND="italic">improves the metre; but although the</HI> yȝ <HI REND="italic">is blotted, the word is not unmistakably crossed out by the scribe. Kölbing, however, considers it erased (Eng. Stud.,</HI> xv, 248). <HI REND="italic">See note on the line.</HI></NOTE> <NOTE PLACE="marg">Sir Ter∣gaunte, that noble knight, on his knee before the emperor,</NOTE></L>
+<L>He p<HI REND="italic">re</HI>sented þe emp<HI REND="italic">er</HI>our rygħt,</L>
+<L>And sette hym on hys kne, <MILESTONE N="87"/></L>
+<L><PB N="4" REF="5"/>
+Wyth þ<HI REND="italic">a</HI>t cloth rychyly dygħt, <NOTE PLACE="marg">offered the splendld cloth, which was as thickly set as possible with topaz and rubies,</NOTE></L>
+<L>Full<HI REND="italic">e</HI> of stones þ<HI REND="italic">er</HI> h<HI REND="italic">y</HI>t was pygħt, <NOTE N="1" PLACE="foot">MS., was dye <HI REND="italic">(crossed out)</HI> pygħt.</NOTE></L>
+<L>As thykke as h<HI REND="italic">y</HI>t mygħt be: <MILESTONE N="90"/></L>
+<L>Of(f) <NOTE N="2" PLACE="foot">G. Of.</NOTE> topaze and rubyes,</L>
+<L>And oþ<HI REND="italic">ur</HI> stones of myche prys, <NOTE PLACE="marg">with toad∣stones and agate(?) and other rich stones,</NOTE></L>
+<L>That semely wer to se; <MILESTONE N="93"/></L>
+<L>Of crapowtes <HI REND="italic">and</HI> nakette,</L>
+<L>As <NOTE N="3" PLACE="foot">G. <HI REND="italic">suggests</HI> A[l]s[ō] <HI REND="italic">for</HI> As <HI REND="italic">to improve the metre. See ll.</HI> 90. 138.</NOTE> thykke ar þey sette,</L>
+<L>For sothe, as y say þe. <MILESTONE N="96"/> <NOTE PLACE="marg">as I tell thee truly.</NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>(9)</HEAD>
+<L>The cloth was dysplayed sone, <NOTE PLACE="marg">As the emperor looked at the cloth, he could not see readily for the glistering of the rich stones,</NOTE></L>
+<L>The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> <NOTE N="4" PLACE="foot">R. emperoer.</NOTE> lokede þ<HI REND="italic">er</HI>-vpone,</L>
+<L>And myght[e] hyt not se; <MILESTONE N="99"/></L>
+<L>For glysteryng of þe ryche ston</L>
+<L>Redy syght<HI REND="italic">e</HI> had he non̄,</L>
+<L>And sayde, "How may þys be?" <MILESTONE N="102"/> <NOTE PLACE="marg">and said, "How may this be?</NOTE></L>
+<L>The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> sayde on hygħ,</L>
+<L>"Sertes, þys ys a fayry, <NOTE PLACE="marg">Certes, this is a fairy thing or an illu∣sion." The King of Sicily answered, "It is the richest jewel in christen∣dom."</NOTE></L>
+<L>Or ellys a vanyte!" <MILESTONE N="105"/></L>
+<L>The Kyng of Cysyle answered þan,</L>
+<L>"So ryche a jwell<HI REND="italic">e</HI> ys þer non</L>
+<L>In all<HI REND="italic">e</HI> Crystyante." <MILESTONE N="108"/></L>
+</LG>
+<LG N="10">
+<HEAD>(10)</HEAD>
+<L>The amerayle dowȝter of heþe<HI REND="italic">n</HI>nes <NOTE PLACE="marg">The daughter of the Emir of heathen∣dom made this cloth, and adorned it with gold, azure and precious stones,</NOTE></L>
+<L>Made þ<HI REND="italic">y</HI>s cloth w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>-outen̄ lees,</L>
+<L>And wrowȝte h<HI REND="italic">y</HI>t all<HI REND="italic">e</HI> w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> p<HI REND="italic">r</HI>ide; <MILESTONE N="111"/></L>
+<L>And p<HI REND="italic">ur</HI>treyed hyt w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> gret honour,</L>
+<L>Wyth ryche golde and asowr,</L>
+<L>And stones on ylke a syde. <MILESTONE N="114"/></L>
+<L>And, as þe story telles in honde, <NOTE PLACE="marg">which were sought far and wide.</NOTE></L>
+<L>The stones þ<HI REND="italic">a</HI>t yn þ<HI REND="italic">y</HI>s cloth stonde,</L>
+<L>Sowȝte þey wer full<HI REND="italic">e</HI> wyde. <MILESTONE N="117"/></L>
+<L>Seuen wy<HI REND="italic">n</HI>ter h<HI REND="italic">y</HI>t was yn makynge, <NOTE PLACE="marg">Seven years it was a∣making, before it was finished.</NOTE></L>
+<L>Or h<HI REND="italic">y</HI>t was browght<HI REND="italic">e</HI> to endynge,</L>
+<L>In herte ys not to hyde. <MILESTONE N="120"/></L>
+</LG>
+<LG N="11">
+<PB N="5" REF="6"/>
+<HEAD>(11)</HEAD>
+<L>In þ<HI REND="italic">a</HI>t on korner made was <NOTE PLACE="marg">In the first corner were the true lovers, Ydoyne and Amadas, portrayed with true∣love-flower in precious stones,</NOTE></L>
+<L>Ydoyne and Amadas,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> loue þ<HI REND="italic">a</HI>t was so trewe; <MILESTONE N="123"/></L>
+<L>For þey loueden̄ hem w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> <NOTE N="1" PLACE="foot">R. wit.</NOTE> hono<HI REND="italic">ur,</HI></L>
+<L>Portrayed <NOTE N="2" PLACE="foot">G. Po<HI REND="italic">u</HI>rtrayed.</NOTE> þey wer w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> trewe-loue-flo<HI REND="italic">ur,</HI></L>
+<L>Of stones brygħt of hewe: <MILESTONE N="126"/></L>
+<L>Wyth carbunkull<HI REND="italic">e and</HI> safere, <NOTE PLACE="marg">carbuncle, sapphire, chalcedony and clear onyx, set in new gold,</NOTE></L>
+<L>Kassydonys <HI REND="italic">and</HI> onyx so clere,</L>
+<L>Sette in golde newe; <MILESTONE N="129"/></L>
+<L>Deamondes and rubyes, <NOTE PLACE="marg">diamonds, rubies, and other precious stones.</NOTE></L>
+<L>And oþ<HI REND="italic">ur</HI> stones of mychyll<HI REND="italic">e</HI> pryse,</L>
+<L>And menstrellys w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> her gle[we]. <MILESTONE N="132"/></L>
+</LG>
+<LG N="12">
+<HEAD>(12)</HEAD>
+<L>In þ<HI REND="italic">a</HI>t oþ<HI REND="italic">ur</HI> corner was dygħt, <NOTE PLACE="marg">In the second corner were the true lovers, Trystram and Isowde, set thickly with precious stones,</NOTE></L>
+<L>Trystram <HI REND="italic">and</HI> Isowde so bryȝt,</L>
+<L>That semely wer to se; <MILESTONE N="135"/></L>
+<L>And for þey loued hem rygħt,</L>
+<L>As full<HI REND="italic">e</HI> of stones ar þey dygħt,</L>
+<L>As thykke as þey may be: <MILESTONE N="138"/></L>
+<L>Of topase and of rubyes, <NOTE PLACE="marg">with topaz, rubies, and other gems,</NOTE></L>
+<L>And oþ<HI REND="italic">ur</HI> stones of myche pryse,</L>
+<L>That semely wer to se; <MILESTONE N="141"/></L>
+<L>Wyth crapawtes <HI REND="italic">and</HI> nakette, <NOTE PLACE="marg">with toad∣stones and agate(?).</NOTE></L>
+<L>Thykke of stones ar þey sette,</L>
+<L>For sothe, as y say þe. <MILESTONE N="144"/></L>
+</LG>
+<LG N="13">
+<HEAD>(13)</HEAD>
+<L>In þe thrydde korner, w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> g<HI REND="italic">r</HI>et hono<HI REND="italic">ur,</HI> <NOTE PLACE="marg">In the third corner were Florys and Dame Blawn∣cheflour,</NOTE></L>
+<L>Was Florys <HI REND="italic">and</HI> Dam Blawncheflo<HI REND="italic">ur,</HI></L>
+<L>As loue was hem be-twene; <MILESTONE N="147"/></L>
+<L>For þey loued <NOTE N="3" PLACE="foot">G. <HI REND="italic">supplies</HI> hem <HI REND="italic">after</HI> loued <HI REND="italic">by analogy to l.</HI> 124 <HI REND="italic">above.</HI></NOTE> wyth honour,</L>
+<L>Purtrayed þey we<ABBR>r</ABBR> w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> trewe-loue-flo<HI REND="italic">ur,</HI> <NOTE N="4" PLACE="foot">R. flower.</NOTE> <NOTE PLACE="marg">with true∣love-flower in gems,</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> stones brygħt <HI REND="italic">and</HI> shene: <MILESTONE N="150"/></L>
+<L>Ther we<ABBR>r</ABBR> knyȝt<HI REND="italic">us and</HI> senatowres, <NOTE PLACE="marg">"knights and senators," potent emeralds,</NOTE></L>
+<L>Emerawdes of gret vertues,</L>
+<L>To wyte w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>-outen̄ wene; <MILESTONE N="153"/></L>
+<L><PB N="6" REF="7"/>
+Deamou<HI REND="italic">n</HI>des <NOTE N="1" PLACE="foot">R. Deamondes.</NOTE> and koralle, <NOTE PLACE="marg">diamonds, coral, chryso∣lite, orystal, and good garnets.</NOTE></L>
+<L>Perydotes and crystall<HI REND="italic">e,</HI></L>
+<L>And gode garnettes by-twene. <MILESTONE N="156"/></L>
+</LG>
+<LG N="14">
+<HEAD>(14)</HEAD>
+<L>In the fowrthe korner was oon, <NOTE PLACE="marg">In the fourth corner was the son of the Sultan of Babylon, and the Emir's daughter, who made this cloth for his sake.</NOTE></L>
+<L>Of Babylone þe sowdan so<HI REND="italic">n</HI>ne,</L>
+<L>The amerayles dowȝtyr hy<HI REND="italic">m</HI> by. <MILESTONE N="159"/></L>
+<L>For h<HI REND="italic">y</HI>s sake þe cloth was wrowght;</L>
+<L>She loued hym i<HI REND="italic">n</HI> hert <HI REND="italic">and</HI> thowght,</L>
+<L>As testy moyeth þys storye. <MILESTONE N="162"/></L>
+<L>The fayr mayden he<ABBR>r</ABBR> by-forn <MILESTONE UNIT="leaf" N="72"/></L>
+<L>Was port<HI REND="italic">r</HI>ayed an vnykorn, <NOTE PLACE="marg">An unicorn, with his high horn, was portrayed before the maiden, with flowers and birds in rare stones.</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hys horn so hye; <MILESTONE N="165"/></L>
+<L>Flowres <HI REND="italic">and</HI> bryddes on ylke a syde,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> stones þ<HI REND="italic">a</HI>t wer sowght<HI REND="italic">e</HI> wyde,</L>
+<L>Stuffed wyth ymagerye. <MILESTONE N="168"/></L>
+</LG>
+<LG N="15">
+<HEAD>(15)</HEAD>
+<L>When the cloth to ende was wrowgħt, <NOTE PLACE="marg">When the cloth was finished, it was brought to the sultan's son. "My father took it by force from the sultan, and gave it me, and I bring it to thee specially."</NOTE></L>
+<L>To þe sowdan sone h<HI REND="italic">y</HI>t was browȝt,</L>
+<L>That semely was of syȝte. <MILESTONE N="171"/></L>
+<L>"My fadyr was a nobyll<HI REND="italic">e</HI> man,</L>
+<L>Of þe sowdan he h<HI REND="italic">y</HI>t wan,</L>
+<L>Wyth maystrye <HI REND="italic">and</HI> w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> <NOTE N="2" PLACE="foot">R. <HI REND="italic">omits.</HI></NOTE> myȝtħ. <MILESTONE N="174"/></L>
+<L>For g<HI REND="italic">r</HI>et loue he ȝaf hyt me,</L>
+<L>I brynge h<HI REND="italic">y</HI>t þe in specyalte,</L>
+<L>Thys cloth ys rychely dygħt." <MILESTONE N="177"/></L>
+<L>He ȝaf h<HI REND="italic">y</HI>t þe emp<HI REND="italic">er</HI>our, <NOTE PLACE="marg">He gave it to the emperor, who thanked him properly.</NOTE></L>
+<L>He receyued h<HI REND="italic">y</HI>t w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> gret hono<HI REND="italic">ur,</HI></L>
+<L>And þonkede hym fayr <HI REND="italic">and</HI> ryȝt. <MILESTONE N="180"/></L>
+</LG>
+<LG N="16">
+<HEAD>(16)</HEAD>
+<L>The Kyng of Cesyle dwelled þer, <NOTE PLACE="marg">The King of Sicily amused himself with the emperor as long as he wished,</NOTE></L>
+<L>As long as h<HI REND="italic">y</HI>s wyll<HI REND="italic">e</HI> wer,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þe emp<HI REND="italic">er</HI>our for to play; <MILESTONE N="183"/></L>
+<L>And when he wolde wende,</L>
+<L>He toke h<HI REND="italic">y</HI>s leue at þe hende, <NOTE PLACE="marg">then took leave and went home.</NOTE></L>
+<L>And wente forth on hys way. <MILESTONE N="186"/></L>
+<L><PB N="7" REF="8"/>
+Now remeueth <NOTE N="1" PLACE="foot"><HI REND="italic">So MS., not</HI> remeneth <HI REND="italic">as</HI> G. <HI REND="italic">says.</HI></NOTE> þ<HI REND="italic">y</HI>s nobyll<HI REND="italic">e</HI> kyng. <NOTE PLACE="marg">Now the emperor longed to speak with his daughter, and sent messengers to fetch her.</NOTE></L>
+<L>The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> aft<HI REND="italic">ur</HI> h<HI REND="italic">y</HI>s dowȝt<HI REND="italic">ur</HI> hadde longy<HI REND="italic">n</HI>g, <NOTE N="2" PLACE="foot"><HI REND="italic">This line is obviously corrupt.</HI> G. <HI REND="italic">omits</HI> aft<HI REND="italic">ur</HI> h<HI REND="italic">y</HI>s dowtȝ<HI REND="italic">ur and inserts</HI> he <HI REND="italic">after</HI> emp<HI REND="italic">er</HI>o<HI REND="italic">ur.</HI></NOTE></L>
+<L>To speke w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">a</HI>t may. <MILESTONE N="189"/></L>
+<L>Messengeres forth he sent</L>
+<L>Aftyr þe mayde fayr <NOTE N="3" PLACE="foot">R. fayre.</NOTE> <HI REND="italic">and</HI> gent,</L>
+<L>That was bryȝt as someres day. <MILESTONE N="192"/></L>
+</LG>
+<LG N="17">
+<HEAD>(17)</HEAD>
+<L>Messengeres dyȝte hem i<HI REND="italic">n</HI> hye; <NOTE PLACE="marg">These went forth, with mirth and minstrelsy,</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> myche myrthe <HI REND="italic">and</HI> melodye,</L>
+<L>Forth gon þey fare, <MILESTONE N="195"/></L>
+<L>Both by stretes <HI REND="italic">and</HI> by stye,</L>
+<L>Aft<HI REND="italic">ur</HI> þ<HI REND="italic">a</HI>t fayr lady, <NOTE PLACE="marg">to fetch the fair lady.</NOTE></L>
+<L>Was godely vnþ<HI REND="italic">ur</HI> gare. <MILESTONE N="198"/></L>
+<L>Her norysse, þ<HI REND="italic">a</HI>t hyȝte Abro, <NOTE PLACE="marg">Abro, her nurse, went with her, and they set out in a "car,"</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> her she goth forth also,</L>
+<L>And wer sette in a chare. <MILESTONE N="201"/></L>
+<L>To þe emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> gan þe[y] go; <NOTE PLACE="marg">to go to the emperor, who came a mile or two to meet them.</NOTE></L>
+<L>He come aȝeyn hem a myle or two;</L>
+<L>A fayr metyng was there. <MILESTONE N="204"/></L>
+</LG>
+<LG N="18">
+<HEAD>(18)</HEAD>
+<L>The mayden, whyte as lylye flo<HI REND="italic">ur,</HI> <NOTE PLACE="marg">The maiden, white as a lily, alighted, and was led up by two knights.</NOTE></L>
+<L>Lyȝte aȝeyn <NOTE N="4" PLACE="foot">G. aȝeyen.</NOTE> (her fadyr <NOTE N="5" PLACE="foot">G. <HI REND="italic">suggests the omission of these words.</HI></NOTE>) þe emp<HI REND="italic">er</HI>o<HI REND="italic">ur;</HI></L>
+<L>Two knyȝtes gan her lede. <MILESTONE N="207"/></L>
+<L>Her fadyr, þ<HI REND="italic">a</HI>t was of gret renowne,</L>
+<L>That of golde wered þe crowne,</L>
+<L>Lyȝte of hys stede. <MILESTONE N="210"/> <NOTE PLACE="marg">Her father also alighted, and when they were both on foot, "clipped her and kissed her,</NOTE></L>
+<L>When <NOTE N="6" PLACE="foot">G. Then.</NOTE> þey wer bothe on her fete,</L>
+<L>He klypped her <HI REND="italic">and</HI> kyssed her swete,</L>
+<L>And bothe on fote þey ȝede. <MILESTONE N="213"/></L>
+<L>They wer glad <HI REND="italic">and</HI> made good chere,</L>
+<L>To þe palys þey ȝede in fere, <NOTE PLACE="marg">and they went together to the palace.</NOTE></L>
+<L>In romans as we rede. <MILESTONE N="216"/></L>
+</LG>
+<LG N="19">
+<HEAD>(19)</HEAD>
+<L>Then þe lordes þ<HI REND="italic">a</HI>t wer grete, <NOTE PLACE="marg">The great lords washed and sat down to meat.</NOTE></L>
+<L>They wesh <HI REND="italic">and</HI> seten̄ don <NOTE N="7" PLACE="foot">R. doun.</NOTE> to mete,</L>
+<L>And folk hem serued swyde. <MILESTONE N="219"/></L>
+<L><PB N="8" REF="9"/>
+The mayden, þ<HI REND="italic">a</HI>t was of sembela<HI REND="italic">n</HI>t <NOTE N="1" PLACE="foot">G. semblant.</NOTE> swete, <NOTE PLACE="marg">The maiden sat before her father,</NOTE></L>
+<L>Byfore <NOTE N="2" PLACE="foot">G. Before.</NOTE> her owene fadur sete,</L>
+<L>The fayrest wo<HI REND="italic">m</HI>mon on lyfe; <MILESTONE N="222"/> <NOTE PLACE="marg">and she was so fair that he fell in love with her,</NOTE></L>
+<L>That all<HI REND="italic">e</HI> h<HI REND="italic">y</HI>s hert <HI REND="italic">and</HI> all<HI REND="italic">e</HI> h<HI REND="italic">y</HI>s þowȝtħ,</L>
+<L>Her to loue was yn browgħt;</L>
+<L>He by-helde her ofte syþe. <MILESTONE N="225"/></L>
+<L>So he was an-amored h<HI REND="italic">y</HI>s þowȝt<HI REND="italic">ur</HI> tyll<HI REND="italic">e,</HI></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> her he þowȝth to worche h<HI REND="italic">y</HI>s wyll<HI REND="italic">e,</HI> <NOTE PLACE="marg">and wished to make her his wife.</NOTE></L>
+<L>And wedde her to hys wyfe. <MILESTONE N="228"/></L>
+</LG>
+<LG N="20">
+<HEAD>(20)</HEAD>
+<L>And when þe metewhyle was don̄, <NOTE N="3" PLACE="foot">R. doun.</NOTE> <NOTE PLACE="marg">When the meal was done,</NOTE></L>
+<L>In-to hys chambur he wente son̄, <NOTE N="4" PLACE="foot">R. soun.</NOTE></L>
+<L>And called h<HI REND="italic">y</HI>s counseyle nere. <MILESTONE N="231"/> <NOTE PLACE="marg">he called his council into his chamber, and bade them get leave from the Pope for him to wed his daughter.</NOTE></L>
+<L>He bad þey shulde sone go <HI REND="italic">and</HI> come.</L>
+<L>And gete leue of þe Pope of Rome,</L>
+<L>To wedde þ<HI REND="italic">a</HI>t mayden clere. <MILESTONE N="234"/></L>
+<L>Messengeres forth þey wente,</L>
+<L>They durste <NOTE N="5" PLACE="foot">R. durst.</NOTE> not breke hys co<HI REND="italic">m</HI>ma<HI REND="italic">n</HI>deme<HI REND="italic">n</HI>t, <NOTE PLACE="marg">They durst not disobey, but sent messengers, and earls with them, to Rome. They brought the Pope's Bull permit∣ting the marriage.</NOTE></L>
+<L>And erles w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hem yn fere. <MILESTONE N="237"/></L>
+<L>They wente to þe courte of Rome,</L>
+<L>And browȝte þe Popus Bullus sone,</L>
+<L>To wedde h<HI REND="italic">y</HI>s dowȝter dere. <MILESTONE N="240"/></L>
+</LG>
+<LG N="21">
+<HEAD>(21)</HEAD>
+<L>Þen was þe emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> gladde <HI REND="italic">and</HI> blyþe, <NOTE PLACE="marg">Then the emperor was glad, and had a robe made of the cloth of gold,</NOTE></L>
+<L>And lette shape a robe swyþe,</L>
+<L>Of þ<HI REND="italic">a</HI>t cloth of golde; <MILESTONE N="243"/></L>
+<L>And when h<HI REND="italic">y</HI>t was don her vpon̄,</L>
+<L>She semed non erþely wo<HI REND="italic">m</HI>mon, <NOTE PLACE="marg">in which she looked fairer than mortal woman.</NOTE></L>
+<L>That marked was of molde. <MILESTONE N="246"/></L>
+<L>Then seyde þe emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> so fre, <NOTE PLACE="marg">Then he said, "Daughter, I will wed thee;"</NOTE></L>
+<L>"Dowȝtyr, y woll<HI REND="italic">e</HI> wedde þe,</L>
+<L>Thow art so fresh to be-holde." <MILESTONE N="249"/></L>
+<L>Then sayde þ<HI REND="italic">a</HI>t wordy vnþ<HI REND="italic">ur</HI> wede, <MILESTONE UNIT="leaf" N="72, bk."/></L>
+<L>"Nay, syr, God of heuen h<HI REND="italic">y</HI>t for-bede, <NOTE PLACE="marg">and she. "Nay, God forbid!</NOTE></L>
+<L>þ<HI REND="italic">a</HI>t euer do so we shulde! <MILESTONE N="252"/></L>
+</LG>
+<LG N="22">
+<PB N="9" REF="10"/>
+<HEAD>(22)</HEAD>
+<L>Ȝyf h<HI REND="italic">y</HI>t so be-tydde þ<HI REND="italic">a</HI>t ȝe me wedde, <NOTE PLACE="marg">If we should marry, we should both be lost.</NOTE></L>
+<L>And we shulde play to-ged<HI REND="italic">ur</HI> in bedde,</L>
+<L>Bothe we were for-lorne! <MILESTONE N="255"/></L>
+<L>Þe worde shulde spry<HI REND="italic">n</HI>ge fer <HI REND="italic">and</HI> wyde, <NOTE PLACE="marg">The news would go all over the world.</NOTE></L>
+<L>In all<HI REND="italic">e</HI> þe worlde on eu<HI REND="italic">er</HI>y syde,</L>
+<L>Þe worde shulde be borne. <MILESTONE N="258"/></L>
+<L>Ȝe ben a lorde of gret pryce, <NOTE PLACE="marg">You are a great lord; let not such sorrow arise.</NOTE></L>
+<L>Lorde, lette neu<HI REND="italic">ur</HI> such <NOTE N="1" PLACE="foot">R. suche.</NOTE> sorow a-ryce,</L>
+<L>Take God ȝou be-forne! <MILESTONE N="261"/></L>
+<L>That my fad<HI REND="italic">ur</HI> shulde wedde me, <NOTE PLACE="marg">God forbid that my father should marry me!"</NOTE></L>
+<L>God forbede þ<HI REND="italic">a</HI>t I hyt so se,</L>
+<L>That wered þe crowne of þhorne <NOTE N="2" PLACE="foot">R. thorne.</NOTE>!" <MILESTONE N="264"/></L>
+</LG>
+<LG N="23">
+<HEAD>(23)</HEAD>
+<L>The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> was ryght wrothe, <NOTE PLACE="marg">The em∣peror was furious, and swore great oaths that she should die. He had a boat made, and put her therein, in her splen∣did dress, without food or drink;</NOTE></L>
+<L>And swore many a grete othe,</L>
+<L>That deed shulde she be. <MILESTONE N="267"/></L>
+<L>He lette make a nobull<HI REND="italic">e</HI> boot,</L>
+<L>And dede her þ<HI REND="italic">er</HI>-yn, God wote,</L>
+<L>In þe robe of nobull<HI REND="italic">e</HI> ble. <MILESTONE N="270"/></L>
+<L>She moste haue w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> her no spendyng,</L>
+<L>Noþ<HI REND="italic">ur</HI> mete ne drynke <NOTE N="3" PLACE="foot">MS. drynke. R. <HI REND="italic">adds</HI> [givyng]. G. <HI REND="italic">suggests</HI> n[ōþ]e[r]. Cf. <HI REND="italic">l.</HI> 593 <HI REND="italic">below. I should suggest</HI> drynk<HI REND="italic">yng in the sense of something to drink; but the first instance of this use quoted in the Oxford Dictionary is</HI> 1552. <HI REND="italic">See note on the line.</HI></NOTE>;</L>
+<L>But shate <NOTE N="4" PLACE="foot">R. shote.</NOTE> her y<HI REND="italic">n</HI>-to þe se. <MILESTONE N="273"/> <NOTE PLACE="marg">and cast her into the sea without anchor or oar.</NOTE></L>
+<L>Now þe lady dwelled þore,</L>
+<L>Wyth-owte anker or <NOTE N="5" PLACE="foot">G. <HI REND="italic">suggests</HI> ō[þe]r ōre, <HI REND="italic">which improves the metre.</HI></NOTE> ore,</L>
+<L>And þ<HI REND="italic">a</HI>t was gret pyte! <MILESTONE N="276"/></L>
+</LG>
+<LG N="24">
+<HEAD>(24)</HEAD>
+<L>Ther come a wynd, y vnþ<HI REND="italic">ur</HI>stonde, <NOTE PLACE="marg">A wind arose and blew the boat out of their sight.</NOTE></L>
+<L>And blewe þe boot fro þe londe,</L>
+<L>Of her þey lost þe sygħt. <MILESTONE N="279"/></L>
+<L>The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> hym be-þowgħt, <NOTE PLACE="marg">The emperor bethought himself, and grieved so at his mis∣deed that he fell to the earth in a swoon.</NOTE></L>
+<L>That he hadde all<HI REND="italic">e</HI> myswrowħt,</L>
+<L>And was a sory knyȝte. <MILESTONE N="282"/></L>
+<L><PB N="10" REF="11"/>
+And as he stode yn studyynge,</L>
+<L>He fell<HI REND="italic">e</HI> down in sowenynge,</L>
+<L>To þe yrþe was he dygħt. <MILESTONE N="285"/></L>
+<L>Grete lordes stode þ<HI REND="italic">er</HI>-by, <NOTE PLACE="marg">The great lords that stood by, took him up and com-forted him.</NOTE></L>
+<L>And toke v[p] <NOTE N="1" PLACE="foot">MS. vn.</NOTE> þe e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> hastyly,</L>
+<L>And co<HI REND="italic">n</HI>forted hym fayr <HI REND="italic">and</HI> rygħt. <MILESTONE N="288"/></L>
+</LG>
+<LG N="25">
+<HEAD>(25)</HEAD>
+<L>When he of sownyng kou<HI REND="italic">er</HI>ed was, <NOTE PLACE="marg">When he was recover∣ed, he wept sore and said, "Alas, my daughter! Alas, that I was made man!</NOTE></L>
+<L>Sore he wepte <HI REND="italic">and</HI> sayde, "Alas,</L>
+<L>For my dowħter dere! <MILESTONE N="291"/></L>
+<L>Alas, þ<HI REND="italic">a</HI>t y was made man!</L>
+<L>Wrecched kaytyf þ<HI REND="italic">a</HI>t I h<HI REND="italic">y</HI>t am!"</L>
+<L>The teres ro<HI REND="italic">n</HI>ne by h<HI REND="italic">y</HI>s lere. <MILESTONE N="294"/></L>
+<L>"I wrowgħt <NOTE N="2" PLACE="foot">R. wrawght.</NOTE> a-ȝeyn Goddes lay, <NOTE PLACE="marg">I went against God's law, and she was true. Alas, that she were here!"</NOTE></L>
+<L>To her þ<HI REND="italic">a</HI>t was so trewe of fay.</L>
+<L>Alas, why ner <NOTE N="3" PLACE="foot">MS. <HI REND="italic">vowel blotted.</HI></NOTE> she here!" <MILESTONE N="297"/></L>
+<L>The teres lasshed out of h<HI REND="italic">y</HI>s yȝen;</L>
+<L>The grete lordes þ<HI REND="italic">a</HI>t h<HI REND="italic">y</HI>t syȝen, <NOTE PLACE="marg">The great lords wept with him.</NOTE></L>
+<L>Wepte <HI REND="italic">and</HI> made yll<HI REND="italic">e</HI> chere. <MILESTONE N="300"/></L>
+</LG>
+<LG N="26">
+<HEAD>(26)</HEAD>
+<L>Ther was noþ<HI REND="italic">ur</HI> olde ny ȝynge, <NOTE PLACE="marg">There was none that did not weep for that comely maid.</NOTE></L>
+<L>That kowþe stynte of wepynge,</L>
+<L>For þ<HI REND="italic">a</HI>t comely vnþ<HI REND="italic">ur</HI> kelle. <MILESTONE N="303"/></L>
+<L>In-to shypys faste gan̄ þey þrynge, <NOTE PLACE="marg">They throng∣ed into ships to seek her; but although they sought every where on the sea, they came back without her.</NOTE></L>
+<L>For to seke þ<HI REND="italic">a</HI>t mayden ȝynge,</L>
+<L>Þ<HI REND="italic">a</HI>t was so fayr of flesh <HI REND="italic">and</HI> fell<HI REND="italic">e.</HI> <MILESTONE N="306"/></L>
+<L>They her sowȝt ou<HI REND="italic">ur</HI>-all<HI REND="italic">e</HI> yn þe see,</L>
+<L>And myȝte not fynde þ<HI REND="italic">a</HI>t lady fre,</L>
+<L>A-ȝeyn þey come full<HI REND="italic">e</HI> snell<HI REND="italic">e.</HI> <MILESTONE N="309"/></L>
+<L>At þe emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> now <NOTE N="4" PLACE="foot">MS. <HI REND="italic">inserts in the margin, with a caret to show that it should be placed between</HI> emp<HI REND="italic">er</HI>o<HI REND="italic">ur and</HI> leue.</NOTE> leue we, <NOTE PLACE="marg">Now let us leave the emperor and speak of the lady.</NOTE></L>
+<L>And of þe lady yn þe see,</L>
+<L>I shall<HI REND="italic">e</HI> be-gy<HI REND="italic">n</HI>ne to tell<HI REND="italic">e.</HI> <MILESTONE N="312"/></L>
+</LG>
+<LG N="27">
+<HEAD>(27)</HEAD>
+<L>The lady fleted forth a-lone; <NOTE PLACE="marg">She floated forth alone, praying to God and His mother.</NOTE></L>
+<L>To God of heuen she made her mone,</L>
+<L>And to hys modyr also. <MILESTONE N="315"/></L>
+<L><PB N="11" REF="12"/>
+She was dryuen w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> wynde <HI REND="italic">and</HI> rayn, <NOTE PLACE="marg">She was driven on with strong storms of wind and rain against her.</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> stronge stormes her a-gayn,</L>
+<L>Of þe wat<HI REND="italic">ur</HI> so blo. <MILESTONE N="318"/></L>
+<L>As y haue herd menstrelles sy<HI REND="italic">n</HI>g yn sawe,</L>
+<L>Hows ny lond myȝth she non knowe, <NOTE N="1" PLACE="foot">R. knawe.</NOTE> <NOTE PLACE="marg">As I have heard min∣strels sing, she could not find house or land; but in her fear of the water, hid her head.</NOTE></L>
+<L>A-ferd she was to go. <MILESTONE N="321"/></L>
+<L>She was so dryuen fro wawe to wawe,</L>
+<L>She hyd her hede <HI REND="italic">and</HI> lay full<HI REND="italic">e</HI> lowe, <NOTE N="2" PLACE="foot">R. lawe.</NOTE></L>
+<L>For watyr she was full<HI REND="italic">e</HI> woo. <MILESTONE N="324"/></L>
+</LG>
+<LG N="28">
+<HEAD>(28)</HEAD>
+<L>Now þ<HI REND="italic">y</HI>s lady dwelled þore, <NOTE PLACE="marg">Now she re∣mained thus, lying still in her sorrow, a good seven-night and longer,</NOTE></L>
+<L>A good seuen-nyȝth <HI REND="italic">and</HI> more,</L>
+<L>As h<HI REND="italic">y</HI>t was Goddys wylle; <MILESTONE N="327"/></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> carefull<HI REND="italic">e</HI> herte <HI REND="italic">and</HI> sykyng sore,</L>
+<L>Such sorow was here ȝarked ȝore,</L>
+<L>And euer lay she styll<HI REND="italic">e.</HI> <MILESTONE N="330"/></L>
+<L>She was dryuen yn-to a lond, <NOTE N="3" PLACE="foot"><HI REND="italic">L.</HI> 331, <HI REND="italic">in MS. is followed by l.</HI> 338 <HI REND="italic">crossed out.</HI></NOTE> <NOTE PLACE="marg">until by God's grace she was driven ashore.</NOTE></L>
+<L>Thorow þe g<HI REND="italic">r</HI>ace of Goddes sond,</L>
+<L>That all<HI REND="italic">e</HI> þyng may fulfylle; <MILESTONE N="333"/></L>
+<L>She was on þe see so harde be-stadde, <MILESTONE UNIT="leaf" N="73"/> <NOTE PLACE="marg">So hard was she bestead that she was nearly mad with hunger and thirst.</NOTE></L>
+<L>For hung<HI REND="italic">ur and</HI> thurste almost madde,</L>
+<L>Woo worth weder<HI REND="italic">us</HI> yll<HI REND="italic">e</HI>! <MILESTONE N="336"/></L>
+</LG>
+<LG N="29">
+<HEAD>(29)</HEAD>
+<L>She was dryuen in-to a lond, <NOTE PLACE="marg">She was driven into a land called "Galys."</NOTE></L>
+<L>That hyȝth Galys, y vnþ<HI REND="italic">ur</HI>stond,</L>
+<L>That was a fayr countre. <NOTE N="4" PLACE="foot">R. cuntre.</NOTE> <MILESTONE N="339"/></L>
+<L>Þe kyng<HI REND="italic">us</HI> steward dwelled þ<HI REND="italic">er</HI> by-syde, <NOTE PLACE="marg">The king's steward, Sir Kadore, who dwelled there in a great castle, every day went down to the sea with a squire or two.</NOTE></L>
+<L>In a kastell<HI REND="italic">e</HI> of mykyll<HI REND="italic">e</HI> pryde;</L>
+<L>Syr Kadore hygħt he. <MILESTONE N="342"/></L>
+<L>Eu<HI REND="italic">er</HI>y day wolde he go,</L>
+<L>And take w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hy<HI REND="italic">m</HI> a sqwyer or two,</L>
+<L>And play hym by þe see. <MILESTONE N="345"/></L>
+<L>On a tyme he toke þe eyr, <NOTE PLACE="marg">Once he was taking the air with two knights,</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> two knyȝt<HI REND="italic">us</HI> gode <HI REND="italic">and</HI> fayr;</L>
+<L>The wedur was lythe of le. <MILESTONE N="348"/></L>
+</LG>
+<LG N="30">
+<PB N="12" REF="13"/>
+<HEAD>(30)</HEAD>
+<L>A boot he fond by þe brym, <NOTE PLACE="marg">and found a boat ashore, in it a glistering thing that amazed them; but they went up to the lady, who had been so long "meat∣less," that it grieved them to see she was almost dead.</NOTE></L>
+<L>And a glysteryng þyng þ<HI REND="italic">er</HI>-yn,</L>
+<L>Ther-of þey hadde <NOTE N="1" PLACE="foot">R. had.</NOTE> ferly. <MILESTONE N="351"/></L>
+<L>They went forth on þe sond</L>
+<L>To þe boot, y vnþ<HI REND="italic">ur</HI>stond,</L>
+<L>And fond þer-yn þ<HI REND="italic">a</HI>t lady. <MILESTONE N="354"/></L>
+<L>She hadde so longe meteles be,</L>
+<L>That hym þowht g<HI REND="italic">r</HI>et dele to se;</L>
+<L>She was yn poyn[t] to dye. <MILESTONE N="357"/></L>
+<L>They askede her what was her name; <NOTE PLACE="marg">They asked her name; but she changed it to Egaré.</NOTE></L>
+<L>She chaunged h<HI REND="italic">y</HI>t þer a-none,</L>
+<L>And sayde she hette Egare. <MILESTONE N="360"/></L>
+</LG>
+<LG N="31">
+<HEAD>(31)</HEAD>
+<L>Syr Kadore hadde gret pyte; <NOTE PLACE="marg">Sir Kadore, full of pity, took the lady home.</NOTE></L>
+<L>He toke vp þe lady of þe see,</L>
+<L>And hom gan he[r] lede. <MILESTONE N="363"/></L>
+<L>She hadde so longe meteles be, <NOTE PLACE="marg">She was lean as a tree through lack of food.</NOTE></L>
+<L>She was wax lene as a tre,</L>
+<L>That wordy vnþ<HI REND="italic">ur</HI> wede. <MILESTONE N="366"/></L>
+<L>In-to hys castell<HI REND="italic">e</HI> when she came, <NOTE PLACE="marg">They took her into a room of the castle, and fed her with all kinds of delicious meat and drink.</NOTE></L>
+<L>In-to a chawmbyr þey her nām,</L>
+<L>And fayr þey gan̄ <NOTE N="2" PLACE="foot">R. gann.</NOTE> he<ABBR>r</ABBR> fede, <MILESTONE N="369"/></L>
+<L>Wyth all<HI REND="italic">e</HI> delycyus mete <HI REND="italic">and</HI> drynke,</L>
+<L>That þey myȝth hem on þynke,</L>
+<L>That was yn all<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t stede. <MILESTONE N="372"/></L>
+</LG>
+<LG N="32">
+<HEAD>(32)</HEAD>
+<L>When þ<HI REND="italic">a</HI>t lady, fayr of face, <NOTE PLACE="marg">When the fair lady was recovered,</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> mete <HI REND="italic">and</HI> drynke keuered was,</L>
+<L>And had colo<HI REND="italic">ur</HI> a-gayne, <MILESTONE N="375"/></L>
+<L>She tawȝte hem to sewe <HI REND="italic">and</HI> marke <NOTE PLACE="marg">she taught them to sew and mark all kinds of silk∣work. They were full fain of her; she was courteous to all,</NOTE></L>
+<L>All<HI REND="italic">e</HI> maner of sylky <NOTE N="3" PLACE="foot">R. sylkyn. MS. sylky, <HI REND="italic">but a letter has evidently been erased after it.</HI></NOTE> werke;</L>
+<L>Of her þey wer full<HI REND="italic">e</HI> fayne. <MILESTONE N="378"/></L>
+<L>She was curteys yn all<HI REND="italic">e</HI> þyng,</L>
+<L>Bothe to olde <HI REND="italic">and</HI> to ȝynge,</L>
+<L>I say ȝow for certeyne. <MILESTONE N="381"/></L>
+<L><PB N="13" REF="14"/>
+She kowȜthorn;e <NOTE N="1" PLACE="foot">R. kowthe.</NOTE> werke all<HI REND="italic">e</HI> maner þyng, <NOTE PLACE="marg">and could do work suited to emperor, king, earl, baron, or swain.</NOTE></L>
+<L>That fell<HI REND="italic">e</HI> to emp<HI REND="italic">er</HI>o<HI REND="italic">ur,</HI> or to kyng,</L>
+<L>Erle, barown̄ or swayne. <MILESTONE N="384"/></L>
+</LG>
+<LG N="33">
+<HEAD>(33)</HEAD>
+<L>Syr Kadore lette make a feste, <NOTE PLACE="marg">Sir Kadore made a goodly feast for the king, with min∣strelsy of trumpet, tabour, psaltery, harp, and fiddle.</NOTE></L>
+<L>That was fayr <HI REND="italic">and</HI> honeste,</L>
+<L>Wyth hys lorde, þe kynge. <MILESTONE N="387"/></L>
+<L>Ther was myche menstralse,</L>
+<L>Tro<HI REND="italic">m</HI>mpus, tabo<HI REND="italic">ur</HI>s <NOTE N="2" PLACE="foot">R. Trompus, tabors.</NOTE> <HI REND="italic">and</HI> sawtre,</L>
+<L>Bothe harpe <HI REND="italic">and</HI> fydyll<HI REND="italic">e</HI>yng. <MILESTONE N="390"/></L>
+<L>The lady, þ<HI REND="italic">a</HI>t was gentyll<HI REND="italic">e and</HI> small<HI REND="italic">e,</HI> <NOTE PLACE="marg">The gentle lady, in her kirtle alone, served before the king;</NOTE></L>
+<L>In kurtull<HI REND="italic">e</HI> alone serued yn hall<HI REND="italic">e,</HI></L>
+<L>By-fore þ<HI REND="italic">a</HI>t nobull<HI REND="italic">e</HI> kyng. <MILESTONE N="393"/></L>
+<L>Þe cloth vpon̄ her shone so bryȝt<ABBR>h</ABBR>, <NOTE PLACE="marg">but in her shining robe she seemed no earthly thing.</NOTE></L>
+<L>When she was þ<HI REND="italic">er</HI>-yn y-dyȝth,</L>
+<L>She semed non erdly þyng. <MILESTONE N="396"/></L>
+</LG>
+<LG N="34">
+<HEAD>(34)</HEAD>
+<L>The kyng loked her vp-on̄, <NOTE PLACE="marg">The king looked at her, and became so enamoured of her fair∣ness that he could not eat,</NOTE></L>
+<L>So fayr a lady he syȝ neu<HI REND="italic">ur</HI> non̄,</L>
+<L>H<HI REND="italic">y</HI>s herte she hadde yn wolde. <MILESTONE N="399"/></L>
+<L>He was so an-amered of þ<HI REND="italic">a</HI>t syȝth,</L>
+<L>Of þe mete non he myȝth,</L>
+<L>But faste gan her be-holde. <NOTE PLACE="marg">but stared at her fixedly.</NOTE> <MILESTONE N="402"/></L>
+<L>She was so fayr and gent,</L>
+<L>The kynges loue on her was lent,</L>
+<L>In tale as hyt ys tolde. <MILESTONE N="405"/></L>
+<L>And when þe metewhyle was don̄, <NOTE N="3" PLACE="foot">R. doun.</NOTE> <NOTE PLACE="marg">When the meal was done, he went into the chamber and called his barons,</NOTE></L>
+<L>In-to þe chamb<HI REND="italic">ur</HI> he wente son̄, <NOTE N="4" PLACE="foot">R. soun.</NOTE></L>
+<L>And called h<HI REND="italic">y</HI>s barouns bolde. <MILESTONE N="408"/></L>
+</LG>
+<LG N="35">
+<HEAD>(35)</HEAD>
+<L>Fyrst he calle[d] Syr Kadore, <NOTE PLACE="marg">Sir Kadore, and other knights to come hastily to him; and wise dukes and earls came and asked the king's will.</NOTE></L>
+<L>And oþ<HI REND="italic">ur</HI> knyȝtes þ<HI REND="italic">a</HI>t þer wore,</L>
+<L>Hastely come hy<HI REND="italic">m</HI> tyll<HI REND="italic">e.</HI> <NOTE N="5" PLACE="foot">MS., <HI REND="italic">l.</HI> 411 <HI REND="italic">is omitted and written in the margin.</HI></NOTE> <MILESTONE N="411"/></L>
+<L>Dukes <HI REND="italic">and</HI> erles, wyse of lore,</L>
+<L>Hastely come þe kyng be-fore,</L>
+<L>And askede what was h<HI REND="italic">y</HI>s wyll<HI REND="italic">e.</HI> <MILESTONE N="414"/></L>
+<L><PB N="14" REF="15"/>
+Then spakke þe ryche yn ray, <NOTE PLACE="marg">Then he said to Sir Kadore, "Tell me whence is that lovely maid</NOTE></L>
+<L>To Syr Kadore gan he say,</L>
+<L>Wordes fayr <HI REND="italic">and</HI> stylle: <MILESTONE N="417"/></L>
+<L>"Syr, whēns ys þ<HI REND="italic">a</HI>t louely may, <MILESTONE UNIT="leaf" N="73, bk."/></L>
+<L>That yn þe halle serued þ<HI REND="italic">y</HI>s day? <NOTE PLACE="marg">that served in hall to-day"</NOTE></L>
+<L>Tell<HI REND="italic">e</HI> me, ȝyf hyt be þy wyll<HI REND="italic">e.</HI>" <MILESTONE N="420"/></L>
+</LG>
+<LG N="36">
+<HEAD>(36)</HEAD>
+<L>Then sayde Syr Kadore, y vnþ<HI REND="italic">ur</HI>stonde, <NOTE PLACE="marg">Then said Sir Kadore: "An earl's daughter from a far land. I sent for her to teach my children courtesy.</NOTE></L>
+<L>"Hyt ys an erles þowȝt<HI REND="italic">ur</HI> of ferre londe,</L>
+<L>That semely ys to sene. <MILESTONE N="423"/></L>
+<L>I sente aft<HI REND="italic">ur</HI> her, certeynlye,</L>
+<L>To teche my chylderen curtesye,</L>
+<L>In chambur wyth hem to bene. <MILESTONE N="426"/></L>
+<L>She ys þe ko<HI REND="italic">n</HI>nyngest wo<HI REND="italic">m</HI>mon, <NOTE PLACE="marg">She is the cunningest woman in her work that I have seen in christen∣dom." Then said the king: "I will make her my queen."</NOTE></L>
+<L>I trowe, þ<HI REND="italic">a</HI>t be yn Crystendom,</L>
+<L>Of werk þ<HI REND="italic">a</HI>t y haue sene." <MILESTONE N="429"/></L>
+<L>Then sayde þ<HI REND="italic">a</HI>t ryche raye,</L>
+<L>"I wyll<HI REND="italic">e</HI> haue þ<HI REND="italic">a</HI>t fayr may,</L>
+<L>And wedde her to my quene!" <MILESTONE N="432"/></L>
+</LG>
+<LG N="37">
+<HEAD>(37)</HEAD>
+<L>The nobull<HI REND="italic">e</HI> kyng, verament, <NOTE PLACE="marg">The king sent for his mother,</NOTE></L>
+<L>Aftyr <NOTE N="1" PLACE="foot">R. After.</NOTE> h<HI REND="italic">y</HI>s modyr he sent,</L>
+<L>To wyte what she wolde say. <MILESTONE N="435"/></L>
+<L>They browȝt[e] fortħ hastely <NOTE PLACE="marg">and showed her the fair maid in her shining robe.</NOTE></L>
+<L>That fayr mayde Egarye;</L>
+<L>She was bryȝth as someres day. <MILESTONE N="438"/></L>
+<L>The clotħ on her shon so brygħt,</L>
+<L>When she was þ<HI REND="italic">er</HI>-yn dygħt,</L>
+<L>And her-self a gentell<HI REND="italic">e</HI> may, <MILESTONE N="441"/></L>
+<L>The olde qwene sayde a-non̄, <NOTE PLACE="marg">The old queen said, "I never saw a woman half so fair."</NOTE></L>
+<L>"I sawe neuer wo<HI REND="italic">m</HI>mon</L>
+<L>Haluendell<HI REND="italic">e</HI> so gay!" <MILESTONE N="444"/></L>
+</LG>
+<LG N="38">
+<HEAD>(38)</HEAD>
+<L>The olde qwene <NOTE N="2" PLACE="foot">R. old quene.</NOTE> spakke word<HI REND="italic">us</HI> vnhende, <NOTE PLACE="marg">The old queen said ungra∣ciously, "Son, this is a flend.</NOTE></L>
+<L>And sayde, "Sone, þ<HI REND="italic">y</HI>s ys a fende, <NOTE N="3" PLACE="foot">MS. <HI REND="italic">as in text, not</HI> sende <HI REND="italic">as</HI> G. <HI REND="italic">says.</HI></NOTE></L>
+<L>In þ<HI REND="italic">y</HI>s wordy wede! <MILESTONE N="447"/></L>
+<L><PB N="15" REF="16"/>
+As þ<HI REND="italic">o</HI>u louest my blessynge, <NOTE PLACE="marg">Do not marry her, if you love my bless∣ing."</NOTE></L>
+<L>Make þ<HI REND="italic">o</HI>u neu<HI REND="italic">ur</HI> þ<HI REND="italic">y</HI>s weddynge,</L>
+<L>Cryst h<HI REND="italic">y</HI>t de forbede!" <MILESTONE N="450"/></L>
+<L>Then spakke þe ryche ray, <NOTE PLACE="marg">Then the king said, "Mother, I will," and led her forth.</NOTE></L>
+<L>"Modyr, y wyll<HI REND="italic">e</HI> haue þ<HI REND="italic">y</HI>s may!"</L>
+<L>And forth gan her lede. <MILESTONE N="453"/></L>
+<L>The olde qwene, <NOTE N="1" PLACE="foot">R. quene.</NOTE> for certayne, <NOTE PLACE="marg">The old queen went home in anger, and would not be present.</NOTE></L>
+<L>Turnede w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> ire hom a-gayne,</L>
+<L>And wolde not be at þ<HI REND="italic">a</HI>t dede. <MILESTONE N="456"/></L>
+</LG>
+<LG N="39">
+<HEAD>(39)</HEAD>
+<L>The kyng wedded þ<HI REND="italic">a</HI>t lady brygħt; <NOTE PLACE="marg">The king married the lady with great pur∣veyance.</NOTE></L>
+<L>Grete p<HI REND="italic">ur</HI>uyance þ<HI REND="italic">er</HI> was dyȝtħ,</L>
+<L>In þ<HI REND="italic">a</HI>t semely sale. <MILESTONE N="459"/></L>
+<L>Grete lordes wer serued a-rygħt, <NOTE PLACE="marg">Great lords were well served, and there was a huge crowd,</NOTE></L>
+<L>Duke, erle, baron <HI REND="italic">and</HI> knyȝtħ,</L>
+<L>Both of g<HI REND="italic">r</HI>ete and smale. <MILESTONE N="462"/></L>
+<L>Myche folke for soþe þ<HI REND="italic">er</HI> was,</L>
+<L>And þ<HI REND="italic">er</HI>-to an huge prese,</L>
+<L>As h<HI REND="italic">y</HI>t ys tolde yn tale. <MILESTONE N="465"/></L>
+<L>Ther was all<HI REND="italic">e</HI> maner þyng, <NOTE PLACE="marg">and all thing that belong to a king's wedding, including minstrels.</NOTE></L>
+<L>That fell<HI REND="italic">e</HI> to a ky<HI REND="italic">n</HI>g<HI REND="italic">us</HI> weddyng,</L>
+<L>And mony a ryche menstralle. <MILESTONE N="468"/></L>
+</LG>
+<LG N="40">
+<HEAD>(40)</HEAD>
+<L>When þe mangery was done, <NOTE PLACE="marg">After the feast was done, the great lords departed,</NOTE></L>
+<L>Grete lordes departed sone,</L>
+<L>That semely were to se. <NOTE N="2" PLACE="foot">R. see.</NOTE> <MILESTONE N="471"/></L>
+<L>The kynge be-lafte w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þe qwene, <NOTE PLACE="marg">and left the king and queen to∣gether in love and joy.</NOTE></L>
+<L>Moch loue was hem be-twene,</L>
+<L>And also game <HI REND="italic">and</HI> gle. <MILESTONE N="474"/></L>
+<L>She was curteys <HI REND="italic">and</HI> swete,</L>
+<L>Such a lady herde y neu<HI REND="italic">ur</HI> of ȝete;</L>
+<L>They loued botħ w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> herte fre. <MILESTONE N="477"/></L>
+<L>The lady þ<HI REND="italic">a</HI>t was both meke <HI REND="italic">and</HI> mylde, <NOTE PLACE="marg">The lady, that was courteous and sweet, con∣ceived a child, as it was God's will.</NOTE></L>
+<L>Conceyued <HI REND="italic">and</HI> wente w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> chylde,</L>
+<L>As God wolde h<HI REND="italic">y</HI>t sholde be. <MILESTONE N="480"/></L>
+</LG>
+<LG N="41">
+<PB N="16" REF="17"/>
+<HEAD>(41)</HEAD>
+<L>The kyng of France, yn þ<HI REND="italic">a</HI>t tyme, <NOTE PLACE="marg">The king of France, at that time beset with Saracens,</NOTE></L>
+<L>Was be-sette w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> many a Sarezyne,</L>
+<L>And cu<HI REND="italic">m</HI>bered all<HI REND="italic">e</HI> in tene; <MILESTONE N="483"/></L>
+<L>And sente aft<HI REND="italic">ur</HI> þe kyng of Galys, <NOTE PLACE="marg">sent for the king of "Galys" and other lords.</NOTE></L>
+<L>And oþ<HI REND="italic">ur</HI> lordys of myche prys,</L>
+<L>That semely were to sene. <MILESTONE N="486"/></L>
+<L>The kyng of Galys, in þ<HI REND="italic">a</HI>t tyde, <NOTE PLACE="marg">The king of "Galys" gathered men from all sides,</NOTE></L>
+<L>Gedered men on eu<HI REND="italic">er</HI>y syde,</L>
+<L>In armo<HI REND="italic">ur</HI> brygħt and shene. <MILESTONE N="489"/></L>
+<L>Then sayde þe kyng to Syr Kadore, <NOTE PLACE="marg">and said to Sir Kadore and other lords, "Take heed to my queen."</NOTE></L>
+<L>And oþ<HI REND="italic">ur</HI> lordes þ<HI REND="italic">a</HI>t ther wore,</L>
+<L>"Take good hede to my qwene." <MILESTONE N="492"/></L>
+</LG>
+<LG N="42">
+<HEAD>(42)</HEAD>
+<L>The kyng of F<HI REND="italic">r</HI>aunce spared none, <NOTE PLACE="marg">The king of France sent for them all, king, knight, and clerk;</NOTE></L>
+<L>But sent for hem eu<HI REND="italic">er</HI>ychone,</L>
+<L>Both kyng, knyȝth <HI REND="italic">and</HI> clerke. <MILESTONE N="495"/></L>
+<L>The stward <NOTE N="1" PLACE="foot">R. stiward.</NOTE> by-laft at home, <NOTE PLACE="marg">but the steward re∣mained at home to take care of the queen. She went with child, according to God's will,</NOTE></L>
+<L>To kepe þe qwene whyte as fome,</L>
+<L>He come not at þ<HI REND="italic">a</HI>t werke. <MILESTONE N="498"/></L>
+<L>She we<HI REND="italic">n</HI>te w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> chylde yn place,</L>
+<L>As longe as Godd<HI REND="italic">us</HI> wyll<HI REND="italic">e</HI> was.</L>
+<L>That semely vnþ<HI REND="italic">ur</HI> serke; <MILESTONE N="501"/></L>
+<L>Thyll<HI REND="italic">e</HI> þ<HI REND="italic">er</HI> was of her body, <NOTE PLACE="marg">till she gave birth to a goodly child with a double king's mark.</NOTE></L>
+<L>A fayr chyld borne <HI REND="italic">and</HI> a godele,</L>
+<L>Hadde a dowbyll<HI REND="italic">e</HI> kyng<HI REND="italic">us</HI> marke. <MILESTONE N="504"/></L>
+</LG>
+<LG N="43">
+<HEAD>(43)</HEAD>
+<L>They h<HI REND="italic">y</HI>t crystened w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> g<HI REND="italic">r</HI>ete hono<HI REND="italic">ur,</HI> <NOTE PLACE="marg">They christ∣ened him Segramour with great honour.</NOTE></L>
+<L>And called hy<HI REND="italic">m</HI> Segramo<HI REND="italic">ur;</HI></L>
+<L>Frely was þat fode. <MILESTONE N="507"/></L>
+<L>Then þe steward, Syr Kadore, <MILESTONE UNIT="leaf" N="74"/></L>
+<L>A nobull<HI REND="italic">e</HI> lett<HI REND="italic">ur</HI> made he thore, <NOTE PLACE="marg">Then Sir Kadore made in haste a noble letter and sent it to the king.</NOTE></L>
+<L>And wrowȝte h<HI REND="italic">y</HI>t all<HI REND="italic">e</HI> w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> gode. <MILESTONE N="510"/></L>
+<L>He wrowȝte h<HI REND="italic">y</HI>t yn hyȝynge,</L>
+<L>And sente h<HI REND="italic">y</HI>t to h<HI REND="italic">y</HI>s lorde þe kynge,</L>
+<L>That gentyll<HI REND="italic">e</HI> was of blode. <MILESTONE N="513"/></L>
+<L><PB N="17" REF="18"/>
+The messenger forth gan wende, <NOTE PLACE="marg">The mes∣senger went forth, and stopped at the castle of the king's mother.</NOTE></L>
+<L>And w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þe kyng<HI REND="italic">u</HI>s mod<HI REND="italic">ur</HI> gan lende,</L>
+<L>And yn-to þe castell<HI REND="italic">e</HI> he ȝode. <MILESTONE N="516"/></L>
+</LG>
+<LG N="44">
+<HEAD>(44)</HEAD>
+<L>He was resseyued rychely, <NOTE PLACE="marg">She received him graci∣ously, and asked how the queen had sped. "Madam, she has a fair man-child, and lies ill."</NOTE></L>
+<L>And she hym askede hastyly,</L>
+<L>How þe qwene hadde spedde. <MILESTONE N="519"/></L>
+<L>"Madame, þ<HI REND="italic">er</HI> ys of her y-borne</L>
+<L>A fayr man-chylde, y tell<HI REND="italic">e</HI> ȝou be-forne,</L>
+<L>And she lyth in her bedde." <MILESTONE N="522"/></L>
+<L>She ȝaf hym for þ<HI REND="italic">a</HI>t tydynge <NOTE PLACE="marg">She gave him a robe and forty shil∣lings for that news,</NOTE></L>
+<L>A robe <HI REND="italic">and</HI> fowrty shylynge,</L>
+<L>And rychely hym cladde. <MILESTONE N="525"/></L>
+<L>She made hy<HI REND="italic">m</HI> dronke<HI REND="italic">n</HI> of ale <HI REND="italic">and</HI> wyne, <NOTE PLACE="marg">made him drunk with ale and wine,</NOTE></L>
+<L>And when she sawe þ<HI REND="italic">a</HI>t h<HI REND="italic">y</HI>t was tyme,</L>
+<L>Tho chambur she wolde <NOTE N="1" PLACE="foot">R. wole. G. <HI REND="italic">suggests</HI> she hym led[d]e, <HI REND="italic">which is better for rhyme as well as for metre.</HI></NOTE> hym lede. <MILESTONE N="528"/> <NOTE PLACE="marg">and led him to his room.</NOTE></L>
+</LG>
+<LG N="45">
+<HEAD>(45)</HEAD>
+<L>And when (s)he was on slepe browȝt, <NOTE PLACE="marg">When he was asleep the wicked queen went to his room,</NOTE></L>
+<L>The qwene þ<HI REND="italic">a</HI>t was of wykked þowȝt,</L>
+<L>Tho chambur gan she wende. <MILESTONE N="531"/></L>
+<L>Hys letter she toke hym fro, <NOTE PLACE="marg">and took and burned the letter.</NOTE></L>
+<L>In a fyre she brente h<HI REND="italic">y</HI>t do;</L>
+<L>Of werkes she was vnhende. <MILESTONE N="534"/></L>
+<L>Anoþ<HI REND="italic">ur</HI> lett<HI REND="italic">ur</HI> she made w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> euyll<HI REND="italic">e,</HI> <NOTE PLACE="marg">Another she made, saying that the queen had borne a devil</NOTE></L>
+<L>And sayde þe qwene had born a deuyll<HI REND="italic">e,</HI></L>
+<L>Durste no mon come her hende. <MILESTONE N="537"/></L>
+<L>Thre heddes hadde he there, <NOTE N="2" PLACE="foot">MS., <HI REND="italic">hole in</HI> there, <HI REND="italic">but the vowel is probably</HI> e.</NOTE> <NOTE PLACE="marg">with three heads (of a lion, a dragon and a bear), and none dared ap∣proach her.</NOTE></L>
+<L>A lyon, a dragon <HI REND="italic">and</HI> a beere,</L>
+<L>A fowll<HI REND="italic">e,</HI> feltred fende. <MILESTONE N="540"/></L>
+</LG>
+<LG N="46">
+<HEAD>(46)</HEAD>
+<L>On þe morn, when h<HI REND="italic">y</HI>t was day, <NOTE PLACE="marg">On the mor∣row, the mes∣senger con∣tinued his journey</NOTE></L>
+<L>The messenger wente on h<HI REND="italic">y</HI>s way,</L>
+<L>Bothe by stye <HI REND="italic">and</HI> strete; <MILESTONE N="543"/></L>
+<L><PB N="18" REF="19"/>
+In trwe story as y say, <NOTE PLACE="marg">till he came to the king, greeted him, and gave him the letter.</NOTE></L>
+<L>Tyll<HI REND="italic">e</HI> he come þ<HI REND="italic">er</HI> as þe kynge laye,</L>
+<L>And speke word<HI REND="italic">us</HI> swete. <MILESTONE N="546"/></L>
+<L>He toke þe kyng þe lett<HI REND="italic">ur</HI> yn honde,</L>
+<L>And he h<HI REND="italic">y</HI>t redde, y vnþ<HI REND="italic">ur</HI>stonde, <NOTE PLACE="marg">As the king read, he wept, and then felt in a swoon because of his sorrow.</NOTE></L>
+<L>The teres downe gan he lete. <MILESTONE N="549"/></L>
+<L>And as he stode yn redyng,</L>
+<L>Downe he fell<HI REND="italic">e</HI> yn sowenyng,</L>
+<L>For sorow hys herte gan blede. <MILESTONE N="552"/></L>
+</LG>
+<LG N="47">
+<HEAD>(47)</HEAD>
+<L>Grete lordes þ<HI REND="italic">a</HI>t stode hym by, <NOTE PLACE="marg">Great lords took him up;</NOTE></L>
+<L>Toke vp þe kyng hastely;</L>
+<L>In herte he was full<HI REND="italic">e</HI> woo. <MILESTONE N="555"/></L>
+<L>Sore he grette <HI REND="italic">and</HI> sayde, "Alas, <NOTE PLACE="marg">but he greet∣ed sore, and said, "Alas, that I was ever born, and made king.</NOTE></L>
+<L>That y eu<HI REND="italic">ur</HI> man born was!</L>
+<L>That h<HI REND="italic">y</HI>t eu<HI REND="italic">ur</HI> shullde be so! <NOTE N="1" PLACE="foot">MS. That h<HI REND="italic">y</HI>t eu<HI REND="italic">ur</HI> so shullde be.</NOTE> <MILESTONE N="558"/></L>
+<L>Alas, þ<HI REND="italic">a</HI>t y was made a kynge,</L>
+<L>And sygħ wedded þe fayrest þyng, <NOTE PLACE="marg">and after∣wards wed∣ded the fairest thing on earth—that Jesus should send such a foul flend to come between us!"</NOTE></L>
+<L>That on erþe mygħt go! <MILESTONE N="561"/></L>
+<L>That eu<HI REND="italic">ur</HI> Jh<HI REND="italic">es</HI>u hy<HI REND="italic">m</HI>-self wolde sende</L>
+<L>Such a fowle, loþly fende,</L>
+<L>To come by-twene vs too!" <MILESTONE N="564"/></L>
+</LG>
+<LG N="48">
+<HEAD>(48)</HEAD>
+<L>When he sawe h<HI REND="italic">y</HI>t myȝt no bett<HI REND="italic">u</HI>r be, <NOTE PLACE="marg">When he saw that it might be no better, he made and sealed an∣other letter, commanding</NOTE></L>
+<L>Anoþ<HI REND="italic">ur</HI> lett<HI REND="italic">ur</HI> þen made he,</L>
+<L>And seled h<HI REND="italic">y</HI>t w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> h<HI REND="italic">y</HI>s sele. <MILESTONE N="567"/></L>
+<L>He co<HI REND="italic">m</HI>manded yn all<HI REND="italic">e</HI> þynge,</L>
+<L>To kepe wel<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t lady ȝynge, <NOTE PLACE="marg">that the lady be cared for until she was well, with folk to wait upon her.</NOTE></L>
+<L>Tyll<HI REND="italic">e</HI> she hadde her hele; <MILESTONE N="570"/></L>
+<L>Bothe gode men <HI REND="italic">and</HI> ylle,</L>
+<L>To serue her at he<ABBR>r</ABBR> wylle,</L>
+<L>Bothe yn wo and wele. <MILESTONE N="573"/></L>
+<L>He toke þ<HI REND="italic">y</HI>s lett<HI REND="italic">ur</HI> of h<HI REND="italic">y</HI>s honde, <NOTE PLACE="marg">The mes∣senger took the letter, and rode home through the same land, by the king's mother's castle.</NOTE></L>
+<L>And rode þorow þe same londe,</L>
+<L>By þe kyng<HI REND="italic">us</HI> modur castell<HI REND="italic">e.</HI> <MILESTONE N="576"/></L>
+</LG>
+<LG N="49">
+<PB N="19" REF="20"/>
+<HEAD>(49)</HEAD>
+<L>And þen he dwelled þ<HI REND="italic">er</HI> all<HI REND="italic">e</HI> nyȝt; <NOTE PLACE="marg">He stopped there all night, was well received, and knew of no treason. He was well at ease with food, ale, and wine, and lost his senses. And when he was asleep, the false queen sought and burned his letter; and made another, that the lady should be seized and led out of town,</NOTE></L>
+<L>He was resseyued <HI REND="italic">and</HI> rychely dyȝt,</L>
+<L>And wyste of no treson. <MILESTONE N="579"/></L>
+<L>He made hy<HI REND="italic">m</HI> well<HI REND="italic">e</HI> at ese <HI REND="italic">and</HI> fyne, <NOTE N="1" PLACE="foot"><HI REND="italic">Probably</HI> a-fyne, <HI REND="italic">as</HI> G. <HI REND="italic">suggests.</HI> Cf. <HI REND="italic">l.</HI> 913 <HI REND="italic">below.</HI></NOTE></L>
+<L>Bothe of brede, ale <HI REND="italic">and</HI> wyne,</L>
+<L>And þ<HI REND="italic">a</HI>t be-rafte hy<HI REND="italic">m</HI> h<HI REND="italic">y</HI>s reson. <MILESTONE N="582"/></L>
+<L>When he was on slepe browȝt,</L>
+<L>The false qwene h<HI REND="italic">y</HI>s lett<HI REND="italic">u</HI>r sowȝt; <NOTE N="2" PLACE="foot"><HI REND="italic">After</HI> t <HI REND="italic">in</HI> MS., <HI REND="italic">a small round blot, which does not seem to be intended for an</HI> e. G., <HI REND="italic">however, sowȝte.</HI></NOTE></L>
+<L>In-to þe fyre she kaste h<HI REND="italic">y</HI>t downe. <MILESTONE N="585"/></L>
+<L>A-noþ<HI REND="italic">ur</HI> lett<HI REND="italic">ur</HI> she lette make,</L>
+<L>That men sholde þe lady take,</L>
+<L>And lede her owt of towne. <MILESTONE N="588"/></L>
+</LG>
+<LG N="50">
+<HEAD>(50)</HEAD>
+<L>And putte her yn-to þe see, <NOTE PLACE="marg">and put into the sea, with her rich robe and her child, with no money</NOTE></L>
+<L>In þ<HI REND="italic">a</HI>t robe of ryche ble,</L>
+<L>The lytyll<HI REND="italic">e</HI> chylde he<ABBR>r</ABBR> wyth; <MILESTONE N="591"/></L>
+<L>And lette he<ABBR>r</ABBR> haue no spendyng, <MILESTONE UNIT="leaf" N="74, bk."/></L>
+<L>For no mete ny for drynke, <NOTE N="3" PLACE="foot">R. drynkyng.</NOTE> <NOTE PLACE="marg">for food or drink.</NOTE></L>
+<L>But lede he<ABBR>r</ABBR> out of þ<HI REND="italic">a</HI>t kygħ. <NOTE N="4" PLACE="foot">R. kyght.</NOTE> <MILESTONE N="594"/></L>
+<L>"Vpon̄ payn̄ of chylde <HI REND="italic">and</HI> wyfe, <NOTE PLACE="marg">"Upon pain of child and wife and your own life, grant her no pardon."</NOTE></L>
+<L>And also vpon̄ ȝo<HI REND="italic">ur</HI> owene lyfe,</L>
+<L>Lette he<ABBR>r</ABBR> haue no grygħt!" <MILESTONE N="597"/></L>
+<L>The messenger knewe no gyle, <NOTE PLACE="marg">The mes∣senger knew nothing of this guile as he rode home.</NOTE></L>
+<L>But rode hom mony a myle,</L>
+<L>By forest <HI REND="italic">and</HI> by frygħt. <MILESTONE N="600"/></L>
+</LG>
+<LG N="51">
+<HEAD>(51)</HEAD>
+<L>And when þe messenge<ABBR>r</ABBR> come home,</L>
+<L>The steward toke þe lett<HI REND="italic">ur</HI> sone, <NOTE PLACE="marg">When the steward read the letter, he signed and said, "Alas, this is a bad case!"</NOTE></L>
+<L>And by-gan to rede. <MILESTONE N="603"/></L>
+<L>Sore he sygħt and sayde, "Alas,</L>
+<L>Sērtes, þ<HI REND="italic">y</HI>s ys a fowle case,</L>
+<L>And a de[l]full<HI REND="italic">e</HI> dede!" <MILESTONE N="606"/></L>
+<L>And as he stode yn redyng,</L>
+<L>He fell<HI REND="italic">e</HI> downe yn swonynge, <NOTE N="5" PLACE="foot">R. swounynge.</NOTE> <NOTE PLACE="marg">He fell down in a swoon,</NOTE></L>
+<L>For sorow h<HI REND="italic">y</HI>s hert gan blede. <MILESTONE N="609"/></L>
+<L><PB N="20" REF="21"/>
+Ther was noþ<HI REND="italic">ur</HI> olde ny ȝynge, <NOTE PLACE="marg">and they all wept with him for that good woman.</NOTE></L>
+<L>That myȝte for-bere of wepynge,</L>
+<L>For þ<HI REND="italic">a</HI>t worþy vnþ<HI REND="italic">ur</HI> wede. <MILESTONE N="612"/></L>
+</LG>
+<LG N="52">
+<HEAD>(52)</HEAD>
+<L>The lady herde g<HI REND="italic">r</HI>et dele yn halle, <NOTE PLACE="marg">The lady, hearing the outcry, called to the steward, "What is this?</NOTE></L>
+<L>On þe steward gan she calle,</L>
+<L>And sayde, "What may þ<HI REND="italic">y</HI>s be? <MILESTONE N="615"/></L>
+<L>Ȝyf any-þyng be a-mys.</L>
+<L>Tell<HI REND="italic">e</HI> me what þ<HI REND="italic">a</HI>t h<HI REND="italic">y</HI>t ys, <NOTE PLACE="marg">Tell me what is wrong."</NOTE></L>
+<L>And lette not for me." <MILESTONE N="618"/></L>
+<L>Then sayde þe steward, verame<HI REND="italic">n</HI>t, <NOTE PLACE="marg">The steward said, "Here is a letter from my lord that grieves me." She read how she must into the sea.</NOTE></L>
+<L>"Lo, her, a lett<HI REND="italic">u</HI>r my lord hath sente,</L>
+<L>And þ<HI REND="italic">er</HI>-fore woo ys me!" <MILESTONE N="621"/></L>
+<L>She toke þe lett<HI REND="italic">ur and</HI> by-gan to rede;</L>
+<L>Then fonde she wryten all<HI REND="italic">e</HI> þe dede,</L>
+<L>How she moste yn-to þe see. <MILESTONE N="624"/></L>
+</LG>
+<LG N="53">
+<HEAD>(53)</HEAD>
+<L>"Be stylle, syr," sayde þe qwene, <NOTE PLACE="marg">The queen bade him be still,</NOTE></L>
+<L>"Lette syche mornynge <NOTE N="1" PLACE="foot">MS., o i<HI REND="italic">n</HI> mornynge <HI REND="italic">blotted.</HI></NOTE> bene;</L>
+<L>For me haue þ<HI REND="italic">o</HI>u no kare. <MILESTONE N="627"/></L>
+<L>Loke þ<HI REND="italic">o</HI>u be not shente,</L>
+<L>But do my lordes co<HI REND="italic">m</HI>māundeme<HI REND="italic">n</HI>t, <NOTE N="2" PLACE="foot">R. commaundement.</NOTE> <NOTE PLACE="marg">and do the command of his lord,</NOTE></L>
+<L>God for-bede þ<HI REND="italic">o</HI>u spare! <MILESTONE N="630"/></L>
+<L>For he weddede so porely, <NOTE PLACE="marg">who was ashamed of his "simple lady,"</NOTE></L>
+<L>On me, a sympull<HI REND="italic">e</HI> lady,</L>
+<L>He ys a-shamed sore. <MILESTONE N="633"/></L>
+<L>Grete well<HI REND="italic">e</HI> my lord fro me, <NOTE PLACE="marg">and yet would never again get one so gentle of blood.</NOTE></L>
+<L>So gentyll<HI REND="italic">e</HI> of blo(l)de <NOTE N="3" PLACE="foot">R. blode.</NOTE> yn C<HI REND="italic">r</HI>istyante,</L>
+<L>Gete he neu<HI REND="italic">ur</HI> more!" <MILESTONE N="636"/></L>
+</LG>
+<LG N="54">
+<HEAD>(54)</HEAD>
+<L>Then was þ<HI REND="italic">er</HI> sorow <HI REND="italic">and</HI> myche woo, <NOTE PLACE="marg">There was great weep∣ing and wringing of hands when the lady with her child entered the ship.</NOTE></L>
+<L>When þe lady to shype shulde go;</L>
+<L>They wepte <HI REND="italic">and</HI> wronge her hond[e]. <NOTE N="4" PLACE="foot">R. honde. MS hond<HI REND="italic">us.</HI></NOTE> <MILESTONE N="639"/></L>
+<L>The lady, þ<HI REND="italic">a</HI>t was meke <HI REND="italic">and</HI> mylde,</L>
+<L>In her arme she bar her chylde,</L>
+<L>And toke leue of þe londe. <MILESTONE N="642"/></L>
+<L><PB N="21" REF="22"/>
+When she wente yn-to þe see, <NOTE PLACE="marg">When in her rich robe she went into the sea,</NOTE></L>
+<L>In þ<HI REND="italic">a</HI>t robe of ryche ble,</L>
+<L>Men sowened on þe sonde. <MILESTONE N="645"/></L>
+<L>Sore þey wepte <HI REND="italic">and</HI> sayde, "Alas, <NOTE PLACE="marg">men wept and said this was a wicked deed.</NOTE></L>
+<L>Certys, þ<HI REND="italic">y</HI>s ys a wykked kase!</L>
+<L>Wo worth dedes wronge!" <MILESTONE N="648"/></L>
+</LG>
+<LG N="55">
+<HEAD>(55)</HEAD>
+<L>The lady <HI REND="italic">and</HI> þe lytyll<HI REND="italic">e</HI> chylde <NOTE PLACE="marg">The lady and child floated on with hard∣ship.</NOTE></L>
+<L>Fleted forth on þe wat<HI REND="italic">ur</HI> wylde,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> full<HI REND="italic">e</HI> harde happes. <MILESTONE N="651"/></L>
+<L>Her surkote þ<HI REND="italic">a</HI>t was large <HI REND="italic">and</HI> wyde, <NOTE PLACE="marg">She covered her face with her surcoat.</NOTE></L>
+<L>Ther-w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> her vysage she gan hyde,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þe hynþ<HI REND="italic">ur</HI> lappes; <MILESTONE N="654"/></L>
+<L>She was aferde of þe see, <NOTE PLACE="marg">In her fear, she lay down, with the child to her breast,</NOTE></L>
+<L>And layde her gruf vpon̄ a tre,</L>
+<L>The chylde to her pappes. <MILESTONE N="657"/></L>
+<L>The wawes, þ<HI REND="italic">a</HI>t were grete <HI REND="italic">and</HI> stro<HI REND="italic">n</HI>g, <NOTE PLACE="marg">while the great waves beat on the boat.</NOTE></L>
+<L>On þe bote faste þey þonge, <NOTE N="1" PLACE="foot">R. thronge.</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> mony vnsemely rappes. <MILESTONE N="660"/></L>
+</LG>
+<LG N="56">
+<HEAD>(56)</HEAD>
+<L>And when þe chyld gan to wepe, <NOTE PLACE="marg">When the child cried, she nursed it and sang it asleep, and said, "If ever I get to land,</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> sory herte she songe h<HI REND="italic">y</HI>t a-slepe,</L>
+<L>And putte þe pappe yn h<HI REND="italic">y</HI>s mowtħ, <MILESTONE N="663"/></L>
+<L>And sayde, "Myȝth y on<HI REND="italic">u</HI>s gete lond,</L>
+<L>Of þe wat<HI REND="italic">ur</HI> þ<HI REND="italic">a</HI>t ys so stro<HI REND="italic">n</HI>ge,</L>
+<L>By northe or by sowthe, <MILESTONE N="666"/></L>
+<L>Wele owth y to warye þe, see, <NOTE PLACE="marg">I ought to curse the sea that puts me to so much shame."</NOTE></L>
+<L>I haue myche shame yn the!"</L>
+<L>And eu<HI REND="italic">ur</HI> she lay <HI REND="italic">and</HI> growht. <NOTE N="2" PLACE="foot">G. <HI REND="italic">emends to</HI> on grōwf, <HI REND="italic">a reading suggested by Holthausen. See note on this line.</HI></NOTE> <MILESTONE N="669"/></L>
+<L>Then she made her prayer, <NOTE PLACE="marg">She prayed to Jesus and His mother.</NOTE></L>
+<L>To Ih<HI REND="italic">es</HI>u <HI REND="italic">and</HI> hys mod<HI REND="italic">ur</HI> dere,</L>
+<L>In all<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t she kowþe. <MILESTONE N="672"/></L>
+</LG>
+<LG N="57">
+<HEAD>(57)</HEAD>
+<L>Now þ<HI REND="italic">y</HI>s lady dwelled thore, <NOTE PLACE="marg">Thus the lady con∣tinued a seven-night and more in her sorrow.</NOTE></L>
+<L>A full<HI REND="italic">e</HI> seuene <NOTE N="3" PLACE="foot">MS., <HI REND="italic">a letter seems to have been erased before</HI> nyght.</NOTE> nygħt <HI REND="italic">and</HI> more,</L>
+<L>As h<HI REND="italic">y</HI>t was Goddys wylle; <MILESTONE N="675"/></L>
+<L><PB N="22" REF="23"/>
+W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> karefull<HI REND="italic">e</HI> herte <HI REND="italic">and</HI> sykyng sore,</L>
+<L>Such sorow was he<ABBR>r</ABBR> ȝarked ȝore,</L>
+<L>And she lay full<HI REND="italic">e</HI> stylle. <MILESTONE N="678"/></L>
+<L>She was dryuen toward Rome, <MILESTONE UNIT="leaf" N="75"/></L>
+<L>Thorow þe g<HI REND="italic">r</HI>ace of <NOTE N="1" PLACE="foot">MS., o <HI REND="italic">in</HI> of <HI REND="italic">is corrected from</HI> y.</NOTE> God yn trone, <NOTE PLACE="marg">By God's grace she was driven to∣wards Rome,</NOTE></L>
+<L>That all<HI REND="italic">e</HI> þyng may fulfylle. <MILESTONE N="681"/></L>
+<L>On þe see she was so harde be-stadde,</L>
+<L>For hu<HI REND="italic">n</HI>g<HI REND="italic">ur and</HI> thurste all<HI REND="italic">e</HI>-most madde, <NOTE PLACE="marg">almost mad with hunger and thirst.</NOTE></L>
+<L>Wo worth chawnses ylle! <MILESTONE N="684"/></L>
+</LG>
+<LG N="58">
+<HEAD>(58)</HEAD>
+<L>A marchaunte dw[el]led <NOTE N="2" PLACE="foot"><HI REND="italic">A hole in MS. where</HI> el <HI REND="italic">should be.</HI></NOTE> yn þ<HI REND="italic">a</HI>t cyte, <NOTE PLACE="marg">In that city dwelled a rich mer∣chant called Jurdan,</NOTE></L>
+<L>A ryche mon of golde <HI REND="italic">and</HI> fee,</L>
+<L>Iurdan was h<HI REND="italic">y</HI>s name. <MILESTONE N="687"/></L>
+<L>E(e)uery day wolde he <NOTE PLACE="marg">who every day went to take the air by the sea.</NOTE></L>
+<L>Go to playe hym by þe see,</L>
+<L>The eyer for to tane. <MILESTONE N="690"/></L>
+<L>He wente forth yn þ<HI REND="italic">a</HI>t tyde, <NOTE PLACE="marg">On this occasion,</NOTE></L>
+<L>Walkynge by þe see syþe,</L>
+<L>All<HI REND="italic">e</HI> hym-selfe a-lone. <MILESTONE N="693"/> <NOTE PLACE="marg">he went forth alone, and found a boat with a woe-begone fair lady.</NOTE></L>
+<L>A bote he fonde by þe bry<HI REND="italic">m</HI>me,</L>
+<L>And a fayr lady ther-ynne,</L>
+<L>That was rygħt wo-by-gone. <MILESTONE N="696"/></L>
+</LG>
+<LG N="59">
+<HEAD>(59)</HEAD>
+<L>The cloth on her shon so brytħ, <NOTE PLACE="marg">He was frightened</NOTE></L>
+<L>He was a-ferde of þ<HI REND="italic">a</HI>t sygħt,</L>
+<L>For glysteryng of þ<HI REND="italic">a</HI>t wede; <MILESTONE N="699"/> <NOTE PLACE="marg">by the glitter of the bright cloth, and thought she was no earthly being.</NOTE></L>
+<L>And yn h<HI REND="italic">y</HI>s herte he þowȝth rygħt,</L>
+<L>That she was non̄ erdyly wygħt,</L>
+<L>He sawe neu<HI REND="italic">ur</HI> non s(h)ucħ yn leede. <MILESTONE N="702"/></L>
+<L>He sayde, "What hette ȝe, fayr ladye?" <NOTE PLACE="marg">He asked her name, and she said "Egarye."</NOTE></L>
+<L>"Lord," she sayde, "y hette Egarye,</L>
+<L>That lye her <NOTE N="3" PLACE="foot">R. here.</NOTE> yn drede." <MILESTONE N="705"/></L>
+<L>Vp he toke þ<HI REND="italic">a</HI>t fayre ladye, <NOTE PLACE="marg">Then he took home the fair lady and her child.</NOTE></L>
+<L>And þe ȝonge chylde her by,</L>
+<L>And hom he gan hem lede. <MILESTONE N="708"/></L>
+</LG>
+<LG N="60">
+<PB N="23" REF="24"/>
+<HEAD>(60)</HEAD>
+<L>When he come to h<HI REND="italic">y</HI>s byggynge, <NOTE PLACE="marg">When he came home he welcomed the lady,</NOTE></L>
+<L>He welcomed fayr þ<HI REND="italic">a</HI>t lady ȝynge,</L>
+<L>That was fayr and brygħt; <MILESTONE N="711"/></L>
+<L>And badde h<HI REND="italic">y</HI>s wyf yn all<HI REND="italic">e</HI> þynge, <NOTE PLACE="marg">and bade his wife bring her meat and drink.</NOTE></L>
+<L>Mete <HI REND="italic">and</HI> drynke for to brynge,</L>
+<L>To þe lady rygħt. <MILESTONE N="714"/></L>
+<L>"What þ<HI REND="italic">a</HI>t she wyll<HI REND="italic">e</HI> craue, <NOTE PLACE="marg">"Look to it that she has what she would like;</NOTE></L>
+<L>And he<ABBR>r</ABBR> mowth wyll<HI REND="italic">e</HI> h<HI REND="italic">y</HI>t haue,</L>
+<L>Loke h<HI REND="italic">y</HI>t be redy dygħt. <MILESTONE N="717"/></L>
+<L>She hatħ so longe meteles be, <NOTE PLACE="marg">and comfort her for the privation she has endured."</NOTE></L>
+<L>That me þynketh grette pyte;</L>
+<L>Conforte her ȝyf þ<HI REND="italic">o</HI>u mygħt." <MILESTONE N="720"/></L>
+</LG>
+<LG N="61">
+<HEAD>(61)</HEAD>
+<L>Now þe lady dwelles ther, <NOTE PLACE="marg">Now the lady dwells there in comfort,</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> alle mete þ<HI REND="italic">a</HI>t gode were; <MILESTONE N="723"/></L>
+<L>She hedde at her wylle.</L>
+<L>She was curteys yn all<HI REND="italic">e</HI> þyng, <NOTE PLACE="marg">and by her courtesy wins the love of all.</NOTE></L>
+<L>Bothe to olde <HI REND="italic">and</HI> to ȝynge;</L>
+<L>Her loued bothe gode <HI REND="italic">and</HI> ylle. <MILESTONE N="726"/></L>
+<L>The chylde by-gan for to þryfe, <NOTE PLACE="marg">The child throve, and became the fairest child alive.</NOTE></L>
+<L>He wax þe fayrest chyld onlyfe,</L>
+<L>Whyte as flo<HI REND="italic">ur</HI> on hylle; <MILESTONE N="729"/></L>
+<L>And she s[h]ewed <NOTE N="1" PLACE="foot">MS. <HI REND="italic">has dots under</HI> h, <HI REND="italic">seemingly to show erasure.</HI></NOTE> sylke werk yn bo<HI REND="italic">ur,</HI> <NOTE PLACE="marg">And while she sewed silk-work, and taught her son, she still mourned in secret.</NOTE></L>
+<L>And tawȝte her sone nortowre;</L>
+<L>But euyr she mornede stylle. <MILESTONE N="732"/></L>
+</LG>
+<LG N="62">
+<HEAD>(62)</HEAD>
+<L>When þe chylde was seuen ȝer olde, <NOTE PLACE="marg">When the child was seven years old, he was clever, and bold, and well-made,</NOTE></L>
+<L>He was bothe wyse <HI REND="italic">and</HI> bolde,</L>
+<L>And wele made of flesħ <HI REND="italic">and</HI> bone; <MILESTONE N="735"/></L>
+<L>He was worþy vnþ<HI REND="italic">ur</HI> wede,</L>
+<L><HI REND="italic">And</HI> rygħt well<HI REND="italic">e</HI> kowþe p<HI REND="italic">r</HI>ike a stede, <NOTE PLACE="marg">and could manage a horse.</NOTE></L>
+<L>So curtays a chylde was none. <MILESTONE N="738"/> <NOTE PLACE="marg">Everybody loved him for his courtesy.</NOTE></L>
+<L>All<HI REND="italic">e</HI> men louede Segramowre,</L>
+<L>Botħe yn halle <HI REND="italic">and</HI> yn bowre,</L>
+<L>Whe<ABBR>r</ABBR>-so-eu<HI REND="italic">ur</HI> he gan gone. <MILESTONE N="741"/></L>
+<L><PB N="24" REF="25"/>
+Leue we at þe lady, clere of vyce, <NOTE PLACE="marg">Now let us leave the lady and speak of the king of Galys, when he came home.</NOTE></L>
+<L>And speke of the kyng of Galys,</L>
+<L>Fro þe sege when he come home. <MILESTONE N="744"/></L>
+</LG>
+<LG N="63">
+<HEAD>(63)</HEAD>
+<L>Now þe sege broken ys, <NOTE PLACE="marg">The siege is broken, and the king comes home in triumph,</NOTE></L>
+<L>The kyng come home to Galys,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> mykyll<HI REND="italic">e</HI> myrthe <HI REND="italic">and</HI> p<HI REND="italic">r</HI>ide. <MILESTONE N="747"/></L>
+<L>Dukes <HI REND="italic">and</HI> erles of ryche asyce, <NOTE PLACE="marg">with great lords riding by his side.</NOTE></L>
+<L>Barones <HI REND="italic">and</HI> knyȝtes of mykyll<HI REND="italic">e</HI> pryse,</L>
+<L>Come rydynge be hys syde. <MILESTONE N="750"/></L>
+<L>Syr K[a]dore <NOTE N="1" PLACE="foot">MS. Kodore.</NOTE>, h<HI REND="italic">y</HI>s steward þa<HI REND="italic">n</HI>ne, <NOTE PLACE="marg">Sir Kadore rode to meet him,</NOTE></L>
+<L>A-ȝeyn hy<HI REND="italic">m</HI> rode w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> mony a man,</L>
+<L>As faste as he mygħt ryde; <MILESTONE N="753"/></L>
+<L>He tolde þe kyng a-ventowres, <NOTE PLACE="marg">and told him the news.</NOTE></L>
+<L>Of h<HI REND="italic">y</HI>s halles <HI REND="italic">and</HI> h<HI REND="italic">y</HI>s bowres,</L>
+<L>And of h<HI REND="italic">y</HI>s londys wyde. <MILESTONE N="756"/></L>
+</LG>
+<LG N="64">
+<HEAD>(64)</HEAD>
+<L>The kyng sayde, "By Goddys name, <NOTE PLACE="marg">The king blamed him for not speak∣ing first of Egaré,</NOTE></L>
+<L>Syr Kadore, þ<HI REND="italic">o</HI>u art to blame,</L>
+<L>For þy fyrst tellynge! <MILESTONE N="759"/></L>
+<L>Thow sholdest fyrst haue tolde me</L>
+<L>Of my lady Egare,</L>
+<L>I loue most of all<HI REND="italic">e</HI> þyng!" <MILESTONE N="762"/> <NOTE PLACE="marg">whom he loved best. Then the steward was grieved, and cried: "Are ye no true king?</NOTE></L>
+<L>Then was þe stewardes herte wo,</L>
+<L>And sayde, "Lorde, why sayst þ<HI REND="italic">o</HI>u so?</L>
+<L>Art not þ<HI REND="italic">o</HI>u a trewe kynge? <MILESTONE N="765"/></L>
+<L>Lo her, þe lett<HI REND="italic">ur</HI> ȝe sente me, <MILESTONE UNIT="leaf" N="75, bk."/></L>
+<L>Ȝowr owene self þe soþe may se; <NOTE PLACE="marg">Here is your letter. I have obeyed you."</NOTE></L>
+<L>I haue don ȝo<HI REND="italic">ur</HI> byddynge." <MILESTONE N="768"/></L>
+</LG>
+<LG N="65">
+<HEAD>(65)</HEAD>
+<L>The kyng toke þe lett<HI REND="italic">ur</HI> to rede, <NOTE PLACE="marg">The king read the letter, and turned pale, crying, "Alas, that ever I was born!</NOTE></L>
+<L>And when he sawe þ<HI REND="italic">a</HI>t ylke dede,</L>
+<L>He wax all<HI REND="italic">e</HI> pale <HI REND="italic">and</HI> wanne. <MILESTONE N="771"/></L>
+<L>Sore he g<HI REND="italic">r</HI>ette <HI REND="italic">and</HI> sayde, "Alas,</L>
+<L>That eu<HI REND="italic">ur</HI> born y was,</L>
+<L>Or eu<HI REND="italic">ur</HI> was made manne! <MILESTONE N="774"/></L>
+<L><PB N="25" REF="26"/>
+Syr Kadore, so mot y the,</L>
+<L>Thys lett<HI REND="italic">ur</HI> come neu<HI REND="italic">ur</HI> fro me, <NOTE PLACE="marg">This letter never came from me."</NOTE></L>
+<L>I telle <NOTE N="1" PLACE="foot">R. tell.</NOTE> þe her a-none!" <MILESTONE N="777"/></L>
+<L>Bothe þey wepte <HI REND="italic">and</HI> ȝaf hem ylle.</L>
+<L>"Alas," he sayde, "saf Goddys wylle!" <NOTE PLACE="marg">They lament∣ed together, and then swooned.</NOTE></L>
+<L>And both þe[y] sowened þen. <MILESTONE N="780"/></L>
+</LG>
+<LG N="66">
+<HEAD>(66)</HEAD>
+<L>Grete lordes stode by, <NOTE PLACE="marg">The great lords took up the king;</NOTE></L>
+<L>And toke vp þe kyng hastyly,</L>
+<L>Of hem was gret pyte; <MILESTONE N="783"/></L>
+<L>And when þey both keu<HI REND="italic">er</HI>ed were, <NOTE PLACE="marg">and when the two were recovered, the king took the letter</NOTE></L>
+<L>The kyng toke hy<HI REND="italic">m</HI> þe letter þer,</L>
+<L>Of þe heddys þre. <MILESTONE N="786"/></L>
+<L>"A, lord," he sayde, "be Godd<HI REND="italic">us</HI> g<HI REND="italic">r</HI>ace, <NOTE PLACE="marg">and said that he could not understand it.</NOTE></L>
+<L>I sawe neu<HI REND="italic">ur</HI> þ<HI REND="italic">y</HI>s lett<HI REND="italic">ur</HI> yn place!</L>
+<L>Alas! how may þ<HI REND="italic">y</HI>s be?" <MILESTONE N="789"/></L>
+<L>Aft<HI REND="italic">ur</HI> þe messenge<ABBR>r</ABBR> þer þey sente, <NOTE PLACE="marg">They sent for the messen∣ger and asked how he went. "Lord, by your mo∣ther's castle."</NOTE></L>
+<L>The kyng askede what way he we<HI REND="italic">n</HI>t: <NOTE N="2" PLACE="foot">R. wente.</NOTE></L>
+<L>"Lor, <NOTE N="3" PLACE="foot">R. Lord.</NOTE> be ȝo<HI REND="italic">ur</HI> modur fre." <MILESTONE N="792"/></L>
+</LG>
+<LG N="67">
+<HEAD>(67)</HEAD>
+<L>"Alas!" þen sayde þe kynge, <NOTE PLACE="marg">"Alas," said the king, "was it my mother then?</NOTE></L>
+<L>"Wheþ<HI REND="italic">ur</HI> my mod<HI REND="italic">ur</HI> we<ABBR>r</ABBR> so vnhende,</L>
+<L>To make þys treson? <MILESTONE N="795"/></L>
+<L>By my krowne, she shall<HI REND="italic">e</HI> be brent, <NOTE PLACE="marg">She shall be burned with∣out trial!"</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI>-owten any oþ<HI REND="italic">ur</HI> jugement,</L>
+<L>That thenketh me best reson!" <MILESTONE N="798"/></L>
+<L>Grete lordes toke hem be-twene, <NOTE PLACE="marg">Great lords decided to exile the queen and attaint her.</NOTE></L>
+<L>That þey wolde exyle þe qwene,</L>
+<L>And be-refe he<ABBR>r</ABBR> hyr renowne. <MILESTONE N="801"/></L>
+<L>Thus þey exiled þe false qwene, <NOTE PLACE="marg">Thus they did, and deprived her of her property.</NOTE></L>
+<L>And by-rafte he<ABBR>r</ABBR> hyr lyfloþe clene,</L>
+<L>Castell<HI REND="italic">e,</HI> <NOTE N="4" PLACE="foot">MS., <HI REND="italic">between</HI> Castell<HI REND="italic">e and</HI> towre <HI REND="italic">are the words</HI> town &amp; <HI REND="italic">with a dotted line beneath them to signify erasure.</HI></NOTE> towre <HI REND="italic">and</HI> towne. <MILESTONE N="804"/></L>
+</LG>
+<LG N="68">
+<HEAD>(68)</HEAD>
+<L>When she was fled ou<HI REND="italic">ur</HI> þe see fome, <NOTE PLACE="marg">When she had fled over∣sea, the king remained at home, sor∣rowing</NOTE></L>
+<L>The nobull<HI REND="italic">e</HI> kyng dwelled at hom̄,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> full<HI REND="italic">e</HI> heuy chere; <MILESTONE N="807"/></L>
+<L><PB N="26" REF="27"/>
+W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> karefull<HI REND="italic">e</HI> hert <HI REND="italic">and</HI> drury mone,</L>
+<L>Sykynges made he many on,</L>
+<L>For Egarye þe clere. <MILESTONE N="810"/> <NOTE PLACE="marg">for Egaré.</NOTE></L>
+<L>And when he sawe chyldere<HI REND="italic">n</HI> play, <NOTE PLACE="marg">And when he saw children play, he wept for his son.</NOTE></L>
+<L>He wepte <HI REND="italic">and</HI> sayde, "Well<HI REND="italic">e</HI>-a-wey,</L>
+<L>For my sone so dere!" <MILESTONE N="813"/></L>
+<L>Such lyf <NOTE N="1" PLACE="foot">MS., <HI REND="italic">after</HI> lyf <HI REND="italic">a hole, covering space enough for a letter, perhaps</HI> e.</NOTE> he lyued mony a day, <NOTE PLACE="marg">Thus he lived</NOTE></L>
+<L>That no mon hy<HI REND="italic">m</HI> stynte may,</L>
+<L>Fully seuen yere. <MILESTONE N="816"/> <NOTE PLACE="marg">for seven years,</NOTE></L>
+</LG>
+<LG N="69">
+<HEAD>(69)</HEAD>
+<L>Tyll<HI REND="italic">e</HI> a thowght yn hys herte come, <NOTE PLACE="marg">till he re∣membered how his lady was drowned for his sake,</NOTE></L>
+<L>How h<HI REND="italic">y</HI>s lady, whyte as fome,</L>
+<L>Was drowned for h<HI REND="italic">y</HI>s sake. <MILESTONE N="819"/></L>
+<L>"Thorow þe g<HI REND="italic">r</HI>ace of God yn trone, <NOTE PLACE="marg">and he de∣cided to go to Rome for penance.</NOTE></L>
+<L>I woll<HI REND="italic">e</HI> to þe pope of Rome,</L>
+<L>My penans for to take!" <MILESTONE N="822"/></L>
+<L>He lette ordeyne shypus fele, <NOTE PLACE="marg">He prepared many ships and filled them with goods for his men,</NOTE></L>
+<L>And fylled he<HI REND="italic">m</HI> full<HI REND="italic">e</HI> of wordes wele,</L>
+<L>Hys men mery w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> to <NOTE N="2" PLACE="foot">MS. <HI REND="italic">after</HI> to, be <HI REND="italic">crossed out.</HI></NOTE> make. <MILESTONE N="825"/></L>
+<L>Dolys he lette dyȝth <HI REND="italic">and</HI> delle, <NOTE PLACE="marg">gave aims for his soul's sake,</NOTE></L>
+<L>For to wy<HI REND="italic">n</HI>nen hy<HI REND="italic">m</HI> sowles hele,</L>
+<L>To þe shyp he toke þe gate. <MILESTONE N="828"/> <NOTE PLACE="marg">and went aboard.</NOTE></L>
+</LG>
+<LG N="70">
+<HEAD>(70)</HEAD>
+<L>Shypmen, <NOTE N="3" PLACE="foot">MS., h <HI REND="italic">is written over</HI> y, <HI REND="italic">in</HI> Shypmen.</NOTE> þ<HI REND="italic">a</HI>t we<ABBR>r</ABBR> so mykyll<HI REND="italic">e</HI> of p<HI REND="italic">r</HI>ice, <NOTE PLACE="marg">The sailors made ready,</NOTE></L>
+<L>Dygħt he<ABBR>r</ABBR> takull<HI REND="italic">e</HI> on ryche a-cyse,</L>
+<L>That was fayr <HI REND="italic">and</HI> fre. <MILESTONE N="831"/></L>
+<L>They drowȝ vp sayl <HI REND="italic">and</HI> leyd out ore, <NOTE PLACE="marg">drew up sail and laid out oar, with a fair wind and fine weather.</NOTE></L>
+<L>The wynde stode as he<ABBR>r</ABBR> lust wore,</L>
+<L>The weþur was lyþe on le. <MILESTONE N="834"/></L>
+<L>They sayled oue<ABBR>r</ABBR> þe salt fome, <NOTE PLACE="marg">They sailed over the salt foam, by God's grace.</NOTE></L>
+<L>Thorow þe g<HI REND="italic">r</HI>ace of God in trone,</L>
+<L>That most ys of powste. <MILESTONE N="837"/></L>
+<L>To þ<HI REND="italic">a</HI>t <NOTE N="4" PLACE="foot">R. the.</NOTE> cyte when þe[y] come, <NOTE PLACE="marg">He took his inn at the house of the burgess with whom Emaré dwelled.</NOTE></L>
+<L>At þe burgeys hous h<HI REND="italic">y</HI>s yn he nome, <NOTE N="5" PLACE="foot"><HI REND="italic">L.</HI> 837 <HI REND="italic">follows in MS., but is crossed out and underlined.</HI></NOTE></L>
+<L>Ther-as woned Emarye. <NOTE N="6" PLACE="foot">G. Emarē.</NOTE> <MILESTONE N="840"/></L>
+</LG>
+<LG N="71">
+<PB N="27" REF="28"/>
+<HEAD>(71)</HEAD>
+<L>Emare called he[r] sone, <NOTE PLACE="marg">Emaré called her son,</NOTE></L>
+<L>Hastely to here come,</L>
+<L>Wyth-oute ony lettynge, <MILESTONE N="843"/></L>
+<L><HI REND="italic">And</HI> sayde, "My dere sone so fre, <NOTE PLACE="marg">and bade him do her bid∣ding.</NOTE></L>
+<L>Do a lytull<HI REND="italic">e</HI> aftur me,</L>
+<L>And þ<HI REND="italic">o</HI>u sha[l]t <NOTE N="1" PLACE="foot">R. shalt.</NOTE> haue my blessynge. <MILESTONE N="846"/></L>
+<L>To-morowe þ<HI REND="italic">o</HI>u shall<HI REND="italic">e</HI> serue yn halle, <NOTE PLACE="marg">On the mor∣row he should serve in the hall before the king.</NOTE></L>
+<L>In a kurtyll<HI REND="italic">e</HI> of ryche palle,</L>
+<L>By-fore þ<HI REND="italic">y</HI>s nobull<HI REND="italic">e</HI> kyng; <MILESTONE N="849"/></L>
+<L>Loke, sone, so curtays <NOTE N="2" PLACE="foot">R. curteys.</NOTE> þ<HI REND="italic">o</HI>u be, <MILESTONE UNIT="leaf" N="76"/></L>
+<L>That no mon fynde chalange to þe, <NOTE PLACE="marg">so courte∣ously that no man could take exception to anything.</NOTE></L>
+<L>In no manere þynge! <MILESTONE N="852"/></L>
+</LG>
+<LG N="72">
+<HEAD>(72)</HEAD>
+<L>When þe kyng ys serued of spycerye, <NOTE PLACE="marg">"When the king is served with spicery, kneel down and take his hand,</NOTE></L>
+<L>Knele þ<HI REND="italic">o</HI>u downe hastylye,</L>
+<L><HI REND="italic">And</HI> take h<HI REND="italic">y</HI>s hond yn þyn; <MILESTONE N="855"/></L>
+<L>And when þ<HI REND="italic">o</HI>u hast so done,</L>
+<L>Take þe kuppe of golde sone,</L>
+<L>And serue hym of þe wyne. <MILESTONE N="858"/> <NOTE PLACE="marg">and offer him wine, and come tell me what he says."</NOTE></L>
+<L>And what þ<HI REND="italic">a</HI>t he speketh to þe,</L>
+<L>Cu<HI REND="italic">m</HI> a-non̄ and tell<HI REND="italic">e</HI> me,</L>
+<L>On Godd<HI REND="italic">us</HI> blessyng <HI REND="italic">and</HI> myne!" <MILESTONE N="861"/></L>
+<L>The chylde wente yn-to þe hall<HI REND="italic">e,</HI> <NOTE PLACE="marg">The child went into the hall among the great lords.</NOTE></L>
+<L>Among <NOTE N="3" PLACE="foot">R. Amonge.</NOTE> þe lordes g<HI REND="italic">r</HI>ete <HI REND="italic">and</HI> small<HI REND="italic">e,</HI></L>
+<L>That lufsu<HI REND="italic">m</HI>me <NOTE N="4" PLACE="foot">R. lufsume.</NOTE> we<ABBR>r</ABBR> vnþ<HI REND="italic">ur</HI> lyne. <MILESTONE N="864"/></L>
+</LG>
+<LG N="73">
+<HEAD>(73)</HEAD>
+<L>Then þe lordes þ<HI REND="italic">a</HI>t we<ABBR>r</ABBR> grete, <NOTE PLACE="marg">They washed and went to meat, and minstreis brought in the courses. The child served so courteously as to win the love and admiration of all.</NOTE></L>
+<L>Wysh <HI REND="italic">and</HI> wente to he<ABBR>r</ABBR> mete,</L>
+<L>Men[s]trelles browȝt yn þe kowrs. <MILESTONE N="867"/></L>
+<L>The chylde he<HI REND="italic">m</HI> serued so curteysly,</L>
+<L>All<HI REND="italic">e</HI> hy<HI REND="italic">m</HI> loued þ<HI REND="italic">a</HI>t hy<HI REND="italic">m</HI> sy,</L>
+<L>And spake hy<HI REND="italic">m</HI> gret honowres. <MILESTONE N="870"/></L>
+<L>The<HI REND="italic">n</HI> sayde all<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t loked hy<HI REND="italic">m</HI> vpon̄,</L>
+<L>So curteys a chyld sawe þey neu<HI REND="italic">ur</HI> non̄,</L>
+<L>In halle ny yn bowres. <MILESTONE N="873"/></L>
+<L><PB N="28" REF="29"/>
+The kynge sayde to hym yn game, <NOTE PLACE="marg">The king asked his name, and he said, "Se∣gramowres."</NOTE></L>
+<L>"Swete sone, what ys þy name?"</L>
+<L>"Lorde," <NOTE N="1" PLACE="foot">R. Lord.</NOTE> (he seyd) "y hyȝth Seg<HI REND="italic">r</HI>amowres." <MILESTONE N="876"/></L>
+</LG>
+<LG N="74">
+<HEAD>(74)</HEAD>
+<L>Then þ<HI REND="italic">a</HI>t nobull<HI REND="italic">e</HI> kyng <NOTE PLACE="marg">Then the king sighed,</NOTE></L>
+<L>Toke vp a grete sykynge,</L>
+<L>For h<HI REND="italic">y</HI>s sone hyght<HI REND="italic">e</HI> so; <MILESTONE N="879"/> <NOTE PLACE="marg">for this was his son's name.</NOTE></L>
+<L>Certys, w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>-owten lesynge,</L>
+<L>The teres out of h<HI REND="italic">y</HI>s yen gan wryng; <NOTE PLACE="marg">He wept and was sorrow∣ful;</NOTE></L>
+<L>In herte he was full<HI REND="italic">e</HI> woo. <MILESTONE N="882"/></L>
+<L>Neue<ABBR>r</ABBR>-þe-lese, he lette be, <NOTE PLACE="marg">but still he "let, be," as he looked at the child and loved him. But he asked the burgess, "Is this thy son?" and was answer∣ed, "Yes."</NOTE></L>
+<L>And loked on þe chylde so fre,</L>
+<L>And mykell<HI REND="italic">e</HI> he louede hym þoo. <MILESTONE N="885"/></L>
+<L>The ky<HI REND="italic">n</HI>g sayde to þe burgeys a-non̄,</L>
+<L>"Swete syr, ys þ<HI REND="italic">y</HI>s þy sone?"</L>
+<L>The burgeys sayde, "Ȝoo." <MILESTONE N="888"/></L>
+</LG>
+<LG N="75">
+<HEAD>(75)</HEAD>
+<L>Then þe lordes þ<HI REND="italic">a</HI>t we<ABBR>r</ABBR> grete, <NOTE PLACE="marg">Then the great lords washed after meat before the spicery.</NOTE></L>
+<L>W(h)esshen a-ȝeyn aftyr mete,</L>
+<L>And þen come spycerye. <MILESTONE N="891"/></L>
+<L>The chyld þ<HI REND="italic">a</HI>t was of chere swete, <NOTE PLACE="marg">The child kneeled,</NOTE></L>
+<L>On h<HI REND="italic">y</HI>s kne downe he sete,</L>
+<L>And serued hy<HI REND="italic">m</HI> curteyslye. <MILESTONE N="894"/> <NOTE PLACE="marg">and served the king so well that he called the burgess, and said: "Give me that little boy, and I will make him a great lord."</NOTE></L>
+<L>The kynge called þe b<HI REND="italic">ur</HI>geys hy<HI REND="italic">m</HI> tyll<HI REND="italic">e,</HI></L>
+<L>And sayde, "Syr, yf h<HI REND="italic">y</HI>t be þy wyll<HI REND="italic">e,</HI></L>
+<L>Ȝyf me þ<HI REND="italic">y</HI>s lytyll<HI REND="italic">e</HI> <NOTE N="2" PLACE="foot">MS., <HI REND="italic">after</HI> lytyll<HI REND="italic">e,</HI> chylde <HI REND="italic">is written and crossed out.</HI></NOTE> body! <MILESTONE N="897"/></L>
+<L>I shall<HI REND="italic">e</HI> h<HI REND="italic">y</HI>m make lorde of town <HI REND="italic">and</HI> towr<HI REND="italic">e,</HI></L>
+<L>Of hye halles <HI REND="italic">and</HI> of bowre,</L>
+<L>I loue hym specyally." <MILESTONE N="900"/></L>
+</LG>
+<LG N="76">
+<HEAD>(76)</HEAD>
+<L>Whe<HI REND="italic">n</HI> he had serued þe kyng at wylle, <NOTE PLACE="marg">When he had served the king, he went and told his mother what had hap∣pened. "When he shall go to chamber, take his hand, for he is thy father,</NOTE></L>
+<L>Fayr he wente h<HI REND="italic">y</HI>s modyr tyll<HI REND="italic">e,</HI></L>
+<L>And tellys her how hyt ys. <MILESTONE N="903"/></L>
+<L>"Soone whe<HI REND="italic">n</HI> he shall<HI REND="italic">e</HI> to chamb<HI REND="italic">u</HI>r wende,</L>
+<L>Take h<HI REND="italic">y</HI>s hond at þe grete ende,</L>
+<L>For he ys þy fadur, y-wysse; <MILESTONE N="906"/></L>
+<L><PB N="29" REF="30"/>
+And byd hy<HI REND="italic">m</HI> come speke w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> Emare, <NOTE PLACE="marg">and bid him come speak with Emaré, who called herself Egaré in Galys." Then the child re∣turned to his serving.</NOTE></L>
+<L>That changed he<ABBR>r</ABBR> name to Egare,</L>
+<L>In the londe <NOTE N="1" PLACE="foot">R. lond.</NOTE> of Galys!" <MILESTONE N="909"/></L>
+<L>The chylde wente a-ȝeyn to halle,</L>
+<L>A-monge þe g<HI REND="italic">r</HI>ete lordes alle,</L>
+<L>And serued on ryche a-syse. <MILESTONE N="912"/></L>
+</LG>
+<LG N="77">
+<HEAD>(77)</HEAD>
+<L>Whe<HI REND="italic">n</HI> þey we<ABBR>r</ABBR> well<HI REND="italic">e</HI> at ese, a-fyne, <NOTE PLACE="marg">When they were satisfied,</NOTE></L>
+<L>Bothe of brede, ale <HI REND="italic">and</HI> wyne,</L>
+<L>They rose vp, more <HI REND="italic">and</HI> myn. <MILESTONE N="915"/> <NOTE PLACE="marg">they rose up;</NOTE></L>
+<L>Whe<HI REND="italic">n</HI> þe kyng shulde to chamb<HI REND="italic">ur</HI> wende, <NOTE PLACE="marg">and when the king was going to his chamber, the child led him in,</NOTE></L>
+<L>He toke h<HI REND="italic">y</HI>s hond at þe grete ende,</L>
+<L>And fayre he helpe hym yn; <MILESTONE N="918"/></L>
+<L>And sayde, "Syr, yf ȝ<HI REND="italic">our</HI> wyll<HI REND="italic">e</HI> be,</L>
+<L>Take me ȝo<HI REND="italic">ur</HI> honde <HI REND="italic">and</HI> go w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> me,</L>
+<L>For y am of ȝowr kynne! <MILESTONE N="921"/></L>
+<L>Ȝe shull<HI REND="italic">e</HI> come speke w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> Emare, <NOTE PLACE="marg">and gave him Emaré's message.</NOTE></L>
+<L>That chau<HI REND="italic">n</HI>ged <NOTE N="2" PLACE="foot">R. changed.</NOTE> he<ABBR>r</ABBR> nome to Egare,</L>
+<L>That berys þe whyte chy<HI REND="italic">n</HI>ne!" <MILESTONE N="924"/></L>
+</LG>
+<LG N="78">
+<HEAD>(78)</HEAD>
+<L>The kyng yn herte was full<HI REND="italic">e</HI> woo, <NOTE PLACE="marg">The king was sorrowful when he heard of her who had been his queen; but although he said this was impos∣sible,</NOTE></L>
+<L>Whe<HI REND="italic">n</HI> he herd mynge þo,</L>
+<L>Of her þ<HI REND="italic">a</HI>t was h<HI REND="italic">y</HI>s qwene; <MILESTONE N="927"/></L>
+<L>And sayde, "Sone, why sayst þ<HI REND="italic">o</HI>u so?</L>
+<L>Whe<ABBR>r</ABBR>-to vmb<HI REND="italic">r</HI>aydest þ<HI REND="italic">o</HI>u me of my wo?</L>
+<L>That may neue<ABBR>r</ABBR> bene!" <MILESTONE N="930"/></L>
+<L>Neu<HI REND="italic">ur</HI>þeles w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hym he wente; <NOTE PLACE="marg">he went with the child, and the lady came to meet him in her bright robe.</NOTE></L>
+<L>A-ȝeyn hem come þe lady gent,</L>
+<L>In þe robe brygħt <HI REND="italic">and</HI> shene. <MILESTONE N="933"/></L>
+<L>He toke he<ABBR>r</ABBR> yn h<HI REND="italic">y</HI>s armes two, <NOTE PLACE="marg">He took her in his arms, and they both swooned for joy and love.</NOTE></L>
+<L>For joye þey sowened, both to,</L>
+<L>Such loue was hem by-twene. <MILESTONE N="936"/></L>
+</LG>
+<LG N="79">
+<HEAD>(79)</HEAD>
+<L>A joyfull metyng was þ<HI REND="italic">er</HI> þore, <NOTE PLACE="marg">There was great</NOTE></L>
+<L>Of þ<HI REND="italic">a</HI>t lady, goodly vnþ<HI REND="italic">ur</HI> gore,</L>
+<L>Frely in armes to folde. <MILESTONE N="939"/></L>
+<L><PB N="30" REF="31"/>
+Lorde! gladde was Syr Kadore, <NOTE PLACE="marg">rejoicing over</NOTE></L>
+<L>And oþ<HI REND="italic">ur</HI> lordes þat þe<ABBR>r</ABBR> wore,</L>
+<L>Semely to be-holde, <MILESTONE N="942"/></L>
+<L>Of þe lady þ<HI REND="italic">a</HI>t wa[s] <NOTE N="1" PLACE="foot">MS. wat.</NOTE> put yn þe see, <NOTE PLACE="marg">the recovery of the lady that had been put into the sea.</NOTE></L>
+<L>Thorow g<HI REND="italic">r</HI>ace of God in Trinite,</L>
+<L>Þat was keuered of cares colde. <MILESTONE N="945"/></L>
+<L>Leue we at þe lady whyte as flo<HI REND="italic">ur,</HI> <MILESTONE UNIT="leaf" N="76, bk."/></L>
+<L>And speke we of (he<ABBR>r</ABBR> fad<HI REND="italic">ur)</HI> þe e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur,</HI> <NOTE PLACE="marg">Now speak we of the emperor,</NOTE></L>
+<L>That fyrste þ<HI REND="italic">ys</HI> tale of y-tolde. <MILESTONE N="948"/></L>
+</LG>
+<LG N="80">
+<HEAD>(80)</HEAD>
+<L>The emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> her fadyr þen <NOTE PLACE="marg">who was now old,</NOTE></L>
+<L>Wa[s] <NOTE N="2" PLACE="foot">MS. Wax.</NOTE> woxen an olde man,</L>
+<L>And þowȝt on hys synne; <MILESTONE N="951"/></L>
+<L>Of hys þowȝtyr Emare, <NOTE PLACE="marg">and remem∣bered his sin against his daughter.</NOTE></L>
+<L>That was putte yn-to þe see,</L>
+<L>That was so brygħt of skynne. <MILESTONE N="954"/></L>
+<L>He þowȝt[e] that he wolde go, <NOTE PLACE="marg">He decided to go to the Pope for penance,</NOTE></L>
+<L>For h<HI REND="italic">y</HI>s penance to þe Pope þo,</L>
+<L>And heuen for to wynne. <MILESTONE N="957"/></L>
+<L>Messengeres he sente forth sone, <NOTE PLACE="marg">and sent mes∣sengers to find him an inn at Rome.</NOTE></L>
+<L>And þey come to þe kowrt of Rome,</L>
+<L>To take her lordes inne. <MILESTONE N="960"/></L>
+</LG>
+<LG N="81">
+<HEAD>(81)</HEAD>
+<L>Emare p<HI REND="italic">r</HI>ayde her lord, <NOTE N="3" PLACE="foot">R. lorde.</NOTE> þe kyng, <NOTE PLACE="marg">Emaré prayed her</NOTE></L>
+<L>"Syr, a-byde þ<HI REND="italic">a</HI>t lordys komyng,</L>
+<L>That ys so fayr <HI REND="italic">and</HI> fre. <MILESTONE N="963"/></L>
+<L>And, swete syr, yh all<HI REND="italic">e</HI> þyng,</L>
+<L>A-qweynte ȝou w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">a</HI>t lordyng;</L>
+<L>H<HI REND="italic">y</HI>t ys worshyp to þe." <MILESTONE N="966"/> <NOTE PLACE="marg">lord to ac∣quaint him with the emperor.</NOTE></L>
+<L>The kyng of Galys seyde þan,</L>
+<L>"So grete a lord ys þer non,</L>
+<L>Ȝn all<HI REND="italic">e</HI> Crystyante." <MILESTONE N="969"/></L>
+<L>"Now, swete syr, what-eu<HI REND="italic">ur</HI> be-tyde, <NOTE PLACE="marg">He agreed, and she bade him ride with his knights to meet that great lord.</NOTE></L>
+<L>A-ȝayn þ<HI REND="italic">a</HI>t grete lord ȝe ryde,</L>
+<L>And all<HI REND="italic">e</HI> þy knyȝtys w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þe." <MILESTONE N="972"/></L>
+</LG>
+<LG N="82">
+<PB N="31" REF="32"/>
+<HEAD>(82)</HEAD>
+<L>Emare thawȝte her sone ȝynge, <NOTE PLACE="marg">Emaré taught her son that if</NOTE></L>
+<L>A-ȝeyn þe emp<HI REND="italic">er</HI>our komynge,</L>
+<L>How þ<HI REND="italic">a</HI>t he sholde done: <MILESTONE N="975"/></L>
+<L>"Swete sone, yn all<HI REND="italic">e</HI> þyng,</L>
+<L>Be redy w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> my lord þe kyng,</L>
+<L>And be my swete sone! <MILESTONE N="978"/></L>
+<L>Whe<HI REND="italic">n</HI> þe e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> kysseth þy fad<HI REND="italic">ur</HI> <NOTE N="1" PLACE="foot">R. fadyr.</NOTE> so fre,</L>
+<L>Loke ȝyf he wyll<HI REND="italic">e</HI> kysse the, <NOTE PLACE="marg">the emperor kissed him, he should say, "Come speak with Emaré, that was put into the sea."</NOTE></L>
+<L>A-bowe þe to hym sone; <MILESTONE N="981"/></L>
+<L>And bydde hy<HI REND="italic">m</HI> come speke w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> Emare,</L>
+<L>That was putte yn-to þe see,</L>
+<L>Hym-self ȝaf þe dome." <MILESTONE N="984"/></L>
+</LG>
+<LG N="83">
+<HEAD>(83)</HEAD>
+<L>Now kometh þe e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> of pryse; <NOTE PLACE="marg">Now the king</NOTE></L>
+<L>A-ȝeyn hy<HI REND="italic">m</HI> rode þe kyng of Galys,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> full<HI REND="italic">e</HI> mykull<HI REND="italic">e</HI> pryde. <MILESTONE N="987"/></L>
+<L>The chyld was worþy vnþ<HI REND="italic">ur</HI> wede, <NOTE PLACE="marg">and the child with him rode to meet the emperor,</NOTE></L>
+<L>A <NOTE N="2" PLACE="foot">R. And; G. A[nd]. <HI REND="italic">See note on this line.</HI></NOTE> satte vpon a nobyll<HI REND="italic">e</HI> stede,</L>
+<L>By h<HI REND="italic">y</HI>s fadyr syde; <MILESTONE N="990"/></L>
+<L>And when he mette þe e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur,</HI></L>
+<L>He valed h<HI REND="italic">y</HI>s hode w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> g<HI REND="italic">re</HI>t hono<HI REND="italic">ur,</HI></L>
+<L>And kyssed hy<HI REND="italic">m</HI> yn þ<HI REND="italic">a</HI>t tyde; <MILESTONE N="993"/> <NOTE PLACE="marg">and was kissed by him and other great lords.</NOTE></L>
+<L>And oþ<HI REND="italic">ur</HI> lordys of g<HI REND="italic">r</HI>et valowre,</L>
+<L>They also kessed Segramowre;</L>
+<L>In herte ys not to hyde. <MILESTONE N="996"/></L>
+</LG>
+<LG N="84">
+<HEAD>(84)</HEAD>
+<L>The e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur</HI>s hert <NOTE N="3" PLACE="foot">R. herte.</NOTE> anamered g<HI REND="italic">r</HI>etlye, <NOTE PLACE="marg">The emperor greatly loved the child.</NOTE></L>
+<L>Of þe chylde þ<HI REND="italic">a</HI>t rode hym by,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> so louely chere. <MILESTONE N="999"/></L>
+<L>Seg<HI REND="italic">ra</HI>mowre, he s[t]ayde h<HI REND="italic">y</HI>s stede, <NOTE PLACE="marg">Segramowre, in the hear∣ing of his father and other lords,</NOTE></L>
+<L>H<HI REND="italic">y</HI>s owene fad<HI REND="italic">ur</HI> <NOTE N="4" PLACE="foot">R. fadyr.</NOTE> toke good hede,</L>
+<L>And oþ<HI REND="italic">ur</HI> lordys þ<HI REND="italic">a</HI>t þer were. <MILESTONE N="1002"/></L>
+<L>The chylde spake to þe e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>our,</L>
+<L>And sayde, "Lord, for þyn hono<HI REND="italic">ur,</HI> <NOTE PLACE="marg">bade the emperor</NOTE></L>
+<L>My worde þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u wyll<HI REND="italic">e</HI> here: <MILESTONE N="1005"/></L>
+<L><PB N="32" REF="33"/>
+Ȝe shull<HI REND="italic">e</HI> come speke w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> Emare, <NOTE PLACE="marg">come speak with his daughter Emaré.</NOTE></L>
+<L>That changede her name to Egare,</L>
+<L>That was þy þowȜthorn;<HI REND="italic">ur</HI> dere." <MILESTONE N="1008"/></L>
+</LG>
+<LG N="85">
+<HEAD>(85)</HEAD>
+<L>The e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> wax all<HI REND="italic">e</HI> pale, <NOTE PLACE="marg">The emperor grew pale, and asked why he was reminded of his sorrow;</NOTE></L>
+<L>And sayde, "Sone, why v<HI REND="italic">m</HI>b<HI REND="italic">r</HI>aydest me of bale,</L>
+<L>And þ<HI REND="italic">o</HI>u may se no bote?" <MILESTONE N="1011"/></L>
+<L>"Syr, <HI REND="italic">and</HI> ȝe wyll<HI REND="italic">e</HI> go w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> me,</L>
+<L>I shall<HI REND="italic">e</HI> þe brynge w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">a</HI>t lady fre,</L>
+<L>Þ<HI REND="italic">a</HI>t ys louesom on to loke." <MILESTONE N="1014"/></L>
+<L>Neu<HI REND="italic">ur</HI>-þe-lesse, w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hym he wente; <NOTE PLACE="marg">but was re∣assured, and went with the child to meet the lady.</NOTE></L>
+<L>A-ȝeyn hym come þ<HI REND="italic">a</HI>t lady gent,</L>
+<L>Walkynge on her fote. <MILESTONE N="1017"/></L>
+<L>And þe e<HI REND="italic">m</HI>p<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> a-lyȝte þo,</L>
+<L>And toke her yn h<HI REND="italic">y</HI>s armes two,</L>
+<L>And clypte <HI REND="italic">and</HI> kyssed her sote. <MILESTONE N="1020"/></L>
+</LG>
+<LG N="86">
+<HEAD>(86)</HEAD>
+<L>Ther was a joyfull<HI REND="italic">e</HI> metynge <NOTE PLACE="marg">There was a</NOTE></L>
+<L>Of þe emp<HI REND="italic">er</HI>our <HI REND="italic">and</HI> of þe kynge,</L>
+<L>And also of Emare; <MILESTONE N="1023"/></L>
+<L>And so þe<ABBR>r</ABBR> was of Syr [S]eg<HI REND="italic">r</HI>amo<HI REND="italic">ur,</HI> <NOTE PLACE="marg">joyful re∣union,</NOTE></L>
+<L>That aftyr was emp<HI REND="italic">er</HI>our;</L>
+<L>A full<HI REND="italic">e</HI> gode man was he. <MILESTONE N="1026"/></L>
+<L>A grette feste þ<HI REND="italic">er</HI> was holde, <NOTE PLACE="marg">and a great feast was given.</NOTE></L>
+<L>Of erles <HI REND="italic">and</HI> barones bolde,</L>
+<L>As testymonyeth þys story. <MILESTONE N="1029"/></L>
+<L>Thys ys on of Brytayne layes, <NOTE PLACE="marg">This is one of the old lays of Britain.</NOTE></L>
+<L>That was vsed by olde dayes,</L>
+<L>Men callys "playn þe garye." <NOTE N="1" PLACE="foot">Playn[t] þ' E-garye? <HI REND="italic">See note on the line.</HI></NOTE> <MILESTONE N="1032"/></L>
+<L>Ih<HI REND="italic">es</HI>o, <NOTE N="2" PLACE="foot">R. Jhesu.</NOTE> þ<HI REND="italic">a</HI>t settes yn þy trone, <NOTE PLACE="marg">Jesus, bring us to Thy per∣petual glory.</NOTE></L>
+<L>So g<HI REND="italic">r</HI>aunte vs w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> þe to w[o]ne, <NOTE N="3" PLACE="foot">MS. wene.</NOTE></L>
+<L>In þy p<HI REND="italic">er</HI>petuall<HI REND="italic">e</HI> glorye! Amen. <NOTE N="4" PLACE="foot">R. <HI REND="italic">omits</HI> Amen <HI REND="italic">and</HI> Explicit Emare.</NOTE> <MILESTONE N="1035"/></L>
+</LG>
+<TRAILER>Explicit Emare.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet TYPE="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>2020-05-10</DATE><RESPSTMT><NAME>pfs</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Transcribed.</ITEM></CHANGE>
+<CHANGE><DATE>2020-12-01</DATE><RESPSTMT><NAME>pfs</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added markup.</ITEM></CHANGE></REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00302">
+<STC T="M">302</STC>
+<BIBNO T="mec">CME00302</BIBNO>
+<VID>CME00302</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="text">
+<HEAD>Treatise on Garsing</HEAD>
+<HEAD TYPE="sub">MED stencil a1450 *<HI>Treat.Garsing</HI> (Htrn 307)</HEAD>
+<OPENER><BYLINE>Transcribed from manuscript Hunter 307 by P. Schaffner.</BYLINE>
+<DATELINE><DATE>May, 2020</DATE></DATELINE></OPENER>
+<ARGUMENT>
+<P>Raw transcription from MS Glasgow, Glasgow University Library, Hunter 307 (U.7.1), ff. 166r-v. In Voigts, treated as part of "A physician behooveth to know three manner inspections in bloodletting that is to say...." (VK 0659.00; eVK2 v0034490000), but parallel versions are given separate entries: "For garsing and ventosing it befalleth ofttimes small veins to be touched...." London, BL, Royal 18.A.6, ff. 55-55v (VK 1841.00; eVK2 v0057530000); London, BL, Sloane 965, ff. 163v-64v (VK 1841.00; eVK2 v0088010000); London, BL, Sloane 3486, ff. 147v-48 (VK 1841.00; eVK2 v0096920000).</P>
+</ARGUMENT>
+
+<P>
+
+For garsyng &amp; ventosyng it bifalliþ ofte tymes <MILESTONE UNIT="fol." N="166v"/>
+
+smale veynes tobe touchid þat rennen among þe fleisch hi∣dirward &amp; þidirward þe whiche aperen not ne ben not kn∣owe and þoo musten be touchid þoruȝ garsyng or vento∣syng bi þe whiche þe body may haue moche heelþe ¶ For þe
+
+passiouns of þe iȝen &amp; þe heed. þou schalt make a garsyng or
+
+ventosyng in to þe fleisch vndir þe chyn and þe maistir seiþ.
+
+þou schalt make þi garsyng for peyne of þe iȝen euene aȝenus
+
+þe iȝen in þe necke bihynde as þus ¶ If þe riȝte iȝe ake sette a
+
+ventosyng þere aȝenus þe iȝe bihynde. &amp; so þe lift iȝe fro þe roote
+
+of þe necke dounward . toward þe necke boon þou schalt make
+
+garsyng or ventosyng for peynes of þe iȝen &amp; of þe iowis &amp;
+
+of þe mouþ &amp; of þe teeþ and also for peynes of þe necke and
+
+for euyle in þe schuldir bladis vndir þe schuldris þou schalt
+
+make garsyng in ij placis or þre ¶ Also bitwixe þe schuldir
+
+&amp; þe elbowe for þe blod of brisur[e] in þe schuldris &amp; þere also for
+
+aking of þe iȝen &amp; of þe heed ¶ Also for aking of þe schuldris <NOTE>?or schulders</NOTE>
+
+&amp; armes make a garsyng vpon þe arm on þe wristis and for
+
+peynes of þe brest þou schalt make þere aȝenus on þe bak ¶ And
+
+for peynes of þe bak garsyng is good on þe buttokis by
+
+neþe ¶ and for icching bocchis &amp; scabbis bisyde þe þe knee with
+
+out ¶ ȝrow in þis fyueþe particle I schal make an ende &amp; if
+
+ony man biholde it &amp; fynde ony þing þat displesiþ him let him not
+
+reproue it but let him take siche a labour in hond aȝen &amp; let hym be
+
+wel avised þat he be not reproued ¶ For þis in my maystris ty¦me &amp; myn I haue wel proued &amp; curid &amp; heelid many a pacient
+
+þanckid be god of his grace sendynge to þat is þe hiȝeste &amp; þe best leeche.</P>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
+

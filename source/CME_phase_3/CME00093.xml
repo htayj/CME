@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-19-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; added preface DIV2; removed incorrect MILESTONEs in preface and NOTE. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00093">
+<STC T="M">93</STC>
+<BIBNO T="mec">CME00093</BIBNO>
+<VID>CME00093</VID>
+</IDG>
+<TEXT LANG="enm eng">
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1"/>
+<DIV2 TYPE="preface">
+<HEAD>DE ARTE LACRIMANDI.</HEAD>
+<P>This poem is found on fol. 35a to 46b of MS. Harl. 2274 preserved in the British Museum. The MS. is a collection of various medical treatises written in Latin and English, on parchment and paper. Inserted among these is the poem, written on paper, in a fine hand. In the margins are several corrections in hands of different periods. The handwriting, as well as the language, points to the very end of the 15th or the beginning of the 16th century.</P>
+<P>The Stanza is composed of twelve four-stressed verses, rhythmically smooth. The rime scheme is: ababababbcbC with a refrain of the type 'Therfor to wepe come lerne att me' or its variants. Alliteration is quite common throughout the poem, but there is no settled order in its occurrence. In some cases there is a dominant note of alliteration throughout the stanza which is quite apparently not accidental; as 'w' in XIX and XLIX, 'f' in XXX. There are several examples of internal rime: They dassh they lassh XXVIII. 9; Fryenge dryenge XXXI. 4; We kyste we blyste L.</P>
+<P>The language offers comparatively little for discussion. The final-e is already, for the most part, silent, as is also the vowel in inflectional syllables. A great inclination to use 'y (i)' instead of 'e' in unstressed syllables is shown: heuenys (I); louyd (VII) etc. etc.</P>
+<P>The poem is quite skilfully constructed, the refrain nearly always being an organic part of the stanza; this is sometimes achieved at the sacrifice of perfect sense. Sometimes the striving after rime causes the author to be slightly repulsive in sentiment (XXV). At other times there is a monotonous
+<PB N="270" REF="2"/>
+repetition of the same words, as: his: this: blys: amysse: Iwysse: kysse XXVI; X; XXII; XXIV; LXX. The action is, considering the difficulties which the stereotyped character of the story offers, remarkably vivid, and there are certain passages possessing real dramatic fire.</P>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>De arte lacrimandi. P<HI REND="italic">ro</HI>sopopaeia B. Virg<HI REND="italic">in</HI>ie.</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>Now late me thought I wolde begy<HI REND="italic">n</HI>ne <MILESTONE N="35a" UNIT="fol."/></L>
+<L>My synfull lyuyng to .A. bate</L>
+<L>But thurgh fals custume of my sy<HI REND="italic">n</HI>ne</L>
+<L>I founde my selfe so endmate</L>
+<L>That I ne wist how I myght wyn</L>
+<L>Thurght repentaunce my syn to hate</L>
+<L>For nede me thought I coulde not blyn</L>
+<L>To falle to syn erly and late</L>
+<L>Thus in my mynde both made and mate</L>
+<L>Before an image of pite</L>
+<L>Knelyng I seyde .oo. hevenys yate</L>
+<L>That craft of wepyng lerne thou me.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Purtreyd and peyntid piteously</L>
+<L>This ymage was with terys of blode</L>
+<L>As for a meroure veryly</L>
+<L>Of oure lady I vnderstode</L>
+<L>Hir sone vppon hir kne did ly</L>
+<L>All rent and revyn brought fro þ<SUP>e</SUP> rode</L>
+<L>And thrught this sight full sodenly</L>
+<L>I ravished was with mayn and mode</L>
+<L>My spiryte from my body yoode</L>
+<L>My minde was on that lady fre</L>
+<L>Me thought she seide these wordis goode</L>
+<L>Who can not wepe come lerne att me.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Come lern att me both wyf and ma<HI REND="italic">n</HI>n</L>
+<L>That craftfull thyng lerned haue I.</L>
+<L>For when my blysful moder Anne.</L>
+<L>Had me brought forth on hyr body.</L>
+<L>To loue my god soone I began</L>
+<L>And hym to drede most sou<HI REND="italic">er</HI>enly</L>
+<L><PB N="271" REF="3"/>
+That oftyn for loue both pale 7 wan</L>
+<L>I yoxed and wepyde tenderly.</L>
+<L>My god my loue fast wolde I crie.</L>
+<L>Receyue the terys of my chastyte.</L>
+<L>Wherfor I sind more hardily</L>
+<L>Who can not wepe come lerne att me.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>The worlde my flessh sone I forsoke <MILESTONE N="35b" UNIT="fol."/></L>
+<L>The fende my foo full sore I dred</L>
+<L>For feere of hym ofte tyme I woke</L>
+<L>And wept when other were in bed</L>
+<L>My chastite of god I toke</L>
+<L>All thogh he made Ioseph me wed</L>
+<L>Within the tempyll att my boke</L>
+<L>Wepyng my psalmes ofte tyme I red</L>
+<L>I was a gast I schulde be led</L>
+<L>God to displese in sume degre</L>
+<L>With wepyng sore I was bested</L>
+<L>Who cannot wepe come lerne att me.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>To saue ma<HI REND="italic">n</HI>nes soule than had desire</L>
+<L>The gret goodnes of god Alon</L>
+<L>His sone iħu fro his empire</L>
+<L>Doun into erth he sent Anon</L>
+<L>Mannes sowle to beye fro lastyng fire <NOTE N="1)" PLACE="foot">MS. fere.</NOTE></L>
+<L>In me he toke both flessh and bon</L>
+<L>The holy gost me gan conspire</L>
+<L>And god and man was mad att on</L>
+<L>When I was his tempill and trone</L>
+<L>Chosyn vnto the trynite</L>
+<L>Wepyng for ioye I mad my mone</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>My blissid cosyn was with childe</L>
+<L>Elyzabeth than with sant John</L>
+<L>We met and kyssid with mouth vnfilyd</L>
+<L>And for I troude god seide anon</L>
+<L>She seide .o. without werkes wilde</L>
+<L>Blessid mote you be in heuens tron</L>
+<L><PB N="272" REF="4"/>
+For when thy voyce that is so mylde</L>
+<L>Anon into my eris gan gon</L>
+<L>Within my wombe in bloode and bon</L>
+<L>My sone wox glade for loue of the</L>
+<L>For ioye then lyst me wepe and gron</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Fro that tyme forth ay more and more. <MILESTONE N="36a" UNIT="fol."/></L>
+<L>To loue my god was all my luste.</L>
+<L>Oftyn tymes I syghed full sore.</L>
+<L>For I ne louyd hym as me luste.</L>
+<L>Of my wombe counte I litill store.</L>
+<L>But for his loue that there wolde reste.</L>
+<L>And when it touched me chouch before</L>
+<L>I knelid doun and that I kyste.</L>
+<L>Not for my self butt for I wiste.</L>
+<L>Goddes sone in [that] <NOTE N="1)" PLACE="foot">'that' omitted.</NOTE> place chase to be.</L>
+<L>For loue than wolde my teris doun brist.</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>All worldly appetitt down layd.</L>
+<L>I though[t] <NOTE N="2)" PLACE="foot">Ms. though.</NOTE> on god both day <HI REND="italic">7</HI> myght.</L>
+<L>I yelde me as his own hande mayde.</L>
+<L>His will to do with all my myght.</L>
+<L>And yf so were I were a . strayed</L>
+<L>Good gabriell wolde come full lyght.</L>
+<L>Me to conforte heuenly araied.</L>
+<L>And of my wombe when he had syght.</L>
+<L>On knees he wolde fall down full ryght.</L>
+<L>And seyd my god in thee I see.</L>
+<L>For ioye then wolde my teres doun light.</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>The tyme was come my childe to bere.</L>
+<L>In the worlde was neu<HI REND="italic">er</HI> so colde a myght</L>
+<L>And in a stalle ther we were</L>
+<L>All sodeynly my sone so bryghte.</L>
+<L>Lay me before with heuenly chere.</L>
+<L>Born with outyn peyn throgh goddis myght.</L>
+<L><PB N="273" REF="5"/>
+Wakyd he was and all for fere <NOTE N="1)" PLACE="foot">'all' written above the line.</NOTE></L>
+<L>For colde me thoght he sterued ryght.</L>
+<L>I wolde haue helpid hym but I ne myght.</L>
+<L>Ne durst hym touch for god was he.</L>
+<L>So wofull then was neu<HI REND="italic">er</HI> wight.</L>
+<L>Therefor to wepe come lerne att me.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Aungelys fro heuyn come in a brayd <MILESTONE N="36b" UNIT="fol."/></L>
+<L>And gabriell that my frende is</L>
+<L>Toke vp and in my armes leied</L>
+<L>My sone and bad I schulde hym kysse</L>
+<L>That so I dide god wolde he sayde</L>
+<L>Then was my herte fulfillid with blys</L>
+<L>Tremblyng and qwakynge with cold afraed</L>
+<L>For lake of clothyng gret peyne was his.</L>
+<L>An oxe and an asse soon aftyr this</L>
+<L>With breth did plese his sou<HI REND="italic">er</HI>ente</L>
+<L>His colde mad me full woo Iwisse</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Full sore me lust both wepe and grone</L>
+<L>In my sones circumcision</L>
+<L>So tendir a babe was neu<HI REND="italic">er</HI> non</L>
+<L>Therfor I had gret compassion</L>
+<L>To see his flessh kut with a ston</L>
+<L>The droppys of blode distillid doun</L>
+<L>What modir wolde not make hyr mone</L>
+<L>To se without occasion</L>
+<L>Hir sone suffyr such a passion</L>
+<L>O . lorde for pure adu<HI REND="italic">er</HI>site</L>
+<L>Me thouth that tyme me lust to swoun</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>When tyme was come I wolde not cesse</L>
+<L>To do the Lawe with pure entent</L>
+<L>With my sone therfor in a resse</L>
+<L>Into the temple forth I went</L>
+<L>Olde symeon amonge the prese</L>
+<L>Anon hym in his harmes hente</L>
+<L><PB N="274" REF="6"/>
+He thankyd god and p<HI REND="italic">r</HI>ayd hym of pese</L>
+<L>And than this sawe to me he sente</L>
+<L>He seyde .o. woman innocent.</L>
+<L>Thy herte with woo schal p<HI REND="italic">er</HI>syde be</L>
+<L>My sones passion then he ment</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Alwey with ioye I had mornynge <MILESTONE N="37a" UNIT="fol."/></L>
+<L>For when the herdmen comen were. <NOTE N="1)" PLACE="foot">'the' above the line.</NOTE></L>
+<L>And kyngs .iij. with her offerynge</L>
+<L>And soght my sone with humble cher<HI REND="italic">re</HI></L>
+<L>To worschip hym as heven kynge</L>
+<L>This was to me ioye singulere</L>
+<L>But heroud than all chyldyr yonge</L>
+<L>That were in Age within .ij. yere.</L>
+<L>Bad sle and kyll and I for fere.</L>
+<L>With Ioseph and my sone gan flee.</L>
+<L>To wepe than I myght not forbere.</L>
+<L>Therfor that crafte cu<HI REND="italic">m</HI> lerne att me.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>My son and I was in exile.</L>
+<L>In egipt the full of seuen yere.</L>
+<L>We had not entyrede in a myle.</L>
+<L>But throght all tempplys þ<SUP>t</SUP> ther were.</L>
+<L>Their feyned goddes fals and ville.</L>
+<L>Fell doun when my son com nere.</L>
+<L>I sewed and span the meen while.</L>
+<L>For owre lyuynge whils we were there.</L>
+<L>Thus were we chasyd out for fere.</L>
+<L>Fro kyn and all affynyte.</L>
+<L>For woo oft tymes chaunged m<HI REND="italic">y</HI> chere.</L>
+<L>Therfor to wepe com lerne att me.</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>When Heroude then hym self had slayn <NOTE N="2)" PLACE="foot">'y' in slayn added above the word.</NOTE></L>
+<L>Archilaus his son was kynge</L>
+<L>An aungell bade ioseph certeyn</L>
+<L>My sone and me that he schulde brynge</L>
+<L>To israel I was full fayn</L>
+<L>Yit was he aferde to do þ<SUP>t</SUP> thynge</L>
+<L><PB N="275" REF="7"/>
+The Aungell bad hym eft agayn</L>
+<L>To make no lengare taryenge</L>
+<L>But lede my sone tendyr a thynge.</L>
+<L>Fro nazareth into galilee.</L>
+<L>For this trauell I made mornynge.</L>
+<L>Therfo to wepe come lerne at me.</L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>My sone woxe vp vnto .xii. yere. <MILESTONE N="37b" UNIT="fol."/></L>
+<L>And Archelaus was exilid</L>
+<L>Vnto Ierusalem <NOTE N="1)" PLACE="foot">MS. ierħu.</NOTE> in feere.</L>
+<L>We thought to be then reconsilyd</L>
+<L>Thedyr we went with my sone dere</L>
+<L>That neuer was of werkis wilde</L>
+<L>Within a while whiles we were ther<HI REND="italic">re</HI></L>
+<L>From vs was lost my sone so mylde</L>
+<L>I ran and cryed where is my childe</L>
+<L>I sought hym fully dayes thre.</L>
+<L>I fonde hym not the teres doun fyled</L>
+<L>Therfor to wepe com lerne att me.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>Anone when thre dayes were paste</L>
+<L>Vnto the tempyll gan we drawe.</L>
+<L>Amonge the doctours att the laste</L>
+<L>I fonde my sone techynge the lawe.</L>
+<L>Of his wisdome they wondyrt faste</L>
+<L>Her bokys he made hem to knowe</L>
+<L>I thought then in my mynde to caste</L>
+<L>All his werks vppon a rowe. <NOTE N="2)" PLACE="foot">A rendering of S. Luke 2. 51: Et mater ejus conservabat omnia verba haec in corde suo.</NOTE></L>
+<L>I wyste he purposyd for to shewe</L>
+<L>Sume poynte of his diuinite</L>
+<L>For ioye than luste me wepe athrawe.</L>
+<L>Therfor that craft com lerne att me.</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>Vp rose my sone and aftyr this</L>
+<L>To nazareth agayn we wente</L>
+<L>Was neu<HI REND="italic">er</HI> wyues childe Iwisse</L>
+<L>To modyr more obediente.</L>
+<L><PB N="276" REF="8"/>
+Then was my sone kyng of all blysse</L>
+<L>To serue me with pure entente.</L>
+<L>Full oftyn me lust hym hals and kysse</L>
+<L>Swete was the breth betwyx vs wente</L>
+<L>The holy gost was ay p<HI REND="italic">re</HI>sente</L>
+<L>The flammynge fyre of charyte.</L>
+<L>Made me wepe I was so brente</L>
+<L>Therfor that crafte come lerne atte me.</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>He woxe in age to .xxx. yere</L>
+<L>Baptyzed he was and to deserte.</L>
+<L>Lede be his spirite to be there.</L>
+<L>Temptyd of the Deuyll to malaperte</L>
+<L>Eft all a weddynge where we were</L>
+<L>He was both wyse secret and perte</L>
+<L>Architrichyn <NOTE N="1)" PLACE="foot">The author has understood architriclinus (S. John 2. 9) to be the name of the man. cf. a similar use of Centurio in 'Evangelium Nicodemi, aus MS. Sion fol. 13-39' edited by C. Horstmann in Herrig's Archiv 68, p. 214 ll. 673 and 697.</NOTE> will witnes bere.</L>
+<L>Watyr turnyd into wyn aperte</L>
+<L>I kepte his werkys all in couerte</L>
+<L>And wepte for pure adu<HI REND="italic">er</HI>syte.</L>
+<L>In wepynge thus way I experte</L>
+<L>Therfor that craft come lerne att me.</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>Fro that tyme forth my sone began</L>
+<L>To werke myracle gloriouse</L>
+<L>He kyst oute feendis of many a man</L>
+<L>Dume defe blynd lame all maladiouse</L>
+<L>He made hem hole that to hym wan</L>
+<L>And taught hem to be vertuouse</L>
+<L>Vnto the temple went he than</L>
+<L>Droue oute marchaunts of godds house</L>
+<L>His p<HI REND="italic">re</HI>chyng was so precouse.</L>
+<L>Folke folowed hym of ylke contre</L>
+<L>For ioye my teres were copyouse</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>Eft on a day ful tendyrly.</L>
+<L>My sone sayde modyr make gode chere</L>
+<L><PB N="277" REF="9"/>
+For tyme is come I muste dye.</L>
+<L>To beye ma<HI REND="italic">n</HI>nes soule fro peynes sere.</L>
+<L>That word enteryd so piteously</L>
+<L>Into my herte att myn ere.</L>
+<L>That on my knees all sodenly <NOTE N="1)" PLACE="foot">'my' written above the line.</NOTE></L>
+<L>Before my sone I fell doun there</L>
+<L>Allas I cryed my dere sone dere.</L>
+<L>Vpon thy modyr haue pyte</L>
+<L>And let vs both dye in fere.</L>
+<L>Who cannot wepe come lerne att me.</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>Allas iħu my sone so mylde <MILESTONE N="38b" UNIT="fol."/></L>
+<L>Yf thou be ded who schal me kysse</L>
+<L>Whome schall I halse and clype my childe</L>
+<L>Who schall thy modyrs bryst blysse</L>
+<L>Beholde the mylke that neu<HI REND="italic">er</HI> was filyd</L>
+<L>It was thi foode haue mynde of this.</L>
+<L>Late neuer the Jewes fals and wyld</L>
+<L>Departe vs two .o. kynge of blysse</L>
+<L>I muste nedis dye he saide. Iwisse</L>
+<L>Mankynde ellis may not saued be.</L>
+<L>I cried allas I ferde a mysse</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Then went my lorde my gode so swete</L>
+<L>With his apostylls all in fere</L>
+<L>He made hem soupe he wesshid her<HI REND="italic">re</HI> feete</L>
+<L>Tolde hem his deth aprochid nere.</L>
+<L>Vnto the mounte of Olyuete</L>
+<L>With hym they wente with heuy chere.</L>
+<L>The Iewes come hym for to mete</L>
+<L>The apostylls fled and left hym there</L>
+<L>They took a<HI REND="italic">n</HI>[d] bonde my sone so dere,</L>
+<L>Pullyd hym drewe hym with cruelte</L>
+<L>To thinke on this woo I may not forbere <NOTE N="2)" PLACE="foot">MS. To thinke on this whoo I may not forbere; 'h' added above, and 'not' underlined for erasure. Or should one omit the 'I' and read 'To thinke on this whoo may forbere'?</NOTE></L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="24">
+<PB N="278" REF="10"/>
+<HEAD>XXIV.</HEAD>
+<L>When fals Iudas hade hym betrayed</L>
+<L>For loue my sone lyst hym kysse.</L>
+<L>Vnto the Iewes mekely he sayde</L>
+<L>He that ye seke I am ywisse</L>
+<L>Myn apostylls ben all afraide</L>
+<L>Suffyre hem passe for ryght it is.</L>
+<L>And with that worde all in a brayde</L>
+<L>Vpon my sone kyng of blysse.</L>
+<L>They ra<HI REND="italic">n</HI>ne and cryed where is he this</L>
+<L>Come furth burdeyn the kylle schal we</L>
+<L>They lede that lambe that neu<HI REND="italic">er</HI> ded a mysse</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>To Anna and caiphas they hym lede. <MILESTONE N="39a" UNIT="fol."/></L>
+<L>For ioy of hym her herte gan hoppe</L>
+<L>He spornyd att stonys his fete sore blede</L>
+<L>They blynfeld hym with many a chope</L>
+<L>They seide p<HI REND="italic">ro</HI>phet we wolde thou reede</L>
+<L>What beusher last gaf the a pope.</L>
+<L>His faire face no thyng thei fered</L>
+<L>But spet on it many a droppe.</L>
+<L>All his beaute fro rote to croppe</L>
+<L>With betynge spittynge lost hade he.</L>
+<L>Allas he dranke withoute cope.</L>
+<L>Who cannot wepe come lerne att me.</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>His berde his here dispituously</L>
+<L>They pullyd that gret peyne was his.</L>
+<L>Fro euynsange tyme they were besy</L>
+<L>Vnto mydnyght allway with this.</L>
+<L>They buffete hym unmoderly</L>
+<L>Which was my barne and all my blysse</L>
+<L>Tyll att the laste they wer wery.</L>
+<L>And thoght hem self thei fered a mysse</L>
+<L>Vnto aston pyllare Iwysse</L>
+<L>Full colde and faynt then bounde was he</L>
+<L>I myght not come hym for kysse</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Vppon the morn next folowynge</L>
+<L>Erly thei led with peynes gryll</L>
+<L><PB N="279" REF="11"/>
+My ioye my blysse and my derlynge</L>
+<L>My sone my comforte loude and styll</L>
+<L>Vnto pilate on hygh cryenge</L>
+<L>That thorugh his dome he schulde kyll</L>
+<L>But be his trew examynynge</L>
+<L>He fonde no cause hym for to spill</L>
+<L>With folke that were of cruell will</L>
+<L>Vnto Heroude then sent was he.</L>
+<L>For his repreuys me lykyd yll</L>
+<L>Allas allas come wepe with me</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>Accusynge hym with fals witnesse <MILESTONE N="39b" UNIT="fol."/></L>
+<L>Agayn to pilate they hym ladd</L>
+<L>Anon they bound hym be p<HI REND="italic">ro</HI>cesse</L>
+<L>Vnto a pyllare all vncledd</L>
+<L>With scourges full of byttirnesse</L>
+<L>They bet hym for no thynge þei feryd</L>
+<L>That eu<HI REND="italic">er</HI>y parte more and lesse</L>
+<L>Of his body piteously bledd</L>
+<L>They dassh they lassh no thynge þei dred.</L>
+<L>His flessh to rent me thought pitee</L>
+<L>To se his blode thus spilte and sched</L>
+<L>Allas who lust not wepe with me.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>With cruell and sharpe thornes keen</L>
+<L>A crown was thirst vppon his hede</L>
+<L>That frome his brayn ou<HI REND="italic">er</HI> his een</L>
+<L>Distyllid blod in dropes rede</L>
+<L>Such penaunce was neuyre herd ne seen</L>
+<L>Shortly thei demyd hym to be ded</L>
+<L>Apon his nek to do hym teen</L>
+<L>A cros they leyd heuy as leede</L>
+<L>To caluary a . shamfull sted</L>
+<L>Bad hym to bere ther on to dye.</L>
+<L>To thynke on this who wolde not rede</L>
+<L>All erdly folk to wepe with me.</L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<L>Though he were feynt the crosse to bere</L>
+<L>The fals Jewes wolde hym not spare</L>
+<L>Full sore smertynge his shuldyrs were</L>
+<L>His woundyd flesh that burdyn bare</L>
+<L><PB N="280" REF="12"/>
+I ran full faste to come hym neere</L>
+<L>Hym for to helpe in all that care.</L>
+<L>The Jewes me kyst on rude manere</L>
+<L>Vnto the grounde and left me there</L>
+<L>I cryed sone or thou further fare</L>
+<L>Iħu my childe kysse wolde I the</L>
+<L>They shote hym forth [they] noght forbare <NOTE N="1)" PLACE="foot">MS. reads 'They shote hym forth noght forbare'.</NOTE></L>
+<L>Allas allas come wepe with me,</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>Apon his flesh all blody bete <MILESTONE N="40a" UNIT="fol."/></L>
+<L>The Jewes a purpor cloth had caste</L>
+<L>Hote blode rawe flessh dry cloth were mete</L>
+<L>Fryenge dryenge they festen faste</L>
+<L>Then handes smerte on hym they sette</L>
+<L>The blode out throgh the purpor braste</L>
+<L>When all was hard they wold not lette</L>
+<L>The cloth that on his flessh was caste <NOTE N="2)" PLACE="foot">'that' corrected out of 'then'.</NOTE></L>
+<L>They reste it of att the laste</L>
+<L>But deth no gretter peyne myght be</L>
+<L>Of hym thei were no thynge agaste</L>
+<L>Allas allas come wepe with me</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>I hastid faste vnto my sone.</L>
+<L>Hym to a faldyn into myn arme.</L>
+<L>But for he was so blody berone</L>
+<L>I was agaste to do hym harme.</L>
+<L>I prayde hym as itt was his woone</L>
+<L>To reste his body in myn arme</L>
+<L>To wype both swet and blode doun roon</L>
+<L>And clense his face whiles it was warm</L>
+<L>The iewes wold not but cryed Alarum</L>
+<L>Nayle we this theef vnto this tree.</L>
+<L>I coude not ellis but cry and yarme.</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>Nakyd he was with outyn cloth</L>
+<L>To hyde his shape for all was bare</L>
+<L><PB N="281" REF="13"/>
+And were the iewes neuyr so loth</L>
+<L>Yit with the kerchef that I bare</L>
+<L>I keueryd hym for I was loth</L>
+<L>And eke shamfull to se such sare <NOTE N="1)" PLACE="foot">'eke' in the margin written in another hand.</NOTE></L>
+<L>The iewes swore many an othe</L>
+<L>That for my sake wors schulde he fare <NOTE N="2)" PLACE="foot">MS. 'For my' with 'that' in margin in another hand.</NOTE></L>
+<L>Out of my armes they reste [hym] there <NOTE N="3)" PLACE="foot">MS. 'Out of my armes they reste there'.</NOTE></L>
+<L>With scorn dispute and cruelte</L>
+<L>I coude not ellys but cry and rare</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<L>Vppon the crosse doun they hym layde <MILESTONE N="40b" UNIT="fol."/></L>
+<L>Onmete for hym was eu<HI REND="italic">er</HI>y bore</L>
+<L>They fest .ij. ropes in .a. brayde</L>
+<L>Sume drewe behynde and sume before</L>
+<L>Hede arme and foote all they astrayed</L>
+<L>With nayles .iij. they fest hym there</L>
+<L>I fell on hym doun dismayd</L>
+<L>To kysse his mouth with herte full sore.</L>
+<L>Into a mortesse withouten more</L>
+<L>The cros and hym born vp they</L>
+<L>They lat doun dassh allas ther for.</L>
+<L>Who cannot wepe come lerne att me.</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>When he on crosse thus was displayed</L>
+<L>On me he lokyd full heuyly</L>
+<L>I fell on kneys and thus I sayde</L>
+<L>Be holde thy modyr tendirly</L>
+<L>Sen I the bare hole vnfrayde</L>
+<L>Fro peyn p<HI REND="italic">re</HI>s<HI REND="italic">er</HI>vyd bodyly</L>
+<L>Whi haue I now be for me layde</L>
+<L>So moche penaunce vnworthily</L>
+<L>Rather thou lete me with the dye</L>
+<L>Or ell who schall my keper be.</L>
+<L>That worde hurte hym so piteously</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="36">
+<PB N="282" REF="14"/>
+<HEAD>XXXVI.</HEAD>
+<L>Hangynge on crosse his blood be ron</L>
+<L>To me he sayde and to saynt John</L>
+<L>Woman be holde take ther thy sone</L>
+<L>As who saie modyr haue I noon</L>
+<L>Thus straungely was that worde begoon</L>
+<L>Hade he sayde modyr make thy mon <NOTE N="1)" PLACE="foot">'he' written above.</NOTE></L>
+<L>Such sorow to my herte had rone</L>
+<L>That lyf fro me hade paste a non</L>
+<L>I sowned I cryed and hertyly did gron</L>
+<L>His hede meuyng when I did se</L>
+<L>To bere it vp thynge had I non</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>When I this herde and se it tho <MILESTONE N="41a" UNIT="fol."/></L>
+<L>I cryed allas iħu my childe</L>
+<L>Wilt thou me leeue and dye me fro</L>
+<L>Haue m<HI REND="italic">er</HI>cy on thy modyr mylde</L>
+<L>Sen thou ert myn I thyn also</L>
+<L>Of flessh of blood that neuer was fyled</L>
+<L>To deth to gedyr lete vs go</L>
+<L>And leue me not w<SUP>t</SUP> the iewes wilde</L>
+<L>Aftyr thi deth to be reuylyd</L>
+<L>Sith thou art god take me with the</L>
+<L>When he this herd his hed doun fyled</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<L>Swete sone here how I cry and yarm</L>
+<L>My mone antende and my mornynge <NOTE N="2)" PLACE="foot">Margin, much later hand 'amende'.</NOTE></L>
+<L>Receuye me vp into thyn arme</L>
+<L>With the on crosse that I may hynge</L>
+<L>Thynke how thou lay vppon myn arme</L>
+<L>And soke my brest whil thou were yonge</L>
+<L>I left the not thou doste me harme,</L>
+<L>Yf thou me leue att thi dyenge</L>
+<L>I flede with the from heroude kynge</L>
+<L>Leue me not sone or I leue the</L>
+<L>Be not vnkynd att thy endynge</L>
+<L>Who cannot wepe come lerne att me</L>
+</LG>
+<LG N="39">
+<PB N="283" REF="15"/>
+<HEAD>XXXIX.</HEAD>
+<L>Thou ert my god thou ert my childe</L>
+<L>As god thou maist do what thou will</L>
+<L>And as my sone thou scholdest be mylde</L>
+<L>And tendyr for to do my will <NOTE N="1)" PLACE="foot">Margin 'tendyr'. MS. 'And for to do my will'.</NOTE></L>
+<L>Thy soule and myn was neu<HI REND="italic">er</HI> fylyd</L>
+<L>On lyfe thei louyd both loud and styll</L>
+<L>Therfor I wolde thes iewes willde</L>
+<L>To gedyr schulde vs both kyll</L>
+<L>Swete sone my prayer thou fulfill</L>
+<L>Receyue my soule to weende with the</L>
+<L>When he this herd his herde dide gryll</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="40">
+<HEAD>XL.</HEAD>
+<L>Vnto the crosse than wold I sterte. <MILESTONE N="41b" UNIT="fol."/></L>
+<L>And folde it frely into my arme.</L>
+<L>The bloode fro his wondys smarte.</L>
+<L>Wolde ren and falle doun in my barme</L>
+<L>Then wolde I kysse with pitouse herte</L>
+<L>The blody cros where it was warme</L>
+<L>The iewes were eu<HI REND="italic">er</HI> to me frawart</L>
+<L>And caste me doun and do me harme</L>
+<L>Full pituously then wolde I yarm</L>
+<L>His blody face when I it see.</L>
+<L>To staunch his blode I cowde no charm</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>Vith pituouse voice on hygh certeyn</L>
+<L>He cryed and sayde this worde I thurste</L>
+<L>Ma<HI REND="italic">n</HI>nes soule he ment to haste fro peyn</L>
+<L>For whom to dye was all his luste</L>
+<L>To offyr hym the iewes were fayn</L>
+<L>Aysell and galle to staunch his thurste</L>
+<L>He tastyd it an gan restreyne,</L>
+<L>His hed a way and I ne wiste</L>
+<L>What for to doo I wolde haue kyste</L>
+<L>His mouth deceyuyd when I hym see</L>
+<L>For woo my herte began to bryste</L>
+<L>Who cannot wepe come lerne att me.</L>
+</LG>
+<LG N="42">
+<PB N="284" REF="16"/>
+<HEAD>XLII.</HEAD>
+<L>Betwyx .ij. theues they made hym hynge</L>
+<L>He p<HI REND="italic">r</HI>ayed for hem that dyd hym woo</L>
+<L>Hely he cryed and now this thynge</L>
+<L>Is broght to ende it muste be soo. <NOTE N="1)" PLACE="foot">Consummatum est. S. John. 19. 30.</NOTE></L>
+<L>To his fadyr on hygh cryenge</L>
+<L>He yelde his goste it past hym froo</L>
+<L>The su<HI REND="italic">n</HI>ne for woo loste his shynynge</L>
+<L>The erd trembylyd stonys brast in twoo</L>
+<L>The vaile breste in the temple thoo</L>
+<L>The g<HI REND="italic">r</HI>auys oppynede for pure pite</L>
+<L>I fell in swoun I myght not goo</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>The folke went home I set me doun <MILESTONE N="42a" UNIT="fol."/></L>
+<L>Vndyr the crosse my selfe alone.</L>
+<L>With my .ij. sustrys fallen in swun</L>
+<L>With mary maudlen and saynt John</L>
+<L>Then come knyghtes out of the toun</L>
+<L>The thefes leggys they brake anon</L>
+<L>I p<HI REND="italic">r</HI>ayed hem for my benyson</L>
+<L>To spare my child whos lyf was goon</L>
+<L>I fell on kneys with rewfull mon</L>
+<L>Prayed hem of m<HI REND="italic">er</HI>cy and pite</L>
+<L>More harme thei wold do hym [a]non <NOTE N="2)" PLACE="foot">MS. 'More harme thei wold do hym non'.</NOTE></L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<L>His ryght syde both pale and wan</L>
+<L>They p<HI REND="italic">er</HI>syde than on rude manere</L>
+<L>His herte out from his lefte syde rane</L>
+<L>For brennyng loue to meet the spere <NOTE N="3)" PLACE="foot">Between verses 3 and 4, verse 6 'Mannes soule etc.' has been written and then marked for erasure.</NOTE></L>
+<L>And all this was for loue of man</L>
+<L>Ma<HI REND="italic">n</HI>nes soule to bye fro peynys sere</L>
+<L>The wounde was wyde the blood oute span <NOTE N="4)" PLACE="foot">'wyde' above the line.</NOTE></L>
+<L>Whiles att the last come watyr clere.</L>
+<L><PB N="285" REF="17"/>
+Ther was no more blood for to apere</L>
+<L>This raunson man was for loue of þ<SUP>e</SUP></L>
+<L>All this see I his modyr dere</L>
+<L>Therfor to wepe com lerne att me.</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>Then when I see both erth and ston</L>
+<L>The son eke wich hath no resoun</L>
+<L>In their kynde moorn with heuy moon</L>
+<L>And waylle for my sonys passioun</L>
+<L>My woofull herte began a non</L>
+<L>To faynt and faile and falle in swoun</L>
+<L>Now cry now yarm now sygh now gron</L>
+<L>Now loke on hym and now falle doun</L>
+<L>This was my ocupacon</L>
+<L>When I his bloody wondis see</L>
+<L>To brest my herte was redy boun</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI.</HEAD>
+<L>The conforte of the holygoste <MILESTONE N="42b" UNIT="fol."/></L>
+<L>Withdrawen was in me that tyde</L>
+<L>The Angells with the heuynly hoste</L>
+<L>Their armony fro me gan hyde.</L>
+<L>My sone wich I louyd moste</L>
+<L>On lyue with me wolde not a . byde</L>
+<L>The iewes with scorn despite and boste</L>
+<L>My peyne to encresse stood me besyde</L>
+<L>I was disteyned in hwh and hyde</L>
+<L>Dedly wondyd with cruelte</L>
+<L>Man thynke on this and leue þ<SUP>i</SUP> pride</L>
+<L>And for to wepe come lerne att me</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>Beholde my sone on crosse displayed</L>
+<L>With armes on broode the to enbrace.</L>
+<L>His hed vppon his schuldyre leyde</L>
+<L>The fore to here and graunt the grace</L>
+<L>His syde openyd redy arayed</L>
+<L>His herte to yelde to thi solace</L>
+<L>His feet faste to the crosse forsayde</L>
+<L>With the to abyde in eu<HI REND="italic">er</HI>y place</L>
+<L>Beholde how he bowes doun his face</L>
+<L>The cusse of pite to offyr the.</L>
+<L><PB N="286" REF="18"/>
+Haue mende whiles thou haste space</L>
+<L>And for to wepe come lerne att me.</L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII.</HEAD>
+<L>Soon aftyr this I gan Aspie</L>
+<L>How sondery folke com out of þ<SUP>e</SUP> town</L>
+<L>My sonys bonys I wend verily</L>
+<L>That thei to breste were redy boune</L>
+<L>Then seid saynt John that stood me by</L>
+<L>Be not agaste falle not in swoun</L>
+<L>It is ioseph of Aramathi</L>
+<L>And nychodem with out tresoun</L>
+<L>Wich come to take thi dere sone doun</L>
+<L>They er oure frendes beholde and see</L>
+<L>Thus ofte renewed my passion</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>When they me see fast gan they wepe <MILESTONE N="43a" UNIT="fol."/></L>
+<L>I was so faynte I myghte not goo.</L>
+<L>On kneye I ordeyned me to crepe.</L>
+<L>They ran to me her herte was woo.</L>
+<L>In wepynge were we fallyn so depe</L>
+<L>Ther was no worde amonge vs thoo</L>
+<L>We wayled we wepte we fared as sheepe</L>
+<L>Whos herd was ded and lost vs fro</L>
+<L>We turnyd vs then withouten mo</L>
+<L>Vnto my sone with gret pitee</L>
+<L>On kneys we fell be on . and . two</L>
+<L>Allas allas come wep with me,</L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<L>We worshipped hym and then anon</L>
+<L>Good Nychodeme was redy boun</L>
+<L>Set vp a scale with pituousmone.</L>
+<L>Pulled onte the nayles and toke hym doun</L>
+<L>My selfe ioseph and eke saynt Iohn</L>
+<L>For very pure compassione.</L>
+<L>When we hym felte flessh bloode and bon</L>
+<L>We kyste we blyste we fell in swoun</L>
+<L>I prayed hem for my benysoun <NOTE N="1)" PLACE="foot">After 'prayed' is 'for' marked for erasure.</NOTE></L>
+<L>To lay my sone vppon my kne.</L>
+<L><PB N="287" REF="19"/>
+Ther myght men here a petiouse soun</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>They layde my sone in my arme</L>
+<L>His bloody mouth oft tyme I kyste</L>
+<L>His flessh was colde and no thyng warme</L>
+<L>With face sume tyme faire and blyste</L>
+<L>I hym enbracede in my barme</L>
+<L>Vnto my herte I gan hym thirste</L>
+<L>I sayde .o. sone this cruell harme.</L>
+<L>Thou maiste reform yf that thou lyste</L>
+<L>Fader of heuyn in the I truste</L>
+<L>Of hym and me thou haue pite</L>
+<L>To longe my conforte haue I myste</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<L>O fadire of myghtes moste <MILESTONE N="43b" UNIT="fol."/></L>
+<L>Where is thi sone of thi godhed</L>
+<L>Wich was my sone <NOTE N="1)" PLACE="foot">Corrected in margin by later hand to 'childe'.</NOTE> trewly thou woste</L>
+<L>Thou haste his lyfe <NOTE N="2)" PLACE="foot">'lyfe' written above 'thou ha' which has a line drawn through it.</NOTE> I haue his ded</L>
+<L>Here is his flessh where is his goste</L>
+<L>I haue not but his body red</L>
+<L>Send doun thy aungells and þ<SUP>i</SUP> oste</L>
+<L>Me to confort here in this sted</L>
+<L>Vnto my soule thou sende sume red</L>
+<L>And of my woo thou haue pitee</L>
+<L>Beholde thi sone and myn is dede</L>
+<L>Allas allas come wepe with me</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>Whilome his woundes kisse I wolde</L>
+<L>And speke to hym tendyrly</L>
+<L>Sume tyme his face I did beholde</L>
+<L>And seyd my sone who am I.</L>
+<L>Whi ert thou ded whi ert þ<SUP>u</SUP> colde</L>
+<L>Vppon thy modyr thou hau m<HI REND="italic">er</HI>cy</L>
+<L>Then wolde I hym to my breste folde</L>
+<L>And wepe and weylle full pituously</L>
+<L><PB N="288" REF="20"/>
+All while my goste began to dye</L>
+<L>And when my frendys thys <NOTE N="1)" PLACE="foot">MS. 'ys' with 'th' written above.</NOTE> gan see</L>
+<L>They coude not ellys but wepe and crye</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="54">
+<HEAD>LIV.</HEAD>
+<L>Then prayed Ioseph of Armanthy</L>
+<L>To suffyr hym my sone to graue.</L>
+<L>My herte was sore and loth was I</L>
+<L>That he fro me my sone schuld haue</L>
+<L>The nyght drew nere and tendyrly</L>
+<L>Thei cessyd not att <NOTE N="2)" PLACE="foot">Corrected in margin to 'of' in later hand.</NOTE> me to craue</L>
+<L>To bery hym the iewes for whi</L>
+<L>Wich <NOTE N="3)" PLACE="foot">'h' added above in later hand.</NOTE> ay were prest hym to dep<HI REND="italic">r</HI>aue</L>
+<L>They drede shuld com with swerd 7 staue,</L>
+<L>And reue hym fro his modyr free</L>
+<L>That I began <NOTE N="4)" PLACE="foot">Later hand in margin 'yan'.</NOTE> to made and raue</L>
+<L>Allas allas come wepe with me.</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>Best for to doo than I ne wiste <MILESTONE N="44a" UNIT="fol."/></L>
+<L>I thought I wold doo their entente</L>
+<L>I fell on hym ofte I hym kyste</L>
+<L>We leyde hym in a monument</L>
+<L>Oure hertys all be gan to breste</L>
+<L>With wayll and crye enterly shent</L>
+<L>Knelynge his body ofte I kyste</L>
+<L>Ouyr wrapte in fressh enoyntme<HI REND="italic">n</HI>t</L>
+<L>We toke oure leue and hom we went</L>
+<L>All thynge departyd with pure pite</L>
+<L>To thynke on this who nyll assent</L>
+<L>Allas allas com wepe with me.</L>
+</LG>
+<LG N="56">
+<HEAD>LVI.</HEAD>
+<L>That nyght that day eke foluynge</L>
+<L>With mary mandeleyn and seynt Iohn</L>
+<L>And with my susterys sore wepynge</L>
+<L>I dwellyd full sere makynge my mone</L>
+<L>I cryed ofte tymes where is my kynge</L>
+<L>Where is my lorde whedyr is he gon</L>
+<L><PB N="289" REF="21"/>
+Where is my loue and my derlynge</L>
+<L>Where is my sone saie haue I non</L>
+<L>Now waile now wepe now crye now gron</L>
+<L>This was my lyfe whilys I hym se</L>
+<L>All were dispayred saue I alone</L>
+<L>Who cannot wepe come lerne att me</L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<L>The thirde day next my sone vprose</L>
+<L>Immortall man and god all so</L>
+<L>To comforte hem than was is purpose</L>
+<L>Wich for his deth was left in woo</L>
+<L>O man full well thou mayst suppose</L>
+<L>He was not longe his modyr fro</L>
+<L>For me his grace he gan vnclose</L>
+<L>Att me he was with outyn moo</L>
+<L>Heyll holy modyr sayde he tho</L>
+<L>Thi sone iħu beholde and see</L>
+<L>For ioy distyllyd myn een two</L>
+<L>Therfor to wepe com lerne at me</L>
+</LG>
+<LG N="58">
+<HEAD>LVIII.</HEAD>
+<L>I fell on kneys and gan enbrace <MILESTONE N="44b" UNIT="fol."/></L>
+<L>Hym in my arme and ofte I kyste</L>
+<L>His feet his handys his mouth his face</L>
+<L>His heuynly body oft I blyste</L>
+<L>He seide .o. modyr make solace</L>
+<L>Thy sad beleue hath brought to reste</L>
+<L>All holy chirch and set in grace</L>
+<L>And man is sauyd thorugh þ<SUP>i</SUP> good truste</L>
+<L>And deth is ou<HI REND="italic">er</HI>come and lyfe hath his lyste</L>
+<L>Modyr of m<HI REND="italic">er</HI>cy make I the</L>
+<L>For ioye myn een with teres doun <NOTE N="1)" PLACE="foot">Corrected in margin to 'to' in later hand.</NOTE> breste</L>
+<L>Therfor to wepe com lerne att me.</L>
+</LG>
+<LG N="59">
+<HEAD>LIX.</HEAD>
+<L>To mary maudeleyn full of woo</L>
+<L>Afore other he lust to appere</L>
+<L>To his dicipules efte also</L>
+<L>He shewed hym in the same maner<HI REND="italic">re</HI></L>
+<L>In sade beleue he set hem tho</L>
+<L>His vprisynge he shewed so clere</L>
+<L><PB N="290" REF="22"/>
+Their sharpe peyne he mad ou<HI REND="italic">er</HI> goo</L>
+<L>Thei thankyd god with humbyl chere</L>
+<L>He ete with hem and drank in fere</L>
+<L>Bad alwey pes amonge hem be</L>
+<L>For ioy I wept many a teere</L>
+<L>Therfor that craft com lerne att me.</L>
+</LG>
+<LG N="60">
+<HEAD>LX.</HEAD>
+<L>Fourty days he was in erth</L>
+<L>Aftyr his resurreccion</L>
+<L>Gaderyd his folke as a . noble herde</L>
+<L>To see his blyst Assencion</L>
+<L>Full happy was our aller werde</L>
+<L>Full swete was oure deuocion</L>
+<L>We war full glade and nothynge ferde</L>
+<L>He yaue vs all his benyson</L>
+<L>A clere cloude was redy boun</L>
+<L>Hym to reseyue and vp went he</L>
+<L>For ioy my terys styllyd doun</L>
+<L>Therfor to wepe com lerne att me.</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<L>Thus when my sone to heuyn was went <MILESTONE N="45a" UNIT="fol."/></L>
+<L>The appostylles and my self in fere</L>
+<L>To pray and fast were diligent</L>
+<L>Whilys that the tyme approchid nere</L>
+<L>In the wich the holy gost he sente</L>
+<L>With brennyng tunges in sych maner</L>
+<L>For they his grace enspiryd had hente</L>
+<L>All language was to hem clere</L>
+<L>All p<HI REND="italic">ro</HI>phice gan to appere</L>
+<L>We brent in loue and charyte</L>
+<L>I thankyd god with many a tere</L>
+<L>Therfore to wepe com lerne att me.</L>
+</LG>
+<LG N="62">
+<HEAD>LXII.</HEAD>
+<L>Be tyme and p<HI REND="italic">ro</HI>cesse aftyr this</L>
+<L>The apostilles went fro toun to toun</L>
+<L>And many a . wondyr wroght <NOTE N="1)" PLACE="foot">MS. 'wrogh'; 't' added in margin in later hand.</NOTE> Iwisse</L>
+<L>Prechynge the resurreccon</L>
+<L>Of my sone kynge of lastynge blysse</L>
+<L>His lyfe his deth his passion</L>
+<L><PB N="291" REF="23"/>
+Folke wich were glad to amende ther mysse</L>
+<L>They baptized with deuocion</L>
+<L>And set hem in p<HI REND="italic">er</HI>feccon</L>
+<L>To serue god in all degre</L>
+<L>For ioy my terys were redy boun</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII.</HEAD>
+<L>Sone aftyr this when it was saide</L>
+<L>That Iohn and Petyr takyn were</L>
+<L>The Apostilles all in pryson layde</L>
+<L>Stephyn broght to deth with peynys sere</L>
+<L>How Saule the kyrke had all a frayed</L>
+<L>Throgh ire and cruelte in fere</L>
+<L>In herte I was so dismayed</L>
+<L>That oftyn for woo chaunged my chere</L>
+<L>To me anon that wolde it apere</L>
+<L>How that my sone deyd vpon a tree</L>
+<L>For whom they broght were in such fere</L>
+<L>Allas allas com<HI REND="italic">m</HI> wepe with me.</L>
+</LG>
+<LG N="64">
+<HEAD>LXIV.</HEAD>
+<L>Thus vnto mynde alwey I brought <MILESTONE N="45b" UNIT="fol."/></L>
+<L>My sonys byttir passion</L>
+<L>His sepulcre oft tymys I sought</L>
+<L>The place of his assencion</L>
+<L>To visite oft forgate I noght</L>
+<L>With pure and meke deuocion</L>
+<L>Fallynge on knees I hym be soght</L>
+<L>To haste me to his mancion</L>
+<L>For withoute gret compassion</L>
+<L>In his absens I myght not be</L>
+<L>To wepe I was ay redy boun</L>
+<L>Therfor that craft com lerne att me.</L>
+</LG>
+<LG N="65">
+<HEAD>LXV.</HEAD>
+<L>Anoon to petyr then he seyde</L>
+<L>Se that my modyrs sepulture</L>
+<L>As I haue ordeyned be yt arayed</L>
+<L>With worship and all honoure.</L>
+<L>The thirde day when scho is layde</L>
+<L>I schal vpreyse hir body pure</L>
+<L>Than prayed I hym as his hand maide</L>
+<L>To saue me fro the opp<HI REND="italic">re</HI>ssure</L>
+<L><PB N="292" REF="24"/>
+Of feendys blake and here figure</L>
+<L>He sayde modyr and you hem see</L>
+<L>Thei schal not noy I the ensure</L>
+<L>Who cannot wepe com lerne att me</L>
+</LG>
+<LG N="66">
+<HEAD>LXVI.</HEAD>
+<L>He sayde be glade .o. modyr mylde</L>
+<L>Be not a gast do wey all feere</L>
+<L>To leue this world wrechid 7 wilde</L>
+<L>And dwelle with me thi sone so dere</L>
+<L>Of the I cam I am thi childe</L>
+<L>In heuyn I schal make appere</L>
+<L>Abone all seyntys with flessh vnfilyd</L>
+<L>Emp<HI REND="italic">er</HI>esse and qwene thou schal be <NOTE N="1)" PLACE="foot">'be' written above the line.</NOTE> there</L>
+<L>Next ioyned vnto the godhed clere</L>
+<L>All seyntes in heuyn <NOTE N="2)" PLACE="foot">Corrected in margin to 'blisse' in later hand.</NOTE> abydyn the</L>
+<L>Myn een for ioy distyllyd were</L>
+<L>Therfor to wepe come lerne att me.</L>
+</LG>
+<LG N="67">
+<HEAD>LXVII.</HEAD>
+<L>O mercyfull and full of grace <MILESTONE N="46a" UNIT="fol."/></L>
+<L>O god I seyde full of alle myghte</L>
+<L>Thou ert my sone I knewe thi face</L>
+<L>Be it to me as thou hast hyghte</L>
+<L>My gost I yelde the in this place</L>
+<L>And with that worde most heuenly bright</L>
+<L>My soule he toke with all solace</L>
+<L>With pure sweetnes and bemys lyght</L>
+<L>With angelys songe to heuyn on hyght</L>
+<L>Be stowed it next the trinite</L>
+<L>Att my passynge wepped many a wight</L>
+<L>Therfor to wepe com lerne att me</L>
+</LG>
+<LG N="68">
+<HEAD>LXVIII.</HEAD>
+<L>The thirde day next my sone went doun</L>
+<L>To erth with mery gerarchy</L>
+<L>Of Angellys brygh and heuynly soun</L>
+<L>With fragrant odure copyously</L>
+<L>Toke <NOTE N="3)" PLACE="foot">'ke' written above the line.</NOTE> vp my body with renoun</L>
+<L>In soule and lyfe full gloriously</L>
+<L><PB N="293" REF="25"/>
+Be hem was myn assumpson</L>
+<L>Solemnyzate full graciously</L>
+<L>With hym he toke me bodyly</L>
+<L>Empresse of heuyn all wey to be</L>
+<L>For mannes aduocate made am I</L>
+<L>Therfor to wepe com lerne att me.</L>
+</LG>
+<LG N="69">
+<HEAD>LXIX.</HEAD>
+<L>O man yf thou to wepe wolt lere</L>
+<L>And for to bryst thi stony hert</L>
+<L>Thynke on what I haue saide þ<SUP>e</SUP> here</L>
+<L>Remembre well <NOTE N="1)" PLACE="foot">MS. 'will'.</NOTE> the peynys smerte</L>
+<L>My sone hath bought thi synne so dere</L>
+<L>His loue fro the may not asterte</L>
+<L>Aske m<HI REND="italic">er</HI>cy for thi synnes sere</L>
+<L>And from dispeyr thou the conu<HI REND="italic">e</HI>rte</L>
+<L>Thus must thou kepe thi soule i<HI REND="italic">n</HI> querte</L>
+<L>Mercy receyue and v<HI REND="italic">en</HI>iaunce fle</L>
+<L>In wepynge whiles thou be experte</L>
+<L>Thus mayst thou com and lerne att me.</L>
+</LG>
+<LG N="70">
+<HEAD>LXX.</HEAD>
+<L>Conceyue also for sothe yt is <MILESTONE N="46b" UNIT="fol."/></L>
+<L>Ther was not but thi synne only</L>
+<L>My sone and me that slouh Iwisse</L>
+<L>Hym bodyly and me gostly</L>
+<L>Also I pray the thynke on this</L>
+<L>Or thou endlesse schuld wrangwisly</L>
+<L>For lak of m<HI REND="italic">er</HI>cy fare amysse</L>
+<L>Yf it were possible trewly</L>
+<L>My sone and I eke efte schuld dye</L>
+<L>O man thynke wat I sey to the</L>
+<L>For sake thy synne and aske m<HI REND="italic">er</HI>cy</L>
+<L>And for to wepe com lerne att me</L>
+</LG>
+<LG N="71">
+<HEAD>LXXI.</HEAD>
+<L>Trowest thou man that the terys of bloode</L>
+<L>Wich I distyllyd on good fryday</L>
+<L>When my sone was brought on the roode</L>
+<L>With out meryte be lefte away</L>
+<L>They be full p<HI REND="italic">re</HI>ciouse and full goode</L>
+<L>Att all tymes fressh as rose in may</L>
+<L><PB N="294" REF="26"/>
+To shewe my sone when thou wer woode</L>
+<L>Thy sowle with syn luste to betray</L>
+<L>My brystys eke I schal display</L>
+<L>Distillynge mylke of chastyte</L>
+<L>For the .o. man thus schal I p<HI REND="italic">r</HI>ay</L>
+<L>Yf thou to wepe will lerne att me</L>
+</LG>
+<LG N="72">
+<HEAD>LXXII.</HEAD>
+<L>Than schal my sone his hertes wounde</L>
+<L>Knelynge afore his faderys feete</L>
+<L>And I my selfe my brestys rownde</L>
+<L>And eke my blody terys weete</L>
+<L>Shew for thy sake and in that stounde</L>
+<L>All seyntes schal p<HI REND="italic">r</HI>ay with p<HI REND="italic">r</HI>ayers swete</L>
+<L>That yf the deuyll in helle grounde</L>
+<L>Myght trust in grace repente and grete</L>
+<L>And aske m<HI REND="italic">er</HI>cy he schulde it mete</L>
+<L>For in that tyme the trinite</L>
+<L>With all mercy is full replete</L>
+<L>Therfor to wepe com lerne att me.</L>
+</LG>
+<CLOSER><DATELINE>MUNICH.</DATELINE>
+<SIGNED>ROBERT MAX GARRETT.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

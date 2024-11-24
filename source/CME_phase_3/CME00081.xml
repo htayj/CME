@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-21-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; added HEADNOTE; changed a TRAILER to CLOSER; added LGs throughout; added missing final NOTE; removed incorrect MILESTONEs from NOTEs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00081">
+<STC T="M">81</STC>
+<BIBNO T="mec">CME00081</BIBNO>
+<VID>CME00081</VID>
+</IDG>
+<TEXT LANG="enm eng">
+<BODY>
+<DIV1 TYPE="collection of poems">
+<PB REF="1"/>
+<HEAD>I. SHORT PIECES FROM MS. COTTON GALBA E. IX.</HEAD>
+<HEADNOTE><P>The first and third pieces are here printed for the first time, the second has already appeared in Pieces of Ancient Popular Poetry. By Joseph Ritson, second edition, London 1833, and in the Appendix to the Latin Poems of Walter Mapes edited by Thomas Wright for the Camden Society. A table of the contents of the MS. will be found in the introduction to my edition of Minot's poems.</P></HEADNOTE>
+<DIV2 N="1" TYPE="poem">
+<HEAD>I. In imagine pertransit homo.</HEAD>
+<LG>
+<L>Al es bot a fantu<HI REND="italic">m</HI> þ<HI REND="italic">a</HI>t <HI REND="italic">we</HI> with ffare, <MILESTONE N="48b" UNIT="f."/>, <MILESTONE N="2." UNIT="col."/> <NOTE PLACE="foot">1 <HI REND="italic">we</HI> om. MS.</NOTE></L>
+<L>Vs behoues ilka day heþen make us ȝare, <NOTE PLACE="foot">2 <HI REND="italic">heþen make us ȝare,</HI> make ourselves ready to depart hence.</NOTE></L>
+<L>Forto wend fra þis werld naked &amp; bare,</L>
+<L>Bot our wyndyng clathe, with outen any gare, <NOTE PLACE="foot">4 <HI REND="italic">our] o</HI> above the line MS.</NOTE></L>
+<L>Litel while sal we hald þ<HI REND="italic">a</HI>t we so fast spare, <MILESTONE N="5"/></L>
+<L>Other men sal it wast þ<HI REND="italic">a</HI>t we obout care,</L>
+<L>He þ<HI REND="italic">a</HI>t maste hordes sal rew it ful sare,</L>
+<L>Saue þ<HI REND="italic">a</HI>t we do for Godes loue haue we na mare.</L>
+</LG>
+<LG>
+<L>Al es bot a fantu<HI REND="italic">m</HI> þ<HI REND="italic">a</HI>t we w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> dele,</L>
+<L>Many has hap and many vnsele, <MILESTONE N="10"/></L>
+<L>Be ye neuer so hate, ȝit may it kele,</L>
+<L>Lat noght þe pou<HI REND="italic">er</HI> by þ<HI REND="italic">a</HI>t þe es ou<HI REND="italic">er</HI> wele. <NOTE PLACE="foot">12 Do not suffer the poor to purchase what you have in superabundance.</NOTE></L>
+<L>Do þou il, do þou wil, bathe sal þou fele</L>
+<L>When bathe lig<HI REND="italic">g</HI>es in lik hegh þi hed &amp; þi hele. <NOTE PLACE="foot">14 When your head and your heels are on the same level.</NOTE></L>
+</LG>
+<LG>
+<PB N="202" REF="2"/>
+<L>Al es bot a fantu<HI REND="italic">m</HI> þ<HI REND="italic">a</HI>t we so fast hald, <MILESTONE N="15"/></L>
+<L>Litel gode can þe ȝong &amp; les can þ<HI REND="italic">e</HI> ald, <NOTE PLACE="foot">16 <HI REND="italic">þald</HI> MS.</NOTE></L>
+<L>Him self sal hald hi<HI REND="italic">m</HI> a fole þ<HI REND="italic">a</HI>t most has i<HI REND="italic">n</HI> wald,</L>
+<L>When he sal on domesday his justis byhald,</L>
+<L>Þan sal he sik &amp; sorow many fald</L>
+<L>Þ<HI REND="italic">a</HI>t he had wroght in þis werld as God <HI REND="italic">him</HI> wald; <MILESTONE N="20"/> <NOTE PLACE="foot">20 <HI REND="italic">him</HI> om. MS.</NOTE></L>
+<L>Help þe pouer in honger &amp; in cald,</L>
+<L>Þan may þow be for an of his tald.</L>
+</LG>
+<LG>
+<L>Al es bot a fantu<HI REND="italic">m</HI> þ<HI REND="italic">a</HI>t most es our thoght,</L>
+<L>Þat es þe welþe of þis werld þ<HI REND="italic">a</HI>t es noght. <NOTE PLACE="foot">24 <HI REND="italic">noght] o</HI> above the line.</NOTE></L>
+<L>Þar we sal haue our dome als we haue wroght, <MILESTONE N="25"/></L>
+<L>Of al our misdedeȝ forthe sal be soght, <MILESTONE N="49a" UNIT="f."/>, <MILESTONE N="1." UNIT="col."/></L>
+<L>Of manikyn folis þ<HI REND="italic">a</HI>t we littel roght.</L>
+<L>Prai we to Godes son þ<HI REND="italic">a</HI>t dere has us boght,</L>
+<L>Til þe ioy þar he wones þ<HI REND="italic">a</HI>t we may be broght.</L>
+</LG>
+<LG>
+<L>Al es bot a fantom þ<HI REND="italic">a</HI>t most es our<HI REND="italic">e</HI> thoght, <MILESTONE N="30"/></L>
+<L>Þat es þe welth o þis werld þ<HI REND="italic">a</HI>t saul helpes n<HI REND="italic">ogh</HI>t. <NOTE PLACE="foot">31 <HI REND="italic">oþis</HI> MS.</NOTE></L>
+<L>When we sal her<HI REND="italic">e</HI> our dome als we haue wroght,</L>
+<L>Of al our misdedeȝ forth sal be soght,</L>
+<L>Of manikyn folis þ<HI REND="italic">a</HI>t us littel roght.</L>
+</LG>
+<LG>
+<L>Ȝit es þar a fantom lest forto praies; <MILESTONE N="35"/></L>
+<L>Þou rekes n<HI REND="italic">ogh</HI>t of þi brother bot þou be at ais, <NOTE PLACE="foot">36 <HI REND="italic">bot</HI> seems to mean, provided that.</NOTE></L>
+<L>When þou lyes bonden als hering dos in maies, <NOTE PLACE="foot">37 <HI REND="italic">maies,</HI> O.N. meiss, a wicker basket. A mese of herring means now five hundred.</NOTE></L>
+<L>In payne for þi mi<HI REND="italic">s</HI>dedeȝ, wha sal þe raies?</L>
+<L>Of al þas þ<HI REND="italic">a</HI>t befor wald þe so fast praies</L>
+<L>ffindes þou þan na frende þ<HI REND="italic">a</HI>t þe wil up laies. <MILESTONE N="40"/> <NOTE PLACE="foot">40 <HI REND="italic">laies</HI> is wrong, perhaps <HI REND="italic">tais:</HI> Kölbing.</NOTE></L>
+</LG>
+<LG>
+<L>Litel pite men thinkes of þi mikel care,</L>
+<L>Þou ne rekes in þi lif how þi saul fare;</L>
+<L>To gif to þe pou<HI REND="italic">er</HI> nothing mightow spare,</L>
+<L>To hald þi caitif saul fra sorow &amp; care,</L>
+<L>Es þar noman þe menes þe les no þe mare, <MILESTONE N="45"/></L>
+<L>Þou ert wilet w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe werld &amp; tan in þe snare.</L>
+</LG>
+<LG>
+<L>Þou ert tan w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a snare to put in hel pitt;</L>
+<L>Blam þarfor naman bot þi awen witt. <NOTE PLACE="foot">48 after <HI REND="italic">þarfor, þe</HI> MS.</NOTE></L>
+<L>Be side mani sar<HI REND="italic">i</HI> sal þou þare sitt, <NOTE PLACE="foot">49 <HI REND="italic">sare</HI> MS.</NOTE></L>
+<L>Of God &amp; of heuyn blis ertow ful quitt. <MILESTONE N="50"/></L>
+<L><PB N="203" REF="3"/>
+Gerrard hem self sal gif þe a smitt; <NOTE PLACE="foot">51 <HI REND="italic">Gerrard,</HI> the devil. Comp. Cursor Mundi, ll. 18227 &amp; 11811. Bemond is another popular name for him. Hymns to the Virgin (E. E. T. S. no. 24) 61/95.</NOTE></L>
+<L>Als blak as hi<HI REND="italic">m</HI> self makes he þe lik. <NOTE PLACE="foot">52 <HI REND="italic">lik</HI> spoils the rhyme; read <HI REND="italic">þi lit:</HI> Kölbing.</NOTE></L>
+</LG>
+<LG>
+<L>Al es bot a fantom þ<HI REND="italic">a</HI>t we with daile;</L>
+<L>Al þe gode þ<HI REND="italic">a</HI>t þou has getin it sal n<HI REND="italic">ogh</HI>t þe availe,</L>
+<L>When þou ert put in þi pit þi frendeȝ þe faile, <MILESTONE N="55"/> <NOTE PLACE="foot">55 <HI REND="italic">pit,</HI> the grave.</NOTE></L>
+<L>Þi sekt<HI REND="italic">ur</HI>s, þi gode skift has made þe at aile. <NOTE PLACE="foot">56 Thy executors, thy careful distribution of thy property have brought thee to grief. For <HI REND="italic">sekturs,</HI> comp. Rel. Ant. 1, p. 314. 'Too secuturs and an overseere make thre theves'. As for <HI REND="italic">scift,</HI> O.E. sciftan. O.N. skipti, comp. Halliwell under shift. 'A division of land among coheirs is called a shifting'.</NOTE></L>
+</LG>
+<LG>
+<L>Mikel ferly me think þ<HI REND="italic">a</HI>t men in þar<HI REND="italic">e</HI> lyfe</L>
+<L>Al þe gode þ<HI REND="italic">a</HI>t þai haue geten þai leuit w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þar<HI REND="italic">e</HI> wife,</L>
+<L>When he es at his lang h<HI REND="italic">a</HI>m, scho eges hir<HI REND="italic">e</HI> be lyfe</L>
+<L>To take hir<HI REND="italic">e</HI> a ȝong swayn þ<HI REND="italic">a</HI>t wil mai hir<HI REND="italic">e</HI> swyfe. <MILESTONE N="60"/></L>
+</LG>
+<LG>
+<L>I hald hi<HI REND="italic">m</HI> a grete fole &amp; <HI REND="italic">þat</HI> kan litel skile, <NOTE PLACE="foot">61 <HI REND="italic">þat</HI> om. MS.</NOTE></L>
+<L>When he seeȝ þ<HI REND="italic">a</HI>t he sitȝ opon þe pit hil, <NOTE PLACE="foot">62 When he sees himself on the edge of the grave.</NOTE></L>
+<L>To take hi<HI REND="italic">m</HI> any sekt<HI REND="italic">ur</HI> gode or jl,</L>
+<L>fforto dele his gode, i n<HI REND="italic">e</HI> wot whartil. <NOTE PLACE="foot">64 <HI REND="italic">inwot</HI> MS.</NOTE></L>
+</LG>
+<LG>
+<L>Þai wil dele nothing bot þai<HI REND="italic">m</HI> wile list; <MILESTONE N="65"/></L>
+<L>Þam thoght it ful <HI REND="italic">l</HI>itel þai fand in his kist; <NOTE PLACE="foot">66 <HI REND="italic">fulitel</HI> MS.</NOTE> <NOTE PLACE="foot">66 The executors express their surprise at the small sum the dead man has left. <HI REND="italic">dale</HI> in 67 is <HI REND="italic">deal,</HI> distribution.</NOTE></L>
+<L>Þai ne rek of the dale how lang it es mist;</L>
+<L>Þai wil sai þai haue delt if naman it wist.</L>
+</LG>
+<LG>
+<L>He þ<HI REND="italic">a</HI>t kan in his hert wile vndrestand <NOTE PLACE="foot">69 <HI REND="italic">wile,</HI> well.</NOTE></L>
+<L>He sal dele at his dore w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his awen hand, <MILESTONE N="70"/></L>
+<L>Whils he mai on his fete in þe wai stand,</L>
+<L>Els sal he be giled when he mai n<HI REND="italic">ogh</HI>t gang.</L>
+</LG>
+<LG>
+<L>Al es bot a fantom þ<HI REND="italic">a</HI>t we about ga; <MILESTONE N="49a" UNIT="f."/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>Þat es þe welth o þis we<HI REND="italic">r</HI>ld þ<HI REND="italic">a</HI>t wirkes many wa.</L>
+<L>When þou lys in þi bed opon þi dede stra, <MILESTONE N="75"/></L>
+<L>Þou wenes to gif it þi frende &amp; leues it þi fa. <NOTE PLACE="foot">76 <HI REND="italic">gifit</HI> MS.</NOTE></L>
+<L>When dede has þe begiled, as he dos many ma,</L>
+<L>Of al þi gode ertow quitt þ<HI REND="italic">a</HI>t tow ferd fra.</L>
+</LG>
+<LG>
+<L>Þis we<HI REND="italic">r</HI>ld es bot a fantom, sothe forto sai; <NOTE PLACE="foot">79 <HI REND="italic">weld</HI> MS.</NOTE></L>
+<L>Now mai þou se a man her<HI REND="italic">e</HI> &amp; sone es he a wai. <MILESTONE N="80"/> <NOTE PLACE="foot">80 <HI REND="italic">he</HI> above the line MS.</NOTE></L>
+<L>Thynk on þi saule &amp; gif, whils þou mai;</L>
+<L><PB N="204" REF="4"/>
+He þat hordes most sal rew it for ay: <NOTE PLACE="foot">82 <HI REND="italic">rewit</HI> MS.</NOTE></L>
+<L>He thinkes more on his hord þ<HI REND="italic">a</HI>t in kist lay,</L>
+<L>Þan of God him self be nyghte or<HI REND="italic">e</HI> be day.</L>
+</LG>
+<LG>
+<L>Prai we to þ<HI REND="italic">a</HI>t iusticȝ þat al thing wate; <MILESTONE N="85"/></L>
+<L>Of al þe dedes þ<HI REND="italic">a</HI>t we haue done he knawes o<HI REND="italic">u</HI>r<HI REND="italic">e</HI> state,</L>
+<L>Þat we haue wroght in our<HI REND="italic">e</HI> lyue arly &amp; late.</L>
+<L>To þe ioy þar<HI REND="italic">e</HI> he wones he lede vs þe gate,</L>
+<L>Grant til vs his jritag<HI REND="italic">e,</HI> to ent<HI REND="italic">er</HI> at his ȝate, <NOTE PLACE="foot">89 <HI REND="italic">jritage,</HI> heritage, inheritance.</NOTE></L>
+<L>To folow vs our<HI REND="italic">e</HI> charite of þe lang date, <MILESTONE N="90"/> <NOTE PLACE="foot">90 Grant that the acts of charity done long ago may follow us for reward.</NOTE></L>
+<L>Þat we þ<HI REND="italic">a</HI>t stede noght se þar<HI REND="italic">e</HI> sauleȝ ay grate.</L>
+</LG>
+<LG>
+<L>He þ<HI REND="italic">a</HI>t þis sang made Jh<HI REND="italic">es</HI>u<HI REND="italic">s</HI> mirthe he hade. <NOTE PLACE="foot">91, 92 transposed in MS.</NOTE> <NOTE PLACE="foot">92 <HI REND="italic">mirthe] i</HI> above the line MS. <HI REND="italic">hade] gate</HI> is to be read: K.</NOTE></L>
+</LG>
+<LG>
+<L>Ȝit sais Jh<HI REND="italic">es</HI>u<HI REND="italic">s</HI> mery als he saide are,</L>
+<L>Al es bot a fantom þ<HI REND="italic">a</HI>t we obout fare.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<HEAD>II. Incipit narracio de d<HI REND="italic">omi</HI>no denario. <MILESTONE N="50b" UNIT="f."/>, <MILESTONE N="2." UNIT="col."/></HEAD>
+<LG>
+<L>In erth it es a litill thing,</L>
+<L>And regnes als a riche king,</L>
+<L>Whare he es lent in land;</L>
+<L>Sir peni es his name talde; <NOTE PLACE="foot">4 <HI REND="italic">talde]</HI> calde. Ritson, Wright.</NOTE></L>
+<L>He makes both ȝong &amp; alde <MILESTONE N="5"/></L>
+<L>Bow vntill his hand.</L>
+</LG>
+<LG>
+<L>Papes, kinges and emp<HI REND="italic">er</HI>oures,</L>
+<L>Bisschoppes, abbottes and priowres,</L>
+<L>Person, prest and knyght,</L>
+<L>Dukes, erles and ilk barowne, <MILESTONE N="10"/></L>
+<L>To serue him er þai ful boune</L>
+<L>Both bi day and nyght. <NOTE PLACE="foot">12 <HI REND="italic">biday</HI> MS.</NOTE></L>
+</LG>
+<LG>
+<L>Sir Peni chaunges <HI REND="italic">ofte</HI> mans mode, <NOTE PLACE="foot">13 <HI REND="italic">þeni]</HI> above line MS. <HI REND="italic">ofte]</HI> om. MS. supplied from Caius MS. by Ritson.</NOTE></L>
+<L>And gers þam oft do doun þaire hode, <NOTE PLACE="foot">14 <HI REND="italic">do doun] to don,</HI> Ritson. <HI REND="italic">to doun,</HI> Wright.</NOTE></L>
+<L>And to rise him ogayne. <MILESTONE N="15"/></L>
+<L>Men honors him with grete reuerence,</L>
+<L>Makes ful mekell obedience</L>
+<L>Vnto þat litill swaine.</L>
+</LG>
+<LG>
+<PB N="205" REF="5"/>
+<L>In kinges court es it no bote,</L>
+<L>Ogaines Sir Peni forto mote, <MILESTONE N="20"/></L>
+<L>So mekill es he of myght;</L>
+<L>He es so witty and so strang,</L>
+<L>Þat be it neu<HI REND="italic">er</HI> so mekill wrang,</L>
+<L>He will mak it right.</L>
+</LG>
+<LG>
+<L>With Peny may men weme<HI REND="italic">n</HI> till, <MILESTONE N="25"/></L>
+<L>Be þai neuer so strange of will,</L>
+<L>So oft may it be sene.</L>
+<L>Lang with hi<HI REND="italic">m</HI> will þai noght chide,</L>
+<L>For he may ger þam trayl syde <NOTE PLACE="foot">29 <HI REND="italic">trayl syde,</HI> to wear gowns with long trains.</NOTE></L>
+<L>In gude skarlet and grene. <MILESTONE N="51a" UNIT="f."/>, <MILESTONE N="1." UNIT="col."/> <MILESTONE N="30"/></L>
+</LG>
+<LG>
+<L>He may by both heuyn and hell,</L>
+<L>And ilka thing þat es to sell,</L>
+<L>In erth has he swilk g<HI REND="italic">ra</HI>ce.</L>
+<L>He may lese and he may bind,</L>
+<L>Þe pouer er ay put bihind, <MILESTONE N="35"/></L>
+<L>Whare he cu<HI REND="italic">m</HI>es in place.</L>
+</LG>
+<LG>
+<L>When he bigines hi<HI REND="italic">m</HI> to mell,</L>
+<L>He makes meke þat are was fell</L>
+<L>And waik þat bald has bene.</L>
+<L>All þe nedes ful sone er sped <MILESTONE N="40"/> <NOTE PLACE="foot">40 <HI REND="italic">þe] ye</HI> Ritson.</NOTE></L>
+<L>Bath with owten borgh and wed,</L>
+<L>Whare Peni gase bitwene.</L>
+</LG>
+<LG>
+<L>Þe domes men he mase so blind,</L>
+<L>Þat he may noght þe right find <NOTE PLACE="foot">44 <HI REND="italic">he]</HI> read <HI REND="italic">þai.</HI></NOTE></L>
+<L>Ne þe suth to se. <MILESTONE N="45"/></L>
+<L>Forto gif dome þam es ful lath,</L>
+<L>Þarwith to mak Sir Peni wrath,</L>
+<L>Ful dere with þam es he.</L>
+</LG>
+<LG>
+<L>Þare strif was Peni makes pese,</L>
+<L>Of all angers he may relese, <MILESTONE N="50"/></L>
+<L>In land whare he will lende:</L>
+<L>Of fase may he mak frendes sad,</L>
+<L>Of counsail thar þam neu<HI REND="italic">er</HI> be rad</L>
+<L>Þat may haue him to frende.</L>
+</LG>
+<LG>
+<L>Þat sire es set on high dese, <MILESTONE N="55"/></L>
+<L>And serued with mani riche mese,</L>
+<L>At þe high burde.</L>
+<L><PB N="206" REF="6"/>
+Þe more he es to men plente,</L>
+<L>Þe more ȝernid alway es he</L>
+<L>And halden dere in horde. <MILESTONE N="60"/></L>
+</LG>
+<LG>
+<L>He makes mani be forsworne,</L>
+<L>And su<HI REND="italic">m</HI> life and saul forlorne,</L>
+<L>Him to get and wyn.</L>
+<L>Oþer god will þai none haue</L>
+<L>Bot þat litil round knaue, <MILESTONE N="65"/></L>
+<L>Þaire bales forto blin.</L>
+</LG>
+<LG>
+<L>On him halely þaire hert es sett, <NOTE PLACE="foot">67 <HI REND="italic">hert es] hertes</HI> Ritson, Wright.</NOTE></L>
+<L>Him forto luf will þai noght let</L>
+<L>Nowþer for gude ne ill.</L>
+<L>All þat he will in erth haue done, <MILESTONE N="70"/></L>
+<L>Ilka man grantes it ful sone,</L>
+<L>Right at his awin will.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Peni</HI> may both lene and gyf. <NOTE PLACE="foot">73 <HI REND="italic">Peni] he</HI> MS.</NOTE></L>
+<L>He may ger both sla and lif</L>
+<L>Both by frith and fell. <MILESTONE N="75"/></L>
+</LG>
+<LG>
+<L>Peni es a gude felaw,</L>
+<L>Men welcums him in dede and saw, <MILESTONE N="51a" UNIT="f."/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>Cum he neuer so oft.</L>
+<L>He es noght welkumd als a gest,</L>
+<L>Bot eu<HI REND="italic">er</HI>more serued with þe best <MILESTONE N="80"/></L>
+<L>And made at sit ful soft.</L>
+</LG>
+<LG>
+<L>Who so es sted in any nede,</L>
+<L>With Sir Peni may þai spede,</L>
+<L>How so euer bytide. <NOTE PLACE="foot">84 Ritson inserts <HI REND="italic">they</HI> before <HI REND="italic">bytide.</HI></NOTE></L>
+<L>He, þat Sir Peni es with all, <MILESTONE N="85"/></L>
+<L>Sal haue his will in stede and stall,</L>
+<L>When oþer er set byside.</L>
+</LG>
+<LG>
+<L>Sir Peny gers in riche wede</L>
+<L>Ful mani go &amp; ride on stede,</L>
+<L>In þis werldes wide. <MILESTONE N="90"/> <NOTE PLACE="foot">90 <HI REND="italic">werldes.</HI> Ritson reads <HI REND="italic">werlde.</HI></NOTE></L>
+<L>In ilka gamin and ilka play,</L>
+<L>Þe maystri es gifen ay</L>
+<L>To Peny for his pride.</L>
+</LG>
+<LG>
+<L>Sir Peny ouer all gettes þe gre,</L>
+<L>Both in burgh and in cete, <MILESTONE N="95"/></L>
+<L>In castell and in towre.</L>
+<L><PB N="207" REF="7"/>
+With owten owþer spere or schelde,</L>
+<L>Es he þe best in frith or felde,</L>
+<L>And stalworthest in stowre.</L>
+</LG>
+<LG>
+<L>In ilka place, þe suth es sene, <MILESTONE N="100"/></L>
+<L>Sir Peni es ouer albidene,</L>
+<L>Maister most in mode.</L>
+<L>And all es als he will cumand,</L>
+<L>Oganis his steuyn dar no man stand,</L>
+<L>Nowþer by land ne flode. <MILESTONE N="105"/></L>
+</LG>
+<LG>
+<L>Sir Peny mai ful mekill availe</L>
+<L>To þam þat has nede of cownsail,</L>
+<L>Als sene es in assise.</L>
+<L>He lenkithes life and saues fro ded,</L>
+<L>Bot luf it noght ouer wele, I rede, <MILESTONE N="110"/></L>
+<L>For sin of couaityse.</L>
+</LG>
+<LG>
+<L>If þou haue happ tresore to win,</L>
+<L>Delite þe noght to mekill þarin,</L>
+<L>Ne nything þareof be;</L>
+<L>Bot spend it als wele als þou can, <MILESTONE N="115"/></L>
+<L>So þat þou luf both God and man</L>
+<L>In p<HI REND="italic">er</HI>fite charite.</L>
+</LG>
+<LG>
+<L>God grante vs grace with hert &amp; will,</L>
+<L>Þe gudes þat he has gifen vs till</L>
+<L>Wele and wisely to spend, <MILESTONE N="120"/></L>
+<L>And so oure liues here forto lede</L>
+<L>Þat we may haue his blis to mede</L>
+<L>Euer with owten end.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV2>
+<DIV2 N="3" TYPE="poem">
+<HEAD>III. Popule meus, quid feci tibi?</HEAD>
+<Q><L>Vos qui t<HI REND="italic">ra</HI>nsitis: si crimina flere uelitis. <MILESTONE N="51b" UNIT="f."/>, <MILESTONE N="1." UNIT="col."/></L>
+<L>Per me t<HI REND="italic">ra</HI>nsite: qui sum ianua vite.</L></Q>
+<LG>
+<L>Bides a while and haldes ȝoure pais,</L>
+<L>And heres what God him seluen sais,</L>
+<L>Hingand on þe rode.</L>
+<L>Man and woman þat by me gase,</L>
+<L>Luke up to me and stint þi pase, <MILESTONE N="5"/></L>
+<L>For þe I sched my blude.</L>
+</LG>
+<LG>
+<L>Bihald mi body or þou gang</L>
+<L>And think opon my paynes strang</L>
+<L>And still as stane þou stand. <NOTE PLACE="foot">Compare with this piece, Cursor Mundi, 17 129 and foll.</NOTE> <NOTE PLACE="foot">9 <HI REND="italic">still as stane.</HI> For examples of this phrase, see Minot, ed. Hall, 11, 32, note.</NOTE></L>
+<L><PB N="208" REF="8"/>
+Bihald þi self þe suth and se, <MILESTONE N="10"/></L>
+<L>How I am hanged here on þis tre</L>
+<L>And nailed fute and hand.</L>
+</LG>
+<LG>
+<L>Bihald mi heuid, bihald my fete,</L>
+<L>And of þi misdedes luke þou lete;</L>
+<L>Bihald mi grisely face. <MILESTONE N="15"/></L>
+<L>Of þi sins ask aledgance, <NOTE PLACE="foot">16 <HI REND="italic">aledgance,</HI> relief.</NOTE></L>
+<L>And in my mercy haue affiance,</L>
+<L>And þou sall get my grace.</L>
+</LG>
+<Q><L>In cruce sum p<HI REND="italic">ro</HI> te{punctel} qui peccas desine p<HI REND="italic">ro</HI> me.</L>
+<L>Desine do uenia<HI REND="italic">m</HI>{punctel} dic culpam corrige uita<HI REND="italic">m.</HI></L></Q>
+<LG>
+<L>Man, þus on rode I hing for þe; <NOTE PLACE="foot">19 The Latin lines preceding this are also with slight variation in Political, Religious etc. Poems (E. E. T. S., no. 15) p. 111.</NOTE></L>
+<L>Forsake þi sin for luf of me, <MILESTONE N="20"/></L>
+<L>Sen I swilk luf þe bede.</L>
+<L>Man, I lufe þe ouer all thing,</L>
+<L>And for þi luf þus wald I hing,</L>
+<L>My blisced blude to blede.</L>
+</LG>
+<LG>
+<L>Man, ful dere I haue þe boght; <MILESTONE N="25"/></L>
+<L>How es it so, þou lufes me noght? <NOTE PLACE="foot">25, 26 Compare 'Sin i haf þe sua dere boght | Quat ailes þe þou luues me noght', Cursor, 17 155, 17 156.</NOTE></L>
+<L>Vnkindly dose þou þare.</L>
+<L>If þou will luf vnto me schaw,</L>
+<L>For my broþer I will þe knaw, <NOTE PLACE="foot">29 <HI REND="italic">broþer] br</HI> very faint.</NOTE></L>
+<L>What may I do þe mare? <MILESTONE N="30"/></L>
+</LG>
+<LG>
+<L>If þat þou be most sinful man,</L>
+<L>Þat euer in werld on erth ran,</L>
+<L>And þou will knaw þi state,</L>
+<L>And sadly seke to my mercy,</L>
+<L>Þe to resaiue I am redy, <MILESTONE N="35"/></L>
+<L>Euer arly and late.</L>
+</LG>
+<LG>
+<L>Of all þi misdedes luke þou blin,</L>
+<L>More es my mercy þan þi sin;</L>
+<L>Þou call mercy with hert.</L>
+<L>Ask mercy and þou sall haue, <MILESTONE N="40"/></L>
+<L>And fro þe fende I sall þe saue,</L>
+<L>And fro his paines smert.</L>
+</LG>
+<LG>
+<PB N="209" REF="9"/>
+<L>In my mercy despaire þou noght, <MILESTONE N="51b" UNIT="f."/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>Sen I þe so dere haue boght,</L>
+<L>And ensaumpill þou take <MILESTONE N="45"/></L>
+<L>Of sinfull mari mawdelayne</L>
+<L>Þat with sin was gastly slayne</L>
+<L>And seþin gan it forsake.</L>
+</LG>
+<LG>
+<L>Also ensaumple may þou luke</L>
+<L>Of saint peter þat me forsoke, <MILESTONE N="50"/></L>
+<L>And seþin rewed it sare.</L>
+<L>Mercy had þai sone of me:</L>
+<L>Man, þe same I will do þe,</L>
+<L>Þarfore lete at my lare. <NOTE PLACE="foot">54 <HI REND="italic">lete at my lare,</HI> See Minot, VI, 22, note.</NOTE> <NOTE PLACE="foot">At the end is <HI REND="italic">de dn̄o denario mani thinges not to / be reiected</HI> in a later hand.</NOTE></L>
+</LG>
+</DIV2>
+<CLOSER><DATELINE>MANCHESTER, <DATE>February 21, 1895</DATE></DATELINE>
+<SIGNED>Joseph Hall.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

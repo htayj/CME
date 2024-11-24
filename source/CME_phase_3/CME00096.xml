@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-15-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; removed some incorrect MILESTONEs from Ps HEADs, and NOTEs; changed several TRAILERs to CLOSERs; removed some DIV4s; changed sub HEAD to HEADNOTE P; changed some LGs to Qs; added some Qs; chagned two MILESTONEs to HEADs; added a DIV4. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00096">
+<STC T="M">96</STC>
+<BIBNO T="mec">CME00096</BIBNO>
+<VID>CME00096</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="collection of poems">
+<PB REF="1"/>
+<HEAD>WITH AN O AND AN I.</HEAD>
+<DIV2 N="1" TYPE="section">
+<HEAD>§ 1.</HEAD>
+<P>Der hier zum ersten male abgedruckte cyclus von vier geistlichen liedern, deren jedes den namen eines der vier evangelisten trägt, ist entnommen aus der hs. Rawlinson Poetry 175 der Bodleiana, derselben hs., aus welcher Schleich den besten text des Gast of Gy abgedruckt hat. Die dem 14. jahr∣hundert angehörige pergamenthandschrift, sorgfältig und gut in einheitlicher nordenglischer mundart geschrieben, enthält unsere gedichte auf dem letzten blatte (fol. 132a und b) leider in stark verblasster und z. t. fast erloschener tinte, welche stellenweise erst durch anwendung chemischer mittel lesbar gemacht werden musste. Auch so blieben noch einige stellen übrig, deren entzifferung überhaupt nicht möglich oder bei denen der vermutung ein weiter spielraum gelassen war; der∣artige stellen sind durch eckige klammern bezeichnet.</P>
+<P>Die vier gedichte bilden jedes ein abgerundetes ganzes, sie sind aber zu einer einheit verbunden—abgesehen von der art der überlieferung—durch die strenge übereinstimmung der sehr eigenartigen form, sowie durch den gleichartigen stoff, den sie den evangelien entnehmen und jedesmal einem der vier evangelisten in den mund legen. Die drei ersten gedichte führen einzelne episoden der Christusgeschichte in liedartig abgeschlossener darstellung der reihe nach vor: Lucas die sendung Gabriels an die jungfrau Maria, Matthäus die fahrt der drei könige aus dem osten an die geburtsstätte des heilands, Markus die aussendung der jünger zu ihrer mission durch den ihnen erscheinenden Christus. Das vierte gedicht, Johannes, hat die gleiche äussere form und bildet
+<PB N="284" REF="2"/>
+den philosophischen abschluss des ganzen mit seinen abstrakten und nur lose zusammenhängenden ausführungen über den gott∣sohn, der im anfang war, das licht in der finsternis, den die welt nicht erkannte und nicht aufnehmen wollte, als er in sein "eigen" kam, trotzdem ihm Johannes der täufer als vor∣bote voraufgegangen war.</P>
+<P>Der kleine liedercyclus von episch-lyrischem charakter steht in der eigenart seiner anlage wohl einzig in der me. litteratur da. Die altertümliche sechs-zeilige strophe in ihrer edlen einfachheit, der vier-hebige vers von volkstümlich ger∣manischem rhythmus, die konsequente anwendung der allite∣ration weisen den gedichten auch formell eine wichtige stellung an.</P>
+<P>Durchgehender reim in sechs-zeiliger strophe, trotzdem dieselbe offenbar zwei-teilig ist, statt der üblichen reimstellung a a a a b b findet sich nur hier konsequent angewandt. Auch Laurence Minot, dessen lieder in gleichem dialekt geschrieben und in einer schwesterhandschrift bewahrt sind, kennt nur die gewöhnliche reimordnung in seinen sechs-zeilern, so sehr diese auch sonst an unsere gedichte erinnern. Der abgesang jeder strophe beginnt mit dem rätselhaften, auch aus anderen me. gedichten der späteren zeit bekannten refrain: <HI REND="italic">With ane O and ane I.</HI> Alle diese charakteristischen eigentümlichkeiten der form, wie die anlage überhaupt, sind in allen vier ge∣dichten vollkommen gleichmässig durchgeführt.</P>
+<P>Die schreibung unserer gedichte ist wie die des ganzen ms. rein nördlich, ohne sichtliche fremde beimischungen; auch der wortschatz und der allgemeine charakter der reime weisen auf den norden. Um so mehr muss <HI REND="italic">scho</HI> Lucas 3, 5 im reime zu -<HI REND="italic">ē</HI> auffallen, wo die änderung zu <HI REND="italic">sche</HI> oder <HI REND="italic">heo</HI> nahe liegt. Doch scheint hier die vereinzelte anwendung einer fremden form durch den reimzwang aufgedrängt zu sein, es war nicht immer leicht, die bei dem durchgehenden reime der langen strophen benötigten reimwörter zu finden.</P>
+<P>Wie aus dem folgenden paragraphen hervorgeht, lehnen sich die gedichte direkt an die nordenglische Homiliensamm∣lung an; an ihrem nördlichen ursprunge ist daher trotz des vereinzelten auffallenden reimes nicht zu zweifeln.</P>
+<DIV3 N="1" TYPE="poem">
+<PB N="285" REF="3"/>
+<HEAD>I. Lucas.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Luke in his lesson leres to me,</L>
+<L>How Gabryel was graythed in gracyus degre;</L>
+<L>Fro þe heuen upon hight hasted was he</L>
+<L>To Mary, þat mayden, þat fair was &amp; fre,</L>
+<L>Wiþ ane O &amp; ane I, vnto a cete</L>
+<L>þat was named Nazareth in land of Galile.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>He marked <NOTE N="1" PLACE="foot">m<SUP>a</SUP>ked <HI REND="italic">im Ms.</HI></NOTE> to þat mayden myghtful of mede</L>
+<L>þat mowthed was Mary wiþouten mysdede,</L>
+<L>þat wowed was wiþ Joseph worthly in wede,</L>
+<L>And he of Dauid hows, if ye tak hede.</L>
+<L>Wiþ ane O &amp; and ane I, yhederly he yhede</L>
+<L>Vnto þat berd bowsom his bodword to bede.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Comly he knelt opon his o kne</L>
+<L>And putt furth his fynger full fair to þat fre.</L>
+<L>He said: hail, full of grace, god es wiþ þe,</L>
+<L>Of all berdes þat bene blyssed mot þou be.</L>
+<L>Wiþ ane O &amp; ane I, asschamed was scho</L>
+<L>And thoght: what euer menes þis message to me?</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Styll in a stody scho stode in hir stall,</L>
+<L>þan said þe aungell: þou worthly in wall,</L>
+<L>Be noght ferd in þis fare, if ferlyes befall,</L>
+<L>Of god grace has þou geten gretest of all;</L>
+<L>Wiþ ane O &amp; ane I, sothly þou sall</L>
+<L>Consayue a child ioyfull &amp; Jesus him call.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>He sall be gracyus &amp; gud &amp; of gret myght,</L>
+<L>And son of þe heghest here sall he hyght;</L>
+<L>In þe sege of Dauid his sete sall be dyght,</L>
+<L>And in þe hows of Jacob won sall þat wight.</L>
+<L>Wiþ ane O &amp; ane I, his ryche regne be ryght</L>
+<L>Sall neuer lessen ne leue, bot last ay in lyght.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Mary answerd &amp; asked: how so suld bigyn?</L>
+<L>I knew neuer in þis kyth kynde of mankyn.</L>
+<L><PB N="286" REF="4"/>
+þan þe aungell hir warned warely wiþ wyn:</L>
+<L>þe haly gast of þi god sall lyght þe wiþin,</L>
+<L>Wiþ ane O &amp; ane I, his might more &amp; myn</L>
+<L>Vmbeschadow þe sall wiþouten ony syn.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Lo how Elizabeth þi cosyn [.... boght],</L>
+<L>[Now] in hir eld sall [consaiue] a son [...] soght.</L>
+<L>þe sext moneth es þis, think [þou] in thoght,</L>
+<L>Scho es named baran, na barn furth [scho] broght.</L>
+<L>Wiþ ane O &amp; ane I, to neuen es þare noght</L>
+<L>Vnmyghtfull to god þat þis world wroght.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>þan Mary full warly hir wordes gan wale:</L>
+<L>Lo here, godes seruand, [so sen] him þou sale;</L>
+<L>Als þou has said in þis tyme to me þis tale,</L>
+<L>Be it done, as þou demes, be doun &amp; bi dale.</L>
+<L>Wiþ ane O &amp; ane I, þus [hers yhe] all hale,</L>
+<L>How scho harbard <NOTE N="1" PLACE="foot"><HI REND="italic">Ms.</HI> haba'r?</NOTE> wiþ þat barn þat broght vs of bale.</L>
+</LG>
+</DIV3>
+<DIV3 N="2" TYPE="poem">
+<HEAD>II. Matheus.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Mathew his manhede [mowthed to me].</L>
+<L>He said: Jesus was born in Bethleem Jude,</L>
+<L>When sir Herod was kyng in þat contre,</L>
+<L>And euen out of þe est come kynges thre,</L>
+<L>Wiþ ane O &amp; ane I, wiþ gyftes full fre,</L>
+<L>So þat semely þai soght to þat cete.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>þan carpes þe kynges to haue knawyng:</L>
+<L>Whare es he þat es born to be Jewes kyng?</L>
+<L>We saw his stern in þe est spedily vpspryng,</L>
+<L>And we er boune to þat barne our [bewtese] to bring.</L>
+<L>Wiþ ane O &amp; ane I, þai spyrd of þat yhing,</L>
+<L>Bot kyng Herod had tene of þair tything.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>He sent efter princes &amp; [prestes] of þe law</L>
+<L>And other many ma[isters restand] on raw.</L>
+<L><PB N="287" REF="5"/>
+He enquerd, when þai [come, if þai] couth knaw,</L>
+<L>Whare swilk a barne suld be born, [offryng to schaw].</L>
+<L>Wiþ ane O &amp; ane I, þai said in þair saw:</L>
+<L>In bethleem to be born [euen ..........]</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>On þis wise [þir] prophetes haue speken in þair spell:</L>
+<L>þou Bethleem of Jude, þ[us mene þai þe mell?],</L>
+<L>þe lest land ertow noght, trewly [to tell],</L>
+<L>Out of þe bese [a d]uke dight here for [to dwell].</L>
+<L>Wiþ ane O &amp; ane I, thurgh [.....]</L>
+<L>Sall he defend þe folk of all Israell.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Sir Herod þan carpes to þe kynges thre:</L>
+<L>Wendes sauely &amp; sekes, þe soth till yhe se;</L>
+<L>When yhe haue fonden þat barn þat [fares so] fre</L>
+<L>And do[n]e <NOTE N="1" PLACE="foot">[n] = <HI REND="italic">Loch.</HI></NOTE> him worschep wiþ will, [wend] &amp; warn me.</L>
+<L>Wiþ ane O &amp; ane I, blyth will I be</L>
+<L>For to worschip þat wight wiþ my m[aine].</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>When þir kynges had hard, how þat he had hyght,</L>
+<L>Ful forth on þair way rayked þai ryght;</L>
+<L>Of þe stern þat þai soght sone had þai syght</L>
+<L>[...] abouen Bethleem wiþ bemes full bright.</L>
+<L>Wiþ ane O &amp; ane I, þair leder was hyght,</L>
+<L>þat myld wiþ his moder so musterd his might.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Into þe hows er þai comen wiþouten any call,</L>
+<L>þe barn fand þai bonden in a best stall,</L>
+<L>Wiþ Mary his moder full wynly in wall,</L>
+<L>And to knaw him for kyng on knes gan þai fall.</L>
+<L>Wiþ ane O &amp; ane I, say yhow I sall:</L>
+<L>Gold, Myrr &amp; encens offerd þai all.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>When þir dedes war done duly þat day,</L>
+<L>þe kynges layd þam to slepe softly, I say.</L>
+<L>And þus or þai wakend, warned war þai:</L>
+<L>Metes wiþ sir Herod no more, if yhe may!</L>
+<L>Wiþ ane O &amp; ane I, be ane other way</L>
+<L>Went ilk lord to his land, als þe strete lay.</L>
+</LG>
+</DIV3>
+<DIV3 N="3" TYPE="poem">
+<PB N="288" REF="6"/>
+<HEAD>III. Markus.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Marke of his myghtes myldely gan neuen</L>
+<L>Restand on a raw disciples elleuen;</L>
+<L>To þam appered Jesus, god son of heuen,</L>
+<L>þair mysbileue to amend wiþ a myld steuen.</L>
+<L>Wiþ ane O and ane I, þai wald noght trow euen</L>
+<L>To þam þat tald, how he rayse mo sythes þan seuen.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>He said: ouer al þe world I will þat yhe wende,</L>
+<L>þe gospell sall yhe preche þat neuer sall haue ende</L>
+<L>To euerilka creature, to fa &amp; to frende:</L>
+<L>Who trowes &amp; es baptist, no syn sall him schend;</L>
+<L>Wiþ ane O and ane I, he þat will lende</L>
+<L>Vnbaptist, he bese feffed wiþ þe fende.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>All þat made er my men, my signe sall þai were,</L>
+<L>In my name gett þai force fendes to fere,</L>
+<L>Wiþ new tonges sall þai speke &amp; my law lere,</L>
+<L>And nedders &amp; wormes oway sall þai were.</L>
+<L>Wiþ ane O and ane I, now take þe no care, <NOTE N="1)" PLACE="foot">þe no care <HI REND="italic">nachträglich auf verblasster stelle!</HI></NOTE></L>
+<L>And euell venym to drynk sall do þam no dere.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>An <NOTE N="2)" PLACE="foot">An <HI REND="italic">im Ms.</HI></NOTE> seke men sall þai sett sadly þair hende</L>
+<L>And thurgh myght of my merk sone sall þai mend.</L>
+<L>When Crist to þat company þus kyndely had kend,</L>
+<L>Vnto heuen in þair syght sone he [des]cend;</L>
+<L>Wiþ ane O and ane I, þare lykes him to lend,</L>
+<L>On his fader ryght hand [...] <NOTE N="3)" PLACE="foot">?ges <HI REND="italic">im Ms., der sinn erfordert</HI> aye.</NOTE> wiþouten end.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>þe apostels playnly passed þare pase</L>
+<L>Prechand þe pople in euerilka place,</L>
+<L>Crist was þair comforth in ilka kene case</L>
+<L>And wele confermed þair wordes, als his wil wase.</L>
+<L>Wiþ ane O and ane I, þus toke þai þair trace</L>
+<L>Folewand þe ferlyes þat felles our fase.</L>
+</LG>
+</DIV3>
+<DIV3 N="4" TYPE="poem">
+<PB N="289" REF="7"/>
+<HEAD>IV. Joh'n.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Joh'n <NOTE N="1)" PLACE="foot">= <HI REND="italic">John?</HI></NOTE> of his heghnes tyll our hereyng</L>
+<L>Says þat þe son was in þe bigynyng,</L>
+<L>And þe son was þe god þat bote may vs bryng,</L>
+<L>And on þis wise was it þan [... our] <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> w̄ hī o<SUP>r</SUP>?</NOTE> heuen king.</L>
+<L>Wiþ ane O and ane I, both old &amp; yhing</L>
+<L>Es bi him &amp; wiþ him, wiþouten him no thing.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Thing þat in him was, made lyf was it ryght,</L>
+<L>And þat lyfe, sall we leue, es of mens lyght;</L>
+<L>þat lyght in þe myrknes schynes full bryght,</L>
+<L>And myrknes may noght mer him of myght.</L>
+<L>Wiþ ane O and ane I, to wiss ilka wight,</L>
+<L>Fra god was a man sent &amp; Joh'n þan he hight.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>And he come to þis world for to witnes</L>
+<L>Lyght þat suld comforth þe corne &amp; þe gress;</L>
+<L>He ne was noght þe lyght graythly to gess,</L>
+<L>Bot who was lyght lely, proued he express.</L>
+<L>Wiþ ane O and ane I, verray lyght es</L>
+<L>þat lyghtens men on þis mold more &amp; less.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>In þis word witerly wondin he wase,</L>
+<L>And als all þis mydlerth myldely he mase,</L>
+<L>þe world had no knawyng of him in þat case;</L>
+<L>Into his awen, when he come, none herberd him hase.</L>
+<L>Wiþ ane O &amp; ane I, who takes his trace,</L>
+<L>To be made god sons gaf he þam grace,</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>To þam þat his name leues loud &amp; styll</L>
+<L>And nowther born er of blode ne of flessch will,</L>
+<L>Bot þat geten er of god wiþouten any ill;</L>
+<L>And so þe son es made flessch folk to fulfill.</L>
+<L>Wiþ ane O &amp; ane I, we seke þis skyll,</L>
+<L>His ioy fyld full of grace graythed vs tyll.</L>
+<CLOSER>Amen.</CLOSER>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<PB N="290" REF="8"/>
+<HEAD>§ 2.</HEAD>
+<P>Die grundlage, auf welcher unser cyclus beruht, findet sich in der noch ungedruckten nordenglischen Homiliensamm∣lung, wie sie in dem Ms. Harl. 4196 und dem durch Brand verstümmelten Ms. Cott. Tib. E. VII vorliegt; beide beschrieben von Horstmann, Altengl. Legenden N. F. LXXVIII. Von der älteren fassung, welche Small nach einem Edinburger Ms. veröffentlichte (cf. Small: Metrical Homilies), weichen die viel ausführlicheren jüngeren hss. wesentlich ab; nur in den letz∣teren lassen sich die predigten nachweisen, an welche sich unser cyclus in stoff, darstellung und zahlreichen wörtlichen anklängen eng anlehnt. Für das 'Marcus' überschriebene gedicht kann ich allerdings entsprechende stellen in dem Harl.-Ms. nicht nachweisen; ganz allgemeine berührungen zeigen sich zu den Homilien auf fol. 89, 93 und 95 des Ms., welche die erste zeit nach Christi tode behandeln, aber nach den überschriften auf Lucas und Johannes beruhen. Der um∣stand, dass die jüngere nordengl. Homiliensammlung <NOTE N="1)" PLACE="foot">wohl neben den Evangelien selber.</NOTE> unserm dichter den stoff bot, den er mit vielfachen wörtlichen ent∣lehnungen zu seinem liedercyclus verarbeitete, ist wesentlich für die frage nach dem dialekt, in welchem er schrieb, und entscheidend für die zeit, die danach nicht vor der mitte des 14. jahrhunderts angesetzt werden darf.</P>
+<DIV3 N="1" TYPE="poem">
+<HEAD>I.</HEAD>
+<HEADNOTE><P>Ms. Harl. 4196.</P></HEADNOTE>
+<HEAD>Fer. IV Quat. temp. secundum Lucam. Missus est angelus Gabriel a deo etc. <MILESTONE N="6a" UNIT="f."/></HEAD>
+<LG>
+<L>Fra god was sent ane angel bright—</L>
+<L>Gabriel for soth he hight—</L>
+<L>To Nazareth a riche cite,</L>
+<L>Was in þe land of Galile,</L>
+<L>In message til a clene virgin</L>
+<L>þat comen was of Dauid kin.</L>
+<L>Spowsed was þat mayden bright</L>
+<L>Vnto a man þat Joseph hight;</L>
+<L>þe maiden name was cald Mary,</L>
+<L>Omang all wemen most worthy.</L>
+<L><PB N="291" REF="9"/>
+þe angel come to hir fra heuyn</L>
+<L>And said to hir with milde steuyn:</L>
+<L>Hail be þou Mari, maiden fre,</L>
+<L>Ful of grace, god es with þe!</L>
+<L>þou ert blisced in wemen all,</L>
+<L>All folk to þe sal socoure call,</L>
+<L>And fruit þat of þi wambe sal wende</L>
+<L>Sal be blisced withowten ende.</L>
+<L>When Mari herd, how þat he saide,</L>
+<L>Within hir hert scho wex afraide.</L>
+<L>Sho had meruaile, what thing it ment</L>
+<L>þat þe angel so to hir was sent,</L>
+<L>And in hir hert scho had grete thoght,</L>
+<L>Thurgh his wordes what suld be wroght.</L>
+<L>þan said þe angel milde of mode</L>
+<L>To þe mayden þat so stodiand stode:</L>
+<L>Mari, he said, ne drede þe noght,</L>
+<L>Of þis bodworde I haue þe broght.</L>
+<L>Grace hastow funden in al thing</L>
+<L>Onence my lorde of heuyn king.</L>
+<L>þou sal consaiue and bere a childe,</L>
+<L>And flessheli saltou noght be filde;</L>
+<L>A sun þou sal consaiue and bere,</L>
+<L>þi maidenhed it sal noght dere;</L>
+<L>Jesus sal þou þi sun call,</L>
+<L>And sal be sauioure of all;</L>
+<L>Heghest goddes sun he sal be cald,</L>
+<L>And mighti god sun men sal him hald.</L>
+<L>Oure lorde god of graces grete</L>
+<L>Thurgh mightes sal him gif þe sete <MILESTONE N="6b" UNIT="fol."/></L>
+<L>Of his fader, þe king Dauid,</L>
+<L>To gouern his regne in pese and grith</L>
+<L>And regne he sal, moste king to neuyn,</L>
+<L>Wirshipt of all angels of heuyn;</L>
+<L>In mekil might ay sal he lend</L>
+<L>In Jacob house withowten end;</L>
+<L>Regne he sal in rest and pese,</L>
+<L>His regne sothli sal neuer sese,</L>
+<L>þan saide Mari with milde mode</L>
+<L>Vnto þe angel, þare he stode:</L>
+<L><PB N="292" REF="10"/>
+How suld be done to me þis thing,</L>
+<L>Sen I of man had neuer knawing?</L>
+<L>When þe angel þir wordes herd,</L>
+<L>Vnto þe maiden þus he answerd:</L>
+<L>Mari, of me þou haue no drede,</L>
+<L>þou sal noght mis þi maidenhede,</L>
+<L>þe haligaste of god of might,</L>
+<L>Lady, in þe sal he light;</L>
+<L>þe vertu of god moste to fele</L>
+<L>Sall vmbilap þe ilkadele.</L>
+<L>Als minister þus sent am I</L>
+<L>Vnto þe fra god almighty,</L>
+<L>þe same þat of þe sal be borne</L>
+<L>þus has me sent to þe biforne.</L>
+<CLOSER>etc. (26 zeilen sind hier weggelassen)</CLOSER>
+</LG>
+<LG>
+<L>And lo, bihald, mi ladi clere,</L>
+<L>Elizabeth, þi cosyn dere,</L>
+<L>Scho has consaiued now in hir elde</L>
+<L>And hir bodi now fruit sal ȝelde,</L>
+<L>To bere a child now scho bigins</L>
+<L>þat goddes sun so bifore rins.</L>
+<L>And now þis es þe sext moneth</L>
+<L>þat þis woman Elizabeth</L>
+<L>Was named barayn in ilka place,</L>
+<L>Now gase scho grete thurgh goddes grace.</L>
+<L>Now men sese hir with childe gang,</L>
+<L>þat barayn bifore was named lang.</L>
+<L>How so god wil here ordayne,</L>
+<L>It may no thing be þaire ogayne;</L>
+<L>All thinges þat er bus buwe bi skill</L>
+<L>Paisibilly vnto goddes will.</L>
+<L>Mari full meke goddes wil to do,</L>
+<L>þus scho said þe angell vnto;</L>
+</LG>
+<LG>
+<HEAD>Ecce ancilla domini fiat michi etc.</HEAD>
+<L>Lo here goddes handmaiden puruaid,</L>
+<L>To me be done als þou has said,</L>
+<L><PB N="293" REF="11"/>
+þe will allane of my lorde dere</L>
+<L>Be done to me on al manere!</L>
+<L>And when þe aungel þus had done,</L>
+<L>To heuyn ogayne he went ful sone,</L>
+<L>And blisced Mari þe maiden chaste</L>
+<L>Dwelt fulfild of þe hali gaste.</L>
+</LG>
+<TAILNOTE><P>Folgt: Expositio eiusdem.</P></TAILNOTE>
+</DIV3>
+<DIV3 N="2" TYPE="poem">
+<HEAD>II. <MILESTONE N="28" UNIT="fol."/></HEAD>
+<HEAD>In die Epiphanie secundum Matheum <NOTE N="1)" PLACE="foot">Math’m</NOTE> Cum natus esset Jesus in Bethleem.</HEAD>
+<LG>
+<L>When oure lord Jesu so fre</L>
+<L>Was born in Bedleem of Jude</L>
+<L>In Herodes daies to vnderstand</L>
+<L>þat lord was þan of al þat land,</L>
+<L>Ouer Bedlem stode a stern ful bright,</L>
+<L>Ouer ilkaland lasted þe light.</L>
+<L>Cristes birth it puplist playn Inogh,</L>
+<L>þe folk fro fer landes þeder drogh,</L>
+<L>And kinges out of sere cuntre</L>
+<L>Soght þat solempne sight to se,</L>
+<L>For to fulfil þe wordes algate</L>
+<L>þat Dauid in his psalmes wrate.</L>
+<CLOSER>etc.</CLOSER>
+</LG>
+<LG>
+<HEAD>Vbi est qui natus est rex Judeorum? <MILESTONE N="28b" UNIT="fol."/> vidimus enim stellam eius etc.</HEAD>
+<L>Whare es he þat born es ȝing,</L>
+<L>þat of al þe Jewri sal be king?</L>
+<L>We saw a taken out of þe est,</L>
+<L>He sall be lord of man and best,</L>
+<L>For whi þat stern witht bemes brigh <NOTE N="2)" PLACE="foot"><HI REND="italic">so im Ms.</HI></NOTE></L>
+<L>Proues þat he es god of might,</L>
+<L>þat es þe cause, whi we þus cum,</L>
+<L>For he es born in þis kingdom;</L>
+<L><PB N="294" REF="12"/>
+Oure giftes als to him we bring</L>
+<L>To honore him als for oure king;</L>
+<L>We sal him gif of oure tresoure</L>
+<L>Als till oure god and sauioure.</L>
+<L>þus þai spird in þat cete,</L>
+<L>In what stede god sun born sul <NOTE N="1)" PLACE="foot"><HI REND="italic">so im Ms.</HI></NOTE> be,</L>
+<CLOSER>etc.</CLOSER>
+</LG>
+<LG>
+<HEAD>Conuocacio magorum <MILESTONE N="28b" UNIT="fol."/></HEAD>
+<L>Hastily þan gert he (= Herod) call <MILESTONE N="29" UNIT="fol."/></L>
+<L>þe bisshoppes, princes and prestes all,</L>
+<L>And all þe scribes þat knew þe law,</L>
+<L>And Jewes þat war wisist of saw,</L>
+<L>And all þat prophecies kowth luke,</L>
+<L>Vnto his counsail he þam toke</L>
+<L>And praied þam ilkone on þaire wise</L>
+<L>To seke omang þaire prophecies</L>
+<L>And tell him sone for any thing,</L>
+<L>Out what cuntre Crist suld spring,</L>
+<L>And þat þai lett noght euyn ne morn,</L>
+<L>Till þai wit whare he sal be born.</L>
+<L>þai went and luked þe bukes on raw,</L>
+<L>Till þai þe soth might clerely knaw.</L>
+<L>þan tald þe to þe king bidene,</L>
+<L>Als þai in prophecies had sene;</L>
+<L>þai said þat Crist here born suld be,</L>
+<L>In Bedleem þe Cete of Jude.</L>
+<L>þai said it suld be so algate</L>
+<L>Micheas of his birth þus wrate</L>
+<L>And said þat men may vnderstand:</L>
+<L>þou Bedleem of Juda land,</L>
+<L>þou es noght leste loued to be</L>
+<L>Omang þe princes of Jude!</L>
+<L>Out of þe a duke sall rise</L>
+<L>To lede my folk in domes rightwise,</L>
+<L>Als duke in þis werld sal he dwell</L>
+<L>To saue my folk of Israell.</L>
+<CLOSER>etc.</CLOSER>
+</LG>
+<LG>
+<PB N="295" REF="13"/>
+<HEAD>Tunc Herodes clam uocatis magis <MILESTONE N="29b" UNIT="fol."/> diligenter didicit ab eis tempus stelle.</HEAD>
+<L>When Herod by þaire wordes wist</L>
+<L>þat þis thing was þus puplist,</L>
+<L>His hert rase ful felunsly <NOTE N="1)" PLACE="foot"><HI REND="italic">so im Ms.!</HI></NOTE></L>
+<L>Ogayns þe childe with grete enuy,</L>
+<L>And in his hert ful fast he thoght,</L>
+<L>How þis childe might to ded be broght,</L>
+<L>And preuely <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> p'uely.</NOTE> how it might be</L>
+<L>þat nane sold wit bot his menȝe.</L>
+<L>Thurght hid malice þus wirk he wald,</L>
+<L>þar fore þe kinges ful faire he cald,</L>
+<L>Of þam he soght and spied ful ȝerne</L>
+<L>þe tyme and þe state of þe sterne,</L>
+<L>And preuely <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> p'uely.</NOTE> of þam he lered,</L>
+<L>How þe sterne to þam appered.</L>
+<L>And al þe soth when he it knew,</L>
+<L>Thurgh karping of þir kinges trew,</L>
+<L>Vnto Bedleem sone he þam sent</L>
+<L>And said to þam þus, or þai went:</L>
+<L>Wendes, he said, sirs, I ȝow pray</L>
+<L>And enqueres bisily, if ȝe may,</L>
+<L>Al þe condicyouns preuely <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> p'uely.</NOTE></L>
+<L>Of þe childe þat es so worthi.</L>
+<L>For maisters vnto me has talde</L>
+<L>þat he sall haue grete welth in walde;</L>
+<L>þar fore, when ȝe haue fun þat fre,</L>
+<L>Cumes heder ogayn and telles me,</L>
+<L>In what stede þat ȝe him find,</L>
+<L>þe childe þat so sal lese and bind,</L>
+<L>For vnto him þan wend will I</L>
+<L>And honore him, als es worthi;</L>
+<L>Sen swilk a lord lendes in my land,</L>
+<L>Vnto him will I bring offerand.</L>
+<L>Bot falshede euer in his hert he thoght,</L>
+<L>To sla þe childe, if þat he moght.</L>
+<L>þus when þe kinges his wordes herd,</L>
+<L>þai toke þaire leue and furth þai ferd.</L>
+<L><PB N="296" REF="14"/>
+þaire signe ful sone rase þam biforn,</L>
+<L>þe sterne with light þat <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> þai</NOTE> þai had lorn;</L>
+<L>For fra þai vnto Herod thoght,</L>
+<L>In þat sesoun þai saw it noght,</L>
+<L>And seþin it rase ogain ful faire</L>
+<L>And went byfor þam in þe aire.</L>
+<L>With þat light þus war þai led,</L>
+<L>Vntill þai come to þe same stede,</L>
+<L>Whare childe was, and þan it stode</L>
+<L>Obouen þat stede and no fer ȝode.</L>
+<L>þe kinges þan war ferly faine,</L>
+<L>For þaire light was cumen ogaine,</L>
+<L>And mekill mirth in hert þai made,</L>
+<L>When þai saw, whare þe stern abade.</L>
+<L>þe hows entred þa kinges thre,</L>
+<L>Whare simpill hostell was to se.</L>
+<L>þai fand þe childe godsun almighty</L>
+<L>With his moder milde Mari,</L>
+<L>And sune þir kinges of fer cuntrese</L>
+<L>Bifor þis childe kneled on þair knese,</L>
+<L>With wirchip and deuocion,</L>
+<L>þai honord him als goddes sun.</L>
+<L>þai opind þaire tresore in þat stede,</L>
+<L>And riche giftes to him þai bed,</L>
+<L>In þaire offring þare þai did</L>
+<L>Gold and ensens and mir þe thrid.</L>
+<CLOSER>etc. (14 zeilen weggelassen).</CLOSER>
+</LG>
+<LG>
+<L>And when þai had þir dedes done;</L>
+<L>þaire waies ogainward went þai sone; <MILESTONE N="30" UNIT="fol."/></L>
+<L>And als þai slepid on þe first night,</L>
+<L>To þam aperd ane angell bright.</L>
+<L>And warned þam with wordes hende</L>
+<L>þat þai suld noght by Herod wende,</L>
+<L>Bot hamward tak anoþer strete</L>
+<L>And with þat man namore to mete.</L>
+<L>þus warned in þaire dreme</L>
+<L>þat þai suld wend fro Bedleem,</L>
+<L><PB N="297" REF="15"/>
+And efter þir wordes when þai woke,</L>
+<L>Anoþer way hamward þai toke.</L>
+<L>So in þaire kingdoms er þai sett,</L>
+<L>With Herod þe king namore þai mett.</L>
+</LG>
+</DIV3>
+<DIV3 N="3" TYPE="poem">
+<HEAD>III. <MILESTONE N="16b" UNIT="fol."/></HEAD>
+<LG>
+<HEAD>Incipit hic secunda particula euangelii.</HEAD>
+<HEAD TYPE="sub">Ostensio diuinitatis in Christo. In die natali domini euangelium secundum Johannem. In principio erat uerbum etc.</HEAD>
+<L>In þe bigining was þe sun,</L>
+<L>Euyn with his fader alway to won.</L>
+<L>þe sun was at þe bigining</L>
+<L>With þe fader to wirk althing,</L>
+<L>And mighty god alway was he</L>
+<L>Wonand with his fader fre.</L>
+<L>þe sun was at þe bigining,</L>
+<L>God with þe fader ane in althing,</L>
+<L>Thurgh him al thinges in werld er wroght,</L>
+<L>And withouten him made es noght.</L>
+<L>þe fader þat al may weld and right</L>
+<L>With þe sun al ane in might</L>
+<L>Made al maner of creatures,</L>
+<L>Man and bestes, fowles and flowres;</L>
+<L>Al creatures war made of him,</L>
+<L>And of his making was no tyme,</L>
+<L>And al þat war made with his might</L>
+<L>Was in þe werld als verray right.</L>
+<L>Al thinges war life thurght his wisdome</L>
+<L>þat war ordand efter to com,</L>
+<L>Thurght him þai war quik albidene,</L>
+<L>Als þai suld efterward be sene.</L>
+<L>Criste es life fulfild of might</L>
+<L>And to lifand men uerray light;</L>
+<L>Als light to þis werld born he es</L>
+<L>þat schines ful bright omang mirknes.</L>
+<L>Al erthly men mirknes er cald</L>
+<L>þat in vnclennes þam wil had, <NOTE N="1)" PLACE="foot"><HI REND="italic">lies</HI> hald</NOTE></L>
+<L><PB N="298" REF="16"/>
+Als werldly men of werkes ill</L>
+<L>þat lifes ay efter þaire awin will.</L>
+<L>Omang slike men god sun decend,</L>
+<L>Bot his might moght þai noght comprehend,</L>
+<L>For men, þat here in lustes lifes</L>
+<L>And to werkes of mirknes þam gifes,</L>
+<L>In þam here may þai noght haue</L>
+<L>Goddes sun þat cumes man saul to saue.</L>
+</LG>
+<LG>
+<HEAD>Fuit homo missus a deo:</HEAD>
+<L>A man to erth fra god was sent,</L>
+<L>Bifor god in his waies he went,</L>
+<L>He had vnto name John Baptist,</L>
+<L>God sun thurght him to be puplist.</L>
+<L>Sent he was þe folk to teche</L>
+<L>And Cristes cuming plainly to preche,</L>
+<L>To waste in erth þe waies of sin,</L>
+<L>Man saul thurgh grace to blis at wyn.</L>
+<L>He come bifore forto witnes</L>
+<L>þe come of Criste to more and les</L>
+<L>And to al men with main and might</L>
+<L>To bere witnes of werray light,</L>
+<L>So þat all folk thurgh him warnist</L>
+<L>Suld trewly trow in Jesu Criste.</L>
+<L>John was noght þat light to taste</L>
+<L>þat mirknes in þis werld might waste,</L>
+<L>Bot he was sent to bere witnes</L>
+<L>Of light þat al þis werld suld dress</L>
+<L>And þat lightnes of mirknes makes</L>
+<L>And lightnes of none oþer takes.</L>
+<L>Verray light for suth he es,</L>
+<L>þat lightes al men both more and les.</L>
+<L>Al men he lightes thurght mightes sere</L>
+<L>Born of mankind omang men here,</L>
+<L>Noght by engenderure for to taste,</L>
+<L>Bot anly of þe haly gaste.</L>
+<L>Al thinges cumes of Criste god sun,</L>
+<L>Withowten him es noght bigun,</L>
+<L>In þis werld for soth was he</L>
+<L>Done in mans sight forto se.</L>
+<L><PB N="299" REF="17"/>
+Al þis werld thurgh him was wroght</L>
+<L>And fully fowrmid first of noght,</L>
+<L>And þe werld þan knew him no thing,</L>
+<L>For Jews had of him no knawing.</L>
+<L>To his awin proper <NOTE N="1)" PLACE="foot">per</NOTE> places he soght;</L>
+<L>þai þat was his resayued him noght.</L>
+<L>For fless and blude toke Criste mighty</L>
+<L>Of þe Jewes progeniy,</L>
+<L>Manhede he toke of þaire linage,</L>
+<L>þam to bring out of seruage. <MILESTONE N="17" UNIT="fol."/></L>
+<L>He welk and preched omang þe Jews</L>
+<L>And schewed omang þam sere uertuse,</L>
+<L>And þai wald noght ȝit in him trow</L>
+<L>Ne knaw his cumyng for þaire prow.</L>
+</LG>
+<LG>
+<HEAD>Quot quot autem receperunt eum, dedit eis potestatem filios dei fieri.</HEAD>
+<L>Als many als in þis werld ware,</L>
+<L>þat herd his wordes and trowed his lare</L>
+<L>And resayued him and knew him euyn</L>
+<L>Als god sun sent fro þe fader of heuyn,</L>
+<L>Vnto þam gaf he playn powste,</L>
+<L>Goddes suns of heuyn þat þai suld be.</L>
+<L>þe suns of god so he þam mase</L>
+<L>Noght thurgh þaire kind, bot thurght his grace;</L>
+<L>Vnto all þa þat in him trowes</L>
+<L>And baynly to his bidinges bowes.</L>
+<L>Vnto þat grace may no man win</L>
+<L>For þe corrupcioun of þaire sin,</L>
+<L>Thurgh fless ne blude by day ne night,</L>
+<L>Ne thurgh none erthly mans might,</L>
+<L>Als men er born here to endure</L>
+<L>Of fader and moder engenderure.</L>
+<L>þai may noght win it bi slike will</L>
+<L>Ne by no werldly werkes ill,</L>
+<L>Bot born þai er thurgh cristendom</L>
+<L>To mighty god gastly at come,</L>
+<L>þat birth es of þe haligaste</L>
+<L>Thurgh grace of god of mightes maste.</L>
+<L><PB N="300" REF="18"/>
+In fless and blude made es god sun</L>
+<L>Omang vs here in werld to won,</L>
+<L>Of him in manhede sight had we</L>
+<L>þat in godhede we might noght se,</L>
+<L>His ioy we saw ful verrayly</L>
+<L>Als anly of god sun almighty,</L>
+<L>We se him plainly in ilk place</L>
+<L>Fulfild of gudenes and of grace.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<HEAD>§ 3.</HEAD>
+<P>Der rätselhafte refrain: With ane O and ane I, der sich in späteren me. gedichten mehrfach findet, hat eine er∣klärung noch nicht gefunden und bietet eine verzweifelte schwierigkeit. Sollte hier vielleicht eine entstellung der zu∣weilen verbundenen doppelformen <HI REND="italic">ay and o</HI> = immer und ewig (an. <HI REND="italic">ei,</HI> ae. <HI REND="italic">â)</HI> vorliegen? Lautgesetzlich ist natürlich <HI REND="italic">i</HI> aus <HI REND="italic">ei, ai</HI> nicht möglich, wie leicht aber können refrain∣worte, bei denen man kaum noch an die ursprüngliche be∣deutung denkt, entstellt werden, zumal wenn wie hier die auffassung als geheimnisvolle buchstabenverbindung oder die anlehnung an bekannte verbindungen wie <HI REND="italic">a and o</HI> so nahe lag. Bezeichnend ist auch, dass die verbindung <HI REND="italic">i and o</HI> erst in der späteren me. zeit auftaucht, während die ältere periode sie nicht kennt. Wohl aber zeigt sich <HI REND="italic">ay and o</HI> in einem gedichte des Ms. Harl. 2253, cf. Böddeker s. 230, das sich auch in dem etwas älteren Ms. Digby 86 vorfindet, cf. EETS. 117, s. 762. Die stelle lautet:</P>
+<Q>
+<L>Long is ay and long is (h)o,</L>
+<L>Long is wy and long is wo.</L>
+</Q>
+<P>Man vergleiche ferner die letzten zeilen des sehr altertüm∣lichen Song of a Prisoner, Rel. Ant. I 275:</P>
+<Q>
+<L>That we moten ey and o</L>
+<L>Habben the eche blisce.</L>
+</Q>
+<P>Als refrain findet sich <HI REND="italic">euer and oo</HI> in zwei gedichten des Ms. Harl. 2253, cf. Böddeker s. 179 und 132. Auch <HI REND="italic">euer and ay</HI> erscheint zuweilen, cf. Yorkshire Writers I 366, v. 41 und 53.</P>
+<P>Bemerkenswert ist, dass der refrain <HI REND="italic">With ane O and ane I,</HI> wie er in unserem cyclus und genau ebenso in den von Fur∣nivall und Wright abgedruckten gedichten vorliegt, auch in
+<PB N="301" REF="19"/>
+anderer, aber offenbar entstellter form auftaucht. Mit den bedeutungslos gewordenen buchstaben, die ja wahrscheinlich selbst schon nicht mehr das ursprüngliche darstellen, glaubte man sich eben änderungen erlauben zu dürfen. An dem be∣kannten von Horstmann nach zwei hss. abgedruckten gedichte: <HI REND="italic">Whan Adam dalf and Eue span</HI> (York. Wr. I 73 und 367) können wir verfolgen, wie der refrain je nach den bedürf∣nissen des binnenreimes seine gestalt wechselt, wie damit neue variationen: <HI REND="italic">With I and E, With E and I, With E and O</HI> auftauchen.</P>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<HEAD>§ 4.</HEAD>
+<P>Hierunter drucke ich die wenigen englischen gedichte mit dem hier behandelten refrain ab, welche uns z. t. allerdings nur verstümmelt, erhalten sind. Es erscheint wünschenswert, sie zusammen zu haben; sie bilden eine merkwürdige erschei∣nung in der englischen litteratur und sind an mehreren orten zerstreut und zum teil in völlig entstellter strophenform ab∣gedruckt. Nur ein teil von ihnen hat denn auch im Grundriss für Germanische Philologie beachtung gefunden.</P>
+<DIV3 N="1" TYPE="part">
+<HEAD>I.</HEAD>
+<P>In derselben strophenform wie unser cyclus ist ein gedicht überliefert, welches gegen die Minoriten gerichtet und vielleicht aus Lollardenkreisen hervorgegangen ist. Es scheint in Irland entstanden zu sein, wo die Franciscaner besonders mächtig waren. Str. 3 b heisst es: <HI REND="italic">Armachan distroy ham.</HI> Richard Fitz Ralph, erzbischof von Armagh in Irland, gewöhnlich genannt Armachanus (gest. 1360), war der grosse gegner der irischen bettelmönche. Auch die formen der sprache (cf. die fürwörter <HI REND="italic">þai, ham</HI> bei manchen südlichen zügen wie <HI REND="italic">chirch, mochel)</HI> scheinen auf Irland zu weisen.</P>
+<P>Es ist gedruckt von Wright, Rel. Ant. I 322 und zu∣sammen mit zwei anderen gedichten, die in der handschrift unmittelbar vorhergehen und dort wie unser gedicht wohl des inhalts halber durchgestrichen sind, Political Songs (1859) I 268; das erste mal mit der überschrift: A Poem against the Friars and their miracle-plays, das zweite mal unter: On the Minorite Friars; cf. auch Grundriss II 700.</P>
+<P>Ich gebe das gedicht nach der handschrift.</P>
+<DIV4 TYPE="poem">
+<PB N="302" REF="20"/>
+<HEAD>Ms. Cott. Cleop. B II. fol. 64b.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Of þes frer mynours me thenkes moch wonder,</L>
+<L>þat waxen are þus hauteyn, þat som tyme weren vnder;</L>
+<L>Among men of holy chirch þai maken mochel blonder;</L>
+<L>Nou he þat sytes vs aboue make ham sone to sonder.</L>
+<L>With an O and an I þai praysen not seynt Poule,</L>
+<L>þai lyen on seyn[t] Fraunceys, by my fader soule.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>First þai gabben on God, þat alle men may se,</L>
+<L>When þai hangen him on hegh on a grene tre</L>
+<L>With leues and with blossemes þat bright are of ble;</L>
+<L>þat was neuer Goddes son, by my leute.</L>
+<L>With an O and an I, men wenen þat þai wede,</L>
+<L>To carpe so of clergy, þai can not þair crede.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>þai haue done him on a croys fer vp in þe skye</L>
+<L>And festned on him wyenges, as he shuld flie.</L>
+<L>þis fals feyned byleue shal þai soure bye,</L>
+<L>On þat louelych lord so forto lye.</L>
+<L>With an O and an I, one sayd ful stylle:</L>
+<L>Armachan distroy ham, if it is Goddes wille.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>þer comes one out of þe skye in a grey goun,</L>
+<L>As it were an hoghyerd hyand to toun;</L>
+<L>þai haue mo goddes þen we, I say by Mahoun,</L>
+<L>Alle men vnder ham þat euer beres croun.</L>
+<L>With an O and an I, why shuld þai not be shent?</L>
+<L>þer wantes noght bot a fyre, þat þai nere alle brent.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Went I forther on my way in þat same tyde;</L>
+<L>þer I sawe a frere blede in myddes of his syde,</L>
+<L>Boþe in hondes and in fete had he woundes wyde,</L>
+<L>To serue to þat same frer, þe pope mot abyde.</L>
+<L>With an O and an I, I wonder of þes dedes,</L>
+<L>To se a pope holde a dishe, whyl þe frer bledes.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>A cart was made al of fyre, as it shuld be;</L>
+<L>A gray frer I sawe þer inne, þat best lyked me. <NOTE PLACE="foot">łł <HI REND="italic">durch</HI> lle <HI REND="italic">aufgelöst.</HI></NOTE></L>
+<L><PB N="303" REF="21"/>
+Wele I wote, þai shal be brent, by my leaute;</L>
+<L>God graunt me þat grace, þat I may it se.</L>
+<L>With an O and an I, brent be þai alle,</L>
+<L>And alle þat helpes þerto faire mot byfalle.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>þai preche alle of pouert, bot þat loue þai noght;</L>
+<L>For gode mete to þair mouþe, þe toun is þurghsoght;</L>
+<L>Wyde are þair wonnynges and wonderfully wroght;</L>
+<L>Murdre and horedome ful dere has it boght.</L>
+<L>With an O and an I, for sixe pens, er þai fayle,</L>
+<L>Sle þi fadre, and iape þi modre, and þai wyl þe assoile.</L>
+</LG>
+</DIV4>
+<DIV4 TYPE="selection">
+<P>Auf fol. 59 des Ms. beginnt ein langes lat. gedicht von 49 strophen, abgedruckt von Wright, Pol. Songs I 253 und ebenfalls mit den refrainartigen worten: <HI REND="italic">With an O and an I</HI> im anfange des abgesangs jeder strophe. Ich begnüge mich hier mit einer probe:
+<Q>
+<LG>
+<HEAD>Str. 1.</HEAD>
+<L>Heu! quanta desolatio Anglie prestatur,</L>
+<L>Cuius regnum quodlibet hinc inde minatur,</L>
+<L>Et huius nauigium pene conquassatur;</L>
+<L>Regnum nec consilio nec ope iuuatur.</L>
+<L>With an O and an I, pre dolore vent[r]is,</L>
+<L>Meum iam consilium iacet in vi mentis.</L>
+</LG></Q>
+<Q><LG>
+<HEAD>Str. 32.</HEAD>
+<L>Armacan, quem celo Dominus coronauit,</L>
+<L>Discordes tantomodo fratres adunauit,</L>
+<L>Sed magno miraculo Wyclif coruscauit,</L>
+<L>Cum fratres et monachos simul collocauit.</L>
+<L>With an O and an I, consortes effecti,</L>
+<L>Quouis aduersario dicunt sunt protecti.</L>
+</LG></Q></P>
+</DIV4>
+</DIV3>
+<DIV3 N="2" TYPE="part">
+<HEAD>II.</HEAD>
+<P>In offenbar entstellter strophenform ist das gedicht, wel∣ches Furnivall EETS. 46 (1871) s. 150 ff. genau nach der hs. abgedruckt hat. Die hs. schliesst (!) die einzelnen strophen mit: <HI REND="italic">With an O and an I</HI> und behält dann zum schlusse drei verse übrig. Die richtige strophenform ist offenbar die hier gegebene.</P>
+<DIV4 TYPE="poem">
+<PB N="304" REF="22"/>
+<HEAD>Ms. Douce 126, fol. 90b.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Godys sone þat was so fre,</L>
+<L>into þis world he cam</L>
+<L>And let hym naylyn vpon a tre,</L>
+<L>al for þe loue of man.</L>
+<L>His fayre blod þat was so fre,</L>
+<L>out of his body it ran,</L>
+<L>A dwelful syȝte it was to se,</L>
+<L>his body heng blak and wan.</L>
+<L>Wiþ an O and an I,</L>
+<L>his coroune was mad of þorn</L>
+<L>And prikkede into his panne</L>
+<L>boþe byhynde and aforn.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>To a piler ybowndyn</L>
+<L>Jesu <NOTE N="1)" PLACE="foot"><HI REND="italic">Fur.</HI> ihesu</NOTE> was swiþe sore</L>
+<L>And suffrede many a wownde</L>
+<L>þat scharp and betere wore.</L>
+<L>He hadde vs euere in mynde</L>
+<L>in al his harde þrowe,</L>
+<L>And we ben so vnkynde,</L>
+<L>we nelyn hym nat yknowe.</L>
+<L>Wiþ an O and an I,</L>
+<L>but ȝif we loue hym trewe,</L>
+<L>Houre peynys ben in helle</L>
+<L>ȝarkyd euere newe.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Who so wele loue trewe,</L>
+<L>byhold Jesu <NOTE N="1)" PLACE="foot"><HI REND="italic">Fur.</HI> ihesu</NOTE> on þe croys,</L>
+<L>How he heng pale of hewe</L>
+<L>and cryde wiþ mylde voys.</L>
+<L>"Me þristiþ", he gan to kalle,</L>
+<L>þe Jewis herdyn þys;</L>
+<L>Eysel meynt wiþ galle</L>
+<L>þey bedyn hym ywys.</L>
+<L>With an O and an I,</L>
+<L>his þrist was to seyȝe;</L>
+<L><PB N="305" REF="23"/>
+For loue of manys soule</L>
+<L>hym longede forto deyȝe.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Who so be proud in herte,</L>
+<L>þynk on god almyȝt</L>
+<L>And on his wowndys smerte,</L>
+<L>how rewly he was adyȝt;</L>
+<L>Godys sone in trone</L>
+<L>þat heyȝest is of myȝt</L>
+<L>Tok batayle alone</L>
+<L>for oure loue to fyȝt.</L>
+<L>With an O and an I,</L>
+<L>þe batayle was so stronge,</L>
+<L>At many a betyr wownde</L>
+<L>þe ryche blod out spronge.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Trewe turtyl corounyd on hylle</L>
+<L>þat heyȝest art of kynde,</L>
+<L>þy loue chaungyþ my wille,</L>
+<L>whan þou comyst in my mynde.</L>
+<L>þe fend I forsake anon</L>
+<L>for on lady so hende;</L>
+<L>To seruyn þe lady þan wil I gon,</L>
+<L>for ȝhe is of my kende.</L>
+<L>With an O and an I,</L>
+<L>icham on of þo</L>
+<L>þat þy sone bouȝte dere;</L>
+<L>he schal me nat forgo!</L>
+<CLOSER>Amen.</CLOSER>
+</LG>
+</DIV4>
+</DIV3>
+<DIV3 N="3" TYPE="part">
+<HEAD>III.</HEAD>
+<P>Ebenfalls von Furnivall EETS. 46, und zwar auf s. 153, ist das folgende gedicht abgedruckt. Auch hier ist es wohl zweifellos, dass ursprünglich sechszeilige strophen mit der reimstellung a a a a b b vorlagen. Das gedicht ist offenbar ver∣stümmelt überliefert; im anfang müssen vier verse = zwei langzeilen ausgefallen sein. Das eintreten von verschlungenem reim scheint hier wie im vorigen gedichte zu falscher auf∣fassung der strophe geführt zu haben; dadurch ist vielleicht auch die verstümmelung im anfange verursacht.</P>
+<DIV4 TYPE="poem">
+<PB N="306" REF="24"/>
+<HEAD>Ms. Douce 128, fol. 258.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>As þou for holy churche riȝt</L>
+<L>bare þe blody face,</L>
+<L>To þe y praye, boþe day and nyȝt,</L>
+<L>of ioye sende me a space,</L>
+<L>Wiþ an O and <NOTE N="1)" PLACE="foot"><HI REND="italic">Fur.</HI> and for</NOTE> an I,</L>
+<L>a space forto abyde;</L>
+<L>Thu bere myn arnde to þat lord,</L>
+<L>þat bare þe blody syde!</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Jesu <NOTE N="2)" PLACE="foot"><HI REND="italic">Fur.</HI> ihesu</NOTE> kyng in trone,</L>
+<L>lord in mageste,</L>
+<L>To þe y make my mone</L>
+<L>wiþ herte good and fre!</L>
+<L>Frendes haue y none</L>
+<L>that wolde me knowe ne se,</L>
+<L>My wonynge ys allone—</L>
+<L>lord, wel wo ys me!</L>
+<L>Wiþ an O and an I,</L>
+<L>my wonynge is wel wykke,</L>
+<L>Frendes haue y fewe,</L>
+<L>my fomen walkeþ þykke.</L>
+</LG>
+</DIV4>
+</DIV3>
+<DIV3 N="4" TYPE="part">
+<HEAD>IV.</HEAD>
+<P>In dem gedichte: <HI REND="italic">When Adam dalfe</HI> etc. ist der bekannte refrain dem innerhalb der langzeilen eingetretenen binnen∣reime zu liebe bald in der einen, bald in der anderen weise abgeändert. Die sechszeilige strophe mit der reimstellung a a a a b b tritt auch hier auf. Das gedicht ist nach dem Thornton Ms. abgedruckt von Perry EETS. 26 (1867) s. 79 und von Horstmann: Yorkshire Writers I 363; nach dem Ms. Cambr. D d V 64 von Horstmann: Yorksh. Wr. I 73; vgl. auch Grundr. II 667.</P>
+<P>Ich gebe hierunter die version des Thornton Ms. mit den sachlichen varianten der Cambridger Hs. im wesentlichen nach Horstmann's abdrucken. Erwähnenswert ist, dass Perry in den verbindungen <HI REND="italic">I and E</HI> etc. stets <HI REND="italic">oe</HI> statt <HI REND="italic">E</HI> hat. Für <HI REND="italic">ihesu</HI> habe ich <HI REND="italic">Jesu</HI> eingesetzt.</P>
+<LG N="1">
+<PB N="307" REF="25"/>
+<HEAD>1.</HEAD>
+<L>When Adam dalfe and Eue span,</L>
+<L>go spire, if þou may spede: <NOTE PLACE="foot">2 go <HI REND="italic">fehlt</HI></NOTE></L>
+<L>Whare was þane þe pride of mane,</L>
+<L>þat nowe merres his mede?</L>
+<L>Of erthe and lame, as was Adam <MILESTONE N="5"/> <NOTE PLACE="foot">5 <HI REND="italic">W:</HI> slame <HI REND="italic">(lies</HI> lame = <HI REND="italic">ae.</HI> lâm, <HI REND="italic">erde, schmutz)</HI></NOTE></L>
+<L>makede to noye and nede, <NOTE PLACE="foot">6 <HI REND="italic">Perry</HI> nakede</NOTE></L>
+<L>We er als he maked to be, <NOTE PLACE="foot">7 ar we <HI REND="italic">Perry</HI> naked</NOTE></L>
+<L>Whills we þis lyfe sall lede.</L>
+<L>With I and E borne er we,</L>
+<L>as Salomone vs highte <MILESTONE N="10"/></L>
+<L>To trauell here, whills we er fere,</L>
+<L>as fewle vnto þe flyghte. <NOTE PLACE="foot">12 fouls</NOTE></L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>In werlde we ware castene for care, <NOTE PLACE="foot">13 kast for to kare</NOTE></L>
+<L>to we ware worthi to wende</L>
+<L>To wele or wa, ane of þase twa <MILESTONE N="15"/> <NOTE PLACE="foot">15 til</NOTE></L>
+<L>to welde withowttene ende. <NOTE PLACE="foot">16 to won</NOTE></L>
+<L>Forthi, whills þou may helpe þe nowe,</L>
+<L>amend þe and hafe mynde,</L>
+<L>When þou sall ga, he bese thi ffaa,</L>
+<L>þat here was are thi ffrende. <MILESTONE N="20"/> <NOTE PLACE="foot">20 are was here</NOTE></L>
+<L>With E and I, I rede forthi,</L>
+<L>vmthynke þe ay of thre: <NOTE PLACE="foot">22 þou thynk apon þies thre</NOTE></L>
+<L>What we er, and whate we warre,</L>
+<L>and whate þat we sall be. <NOTE PLACE="foot">24 þat <HI REND="italic">fehlt</HI></NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Ware þou als wysse praysede in pryce <MILESTONE N="25"/></L>
+<L>als was Salomone,</L>
+<L>Wel fairere fude of bane and blude <NOTE PLACE="foot">27 wel <HI REND="italic">fehlt</HI></NOTE></L>
+<L>þa[n] was Absolone <NOTE PLACE="foot">28 <HI REND="italic">Perry</HI> þat</NOTE></L>
+<L>Strenghely and strange to wreke þi wrange <NOTE PLACE="foot">29 strengthy</NOTE></L>
+<L>as euer was Sampsone, <MILESTONE N="30"/></L>
+<L>þou ne myghte a day, na mare þan þay,</L>
+<L>þe dede withstand allone <NOTE PLACE="foot">32 þe <HI REND="italic">fehlt</HI></NOTE></L>
+<L><PB N="308" REF="26"/>
+With I and E, þe dede to þe <NOTE PLACE="foot">33 þe <HI REND="italic">fehlt</HI></NOTE></L>
+<L>sall come, als I þe kene,</L>
+<L>Bot þou ne wate in whate kyn state, <MILESTONE N="35"/> <NOTE PLACE="foot">35 bot <HI REND="italic">fehlt,</HI> kyn <HI REND="italic">fehlt</HI></NOTE></L>
+<L>ne how ne whare ne whenne. <NOTE PLACE="foot">36 ne <HI REND="italic">fehlt</HI></NOTE></L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>When bemes sall blawe rewly one rawe, <NOTE PLACE="foot">37 <HI REND="italic">Diese strophe fehlt in D d</HI></NOTE></L>
+<L>to rekkenynge buse vs ryse,</L>
+<L>When he sall come vnto þat dome,</L>
+<L>Jesu to sitt Justyse, <MILESTONE N="40"/></L>
+<L>þat are was leue, þane mone be greue, <NOTE PLACE="foot">41 = gref <HI REND="italic">adj. traurig (lat.</HI> gravis)</NOTE></L>
+<L>whene all gastis sall ryse</L>
+<L>I say þat þane to synfull mane</L>
+<L>sary bese þat assise.</L>
+<L>With I and E, he sall noghte flee, <MILESTONE N="45"/></L>
+<L>if all he his giltes fele;</L>
+<L>He ne may hym hide, bot þare habyde</L>
+<L>ne fra þat dome appelle.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Of all thyne aughte, þat þe was raughte, <NOTE PLACE="foot">49 Of erth aght</NOTE></L>
+<L>sall þou noghte hafe, I hete, <MILESTONE N="50"/> <NOTE PLACE="foot">50 þou sal not haue</NOTE></L>
+<L>Bot seuene fote þare in to rote</L>
+<L>and a wyndynge schete. <NOTE PLACE="foot">52 þi w.</NOTE></L>
+<L>Forþi þou gyffe, whils þou may lyfe, <NOTE PLACE="foot">53 þou <HI REND="italic">fehlt</HI></NOTE></L>
+<L>or all gase þat þou may gete: <NOTE PLACE="foot">54 may <HI REND="italic">fehlt</HI></NOTE></L>
+<L>Thi gaste fra godde, þi gudes clodde, <MILESTONE N="55"/> <NOTE PLACE="foot">55 clod <HI REND="italic">(cf. ne.</HI> clod of clay) <HI REND="italic">Perry; Horstmann liest in beiden hss.</HI> olod, -de <HI REND="italic">(be∣deutung?</HI>)</NOTE></L>
+<L>thi flesche foldes vndir fete. <NOTE PLACE="foot">56 fowled</NOTE></L>
+<L>With I and E full sekire þou be <NOTE PLACE="foot">57 full <HI REND="italic">fehlt</HI></NOTE></L>
+<L>þat thyne executurs <NOTE PLACE="foot">58 þi secutowrs</NOTE></L>
+<L>Of þe ne will rekke, bot skikk and skekke <NOTE PLACE="foot">59 skelk and skek (= sculk <HI REND="italic">lauern?, skeck</HI> plündern)</NOTE></L>
+<L>full baldely in thi boures. <MILESTONE N="60"/></L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>To dome we drawe, þe sothe to schawe <NOTE PLACE="foot">61 <HI REND="italic">Diese strophe fehlt in D d.</HI></NOTE></L>
+<L>in lyfe þat vs was lente,</L>
+<L><PB N="309" REF="27"/>
+No latyne ne lawe may helpe and hawe,</L>
+<L>bot rathely vs repente,</L>
+<L>The croice, þe crowne, þe spere bese bowne <MILESTONE N="65"/></L>
+<L>þat Jesu ruggede and rente,</L>
+<L>The nayles ruyde sall þe conclude</L>
+<L>with thyne awene argument.</L>
+<L>With E and O, take kepe þare to,</L>
+<L>als Criste hym selfe vs kende, <MILESTONE N="70"/></L>
+<L>We comme and goo to wele or wo</L>
+<L>þat dredfull dome sall ende.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Of will and witt þat vesettis it, <NOTE PLACE="foot">73 Of welth a. w., þis sal be hitt</NOTE></L>
+<L>in worde and þat we wroghte, <NOTE PLACE="foot">74 in world þat þou here wroght</NOTE></L>
+<L>Rekkene we mone and ȝelde resone <MILESTONE N="75"/> <NOTE PLACE="foot">75 þou mon</NOTE></L>
+<L>full rathely of oure thoghte; <NOTE PLACE="foot">76 of thyng þat þou here thoght</NOTE></L>
+<L>Sall no fallace cufere our case, <NOTE PLACE="foot">77 May no fals help in þis case</NOTE></L>
+<L>ne consaile gette we noghte, <NOTE PLACE="foot">78 getes þou</NOTE></L>
+<L>No gyfte ne grace noþer þare gase, <NOTE PLACE="foot">79 No <HI REND="italic">fehlt</HI> nane</NOTE></L>
+<L>bot brwke, as we hafe broghte. <MILESTONE N="80"/> <NOTE PLACE="foot">80 þou hase boght</NOTE></L>
+<L>With E and I, I rede forthi:</L>
+<L>be warre nowe with thi werkes,</L>
+<L>For terymes of ȝere hase þou nane here, <NOTE PLACE="foot">83 Terme of þe ȝere</NOTE></L>
+<L>thi medes sall be thi merkes. <NOTE PLACE="foot">84 þi mede bese þer</NOTE></L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>What so it be þat we here see: <MILESTONE N="85"/> <NOTE PLACE="foot">85 What may þis be þat I</NOTE></L>
+<L>þe fairehede of thi face,</L>
+<L>Thi ble so bryghte, thi mayne, thi myghte,</L>
+<L>þi mouthe þat myrthis mase—<NOTE PLACE="foot">88 miri</NOTE></L>
+<L>All mone als was to powdir passe, <NOTE PLACE="foot">89 <HI REND="italic">ebenfalls</HI> was (= <HI REND="italic">ae.</HI> wâse <HI REND="italic">schlamm, schmutz)</HI></NOTE></L>
+<L>to graue when þat þou gase; <MILESTONE N="90"/> <NOTE PLACE="foot">90 to dede þat <HI REND="italic">fehlt</HI></NOTE></L>
+<L>A grysely geste, þan bese þou preste <NOTE PLACE="foot">91 bese þan þi breste</NOTE></L>
+<L>in armes forto brace. <NOTE PLACE="foot">92 til enbrase</NOTE></L>
+<L><PB N="310" REF="28"/>
+With I and E, for leue þou me, <NOTE PLACE="foot">93 syker þou be</NOTE></L>
+<L>bese nane, as I þe hete, <NOTE PLACE="foot">94 þare es nane, I</NOTE></L>
+<L>Of all þi kyth, dare slepe þe with <MILESTONE N="95"/> <NOTE PLACE="foot">95 wald</NOTE></L>
+<L>a nyghte vndire þi schete. <NOTE PLACE="foot">96 þi <HI REND="italic">fehlt</HI></NOTE></L>
+</LG>
+<P>Die beiden strophen, welche in dem Cambr. Ms. fenlen, werden wohl spätere zusätze sein. Horstmann erklärt str. 4 für verdächtig, weil das jüngste gericht nicht in den ursprüng∣lichen plan des gedichts hineingehöre, dessen gedanken nach ihm aus St. Edmund's Speculum entnommen sind. Dazu kommt noch ein unreimer reim <HI REND="italic">fẹ̄le: appẹ̄l(l)e.</HI> Zu der anderen strophe bemerke ich, dass sie auffallenderweise die einzige ist, welche die variation: <HI REND="italic">With E and O</HI> enthält, in sämtlichen übrigen strophen heisst es: <HI REND="italic">With I and E</HI> oder <HI REND="italic">With E and I.</HI></P>
+<P>Da das gedicht in nördlichem dialekte nicht bloss über∣liefert, sondern auch abgefasst zu sein scheint, muss es auf∣fallend erscheinen, dass beide hss. den reim <HI REND="italic">mynde: ende</HI> 2<SUP>3</SUP> (cf. auch <HI REND="italic">allone: one</HI> 3<SUP>4</SUP>) aufweisen.</P>
+<P>Wenn wir zum schluss die behandelten gedichte im zu∣sammenhange betrachten, so ergiebt sich, dass sie zwar im inhalte wesentlich von einander abweichen, aber ausser dem eigenartigen refrain auch eine entschiedene gleichartigkeit der metrischen anlage gemein haben. Sie zeigen sämtlich lang∣zeilen, meist von septenarischem oder alexandrinischem cha∣rakter, in dem hier zum ersten male abgedruckten lieder∣cyclus von germanischem vierhebigem rhythmus. Die zwei∣teilige strophe ist sechszeilig mit der reimstellung a a a a b b, wobei wiederum der cyclus mit seinen durchgehenden reimen eine ausnahme bildet; mehrfach ist verschlungener reim ein∣geflochten, einmal binnenreim. Das charakteristische <HI REND="italic">With an O and an I</HI> endlich findet sich stets in der ersten hälfte des fünften verses, also als beginn des abgesanges. Es liegt nahe anzunehmen, dass ein einzelnes bestimmtes geistliches gedicht diese form beliebt und bekannt gemacht hat, dass es die an∣regung gab, die verschiedensten religiösen stoffe in derselben eigenartigen, vielleicht alt überlieferten form zu behandeln. Neben den schwungvollen Jesushymnen der Douce-manuskripte
+<PB N="311" REF="29"/>
+findet sich ein cyclus, der aus dem inhalt der evangelien vier einzelbilder herausgreift, das uralte predigtthema von der ver∣gänglichkeit des irdischen mit dem volkstümlichsten engl. motto des 14. jahrhunderts wird in derselben form behandelt, und selbst die bittere satire gegen die bettelmönche kleidet sich in das alte gewand. Ob eins von den hier behandelten ge∣dichten direkt die älteste und ursprüngliche form darstellt, können wir nicht wissen; welche von ihnen dieser form am nächsten standen, können wir mit ziemlicher sicherheit er∣schliessen. Ausgeschlossen ist von vornherein der cyclus der vier gedichte, für welche die sachliche grundlage in der jün∣geren nordenglischen Homiliensammlung nachgewiesen ist und die den offenbar nicht ursprünglichen durchgehenden reim auf∣weisen. Ausgeschlossen ist auch schon durch den inhalt die satire gegen die bettelmönche; ausgeschlossen endlich durch den geänderten refrain das formvollendete gedicht: Als Adam grub und Eva spann. Mir scheinen die gedichte der beiden Douce-Mss. der ursprünglichen fassung am nächsten zu stehen, die selber allerdings wohl verloren gegangen ist. Sie sind beide in südlicher überlieferung vorhanden, das erstere gehört wie die ganze hs. offenbar dem südöstlichen mittellande an (cf. <HI REND="italic">ȝhe, kende).</HI> Auch die heimat des ursprünglichen gedichtes, welches den übrigen die eigenartige form geliefert hat, möchte ich etwa in dieser gegend, jedenfalls weit vom norden ent∣fernt, suchen. So würden auch die fremdkörper in den nord∣engl. gedichten, zumal <HI REND="italic">sho</HI> i. R.: -<HI REND="italic">ē</HI> Lucas 3<SUP>5</SUP> und <HI REND="italic">mynde: -ende</HI> When Ad. dalf 7<SUP>3</SUP>, ungezwungen ihre erklärung finden.</P>
+</DIV3>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="addendum">
+<HEAD>Nachtrag.</HEAD>
+<DIV2 N="1" TYPE="section">
+<HEAD>§ 1.</HEAD>
+<P>In letzter stunde, nachdem die arbeit bereits gedruckt vorliegt, fällt mir in der oft benutzten hs. Cajus Coll. Cam∣bridge 175 (cf. King Richard, Ysumbras etc.) noch ein bislang unbekanntes <HI REND="italic">O and I</HI>-gedicht in die hände, das ich als an∣hang mit abdrucken möchte. Es steht den beiden gedichten der Douce-Mss. besonders nahe und ist ein weiteres anzeichen dafür, dass die eigentliche heimat unseres refrains in Jesus-hymnen
+<PB N="312" REF="30"/>
+zu suchen ist. Die metrische anlage ist dieselbe, wie in den vorher behandelten gedichten.</P>
+<DIV3 TYPE="poem">
+<HEAD>Cambr. Caius Coll. 175.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<HEAD>Incipiunt hic matutinas de cruce in anglicis <MILESTONE N="118" UNIT="p."/> uerbis transposit{us}.</HEAD>
+<L>Erly in a morewen</L>
+<L>þe Jewes Jesu gan take,</L>
+<L>Hys frendys and hys dysciplis</L>
+<L>sone hym hadde fforsake.</L>
+<L>þey beten hym and buffettyd hym</L>
+<L>and al nyȝt garte hym wake, <MILESTONE N="119" UNIT="p."/></L>
+<L>Al þis suffryd Jesu Cryst</L>
+<L>ffor synful mennys sake.</L>
+<L>Wiþ an O and I,</L>
+<L>þer was a gret sorwe!</L>
+<L>Hou may man forȝete Jesu</L>
+<L>on euen and a morwe?</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<HEAD>Hora prima ductus est Jesus ad Pilatum.</HEAD>
+<L>At prime, forto deme Jesus to deþe,</L>
+<L>Pylate gan forþ drawe.</L>
+<L>Fals wytnesse bewreyeden hym</L>
+<L>off many a wykkyd sawe,</L>
+<L>þey spattyd in hys fayre face,</L>
+<L>as men wiþ outen lawe;</L>
+<L>Ne wolde þey neuere leue hym,</L>
+<L>tyl þey hadden hym slawe.</L>
+<L>Wiþ an O and an I,</L>
+<L>Jesus my lemman,</L>
+<L>Woo forbled is þy body,</L>
+<L>þy bryȝte rode was al wan.</L>
+<L>"Crucifige" clamitant hora III.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>At vndern, to do Jesus to deþe,</L>
+<L>lowde gunne þey crye;</L>
+<L>þey beten hym wiþ scourges kene,</L>
+<L>whyl þey myȝten drye;</L>
+<L>þey corownyd hym wiþ a þorn,</L>
+<L>þe blood ran to hys yȝe,</L>
+<L><PB N="313" REF="31"/>
+And maden hym to bere þe cros</L>
+<L>to þe mount off Caluerye,</L>
+<L>Wiþ an O and I,</L>
+<L>hys vysage þey al forbete,</L>
+<L>þere men myȝte for drede se</L>
+<L>blood off hys yȝen swete.</L>
+<L>Hora sexta Jesus est cruci conclauatus.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>At mydday he was naylyd, foot and hand,</L>
+<L>Jesus to þe roode;</L>
+<L>þey henge by hym twoo þeuys,</L>
+<L>as men þat were woode.</L>
+<L>Sory were Marye and Jhon,</L>
+<L>by hym þere þey stode;</L>
+<L>þey gouen hym drynke eysel and galle,</L>
+<L>Jesus, þat blysful ffoode,</L>
+<L>Wiþ an O and an I,</L>
+<L>as men þat were madde.</L>
+<L>For who so þynkes on þat sorwe,</L>
+<L>hou may he be gladde?</L>
+<L>Hora nona dominus Jesus exspirauit.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>At noon þyrlede hys syde</L>
+<L>Longeus <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> longe{us}.</NOTE>, a blynde knyȝt;</L>
+<L>He wypyd hys eyen wiþ þe blood,</L>
+<L>þer wiþ he hadde hys syȝt.</L>
+<L>þe erþe qwook, þe stones schoke,</L>
+<L>þe sunne loste here lyȝt,</L>
+<L>Dede men resen out off here graue,</L>
+<L>þat was Goddys myȝt!</L>
+<L>Wiþ an O and an I,</L>
+<L>þat on þe rode vs bouȝte,</L>
+<L>For men þat were in helle for synne,</L>
+<L>Jesus out hem brouȝte.</L>
+<L>De cruce deponitur hora vespertina.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>At euesong Joseph and Nychodemus</L>
+<L>took hym off þe tree.</L>
+<L>Mary was so forweped,</L>
+<L>here sone myȝte sche nouȝt see.</L>
+<L><PB N="314" REF="32"/>
+Sone, sche sayde, wiþ þy fadyr</L>
+<L>in heuene is þy pouste;</L>
+<L>þou schalt ryse fro deþ to lyue,</L>
+<L>as þou seydyst to me.</L>
+<L>Wiþ an O and I,</L>
+<L>boþe god and man,</L>
+<L>þorwȝ þy deþ was blysse bouȝt</L>
+<L>þat lorn was þorwȝ Adam.</L>
+<L>Hora completorij datur sepulture.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>At complyn þre Maryes hooff hym <MILESTONE N="120" UNIT="p."/></L>
+<L>and layde hym in a ston.</L>
+<L>Pylate bad off Crystys frendes,</L>
+<L>þey scholde leue non.</L>
+<L>He sette þre kynges <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> king{us}.</NOTE> to kepe hym,</L>
+<L>awey scholde he nouȝt gon,</L>
+<L>And ȝit he ros from deþ to lyue</L>
+<L>ffor hem euerychon.</L>
+<L>Wiþ an O and an I,</L>
+<L>he ros from hem euerychon</L>
+<L>And schewyd hym to Marye Mawdeleyne</L>
+<L>and oþere many on.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Pope Jh'on has grauntyd</L>
+<L>a ful fayr pardoun</L>
+<L>To alle þat þese matynys saye</L>
+<L>wiþ good deuocyoun,</L>
+<L>Or þat haue in mynde</L>
+<L>in herte off hys passyoun,</L>
+<L>A tweluemonþ <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> tueluemomþ.</NOTE> in purgatorye</L>
+<L>off a ful remyssyoun.</L>
+<L>Wiþ an O and an I,</L>
+<L>Jesus, off þy grace</L>
+<L>þou sende vs here oure sustenaunse</L>
+<L>and in heuene a place.</L>
+<CLOSER>Amen.</CLOSER>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<HEAD>§ 2.</HEAD>
+<P>Auch das folgende bislang unbekannte lat. gedicht kann ich noch anschliessen, welches die beredte antwort der bettel∣mönche auf die gegen sie gerichteten <HI REND="italic">O and I</HI>-gedichte (latei∣nisch
+<PB N="315" REF="33"/>
+und englisch) darstellt. Auch hier spielt Richard Fiz Ralf (Armachanus) eine grosse Rolle, die natürlich ganz anderer art ist als in den früheren gedichten. Der andere "Richard" ist offenbar sein freund und mitkämpfer Richard Kilmington, Dean of St. Paul's.</P>
+<DIV3 TYPE="poem">
+<HEAD>Ms. Trin. Coll. Cambr. O 9, 38.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Quis dabit capiti pelagus aquarum, <MILESTONE N="54b" UNIT="fol."/></L>
+<L>Vt deducant oculi fontem lacrimarum,</L>
+<L>Fletus fluant seduli, dum vel plangam parum</L>
+<L>Status euangelici discrimen animarum,</L>
+<L>Wyt an O and an I, instar Jeremie</L>
+<L>Trenos tanquam traditos in morte Josye.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Quomodo iam ciuitas sedet desolata,</L>
+<L>Sola nec est caritas nec pax illi data;</L>
+<L>Suppressa fit veritas, falsitas elata,</L>
+<L>Ciuium lex vnitas sic est extricata.</L>
+<L>Wyt an O and an I, sic lege neglecta</L>
+<L>Seruit vrbs Jerusalem Chaldeis subiecta.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Vrbs est hec ecclesia dudum comminuta,</L>
+<L>Pre regnis in Anglia laudibus imbuta,</L>
+<L>Quorundam malicia iam fit bipertita;</L>
+<L>Rerum testimonia clamant, quod sit ita.</L>
+<L>Wyt an O and an I, qui seduxit pomo,</L>
+<L>Seuit hoc zyzannia inimicus homo.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Prima parte placitant possessionati;</L>
+<L>Quoad queant, derogant hij mendicitati;</L>
+<L>Quo contra conclamitant, vt veri concordati,</L>
+<L>Fratres hij, qui militant pure paupertati.</L>
+<L>Wyt an O and an I, sic Rebecce more</L>
+<L>Laborat nunc ecclesia bino bellatore.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>Primi plura replicant contra mendicantes,</L>
+<L>Sermones intoxicant virus ventilantes,</L>
+<L>Vulpes, lupos nominant pie conuersantes;</L>
+<L>Proth! sic plebi predicant clero dominantes.</L>
+<L>Wyt an O and an I, sic canunt sirenes,</L>
+<L>Sic Susannam deprimunt duo sevi senes.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Ab hijs est iniquitas lacius diffusa,</L>
+<L>Per quam tota ciuitas fit mente delusa.</L>
+<L>Deludunt Londonias magicali musa,</L>
+<L>Quorum per versucias sunt corda confusa.</L>
+<L><PB N="316" REF="34"/>
+Wyt an O and an I, numquid non deludunt,</L>
+<L>Qui sic Christi pauperes a Christo seclundunt.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Hij minis et cedibus spirant more Sauli,</L>
+<L>Insultant pauperibus flantes instar cauli,</L>
+<L>Instaurant conuicijs crucem sancti Pauli,</L>
+<L>Nauem ducunt fluctibus spe preuenti nauli.</L>
+<L>Wyt an O and an I, in hoc mundi mari</L>
+<L>Naui Petri seruiunt, vt possunt <NOTE N="1)" PLACE="foot"><HI REND="italic">So im Ms.</HI></NOTE> ditari.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Fyz Rawffe, feram pessimam, verbi voco ducem,</L>
+<L>Et secundam bestiam equam puto trucem.</L>
+<L>Hij ceptam nequiciam fundunt apud crucem</L>
+<L>Et conantur maximam obumbrare lucem.</L>
+<L>Wyt an O and an I, vellent hos confundi,</L>
+<L>Quibus recte dicitur: "vos estis lux mundi".</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>Iubar evangelicum Franciscum derident,</L>
+<L>Deprauant Dominicum, sanctos quosque rident,</L>
+<L>In Augustinencium <NOTE N="1)" PLACE="foot"><HI REND="italic">So im Ms.</HI></NOTE> turmas dentes strident,</L>
+<L>Carmeli consorcium spernunt et irrident.</L>
+<L>Wyt an O and an I, redduntur invisi <MILESTONE N="55" UNIT="fol."/></L>
+<L>Hij bis bini ordines, fontes paradisi.</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>Sed dum sevi sciciunt <NOTE N="1)" PLACE="foot"><HI REND="italic">So im Ms.</HI></NOTE> doctrine dulcorem,</L>
+<L>Ab hijs, quos inficiunt, mendicant honorem.</L>
+<L>Ergo cur despiciunt per ingratum morem,</L>
+<L>A quibus percipiunt tam gratum liquorem?</L>
+<L>Wyt an O and an I, quia sunt ingrati,</L>
+<L>Sic in fratres seviunt satrape signati.</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Hos bis binos ordines hactenus probatos,</L>
+<L>Per summos pontifices quondam confirmatos,</L>
+<L>Falsi filoflamines reddunt execratos,</L>
+<L>Nouos condunt codices nec rectos nec ratos,</L>
+<L>Wyt an O and an I, cum sint diuites isti,</L>
+<L>Proth! de summa disputant paupertate Christi.</L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Iam incepit promere primas ille pictus,</L>
+<L>Quod Christus non libere pauper erat dictus,</L>
+<L>Sed involuntarie, quia lege strictus,</L>
+<L>Et iam licet dicere talis sermo fictus.</L>
+<L>Wyt an O and an I, fictus est et vanus,</L>
+<L>Quem nullus assereret nisi quis insanus.</L>
+</LG>
+<LG N="13">
+<PB N="317" REF="35"/>
+<HEAD>13.</HEAD>
+<L>Que nam lex hunc compulit subdi paupertati,</L>
+<L>Quam non prius voluit Christo sponte pati;</L>
+<L>Ergo gratis subdidit semet egestati,</L>
+<L>Ex quo gratis subijt premissas illati.</L>
+<L>Wyt an O and an I, qui vult antecedens,</L>
+<L>Si sequelam voluit, volet et succedens.</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>Sic Christi penuriam diffinit invitam,</L>
+<L>Vt sic voluntariam fratrum reddat tritam;</L>
+<L>Mox demonstret variam difformemque vitam,</L>
+<L>Ac sic obseruanciam reddit irretitam.</L>
+<L>Wyȝ an O and an I, quos se <NOTE N="1)" PLACE="foot"><HI REND="italic">So im Ms.</HI></NOTE> iungit Christo,</L>
+<L>Preter hoc, quod presul est, plus se iungit isto.</L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>Statum quemque tenuit, Christus inpugnasset,</L>
+<L>Si quit, vt asseruit, pauper mendicasset,</L>
+<L>Nam sic, quod non decuit, legem violasset</L>
+<L>Aut hoc, quod, cum docuit, praue predicasset.</L>
+<L>Wyt an O and an I, ista decet sequi,</L>
+<L>Sed dum probat, inficit formam texto equi.</L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>Nam lex deuteronomii—que lex sit, probaret</L>
+<L>Nullum vetat pauperem, quin hijs mendicaret,</L>
+<L>Sed hoc soli diuiti datur, ne negaret</L>
+<L>Egeno vel inopi, si quit postularet.</L>
+<L>Wyt an O and an I, hunc patet errasse</L>
+<L>Senem, qui sic improbat Christum mendicasse.</L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>Licet idem asserit beatus Bernardus,</L>
+<L>Qui redoluerat plus scripture nardus;</L>
+<L>Illud tamen denegat vterque Ricardus,</L>
+<L>Et sic legem lacerat tam leo quam pardus.</L>
+<L>Wyt an O and an I, negant veritatem,</L>
+<L>Vt sic fratrum supprimant mox mendicitatem.</L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>Miror, cur sic habeant mendicantes cure <MILESTONE N="55b" UNIT="fol."/></L>
+<L>Qui forte debuerant mendicare iure,</L>
+<L>Sed fortuna fluctuant obliti nature,</L>
+<L>Qua cunctis caruerant domibus et rure.</L>
+<L>Wyt an O and an I, Rauff sit pater primi,</L>
+<L>Sed secundi presbiter, ambo satis imi.</L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>Clamant, quod lex validis vetat mendicare</L>
+<L>Et quod debent manibus tales laborare,</L>
+<L><PB N="318" REF="36"/>
+Quare dicunt fratribus nephas quicquam dare,</L>
+<L>Ni suis laboribus velint victitare.</L>
+<L>Wyt an O and an I, senes sic ignorant,</L>
+<L>Quod, qui plebi predicant, optime laborant.</L>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>Obstant priuilegijs fratribus indultis</L>
+<L>De confessionibus necnon de sepultis;</L>
+<L>Dicunt, quod hec <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> ħ.</NOTE> legibus minime consultis</L>
+<L>Ipsi pape stulcius annuerunt multis.</L>
+<L>Wyt an O and an I, quid mirum, si fratres</L>
+<L>Premant hij, qui reprobant papas <NOTE N="2)" PLACE="foot">p<SUP>a</SUP>^̄pas.</NOTE>, summos patres.</L>
+</LG>
+<LG N="21">
+<HEAD>21.</HEAD>
+<L>Hec et hijs similia serunt isti sevi,</L>
+<L>Vix audiunt talia lapsi quisquam <NOTE N="3)" PLACE="foot">quisq<SUP>a</SUP>^̄.</NOTE> eui,</L>
+<L>Exercent ludibria, ledunt legem leui,</L>
+<L>Et deludunt senes vbique coeui <NOTE N="4)" PLACE="foot"><HI REND="italic">Ms.</HI> vbiqȝ coeui (quoqȝ qu <HI REND="italic">durchgestrichen,</HI> co <HI REND="italic">in anderer tinte übergeschrieben).</HI></NOTE>.</L>
+<L>Wyt an O and an I, litem derelinquant,</L>
+<L>Cum iam cani clamitant, quod morti propinquant.</L>
+</LG>
+<LG N="22">
+<HEAD>22.</HEAD>
+<L>O si vellent cernere, quantum nocuissent.</L>
+<L>Quot, heu, per hos anime prolapse fuissent,</L>
+<L>Litem, quam tam libere tenent, non mouissent,</L>
+<L>Matri sed ecclesie, credo, pepercissent.</L>
+<L>Wyt an O and an I, parcant vel iam sero,</L>
+<L>Ortum scisma supprimant, fratres iungant clero.</L>
+</LG>
+<LG N="23">
+<HEAD>23.</HEAD>
+<L>Sed irritat in presules cetus sacerdotum,</L>
+<L>Vt hij fratres humiles deprimant ad votum.</L>
+<L>Hij, pro, tales turbines mundum turbant totum,</L>
+<L>Hos exturbat, qui vices mundo dat et motum.</L>
+<L>Wyt an O and an I, scindat sacerdotes,</L>
+<L>Qui scindunt ecclesiam, dominus zelotes.</L>
+</LG>
+<LG N="24">
+<HEAD>24.</HEAD>
+<L>Hij simul et clerici rixas, rithmos edunt.</L>
+<L>Et sicut sunt inscij, legem metri edunt,</L>
+<L>Fratres tamen infici suis rithmis credunt,</L>
+<L>Quos profecto perfici puto, quia cedunt.</L>
+<L>Wyt an O and an I, pacienter ferunt,</L>
+<L>Quicquid serui Belial in insontes serunt.</L>
+</LG>
+<LG N="25">
+<HEAD>25.</HEAD>
+<L>Fratres clero separant, semet vocant clerum;</L>
+<L>Voce, non re militant, si quis dicat verum;</L>
+<L><PB N="319" REF="37"/>
+Cum constet, quod nesciant, quid dogma sincerum,</L>
+<L>Legant, nec intelligant, quid mixtum, quid merum.</L>
+<L>Wyt an O and an I, mixtum bibant isti</L>
+<L>Non consumptis fecibus de cratere Christi.</L>
+</LG>
+<LG N="26">
+<HEAD>26.</HEAD>
+<L>Murmur horum maximum est, quod castitatem <MILESTONE N="56" UNIT="fol."/></L>
+<L>Fratres frangunt nimium per lubricitatem.</L>
+<L>Queso, dicat dolium nudam veritatem,</L>
+<L>Quod ad ville medium spumat prauitatem:</L>
+<L>Wyt an O and an I, plures an sint ibi,</L>
+<L>Fratres an presbiteri, cuncti dicent tibi.</L>
+</LG>
+<LG N="27">
+<HEAD>27.</HEAD>
+<L>Propter edificia pulcriter locata</L>
+<L>Proclamant insignia pauperum sublata;</L>
+<L>Querunt, vnde condita forent tot tam lata,</L>
+<L>Si fratres erraria <NOTE N="1)" PLACE="foot"><HI REND="italic">So im Ms.</HI> (= aeraria).</NOTE> non habent signata.</L>
+<L>Wyt an O and an I, quid mirum, quod querunt,</L>
+<L>Qui vix vmquam fratribus minimum dederunt.</L>
+</LG>
+<LG N="28">
+<HEAD>28.</HEAD>
+<L>Ad ecclesiasticas dum sint curas dati,</L>
+<L>Sponsi mox ecclesias spoliant ingrati,</L>
+<L>Induunt amasias spolijs ditati,</L>
+<L>Et suas basilicas linquent vastitati.</L>
+<L>Wyt an O and an I, hijs dum meliora</L>
+<L>Templa fratrum videant, verbis laxant ora.</L>
+</LG>
+<LG N="29">
+<HEAD>29.</HEAD>
+<L>Sed iam verba sileant, rixe conquiescant,</L>
+<L>Frondes pacis floreant, motores mitescant,</L>
+<L>Amor, honor redeant, furores tepescant,</L>
+<L>Liuores iam lateant; lux, laus illucescant!</L>
+<L>Wyt an O and an I, oro: sint amici,</L>
+<L>Pauperes et diuites, magni seu mendici!</L>
+</LG>
+<LG N="30">
+<HEAD>30.</HEAD>
+<L>Hec, que ego profero, quod vera securus</L>
+<L>Adhuc moror seculo, sed frater futurus,</L>
+<L>Pauperes huic prefero ego ignosciturus,</L>
+<L>Quis cuique sit, postulo, cui sermo durus.</L>
+<L>Wyt an O and an I, hanc litem qui sordet,</L>
+<L>Christus deus dirimat et clerum concordet.</L>
+<CLOSER>Amen.</CLOSER>
+<TRAILER>Explicit, expliceat, ludere scriptor eat.</TRAILER>
+</LG>
+<CLOSER><DATELINE>CAMBRIDGE.</DATELINE>
+<SIGNED>W. HEUSER.</SIGNED></CLOSER>
+</DIV3>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

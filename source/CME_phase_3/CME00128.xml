@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-31-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; added two Ls; changed sub HEAD to HEADNOTE P; removed LGs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00128">
+<STC T="M">128</STC>
+<BIBNO T="mec">CME00128</BIBNO>
+<VID>CME00128</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="309" REF="1" MS="y"/>
+<HEAD>PROVERBS.</HEAD>
+<HEADNOTE><P><HI REND="italic">[From MS. Harl.</HI> 3362, <HI REND="italic">of the end of the fifteenth century.]</HI></P></HEADNOTE>
+<LG>
+<L>Ȝoung seynt, old devyl.</L>
+<L>Here ȝe and sey nawt.</L>
+<L>Ofte me kessyt the chil for . . .</L>
+<L>A scallyd mannys hed ys good to be broke.</L>
+<L>Ewyl weed ys sone y-growe.</L>
+<L>He ys an happy man that ys war be anothyr mannys dedys.</L>
+<L>Tunge brekyth bon,</L>
+<L>thow hyrself have non.</L>
+<L>Labbe hyt whyste,</L>
+<L>and owt yt muste.</L>
+<L>Schorte hosin behowythe longe . . .</L>
+<L>The mows lordchypythe ther a cat ys nawt.</L>
+<L>Whan thou gest by the weyȝe, be war where thou drowe.</L>
+<L>Zelde y-seyȝe sone forȝete.</L>
+<L>Whan the scho harmt the fot, war . . .</L>
+<L>Onys y-brend ever dret feer.</L>
+<L>For my slefe y-broke . . .</L>
+<L>Newe thyng lykyth, old thyng lothyth.</L>
+<L>The mo cuntremen the wers.</L>
+<L>A man purposyt, God dysposyt.</L>
+<L>Whan the vox ys ful, he pullyth gees.</L>
+<L>A envyows man wexit lene.</L>
+<L>Whan me byddyth the, yt ys no synne to drynke,</L>
+<L>Nede makyth an old wyf . . .</L>
+<L>Krakenel hornys havyth non.</L>
+<L>Of a lytyl sperk ys mad gret feer.</L>
+<L>Betyr plesyth a ful wombe than a newe cote.</L>
+<L>Feld hath eye, wode hath ere.</L>
+<L>Betyr ys a byrd in the hond, than tweye in the wode.</L>
+<L>Sum man bet the buschys, another hath the bryddys.</L>
+<L>Wel wot the cat whas berd he . . .</L>
+<L>Of other mennys lethyr men makyt large laynerys.</L>
+<L>Whyl the dogge gnawyth, the cat wolde ete.</L>
+</LG>
+<CLOSER><SIGNED>W.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

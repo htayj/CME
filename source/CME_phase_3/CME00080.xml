@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-19-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>; removed <SUP>s</SUP> from MILESTONEs. Reviewed structure; removed prose fragment from beginning of text; removed prose fragment from middle of text; removed prose fragment from end of text; changed TRAILER to L; added missing LGs to second poem; changed two HEADs to Q Ls. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00080">
+<STC T="M">80</STC>
+<BIBNO T="mec">CME00080</BIBNO>
+<VID>CME00080</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="171" REF="7"/>
+<HEAD>THE EREMYTE AND THE OUTELAWE.</HEAD>
+<HEAD TYPE="sub">(A Balade.)</HEAD>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>Almyghty god, that man gan make <MILESTONE N="3a" UNIT="f."/></L>
+<L>And suffred ded for oure sake,</L>
+<L>So let us never spylle:</L>
+<L>Graunt us alle hys blessynge,</L>
+<L>Shryft, housel and gode endynge, <MILESTONE N="5"/></L>
+<L>Lord, ȝyf yt be thy wylle! <NOTE PLACE="foot">6 gyf.</NOTE></L>
+<L>A man, that wylle synge or carpe,</L>
+<L>Be hyt wyth geterne or wyth harpe,</L>
+<L>Be hyt never so schrylle,</L>
+<L>Ȝyf anothyr be ludder than he, <MILESTONE N="10"/> <NOTE PLACE="foot">10 Gyf.</NOTE></L>
+<L>Lyttyl lykynge ys in hys gle,</L>
+<L>But men be fast and stylle.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Wyth yn a lytel whyle we have sen, <NOTE PLACE="foot">13 seyn.</NOTE></L>
+<L>What pestelence ther hath ben</L>
+<L>A few yere here byforn. <MILESTONE N="15"/></L>
+<L>Unbrest wondrys ther have falle <NOTE PLACE="foot">16 fawn(!).</NOTE></L>
+<L>And many a stronge battayl wyth alle <NOTE PLACE="foot">17 wyth awe(!).</NOTE></L>
+<L>And also derth of corn.</L>
+<L>Ther ben few, that joyen othyr, <MILESTONE N="3b" UNIT="f."/></L>
+<L>Unneth the systyr dothe the brothyr <MILESTONE N="20"/></L>
+<L>Of o modyr y-borne.</L>
+<L>Vnkyndnesse waxeth ryve; <NOTE PLACE="foot">22 waxed.</NOTE></L>
+<L>God graunt us so to thryve,</L>
+<L>That oure sowles be nought lorn.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Off tweye brethyrn y may you tell, <MILESTONE N="25"/> <MILESTONE N="4a" UNIT="f."/></L>
+<L>By olde tyme how hyt befelle, <NOTE PLACE="foot">26 be∣fylle.</NOTE></L>
+<L>Whylom, by olde sawe.</L>
+<L>That on was an errant theff,</L>
+<L>To robben and reven hym was lef</L>
+<L>And was a wylde outlawe. <MILESTONE N="30"/></L>
+<L>That othyr was a gode ermyte,</L>
+<L>Off grey clothyng was hys abyte</L>
+<L>And dwellyd by wylde wode schawe</L>
+<L>And ȝede barfote and nought y∣schod; <NOTE PLACE="foot">34 gede.</NOTE></L>
+<L>The heyr he weryd for love of god, <MILESTONE N="35"/></L>
+<L>His flesche to byte and gnawe.</L>
+</LG>
+<LG N="4">
+<PB N="172" REF="8"/>
+<HEAD>IV.</HEAD>
+<L>He wolde comen in no town,</L>
+<L>Wyth man or woman for to rown,</L>
+<L>To bryngen hym in to synne,</L>
+<L>As othyr ermytys don now a day; <MILESTONE N="40"/></L>
+<L>They rekken never, what they say,</L>
+<L>Ne how that they bygynne.</L>
+<L>World and wethyr ensampyl schewes, <MILESTONE N="4b" UNIT="f."/></L>
+<L>How man and woman kepen wyth þewes, <NOTE PLACE="foot">44 dewes.</NOTE></L>
+<L>Of synne that wylle not blynne. <MILESTONE N="45"/></L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Now mo ye here of thys outlawe,</L>
+<L>That hawntyd the wyld wode schawe,</L>
+<L>To robben men and slo.</L>
+<L>As he stode on a gode fryday,</L>
+<L>He sey moche folke come by the way, <MILESTONE N="50"/></L>
+<L>Barfote they gonne to go. <NOTE PLACE="foot">51 thay they (!).</NOTE></L>
+<L>In hys hert he toke gode hede,</L>
+<L>How men and wommen barfote ȝede <NOTE PLACE="foot">53 gede.</NOTE></L>
+<L>And why they wentyn so.</L>
+<L>He sey a woman, that come hym by, <MILESTONE N="55"/> <NOTE PLACE="foot">55 by hym by(!).</NOTE></L>
+<L>Went barfote and was sory</L>
+<L>For synnes, that sche hadde do. <NOTE PLACE="foot">57 ydo.</NOTE></L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>As sche come walkyng by the strete,</L>
+<L>Wyth that wylde outlawe sche gan mete,</L>
+<L>Hys bowe bare bent in honde. <MILESTONE N="60"/> <NOTE PLACE="foot">60 ybent.</NOTE></L>
+<L>'Abyde!' he sayde, 'thou schalt dwelle; <MILESTONE N="5b" UNIT="f."/></L>
+<L>Here anon y schall the quelle, <NOTE PLACE="foot">62 Hore.</NOTE></L>
+<L>Styll but ȝyf thou stonde. <NOTE PLACE="foot">63 gyf.</NOTE></L>
+<L>'Syr', sche sayde, 'at thy wylle,</L>
+<L>For goddys love do me none ylle, <MILESTONE N="65"/></L>
+<L>Neythyr schame ne schonde.'</L>
+<L>A synful woman have y be</L>
+<L>Passyng XXX wyntyr and thre,</L>
+<L>Most comyn of all thys londe'.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>'Tell me!', he sayde, 'y the hote, <MILESTONE N="70"/></L>
+<L>Wherfore that thou gost barfote,</L>
+<L>On haste tell thou me,</L>
+<L>And also othyr men thys day,</L>
+<L>Come walkyng by the way,</L>
+<L>For what thyng yt myght be'. <MILESTONE N="75"/></L>
+<L>'Syr', sche sayde, 'y schall the tell:</L>
+<L>Thys day the Jewes Jesu gan quelle,</L>
+<L>To saven bothe the and me. <NOTE PLACE="foot">61-78 <HI REND="italic">stehen nach</HI> 79-96.</NOTE></L>
+<L>He, that forsakyth hys foly <MILESTONE N="5a" UNIT="f."/></L>
+<L>And Jesu Chryste mercy wyl crye, <MILESTONE N="80"/></L>
+<L>Tyl hevens blysse schal he'.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>'Woman, for thy wordys hende</L>
+<L>To chyrche wyth the wyl y wende,</L>
+<L>To wetyn, what men don there; <NOTE PLACE="foot">84 thare.</NOTE></L>
+<L>For by hym, that thys world wrought, <MILESTONE N="85"/></L>
+<L>Goddys servise ne hurde y nought <NOTE PLACE="foot">86 servise] vise <HI REND="italic">(auf rasur).</HI></NOTE></L>
+<L>Of alle thys twentye yere.</L>
+<L>Never hadde y wyll to huyre messe, <NOTE PLACE="foot">88 masse.</NOTE></L>
+<L>But thus lyved forth yn wyldernesse; <NOTE PLACE="foot">89 wyldernysse.</NOTE></L>
+<L>No godenesse wolde y lere. <MILESTONE N="90"/></L>
+<L>Thowe men wolde me take and slo,</L>
+<L>To chyrche wyth the wyl y go,</L>
+<L>Goddys servise to here'. <NOTE PLACE="foot">93 servise] vise <HI REND="italic">(auf rasur).</HI> huyre.</NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>And as the outelawe in the chyrche stode,</L>
+<L>He loked aboute, as he were wode, <MILESTONE N="95"/></L>
+<L>And grete ferly hym thought.</L>
+<L>To the autere he gan wende <MILESTONE N="6a" UNIT="f."/></L>
+<L>And lenyd on hys bowys ende;</L>
+<L>So wondyrly ther he wrought . . .</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Tyl that god hym sent grace, <MILESTONE N="100"/></L>
+<L>That fayre convertyd he was</L>
+<L>Wyth thundyr blast, wynde and reyne</L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>And sythen he was apostyl gode;</L>
+<L>For goddys love he schedde hys blode;</L>
+<L>Hys sowle ys nowe yn blysse. <MILESTONE N="105"/></L>
+<L>And ȝyf thou wylt thy synnys forsake <NOTE PLACE="foot">106 gyf.</NOTE></L>
+<L><PB N="173" REF="9"/>
+And do pennance, that y the take,</L>
+<L>So may thou thryve, ywys'.</L>
+<L>'A, syr vycary, tel thou me,</L>
+<L>What pennance yt schall be. <MILESTONE N="110"/></L>
+<L>But sette me nought amysse;</L>
+<L>But ȝyf thou do, y do yt nought; <NOTE PLACE="foot">112 gyf.</NOTE></L>
+<L>For evyr yt hadde be in my thought,</L>
+<L>My lyfe to lede yn lysse'.</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>'A, son, thou most barfote go <MILESTONE N="115"/> <MILESTONE N="6b" UNIT="f."/></L>
+<L>And wolward therto also</L>
+<L>Alle these yerys sevene!'</L>
+<L>'Syr', sayde thys outlawe, 'nay!</L>
+<L>Barfote ne wolward gon y may,</L>
+<L>Though y schall never come in hevene'. <MILESTONE N="120"/></L>
+<L>'Sone', he sayde, 'never the latyr,</L>
+<L>Mayston faste brede and watyr? <NOTE PLACE="foot">122 Maysten.</NOTE></L>
+<L>Lustyn vnto my stevene!'</L>
+<L>'Nay, ywysse, that myght y never;</L>
+<L>To suffur deth me were lever, <MILESTONE N="125"/></L>
+<L>Thenne more there of nevene'. <NOTE PLACE="foot">126 revene.</NOTE></L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>'Thanne a pater nostyr loke thou say</L>
+<L>And a ave every day <NOTE PLACE="foot">128 aves evry.</NOTE></L>
+<L>In remission of thy synne!'</L>
+<L>'Pater nostyr ne can y none <MILESTONE N="130"/> <MILESTONE N="7a" UNIT="f."/></L>
+<L>Ne ave Marye, by sent Jon,</L>
+<L>I not never, where to bygynne'.</L>
+<L>'Mayston suffren no grefance? <NOTE PLACE="foot">133 Mayston.</NOTE></L>
+<L>Doon thou most som pennance,</L>
+<L>Heven ȝyf thou wylt wynne. <MILESTONE N="135"/> <NOTE PLACE="foot">135 gyf.</NOTE></L>
+<L>Whyle thou art yong of age,</L>
+<L>Do thou most som pylgrymage,</L>
+<L>Eythyr more or mynne'.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>'On pylgrymage may y nought gon</L>
+<L>And alle so spendyng have y none; <MILESTONE N="140"/></L>
+<L>To beggyn y ne can;</L>
+<L>I hadde lever smyte of my heed, <NOTE PLACE="foot">142 sm.] to sm.—heved.</NOTE></L>
+<L>Thanne y schulde beggyn my bred</L>
+<L>Of woman or of man'.</L>
+<L>The vyker torned to the cros hys hede <MILESTONE N="145"/></L>
+<L>And sayde: 'Lord, what ys thy red,</L>
+<L>That alle thys world wan?</L>
+<L>Suffre not thys man to spylle!'</L>
+<L>He bad to good wyth so good wylle,</L>
+<L>The terys out of hys eyȝe ran. <MILESTONE N="150"/> <NOTE PLACE="foot">150 ought; <HI REND="italic">am rande</HI> out.</NOTE></L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<L>'Syr vykery', he sayde, 'have good day!</L>
+<L>There nys nothyng, that me helpe may,</L>
+<L>I se yt ryght wel byforn.</L>
+<L>Alle thou hast in waste ywrought,</L>
+<L>For to don pennance may y nought, <MILESTONE N="155"/></L>
+<L>Thow y schulde be forlorn'.</L>
+<L>'Sone', he sayde, 'lysten ȝyt to me! <NOTE PLACE="foot">157 ryght; <HI REND="italic">am rande</HI> zyt.</NOTE></L>
+<L>Thorowe grace of god savyd may∣stou be, <NOTE PLACE="foot">158 mayston.</NOTE></L>
+<L>That of Marye was born.</L>
+<L>Tell me,' he sayde, 'wythouten bost: <MILESTONE N="160"/></L>
+<L>What thyng hatystou to don most? <NOTE PLACE="foot">161 hatyston.</NOTE></L>
+<L>Tell me, wythouten shorne!' <NOTE PLACE="foot">162 sherne.</NOTE></L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>'Syr,' he sayde, 'so have y <HI REND="italic">qu</HI>er<HI REND="italic">t</HI>e <NOTE PLACE="foot">163 querte] þerne.</NOTE></L>
+<L>To drynke watyr <HI REND="italic">doth</HI> me <HI REND="italic">most smerte,</HI> <NOTE PLACE="foot">164 d. me m. sm.] was (w <HI REND="italic">unterstrichen, am rande</HI> n) me never lef.</NOTE></L>
+<L>The sothe for to say; <MILESTONE N="165"/> <MILESTONE N="8a" UNIT="f."/></L>
+<L>Never sythe y couthe sowke,</L>
+<L>Watyr wolde never my body browke <NOTE PLACE="foot">167 my] in my.</NOTE></L>
+<L>For nought, that man do may.</L>
+<L>'Sone', sayde the vyker, 'what byfalle,</L>
+<L>In remyssion of thy synnys alle <MILESTONE N="170"/></L>
+<L>Drynk no watyr to day <NOTE PLACE="foot">171 Dryng.</NOTE></L>
+<L>And y assoyle the of thy synnys fre; <NOTE PLACE="foot">172 assayle.</NOTE></L>
+<L>Loke, thys forward y-holde be,</L>
+<L>No more penance y the pray.' <NOTE PLACE="foot">174 Ne.</NOTE></L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>'Syre', he sayde, 'yt schall be holde, <MILESTONE N="175"/></L>
+<L>The penance, that thou hast me tolde,</L>
+<L>And ellys y were to blame;</L>
+<L>Ȝyf yt be, as y thynke, <NOTE PLACE="foot">178 Gyf.</NOTE></L>
+<L><PB N="174" REF="10"/>
+To day wyl y no watyr drynke, <NOTE PLACE="foot">179 no] ne <HI REND="italic">mit verweisungszeichen vor</HI> wyl.</NOTE></L>
+<L>To suffre deth or schame.' <MILESTONE N="180"/></L>
+<L>'Fare wel,' sayde the vykerye,</L>
+<L>'Thenke on god and crye hym mercye</L>
+<L>And go on Chrystys name!'</L>
+<L>'Fare well, syr vycary,' the outlawe sayde, <MILESTONE N="8b" UNIT="f."/></L>
+<L>(Wyth thys penance he helde hym payde) <MILESTONE N="185"/></L>
+<L>'God wote, whan we meten in same.'</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>Nowe mowe ye here a ferly thyng, <NOTE PLACE="foot">187 Yowe.</NOTE></L>
+<L>How sone he fyl in fondyng,</L>
+<L>From chyrche when he was went.</L>
+<L>Unneth he hadde walkyd a myle; <MILESTONE N="190"/> <NOTE PLACE="foot">190 Duneth; <HI REND="italic">in der anmerkung:</HI> unneth. walkyth.</NOTE></L>
+<L>Swych a thyrst hym tok that whyle, <NOTE PLACE="foot">191 wyle.</NOTE></L>
+<L>Hym thought hys body to-brent. <NOTE PLACE="foot">192 tobr.] alle tobr.</NOTE></L>
+<L>He hadde lever have dronkyn a drawght, <NOTE PLACE="foot">193 leve.</NOTE></L>
+<L>Thanne alle the good, that ever he aught;</L>
+<L>So sore com hys talent. <MILESTONE N="195"/></L>
+<L>And as he walkyd in the strete,</L>
+<L>Wyth a wenche gan he mete,</L>
+<L>That semed hym semely gent.</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>On her hed sche bar a canne;</L>
+<L>The watyr over the brerde ran, <MILESTONE N="200"/> <NOTE PLACE="foot">200 brere.</NOTE></L>
+<L>That semed hym fayre and cler.</L>
+<L>'Wenche,' he sayde, 'me thyrsteth sore. <NOTE PLACE="foot">202 thyrsted, d <HI REND="italic">unterstrichen.</HI> <MILESTONE N="9" UNIT="f."/> <HI REND="italic">ist in der copie als</HI> 10 <HI REND="italic">gezählt u. s. w.</HI></NOTE></L>
+<L>If that watyr thou berest thare, <NOTE PLACE="foot">203 barest.</NOTE></L>
+<L>Set thonne thy pot ryght here!' <NOTE PLACE="foot">204 schryft, y <HI REND="italic">über der zeile nachgetragen.</HI></NOTE> <NOTE PLACE="foot">204 in] most <HI REND="italic">unterstrichen, am rande</HI> in.</NOTE></L>
+<L>'Syr,' sche sayde, 'at thy wyl <MILESTONE N="205"/></L>
+<L>Here may thou drynke thy fylle!'</L>
+<L>Sche made hym noble cheere.</L>
+<L>He tok the pot and wolde drynke;</L>
+<L>Sone on hys schryft he gan to thynke;</L>
+<L>Tho wax he al in were. <MILESTONE N="210"/></L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>'A, lord', he sayde, 'how may thys be,</L>
+<L>That thys lykyng falleth thus on me?'</L>
+<L>(The watyr he gan beholde)</L>
+<L>'Yong ne olde y lovyd yt never</L>
+<L>And now me were a drawght lever, <MILESTONE N="215"/></L>
+<L>Thanne all thys world of golde;</L>
+<L>And though y never forth schulde gon,</L>
+<L>There of wyl y drynk none,</L>
+<L>Deyghen thow y scholde'. <NOTE PLACE="foot">219 Deyghten.</NOTE></L>
+<L>Wenche and pot he let there stonde, <MILESTONE N="220"/> <MILESTONE N="10b" UNIT="f."/></L>
+<L>(Hyt was the devyll, that hym gan fonde)</L>
+<L>Thorough goddys grace drynk he nolde.</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>Forth he walkyth by the strete;</L>
+<L>An othyr wenche he gan mete;</L>
+<L>A pot sche bar in honde, <MILESTONE N="225"/></L>
+<L>A fayre dyssche therwyth also.</L>
+<L>'Wenche', he sayde, 'whydyr schaltou go?' <NOTE PLACE="foot">227 wythyr schalton.</NOTE></L>
+<L>Sche gan abyde and stonde.</L>
+<L>'Syr,' sche sayde, 'seystou for why? <NOTE PLACE="foot">229 seyston.</NOTE></L>
+<L>Ȝyf thou wylt drynke, yt ys alle redy, <MILESTONE N="230"/> <NOTE PLACE="foot">230 Gyf.</NOTE></L>
+<L>None fayrer watyr in londe.'</L>
+<L>Sche fyllyd a dyssche and to hym toke;</L>
+<L>He thought on the vycar and yt forsoke;</L>
+<L>The devyll thus hym gan fonde.</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>'A, lovely lord, how ys thys? <MILESTONE N="235"/></L>
+<L>Swyche a thurst on me ys,</L>
+<L>Me thynketh my hert wyl chine. <NOTE PLACE="foot">237 kine.</NOTE></L>
+<L>Thowe y never furthur schuld gon, <MILESTONE N="11a" UNIT="f."/></L>
+<L>Water wyl y drynke none, <NOTE PLACE="foot">239 drynge.</NOTE></L>
+<L>My lyf thow y schuld tyne.' <MILESTONE N="240"/></L>
+<L>In that wyl he gan forthe passe</L>
+<L>A furlonge wey and lasse; <NOTE PLACE="foot">242 <HI REND="italic">zwischen</HI> and <HI REND="italic">und</HI> lasse <HI REND="italic">ein grösserer zwischenraum.</HI></NOTE></L>
+<L><PB N="175" REF="11"/>
+Harde hym thought hys pyne.</L>
+<L>By the wey he fond a welle;</L>
+<L>A wenche ther in a pot gan fylle, <MILESTONE N="245"/></L>
+<L>Ther watyr was cler as wyne. <NOTE PLACE="foot">246 cler] as cler.</NOTE></L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>As he stode by the wellys banke,</L>
+<L>He ne myght stonde on foot ne schank,</L>
+<L>So feble he was and faynt.</L>
+<L>Vnneth he myght a worde speke; <MILESTONE N="250"/></L>
+<L>Hym thought hys hert wolde tobreke,</L>
+<L>So thrust hym hadde atteynt. <NOTE PLACE="foot">252 thrust, <HI REND="italic">r unterstrichen.</HI></NOTE></L>
+<L>He beheld the watyr, how yt ran</L>
+<L>And how the wench fyllyd her canne; <NOTE PLACE="foot">254 her, <HI REND="italic">r über der zeile nachgetragen.</HI></NOTE></L>
+<L>For drynke he made hys playnt. <MILESTONE N="255"/></L>
+<L>The wenche fyllyd a dyssch stofull <MILESTONE N="11b" UNIT="f."/></L>
+<L>And bade the outlawe drynke a pull;</L>
+<L>That schrewe was sleyȝ and queynt. <NOTE PLACE="foot">258 y sleyeȝ and þreynt.</NOTE></L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>As he stode at the wellys brynke,</L>
+<L>On hys knyfe he gan to thynke, <MILESTONE N="260"/></L>
+<L>That hanged by hys syde.</L>
+<L>He onbottoned a sleve of hys arme</L>
+<L>And smote a veyne, that was ful warme</L>
+<L>And made hyt blede that tyde.</L>
+<L>Ther he drank hys owne blode; <MILESTONE N="265"/></L>
+<L>Hym thought, hyt dyd hym moche gode;</L>
+<L>The wownde was dep and wyde.</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>The outlawe bledde forthe wyth mayne;</L>
+<L>He nyst, how to stop yt agayne</L>
+<L>He bledde hard and sore, <MILESTONE N="270"/></L>
+<L>Tyl he saw, that he schulde dye; <NOTE PLACE="foot">271 deye.</NOTE></L>
+<L>He fyll on hys knees and lowde gan crye:</L>
+<L>'Jesu, mercye, thyn ore!</L>
+<L>Ne suffre nought my soule to spylle, <MILESTONE N="12a" UNIT="f."/></L>
+<L>Lord, ȝyf hyt be thy wylle, <MILESTONE N="275"/> <NOTE PLACE="foot">275 gyf.</NOTE></L>
+<L>Of Mary thou were bore!' <NOTE PLACE="foot">276 borne.</NOTE></L>
+<L>Thus he prayd in that stownde,</L>
+<L>Tyll he fell gr<HI REND="italic">o</HI>uely<HI REND="italic">ng</HI>e to grownde, <NOTE PLACE="foot">278 grene∣lyche, <HI REND="italic">in der anm. erklärt</HI> 'immediately'.</NOTE></L>
+<L>That leven he myght no more. <NOTE PLACE="foot">279 ne.</NOTE></L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>Then come out of the blysse of hevene <MILESTONE N="280"/> <NOTE PLACE="foot">280 Then, n <HI REND="italic">unterstrichen, am rande</HI> r.</NOTE></L>
+<L>Mo angels, thanne y can nevene <NOTE PLACE="foot">281 nemene</NOTE></L>
+<L>Or wyth tunge telle</L>
+<L>And toke the soule wyth joye and game</L>
+<L>And let lygge that lykhame</L>
+<L>Uppon the banke of the welle. <MILESTONE N="285"/></L>
+<L>Forthe they wentyn everychone</L>
+<L>By the ermytage sone anone,</L>
+<L>Ther hys brothyr gan dwelle;</L>
+<L>And whan he herde the angels songe</L>
+<L>And hys brothyr hem amonge, <MILESTONE N="290"/></L>
+<L>On knees to grownde he felle</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>And sayd: 'Lord, what may thys be, <MILESTONE N="12b" UNIT="f."/></L>
+<L>Thys myrthe and thys solempnite,</L>
+<L>My brothyr ys now ynne,</L>
+<L>That never wrought wel, ywys, <MILESTONE N="295"/></L>
+<L>But alle hys lyf hadde ladde amys</L>
+<L>And ay do wo and synne?</L>
+<L>For to defoylen mayde and wyfe,</L>
+<L>Thus he hath ledd hys lyfe;</L>
+<L>Ne wolde he never blynne. <MILESTONE N="300"/></L>
+<L>Now methynketh, y lyve to longe</L>
+<L>Othyr ellys god deyth me wronge,</L>
+<L>That he thus heven may wynne</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>And y, that suffre payn and wo,</L>
+<L>Evyl lygge and barfote go <MILESTONE N="305"/></L>
+<L>And faste unto watyr and brede:</L>
+<L>Here of me thynkyth grete ferly,</L>
+<L>That he may com to heven or y,</L>
+<L>For ever he was a queede.</L>
+<L>I wyl be a owtlawe and non ermyte <MILESTONE N="310"/> <MILESTONE N="13a" UNIT="f."/></L>
+<L>And caste awey my grey abyte <NOTE PLACE="foot">311 myne <HI REND="italic">unterstrichen, am rande</HI> my grey.</NOTE></L>
+<L><PB N="176" REF="12"/>
+And alle myne othyr wede</L>
+<L>And robbe and sle bothe on and othyr</L>
+<L>And com to heven, as doth my brothyr;</L>
+<L>Thys ys my beste reed.' <MILESTONE N="315"/> <NOTE PLACE="foot">315 beste, e <HI REND="italic">ausgestrichen.</HI></NOTE></L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>Thus to God he gan to chyde;</L>
+<L>An angel com to hym that tyde</L>
+<L>Ful hastly and ful blyue</L>
+<L>And sayde: 'Syr ermyte, y the sey,</L>
+<L>Thy brothyr hath suffered more to <MILESTONE N="320"/> day,</L>
+<L>Than thou dedyst yn alle thy lyve. <NOTE PLACE="foot">321 lyue, u <HI REND="italic">in</HI> v <HI REND="italic">geändert.</HI></NOTE></L>
+<L>Thys day he gan hys synnes forsake</L>
+<L>And swyche a vyker hym penance gan take;</L>
+<L>Clene he gan hym schryve.</L>
+<L>To holde hys schryft hym self gan <MILESTONE N="325"/> quelle</L>
+<L>And ther he lyth at swyche a welle <NOTE PLACE="foot">326 lyeth, e <HI REND="italic">aus∣gestrichen.</HI></NOTE></L>
+<L>And in hys honde the knyf.</L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<L>Loke, ermyte, thou lete hym nought, <MILESTONE N="13b" UNIT="f."/></L>
+<L>To crysten grave that he be brought;</L>
+<L>A martyr he ys to day. <MILESTONE N="330"/></L>
+<L>Holde stylle thy lyfe, as thow began, <NOTE PLACE="foot">331 And holde.</NOTE></L>
+<L>And be forthe ryght a gode man</L>
+<L>And loke, what y the say,</L>
+<L>And have no wondyr of goddys myght;</L>
+<L>Hys mercy ys redy day and nyght <MILESTONE N="335"/></L>
+<L>To alle tho that wylle to hym praye.'</L>
+<L>Thus the angell the ermyte gan telle;</L>
+<L>Ther wolde he no lengyr dwelle;</L>
+<L>To blysse he went hys way.</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>The ermyte went forthe anone, <MILESTONE N="340"/></L>
+<L>Tylle he to the place come,</L>
+<L>Ther that the vycary was,</L>
+<L>And sayd: 'Syr, for charite,</L>
+<L>A worde or to in pryvyte</L>
+<L>Of a wonder cas. <MILESTONE N="345"/></L>
+<L>I hadde a brothyr, an owtlawe bolde, <MILESTONE N="14a" UNIT="f."/></L>
+<L>Thys day an angel sothe yt me tolde <NOTE PLACE="foot">347 Thys, s <HI REND="italic">über der zeile nachgetragen.</HI></NOTE></L>
+<L>Thorugh myght of godys grace.</L>
+<L>Al hys lyfe he gan me telle</L>
+<L>And ther he lyth at swyche a welle <MILESTONE N="350"/></L>
+<L>Ded in that ylke plas.'</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>The vycary sayde: 'Sothe to say,</L>
+<L>Wyth me was swyche a man to day;</L>
+<L>I knowe hym wel in mynde.</L>
+<L>Go we and seke hym togeder!' <MILESTONE N="355"/> <NOTE PLACE="foot">355 Go we] To wo(!).</NOTE></L>
+<L>They wentyn, but they nyst whedyr,</L>
+<L>Ȝyf they myght hym fynde. <NOTE PLACE="foot">357 Gyf.</NOTE></L>
+<L>On her way they gonne hem spede;</L>
+<L>By dalys and downys forthe they ȝede, <NOTE PLACE="foot">359 gede.</NOTE></L>
+<L>They spared neythyr reyn ne wynde, <MILESTONE N="360"/></L>
+<L>Tylle thay come, ther he lay ded</L>
+<L>At a banke be syde a stede,</L>
+<L>Fayre under a lynde.</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>A knyfe they fownde yn hys honde; <MILESTONE N="14b" UNIT="f."/></L>
+<L>Therfore the vycary gan understonde, <MILESTONE N="365"/></L>
+<L>Wherefore yt was and why, <NOTE PLACE="foot">366 Werefore.</NOTE></L>
+<L>As he lay at that wellys banke,</L>
+<L>That he hys owne blode dranke;</L>
+<L>Hys mouth was alle blody.</L>
+<L>Thys the vycary the ermyte gan telle: <MILESTONE N="370"/></L>
+<L>'To holde hys schryft hymself gan quelle.'</L>
+<L>Thonkid god and mylde Marye.</L>
+<L>To holy churche they hym gan brynge</L>
+<L>And for hym dude rede and synge,</L>
+<L>As he was welle worthy. <MILESTONE N="375"/></L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<L>Thus the owtlawe heven wan;</L>
+<L>The ermyte was forthe a gode man,</L>
+<L>As the angel thanne bade,</L>
+<L>And aftyr, whanne he made an ende,</L>
+<L><PB N="177" REF="13"/>
+To heven blysse wythouten ende <MILESTONE N="380"/></L>
+<L>Wyth angels hys sowl was lad.</L>
+<L>God graunt us grace in oure lyfe; <MILESTONE N="15a" UNIT="f."/> <NOTE PLACE="foot">382 graunt, u <HI REND="italic">über der zeile nachgetragen.</HI></NOTE></L>
+<L>Of our synnes wel to schryfe</L>
+<L>And oure penance don so sad!</L>
+<L>Marye, to the y mene my mone, <MILESTONE N="385"/></L>
+<L>In heven blysse that we may come</L>
+<L>And make us alle blythe and glad.</L>
+</LG>
+<TRAILER>Explicit the Eremyte and the Outelawe.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB N="184" REF="20"/>
+<LG>
+<L><HI REND="italic">Þ</HI>e mon, þat is of wommon I-bore, <MILESTONE N="88b" UNIT="f."/> <MILESTONE N="2" UNIT="col."/></L>
+<L>His lyf nis here but a þrowe:</L>
+<L>So seiþ Jop vs her bifore</L>
+<L>Al in a bok, þat I wel knowe.</L>
+</LG>
+<LG>
+<L><HI REND="italic">He</HI> hedde his muynde al of his deþ; <MILESTONE N="5"/></L>
+<L>Wel sore al he con grone and grunte</L>
+<L>And seide, his lyf nas bote a breþ;</L>
+<L>Her mow we none stounde stunte.</L>
+</LG>
+<LG>
+<L><HI REND="italic">F</HI>rom deþ may no mon be freo,</L>
+<L>For his rihte wol he not lete. <MILESTONE N="10"/></L>
+<L>Nou beoþ þer messagers þreo</L>
+<L>Among monkuynde for to mete:</L>
+</LG>
+<LG>
+<L><HI REND="italic">A</HI>uentures, seeknesse and elde,</L>
+<L>Þeos beoþ messageres of deth;</L>
+<L>To hem we moten vs alle ȝelde <MILESTONE N="15"/></L>
+<L>And luten, þer vr maystres geþ.</L>
+</LG>
+<LG>
+<L><HI REND="italic">W</HI>hon deþ comes, þat is so derk,</L>
+<L>Þer may no mon him wiþ-stonde.</L>
+<L>I take witnesse on a noble clerk,</L>
+<L>Þat wrot þeos vers wiþ his honde: <MILESTONE N="20"/></L>
+</LG>
+<Q>
+<L>Mors vetat athletas: ego mortis nescio metas:</L>
+<L><HI REND="italic">I[n]ter res letas caueat sibi que∣libet</HI> <NOTE N="1)" PLACE="foot">quilibet <HI REND="italic">Simeon-hs.;</HI> quilibet, i <HI REND="italic">in</HI> e <HI REND="italic">verbessert Vernon-hs.</HI></NOTE> <HI REND="italic">etas!</HI></L>
+</Q>
+<LG>
+<L>Deþ, he sleþ þis kempes kene</L>
+<L>And kynges in heore worþli won,</L>
+<L>Riche and pore alle bi dene;</L>
+<L>Ȝong ne old spareþ he non.</L>
+</LG>
+<LG>
+<L>Þer is on of þe messagers, <MILESTONE N="25"/></L>
+<L>Þat of no mon wol take meede;</L>
+<L>He is so hardi and so fers,</L>
+<L>Þat alle men of him haue drede.</L>
+</LG>
+<LG>
+<PB N="185" REF="21"/>
+<L><HI REND="italic">Þ</HI>e messager hette auentures,</L>
+<L>Aȝeynes him mai beo no stryf. <MILESTONE N="30"/></L>
+<L>Whon he comeþ to a monnes hous,</L>
+<L>He takeþ boþe hosebonde and þe wyf.</L>
+</LG>
+<LG>
+<L><HI REND="italic">H</HI>e takeþ þe child in his cradel,</L>
+<L>Þauh he beo but on niht old,</L>
+<L>Þe kniht an horse in his sadel, <MILESTONE N="35"/></L>
+<L>I-armed beo he neuer so bold.</L>
+</LG>
+<LG>
+<L><HI REND="italic">O</HI>f him beo vche mon i-war</L>
+<L>And mak him clene, ar he be hent,</L>
+<L>For þer nis no ȝeyn-char,</L>
+<L>Whon auentures comeþ to turnyment. <MILESTONE N="40"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">M</HI>ony mon liþ in dedly synne</L>
+<L>And weneþ, þat he beo not veyȝe,</L>
+<L>And aue[n]tures comeþ wiþ his gynne</L>
+<L>And hunteþ, til he haue his preyȝe.</L>
+</LG>
+<LG>
+<L><HI REND="italic">I</HI>n dedly sinne he is I-founde <MILESTONE N="45"/></L>
+<L>Wiþ oute schrift and repentaunce,</L>
+<L>He geþ in to helle grounde,</L>
+<L>Þer to suffre his penaunce.</L>
+</LG>
+<LG>
+<L><HI REND="italic">S</HI>eint Poul bit, we schulden awake.</L>
+<L>Þis clerkes witen as wel as I, <MILESTONE N="50"/></L>
+<L>Þat we schulden vs clene make</L>
+<L>And of vr sinnes ben sori.</L>
+</LG>
+<LG>
+<L><HI REND="italic">A</HI>nd bote we ben, we schullen abugge;</L>
+<L>Þer schal no pledur plede þat.</L>
+<L>Þer god vs fynt, he wol vs jugge; <MILESTONE N="55"/></L>
+<L>Nou vche mon be war bi þat.</L>
+</LG>
+<LG>
+<L><HI REND="italic">F</HI>or auentures wol come as a þeof</L>
+<L>Beo nihte, whon men beon a slepe,</L>
+<L>And taken awey, þat him is leof;</L>
+<L>Nou awakeþ, þat ȝe mowen him kepe. <MILESTONE N="60"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">A</HI>noþer messager þer is</L>
+<L>Of deth, whon Crist wol him sende:</L>
+<L>Seknesse, ichaue I-herd ar þis,</L>
+<L>Þe messager is swiþe hende.</L>
+</LG>
+<LG>
+<L><HI REND="italic">W</HI>hon seknesse comeþ to a mon, <MILESTONE N="65"/></L>
+<L>He may be war, ȝif he is sleih,</L>
+<L>And greiþen his in, ȝif þat he con</L>
+<L>And þenken, þat deþ is swiþe neih.</L>
+</LG>
+<LG>
+<L><HI REND="italic">F</HI>or seknesse comeþ apertely;</L>
+<L>He ne dareþ not in his den. <MILESTONE N="70"/></L>
+<L>Hit is vr lordes curtesy,</L>
+<L>Wiþ seknesse forte warne men.</L>
+</LG>
+<LG>
+<L><HI REND="italic">M</HI>oni men, whon þat heo ben seke,</L>
+<L>To Jhesu Crist a clepen and crie</L>
+<L>And to his mylde moder eke <MILESTONE N="75"/></L>
+<L>And sigge: 'Nou you help, Marie!</L>
+</LG>
+<LG>
+<L><HI REND="italic">Ȝ</HI>if þat we mowe beo sound and saue</L>
+<L>And keuere, þat we mowen habbe vr hele,</L>
+<L>Al þe good, þat we haue,</L>
+<L>For godes loue we wolleþ hit dele.' <MILESTONE N="80"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">W</HI>e loue wel god in al vr þouȝt,</L>
+<L>Whon we beo seke and sore smerte;</L>
+<L>Whon we ben hol, we louen him nouȝt,</L>
+<L>He nis no lengor in vre herte.</L>
+</LG>
+<Q>
+<L>Cum fero langorem, fero religionis amorem:</L>
+<L>Expers langoris non sum memor huius amoris.</L>
+</Q>
+<LG>
+<L><HI REND="italic">O</HI>f Crist ne takeþ he non hede, <MILESTONE N="85"/></L>
+<L>He naþ no more wiþ him to donne;</L>
+<L>To þonken him for his gode dede,</L>
+<L>He þenkeþ no more þer vpponne.</L>
+</LG>
+<LG>
+<L><HI REND="italic">S</HI>uche men beoþ ofte al one I-let,</L>
+<L>To pleye as þe foul doþ in þe lyft, <MILESTONE N="90"/></L>
+<L>Til auentures haue wiþ hem met,</L>
+<L>Bireueþ hem boþe hosul and schrift.</L>
+</LG>
+<LG>
+<L><HI REND="italic">M</HI>en ouȝten holden vp boþe her honden</L>
+<L>To god, while heo ben hole and fere,</L>
+<L>To sende, whon he wol hem fonden, <MILESTONE N="95"/></L>
+<L>Seknesse to ben heore messagere.</L>
+</LG>
+<LG>
+<L><HI REND="italic">S</HI>eint Poul seiþ, vre lordes kniht,</L>
+<L>In a pistel, þat he wrot,</L>
+<L>Þat he was strengest and most of miht,</L>
+<L>Whon god him wiþ seknesse smot. <MILESTONE N="100"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">N</HI>ou ichulle siggen ow of elde;</L>
+<L>Of messager he is þe þridde.</L>
+<L><PB N="186" REF="22"/>
+Whon monnes hed bigineþ to elde,</L>
+<L>He may not do but beodes bidde.</L>
+</LG>
+<LG>
+<L><HI REND="italic">A</HI>nd he leoneþ vppon his crucche; <MILESTONE N="105"/></L>
+<L>Whon deþ him bekeneþ, comen he mot,</L>
+<L>Hit helpeþ nouȝt, þauȝ he grucche;</L>
+<L>He schal wiþstonde neuere a fot.</L>
+</LG>
+<LG>
+<L><HI REND="italic">A</HI>lso fareþ elde as doþ a sweyn,</L>
+<L>Þat stondeþ at his lordes ȝate <MILESTONE N="110"/></L>
+<L>And mot not wenden in aȝeyn</L>
+<L>For þe porter, þat is þer ate.</L>
+</LG>
+<LG>
+<L><HI REND="italic">F</HI>or no ȝiftes, þat he may ȝiuen</L>
+<L>Ne feire wordes, þat he may speken,</L>
+<L>He worþ out at þe ȝate I-driuen; <MILESTONE N="115"/></L>
+<L>Anon þe ȝate for him is steken.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Ȝ</HI>if a mon may libben her</L>
+<L>And ben of pouwer, for to go</L>
+<L>Þe elde of foure score ȝer;</L>
+<L>Þat oþur del is serwe and wo. <MILESTONE N="120"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">F</HI>or hose wole his lyf biholde</L>
+<L>From bigynnyng to þe ende,</L>
+<L>Wel ofte may his herte colde,</L>
+<L>Þat not, what wei he schal wende.</L>
+</LG>
+<LG>
+<L><HI REND="italic">W</HI>el we witen, we schul be dede; <MILESTONE N="125"/></L>
+<L>Vr dwellyng her nis bote a while.</L>
+<L>Jhesu Crist vs wisse and rede,</L>
+<L>Þat neuer þe feond ne do vs gyle.</L>
+</LG>
+<LG>
+<L><HI REND="italic">N</HI>ou is deþ a wondur þing</L>
+<L>And grislich forte þenken on; <MILESTONE N="130"/></L>
+<L>He ne spareþ emperour ne kyng</L>
+<L>Ne pope for al þe god, þat he con.</L>
+</LG>
+<LG>
+<L><HI REND="italic">W</HI>her ben heo, þat biforen vs weren,</L>
+<L>Þat weoren so mihti in heore deden,</L>
+<L>Houndes ladden and haukes beren <MILESTONE N="135"/></L>
+<L>And huntyng heiȝe vppon heore steden?</L>
+</LG>
+<LG>
+<L><HI REND="italic">D</HI>eþ hit haþ hem al biraft;</L>
+<L>Wiþ hem þer nis no more pley,</L>
+<L>And al þat bereþ monnes schaft</L>
+<L>Schal go þat ilke selue wey. <MILESTONE N="140"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">V</HI>che mon may be sore aferd,</L>
+<L>Þat haþ a soule forte saue,</L>
+<L>Whon he geþ bi a churcheȝerd</L>
+<L>And seoþ, wher dede men beoþ I-graue.</L>
+</LG>
+<LG>
+<L><HI REND="italic">R</HI>iche men habbeþ riche stones, <MILESTONE N="145"/></L>
+<L>Þat alle men mouwe biholde;</L>
+<L>Þer vndur liggeþ foule bones,</L>
+<L>I-beddet al in cloþ of colde.</L>
+</LG>
+<LG>
+<L><HI REND="italic">W</HI>el pore halle þer is I-maked</L>
+<L>Wiþ outen eny worldes winne; <MILESTONE N="150"/></L>
+<L>Saue a clout men beoþ al naked,</L>
+<L>Whon deþ is comen, I-cast þer inne.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Þ</HI>e halle rof is cast ful lowe;</L>
+<L>Þer beoþ none chaumbres wyde.</L>
+<L>Me may reche þe helewowe <MILESTONE N="155"/></L>
+<L>And þe wal on vch a syde.</L>
+</LG>
+<LG>
+<L><HI REND="italic">H</HI>eore bodies þat were so softe ibaþen</L>
+<L>And I-brouȝt forþ wiþ mete and drink,</L>
+<L>Þer hit schal crepe ful of maþen;</L>
+<L>In al þis world nis foulore stynk. <MILESTONE N="160"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">A</HI> mon, þat such a bodi seȝe,</L>
+<L>Whon wormes hit haueþ þorw souht,</L>
+<L>He ouhte wepe wiþ his eȝe</L>
+<L>And euere haue him al in his þouȝt.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Þ</HI>er nis non so luite ne so muche, <MILESTONE N="165"/></L>
+<L>Þat is of flesch, blod and bon,</L>
+<L>Þat we ne schulle ben alle suche,</L>
+<L>Whon we ben huled vndur a ston.</L>
+</LG>
+<LG>
+<L><HI REND="italic">H</HI>ow may eny mon beo proud</L>
+<L>For eny þing, þat he may gete, <MILESTONE N="170"/></L>
+<L>Whon he is huled vndur a schroud,</L>
+<L>Þat þing, þat is wormes mete,</L>
+</LG>
+<LG>
+<L><HI REND="italic">Þ</HI>at þing, þat is vre moste fo; <MILESTONE N="89" UNIT="f."/> <MILESTONE N="1" UNIT="col."/></L>
+<L>Þerfore we don a gret folye,</L>
+<L>To loue þat þing, þat doþ him wo, <MILESTONE N="175"/></L>
+<L>And eke vr dedlich enemye.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Ȝ</HI>if a mon may libben her</L>
+<L>As longe as dude Matussale,</L>
+<L>Nyne hundred and nyne and sixti ȝer,</L>
+<L>So longe on eorþe liuede he: <MILESTONE N="180"/></L>
+</LG>
+<LG>
+<PB N="187" REF="23"/>
+<L><HI REND="italic">Þ</HI>at nis not also muche tyme</L>
+<L>Aȝeynes þe tyme, þat comeþ aftur∣ward,</L>
+<L>As fro þe sonne risyng to prime;</L>
+<L>To synful men þat is ful hard.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Þ</HI>at I schal seie, nou takeþ kepe, <MILESTONE N="185"/></L>
+<L>I drawe to witnesse seint Austin,</L>
+<L>Þat a mon schal more wepe,</L>
+<L>Þat dampned is to helle pyn,</L>
+</LG>
+<LG>
+<L><HI REND="italic">Þ</HI>en is watur vndur þe sonne,</L>
+<L>And he wepe vche day a ter. <MILESTONE N="190"/></L>
+<L>Auyseþ ou nou, ȝif þat ȝe cunne</L>
+<L>And doþ, þat ȝe ne come not þer.</L>
+</LG>
+<LG>
+<L><HI REND="italic">A</HI> mon, þat dampned is to helle,</L>
+<L>His peyne may not ben forbouht;</L>
+<L>Ak endeles he schal þer dwelle, <MILESTONE N="195"/></L>
+<L>Almes dede helpeþ him nouht.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Þ</HI>eiȝ al þe men, þat libbeþ nouþe,</L>
+<L>Weore prestes and masses dude singe</L>
+<L>And duden al, þat þei euere couþe,</L>
+<L>Ne scholde him of pyne bringe. <MILESTONE N="200"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">Þ</HI>at ilke soule, þat is driuen</L>
+<L>Wiþ feondes in at þe helle ȝate</L>
+<L>And his juggement beo him ȝiuen,</L>
+<L>To bidde merci hit is to late.</L>
+</LG>
+<LG>
+<L><HI REND="italic">H</HI>euene hit is vre heritage; <MILESTONE N="205"/></L>
+<L>To vre bihoue hit is diht;</L>
+<L>We han do feute and homage</L>
+<L>To vre lord, as hit is riht.</L>
+</LG>
+<LG>
+<L><HI REND="italic">S</HI>inful mon, ȝif þat þou falles,</L>
+<L>Arys vp and mak þi pes <MILESTONE N="210"/></L>
+<L>And cum to Crist, whon þat he calles,</L>
+<L>To joye, þat is endeles.</L>
+</LG>
+<LG>
+<L><HI REND="italic">H</HI>e, þat is almihti kyng,</L>
+<L>Þat heȝe sitteþ in trinite,</L>
+<L>Graunte vs alle his blessyng, <MILESTONE N="215"/></L>
+<L>Amen, Amen, par charite!</L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-15-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed prose fragment from beginning of text; removed notes fragment from end of text; changed TRAILER to CLOSER; removed repeated foot NOTE; removed incorrect MILESTONE from NOTE. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00069">
+<STC T="M">69</STC>
+<BIBNO T="mec">CME00069</BIBNO>
+<VID>CME00069</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="156" REF="22"/>
+<HEAD>V. TEXT OF THE <HI REND="italic">Revelations</HI> <NOTE PLACE="foot">1. Capitalization and punctuation are those of the MS. Contrac∣tractions have been expanded in italics, <HI REND="italic">yr</HI> being written in such words as wat<HI REND="italic">yr,</HI> aft<HI REND="italic">yr,</HI> in accord with the prevailing usage of the MS. Parts of words separated in the MS. are joined with hyphens and a few letters and words have been supplied in brackets. No stanza divisions are marked in the MS. Double <HI REND="italic">ll's</HI> are crossed throughout; <HI REND="italic">y</HI>'s are occasionally dotted.</NOTE></HEAD>
+<LG>
+<L>Sum tyme was there a man of state.</L>
+<L>That was clepyd methodius.</L>
+<L>An holy byschop, a gret prelate.</L>
+<L>A man nobyll, &amp; gracyows.</L>
+<L>He seruyd god erly &amp; late. <MILESTONE N="5"/></L>
+<L>And helde þe techynge of ih<HI REND="italic">es</HI>us.</L>
+<L>Hethen me<HI REND="italic">n</HI> to hym had hate.</L>
+<L>And marteryd hy<HI REND="italic">m</HI> as bokys tell vs.</L>
+</LG>
+<LG>
+<L>But whyll þat he in preson lay.</L>
+<L>Er þ<HI REND="italic">a</HI>t he to hys dethe wente. <MILESTONE N="10"/></L>
+<L>The holy gost vp-on a day.</L>
+<L>Was be merakyll to hym sent.</L>
+<L>And told þe byschope all þe aray.</L>
+<L>Of þe warde we arn in lente. <NOTE PLACE="foot">14. <HI REND="italic">inlente</HI> MS.</NOTE></L>
+<L>Begynnynge &amp; endynge sothe to say. <MILESTONE N="15"/></L>
+<L>Ryte to þe last day of Iugement.</L>
+</LG>
+<LG>
+<L>Fyrste syn þe warde was wrowte.</L>
+<L>In sex termys hathe ben deuyde.</L>
+<L>ffyrste god made all þinge of nowte.</L>
+<L><PB N="157" REF="23"/>
+Heuyn &amp; erde large and wyde. <MILESTONE N="20"/></L>
+<L>Beste ffowle fysch all þ<HI REND="italic">a</HI>t ys owte.</L>
+<L>He made þis yt may not be denyed.</L>
+<L>Lythe he made as hym best thowt.</L>
+<L>Man on erde a-while to a-byde.</L>
+</LG>
+<LG>
+<L>Man he made &amp; eke hys fere. <MILESTONE N="25"/></L>
+<L>And put he<HI REND="italic">m</HI> to Ioy in paradyse.</L>
+<L>Adam &amp; eve he hade he<HI REND="italic">m</HI> there.</L>
+<L>And seyde ada<HI REND="italic">m</HI> at thy deuyse.</L>
+<L>Take all þis ward &amp; be þu here.</L>
+<L>Swerly and make þe of all masterys. <MILESTONE N="30"/></L>
+<L>Owt-take ȝon tre cu<HI REND="italic">m</HI> not þer<HI REND="italic">e</HI> nere.</L>
+<L>ffor yf þu do þow warkyste on-wyse.</L>
+</LG>
+<LG>
+<L>Than þe deuyll come for enuye.</L>
+<L>Ryte in lykenes of a serpente.</L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hys sleytys faly &amp; slay. <MILESTONE N="35"/></L>
+<L>He made Eue to hym assente.</L>
+<L>And sythyn Adam folyly.</L>
+<L>Of þis tre an appyll hente.</L>
+<L>And brake goddys byddy<HI REND="italic">n</HI>g opynly.</L>
+<L>All mankynd þ<HI REND="italic">er</HI>-for was schente. <MILESTONE N="40"/> <MILESTONE N="4 b." UNIT="fol."/></L>
+</LG>
+<LG>
+<L>Owt of paradyse þa<HI REND="italic">n</HI> were þey dreuy<HI REND="italic">n.</HI></L>
+<L>Ada<HI REND="italic">m</HI> &amp; eue bothe of þis synne.</L>
+<L>What god ga<HI REND="italic">n</HI> hym vndyr-nym. <NOTE PLACE="foot">43. <HI REND="italic">gafe</HI> corrected to <HI REND="italic">gan</HI> MS. <HI REND="italic">Hym</HI> crossed out after <HI REND="italic">vndyr</HI> MS.</NOTE></L>
+<L>Adam seyd Eue made hym be-gynne.</L>
+<L>Than w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þis Iugeme<HI REND="italic">n</HI>t on hym ȝouyn. <MILESTONE N="45"/> <NOTE PLACE="foot">45. Read <HI REND="italic">was</HI> for <HI REND="italic">with</HI> of MS.</NOTE></L>
+<L>þere foode w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> trauayle &amp; swet to wynne.</L>
+<L>In langore &amp; sorow her<HI REND="italic">e</HI> lyfe to leyne. <NOTE PLACE="foot">47. Read <HI REND="italic">leuyne.</HI></NOTE></L>
+<L>He to delve &amp; sche to spynne.</L>
+</LG>
+<LG>
+<L>And in goddys byddy<HI REND="italic">n</HI>g for lytyll þey braste</L>
+<L>No wondyr was god were wrothe. <MILESTONE N="50"/> <NOTE PLACE="foot">50. Þ<HI REND="italic">ow</HI> deleted after <HI REND="italic">wondyr</HI> MS.</NOTE></L>
+<L>Owt of paradyse wer<HI REND="italic">e</HI> þey caste.</L>
+<L>Nakyd w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owty<HI REND="italic">n</HI> clowt or clothe.</L>
+<L>And þus þey [were] in thralda<HI REND="italic">m</HI> tharste.</L>
+<L>Þ<HI REND="italic">a</HI>t fyrste were lefe þo were þey lothe.</L>
+<L>ȝet owt of paradyse when þey paste. <MILESTONE N="55"/></L>
+<L>Clene vyrgenys were þey bothe.</L>
+</LG>
+<LG>
+<PB N="158" REF="24"/>
+<L>Than aftyr þ<HI REND="italic">a</HI>t þe fyftene ȝere.</L>
+<L>Adam gate caym þ<HI REND="italic">a</HI>t cayteff fell.</L>
+<L>And Calmanan hys systere fere.</L>
+<L>As methodye seythe in hys spell. <MILESTONE N="60"/></L>
+<L>Whan othyr fyftene ȝere owt were.</L>
+<L>Aftyr þat he gate Abell.</L>
+<L>And denoran hys systyr dere.</L>
+<L>Certenly as bokys vs tell.</L>
+</LG>
+<LG>
+<L>In þe hundyrd ȝere &amp; therty. <MILESTONE N="65"/></L>
+<L>Of adamys lyfe þe sothe to sey.</L>
+<L>Abell wele &amp; buxumly.</L>
+<L>Dede sacryfyse to god all-way.</L>
+<L>And payyd hys tythys trwly.</L>
+<L>And schope hym to s<HI REND="italic">er</HI>ue god to pay. <MILESTONE N="70"/></L>
+<L>But cursyd caym for enuy.</L>
+<L>Slow holy Abell vp-on a day.</L>
+</LG>
+<LG>
+<L>Adam for sorow of abell.</L>
+<L>And hundyrd wyntyr led hys lyfe.</L>
+<L>In schastyte þe trwþe to tell. <MILESTONE N="75"/> <MILESTONE N="5 a." UNIT="fol."/></L>
+<L>And of hys wyfe toke he no ryfe.</L>
+<L>Tyl at þe laste goddys aungyll.</L>
+<L>Bad hym stynte of hys stryfe.</L>
+<L>And seyd adam god wyll þow mell.</L>
+<L>And dele more ȝyt w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þi wyfe. <MILESTONE N="80"/></L>
+</LG>
+<LG>
+<L>Than gate he sethe þ<HI REND="italic">a</HI>t blyssyd chylde.</L>
+<L>þat aftyrward was stronge geau<HI REND="italic">n</HI>t.</L>
+<L>But ȝytt he was bothe meke &amp; mylde.</L>
+<L>And lyke to Adam in semlaw<HI REND="italic">n</HI>te.</L>
+<L>He schongyd all warkys wylde. <MILESTONE N="85"/></L>
+<L>All schrewdnes he gan to hawnte.</L>
+</LG>
+<LG>
+<L>þan aftyr-warde ys not to lyyn.</L>
+<L>Adam wyth hys wyfe gan dele.</L>
+<L>And so god wold be-twyn þe<HI REND="italic">m</HI> tweyn.</L>
+<L>Chyldryn þey had bad &amp; hele. <MILESTONE N="90"/></L>
+<L>Fowre sonys he had in certeyn.</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owt caym &amp; eke Abell.</L>
+<L>And as þe story tellythe pleyn.</L>
+<L>þat dowterys adam had as fele.</L>
+</LG>
+<LG>
+<PB N="159" REF="25"/>
+<L>In þe sex hundyrd ȝere. <MILESTONE N="95"/></L>
+<L>Of adamys leuynge sekyrly.</L>
+<L>Caymys sonys in wyk manere.</L>
+<L>Gun vse here wyuys in Avowtry.</L>
+<L>Whan eyte hundyrd ȝere entere.</L>
+<L>Were fulfyllyd plenrely. <MILESTONE N="100"/></L>
+<L>Ouyr all erde þer men were.</L>
+<L>A-brode was spred þa<HI REND="italic">n</HI> lecherye.</L>
+</LG>
+<LG>
+<L>Whan nyne hu<HI REND="italic">n</HI>dyrd ȝer<HI REND="italic">e</HI> &amp; therty.</L>
+<L>Of adamys lyfe was comy<HI REND="italic">n</HI> &amp; gon.</L>
+<L>Than Adam deyde sertenly. <MILESTONE N="105"/></L>
+<L>And was beryde in ebron.</L>
+<L>Sythe hys kynrede drow to-ged<HI REND="italic">er</HI> a-non.</L>
+<L>And fro caymys kyn made p<HI REND="italic">ar</HI>ty.</L>
+<L>Thus were þey deuydyd eu<HI REND="italic">er</HI>y-schon.</L>
+<L>In þe fyrste ward sekyrlye. <MILESTONE N="110"/></L>
+</LG>
+<LG>
+<L>Sethe drow hys kyn to an hyll. <MILESTONE N="5 b." UNIT="fol."/></L>
+<L>ffast be paradyse I-wys.</L>
+<L>And þere þey dwellyd &amp; held þe<HI REND="italic">m</HI> styll.</L>
+<L>&amp; leuyd in lykynge &amp; in lys.</L>
+<L>And þere þ<HI REND="italic">a</HI>t caym ded abel kyll. <MILESTONE N="115"/></L>
+<L>&amp; sched hys broderys blode a-mys.</L>
+<L>In þat same stede was caymys wyll.</L>
+<L>He to dwell &amp; all hys.</L>
+</LG>
+<LG>
+<L>All malyfoars he to hym enbrace.</L>
+<L>&amp; þa<HI REND="italic">n</HI> he made a stronge cete. <MILESTONE N="120"/></L>
+<L>ffor eu<HI REND="italic">er</HI> he dred hy<HI REND="italic">m</HI> in þat case.</L>
+<L>þat Ablys dethe schuld vengyd be.</L>
+<L>Effrom namyd he þ<HI REND="italic">a</HI>t place.</L>
+<L>&amp; made yt a town of ryalte.</L>
+<L>The fyrste cety þ<HI REND="italic">at</HI> eu<HI REND="italic">er</HI> was. <MILESTONE N="125"/></L>
+<L>Be-forn þe flode of noye.</L>
+</LG>
+<LG>
+<L>In þe forty ȝere þa<HI REND="italic">n</HI> of Iareth.</L>
+<L>Be a compte in scrypture caste.</L>
+<L>þat was þe fyrste gre of sethe.</L>
+<L>Of þe ward fyrste thowsande paste. <MILESTONE N="130"/></L>
+<L>The ward was nere browt to nowte.</L>
+<L>&amp; all thorow caym in thardam thraste.</L>
+<L>But sethe-ys kyn wer<HI REND="italic">e</HI> as full sowte.</L>
+<L>To make he<HI REND="italic">m</HI> goode þ<HI REND="italic">a</HI>t were on-stedfaste.</L>
+</LG>
+<LG>
+<PB N="160" REF="26"/>
+<L>In þe secunde thowsend wyttyrly. <MILESTONE N="135"/></L>
+<L>Of Iarethe-ys lyfe more &amp; lesse.</L>
+<L>But a hu<HI REND="italic">n</HI>dyrde ȝere &amp; therty.</L>
+<L>Men were full of cursydnesse.</L>
+<L>Tho þ<HI REND="italic">at</HI> cam of caymys kyn sekyrly.</L>
+<L>Xuball &amp; tuball w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owt gesse. <MILESTONE N="140"/></L>
+<L>þe sonys of lamek certenly.</L>
+<L>þey were leuynge in wretchydnes.</L>
+</LG>
+<LG>
+<L>Lamek ca<HI REND="italic">m</HI> of caymys seede.</L>
+<L>He fell to blynde ryte as we fynde.</L>
+<L>And ȝyt in story as we rede. <MILESTONE N="145"/> <MILESTONE N="6 a." UNIT="fol."/> <NOTE PLACE="foot">145. <HI REND="italic">fynde</HI> first written for <HI REND="italic">rede.</HI> MS.</NOTE></L>
+<L>Thow þat lamek were so blynde.</L>
+<L>ȝyt hym tyd to do þat dede.</L>
+<L>To sle caym þ<HI REND="italic">a</HI>t was onkynde.</L>
+<L>wythe schot he made hys sydys blede.</L>
+<L>As he lay slepynge vndyr a lynd. <MILESTONE N="150"/></L>
+</LG>
+<LG>
+<L>Thys eche xuball &amp; tuball.</L>
+<L>þat comy<HI REND="italic">n</HI> of caym as I late tolde</L>
+<L>werne þe fyrste me<HI REND="italic">n</HI> of all.</L>
+<L>þat eu<HI REND="italic">er</HI> fonde crafte ȝonge or olde.</L>
+<L>They wer<HI REND="italic">e</HI> þe fyrste þ<HI REND="italic">at</HI> wrowte metall. <MILESTONE N="155"/></L>
+<L>In Iryn. stele. syluyr. or golde.</L>
+<L>And eke þe fyrste &amp; pryncypall.</L>
+<L>To fynde vp musyke bolde.</L>
+</LG>
+<LG>
+<L>They fonde fyrst crafte of syngynge.</L>
+<L>And mynstrally more &amp; more. <MILESTONE N="160"/></L>
+<L>þey fonde þe fyrste crafte of werkynge.</L>
+<L>In metall as I tolde be-fore.</L>
+<L>and for þey had be for-castynge.</L>
+<L>þat þe werd xuld sone be lore.</L>
+<L>þey keste to kepe styll here cun<HI REND="italic">n</HI>yng<HI REND="italic">e.</HI> <MILESTONE N="165"/></L>
+<L>ffro fyre or flode þat smytyth sore.</L>
+</LG>
+<LG>
+<L>Than þey made pelerys too.</L>
+<L>On of marbyll a-noþer of tyle.</L>
+<L>In eythyr peler þey closyd thoo.</L>
+<L>All craftys þat were sotyll. <MILESTONE N="170"/></L>
+<L>That what-so-eu<HI REND="italic">er</HI> came þer-too.</L>
+<L><PB N="161" REF="27"/>
+ffyre or flode to make exyle.</L>
+<L>These pelers had þey made so.</L>
+<L>þat on xuld stond safe at all p<HI REND="italic">er</HI>ell.</L>
+</LG>
+<LG>
+<L>The marbyll pelere sothe to sey. <MILESTONE N="175"/></L>
+<L>To be safe in watyr &amp; floode.</L>
+<L>þe tylen for yt ys towhe all-wey.</L>
+<L>Thow þe fere be neu<HI REND="italic">er</HI> so wode.</L>
+<L>Ther-for þe marbyll peler ay. <MILESTONE N="6 b." UNIT="fol."/></L>
+<L>In noys flode stedfastly stoode. <MILESTONE N="180"/></L>
+<L>The tylen peler went hys way.</L>
+<L>ffor þat wat<HI REND="italic">yr</HI> was not goode.</L>
+</LG>
+<LG>
+<L>All here sotyll arte-ys sere.</L>
+<L>þat were co<HI REND="italic">n</HI>teynyd here on grownd.</L>
+<L>were closyd in þe marbyll pelere. <MILESTONE N="185"/></L>
+<L>To be kepte hole &amp; sownde.</L>
+<L>That oþ<HI REND="italic">er</HI> me<HI REND="italic">n</HI> when þey come here.</L>
+<L>Aft<HI REND="italic">yr</HI> þat þe werd were drownde.</L>
+<L>þo same craftys myte vse &amp; lere.</L>
+<L>Aftyr þ<HI REND="italic">a</HI>t þey were I-fownde. <MILESTONE N="190"/></L>
+</LG>
+<LG>
+<L>ȝet þes same men sekyrly.</L>
+<L>þat were comy<HI REND="italic">n</HI> of caymys kyn.</L>
+<L>þey fond þe art of astronomy.</L>
+<L>Thorow here sleytys &amp; here gyn.</L>
+<L>The corse of planetys þat ar sly. <MILESTONE N="195"/></L>
+<L>And all þe eleme<HI REND="italic">n</HI>tys more &amp; myn.</L>
+<L>of sun<HI REND="italic">n</HI>e &amp; mone &amp; sweche mastry.</L>
+<L>þey were þe fyrste me<HI REND="italic">n</HI> to be-gyn.</L>
+</LG>
+<LG>
+<L>And ȝyt mo mastryys as we rede.</L>
+<L>So longe god lete þem leue here. <MILESTONE N="200"/></L>
+<L>That þey clerly knewe in-dede.</L>
+<L>þe kende corse of planetys sere.</L>
+<L>ffor astronomy wythe-owt drede.</L>
+<L>May no ma<HI REND="italic">n</HI> know p<HI REND="italic">er</HI>fyte &amp; clere.</L>
+<L>But he may here in lyfe lede. <MILESTONE N="205"/></L>
+<L>þe hole terme of an hundyrd ȝere.</L>
+</LG>
+<LG>
+<L>ffor be þa<HI REND="italic">n</HI> a hu<HI REND="italic">n</HI>dyrd ȝere come owt.</L>
+<L>As þes grete clerkys seyne.</L>
+<L>þe gret spere ys run<HI REND="italic">n</HI>e a-bowte.</L>
+<L>And turnyd to hys fyrst state a-geyn. <MILESTONE N="210"/></L>
+<L><PB N="162" REF="28"/>
+The corse of planetys all þe rowte.</L>
+<L>þan xall be know &amp; be certen.</L>
+<L>And odyr wyse w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owtyn dowte. <MILESTONE N="7 a." UNIT="fol."/></L>
+<L>That crafe xall he neu<HI REND="italic">er</HI> opteyne.</L>
+</LG>
+<LG>
+<L>whan aftyr sevyn hu<HI REND="italic">n</HI>dyrd ȝere. <MILESTONE N="215"/></L>
+<L>þat Iaerthe here in erde ga<HI REND="italic">n</HI> dwell.</L>
+<L>Ouyr all erde fere &amp; nere.</L>
+<L>sweche synne &amp; wretchydnes befell.</L>
+<L>And man<HI REND="italic">n</HI>ys hertys sett so entere.</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hydows males for to mell. <MILESTONE N="220"/></L>
+<L>þat yt ys not leful to here.</L>
+<L>nor no tu<HI REND="italic">n</HI>ge to towch <HI REND="italic">n</HI>or tell. <NOTE PLACE="foot">222. <HI REND="italic">Tow<HI REND="overline">ch</HI> or</HI> MS.</NOTE></L>
+</LG>
+<LG>
+<L>Than goodys sonys as bokys tell vs.</L>
+<L>Couetyd to ly men<HI REND="italic">n</HI>ys dowterys by.</L>
+<L>Goodys sonys we co<HI REND="italic">n</HI>stru þus. <MILESTONE N="225"/></L>
+<L>Ar sethys kynrede sekyrly.</L>
+<L>ffor caymys sonys were vycyows.</L>
+<L>Man<HI REND="italic">n</HI>ys chyldryn wer<HI REND="italic">e</HI> þey callyd for thy.</L>
+<L>Of myn autere seynt methodius.</L>
+<L>I take wytnes þat I not ly. <MILESTONE N="230"/></L>
+</LG>
+<LG>
+<L>That god was wrothe i<HI REND="italic">n</HI> hys entent.</L>
+<L>And seyd a wondyr word I-wys.</L>
+<L>þat I made ma<HI REND="italic">n</HI> I me repent.</L>
+<L>Or made hym to haue p<HI REND="italic">ar</HI>t of my blys.</L>
+<L>My spryte xall not be lost ne lent. <MILESTONE N="235"/></L>
+<L>In man for he but flesche be schent.</L>
+<L>ffor ma<HI REND="italic">n</HI> onkyndly dothe a-mys. <NOTE PLACE="foot">236-7. There is evidently a line missing. Perhaps 236 should end with <HI REND="italic">ys</HI> for which the scribe carelessly copied the last words of the following verse.</NOTE></L>
+</LG>
+<LG>
+<L>þan sethe-ys kynrede w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret on-ryte.</L>
+<L>þey lay be wome<HI REND="italic">n</HI> of caymys kyn.</L>
+<L>An[d] gotyn gyau<HI REND="italic">n</HI>tys of hydows hyte. <MILESTONE N="240"/></L>
+<L>All in cursydnes &amp; in synne.</L>
+<L>þey were ogly &amp; fowle in syte.</L>
+<L>passynge all oþ<HI REND="italic">er</HI> men.</L>
+<L>Than bad god noe he xuld hy<HI REND="italic">m</HI> dyte.</L>
+<L>A schyp he xuld be sauyd in. <MILESTONE N="245"/></L>
+</LG>
+<LG>
+<L>Than noe went for sekyrnes. <MILESTONE N="7 b." UNIT="fol."/></L>
+<L>To make a schyp as god hym bad.</L>
+<L><PB N="163" REF="29"/>
+An hu<HI REND="italic">n</HI>dyrd wynt<HI REND="italic">yr</HI> as bokys wytnes.</L>
+<L>Was yt or þat schyppe was made.</L>
+<L>So longe ȝytt god of hys goodnes. <MILESTONE N="250"/></L>
+<L>Of hys vengeau<HI REND="italic">n</HI>s he a-bode.</L>
+<L>To loke yf ma<HI REND="italic">n</HI> ȝyt wold hy<HI REND="italic">m</HI> dresse.</L>
+<L>To me<HI REND="italic">n</HI>d þat he so forfete hadde.</L>
+</LG>
+<LG>
+<L>But nowt halpe yt þoo delayse.</L>
+<L>In ma<HI REND="italic">n</HI> was so rote faste. <MILESTONE N="255"/> <NOTE PLACE="foot">255. Some word such as <HI REND="italic">euil</HI> has been omitted.</NOTE></L>
+<L>&amp; þ<HI REND="italic">er</HI>-for god as þe story sayse.</L>
+<L>On he<HI REND="italic">m</HI> to take ve<HI REND="italic">n</HI>geau<HI REND="italic">n</HI>s at þe last. <NOTE PLACE="foot">257. <HI REND="italic">to take</HI> probably an error for <HI REND="italic">toke.</HI></NOTE></L>
+<L>On erde yt reynyd xl. dayys.</L>
+<L>þe erde wyth flode was all ou<HI REND="italic">er</HI>-caste.</L>
+<L>All was drownyd &amp; we<HI REND="italic">n</HI>t a-wayys. <MILESTONE N="260"/></L>
+<L>Safe noe &amp; hys mene paste.</L>
+</LG>
+<LG>
+<L>Thys goode noe kome of sethe.</L>
+<L>&amp; hys iij. sonys sothe to sey.</L>
+<L>Sem. cham. &amp; also Iapheth.</L>
+<L>þat su<HI REND="italic">m</HI>dele s<HI REND="italic">er</HI>uyd god to pay. <MILESTONE N="265"/></L>
+<L>God seyd to noy all xuld to dethe.</L>
+<L>ffor synne yt reynyd nyte &amp; day.</L>
+<L>Safe noy &amp; hys sonys thre.</L>
+<L>&amp; here wyuys xuld scape a-way.</L>
+</LG>
+<LG>
+<L>Noy hadde þe schyp w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-ynne. <MILESTONE N="270"/></L>
+<L>Hys wyfe &amp; hys sonys thre.</L>
+<L>&amp; here wyuys more &amp; myn.</L>
+<L>And so of all maner degre.</L>
+<L>Byrd &amp; best a copyll be-twyn.</L>
+<L>God ȝyt ȝafe hym þat poste. <MILESTONE N="275"/></L>
+<L>Where-w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe werde xuld eft be-gyn.</L>
+<L>And aftyr þe floode repleschyd be.</L>
+</LG>
+<LG>
+<L>of noys lyfe sex hundyrd ȝere.</L>
+<L>The floode of vengeaunce fyrst be-ga<HI REND="italic">n.</HI> <MILESTONE N="8 a." UNIT="fol."/></L>
+<L>And lestyd xij. mu<HI REND="italic">n</HI>thys entyre. <MILESTONE N="280"/></L>
+<L>That all was go<HI REND="italic">n</HI> ma<HI REND="italic">n</HI> &amp; woma<HI REND="italic">n.</HI></L>
+<L><PB N="164" REF="30"/>
+At þe xij mo<HI REND="italic">n</HI>thys ende þis ys no were.</L>
+<L>þe fflode of watyr pale &amp; wan.</L>
+<L>wythe-drow &amp; lond aperyd clere.</L>
+<L>And noe owt of hys schyp ca<HI REND="italic">m</HI> þan. <MILESTONE N="285"/></L>
+</LG>
+<LG>
+<L>Whan þ<HI REND="italic">a</HI>t noe hadde fowne londe.</L>
+<L>And hys mene on þis wyse.</L>
+<L>he thankyd god of all hus sonde.</L>
+<L>And dede to god gret sacryfyse.</L>
+<L>And for þ<HI REND="italic">a</HI>t god in noe ffonde. <MILESTONE N="290"/></L>
+<L>so gret kyndnes w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owty<HI REND="italic">n</HI> feyntyes.</L>
+<L>God blyssyd noe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hys honde.</L>
+<L>And all hys sonys for hys s<HI REND="italic">er</HI>uyse.</L>
+</LG>
+<LG>
+<L>Thus was þe ward w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> flode rynne.</L>
+<L>dystroyd castell town &amp; wone. <MILESTONE N="295"/></L>
+<L>&amp; be þ<HI REND="italic">a</HI>t tyme as bokys sayne.</L>
+<L>þe secu<HI REND="italic">n</HI>de thowsand ȝer<HI REND="italic">e</HI> was gon.</L>
+<L>And all þe warde be-ga<HI REND="italic">n</HI> a-geyn.</L>
+<L>Of noys pore sede a-lone.</L>
+<L>þ<HI REND="italic">a</HI>t wrowtyn fele wondyrs certe<HI REND="italic">n.</HI> <MILESTONE N="300"/></L>
+<L>As þe may aftyr here a-non.</L>
+</LG>
+<LG>
+<L>Of noys lyfe vj hu<HI REND="italic">n</HI>dyrd ȝere.</L>
+<L>&amp; twenty ȝere ryte to rede.</L>
+<L>he &amp; all hys sonys in fere.</L>
+<L>Madyn gret byggy<HI REND="italic">n</HI>g<HI REND="italic">e</HI> in lond &amp; lede. <MILESTONE N="305"/></L>
+<L>Here byggy<HI REND="italic">n</HI>g<HI REND="italic">e</HI> &amp; here poste-styens sere.</L>
+<L>þey namyd þe<HI REND="italic">m</HI> regyons in þ<HI REND="italic">a</HI>t stede.</L>
+<L>Aftyr þ<HI REND="italic">a</HI>t þey of nu<HI REND="italic">m</HI>byr were. <MILESTONE N="8 b." UNIT="fol."/></L>
+<L>owt of þ<HI REND="italic">a</HI>t schyppe when þ<HI REND="italic">a</HI>t þey ȝede.</L>
+</LG>
+<LG>
+<L>Thre hundyrd ȝere ho rekky<HI REND="italic">n</HI> a-ryte. <MILESTONE N="310"/></L>
+<L>Aftyr þe floode þa<HI REND="italic">n</HI> of noe.</L>
+<L>A sone he hadde Ionytus he hyte.</L>
+<L>And aftyr fyfty ȝere fynde we.</L>
+<L>Noe to hys sone ȝaue a plyte.</L>
+<L>Of ethan þat lordschepe fre. <MILESTONE N="315"/></L>
+<L>þ<HI REND="italic">er</HI> as þe sun<HI REND="italic">n</HI>e rysythe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> bemys bryte.</L>
+<L>All hey vp-on þe est cuntre.</L>
+</LG>
+<LG>
+<L>Thre hu<HI REND="italic">n</HI>dyrd wyntyr &amp; fyfty.</L>
+<L>Noe leuyd &amp; þa<HI REND="italic">n</HI> he deyyde.</L>
+<L>And aft<HI REND="italic">yr</HI> hys deynge s<HI REND="italic">er</HI>tenly. <MILESTONE N="320"/></L>
+<L><PB N="165" REF="31"/>
+hys sonys to-gedyr he<HI REND="italic">m</HI> alydde.</L>
+<L>In senar þat was fast by.</L>
+<L>&amp; þ<HI REND="italic">er</HI> þey schope he<HI REND="italic">m</HI> to a-byde.</L>
+<L>And þ<HI REND="italic">er</HI> þey be-ga<HI REND="italic">n</HI> a gret mastry.</L>
+<L>God was not plesyd w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> here pryde. <MILESTONE N="325"/></L>
+</LG>
+<LG>
+<L>In a wanhope were þey stadde.</L>
+<L>þat a floode xuld cu<HI REND="italic">m</HI> a-geyne.</L>
+<L>And for þ<HI REND="italic">a</HI>t skyll þey were a-dradde.</L>
+<L>&amp; made a towre w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> myte &amp; mayne.</L>
+<L>So hey þ<HI REND="italic">a</HI>t towre be-gon<HI REND="italic">n</HI>e þey hadde. <MILESTONE N="330"/></L>
+<L>It rechyd þe skyys ny hand certen.</L>
+<L>to make þe towre þey were ful mad.</L>
+<L>&amp; god þ<HI REND="italic">er</HI>-of had gret dysdeyne.</L>
+</LG>
+<LG>
+<L>But ȝet curted god in trone.</L>
+<L>no<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> vengeawns on hem sent. <MILESTONE N="335"/></L>
+<L>but here langage schongyd a-no<HI REND="italic">n.</HI></L>
+<L>þat no ma<HI REND="italic">n</HI> wyst what oþ<HI REND="italic">er</HI> ment.</L>
+<L>whan on bad brynge morter<HI REND="italic">e</HI> &amp; ston.</L>
+<L>wythe wat<HI REND="italic">yr</HI> in happe to hy<HI REND="italic">m</HI> he went.</L>
+<L>þus were þey sp<HI REND="italic">re</HI>kyd eu<HI REND="italic">er</HI>y schone. <MILESTONE N="340"/> <MILESTONE N="9 a." UNIT="fol."/></L>
+<L>And all here ydyll trauell schent.</L>
+</LG>
+<LG>
+<L>Whan þey faylyd þus of þ<HI REND="italic">er</HI> dede.</L>
+<L>And wondyrly wern so devyd.</L>
+<L>These sonys of noye a-bowte gu<HI REND="italic">n</HI> sprede.</L>
+<L>ouyr all contres þat were wyde. <MILESTONE N="345"/></L>
+<L>Than Ionythus streyte he ȝede.</L>
+<L>In-to þe oryent þe est syde.</L>
+<L>&amp; þ<HI REND="italic">er</HI> he keste þe<HI REND="italic">m</HI> owt of drede.</L>
+<L>In rest &amp; in quyete to a-byde.</L>
+</LG>
+<LG>
+<L>And þere Ionythus sekyrly. <MILESTONE N="350"/></L>
+<L>Of good god wysdam he he<HI REND="italic">n</HI>te.</L>
+<L>And god tawte hy<HI REND="italic">m</HI> astronymy.</L>
+<L>þe knowyng<HI REND="italic">e</HI> of þe cors how planets we<HI REND="italic">n</HI>t. <NOTE PLACE="foot">353. <HI REND="italic">planets</HI> was first written instead of <HI REND="italic">cors,</HI> which is added above the line.</NOTE></L>
+<L>Sem hys brodyr went to Asay.</L>
+<L>In-to þat cu<HI REND="italic">n</HI>tre was he bente. <MILESTONE N="355"/></L>
+<L>Iaphet northeward ga<HI REND="italic">n</HI> hym hy.</L>
+<L>to þe weste se þ<HI REND="italic">at</HI> ys occyde<HI REND="italic">n</HI>t.</L>
+</LG>
+<LG>
+<PB N="166" REF="32"/>
+<L>And cham went &amp; hys mene.</L>
+<L>to þe myddys of þe worde rythe.</L>
+<L>to Ier<HI REND="italic">usa</HI>l<HI REND="italic">e</HI>m into þat cu<HI REND="italic">n</HI>tre. <MILESTONE N="360"/></L>
+<L>þer sythy<HI REND="italic">n</HI> to dethe cryst was dyte.</L>
+<L>Cham held þer gret ryalte.</L>
+<L>&amp; was ma<HI REND="italic">n</HI> of mykyll myte.</L>
+<L>þe schyldyrn of cam þus rede we.</L>
+<L>were sauage wyle &amp; lythe. <MILESTONE N="365"/></L>
+</LG>
+<LG>
+<L>Ionythus ȝett fynde we than.</L>
+<L>hadde a dyscypyll þ<HI REND="italic">a</HI>t hyte nemiroth.</L>
+<L>An howge geawt pale &amp; wan.</L>
+<L>Wondyrly gry<HI REND="italic">m</HI> grysly &amp; lothe.</L>
+<L>A gret hu<HI REND="italic">n</HI>tar he was þ<HI REND="italic">a</HI>t ma<HI REND="italic">n.</HI> <MILESTONE N="370"/></L>
+<L>to chase bolys &amp; borys bothe. <NOTE PLACE="foot">371. This line was first written after v. 368 and then crossed out.</NOTE></L>
+<L>þe towr<HI REND="italic">e</HI> of babylon fyrste bega<HI REND="italic">n.</HI></L>
+<L>þorow hys wytte w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owtyn othe.</L>
+</LG>
+<LG>
+<L>Than aftyr-ward be-fel yt þus. <MILESTONE N="9 b." UNIT="fol."/></L>
+<L>Caymys sonys made a gaderyng<HI REND="italic">e.</HI> <MILESTONE N="375"/></L>
+<L>&amp; as þe story tellyth vs.</L>
+<L>A-monge he<HI REND="italic">m</HI> þey chosyn a kynge.</L>
+<L>&amp; hym þey callyd pontycus.</L>
+<L>þat xuld h<HI REND="italic">em</HI> gou<HI REND="italic">er</HI>ne in here doynge.</L>
+<L>Of schame as sethe methodyus. <MILESTONE N="380"/></L>
+<L>Mykyll baret gan vp to sprynge.</L>
+</LG>
+<LG>
+<L>Than Iaphethe-ys sonys herd tell of þis.</L>
+<L>How caymys sonys made syche ryalte.</L>
+<L>&amp; to Ionytus þey sent I-wys.</L>
+<L>Wrytys &amp; masons gret plente. <MILESTONE N="385"/></L>
+<L>And byldyd a town þ<HI REND="italic">a</HI>t callyd ys.</L>
+<L>Ionyta a gret cetye.</L>
+<L>In þis tyme was pes &amp; lys.</L>
+<L>Be-tywx nemoroth &amp; caymys sonys p<HI REND="italic">ar</HI>de.</L>
+</LG>
+<LG>
+<L>Than Iaphet sonys &amp; caymys also. <MILESTONE N="390"/></L>
+<L>Werryd an[d] wex yche odyrys sone.</L>
+<L>Ionythus herd thes tell þoo. <NOTE PLACE="foot">392. <HI REND="italic">thes</HI> after <HI REND="italic">Ionytus</HI> deleted, MS.</NOTE></L>
+<L>&amp; sent to nemorothe word anon.</L>
+<L>That Iapheth-ys kynrede wold not ho.</L>
+<L><PB N="167" REF="33"/>
+But stroy caymys kynrede sak &amp; ston. <MILESTONE N="395"/></L>
+<L>&amp; in þe begynnyng<HI REND="italic">e</HI> of all þis woo.</L>
+<L>þe þerd thowsand ȝere was gon.</L>
+</LG>
+<LG>
+<L>Than fell yt so in þe forte thowsand.</L>
+<L>Ou<HI REND="italic">er</HI> all þe word wex werre &amp; debate.</L>
+<L>þ<HI REND="italic">a</HI>t eche ma<HI REND="italic">n</HI> coueytyd oþerys lond. <MILESTONE N="400"/></L>
+<L>&amp; eche to stroy oderys astate.</L>
+<L>That nemoroth ga<HI REND="italic">n</HI> vndyrstonde.</L>
+<L>&amp; to caymys kyndam hadde gret hate.</L>
+<L>&amp; þ<HI REND="italic">er</HI>-to went w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> strenthe of honde.</L>
+<L>&amp; schent þe regne &amp; made yt mate. <MILESTONE N="405"/></L>
+</LG>
+<LG>
+<L>So þ<HI REND="italic">a</HI>t p<HI REND="italic">ro</HI>uynce nemoroth helde.</L>
+<L>In was &amp; note i<HI REND="italic">n</HI> rest &amp; pees.</L>
+<L>þ<HI REND="italic">a</HI>t yt no lenger þer dwell. <MILESTONE N="10 a." UNIT="fol."/></L>
+<L>but toke to hys eresdes. <NOTE PLACE="foot">409. Some word after <HI REND="italic">hys</HI> apparently missing.</NOTE></L>
+<L>And eresdes þo w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sper<HI REND="italic">e</HI> &amp; schelde. <MILESTONE N="410"/></L>
+<L>caymys kyndom bre<HI REND="italic">n</HI>t on a bles. <NOTE PLACE="foot">411. <HI REND="italic">ables</HI> MS.</NOTE></L>
+<L>&amp; all þ<HI REND="italic">a</HI>t wern in town &amp; felde.</L>
+<L>he toke as p<HI REND="italic">re</HI>sonerys all þe pres.</L>
+</LG>
+<LG>
+<L>The rubusenys there were a-chente.</L>
+<L>And þe palestines also. <MILESTONE N="415"/></L>
+<L>þe Amores &amp; affres þ<HI REND="italic">a</HI>t were hent.</L>
+<L>As p<HI REND="italic">re</HI>sonerys in care &amp; woo.</L>
+<L>All westward to þe occydent.</L>
+<L>they fledde eresdes was her<HI REND="italic">e</HI> foo.</L>
+<L>þan eresdes homwarde went. <MILESTONE N="420"/></L>
+<L>&amp; gate a son þ<HI REND="italic">a</HI>t hyte cusdro.</L>
+</LG>
+<LG>
+<L>Thys cusdro aftyrward was kynge.</L>
+<L>Of þe regne as we fynde.</L>
+<L>There Ionythus hadde hys wonny<HI REND="italic">n</HI>g.</L>
+<L>thorow-owt all þe hey ynde. <MILESTONE N="425"/></L>
+<L>Tho caymys sonys made oft gaderyng<HI REND="italic">e.</HI></L>
+<L>of men at foote an hydows mynde.</L>
+<L>xxti. m. be goode rekynynge. <NOTE PLACE="foot">428. <HI REND="italic">rekynnyge,</HI> MS.</NOTE></L>
+<L>to sale cusdro &amp; all hys kende.</L>
+</LG>
+<LG>
+<PB N="168" REF="34"/>
+<L>Than was cusdro sotyll of gyn. <MILESTONE N="430"/></L>
+<L>&amp; hard tell of thys caste.</L>
+<L>&amp; in hys londe he lete hym in.</L>
+<L>tyll þey to þe floode of tygyr paste.</L>
+<L>And when þey Ichon with-ynne. <NOTE PLACE="foot">434. Verb evidently missing.</NOTE></L>
+<L>&amp; entyrde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-in þe flodys faste. <MILESTONE N="435"/></L>
+<L>þan cusdro wolde no lenger blyn.</L>
+<L>but fel up-on þe<HI REND="italic">m</HI> as a blaste.</L>
+</LG>
+<LG>
+<L>Cusdro þan hys oste a-rayyde.</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> elyfantys strong &amp; towe.</L>
+<L>to bere down þe foote-me<HI REND="italic">n</HI> at a brayde <MILESTONE N="440"/></L>
+<L>&amp; to don dystruxcou<HI REND="italic">n</HI> I-now.</L>
+<L>And þ<HI REND="italic">er</HI> camys sonys wer<HI REND="italic">e</HI> ou<HI REND="italic">er</HI>-leyde. <MILESTONE N="10 b." UNIT="fol."/></L>
+<L>Cusdro-ys ost smertly hem slow.</L>
+</LG>
+<LG>
+<L>Ascapyd neu<HI REND="italic">er</HI> on aftyr þeis.</L>
+<L>All londys þ<HI REND="italic">a</HI>t in-habyte were. <MILESTONE N="445"/></L>
+<L>Wyth-in he<HI REND="italic">m</HI>-self ga<HI REND="italic">n</HI> fare amys.</L>
+<L>Stroyen &amp; warren here &amp; þere.</L>
+<L>But ȝet or þis was don I-wys.</L>
+<L>As myne autyr wyll wytnes ber<HI REND="italic">e.</HI></L>
+<L>A thowsend ȝere he seythe yt ys. <MILESTONE N="450"/></L>
+<L>Or þis be-fell so ou<HI REND="italic">er</HI> all qwere.</L>
+</LG>
+<LG>
+<L>In þe V. thowsend ȝere folowyng<HI REND="italic">e.</HI></L>
+<L>In þe fyue &amp; twenty ȝere.</L>
+<L>Sabysas þ<HI REND="italic">a</HI>t þan was kynge.</L>
+<L>Of all hethen fare &amp; nere. <MILESTONE N="455"/></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret ostys gaderynge.</L>
+<L>He schewyd well hys powre.</L>
+<L>ffowr<HI REND="italic">e</HI> score safe twey<HI REND="italic">n</HI> be good rekny<HI REND="italic">n</HI>g<HI REND="italic">e.</HI></L>
+<L>He dystroyd cytyis þere.</L>
+</LG>
+<LG>
+<L>When sabysas as bokys seyn. <MILESTONE N="460"/></L>
+<L>Had dystroyyd þo cytyis rote &amp; rynde.</L>
+<L>fforthe he passyd in certeyn.</L>
+<L>to þe [þ]yrd kyndom of ynde. <NOTE PLACE="foot">463. <HI REND="italic">Iyrd</HI> MS.</NOTE></L>
+<L>&amp; þere he wrowte w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> myte &amp; mayn.</L>
+<L>þat ȝyt ben hadde in mynde. <MILESTONE N="465"/> <NOTE PLACE="foot">465. Word such as <HI REND="italic">works</HI> or <HI REND="italic">deeds</HI> missing. Cf. Latin text (J) p. 196.</NOTE></L>
+<L><PB N="169" REF="35"/>
+And fro þes he turnyd ageyn.</L>
+<L>In-to Arabye as we ffynde.</L>
+</LG>
+<LG>
+<L>ffro arabye he wente full ryte.</L>
+<L>In-to deserte þe sothe to tell.</L>
+<L>Saba þe wyldyrnes yt hyte. <MILESTONE N="470"/></L>
+<L>ther wonnyd þe sonys of ysmaell.</L>
+<L>Saba þere dede dyte.</L>
+<L>A-monge þe paynemys fers &amp; ffell.</L>
+<L>Castellys stronge in strength &amp; myte. <MILESTONE N="11 a." UNIT="fol."/></L>
+<L>&amp; þere he schope hym for to dwell. <MILESTONE N="475"/></L>
+</LG>
+<LG>
+<L>But for to declare more of þis.</L>
+<L>what was ysmaell wyttyrly.</L>
+<L>Abraham-ys sone he was I-wys.</L>
+<L>of baste born full trewly.</L>
+<L>Isaake was hys sone of blysse. <MILESTONE N="480"/></L>
+<L>gotyn in wedlock sekyrly.</L>
+<L>All Iewys &amp; sarsenys þ<HI REND="italic">a</HI>t now ys.</L>
+<L>come of þes tweyne certe<HI REND="italic">n</HI>ly.</L>
+</LG>
+<LG>
+<L>The schyldyrn serten of Israell.</L>
+<L>come of Isaac sothe to sey. <MILESTONE N="485"/></L>
+<L>þe sarsenys come of ysmaell.</L>
+<L>&amp; all þat leue of paynemys lay.</L>
+<L>Thys ysmaellys sonys as bokys spell</L>
+<L>In mame<HI REND="italic">n</HI>try was all her<HI REND="italic">e</HI> fay.</L>
+<L>All in deserte þo folk ga<HI REND="italic">n</HI> dwell. <MILESTONE N="490"/></L>
+<L>tyl yt be-fell þus on a day.</L>
+</LG>
+<LG>
+<L>All þ<HI REND="italic">a</HI>t were in þat wyldyrnes.</L>
+<L>þ<HI REND="italic">er</HI> sabysas hadde þe castell pygth.</L>
+<L>to-gedyr sone þey ga<HI REND="italic">n</HI> he<HI REND="italic">m</HI> dresse.</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> kynge sabysas for to fyte. <MILESTONE N="495"/></L>
+<L>And as þe story berythe wytnes.</L>
+<L><HI REND="italic">t</HI>hey ou<HI REND="italic">er</HI>come sabysas w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> myte.</L>
+<L>&amp; many a thowsend mor<HI REND="italic">e</HI> &amp; lesse.</L>
+<L>ysmael-ys sonys to dethe þey dyte.</L>
+</LG>
+<LG>
+<L>And þ<HI REND="italic">a</HI>n at þe fyrst as story says. <MILESTONE N="500"/></L>
+<L>ysmaellys sonys aftyr þis dede.</L>
+<L>owt of deserte þey we<HI REND="italic">n</HI>t her<HI REND="italic">e</HI> ways.</L>
+<L>And sowty<HI REND="italic">n</HI> warrys i<HI REND="italic">n</HI> le<HI REND="italic">n</HI>gth &amp; brede.</L>
+<L>They made many fowle affrays. <MILESTONE N="11 b." UNIT="fol."/></L>
+<L><PB N="170" REF="36"/>
+In-to þe myddys of þe word þey gu<HI REND="italic">n</HI> to sprede. <MILESTONE N="505"/></L>
+<L>As god in ysmaelys dayys.</L>
+<L>Behyte to hym &amp; to hys seede.</L>
+</LG>
+<LG>
+<L>They co<HI REND="italic">n</HI>queryd wol ny eu<HI REND="italic">er</HI>y londe.</L>
+<L>Estward in þe oryente.</L>
+<L>And aft<HI REND="italic">yr</HI>ward as I vnd<HI REND="italic">yr</HI>stonde. <MILESTONE N="510"/></L>
+<L>Ysraell to dystroy þey went.</L>
+<L>Thorow myte &amp; strength of her<HI REND="italic">e</HI> honde.</L>
+<L>þe schyldyrn of ysrael were all to-schent.</L>
+<L>&amp; ȝet þes paynemys as I vndyr-stonde.</L>
+<L>Many a fayyr cyte þey brente. <MILESTONE N="515"/></L>
+</LG>
+<LG>
+<L>Than aftyr all þis þey ded ordeyn.</L>
+<L>Schyppys þ<HI REND="italic">a</HI>t were stronge &amp; goode.</L>
+<L>&amp; westward seyledyn sothe to seyn.</L>
+<L>Wol ny to rombe ou<HI REND="italic">er</HI> þe floode.</L>
+<L>And whyl þey dwellyd þ<HI REND="italic">er</HI> certen. <MILESTONE N="520"/></L>
+<L>Camelys flesche was here foode.</L>
+<L>&amp; ffor to tell þe texte all pleyne.</L>
+<L>Here drynk medelyd w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> bloode.</L>
+</LG>
+<LG>
+<L>Than þe grettest of here degre.</L>
+<L>fowre pryncys þ<HI REND="italic">er</HI> þey ches. <MILESTONE N="525"/></L>
+<L>oreb zebbe &amp; Zebee.</L>
+<L>&amp; salmana þis ys no les.</L>
+<L>Thes were cheuetans of þo me<HI REND="italic">n.</HI></L>
+<L>To make here nobyly to encrese.</L>
+<L>&amp; þa<HI REND="italic">n</HI> to Israell þey gu<HI REND="italic">n</HI> to sene. <MILESTONE N="530"/></L>
+<L>þat pepyll to dystroy wold þey not cese.</L>
+</LG>
+<LG>
+<L>Bvt þan god of hys grett grace.</L>
+<L>halpe þe chyldyrn of ysraell.</L>
+<L>And sone be-fell be chawns a case. <MILESTONE N="12 a." UNIT="fol."/></L>
+<L>þey dystroyd þe sonys of ysmaell. <MILESTONE N="535"/></L>
+<L>Gedyon þe sonys of Ioas.</L>
+<L>On he<HI REND="italic">m</HI> was so fers &amp; fell.</L>
+<L>þ<HI REND="italic">a</HI>t he þat folk a-geyn gan chas.</L>
+<L>In-to desert for to dwell.</L>
+</LG>
+<LG>
+<L>An hundyrd thowsand &amp; forty. <MILESTONE N="540"/></L>
+<L>Were slayn all be-dene þere.</L>
+<L>&amp; ysaac sonys hadde þe mastry.</L>
+<L>&amp; owt of thraldham clere.</L>
+<L><PB N="171" REF="37"/>
+But ȝet as seythe þe prophycy.</L>
+<L>Ysmaellys sonys fers &amp; kene. <MILESTONE N="545"/></L>
+<L>Schull efte cu<HI REND="italic">m</HI> owt &amp; bere mastry.</L>
+<L>&amp; do more harm þa<HI REND="italic">n</HI> eu<HI REND="italic">er</HI> was sene.</L>
+</LG>
+<LG>
+<L>Ȝet a-geyn þey xall come owt.</L>
+<L>&amp; rewle all þe worde of reste.</L>
+<L>And ou<HI REND="italic">er</HI>-come yt w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> batellys stowt. <MILESTONE N="550"/></L>
+<L>Northe. sowthe. est. &amp; weste.</L>
+<L>All crysten kyngs xall hem dowt.</L>
+<L>&amp; in here thraldam be therste.</L>
+<L>xall no<HI REND="italic">n</HI> wyth-stynte þ<HI REND="italic">a</HI>t howge rowte.</L>
+<L>Nor non here scheltron breste. <MILESTONE N="555"/></L>
+</LG>
+<LG>
+<L>But ȝet as arnst declaryd.</L>
+<L>Aftyr-ward as ȝe xall here.</L>
+<L>Ȝet xall þe paynemys be for-faryd.</L>
+<L>Thorow cryste<HI REND="italic">n</HI> man<HI REND="italic">n</HI>ys powre.</L>
+<L>The ebrews so well here wytts waryd. <MILESTONE N="560"/></L>
+<L>þey reynyd full a thowsend ȝere.</L>
+<L>þe romanys aft<HI REND="italic">yr</HI> þ<HI REND="italic">a</HI>t ne sparyd.</L>
+<L>At þe laste dyscomfytte all in fere.</L>
+</LG>
+<LG>
+<L>The fers babylons as we fynde.</L>
+<L>ffowre m<SUP>l</SUP>. ȝere regnyd also. <MILESTONE N="565"/></L>
+<L>þe macydoynes in hydows me<HI REND="italic">n</HI>de.</L>
+<L>to he<HI REND="italic">m</HI> of p<HI REND="italic">er</HI>ce dede care &amp; woo.</L>
+<L>And aft<HI REND="italic">yr</HI>ward þe ffolke of ynde. <MILESTONE N="12 b." UNIT="fol."/></L>
+<L>conqueryd londys many moo.</L>
+<L>All crystendom to þe<HI REND="italic">m</HI> I fynde. <MILESTONE N="570"/></L>
+<L>And trybutarys wern he<HI REND="italic">m</HI> too.</L>
+</LG>
+<LG>
+<L>They ou<HI REND="italic">er</HI>-ledde apres &amp; spayne.</L>
+<L>nanerne eke &amp; Arragon.</L>
+<L>ffrawnce p<HI REND="italic">ro</HI>uynce &amp; Almayne.</L>
+<L>þ<HI REND="italic">a</HI>t was a lond of gret renown. <MILESTONE N="575"/></L>
+<L>And aftyr-ward in bretayne.</L>
+<L>All þey had towre &amp; town.</L>
+<L>be than þe fyrst thowsande certen.</L>
+<L>was weryd owt be good reson.</L>
+</LG>
+<LG>
+<L>Than whan þe ward xall drawe to ende. <MILESTONE N="580"/></L>
+<L>In þe laste ende yt xall be seyne.</L>
+<L>Ȝet ysmaellys sonys xall eft wende.</L>
+<L><PB N="172" REF="38"/>
+owt of here wyldyrnes certeyne.</L>
+<L>And ou<HI REND="italic">er</HI> all xall þey waste &amp; schende.</L>
+<L>&amp; do grett dystres &amp; payne. <MILESTONE N="585"/></L>
+<L>In what cu<HI REND="italic">n</HI>tre so þey lende.</L>
+<L>schall no<HI REND="italic">n</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-stynte he<HI REND="italic">m</HI> a-geyne.</L>
+</LG>
+<LG>
+<L>Here cum<HI REND="italic">m</HI>y<HI REND="italic">n</HI>g<HI REND="italic">e</HI> xall be as we rede.</L>
+<L>A schastysynge w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owt mesure.</L>
+<L>to crysten me<HI REND="italic">n</HI> for here mysdede. <MILESTONE N="590"/></L>
+<L>&amp; for here synnys hard reddure.</L>
+<L>ffor synfull lyfe þ<HI REND="italic">a</HI>t ma<HI REND="italic">n</HI> xall lede.</L>
+<L>A-geyns goddys lawe &amp; eke nature.</L>
+<L>þey xall be put in sorow &amp; drede.</L>
+<L>thorow Ismaellys sonys I ȝow ensure. <MILESTONE N="595"/></L>
+</LG>
+<LG>
+<L>&amp; also for owre gret foly.</L>
+<L>þ<HI REND="italic">a</HI>t we fforgete goddys cum<HI REND="italic">m</HI>au<HI REND="italic">n</HI>dme<HI REND="italic">n</HI>t.</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe pepyll of barbary. <MILESTONE N="13 a." UNIT="fol."/></L>
+<L>All crystendom xall be schent.</L>
+<L>A-monge cryste<HI REND="italic">n</HI> me<HI REND="italic">n</HI> seyth þe story. <MILESTONE N="600"/></L>
+<L>So mekyll fylthe xall be bent.</L>
+<L>þ<HI REND="italic">a</HI>t yt ys schame &amp; velony.</L>
+<L>To yeke or here to man<HI REND="italic">n</HI>ys ente<HI REND="italic">n</HI>t.</L>
+</LG>
+<LG>
+<L>Ther-for we xall a-by full dere.</L>
+<L>þe sarȝenys xall haue þ<HI REND="italic">er</HI> wyll. <MILESTONE N="605"/></L>
+<L>P<HI REND="italic">er</HI>ce cilice &amp; londys þere.</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> strengthe þey xall dystroye gryll.</L>
+<L>The lond of surrey xall owt-rere.</L>
+<L>&amp; all crystendom þey wolde kyll.</L>
+<L>Greys &amp; all pepyll in fere. <MILESTONE N="610"/></L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> dynte of swerde þey xall spyll.</L>
+</LG>
+<LG>
+<L>Affryk Egypt &amp; eke Asy.</L>
+<L>Vndyr trebyte xall be leyde.</L>
+<L>Of golde &amp; syluyr &amp; þ<HI REND="italic">a</HI>t strawngely.</L>
+<L>At certe<HI REND="italic">n</HI> termys to be payde. <MILESTONE N="615"/></L>
+<L>Spayne w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> dynt of swerd xall dy.</L>
+<L>Saue su<HI REND="italic">m</HI> fro dethe xall be delayde.</L>
+<L>&amp; kawt as p<HI REND="italic">re</HI>sonerys suyrly.</L>
+<L>&amp; to raw<HI REND="italic">n</HI>som ben a-rayyde.</L>
+</LG>
+<LG>
+<L>ffraw<HI REND="italic">n</HI>ce gascony &amp; eke Almayne. <MILESTONE N="620"/></L>
+<L>In batellys stomfete xall þey be.</L>
+<L><PB N="173" REF="39"/>
+&amp; take as p<HI REND="italic">re</HI>sonerys in certeyn.</L>
+<L>Of þe gretteste of þe<HI REND="italic">m</HI> in gre.</L>
+<L>The romans xall be kylde &amp; slayn.</L>
+<L>ffor þey xall t<HI REND="italic">ur</HI>ne þe bakk &amp; fle. <MILESTONE N="625"/></L>
+<L>þus ysmaellys sonys w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> myte &amp; mayn.</L>
+<L>xull wy<HI REND="italic">n</HI> all þe ylys of þe see.</L>
+</LG>
+<LG>
+<L>Northe sowthe est &amp; weste. <MILESTONE N="13 b." UNIT="fol."/></L>
+<L>ou<HI REND="italic">er</HI> all xall haue passage.</L>
+<L>&amp; w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe werk as hem leste. <MILESTONE N="630"/></L>
+<L>&amp; do many a dede owtrage.</L>
+<L>Ier<HI REND="italic">usa</HI>lem xall be full therste.</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> p<HI REND="italic">re</HI>sonerys of cryste<HI REND="italic">n</HI> langage.</L>
+<L>All holy londe xall be opprest.</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þis pepyll þ<HI REND="italic">a</HI>t ben sauage. <MILESTONE N="635"/></L>
+</LG>
+<LG>
+<L>The ward þere xall haue dau<HI REND="italic">n</HI>ger<HI REND="italic">e.</HI></L>
+<L>&amp; sett i<HI REND="italic">n</HI> trebute &amp; in dystres.</L>
+<L>sythe xall þey seke fere &amp; nere.</L>
+<L>&amp; a-geyn holy schyrche he<HI REND="italic">m</HI> dresse.</L>
+<L>That xulde s<HI REND="italic">er</HI>ue god i<HI REND="italic">n</HI> clennes. <MILESTONE N="640"/></L>
+<L>þey xall take þe<HI REND="italic">m</HI> all in fere.</L>
+<L>golde &amp; perle &amp; odyr ryches.</L>
+<L>orname<HI REND="italic">n</HI>ts þ<HI REND="italic">a</HI>t of chyrchys were.</L>
+</LG>
+<LG>
+<L>And p<HI REND="italic">re</HI>tyn hem at þ<HI REND="italic">e</HI>r wyll.</L>
+<L>cryste<HI REND="italic">n</HI> prestys her<HI REND="italic">e</HI> &amp; there. <MILESTONE N="645"/></L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owt mercy he<HI REND="italic">m</HI> kyll.</L>
+<L>&amp; kast þ<HI REND="italic">er</HI> bodyys þey no rekk wher<HI REND="italic">e.</HI></L>
+<L>And schyrchys brenne &amp; spyll</L>
+<L>All crystendom þus xall þey dere.</L>
+<L>&amp; hem woo full yll. <MILESTONE N="650"/> <NOTE PLACE="foot">646, 650. These lines are incomplete. The last line of the stanza is missing.</NOTE></L>
+</LG>
+<LG>
+<L>All londys xall be desolate.</L>
+<L>all xall be baren &amp; bare.</L>
+<L>here dedys xall be vnmate.</L>
+<L>here lyuynge xall be angry &amp; kare.</L>
+<L>Ȝonge &amp; olde for sorow sake. <MILESTONE N="655"/></L>
+<L>þa<HI REND="italic">n</HI> xall þey stowpe &amp; dare.</L>
+<L>now ar owr<HI REND="italic">e</HI> elderys in goode state. <MILESTONE N="14 a." UNIT="fol."/></L>
+<L>þ<HI REND="italic">a</HI>t felyn no þinge of þis fare.</L>
+</LG>
+<LG>
+<PB N="174" REF="40"/>
+<L>Ryche &amp; pore þus xall sey.</L>
+<L>Ȝonge &amp; olde make þ<HI REND="italic">er</HI> mone. <MILESTONE N="660"/></L>
+<L>Well at ese now arn þey.</L>
+<L>þ<HI REND="italic">a</HI>t dyyd an hu<HI REND="italic">n</HI>dyrd ȝere a-gon.</L>
+<L>Thus all londys þey xall afray.</L>
+<L>&amp; dystroy bothe stok &amp; ston.</L>
+<L>&amp; all xall t<HI REND="italic">ur</HI>ne to tene &amp; tray. <MILESTONE N="665"/></L>
+<L>þorow ysmaellys sonys owr<HI REND="italic">e</HI> fon.</L>
+</LG>
+<LG>
+<L>Ȝet fro desert whan þey cu<HI REND="italic">m</HI> owt.</L>
+<L>All londs to dystroy &amp; ou<HI REND="italic">er</HI>-brenne.</L>
+<L>þey xall be lothely sterne &amp; stowte.</L>
+<L>&amp; eke not lyke to oþ<HI REND="italic">er</HI> menne. <MILESTONE N="670"/></L>
+<L>Wome<HI REND="italic">n</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> schylde ou<HI REND="italic">er</HI> all a-bowt.</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> swerd &amp; fyre sle &amp; brenne.</L>
+<L>þis wreche xall fall w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owt dowt.</L>
+<L>for þe wreche of wykkyd synne.</L>
+</LG>
+<LG>
+<L>Prests eke w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owt mercy. <MILESTONE N="675"/></L>
+<L>In chyrchys þey xall kyll.</L>
+<L>&amp; wome<HI REND="italic">n</HI> xall þey ly by.</L>
+<L>&amp; in schyrchys here luste fulfyll.</L>
+<L>Here horse &amp; mulys þey xull tey.</L>
+<L>To seynts tombys a-geyn all skyll. <MILESTONE N="680"/></L>
+<L>Here lem<HI REND="italic">m</HI>anys þey xall clothe full try.</L>
+<L>In vestments at here wyll.</L>
+</LG>
+<LG>
+<L>All crystendom w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owtyn were.</L>
+<L>In here thraldom xall be stadde.</L>
+<L>But þa<HI REND="italic">n</HI> xall stedfaste me<HI REND="italic">n</HI> a-pere <MILESTONE N="685"/></L>
+<L>þat in god arn trosty &amp; sadde.</L>
+<L>and xall to cryst make her<HI REND="italic">e</HI> p<HI REND="italic">r</HI>ayere. <MILESTONE N="14 b." UNIT="fol."/></L>
+<L>ffor þe bloode &amp; wat<HI REND="italic">yr</HI> þ<HI REND="italic">a</HI>t he schadde.</L>
+<L>to delyu<HI REND="italic">er</HI> he<HI REND="italic">m</HI> fro þ<HI REND="italic">a</HI>t sorry dawngere.</L>
+<L>&amp; be hys g<HI REND="italic">r</HI>ace to make he<HI REND="italic">m</HI> gladde. <MILESTONE N="690"/></L>
+</LG>
+<LG>
+<L>But as þe story makythe mynde.</L>
+<L>god xall ye not suffyr ay.</L>
+<L>ffor cryste<HI REND="italic">n</HI> me<HI REND="italic">n</HI> þ<HI REND="italic">a</HI>t to god ar kynde.</L>
+<L>schall renyne þe ryte fay.</L>
+<L>But for þis skyll yt ys we fynde. <MILESTONE N="695"/></L>
+<L>to fulfyll þ<HI REND="italic">a</HI>t god hym-selfe ga<HI REND="italic">n</HI> say.</L>
+<L>blyssyd be þe rote &amp; rynde.</L>
+<L>That for me suffyrd tene &amp; tray.</L>
+</LG>
+<LG>
+<PB N="175" REF="41"/>
+<L>As p<HI REND="italic">ro</HI>phetys þ<HI REND="italic">a</HI>t were here be-forn.</L>
+<L>slayn &amp; martyryd for my sake. <MILESTONE N="700"/></L>
+<L>to Iustyfye man &amp; sey þ<HI REND="italic">er</HI> sore.</L>
+<L>That for my lofe desese ga<HI REND="italic">n</HI> take.</L>
+<L>yf he laste sadly eu<HI REND="italic">er</HI>-more.</L>
+<L>&amp; to þe ende my love not slake.</L>
+<L>In heuy<HI REND="italic">n</HI> he xall hys state restore. <MILESTONE N="705"/></L>
+<L>And saue hys sowle ffro woo &amp; wrake.</L>
+</LG>
+<LG>
+<L>þa<HI REND="italic">n</HI> aft<HI REND="italic">yr</HI> all þis woo &amp; kare.</L>
+<L>Ismaellys sonys as I haue tolde.</L>
+<L>on here clothynge xall not spare.</L>
+<L>precyus stonys perle ne golde. <MILESTONE N="710"/></L>
+<L>þey xall make gret bost &amp; fare.</L>
+<L>&amp; sey what lond ys now so bolde.</L>
+<L>þat dare loke up but darke &amp; dare.</L>
+<L>lordys of þe word we xall ben holde.</L>
+</LG>
+<LG>
+<L>&amp; wha<HI REND="italic">n</HI> þey wene to be heyheste. <MILESTONE N="715"/></L>
+<L>And in here pryde he<HI REND="italic">m</HI> gloryfye. <MILESTONE N="15 a." UNIT="fol."/></L>
+<L>Good god xall hys eye keste.</L>
+<L>to cryste<HI REND="italic">n</HI> me<HI REND="italic">n</HI> of hys mercy.</L>
+<L>here bondys of bondage xall he breste.</L>
+<L>&amp; delyu<HI REND="italic">er</HI> he<HI REND="italic">m</HI> sothefastly. <MILESTONE N="720"/></L>
+<L>&amp; brynge crystendom to reste.</L>
+<L>As we fynde in þis story.</L>
+</LG>
+<LG>
+<L>ffor þ<HI REND="italic">er</HI> xall ryse a cryste<HI REND="italic">n</HI> kynge.</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þo felonyes for to fyte.</L>
+<L>to dethe he xall þoo paynemys brynge. <MILESTONE N="725"/></L>
+<L>With dynt of swerd þorow godds myte.</L>
+<L>here schyldyrn &amp; all here offsprynge.</L>
+<L>to dethe yche on he xall he<HI REND="italic">m</HI> dyte.</L>
+<L>here wyvys in p<HI REND="italic">re</HI>son cast to clynge.</L>
+<L>Thus xall god for cryste<HI REND="italic">n</HI> ryte. <MILESTONE N="730"/></L>
+</LG>
+<LG>
+<L>þus þe sonys of ysmaell.</L>
+<L>all þat ben left on-slayn.</L>
+<L>In woo &amp; thraldam xall þey dwell.</L>
+<L>Of cryste<HI REND="italic">n</HI> me<HI REND="italic">n</HI> sothe to sayne.</L>
+<L>&amp; vij. sethys more as þe story tell. <MILESTONE N="735"/></L>
+<L>sorow &amp; woo xall be here peyne.</L>
+<L>þan on cryste<HI REND="italic">n</HI> me<HI REND="italic">n</HI> be-fell.</L>
+<L>Be-for hand in certeyne.</L>
+</LG>
+<LG>
+<PB N="176" REF="42"/>
+<L>þa<HI REND="italic">n</HI> xall all sweche sorow cese.</L>
+<L>&amp; all stryuys stynt &amp; stonde. <MILESTONE N="740"/></L>
+<L>All cryste<HI REND="italic">n</HI> p<HI REND="italic">re</HI>soners xall haue pes.</L>
+<L>In p<HI REND="italic">re</HI>son where þey be ffonde.</L>
+<L>&amp; delyu<HI REND="italic">er</HI>yd clene þis ys no les.</L>
+<L>&amp; wende home to her<HI REND="italic">e</HI> cu<HI REND="italic">n</HI>tre sonde.</L>
+<L>A-geyn xall all þinge þa<HI REND="italic">n</HI> encrese. <MILESTONE N="745"/></L>
+<L>And multyply on goddys grownde. <MILESTONE N="15 b." UNIT="fol."/></L>
+</LG>
+<LG>
+<L>þe kynge of romayns xall þ<HI REND="italic">a</HI>t tyde.</L>
+<L>haue dysdeyne &amp; gret dyspyte.</L>
+<L>on he<HI REND="italic">m</HI> þat cryste be-forn denyde.</L>
+<L>Whyll þe werd stode in herd plyte. <MILESTONE N="750"/></L>
+<L>egypte &amp; Arabye londys wyde.</L>
+<L>þ<HI REND="italic">a</HI>t forsoke cryste meche &amp; lyte.</L>
+<L>ffor þey in trowþe wolde [not] a-byde</L>
+<L>þey xall be worthy to þ<HI REND="italic">a</HI>t wytte.</L>
+</LG>
+<LG>
+<L>on erde þa<HI REND="italic">n</HI> xall be reste &amp; roo. <MILESTONE N="755"/> <NOTE PLACE="foot">755. <HI REND="italic">onerde</HI> MS.</NOTE></L>
+<L>pees &amp; solas Ioye &amp; gladnes.</L>
+<L>xall no<HI REND="italic">n</HI> be lyke aftyr þ<HI REND="italic">er</HI>-too.</L>
+<L>Ne neu<HI REND="italic">er</HI> be-forn þ<HI REND="italic">a</HI>t tyme was.</L>
+<L>þer xall be sekyr troste alsoo.</L>
+<L>drede xall non ben in no case. <MILESTONE N="760"/></L>
+<L>ffor er þe warlde xall ende &amp; hoo.</L>
+<L>Ther xall be reste in eu<HI REND="italic">er</HI>y place.</L>
+</LG>
+<LG>
+<L>þey xall fare in þe selfe manere.</L>
+<L>As me<HI REND="italic">n</HI> fardy<HI REND="italic">n</HI> in þe tyme of noe.</L>
+<L>þey ete &amp; dranke &amp; made good scher<HI REND="italic">e.</HI> <MILESTONE N="765"/></L>
+<L>And made fests of realte.</L>
+<L>weddyngs xall be many in fere.</L>
+<L>of reche &amp; pore &amp; eu<HI REND="italic">er</HI>y degre.</L>
+<L>And whyll þis Ioy ys gretteste here.</L>
+<L>sonest xal yt sesyd be. <MILESTONE N="770"/></L>
+</LG>
+<LG>
+<L>for þa<HI REND="italic">n</HI> xall gogmangog nere cu<HI REND="italic">m</HI> <NOTE PLACE="foot">771. <HI REND="italic">cum nere</HI> MS.</NOTE></L>
+<L>owte of þe mownts of calpye.</L>
+<L>That god closyd all &amp; su<HI REND="italic">m.</HI> <NOTE PLACE="foot">773. <HI REND="italic">cloysd</HI> MS.</NOTE></L>
+<L>At Alexandyrs p<HI REND="italic">r</HI>ayere suyrly.</L>
+<L><PB N="177" REF="43"/>
+þey xall dystroy all crystendome. <MILESTONE N="775"/></L>
+<L>þey xall cu<HI REND="italic">m</HI> owt so hydowysly.</L>
+<L>me<HI REND="italic">n</HI> all most wax defe &amp; du<HI REND="italic">m.</HI></L>
+<L>So xall þey drede here felony. <MILESTONE N="16 a." UNIT="fol."/></L>
+</LG>
+<LG>
+<L>All þe worde þey xall ou<HI REND="italic">er</HI>-run<HI REND="italic">n</HI>e.</L>
+<L>And work howge &amp; grett. <MILESTONE N="780"/> <NOTE PLACE="foot">780. Object missing.</NOTE></L>
+<L>þey xall devowre me<HI REND="italic">n.</HI> <NOTE PLACE="foot">781. þ<HI REND="italic">ey xall deworow &amp; vowre men</HI> with <HI REND="italic">worow &amp;</HI> marked for omission. MS.</NOTE></L>
+<L>&amp; wome<HI REND="italic">n</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> schylde ete.</L>
+<L>Edders &amp; snakys þ<HI REND="italic">a</HI>t brede in fen.</L>
+<L>Hem xall þink deynty mete.</L>
+<L>Regnes þey xall dystroy &amp; bren. <MILESTONE N="785"/></L>
+<L>&amp; fowly mankynde þey xall threte.</L>
+</LG>
+<LG>
+<L>þis pepyll xall regne vij. ȝere.</L>
+<L>And þa<HI REND="italic">n</HI> xall þey þorow her<HI REND="italic">e</HI> myte.</L>
+<L>Take a cete ryche &amp; dere.</L>
+<L>Iosophath for sothe yt hyte. <MILESTONE N="790"/></L>
+<L>but þan xall god slake her<HI REND="italic">e</HI> powre.</L>
+<L>Wythe fere &amp; brynston bren<HI REND="italic">n</HI>y<HI REND="italic">n</HI>g<HI REND="italic">e</HI> bryte.</L>
+<L>þ<HI REND="italic">a</HI>t fall xall on he<HI REND="italic">m</HI> all in fere.</L>
+<L>&amp; all þe pepyll dystroy down ryte.</L>
+</LG>
+<LG>
+<L>þa<HI REND="italic">n</HI> xall come an emprore. <MILESTONE N="795"/></L>
+<L>Of greys &amp; rome lord xall he be.</L>
+<L>To Ier<HI REND="italic">usa</HI>l<HI REND="italic">e</HI>m w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret honowre.</L>
+<L>&amp; regne vij. ȝere in þ<HI REND="italic">a</HI>t cu<HI REND="italic">n</HI>tre.</L>
+<L>In þ<HI REND="italic">a</HI>t place þ<HI REND="italic">a</HI>t owre saueȝowre.</L>
+<L>Cryst was naylyd on rode tre. <MILESTONE N="800"/></L>
+<L>&amp; he xall myldly ȝelde þ<HI REND="italic">a</HI>t cure.</L>
+<L>Hys crou<HI REND="italic">n</HI>e &amp; hys dygnyte.</L>
+</LG>
+<LG>
+<L>Hys crowne he xall sett full ryte.</L>
+<L>On þe cros þ<HI REND="italic">a</HI>t cryste on deyde.</L>
+<L>&amp; be-toke hys gost to godds myte. <MILESTONE N="805"/></L>
+<L>þ<HI REND="italic">a</HI>t for hym sufferyd wownds wyde.</L>
+<L>Than xall he loke vpward on hyte.</L>
+<L>&amp; hold hys honds to heuy<HI REND="italic">n</HI> þ<HI REND="italic">a</HI>t tyde.</L>
+<L>And þa<HI REND="italic">n</HI> xall he sen a syte. <MILESTONE N="16 b." UNIT="fol."/></L>
+<L>þe sygne of a cros in heuyn a-byde. <MILESTONE N="810"/></L>
+</LG>
+<LG>
+<PB N="178" REF="44"/>
+<L>But þa<HI REND="italic">n</HI> xall cu<HI REND="italic">m</HI> werst of all.</L>
+<L>Antecryst þe deuelys byrde.</L>
+<L>cryst þ<HI REND="italic">a</HI>t caytef hy<HI REND="italic">m</HI>-selff xall call.</L>
+<L>&amp; make hys name so kowthe &amp; kydde.</L>
+<L>Gret wondyrs werk he xall. <MILESTONE N="815"/></L>
+<L>but falsede xall ben vndyr hydde.</L>
+<L>þ<HI REND="italic">a</HI>t saytowre false fowle hy<HI REND="italic">m</HI> be-fall. <NOTE PLACE="foot">817. Last line of stanza missing. In MS. the first line of the following stanza is linked to v. 816 but its rime word shows that that division is incorrect.</NOTE></L>
+</LG>
+<LG>
+<L>of þe werd he xall sett in me<HI REND="italic">n</HI>de.</L>
+<L>of þe eleme<HI REND="italic">n</HI>ts more &amp; myn<HI REND="italic">n</HI>e.</L>
+<L>erde &amp; wat<HI REND="italic">yr</HI> fere &amp; wynde. <MILESTONE N="820"/></L>
+<L>he xall come of Iwys kynde.</L>
+<L>Of þe seede of da<HI REND="italic">n</HI> we fynde.</L>
+<L>he xall be begote &amp; born i<HI REND="italic">n</HI> synne.</L>
+<L>&amp; all come of cursyd kende.</L>
+</LG>
+<LG>
+<L>yt xall not be as folkys haue tolde. <MILESTONE N="825"/></L>
+<L>he xulde be begoty<HI REND="italic">n</HI> of a frer<HI REND="italic">e</HI> &amp; born of a nu<HI REND="italic">n</HI>e.</L>
+<L>but he xall be born of a bysmere bolde.</L>
+<L>þe werst woma<HI REND="italic">n</HI> ony-where may wone.</L>
+<L>That ys a stru<HI REND="italic">m</HI>pett &amp; a scolde.</L>
+<L>&amp; be-gotyn of a fowle glotun. <MILESTONE N="830"/></L>
+<L>hys syre hys dam<HI REND="italic">m</HI>e a thowsend-folde.</L>
+<L>xall be wers þa<HI REND="italic">n</HI> we devyse cun<HI REND="italic">n</HI>e.</L>
+</LG>
+<LG>
+<L>ffor rythe as cryst in mary lyte.</L>
+<L>&amp; co<HI REND="italic">n</HI>ceyuyd of þe holy gost</L>
+<L>be þe vertu of goddys myte. <MILESTONE N="835"/></L>
+<L>þ<HI REND="italic">a</HI>t ys lord of myts moste.</L>
+<L>And born was of a mayde bryte.</L>
+<L>All in clennes &amp; w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-owt boste.</L>
+<L>To saue man<HI REND="italic">n</HI>ys sowle þ<HI REND="italic">a</HI>t was ys ryte. <MILESTONE N="17 a." UNIT="fol."/></L>
+<L>from þe deuyll of hell &amp; all hys oste. <MILESTONE N="840"/></L>
+</LG>
+<LG>
+<L>Ryte so xall a deuyll descende.</L>
+<L>In-to a woma<HI REND="italic">n</HI> full of synne.</L>
+<L>&amp; in þ<HI REND="italic">a</HI>t lothely lodge xall lende.</L>
+<L>At certe<HI REND="italic">n</HI> tyme here wombe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-ynne.</L>
+<L>And wha<HI REND="italic">n</HI> a certe<HI REND="italic">n</HI> tyme ys spende. <MILESTONE N="845"/></L>
+<L><PB N="179" REF="45"/>
+Hys dame &amp; he xall p<HI REND="italic">ar</HI>te on tweyne.</L>
+<L>þ<HI REND="italic">a</HI>t sone of synne to wykkyd ende.</L>
+<L>Endles wo he xall hy<HI REND="italic">m</HI> wynne.</L>
+</LG>
+<LG>
+<L>In coȝoȝa born xall he be.</L>
+<L>In bethsayda he xall be fedde. <MILESTONE N="850"/></L>
+<L>In capharna<HI REND="italic">n</HI> regne xall hee.</L>
+<L>&amp; sore he xall be dowtyd &amp; dred.</L>
+<L>Ther-for seyde cryst words of pyte.</L>
+<L>As þey be in þe gospell red.</L>
+<L>Coȝaȝaim ay woo be to þe. <MILESTONE N="855"/></L>
+<L>þe sone of pryde in þe xall be bredde.</L>
+</LG>
+<LG>
+<L>And þ<HI REND="italic">o</HI>u bethsayda myne erthly foo.</L>
+<L>Eu<HI REND="italic">er</HI>-more ȝyt woo þow be.</L>
+<L>&amp; þu capharnan woo be þe too.</L>
+<L>þe sone of synne xall regne i<HI REND="italic">n</HI> þe. <MILESTONE N="860"/></L>
+<L>Thow þ<HI REND="italic">o</HI>u enhawnce þe soo.</L>
+<L>To reche to heuy<HI REND="italic">n</HI> in ryte degre.</L>
+<L>Ȝet xall þu fall &amp; for-doo.</L>
+<L>To hell grow<HI REND="italic">n</HI>de in dome of me.</L>
+</LG>
+<LG>
+<L>Thus antecryst xall wondyrly. <MILESTONE N="865"/></L>
+<L>be noryschyd vp w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> Iogulars.</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wytchecraft &amp; w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sorcery.</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> false Iapys &amp; begylars.</L>
+<L>he xall lere Igramansy. <MILESTONE N="17 b." UNIT="fol."/></L>
+<L>&amp; be cawte wyth-in charmors. <MILESTONE N="870"/></L>
+<L>þa<HI REND="italic">n</HI> aft<HI REND="italic">yr</HI> all þis he xall by. <NOTE PLACE="foot">871. Read <HI REND="italic">hy</HI> for <HI REND="italic">by.</HI></NOTE></L>
+<L>&amp; to Ier<HI REND="italic">usa</HI>l<HI REND="italic">e</HI>m take hys cors.</L>
+</LG>
+<LG>
+<L>And so seynt methody tellyth pleyn.</L>
+<L>In þe tempyll of salomon.</L>
+<L>þ<HI REND="italic">er</HI> xall þis wykkyd &amp; cursyd swayn. <MILESTONE N="875"/></L>
+<L>as a god sett vp hys trone.</L>
+<L>where he xall sytt in certeyn.</L>
+<L>&amp; werk wondyrs many on.</L>
+<L>All trewe folk he xall do peyne.</L>
+<L>or make he<HI REND="italic">m</HI> w<HI REND="italic">ur</HI>chepe hy<HI REND="italic">m</HI> eu<HI REND="italic">er</HI>y schone. <MILESTONE N="880"/></L>
+</LG>
+<LG>
+<L>Gret wondyrs he xall schew þere.</L>
+<L>make defe to here ȝefe blynd her<HI REND="italic">e</HI> syte.</L>
+<L><PB N="180" REF="46"/>
+halt &amp; crepyls þ<HI REND="italic">a</HI>t ben ony-where.</L>
+<L>make here lym<HI REND="italic">m</HI>ys heyll &amp; rythe.</L>
+<L>Tres þ<HI REND="italic">a</HI>t ben baren &amp; sere. <MILESTONE N="885"/></L>
+<L>þorow wytchecraft of þ<HI REND="italic">a</HI>t sory wyte.</L>
+<L>þey xall burgyn &amp; leuys bere.</L>
+<L>&amp; blome &amp; frute full blasyng bryte.</L>
+</LG>
+<LG>
+<L>hym xall þink in hys entent.</L>
+<L>þ<HI REND="italic">a</HI>t he ys goddys sone veryly. <MILESTONE N="890"/></L>
+<L>of eu<HI REND="italic">er</HI>y sondry element.</L>
+<L>he xall wark grett mastry.</L>
+<L>he xall to þe pepyll in here p<HI REND="italic">re</HI>sent.</L>
+<L>make to seme to þer ey.</L>
+<L>þ<HI REND="italic">a</HI>t dede bodyys in grauys lent. <MILESTONE N="895"/></L>
+<L>xall ryse fro<HI REND="italic">m</HI> dethe vp bodyly. <NOTE PLACE="foot">896. <HI REND="italic">Symo</HI>n<HI REND="italic">magus</HI> MS.</NOTE></L>
+</LG>
+<LG>
+<L>ryte as symo<HI REND="italic">n</HI> magus dede.</L>
+<L>þat wrowt be falsed &amp; be gyle.</L>
+<L>ryte so xall þ<HI REND="italic">a</HI>t deuyllys byrde.</L>
+<L>gret wondyrs werk for a whyle. <MILESTONE N="900"/></L>
+<L>Hys mastryes xall so gret be kydde. <MILESTONE N="18 a." UNIT="fol."/></L>
+<L>þat seynts xall ny fall in parell.</L>
+<L>to leue all þat ys be-tydde.</L>
+<L>ys don be myte &amp; not be gyle.</L>
+</LG>
+<LG>
+<L>hym-self xall not walk in brede. <MILESTONE N="905"/></L>
+<L>but in þe same place þere.</L>
+<L>þat cryste hym-self walkyd &amp; ȝede.</L>
+<L>whyll þ<HI REND="italic">a</HI>t he in erde was leuy<HI REND="italic">n</HI>g<HI REND="italic">e</HI> here</L>
+<L>But hys dyscypyls fer xall sprede.</L>
+<L>ou<HI REND="italic">er</HI> all þe werd bothe far &amp; nere. <MILESTONE N="910"/></L>
+<L>to turn eu<HI REND="italic">er</HI>y leuande lede.</L>
+<L>&amp; make he<HI REND="italic">m</HI> leue on fendys fere.</L>
+</LG>
+<LG>
+<L>And þoo þ<HI REND="italic">a</HI>t leuyn on hys lay.</L>
+<L>Ryche I-now xall he hem make.</L>
+<L>&amp; þoo þ<HI REND="italic">a</HI>t wyll for-sake hys lay. <MILESTONE N="915"/></L>
+<L>xall goo to dethe sorow &amp; wrake.</L>
+<L>Many a body þe sothe to say.</L>
+<L>xall to þ<HI REND="italic">a</HI>t false beleue he<HI REND="italic">m</HI> take.</L>
+<L>full goode crystene be þoo day.</L>
+<L>xall be in plyte cryst to forsake. <MILESTONE N="920"/></L>
+</LG>
+<LG>
+<PB N="181" REF="47"/>
+<L>Than xall ennok &amp; ely.</L>
+<L>ben sent owt from p<HI REND="italic">ar</HI>adyse</L>
+<L>&amp; be-for all pepyll veryly,</L>
+<L>þis Antecryst þey xall dyspyse.</L>
+<L>And proue be ryte &amp; profysy. <MILESTONE N="925"/></L>
+<L>þ<HI REND="italic">a</HI>t all hys maruelys &amp; mastryse.</L>
+<L>Arn not but false &amp; sorcery.</L>
+<L>&amp; wrowt be non oþ<HI REND="italic">er</HI> wyse.</L>
+</LG>
+<LG>
+<L>Whan Antecryste ys þus scomfet</L>
+<L>meche pepyll xall he<HI REND="italic">m</HI> ren<HI REND="italic">n</HI>e-ay. <MILESTONE N="930"/></L>
+<L>And Iewys namely in þ<HI REND="italic">a</HI>t plyte. <MILESTONE N="18 b." UNIT="fol."/></L>
+<L>xall t<HI REND="italic">ur</HI>ne a-geyne to crysts lay.</L>
+<L>Than Antecryst for dyspyte.</L>
+<L>ennok &amp; ely at certe<HI REND="italic">n</HI> day.</L>
+<L>to dethe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> dyntys do hym smyte. <MILESTONE N="935"/></L>
+<L>for þ<HI REND="italic">a</HI>t þey dyspysyd hys lay.</L>
+</LG>
+<LG>
+<L>And whan þey haue to dayys be dede.</L>
+<L>þey xall ryse vp to lyfe a-geyn.</L>
+<L>&amp; whan þis cursyd wede.</L>
+<L>hathe reyned tweyne ȝer<HI REND="italic">e</HI> full &amp; pleyn. <MILESTONE N="940"/></L>
+<L>And eke an half ȝere in þ<HI REND="italic">a</HI>t stede.</L>
+<L>&amp; led hys mastryys &amp; hys may.</L>
+<L>no lenger he xall holde vp hys hede.</L>
+<L>but þa<HI REND="italic">n</HI> he xall draw to hys peyne.</L>
+</LG>
+<LG>
+<L>Ih<HI REND="italic">es</HI>u cryst goddys sone of myte. <MILESTONE N="945"/></L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> many legyons a blysfull pres.</L>
+<L>of þe nyne orderys of au<HI REND="italic">n</HI>gyllys bryte.</L>
+<L>&amp; whan he comyth þ<HI REND="italic">a</HI>t prynce per<HI REND="italic">e</HI>-les.</L>
+<L>he xall come w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sweche a lyte.</L>
+<L>as all þe ward went on a blese. <MILESTONE N="950"/></L>
+<L>to dystroy eu<HI REND="italic">er</HI>y wykkyd wyte.</L>
+</LG>
+<LG>
+<L>And as seynt gregory dothe expres.</L>
+<L>þe prynce of au<HI REND="italic">n</HI>gelys seynt mychaell.</L>
+<L>þis antecryst to dethe xall dresse.</L>
+<L>&amp; sle þ<HI REND="italic">a</HI>t felon false &amp; fell. <MILESTONE N="955"/></L>
+<L>&amp; xall hym put in sory presse.</L>
+<L>In-to þe deppest pyt in hell.</L>
+<L>In endless peyn depe depresse.</L>
+<L>þ<HI REND="italic">er</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> damnyd eu<HI REND="italic">er</HI> to dwell.</L>
+</LG>
+<LG>
+<PB N="182" REF="48"/>
+<L>And þan xall sytt þ<HI REND="italic">a</HI>t hey Iustyse. <MILESTONE N="960"/> <MILESTONE N="19 a." UNIT="fol."/></L>
+<L>goddys sone maker of lyte &amp; leuy<HI REND="italic">n.</HI></L>
+<L>&amp; deme vs aft<HI REND="italic">yr</HI> owre seruyse.</L>
+<L>as we haue wrowt her<HI REND="italic">e</HI> olde &amp; ȝynge.</L>
+<L>The wykkyd me<HI REND="italic">n</HI> he xall chastyse.</L>
+<L>&amp; deme to hell w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wykkyd steuyn. <MILESTONE N="965"/></L>
+<L>þey þ<HI REND="italic">a</HI>t þa<HI REND="italic">n</HI> be fownde Iuste &amp; wyse.</L>
+<L>xall streyte in-to þe blysse of heuy<HI REND="italic">n.</HI></L>
+</LG>
+<LG>
+<L>To þ<HI REND="italic">a</HI>t blys he mot vs brynge.</L>
+<L>sothe-fast cryst þ<HI REND="italic">a</HI>t deyyd on roode.</L>
+<L>as he of dauyd rote wolde sprynge. <MILESTONE N="970"/></L>
+<L>&amp; for to by vs he sched hys bloode.</L>
+<L>As wystly as he made all þinge. <NOTE PLACE="foot">972. <HI REND="italic">for</HI> crossed out before <HI REND="italic">made</HI> MS.</NOTE></L>
+<L>kepe vs fro warkys wykk &amp; woode.</L>
+<L>&amp; he ys cryste curtes &amp; kende.</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> grace he glad vs w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all goode. <MILESTONE N="975"/></L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

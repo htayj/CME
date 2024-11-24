@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-15-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed incorrect 7s in text to ampersands; changed mdashes between numerals to hyphens; removed some incorrect MILESTONEs from prose, and from HEAD; changed DIV3s to LGs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00088">
+<STC T="M">88</STC>
+<BIBNO T="mec">CME00088</BIBNO>
+<VID>CME00088</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="treatise">
+<PB REF="1"/>
+<HEAD>MIDDLE ENGLISH RIMED MEDICAL TREATISE.</HEAD>
+<DIV2 TYPE="preface">
+<P>Prof. Holthausen, in Anglia XVIII, 293-331, reprints two medical treatises preserved in a Stockholm manuscript which was first printed by G. Stephens in 1844 in the 30th volume of Archaeologia. The same poems are found in the Add. Ms. 17,866 in the British Museum, fol. 5a-21b, but in a text so different that it would be impossible to print merely a list of variants. The order of the poems is just reversed in the Add. Ms. from that in the Stockholm Ms., the prescriptions following the medico-botanical poem. I have numbered the two as one, as they occur in the Ms.</P>
+<P>It is a beautiful manuscript, written on parchment with great care. There is practically no attempt at adornment, aside from the rubrications. The catalogue says it belongs to the fourteenth century, and on the inside leaf is written: 'This M. S. seems to belong to the time of the first or second Edward', i. e. 1272-1327. This, however seems at least one hundred fifty years too early. It shows many traces of northern dialect, but is not consistent.</P>
+<P>Following is a list of the passages of more than two verses in length which are lacking in the longer poem of the Add. Ms. <NOTE N="1)" PLACE="foot">The numbers refer to Prof. Holthausen's II.</NOTE>: 1-6; 93-102; 169-178; 193-196; 203-6; 207-217; 240-246; 315-318; 397-406; 421-4; 435-440; 453-9; 489-494; 505-7; 510-514; 555-8; 597-604; 613-636; 647-650; 658-664; 700-734; 745-764; 783-5; 803-6; 815-8; 837-842; 850-3; 856-861; 876-9; 900-907; 942-5; 956-9; 962-5.</P>
+<P><PB N="164" REF="2"/>
+Following passages occur only in Add. Ms.: 1-40; 158-9; 207-8; 323-4; 414-5; 424; 427-9; 433; 519-523; 600; 607-11; 632; 636-9; 644-5; 650-5; 660-3; 690-1; 692-3; 694-5; 718-9; 721-729; 741-753.</P>
+<P>Following are the correspondences between Prof. Holt∣hausen's I and verses 754-1123 of the Add. Ms., the first figure referring to the Stockholm Ms., the second to the Add. Ms.: 9-66 = 754-803; 67-72 = 904-9; 73-96 = 804-825; 97-116 = 830-851; 117-132 = 864-879; 142-154 = 934-941; 155-160 = 942-947; 161-6 = 1038-43; 177-184 = 895-903; 201-4 = 948-53; 205-218 = 920-933; 225-236 = 1044-1055; 237-242 = 1056-1061; 243-250 = 1062-1069; 251-5 = 1070-3; 255-8 = 1116-19; 259-262 = 1120-3; 289-296 = 1084-89; 299-302 = 1094-1097; 303-316 = 954-969; 317-320 = 970-973; 321-6 = 974-979; 327-342 = 984-999; 343-366 = 1004-1027; 445-454 = 1028-1037; 461-6 = 1104-1109.</P>
+<P>The following occur only in the Stockholm Ms.: 1-8; 132-146; 167-176; 185-200; 219-224; 263-288; 297-8; 367-444; 455-460; 467-472; 473-6; 477-496.</P>
+<P>The following occur only in the Add. Ms.: 826-9; 852-863; 880-895; 910-919; 980-3; 1000-3; 1074-1083; 1090-3; 1098-1103; 1110-5.</P>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEAD>Add. Ms. 17866 ff. 5a-21b.</HEAD>
+<LG>
+<L>Hic incipiu<HI REND="italic">n</HI>t ‖ v<HI REND="italic">ir</HI>tutes herba<HI REND="italic">rum.</HI> <MILESTONE N="5a" UNIT="f."/></L>
+<L>Moder of gresse ‖ qwo so hym sekes</L>
+<L>Says Ipocrus ere vnset lekes</L>
+<L>In lechecraft many &amp; fele.</L>
+<L>The juse of þem to drynke is gode. <MILESTONE N="5"/></L>
+<L>For þem þat caste or pisse blode.</L>
+<L>Etyngge of lekes gerres maydou<HI REND="italic">n</HI>es wilde.</L>
+<L>Thorw ma<HI REND="italic">n</HI>nes help consaiue childe.</L>
+<L>Bityng of nedders or other beste.</L>
+<L>Þat venu<HI REND="italic">m</HI> beres most or lest. <MILESTONE N="10"/></L>
+<L>Iuse of lekes menged w<SUP>t</SUP> wyne</L>
+<L>Helpes &amp; slakes þar of þe pyne</L>
+<L>Hony &amp; lekes in plaist<HI REND="italic">re</HI> made</L>
+<L>Helps a wounde depe &amp; brade.</L>
+<L><PB N="165" REF="3"/>
+Juse of lekes w<SUP>t</SUP> wo<HI REND="italic">m</HI>ma<HI REND="italic">n</HI>nys mylke <MILESTONE N="15"/></L>
+<L>Drynke for host is none swilke</L>
+<L>For stoppyng of wynde has many ane <MILESTONE N="5b" UNIT="f."/></L>
+<L>Þe self drynke helpes if it be tane.</L>
+<L>Whey<HI REND="italic">er</HI> so it so (sic) be in lunges or brest</L>
+<L>It shall hym opyne and be his leche <MILESTONE N="20"/></L>
+<L>Iuse of lekes w<SUP>t</SUP> gaytes galle.</L>
+<L>For miked heryng help it schalle.</L>
+<L>Two partes Iuse &amp; thridde p<HI REND="italic">ar</HI>tt galle</L>
+<L>Melled same<HI REND="italic">n</HI> and wermod w<SUP>t</SUP> alle.</L>
+<L>In nose or eres wheþ<HI REND="italic">er</HI> of two <MILESTONE N="25"/></L>
+<L>For gret hedwerke wil it slo.</L>
+<L>Iuse of lekes &amp; wyn<HI REND="italic">n</HI> same<HI REND="italic">n</HI></L>
+<L>Anger &amp; thought it turnes to game.</L>
+<L>Men saies also þ<SUP>t</SUP> eyen has sore</L>
+<L>It may þem helpe &amp; couer of cor <MILESTONE N="30"/></L>
+<L>Broken bones will it knytte</L>
+<L>And angri sores will it flytte.</L>
+<L>Lekes &amp; salt same done.</L>
+<L>Helpes a wounde to close sone.</L>
+<L>Dronken men of wynn or alle. <MILESTONE N="35"/></L>
+<L>A raw leke ete he sale.</L>
+<L>It schal hym co<HI REND="italic">n</HI>forth in is brayne.</L>
+<L>And make hym sone sobere agayn.</L>
+<L>To tell of betayne I haue gret mynde <NOTE PLACE="marg">Betayne.</NOTE></L>
+<L>And sithen of other herbes als I fynde. <MILESTONE N="40"/></L>
+<L>But furst at betayne I will be gynne.</L>
+<L>Þat many v<HI REND="italic">er</HI>tues beres w<SUP>t</SUP> inne.</L>
+<L>Betayne says þese leches be dene.</L>
+<L>Soule &amp; body it kepes clene.</L>
+<L>And qwo so on hym will it bere. <MILESTONE N="45"/></L>
+<L>Fro the fende it will hym were.</L>
+<L>In þe monthe of August on alle wise</L>
+<L>It schal be gadered or þe sone rise.</L>
+<L>And qwo so drynkes betayne &amp; hase þ<SUP>e</SUP> stone.</L>
+<L>By his vrenne it shall out gone <MILESTONE N="50"/></L>
+<L>Betayne bulyd and drunkyn w<SUP>t</SUP> hony.</L>
+<L>Is gode agayne all dropcy. <MILESTONE N="6a" UNIT="f."/></L>
+<L>A plaister made of betayne.</L>
+<L>Is gode to lay be sith e of e <HI REND="italic">(sic)</HI></L>
+<L><PB N="166" REF="4"/>
+Iuse of betayne w<SUP>t</SUP> wat<HI REND="italic">er</HI> of rose clere. <MILESTONE N="55"/></L>
+<L>Co<HI REND="italic">[n]</HI> forthes well þe heryng of ere.</L>
+<L>And al so þe pouder of betayne is gode.</L>
+<L>Melled w<SUP>t</SUP> hony for violent blode.</L>
+<L>Agayn þe host w<SUP>t</SUP> outen lacke.</L>
+<L>It co<HI REND="italic">n</HI>forteth well þ<SUP>e</SUP> brest &amp; þ<SUP>e</SUP> stomake. <MILESTONE N="60"/></L>
+<L>The leues of betayne w<SUP>t</SUP> salt made nesche</L>
+<L>Is gode for woundes in hede fre[s]che.</L>
+<L>And also betayne drunkyn or eten</L>
+<L>The mat<HI REND="italic">er</HI>yng off eyen it will letyn.</L>
+<L>And also betayne þ<SUP>e</SUP> soith tyll sayne. <MILESTONE N="65"/></L>
+<L>Is gode for the bolnynge of þ<SUP>e</SUP> eyn twayn</L>
+<L>And if it w<SUP>t</SUP> rew be soden &amp; dith</L>
+<L>It dos a way þe merknes of syth.</L>
+<L>And ȝet dos betayne sekirly.</L>
+<L>He wastes þe venu<HI REND="italic">m</HI> in ma<HI REND="italic">n</HI>nes body. <MILESTONE N="70"/></L>
+<L>Betayne sothen in wyne clene.</L>
+<L>Purges þ<SUP>e</SUP> stomake &amp; þe splene.</L>
+<L>Fowre lyues of betayne fyne.</L>
+<L>And thre sponefull of rede wyne</L>
+<L>And g<HI REND="italic">r</HI>aynes of pep<HI REND="italic">er</HI>e .xx. ti &amp; seuyn. <MILESTONE N="75"/></L>
+<L>Alle to gedere grounden ewen.</L>
+<L>And make a drynke þ<HI REND="italic">er</HI> of clenelyke</L>
+<L>Betayne &amp; plantayne to geder þu take.</L>
+<L>Þe Iuse w<SUP>t</SUP> hote wat<HI REND="italic">er</HI> menge &amp; make</L>
+<L>Als sais maist<HI REND="italic">er</HI> Ipocras opynlyke. <MILESTONE N="80"/></L>
+<L>It couers þ<SUP>e</SUP> feu<HI REND="italic">er</HI>e cotidyan<HI REND="italic">n</HI> nobellyke.</L>
+<L>If þ<SUP>u</SUP> of vomate will haue bote</L>
+<L>Make þ<SUP>e</SUP> a pouder of betayne rote.</L>
+<L>And drynke yt w<SUP>t</SUP> leuke wat<HI REND="italic">er</HI> clene.</L>
+<L>It schall delyu<HI REND="italic">er</HI>e of filthe be dene. <MILESTONE N="85"/></L>
+<L>Four leues of betayne drunkyn w<SUP>t</SUP> wyn</L>
+<L>Purges þ<SUP>e</SUP> glet wel and fyn <MILESTONE N="6b" UNIT="f."/></L>
+<L>The seid of betayne takyn in tyme</L>
+<L>Is gode for alle man<HI REND="italic">er</HI>e of venyme.</L>
+<L>The poudir of betayne w<SUP>t</SUP> wyn<HI REND="italic">n</HI> I wene. <MILESTONE N="90"/></L>
+<L>Makes a wo<HI REND="italic">m</HI>manes mat<HI REND="italic">ri</HI>ce clene.</L>
+<L>And qwo so takes a bene wyght.</L>
+<L>Of poudir of betayne well ditht</L>
+<L>And ete it sone aft<HI REND="italic">er</HI> þe sop<HI REND="italic">er</HI> ryfe.</L>
+<L><PB N="167" REF="5"/>
+It co<HI REND="italic">n</HI>forthes þ<SUP>i</SUP> stomake &amp; v<HI REND="italic">er</HI>tues gestife <MILESTONE N="95"/></L>
+<L>Qwo so will do a serpent tene.</L>
+<L>Make he a garlond of betayne grene.</L>
+<L>And make a serkile rounde aboute.</L>
+<L>And he schal neu<HI REND="italic">er</HI>e on lyue come oute.</L>
+<L>But he schal w<SUP>t</SUP> is tayle hyme schende. <MILESTONE N="100"/></L>
+<L>Or w<SUP>t</SUP> is teithe hym self rende.</L>
+<L>Beter gres may none be founde</L>
+<L>In all this worlde a pon þ<SUP>e</SUP> grounde.</L>
+<L>Then betayne &amp; mynte ere for þ<SUP>e</SUP> stomake.</L>
+<L>And also for pyne and warke in bake <MILESTONE N="105"/></L>
+<L>A plaist<HI REND="italic">er</HI> of betayne for soith till say.</L>
+<L>Is gode on þe thonewanges for to lay.</L>
+<L>of hed werke it brynges a way þ<SUP>e</SUP> bit<HI REND="italic">er</HI>nesse</L>
+<L>And castes to þe eyen gret brythnesse</L>
+<L>If it be falle tille holde or ȝynge. <MILESTONE N="110"/></L>
+<L>Newely till lese hijs heryng.</L>
+<L>Iuse of betayne in his ere be layn.</L>
+<L>It brynges his herynge sone agayn.</L>
+<L>And if a man haue þe toith ake</L>
+<L>Betayne sothen in wyn he take. <MILESTONE N="115"/></L>
+<L>kepe it in his mouth euen &amp; morwe.</L>
+<L>And it schal dryuen<HI REND="italic">n</HI> a way hys sorwe.</L>
+<L>Quo so for trauell or gret swynke</L>
+<L>Vses erly or late to drynke.</L>
+<L>Fastande he vse betayne I say. <MILESTONE N="120"/></L>
+<L>He schal nouȝt be drunke þ<SUP>t</SUP> ilke day.</L>
+<L>For alle man<HI REND="italic">er</HI>e of euelys he is þ<SUP>e</SUP> grounde. <MILESTONE N="7a" UNIT="f."/></L>
+<L>The whiles he may in erthe be founde.</L>
+<L>Centory sodyn in wyn<HI REND="italic">n</HI> clere</L>
+<L>And drunkyn .xv. dayes comande. <MILESTONE N="125"/></L>
+<L>So þ<SUP>t</SUP> it be maide clere &amp; fyne.</L>
+<L>What man<HI REND="italic">er</HI>e of venu<HI REND="italic">m</HI> be man w<SUP>t</SUP> Inne.</L>
+<L>It schal distroye it &amp; breke þ<SUP>e</SUP> flesche.</L>
+<L>And dryue out þe venu<HI REND="italic">m</HI> nesche.</L>
+<L>Ley nothyng elles be þ<SUP>t</SUP> wounde. <MILESTONE N="130"/></L>
+<L>Till it be made bothe holle &amp; sounde.</L>
+<L>Saue in case if it be tyde.</L>
+<L>That þe wounde be holle &amp; wyde.</L>
+<L>Than entreyt þ<HI REND="italic">er</HI> on do layne.</L>
+<L><PB N="168" REF="6"/>
+To drawe þe hide to geder agayne. <MILESTONE N="135"/></L>
+<L>The odour of centory &amp; þ<SUP>e</SUP> smelle.</L>
+<L>Co<HI REND="italic">n</HI>fortes ma<HI REND="italic">n</HI>nes braynes wonderly well.</L>
+<L>It dryues þe werke out of þe hede.</L>
+<L>Betwixe þe armes &amp; þe shede.</L>
+<L>His floure ys rede his smell ys swoitt. <MILESTONE N="140"/></L>
+<L>To eu<HI REND="italic">er</HI>ilke sore it may do bote.</L>
+<L>Marigoulde has abett<HI REND="italic">ir</HI> sauore</L>
+<L>In tyme of ȝere ȝalow is his floure.</L>
+<L>For eyen þ<SUP>t</SUP> bene nouȝt bright nor clene.</L>
+<L>On þ<SUP>e</SUP> floure is gode to sene <MILESTONE N="145"/></L>
+<L>He dryues a way wikkede humore.</L>
+<L>Out of þe eyen w<SUP>t</SUP> is coloure.</L>
+<L>God is þe lef so is þe sede.</L>
+<L>To grynde &amp; drynke at gret nede.</L>
+<L>It wolde be dronkyn w<SUP>t</SUP> whay or ale. <MILESTONE N="150"/></L>
+<L>Or w<SUP>t</SUP> rede wyn<HI REND="italic">n</HI> þ<SUP>t</SUP> is ful stale.</L>
+<L>Alle man<HI REND="italic">er</HI>e of venyme it wil a bate.</L>
+<L>In man<HI REND="italic">n</HI>ys body erly or late.</L>
+<L>Qwo so marigoulde sees erly at morwen.</L>
+<L>That day fro feu<HI REND="italic">er</HI>es it wil hym borwe. <MILESTONE N="155"/></L>
+<L>The sauore of marigoulde is gode to smelle</L>
+<L>Als maist<HI REND="italic">er</HI> Ipocras in boke vse telle. <MILESTONE N="7b" UNIT="f."/></L>
+<L>If þis gres be gracious</L>
+<L>His v<HI REND="italic">er</HI>tu is wounder p<HI REND="italic">re</HI>cious.</L>
+<L>If it be gaderid in someres tyde <MILESTONE N="160"/></L>
+<L>When he spredes his floures wyde</L>
+<L>In þe monethe of august it most be</L>
+<L>Qwhen þe mone is on the signe of v<HI REND="italic">er</HI>gine.</L>
+<L>In þat tyme be the gaderere ware.</L>
+<L>Þat þ<SUP>e</SUP> planet regne nouth of iubit<HI REND="italic">er.</HI> <MILESTONE N="165"/></L>
+<L>For in þ<SUP>t</SUP> tyme renes he.</L>
+<L>He distroies þ<SUP>t</SUP> otheres poste.</L>
+<L>He þ<SUP>t</SUP> schal marigoulde be gaderande.</L>
+<L>Of mete &amp; drynke most be fastande.</L>
+<L>Ande out of dedly synne he schuld be clene <MILESTONE N="170"/></L>
+<L>W<SUP>t</SUP> thre pater n<HI REND="italic">oste</HI>r &amp; Aues sayde be dene.</L>
+<L>And þis marigoulde be gadrede þus.</L>
+<L>In leues of lorere it most be bounde.</L>
+<L>And done þ<HI REND="italic">er</HI> to wolues toith þ<SUP>t</SUP> stounde.</L>
+<L><PB N="169" REF="7"/>
+And if þ<SUP>u</SUP> it on þe sythen bere. <MILESTONE N="175"/></L>
+<L>Fro eu<HI REND="italic">er</HI> ilke p<HI REND="italic">er</HI>ile it wil þ<SUP>e</SUP> were.</L>
+<L>Man nor wom<HI REND="italic">m</HI>an schal haue no myght</L>
+<L>To speke agayn þe nothyng but ryght.</L>
+<L>And frend and foo bothe schal þe grete.</L>
+<L>W<SUP>t</SUP> wordes faire and eke swete. <MILESTONE N="180"/></L>
+<L>And if fro þ<SUP>e</SUP> ought be stolne.</L>
+<L>And þe theues will nouth be knowne.</L>
+<L>Take þis goulde woundyn<HI REND="italic">n</HI> and layde.</L>
+<L>To geder als it is before sayde.</L>
+<L>And hange aboute þ<SUP>i</SUP> neke on nyght. <MILESTONE N="185"/></L>
+<L>And of þ<SUP>e</SUP> theues þ<SUP>u</SUP> schall haue syght.</L>
+<L>Þ<SUP>u</SUP> schalt þem bothe knawen &amp; sene.</L>
+<L>And what þ<SUP>t</SUP> þeire co<HI REND="italic">n</HI>diciou<HI REND="italic">n</HI> bene.</L>
+<L>Celydoyne is a gres to say.</L>
+<L>That growes in ȝerdes &amp; i<HI REND="italic">n</HI> way. <MILESTONE N="190"/></L>
+<L>It is gode to drynke I wise.</L>
+<L>For gulsought and the Jaundise. <MILESTONE N="8a" UNIT="f."/></L>
+<L>And qwo will on lam<HI REND="italic">m</HI>esse day.</L>
+<L>Erly at morwe gadere I say.</L>
+<L>This gres selydoyne w<SUP>t</SUP> þe rote <MILESTONE N="195"/></L>
+<L>Aft<HI REND="italic">er</HI> it may do ful gret bote.</L>
+<L>So fastyng stomake þ<SUP>t</SUP> he be.</L>
+<L>And say pat<HI REND="italic">er</HI> n<HI REND="italic">oste</HI>r &amp; Aues . thre.</L>
+<L>And he selydoyne on hym wil bere.</L>
+<L>No p<HI REND="italic">er</HI>soun<HI REND="italic">n</HI> schal hym holde nore dere. <MILESTONE N="200"/></L>
+<L>He schal ou<HI REND="italic">er</HI>com<HI REND="italic">m</HI>e alle his enemyes.</L>
+<L>And scape þaire strife &amp; þair malys.</L>
+<L>If it be takyn als it is sayde.</L>
+<L>And vndire a sek man<HI REND="italic">n</HI>ys hede be layde.</L>
+<L>If he schal dy loude schal he synge. <MILESTONE N="205"/></L>
+<L>If he schal leue teres schal he wrynge.</L>
+<L>Off pymp<HI REND="italic">er</HI>nole . to speke. I thenke ȝitte</L>
+<L>On englishe is called the burnette.</L>
+<L>He hath in hym v<HI REND="italic">er</HI>tues many.</L>
+<L>When he is mengede w<SUP>t</SUP> clene hony. <MILESTONE N="210"/></L>
+<L>W<SUP>t</SUP> thre pat<HI REND="italic">er</HI> n<HI REND="italic">oste</HI>r in the mon<HI REND="italic">n</HI>the of may.</L>
+<L>he schulde be gadered in spryng of day.</L>
+<L>This gres alon þus gadered clene</L>
+<L>Ful redely he clenses þe splene.</L>
+<L><PB N="170" REF="8"/>
+The mane þ<SUP>t</SUP> beres hyme day or nyght. <MILESTONE N="215"/></L>
+<L>The fende of hyme schal haue no myght</L>
+<L>It puttes a way þ<SUP>e</SUP> fendys power.</L>
+<L>And stroyes venyme þ<SUP>t</SUP> is hyme nere.</L>
+<L>If it be drunkyne w<SUP>t</SUP> betayne.</L>
+<L>And whit wormes be in man<HI REND="italic">n</HI>es E. <MILESTONE N="220"/></L>
+<L>Thorw þis drynke þei sall out dryue.</L>
+<L>On schal nought leue þ<HI REND="italic">er</HI> in on lyue.</L>
+<L>In som<HI REND="italic">er</HI>e he beres a smal reed floure.</L>
+<L>Prop<HI REND="italic">er</HI>e to syght is his coloure.</L>
+<L>Al dey agaynes vnderou<HI REND="italic">n</HI> &amp; none. <MILESTONE N="225"/></L>
+<L>He will hym sprede and vndonn.</L>
+<L>And agaynes þe euen tyde. <MILESTONE N="8b" UNIT="f."/></L>
+<L>He lokes hym self on ilke a syde.</L>
+<L>Modirworte . has man<HI REND="italic">er</HI>es thre.</L>
+<L>I will ȝow schewe wilke þei be. <MILESTONE N="230"/></L>
+<L>The ton<HI REND="italic">n</HI>e it growes comu<HI REND="italic">n</HI>ly hende.</L>
+<L>Be tou<HI REND="italic">n</HI>e &amp; way as men schal wende.</L>
+<L>The croppe is bitt<HI REND="italic">er</HI>er þan in þe rote.</L>
+<L>Till alle medecynes he may do bote.</L>
+<L>It is gode to bere day &amp; nyght. <MILESTONE N="235"/></L>
+<L>He puttes þe feu<HI REND="italic">er</HI>e fro his mygh (sic).</L>
+<L>The name of þ<SUP>t</SUP> moderworte.</L>
+<L>Is in þ<SUP>e</SUP> boke called þ<SUP>e</SUP> cokworte.</L>
+<L>Maister betanicus kenes vs bete.</L>
+<L>If it be lewked w<SUP>t</SUP> oyle rossete. <MILESTONE N="240"/></L>
+<L>anoynte þe man thre dayes w<SUP>t</SUP> alle.</L>
+<L>The passion<HI REND="italic">n</HI> of þe feu<HI REND="italic">er</HI>es fro hy<HI REND="italic">m</HI> schal falle</L>
+<L>The thride man<HI REND="italic">er</HI>e of þe moderwort þ<HI REND="italic">er</HI> is</L>
+<L>þ<SUP>t</SUP> beres ȝelwe floures for forth (sic) I wys.</L>
+<L>Qwo so in his hande may it bere. <MILESTONE N="245"/></L>
+<L>Trauaile of way schal hym no<HI REND="italic">n</HI> dere.</L>
+<L>Lat it be layde in a hous</L>
+<L>Als sais maister Betanicus.</L>
+<L>It schal out cast þe fendes myght.</L>
+<L>And turne wykede man<HI REND="italic">n</HI>ys syght <MILESTONE N="250"/></L>
+<L>In cas a wom<HI REND="italic">m</HI>an barane were.</L>
+<L>For co<HI REND="italic">n</HI>sayuynge no childe myght bere.</L>
+<L>And moder wort wer dryed clere.</L>
+<L>And sythen taken leues of lorere.</L>
+<L><PB N="171" REF="9"/>
+And sethe þem in wat<HI REND="italic">er</HI> wele &amp; fyne. <MILESTONE N="255"/></L>
+<L>And þane do þis drye pouder þ<HI REND="italic">er</HI> Inne.</L>
+<L>Ther of a bathe þan may sche make.</L>
+<L>And w<SUP>t</SUP> her awyn<HI REND="italic">n</HI> hande sche take.</L>
+<L>þis water lewked þ<SUP>t</SUP> sche nouȝt blyn<HI REND="italic">n</HI>e.</L>
+<L>And wash her p<HI REND="italic">re</HI>uyte w<SUP>t</SUP> oute &amp; Inne. <MILESTONE N="260"/></L>
+<L>It will her helpe to co<HI REND="italic">n</HI>sayuynge.</L>
+<L>And also a wo<HI REND="italic">m</HI>man of childynge. <MILESTONE N="9a" UNIT="f."/></L>
+<L>But moderworte most gaderyd be</L>
+<L>When þe mone is in ariete (sic).</L>
+<L>Ȝit says þe maist<HI REND="italic">er</HI> in his maistrye. <MILESTONE N="265"/></L>
+<L>This gres is bett<HI REND="italic">er</HI> grene &amp; drye.</L>
+<L>If he be gadered &amp; haue his kende.</L>
+<L>The wykked humore þ<SUP>t</SUP> he may feynde.</L>
+<L>That man or woma<HI REND="italic">n</HI> has su<HI REND="italic">m</HI> tyme take.</L>
+<L>And may þem self no<HI REND="italic">n</HI> yssu make. <MILESTONE N="270"/></L>
+<L>He schal distroy w<SUP>t</SUP> outen lesynge.</L>
+<L>w<SUP>t</SUP> plaist<HI REND="italic">er</HI> made or wat<HI REND="italic">er</HI> wasshynge.</L>
+<L>þu schalt moderwort gader wyde.</L>
+<L>And reed fenkill in som<HI REND="italic">er</HI>es tyde.</L>
+<L>In hous to hange at ilke entre. <MILESTONE N="275"/></L>
+<L>þ<SUP>t</SUP> þe fende schal haue no poste.</L>
+<L>þem nor þeire childre for to dere.</L>
+<L>And fro alle p<HI REND="italic">er</HI>iles þem to were.</L>
+<L>Now tell Ipocras alther nixte.</L>
+<L>Qwo so has straitnes at his breste <MILESTONE N="280"/></L>
+<L>lat hym take moder wort þ<SUP>t</SUP> is greyn.</L>
+<L>And grynde harehoune þ<HI REND="italic">er</HI> w<SUP>t</SUP> be dene.</L>
+<L>And seith hem bothe in wort clere.</L>
+<L>þat schal þ<SUP>u</SUP> drynke ix dayes be for dener.</L>
+<L>It schal dryue þ<SUP>e</SUP> straithede all away. <MILESTONE N="285"/></L>
+<L>And make hym qwart als pyk I say.</L>
+<L>Moderwort ys gode to plaist<HI REND="italic">er</HI> &amp; drynkyng</L>
+<L>And till many other thynge.</L>
+<L>Ueruayne is a grene gres of bitt<HI REND="italic">er</HI> sauo<HI REND="italic">r.</HI></L>
+<L>w<SUP>t</SUP> hye stalkes whit is his floure. <MILESTONE N="290"/></L>
+<L>Comu<HI REND="italic">n</HI>ly he growes be wayes &amp; gate.</L>
+<L>Men may hym fynde ay grene of state.</L>
+<L>To drynkes and to plaist<HI REND="italic">er</HI>es alle.</L>
+<L>His v<HI REND="italic">er</HI>tues ful wele þai falle.</L>
+<L><PB N="172" REF="10"/>
+Als maistres vs telles he gadered schalbe. <MILESTONE N="295"/></L>
+<L>w<SUP>t</SUP> pat<HI REND="italic">er</HI> nost<HI REND="italic">e</HI>rs. And aues thre.</L>
+<L>ffastande if the weder be grill. <MILESTONE N="9b" UNIT="f."/></L>
+<L>Be twix midde marche &amp; mydde Aprill.</L>
+<L>þ<SUP>e</SUP> gaderer moste be war and sle.</L>
+<L>þ<SUP>e</SUP> mone be nought in ariete. <MILESTONE N="300"/></L>
+<L>And whene v<HI REND="italic">er</HI>uayne is gadered þus clere.</L>
+<L>w<SUP>t</SUP> fyue g<HI REND="italic">r</HI>anes of pyane all off aȝere.</L>
+<L>And it be don<HI REND="italic">n</HI> a clene cloth w<SUP>t</SUP> Inne.</L>
+<L>And keped clene w<SUP>t</SUP> oute<HI REND="italic">n</HI> synne.</L>
+<L>Als says maist<HI REND="italic">er</HI> Iprocras openly. <MILESTONE N="305"/></L>
+<L>It cou<HI REND="italic">er</HI>es þ<SUP>e</SUP> fallende euell p<HI REND="italic">er</HI>fitely.</L>
+<L>If it be on hym day or nyght.</L>
+<L>And he hyme kepe fro synne aryght.</L>
+<L>The fende of hell schal haue no myght.</L>
+<L>To done hym nother fray nor frith. <MILESTONE N="310"/></L>
+<L>And qwo so will maistries make.</L>
+<L>Pouder of v<HI REND="italic">er</HI>uayne he schal take</L>
+<L>þis v<HI REND="italic">er</HI>uayne in þe mounthe of may.</L>
+<L>he schal be gadered in þ<SUP>e</SUP> spryng of day.</L>
+<L>And sithen brent in pouder clene. <MILESTONE N="315"/></L>
+<L>And cast a man or wom<HI REND="italic">m</HI>an betwene.</L>
+<L>Ȝif ayther of þem lofe oþ<HI REND="italic">er</HI> wele.</L>
+<L>They schal bothe stryfe &amp; flyte ilke dele.</L>
+<L>And ȝit says maist<HI REND="italic">er</HI> macrobius</L>
+<L>If yt be cast in a dowehous <MILESTONE N="320"/></L>
+<L>Alle other doves þ<SUP>t</SUP> are aboute.</L>
+<L>Schal gader þeder in a route.</L>
+<L>Veruayne and varwile both is one.</L>
+<L>The Iuse ther of þe ryngworme wil slone.</L>
+<L>This gres v<HI REND="italic">er</HI>uayne sodyn<HI REND="italic">n</HI> in wyn<HI REND="italic">n.</HI> <MILESTONE N="325"/></L>
+<L>When yt is dronken distroith venym<HI REND="italic">m.</HI></L>
+<L>And postemes þ<SUP>t</SUP> waxen on man smarte.</L>
+<L>It dryues þem sone fro is herte.</L>
+<L>God is þe cropþ gode is þe rote.</L>
+<L>To drynkes &amp; plaist<HI REND="italic">er</HI>es he may do bote. <MILESTONE N="330"/></L>
+<L>Portulaca and Montagone.</L>
+<L>Off this two herbys name is one. <MILESTONE N="10a" UNIT="f."/></L>
+<L>The leues be more þan fynger on leynth.</L>
+<L>And haues mekell of shapp &amp; of streyngth.</L>
+<L><PB N="173" REF="11"/>
+And also the leues bene thike &amp; grene. <MILESTONE N="335"/></L>
+<L>And haues outwarde þe leues whit vaynes clene.</L>
+<L>The waynes bene whit so any mylke.</L>
+<L>Tho þ<SUP>t</SUP> gres knaw I no<HI REND="italic">n</HI> swilke.</L>
+<L>Qwo so myght that gres feynde.</L>
+<L>I schal ȝow telle what is his kynde. <MILESTONE N="340"/></L>
+<L>Als bokes says eu<HI REND="italic">er</HI>ilkone.</L>
+<L>Agayn<HI REND="italic">n</HI> þe wat<HI REND="italic">er</HI> he schal gone.</L>
+<L>If it in tyme gadered be.</L>
+<L>That no planet lett is poste.</L>
+<L>Take þa<HI REND="italic">n</HI>ne ys leues w<SUP>t</SUP> out outen mete (sic) <MILESTONE N="345"/></L>
+<L>And chewe be twix a ma<HI REND="italic">n</HI>nes teith.</L>
+<L>And lay a strong loke hyme apone.</L>
+<L>The loke schal schoit &amp; be vndone.</L>
+<L>If remowes of iren be made ful wele.</L>
+<L>þei go in sundre eu<HI REND="italic">er</HI>ilke dele <MILESTONE N="350"/></L>
+<L>Pervynke . is a gres of grene colour</L>
+<L>In tyme of mey he beres his flo<HI REND="italic">u</HI>r.</L>
+<L>A gode porcione þ<SUP>u</SUP> gader þat sele.</L>
+<L>And dry it &amp; make in pouder wele.</L>
+<L>And take a worme twyangle be name. <MILESTONE N="355"/></L>
+<L>And make þ<HI REND="italic">er</HI> of pouder al in same.</L>
+<L>If husbande or wyf in drynke &amp; mete.</L>
+<L>It vse of and nought for gete.</L>
+<L>What discorde betwix þem be.</L>
+<L>It schal þem brynge in vnite. <MILESTONE N="360"/></L>
+<L>Take of þ<SUP>t</SUP> pouder a litill also.</L>
+<L>And do a lytill bryn<HI REND="italic">n</HI> þ<HI REND="italic">er</HI> to.</L>
+<L>And in a ponde w<SUP>t</SUP> fysch it caste.</L>
+<L>The fysche schal briste ful sone a none.</L>
+<L>Ȝit wil p<HI REND="italic">er</HI>vynke do wel more. <MILESTONE N="365"/></L>
+<L>If a man blede of wounde ful sore.</L>
+<L>Lat hym take leues tway. <MILESTONE N="10b" UNIT="fol."/></L>
+<L>And halde yt be twix his teith. I say.</L>
+<L>It will drye ful m<HI REND="italic">er</HI>weylislyke.</L>
+<L>And staunche the blode redylike. <MILESTONE N="370"/></L>
+<L>Wher<HI REND="italic">er</HI> so he blede &amp; in what place.</L>
+<L>The blode schal staunche thorw godes g<HI REND="italic">r</HI>ace.</L>
+<L>This is p<HI REND="italic">ro</HI>ued w<SUP>t</SUP> outen fabille.</L>
+<L>Therfore sothely I holde it stabille.</L>
+<L><PB N="174" REF="12"/>
+Rede rose gadered in som<HI REND="italic">er</HI>es day. <MILESTONE N="375"/></L>
+<L>and kendely dryed for soithe to say</L>
+<L>It is gode and in boke sette.</L>
+<L>To grynde &amp; do to suker rosett.</L>
+<L>And rede or white if þai be drye.</L>
+<L>þei may to plaister &amp; other maistrye <MILESTONE N="380"/></L>
+<L>Whe<HI REND="italic">n</HI>ne þei ar fresch gadered als þe stode.</L>
+<L>To stille wat<HI REND="italic">er</HI> for eyen þei ere gode.</L>
+<L>This water is called eweros be name.</L>
+<L>W<SUP>t</SUP> other gres made al in same.</L>
+<L>This oþer gres ere þes to sayne. <MILESTONE N="385"/></L>
+<L>Celydoyne &amp; rewe fenkyll reed &amp; v<HI REND="italic">er</HI>uayne.</L>
+<L>If aman hadede at his herte.</L>
+<L>Glet þ<SUP>t</SUP> greued hyme sore &amp; smerte.</L>
+<L>A plaist<HI REND="italic">re</HI> of þes leues þer to layde wele.</L>
+<L>Will alegge his payne ilke dele. <MILESTONE N="390"/></L>
+<L>And þ<HI REND="italic">er</HI> aft<HI REND="italic">er</HI> a draught of reynysh wyn<HI REND="italic">n.</HI></L>
+<L>Wolde clere is bowell wel &amp; fyne.</L>
+<L>Ȝit telles þe boke in latyne.</L>
+<L>Lat a grayne of mustard sede wele.</L>
+<L>And grynd w<SUP>t</SUP> þ<SUP>e</SUP> fete of a mussele. <MILESTONE N="395"/></L>
+<L>And hang it þan in a tre.</L>
+<L>In what place so eu<HI REND="italic">er</HI>e it be.</L>
+<L>The tre schal neu<HI REND="italic">er</HI> fruyt bere.</L>
+<L>Wills þ<SUP>t</SUP> co<HI REND="italic">n</HI>feccou<HI REND="italic">n</HI>ne hanges þer.</L>
+<L>And in a nette kast in þe se. <MILESTONE N="400"/></L>
+<L>Alle þ<SUP>e</SUP> fysshes aboute it be</L>
+<L>Schal gader theder in a route <MILESTONE N="11a" UNIT="f."/></L>
+<L>Alle þe fisshes þ<SUP>t</SUP> ben aboute</L>
+<L>If this co<HI REND="italic">n</HI>feccio<HI REND="italic">n</HI>n alle be dene.</L>
+<L>Be brente &amp; made in pouder clene. <MILESTONE N="405"/></L>
+<L>And it be in a lampe caste</L>
+<L>And sithen lyght sone in hast.</L>
+<L>Alle þ<SUP>t</SUP> standes aboute in stalle.</L>
+<L>Schal seme als þei ware fendis alle.</L>
+<L>This poudire wil do ȝit also. <MILESTONE N="410"/></L>
+<L>If oyle of olyue or brymston be don þ<HI REND="italic">er</HI> to.</L>
+<L>If a hous þ<HI REND="italic">er</HI> w<SUP>t</SUP> a noyntyd be.</L>
+<L>It schal seme brennande þ<HI REND="italic">er</HI> on to se.</L>
+<L>Leyle. beres white flores in som<HI REND="italic">er</HI>es tyde.</L>
+<L><PB N="175" REF="13"/>
+w<SUP>t</SUP> grene leues on ilke a syde <MILESTONE N="415"/></L>
+<L>Thre man<HI REND="italic">er</HI>es of lelyes þ<HI REND="italic">er</HI> bene.</L>
+<L>Als clerkes in bokes mawe find &amp; sene.</L>
+<L>That on is domache þ<SUP>t</SUP> is called hende.</L>
+<L>Most of v<HI REND="italic">er</HI>tu to ma<HI REND="italic">n</HI>nes kende.</L>
+<L>þat growes in ȝerdes w<SUP>t</SUP> whit flore. <MILESTONE N="420"/></L>
+<L>þat is callede þe glayglofe poure.</L>
+<L>And is white so any milke.</L>
+<L>Non of þ<SUP>t</SUP> othere bers non swilke.</L>
+<L>The maist<HI REND="italic">er</HI>es sayes w<SUP>t</SUP> milde mode.</L>
+<L>In plaisteres for postemes þ<SUP>e</SUP> leues are gode. <MILESTONE N="425"/></L>
+<L>If it be menged w<SUP>t</SUP> swynes grece.</L>
+<L>If rotes þ<SUP>e</SUP> postemes w<SUP>t</SUP> outene lece.</L>
+<L>And purges &amp; heles al be dene.</L>
+<L>Als says ypocras þ<SUP>t</SUP> has it sene.</L>
+<L>That oþ<HI REND="italic">er</HI> lely waxes in som<HI REND="italic">er</HI>es tyde. <MILESTONE N="430"/></L>
+<L>In grene landes &amp; wodes be syde.</L>
+<L>The wode lely beres a pourpyll floure.</L>
+<L>Men may it knowe be is coloure.</L>
+<L>The thride lely ȝit þ<HI REND="italic">er</HI> is.</L>
+<L>Is callede þe felde lely Iwys. <MILESTONE N="435"/></L>
+<L>His leues ere lyke þe saferon<HI REND="italic">n.</HI></L>
+<L>þ<HI REND="italic">er</HI>by hym knawe wel men mowe. <MILESTONE N="11b" UNIT="f."/></L>
+<L>Now wile I tell of þer maisteries to þe.</L>
+<L>If þai in þe signe of þe lyon gaderede be</L>
+<L>That is to say fro mide Iuly. <MILESTONE N="440"/></L>
+<L>To middes of august sekyrly.</L>
+<L>Who so gadere þe lely þ<SUP>t</SUP> tyme of ȝere.</L>
+<L>And menges it w<SUP>t</SUP> juse of leues of lorere.</L>
+<L>And lay it vnder a gret donge hille.</L>
+<L>And þ<HI REND="italic">er</HI> of schal wax wormes venemus &amp; grille. <MILESTONE N="445"/></L>
+<L>Of wilke pouder be made a none.</L>
+<L>And castene on clothes þ<SUP>t</SUP> men haue one.</L>
+<L>he schal nouȝt slepe be dayes thre.</L>
+<L>If tho clothes on hym be.</L>
+<L>And tille þis clothes be don away. <MILESTONE N="450"/></L>
+<L>he schal nouȝt slepe be nyght nor day.</L>
+<L>And take netes milke also.</L>
+<L>And þis pouder menged þ<HI REND="italic">er</HI> to.</L>
+<L>Whoso þ<HI REND="italic">er</HI> of ete schall.</L>
+<L><PB N="176" REF="14"/>
+Into þe feu<HI REND="italic">er</HI>es he schal fall. <MILESTONE N="455"/></L>
+<L>Wheþ<HI REND="italic">er</HI> it be man or wo<HI REND="italic">m</HI>mane.</L>
+<L>for sothe þ<SUP>e</SUP> feu<HI REND="italic">er</HI>es schal þai haue.</L>
+<L>And if þ<HI REND="italic">er</HI> be in a hous fourty nete.</L>
+<L>þat alle gif milke plente grete</L>
+<L>Do a dischfull of milke in a basyne. <MILESTONE N="460"/></L>
+<L>And þis pouder cast þ<HI REND="italic">er</HI> inne.</L>
+<L>This ilke nete eu<HI REND="italic">er</HI>ilkone.</L>
+<L>Alle þere milke þai schal for gone.</L>
+<L>Off hennebane. mel þ<SUP>e</SUP> juse w<SUP>t</SUP> resalgere.</L>
+<L>and armodactile and of othere. <MILESTONE N="465"/></L>
+<L>If it in mete or drinke be caste.</L>
+<L>It wille sle houndes sone in haste.</L>
+<L>If a dische be made of silu<HI REND="italic">er</HI>e fyne.</L>
+<L>And þan þis co<HI REND="italic">n</HI>feccione don þ<HI REND="italic">er</HI> Inne.</L>
+<L>The boke for sothe telles in tale. <MILESTONE N="470"/></L>
+<L>The disch i<HI REND="italic">n</HI> pecys schal breke ful smale.</L>
+<L>If þ<SUP>u</SUP> hares blode wil take. <MILESTONE N="12a" UNIT="f."/></L>
+<L>W<SUP>t</SUP> juse of hennebane menge &amp; make.</L>
+<L>And in hares skynne do it bynde.</L>
+<L>And it so lygge be wode or lynde. <MILESTONE N="475"/></L>
+<L>Or sewe it in a hares skynne.</L>
+<L>And qwhat place þ<SUP>u</SUP> layes it Inne.</L>
+<L>All þe hares þ<SUP>t</SUP> bene þ<HI REND="italic">er</HI> aboute.</L>
+<L>Schal gader theder in a route.</L>
+<L>Ipocras sayes þ<SUP>t</SUP> henne bane rote. <MILESTONE N="480"/></L>
+<L>For þ<SUP>e</SUP> broke it may do bote.</L>
+<L>If it in his kynde be layde þ<HI REND="italic">er</HI> one.</L>
+<L>It schal do it breke sone a none.</L>
+<L>And a way do the filthe ilke dele.</L>
+<L>And hele it aft<HI REND="italic">er</HI> fair &amp; wele. <MILESTONE N="485"/></L>
+<L>And if a man als telles þe boke.</L>
+<L>Fel on hym to haue a broke.</L>
+<L>And he hennebane juse wil take.</L>
+<L>And drynk yt or he hadde his ake.</L>
+<L>Als sayes þe boke to leue vp one <MILESTONE N="490"/></L>
+<L>He schuld neu<HI REND="italic">er</HI>e more haue none.</L>
+<L>Qwho so wile amang wy<HI REND="italic">m</HI>men gone.</L>
+<L>And hennebane haue hym apone.</L>
+<L>Qwhat case so betyde or falle</L>
+<L><PB N="177" REF="15"/>
+It schal make þem to loue hym alle. <MILESTONE N="495"/></L>
+<L>It schal make hym ioyful and lyght.</L>
+<L>And dilectabile to wo<HI REND="italic">m</HI>ma<HI REND="italic">n</HI>nes syght.</L>
+<L>But of hennebane bene kendes thre.</L>
+<L>I am in dowte wilke it schulde be.</L>
+<L>For þ<HI REND="italic">er</HI> is rede ȝelwe and blake. <MILESTONE N="500"/></L>
+<L>Alle þei bene weyke of odo<HI REND="italic">ur 7</HI> smake.</L>
+<L>Affodill is a precious gres I wis.</L>
+<L>But þ<SUP>e</SUP> buke telles nought is na<HI REND="italic">m</HI>e i<HI REND="italic">n</HI> englys.</L>
+<L>This gres i<HI REND="italic">n</HI> a clene ly[n]en cloth w<SUP>t</SUP> þ<SUP>e</SUP> rote.</L>
+<L>For þe fallende euele it may do bote. <MILESTONE N="505"/></L>
+<L>This gres keped in a clene cloth þus</L>
+<L>Schal suffer no feend in þ<SUP>t</SUP> hous. <MILESTONE N="12b" UNIT="f."/></L>
+<L>Who so on hym bere it day or nyght.</L>
+<L>The fend on hym schal haue no myght.</L>
+<L>Nore dred of man schal hym non dere <MILESTONE N="510"/></L>
+<L>The mane on nyght þ<SUP>t</SUP> on hym bere.</L>
+<L>Gode is to bere it day or nyght.</L>
+<L>To man þat gos in fray or fight.</L>
+<L>Dragaunce . and serpentyne same.</L>
+<L>And nedderis tonge bene gres but ane. <MILESTONE N="515"/></L>
+<L>He waxes comely in someres tyde.</L>
+<L>W<SUP>t</SUP> leues and stalkes be eu<HI REND="italic">er</HI>ilksyde.</L>
+<L>His stalkes ere amet <HI REND="italic">ȝ</HI>erde lange.</L>
+<L>And gray als marbylle &amp; do<HI REND="italic">n</HI>ned a mange.</L>
+<L>Ther by hym knawe aman wel may. <MILESTONE N="520"/></L>
+<L>Be waxinge on hithe on som<HI REND="italic">er</HI>es day.</L>
+<L>Or lyke þe fetheres of a dowe gray</L>
+<L>Whedir he growe be toune or way.</L>
+<L>Now telles maist<HI REND="italic">er</HI> ypocras þus.</L>
+<L>of trayfoile who so takes þe jous. <MILESTONE N="525"/></L>
+<L>And stampe dragaunce þ<HI REND="italic">er</HI> to.</L>
+<L>And hilles it vndere erthe also.</L>
+<L>Nedders shal wax þ<HI REND="italic">er</HI> of rede &amp; grene</L>
+<L>Of wham if þ<SUP>u</SUP> mow make powder clene</L>
+<L>And cast it in alampe lyght. <MILESTONE N="530"/></L>
+<L>That clere wer<HI REND="italic">re</HI> and shone bryght.</L>
+<L>þat place schulde seme w<SUP>t</SUP> oute<HI REND="italic">n</HI> doute</L>
+<L>þat al wer nedders þ<SUP>t</SUP> stode aboute.</L>
+<L>And ȝit þ<SUP>is</SUP> poudir wil do more wondir.</L>
+<L><PB N="178" REF="16"/>
+A mane hede to lay it ondire. <MILESTONE N="535"/></L>
+<L>He schulde sclepe no slepe I say.</L>
+<L>Tille it fro hyme were done a way.</L>
+<L>Who so wil mo maistryes make.</L>
+<L>The jous of serpentyne he schal take.</L>
+<L>And al aboute wele and fyne. <MILESTONE N="540"/></L>
+<L>Wasche his handys wel þ<HI REND="italic">er</HI> Inne.</L>
+<L>He schal serpentes w<SUP>t</SUP> outen p<HI REND="italic">er</HI>ile. <MILESTONE N="13a" UNIT="f."/></L>
+<L>Handele and gader wele if he welle.</L>
+<L>Ȝit sayes þ<SUP>e</SUP> maist<HI REND="italic">re</HI> w<SUP>t</SUP> milde mode.</L>
+<L>For styngynge of nedderes dragau<HI REND="italic">n</HI>ce is gode. <MILESTONE N="545"/></L>
+<L>To drynke for a stynged ma<HI REND="italic">n</HI>ne.</L>
+<L>If he wille his querte haue.</L>
+<L>The plaist<HI REND="italic">re</HI> of dragau<HI REND="italic">n</HI>ce is gode I wis.</L>
+<L>To lay on þ<SUP>e</SUP> place þ<HI REND="italic">er</HI> man stonge<HI REND="italic">n</HI>n ys.</L>
+<L>It drawes a way þ<SUP>e</SUP> smertyng in a stour<HI REND="italic">re.</HI> <MILESTONE N="550"/></L>
+<L>And al þ<SUP>e</SUP> wenyme and þ<SUP>e</SUP> dolour<HI REND="italic">re.</HI></L>
+<L>And bothe for emprice &amp; for qweyne.</L>
+<L>And for ladyes þ<SUP>t</SUP> faire walde bene.</L>
+<L>And for other wy<HI REND="italic">m</HI>men alle.</L>
+<L>To wasche<HI REND="italic">n</HI> þam faire &amp; make þem talle. <MILESTONE N="555"/></L>
+<L>Dragaunce is gode to maken þem white.</L>
+<L>w<SUP>t</SUP> wat<HI REND="italic">er</HI> of rose menged w<SUP>t</SUP> oute<HI REND="italic">n</HI> delite.</L>
+<L>Off astrologi . bene maners two.</L>
+<L>The longe and þ<SUP>e</SUP> rounde also.</L>
+<L>Als telles þ<SUP>e</SUP> maist<HI REND="italic">er</HI> in ilke stounde. <MILESTONE N="560"/></L>
+<L>I haue no knawyng of his floures</L>
+<L>For þei ere of diu<HI REND="italic">er</HI>se colours.</L>
+<L>The rounde astrology þ<HI REND="italic">er</HI> it is</L>
+<L>The female it ys callide Iwis.</L>
+<L>þ<HI REND="italic">er</HI> it growes and þ<HI REND="italic">er</HI> it stante. <MILESTONE N="565"/></L>
+<L>þ<SUP>e</SUP> leues bene lyke a wort plante.</L>
+<L>To drawe out wenyme it is keynde.</L>
+<L>In qwat place so he may it fynde.</L>
+<L>Who so haes on hym wounde &amp; haes no reste.</L>
+<L>And be betyn w<SUP>t</SUP> ony venim<HI REND="italic">us</HI> beste. <MILESTONE N="570"/></L>
+<L>Astrology þ<SUP>e</SUP> rounde wil welle &amp; fyne.</L>
+<L>Distroye and waiste al þe wenyme.</L>
+<L>The plaist<HI REND="italic">re</HI> of astrology þ<SUP>e</SUP> rounde.</L>
+<L>The heryng w<SUP>t</SUP> hony co<HI REND="italic">m</HI>fortes þ<SUP>t</SUP> stounde.</L>
+<L><PB N="179" REF="17"/>
+The lyuer and longes þ<SUP>t</SUP> purges clene. <MILESTONE N="575"/></L>
+<L>And stomake and breste alle be dene.</L>
+<L>Whor so dede flesch be in ma<HI REND="italic">n</HI>nes boyke <MILESTONE N="13b" UNIT="f."/></L>
+<L>Pouder of astrology wil rote yt oute.</L>
+<L>Who so wil astrology on hym bere.</L>
+<L>Fro feyndes fondynge it will hym were. <MILESTONE N="580"/></L>
+<L>To tell I am in purpos</L>
+<L>Off Genciana &amp; baldemonye &amp; of is los</L>
+<L>The rote is beter<HI REND="italic">re</HI> þan gres is.</L>
+<L>To all man<HI REND="italic">er</HI>e of medecynes I wys.</L>
+<L>In medewes &amp; wodes wyde <MILESTONE N="585"/></L>
+<L>It wolde be gadered in som<HI REND="italic">er</HI>es tyde.</L>
+<L>And þ<SUP>e</SUP> rote þanne shal dryed be.</L>
+<L>Wel w<SUP>t</SUP> þ<SUP>e</SUP> ayre two ȝer or thre.</L>
+<L>And eu<HI REND="italic">er</HI>e þe harder þ<SUP>t</SUP> it is.</L>
+<L>The better it is for sothe I wys. <MILESTONE N="590"/></L>
+<L>For rewe metes it is gude.</L>
+<L>As telles Ipocras w<SUP>t</SUP> milde mode.</L>
+<L>To fowe þ<SUP>e</SUP> stomake and þ<SUP>e</SUP> splene.</L>
+<L>And alle þ<SUP>e</SUP> brest aboute be dene.</L>
+<L>Who so on hym baldemonye wil bere. <MILESTONE N="595"/></L>
+<L>Bolte nor arwe schal hym non dere.</L>
+<L>Nor non deuell schal hym slone.</L>
+<L>Nor tempest schal hyme greue none.</L>
+<L>Egrimoyne to drynk &amp; i<HI REND="italic">n</HI> plaist<HI REND="italic">re</HI>s he is gode</L>
+<L>Als telles þ<SUP>e</SUP> maister w<SUP>t</SUP> milde mode. <MILESTONE N="600"/></L>
+<L>It remowes postemes dronkyn w<SUP>t</SUP> wyn.</L>
+<L>And wasches þ<SUP>e</SUP> splene &amp; other venyme.</L>
+<L>Lay it vnder ama<HI REND="italic">n</HI>nes hede.</L>
+<L>And he schall slepe as he war dede.</L>
+<L>He schal nother hyme drede nor wake. <MILESTONE N="605"/></L>
+<L>Tille it fro vndir his hede be take.</L>
+<L>Minta iuuat stomacu<HI REND="italic">m</HI> cor salgia ructa celeb<HI REND="italic">rum</HI></L>
+<L>Ambiger exstupat tussim pect<HI REND="italic">us</HI> stomach<HI REND="italic">um</HI></L>
+<L>Mynte is for þ<SUP>e</SUP> stomake gode.</L>
+<L>Als telles þ<SUP>e</SUP> maist<HI REND="italic">re</HI> w<SUP>t</SUP> milde mode. <MILESTONE N="610"/></L>
+<L>Sauge makes þe herte clene.</L>
+<L>þus þis v<HI REND="italic">er</HI>ses mene bothe be dene. <MILESTONE N="14a" UNIT="f."/></L>
+<L>Sauge . to drynke w<SUP>t</SUP> ale or wyne.</L>
+<L>If any venyme be man w<SUP>t</SUP> Inne.</L>
+<L><PB N="180" REF="18"/>
+w<SUP>t</SUP> in thre dayes &amp; thre nyght. <MILESTONE N="615"/></L>
+<L>He schal distroy þ<SUP>e</SUP> venyme oplyght.</L>
+<L>It is ful gode to done in ale.</L>
+<L>To make it of gode reles &amp; stale.</L>
+<L>And sourhede of ale it wil abate.</L>
+<L>Als lange as sauge may kepe his state. <MILESTONE N="620"/></L>
+<L>Ȝit telles maister macrobius.</L>
+<L>A vers of sauge &amp; says þus</L>
+<L>Cur moritur ho<HI REND="italic">mo</HI> du<HI REND="italic">m</HI> salgia crescit in orto.</L>
+<L>For defaute whi dies þe mane.</L>
+<L>þ<SUP>t</SUP> sauge &amp; mynte to helpe hane. <MILESTONE N="625"/></L>
+<L>Lat hyme take sauge of þe ȝerde</L>
+<L>For no wenyme hym thare be ferde.</L>
+<L>To etyn it bothe rype &amp; grene.</L>
+<L>His body shal it make ful clene.</L>
+<L>Who so it etes &amp; drynkes I say. <MILESTONE N="630"/></L>
+<L>Till keynde dede euel come shal he nouȝt dey</L>
+<L>Contra vim mortis no<HI REND="italic">n</HI> est medicame<HI REND="italic">n</HI> i<HI REND="italic">n</HI> ortis.</L>
+<L>Rewe is gode to done in ale.</L>
+<L>To make it both clere &amp; stale.</L>
+<L>The wat<HI REND="italic">er</HI> of rewe is gode for syght. <MILESTONE N="635"/></L>
+<L>This wat<HI REND="italic">er</HI> schal be mayde in a vrinalle.</L>
+<L>And take wat<HI REND="italic">er</HI> of rose w<SUP>t</SUP> alle.</L>
+<L>And other wat<HI REND="italic">er</HI>es many þ<HI REND="italic">er</HI> to.</L>
+<L>Of seladyne &amp; v<HI REND="italic">er</HI>uayne al so.</L>
+<L>Rewe wil distroye venyme. <MILESTONE N="640"/></L>
+<L>W<SUP>t</SUP> oute<HI REND="italic">n</HI> ma<HI REND="italic">n</HI>nes body &amp; w<SUP>t</SUP> Inne.</L>
+<L>And als a pike it makith hyme clene.</L>
+<L>W<SUP>t</SUP> Inne and oute alle be dene.</L>
+<L>A tode þ<SUP>t</SUP> is a venem<HI REND="italic">us</HI> thynge.</L>
+<L>He dryues a way thorow is waxynge. <MILESTONE N="645"/></L>
+<L>Ȝet is rewe a sou<HI REND="italic">er</HI>ayne bote. <MILESTONE N="14b" UNIT="f."/></L>
+<L>To sette a boute a sauge rote.</L>
+<L>It shal do it waxe wele &amp; fyne</L>
+<L>And kepe it fro alle man<HI REND="italic">er</HI>e of venyme.</L>
+<L>Ȝit tellith þe maist<HI REND="italic">er</HI> in his rymynge. <MILESTONE N="650"/></L>
+<L>That rewe is a ful denteyth thynge.</L>
+<L>Mangetz rew beueitz rew &amp; vos gan<HI REND="italic">er</HI> a la vewe.</L>
+<L>Mettz rew a la vewe &amp; vos touder a le vew.</L>
+<L>This is to say on englysshe</L>
+<L><PB N="181" REF="19"/>
+That here is wretyne on frenshe. <MILESTONE N="655"/></L>
+<L>Ete rewe &amp; drynke rew day &amp; nyght.</L>
+<L>And it wille make þ<SUP>e</SUP> ful gode syght.</L>
+<L>And do lay rewe vnto thi sight.</L>
+<L>And it shal a peire sone in plyght.</L>
+<L>Who so shal wyrke w<SUP>t</SUP> gres to sene. <MILESTONE N="660"/></L>
+<L>War &amp; wyse he moste bene.</L>
+<L>But he hym knawe in gres welle.</L>
+<L>He schal for lese his werk ilke dele.</L>
+<L>Fenkill. says maist<HI REND="italic">er</HI> macrobius.</L>
+<L>Is a gres ful precious. <MILESTONE N="665"/></L>
+<L>Gode is the gres so is the rote.</L>
+<L>To dyu<HI REND="italic">er</HI>se medecynes he may do bote.</L>
+<L>The seide is gode fastande to ete.</L>
+<L>And also in drage aft<HI REND="italic">er</HI> mete.</L>
+<L>For wicked humo<HI REND="italic">u</HI>rs and bolnynge. <MILESTONE N="670"/></L>
+<L>For wynd &amp; many a nother thynge.</L>
+<L>Als telles the maister milde of mode.</L>
+<L>The wat<HI REND="italic">er</HI> of þ<SUP>e</SUP> fenkell is ful gode.</L>
+<L>For to clarefye ma<HI REND="italic">n</HI>nys syght.</L>
+<L>If it be stilled and made oryght <MILESTONE N="675"/></L>
+<L>And do þ<HI REND="italic">er</HI> to wat<HI REND="italic">er</HI> of roset.</L>
+<L>For ma<HI REND="italic">n</HI>nys syght þe wat<HI REND="italic">er</HI> is bote.</L>
+<L>Shire wat<HI REND="italic">er</HI> is gode al so</L>
+<L>Off rewe &amp; of v<HI REND="italic">er</HI>uayne to take þ<HI REND="italic">er</HI> to.</L>
+<L>Whan þei ere al to geder done. <MILESTONE N="680"/></L>
+<L>þai helpe ma<HI REND="italic">n</HI>nys sight redy &amp; sone. <MILESTONE N="15a" UNIT="f."/></L>
+<L>And celydyne ȝit may men take.</L>
+<L>For he is nought for to for sake.</L>
+<L>Fenkyll in potage and in mete.</L>
+<L>It <HI REND="italic">(sic)</HI> ful gode þ<HI REND="italic">er</HI> in to ete. <MILESTONE N="685"/></L>
+<L>like grene it be corfyn small.</L>
+<L>In what mete so men ete it schall</L>
+<L>In what drynke so men shall it drynke</L>
+<L>It is gode for þe pose &amp; þe host kynke</L>
+<L>It is best for ma<HI REND="italic">n</HI>nes syght. <MILESTONE N="690"/></L>
+<L>Namlyke if it be vsed aryght.</L>
+<L>Uiolet . I tell in my langage.</L>
+<L>Is gode to do in potage</L>
+<L>To make iowtes in som<HI REND="italic">er</HI>es tyde.</L>
+<L><PB N="182" REF="20"/>
+When þe leues ere brode or wyde. <MILESTONE N="695"/></L>
+<L>In plaisters &amp; woundes is co<HI REND="italic">m</HI>fortatife.</L>
+<L>W<SUP>t</SUP> other gres full sanatife.</L>
+<L>And of is flours is co<HI REND="italic">m</HI>fortabille.</L>
+<L>W<SUP>t</SUP> ole roset ful medicinabille.</L>
+<L>The oyle of is fair flours. <MILESTONE N="700"/></L>
+<L>Distroyes in man alle wyked humo<HI REND="italic">u</HI>rs.</L>
+<L>Wher fore I preise it for prise.</L>
+<L>For in boke comaunded it is.</L>
+<L>The scharpe burre . who so will take.</L>
+<L>þ<HI REND="italic">er</HI> w<SUP>t</SUP> maist<HI REND="italic">er</HI>yes he make. <MILESTONE N="705"/></L>
+<L>Holde &amp; ȝonge may knawe it wele</L>
+<L>For he waxes hy in som<HI REND="italic">er</HI>es dele</L>
+<L>Thair w<SUP>t</SUP> men may wel witen &amp; sene.</L>
+<L>If wo<HI REND="italic">m</HI>men clene maydenes bene.</L>
+<L>lat take þat burr and caste in fyer. <MILESTONE N="710"/></L>
+<L>Whenne it bre<HI REND="italic">n</HI>nes clere and schire.</L>
+<L>And alle wy<HI REND="italic">m</HI>men þ<SUP>t</SUP> sett þ<HI REND="italic">er</HI> by.</L>
+<L>Als telles þ<SUP>e</SUP> boke certanly.</L>
+<L>That holdes þem maydons &amp; are none.</L>
+<L>Schal late þair vreyne fro þem gone. <MILESTONE N="715"/></L>
+<L>And þo þ<SUP>t</SUP> bene maydenes clene. <MILESTONE N="15b" UNIT="f."/></L>
+<L>Schal nothyng wetyn of þ<SUP>t</SUP> tene.</L>
+<L>Isope is gode to do in ale.</L>
+<L>W<SUP>t</SUP> sauge and rewe to make it stale.</L>
+<L>It is gode for to vse for þ<SUP>e</SUP> brest. <MILESTONE N="720"/></L>
+<L>For glet and humo<HI REND="italic">u</HI>rs þ<SUP>t</SUP> bene þ<HI REND="italic">er</HI> neste.</L>
+<L>Sic vt cocta simul sit mel ficus q<HI REND="italic">u</HI>oq<HI REND="italic">u</HI>e sicca</L>
+<L>Prodes no<HI REND="italic">n</HI> modicu<HI REND="italic">m</HI> tussim pacie<HI REND="italic">n</HI>tibus hausta.</L>
+<L>Subue<HI REND="italic">n</HI>it &amp; voci rauce v<HI REND="italic">er</HI>sata palato.</L>
+<L>Et p<HI REND="italic">ro</HI>dest cu<HI REND="italic">n</HI>ctis pulmonu<HI REND="italic">m</HI> su<HI REND="italic">m</HI>pta querelis. <MILESTONE N="725"/></L>
+<L>Off Columbyne . I wele ȝow telle</L>
+<L>His flour is blew like to a belle.</L>
+<L>þis colu<HI REND="italic">m</HI>byne beres a blake sede.</L>
+<L>For þ<SUP>e</SUP> quenacy to drynke it is gode at nede.</L>
+<L>Fumiter is a gres I say. <MILESTONE N="730"/></L>
+<L>That sprynges in þ<SUP>e</SUP> mounthe of may.</L>
+<L>In felde &amp; tou<HI REND="italic">n</HI> ȝerd &amp; gate.</L>
+<L>Ther land is fatte &amp; in gode state.</L>
+<L>Of dunhed rede he beres a floure.</L>
+<L><PB N="183" REF="21"/>
+Fair to syght is hys coloure. <MILESTONE N="735"/></L>
+<L>Men drynke it oft in som<HI REND="italic">er</HI>e and may.</L>
+<L>For þ<SUP>e</SUP> feu<HI REND="italic">er</HI>es þ<SUP>t</SUP> comes ilke day.</L>
+<L>And als for þ<SUP>e</SUP> feu<HI REND="italic">er</HI>e terciane.</L>
+<L>And also for þ<SUP>e</SUP> feu<HI REND="italic">er</HI>e quartane.</L>
+<L>It dryues away all pureto<HI REND="italic">u</HI>rs <MILESTONE N="740"/></L>
+<L>And distroies veneme &amp; wycked humo<HI REND="italic">u</HI>rs.</L>
+<L>She þ<SUP>t</SUP> drynkes fumit<HI REND="italic">er</HI> &amp; þe stoncrope.</L>
+<L>Schal neu<HI REND="italic">er</HI>e ȝong childe in cradell roke.</L>
+<L>Fumit<HI REND="italic">er</HI> is gode sayes docto<HI REND="italic">u</HI>rs</L>
+<L>For saucefleme and wycked humo<HI REND="italic">u</HI>rs. <MILESTONE N="745"/></L>
+<L>If it be drunkyn &amp; menged aryght.</L>
+<L>w<SUP>t</SUP> þ<SUP>e</SUP> forthe p<HI REND="italic">ar</HI>te succ<HI REND="italic">er</HI> or ony iij in þ<SUP>e</SUP> seuenyght.</L>
+<L>Ewfrays is of bitt<HI REND="italic">er</HI> sauour.</L>
+<L>A lytill smalle gresse whit is his floure.</L>
+<L>In metes &amp; drynkes yf it be done. <MILESTONE N="750"/></L>
+<L>Medcynabell he is both morwen &amp; none. <MILESTONE N="16a" UNIT="f."/></L>
+<L>He cast to þ<SUP>e</SUP> eye wel þe syght.</L>
+<L>Thys medcyne is p<HI REND="italic">ro</HI>ued well a plyght.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For the hede werke.</HEAD>
+<L>Iff a man or wo<HI REND="italic">m</HI>man more or lesse</L>
+<L>In his hede haue grett seiknesse. <MILESTONE N="755"/></L>
+<L>Or eny greuaunce or eny werkynge.</L>
+<L>Au<HI REND="italic">er</HI>oyne he take w<SUP>t</SUP> outen lettynge.</L>
+<L>That is called sothernewode also</L>
+<L>And hony &amp; aysell temp<HI REND="italic">er</HI>e þ<HI REND="italic">er</HI> to.</L>
+<L>And þis drynke fastande lat hym drynke. <MILESTONE N="760"/></L>
+<L>And is hedwarke a way schal synke</L>
+<L>Take aysell and pelyal ryall.</L>
+<L>And camamylle do seth w<SUP>t</SUP> alle.</L>
+<L>And w<SUP>t</SUP> þ<SUP>e</SUP> lous a noynte þ<SUP>e</SUP> nostrell welle.</L>
+<L>And make a plaist<HI REND="italic">r</HI>e of þ<SUP>t</SUP> other dele. <MILESTONE N="765"/></L>
+<L>And do it in a gode gret clothe.</L>
+<L>And wynde þ<SUP>t</SUP> hed þ<HI REND="italic">er</HI> w<SUP>t</SUP> aboute.</L>
+<L>Also it is gode for þe hede ake.</L>
+<L>Ten kyrneel of pep<HI REND="italic">er</HI> for to take.</L>
+<L>And grynd it w<SUP>t</SUP> aysell amange. <MILESTONE N="770"/></L>
+<L>And drynke it or bynde to þ<SUP>e</SUP> thonewange.</L>
+<L>Late take vnces of betayne.</L>
+<L><PB N="184" REF="22"/>
+And of harhone also mane.</L>
+<L>And vij vnces of pelyall riall.</L>
+<L>And bray þem all to gedere small. <MILESTONE N="775"/></L>
+<L>And lete it stande two dayes or thre.</L>
+<L>Tille it full whit houe þ<HI REND="italic">er</HI> on to be.</L>
+<L>And alle þes gresse lat take þa<HI REND="italic">n</HI>ne.</L>
+<L>And fry w<SUP>t</SUP> oyle de olyue in a pa<HI REND="italic">n</HI>ne.</L>
+<L>A quart<HI REND="italic">r</HI>ione of vi<HI REND="italic">r</HI>gine waxe þ<SUP>u</SUP> take. <MILESTONE N="780"/></L>
+<L>And f<HI REND="italic">r</HI>aunce ensens þ<HI REND="italic">er</HI> w<SUP>t</SUP> nessch to make.</L>
+<L>And þes gres alle do þ<HI REND="italic">er</HI> to.</L>
+<L>And alle to geder lete wele play so.</L>
+<L>And if it be daunger<HI REND="italic">us</HI> and lothe.</L>
+<L>Late clense it wel thorow a cloth. <MILESTONE N="16b" UNIT="f."/> <MILESTONE N="785"/></L>
+<L>And when it is wrongen wel &amp; clene.</L>
+<L>Rub wele þ<SUP>e</SUP> hede þ<HI REND="italic">er</HI> w<SUP>t</SUP> be dene.</L>
+<L>And alle þe hede warke &amp; þ<SUP>e</SUP> ake</L>
+<L>In lytill throwe a way schal slake.</L>
+<L>And also take wat<HI REND="italic">er</HI> schire. <MILESTONE N="790"/></L>
+<L>And late it welle well ou<HI REND="italic">er</HI>e þ<SUP>e</SUP> fire.</L>
+<L>And take a dysshfull of whete branne</L>
+<L>And als it boyles lat caste þ<HI REND="italic">er</HI> Inne</L>
+<L>Take an handful of rose floures.</L>
+<L>And cast þ<HI REND="italic">er</HI> in off rede coloures. <MILESTONE N="795"/></L>
+<L>And menge al to geder saunz de lay</L>
+<L>Als wel as eu<HI REND="italic">er</HI>e þ<SUP>u</SUP> may.</L>
+<L>And in a poke lat yt be do.</L>
+<L>That þ<SUP>e</SUP> water may ry<HI REND="italic">n</HI>ne þ<HI REND="italic">er</HI> fro</L>
+<L>lay on þe hede þ<SUP>t</SUP> has gret werke. <MILESTONE N="800"/></L>
+<L>And hete agayne when it is starke.</L>
+<L>w<SUP>t</SUP> in two nyghtes and a day.</L>
+<L>The hedwarke schal wanische away.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For sore eyen. A gode medsyn.</HEAD>
+<L>Take rose and rewe and redd fenkele.</L>
+<L>And celadyne do grynd þem welle. <MILESTONE N="805"/></L>
+<L>In som<HI REND="italic">er</HI>e þ<SUP>u</SUP> schal þes gres take.</L>
+<L>And stilled wat<HI REND="italic">er</HI> of þem do make.</L>
+<L>þis thyng is p<HI REND="italic">ro</HI>ued for þ<SUP>e</SUP> syght.</L>
+<L>To clere þ<SUP>e</SUP> eyen &amp; make þem bryght.</L>
+<L>To gretande eyen and to watery. <MILESTONE N="810"/></L>
+<L><PB N="185" REF="23"/>
+Take rewe and aysell &amp; meng w<SUP>t</SUP> hony.</L>
+<L>And stamp al to geder be dene.</L>
+<L>And wrynge it out þorw a cloth clene.</L>
+<L>And þ<SUP>is</SUP> drynke schal sone a none.</L>
+<L>Slake þ<SUP>e</SUP> wat<HI REND="italic">er</HI> tere ilkone. <MILESTONE N="815"/></L>
+<L>Lat geder a hepe of redd snayles.</L>
+<L>þ<SUP>t</SUP> crepe aboute in rayn &amp; hayles.</L>
+<L>And seith þem in welle wat<HI REND="italic">er</HI> wele.</L>
+<L>And gader of þe gres ilke dele. <MILESTONE N="17a" UNIT="f."/></L>
+<L>And grese þin eyen wel w<SUP>t</SUP> alle. <MILESTONE N="820"/></L>
+<L>And sone þ<SUP>i</SUP> syght amende it schal.</L>
+<L>A medcyne ȝit for eyen bote.</L>
+<L>Take þ<SUP>e</SUP> Ious of fenkyll rote.</L>
+<L>And droppe it in þ<SUP>i</SUP> eyen ewen &amp; morwe.</L>
+<L>The payne schal slake &amp; þ<SUP>e</SUP> sorwe. <MILESTONE N="825"/></L>
+<L>Ious of betayne w<SUP>t</SUP> hony is gode.</L>
+<L>To dryue fro the eyen all ille blode.</L>
+<L>This ys thynge þ<SUP>t</SUP> p<HI REND="italic">ro</HI>ued is.</L>
+<L>It cleres þ<SUP>i</SUP> eyen well Iwys.</L>
+<L>For defe hede &amp; dul herynge. <MILESTONE N="830"/></L>
+<L>I fynde wretyn dyu<HI REND="italic">er</HI>se thynge.</L>
+<L>To the ere þ<SUP>t</SUP> ill may here.</L>
+<L>This is a medcyne gode &amp; clere.</L>
+<L>Take a porcion aff bores vreyne.</L>
+<L>And meng w<SUP>t</SUP> hony clere &amp; fyne. <MILESTONE N="835"/></L>
+<L>And in þe ere lat be caste.</L>
+<L>The heryng shal amende in haste.</L>
+<L>If in þ<SUP>i</SUP> ere be any foul thyng.</L>
+<L>Or filthe þ<SUP>t</SUP> lettes þ<SUP>i</SUP> heryng.</L>
+<L>Childes vreyne þ<SUP>i</SUP> ere schal fawe. <MILESTONE N="840"/></L>
+<L>And helpe þ<SUP>i</SUP> herynge in a thrawe.</L>
+<L>Also þ<SUP>u</SUP> take in someres seson.</L>
+<L>A gres is called pedelyon.</L>
+<L>Take þe Ious and an hard ay.</L>
+<L>And do þ<SUP>e</SUP> schelle clene away. <MILESTONE N="845"/></L>
+<L>Whe<HI REND="italic">n</HI>ne þei ere wrongen &amp; in þ<SUP>e</SUP> ere done.</L>
+<L>þ<SUP>e</SUP> heryng schal amende sone</L>
+<L>The Ious off betayne ȝit is beste.</L>
+<L>To stampe it welle &amp; lat it reste.</L>
+<L>And when it is clere &amp; thyne. <MILESTONE N="850"/></L>
+<L><PB N="186" REF="24"/>
+w<SUP>t</SUP> oyle let do the ere w<SUP>t</SUP> Inne.</L>
+<L>And thorew þe helpe of heuen kynge.</L>
+<L>It shal sone helpe þ<SUP>i</SUP> herynge.</L>
+<L>A man þ<SUP>t</SUP> feles in his ere <MILESTONE N="17b" UNIT="f."/></L>
+<L>Als hornes blew or thunder wer. <MILESTONE N="855"/></L>
+<L>Lat hym bre<HI REND="italic">n</HI>ne a braunche of esche.</L>
+<L>And take þ<SUP>e</SUP> wat<HI REND="italic">er</HI> þ<SUP>t</SUP> rennes oute nesche.</L>
+<L>And Ious of Iubarbe take also.</L>
+<L>And also mekell as of þes two.</L>
+<L>And a porcion of greys of an ele. <MILESTONE N="860"/></L>
+<L>And meng þem al to geder wele.</L>
+<L>And lat it in hys ere be done.</L>
+<L>His heryng shal amende ful sone.</L>
+<L>Take a nonyon gode &amp; harde.</L>
+<L>And make a hole in þ<SUP>e</SUP> mydwarde. <MILESTONE N="865"/></L>
+<L>And pour in hony clere &amp; schire.</L>
+<L>And roste it to geder wele i<HI REND="italic">n</HI> þ<SUP>e</SUP> fire.</L>
+<L>And when it is rosted wel þorw oute.</L>
+<L>Lat it be wrongen thorow a cloute.</L>
+<L>And poure it in thi ere at euen. <MILESTONE N="870"/></L>
+<L>And þ<SUP>t</SUP> ille schal nothyn greuen.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For wormes in manes ere.</HEAD>
+<L>Iff any worme be waxen grylle.</L>
+<L>In mannes ere &amp; greue hym ille.</L>
+<L>The ious of wodebynde i<HI REND="italic">n</HI> ilke sesso<HI REND="italic">n</HI>ne.</L>
+<L>Schal hote in his ere be done. <MILESTONE N="875"/></L>
+<L>And al þ<SUP>e</SUP> wormes for soithe anone.</L>
+<L>The boyke says it schal þem slone.</L>
+<L>alle þe payne and þ<SUP>e</SUP> damage.</L>
+<L>þis hote Ious schal do aswage</L>
+<L>And also ment aft<HI REND="italic">er</HI> grynd it small <MILESTONE N="880"/></L>
+<L>And hot red wyen þ<SUP>u</SUP> do w<SUP>t</SUP> alle</L>
+<L>And pour in þ<SUP>i</SUP> ere bothe be dene.</L>
+<L>It slos þ<SUP>e</SUP> worme þ<SUP>i</SUP> ere makes clene.</L>
+<L>Su<HI REND="italic">m</HI>tyme defhed will be tyde.</L>
+<L>If a man haue eres wyde. <MILESTONE N="885"/></L>
+<L>Puret<HI REND="italic">er</HI> wil þ<HI REND="italic">er</HI> in waxe thyke.</L>
+<L>And make þ<SUP>e</SUP> heryng defe &amp; wyke.</L>
+<L>And þa<HI REND="italic">n</HI>e is gode sone anone. <MILESTONE N="18a" UNIT="f."/></L>
+<L><PB N="187" REF="25"/>
+W<SUP>t</SUP> a respone do it oute agone.</L>
+<L>And also def hede falles some stounde. <MILESTONE N="890"/></L>
+<L>Boith of betyng And of wounde.</L>
+<L>And of postemes And of blode.</L>
+<L>þis knowes wel leches þ<SUP>t</SUP> bene gode.</L>
+<L>þ<HI REND="italic">er</HI>fore medecynes ere gode and clene.</L>
+<L>Be fore I haue tolde ȝow alle be dene.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For laynge of speche in seknes.</HEAD>
+<L>If a man for seknes haue layde speche.</L>
+<L>Gode medecynes I wil hyme teche.</L>
+<L>Take violet and pelyal ryall.</L>
+<L>And grynd þaem to gedere small.</L>
+<L>And lat hym drynke þ<SUP>e</SUP> Ious ful thy<HI REND="italic">n</HI>ne <MILESTONE N="900"/></L>
+<L>And pour þ<HI REND="italic">er</HI> of in his eres w<SUP>t</SUP> Inne.</L>
+<L>And als þe maist<HI REND="italic">er</HI> recordes &amp; sayne.</L>
+<L>He schal take his speche agayne.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For wounde in ma<HI REND="italic">n</HI>nes hede.</HEAD>
+<L>If a man be woundyt ille</L>
+<L>In is hede and dos hym grill. <MILESTONE N="905"/></L>
+<L>Betayne and v<HI REND="italic">er</HI>uayne . þ<HI REND="italic">er</HI> to he take.</L>
+<L>W<SUP>t</SUP> swynes grese a plaist<HI REND="italic">re</HI> make.</L>
+<L>And byndyt to þ<SUP>e</SUP> wounde faste.</L>
+<L>It schal be hole sone in haste.</L>
+<L>For þ<SUP>e</SUP> fallande goute is wretyn þ<SUP>is</SUP> boute. <MILESTONE N="910"/></L>
+<L>Of louache þ<SUP>u</SUP> schal take þe rote.</L>
+<L>Wasch it and writ þ<HI REND="italic">er</HI> on þus.</L>
+<L>Ihc † cristus † domin<HI REND="italic">us.</HI></L>
+<L>But the writ<HI REND="italic">er</HI>e moste in clene lyf be.</L>
+<L>And say pat<HI REND="italic">er</HI> n<HI REND="italic">oste</HI>r and aues thre. <MILESTONE N="915"/></L>
+<L>And sithen bynde it in a speke.</L>
+<L>And hong aboute þ<SUP>e</SUP> seke ma<HI REND="italic">n</HI>nes neke.</L>
+<L>And aft<HI REND="italic">er</HI> þ<SUP>t</SUP> it be hanged þore.</L>
+<L>The sekenesse he schal haue no more.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For þ<SUP>e</SUP> goute a gode medecyne.</HEAD>
+<L>Tak þ<SUP>e</SUP> Ious of Iubarbe ful an ay. <MILESTONE N="920"/> <MILESTONE N="18b" UNIT="f."/></L>
+<L>And also mekil ayssel thenne as way</L>
+<L>loke þ<SUP>t</SUP> þ<SUP>e</SUP> aysell be scharpe &amp; soure</L>
+<L>And meng it w<SUP>t</SUP> a porcion of barly flour.</L>
+<L><PB N="188" REF="26"/>
+On a flaxen cloute sprede it clene.</L>
+<L>And bynde it þ<HI REND="italic">er</HI> þ<SUP>e</SUP> goute is most sene. <MILESTONE N="925"/></L>
+</LG>
+<LG TYPE="part">
+<HEAD>For þe goute þ<SUP>t</SUP> is festered,</HEAD>
+<L>Take oyle Iubarbe &amp; arlement.</L>
+<L>That al to geder be te<HI REND="italic">m</HI>p<HI REND="italic">er</HI>ed &amp; blent.</L>
+<L>This plaist<HI REND="italic">er</HI> layde on a flaxon cloute.</L>
+<L>Bynd þ<SUP>e</SUP> sore fester well a boute.</L>
+<L>If þ<HI REND="italic">er</HI> be in hole or wounde. <MILESTONE N="930"/></L>
+<L>Pour þ<HI REND="italic">er</HI> in þe Ious or it be bounde.</L>
+<L>Als gode leches all sayne.</L>
+<L>Men schal þ<HI REND="italic">er</HI> to nouȝt ellys layne.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For bolnyng of armes.</HEAD>
+<L>Iff ma<HI REND="italic">n</HI>nes armes be bolnede grete.</L>
+<L>Take shepyn talwe and floure of qwete. <MILESTONE N="935"/></L>
+<L>And Ius of ache þ<SUP>u</SUP> do þ<HI REND="italic">er</HI> to.</L>
+<L>And seith them wele to geder so.</L>
+<L>Hote als it comes out of þe pa<HI REND="italic">n</HI>ne.</L>
+<L>Late make a plaister þ<HI REND="italic">er</HI> of þanne.</L>
+<L>And bynd it on þ<SUP>e</SUP> armes faste. <MILESTONE N="940"/></L>
+<L>And þe bolnynge schal swage in haste.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For bolnyng þ<SUP>t</SUP> comyth of wenym.</HEAD>
+<L>In cas rankelynge be falle of venyme.</L>
+<L>Als erane or pode or oþ<HI REND="italic">er</HI> serpyne.</L>
+<L>Tak barly flour and aysell or wyne.</L>
+<L>And hony menged w<SUP>t</SUP> sede of lyne. <MILESTONE N="945"/></L>
+<L>And well þem to geder eu<HI REND="italic">er</HI>ylkone.</L>
+<L>Than wil þ<SUP>is</SUP> plaist<HI REND="italic">er</HI> all ranclyng slone.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>ffor bolnyng of pappes.</HEAD>
+<L>Whoso of pappes haue gret bolnyng.</L>
+<L>Make þis plaist<HI REND="italic">er</HI>e for eny thynge</L>
+<L>Take doues donge &amp; hony wel grounde. <MILESTONE N="950"/></L>
+<L>And temp<HI REND="italic">er</HI>e þ<HI REND="italic">er</HI> w<SUP>t</SUP> wax v<HI REND="italic">ir</HI>gine þ<SUP>t</SUP> stounde. <MILESTONE N="19a" UNIT="f."/></L>
+<L>Lat lay þis plaist<HI REND="italic">er</HI>e þ<HI REND="italic">er</HI> apone.</L>
+<L>The bolnyng schal a way gone.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For to swage bolnyng.</HEAD>
+<L>A rancle wel for to swage.</L>
+<L>On man of ȝougtht or of gret age. <MILESTONE N="955"/></L>
+<L><PB N="189" REF="27"/>
+Tak frankensence &amp; whete mele.</L>
+<L>And Ious of walworte &amp; of morele.</L>
+<L>And Ious of ache schal þ<HI REND="italic">er</HI> to gone.</L>
+<L>Herbe benet &amp; hemeloke bothe is one.</L>
+<L>And bray þem wele in swynes gress. <MILESTONE N="960"/></L>
+<L>And make a plaist<HI REND="italic">er</HI> of gode relases.</L>
+<L>þis plaist<HI REND="italic">er</HI> þ<SUP>u</SUP> lay to rankyll a none</L>
+<L>And alle þe rankylle schal ou<HI REND="italic">er</HI> gone.</L>
+<L>And if it drye þ<SUP>is</SUP> maist<HI REND="italic">er</HI> sayne.</L>
+<L>It may be chaufede and layde agayne <MILESTONE N="965"/></L>
+<L>Take a blew cloute þ<SUP>t</SUP> is fyne.</L>
+<L>And boyle it well w<SUP>t</SUP> salt in wyne.</L>
+<L>And lay it be þe renkille alday.</L>
+<L>And þe rankelynge schal swage away.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For bolnyng of knees.</HEAD>
+<L>Iff þ<SUP>i</SUP> knees be bolnede grete. <MILESTONE N="970"/></L>
+<L>þ<SUP>u</SUP> take þ<SUP>e</SUP> fai<HI REND="italic">re</HI> flour of whete.</L>
+<L>And boile it in wat<HI REND="italic">er</HI> till yt drye be.</L>
+<L>And in a cloute lay till þ<SUP>i</SUP> kne.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For bolnynge of schankes.</HEAD>
+<L>Take walworte rotes stif &amp; starke.</L>
+<L>Sethe well in wat<HI REND="italic">er</HI> pyle of þ<SUP>e</SUP> barke. <MILESTONE N="975"/></L>
+<L>And in a mort<HI REND="italic">er</HI> grynde þem smale.</L>
+<L>And sta<HI REND="italic">m</HI>pe shepes talwe þ<HI REND="italic">er</HI> w<SUP>t</SUP> alle.</L>
+<L>And lay it hote in a cloute.</L>
+<L>And bynd þ<SUP>e</SUP> bolnynge þ<HI REND="italic">er</HI> w<SUP>t</SUP> aboute.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For bolnyng of the feet.</HEAD>
+<L>Plantayne &amp; pulyall shal wel be grou<HI REND="italic">n</HI>de <MILESTONE N="980"/></L>
+<L>w<SUP>t</SUP> myes of whit brede &amp; ache a stounde.</L>
+<L>And menge w<SUP>t</SUP> aysell &amp; swynes grese <MILESTONE N="19b" UNIT="f."/></L>
+<L>Bene to bolnynge fete ful gode relese.</L>
+<L>For bolnyng of genitales of a man.</L>
+<L>a fair medecyn tell I can. <MILESTONE N="985"/></L>
+<L>Bothe for olde &amp; for ȝonge.</L>
+<L>And ale man<HI REND="italic">er</HI>e of bry<HI REND="italic">n</HI>nynge</L>
+<L>Leues of lorer and rewe þ<SUP>u</SUP> take.</L>
+<L>And small þ<SUP>u</SUP> do þem bryse &amp; make.</L>
+<L><PB N="190" REF="28"/>
+Take there handfull of þe tone. <MILESTONE N="990"/></L>
+<L>And of þ<SUP>e</SUP> tother als mekill a none.</L>
+<L>And make a plaist<HI REND="italic">er</HI> þ<HI REND="italic">er</HI> of ful clene.</L>
+<L>About þ<SUP>e</SUP> genytales þ<SUP>u</SUP> bynde be dene.</L>
+<L>And if þis will þ<SUP>e</SUP> helpe nought.</L>
+<L>Anoþ<HI REND="italic">er</HI> medecyne schal be wrought. <MILESTONE N="995"/></L>
+<L>Tak leues of rede docke.</L>
+<L>The tendero<HI REND="italic">n</HI>nes in myddes a way þ<SUP>u</SUP> knocke.</L>
+<L>Seth þem in wyne hole in panne.</L>
+<L>And lay þem aboute þ<SUP>e</SUP> ballokes þa<HI REND="italic">n</HI>ne.</L>
+<L>Also take garlyk &amp; comyne. <MILESTONE N="1000"/></L>
+<L>w<SUP>t</SUP> ache and be<HI REND="italic">n</HI>nes sothene in wyne.</L>
+<L>And bynd a boute þ<SUP>e</SUP> ballokes faste.</L>
+<L>And þe bolnyng shal swage in haste.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For bolnyng of þe virge.</HEAD>
+<L>The maist<HI REND="italic">er</HI> telles if þ<SUP>e</SUP> virge be brent.</L>
+<L>Als man of wo<HI REND="italic">m</HI>man may so be schent. <MILESTONE N="1005"/></L>
+<L>Thorw þ<SUP>t</SUP> woman may be his bote.</L>
+<L>Of wham his sekenes be gan þe rote.</L>
+<L>The beste medecyne þ<SUP>t</SUP> I can telle.</L>
+<L>Hyme be houes to wat<HI REND="italic">er</HI> yn at hir well.</L>
+<L>And if he may nought þ<SUP>t</SUP> wo<HI REND="italic">m</HI>man take. <MILESTONE N="1010"/></L>
+<L>Another medecyn moste hym make.</L>
+<L>Tak þan þe sede of lyne.</L>
+<L>And boile it in milke and wyne.</L>
+<L>Do yt hot in a letheryne hodkyne.</L>
+<L>And lat is v<HI REND="italic">ir</HI>ge hange so þ<HI REND="italic">er</HI> Inne. <MILESTONE N="1015"/></L>
+<L>When it is colde het it agayne. <MILESTONE N="20a" UNIT="f."/></L>
+<L>Bothe morwen and ewyn þ<HI REND="italic">er</HI> to it layne.</L>
+<L>Ȝet þ<HI REND="italic">er</HI> is a gode medecyne.</L>
+<L>For bre<HI REND="italic">n</HI>nynge of þ<SUP>e</SUP> v<HI REND="italic">ir</HI>ge and for þ<SUP>e</SUP> pyne.</L>
+<L>Tak sauge and malwes &amp; seth in bryne. <MILESTONE N="1020"/></L>
+<L>And þen tak comyn &amp; cast þ<HI REND="italic">er</HI> Inne.</L>
+<L>And mele of benes þ<SUP>u</SUP> take also.</L>
+<L>A lytill whit of eyre<HI REND="italic">n</HI> lat do þ<HI REND="italic">er</HI> to.</L>
+<L>And Ious of ache &amp; grese of swyne.</L>
+<L>w<SUP>t</SUP> hony melled to geder þ<HI REND="italic">er</HI> Inne. <MILESTONE N="1025"/></L>
+<L>And when þis plaist<HI REND="italic">er</HI>e is made a fyne.</L>
+<L>Wel warme bynd it to þ<SUP>e</SUP> v<HI REND="italic">ir</HI>ge w<SUP>t</SUP> lyne.</L>
+</LG>
+<LG TYPE="part">
+<PB N="191" REF="29"/>
+<HEAD>For þe hote and þ<SUP>e</SUP> colde dropcy.</HEAD>
+<L>Take a handfull of ȝonge elleryne spritils</L>
+<L>Scrape of þe ou<HI REND="italic">er</HI>est w<SUP>t</SUP> a twytele.</L>
+<L>And boile it þanne wel and fyne. <MILESTONE N="1030"/></L>
+<L>In a galon of ale or in red wyne.</L>
+<L>And w<SUP>t</SUP> centory lat it sethe wele.</L>
+<L>Tylle it be sothen to þ<SUP>e</SUP> half dele.</L>
+<L>Gyf hym to drynke ewen &amp; morwe.</L>
+<L>And it shal sone slak his sorwe. <MILESTONE N="1035"/></L>
+<L>Here I haue told ȝow as I canne.</L>
+<L>For þe dropcy to man or wo<HI REND="italic">m</HI>man.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For bledyng atte þe nose.</HEAD>
+<L>A man þ<SUP>t</SUP> wille helpe a noþ<HI REND="italic">er</HI> at nede.</L>
+<L>And sees hym at his nose blede.</L>
+<L>Tak p<HI REND="italic">er</HI>uynke a gres ful couth.</L>
+<L>Be twyx his teith halde in is mouth.</L>
+<L>In alle þe tyme þat it be thore.</L>
+<L>For sothe he schal blede no more.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For to knowe the festers.</HEAD>
+<L>Als leches in bokes fynde &amp; sene.</L>
+<L>Two man<HI REND="italic">er</HI>e of fest<HI REND="italic">er</HI>es for soth þ<HI REND="italic">er</HI> bene. <MILESTONE N="1045"/></L>
+<L>The tone is colde and gnawande.</L>
+<L>The toþ<HI REND="italic">er</HI> is hote and ay byrnande.</L>
+<L>þ<SUP>e</SUP> colde has a strayt hole &amp; ful noyous. <MILESTONE N="20b" UNIT="f."/></L>
+<L>The hote a wyde hole &amp; more p<HI REND="italic">er</HI>ilous.</L>
+<L>Diu<HI REND="italic">er</HI>se medecynes for þe<HI REND="italic">m</HI> I finde. <MILESTONE N="1050"/></L>
+<L>For þei ere nought bothe of o kynde.</L>
+<L>The colde fester schal be heled w<SUP>t</SUP> hete</L>
+<L>And colde schal þe hote bete.</L>
+<L>And comu<HI REND="italic">n</HI>ly so schal befalle.</L>
+<L>Of medecynes in leche craft alle. <MILESTONE N="1055"/></L>
+</LG>
+<LG TYPE="part">
+<HEAD>ffor þ<SUP>e</SUP> brennande fester.</HEAD>
+<L>Off hony &amp; ryeflour bake a kake.</L>
+<L>So hard als men it may make.</L>
+<L>Lay on þ<SUP>e</SUP> hole þ<SUP>t</SUP> festerd is sore.</L>
+<L>When it is nesche a nother lay þore.</L>
+<L>And so it schal hele þis maist<HI REND="italic">er</HI> say. <MILESTONE N="1060"/></L>
+<L>Nothyng elles þ<HI REND="italic">er</HI> to þ<SUP>u</SUP> lay.</L>
+</LG>
+<LG TYPE="part">
+<PB N="192" REF="30"/>
+<HEAD>For þe colde festere.</HEAD>
+<L>Ious of launcile for sothe I say</L>
+<L>w<SUP>t</SUP> þ<SUP>e</SUP> white of ayeren tway</L>
+<L>And a porcion of rye mele.</L>
+<L>And lett þem welle to geder wele. <MILESTONE N="1065"/></L>
+<L>And on þ<SUP>e</SUP> fest<HI REND="italic">er</HI>e þ<SUP>u</SUP> it lay.</L>
+<L>Till by it self it falle away.</L>
+<L>And make a newe sone þ<SUP>u</SUP> do.</L>
+<L>Till it be hole lay it þ<HI REND="italic">er</HI> to.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For þe cankere.</HEAD>
+<L>Tak aporcion of bakoune lene. <MILESTONE N="1070"/></L>
+<L>And lat it bre<HI REND="italic">n</HI>ne in pouder clene.</L>
+<L>Do wasch it wele stale anone.</L>
+<L>And cast þ<SUP>is</SUP> pouder þ<HI REND="italic">er</HI> apone.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>Pelotes for woundes.</HEAD>
+<L>Iff a wounde be holl or depe.</L>
+<L>Ther off a leche most tak gode kepe <MILESTONE N="1075"/></L>
+<L>Tak thamur smal co<HI REND="italic">n</HI>soude &amp; plantayne.</L>
+<L>Bugyle avance and lancelayne.</L>
+<L>Pymp<HI REND="italic">er</HI>noll ȝarow &amp; co<HI REND="italic">n</HI>fery fyne.</L>
+<L>And sethe þe<HI REND="italic">m</HI> togeder in gode red wy<HI REND="italic">n</HI>ne. <MILESTONE N="21a" UNIT="f."/></L>
+<L>The wounded ma<HI REND="italic">n</HI> schal drynke it hot at eue<HI REND="italic">n.</HI> <MILESTONE N="1080"/></L>
+<L>and cold at morwe it schal nought greuyn.</L>
+<L>It schal purge &amp; clense þ<SUP>e</SUP> wounde.</L>
+<L>And make þ<SUP>e</SUP> man bothe hole &amp; sounde.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For a wounde in a ma<HI REND="italic">n</HI>nes hed.</HEAD>
+<L>Iff þ<SUP>u</SUP> haue in þ<SUP>i</SUP> hed a wounde.</L>
+<L>Tak betayne wher it may be founde. <MILESTONE N="1085"/></L>
+<L>Meng it w<SUP>t</SUP> grece of a swyne.</L>
+<L>Non other salue thar come þ<HI REND="italic">er</HI> Inne.</L>
+<L>Tak salt grece of a swy<HI REND="italic">n</HI>n &amp; v<HI REND="italic">er</HI>uayne.</L>
+<L>Wil make a wounde hole agayne.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>For to drawe agayn þ<SUP>e</SUP> hyde of a wou<HI REND="italic">n</HI>de.</HEAD>
+<L>Ther is a gres softe as sylke. <MILESTONE N="1090"/></L>
+<L>When it is brokyn Ious like is milk.</L>
+<L>A plaist<HI REND="italic">er</HI> þ<HI REND="italic">er</HI> of þes leches sayne.</L>
+<L>The hyde to geder it drawes ageyne.</L>
+</LG>
+<LG TYPE="part">
+<PB N="193" REF="31"/>
+<HEAD>For betyn wounde or of staf smety<HI REND="italic">n</HI>n.</HEAD>
+<L>Tak garlyk hony &amp; ȝolke of a ney.</L>
+<L>And beet al to geder i<HI REND="italic">n</HI> a morter. <MILESTONE N="1095"/></L>
+<L>And it schal dryue out al þ<SUP>e</SUP> venyme.</L>
+<L>w<SUP>t</SUP> outen gret sore or any pynynge.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>A drynke for a wounde to drawe out blod.</HEAD>
+<L>Tak fenycle herbe Iohn &amp; homlok rote.</L>
+<L>And leues of betayne þ<SUP>e</SUP> schal be bote.</L>
+<L>wel soden to gedere i<HI REND="italic">n</HI> gode reed wyne. <MILESTONE N="1100"/></L>
+<L>This drynke schal clere the wou<HI REND="italic">n</HI>de ful fyne.</L>
+<L>so þ<SUP>t</SUP> þ<SUP>e</SUP> seke ma<HI REND="italic">n</HI> drynke other none.</L>
+<L>Tille he may bothe ryde and gone.</L>
+</LG>
+<LG TYPE="part">
+<HEAD>ffor the pockes.</HEAD>
+<L>Seynt Nichasy hadde a pok þ<SUP>t</SUP> was nouȝt small.</L>
+<L>And mekyl greuance he hadde w<SUP>t</SUP> all. <MILESTONE N="1105"/></L>
+<L>He prayde to gode þ<SUP>t</SUP> hym dere bought.</L>
+<L>Who so enterlyke hym be sought.</L>
+<L>That he hym fro þ<SUP>e</SUP> pokkes schude were.</L>
+<L>If he on hym wretyn his name walde bere. <MILESTONE N="21b" UNIT="f."/></L>
+</LG>
+<LG TYPE="part">
+<HEAD>ffor þe bon ake.</HEAD>
+<L>Who so is betyn &amp; has bon ake <MILESTONE N="1110"/></L>
+<L>Bugile comferi and fenicle take.</L>
+<L>Consoude betayne auance also.</L>
+<L>Lauander tansey omou<HI REND="italic">n</HI>de þ<HI REND="italic">er</HI> to.</L>
+<L>Thes greses wele drynke he may.</L>
+<L>In gode old ale bothe nyght &amp; day. <MILESTONE N="1115"/></L>
+</LG>
+<LG TYPE="part">
+<HEAD>ffor the felon a medcyne.</HEAD>
+<L>Take þ<SUP>e</SUP> fairest of þ<SUP>e</SUP> whete</L>
+<L>And do it al togeder bete.</L>
+<L>And menge w<SUP>t</SUP> mylk off wo<HI REND="italic">m</HI>man mylde.</L>
+<L>That has borne a knaue childe.</L>
+<L>If a felou<HI REND="italic">n</HI> wax full of bleches ou<HI REND="italic">er</HI> alle. <MILESTONE N="1120"/></L>
+<L>Take plantayne &amp; grynd it small.</L>
+<L>w<SUP>t</SUP> þ<SUP>e</SUP> Ious a noynte the fellou<HI REND="italic">n</HI> well</L>
+<L>In plaist<HI REND="italic">er</HI> lay one þ<SUP>t</SUP> other dele.</L>
+</LG>
+<CLOSER><DATELINE>UNIVERSITY OF WASHINGTON, SEATTLE,<LB/>
+WASH., U.S.A. <DATE>December 4, 1909.</DATE></DATELINE>
+<SIGNED>ROBERT MAX GARRETT.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

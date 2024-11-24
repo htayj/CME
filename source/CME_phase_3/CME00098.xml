@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-6-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; added DIV1; changed DIV2 to DIV1; changed some DIV2s to DIV3s; changed mdashes between numerals to hyphens; changed numerous marginal NOTEs to HEADs and added DIV3s. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00098">
+<STC T="M">98</STC>
+<BIBNO T="mec">CME00098</BIBNO>
+<VID>CME00098</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="medicinal poems">
+<PB N="295" REF="3"/>
+<DIV2 N="1" TYPE="poem">
+<HEAD>1. Gereimte Heilkunde.</HEAD>
+<DIV3 TYPE="section">
+<HEAD>Hic incipiunt medicine optime <HI REND="italic">et</HI> probate. <MILESTONE N="35" UNIT="P."/></HEAD>
+<L>¶ In fowre parties of a ma<HI REND="italic">n</HI></L>
+<L>Be-gynnyth þe sekenesse þ<HI REND="italic">at</HI> þei han:</L>
+<L>In heed, in wombe, or i<HI REND="italic">n</HI> (þe) splene,</L>
+<L>Or i<HI REND="italic">n</HI> bleddyr, þese iiij I mene.</L>
+<L>Qwylke fowr<HI REND="italic">e</HI> stedys ben knowy<HI REND="italic">n and</HI> sen <MILESTONE N="5"/> <MILESTONE N="36" UNIT="P."/></L>
+<L>He þ<HI REND="italic">at</HI> xall a good leche ben.</L>
+<L>Now at þe heed I wyll be-gy<HI REND="italic">n</HI>ne, <MILESTONE N="78 B." UNIT="P."/> <MILESTONE N="1426"/> <NOTE PLACE="foot">7 [1426] <HI REND="italic">a(m) r(ande):</HI> Medicina p<HI REND="italic">ro</HI> capite <HI REND="italic">f(ehlt) A.</HI> Now <HI REND="italic">f. B.</HI> hed wyll I <HI REND="italic">B.</HI></NOTE></L>
+<L>For oftyn sekenesse fallyth þ<HI REND="italic">er</HI>-i<HI REND="italic">n</HI>ne. <NOTE PLACE="foot">8 <HI REND="italic">nach</HI> For <HI REND="italic">ein buchstabe ausgestrichen A.</HI> seknesse fallyth ofty<HI REND="italic">n B.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Medicina p<HI REND="italic">ro</HI> capite.</HEAD>
+<L>¶ Ȝif a ma<HI REND="italic">n</HI> or woma<HI REND="italic">n,</HI> mor<HI REND="italic">e</HI> or lesse, <NOTE PLACE="foot">9 a <HI REND="italic">f. B.</HI> wo<HI REND="italic">m</HI>man <HI REND="italic">B.</HI></NOTE></L>
+<L>In hys heed hath gret sekenesse <MILESTONE N="10"/> <NOTE PLACE="foot">10 his hed hawe <HI REND="italic">B.</HI> seknesse <HI REND="italic">B.</HI></NOTE></L>
+<L>Or ony grewau<HI REND="italic">n</HI>ce or ony werkynge, <MILESTONE N="1430"/> <NOTE PLACE="foot">11 Or greuau<HI REND="italic">n</HI>ce <HI REND="italic">B.</HI> werkyng <HI REND="italic">B.</HI></NOTE></L>
+<L>Aueroyne he take w<HI REND="italic">ith</HI>-owte letty<HI REND="italic">n</HI>ge, <NOTE PLACE="foot">12 Awoyne <HI REND="italic">B.</HI> lettyng <HI REND="italic">B.</HI></NOTE></L>
+<L>Queche is callyd soþ<HI REND="italic">er</HI>nwode also, <NOTE PLACE="foot">13 Queche] þ<HI REND="italic">at B.</HI> sowthernwode <HI REND="italic">B.</HI></NOTE></L>
+<L>And hony <HI REND="italic">and</HI> heysyl stampe þ<HI REND="italic">er</HI>-to, <NOTE PLACE="foot">14 eysel stamp <HI REND="italic">B.</HI></NOTE></L>
+<L>And þis d<HI REND="italic">ri</HI>nke fastynge late hy<HI REND="italic">m</HI> dry<HI REND="italic">n</HI>ke, <MILESTONE N="15"/> <NOTE PLACE="foot">15 And late hy<HI REND="italic">m</HI> þis drynk fastend drynky<HI REND="italic">n B.</HI></NOTE></L>
+<L>And all hys hedwerk awey xal sy<HI REND="italic">n</HI>ke. <MILESTONE N="1435"/> <NOTE PLACE="foot">16 all <HI REND="italic">f. B.</HI> schall synkyn <HI REND="italic">B.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Hed-werk. Alia medicina.</HEAD> 
+<L>¶ A medicyn I hawe i<HI REND="italic">n</HI> my<HI REND="italic">n</HI>de <MILESTONE N="79 B." UNIT="P."/> <NOTE PLACE="foot">17 Alia medicina <HI REND="italic">a. r. f. A.</HI> Hedwerk <HI REND="italic">a. r. f. B.</HI> Anoþ<HI REND="italic">er</HI> medicin ȝet I fynde <HI REND="italic">B.</HI></NOTE></L>
+<L>For hedwerk to telle, as I fynde: <NOTE PLACE="foot">18 For þe hed, as I hawe mynde <HI REND="italic">B.</HI></NOTE></L>
+<L>Take eysyl <HI REND="italic">and</HI> pulyole ryale <NOTE PLACE="foot">19 To takyn <HI REND="italic">A.</HI> oysel <HI REND="italic">B. and f. A.</HI> puliol real <HI REND="italic">B.</HI></NOTE></L>
+<L>And camomylle, <HI REND="italic">and</HI> sethe w<HI REND="italic">ith</HI>-all; <MILESTONE N="20"/> <NOTE PLACE="foot">20 camamylle <HI REND="italic">A.</HI> seth <HI REND="italic">B.</HI></NOTE></L>
+<L>And w<HI REND="italic">ith</HI> þe jous anoy<HI REND="italic">n</HI>te þi<HI REND="italic">n</HI> nosethryl wel <MILESTONE N="1440"/> <NOTE PLACE="foot">21 And—jous] þ<HI REND="italic">er</HI> w<HI REND="italic">ith B.</HI> þe nasethirl <HI REND="italic">B.</HI> well <HI REND="italic">Hss.</HI></NOTE></L>
+<L>And make a playst<HI REND="italic">er</HI> of þe toþ<HI REND="italic">er</HI> del, <NOTE PLACE="foot">22 Amake <HI REND="italic">A.</HI> dell <HI REND="italic">B.</HI></NOTE></L>
+<L>And do it in o good gret clowte <NOTE PLACE="foot">23 a good clowth <HI REND="italic">B.</HI></NOTE></L>
+<L>And wynde þi<HI REND="italic">n</HI> heed þ<HI REND="italic">er</HI>-w<HI REND="italic">ith</HI> abowte; <NOTE PLACE="foot">24 And þ<HI REND="italic">er</HI>-w<HI REND="italic">ith</HI> wynde þi<HI REND="italic">n</HI> hed abowth <HI REND="italic">B.</HI></NOTE></L>
+<L>As sone as it be leyd þ<HI REND="italic">er</HI>on, <MILESTONE N="25"/> <NOTE PLACE="foot">25 leyde <HI REND="italic">A.</HI> And sone aft<HI REND="italic">er</HI> þat it is <HI REND="italic">B, ein</HI> is <HI REND="italic">vor</HI> it <HI REND="italic">durchstrichen.</HI></NOTE></L>
+<L>All þe heedwerk awey xal gon. <MILESTONE N="1445"/> <NOTE PLACE="foot">26 hed-werk awey schall <HI REND="italic">B,</HI> xal awey <HI REND="italic">A.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Hed-werk. Alia medicina.</HEAD> 
+<L>¶ Also it is good for þe hed-ake <NOTE PLACE="foot">27 Hedwerk <HI REND="italic">a. r. f. B.</HI> Alia medicina <HI REND="italic">a. r. nur B.</HI> þe <HI REND="italic">f. B.</HI> had <HI REND="italic">A.</HI></NOTE></L>
+<L>X kyrnellis of pepyr for to take, <NOTE PLACE="foot">28 pepyr-greynys <HI REND="italic">B.</HI> for <HI REND="italic">f. A.</HI></NOTE> <NOTE PLACE="foot">Pag. 35-39 incl. stehen je 2 verse in einer zeile A.</NOTE></L>
+<L><PB N="296" REF="4"/>
+And gry<HI REND="italic">n</HI>d e(s) well w<HI REND="italic">ith</HI> eysyl amonge <NOTE PLACE="foot">29 gryndyn is <HI REND="italic">B.</HI> well <HI REND="italic">f. B.</HI> oysel þ<HI REND="italic">er</HI> amo<HI REND="italic">n</HI>g <HI REND="italic">B.</HI></NOTE></L>
+<L>And d<HI REND="italic">ri</HI>nke or bynde to þe thone-wo<HI REND="italic">n</HI>ge. <MILESTONE N="30"/> <NOTE PLACE="foot">30 drynkyn <HI REND="italic">B.</HI> byndyn is <HI REND="italic">B.</HI> thon wong <HI REND="italic">B.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Unguentum.</HEAD>
+<L>¶ Take a noble onyme<HI REND="italic">n</HI>t, <MILESTONE N="1450"/></L>
+<L>For hed-werk good and pre[pote]nt,</L>
+<L>Take ij vnc<HI REND="italic">is</HI> of betonye, <NOTE PLACE="foot">33 betoyne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And of horhowne ek as monye, <NOTE PLACE="foot">34 mayne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Viij of puliol reall, <MILESTONE N="35"/> <NOTE PLACE="foot">35 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And bray he<HI REND="italic">m</HI> alle to-geder<HI REND="italic">e</HI> small, <MILESTONE N="1455"/></L>
+<L>And lete hem stondy<HI REND="italic">n</HI> helyd fayre</L>
+<L>Owt of þe wynd, owt of þe ayre,</L>
+<L>Vij dayes or ix at þe moste,</L>
+<L>Tyll þ<HI REND="italic">ou</HI> fynde it abowyn hoste; <MILESTONE N="40"/></L>
+<L>And all þe mat<HI REND="italic">er</HI> tak þ<HI REND="italic">ou</HI> þa<HI REND="italic">n</HI>ne <MILESTONE N="1460"/></L>
+<L>And fry it wyth oyle in a pa<HI REND="italic">n</HI>ne,</L>
+<L>A q<HI REND="italic">ua</HI>rt<HI REND="italic">er</HI> of v<HI REND="italic">er</HI>gyn-wax þ<HI REND="italic">ou</HI> take</L>
+<L>And frank-encens þ<HI REND="italic">er</HI>-in melte make,</L>
+<L>And do these gresys alle þ<HI REND="italic">er</HI>-to <MILESTONE N="45"/> <NOTE PLACE="foot">45 don <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And alle to-gedere plaw ys so, <MILESTONE N="1465"/> <NOTE PLACE="foot">46 plaw ys] plawyn <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And þow it be dawng<HI REND="italic">er</HI>ous loth,</L>
+<L>All hot lete clense þorow a cloth. <MILESTONE N="80 B." UNIT="P."/></L>
+<L>Wh<HI REND="italic">an</HI>n it is wrongyn <HI REND="italic">and</HI> kelyd clene,</L>
+<L>Anoynte þe hed þ<HI REND="italic">er</HI>-wyth be-dene, <MILESTONE N="50"/></L>
+<L>And all þe hed-werk <HI REND="italic">and</HI> þe ake <MILESTONE N="1470"/></L>
+<L>W<HI REND="italic">ith</HI>-in lytyll all schall slake.</L>
+<L>¶ þ<HI REND="italic">er</HI> schall bleuy<HI REND="italic">n</HI> a wat<HI REND="italic">er</HI> schire;</L>
+<L>Tak <HI REND="italic">and</HI> plaw it ou<HI REND="italic">er</HI> þe fyir,</L>
+<L>And take a porciou<HI REND="italic">n</HI> of whete-bren <MILESTONE N="55"/></L>
+<L><HI REND="italic">And</HI> as it plawyth, cast þ<HI REND="italic">er</HI>-in, <MILESTONE N="1475"/></L>
+<L>And take an hand-full of rose-flowr<HI REND="italic">is</HI></L>
+<L>And cast in fresch, of red colowr<HI REND="italic">is,</HI></L>
+<L>And menge hem to-geder<HI REND="italic">e</HI> saw[n] del[a]y,</L>
+<L>As well as þ<HI REND="italic">ou</HI> [ever] may, <MILESTONE N="60"/></L>
+<L>And in a poket þ<HI REND="italic">ou</HI> it do, <MILESTONE N="1480"/> <NOTE PLACE="foot">61 poketh <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þat þe wat<HI REND="italic">er</HI> may renne þ<HI REND="italic">er</HI>-fro,</L>
+<L>And ley it on þe hed þat hath gret werk,</L>
+<L>And het yt ageyn, wh<HI REND="italic">an</HI>n it is sterk; <NOTE PLACE="foot">64 hetyth <HI REND="italic">Hs.</HI> stark <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And wyth-in an nyth <HI REND="italic">and</HI> a day <MILESTONE N="65"/></L>
+<L>All þe hed-werk schal away. <MILESTONE N="1485"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For wo[u]ndys <HI REND="italic">in</HI> þe hed.</HEAD>
+<L>Ȝyf a ma<HI REND="italic">n</HI> be wou<HI REND="italic">n</HI>dyd ille <MILESTONE N="31"/></L>
+<L>And i<HI REND="italic">n</HI> hys heed hath wou<HI REND="italic">n</HI>dis grylle,</L>
+<L>Betonye <HI REND="italic">and</HI> v<HI REND="italic">er</HI>ueyn þe[r]-to þ<HI REND="italic">ou</HI> take, <NOTE PLACE="foot">69 þer] þo <HI REND="italic">Hs.</HI></NOTE></L>
+<L>W<HI REND="italic">ith</HI> swynys grees a playst<HI REND="italic">er</HI> þ<HI REND="italic">ou</HI> make <MILESTONE N="70"/></L>
+<L><PB N="297" REF="5"/>
+And bynde to þe wou<HI REND="italic">n</HI>de faste, <MILESTONE N="35"/></L>
+<L>And it schal be hol in haste.</L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For þe eyne.</HEAD>
+<L>¶ Take rose <HI REND="italic">and</HI> rwe <HI REND="italic">and</HI> fenkele</L>
+<L>And selydonye to-gedyr wele;</L>
+<L>In somyr, qu<HI REND="italic">an</HI> alle þese gresys be<HI REND="italic">n</HI> i-take, <MILESTONE N="75"/></L>
+<L>Stillid wat<HI REND="italic">er</HI> þ<HI REND="italic">er</HI>-of lat make. <MILESTONE N="40"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For þe syth.</HEAD>
+<L>¶ þis is p<HI REND="italic">ro</HI>wyd thy<HI REND="italic">n</HI>ge for þe syth,</L>
+<L>To clensyn þe eyne <HI REND="italic">and</HI> make he<HI REND="italic">m</HI> bryth:</L>
+<L>Take rwe [and] heysele <HI REND="italic">and</HI> me<HI REND="italic">n</HI>g ys w<HI REND="italic">ith</HI> hony</L>
+<L>For wattryd eyne <HI REND="italic">and</HI> to grety, <MILESTONE N="80"/></L>
+<L>And stampe alle togedir bedene <MILESTONE N="45"/></L>
+<L>And wry<HI REND="italic">n</HI>g <HI REND="italic">is</HI> thorow a cloth clene; <NOTE PLACE="foot">82 <HI REND="italic">oder</HI> wry<HI REND="italic">n</HI>g<HI REND="italic">es?</HI></NOTE></L>
+<L>And þis d<HI REND="italic">ri</HI>nke xal forth ano<HI REND="italic">n</HI></L>
+<L>Slaky<HI REND="italic">n</HI> þe terys eu<HI REND="italic">er</HI>ychon. <NOTE PLACE="foot">84 wattry terys <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For eyne.</HEAD>
+ <L>¶ For helpe of syth mekyl I hawe sowth <MILESTONE N="85"/></L>
+<L>And mor<HI REND="italic">e</HI> to telle let wil I no[w]t[h]: <MILESTONE N="50"/></L>
+<L>Late gadre an hep of red[e] snayl[is]</L>
+<L>þ<HI REND="italic">at</HI> crepy<HI REND="italic">n</HI> abowte i<HI REND="italic">n</HI> reyn and haylys,</L>
+<L>And sethe is i<HI REND="italic">n</HI> welle-wat<HI REND="italic">er</HI> wel, <NOTE PLACE="foot">89 <HI REND="italic">a. r. von späterer hand:</HI> oleu<HI REND="italic">m</HI> testudinis.</NOTE></L>
+<L>And þa<HI REND="italic">n</HI>ne gadir of þe gres il del <MILESTONE N="90"/> <NOTE PLACE="foot">90 dell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And grese þi<HI REND="italic">n</HI> eyne well w<HI REND="italic">ith</HI>-al, <MILESTONE N="55"/></L>
+<L>And sone þi syth amende schal.</L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For eyne.</HEAD>
+<L>¶ A medicyne is ȝet for eyne bote:</L>
+<L>To take þe jus of fenkel-rote</L>
+<L>And droppy<HI REND="italic">n</HI> i<HI REND="italic">n</HI> þe eyne bothe ewe <HI REND="italic">and</HI> morwe; <MILESTONE N="95"/></L>
+<L>þe peyne xal slake <HI REND="italic">and</HI> þe sorwe. <MILESTONE N="60"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For defhed of þe heed.</HEAD>
+<L>¶ For defhed of hed <HI REND="italic">and</HI> for dul hery<HI REND="italic">n</HI>ge</L>
+<L>I fynde wrete dyu<HI REND="italic">er</HI>s thynge:</L>
+<L>Take o porcyon of borys vryne</L>
+<L>And me<HI REND="italic">n</HI>ge it w<HI REND="italic">ith</HI> hony, good <HI REND="italic">and</HI> fyne, <MILESTONE N="100"/></L>
+<L>And i<HI REND="italic">n</HI> þe ere late it caste; <MILESTONE N="37" UNIT="P."/> <MILESTONE N="65"/></L>
+<L>þe herynge schal ame<HI REND="italic">n</HI>de in haste.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe hed.</HEAD>
+<L>¶ Ȝif in þe ere be ony fowle thy<HI REND="italic">n</HI>ge,</L>
+<L>Or fylth þ<HI REND="italic">at</HI> lettyth þin herynge,</L>
+<L>[With] chyldys vryne þi<HI REND="italic">n</HI> ere fowe <MILESTONE N="105"/></L>
+<L>And helpe þi<HI REND="italic">n</HI> ere on a throwe. <MILESTONE N="70"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia p<HI REND="italic">ro</HI>bata.</HEAD>
+<L>¶ Late take a gres i<HI REND="italic">n</HI> som<HI REND="italic">er</HI>-sesou<HI REND="italic">n</HI></L>
+<L>þ<HI REND="italic">at</HI> men clepe pedelyou<HI REND="italic">n,</HI></L>
+<L>And take þe jus <HI REND="italic">and</HI> an hard ey</L>
+<L>And do þe schelle all awey, <MILESTONE N="110"/></L>
+<L>And hawe þis wro<HI REND="italic">n</HI>gyn <HI REND="italic">and</HI> i<HI REND="italic">n</HI> ere don; <MILESTONE N="75"/></L>
+<L>It schal ame<HI REND="italic">n</HI>de þi<HI REND="italic">n</HI> hery<HI REND="italic">n</HI>ge ano<HI REND="italic">n.</HI></L>
+</DIV3>
+<DIV3 TYPE="section">
+<PB N="298" REF="6"/>
+<HEAD>Alia medicina.</HEAD> 
+<L>¶ þe jws of betonye is ȝet þe best, <NOTE PLACE="foot">113 betanye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And stampe it, þa<HI REND="italic">n</HI>ne late it reste;</L>
+<L>And qu<HI REND="italic">an</HI> it is al cler <HI REND="italic">and</HI> bryth, <MILESTONE N="115"/></L>
+<L>W<HI REND="italic">ith</HI> wolle late it þ<HI REND="italic">er</HI>-inne be [dyth]. <MILESTONE N="80"/> <NOTE PLACE="foot">116 be don þ<HI REND="italic">er</HI>-inne <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina p<HI REND="italic">ro</HI>bata.</HEAD>
+<L>¶ Take an onyown, good <HI REND="italic">and</HI> hard,</L>
+<L>And make an hole i<HI REND="italic">n</HI> þe mydward</L>
+<L>And por<HI REND="italic">e</HI> þ<HI REND="italic">er</HI>-i<HI REND="italic">n</HI>ne hony, good <HI REND="italic">and</HI> schyre,</L>
+<L>And rost to-gedyr i<HI REND="italic">n</HI> þe fyre; <MILESTONE N="120"/></L>
+<L>And qu<HI REND="italic">an</HI> it is rostyd wel thorow-oute, <MILESTONE N="85"/></L>
+<L>þa<HI REND="italic">n</HI>ne late it be wro<HI REND="italic">n</HI>ge tho<HI REND="italic">ru</HI> a cloute</L>
+<L>And pore in þe ere al at ewy<HI REND="italic">n;</HI></L>
+<L>And of þe ewyll xal no-thy<HI REND="italic">n</HI>ge blewy<HI REND="italic">n.</HI></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For v<HI REND="italic">er</HI>my<HI REND="italic">n</HI> i<HI REND="italic">n</HI> þe ere.</HEAD>
+<L>¶ Ȝif þ<HI REND="italic">at</HI> wormys ben waxe grylle <MILESTONE N="125"/></L>
+<L>In ma<HI REND="italic">n</HI>nys ere <HI REND="italic">and</HI> grewe hy<HI REND="italic">m</HI> ille, <MILESTONE N="90"/></L>
+<L>þe jus of wodby<HI REND="italic">n</HI>de eu<HI REND="italic">er</HI>y sesou<HI REND="italic">n</HI></L>
+<L>May al hot in hys er<HI REND="italic">e</HI> be don;</L>
+<L>And alle þe wormys sone ano<HI REND="italic">n,</HI></L>
+<L>þe boke seyth, it wyll hem slon, <MILESTONE N="130"/></L>
+<L>And al þe peyne <HI REND="italic">and</HI> al þe damage <MILESTONE N="95"/></L>
+<L>Hastyleche schall aswage.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Medicine an<HI REND="italic">te</HI> d<HI REND="italic">i</HI>cte.</HEAD>
+<L>¶ Take jws of sentorye a good del</L>
+<L>And sethe i<HI REND="italic">n</HI> good old ale ildel</L>
+<L>And por<HI REND="italic">e</HI> þ<HI REND="italic">er</HI>to þe þryd[d]e part wy<HI REND="italic">n</HI> <MILESTONE N="135"/></L>
+<L>And plawe is to-gedyr wel <HI REND="italic">and</HI> fyne, <MILESTONE N="100"/></L>
+<L>Scome of þ<HI REND="italic">e</HI> ou<HI REND="italic">er</HI>est twye or thrye</L>
+<L>And þa<HI REND="italic">n</HI>ne late it stonde kole <HI REND="italic">and</HI> drye, <NOTE PLACE="foot">138 kele <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And qu<HI REND="italic">an</HI> it be cold <HI REND="italic">and</HI> thycke of kynde,</L>
+<L>Ilke day þ<HI REND="italic">ou</HI> xalt hawe i<HI REND="italic">n</HI> my<HI REND="italic">n</HI>de <MILESTONE N="140"/></L>
+<L>Fastande to vse sponfull thre, <MILESTONE N="105"/></L>
+<L>Till his sekenesse war[is]ched be.</L>
+<L>þis d<HI REND="italic">ri</HI>nke xal fyen fro þi<HI REND="italic">n</HI> herte</L>
+<L>Glet <HI REND="italic">and</HI> rewme <HI REND="italic">and</HI> peynys smerte,</L>
+<L>And makyn hy<HI REND="italic">m</HI> hwngry for to ete <MILESTONE N="145"/></L>
+<L>As a qwert ma<HI REND="italic">n</HI> al man<HI REND="italic">er</HI> mete. <MILESTONE N="110"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For bolny<HI REND="italic">n</HI>g in þe armys.</HEAD>
+<L>¶ Ȝif me<HI REND="italic">n</HI>nys armys ben bolned grete,</L>
+<L>Take schepys talwe <HI REND="italic">and</HI> flo<HI REND="italic">ur</HI> of qwete,</L>
+<L>And jws of ache do take þ<HI REND="italic">er</HI>-to</L>
+<L>And sethe hem wel to-gedyr so, <MILESTONE N="150"/></L>
+<L>And as hot as it comyth owte of þe pa<HI REND="italic">n</HI>ne, <MILESTONE N="115"/></L>
+<L>Late make a playst<HI REND="italic">er</HI> þ<HI REND="italic">er</HI>-of þa<HI REND="italic">n</HI>ne</L>
+<L>And bynde it on þe arm faste,</L>
+<L>And þe bolny<HI REND="italic">n</HI>ge xal swage i<HI REND="italic">n</HI> haste.</L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For rancle of venem<HI REND="italic">us</HI> bytynge.</HEAD>
+<L>¶ In cas rancle be-falle of veny<HI REND="italic">m,</HI> <MILESTONE N="155"/></L>
+<L>As of jra<HI REND="italic">n</HI>nys or podys or v<HI REND="italic">er</HI>myn, <MILESTONE N="120"/> <NOTE PLACE="foot">156 jrau<HI REND="italic">n</HI>ys?</NOTE></L>
+<L><PB N="299" REF="7"/>
+Take flo<HI REND="italic">ur</HI> of barly <HI REND="italic">and</HI> e[i]syle or wy<HI REND="italic">n</HI></L>
+<L>And hony, <HI REND="italic">and</HI> me<HI REND="italic">n</HI>g es w<HI REND="italic">ith</HI> seed of lyn</L>
+<L>And plawe well to-geder<HI REND="italic">e</HI> ilcon,</L>
+<L>þa<HI REND="italic">n</HI>ne wyl þis playst<HI REND="italic">er</HI> al ra<HI REND="italic">n</HI>cles slon. <MILESTONE N="160"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>To stau<HI REND="italic">n</HI>che bledy<HI REND="italic">n</HI>ge at þe nose.</HEAD>
+<L>A ma<HI REND="italic">n</HI> þ<HI REND="italic">at</HI> wyll han helpe at nede <MILESTONE N="38." UNIT="P."/> <MILESTONE N="125"/></L>
+<L>And mekyl at his nose blede, <NOTE PLACE="foot">162 And se a ma<HI REND="italic">n</HI> mekyl <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Take hy<HI REND="italic">m</HI> p<HI REND="italic">er</HI>uenk, a gres wol cowthe,</L>
+<L>And hold atwyx his teth i<HI REND="italic">n</HI> his mowth;</L>
+<L>In al þ<HI REND="italic">at</HI> tyme, þ<HI REND="italic">at</HI> it be þor<HI REND="italic">e,</HI> <MILESTONE N="165"/> <NOTE PLACE="foot">165 þor<HI REND="italic">e]</HI> ȝer<HI REND="italic">e Hs.</HI></NOTE></L>
+<L>He ne schal blede no drope more. <MILESTONE N="130"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe toth∣ake, þ<HI REND="italic">er</HI> w<HI REND="italic">er</HI>m<HI REND="italic">is</HI> ben.</HEAD> 
+<L>Take plaunteyne <HI REND="italic">and</HI> wasshe it wel,<NOTE PLACE="foot">167 playn∣t eyne <HI REND="italic">Hs.</HI> whasse it well <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And schepis talwe, my<HI REND="italic">n</HI>ge þis ildel,</L>
+<L>Be þe sor half anoy<HI REND="italic">n</HI>te þe cheke-bon, <NOTE PLACE="foot">169 <HI REND="italic">a. r.</HI> v<HI REND="italic">er</HI>m<HI REND="italic">is Hs.</HI></NOTE></L>
+<L>þe wormys xul comy<HI REND="italic">n</HI> owt eu<HI REND="italic">er</HI>i-chon. <MILESTONE N="170"/> <NOTE PLACE="foot">170 vormys <HI REND="italic">Hs</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For w<HI REND="italic">er</HI>mys i<HI REND="italic">n</HI> þe wombe.</HEAD>
+<L>Now I xal telle, as I wrete fy<HI REND="italic">n</HI>de: <MILESTONE N="135"/> <NOTE PLACE="foot">171 f. <HI REND="italic">a. r. und im texte</HI> v<HI REND="italic">er</HI>mys <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ȝif i<HI REND="italic">n</HI> ma<HI REND="italic">n</HI>nys body w<HI REND="italic">er</HI>mys gry<HI REND="italic">n</HI>de,</L>
+<L>Take mylfoly <HI REND="italic">and</HI> flo<HI REND="italic">ur and</HI> comy<HI REND="italic">n</HI></L>
+<L>And meng <HI REND="italic">is</HI> w<HI REND="italic">ith</HI> eysyl or egyr wy<HI REND="italic">n</HI></L>
+<L>And bynde it on þe nowele i<HI REND="italic">n</HI> a clout, <MILESTONE N="175"/></L>
+<L>And queke or dede þe w<HI REND="italic">er</HI>m<HI REND="italic">is</HI> xal owt. <MILESTONE N="140"/> <NOTE PLACE="foot">176 v<HI REND="italic">er</HI>m<HI REND="italic">is Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>¶ For hym þat for-lesyth hys speche, a medycine.</HEAD>
+<L>Ȝif a ma<HI REND="italic">n</HI> for sekenesse hat[h] leyde speche,</L>
+<L>þis medecy<HI REND="italic">n</HI> I wil ȝow teche:</L>
+<L>Take violet <HI REND="italic">and</HI> pulyoll ryall</L>
+<L>And grynd hem [wel] te-gedyr small, <MILESTONE N="180"/></L>
+<L>And lete hy<HI REND="italic">m</HI> dry<HI REND="italic">n</HI>ke þe jws ful thy<HI REND="italic">n</HI>ne <MILESTONE N="145"/></L>
+<L>And por<HI REND="italic">e</HI> þ<HI REND="italic">er</HI>-of his ere w<HI REND="italic">ith</HI>-i<HI REND="italic">n</HI>ne,</L>
+<L>And as þese maistris cordy<HI REND="italic">n and</HI> seyn,</L>
+<L>He xal take his speche agey<HI REND="italic">n.</HI></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For hem þat may noȝt holdyn vryne, a medycine.</HEAD>
+<L>¶ In werd ben me<HI REND="italic">n and</HI> wome<HI REND="italic">n</HI> bolde <MILESTONE N="185"/></L>
+<L>þ<HI REND="italic">at</HI> þ<HI REND="italic">er</HI> stale mown not holde, <MILESTONE N="150"/> <NOTE PLACE="foot">186 mow<HI REND="italic">n</HI>n <HI REND="italic">Hs.</HI></NOTE></L>
+<L>A swynys clawe he<HI REND="italic">m</HI> behow<HI REND="italic">ith</HI> to take <NOTE PLACE="foot">187 <HI REND="italic">klein a. r. (spätere hand?):</HI> porc<HI REND="italic">us.</HI></NOTE></L>
+<L>And bre<HI REND="italic">n</HI>ne it <HI REND="italic">and</HI> poudir þ<HI REND="italic">er</HI>of mak[e] <NOTE PLACE="foot">188 mak[e], <HI REND="italic">das</HI> e <HI REND="italic">ist durch das einbinden unsichtbar geworden.</HI></NOTE></L>
+<L>And vsyn it i<HI REND="italic">n</HI> dry[n]ke <HI REND="italic">and</HI> mete,</L>
+<L>Ȝif hee wyl her<HI REND="italic">e</HI> helth[e] gete. <MILESTONE N="190"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<PB N="300" REF="8"/>
+<HEAD>For hem þat mow noȝt well pysse, a medicyne.</HEAD>
+<L>¶ Many a gret holdyng [han] <HI REND="italic">and</HI> pyne <MILESTONE N="155"/> <NOTE PLACE="foot">191 peyne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> mow not pysse ne make vrine.</L>
+<L>Late hy<HI REND="italic">m</HI> take þe cheriston mete</L>
+<L>And w<HI REND="italic">ith</HI> holy watir it dry<HI REND="italic">n</HI>ke <HI REND="italic">and</HI> ete,</L>
+<L>And hawe good hope i<HI REND="italic">n</HI> God alm[i]th, <MILESTONE N="195"/></L>
+<L>And he xal hawe helpe, I plyth. <MILESTONE N="160"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For hem þ<HI REND="italic">at</HI> pysse blod.</HEAD>
+<L>¶ And þ<HI REND="italic">er</HI> be men þ<HI REND="italic">at</HI> pysse blod;</L>
+<L>Many medesyne þ<HI REND="italic">er</HI>-for<HI REND="italic">e</HI> is good:</L>
+<L>Woderowe is þ<HI REND="italic">er</HI>fore good <HI REND="italic">and</HI> fyn,</L>
+<L>To dry<HI REND="italic">n</HI>ke hot w<HI REND="italic">ith</HI> ale or wy<HI REND="italic">n.</HI> <MILESTONE N="200"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For seke <HI REND="italic">and</HI> sore pappys.</HEAD>
+<L>Take dowys donge <HI REND="italic">and</HI> hony, wel gro[u]nde, <MILESTONE N="165"/></L>
+<L>And te<HI REND="italic">m</HI>p<HI REND="italic">er</HI> þ<HI REND="italic">er</HI>-w<HI REND="italic">ith</HI> wax a stou<HI REND="italic">n</HI>de,</L>
+<L>A playst<HI REND="italic">er</HI> ley þe pappe vpon,</L>
+<L>And þe bolnyng xal ou<HI REND="italic">er</HI> gon.</L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For þe gowte.</HEAD>
+<L>Take jws of rubarbe ful aney <MILESTONE N="205"/></L>
+<L>And as mekyl of eysyl, I þe sey, <MILESTONE N="170"/></L>
+<L>—And þ<HI REND="italic">at</HI> þe eysyl be scharp <HI REND="italic">and</HI> soure!—</L>
+<L>And me<HI REND="italic">n</HI>ge it w<HI REND="italic">ith</HI> a porciou<HI REND="italic">n</HI> of barly-flo<HI REND="italic">ur,</HI></L>
+<L>And on a flaxene clout spred it clene</L>
+<L>And bynd it þ<HI REND="italic">er</HI> þe goute is most sene. <MILESTONE N="210"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe gowte∣festyr.</HEAD>
+<L>Take olye of rubarbe <HI REND="italic">and</HI> alema<HI REND="italic">n</HI>d <MILESTONE N="175"/></L>
+<L>þ<HI REND="italic">at</HI> wel togedir be<HI REND="italic">n</HI> te<HI REND="italic">m</HI>p<HI REND="italic">er</HI>id <HI REND="italic">and</HI> mey<HI REND="italic">n</HI>gd, <NOTE PLACE="foot">212 mey<HI REND="italic">n</HI>gt <HI REND="italic">Hs.</HI></NOTE></L>
+<L>W<HI REND="italic">ith</HI> þis playst<HI REND="italic">er</HI> of flaxen clo(w)t <NOTE PLACE="foot">213 clo(w)th <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Bynd þe soor festeryd wel abowte;</L>
+<L>And ȝif þ<HI REND="italic">er</HI> be in hole or wou<HI REND="italic">n</HI>de, <MILESTONE N="215"/> <MILESTONE N="39" UNIT="P."/></L>
+<L>Por<HI REND="italic">e</HI> þ<HI REND="italic">er</HI>-in þe jws, or it be bou<HI REND="italic">n</HI>de; <MILESTONE N="180"/></L>
+<L>And as good lechys alle seyn,</L>
+<L>Men xul þ<HI REND="italic">er</HI>-to no<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> thy<HI REND="italic">n</HI>g ley<HI REND="italic">n.</HI></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For to wete, ȝif a worm be in þe festre, a medicine.</HEAD>
+<L>¶ Take a porcyow<HI REND="italic">n</HI> of fresche chese</L>
+<L>And wynd it i<HI REND="italic">n</HI> hony al be[t]wese, <MILESTONE N="220"/></L>
+<L>And ou<HI REND="italic">er</HI> al nyght it be bou<HI REND="italic">n</HI>de; <MILESTONE N="185"/></L>
+<L>On morwe holyd ȝif it be fou<HI REND="italic">n</HI>de,</L>
+<L>Wete þ<HI REND="italic">ou</HI> wel þa<HI REND="italic">n</HI>ne i-wys,</L>
+<L>þ<HI REND="italic">at</HI> a worm þ<HI REND="italic">er</HI>-in[ne] is!</L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For to knowe þe festre hoot <HI REND="italic">and</HI> cold, bona regula.</HEAD>
+<L>¶ As lechys mowne i<HI REND="italic">n</HI> bokys sen, <MILESTONE N="225"/></L>
+<L>To man<HI REND="italic">er</HI> of festeris þ<HI REND="italic">er</HI> ben: <MILESTONE N="190"/></L>
+<L>þe ton is cold <HI REND="italic">and</HI> gnawande, <NOTE PLACE="foot">227 knaw∣ande <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe toþ<HI REND="italic">er</HI> is hot <HI REND="italic">and</HI> b[r]ennande;</L>
+<L><PB N="301" REF="9"/>
+þe cold hath a str[o]ute hole <HI REND="italic">and</HI> noyous, <NOTE PLACE="foot">229 stryte <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe hote a w[o]und hole <HI REND="italic">and</HI> mor<HI REND="italic">e</HI> p<HI REND="italic">er</HI>ylows. <MILESTONE N="230"/> <NOTE PLACE="foot">230 wynd <HI REND="italic">Hs.</HI> p<HI REND="italic">er</HI>lyows <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Diu<HI REND="italic">er</HI>ce medecynys þ<HI REND="italic">er</HI>-for<HI REND="italic">e</HI> I fynde, <MILESTONE N="195"/></L>
+<L>For þei ben noȝt of on[e] kinde: <NOTE PLACE="foot">232 kende <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe cold festre xal be holyd w<HI REND="italic">ith</HI> hete,</L>
+<L>And coldhed xal þe hete beete;</L>
+<L>And comelyche so xal be-falle <MILESTONE N="235"/></L>
+<L>In medesynis in lechecraft alle. <MILESTONE N="200"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For þe brennand festre good medicine.</HEAD>
+<L>¶ Of cler hony <HI REND="italic">and</HI> rye-flo<HI REND="italic">ur</HI> late bake a kake,</L>
+<L>As hard as me<HI REND="italic">n</HI> may it make,</L>
+<L>And ley't to þe hole of þe festeryd sor,</L>
+<L>And wha<HI REND="italic">n</HI>ne it waxit[h] nesche, ley anoþ<HI REND="italic">er</HI> þor; <MILESTONE N="240"/></L>
+<L>And so it schal holy<HI REND="italic">n,</HI> as maystris sey<HI REND="italic">n,</HI> <MILESTONE N="205"/></L>
+<L>Schal me<HI REND="italic">n</HI> þ<HI REND="italic">er</HI>to no<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> thynge leyn. <NOTE PLACE="foot">242 leyne <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For þe cold festre goo[d] medicine.</HEAD>
+<L>¶ Take jws of launsele, I seye,</L>
+<L>W<HI REND="italic">ith</HI> þe whyte of tweyne eyre</L>
+<L>And a porcyou<HI REND="italic">n</HI> of rye-mele, <MILESTONE N="245"/></L>
+<L>And late it well to-geder welle <MILESTONE N="210"/></L>
+<L>And i<HI REND="italic">n</HI> þe festre do it leye, <NOTE PLACE="foot">247 leyne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Tyl be hi[m]-self it falle aweye. <NOTE PLACE="foot">248 þe self <HI REND="italic">Hs.</HI></NOTE></L>
+<L>To make a newe þa<HI REND="italic">n</HI>ne swythe þ<HI REND="italic">ou</HI> do,</L>
+<L>Til it be hool, do ley þ<HI REND="italic">er</HI>to! <MILESTONE N="250"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For to hole þe cankyr good medicine.</HEAD>
+<L>¶ Take a porciou<HI REND="italic">n</HI> of bacwn lene <MILESTONE N="215"/></L>
+<L>And bre<HI REND="italic">n</HI>ne it al i<HI REND="italic">n</HI> powd<HI REND="italic">er</HI> clene,</L>
+<L>And do wasche þe cankyr sone ano<HI REND="italic">n</HI></L>
+<L>And caste þe powdyr þ<HI REND="italic">er</HI>i<HI REND="italic">n</HI> ano<HI REND="italic">n.</HI></L>
+<L>Take þe fayrest of þe qwete <MILESTONE N="255"/></L>
+<L>And do it smal to-gedyr bete, <MILESTONE N="220"/></L>
+<L>And menge it w<HI REND="italic">ith</HI> mylk of woma<HI REND="italic">n</HI> mylde</L>
+<L>þ<HI REND="italic">at</HI> hat[h] bory<HI REND="italic">n</HI> a knawe-chylde.</L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For þe felou<HI REND="italic">n</HI> þat waxit[h] on bletchys.</HEAD>
+<L>Ȝif a felou<HI REND="italic">n</HI> waxe ful of blechis ou<HI REND="italic">er</HI>-al,</L>
+<L>Take plauntey<HI REND="italic">n and</HI> gry<HI REND="italic">n</HI>de it smal <MILESTONE N="260"/> <NOTE PLACE="foot">260 playntey<HI REND="italic">n Hs.</HI></NOTE></L>
+<L>And anoy<HI REND="italic">n</HI>te þe felou<HI REND="italic">n</HI> fryst w<HI REND="italic">ith</HI> þe jws wel, <MILESTONE N="225"/></L>
+<L>An playst<HI REND="italic">er</HI> ley þ<HI REND="italic">er</HI>-on on þe toþ<HI REND="italic">er</HI> del. <NOTE PLACE="foot">262 An] In <HI REND="italic">Hs.</HI> dell <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<PB N="302" REF="10"/> 
+<HEAD>Salwe for wou<HI REND="italic">n</HI>dys.</HEAD>
+<L>¶ Take sanycle and grynde it smal <MILESTONE N="40" UNIT="P."/></L>
+<L>And þe crop of þe brembelys w<HI REND="italic">ith</HI>-all,</L>
+<L>þe crop of þe reed worte do þ<HI REND="italic">er</HI>-to <MILESTONE N="265"/></L>
+<L>And plawnteyne <HI REND="italic">and</HI> vyolette also; <MILESTONE N="230"/></L>
+<L>þe crop of þe reed nettyle forȝete þ<HI REND="italic">ou</HI> noȝt,</L>
+<L>Also smalache þ<HI REND="italic">er</HI>-to [be] browthe;</L>
+<L>And ȝet take rwe of bytt<HI REND="italic">er</HI> sawo<HI REND="italic">ur</HI></L>
+<L>And smal consowde w<HI REND="italic">ith</HI> þe whyte flo<HI REND="italic">ur,</HI> <MILESTONE N="270"/></L>
+<L>And þ<HI REND="italic">at</HI> hee ben gaderyd in somerys day <MILESTONE N="235"/></L>
+<L>And sothyn to-gedyr w<HI REND="italic">ith</HI> botyr of may!</L>
+<L>Sythyn make here-of salwe o rythe,</L>
+<L>For eu<HI REND="italic">er</HI>y wou<HI REND="italic">n</HI>de þis is bote, I plythe.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>To hele a fresche wou<HI REND="italic">n</HI>de.</HEAD>
+<L>¶ Fryst it mwst wasched be <MILESTONE N="275"/></L>
+<L>Wyth vryne of ma<HI REND="italic">n</HI>nys p<HI REND="italic">re</HI>wyte, <MILESTONE N="240"/></L>
+<L>And lat it þ<HI REND="italic">er</HI>-on so ly[e]n ay, <NOTE PLACE="foot">277 latyn it <HI REND="italic">Hs.</HI></NOTE> <NOTE PLACE="foot">277 f. <HI REND="italic">in einer zeile.</HI></NOTE></L>
+<L>Til it be on þe toþ<HI REND="italic">er</HI> day.</L>
+<L>And þa<HI REND="italic">n</HI>ne a qwyte onyou<HI REND="italic">n and</HI> salt þ<HI REND="italic">ou</HI> take</L>
+<L>And g(r)ynde it to-gedir, a playst<HI REND="italic">er</HI> to make, <MILESTONE N="280"/></L>
+<L>And bynde it clene vp-on þe soor, <MILESTONE N="245"/></L>
+<L>þ<HI REND="italic">er</HI>-to ne thar come no thynge mor<HI REND="italic">e.</HI></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina.</HEAD>
+<L>And ȝet anoþ<HI REND="italic">er</HI> thyng hawe I fou<HI REND="italic">n</HI>de</L>
+<L>þ<HI REND="italic">at</HI> medecyne is for sweche a wou<HI REND="italic">n</HI>de:</L>
+<L>Late sethe an onyou<HI REND="italic">n and</HI> mynte w<HI REND="italic">ith</HI>-all <MILESTONE N="285"/> <NOTE PLACE="foot">285 Late] Take <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And grynde is wyth salt to-gedir smal <MILESTONE N="250"/></L>
+<L>And bynd ys to þe soor to dayis or thre,</L>
+<L>Thorow helpe of God sone hool schal he be. <NOTE PLACE="foot">288 schal he hool <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For wou<HI REND="italic">n</HI>dis i<HI REND="italic">n</HI> ma<HI REND="italic">n</HI>nys heed.</HEAD>
+<L>¶ Ȝif þ<HI REND="italic">ou</HI> hawe i<HI REND="italic">n</HI> þin heed a wo[u]nde,</L>
+<L>Take betonye, qwer<HI REND="italic">e</HI> it may be fou<HI REND="italic">n</HI>de, <MILESTONE N="290"/> <NOTE PLACE="foot">290 betanye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>A[nd] me<HI REND="italic">n</HI>ge it w<HI REND="italic">ith</HI> gres of a swyne, <MILESTONE N="255"/></L>
+<L>And no<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> salwe ther-by that lyn. <NOTE PLACE="foot">292 ther-by thar] thar be þe wou<HI REND="italic">n</HI>de <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Alia.</HEAD>
+<L>Also I fynde wrete for a wou<HI REND="italic">n</HI>de <NOTE PLACE="foot">293 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> I wyl ȝow telle þis stou<HI REND="italic">n</HI>de:</L>
+<L>Take salt <HI REND="italic">and</HI> gres of swyne <HI REND="italic">and</HI> v<HI REND="italic">er</HI>weyne, <MILESTONE N="295"/> <MILESTONE N="41" UNIT="P."/></L>
+<L>It wyll make þe wou<HI REND="italic">n</HI>de hol <HI REND="italic">and</HI> seyne. <MILESTONE N="260"/> <NOTE PLACE="foot">296 And it <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For a betyn wou<HI REND="italic">n</HI>de medicyn.</HEAD>
+<L>¶ Ȝif a gret wou<HI REND="italic">n</HI>de w<HI REND="italic">ith</HI> beste be betyn,</L>
+<L>Or w<HI REND="italic">ith</HI> a wepy<HI REND="italic">n</HI> wyckydly smetyn,</L>
+<L>Take garlek <HI REND="italic">and</HI> hony <HI REND="italic">and</HI> an eyis ȝelke</L>
+<L>And do hem to-gedyr wel bete <HI REND="italic">and</HI> welke; <MILESTONE N="300"/> <NOTE PLACE="foot">300 wolke <HI REND="italic">Hs.</HI></NOTE></L>
+<L>It schal drywy<HI REND="italic">n</HI> owte all þe peyne <MILESTONE N="265"/></L>
+<L>W<HI REND="italic">ith</HI>-owte gret spetynge or oþer peyne.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For to swage a rankle good medycine.</HEAD>
+<L>¶ Take frankencens <HI REND="italic">and</HI> qwete-mele</L>
+<L>And jws of walwort <HI REND="italic">and</HI> of morele,</L>
+<L><PB N="303" REF="11"/>
+þe jws of ache þ<HI REND="italic">er</HI>-to ȝet schall gon <MILESTONE N="305"/></L>
+<L>And of erbe benet <HI REND="italic">and</HI> humlok—þei bothe ar on, <MILESTONE N="270"/></L>
+<L>And bray is well w<HI REND="italic">ith</HI> swynys gres</L>
+<L>And make a playstyr of good reles;</L>
+<L>Do leye þis playstyr þe rank[l]e vp-on,</L>
+<L>And al þe ranclynge schall owyr gon; <MILESTONE N="310"/> <NOTE PLACE="foot">310 rancelynge <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And þow it drye, þese maystrys seyn, <MILESTONE N="275"/> <NOTE PLACE="foot">311 seyne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>It may be chafyd <HI REND="italic">and</HI> leyd ageyn. <NOTE PLACE="foot">312 leyde ageyne <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina.</HEAD>
+<L>¶ Ȝet take a blew cloth þ<HI REND="italic">at</HI> be fyne</L>
+<L>W<HI REND="italic">ith</HI> salt <HI REND="italic">and</HI> boyle it well w<HI REND="italic">ith</HI> wyn, <NOTE PLACE="foot">314 boyle <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And ley it to þe rank[l]e al a day, <MILESTONE N="315"/> <NOTE PLACE="foot">315 <HI REND="italic">Vor</HI> ranke <HI REND="italic">ist</HI> wou<HI REND="italic">n</HI>de <HI REND="italic">durchgestrichen.</HI></NOTE></L>
+<L>And þe rank[l]ynge schal swange away. <MILESTONE N="280"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For bolny<HI REND="italic">n</HI>ge in þe knes medicine.</HEAD>
+<L>¶ Ȝif þe knes ben bolned grete,</L>
+<L>Take þe fayre flo<HI REND="italic">ur</HI> of þe qwete</L>
+<L>And boyle [it] in watir, til it drye be, <NOTE PLACE="foot">319 boyled <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þa<HI REND="italic">n</HI>ne in a clowte ley it to þe kne. <MILESTONE N="320"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For bolny<HI REND="italic">n</HI>ge i<HI REND="italic">n</HI> þe schankys medicine.</HEAD>
+<L>¶ Take walwort-rotys, styf <HI REND="italic">and</HI> starke, <MILESTONE N="285"/></L>
+<L>Sothe wel in watir, pul of þe barke</L>
+<L>And in a morter grynd it smal <NOTE PLACE="foot">323-26 <HI REND="italic">je 2 verse in einer zeile.</HI></NOTE></L>
+<L>And stampe schepis talwe w<HI REND="italic">ith</HI>-all;</L>
+<L>Do it clene al hoot i<HI REND="italic">n</HI> a clowt <MILESTONE N="325"/> <NOTE PLACE="foot">325 clowth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And bynde þe bolny<HI REND="italic">n</HI>ge þ<HI REND="italic">er</HI>-w<HI REND="italic">ith</HI> abowte. <MILESTONE N="290"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For þe bol∣ny<HI REND="italic">n</HI>ge of þe genytaylys medicine.</HEAD>
+<L>¶ A fayre medycyne ȝet telle I can <MILESTONE N="42" UNIT="P."/></L>
+<L>For bolnynge of genytayles of ma<HI REND="italic">n,</HI></L>
+<L>Bothe for elde <HI REND="italic">and</HI> for ȝinge, <NOTE PLACE="foot">329 ȝonge <HI REND="italic">Hs.</HI></NOTE></L>
+<L>For bolnynge <HI REND="italic">and</HI> all man<HI REND="italic">er</HI> bre<HI REND="italic">n</HI>nynge: <MILESTONE N="330"/></L>
+<L>Lewys of lorer<HI REND="italic">e and</HI> rwe þ<HI REND="italic">ou</HI> take <MILESTONE N="295"/></L>
+<L>And smal do hem brese <HI REND="italic">and</HI> make,</L>
+<L>Take thre han[d]ful of þe ton</L>
+<L>And as mekyl of þe toþ<HI REND="italic">er</HI> anon,</L>
+<L>And make þ<HI REND="italic">er</HI>-of a playst<HI REND="italic">er</HI> clene <MILESTONE N="335"/></L>
+<L>And bynd abowte þe genytayles bedene. <MILESTONE N="300"/></L>
+<L>And ȝif þis ne helpe þe noȝt,</L>
+<L>Anoþ<HI REND="italic">er</HI> medycyne þ<HI REND="italic">er</HI>-for<HI REND="italic">e</HI> hawe I sowth:</L> 
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Alia medicina.</HEAD>
+<L>¶ Take þe lewys of þe reed docke,</L>
+<L>þe tendronys in þe mydward awey do knocke <MILESTONE N="340"/></L>
+<L>And sethe hem in wyn all hol i<HI REND="italic">n</HI> a pa<HI REND="italic">n</HI>ne <MILESTONE N="305"/></L>
+<L>And ley hem aboute þe genytaylys þa<HI REND="italic">n</HI>ne.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For bre<HI REND="italic">n</HI>ny<HI REND="italic">n</HI>ge of þe verge.</HEAD>
+<L>¶ þe mayst<HI REND="italic">er</HI> tellyth: ȝif þe verge be brente,</L>
+<L>As man of woman may so be schente,</L>
+<L>Thorow cas þ<HI REND="italic">at</HI> woma<HI REND="italic">n</HI> may be his bote <MILESTONE N="345"/></L>
+<L>Off qwom his sekenesse be-gan þe rote: <MILESTONE N="310"/></L>
+<L><PB N="304" REF="12"/>
+Ȝe must wete, qwat I ȝow telle,</L>
+<L>Hym behowyth ta watter<HI REND="italic">e</HI> at her<HI REND="italic">e</HI> welle;</L>
+<L>And ȝif he (ne) mow þ<HI REND="italic">at</HI> woman tane</L>
+<L>Anoþ<HI REND="italic">er</HI> medycyne he must hane: <MILESTONE N="350"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina.</HEAD>
+<L>¶ Hym be-howyth to take seed of lyne <MILESTONE N="315"/></L>
+<L>And boylyn it i<HI REND="italic">n</HI> mylke <HI REND="italic">and</HI> wyn</L>
+<L>And don it hoot in a lethery<HI REND="italic">n</HI> hoodky<HI REND="italic">n</HI> <NOTE PLACE="foot">353 <HI REND="italic">Vor</HI> in <HI REND="italic">ein</HI> t <HI REND="italic">durchgestrichen.</HI></NOTE></L>
+<L>And late his v<HI REND="italic">er</HI>ge hange þ<HI REND="italic">er</HI>-in,</L>
+<L>And qwa<HI REND="italic">n</HI>ne it is cold, late it hete ageyne, <MILESTONE N="355"/></L>
+<L>Boþ<HI REND="italic">e</HI> morwe<HI REND="italic">n and</HI> ewy<HI REND="italic">n</HI> þ<HI REND="italic">er</HI>-in late it l[e]yne. <MILESTONE N="320"/> <NOTE PLACE="foot">356 þ<HI REND="italic">er</HI>in late it leyne] late it þ<HI REND="italic">er</HI>in lyne <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina.</HEAD>
+<L>¶ Also ȝet þ<HI REND="italic">er</HI> is a good medycyne <MILESTONE N="43" UNIT="P."/></L>
+<L>For bre<HI REND="italic">n</HI>ny<HI REND="italic">n</HI>ge of þe verge <HI REND="italic">and</HI> pyne:</L>
+<L>Take malwys <HI REND="italic">and</HI> sawge, sothe<HI REND="italic">n</HI> i<HI REND="italic">n</HI> bryne, <NOTE PLACE="foot">359 swage <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And take comy<HI REND="italic">n and</HI> caste þ<HI REND="italic">er</HI>-i<HI REND="italic">n</HI>ne <MILESTONE N="360"/></L>
+<L>And mele of benys þ<HI REND="italic">ou</HI> take also, <MILESTONE N="325"/></L>
+<L>A lytyl qwyte of eyryn late do þ<HI REND="italic">er</HI>to, <NOTE PLACE="foot">362 do] to <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And jws of ache <HI REND="italic">and</HI> gres of a swyne</L>
+<L>W<HI REND="italic">ith</HI> hony to-gedyr late menge þ<HI REND="italic">er</HI>-inne;</L>
+<L>And qwa<HI REND="italic">n</HI>ne þis playstir is mad well <HI REND="italic">and</HI> fyne, <MILESTONE N="365"/></L>
+<L>Well warme bynde it to þe verge to lyne. <MILESTONE N="330"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>Here be-gynnyth þe medicines for þe dropesye, to knowe bothe cold <HI REND="italic">and</HI> hoot.</HEAD>
+<L>¶ The dropesye is a sekenes full m<HI REND="italic">er</HI>veylous <NOTE PLACE="foot">367 m<HI REND="italic">er</HI>velyous <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And to ȝonge <HI REND="italic">and</HI> elde full p<HI REND="italic">er</HI>ylous; <NOTE PLACE="foot">368 p<HI REND="italic">er</HI>lyous <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Thys maystyr tellyth to leryd <HI REND="italic">and</HI> lowe,</L>
+<L>How he mowe þe dropesye knowe <MILESTONE N="370"/> <NOTE PLACE="foot">370 he] ȝe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And how he þ<HI REND="italic">at</HI> þ<HI REND="italic">er</HI>-in[ne] ben, <MILESTONE N="335"/> <NOTE PLACE="foot">371 he þ<HI REND="italic">at]</HI> þ<HI REND="italic">at</HI> he <HI REND="italic">Hs.</HI></NOTE></L>
+<L>How he mowne it knowe <HI REND="italic">and</HI> seen.</L>
+<L>þ<HI REND="italic">er</HI> ben to man<HI REND="italic">er</HI> of dropesye,</L>
+<L>As seyth þe maystyr i<HI REND="italic">n</HI> his mayst<HI REND="italic">ri</HI>[e]:</L>
+<L>þe ton is hot, þe toþ<HI REND="italic">er</HI> cold; <MILESTONE N="375"/></L>
+<L>þei wyl bothe slen a ma<HI REND="italic">n</HI> ful bold, <MILESTONE N="340"/></L>
+<L>But ȝyf he hawe helpe redely</L>
+<L>Of medysyne þat longyth þ<HI REND="italic">er</HI>-to rythly. <NOTE PLACE="foot">378 <HI REND="italic">Vor</HI> rythly <HI REND="italic">ist</HI> red <HI REND="italic">durchgestrichen.</HI></NOTE></L>
+<L>A man þat is in þe dropesye, I say,</L>
+<L>þe more he drynkyth, þe more he may; <MILESTONE N="380"/></L>
+<L>And þ<HI REND="italic">er</HI>-by schal a leche hym knowe, <MILESTONE N="345"/></L>
+<L>Qwethyr he bolne hey or lowe:</L>
+<L>Ȝif he bolne fryst in hys feet</L>
+<L>And þe bolnynge drawe vpward sket,</L>
+<L><PB N="305" REF="13"/>
+þe bokys tellyn for sothe i-wys, <MILESTONE N="385"/></L>
+<L>þe hoote dropesye þat it is; <MILESTONE N="350"/></L>
+<L>And qwa<HI REND="italic">n</HI>ne it comyth to þe herte, I seye,</L>
+<L>But ȝif he hawe helpe, sone schal he deye.</L>
+<L>And ȝif he bolne fryst in hys visage, <MILESTONE N="44" UNIT="P."/></L>
+<L>As tellyth þe maystyr in hys langage, <MILESTONE N="390"/></L>
+<L>And [it] goth downe be body <HI REND="italic">and</HI> flanke, <MILESTONE N="355"/></L>
+<L>Tyll it comyth to þe feet <HI REND="italic">and</HI> schanke,</L>
+<L>þa<HI REND="italic">n</HI>ne it is þe cold[e] dropesye,</L>
+<L>As tellyth vs þe maystyr wytt<HI REND="italic">er</HI>lye.</L>
+<L>¶ þese to man<HI REND="italic">er</HI>ys, þe sothe to say, <MILESTONE N="395"/></L>
+<L>A lewyd man wel knowe he may, <MILESTONE N="360"/></L>
+<L>And qwa<HI REND="italic">n</HI>ne he knowyth hym well þ<HI REND="italic">er</HI>-inne,</L>
+<L>þa<HI REND="italic">n</HI>ne may he his medycynys be-gynne.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe hoot dropesye good medi∣cine.</HEAD>
+<L>¶ Take grete erthe-wormys thryis thre</L>
+<L>þat alle þe hedys smet of be, <MILESTONE N="400"/></L>
+<L>And in holy watyr temp<HI REND="italic">er</HI>e hem smal <MILESTONE N="365"/></L>
+<L>And swkyr or lycoryce menge w<HI REND="italic">ith</HI>-all,</L>
+<L>þ<HI REND="italic">at</HI> þe dropyk drynke ix wormys ilke day,</L>
+<L>Lessand þe membrys of þe wormys ay,</L>
+<L>Tyll ix dayes be comyn <HI REND="italic">and</HI> goon, <MILESTONE N="405"/></L>
+<L>Thow hym thynkyth, it schwlde hy<HI REND="italic">m</HI> sloon, <MILESTONE N="370"/></L>
+<L>And þ<HI REND="italic">at</HI> he n[e] ete no goses flesche,</L>
+<L>Ne onyownys, ne no<HI REND="italic">n</HI> noyows mete fresche!</L>
+<L>þis medycyne full well prowyd is,</L>
+<L>As tellyth maystyr Galyeen i-wys. <MILESTONE N="410"/> <NOTE PLACE="foot">410 Galyoon <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe cold dropesye good medi∣cine.</HEAD>
+<L>¶ Take <HI REND="italic">and</HI> fle a mole owte of þe sky<HI REND="italic">n</HI>ne <MILESTONE N="375"/> <NOTE PLACE="foot">411 molle <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And boyle it þa<HI REND="italic">n</HI>ne in watyr <HI REND="italic">and</HI> wyn,</L>
+<L>And þe dropyk late drynke þe broth fresche</L>
+<L>And þa<HI REND="italic">n</HI>ne ete þe molys flesche.</L>
+<L>þis is medycyne good to trye <MILESTONE N="415"/> <NOTE PLACE="foot">415 to] <HI REND="italic">and Hs.</HI></NOTE> <NOTE PLACE="foot">415 f. <HI REND="italic">in einer zeile.</HI></NOTE></L>
+<L>For þe cold[e] dropesye. <MILESTONE N="380"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina.</HEAD>
+<L>¶ Anoþ<HI REND="italic">er</HI> medycyne I fynde wrete also</L>
+<L>þat to þe cold dropesye is good to doo:</L>
+<L>Alisawndir, betonye <HI REND="italic">and</HI> fenkele do take, <NOTE PLACE="foot">419 betanye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>W<HI REND="italic">ith</HI> aneyce [a] ȝewene porcyou<HI REND="italic">n</HI> late make <MILESTONE N="420"/> <MILESTONE N="45" UNIT="P."/> <NOTE PLACE="foot">420 anence <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And in a lynen cloth these gresys be take, <MILESTONE N="385"/></L>
+<L>It must be sothyn in good olde ale;</L>
+<L>And late hym drynkyn dayes sewene</L>
+<L>Eu<HI REND="italic">er</HI>ilke a day a porc[i]ou<HI REND="italic">n</HI> ȝewene.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina.</HEAD>
+<L>¶ To þe cold dropesye may [þis] ȝet do bote: <MILESTONE N="425"/></L>
+<L>Take <HI REND="italic">and</HI> wasche clene þe fenkele-rote, <MILESTONE N="390"/></L>
+<L>Take walwort, ysope <HI REND="italic">and</HI> alysawndyr</L>
+<L>And brom <HI REND="italic">and</HI> cost <HI REND="italic">and</HI> lawandere</L>
+<L><PB N="306" REF="14"/>
+And sawge and percely-rotys þ<HI REND="italic">er</HI>-too</L>
+<L>And wyrmode <HI REND="italic">and</HI> smalache ewy<HI REND="italic">n</HI>-lyke also, <MILESTONE N="430"/></L>
+<L>And seth ys w<HI REND="italic">ith</HI> hony, þese gressys, be-dene, <MILESTONE N="395"/> <NOTE PLACE="foot">431 <HI REND="italic">Vor</HI> sethys <HI REND="italic">ist</HI> sch <HI REND="italic">durchgestrichen.</HI></NOTE></L>
+<L>W<HI REND="italic">ith</HI> eyes qwytys do cleryn es clene; <NOTE PLACE="foot">432 claryn <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þat oþ<HI REND="italic">er</HI> drynke so he drynke non,</L>
+<L>Tyll ix dayes be comyn <HI REND="italic">and</HI> gone!</L>
+<L>Fwl certeynlyke þis drynke to make, <MILESTONE N="435"/></L>
+<L>Saw[er]eye [and] polypodye þ<HI REND="italic">er</HI>-to þ<HI REND="italic">ou</HI> take <MILESTONE N="400"/></L>
+<L>And seth ys in fywe galonys of wyne,</L>
+<L>In qwyt or reed[e], good <HI REND="italic">and</HI> fyne, <NOTE PLACE="foot">438 qwyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And ȝif þe seke hys lyfe wyl borwe, <NOTE PLACE="foot">439 seke man wyl hys lyfe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Late hym it drynke bothe ewen <HI REND="italic">and</HI> morwe. <MILESTONE N="440"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe dro∣pesye for a woman.</HEAD>
+<L>¶ All hoot do clewe a swynys mawe <MILESTONE N="405"/></L>
+<L>And all þe fylthe do clene owte drawe,</L>
+<L>And sprede it hot ou<HI REND="italic">er</HI> hyr<HI REND="italic">e</HI> prewyte,</L>
+<L>And all þe dropesye pysse schall sche.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Medicine for þe cold <HI REND="italic">and</HI> þe hoot dropesye.</HEAD>
+<L>¶ Take to handfull of ȝonge elerne-spritell <MILESTONE N="445"/></L>
+<L>And schrape of þe ou<HI REND="italic">er</HI>est bark w<HI REND="italic">ith</HI> a qwetyll <MILESTONE N="410"/></L>
+<L>And ley hem þa<HI REND="italic">n</HI>ne wel <HI REND="italic">and</HI> fyne</L>
+<L>In a galow<HI REND="italic">n</HI> of ale or ellys reed wyne,</L>
+<L>And w<HI REND="italic">ith</HI> centorye late hym soo sethe weel, <NOTE PLACE="foot">449 weell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Tyl it be sothyn into þe halwyndel, <MILESTONE N="450"/> <MILESTONE N="46" UNIT="P."/> <NOTE PLACE="foot">450 dell <HI REND="italic">Hs.; a. r.</HI> For þe stomak a good medicine <HI REND="italic">durchgestrichen.</HI></NOTE></L>
+<L>And ȝewe it hym to drynke ewy<HI REND="italic">n and</HI> morwe, <MILESTONE N="415"/></L>
+<L>And it schal swage þe seke ma<HI REND="italic">n</HI>nys sorwe.</L>
+<L>Here hawe I wretyn þ<HI REND="italic">at</HI> I fynde can</L>
+<L>To helpe þe dropesye of man <HI REND="italic">and</HI> woman.</L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe sto∣mak a good medicine.</HEAD>
+<L>¶ The rotys of polypodye, þ<HI REND="italic">at</HI> is wylde brake, <MILESTONE N="455"/></L>
+<L>W<HI REND="italic">ith</HI> fenkele-seed and aneys he take, <MILESTONE N="420"/></L>
+<L>To sponfull of ilke, <HI REND="italic">and</HI> comyne</L>
+<L>And sethe hem i<HI REND="italic">n</HI> a galou<HI REND="italic">n</HI> of wyne;</L>
+<L>Make of þis jous peletys be-dene,</L>
+<L>For it wyll make þe stomak clene. <MILESTONE N="460"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe pockys.</HEAD>
+<L>¶ Seint Nicasse had a pokke small <MILESTONE N="425"/></L>
+<L>And mekyl grewau<HI REND="italic">n</HI>s he had wyth-all;</L>
+<L>He preyed to God, þ<HI REND="italic">at</HI> hym dere bowte,</L>
+<L>þat qwo so indyrly hym be-sowte,</L>
+<L>þat he hym fro þe pockys schuld wer<HI REND="italic">e,</HI> <MILESTONE N="465"/></L>
+<L>Ȝif he on hym hys name wrete bere. <MILESTONE N="430"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For to slepe well.</HEAD>
+<L>¶ Qwo so may not slepe wel, <NOTE PLACE="foot">467 f. <HI REND="italic">in einer zeile.</HI></NOTE></L>
+<L>Take eg<HI REND="italic">ri</HI>monye a fayre del <NOTE PLACE="foot">468 <HI REND="italic">a. r.</HI> weell <HI REND="italic">Hs.</HI></NOTE></L>
+<L><PB N="307" REF="15"/>
+And ley it vndir his heed on nyth,</L>
+<L>And it schall hym do slepe aryth; <MILESTONE N="470"/></L>
+<L>For of his slepe schal he noȝt wakyn, <MILESTONE N="435"/></L>
+<L>Tyll it fro vndir his heed be takyn. <NOTE PLACE="foot">472 be <HI REND="italic">steht vor</HI> fro <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>For þe sydis medycine.</HEAD>
+<L>¶ Take wormode <HI REND="italic">and</HI> qwyt of eyre, I telle, <NOTE PLACE="foot">473 qwyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And mynte <HI REND="italic">and</HI> cressys of þe welle</L>
+<L>And seth es well in ma<HI REND="italic">n</HI>nys vryne, <MILESTONE N="475"/></L>
+<L>To wasche þe sydys: it slakyth þe pyne. <MILESTONE N="440"/></L>
+</DIV3>
+<DIV3 TYPE="section">
+<HEAD>For costyfhed a medicyne.</HEAD> 
+<L>¶ Take plaw<HI REND="italic">n</HI>teyn <HI REND="italic">and</HI> swynys gres <NOTE PLACE="foot">477 f. <HI REND="italic">in einer zeile.</HI></NOTE></L>
+<L>And make a playst<HI REND="italic">er</HI> of good r<HI REND="italic">e</HI>les,</L>
+<L>All hoot þe nowele lat it lyn vp-on,</L>
+<L>And here-of he schall hawe helpe full sone. <MILESTONE N="480"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia me<HI REND="italic">dicin</HI>a.</HEAD>
+<L>¶ In cas þis ne helpe may, <MILESTONE N="445"/></L>
+<L>þis is anoþ<HI REND="italic">er</HI> prowyd, I say:</L>
+<L>Take an onyou<HI REND="italic">n and</HI> hony clene <MILESTONE N="47" UNIT="P."/></L>
+<L>And rost it wel i<HI REND="italic">n</HI> colys [be]dene. <NOTE PLACE="foot">481-84 <HI REND="italic">je 2 verse in einer zeile.</HI></NOTE> <NOTE PLACE="foot">484 [be]dene] clene <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And hoot on his nowyl ȝif it be bou<HI REND="italic">n</HI>de, <MILESTONE N="485"/></L>
+<L>It schal delyu<HI REND="italic">er</HI>en hym on a stou<HI REND="italic">n</HI>de. <MILESTONE N="450"/></L>
+</DIV3>
+<DIV3 TYPE="section"> 
+<HEAD>Alia medicina.</HEAD>
+<L>¶ Also it is good ȝet at gret nede</L>
+<L>Of ley[n]tone-cresses to take þe seede;</L>
+<L>Take a large penywyte, <NOTE PLACE="foot">489 f. <HI REND="italic">in einer zeile.</HI></NOTE></L>
+<L>Qwere so þ<HI REND="italic">ou</HI> gete it myte, <MILESTONE N="490"/></L>
+<L>Mengid w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> holy watyr so þ<HI REND="italic">at</HI> it be, <MILESTONE N="455"/> <NOTE PLACE="foot">491 mengid] menge it <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And lat it be dronkyn dayes thre.</L>
+<L>þis dry<HI REND="italic">n</HI>ke schal warysche a ma<HI REND="italic">n,</HI> I seye,</L>
+<L>Or sone aft<HI REND="italic">er</HI> he xal deye,</L>
+<L>So þ<HI REND="italic">at</HI> he no<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> drynke ay, <MILESTONE N="495"/></L>
+<L>Ewene ne morwe ne mydday. <MILESTONE N="460"/> <NOTE PLACE="foot">493-96 <HI REND="italic">je 2 verse in einer zeile.</HI></NOTE> <NOTE PLACE="foot"><HI REND="italic">Zwischen den gedichten stehen mehrere prosarecepte.</HI></NOTE></L>
+</DIV3>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<HEAD>2. Heilkräuterlehre.</HEAD>
+<DIV3 TYPE="section">
+<HEAD>Frawschm<HI REND="italic">an</HI> halle.</HEAD>
+<L>¶ Of erbis xxiiij <MILESTONE N="49" UNIT="P."/></L>
+<L>I wyl þe telle by and by,</L>
+<L>As I fond wrety<HI REND="italic">n</HI> in a bok</L>
+<L>þ<HI REND="italic">at</HI> in borwyng I be-tok</L>
+<L>Of a gret ladyes prest <MILESTONE N="5"/> <MILESTONE N="465"/></L>
+<L>þ<HI REND="italic">at</HI> of gret name bar þe mest.</L>
+</DIV3>
+<DIV3 N="1" TYPE="section">
+<PB N="308" REF="16"/>
+<HEAD>[1.] Betonye.</HEAD>
+<L>¶ At betonye I wyll be-gy<HI REND="italic">n</HI>ne,</L> 
+<L>þ<HI REND="italic">at</HI> many v<HI REND="italic">er</HI>tewys hath hy<HI REND="italic">m</HI> w<HI REND="italic">ith</HI>-i<HI REND="italic">n</HI>ne. <NOTE PLACE="foot">V. 1-8 <HI REND="italic">je 2 in einer zeile.</HI></NOTE></L>
+<L>Betonye sethy<HI REND="italic">n</HI> þese lechys bedene, <NOTE PLACE="foot">9 sothy<HI REND="italic">n Hs.</HI></NOTE></L>
+<L>þat kepyth ma<HI REND="italic">n</HI>nys body clene; <MILESTONE N="10"/> <MILESTONE N="470"/></L>
+<L>Who so betonye on hym bere,</L>
+<L>Fro wykked speryt<HI REND="italic">es</HI> it wyll hy<HI REND="italic">m</HI> were.</L>
+<L>In þe monyth of august on all wyse</L>
+<L>It mwste be gaderyd, or so<HI REND="italic">n</HI>ne ryse;</L>
+<L>Who so drynke betonye <HI REND="italic">and</HI> hawe þe ston, <MILESTONE N="15"/> <MILESTONE N="475"/></L>
+<L>Be hys vryne it schall owt gon;</L>
+<L>Betonye, boyled <HI REND="italic">and</HI> dronkyn w<HI REND="italic">ith</HI> hony, <NOTE PLACE="foot">17 bolyed <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Is good ageyn þe dropesy, <NOTE PLACE="foot">18 <HI REND="italic">nach</HI> good <HI REND="italic">ist</HI> to dry <HI REND="italic">ausge∣strichen.</HI></NOTE></L>
+<L>And a playst<HI REND="italic">er</HI> of betoyne <NOTE PLACE="foot">19 f. <HI REND="italic">in einer zeile.</HI></NOTE> <NOTE PLACE="foot">19 betonye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Is good to leyn to syth of eyne; <MILESTONE N="20"/> <MILESTONE N="480"/></L>
+<L>Jows of betonye w<HI REND="italic">ith</HI> eurose clere</L>
+<L>Counfortyth þe herynge of þe ere; <NOTE PLACE="foot">22 Coūnf. <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Powdyr of betonye eke is good,</L>
+<L>Medelyd w<HI REND="italic">ith</HI> hony, for vyolent blod; <NOTE PLACE="foot">24 wyolent <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ageyn þe host, w<HI REND="italic">ith</HI>-owte lac, <MILESTONE N="25"/> <MILESTONE N="485"/></L>
+<L>It counfortyth þe brest w<HI REND="italic">ith</HI> þe stak; <NOTE PLACE="foot">26 It] þat; coūnf. <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe lewys of betonye, w<HI REND="italic">ith</HI> salt mad nesche,</L>
+<L>Is good for woundys in þe heed fresche; <NOTE PLACE="foot">28 woūndys <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Betonye also, dronkyn <HI REND="italic">and</HI> etyn,</L>
+<L>Terys of eyne it wyll letyn; <MILESTONE N="30"/> <MILESTONE N="490"/></L>
+<L>Betonye sothyn, þe soth to sayn,</L>
+<L>Is good for þe bolnynge of þe eyn</L>
+<L>In lycure þ<HI REND="italic">at</HI> whych wy<HI REND="italic">n</HI> men cally<HI REND="italic">n,</HI> <NOTE PLACE="foot">33 lycure <HI REND="italic">corrig. aus</HI> lucure.</NOTE></L>
+<L>Wha<HI REND="italic">n</HI>ne þe eyne arn blod-fallyn.</L>
+<L>Betonye, w<HI REND="italic">ith</HI> rewe sothy<HI REND="italic">n and</HI> dyth, <MILESTONE N="35"/> <MILESTONE N="495"/> <NOTE PLACE="foot">35 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>For-doth i<HI REND="italic">n</HI>-n<HI REND="italic">ur</HI>hed of ma<HI REND="italic">n</HI>nys syth;</L>
+<L>And betonye dronkyn sekyrly <MILESTONE N="50" UNIT="P."/></L>
+<L>Distroyeth veny<HI REND="italic">m</HI> in ma<HI REND="italic">n</HI>nys body.</L>
+<L>Betonye, sothy<HI REND="italic">n</HI> in reed wyn clene,</L>
+<L>P<HI REND="italic">ur</HI>gyth þe stomak <HI REND="italic">and</HI> þe splene. <MILESTONE N="40"/> <MILESTONE N="500"/></L>
+<L>Iiij lewys of betonye fyn <NOTE PLACE="foot">41 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And iij cupful of elde wy<HI REND="italic">n</HI></L>
+<L>And greynes of pepir xx and vij,</L>
+<L>Alle to-geddere growndy<HI REND="italic">n</HI> ewene</L>
+<L>And mad a drynke þ<HI REND="italic">er</HI>-of clenlyke, <MILESTONE N="45"/> <MILESTONE N="505"/></L>
+<L>þ<HI REND="italic">at</HI> p<HI REND="italic">ur</HI>gyth þe neris mythylyke.</L>
+<L>Betonye <HI REND="italic">and</HI> plantayn to-ged<HI REND="italic">er</HI> þ<HI REND="italic">ou</HI> take</L>
+<L>And w<HI REND="italic">ith</HI> hoot wat<HI REND="italic">er</HI> to-geder<HI REND="italic">e</HI> þ<HI REND="italic">ou</HI> make,</L>
+<L><PB N="309" REF="17"/>
+As seyth Mac<HI REND="italic">er</HI> opylyke,</L>
+<L>þ<HI REND="italic">at</HI> couertyth þe cotidyan mythilyke. <MILESTONE N="50"/> <MILESTONE N="510"/> <NOTE PLACE="foot">50 mythilyche <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ȝif þ<HI REND="italic">ou</HI> of vomites wylt hawe bote,</L>
+<L>Make a powdyr of betonye-rote</L>
+<L>And drynk it wi<HI REND="italic">th</HI> wat<HI REND="italic">er</HI> clene, <NOTE PLACE="foot">53 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>It dist<HI REND="italic">ro</HI>ith þe fe[uer] all be-dene.</L>
+<L>Iiij lewis of betonye, dronken w<HI REND="italic">ith</HI> hot wyn, <MILESTONE N="55"/> <MILESTONE N="515"/> <NOTE PLACE="foot">55 hoth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>P<HI REND="italic">ur</HI>gyth þe rewme weel <HI REND="italic">and</HI> fyn. <NOTE PLACE="foot">56 weell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe seed of betonye in tyme</L>
+<L>Is mythy drynke ageyn all venyme.</L>
+<L>Powdyr of betonye w<HI REND="italic">ith</HI> wyn, I wene,</L>
+<L>P<HI REND="italic">ur</HI>gyth þe mat<HI REND="italic">ri</HI>ce <HI REND="italic">and</HI> makyth al clene. <MILESTONE N="60"/> <MILESTONE N="520"/></L>
+<L>Who so take a bene-weyt[h]e</L>
+<L>Off powdyr of betonye, w<HI REND="italic">ith</HI> hony weel dyth, <NOTE PLACE="foot">62 <HI REND="italic">desgl.</HI></NOTE></L>
+<L>And ete it aft<HI REND="italic">er</HI> his soper<HI REND="italic">e</HI> ryf, <NOTE PLACE="foot">63 <HI REND="italic">nach</HI> ete <HI REND="italic">zwei buchstaben ausgestrichen;</HI> it sone <HI REND="italic">Hs.</HI></NOTE></L>
+<L>It counfortyth þe stomak <HI REND="italic">and</HI> mythys degestyf. <NOTE PLACE="foot">64 coūnf. <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Who so wyll don a serpent tene, <MILESTONE N="65"/> <MILESTONE N="525"/></L>
+<L>Take a garlond of betonye grene <NOTE PLACE="foot">66 Make <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And make a cerkle hy<HI REND="italic">m</HI> rownd abowte,</L>
+<L>And he schall neu<HI REND="italic">er</HI> on lywe gon owte,</L>
+<L>But w<HI REND="italic">ith</HI> his tayle he schall hy<HI REND="italic">m</HI> schende <MILESTONE N="51" UNIT="P."/></L>
+<L>Or w<HI REND="italic">ith</HI> his mowth hy<HI REND="italic">m</HI>-self to-rende. <MILESTONE N="70"/> <MILESTONE N="530"/></L>
+<L>þorow all þis woorld here on grou<HI REND="italic">n</HI>de</L>
+<L>Bet<HI REND="italic">er</HI> erbys may non be fou<HI REND="italic">n</HI>de</L>
+<L>þa<HI REND="italic">n</HI>ne betonye <HI REND="italic">and</HI> my<HI REND="italic">n</HI>te for þe stomak</L>
+<L>And eke for peyne <HI REND="italic">and</HI> werke in þe bak.</L>
+<L>A playst<HI REND="italic">er</HI> ot betonye, I þe seye, <MILESTONE N="75"/> <MILESTONE N="535"/></L>
+<L>Is good on þe thonwongys for to leye, <NOTE PLACE="foot">76 <HI REND="italic">nach</HI> þe <HI REND="italic">ein</HI> j <HI REND="italic">ausgekratzt.</HI></NOTE></L>
+<L>It abreggyth heed-werk <NOTE PLACE="foot">77 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And ȝewyth brythenesse to syth derke;</L>
+<L>And ȝif it be-falle to eld or ȝing</L>
+<L>Newly to lesyn here heryng, <MILESTONE N="80"/> <MILESTONE N="540"/></L>
+<L>Jows of betonye in his ere do leyn,</L>
+<L>And it bryngyth þe herynge ageyn.</L>
+<L>Ȝif on hawe þe toth-ake, <NOTE PLACE="foot">83 f. <HI REND="italic">desgl.</HI></NOTE></L>
+<L>Betoyn sothy<HI REND="italic">n and</HI> wy<HI REND="italic">n</HI> he take</L>
+<L>And kepe it in hys mowth at ewyn <HI REND="italic">and</HI> morwe, <MILESTONE N="85"/> <MILESTONE N="545"/> <NOTE PLACE="foot">85 morwy<HI REND="italic">n Hs.</HI></NOTE></L>
+<L>And it schall drywy<HI REND="italic">n</HI> away þe sorwe.</L>
+<L>Who so for t<HI REND="italic">ra</HI>uayle or for swynke</L>
+<L>Vse erly or late for to drynke,</L>
+<L>Vse betoyn fastande: i<HI REND="italic">n</HI> fay</L>
+<L>He schall noȝt be dronkyn þ<HI REND="italic">at</HI> ilke day. <MILESTONE N="90"/> <MILESTONE N="550"/></L>
+<L><PB N="310" REF="18"/>
+For alle sekenesse in eu<HI REND="italic">er</HI>y stou<HI REND="italic">n</HI>de</L>
+<L>Betonye is good, whyl it may be fou<HI REND="italic">n</HI>de.</L>
+<L>What man<HI REND="italic">er</HI> hurt þ<HI REND="italic">at</HI> neddres hawe, <NOTE PLACE="foot">93 hurth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And he mowe betony crawe,</L>
+<L>He schall hy<HI REND="italic">m</HI> striky<HI REND="italic">n</HI> þ<HI REND="italic">er</HI>-on anon, <MILESTONE N="95"/> <MILESTONE N="555"/> <NOTE PLACE="foot">95 anon <HI REND="italic">aus</HI> anan <HI REND="italic">corr.</HI></NOTE></L>
+<L>And all his wo schal fro hy<HI REND="italic">m</HI> gon.</L>
+<L>þat hawe I seyn w<HI REND="italic">ith</HI> ye <NOTE PLACE="foot">97 eye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>In gaderynge of betonye.</L>
+<L>Betoyne is þe erbis name</L>
+<L>And vetonye eke i<HI REND="italic">n</HI> same; <MILESTONE N="100"/> <MILESTONE N="560"/> <NOTE PLACE="foot">100 ike <HI REND="italic">Hs.</HI></NOTE></L>
+<L>At betoyne ende I</L>
+<L>And begy<HI REND="italic">n</HI>ne at centory. <NOTE PLACE="foot">95-102 <HI REND="italic">je zwei in einer z.</HI></NOTE></L>
+</DIV3>
+<DIV3 N="2" TYPE="section">
+<HEAD>[2.] Centory.</HEAD> 
+<L>¶ In good <HI REND="italic">and</HI> clene sothy<HI REND="italic">n</HI> centory,<NOTE PLACE="foot"><HI REND="italic">Vor</HI> 103 <HI REND="italic">sind wohl zeilen ausgefallen.</HI></NOTE></L>
+<L>And it be dronkyn by <HI REND="italic">and</HI> by, <NOTE PLACE="foot">104 dronkyn xv dayes <HI REND="italic">Hs.</HI></NOTE></L>
+<L>So þ<HI REND="italic">at</HI> it be mad cler<HI REND="italic">e and</HI> thynne; <MILESTONE N="105"/> <MILESTONE N="52." UNIT="P."/> <MILESTONE N="565"/></L>
+<L>What man<HI REND="italic">er</HI> veny<HI REND="italic">m</HI> be man w<HI REND="italic">ith</HI>-inne,</L>
+<L>It schal verely bresty<HI REND="italic">n</HI> þe flesch</L>
+<L>And drywy<HI REND="italic">n</HI> owt þe veny<HI REND="italic">m</HI> nesch.</L>
+<L>Ley no thyng ellys to þe wou<HI REND="italic">n</HI>de,</L>
+<L>Tyll þ<HI REND="italic">at</HI> he be heyl and sownde, <MILESTONE N="110"/> <MILESTONE N="570"/> <NOTE PLACE="foot">110 sown̄de <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Sawe i<HI REND="italic">n</HI> cas þ<HI REND="italic">at</HI> it be-tyde <NOTE PLACE="foot">111 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> þe wou<HI REND="italic">n</HI>de be hool <HI REND="italic">and</HI> wyde,</L>
+<L>þa<HI REND="italic">n</HI>ne entret þ<HI REND="italic">er</HI>-on do leyn,</L>
+<L>þ<HI REND="italic">at</HI> drawyth þe hyde togeder<HI REND="italic">e</HI> ageyn.</L>
+<L>þe odo<HI REND="italic">ur</HI> of centorie <HI REND="italic">and</HI> þe smel <MILESTONE N="115"/> <MILESTONE N="575"/></L>
+<L>Cou<HI REND="italic">n</HI>fortyth ma<HI REND="italic">n</HI>nys braynys well,</L>
+<L>Chasyth weckyd h(u)ork owt of þe heed <NOTE PLACE="foot">117 wockyd <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Be-twyn þe herlus <HI REND="italic">and</HI> þe sched.</L>
+<L>His flo<HI REND="italic">ur</HI> is whyt, his smel is sote, <NOTE PLACE="foot">119 whyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>For eu<HI REND="italic">er</HI>y soor he may do bote. <MILESTONE N="120"/> <MILESTONE N="580"/></L>
+</DIV3>
+<DIV3 N="3" TYPE="section">
+<HEAD>[3.] Golde.</HEAD>
+<L>¶ Golde is bitt<HI REND="italic">er</HI> in sauo<HI REND="italic">ur,</HI> <NOTE PLACE="foot">121 f. <HI REND="italic">in einer z.</HI></NOTE> <NOTE PLACE="foot">121 is <HI REND="italic">aus</HI> to <HI REND="italic">corrig.</HI></NOTE></L>
+<L>Fayr <HI REND="italic">and</HI> ȝelw in his flow<HI REND="italic">ur.</HI></L>
+<L>þe golde-flo<HI REND="italic">ur</HI> is good to sene,</L>
+<L>It makyth þe syth bryth <HI REND="italic">and</HI> clene;</L>
+<L>Wyscely to lokyn on his flowr<HI REND="italic">es</HI> <MILESTONE N="125"/> <MILESTONE N="585"/></L>
+<L>Drawyth owt of þe heed wikked hu<HI REND="italic">m</HI>ores.</L>
+<L>Good is þe lef, so is þe sed,</L>
+<L>To gryndyn <HI REND="italic">and</HI> drynky<HI REND="italic">n</HI> at gret ned;</L>
+<L>It wyll be dronky<HI REND="italic">n</HI> w<HI REND="italic">ith</HI> whey or w<HI REND="italic">ith</HI> ale</L>
+<L>Or w<HI REND="italic">ith</HI> good reed wyn þat be stale; <MILESTONE N="130"/> <MILESTONE N="590"/></L>
+<L>Alle man<HI REND="italic">er</HI> veny<HI REND="italic">m</HI> it will abate</L>
+<L>In ma<HI REND="italic">n</HI>nys body erly <HI REND="italic">and</HI> late.</L>
+<L><PB N="311" REF="19"/>
+Loke wyscely on golde erly at morwe,</L>
+<L>þat day fro feu<HI REND="italic">er</HI>es it schall þe borwe.</L>
+<L>þe odo<HI REND="italic">ur</HI> of þe golde is good to smelle, <MILESTONE N="135"/> <MILESTONE N="595"/></L>
+<L>As bokys of physyk ap<HI REND="italic">er</HI>tly telle,</L>
+<L>Ȝif it be gaderyd in som<HI REND="italic">er</HI>-tyde, <MILESTONE N="53" UNIT="P."/></L>
+<L>Wha<HI REND="italic">n</HI>ne he hy<HI REND="italic">m</HI> spredyth wyde <HI REND="italic">and</HI> syde;</L>
+<L>In þe monyth of august most it be,</L>
+<L>Wha<HI REND="italic">n</HI>ne þe mone is in þe v<HI REND="italic">er</HI>gine; <MILESTONE N="140"/> <MILESTONE N="600"/></L>
+<L>þe gaderer<HI REND="italic">e</HI> most þ<HI REND="italic">at</HI> tyme be-ware</L>
+<L>þ<HI REND="italic">at</HI> þe planete regne noth, Jubit<HI REND="italic">er,</HI></L>
+<L>For in þ<HI REND="italic">at</HI> tyme þ<HI REND="italic">at</HI> regnyth he, <NOTE PLACE="foot">143 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>He lesyth [all] þe erbis powste.</L>
+<L>Eke he þ<HI REND="italic">at</HI> golde schall be gaderande, <MILESTONE N="145"/> <MILESTONE N="605"/></L>
+<L>Hy<HI REND="italic">m</HI> be-howyth to be fastande <NOTE PLACE="foot">146 fastende <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And owt of dedly synne be clene,</L>
+<L>Thre pat<HI REND="italic">er</HI> nost<HI REND="italic">er</HI> seyende betwene; <NOTE PLACE="foot">148 nost<HI REND="italic">er and</HI> iij aues <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And þa<HI REND="italic">n</HI>ne seyth mayst<HI REND="italic">er</HI> Macrobius:</L>
+<L>Wha<HI REND="italic">n</HI>ne þis erbe is gaderid þus, <MILESTONE N="150"/> <MILESTONE N="610"/></L>
+<L>In lewys of lorry it must be wounde <NOTE PLACE="foot">151 woūnde <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And don þ<HI REND="italic">er</HI>-to woluys toth on a stou<HI REND="italic">n</HI>de.</L>
+<L>Wha<HI REND="italic">n</HI>ne it is þ<HI REND="italic">us</HI> to-geder<HI REND="italic">e</HI> browt[h],</L>
+<L>I rede þe gadder<HI REND="italic">e</HI>rys for-ȝete hem nowth,</L>
+<L>þe tyme þ<HI REND="italic">at</HI> he [it] on hy<HI REND="italic">m</HI> bere, <MILESTONE N="155"/> <MILESTONE N="615"/> <NOTE PLACE="foot">155 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Fro alle p<HI REND="italic">er</HI>ylys it wyl hy<HI REND="italic">m</HI> wer<HI REND="italic">e;</HI></L>
+<L>Man no wo<HI REND="italic">m</HI>man schall hawe no myth</L>
+<L>To speke aȝen hym but ryth;</L>
+<L>Frend <HI REND="italic">and</HI> foo hy<HI REND="italic">m</HI> schul grete</L>
+<L>W<HI REND="italic">ith</HI> wordys bothe fayr<HI REND="italic">e and</HI> swete. <MILESTONE N="160"/> <MILESTONE N="620"/></L>
+<L>And ȝif ony thyng be þe stoln</L>
+<L>And þe thewys wo[l]lyn be for-holn,</L>
+<L>Take þis golde, wowndyn <HI REND="italic">and</HI> leyd <NOTE PLACE="foot">163 wowndyd <HI REND="italic">Hs.</HI></NOTE></L>
+<L>To-geder<HI REND="italic">e,</HI> as be-forn is seyd, <NOTE PLACE="foot">164 seyde <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And hang yt abowty<HI REND="italic">n</HI> þi<HI REND="italic">n</HI> necke on nyth, <MILESTONE N="165"/> <MILESTONE N="625"/> <NOTE PLACE="foot">165 hangyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And þ<HI REND="italic">ou</HI> schalt of þe thewys hawe a syth</L>
+<L>And þ<HI REND="italic">ou</HI> schalt hem ke<HI REND="italic">n</HI>nyn <HI REND="italic">and</HI> sen</L>
+<L>And wetyn her<HI REND="italic">e</HI> c<HI REND="italic">on</HI>diciou<HI REND="italic">n</HI>s, what þei ben.</L>
+<L>As seyn þese maystres, golde wyl do mor<HI REND="italic">e,</HI> <MILESTONE N="54" UNIT="P."/></L>
+<L>Ȝif it be dyth as is seyd be-fore, <MILESTONE N="170"/> <MILESTONE N="630"/></L>
+<L>For ȝif it be leyd in holy stedys, <NOTE PLACE="foot">171 leyde <HI REND="italic">Hs.</HI></NOTE></L>
+<L>In chyrche þ<HI REND="italic">er</HI> wo<HI REND="italic">m</HI>men seyn here bedys,</L>
+<L>Ȝif þei ben cawse be strengthe of fors</L>
+<L>Of ony mariage be mad dewors,</L>
+<L>þow it be longe þ<HI REND="italic">at</HI> þei ben irke, <MILESTONE N="175"/> <MILESTONE N="635"/></L>
+<L>Schuln þei neu<HI REND="italic">er</HI> owt of þe kyrke,</L>
+<L><PB N="312" REF="20"/>
+þow messe be seyd <HI REND="italic">and</HI> passyd anon,</L>
+<L>Tyl it be remewyd <HI REND="italic">and</HI> awey don.</L>
+</DIV3>
+<DIV3 N="4" TYPE="section">
+<HEAD>[4.] Celidonye.</HEAD>
+<L>¶ Celydonye is an erbe, I seye,</L>
+<L>þ<HI REND="italic">at</HI> growyth in ȝerdys <HI REND="italic">and</HI> be weye <MILESTONE N="180"/> <MILESTONE N="640"/></L>
+<L>In tyme of somyr; ȝelw is his flo<HI REND="italic">ur,</HI></L>
+<L>Full bytt<HI REND="italic">er</HI> to drynkyn is his sawo<HI REND="italic">ur,</HI></L>
+<L>It is good to drynke i-wys</L>
+<L>For þe ȝelw jawndys.</L>
+<L>Who so wele on la<HI REND="italic">m</HI>messe-day <MILESTONE N="185"/> <MILESTONE N="645"/></L>
+<L>Erly on morw, or so<HI REND="italic">n</HI>ne splay,</L>
+<L>Gader<HI REND="italic">e</HI> celydony w<HI REND="italic">ith</HI> his roote,</L>
+<L>It helpyth <HI REND="italic">and</HI> doth meche bote.</L>
+<L>þe gaderer<HI REND="italic">e</HI> fastend most be</L>
+<L>W<HI REND="italic">ith</HI> pat<HI REND="italic">er</HI> nost<HI REND="italic">er and</HI> aue thre, <MILESTONE N="190"/> <MILESTONE N="650"/></L>
+<L>And celydonye w<HI REND="italic">ith</HI> hy<HI REND="italic">m</HI> ber<HI REND="italic">e,</HI></L>
+<L>No p<HI REND="italic">er</HI>sou<HI REND="italic">n</HI> schal [him] holde ne der<HI REND="italic">e.</HI> <NOTE PLACE="foot">183-192 <HI REND="italic">je zwei verse in einer z.</HI></NOTE></L>
+<L>¶ Ȝit seyth þe bok a wondyre-thyng:</L>
+<L>Ȝif man or wo<HI REND="italic">m</HI>man, eld or ȝing, <NOTE PLACE="foot">194 Ȝif] þ<HI REND="italic">at Hs.</HI></NOTE></L>
+<L>Celydonye þ<HI REND="italic">us</HI> gaderyd on hy<HI REND="italic">m</HI> ber<HI REND="italic">e</HI> <MILESTONE N="195"/> <MILESTONE N="655"/></L>
+<L>W<HI REND="italic">ith</HI> herte of melle þ<HI REND="italic">at</HI> ded were, <NOTE PLACE="foot">196 herthe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>He schall ou<HI REND="italic">er</HI>-come hys enmys</L>
+<L>And schapy<HI REND="italic">n</HI> her<HI REND="italic">e</HI> st<HI REND="italic">er</HI>[n]nys <HI REND="italic">and</HI> here malys;</L>
+<L>And ȝif it be takyn, as is seyd,</L>
+<L>And vnd<HI REND="italic">er</HI> a sek ma<HI REND="italic">n</HI>nys heed leyd, <MILESTONE N="200"/> <MILESTONE N="660"/></L>
+<L>Ȝif he schall deyin, he schall syngyn,</L>
+<L>Ȝif he schal lewy<HI REND="italic">n,</HI> terys schuln owt flyngy<HI REND="italic">n</HI></L>
+<L>Out of his eyne, gretande as sore</L>
+<L>As on þ<HI REND="italic">at</HI> hadde his modyr lore. <MILESTONE N="55" UNIT="P."/></L>
+<L>þese mayst<HI REND="italic">re</HI>s <HI REND="italic">and</HI> oþ<HI REND="italic">er</HI> many on <MILESTONE N="205"/> <MILESTONE N="665"/></L>
+<L>Celydonye, þis gres, wil don. <NOTE PLACE="foot">206 dōn <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 N="5" TYPE="section">
+<HEAD>[5.] Pipnielle.</HEAD>
+<L>¶ Pypnielle, a noble gres,</L>
+<L>þ<HI REND="italic">at</HI> pinp<HI REND="italic">er</HI>nolle callyd is—</L>
+<L>Of þis erbe arn spyc<HI REND="italic">is</HI> iij,</L>
+<L>Wol on-lyk sawe i<HI REND="italic">n</HI> qu<HI REND="italic">an</HI>tyte: <MILESTONE N="210"/> <MILESTONE N="670"/> <NOTE PLACE="foot">205-210 <HI REND="italic">je zwei in einer z.</HI></NOTE> <NOTE PLACE="foot">210 qu<HI REND="italic">an</HI>ntyte <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe femel on howsys w<HI REND="italic">ith</HI> lytyl whyt flowr<HI REND="italic">is</HI> <NOTE PLACE="foot">211 whyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>In gret plente <HI REND="italic">and</HI> lytyl honowr<HI REND="italic">is;</HI></L>
+<L>W<HI REND="italic">ith</HI> smale blo flowr<HI REND="italic">is</HI> þe toþ<HI REND="italic">er</HI> is wylde,</L>
+<L>Plente in whet<HI REND="italic">is</HI> growyth in felde;</L>
+<L>þe thrydde is best of eu<HI REND="italic">er</HI>i-chon, <MILESTONE N="215"/> <MILESTONE N="675"/></L>
+<L>A wel cowthe erbe of on <HI REND="italic">and</HI> on.</L>
+<L>In som<HI REND="italic">er</HI> he beryth a smal reed flo<HI REND="italic">ur,</HI></L>
+<L>P<HI REND="italic">ur</HI>pyr in syth <HI REND="italic">and</HI> in colo<HI REND="italic">ur;</HI></L>
+<L><PB N="313" REF="21"/>
+Hys stalke is flegged, fowr<HI REND="italic">e</HI>-sqwar<HI REND="italic">e</HI></L>
+<L>And beryth all-wey a flow<HI REND="italic">ur and</HI> is an hare. <MILESTONE N="220"/> <MILESTONE N="680"/></L>
+<L>Al day ageyn vndern <HI REND="italic">and</HI> non <NOTE PLACE="foot">221 vndern] e <HI REND="italic">aus</HI> r <HI REND="italic">korrig.</HI></NOTE></L>
+<L>He wyl hy<HI REND="italic">m</HI> spredy<HI REND="italic">n and</HI> on-don,</L>
+<L>And ageyn þe ewene-tyde</L>
+<L>He lokyth hy<HI REND="italic">m</HI>-self be eu<HI REND="italic">er</HI>y syde;</L>
+<L>He growyth be þe erthe lowe, <MILESTONE N="225"/> <MILESTONE N="685"/></L>
+<L>Nyh euery man wyl hy<HI REND="italic">m</HI> knowe,</L>
+<L>He hath in hy<HI REND="italic">m</HI> v<HI REND="italic">er</HI>teus monye, <NOTE PLACE="foot">227 manye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ȝif he be meynt clene w<HI REND="italic">ith</HI> betonye. <NOTE PLACE="foot">228 betoyne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>W<HI REND="italic">ith</HI> thre pat<HI REND="italic">er</HI> nost<HI REND="italic">er</HI> in monyth of may</L>
+<L>It schulde be gaderyd in sprynge of day. <MILESTONE N="230"/> <MILESTONE N="690"/></L>
+<L>þis erbe alone, þ<HI REND="italic">us</HI> gaderyd clene, <NOTE PLACE="foot">231 alono <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Mythly he fowyth þe splene;</L>
+<L>þe man þ<HI REND="italic">at</HI> beryth it day or nyth,</L>
+<L>Wekked spryt of hy<HI REND="italic">m</HI> schal han no myth;</L>
+<L>It w<HI REND="italic">ith</HI>-stant fendys power <MILESTONE N="235"/> <MILESTONE N="695"/> <NOTE PLACE="foot">235 f. <HI REND="italic">in einer zeile.</HI></NOTE></L>
+<L>And distroyith veny<HI REND="italic">m</HI> þ<HI REND="italic">at</HI> syt hy<HI REND="italic">m</HI> n<HI REND="italic">er;</HI> <NOTE PLACE="foot">236 weny<HI REND="italic">m Hs.</HI></NOTE></L>
+<L>Ȝif it be dronken w<HI REND="italic">ith</HI> betonye, <NOTE PLACE="foot">237 be∣toyne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Thow qweke w<HI REND="italic">ur</HI>mys ben in þe monye, <MILESTONE N="56" UNIT="P."/> <NOTE PLACE="foot">238 manye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Thorow þis drynk it schwln owt drywe,</L>
+<L>þ<HI REND="italic">er</HI> schal noȝt be-lewy<HI REND="italic">n</HI> on on lywe. <MILESTONE N="240"/> <MILESTONE N="700"/></L>
+<L>Ewene w<HI REND="italic">ith</HI> oþ<HI REND="italic">er in</HI> porsiou<HI REND="italic">n</HI> all</L>
+<L>He goth to þe merwall, <NOTE PLACE="foot">242 ner∣wall <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And on eu<HI REND="italic">er</HI>y oþ<HI REND="italic">er</HI> halwe</L>
+<L>He is good to eu<HI REND="italic">er</HI>y salwe, <NOTE PLACE="foot">241-244 <HI REND="italic">je zwei in einer zeile.</HI></NOTE></L>
+<L>To eu<HI REND="italic">er</HI>y salwe <HI REND="italic">and</HI> to þe syth <MILESTONE N="245"/> <MILESTONE N="705"/> <NOTE PLACE="foot">245 salwe] l <HI REND="italic">aus einem andern buchst. corrig.</HI></NOTE></L>
+<L>[Of] mekyl v<HI REND="italic">er</HI>tue <HI REND="italic">and</HI> meche of myth.</L>
+</DIV3>
+<DIV3 N="6" TYPE="section">
+<HEAD>[6.] Modirwort.</HEAD>
+<L>¶ Off modir-wort I wyl þe tellyn <NOTE PLACE="foot">247 -worth <HI REND="italic">Hs. a. r. und im texte.</HI></NOTE></L>
+<L>And as I fynde I schall þe spelly<HI REND="italic">n.</HI></L>
+<L>Off þ<HI REND="italic">at</HI> erbe arn spycys iij,</L>
+<L>I wyl þe tellyn whyche þei be: <MILESTONE N="250"/> <MILESTONE N="710"/></L>
+<L>þ[at] on, it growyth comely hende <NOTE PLACE="foot">251 þ[at] on] þow <HI REND="italic">Hs.!</HI></NOTE></L>
+<L>Be-twy<HI REND="italic">n</HI> weye, as men wende, <NOTE PLACE="foot">252 veye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe crop wyl bet<HI REND="italic">er</HI> þa<HI REND="italic">n</HI>ne þe rote</L>
+<L>To alle medycinis do bote; <NOTE PLACE="foot">254 may do <HI REND="italic">Hs.</HI></NOTE></L>
+<L>It is good to beryn day <HI REND="italic">and</HI> nyth, <MILESTONE N="255"/> <MILESTONE N="715"/></L>
+<L>It chasyth þe feu<HI REND="italic">er</HI>es fro his myth. <NOTE PLACE="foot">256 feu<HI REND="italic">er</HI>res <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe toþ<HI REND="italic">er</HI> man<HI REND="italic">er</HI> of modirwort, <NOTE PLACE="foot">257 -worth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>As seyth þe bok, is callyd cowth-wort, <NOTE PLACE="foot">258 -word <HI REND="italic">Hs.</HI></NOTE></L>
+<L><PB N="314" REF="22"/>
+And mayst<HI REND="italic">er</HI> botanic<HI REND="italic">us</HI> leryth vs bet, <NOTE PLACE="foot">259 beta<HI REND="italic">n</HI>nic<HI REND="italic">us Hs.</HI></NOTE></L>
+<L>Ȝif it be lewkyd w<HI REND="italic">ith</HI> oyle of roset, <MILESTONE N="260"/> <MILESTONE N="720"/></L>
+<L>Feu<HI REND="italic">er</HI>ows man, onoyntyd iij dayes w<HI REND="italic">ith</HI>-all,</L>
+<L>þe malys of feu<HI REND="italic">er</HI>es for-beryn he schall.</L>
+<L>þe thrydde man<HI REND="italic">er</HI> of modirwort is <NOTE PLACE="foot">263 -worth þ<HI REND="italic">er</HI> is <HI REND="italic">Hs.</HI></NOTE></L>
+<L>[þat] ȝelwe flowres beryth i-wys.</L>
+<L>Who so in his hond it bere, <MILESTONE N="265"/> <MILESTONE N="725"/></L>
+<L>Trawayle of weye schall hy<HI REND="italic">m</HI> non dere;</L>
+<L>And lete it be leyd in ony hows,</L>
+<L>As seyth mayst<HI REND="italic">er</HI> botanic<HI REND="italic">us,</HI> <NOTE PLACE="foot">268 betanic<HI REND="italic">us Hs.</HI></NOTE></L>
+<L>It schall out caste þe deuel[is] myth</L>
+<L>And torny<HI REND="italic">n</HI> wickyd ma<HI REND="italic">n</HI>nys syth. <MILESTONE N="270"/> <MILESTONE N="57" UNIT="P."/> <MILESTONE N="730"/></L>
+<L>In cas a wo<HI REND="italic">m</HI>man baryn be <NOTE PLACE="foot">271 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And conseywe noȝt may sche,</L>
+<L>Ȝif modirwort be dryed cler <NOTE PLACE="foot">273 -worth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And sythyn take leuys of lorer</L>
+<L>And sothyn in watyr weel <HI REND="italic">and</HI> fyn, <MILESTONE N="275"/> <MILESTONE N="735"/></L>
+<L>þa<HI REND="italic">n</HI>ne do þis dryed [all] þ<HI REND="italic">er</HI>-in <NOTE PLACE="foot">276 And þa<HI REND="italic">n</HI>ne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And þ<HI REND="italic">er</HI>-of a bath þ<HI REND="italic">ou</HI> her<HI REND="italic">e</HI> make;</L>
+<L>And w<HI REND="italic">ith</HI> her<HI REND="italic">e</HI> owen hond sche take</L>
+<L>þis wat<HI REND="italic">er,</HI> þat sche noȝt bly<HI REND="italic">n</HI>ne</L>
+<L>To waschyn her<HI REND="italic">e</HI> p<HI REND="italic">ri</HI>uyte w<HI REND="italic">ith</HI>-owty<HI REND="italic">n and</HI> inne; <MILESTONE N="280"/> <MILESTONE N="740"/> <NOTE PLACE="foot">280 p<HI REND="italic">er</HI>vyte <HI REND="italic">Hs.</HI></NOTE></L>
+<L>It schall her<HI REND="italic">e</HI> helpy<HI REND="italic">n</HI> to conseyuy<HI REND="italic">n</HI>g</L>
+<L>And also wo<HI REND="italic">m</HI>man in chyldyng.</L>
+<L>But modir-wort moste gaderyd be, <NOTE PLACE="foot">283 -worth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Whyl þe so<HI REND="italic">n</HI>ne is in ariete. <NOTE PLACE="foot">284 Whyll <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ȝit seyth þe mayst<HI REND="italic">er</HI> in his [q]v<HI REND="italic">er</HI>ye: <MILESTONE N="285"/> <MILESTONE N="745"/></L>
+<L>þis erbe is bet<HI REND="italic">er</HI>e grene, þa<HI REND="italic">n</HI> drye;</L>
+<L>Ȝif he be gaderid in hys kynde,</L>
+<L>þ<HI REND="italic">e</HI> wycke humores þat he may fynde</L>
+<L>þ<HI REND="italic">at</HI> man <HI REND="italic">and</HI> wo<HI REND="italic">m</HI>man han su<HI REND="italic">m</HI> tyme take</L>
+<L>And mown hem-self non issu make, <MILESTONE N="290"/> <MILESTONE N="750"/></L>
+<L>It schall dist<HI REND="italic">ro</HI>yn w<HI REND="italic">ith</HI>-owte lesyng</L>
+<L>W<HI REND="italic">ith</HI> playst<HI REND="italic">er</HI> mad <HI REND="italic">and</HI> it wassyng.</L>
+<L>Ȝit seyth mayst<HI REND="italic">er</HI> Mac<HI REND="italic">ro</HI>bius</L>
+<L>þat olde men hadden su<HI REND="italic">m</HI> tyme in vs</L>
+<L>To gadere modir-wort woll wyde <MILESTONE N="295"/> <MILESTONE N="755"/> <NOTE PLACE="foot">295 -worth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>W<HI REND="italic">ith</HI> fenel grene in som<HI REND="italic">er</HI>-tyde</L>
+<L>In howse [to] hangyn at ilke entre,</L>
+<L>[þat] þe deuyl ne wyk sprit [mithe] hawe no<HI REND="italic">n</HI> powste <NOTE PLACE="foot">298 sprith <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Hem ne here chyldir for to dere,</L>
+<L>And fro alle p<HI REND="italic">er</HI>yl hem to were. <MILESTONE N="300"/> <MILESTONE N="760"/></L>
+<L>Ȝit tellyth þe mayst<HI REND="italic">er</HI> þ<HI REND="italic">at</HI> I seyde be-fore, <MILESTONE N="58" UNIT="P."/></L>
+<L>þ<HI REND="italic">at</HI> modirwort is of v<HI REND="italic">er</HI>tue more: <NOTE PLACE="foot">302 -worth <HI REND="italic">Hs.</HI></NOTE></L>
+<L><PB N="315" REF="23"/>
+Ȝif eyther lewyd or prest</L>
+<L>Hawe gret streythed at hys brest, <NOTE PLACE="foot">304 streythed] r <HI REND="italic">aus einem andern buchst. corr.</HI></NOTE></L>
+<L>Modirwort late hym taky<HI REND="italic">n</HI> all grene <MILESTONE N="305"/> <MILESTONE N="765"/></L>
+<L>And grynde horhowne <HI REND="italic">and</HI> it to-ged<HI REND="italic">er</HI> clene</L>
+<L>And sethin w<HI REND="italic">ith</HI> barly-wort full cler <NOTE PLACE="foot">305 <HI REND="italic">u.</HI> 307 -worth <HI REND="italic">Hs.</HI></NOTE> <NOTE PLACE="foot">307 sothyn <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And drynkyn it of tyn be-for<HI REND="italic">e</HI> dyner<HI REND="italic">e;</HI> <NOTE PLACE="foot">308 drynkyn] r <HI REND="italic">aus einem andern buchst. corrig.</HI></NOTE></L>
+<L>It schall drywe þe streythed all away</L>
+<L>And makyn hy<HI REND="italic">m</HI> as qwart as pyk in fay. <MILESTONE N="310"/> <MILESTONE N="770"/></L>
+<L>þis v<HI REND="italic">er</HI>tues <HI REND="italic">and</HI> many mo</L>
+<L>Hath þis erbe, who so can þo,</L>
+<L>It is good to playst<HI REND="italic">er and</HI> many oþ<HI REND="italic">er</HI> thyng</L>
+<L>For þe mod<HI REND="italic">er and</HI> to drynkyng.</L>
+</DIV3>
+<DIV3 N="7" TYPE="section">
+<HEAD>[7.] Ver∣wayne.</HEAD>
+<L>¶ A lytyll wyl I tellyn of verwayne, <MILESTONE N="315"/> <MILESTONE N="775"/></L>
+<L>Herbe þat meche is of mayne;</L>
+<L>How good he is to ma<HI REND="italic">n</HI>nys helpe,</L>
+<L>Tunge noȝt well may it ȝelpe.</L>
+<L>Comely be weye <HI REND="italic">and</HI> gate <NOTE PLACE="foot">319 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>þ<HI REND="italic">ou</HI> may it fynde hey in state, <MILESTONE N="320"/> <MILESTONE N="780"/></L>
+<L>W<HI REND="italic">ith</HI> heye stalkys, many smale brawnchys,</L>
+<L>Smale bloysh flo<HI REND="italic">ur</HI>is owt of hym lawnchis;</L>
+<L>Frossis fot men calle it,</L>
+<L>For his leuys ar<HI REND="italic">e</HI> lyke þe frossys fet.</L>
+<L>To drynkys <HI REND="italic">and</HI> to playstrys alle <MILESTONE N="325"/> <MILESTONE N="785"/></L>
+<L>Hys v<HI REND="italic">er</HI>tues full well be-falle,</L>
+<L>To veynes astonyid <HI REND="italic">and</HI> to þe syth</L>
+<L>V<HI REND="italic">er</HI>t[u]ows <HI REND="italic">and</HI> ful of myth.</L>
+<L>As we redyn, gaderyd most hym be</L>
+<L>W<HI REND="italic">ith</HI> iij pat<HI REND="italic">er</HI> nost<HI REND="italic">er and</HI> iij aue, <MILESTONE N="330"/> <MILESTONE N="790"/></L>
+<L>Fastande, þow þe wedir be grylle,</L>
+<L>Be-twen mydde march <HI REND="italic">and</HI> mydde aprille; <MILESTONE N="59" UNIT="P."/></L>
+<L>And ȝet awysyd moste þe be <NOTE PLACE="foot">333 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> þe sonne be in ariete.</L>
+<L>Wha<HI REND="italic">n</HI>ne þ<HI REND="italic">ou</HI> hast gaderyd on þis maner<HI REND="italic">e,</HI> <MILESTONE N="335"/> <MILESTONE N="795"/></L>
+<L>Take v greynes of pionye of o ȝere,</L>
+<L>Do hem a clene cloth [with]inne,</L>
+<L>Kepe him clene owt of dedly sy<HI REND="italic">n</HI>ne, <NOTE PLACE="foot">338 hem <HI REND="italic">Hs.</HI></NOTE></L>
+<L>As seyth the bok ap<HI REND="italic">er</HI>tly,</L>
+<L>It couerith þe falland euyl p<HI REND="italic">er</HI>fythly; <MILESTONE N="340"/> <MILESTONE N="800"/></L>
+<L>Ȝif it be on hym day <HI REND="italic">and</HI> nyth</L>
+<L>And [he] kepe fro dedly synne aryth,</L>
+<L>þe deuel of helle schal hawe no myth</L>
+<L>To don hym neyþ<HI REND="italic">er</HI> fray ne fryth.</L>
+<L>Who so wyl maystres make, <MILESTONE N="345"/> <MILESTONE N="805"/></L>
+<L>Powdir of v<HI REND="italic">er</HI>ueyne hy<HI REND="italic">m</HI> most take,</L>
+<L><PB N="316" REF="24"/>
+But it most in þe monyth of may</L>
+<L>Be gadderid in spryng of day</L>
+<L>And sythen mad to powdir clene</L>
+<L>And cast on man <HI REND="italic">and</HI> wo<HI REND="italic">m</HI>man betwene, <MILESTONE N="350"/> <MILESTONE N="810"/></L>
+<L>Alle men sen schuln mown <NOTE PLACE="foot">351 schwuln <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Be-twen hem fallen [in] discensiou<HI REND="italic">n:</HI></L>
+<L>þow þei lowy<HI REND="italic">n</HI> hem neu<HI REND="italic">er</HI> so wel, <NOTE PLACE="foot">353 well <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þei schul flytyn <HI REND="italic">and</HI> strywy<HI REND="italic">n</HI> þ<HI REND="italic">at</HI> sel. <NOTE PLACE="foot">354 sell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Also seyth Macrobius: <MILESTONE N="355"/> <MILESTONE N="815"/> <NOTE PLACE="foot">355 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Ȝif it be cast in dofhows,</L>
+<L>Alle þe toþ<HI REND="italic">er</HI> dowis abowte</L>
+<L>Schwll gaderin þedir on a rowte.</L>
+<L>þis gres v<HI REND="italic">er</HI>ueyne, sothy<HI REND="italic">n</HI> in wyn,</L>
+<L>Ȝif it be dronkyn, distroyith venym <MILESTONE N="360"/> <MILESTONE N="820"/> <NOTE PLACE="foot">360 wenym <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And postemys þ<HI REND="italic">at</HI> waxin i<HI REND="italic">n</HI> man smert,</L>
+<L>And mythly cachyth hem fro þe herte.</L>
+<L>Good is þe crop, good is þe rote</L>
+<L>To drynkyn <HI REND="italic">and</HI> in playst<HI REND="italic">re</HI>s doth meche bote; <MILESTONE N="60" UNIT="P."/></L>
+<L>In som<HI REND="italic">er</HI> he schall be gaderyd g<HI REND="italic">re</HI>ne, <MILESTONE N="365"/> <MILESTONE N="825"/></L>
+<L>þa<HI REND="italic">n</HI>ne is his myth most be-dene.</L>
+</DIV3>
+<DIV3 N="8" TYPE="section">
+<HEAD>8.] Mortul aca.</HEAD>
+<L>¶ Mortulaca <HI REND="italic">and</HI> mortagon, <NOTE PLACE="foot">367 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Of swiche an erbe name is on,</L>
+<L>As seyth þe bok to hey <HI REND="italic">and</HI> lowe.</L>
+<L>I schall þe telle how it is knowe: <MILESTONE N="370"/> <MILESTONE N="830"/></L>
+<L>Of fynger-lengthe or sum del more</L>
+<L>þe lewys arn stiffe <HI REND="italic">and</HI> scharp be-fore,</L>
+<L>Also thicke <HI REND="italic">and</HI> fayr <HI REND="italic">and</HI> grene</L>
+<L>Ou<HI REND="italic">er</HI>thwert þe lef w<HI REND="italic">ith</HI> veyne[s] clene; <NOTE PLACE="foot">374 -thwerth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe veynys ben as whyt as mylke, <MILESTONE N="375"/> <MILESTONE N="835"/> <NOTE PLACE="foot">375 whyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Like þ<HI REND="italic">at</HI> erbe is knowe non swylk.</L>
+<L>Ȝif þ<HI REND="italic">ou</HI> (mow) þat erbe fynde, <NOTE PLACE="foot">377 mow <HI REND="italic">am ende der zeile nachgetr.</HI></NOTE></L>
+<L>I schall þe tellyn qwat is his kynde,</L>
+<L>As bokys techyn eu<HI REND="italic">er</HI>y-chon:</L>
+<L>He wyll ageyn þe strem gon, <MILESTONE N="380"/> <MILESTONE N="840"/></L>
+<L>Ageyn cowrs of watyr wyll he flete,</L>
+<L>Ȝif þe wat<HI REND="italic">er</HI> renne i<HI REND="italic">n</HI> good quiete;</L>
+<L>In his kynde tyme gaderid ȝif he be,</L>
+<L>þat no planete lette his powste,</L>
+<L>He wyl werkyn m<HI REND="italic">er</HI>w[el]ously, <MILESTONE N="385"/> <MILESTONE N="845"/> <NOTE PLACE="foot">385 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>As seyth þe bok op<HI REND="italic">er</HI>tly.</L>
+<L>Lete takyn his lewys to a pref</L>
+<L>An[d] chowe hem be-twyn þi teth</L>
+<L><PB N="317" REF="25"/>
+And ley hem on neu<HI REND="italic">er</HI> so strong a lok,</L>
+<L>It schal on-schety<HI REND="italic">n and</HI> onstrok; <MILESTONE N="390"/> <MILESTONE N="850"/></L>
+<L>Be gemews of jru<HI REND="italic">n</HI> mad neu<HI REND="italic">er</HI> so wel, <NOTE PLACE="foot">391 well <HI REND="italic">Hs.</HI></NOTE></L>
+<L>It driwyth hem asundir eu<HI REND="italic">er</HI>y del. <NOTE PLACE="foot">392 dell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>W<HI REND="italic">ith</HI> powdir of hy<HI REND="italic">m</HI> jogelowres pley</L>
+<L>And oftyn be-gylen me<HI REND="italic">n</HI>nys eye.</L>
+</DIV3>
+<DIV3 N="9" TYPE="section">
+<HEAD>[9.] Par∣wynke.</HEAD>
+<L>¶ Parwynke is an erbe grene of colo<HI REND="italic">ur,</HI> <MILESTONE N="395"/> <MILESTONE N="855"/></L>
+<L>In tyme of may he beryth blo flo<HI REND="italic">ur,</HI> <MILESTONE N="61" UNIT="P."/></L>
+<L>His stalkys arn so feynt <HI REND="italic">and</HI> feye <NOTE PLACE="foot">397 febyl <HI REND="italic">vor</HI> feynt <HI REND="italic">getilgt.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> neu<HI REND="italic">er</HI> mor<HI REND="italic">e</HI> growyth he heye;</L>
+<L>On þe grownde he re<HI REND="italic">n</HI>nyth <HI REND="italic">and</HI> [doth] growe,</L>
+<L>As doth þe erbe þ<HI REND="italic">at</HI> hyth tu<HI REND="italic">n</HI>howe; <MILESTONE N="400"/> <MILESTONE N="860"/></L>
+<L>þe lef is thicke, schine<HI REND="italic">n</HI>de <HI REND="italic">and</HI> styf,</L>
+<L>As is þe grene jwy-leef,</L>
+<L>[An] vnche brod <HI REND="italic">and</HI> nerhand rownde,</L>
+<L>Men calle it þe juy of grownde.</L>
+<L>Anoþ<HI REND="italic">er</HI> erbe is callyd soo, <MILESTONE N="405"/> <MILESTONE N="865"/></L>
+<L>þ<HI REND="italic">at</HI> we cally<HI REND="italic">n</HI> tu<HI REND="italic">n</HI>hoo.</L>
+<L>Ȝif it be gaderid in may-sel</L>
+<L>And dryed <HI REND="italic">and</HI> mad to powd<HI REND="italic">er</HI> wel <NOTE PLACE="foot">405-8 <HI REND="italic">je zwei in einer z.</HI></NOTE> <NOTE PLACE="foot">408 well <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And wermys, tweyanglys be name,</L>
+<L>Mad to powdyr <HI REND="italic">and</HI> menkte i<HI REND="italic">n</HI> same, <MILESTONE N="410"/> <MILESTONE N="870"/></L>
+<L>Ȝif wyf <HI REND="italic">and</HI> husbonde i<HI REND="italic">n</HI> drynk <HI REND="italic">and</HI> mete</L>
+<L>It vsyn oftyn <HI REND="italic">and</HI> noȝt for-ȝete,</L>
+<L>What discord be-twen hem be,</L>
+<L>It schall hem brynge to vnyte</L>
+<L>And don hem lewy<HI REND="italic">n</HI> togedir weel, <MILESTONE N="415"/> <MILESTONE N="875"/> <NOTE PLACE="foot">415 lowyn <HI REND="italic">Hs.;</HI> weell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>As eu<HI REND="italic">er</HI> þei dedin in ony seel. <NOTE PLACE="foot">416 dedin þei <HI REND="italic">Hs.;</HI> seell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Take of þe powd<HI REND="italic">er</HI> a lytyl also</L>
+<L>And do a lytyl bren þ<HI REND="italic">er</HI>-to</L>
+<L>An[d] in a fysch-pond late it caste,</L>
+<L>þe fysches schwln deyin iche on i<HI REND="italic">n</HI> hast. <MILESTONE N="420"/> <MILESTONE N="880"/></L>
+<L>To a net<HI REND="italic">is</HI> mowth ȝif þis poud<HI REND="italic">er</HI> be don, <NOTE PLACE="foot">421 anett<HI REND="italic">is Hs.</HI></NOTE></L>
+<L>It schall to-brestyn sone anon;</L>
+<L>þis is soth <HI REND="italic">and</HI> p<HI REND="italic">re</HI>wyd thynge</L>
+<L>Of owre eldere w<HI REND="italic">ith</HI>-owte lesynge.</L>
+<L>Ȝet wyl p<HI REND="italic">er</HI>uenke don meche more: <MILESTONE N="425"/> <MILESTONE N="885"/></L>
+<L>þow man blede of wou<HI REND="italic">n</HI>dys sore,</L>
+<L>It wyll dryen þe blod wondirly</L>
+<L>And staw[n]che þe blod redely. <MILESTONE N="62" UNIT="P."/></L>
+<L>Lete hym take lewys tweyne</L>
+<L>And heldyn hem be-twin hys teth, I seye, <MILESTONE N="430"/> <MILESTONE N="890"/></L>
+<L><PB N="318" REF="26"/>
+Where so he blede <HI REND="italic">and</HI> in what place,</L>
+<L>þe blod schall stawnchy<HI REND="italic">n</HI> thorow Goddys g<HI REND="italic">ra</HI>ce;</L>
+<L>þis hawe I seyn p<HI REND="italic">re</HI>wyd w<HI REND="italic">ith</HI>-owty<HI REND="italic">n</HI> fable</L>
+<L>And þ<HI REND="italic">er</HI>fore sertys I helde it stable.</L>
+</DIV3>
+<DIV3 N="10" TYPE="section">
+<HEAD>[10.] Rose.</HEAD>
+<L>¶ Of þe rose þ<HI REND="italic">at</HI> spryngyth on spray <MILESTONE N="435"/> <MILESTONE N="895"/></L>
+<L>[And] schewyth hys flowr<HI REND="italic">is</HI> in someres day—</L>
+<L>It nedyth noȝt hy<HI REND="italic">m</HI> to discrie,</L>
+<L>Eu<HI REND="italic">er</HI>i man [him] knowyth at ye. <NOTE PLACE="foot">438 eye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Of his v<HI REND="italic">er</HI>tues <HI REND="italic">and</HI> of his kinde <NOTE PLACE="foot">439 kende <HI REND="italic">Hs.</HI></NOTE></L>
+<L>I schal þe seyn, as in bok I fynde: <MILESTONE N="440"/> <MILESTONE N="900"/> <NOTE PLACE="foot">440 as I in bok <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Hys flowrys, gaderyd in som<HI REND="italic">er</HI>is day <NOTE PLACE="foot">441 Hys rede <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And kyndely dryed, for sothe to say,</L>
+<L>It arn goode, as in bok is set, <NOTE PLACE="foot">443 seth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>To gryndyn <HI REND="italic">and</HI> don to sucre-roset; <NOTE PLACE="foot">444 roseth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And as longe as it ben drye, <MILESTONE N="445"/> <MILESTONE N="905"/></L>
+<L>It mown to playstres <HI REND="italic">and</HI> many mayst<HI REND="italic">ri</HI>e.</L>
+<L>Whil þei ben fresche as þei stood, <NOTE PLACE="foot">447 stonde <HI REND="italic">vor</HI> stood <HI REND="italic">ausge∣strichen.</HI></NOTE></L>
+<L>To styllyn [þer] of wat<HI REND="italic">er</HI> for eyne is good;</L>
+<L>þ<HI REND="italic">at</HI> wat<HI REND="italic">er</HI> is callyd eurose be name,</L>
+<L>W<HI REND="italic">ith</HI> oþ<HI REND="italic">er</HI> erbis mad in same; <MILESTONE N="450"/> <MILESTONE N="910"/></L>
+<L>Oþ<HI REND="italic">er</HI> erbys, þat is to seyne</L>
+<L>Celidonye, reed fenel, rewe <HI REND="italic">and</HI> v<HI REND="italic">er</HI>ueyne.</L>
+<L>Su<HI REND="italic">m</HI>me don to þe same cas <NOTE PLACE="foot">453 þ <HI REND="italic">vor</HI> to <HI REND="italic">durchgestrichen.</HI></NOTE></L>
+<L>Filago, egremonye <HI REND="italic">and</HI> ewfras. <NOTE PLACE="foot">454 Filago <HI REND="italic">and Hs.</HI></NOTE></L>
+<L>Do stille þese erbis be hem selwe <MILESTONE N="455"/> <MILESTONE N="915"/> <NOTE PLACE="foot">455 Do] To <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And ewene porcyou<HI REND="italic">n</HI> w<HI REND="italic">ith</HI> waterys melle;</L>
+<L>þis wat<HI REND="italic">er</HI> is good for eyne sm<HI REND="italic">er</HI>tyng</L>
+<L>And for þe syth claryfying. <MILESTONE N="63." UNIT="P."/></L>
+<L>Ȝif man hawe at his herte</L>
+<L>Peyne hy<HI REND="italic">m</HI> grewend sore <HI REND="italic">and</HI> smerte, <MILESTONE N="460"/> <MILESTONE N="920"/></L>
+<L>Playst<HI REND="italic">er</HI> of rose, mad wel, <NOTE PLACE="foot">461 well <HI REND="italic">Hs.</HI></NOTE></L>
+<L>All hot leyd to, dist<HI REND="italic">ro</HI>ith il del; <NOTE PLACE="foot">462 leyde <HI REND="italic">Hs.;</HI> dell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And aft<HI REND="italic">er</HI>ward a drawt[h] of wyn <NOTE PLACE="foot">463 r <HI REND="italic">vor</HI> afte<HI REND="italic">r durch∣gestr.;</HI> good wyn <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Schall cler<HI REND="italic">e</HI> þi bowalys weel <HI REND="italic">and</HI> fyn. <NOTE PLACE="foot">464 weell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Also þe bok tellyth i<HI REND="italic">n</HI> latyn: <MILESTONE N="465"/> <MILESTONE N="925"/> <NOTE PLACE="foot">465 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Take a greyn of rose fyn</L>
+<L>And w<HI REND="italic">ith</HI> a greyn of mustard-seed</L>
+<L>Lete sethy<HI REND="italic">n and</HI> grynd it w<HI REND="italic">ith</HI> weslfet <NOTE PLACE="foot">468 a wesl <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And þa<HI REND="italic">n</HI>ne hang yt in a tre, <NOTE PLACE="foot">469 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>In what place so þ<HI REND="italic">at</HI> it be; <MILESTONE N="470"/> <MILESTONE N="930"/></L>
+<L><PB N="319" REF="27"/>
+And neu<HI REND="italic">er</HI> schall þe tre fruyt bere,</L>
+<L>Whyl þ<HI REND="italic">at</HI> con-feccyou<HI REND="italic">n</HI> hangyt[h] þ<HI REND="italic">er</HI>e.</L>
+<L>Ȝit tellyth þe bok ferþ<HI REND="italic">er</HI> vs:</L>
+<L>þis confeccyou<HI REND="italic">n</HI> is mor<HI REND="italic">e</HI> m<HI REND="italic">er</HI>uylyows;</L>
+<L>Lete castyn it in a net in þe se, <MILESTONE N="475"/> <MILESTONE N="935"/></L>
+<L>Wond<HI REND="italic">er</HI>-thyng þ<HI REND="italic">ou</HI> [sone] schalt se:</L>
+<L>Alle þe fyschis þ<HI REND="italic">er</HI>-abowte <NOTE PLACE="foot">477 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Schall gadir þedir i<HI REND="italic">n</HI> a rowte.</L>
+<L>þis c<HI REND="italic">on</HI>feccyou<HI REND="italic">n</HI> al be-dene</L>
+<L>Be brent <HI REND="italic">and</HI> mad to powd<HI REND="italic">er</HI> clene <MILESTONE N="480"/> <MILESTONE N="940"/></L>
+<L>And be in a lawmpe cast <NOTE PLACE="foot">481 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And be þ<HI REND="italic">er</HI>-i<HI REND="italic">n</HI>ne lyth aft<HI REND="italic">er</HI> i<HI REND="italic">n</HI> hast;</L>
+<L>Alle þ<HI REND="italic">at</HI> þ<HI REND="italic">er</HI> stondyn abowte, to falle</L>
+<L>Schwln semy<HI REND="italic">n,</HI> as þei wer<HI REND="italic">e</HI> deblett<HI REND="italic">is</HI> alle.</L>
+<L>Ȝit þis powdyr wyll don al-so: <MILESTONE N="485"/> <MILESTONE N="945"/> <NOTE PLACE="foot">485 <HI REND="italic">das</HI> ll <HI REND="italic">von</HI> wyll <HI REND="italic">ver∣schmiert.</HI></NOTE></L>
+<L>And oyle of olyue be don þ<HI REND="italic">er</HI>-to <NOTE PLACE="foot">486 olyue or bru<HI REND="italic">n</HI>ston or wy<HI REND="italic">n Hs.</HI></NOTE></L>
+<L>And an hous þ<HI REND="italic">er</HI>-wyth anoynted be,</L>
+<L>It schall a[p]peryn bre<HI REND="italic">n</HI>nyng to se.</L>
+<L>þese fowre laste þ<HI REND="italic">us</HI> wrety<HI REND="italic">n</HI> I fynde <NOTE PLACE="foot">489 la <HI REND="italic">vor</HI> wrety<HI REND="italic">n aus∣gestr.,</HI> r <HI REND="italic">in</HI> wrety<HI REND="italic">n aus</HI> e <HI REND="italic">corrig.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> þis <HI REND="italic">con</HI>feccyou<HI REND="italic">n</HI> will werky<HI REND="italic">n</HI> be kynde; <MILESTONE N="490"/> <MILESTONE N="950"/></L>
+<L>Wheþ<HI REND="italic">er</HI> it is soth, or it ne is,</L>
+<L>I seye noȝt but as þe bok me wys. <MILESTONE N="64" UNIT="P."/></L>
+<L>þe autow<HI REND="italic">ur</HI>s name þat þis wrot <NOTE PLACE="foot">493 wroth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe bok wytnessit[h] ryth not. <NOTE PLACE="foot">494 wythnessit <HI REND="italic">Hs.</HI> noth <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 N="11" TYPE="section">
+<HEAD>[11.] Lilie.</HEAD>
+<L>¶ Of þe lylie [I telle] <HI REND="italic">and</HI> of his kynde, <MILESTONE N="495"/> <MILESTONE N="955"/></L>
+<L>In diu<HI REND="italic">er</HI>se bokys as I fynde.</L>
+<L>Fowre man<HI REND="italic">er</HI> of liliis þ<HI REND="italic">er</HI> ben,</L>
+<L>As men in þe bok may sen:</L>
+<L>þe ton is meche, þ<HI REND="italic">at</HI> is callyd hende,</L>
+<L>þ<HI REND="italic">at</HI> is most of v<HI REND="italic">er</HI>teu to man <HI REND="italic">and</HI> kende, <MILESTONE N="500"/> <MILESTONE N="960"/></L>
+<L>[It] waxit[h] in ȝerdis w<HI REND="italic">ith</HI> þe flo<HI REND="italic">ur</HI></L>
+<L>þat is callyd þe gleyglof-pow<HI REND="italic">ur;</HI></L>
+<L>And it is whyt as ony mylk, <NOTE PLACE="foot">503 whyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>No flow<HI REND="italic">ur</HI> on o<HI REND="italic">ur</HI> grou<HI REND="italic">n</HI>de is non swylk.</L>
+<L>þis lilie may most do man bote <MILESTONE N="505"/> <MILESTONE N="965"/></L>
+<L>Bothe in leuys <HI REND="italic">and</HI> in rote;</L>
+<L>For botchys <HI REND="italic">and</HI> postemys egr<HI REND="italic">e and</HI> wode</L>
+<L>þis lilie in playstre is ful gode;</L>
+<L>Ȝif it be meynt w<HI REND="italic">ith</HI> swynes gres,</L>
+<L>All hot leyd to, w<HI REND="italic">ith</HI>-outy<HI REND="italic">n</HI> les <MILESTONE N="510"/> <MILESTONE N="970"/></L>
+<L>It rypyth þe sor sothly <NOTE PLACE="foot">511 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And mak<HI REND="italic">ith</HI> to bresty<HI REND="italic">n</HI> vereyly</L>
+<L><PB N="320" REF="28"/>
+And p<HI REND="italic">ur</HI>gyth <HI REND="italic">and</HI> helyth w<HI REND="italic">ith</HI>-owte lesynge</L>
+<L>More þa<HI REND="italic">n</HI>ne þe toþ<HI REND="italic">er</HI> in alle thynge.</L>
+<L>þe toþ<HI REND="italic">er</HI> lilie in som<HI REND="italic">er</HI>-tyde <MILESTONE N="515"/> <MILESTONE N="975"/></L>
+<L>In grene londys <HI REND="italic">and</HI> wodys wyde</L>
+<L>Is wode-lilie w<HI REND="italic">ith</HI> flowres fele,</L>
+<L>Blo p<HI REND="italic">ur</HI>pre-flowres, no leef on stele. <NOTE PLACE="foot">518 <HI REND="italic">Hier scheinen einige verse ausgefallen zu sein.</HI></NOTE></L>
+<L>. . . . . . . . . . . . . . .</L>
+<L>þe fowrt[h]e spyce of lilie is</L>
+<L>[þat] is callyd lilie of feld i-wys. <MILESTONE N="520"/> <MILESTONE N="980"/></L>
+<L>Hys wyse is ȝelw lyk safrou<HI REND="italic">n,</HI></L>
+<L>þ<HI REND="italic">er</HI>by knowy<HI REND="italic">n</HI> it weel men mown. <NOTE PLACE="foot">522 weell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Lilie wil be gaderyd i-wys, <MILESTONE N="65" UNIT="P."/> <NOTE PLACE="foot">523 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Whil þe so<HI REND="italic">n</HI>ne i<HI REND="italic">n</HI> leon is,</L>
+<L>þat is to seye: fro mydde july <MILESTONE N="525"/> <MILESTONE N="985"/></L>
+<L>To mydde awgust sekyrly,</L>
+<L>Fro þe xv. day of july trust <NOTE PLACE="foot">527 f. <HI REND="italic">desgl.</HI></NOTE></L>
+<L>Tyl þe xiij. of august.</L>
+<L>Gadere þat tyme lilie of ȝer<HI REND="italic">e</HI></L>
+<L>And meng yt w<HI REND="italic">ith</HI> lewys of lorer<HI REND="italic">e</HI> <MILESTONE N="530"/> <MILESTONE N="990"/></L>
+<L>And ley it vnder a gret donghille,</L>
+<L>þ<HI REND="italic">er</HI>-of schall brede wormys g<HI REND="italic">re</HI>te <HI REND="italic">and</HI> grylle,</L>
+<L>Off whyche a powdir be mad anon</L>
+<L>And cast it on clothys þ<HI REND="italic">at</HI> folk han on;</L>
+<L>þey schull noȝt slepyn be dayes iij, <MILESTONE N="535"/> <MILESTONE N="995"/> <NOTE PLACE="foot">535 þey] Ȝey <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Whil þe clothis on hem be; <NOTE PLACE="foot">536 Whill <HI REND="italic">Hs.; vor</HI> þe <HI REND="italic">ist</HI> cl <HI REND="italic">durchgestr.</HI></NOTE></L>
+<L>For tyll þe clothys be don away,</L>
+<L>þei schwll noȝt slepe be nyth ne day.</L>
+<L>Ȝif þ<HI REND="italic">ou</HI> take netys mylk also</L>
+<L>And þis powdir þ<HI REND="italic">ou</HI> medyl þ<HI REND="italic">er</HI>to, <MILESTONE N="540"/> <MILESTONE N="1000"/></L>
+<L>And who þ<HI REND="italic">er</HI>-of etyn schall, <NOTE PLACE="foot">541 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>In to a feu<HI REND="italic">er</HI> sone schal he falle;</L>
+<L>Be it woma<HI REND="italic">n,</HI> be it ma<HI REND="italic">n,</HI></L>
+<L>For sothe þe feu<HI REND="italic">er</HI>ys schall hym han.</L>
+<L>þis powdir, ȝit it wyll do more <MILESTONE N="545"/> <MILESTONE N="1005"/></L>
+<L>And it wyll werkyn meche sore:</L>
+<L>Ȝif in an hows be xl neet <NOTE PLACE="foot">547 Ȝif] þ<HI REND="italic">at Hs.</HI></NOTE></L>
+<L>And alle ȝeuy<HI REND="italic">n</HI> mylk in plente gret,</L>
+<L>A dischefull of mylk, do it in a bacyn <NOTE PLACE="foot">549 dyll <HI REND="italic">vor</HI> dische <HI REND="italic">getilgt.</HI></NOTE></L>
+<L>And þis powdir let cast þ<HI REND="italic">er</HI>-in: <MILESTONE N="550"/> <MILESTONE N="1010"/></L>
+<L>þo ilke neet schull eu<HI REND="italic">er</HI>y-chon</L>
+<L>Alle here mylk for-gon anon. <NOTE PLACE="foot">552 anan <HI REND="italic">Hs.</HI></NOTE></L>
+<L><PB N="321" REF="29"/>
+þese hawe I noȝt p<HI REND="italic">re</HI>wyd i-wys,</L>
+<L>But þe bok tellyth þ<HI REND="italic">at</HI> þus it is. <MILESTONE N="554"/></L>
+</DIV3>
+<DIV3 N="12" TYPE="section">
+<HEAD>[12.] Hen[n]e∣bane.</HEAD>
+<L>¶ Henbane, an erbe comown, <MILESTONE N="1015"/> <NOTE PLACE="foot">555 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>On bankis growith i<HI REND="italic">n</HI> eu<HI REND="italic">er</HI>y town;</L>
+<L>It nedyth noȝt meche to mowthe, <MILESTONE N="66" UNIT="P."/></L>
+<L>For to eu<HI REND="italic">er</HI>y body weel it is kowthe. <NOTE PLACE="foot">558 For ny to <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Hys jows, medelyd w<HI REND="italic">ith</HI> rosalgere</L>
+<L>And ermodattilis of on ȝere, <MILESTONE N="560"/> <MILESTONE N="1020"/></L>
+<L>Ȝif [it] in mete or drynk be cast,</L>
+<L>It wyll ben howndys bane in hast.</L>
+<L>Also þis same c<HI REND="italic">on</HI>fecc[i]ou<HI REND="italic">n,</HI> <NOTE PLACE="foot">563 f. <HI REND="italic">desgl.</HI></NOTE></L>
+<L>Grett<HI REND="italic">er</HI> wondris wyl it don:</L>
+<L>Ȝif a dysche be mad of sylu<HI REND="italic">er</HI> fyn <MILESTONE N="565"/> <MILESTONE N="1025"/></L>
+<L>And þis c<HI REND="italic">on</HI>fecc[i]ou<HI REND="italic">n</HI> be don þ<HI REND="italic">er</HI>-in,</L>
+<L>As þe bok i-wys tellyth in tale,</L>
+<L>þe dysch schall brestyn in pecys smale.</L>
+<L>Harys blod ȝif þ<HI REND="italic">ou</HI> take <NOTE PLACE="foot">569 f. <HI REND="italic">desgl.</HI></NOTE></L>
+<L>And w<HI REND="italic">ith</HI> jows of he<HI REND="italic">n</HI>nebane medele <HI REND="italic">and</HI> make <MILESTONE N="570"/> <MILESTONE N="1030"/></L>
+<L>And in an harys skyn do it bynde</L>
+<L>And lete it so lyn in feld or<HI REND="italic">e</HI> lynde</L>
+<L>Or sow it on an harys skyn, <NOTE PLACE="foot">573 ith <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And in what place þ<HI REND="italic">ou</HI> lete it lyn:</L>
+<L>Alle þe har<HI REND="italic">is</HI> þ<HI REND="italic">er</HI> abowte <MILESTONE N="575"/> <MILESTONE N="1035"/> <NOTE PLACE="foot">575 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Schull gad<HI REND="italic">er</HI> þedir on a rowte.</L>
+<L>Take here a fayr<HI REND="italic">e</HI> leryng</L>
+<L>Of he<HI REND="italic">n</HI>nebane w<HI REND="italic">ith</HI>-owte lesyng:</L>
+<L>þe bok tellyth þ<HI REND="italic">at</HI> he<HI REND="italic">n</HI>nebane-rote</L>
+<L>Of þe broc is mythi bote; <MILESTONE N="580"/> <MILESTONE N="1040"/></L>
+<L>Ȝif it in hys kynde be leyd þ<HI REND="italic">er</HI>-on,</L>
+<L>It schal brestyn it anon</L>
+<L>And awey þe felthe don eu<HI REND="italic">er</HI>y deel</L>
+<L>And sithen helyn it fayr<HI REND="italic">e and</HI> wel. <NOTE PLACE="foot">584 well <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ferþ<HI REND="italic">er</HI>more, as seyth þe bok, <MILESTONE N="585"/> <MILESTONE N="1045"/></L>
+<L>Ȝif þe falle to brede a broc <NOTE PLACE="foot">586 broc] b <HI REND="italic">aus einem andern buchst. corrig.</HI></NOTE></L>
+<L>And jows of he<HI REND="italic">n</HI>nebane þ<HI REND="italic">ou</HI> take</L>
+<L>And drynk it, þow þ<HI REND="italic">ou</HI> hawe ake,</L>
+<L>Ȝif þe bok be to leuy<HI REND="italic">n</HI> on, <NOTE PLACE="foot">589 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Schalt þ<HI REND="italic">ou</HI> neu<HI REND="italic">er</HI> mor<HI REND="italic">e</HI> hawe no<HI REND="italic">n.</HI> <MILESTONE N="590"/> <MILESTONE N="1050"/></L>
+<L>Among<HI REND="italic">is</HI> wo<HI REND="italic">m</HI>men ȝif þ<HI REND="italic">ou</HI> schuldist gon <MILESTONE N="67" UNIT="P."/></L>
+<L>And he<HI REND="italic">n</HI>nebane hawe þe vp-on,</L>
+<L>þis ilk cas it schall be-falle,</L>
+<L>It schall hem make to lowe þe alle,</L>
+<L><PB N="322" REF="30"/>
+It schall þe makyn ȝong <HI REND="italic">and</HI> lyth <MILESTONE N="595"/> <MILESTONE N="1055"/></L>
+<L>And dilitable to here syth.</L>
+<L>Ȝif vnd<HI REND="italic">er</HI> nethy<HI REND="italic">n</HI> þ<HI REND="italic">er</HI> hennys sate</L>
+<L>Of he<HI REND="italic">n</HI>nebane a smoþ<HI REND="italic">er</HI> þ<HI REND="italic">ou</HI> make,</L>
+<L>Alle þo þ<HI REND="italic">at</HI> þe smoþ<HI REND="italic">er</HI> smyt, <NOTE PLACE="foot">599 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>As ded þei schul fa[l]ly<HI REND="italic">n</HI> dou<HI REND="italic">n</HI> i<HI REND="italic">n</HI> a fyt. <MILESTONE N="600"/> <MILESTONE N="1060"/></L>
+<L>Of alle erbys þ<HI REND="italic">at</HI> growy<HI REND="italic">n</HI> on grownde,</L>
+<L>To wickyd spirit<HI REND="italic">is</HI> it is a wou<HI REND="italic">n</HI>de;</L>
+<L>Ageyns hem fel it is <HI REND="italic">and</HI> fers,</L>
+<L>þ<HI REND="italic">at</HI> weel knowyn nyg<HI REND="italic">ro</HI>manseris. <NOTE PLACE="foot">604 weell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Of he<HI REND="italic">n</HI>nebane arn spycys iij, <MILESTONE N="605"/> <MILESTONE N="1065"/></L>
+<L>I schal ȝow telle whyche it be:</L>
+<L>There is red, ȝelw <HI REND="italic">and</HI> blac,</L>
+<L>Alle wyll sauo<HI REND="italic">ur</HI> an hidhows smak.</L>
+<L>No ferþ<HI REND="italic">er</HI>e tellyth þe bok of here kinde, <NOTE PLACE="foot">609 her<HI REND="italic">e nach</HI> here <HI REND="italic">getilgt;</HI> kende <HI REND="italic">Hs.</HI></NOTE></L>
+<L>No more telle I ȝow, þa<HI REND="italic">n</HI>ne I fynde. <MILESTONE N="610"/> <MILESTONE N="1070"/></L>
+</DIV3>
+<DIV3 N="13" TYPE="section">
+<HEAD>[13.] Affodille.</HEAD>
+<L>¶ Affodille, a p<HI REND="italic">re</HI>cious gres, <NOTE PLACE="foot">611 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Is noth red in englysch; <NOTE PLACE="foot">612 His <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Su<HI REND="italic">m</HI>me seyn, þ<HI REND="italic">er</HI> arn lekys fywe</L>
+<L>But þe beste þat is on lywe: <NOTE PLACE="foot">614 on] o <HI REND="italic">aus</HI> i <HI REND="italic">corrig.</HI></NOTE></L>
+<L>Garlec þe ton, lec þe toþ<HI REND="italic">er,</HI> <MILESTONE N="615"/> <MILESTONE N="1075"/> <NOTE PLACE="foot">615 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Sq<HI REND="italic">uir</HI>le[c] is þe g<HI REND="italic">re</HI>te broþ<HI REND="italic">er,</HI></L>
+<L>Gracia dei, þ<HI REND="italic">at</HI> growyth in mede,</L>
+<L>Affodylle þe fyfte schrede.</L>
+<L>In februarie he gy<HI REND="italic">n</HI>nyth to sp<HI REND="italic">ri</HI>nge, <NOTE PLACE="foot">619 sprede <HI REND="italic">vor</HI> sp<HI REND="italic">ri</HI>nge <HI REND="italic">getilgt.</HI></NOTE></L>
+<L>In may he gy<HI REND="italic">n</HI>nyth down to hynge; <MILESTONE N="620"/> <MILESTONE N="1080"/> <NOTE PLACE="foot">620 dow̄n <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Fyrst in piscib<HI REND="italic">us</HI> his sp<HI REND="italic">ri</HI>nginge is,</L>
+<L>Be so<HI REND="italic">n</HI>ne in cancer awey i-wys;</L>
+<L>In marche <HI REND="italic">and</HI> ap<HI REND="italic">ri</HI>le wyll he flowre,</L>
+<L>Non herbe so fayr is i<HI REND="italic">n</HI> colo<HI REND="italic">ur;</HI> <MILESTONE N="68" UNIT="P."/> <NOTE PLACE="foot">624 Non so fayr herbe to hym is <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe flow<HI REND="italic">ur</HI> is ȝelw, wol lytyl whyt, <MILESTONE N="625"/> <MILESTONE N="1085"/> <NOTE PLACE="foot">625 ȝewl <HI REND="italic">Hs.;</HI> whyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>I knowe no flo<HI REND="italic">ur</HI> lyk to it;</L>
+<L>þe stalke is [i] fote <HI REND="italic">and</HI> quart<HI REND="italic">er</HI> longe,</L>
+<L>þe lef is of þe same wange;</L>
+<L>On the stalke are leuys non,</L>
+<L>But bothe owt of grownde gon: <MILESTONE N="630"/> <MILESTONE N="1090"/> <NOTE PLACE="foot">630 bothe] stalke <HI REND="italic">and</HI> lweys <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Stalke <HI REND="italic">and</HI> lewys alle of on heythe,</L>
+<L>Ny as it were of on heyt[h]e [&amp;] weythe; <NOTE PLACE="foot">632 wheyte <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe tast is sumdel also eke, <NOTE PLACE="foot">633 sumdell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þow it lytyl be as of lek; <NOTE PLACE="foot">634 lytyll <HI REND="italic">Hs.; vor</HI> lek <HI REND="italic">ist</HI> gar <HI REND="italic">getilgt.</HI></NOTE></L>
+<L><PB N="323" REF="31"/>
+He beryth a knop w<HI REND="italic">ith</HI> many sedys, <MILESTONE N="635"/> <MILESTONE N="1095"/></L>
+<L>Blac polyssyd as geet it is.</L>
+<L>þis erbe in a clene cloth <HI REND="italic">and</HI> his rote,</L>
+<L>Ageyn þe fallande euyl it is bote. <NOTE PLACE="foot">638 <HI REND="italic">a. r. von späterer hand:</HI> affodill for fally<HI REND="italic">n</HI>g ill.</NOTE></L>
+<L>Affodyll, in clene cloth kepte þ<HI REND="italic">us,</HI></L>
+<L>Schall suffryn no fend i<HI REND="italic">n</HI> þ<HI REND="italic">at</HI> howse; <MILESTONE N="640"/> <MILESTONE N="1100"/></L>
+<L>And þ<HI REND="italic">ou</HI> bere it on þe day <HI REND="italic">and</HI> nyth,</L>
+<L>þe fend of þe schall haue no myth;</L>
+<L>Ne dred of man schall hy<HI REND="italic">m</HI> non dere,</L>
+<L>þe man þ<HI REND="italic">at</HI> on nyth it on hy<HI REND="italic">m</HI> bere; <NOTE PLACE="foot">644 on hy<HI REND="italic">m</HI> it <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And good it is to bere on nyth <MILESTONE N="645"/> <MILESTONE N="1105"/></L>
+<L>To man þ<HI REND="italic">at</HI> goth in fray <HI REND="italic">and</HI> f[r]yth.</L>
+<L>Ȝif it be stampyd <HI REND="italic">and</HI> leyd to wou<HI REND="italic">n</HI>de,</L>
+<L>It stau<HI REND="italic">n</HI>chyth þe blood on a stownde; <NOTE PLACE="foot">648 stow<HI REND="italic">n</HI>nde <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe powdir on ded flesch who so leye,</L>
+<L>Anon it sleth it, as men seye. <MILESTONE N="650"/> <MILESTONE N="1110"/></L>
+</DIV3>
+<DIV3 N="14" TYPE="section">
+<HEAD>[14.] Dra∣gau<HI REND="italic">n</HI>ce.</HEAD>
+<L>Dragau<HI REND="italic">n</HI>ce <HI REND="italic">and</HI> serpentyn i<HI REND="italic">n</HI> same</L>
+<L>And nedderistonge, alle on be name,</L>
+<L>It is of þe mythy[ist] erb[is] on <NOTE PLACE="foot">653 f. <HI REND="italic">in einer z.</HI></NOTE> <NOTE PLACE="foot">653 on of ... erb <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> her<HI REND="italic">e</HI> grow<HI REND="italic">ith</HI> þis erthe [upon]; <NOTE PLACE="foot">654 in þis erthe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>He comyth vp tymyly in som<HI REND="italic">er</HI>-tyde <MILESTONE N="655"/> <MILESTONE N="69" UNIT="P."/> <MILESTONE N="1115"/></L>
+<L>W<HI REND="italic">ith</HI> lewys on stalke on eu<HI REND="italic">er</HI>y syde;</L>
+<L>His stalke is quart<HI REND="italic">er</HI> ȝerde longe,</L>
+<L>Lyke nedder<HI REND="italic">is</HI> hyde spaclyd amonge.</L>
+<L>þis erbe to syth well is cowthe,</L>
+<L>It is lyk a dragonys mowthe, <MILESTONE N="660"/> <MILESTONE N="1120"/></L>
+<L>Swart, reed, blo <HI REND="italic">and</HI> hol w<HI REND="italic">ith</HI>-inne, <NOTE PLACE="foot">661 blod <HI REND="italic">Hs.</HI></NOTE></L>
+<L>A small long tu<HI REND="italic">n</HI>ge stant w<HI REND="italic">ith</HI>-jnne;</L>
+<L>Mowthe <HI REND="italic">and</HI> tu<HI REND="italic">n</HI>ge is [of] on colo<HI REND="italic">ur,</HI></L>
+<L>To þe syth a wou<HI REND="italic">n</HI>d<HI REND="italic">er</HI>-flo<HI REND="italic">ur.</HI></L>
+<L>Macrobi<HI REND="italic">us</HI> tellyt[h] vs þ<HI REND="italic">us,</HI> <MILESTONE N="665"/> <MILESTONE N="1125"/> <NOTE PLACE="foot">665 Macrobiu<HI REND="italic">us Hs.</HI></NOTE></L>
+<L>þ<HI REND="italic">at,</HI> of t<HI REND="italic">ri</HI>folie ȝif þ<HI REND="italic">ou</HI> take þe jows</L>
+<L>And stampe dragau<HI REND="italic">n</HI>ce [eke] þ<HI REND="italic">er</HI>to</L>
+<L>And hel yt vnd<HI REND="italic">er</HI> þe erthe soo, <NOTE PLACE="foot">663-668 <HI REND="italic">je zwei in einer z.</HI></NOTE> <NOTE PLACE="foot">668 helyd <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Nedderys schull brede þ<HI REND="italic">er</HI>-of rede <HI REND="italic">and</HI> grene,</L>
+<L>Off whyche ȝif þ<HI REND="italic">ou</HI> make powd<HI REND="italic">er</HI> clene <MILESTONE N="670"/> <MILESTONE N="1130"/></L>
+<L>And caste it in a lau<HI REND="italic">m</HI>pe-lyth,</L>
+<L>þow þe son<HI REND="italic">n</HI>e schyne neu<HI REND="italic">er</HI> so bryth,</L>
+<L>þ<HI REND="italic">at</HI> place schall seme w<HI REND="italic">ith</HI>-owte dowte</L>
+<L>þat alle ben nedder<HI REND="italic">is</HI> þ<HI REND="italic">at</HI> stondy<HI REND="italic">n</HI> abowte.</L>
+<L>Ȝit it wyll don anoþ<HI REND="italic">er</HI> wondyr: <MILESTONE N="675"/> <MILESTONE N="1135"/></L>
+<L>A ma<HI REND="italic">n</HI>nys heed ȝif þ<HI REND="italic">ou</HI> leye it vnd<HI REND="italic">er,</HI></L>
+<L><PB N="324" REF="32"/>
+He schall slepyn no slep in fay,</L>
+<L>Tyl it be remowyd <HI REND="italic">and</HI> don away. <NOTE PLACE="foot">678 remownde <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ȝif þ<HI REND="italic">ou</HI> wylt mo maystreys make,</L>
+<L>þe jows of serpentyn þ<HI REND="italic">ou</HI> take <MILESTONE N="680"/> <MILESTONE N="1140"/></L>
+<L>And all abowty<HI REND="italic">n</HI> weel <HI REND="italic">and</HI> fyn</L>
+<L>Wasch þin hondyn weel þ<HI REND="italic">er</HI>-in:</L>
+<L>þ<HI REND="italic">ou</HI> schalt nedder<HI REND="italic">is</HI> w<HI REND="italic">ith</HI>-owty<HI REND="italic">n</HI> p<HI REND="italic">er</HI>yle</L>
+<L>Gaderyn <HI REND="italic">and</HI> handelyn hem at þi wylle.</L>
+<L>Also tellyth vs þe bok <MILESTONE N="685"/> <MILESTONE N="1145"/> <NOTE PLACE="foot">685 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> for sty<HI REND="italic">n</HI>gyng of nedder<HI REND="italic">is</HI> d<HI REND="italic">ra</HI>gau<HI REND="italic">n</HI>ce is good</L>
+<L>To drynkyn for a stongyn man,</L>
+<L>ȝif he wyll his curynge han.</L>
+<L>þe playst<HI REND="italic">er</HI> of dragance is good i-wys <MILESTONE N="70" UNIT="P."/></L>
+<L>To leyn on place þ<HI REND="italic">er</HI> styngyng is, <MILESTONE N="690"/> <MILESTONE N="1150"/></L>
+<L>It drawyth awey þe smert so stowr<HI REND="italic">e</HI></L>
+<L>And alle þe veny<HI REND="italic">m and</HI> þe dolowr<HI REND="italic">e.</HI> <NOTE PLACE="foot">692 wenym <HI REND="italic">Hs.</HI></NOTE></L>
+<L>For emp<HI REND="italic">er</HI>o<HI REND="italic">ur and</HI> lord <HI REND="italic">and</HI> qwen <NOTE PLACE="foot">693 lord <HI REND="italic">vor</HI> lord <HI REND="italic">getilgt.</HI></NOTE></L>
+<L>And for wo<HI REND="italic">m</HI>men þ<HI REND="italic">at</HI> fayr<HI REND="italic">e</HI> wolde ben,</L>
+<L>And for on <HI REND="italic">and</HI> oþ<HI REND="italic">er</HI> alle <MILESTONE N="695"/> <MILESTONE N="1155"/></L>
+<L>To waxy<HI REND="italic">n</HI> fayre <HI REND="italic">and</HI> make hem talle <NOTE PLACE="foot">696 waschyn <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Dragance is good to make hem whyte,</L>
+<L>[Ȝif] eurose [be] menkt þ<HI REND="italic">er</HI>-w<HI REND="italic">ith,</HI> I plyth.</L>
+<L>Ȝif on be in poynt to worthy<HI REND="italic">n</HI> wood</L>
+<L>For peyne of teth, dragance is good; <MILESTONE N="700"/> <MILESTONE N="1160"/></L>
+<L>A thenne scheu<HI REND="italic">er</HI> of þe rote,</L>
+<L>Leyd on þe place i<HI REND="italic">n</HI> mowth, doth bote;</L>
+<L>It doth noth awey all þe pyne, <NOTE PLACE="foot">703 peyne <HI REND="italic">Hs.</HI></NOTE></L>
+<L>But all þe wodnesse for þe tyme;</L>
+<L>An c<SUP>m</SUP> days an[d] c<SUP>m</SUP> nyth <MILESTONE N="705"/> <MILESTONE N="1165"/></L>
+<L>I hawe it asayd, þ<HI REND="italic">er</HI>-fore I plyth. <NOTE PLACE="foot">706 I it hawe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ȝif þ<HI REND="italic">ou</HI> take good hede,</L>
+<L>At fywe ȝer age he beryth his seede</L>
+<L>Lik a trwnchown or a pestell, <NOTE PLACE="foot">709 trwnfown <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Rede beryis cowchyd as p<HI REND="italic">er</HI>lys well; <MILESTONE N="710"/> <MILESTONE N="1170"/></L>
+<L>Wha<HI REND="italic">n</HI>ne þe seed is drye <HI REND="italic">and</HI> rype, <NOTE PLACE="foot">711 rype <HI REND="italic">and</HI> drye <HI REND="italic">Hs., mit umstellungs∣zeichen.</HI></NOTE></L>
+<L>Of þe stalke þ<HI REND="italic">ou</HI> hem strype,</L>
+<L>In a vessell w<HI REND="italic">ith</HI> wat<HI REND="italic">er</HI> clene <NOTE PLACE="foot">713 wessell <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Putte hem <HI REND="italic">and</HI> þ<HI REND="italic">ou</HI> schalt sene</L>
+<L>W[h]yche is femel <HI REND="italic">and</HI> w[h]yche is male, <MILESTONE N="715"/> <MILESTONE N="1175"/></L>
+<L>As þe bok tellyth be tale:</L>
+<L>þe femel howyth on a stou<HI REND="italic">n</HI>de,</L>
+<L>þe male goth anon to þe g<HI REND="italic">ro</HI>wnde.</L>
+<L>þe seed is good at eu<HI REND="italic">er</HI>y stownde, <MILESTONE N="71" UNIT="P."/></L>
+<L><PB N="325" REF="33"/>
+Wh<HI REND="italic">an</HI>n þe erbe is noȝt abowe þe gro[u]nde. <MILESTONE N="720"/> <MILESTONE N="1180"/> <NOTE PLACE="foot">720 is <HI REND="italic">über getilgtem</HI> may; <HI REND="italic">nach</HI> noȝt <HI REND="italic">ist</HI> be fo <HI REND="italic">durchgestrichen.</HI></NOTE></L>
+<L>Also for sothe I telle þe, <NOTE PLACE="foot">721 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Of dragans arn spyc<HI REND="italic">is</HI> iij:</L>
+<L>þe grete, þe mene <HI REND="italic">and</HI> þe lesse, <NOTE PLACE="foot">723 lasse <HI REND="italic">Hs.</HI></NOTE></L>
+<L>As bokys of phisyk ber<HI REND="italic">e</HI> wytnesse; <NOTE PLACE="foot">724 <HI REND="italic">nach</HI> of <HI REND="italic">ein</HI> f <HI REND="italic">getilgt.</HI></NOTE></L>
+<L>þe grete in gardinys hey <HI REND="italic">and</HI> long, <MILESTONE N="725"/> <MILESTONE N="1185"/></L>
+<L>þe mene in wodis <HI REND="italic">and</HI> wod<HI REND="italic">is</HI> [a]mong; <NOTE PLACE="foot">726 wong <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Fyrst he spryngyth <HI REND="italic">and</HI> fyrst goth down,</L>
+<L>Where so he growyth in wode or town;</L>
+<L>He g<HI REND="italic">ro</HI>wyth bothe in wode <HI REND="italic">and</HI> mede</L>
+<L>In som<HI REND="italic">er</HI>-tyme, fayr<HI REND="italic">e</HI> on schrede; <MILESTONE N="730"/> <MILESTONE N="1190"/> <NOTE PLACE="foot">730 on] and <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Kocok-pyntyl is þe ton, <NOTE PLACE="foot">731 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Bothe arn callyd sat<HI REND="italic">ur</HI>iou<HI REND="italic">n,</HI></L>
+<L>þe male spaclyd i<HI REND="italic">n</HI> blac colo<HI REND="italic">ur,</HI></L>
+<L>[þe] femel w<HI REND="italic">ith</HI> noȝt so gentil flo<HI REND="italic">ur.</HI></L>
+</DIV3>
+<DIV3 N="15" TYPE="section">
+<HEAD>[15.] Aristo∣logii.</HEAD>
+<L>¶ Of aristologij arn spicis t[w]o, <MILESTONE N="735"/> <MILESTONE N="1195"/> <NOTE PLACE="foot">735 f. <HI REND="italic">desgl.</HI></NOTE></L>
+<L>þe longe <HI REND="italic">and</HI> þe rownde also;</L>
+<L>To medicinis bet<HI REND="italic">er</HI> is þe rownde,</L>
+<L>As fesyk tellyth in eu<HI REND="italic">er</HI>y stownde; <NOTE PLACE="foot">738 stow<HI REND="italic">n</HI>nde <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Bothe þei ben of dyu<HI REND="italic">er</HI>se colowres</L>
+<L>In rot<HI REND="italic">is,</HI> stalkys, lewys <HI REND="italic">and</HI> flowrys. <MILESTONE N="740"/> <MILESTONE N="1200"/></L>
+<L>Aristologij þe rownde þ<HI REND="italic">er</HI> is, <NOTE PLACE="foot">741 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>It is teld þe male i-wis,</L>
+<L>þ<HI REND="italic">er</HI> it growyth <HI REND="italic">and</HI> þ<HI REND="italic">er</HI> it stant,</L>
+<L>þe lef is most like an hol-worte-plante,</L>
+<L>Dep g<HI REND="italic">re</HI>ne wyth-inne, ledyn w<HI REND="italic">ith</HI>-owte, <MILESTONE N="745"/> <MILESTONE N="1205"/> <NOTE PLACE="foot">745 ledyng <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Iche stalke a lef w<HI REND="italic">ith</HI>-owte dowte,</L>
+<L>In myddys of þe lef a veyne whyt, <NOTE PLACE="foot">747 whyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>In [bre]de þe femel nothyng lyke, <NOTE PLACE="foot">748 Inde longe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Vnches longe eythe or nyne.</L>
+<L>Femell is but iiij or v; <MILESTONE N="750"/> <MILESTONE N="1210"/> <NOTE PLACE="foot">750 is at þe moste <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Lengthe of femell is brede of male,</L>
+<L>Gawde-grene iij veynys smale.</L>
+<L>Many knottys sche hath in stalke, <MILESTONE N="72" UNIT="P."/></L>
+<L>At eu<HI REND="italic">er</HI>y knot ij lewys owt walke;</L>
+<L>His stalke is gret as whete-stro, <MILESTONE N="755"/> <MILESTONE N="1215"/> <NOTE PLACE="foot">755 stre <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Hire stalke as swych two. <NOTE PLACE="foot">756 twe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>An vnche <HI REND="italic">and</HI> half abowy<HI REND="italic">n</HI> hir knot</L>
+<L>Alwey a lef owt brot; <NOTE PLACE="foot">758 blot <HI REND="italic">Hs.</HI></NOTE></L>
+<L>[An] vnche <HI REND="italic">and</HI> half on hys crop</L>
+<L>Smale whyte flowrys is his top. <MILESTONE N="760"/> <MILESTONE N="1220"/></L>
+<L><PB N="326" REF="34"/>
+In eu<HI REND="italic">er</HI>y nowele sche beryth her<HI REND="italic">e</HI> flowr<HI REND="italic">is,</HI></L>
+<L>Most lyk benys in colowres;</L>
+<L>His rotys arn most lyk galy<HI REND="italic">n</HI>gale, <NOTE PLACE="foot">763 gany<HI REND="italic">n</HI>gale <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Hyr<HI REND="italic">e</HI> most lyk mad<HI REND="italic">er</HI> all be tale.</L>
+<L>To drawyn owt veny<HI REND="italic">m</HI> is his kynde, <MILESTONE N="765"/> <MILESTONE N="1225"/> <NOTE PLACE="foot">765 weny<HI REND="italic">m Hs.</HI></NOTE></L>
+<L>In what place he may it fynde.</L>
+<L>Who so hawe wounde on heel <HI REND="italic">and</HI> [w]rest <NOTE PLACE="foot">767 wou<HI REND="italic">n</HI>nde <HI REND="italic">Hs.;</HI> hool <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And be betyn of venymows best, <NOTE PLACE="foot">768 veny<HI REND="italic">m</HI>mows <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Rownde aristologii wyl <HI REND="italic">and</HI> fyn</L>
+<L>Schall drywy<HI REND="italic">n and</HI> wastyn awey þe veny<HI REND="italic">m.</HI> <MILESTONE N="770"/> <MILESTONE N="1230"/> <NOTE PLACE="foot">770 al þe <HI REND="italic">Hs.</HI></NOTE></L>
+<L>A playst<HI REND="italic">er</HI> of aristologii þe rownde</L>
+<L>W<HI REND="italic">ith</HI> hony c<HI REND="italic">on</HI>fortyth þe heryng ilke stownde,</L>
+<L>And leu<HI REND="italic">er</HI>e <HI REND="italic">and</HI> longys it p<HI REND="italic">ur</HI>gyth clene <NOTE PLACE="foot">773 longyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And brest <HI REND="italic">and</HI> stomac all be-dene.</L>
+<L>Where ded flesch be in ma<HI REND="italic">n</HI>nys bowk, <MILESTONE N="775"/> <MILESTONE N="1235"/></L>
+<L>Powd<HI REND="italic">er</HI> [þer]-of wyl rotyn [it] owt. <NOTE PLACE="foot">776 of aristologii <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Aristologii who so on hym bere,</L>
+<L>Fro fendis dere it wyll hy<HI REND="italic">m</HI> were.</L>
+<L>þese arn his v<HI REND="italic">er</HI>tuys <HI REND="italic">and</HI> his kynde</L>
+<L>And many mo, þa<HI REND="italic">n</HI>ne I can fynde. <MILESTONE N="780"/> <MILESTONE N="1240"/></L>
+</DIV3>
+<DIV3 N="16" TYPE="section">
+<HEAD>[16.] Baldmonye.</HEAD>
+<L>Of baldmonye <HI REND="italic">and</HI> of hys los</L>
+<L>Su<HI REND="italic">m</HI>-what to telly<HI REND="italic">n</HI> is my p<HI REND="italic">ur</HI>pos;</L>
+<L>Wylde p<HI REND="italic">er</HI>syle most is he lik, <MILESTONE N="73" UNIT="P."/></L>
+<L>Both growy<HI REND="italic">n</HI> in fen <HI REND="italic">and</HI> in fe<HI REND="italic">n</HI>nys dyk.</L>
+<L>Of alle erbys þ<HI REND="italic">at</HI> growy<HI REND="italic">n</HI> in clo<HI REND="italic">ur</HI> <MILESTONE N="785"/> <MILESTONE N="1245"/></L>
+<L>Most bitt<HI REND="italic">er</HI> I holde his sawo<HI REND="italic">ur.</HI></L>
+<L>þe rote is bet<HI REND="italic">er</HI> þa<HI REND="italic">n</HI>ne þe gres <NOTE PLACE="foot">787 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>To alle medicinis i-wys;</L>
+<L>Wha<HI REND="italic">n</HI>ne þe rote schal gaderyd be,</L>
+<L>þe so<HI REND="italic">n</HI>ne [be] in tauro or gemi<HI REND="italic">n</HI>e, <MILESTONE N="790"/> <MILESTONE N="1250"/> <NOTE PLACE="foot">790 or in <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And þa<HI REND="italic">n</HI>ne dryed wyll it be</L>
+<L>Owt of þe eyr ij ȝer or iij;</L>
+<L>Eu<HI REND="italic">er</HI> þe [h]arder<HI REND="italic">e</HI> þat it is, <NOTE PLACE="foot">793 ardeer<HI REND="italic">e Hs.</HI></NOTE> <NOTE PLACE="foot">793 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>Eu<HI REND="italic">er</HI> þe bet<HI REND="italic">er</HI> it is i-wys.</L>
+<L>For raw metys it is good, <MILESTONE N="795"/> <MILESTONE N="1255"/></L>
+<L>As seyth an[d] techyth vs þe bok,</L>
+<L>To fyin þe stomac <HI REND="italic">and</HI> þe splene,</L>
+<L>And plac<HI REND="italic">is</HI> abowte þe brest makyth clene. <NOTE PLACE="foot">798 plac<HI REND="italic">is Hs.</HI></NOTE></L>
+<L>Who so baldmonye on hym bere, <NOTE PLACE="foot">799 on hym <HI REND="italic">nach</HI> so <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Bold ne hardy schall hy<HI REND="italic">m</HI> non dere, <MILESTONE N="800"/> <MILESTONE N="1260"/></L>
+<L>Ne no dewyl schall hy<HI REND="italic">m</HI> asayle <NOTE PLACE="foot">801 dewyll <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ne no tempest, w<HI REND="italic">ith</HI>-owtyn fayle.</L>
+</DIV3>
+<DIV3 N="17" TYPE="section">
+<PB N="327" REF="35"/>
+<HEAD>[17.] Eg<HI REND="italic">re</HI>∣monye.</HEAD>
+<L>¶ Of eg<HI REND="italic">re</HI>monye, þat nobyl gres,</L>
+<L>To lytyl schall I seyn i-wys; <NOTE PLACE="foot">804 lytyll <HI REND="italic">Hs.</HI></NOTE></L>
+<L>But of hym <HI REND="italic">and</HI> of his kynde <MILESTONE N="805"/> <MILESTONE N="1265"/></L>
+<L>I telle in rym ryth as I fynde.</L>
+<L>To drynkys <HI REND="italic">and</HI> playstris it is good</L>
+<L>Ageyn venymys <HI REND="italic">and</HI> sorys wood; <NOTE PLACE="foot">808 veynymys <HI REND="italic">Hs.</HI></NOTE></L>
+<L>It remewyth postemys, dronkyn w<HI REND="italic">ith</HI> wy<HI REND="italic">n,</HI></L>
+<L>And clensyth þe splene <HI REND="italic">and</HI> dist<HI REND="italic">ro</HI>ith venym. <MILESTONE N="810"/> <MILESTONE N="1270"/></L>
+<L>Ȝif it be leyd vndir ma<HI REND="italic">n</HI>nys heed,</L>
+<L>He schal slepyn, as he were deed;</L>
+<L>He schall neu<HI REND="italic">er</HI> drede ne wakyn,</L>
+<L>Til it fro vnd<HI REND="italic">er</HI> his heed be takyn. <NOTE PLACE="foot">814 it <HI REND="italic">vor</HI> be <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þus tellyth þe bok, þ<HI REND="italic">us</HI> wyl it do, <MILESTONE N="815"/> <MILESTONE N="74" UNIT="P."/> <MILESTONE N="1275"/></L>
+<L>þow I noȝt lewe [þ]at it may be so; <NOTE PLACE="foot">816 [þ]at] it <HI REND="italic">Hs.</HI></NOTE></L>
+<L>How it schulde serwyd be,</L>
+<L>I fynde no bok þat tellyth me.</L>
+</DIV3>
+<DIV3 N="18" TYPE="section">
+<HEAD>[18.] Sawge.</HEAD>
+<LG>
+<L>¶ Sawge is erbe wyl i-knowe</L>
+<L>Bothe of heye <HI REND="italic">and</HI> of lowe. <MILESTONE N="820"/> <MILESTONE N="1280"/></L>
+<L>Who so drynke it w<HI REND="italic">ith</HI> ale or wyn</L>
+<L>And hym be ony veny<HI REND="italic">m</HI> in,</L>
+<L>Wyth-i<HI REND="italic">n</HI>ne iij dayis <HI REND="italic">and</HI> iij nyth</L>
+<L>It schal distroyin it, I þe plyth.</L>
+<L>It is good to don in ale, <MILESTONE N="825"/> <MILESTONE N="1285"/></L>
+<L>To maken it good reles <HI REND="italic">and</HI> stale;</L>
+<L>And sowr[h]ed of ale it wyl abate,</L>
+<L>Whil it is good <HI REND="italic">and</HI> fresch in state.</L>
+<L>Also seyth Mac<HI REND="italic">ro</HI>bius <NOTE PLACE="foot">829 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+</LG>
+<LG>
+<HEAD>Versus.</HEAD>
+<L>A [latin] v<HI REND="italic">er</HI>se, þat is þus: <MILESTONE N="830"/> <MILESTONE N="1290"/></L>
+<L>Cur mori[a]tur homo, du<HI REND="italic">m</HI> salgia crescit in [h]orto?</L> 
+<L>"Why of seknesse deyith man,</L>
+<L>Whil sawge in gardeyn he may han?" <NOTE PLACE="foot">833 Whill <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Lete take þe sawge of þe ȝerd,</L>
+<L>And of veny<HI REND="italic">m</HI> þ<HI REND="italic">ou</HI> thart neu<HI REND="italic">er</HI> ben aferd. <MILESTONE N="835"/> <MILESTONE N="1295"/></L>
+<L>To etyn [it] bothe fresch <HI REND="italic">a</HI>n<HI REND="italic">d</HI> grene,</L>
+<L>It schall make þi body clene</L>
+<L>Fro veny<HI REND="italic">m,</HI> fro postemys, fro pestelens sor,</L>
+<L>And make þe to lewe well þe more.</L>
+<L>Mac<HI REND="italic">ro</HI>bius seyth in his de-vys <MILESTONE N="840"/> <MILESTONE N="1300"/></L>
+<L>þat sawge so meche is of prys,</L>
+<L>þ<HI REND="italic">at</HI> who so ete it or drynk it ilke day,</L>
+<L>Tyl kende deth comyth, in fay</L>
+<L>[þat] fryst ne schall he neu<HI REND="italic">er</HI> deye,</L>
+<L>But he hym myskepe, for sothe I seye. <MILESTONE N="845"/> <MILESTONE N="1305"/></L>
+</LG>
+</DIV3>
+<DIV3 N="19" TYPE="section">
+<PB N="328" REF="36"/>
+<HEAD>[19.] Rewe.</HEAD>
+<L>Rewe bitt<HI REND="italic">er,</HI> a worthy gres, <MILESTONE N="75" UNIT="P."/></L>
+<L>Mekyl of myth <HI REND="italic">and</HI> v<HI REND="italic">er</HI>tu is;</L>
+<L>It is good to don i<HI REND="italic">n</HI> ale,</L>
+<L>To maky<HI REND="italic">n</HI> it bothe cler <HI REND="italic">and</HI> stale; <NOTE PLACE="foot">846-49 <HI REND="italic">je zwei in einer z.</HI></NOTE></L>
+<L>It makyth þe ale of meche myth <MILESTONE N="850"/> <MILESTONE N="1310"/></L>
+<L>To þe senewys þat ȝewyn þe syth,</L>
+<L>þat comy<HI REND="italic">n</HI> down in þe bryn t[w]o</L>
+<L>And bryngyn myth to þe syth [al]so.</L>
+<L>þe wat<HI REND="italic">er</HI> þ<HI REND="italic">er</HI>-of is ful of myth</L>
+<L>To clarifyin <HI REND="italic">and</HI> strenthyn ma<HI REND="italic">n</HI>nys syth <MILESTONE N="855"/> <MILESTONE N="1315"/></L>
+<L>W<HI REND="italic">ith</HI> þe wat<HI REND="italic">er</HI> of eg<HI REND="italic">ri</HI>monye <NOTE PLACE="foot">856 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And red fenel <HI REND="italic">and</HI> celydonye,</L>
+<L>V<HI REND="italic">er</HI>ueyn <HI REND="italic">and</HI> rosa <HI REND="italic">and</HI> philago,</L>
+<L>Eufras <HI REND="italic">and</HI> golde <HI REND="italic">and</HI> pymp<HI REND="italic">er</HI>nel also;</L>
+<L>Off eu<HI REND="italic">er</HI>yche of þese alyk meche, <MILESTONE N="860"/> <MILESTONE N="1320"/></L>
+<L>A mythi wat<HI REND="italic">er</HI> sekyrlyche.</L>
+<L>Rwe also dist<HI REND="italic">ro</HI>ith venym</L>
+<L>W<HI REND="italic">ith</HI>-owtyn ma<HI REND="italic">n</HI>nys body <HI REND="italic">and</HI> w<HI REND="italic">ith</HI>-in,</L>
+<L>And as a pyk makyth hy<HI REND="italic">m</HI> clene</L>
+<L>W<HI REND="italic">ith</HI>-inne <HI REND="italic">and</HI> w<HI REND="italic">ith</HI>-owten all be-dene. <MILESTONE N="865"/> <MILESTONE N="1325"/></L>
+<L>Rwe is eke a sou<HI REND="italic">er</HI>eyn bote <NOTE PLACE="foot">866 ike <HI REND="italic">Hs.</HI></NOTE></L>
+<L>To settyn abowty<HI REND="italic">n</HI> a sawge-rote,</L>
+<L>It doth it waxin wel <HI REND="italic">and</HI> fyn</L>
+<L>And kepyth it fro all veny<HI REND="italic">m.</HI></L>
+<L>Ete rwe, drynke rwe oftyn tyme, <MILESTONE N="870"/> <MILESTONE N="1330"/> <NOTE PLACE="foot">870 ete] ere <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And it fowyth syth þine, <NOTE PLACE="foot">871 sounyth <HI REND="italic">oder</HI> sonnyth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And ley rwe to þe eye-syth,</L>
+<L>It all dist<HI REND="italic">ro</HI>ith it, I þe plyth. <NOTE PLACE="foot">873 schall <HI REND="italic">Hs.</HI></NOTE></L>
+</DIV3>
+<DIV3 N="20" TYPE="section">
+<HEAD>[20.] Fenell.</HEAD>
+<L>¶ As seyth mayst<HI REND="italic">er</HI> Mac<HI REND="italic">ro</HI>bius,</L>
+<L>Fenel is erbe precyows; <MILESTONE N="875"/> <MILESTONE N="1335"/></L>
+<L>In som<HI REND="italic">er</HI> he g<HI REND="italic">ro</HI>wyth hey <HI REND="italic">and</HI> grene</L>
+<L>And beryth his sed semly to sene;</L>
+<L>It is no nede hym to discrye,</L>
+<L>Iche man hy<HI REND="italic">m</HI> knowyth at ye. <MILESTONE N="76" UNIT="P."/> <NOTE PLACE="foot">879 eye <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Good is his sed, so is his rote, <MILESTONE N="880"/> <MILESTONE N="1340"/></L>
+<L>And to many thyngys bote;</L>
+<L>þe sed is good fastende te ete</L>
+<L>And ek in drage aft<HI REND="italic">er</HI> mete</L>
+<L>Ageyn wyckid hu<HI REND="italic">m</HI>ores <HI REND="italic">and</HI> bolny<HI REND="italic">n</HI>g,</L>
+<L>Ageyn wycked wynd <HI REND="italic">and</HI> many oþ<HI REND="italic">er</HI> thyng. <MILESTONE N="885"/> <MILESTONE N="1345"/></L>
+<L>Wat<HI REND="italic">er</HI> of fenel to, a plyth,</L>
+<L>Is wou<HI REND="italic">n</HI>d<HI REND="italic">er</HI>-holsu<HI REND="italic">m</HI> for þe syth,</L>
+<L><PB N="329" REF="37"/>
+Medeled w<HI REND="italic">ith</HI> wat<HI REND="italic">er</HI> of roset</L>
+<L>Half in a porciu<HI REND="italic">n,</HI> nothyng bet,</L>
+<L>W<HI REND="italic">ith</HI> oþ<HI REND="italic">er</HI> wat<HI REND="italic">ri</HI>s þ<HI REND="italic">er</HI>-to leyd, <MILESTONE N="890"/> <MILESTONE N="1350"/> <NOTE PLACE="foot">890 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>As in rwe be-forn is seyd;</L>
+<L>Wha<HI REND="italic">n</HI>ne þei ben alle to-ged<HI REND="italic">er</HI> don,</L>
+<L>þe syth of man þei helpyn son.</L>
+<L>Fenel in potage <HI REND="italic">and</HI> in mete</L>
+<L>Is good to don, wha<HI REND="italic">n</HI>ne þ<HI REND="italic">ou</HI> schalt ete; <MILESTONE N="895"/> <MILESTONE N="1355"/></L>
+<L>All g<HI REND="italic">re</HI>ne loke it be corwy<HI REND="italic">n</HI> small,</L>
+<L>In what mete þ<HI REND="italic">ou</HI> vsyn schall,</L>
+<L>In what drynk þ<HI REND="italic">ou</HI> vse it, sekyrly</L>
+<L>It is good for þe pose <HI REND="italic">(and)</HI> sucke.</L>
+<L>Wh<HI REND="italic">an</HI>n þe nedder<HI REND="italic">e</HI> is hurt in eye, <MILESTONE N="900"/> <MILESTONE N="1360"/></L>
+<L>þe rede fenel is hys prey,</L>
+<L>And ȝif he mow it [owher] fynde,</L>
+<L>Wond<HI REND="italic">er</HI>ly he doth hys kynde:</L>
+<L>He schall it chowe wond<HI REND="italic">er</HI>ly</L>
+<L>And leyn to his eye kyndely; <MILESTONE N="905"/> <MILESTONE N="1365"/> <NOTE PLACE="foot">905 leyn it <HI REND="italic">Hs.</HI></NOTE></L>
+<L>þe jows schall sawy<HI REND="italic">n and</HI> helyn þe eye</L>
+<L>þat be-forn was sek <HI REND="italic">and</HI> feye.</L>
+</DIV3>
+<DIV3 N="21" TYPE="section">
+<HEAD>[21.] Violet.</HEAD>
+<L>¶ Vyolet, an erbe cowth,</L>
+<L>Is knowyn in ilke ma<HI REND="italic">n</HI>nys mowthe;</L>
+<L>As bokys seyn in her<HI REND="italic">e</HI> langage, <MILESTONE N="910"/> <MILESTONE N="77" UNIT="P."/> <MILESTONE N="1370"/></L>
+<L>It is good to don in potage,</L>
+<L>In playstrys to wou<HI REND="italic">n</HI>dys it is c<HI REND="italic">on</HI>fortyf</L>
+<L>W<HI REND="italic">ith</HI> oþ<HI REND="italic">er</HI> erbys sanatyf.</L>
+<L>Oyle of hys flo<HI REND="italic">ur</HI> is profytable</L>
+<L>And w<HI REND="italic">ith</HI> oyle of rose medicinable; <MILESTONE N="915"/> <MILESTONE N="1375"/></L>
+<L>þe oyle of hys fayre flowres</L>
+<L>In man dist<HI REND="italic">ro</HI>ith wycke hu<HI REND="italic">m</HI>or<HI REND="italic">is,</HI></L>
+<L>And all on-kende hete, in fay,</L>
+<L>Clene dist<HI REND="italic">ro</HI>ith <HI REND="italic">and</HI> doth away,</L>
+<L>Wherfor<HI REND="italic">e</HI> it is meche of pris <MILESTONE N="920"/> <MILESTONE N="1380"/></L>
+<L>And meche in boke co<HI REND="italic">m</HI>mendid is.</L>
+</DIV3>
+<DIV3 N="22" TYPE="section">
+<HEAD>[22.] Scharp b<HI REND="italic">ru</HI>re.</HEAD>
+<L>¶ Scharp b<HI REND="italic">ru</HI>re who so take,</L>
+<L>þ<HI REND="italic">er</HI>-wyth he may mayst<HI REND="italic">re</HI>s make;</L>
+<L>He growyth hey in eu<HI REND="italic">er</HI>y sel,</L>
+<L>Ȝou<HI REND="italic">n</HI>g [and] elde knowy<HI REND="italic">n</HI> hy<HI REND="italic">m</HI> wel. <MILESTONE N="925"/> <MILESTONE N="1385"/></L>
+<L>þ<HI REND="italic">er</HI>-wyth þ<HI REND="italic">ou</HI> myth knowy<HI REND="italic">n and</HI> se, <NOTE PLACE="foot">926 mayth <HI REND="italic">Hs.</HI></NOTE></L>
+<L>Ȝif wo<HI REND="italic">m</HI>man clene mayden be,</L>
+<L>As þe bok in latyn tellyth</L>
+<L>And þe same i<HI REND="italic">n</HI> sawe spellyth.</L>
+<L>Take his sed <HI REND="italic">and</HI> cast in fyr<HI REND="italic">e,</HI> <MILESTONE N="930"/> <MILESTONE N="1390"/></L>
+<L>Wha<HI REND="italic">n</HI>n it brennyth bryth <HI REND="italic">and</HI> schir<HI REND="italic">e:</HI></L>
+<L><PB N="330" REF="38"/>
+And wo<HI REND="italic">m</HI>men alle þ<HI REND="italic">at</HI> syttyn þ<HI REND="italic">er</HI>-by,</L>
+<L>As seyth þe bok sertaynly,</L>
+<L>þ<HI REND="italic">at</HI> heldyn hem maydenys <HI REND="italic">and</HI> be non,</L>
+<L>Schull laty<HI REND="italic">n</HI> her<HI REND="italic">e</HI> vrin fro hem gon; <MILESTONE N="935"/> <MILESTONE N="1395"/></L>
+<L>And þo þat ben maydenys clene,</L>
+<L>Schull no-thyng felyn of þ<HI REND="italic">at</HI> tene.</L>
+</DIV3>
+<DIV3 N="23" TYPE="section">
+<HEAD>[23.] Isop.</HEAD>
+<L>Isop is erbe p<HI REND="italic">re</HI>ciows <NOTE PLACE="foot">938 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And helplych to ma<HI REND="italic">n</HI>nys vse;</L>
+<L>Of alle erbis þat ben on grou<HI REND="italic">n</HI>de, <MILESTONE N="940"/> <MILESTONE N="1400"/></L>
+<L>For brest it is good i<HI REND="italic">n</HI> eu<HI REND="italic">er</HI>y stownde, <MILESTONE N="78" UNIT="P."/></L>
+<L>Bothe sothyn, rostyd <HI REND="italic">and</HI> bake,</L>
+<L>But noȝt rawe in vs to take,</L>
+<L>Ageyn wyk hu<HI REND="italic">m</HI>ores <HI REND="italic">and</HI> reume at þe brest</L>
+<L>And alle sekenesse[s] þ<HI REND="italic">at</HI> ben þ<HI REND="italic">er</HI> nest. <MILESTONE N="945"/> <MILESTONE N="1405"/></L>
+</DIV3>
+<DIV3 N="24" TYPE="section">
+<HEAD>[24.] Fumit<HI REND="italic">er.</HI></HEAD>
+<L>¶ Fumit<HI REND="italic">er</HI> is erbe, I say, <NOTE PLACE="foot">946 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>þ<HI REND="italic">at</HI> sp<HI REND="italic">ri</HI>ngyth i<HI REND="italic">n</HI> ap<HI REND="italic">ri</HI>l <HI REND="italic">and</HI> in may</L>
+<L>In feld, in town, in ȝerd <HI REND="italic">and</HI> gate</L>
+<L>þ<HI REND="italic">er</HI> lond is fat <HI REND="italic">and</HI> good in state;</L>
+<L>Dun-red is his flo<HI REND="italic">ur,</HI> <MILESTONE N="950"/> <MILESTONE N="1410"/></L>
+<L>þe erbe smek lik in colo<HI REND="italic">ur.</HI> <NOTE PLACE="foot">951 colow<HI REND="italic">ur Hs.</HI></NOTE></L>
+<L>Ageyn feu<HI REND="italic">er</HI>ys cotidian</L>
+<L>And agey<HI REND="italic">n</HI> feu<HI REND="italic">er</HI>ys tercyan <NOTE PLACE="foot">953 tercyen <HI REND="italic">Hs.</HI></NOTE></L>
+<L>And agey<HI REND="italic">n</HI> feu<HI REND="italic">er</HI>ys quartey<HI REND="italic">n</HI></L>
+<L>It is medicy<HI REND="italic">n</HI> souereyn. <MILESTONE N="955"/> <MILESTONE N="1415"/> <NOTE PLACE="foot">950-55 <HI REND="italic">je zwei in einer z.</HI></NOTE></L>
+<L>þe fyrste ix dayis of may</L>
+<L>Ȝif it be dronkyn day be day,</L>
+<L>Be it child, wo<HI REND="italic">m</HI>man or man,</L>
+<L>þ<HI REND="italic">at</HI> ȝ<HI REND="italic">e</HI>re þe feu<HI REND="italic">er</HI>ys noȝt meche schall han.</L>
+<L>It drywyth awey fowle nutrures <MILESTONE N="960"/> <MILESTONE N="1420"/></L>
+<L>And dist<HI REND="italic">ro</HI>ith veny<HI REND="italic">m and</HI> wyk hu<HI REND="italic">m</HI>ores;</L>
+<L>It dist<HI REND="italic">ro</HI>ith þe morphe <NOTE PLACE="foot">962 f. <HI REND="italic">in einer z.</HI></NOTE></L>
+<L>And disposing to þe lepre.</L>
+<L>More of w[h]ych Goddys grace <NOTE PLACE="foot">964 <HI REND="italic">Vor</HI> More <HI REND="italic">ein</HI> ¶ <HI REND="italic">u. a. r.:</HI> Medicina p<HI REND="italic">ro</HI> capite, <HI REND="italic">worauf</HI> v. 7-66 <HI REND="italic">B der "Ge∣reimten Heilkunde" folgen, vgl. oben s. 294.</HI></NOTE></L>
+<L>Thynk I to seyn on oþ<HI REND="italic">er</HI> place. <MILESTONE N="965"/> <MILESTONE N="1425"/></L>
+</DIV3>
+</DIV2>
+<CLOSER><DATELINE>GÖTEBORG, <DATE>November 1895.</DATE></DATELINE>
+<SIGNED>F. HOLTHAUSEN.</SIGNED></CLOSER>
+</DIV1>
+<DIV1 TYPE="afterword">
+<HEAD>Nachschrift.</HEAD>
+<P>Folgende stellen sind mir unklar geblieben, auf die ich hiermit die aufmerksamkeit der fachgenossen lenken möchte: I, 220 <HI REND="italic">(bewese).</HI> II, 36
+<PB N="331" REF="39"/>
+<HI REND="italic">(in-nurhed).</HI> 173 f. 220 <HI REND="italic">(is an hare).</HI> 241 f. 292. 367 f. 502 <HI REND="italic">(gleyglof-powur).</HI> 618. 622. 628. 633 f. (Davor eine lücke?). 741. 752. 759 f., 899 <HI REND="italic">(sucke).</HI></P>
+<P>Folgende besserungen seien noch nachträglich vorgeschlagen: I, 21 streiche <HI REND="italic">And;</HI> 114 lies <HI REND="italic">Do</HI> statt <HI REND="italic">And;</HI> 145 hat die hs. maky<HI REND="italic">n;</HI> 177 l. <HI REND="italic">le[u]yd</HI> st. <HI REND="italic">leyde;</HI> 210 str. <HI REND="italic">moste</HI> (?); 215 l. <HI REND="italic">þer-in be;</HI> 216 str. <HI REND="italic">þer;</HI> 230 str. <HI REND="italic">hole and;</HI> 240 str. <HI REND="italic">And;</HI> 246 am ende l. <HI REND="italic">wele;</HI> 261 l. <HI REND="italic">fryst wel;</HI> 262 str. <HI REND="italic">þer-on;</HI> 302 l. <HI REND="italic">sme[r]tynge;</HI> 322 l. <HI REND="italic">sethe[s]</HI>(?); 365 str. <HI REND="italic">and;</HI> 408 str. <HI REND="italic">noyows;</HI> 411 war <HI REND="italic">molle</HI> beizubehalten, vgl. Wright-Wülkers Voc. II, 452 s. v.; 420 Das von mir an der bezeichneten stelle <HI REND="italic">anence</HI> gelesene und in <HI REND="italic">aneyce</HI> geänderte wort ist vielmehr <HI REND="italic">auence</HI> zu lesen und gleich ne. <HI REND="italic">avens,</HI> worüber Murray im New Engl. Dict. I, 581 handelt; 456 l. <HI REND="italic">he</HI> st. <HI REND="italic">be</HI> (?); 491 str. <HI REND="italic">so þat.—</HI>II, 9 l. <HI REND="italic">seyn</HI> (?); 26 l. <HI REND="italic">st[om[ak</HI> (vgl. v. 73 und 774!); 53 erg. <HI REND="italic">sone</HI> oder dergl. vor <HI REND="italic">with;</HI> 269 l. <HI REND="italic">deuel[is];</HI> 303 erg. <HI REND="italic">man</HI> nach <HI REND="italic">lewyd;</HI> 707 erg. etwa <HI REND="italic">þerof</HI> vor <HI REND="italic">good.</HI></P>
+<CLOSER><DATELINE>GÖTEBORG, <DATE>Februar 1896.</DATE></DATELINE>
+<SIGNED>F. HOLTHAUSEN.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

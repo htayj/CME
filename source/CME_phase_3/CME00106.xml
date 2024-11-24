@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-6-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title; provided title and HEAD. Checked <SUP>s</SUP>. Reviewed structure; removed prose fragment at beginning of text; removed fragment from middle of text; added part DIV2s; moved TRAILERs out of LGs; changed several NOTEs to MILESTONEs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00106">
+<STC T="M">106</STC>
+<BIBNO T="mec">CME00106</BIBNO>
+<VID>CME00106</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="303" REF="6"/>
+<HEAD>Die Burghsche Cato-Paraphrase.</HEAD>
+<DIV2 N="1" TYPE="part">
+<LG N="1">
+<HEAD>I. <MILESTONE N="IV. 12" UNIT="Hh."/>, <MILESTONE N="29v" UNIT="fol."/></HEAD>
+<L>Whan I aduertyse in my remembrance</L>
+<L>And see, how feele folk erre greuously</L>
+<L>In the way of vertuose gouernance, <MILESTONE N="3"/></L>
+<L>I haf supposyd in my self, that I</L>
+<L>Aught to support and consell prudently</L>
+<L>Them to be full gloriose in lyuynge <MILESTONE N="6"/></L>
+<L>And how they shall hem self to hono<HI REND="italic">ur</HI> brynge.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Therfore, my *<HI REND="italic">leef</HI> childe, I shall teche the, <NOTE PLACE="foot">8 <HI REND="italic">leef</HI> f. H HfE</NOTE></L>
+<L>Herkyn me well, the maner and the gyse</L>
+<L>How thyn soule inward shall acqueynted be</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> thewys good and v<HI REND="italic">er</HI>tue in all wyse.</L>
+<L>Rede and conceyue; for he is to dispise, <MILESTONE N="12"/></L>
+<L>That redyth aye and *wot not, what is ment. <NOTE PLACE="foot">13 <HI REND="italic">not wot</HI> H Hf, <HI REND="italic">noot λ</HI></NOTE></L>
+<L>Suche redyng is not ell<HI REND="italic">es</HI> but wynd dispent.</L>
+</LG>
+<LG N="3">
+<HEAD>III. <MILESTONE N="30r" UNIT="H, fol."/></HEAD>
+<L>Pray thy God and prayse hym w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all thyn hert. <MILESTONE N="15"/></L>
+<L>Fader and moder haf in reuerence;</L>
+<L><PB N="304" REF="7"/>
+Love them well. And be thow neu<HI REND="italic">er</HI> to smert</L>
+<L>To here mennys cou<HI REND="italic">n</HI>sell; but kepe the thens, <MILESTONE N="18"/></L>
+<L>Till thow be clepyd. Be clene w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>out offence.</L>
+<L>Salue gladly. To hym, that is more digne</L>
+<L>Than art thy-self, thow shalt thy place resigne. <MILESTONE N="21"/></L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Drede thy maist<HI REND="italic">er.</HI> Thy *thyng<HI REND="italic">es</HI> loke thow kepe. <NOTE PLACE="foot">22 <HI REND="italic">thyng</HI> H Ha Hc <HI REND="italic">χ</HI></NOTE></L>
+<L>Take hede to thy household. Loue aye thy wyfe.</L>
+<L>Plesaunt wordys out of thy mouthe shall crepe. <MILESTONE N="24"/></L>
+<L>Be nat irouse. Kepe thy behest as lyfe.</L>
+<L>Be tempred w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wyne and not to excessiue.</L>
+<L>Thy wyues word make non auctorite <MILESTONE N="27"/></L>
+<L>In folye. Slepe no more than nedyth the.</L>
+</LG>
+<LG N="5">
+<HEAD>V. <MILESTONE N="30v" UNIT="H, fol."/></HEAD>
+<L>In goodly bokys whilome shalt thow rede;</L>
+<L>And that thow redyst, in thyn *<HI REND="italic">mynd</HI> it shytt. <MILESTONE N="30"/> <NOTE PLACE="foot">30 <HI REND="italic">mynd] hert</HI> H Hf E</NOTE></L>
+<L>Styre no wyght to wrath. Lye not, I the rede,</L>
+<L>Do well to good, and *th<HI REND="italic">at</HI> *<HI REND="italic">will</HI> eft be quytt. <NOTE PLACE="foot">32 <HI REND="italic">that will] thow shalt</HI> H</NOTE></L>
+<L>Be not wikkyd, ne to the wykkyd knytt. <MILESTONE N="33"/></L>
+<L>Stond in the place of pletyng excersise.</L>
+<L>Deme the ryght. Be cou<HI REND="italic">n</HI>seld of the wyse.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Play w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a toppe; the dyse loke thow eschewe. <MILESTONE N="36"/></L>
+<L>Despise not women; kepe them thy behest.</L>
+<L>Skorne neuer wreche; for than thow shalt it rewe.</L>
+<L>Couette no ma<HI REND="italic">n</HI>nys *good. Spek few at fest. <MILESTONE N="39"/> <NOTE PLACE="foot">39 <HI REND="italic">goodes</HI> H</NOTE></L>
+<L>Loke [*] thy vengeance be *<HI REND="italic">alw</HI>ay w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> the lest. <NOTE PLACE="foot">40 <HI REND="italic">loke aye</HI> H ‖ <HI REND="italic">ay</HI> H Hf</NOTE></L>
+<L>Who *ha<HI REND="italic">th</HI> done the good, *haf in remembrance. <NOTE PLACE="foot">41 <HI REND="italic">Who so haf</HI> H Hf E ‖ <HI REND="italic">haf it</HI> H <HI REND="italic">ν</HI> Hd</NOTE></L>
+<L>Love eu<HI REND="italic">er</HI>y wyght, and thys shall the avaunce. <MILESTONE N="42"/></L>
+</LG>
+<LG N="7">
+<HEAD>VII. Lenvoye. <MILESTONE N="31r" UNIT="H, fol."/></HEAD>
+<L>Behold, my maist<HI REND="italic">er,</HI> thys lityll tretyse,</L>
+<L>What it is full of wytt and sapience,</L>
+<L>Enforceth ȝow the mater to complise. <MILESTONE N="45"/></L>
+<L>Thynk it is *translate at ȝowr reuerence. <NOTE PLACE="foot">46 <HI REND="italic">translatyd</HI> H <HI REND="italic">ν</HI> A <HI REND="italic">υ</HI></NOTE></L>
+<L>Enrolle it therfor in ȝowr aduertence.</L>
+<L>*Desyre *to know, what thys Catou<HI REND="italic">n</HI> ment. <MILESTONE N="48"/> <NOTE PLACE="foot">48 <HI REND="italic">Desyreth</HI> H <HI REND="italic">ν</HI> Hf Fc ‖ <HI REND="italic">to] for</HI> H, <HI REND="italic">for to</HI> A <HI REND="italic">υ</HI></NOTE></L>
+<L>Whan ȝe it rede, lat not ȝowr hert be thens.</L>
+<L>Doth as thys saith w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all ȝowr hoole entent.</L>
+<L>Explicit liber parui Catonis</L>
+</LG>
+<LG N="8">
+<HEAD>VIII. <MILESTONE N="48" UNIT="Rawl. C."/>, <MILESTONE N="84r" UNIT="fol."/> <MILESTONE N="I. 1"/></HEAD>
+<L>For why that God is inwardli the witte <MILESTONE N="51"/></L>
+<L>Off man and yeueth hym vndirstondyng,</L>
+<L>*<HI REND="italic">As</HI> ditees seith, therfore shalt thou vnshitte <NOTE PLACE="foot">53 <HI REND="italic">As] And τ</HI></NOTE></L>
+<L>Thyn *hert<HI REND="italic">e</HI> to thyn souereyn lord <HI REND="italic">and</HI> kyng. <MILESTONE N="54"/> <NOTE PLACE="foot">54 <HI REND="italic">hert</HI> C</NOTE></L>
+<L>Pryncipalli *a-boue alle othir thyng, <NOTE PLACE="foot">55 <HI REND="italic">a bouen</HI> C He</NOTE></L>
+<L>Yeuyng hym laude, honour and reuerence,</L>
+<L>Whiche hathe endued the with excellence. <MILESTONE N="57"/></L>
+</LG>
+<LG N="9">
+<PB N="305" REF="8"/>
+<HEAD>IX. <MILESTONE N="I. 2"/></HEAD>
+<L>A-wake, my childe, and love no *slogardye; <NOTE PLACE="foot">58 <HI REND="italic">slogardrye</HI> C ν Hd</NOTE></L>
+<L>In muche sleep look thou neuer delite,</L>
+<L>Yiff thou purpose [*] to worship for to stye. <MILESTONE N="60"/> <NOTE PLACE="foot">60 <HI REND="italic">the to</HI> τ σ, <HI REND="italic">ye to</HI> Q</NOTE></L>
+<L>Long sleep and slouthe to vices men excite;</L>
+<L>It makith dulle, it makith vnp<HI REND="italic">ar</HI>fite;</L>
+<L>It fostreth vp the filthes of the flessch; <MILESTONE N="63"/></L>
+<L>It palith eek and wastith bloodis fressch.</L>
+</LG>
+<LG N="10">
+<HEAD>X. <MILESTONE N="I. 3"/></HEAD>
+<L>Trist weel also: the first of vertuys alle</L>
+<L>Is to be stille and keep thi tonge in mewe. <MILESTONE N="66"/></L>
+<L>Off tunge vnteied *much<HI REND="italic">e</HI> harme may falle. <NOTE PLACE="foot">67 <HI REND="italic">much</HI> C</NOTE></L>
+<L>And, leve me weel, this is as gospell trewe:</L>
+<L>Who can delaviau<HI REND="italic">n</HI>ce of woord eschewe <MILESTONE N="69"/></L>
+<L>And reste with resou<HI REND="italic">n,</HI> this is verray text,</L>
+<L>To God a-bove that man is aldir-next.</L>
+</LG>
+<LG N="11">
+<HEAD>XI. <MILESTONE N="84v" UNIT="fol."/> <MILESTONE N="I. 4"/></HEAD>
+<L>Auyse the weel, that thou neu<HI REND="italic">er</HI> trau<HI REND="italic">er</HI>se <MILESTONE N="72"/></L>
+<L>Thi owne sentence; for theroff risethe shame.</L>
+<L>Sey nat oon and eft the contrary reherse.</L>
+<L>Such repugnau<HI REND="italic">n</HI>ce wille make thy worship lame, <MILESTONE N="75"/></L>
+<L>Wher stedefastnesse wil cause the good fame.</L>
+<L>For he shal neuer accorde with man on lyue,</L>
+<L>That with hymsilfe will ay repugne <HI REND="italic">and</HI> stryve <MILESTONE N="78"/></L>
+</LG>
+<LG N="12">
+<HEAD>XII. <MILESTONE N="I. 5"/></HEAD>
+<L>Yiff thou adu<HI REND="italic">er</HI>tise and behold a-boute</L>
+<L>The liffe of men and ther maners also,</L>
+<L>Both of thi silf and othir the withoute, <MILESTONE N="81"/></L>
+<L>In myddilerthe thou shalt *<HI REND="italic">nat</HI> fynden, who <NOTE PLACE="foot">82 <HI REND="italic">nat</HI> F A φ] f. d. übr.</NOTE></L>
+<L>That in su<HI REND="italic">m</HI>me parti ne is to vertu *<HI REND="italic">f</HI>o. <NOTE PLACE="foot"> 83 <HI REND="italic">fo] so</HI> τ E, <HI REND="italic">fro</HI> ν</NOTE></L>
+<L>Blame no man therfore, iff thou do a-riht; <MILESTONE N="84"/></L>
+<L>Sith on erth lakles lyueth ther no wiht.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII. <MILESTONE N="I. 6"/></HEAD>
+<L>Yiff thou suppose thynges shall noye <HI REND="italic">and</HI> greeue,</L>
+<L>Thouh thei be der and of riht grete apprise, <MILESTONE N="87"/></L>
+<L>Such as suffreth nat thi profette acheeue,</L>
+<L>Yiff thou list be reuled as the wise,</L>
+<L>Absteyne the from suich thynges in all wise; <MILESTONE N="90"/></L>
+<L>For it is more wisdom in sothfastnesse</L>
+<L>To proferr p<HI REND="italic">ro</HI>fette than such richesse.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV. <MILESTONE N="85r" UNIT="fol."/> <MILESTONE N="I. 7"/></HEAD>
+<L>It is a good lessou<HI REND="italic">n</HI> for the nones <MILESTONE N="93"/></L>
+<L>A *w<HI REND="italic">i</HI>ht now to be tempred with co<HI REND="italic">n</HI>stau<HI REND="italic">n</HI>ce <NOTE PLACE="foot"> 94 <HI REND="italic">wht</HI> C</NOTE></L>
+<L>And to be glad and mery eft-soones,</L>
+<L>Nat alwey sad ne liht of contenau<HI REND="italic">n</HI>ce. <MILESTONE N="96"/></L>
+<L>A ma<HI REND="italic">n</HI>nys cheer may hym ful oft avau<HI REND="italic">n</HI>ce;</L>
+<L>For att eche tyme, as the thyng requyrith,</L>
+<L>So the wiseman viseageth and cheerith. <MILESTONE N="99"/></L>
+</LG>
+<LG N="15">
+<PB N="306" REF="9"/>
+<HEAD>XV. <MILESTONE N="I. 8"/></HEAD>
+<L>Yiff nat credence alwey to thy wiffe,</L>
+<L>That for hir ire and hir vnpacience</L>
+<L>With sharper tonge than is swerd or knyffe <MILESTONE N="102"/></L>
+<L>Pleynyth on thi *s<HI REND="italic">er</HI>uau<HI REND="italic">n</HI>t, thouh non offence <NOTE PLACE="foot">103 <HI REND="italic">servauntis</HI> ϑ ν</NOTE></L>
+<L>Thou fynd in hym; leer weel this sentence.</L>
+<L>The wiffe wille hate and cause for to smerte <MILESTONE N="105"/></L>
+<L>Oftyn hym, that hir housbonde loueth in herte.</L>
+</LG>
+<LG N="16">
+<HEAD>XVI. <MILESTONE N="I. 9"/></HEAD>
+<L>And iff thou *w<HI REND="italic">a</HI>rne a wiht of his surfette, <NOTE PLACE="foot">107 <HI REND="italic">werne</HI> C</NOTE></L>
+<L>Althouh he gruchche with frownyng contenau<HI REND="italic">n</HI>ce <MILESTONE N="108"/></L>
+<L>And in his language manace the <HI REND="italic">and</HI> thrette,</L>
+<L>Yit forber nat for *al such displesau<HI REND="italic">n</HI>ce <NOTE PLACE="foot">110 <HI REND="italic">al maner</HI> C Hc</NOTE></L>
+<L>To teche hym amende his gouernau<HI REND="italic">n</HI>ce. <MILESTONE N="111"/></L>
+<L>As thou began, correcte that is a-mysse;</L>
+<L>For that is ay a freendli teche i-wisse.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII. <MILESTONE N="85v" UNIT="fol."/> <MILESTONE N="I. 10"/></HEAD>
+<L>Ageyns the wordy folk ay full of wynde <MILESTONE N="114"/></L>
+<L>Stryue nat atte all; it may the nat p<HI REND="italic">ro</HI>fite.</L>
+<L>Such iayissh folk been in conceitis blynde.</L>
+<L>The witles word auaileth nat a myte. <MILESTONE N="117"/></L>
+<L>In woordis fele is wisdom oft full lite.</L>
+<L>For to euery wiht is youen speche;</L>
+<L>And yit the wise full ofte been to seeche. <MILESTONE N="120"/></L>
+</LG>
+<LG N="18">
+<HEAD>XVIII. <MILESTONE N="I. 11"/></HEAD>
+<L>Love othir men and haue *<HI REND="italic">hem</HI> so cheer, <NOTE PLACE="foot">121 <HI REND="italic">hem] men</HI> C</NOTE></L>
+<L>That to thy silfe thy love may moste extende.</L>
+<L>Looke that no p<HI REND="italic">er</HI>sone be to the mor deer <MILESTONE N="123"/></L>
+<L>Than thyn estat; for than shaltt thou offende</L>
+<L>And hurte thy silfe and othir folk amende.</L>
+<L>But ay cherissh othir and love hem soo, <MILESTONE N="126"/></L>
+<L>That to thi silffe thou be nat fou<HI REND="italic">n</HI>den foo.</L>
+</LG>
+<LG N="19">
+<HEAD>XIX. <MILESTONE N="I. 12"/></HEAD>
+<L>Rumours newe, that flyen as the wynde,</L>
+<L>Eschew, my child, with al thi dilligence. <MILESTONE N="129"/></L>
+<L>Be neu<HI REND="italic">er</HI> besy newe *ti<HI REND="italic">di</HI>n<HI REND="italic">g</HI>es *<HI REND="italic">for</HI> to fynde; <NOTE PLACE="foot">130 <HI REND="italic">tithendes</HI> C ‖ <HI REND="italic">for</HI> f. C Q β</NOTE></L>
+<L>Such nouelte causeth *ofte offence. <NOTE PLACE="foot">131 <HI REND="italic">often</HI> ϑ</NOTE></L>
+<L>It is no witt, it is no sapience, <MILESTONE N="132"/></L>
+<L>It hurtith nat a man to be in pes;</L>
+<L>But it dothe harme to putt his tonge in pres.</L>
+</LG>
+<LG N="20">
+<HEAD>XX. <MILESTONE N="86r" UNIT="fol."/> <MILESTONE N="I. 13"/></HEAD>
+<L>Make no p<HI REND="italic">ro</HI>mys of othir me<HI REND="italic">n</HI>nys heste. <MILESTONE N="135"/></L>
+<L>Remembr<HI REND="italic">e</HI> weel, that promys is *v<HI REND="italic">n</HI>sure; <NOTE PLACE="foot">136 <HI REND="italic">vsure</HI> C</NOTE></L>
+<L>And but thou keep it, thi name thou sleste.</L>
+<L>To s<HI REND="italic">er</HI>ue thi beheste do thou thy cure. <MILESTONE N="138"/></L>
+<L>Trist nat the woord of euery creature.</L>
+<L>Sum ma<HI REND="italic">n</HI>nys feithe is esy for to breke;</L>
+<L>For many folke thynke nat as thei speke. <MILESTONE N="141"/></L>
+</LG>
+<LG N="21">
+<PB N="307" REF="10"/>
+<HEAD>XXI. <MILESTONE N="I. 14"/></HEAD>
+<L>With woordis fair whan fauel fedith the,</L>
+<L>Be thou nat blent for his fals *flat<HI REND="italic">e</HI>rie. <NOTE PLACE="foot">143 <HI REND="italic">flatri τ</HI></NOTE></L>
+<L>Latt thyn owne reson alway thy iuge be. <MILESTONE N="144"/></L>
+<L>And, in effecte, *<HI REND="italic">i</HI>f thyn estate be hyhe, <NOTE PLACE="foot">145 <HI REND="italic">if] of</HI> C Hb</NOTE></L>
+<L>Thouh fauell with his craft wil blynd thyn ye,</L>
+<L>In al thy *ly<HI REND="italic">f</HI>e thou neu<HI REND="italic">er</HI> geue credence <MILESTONE N="147"/> <NOTE PLACE="foot">147 <HI REND="italic">lyve</HI> C M</NOTE></L>
+<L>More *of thi silfe than to thy conscience. <NOTE PLACE="foot">148 <HI REND="italic">of] to</HI> C</NOTE></L>
+</LG>
+<LG N="22">
+<HEAD>XXII. <MILESTONE N="I. 15"/></HEAD>
+<L>Whan thou seest a-nothir ma<HI REND="italic">n</HI>nys desert,</L>
+<L>As for his good deedis comendable, <MILESTONE N="150"/></L>
+<L>In euery place, preuy and aperte,</L>
+<L>Such a wiht with thi good woord enable.</L>
+<L>And thouh thou haue be riht *<HI REND="italic">a</HI>vailable, <MILESTONE N="153"/> <NOTE PLACE="foot">153 <HI REND="italic">vailable</HI> C H Fc</NOTE></L>
+<L>Yit of thi good deede make thou no bobbau<HI REND="italic">n</HI>ce,</L>
+<L>And than othir men shall thy name enhau<HI REND="italic">n</HI>ce.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII. <MILESTONE N="86v" UNIT="fol."/> <MILESTONE N="I. 16"/></HEAD>
+<L>And thou lyve longe an olde ma<HI REND="italic">n</HI> shall thou bee. <MILESTONE N="156"/></L>
+<L>Age wille approche maugre alle that sey nay.</L>
+<L>Than p<HI REND="italic">er</HI>ceyue, behold a-boute and see,</L>
+<L>How agid *folk been tretid euery day; <MILESTONE N="159"/> <NOTE PLACE="foot">159 <HI REND="italic">folkis</HI> C, <HI REND="italic">folkys</HI> Hb</NOTE></L>
+<L>And so to purveye for thy silfe assay.</L>
+<L>Into stoupyng age whan thou art crepte,</L>
+<L>Thyng may the helpe, that in youthe was kepte. <MILESTONE N="162"/></L>
+</LG>
+<LG N="24">
+<HEAD>XXIV. <MILESTONE N="I. 17"/></HEAD>
+<L>Charge nat, al-thouh sume mene speke softe,</L>
+<L>Ne chau<HI REND="italic">n</HI>ge no cheer; for oft it is weel bett</L>
+<L>In secrete wise to speke than crye on lofte. <MILESTONE N="165"/></L>
+<L>A man shuld see alwey, wher he wer sette,</L>
+<L>And aftir that so schuld he speke or lette.</L>
+<L>But to the suspect of harme it seemeth <MILESTONE N="168"/></L>
+<L>Men speke of hym; he noon othir demyth.</L>
+</LG>
+<LG N="25">
+<HEAD>XXV. <MILESTONE N="I. 18"/></HEAD>
+<L>Whan fortune hathe youe the felicite</L>
+<L>And sette the on hihe, than war the of a falle; <MILESTONE N="171"/></L>
+<L>Than sueth oft ful sharp adu<HI REND="italic">er</HI>site.</L>
+<L>Fals fortune turnethe as a balle; <NOTE PLACE="foot">173 hinter <HI REND="italic">as</HI> ein <HI REND="italic">doth</HI> übergeschrieben (v. sp. H.), wie H R <HI REND="italic">β</HI> lesen</NOTE></L>
+<L>In hir trost haue thou no sykirnesse att all. <MILESTONE N="174"/></L>
+<L>Her perilous play turneth whilom to g<HI REND="italic">r</HI>ame;</L>
+<L>The eend is woo, of that began with game.</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI. <MILESTONE N="87r" UNIT="fol."/> <MILESTONE N="I. 19"/></HEAD>
+<L>Our bretil liff is heer * <HI REND="italic">so</HI> ful of doute, <MILESTONE N="177"/> <NOTE PLACE="foot">177 <HI REND="italic">so</HI> f. α</NOTE></L>
+<L>That in verray surete *n<HI REND="italic">o</HI> wiht may stond. <NOTE PLACE="foot">178 <HI REND="italic">no] ne</HI> C</NOTE></L>
+<L>So sodenly creepe the soulis oute</L>
+<L>Al a-boute this world in eu<HI REND="italic">er</HI>y lond <MILESTONE N="180"/></L>
+<L>Off yong and old; for euery wiht is bonde</L>
+<L>To dethe. Therfor sett nat thyn affiau<HI REND="italic">n</HI>ce</L>
+<L>In deth of hym, *th<HI REND="italic">at</HI> may survyue p<HI REND="italic">er</HI>chau<HI REND="italic">n</HI>ce. <MILESTONE N="183"/> <NOTE PLACE="foot">183 <HI REND="italic">that] the</HI> C Hf <HI REND="italic">ν λ, he</HI> F</NOTE></L>
+</LG>
+<LG N="27">
+<PB N="308" REF="11"/>
+<HEAD>XXVII. <MILESTONE N="I. 20"/></HEAD>
+<L>A litil yift youen with good entent</L>
+<L>Off thi frend, that lith in pouerte,</L>
+<L>With riht good cheer such yifte take <HI REND="italic">and</HI> hent, <MILESTONE N="186"/></L>
+<L>Supposyng ay, that as good wille hath he</L>
+<L>And more than many men, that richer be.</L>
+<L>* Peise nat the yifte ne pondre nat the pris. <MILESTONE N="189"/> <NOTE PLACE="foot">189 <HI REND="italic">Preise</HI> ϑ Hb Cp <HI REND="italic">κ</HI> Hc G D Fc Ad</NOTE></L>
+<L>The entent is good, and *<HI REND="italic">that</HI> may the suffice. <NOTE PLACE="foot">190 <HI REND="italic">that</HI> f. C Fb</NOTE></L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII. <MILESTONE N="I. 21"/></HEAD>
+<L>Sith nature, that is the firste norice.</L>
+<L>Hath brouht the hidr all nakid and * <HI REND="italic">al</HI> bare, <MILESTONE N="192"/> <NOTE PLACE="foot">192 <HI REND="italic">al</HI><SUP>2</SUP> f. CM <HI REND="italic">ν</HI></NOTE></L>
+<L>Thouh thou neu<HI REND="italic">er</HI> can richesse accomplice</L>
+<L>But thou arte hold alway in pou<HI REND="italic">er</HI>tis snare,</L>
+<L>Yit, no force, make neuer to muche care, <MILESTONE N="195"/></L>
+<L>Take pacientli pouerte for the beste.</L>
+<L>Richesse is nat of nature, but of *co<HI REND="italic">n</HI>queste. <NOTE PLACE="foot">197 <HI REND="italic">coquest</HI> C</NOTE></L>
+</LG>
+<LG N="29">
+<HEAD>XXIX. <MILESTONE N="87v" UNIT="fol."/> <MILESTONE N="I. 22"/></HEAD>
+<L>Thouh deth be fyne of euery creature, <MILESTONE N="198"/></L>
+<L>And no wiht on lyue shall from *<HI REND="italic">it</HI> escape, <NOTE PLACE="foot">199 <HI REND="italic">it] him</HI> C Hb M Hc <HI REND="italic">x φ</HI></NOTE></L>
+<L>Yit dreede nat deth with ou<HI REND="italic">er</HI> besy cure.</L>
+<L>To lyve in erthe than is but a iape, <MILESTONE N="201"/></L>
+<L>Iff thou shalt aftir dethe so alway gape.</L>
+<L>Thynk weel to deye, but modifie thi thouht,</L>
+<L>Or *ell<HI REND="italic">is</HI> to lyue auaileth the riht nouht. <MILESTONE N="204"/> <NOTE PLACE="foot">204 <HI REND="italic">ell</HI> C</NOTE></L>
+</LG>
+<LG N="30">
+<HEAD>XXX. <MILESTONE N="I. 23"/></HEAD>
+<L>For thi desert if no freende thanke the,</L>
+<L>I meen, whan thou haste don thi force and peyne</L>
+<L>To othir folk ful freendli for to bee, <MILESTONE N="207"/></L>
+<L>Iff thei can nat to the grau<HI REND="italic">n</HI>tmercy seyne,</L>
+<L>Withdrawe thyn hand and so thi silfe restreyne.</L>
+<L>Blame nat *thy God for theer vnfreendlynesse, <MILESTONE N="210"/> <NOTE PLACE="foot">210 <HI REND="italic">thyn</HI> C, f. A</NOTE></L>
+<L>But for such men do aftirwarde the lesse.</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI. <MILESTONE N="I. 24"/></HEAD>
+<L>Sith no richer man ne liveth any-wher,</L>
+<L>Yiff he *co<HI REND="italic">n</HI>sume his *good<HI REND="italic">is</HI> alle and waste, <MILESTONE N="213"/> <NOTE PLACE="foot">213 <HI REND="italic">cosume</HI> C ‖ <HI REND="italic">good</HI> α Ad Fb</NOTE></L>
+<L>But that pou<HI REND="italic">er</HI>t shall greue hym sore <HI REND="italic">and</HI> dere,</L>
+<L>Therfor, my child, such goodis as thou haste,</L>
+<L>Latt nat to soone out of thyn handis be *ra<HI REND="italic">f</HI>te. <MILESTONE N="216"/> <NOTE PLACE="foot">216 <HI REND="italic">raste</HI> C</NOTE></L>
+<L>* Last *tha<HI REND="italic">t</HI> thi good hereaftir wille the faill, <NOTE PLACE="foot">217 <HI REND="italic">Last</HI> C, <HI REND="italic">lese</HI> Hc, sonst <HI REND="italic">lest</HI> ‖ <HI REND="italic">than</HI> C M <HI REND="italic">ν</HI> Fb χ, f. <HI REND="italic">κ</HI></NOTE></L>
+<L>Hold, that thou haste; it may the eft availl.</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII. <MILESTONE N="88r" UNIT="fol."/> <MILESTONE N="I. 25"/></HEAD>
+<L>Behote noma<HI REND="italic">n</HI> a thyng to leene hym twise <MILESTONE N="219"/></L>
+<L>And faile hym; that is but a vilanye.</L>
+<L>Yiff thou may leende, do it in ffreendly wise.</L>
+<L>Such cheuysance wil freendlynesse bewrie. <MILESTONE N="222"/></L>
+<L>Off thi good deed clamour nat ne crye.</L>
+<L>Be nat to wyndy nor of *worde<HI REND="italic">s</HI> breeme, <NOTE PLACE="foot">224 <HI REND="italic">woorde</HI> ϑ</NOTE></L>
+<L>Yif a good ma<HI REND="italic">n</HI>n the list appeer and seeme. <MILESTONE N="225"/></L>
+</LG>
+<LG N="33">
+<PB N="309" REF="12"/>
+<HEAD>XXXIII. <MILESTONE N="I. 26"/></HEAD>
+<L>And yiff thou fynde the *sone of dowbilnesse, <NOTE PLACE="foot">226 <HI REND="italic">sones α (sownes</HI> Hb)</NOTE></L>
+<L>The fals dissimulour if thou espie</L>
+<L>With peyntid woord and hert ful of falsnesse, <MILESTONE N="228"/></L>
+<L>Thou maist in no wise better bleer his ye</L>
+<L>Than s<HI REND="italic">er</HI>ue hym with his owne trecherie.</L>
+<L>For *woord<HI REND="italic">is</HI> fair and freendlynesse no part <MILESTONE N="231"/> <NOTE PLACE="foot">231 <HI REND="italic">woord</HI> C</NOTE></L>
+<L>Yeue thou the same and so aart *<HI REND="italic">be</HI>gyl<HI REND="italic">e</HI> with aart <NOTE PLACE="foot">232 <HI REND="italic">begyle] begyled</HI> A <HI REND="italic">ν κ</HI> Fc Ad, <HI REND="italic">gylyd</HI> C H</NOTE></L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV. <MILESTONE N="I. 27"/></HEAD>
+<L>Preeve nat a man bi *ouer-peyntid speche. <NOTE PLACE="foot">233 <HI REND="italic">ouer fair p.</HI> C</NOTE></L>
+<L>Undir fair woordis ys ofte couerid gyle. <MILESTONE N="234"/></L>
+<L>The *woord is gay, but frenship is to seeche. <NOTE PLACE="foot">235 <HI REND="italic">world α</HI> Fb</NOTE></L>
+<L>And as men sey, such craft is in this ile:</L>
+<L>Su<HI REND="italic">m</HI>me thynken harm, whan thei hir tonges file. <MILESTONE N="237"/></L>
+<L>The whistlyng fouler maketh mery song,</L>
+<L>And yit briddis begilethe he a-mong.</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV. <MILESTONE N="88v" UNIT="fol."/> <MILESTONE N="I. 28"/></HEAD>
+<L>Whan that God hathe youen the children fele <MILESTONE N="240"/></L>
+<L>And no richesse, than do thou in this wise:</L>
+<L>Teche thy children with *craft<HI REND="italic">is</HI> for to dele, <NOTE PLACE="foot">242 <HI REND="italic">craft τ, some crafte</HI> Hb</NOTE></L>
+<L>That with their aart thei may hemsilf cheuyse. <MILESTONE N="243"/></L>
+<L>Yiff thou do thus, thou werkist as the wise.</L>
+<L>Craft is ful good, and craft is lucratyffe;</L>
+<L>By craft thei may deffende the nedy liffe. <MILESTONE N="246"/></L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI. <MILESTONE N="I. 29"/></HEAD>
+<L>Haue this conceit; for it is often *se<HI REND="italic">e</HI>n, <NOTE PLACE="foot">247 <HI REND="italic">seyn</HI> C Hb Cp D</NOTE></L>
+<L>Thynges deer shall ofte abate of prise,</L>
+<L>And thynges, that of litil valewe been, <MILESTONE N="249"/></L>
+<L>In tyme comyng may to grete derthe a-rise.</L>
+<L>Remembr<HI REND="italic">e</HI> this and it *w<HI REND="italic">ee</HI>l adu<HI REND="italic">er</HI>tise. <NOTE PLACE="foot">251 <HI REND="italic">wille</HI> C Ad, <HI REND="italic">wolle</HI> Hb M Hf, <HI REND="italic">foll</HI> Fc</NOTE></L>
+<L>Thus shalt thou beste the name of chynchery fleme. <MILESTONE N="252"/></L>
+<L>And othir men shall the no negard deeme.</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII. <MILESTONE N="I. 30"/></HEAD>
+<L>A-vyse the weel, latte resou<HI REND="italic">n</HI> be thy guyde,</L>
+<L>Whan othir folk thou art a-boute to blame, <MILESTONE N="255"/></L>
+<L>That suche defaute in the be nat aspied;</L>
+<L>For if ther be, than *shal<HI REND="italic">t</HI> thou haue the shame. <NOTE PLACE="foot">257 <HI REND="italic">shall</HI> C</NOTE></L>
+<L>A manys hono<HI REND="italic">ur</HI> such thynges will reclame. <MILESTONE N="258"/></L>
+<L>It is ful foule, whan that a man will teche,</L>
+<L>Iff that *<HI REND="italic">h</HI>is deede a-yens his *woord<HI REND="italic">is</HI> preche. <NOTE PLACE="foot">260 <HI REND="italic">his</HI><SUP>1</SUP>] <HI REND="italic">is</HI> C Db Fc Ad ‖ <HI REND="italic">woord</HI> C M</NOTE></L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII. <MILESTONE N="89r" UNIT="fol."/> <MILESTONE N="I. 31"/></HEAD>
+<L>Loke thi desir be grou<HI REND="italic">n</HI>did in a riht <MILESTONE N="261"/> <NOTE PLACE="foot">261 <HI REND="italic">a</HI> ist fortradiert in C</NOTE></L>
+<L>And that it neuer trauers honeste;</L>
+<L>For as oft-tymes, as any wiht</L>
+<L>Desirith more than riht or equite, <MILESTONE N="264"/></L>
+<L>Than may his request repellid be.</L>
+<L>And it is clepid nycete and grete folye</L>
+<L>To asken oft thatt me<HI REND="italic">n</HI> will ay denye. <MILESTONE N="267"/></L>
+</LG>
+<LG N="39">
+<PB N="310" REF="13"/>
+<HEAD>XXXIX. <MILESTONE N="I. 32"/></HEAD>
+<L>Chau<HI REND="italic">n</HI>ge nat thi freende, that thow knowest of old,</L>
+<L>For any newe in trost, that thou shalt fynde</L>
+<L>Bettir than he; but in thyn handis hold <MILESTONE N="270"/></L>
+<L>Hym, that hathe to the ffreendly been and kynde.</L>
+<L>Such eschau<HI REND="italic">n</HI>ges been ful *oft<HI REND="italic">en</HI> blynde. <NOTE PLACE="foot">272 <HI REND="italic">oft</HI> C</NOTE></L>
+<L>Thou weenest *<HI REND="italic">to</HI> knowe *a<HI REND="italic">nd</HI> yit knowist nat a deel. <MILESTONE N="273"/> <NOTE PLACE="foot">273 <HI REND="italic">to</HI> f. <HI REND="italic">τ</HI> ‖ <HI REND="italic">and] at</HI> C</NOTE></L>
+<L>To know a freend it is a casuel.</L>
+</LG>
+<LG N="40">
+<HEAD>XL. <MILESTONE N="I. 33"/></HEAD>
+<L>Sith manys liff is fulle of miserie,</L>
+<L>Whilom in mirthe and aftir in myscheef, <MILESTONE N="276"/></L>
+<L>Now in the vale, now in the mont on hihe;</L>
+<L>Now man is poore <HI REND="italic">and</HI> eft richesse releffe;</L>
+<L>The shynyng morwe hath ofte a stormy eve— <MILESTONE N="279"/></L>
+<L>To *<HI REND="italic">t</HI>his policie take heed and entend:</L>
+<L>Look thou haue lucre in thi labours eende. <NOTE PLACE="foot">280 <HI REND="italic">this] his</HI> C Fb</NOTE></L>
+</LG>
+<LG N="41">
+<HEAD>XLI. <MILESTONE N="89v" UNIT="fol."/> <MILESTONE N="I. 34"/></HEAD>
+<L>Thouh thou may venquyssh and haue the victory <MILESTONE N="282"/></L>
+<L>Off thi freend and felawe, yit forbere.</L>
+<L>Reffreyn thi silfe; be nat hawteyn ne to hihe.</L>
+<L>Irous hau<HI REND="italic">n</HI>tes ful oft men do dere, <MILESTONE N="285"/></L>
+<L>Wher esy softnesse *freend<HI REND="italic">is</HI> may co<HI REND="italic">n</HI>quere. <NOTE PLACE="foot">286 <HI REND="italic">freend α (a freend</HI> H)</NOTE></L>
+<L>For bi good deedis, sett in lowlynesse,</L>
+<L>Men be to-gidr<HI REND="italic">e</HI> *<HI REND="italic">kny</HI>tt in freendlynesse. <MILESTONE N="288"/> <NOTE PLACE="foot">288 <HI REND="italic">knyt] sett ϑ, brought</HI> Hb</NOTE></L>
+</LG>
+<LG N="42">
+<HEAD>XLII. <MILESTONE N="I. 35"/></HEAD>
+<L>The lymytour, that visiteth the wyues,</L>
+<L>Is wise i-nouh. Of hym a ma<HI REND="italic">n</HI> may leer</L>
+<L>To *yiue<HI REND="italic">n</HI> *girdil<HI REND="italic">e</HI>s, pynnes and knyues. <MILESTONE N="291"/> <NOTE PLACE="foot">291 <HI REND="italic">yiue girdils</HI> C</NOTE></L>
+<L>This craft is good; *th<HI REND="italic">u</HI>s dothe the celi freere: <NOTE PLACE="foot">292 <HI REND="italic">this</HI> C Hb M He Ad, <HI REND="italic">soo</HI> Fb Cp</NOTE></L>
+<L>Yiueth thynges smale for thynges, that been deer.</L>
+<L>Iff thou receyue, gif ay *sum<HI REND="italic">what</HI> ageyn; <MILESTONE N="294"/> <NOTE PLACE="foot">294 <HI REND="italic">summe thyng ϑ</HI></NOTE></L>
+<L>And that wille *nor<HI REND="italic">i</HI>ssh *freend<HI REND="italic">es</HI> deer certeyn. <NOTE PLACE="foot">295 <HI REND="italic">norsshe τ</HI> Y ‖ <HI REND="italic">freend</HI> C, <HI REND="italic">thi frend</HI> F H</NOTE></L>
+</LG>
+<LG N="43">
+<HEAD>XLIII. <MILESTONE N="I. 36"/></HEAD>
+<L>Toil nat ne stryve with hym, that is thi freende.</L>
+<L>Bewar of that: make nat thi freend thi foo. <MILESTONE N="297"/></L>
+<L>A toilous man may frenship breke <HI REND="italic">and</HI> sheende.</L>
+<L>Thes baratours, that beth mysreulid soo,</L>
+<L>Intrike *h<HI REND="italic">e</HI>msilfe and *w<HI REND="italic">r</HI>appe hem in much wo. <MILESTONE N="300"/> <NOTE PLACE="foot">300 <HI REND="italic">hymsilfe</HI> C, <HI REND="italic">themsilfe</HI> Q H Hb Cp ‖ <HI REND="italic">wappe</HI> C</NOTE></L>
+<L>For ire of kynde engendrith nat but hate,</L>
+<L>Wher-as accorde *nor<HI REND="italic">i</HI>sheth loue algate. <NOTE PLACE="foot">302 <HI REND="italic">norsheth</HI> C, <HI REND="italic">norshit</HI> F</NOTE></L>
+</LG>
+<LG N="44">
+<HEAD>XLIV. <MILESTONE N="90r" UNIT="fol."/> <MILESTONE N="I. 37"/></HEAD>
+<L>Whan thi s<HI REND="italic">er</HI>uant thou takist in diffaute, <MILESTONE N="303"/></L>
+<L>Thouh he cannat his necligence excuse,</L>
+<L>Yit in thyn ire make nat to fers assaute,</L>
+<L>But with thi maletalent a while take trewse; <MILESTONE N="306"/></L>
+<L>Thow shalt fynde ese, this feet if thou vse:</L>
+<L>Reule thi passiou<HI REND="italic">n</HI> euer bi such mesure,</L>
+<L>That thou save hem, that be vndir thi cure. <MILESTONE N="309"/></L>
+</LG>
+<LG N="45">
+<PB N="311" REF="14"/>
+<HEAD>XLV. <MILESTONE N="I. 38"/></HEAD>
+<L>'Suffrau<HI REND="italic">n</HI>ce dothe ese', was seid full yore a-goo.</L>
+<L>Suffre thou and haue al thyn entent.</L>
+<L>Thouh thou may ouercome, yit do nat soo. <MILESTONE N="312"/></L>
+<L>Conquere thoruh suffrau<HI REND="italic">n</HI>ce and be pacient,</L>
+<L>But to foul cruelte neu<HI REND="italic">er</HI> consent;</L>
+<L>For it is clepid in vertu excellence <MILESTONE N="315"/></L>
+<L>A wiht to lyue in hu<HI REND="italic">m</HI>ble pacie<HI REND="italic">n</HI>ce.</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI. <MILESTONE N="I. 39"/></HEAD>
+<L>Be nat to scant, be nat to prodigal.</L>
+<L>Conserue thy thyng goten with labour. <MILESTONE N="318"/></L>
+<L>It is ful faire [*] to be said liberal, <NOTE PLACE="foot">319 <HI REND="italic">for to τ</HI> Q</NOTE></L>
+<L>But eschew waste and be no surfetour.</L>
+<L>Consume nat al thy tresour in an hour. <MILESTONE N="321"/></L>
+<L>Whan of thi labour riseth noon availle,</L>
+<L>Nedy pouerte must the ful soone assaille.</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII. <MILESTONE N="90v" UNIT="fol."/> <MILESTONE N="I. 40"/></HEAD>
+<L>Be nat like Sceuola <NOTE N="1" PLACE="foot">Wohl jener 'P. Scaeuola', welcher nach Macrobius, Saturnal. III, 13, 11 (ed. Eyssenhardt), an dem Schlemmerbankett des Pontifex Maximus Q. Metellus Pius teilnahm, welches Macrobius ausdrücklich als ein Beispiel von <HI REND="italic">luxuria</HI> anführt.</NOTE>; for he wold ete <MILESTONE N="324"/> <NOTE PLACE="foot">324 <HI REND="italic">seuola</HI> Hd <HI REND="italic">χ, zeuola μ λ</HI> Fc Ad, <HI REND="italic">zevola</HI> Pm, <HI REND="italic">zeuela</HI> D, <HI REND="italic">yeuola χ ν</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> euery ma<HI REND="italic">n</HI> and at his feest hym feede.</L>
+<L>But neu<HI REND="italic">er</HI> wiht myht tasten of his mete;</L>
+<L>Noma<HI REND="italic">n</HI> to hym, but he to all men yeede. <MILESTONE N="327"/></L>
+<L>Be fre of mete, but look that largesse leede</L>
+<L>The no ferther then thou may weel atteyne.</L>
+<L>Be thyn owne freend, thus seith Catou<HI REND="italic">n</HI> certeyn. <MILESTONE N="330"/></L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII. Lenvoye.</HEAD>
+<L>Take heed, sire, how holsumly this clerk</L>
+<L>Entretith men w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> vertuous doctrine,</L>
+<L>His firste part of this compendious werk, <MILESTONE N="333"/></L>
+<L>In worschip how thei shal ful cleerly shyne,</L>
+<L>Gydyng to renou<HI REND="italic">n</HI> streiht as any lyne;</L>
+<L>Whos preceptis obs<HI REND="italic">er</HI>uen if ye list <MILESTONE N="336"/></L>
+<L>And to his good cownsel yowr herte *e<HI REND="italic">n</HI>clyne, <NOTE PLACE="foot">337 <HI REND="italic">ecline</HI> C</NOTE></L>
+<L>Riht on your welthe full weel *it shal be wist. <NOTE PLACE="foot">338 <HI REND="italic">shal it</HI> C H <HI REND="italic">ν</HI></NOTE></L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>The vertues foure, that men shoold foorth co<HI REND="italic">n</HI>veie <MILESTONE N="339"/></L>
+<L>Loo in this liff, as bridill dothe a beest,</L>
+<L>That man nat erre heer in this p<HI REND="italic">er</HI>eilous weye,</L>
+<L>Stablisshyng hym, as dothe a stedfast reest, <MILESTONE N="342"/></L>
+<L>As sikir guydes, that been worthiest</L>
+<L>Mannys lyuyng to sette in gouernau<HI REND="italic">n</HI>ce,</L>
+<L>This sage Catou<HI REND="italic">n</HI> ful wisely doth regest. <MILESTONE N="345"/></L>
+<L>*Pree<HI REND="italic">n</HI>tith his sawes in yowr remembrau<HI REND="italic">n</HI>ce. <NOTE PLACE="foot">346 <HI REND="italic">preetith</HI> C ‖ <HI REND="italic">pars prima</HI> H <HI REND="italic">σ]</HI> f. C u. a.</NOTE></L>
+</LG>
+<TRAILER>Exp<HI REND="italic">li</HI>cit *<HI REND="italic">pars prima.</HI></TRAILER>
+</DIV2>
+<DIV2 N="2" TYPE="part">
+<LG N="50">
+<HEAD>L. <MILESTONE N="II, praef. 1-2"/></HEAD>
+<L>Iff thou list, my child, setten thyn delite</L>
+<L>Off erthe for to knowe the tilthe <HI REND="italic">and</HI> the cultur, <MILESTONE N="348"/></L>
+<L><PB N="312" REF="15"/>
+And iff thou wilt be of knowlech perfit</L>
+<L>Whi su<HI REND="italic">m</HI>me is arable and su<HI REND="italic">m</HI>me is pasture,</L>
+<L>And whi su<HI REND="italic">m</HI>me is spreynt with floury pictur, <MILESTONE N="351"/></L>
+<L>I conseil the to musen for a while</L>
+<L>In the laureat poete greete Virgile.</L>
+</LG>
+<LG N="51">
+<HEAD>LI. <MILESTONE N="91r" UNIT="fol."/> <MILESTONE N="II, praef. 3-4"/></HEAD>
+<L>And forthermor, my chyld, if that thou list <MILESTONE N="354"/></L>
+<L>The vertues of herbes for to discrive,—</L>
+<L>It may nowher in erthe bettir be wist,</L>
+<L>Which be co<HI REND="italic">n</HI>sumyng and which be nutritive, <MILESTONE N="357"/></L>
+<L>Which hote, which cold, which confortatyve,—</L>
+<L>Than reede Macere in his old ditee,</L>
+<L>Which tellith hem in propre qualite. <MILESTONE N="360"/></L>
+</LG>
+<LG N="52">
+<HEAD>LII, <MILESTONE N="II, praef. 4-5"/></HEAD>
+<L>And iff thou haue desirous fressh corage</L>
+<L>To heer of noble Romayns worthynesse,</L>
+<L>How that thei venquesshed them of Cartage <MILESTONE N="363"/></L>
+<L>And many othir thoruh manly p<HI REND="italic">ro</HI>wesse,</L>
+<L>Than reede Lucan; fful weel can he exp<HI REND="italic">re</HI>sse,</L>
+<L>Who bar hym best in tou<HI REND="italic">n</HI> and eek in feeld, <MILESTONE N="366"/></L>
+<L>And who dide merueillis vndir Martis sheeld.</L>
+</LG>
+<LG N="53">
+<HEAD>LIII. <MILESTONE N="II, praef. 6-7"/></HEAD>
+<L>But he, that list of louers for to reede</L>
+<L>And in that wise hymsiluen so tauau<HI REND="italic">n</HI>ce, <MILESTONE N="369"/></L>
+<L>As in that craft Naso can teche hym speede.</L>
+<L>Su<HI REND="italic">m</HI>me louyth song, sume harpe, lute <HI REND="italic">and</HI> dau<HI REND="italic">n</HI>ce,</L>
+<L>Su<HI REND="italic">m</HI>me othir dyv<HI REND="italic">er</HI>s thynges of plesau<HI REND="italic">n</HI>ce; <MILESTONE N="372"/></L>
+<L>Su<HI REND="italic">m</HI>me louyth couertly and list nat been espied;</L>
+<L>Su<HI REND="italic">m</HI>me will be knowe; and *th<HI REND="italic">u</HI>s writith Ouyde. <NOTE PLACE="foot">374 <HI REND="italic">this</HI> C Hb</NOTE></L>
+</LG>
+<LG N="54">
+<HEAD>LIV. <MILESTONE N="91v" UNIT="fol."/> <MILESTONE N="II, praef. 8-9"/></HEAD>
+<L>But yit, my leeff child, iff in auentur <MILESTONE N="375"/></L>
+<L>Thyn hert be youe to noman<HI REND="italic">er</HI> of such thyng,</L>
+<L>Or iff it be nat al to thyn plesure,</L>
+<L>That Virgil, Macer, Lucan and Naso bryng, <MILESTONE N="378"/></L>
+<L>Yit that thou may be wise in thy lyuyng,</L>
+<L>Iff the list to yeue me audience,</L>
+<L>I shal shewe the doctryne of sapience. <MILESTONE N="381"/></L>
+</LG>
+<LG N="55">
+<HEAD>LV. <MILESTONE N="II, praef. 10"/></HEAD>
+<L>Therfore, my chyld, cu<HI REND="italic">m</HI> vnto me and leer,</L>
+<L>*<HI REND="italic">And</HI> I shal the shew the verray *tresur <NOTE PLACE="foot">383 <HI REND="italic">And</HI> f. C ‖ <HI REND="italic">tresour ϑ χ</HI> Y Fc <HI REND="italic">φ</HI></NOTE></L>
+<L>Off sapience, if that the list to heer, <MILESTONE N="384"/></L>
+<L>And how thou shalt in good estate endur</L>
+<L>And leede thi lyff aftir Goddis plesure.</L>
+<L>Therfore come neer and leer bi thys reedyng <MILESTONE N="387"/></L>
+<L>To be a man vertuous in lyuyng.</L>
+</LG>
+<LG N="56">
+<HEAD>LVI. <MILESTONE N="II. 1"/></HEAD>
+<L>Ther is no wiht [*], that ferther may reporte, <NOTE PLACE="foot">389 <HI REND="italic">wiht on lyve</HI> C</NOTE></L>
+<L>Off thi good deedis, than the strau<HI REND="italic">n</HI>ger may. <MILESTONE N="390"/></L>
+<L><PB N="313" REF="16"/>
+Make hym good cheer and shew hym thy disport,</L>
+<L>And he shall vttir the, this is no nay;</L>
+<L>For *<HI REND="italic">t</HI>he vnknowe sumtyme to do assay. <MILESTONE N="393"/> <NOTE PLACE="foot">393 <HI REND="italic">the] he τ, a man</HI> Hb</NOTE></L>
+<L>Freendis inowe to have *is bettir thyng <NOTE PLACE="foot">394 <HI REND="italic">is] his</HI> C Db A</NOTE></L>
+<L>Than is freendles a man to been a kyng.</L>
+</LG>
+<LG N="57">
+<HEAD>LVII. <MILESTONE N="92r" UNIT="fol."/> <MILESTONE N="II. 2"/></HEAD>
+<L>Off Goddis mist<HI REND="italic">er</HI>ie and his werkyng <MILESTONE N="396"/></L>
+<L>Make neu<HI REND="italic">er,</HI> my child, to *f<HI REND="italic">er</HI>re inquirance. <NOTE PLACE="foot">397 <HI REND="italic">tofore τ</HI></NOTE></L>
+<L>It is foli to muse vpon such thyng.</L>
+<L>Dispute neu<HI REND="italic">er</HI> thi Goddis purueiaunce. <MILESTONE N="399"/></L>
+<L>All thyng must be vndir his gou<HI REND="italic">er</HI>nau<HI REND="italic">n</HI>ce.</L>
+<L>Sith thou art man clad in mortalite,</L>
+<L>Dispute thou thynges such as mortal be. <MILESTONE N="402"/></L>
+</LG>
+<LG N="58">
+<HEAD>LVIII. <MILESTONE N="II. 3"/></HEAD>
+<L>The dreede of deth that is inordinat,—</L>
+<L>I meene, to dreed it ay and neu<HI REND="italic">er</HI> cees.</L>
+<L>Bewar of that, I conceil the algate; <MILESTONE N="405"/></L>
+<L>For this is as trewe as gospel *dout<HI REND="italic">e</HI>les. <NOTE PLACE="foot">406 <HI REND="italic">doutles ϑ σ</HI> D</NOTE></L>
+<L>Who dreed it so, is alway m<HI REND="italic">er</HI>thelesse.</L>
+<L>Whan dreede of dethe a ma<HI REND="italic">n</HI> so *aggr<HI REND="italic">e</HI>ggithe, <MILESTONE N="408"/> <NOTE PLACE="foot">408 <HI REND="italic">aggruggith</HI> C H Hb Cp A <HI REND="italic">χ</HI></NOTE></L>
+<L>It wastithe liff and his tyme abreggithe.</L>
+</LG>
+<LG N="59">
+<HEAD>LIX. <MILESTONE N="II. 4"/></HEAD>
+<L>For *<HI REND="italic">thyng,</HI> that is to the vncerteyne. <NOTE PLACE="foot">410 <HI REND="italic">thyng</HI> f. <HI REND="italic">ϑ (that</HI> F)</NOTE></L>
+<L>Whan thou art wrothe, look neu<HI REND="italic">er</HI> þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u stryve; <MILESTONE N="411"/></L>
+<L>Thi passions esili withdrawe and refreyn.</L>
+<L>For ther is no p<HI REND="italic">er</HI>sone in erth on lyve,</L>
+<L>But that vnresou<HI REND="italic">n</HI>les he is als blyue <MILESTONE N="414"/></L>
+<L>As besy wrathe *ha<HI REND="italic">th</HI> *kyn<HI REND="italic">d</HI>led hym on fyre. <NOTE PLACE="foot">415 <HI REND="italic">hath] had τ, hadde</HI> Fb ‖ <HI REND="italic">kynled</HI> C Db, <HI REND="italic">kenlid</HI> M</NOTE></L>
+<L>And than can he nat deeme the *tro<HI REND="italic">u</HI>the for ire.</L>
+</LG>
+<LG N="60">
+<HEAD>LX. <MILESTONE N="92v" UNIT="fol."/> <MILESTONE N="II. 5"/></HEAD>
+<L>As tyme requerith, so make thyn expence. <MILESTONE N="417"/></L>
+<L>Mesure thyn hand aftir thyn p<HI REND="italic">ro</HI>prite</L>
+<L>Off thynge, of tyme, and aftir the p<HI REND="italic">re</HI>sence.</L>
+<L>See that thou spende nomor than nedith the. <MILESTONE N="420"/></L>
+<L>And that to spende loke that thyn h<HI REND="italic">er</HI>te be fre.</L>
+<L>A man shold do cost and make his spendyng</L>
+<L>Considryng tyme and rewardyng the thyng. <MILESTONE N="423"/></L>
+</LG>
+<LG N="61">
+<HEAD>LXI. <MILESTONE N="II. 6"/></HEAD>
+<L>To much is nouht of any man<HI REND="italic">er</HI> thyng.</L>
+<L>The meen is good and moste comendable.</L>
+<L>That man stant surest heer in his lyuyng, <MILESTONE N="426"/></L>
+<L>With meen estat that halt hym greable.</L>
+<L>Plente and pouerte be nat suffrable.</L>
+<L>For than is the ship in the see moste sur, <MILESTONE N="429"/></L>
+<L>*Wha<HI REND="italic">t</HI> tyme [*] the flode excedithe nat mesur. <NOTE PLACE="foot">430 <HI REND="italic">Whan</HI> C Cp ‖ <HI REND="italic">tyme that τ</HI> R Db Y, f. Cp Pc</NOTE></L>
+</LG>
+<LG N="62">
+<HEAD>LXII. <MILESTONE N="II. 7"/></HEAD>
+<L>Iff thou knowe ouht, that may turne vnto shame,</L>
+<L>Keep it secre; for nothy<HI REND="italic">ng</HI> it *bewrye. <MILESTONE N="432"/> <NOTE PLACE="foot">432 <HI REND="italic">bewreye</HI> C <HI REND="italic">δ</HI> Ha A <HI REND="italic">κ</HI> G Hc D Fc</NOTE></L>
+<L><PB N="314" REF="17"/>
+Be nat to besy such thynges to p<HI REND="italic">ro</HI>-clame</L>
+<L>And publissh, as thou knowest pryuye.</L>
+<L>Make nat all men [*] on it to gaur *<HI REND="italic">and</HI> crye, <MILESTONE N="435"/> <NOTE PLACE="foot">435 <HI REND="italic">out on it ϑ</HI> Hb ‖ <HI REND="italic">and] or</HI> C, f. F</NOTE></L>
+<L>Lest mo deprave, whan thow thi woord hast sowe,</L>
+<L>That was before to othir folke vnknowe.</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII. <MILESTONE N="93r" UNIT="fol."/> <MILESTONE N="II. 8"/></HEAD>
+<L>Iff thou espie and see a *su<HI REND="italic">r</HI>fetour, <MILESTONE N="438"/> <NOTE PLACE="foot">438 <HI REND="italic">suffetour</HI> C</NOTE></L>
+<L>A theeff, a shrew of much mysgou<HI REND="italic">er</HI>nau<HI REND="italic">n</HI>ce,</L>
+<L>Trist weel su<HI REND="italic">m</HI>me tyme that ther shal come an hour,</L>
+<L>Whan for his deede he shal suffre penau<HI REND="italic">n</HI>ce. <MILESTONE N="441"/></L>
+<L>Cursed deede askith wrech and vengau<HI REND="italic">n</HI>ce.</L>
+<L>Thouh wikkydnesse for tyme be kept secre,</L>
+<L>Yitt att the laste will it discurid be. <MILESTONE N="444"/></L>
+</LG>
+<LG N="64">
+<HEAD>LXIV. <MILESTONE N="II. 9"/></HEAD>
+<L>Thouh that su<HI REND="italic">m</HI>me tyme natur hathe been vnki<HI REND="italic">n</HI>de</L>
+<L>And youe a man to be of smal stature,</L>
+<L>Yit, my child, remembre and haue in mynde <MILESTONE N="447"/></L>
+<L>That thou neu<HI REND="italic">er</HI> dispise that creature.</L>
+<L>For God may sendde hym fortune <HI REND="italic">and</HI> good vre,</L>
+<L>Als oft thei be with good cou<HI REND="italic">n</HI>seil allied, <MILESTONE N="450"/></L>
+<L>To whom that nature hathe grete *stren<HI REND="italic">g</HI>th denyed. <NOTE PLACE="foot">451 <HI REND="italic">strenth</HI> C Ad <HI REND="italic">χ</HI></NOTE></L>
+</LG>
+<LG N="65">
+<HEAD>LXV. <MILESTONE N="II. 10"/></HEAD>
+<L>Whan the happithe trauers or [*] haue a-do <NOTE PLACE="foot">452 <HI REND="italic">or to</HI> C <HI REND="italic">ν</HI></NOTE></L>
+<L>With oon thou knowist nat egal to thi myht, <MILESTONE N="453"/></L>
+<L>Thyn vttrest powere shewe nat *<HI REND="italic">such</HI> vnto, <NOTE PLACE="foot">454 <HI REND="italic">such</HI>] <HI REND="italic">a man α</HI> (<HI REND="italic">þat man</HI> HB)</NOTE></L>
+<L>Lest that eft-soone he haue the in such pliht.</L>
+<L>For it is seen in turment and in *<HI REND="italic">f</HI>iht: <MILESTONE N="456"/> <NOTE PLACE="foot">456 <HI REND="italic">siht</HI> C</NOTE></L>
+<L>Fortune chau<HI REND="italic">n</HI>gethe ofte withynne an hour,</L>
+<L>And he is sconfet, that erst was victowr.</L>
+</LG>
+<LG N="66">
+<HEAD>LXVI. <MILESTONE N="93v" UNIT="fol."/> <MILESTONE N="II. 11"/></HEAD>
+<L>Off brondis smale be maad thes fires grete. <MILESTONE N="459"/></L>
+<L>Withdrawe *th<HI REND="italic">e</HI> brond, the fier shal eek discrees. <NOTE PLACE="foot">460 <HI REND="italic">thi</HI> C Hb</NOTE></L>
+<L>A-gein the knowe, *tha<HI REND="italic">t</HI> herr, loke thou nat bete <NOTE PLACE="foot">461 <HI REND="italic">that] tha</HI> C Hb ‖ <HI REND="italic">herr</HI> C, <HI REND="italic">herre</HI> Hb, <HI REND="italic">erre</HI> F, <HI REND="italic">ar</HI> H, <HI REND="italic">here</HI> Fc, <HI REND="italic">heir</HI> R Ha, <HI REND="italic">eyr</HI> A <HI REND="italic">λ ν, ayr</HI> Db Cp, <HI REND="italic">ayere</HI> M, <HI REND="italic">eyre</HI> D, <HI REND="italic">hyer ω (highere</HI> Ad), <HI REND="italic">man κ</HI></NOTE></L>
+<L>With woordis fele; *for woord distrobleth pes. <MILESTONE N="462"/> <NOTE PLACE="foot">462 <HI REND="italic">woord for</HI> C</NOTE></L>
+<L>The man is wise, that can of *woord<HI REND="italic">is</HI> cees. <NOTE PLACE="foot">463 <HI REND="italic">woord τ</HI></NOTE></L>
+<L>For this is sothe as God *y<HI REND="italic">af</HI> the thi liffe: <NOTE PLACE="foot">464 <HI REND="italic">yeue τ</HI> Hb E, <HI REND="italic">yeueth</HI> H Str. LXVII mit LXXXII vertauscht in <HI REND="italic">α</HI></NOTE></L>
+<L>Off woordis small is bred ful muche striffe. <MILESTONE N="465"/></L>
+</LG>
+<LG N="67">
+<HEAD>*LXVII. <MILESTONE N="II. 12"/></HEAD>
+<L>*De<HI REND="italic">e</HI>le nat withe sorcerye ne with surquedrie. <NOTE PLACE="foot">466 <HI REND="italic">Deyle τ, dwel</HI> Db</NOTE></L>
+<L>In Goddis hand is all thi sort and fate.</L>
+<L>Be nat a-boute to calkle thy distanye, <MILESTONE N="468"/></L>
+<L>Iff thou be *<HI REND="italic">myse</HI>rous or ffortunate. <NOTE PLACE="foot">469 <HI REND="italic">yrous</HI> C <HI REND="italic">δ</HI></NOTE></L>
+<L>Lat God allone; in hym is all thy state.</L>
+<L>And that hym list of the for to purpose, <MILESTONE N="471"/></L>
+<L>Withoute the can he fulweel dispose.</L>
+</LG>
+<LG N="68">
+<PB N="315" REF="18"/>
+<HEAD>LXVIII. <MILESTONE N="II. 13"/></HEAD>
+<L>Bewar of envye with hir techches fell.</L>
+<L>Withynne thyn herte looke that she nat reste. <MILESTONE N="474"/></L>
+<L>For it is oon of the *peyn<HI REND="italic">i</HI>s of helle. <NOTE PLACE="foot">475 <HI REND="italic">peyns</HI> C</NOTE></L>
+<L>Whan she soio<HI REND="italic">ur</HI>neth in a ma<HI REND="italic">n</HI>nys breste,</L>
+<L>Than *bre<HI REND="italic">nn</HI>ithe Fenix withynne his owne neste. <MILESTONE N="477"/> <NOTE PLACE="foot">477 <HI REND="italic">bredithe α</HI></NOTE></L>
+<L>And thouh she may non othir man *myschee<HI REND="italic">ue,</HI> <NOTE PLACE="foot">478 <HI REND="italic">mischeeff</HI> C, <HI REND="italic">myschewe</HI> F</NOTE></L>
+<L>*Yit Ethna cesith nat hirsilfe to greue. <NOTE PLACE="foot">479 <HI REND="italic">And yit</HI> C</NOTE></L>
+</LG>
+<LG N="69">
+<HEAD>LXIX. <MILESTONE N="94r" UNIT="fol."/> <MILESTONE N="II. 14"/></HEAD>
+<L>Enforce thyn herte with ma<HI REND="italic">n</HI>ly sufferau<HI REND="italic">n</HI>ce, <MILESTONE N="480"/></L>
+<L>Thouh wrong iugement a-yens the p<HI REND="italic">ro</HI>ceede.</L>
+<L>Be nat abassht in woord ne cou<HI REND="italic">n</HI>tenau<HI REND="italic">n</HI>ce;</L>
+<L>For the p<HI REND="italic">ro</HI>cessour may reule and leede <MILESTONE N="483"/></L>
+<L>The lawe; but trost me weel w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>outen dreede,</L>
+<L>Long to reioisshen acheueth he nate,</L>
+<L>Which bi menys vntrewe his goodis gate. <MILESTONE N="486"/></L>
+</LG>
+<LG N="70">
+<HEAD>LXX. <MILESTONE N="II. 15"/></HEAD>
+<L>Wraththe of olde, that shuld be oute of mynde,</L>
+<L>Be nat aboute to make it eft on lyue,</L>
+<L>But the e<HI REND="italic">n</HI>vious hathe that tech of kynde. <MILESTONE N="489"/></L>
+<L>Such malice, my childe, look thou nat revive;</L>
+<L>For such ire of old makithe a new stryve.</L>
+<L>And who that remembrithe old enmyte, <MILESTONE N="492"/></L>
+<L>A wikkid man forsothe, my childe, is he.</L>
+</LG>
+<LG N="71">
+<HEAD>LXXI. <MILESTONE N="II. 16"/></HEAD>
+<L>Thi silfe also looke that thou nat preise</L>
+<L>Ne dispreise, but lette othir men allone. <MILESTONE N="495"/></L>
+<L>Alway aftir prudence thi *woord<HI REND="italic">is</HI> peise. <NOTE PLACE="foot">496 <HI REND="italic">woord ϑ</HI> E</NOTE></L>
+<L>For thyn avau<HI REND="italic">n</HI>t honour shalt thou gete none,</L>
+<L>But haue a mokke as faste as thou arte gone. <MILESTONE N="498"/></L>
+<L>A man to preise hymsilfe, as seithe the scoole,</L>
+<L>Or dispreise moche is token of a foole.</L>
+</LG>
+<LG N="72">
+<HEAD>LXXII. <MILESTONE N="94v" UNIT="fol."/> <MILESTONE N="II. 17"/></HEAD>
+<L>Whan it is tyme of coste and grete expence, <MILESTONE N="501"/></L>
+<L>Bewar of waste, and spend as bi mesure.</L>
+<L>Who that to keepe <HI REND="italic">and</HI> spende no difference</L>
+<L>Makith, his goodis may nat longe endure. <MILESTONE N="504"/></L>
+<L>The olde sawe seithe: Mesur is tresure.</L>
+<L>For in short tyme the good may *s<HI REND="italic">l</HI>ippe a-waye, <NOTE PLACE="foot">506 <HI REND="italic">shippe</HI> C</NOTE></L>
+<L>That was goten in many a sondry day. <MILESTONE N="507"/></L>
+</LG>
+<LG N="73">
+<HEAD>LXXIII. <MILESTONE N="II. 18"/></HEAD>
+<L>It is *n<HI REND="italic">o</HI> wisdam alway to be sage. <NOTE PLACE="foot">508 <HI REND="italic">nat ϑ</HI></NOTE></L>
+<L>But sumtyme to seeme nyce and feyn folye,</L>
+<L>Who that hathe this fet, shal fynde avau<HI REND="italic">n</HI>tage. <MILESTONE N="510"/></L>
+<L>What tyme and thyng requerithe, that espie;</L>
+<L>And than dissimule, that is good policie.</L>
+<L>Su<HI REND="italic">m</HI>me tyme to be vnwise in apparence <MILESTONE N="513"/></L>
+<L>Among the wise *is clepid ful hih prudence. <NOTE PLACE="foot">514 <HI REND="italic">his</HI> C Ad</NOTE></L>
+</LG>
+<LG N="74">
+<PB N="316" REF="19"/>
+<HEAD>LXXIV. <MILESTONE N="II. 19"/></HEAD>
+<L>The filthy flessh, in meuyng bestiall,</L>
+<L>That fihtithe ay a-yens the soule withynne <MILESTONE N="516"/></L>
+<L>Bi force of hir entisment sensuall,</L>
+<L>Eschewe, my chyld, and keepe the from hir gynne.</L>
+<L>That and grace been sette ful ferr atwynne. <MILESTONE N="519"/></L>
+<L>And fle of auerice the wikkid fame:</L>
+<L>Thes too it be, that causen euyl name.</L>
+</LG>
+<LG N="75">
+<HEAD>LXXV. <MILESTONE N="95r" UNIT="fol."/> <MILESTONE N="II. 20"/></HEAD>
+<L>Beleve nat in every wihtis sawe; <MILESTONE N="522"/></L>
+<L>For sume reporte thynges al othir wise</L>
+<L>Than it was don or any man it sawe.</L>
+<L>And sume have it of custu<HI REND="italic">m</HI> and of guyse <MILESTONE N="525"/></L>
+<L>To feed folk withe flatrie and with lise.</L>
+<L>Yif litil trost therfor to suche spekyng;</L>
+<L>For many folk spekith many a thyng. <MILESTONE N="528"/></L>
+</LG>
+<LG N="76">
+<HEAD>LXXVI. <MILESTONE N="II. 21"/></HEAD>
+<L>Yff thou surfete in drynk for-yete nat that.</L>
+<L>Avyse the eft, thou come nat in that snare.</L>
+<L>Withdrawe thyn hand; feede nat thy throte so fatte; <MILESTONE N="531"/></L>
+<L>Drynk, that suffisith the, and *ell<HI REND="italic">es</HI> spare.</L>
+<L>To much drynk makethe men of wit ful bare. <NOTE PLACE="foot">532 <HI REND="italic">ell</HI> C Cx, <HI REND="italic">els</HI> F Hf, <HI REND="italic">elles</HI> übr.</NOTE></L>
+<L>And yit the wyne therof is nat to blame, <MILESTONE N="534"/></L>
+<L>But the drynkere makithe hymsilfe lame.</L>
+</LG>
+<LG N="77">
+<HEAD>LXXVII. <MILESTONE N="II. 22"/></HEAD>
+<L>To thi trosty freend, that is ay secre,</L>
+<L>Shew thi cou<HI REND="italic">n</HI>seil; to hym thyn herte *bewry. <MILESTONE N="537"/> <NOTE PLACE="foot">537 <HI REND="italic">bewreye</HI> C Hb G Hf D Fc</NOTE></L>
+<L>A trosty freend is [*] chest of pryuyte; <NOTE PLACE="foot">538 <HI REND="italic">the chest τ</HI> R Hd <HI REND="italic">χ, the cheef</HI> Fb, <HI REND="italic">a ch.</HI> D</NOTE></L>
+<L>But it is hard such *freend<HI REND="italic">es</HI> to espie. <NOTE PLACE="foot">539 <HI REND="italic">freend</HI> C <HI REND="italic">(es</HI>-Schleife vom Korr. 1 ange∣fügt) Fb, <HI REND="italic">a frend</HI> F H R A</NOTE></L>
+<L>Trye oute oon a-mong a companye. <MILESTONE N="540"/></L>
+<L>And of thy body betake thou the cure</L>
+<L>To suche a leche as is trosty and sure.</L>
+</LG>
+<LG N="78">
+<HEAD>LXXVIII. <MILESTONE N="95v" UNIT="fol."/> <MILESTONE N="II. 23"/></HEAD>
+<L>Withynne thy silfe a-greve the nat to sore, <MILESTONE N="543"/></L>
+<L>Thouh thyng amys sume tyme the betide;</L>
+<L>Dismay the nat in besy wise therfore.</L>
+<L>Thyn auenture thou muste needis a-bide; <MILESTONE N="546"/></L>
+<L>Fortune may nat alwey be on thy side;</L>
+<L>With harmes to greve in a-waite lith she</L>
+<L>To reven men welthe and p<HI REND="italic">ro</HI>sp<HI REND="italic">er</HI>ite. <MILESTONE N="549"/></L>
+</LG>
+<LG N="79">
+<HEAD>LXXIX. <MILESTONE N="II. 24"/></HEAD>
+<L>In thi silffe compasse a-boute before</L>
+<L>Thyng to p<HI REND="italic">er</HI>ceyue, that aftir schall befalle.</L>
+<L>It noieth nat nor greueth half so sore, <MILESTONE N="552"/></L>
+<L>That is forseyn, as othir thynges shall.</L>
+<L>Sodeyn chau<HI REND="italic">n</HI>cis disesithe moste of all.</L>
+<L>It hurtithe lesse, and is in better pliht, <MILESTONE N="555"/></L>
+<L>Wheroff beffore a man can haue insight. <NOTE PLACE="foot">556 <HI REND="italic">aman</HI> C</NOTE></L>
+</LG>
+<LG N="80">
+<PB N="317" REF="20"/>
+<HEAD>LXXX. <MILESTONE N="II. 25"/></HEAD>
+<L>Whan dyuers thynges trauers thyn entent,</L>
+<L>And thow art wrappid in adu<HI REND="italic">er</HI>site, <MILESTONE N="558"/></L>
+<L>War for wanhope thou be nat lost <HI REND="italic">and</HI> shent.</L>
+<L>Latt nat dispeir thy witte bereuen the.</L>
+<L>A-bide the tyme, that she shall bett<HI REND="italic">er</HI> be. <MILESTONE N="561"/></L>
+<L>Hope is she, *<HI REND="italic">that</HI> shal make the a sethe; <NOTE PLACE="foot">562 <HI REND="italic">that</HI> f. C R ‖ <HI REND="italic">aseth</HI> A He, <HI REND="italic">seethe</HI> Hc, <HI REND="italic">feith</HI> Hf</NOTE></L>
+<L>Hope leueth nat a man, thouh man leue the brethe.</L>
+</LG>
+<LG N="81">
+<HEAD>LXXXI. <MILESTONE N="96r" UNIT="fol."/> <MILESTONE N="II. 26"/></HEAD>
+<L>Whan men profre, it is tyme to receyve. <MILESTONE N="564"/></L>
+<L>Take thynges, whil thei be in seson.</L>
+<L>Thei p<HI REND="italic">ro</HI>fre now, that eft will yiftis weyue.</L>
+<L>Plente nowe will aftirward be gesou<HI REND="italic">n.</HI> <MILESTONE N="567"/></L>
+<L>Take in tyme; for so comau<HI REND="italic">n</HI>dithe resou<HI REND="italic">n.</HI></L>
+<L>The ballid hed, whilom full of heris,</L>
+<L>Now is bare withoute rasour or sheris. <MILESTONE N="570"/></L>
+</LG>
+<LG N="82">
+<HEAD>LXXXII. <MILESTONE N="II. 27"/></HEAD>
+<L>Prouyde thy silfe and haue delyuerau<HI REND="italic">n</HI>ce,</L>
+<L>Be likly coniectur what may be-tide.</L>
+<L>Adu<HI REND="italic">er</HI>tise, my childe, in thi remembrau<HI REND="italic">n</HI>ce <MILESTONE N="573"/></L>
+<L>Affore and aftir, aboute in euery side.</L>
+<L>Follow God, and lat hym be thi guyde,</L>
+<L>That hathe al thyng in his gou<HI REND="italic">er</HI>ment, <MILESTONE N="576"/></L>
+<L>Futur and passid and that, that is p<HI REND="italic">re</HI>sent.</L>
+</LG>
+<LG N="83">
+<HEAD>LXXXIII. <MILESTONE N="II. 28"/></HEAD>
+<L>It is a tecche of a deuouryng hou<HI REND="italic">n</HI>de</L>
+<L>To receyue sup<HI REND="italic">er</HI>flue and don excesse, <MILESTONE N="579"/></L>
+<L>Til his receit a-geyn from hym rebou<HI REND="italic">n</HI>de.</L>
+<L>Contente thy nature and flee gredynesse.</L>
+<L>Foule lustis ay keepe vndir <HI REND="italic">and</HI> represse. <MILESTONE N="582"/></L>
+<L>Feed nat thi *lust with all, that she wil craue, <NOTE PLACE="foot">583 <HI REND="italic">lustes</HI> C</NOTE></L>
+<L>Yff that in helthe thou lust thi body save.</L>
+</LG>
+<LG N="84">
+<HEAD>LXXXIV. <MILESTONE N="96v" UNIT="fol."/> <MILESTONE N="II. 29"/></HEAD>
+<L>Whan a multitude hathe youen a decre <MILESTONE N="585"/></L>
+<L>Or concludith ouht a-yens thyn entent,</L>
+<L>Trauers nat yit a-yens the comonte;</L>
+<L>For iff thou do, thou shalt lihtly be shent. <MILESTONE N="588"/></L>
+<L>Dispise nat alone the peples iugement.</L>
+<L>In aue<HI REND="italic">n</HI>ture thou plese of hem nat oon,</L>
+<L>Whil thou wilt impugne hem euerychon. <MILESTONE N="591"/></L>
+</LG>
+<LG N="85">
+<HEAD>LXXXV. <MILESTONE N="II. 30"/></HEAD>
+<L>Take good heed vnto thyn owne estate</L>
+<L>To reule thy body weel with good diete.</L>
+<L>But look with tyme thou be nat at debate, <MILESTONE N="594"/></L>
+<L>Thouh thoruh thyn owne *mys<HI REND="italic">reule and</HI> surffete <NOTE PLACE="foot">595 <HI REND="italic">mysse τ</HI> R Fb (in C <HI REND="italic">rewle</HI> vom Korr. 2 ergänzt)</NOTE></L>
+<L>Seeknesse or sorwe hathe *youe<HI REND="italic">n</HI> the an hete. <NOTE PLACE="foot">596 <HI REND="italic">youe τ</HI> Hc, <HI REND="italic">yeue</HI> R Db He Hd, <HI REND="italic">yeuen</HI> H Ha E, <HI REND="italic">gyven</HI> D, <HI REND="italic">gyeve</HI> M, <HI REND="italic">you</HI> Fc, <HI REND="italic">ȝet</HI> Ad, f. Y</NOTE></L>
+<L>The tyme is good, and no dismale ther is, <MILESTONE N="597"/></L>
+<L>But men it make, for that thei do amys.</L>
+</LG>
+<LG N="86">
+<PB N="318" REF="21"/>
+<HEAD>LXXXVI. <MILESTONE N="II. 31."/></HEAD>
+<L>Dreede no dremys, *<HI REND="italic">so</HI> seithe Deutronomy, <NOTE PLACE="foot">599 <HI REND="italic">so</HI> f. C</NOTE></L>
+<L>*Thou<HI REND="italic">h</HI> thei be causid of complecciou<HI REND="italic">n,</HI> <MILESTONE N="600"/> <NOTE PLACE="foot">600 <HI REND="italic">thou</HI> C</NOTE></L>
+<L>Or ellis of any nyced fantasie,</L>
+<L>Or *<HI REND="italic">of</HI> a superflue repleciou<HI REND="italic">n.</HI> <NOTE PLACE="foot">602 <HI REND="italic">of</HI> f. C</NOTE></L>
+<L>For dremys be but fals illusiou<HI REND="italic">n.</HI> <MILESTONE N="603"/></L>
+<L>Whan men be wakyng, thei desire or thynke;</L>
+<L>Vpon that thyng thei dreme, whan thei wynke.</L>
+</LG>
+<LG N="87">
+<HEAD>LXXXVII. Lenvoye. <MILESTONE N="97r" UNIT="fol."/></HEAD>
+<L>Musithe a while, what all thes maters meen. <MILESTONE N="606"/></L>
+<L>A-bidith, sire, and go no ferther yitt.</L>
+<L>To reden hem, *<HI REND="italic">a</HI>ua<HI REND="italic">i</HI>leth not a been, <NOTE PLACE="foot">608 <HI REND="italic">valeth</HI> C (davor <HI REND="italic">a</HI>- vom Korr. 2), <HI REND="italic">vayleth</HI> Hb <HI REND="italic">ν χ, wailithe</HI> Ad</NOTE></L>
+<L>But iff a ma<HI REND="italic">n</HI> the kernel wil *vnkn<HI REND="italic">i</HI>tt. <MILESTONE N="609"/> <NOTE PLACE="foot">609 <HI REND="italic">vnknett</HI> C <HI REND="italic">χ</HI></NOTE></L>
+<L>Therfore your mynde and al your hert *vnsh<HI REND="italic">i</HI>tt <NOTE PLACE="foot">610 <HI REND="italic">vnshett</HI> C <HI REND="italic">χ</HI></NOTE></L>
+<L>And *lok<HI REND="italic">e</HI> whatt lith vndir the boistous rynde. <NOTE PLACE="foot">611 <HI REND="italic">lokith τ</HI></NOTE></L>
+<L>And I dar say, of wisd<HI REND="italic">o</HI>m and of witt <MILESTONE N="612"/></L>
+<L>Plente <HI REND="italic">and</HI> foisou<HI REND="italic">n</HI> therin shall ye fynde.</L>
+</LG>
+<LG N="88">
+<HEAD>LXXXVIII.</HEAD>
+<L>Reffressheth you with this holsom diete,</L>
+<L>That fostreth v<HI REND="italic">er</HI>tue and keepith on lyue. <MILESTONE N="615"/></L>
+<L>To your p<HI REND="italic">er</HI>sone me thynkith it ful meete</L>
+<L>For to receyue such a nutrytive,</L>
+<L>Which your astate shal ay p<HI REND="italic">re</HI>serue on lyue <MILESTONE N="618"/></L>
+<L>In grete honour and keepe yow fro noysau<HI REND="italic">n</HI>ce,</L>
+<L>Oute of dau<HI REND="italic">n</HI>ger and vices infectyve,</L>
+<L>Yiff ye will werche aftir this ordynau<HI REND="italic">n</HI>ce. <MILESTONE N="621"/></L>
+</LG>
+<LG N="89">
+<HEAD>LXXXIX.</HEAD>
+<L>And in especiall looke, that your deede</L>
+<L>May bere trewe *witteness<HI REND="italic">e</HI> and testifie <NOTE PLACE="foot">623 <HI REND="italic">wittenesy</HI> C</NOTE></L>
+<L>The mateer, that ye beholde and reede. <MILESTONE N="624"/></L>
+<L>Looke with your herte as weel as with your eye.</L>
+<L>Than, dar I say, sumwhat shall ye espye,</L>
+<L>That to this werk shall meven *<HI REND="italic">your</HI> corage. <MILESTONE N="627"/> <NOTE PLACE="foot">627 <HI REND="italic">your</HI> in C eingefügt von Korr. 2</NOTE></L>
+<L>Wherfor yo<HI REND="italic">ur</HI> hert, your eye and all applye,</L>
+<L>Your silf to reule aftir thes ditees sage.</L>
+</LG>
+<TRAILER>Ex<HI REND="italic">pli</HI>cit <HI REND="italic">secunda</HI> p<HI REND="italic">ar</HI>s.</TRAILER>
+</DIV2>
+<DIV2 N="3" TYPE="part">
+<LG N="90">
+<HEAD>XC. <MILESTONE N="97v" UNIT="fol."/> <MILESTONE N="III, praef. 1-2"/></HEAD>
+<L>Behold, what wiht that listith for to reede <MILESTONE N="630"/></L>
+<L>In this my ditee, somwhat shall *<HI REND="italic">he</HI> fynde, <NOTE PLACE="foot">631 <HI REND="italic">ye</HI> C <HI REND="italic">δ</HI> M</NOTE></L>
+<L>Wherwith his soule he may fostre <HI REND="italic">and</HI> feede</L>
+<L>With thewes good and it from vices vnbynde. <MILESTONE N="633"/></L>
+<L>Come neer, my child, therfore and haue in mynde</L>
+<L>Suche doctryne to beer a-wey and leer,</L>
+<L>*<HI REND="italic">As</HI> to thy liff shall be full leef and deer. <MILESTONE N="636"/> <NOTE PLACE="foot">636 <HI REND="italic">as] and τ δ, as thou</HI> Hf</NOTE></L>
+</LG>
+<LG N="91">
+<HEAD>XCI. <MILESTONE N="III. 1"/></HEAD>
+<L>The soule resemblith a new pleyn table,</L>
+<L>In which as yit apperith no picture,</L>
+<L>The filisophre seithe withouten fable. <MILESTONE N="639"/></L>
+<L><PB N="319" REF="22"/>
+So is the soule but a dedly figure,</L>
+<L>Til the tyme she be recleymed with the lure</L>
+<L>Off doctryne and so gete hir a good habite <MILESTONE N="642"/></L>
+<L>To bene expert in connyng and *p<HI REND="italic">ar</HI>fite. <NOTE PLACE="foot">643 <HI REND="italic">p</HI>ro<HI REND="italic">f</HI>ite C mit Abkürzungsschleife für <HI REND="italic">ro</HI></NOTE></L>
+</LG>
+<LG N="92">
+<HEAD>XCII. <MILESTONE N="III, praef. 3-4"/></HEAD>
+<L>Inprente my techyng in thy soule stedfaste;</L>
+<L>And ful p<HI REND="italic">ro</HI>fitable thou shalt it fynde. <MILESTONE N="645"/></L>
+<L>Forsake it nat ne from thyne hert it caste;</L>
+<L>For iff that thou exclude oute of thy mynde</L>
+<L>This lessou<HI REND="italic">n,</HI> thow art full bareyn <HI REND="italic">and</HI> blynde <MILESTONE N="648"/></L>
+<L>Fro vertu. And therof a-wite nat me, <NOTE PLACE="foot">649 <HI REND="italic">a wyȝt</HI> Hb, <HI REND="italic">atwyte</HI> H R, <HI REND="italic">attwyte</HI> F, <HI REND="italic">a wayt</HI> Hc, <HI REND="italic">wyte</HI> A Cp <HI REND="italic">x (wytt</HI> E) <HI REND="italic">ν ζ, awyte σ</HI> He</NOTE></L>
+<L>Sith *th<HI REND="italic">e</HI> deffaute, my sone, is than in the. <NOTE PLACE="foot">650 <HI REND="italic">thi</HI> CHb</NOTE></L>
+</LG>
+<LG N="93">
+<HEAD>XCIII. <MILESTONE N="98r" UNIT="fol."/> <MILESTONE N="III. 2"/></HEAD>
+<L>Iff thou lyve iustly keepyng the vpriht, <MILESTONE N="651"/></L>
+<L>Neuer declynyng for meed ne *<HI REND="italic">for</HI> fauour, <NOTE PLACE="foot">652 <HI REND="italic">for</HI> f. <HI REND="italic">τ</HI> R Fb Y Cp <HI REND="italic">γ</HI></NOTE></L>
+<L>Than stondist thou in a ful holsum pliht,</L>
+<L>*Thou<HI REND="italic">h</HI> men maligne with *woorde<HI REND="italic">s</HI> of *rygoure <MILESTONE N="654"/> <NOTE PLACE="foot">654 <HI REND="italic">thou</HI> C ‖ <HI REND="italic">woorde τ</HI> R ‖ <HI REND="italic">rygourye</HI> C</NOTE></L>
+<L>Yff thou live thus thi good liff is thi tour.</L>
+<L>We may nat lette the peple to gawre *<HI REND="italic">and</HI> crye. <NOTE PLACE="foot">656 <HI REND="italic">or</HI> C Hb ‖ <HI REND="italic">gaule</HI> R, <HI REND="italic">gawle</HI> Fb, <HI REND="italic">gnare</HI> M, <HI REND="italic">gare</HI> Cp, <HI REND="italic">grare?</HI> Ha</NOTE></L>
+<L>But do we weel; if thei sey mys, thei lye. <MILESTONE N="657"/></L>
+</LG>
+<LG N="94">
+<HEAD>XCIV. <MILESTONE N="III. 3"/></HEAD>
+<L>Iff thou be clepid the sothe to testyfye,</L>
+<L>Ay sauyng thy worship <HI REND="italic">and</HI> honeste,</L>
+<L>Thi freendis trespace be *<HI REND="italic">nat</HI> a-bout to wrie, <MILESTONE N="660"/> <NOTE PLACE="foot">660 <HI REND="italic">nat</HI> f. <HI REND="italic">τ δ</HI> Fb Db M <HI REND="italic">λ</HI></NOTE></L>
+<L>Wher as no shame may growe therof to the.</L>
+<L>This requirith ay freendlynesse p<HI REND="italic">ar</HI>de.</L>
+<L>In wele <HI REND="italic">and</HI> woo the trewe *be<HI REND="italic">ny</HI>volence <MILESTONE N="663"/> <NOTE PLACE="foot">663 <HI REND="italic">bevyolence</HI> C, <HI REND="italic">by vyolence</HI> Hb</NOTE></L>
+<L>Bi-twix folke is frensship in existence.</L>
+</LG>
+<LG N="95">
+<HEAD>XCV. <MILESTONE N="III. 4"/></HEAD>
+<L>Make besy wacche, and keep thi soule algate,</L>
+<L>Behold a-boute, aspie the couert treyne, <MILESTONE N="666"/></L>
+<L>Whan that fals fauell knockethe atte gate,</L>
+<L>He menythe guyle, *thow outeward fair he feyn. <NOTE PLACE="foot">668 <HI REND="italic">thow</HI> C Hb</NOTE></L>
+<L>He can enoynte softly thyn erys tweyn <MILESTONE N="669"/></L>
+<L>*Wi<HI REND="italic">t</HI>h oile of plesau<HI REND="italic">n</HI>ce in ful grete foysou<HI REND="italic">n;</HI> <NOTE PLACE="foot">670 <HI REND="italic">which</HI> C</NOTE></L>
+<L>But vndir that keepe the from his poisou<HI REND="italic">n.</HI></L>
+</LG>
+<LG N="96">
+<HEAD>XCVI. <MILESTONE N="98v" UNIT="fol."/> <MILESTONE N="III. 5"/></HEAD>
+<L>Slouth, slogardy and dul idylnesse, <MILESTONE N="672"/></L>
+<L>Lacches, that causeth to be necligent,</L>
+<L>Eschew, my child, with all thi bisynesse;</L>
+<L>For ydill soule makith the body shent. <MILESTONE N="675"/></L>
+<L>Ther is on erthe no gretter argument</L>
+<L>For to conclude the body vnapte</L>
+<L>Than that the soule in idilnesse be wrapte. <MILESTONE N="678"/></L>
+</LG>
+<LG N="97">
+<HEAD>XCVII. <MILESTONE N="III. 6"/></HEAD>
+<L>Who that lacketh reste, may nat longe endure;</L>
+<L>Therfor a-mong take thyne ese and disporte.</L>
+<L><PB N="320" REF="23"/>
+Delite the neuer in besynesse and cure, <MILESTONE N="681"/></L>
+<L>But that whilom thou maist also resorte</L>
+<L>To play, recreac<HI REND="italic">i</HI>ou<HI REND="italic">n</HI> and conforte.</L>
+<L>Thou shalt the bettir labour at *<HI REND="italic">the</HI> longe, <MILESTONE N="684"/> <NOTE PLACE="foot">684 <HI REND="italic">the</HI> f. <HI REND="italic">τ</HI> R</NOTE></L>
+<L>Whan thou haste m<HI REND="italic">er</HI>the thi bisynesse a-monge.</L>
+</LG>
+<LG N="98">
+<HEAD>XCVIII. <MILESTONE N="III. 7"/></HEAD>
+<L>It is full hard to plese iche a wiht.</L>
+<L>Dispreise noma<HI REND="italic">n</HI>ys deedis nor hem lakke, <MILESTONE N="687"/></L>
+<L>Ne *woord<HI REND="italic">es</HI> nother. For even so riht <NOTE PLACE="foot">688 <HI REND="italic">woord χ</HI> R</NOTE></L>
+<L>As thou deprauyst hym, byhynde thy bakke</L>
+<L>Riht so wol men make the a *mo<HI REND="italic">kk</HI>e and a knakke. <MILESTONE N="690"/> <NOTE PLACE="foot">690 <HI REND="italic">mowe</HI> C Hb E G D Fc, <HI REND="italic">moppe</HI> Cp He Hd</NOTE></L>
+<L>The contrarye thouh [*] men had it sworne, <NOTE PLACE="foot">691 <HI REND="italic">thouh that</HI> C R</NOTE></L>
+<L>The skorner shal be guerdoned ay with scorne.</L>
+</LG>
+<LG N="99">
+<HEAD>XCIX. <MILESTONE N="100r" UNIT="fol."/> <NOTE N="1" PLACE="foot">Fol. 99 ist bei der Paginierung übersprungen.</NOTE> <MILESTONE N="III. 8"/></HEAD>
+<L>Whan thi laste sort, that som men clepyn fate, <MILESTONE N="693"/></L>
+<L>Is good and plesau<HI REND="italic">n</HI>te aftir thyn entente,—</L>
+<L>Thus meen I, loo, whan thou arte fortunate,—</L>
+<L>Receyue the good, that God hathe the sent. <MILESTONE N="696"/></L>
+<L>Suffre it nat rechelessely to be spente.</L>
+<L>For than of wastour thou shalt haue *<HI REND="italic">the</HI> name, <NOTE PLACE="foot">698 <HI REND="italic">the</HI> f. C</NOTE></L>
+<L>For grete ryot will causen feble fame. <MILESTONE N="699"/></L>
+</LG>
+<LG N="100">
+<HEAD>C. <MILESTONE N="III. 9"/></HEAD>
+<L>Into grete age what tyme that thou art krepte</L>
+<L>And thou hast richesse and grete habundaunce,</L>
+<L>Be liberall of good, that thou haste kepte. <MILESTONE N="702"/></L>
+<L>Thynk thou hast inowh and suffisau<HI REND="italic">n</HI>ce.</L>
+<L>Latt nat thi good of the haue *gou<HI REND="italic">er</HI>nau<HI REND="italic">n</HI>ce; <NOTE PLACE="foot">704 <HI REND="italic">gou</HI>er<HI REND="italic">au</HI>n<HI REND="italic">ce</HI> C</NOTE></L>
+<L>But *gou<HI REND="italic">er</HI>n it and p<HI REND="italic">ar</HI>te it with thy freende. <MILESTONE N="705"/> <NOTE PLACE="foot">705 <HI REND="italic">gou</HI>er<HI REND="italic">en</HI> C</NOTE></L>
+<L>Whan thou goste hens, it may nat with the weende.</L>
+</LG>
+<LG N="101">
+<HEAD>CI. <MILESTONE N="III. 10"/></HEAD>
+<L>Grace is youen to men in sondry wise:</L>
+<L>Sum haue wisdom, and som haue elloque<HI REND="italic">n</HI>ce. <MILESTONE N="708"/></L>
+<L>Thes pore folk somtyme thei ben full wise.</L>
+<L>A s<HI REND="italic">er</HI>uaunt may be of grete sapience,</L>
+<L>Thauh he be had in litel reuerence. <MILESTONE N="711"/></L>
+<L>Reward *<HI REND="italic">h</HI>is wit, if it be worth the while. <NOTE PLACE="foot">712 <HI REND="italic">is</HI> C</NOTE></L>
+<L>Vertue is hid vndir an habite vile.</L>
+</LG>
+<LG N="102">
+<HEAD>CII. <MILESTONE N="100v" UNIT="fol."/> <MILESTONE N="III. 11"/></HEAD>
+<L>This woorldis welthe, ebbynge <HI REND="italic">and</HI> flowyng ay <MILESTONE N="714"/></L>
+<L>At no certeyn, as is wantou<HI REND="italic">n</HI> Aprile,</L>
+<L>Thouh thou haue *l<HI REND="italic">o</HI>st, thou shalt nat the dismay. <NOTE PLACE="foot">716 <HI REND="italic">lust</HI> C, <HI REND="italic">losse</HI> R Fb Ha A <HI REND="italic">x ν ζ</HI></NOTE></L>
+<L>*Be content with that thou hast for the while. <MILESTONE N="717"/> <NOTE PLACE="foot">717 <HI REND="italic">Been</HI> C</NOTE></L>
+<L>Sume ma<HI REND="italic">n</HI> ther is, that hathe nouthir cros *n<HI REND="italic">e</HI> pile <NOTE PLACE="foot">718 <HI REND="italic">nor τ</HI> M, <HI REND="italic">ner</HI> A, <HI REND="italic">nethyr</HI> H</NOTE></L>
+<L>Now in this world, and yit good auentur</L>
+<L>Is hym ful nyh. No man can know his vre. <MILESTONE N="720"/></L>
+</LG>
+<LG N="103">
+<HEAD>CIII. <MILESTONE N="III. 12"/></HEAD>
+<L>Wedde nat a wiffe for hir inheritaunce;</L>
+<L>For she wol caste it *<HI REND="italic">ful</HI> oft in thy berde. <NOTE PLACE="foot">722 <HI REND="italic">wel</HI> C, f. Hb <HI REND="italic">β</HI></NOTE></L>
+<L><PB N="321" REF="24"/>
+And *<HI REND="italic">if</HI> she be noysaunt, ful of greuaunce, <MILESTONE N="723"/> <NOTE PLACE="foot">723 <HI REND="italic">if</HI> f. C Hb D</NOTE></L>
+<L>Constreyne hir nat to biden in thi yerde.</L>
+<L>Off chastyment it is a curside yerde</L>
+<L>To keepen oon, that wol the ay atwyte. <MILESTONE N="726"/></L>
+<L>He is att ese, that of such on is quyte.</L>
+</LG>
+<LG N="104">
+<HEAD>CIV. <MILESTONE N="III. 13"/></HEAD>
+<L>Off othir men thow shalt thy myrour make.</L>
+<L>Conforme the to that moste men appreve. <MILESTONE N="729"/></L>
+<L>What thou shalt do <HI REND="italic">and</HI> *<HI REND="italic">what</HI> thou shalt forsake, <NOTE PLACE="foot">730 <HI REND="italic">what</HI> f. C Hf</NOTE></L>
+<L>A bettir fette maist thou nat *contr<HI REND="italic">e</HI>ve <NOTE PLACE="foot">731 <HI REND="italic">contryve</HI> C Hb M Hc D, <HI REND="italic">constryue</HI> Fc</NOTE></L>
+<L>Than to othir *m<HI REND="italic">e</HI>nnys deede releeve. <MILESTONE N="732"/> <NOTE PLACE="foot">732 <HI REND="italic">mannys</HI> C Fc, <HI REND="italic">mens</HI> A Ad</NOTE></L>
+<L>In al, that p<HI REND="italic">er</HI>teynethe to thy techyng,</L>
+<L>Make othir men a rewle for thy lyvyng.</L>
+</LG>
+<LG N="105">
+<HEAD>CV. <MILESTONE N="101r" UNIT="fol."/> <MILESTONE N="III. 14"/></HEAD>
+<L>Attempte no thyng, that sourmou<HI REND="italic">n</HI>tith thy myht <MILESTONE N="735"/></L>
+<L>Ne that to ffynyssh thow *m<HI REND="italic">ay</HI>ste nat *acche<HI REND="italic">v</HI>e; <NOTE PLACE="foot">736 <HI REND="italic">muste</HI> C ‖ <HI REND="italic">acchewe</HI> C, <HI REND="italic">exchewe</HI> Hc, <HI REND="italic">atteyne σ</HI></NOTE></L>
+<L>For than thou stondist foule in thyne owne liht.</L>
+<L>Ouer his power what man leste to meeve, <MILESTONE N="738"/></L>
+<L>With shame his werke moste nedis take leve.</L>
+<L>It is foly a man such thynges to begynne,</L>
+<L>Which to p<HI REND="italic">er</HI>fourme his wittis be *<HI REND="italic">to</HI> thynne. <MILESTONE N="741"/></L>
+</LG>
+<LG N="106">
+<HEAD>CVI. <MILESTONE N="III. 15"/></HEAD>
+<L>Law presumeth, that what *<HI REND="italic">man</HI> kepith stille <NOTE PLACE="foot">742 <HI REND="italic">man</HI> f. C, <HI REND="italic">a man</HI> R <HI REND="italic">ν</HI></NOTE></L>
+<L>The cryme of oon, that hath don grete offence,</L>
+<L>And discurith it nat, he is *al<HI REND="italic">s</HI> ille, <MILESTONE N="744"/> <NOTE PLACE="foot">744 <HI REND="italic">als</HI> R, <HI REND="italic">also</HI> Ad, <HI REND="italic">all</HI> C A Y Fc, <HI REND="italic">than χ, as</HI> übr.</NOTE></L>
+<L>As is the cry<HI REND="italic">m</HI>inous for his silence.</L>
+<L>Wherfore, my sone, bryng it in audience,</L>
+<L>That thou p<HI REND="italic">er</HI>ceyuest nat weel don is, <MILESTONE N="747"/></L>
+<L>Leste for silence men deeme of the a-mys.</L>
+</LG>
+<LG N="107">
+<HEAD>CVII. <MILESTONE N="III. 16"/></HEAD>
+<L>Whan that the lawe is streit <HI REND="italic">and</HI> rigerous,</L>
+<L>Entrete the iuge to *shew<HI REND="italic">en</HI> the fauour, <MILESTONE N="750"/> <NOTE PLACE="foot">750 <HI REND="italic">shew</HI> C</NOTE></L>
+<L>Enclynyng hym for to be gracious.</L>
+<L>*An egal iuge may the *parca<HI REND="italic">a</HI>se socour, <NOTE PLACE="foot">752 <HI REND="italic">And τ</HI> R A Hf Hc, <HI REND="italic">For an ω</HI> ‖ <HI REND="italic">parcause</HI> C, <HI REND="italic">par∣chas</HI> Y, <HI REND="italic">case v (cause χ)</HI></NOTE></L>
+<L>And yit the lawe shal be his gouernoure, <MILESTONE N="753"/></L>
+<L>Which he suethe somtyme to modyfie,</L>
+<L>In the caas he may a poynt espye.</L>
+</LG>
+<LG N="108">
+<HEAD>CVIII. <MILESTONE N="101v" UNIT="fol."/> <MILESTONE N="III. 17"/></HEAD>
+<L>What peyn [*] thou suffrest for thi deserte, <MILESTONE N="756"/> <NOTE PLACE="foot">756 <HI REND="italic">that thou</HI> C He Fc Ad</NOTE></L>
+<L>Receyue it weel with gre in paciens.</L>
+<L>And thouh thi trespace be *pr<HI REND="italic">e</HI>uye and couerte, <NOTE PLACE="foot">758 <HI REND="italic">pruuye</HI> C, <HI REND="italic">pryue ν, preue</HI> M, <HI REND="italic">pryvary</HI> Hb</NOTE></L>
+<L>Yitt, whan thou feelist in thyn aduertence, <MILESTONE N="759"/></L>
+<L>That thou arte blemsshed in thi conscience,</L>
+<L>Withynne thy silfe than make arbitreme<HI REND="italic">n</HI>t,</L>
+<L>Deemyng thy-silfe in thyn owne jugement. <MILESTONE N="762"/></L>
+</LG>
+<LG N="109">
+<PB N="322" REF="25"/>
+<HEAD>CIX. <MILESTONE N="III. 18"/></HEAD>
+<L>Mispende no tyme for slouthe or for lacchesse,</L>
+<L>But whilom reed in bookis olde <HI REND="italic">and</HI> wise.</L>
+<L>Reed and reporte with grete attentyfnesse. <MILESTONE N="765"/></L>
+<L>Be reedyng to connyng men may arrise.</L>
+<L>Than reed, my sone, and connyng accomplise.</L>
+<L>Thes poetes writen thynges of grete m<HI REND="italic">er</HI>uayle <MILESTONE N="768"/></L>
+<L>And of smalle credence oftyn, thys is no faile.</L>
+</LG>
+<LG N="110">
+<HEAD>CX. <MILESTONE N="III. 19"/></HEAD>
+<L>A-mong freendis sittyng at the feest</L>
+<L>Be curteis and demure of thy language. <MILESTONE N="771"/></L>
+<L>Who spekith moste, may nat offende leste.</L>
+<L>Off flessh and boon nature hathe made a cage</L>
+<L>The tonge to keepe, that she be nat outrage. <MILESTONE N="774"/></L>
+<L>*Tha<HI REND="italic">n</HI> if thou wolt ben losed of *n<HI REND="italic">or</HI>ture, <NOTE PLACE="foot">775 <HI REND="italic">Thauh</HI> C ‖ <HI REND="italic">nature</HI> C Hb <HI REND="italic">σ</HI> Cp <HI REND="italic">χ, nurture</HI> R <HI REND="italic">λ</HI> D Ad</NOTE></L>
+<L>Refreyne thyn tonge with al thy besy cure.</L>
+</LG>
+<LG N="111">
+<HEAD>CXI. <MILESTONE N="102r" UNIT="fol."/> <MILESTONE N="III. 20"/></HEAD>
+<L>Some wommen weepyne of pur femynyte, <MILESTONE N="777"/></L>
+<L>Whan othir wise thei kan nat her entente</L>
+<L>*Acche<HI REND="italic">ve;</HI> but yit beware of nyce pite <NOTE PLACE="foot">779 <HI REND="italic">acchew</HI> C M Ha Hc Fc, <HI REND="italic">eschewe</HI> Db, <HI REND="italic">askuse</HI> Hf</NOTE></L>
+<L>Thi manly resou<HI REND="italic">n,</HI> that it be nat blent. <MILESTONE N="780"/></L>
+<L>For suche wepyng thyne hert auhte nat relente.</L>
+<L>Some wommen of kynde be eu<HI REND="italic">er</HI>-moor weepyng</L>
+<L>And vndir that kan thei bothe p<HI REND="italic">r</HI>ikke <HI REND="italic">and</HI> stynge. <MILESTONE N="783"/></L>
+</LG>
+<LG N="112">
+<HEAD>CXII. <MILESTONE N="III. 21"/></HEAD>
+<L>That thou haste goten, to thin owne worship vse.</L>
+<L>What auailethe richesse withoute honoure?</L>
+<L>To spare good and worship to refuse <MILESTONE N="786"/></L>
+<L>The nygard chynche with peyne and w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> labour</L>
+<L>Is besy. But I reede the nat devour</L>
+<L>Withouten resou<HI REND="italic">n</HI> thy good excessiffly; <MILESTONE N="789"/></L>
+<L>For than muste thou begge of othir *hast<HI REND="italic">i</HI>ly. <NOTE PLACE="foot">790 <HI REND="italic">hastly</HI> C R, <HI REND="italic">hastyly</HI> F H Hb Ha Hc (-<HI REND="italic">ili), hastely κ</HI> Da Cp A D, <HI REND="italic">hastyfly</HI> G He</NOTE></L>
+</LG>
+<LG N="113">
+<HEAD>CXIII. <MILESTONE N="III. 22"/></HEAD>
+<L>Enprente, my childe, ay sadly in thy mynde,</L>
+<L>That thou be nat of *de<HI REND="italic">th</HI> to *<HI REND="italic">s</HI>ore adradde, <MILESTONE N="792"/> <NOTE PLACE="foot">792 <HI REND="italic">ded</HI> C ‖ <HI REND="italic">tofore</HI> C</NOTE></L>
+<L>That shal the from wrecchidnesse vnbynde,</L>
+<L>Wher-in thi liff longe thou hast ladde,</L>
+<L>Til of thy *corps thy soule hathe ben ful sadde. <MILESTONE N="795"/> <NOTE PLACE="foot">795 <HI REND="italic">corpus</HI> C, <HI REND="italic">cors γ</HI></NOTE></L>
+<L>For riht as dethe is eend of ferfulnesse,</L>
+<L>So is she eende of al thy wrecchydnesse.</L>
+</LG>
+<LG N="114">
+<HEAD>CXIV. <MILESTONE N="102v" UNIT="fol."/> <MILESTONE N="III. 23"/></HEAD>
+<L>*Thi wifis woord suffre and take in gree, <MILESTONE N="798"/> <NOTE PLACE="foot">798 <HI REND="italic">this</HI> C</NOTE></L>
+<L>Whan it availeth; for betide it may</L>
+<L>Ful ofte, that *of riht grete p<HI REND="italic">r</HI>udence is she <NOTE PLACE="foot">800 <HI REND="italic">riht of</HI> C</NOTE></L>
+<L>And muste ben a-lowed, this is no nay. <MILESTONE N="801"/></L>
+<L>Suffre hir than and hir conceit assay.</L>
+<L>For it is hard, whan thou can nat be stille,</L>
+<L>Ne hir to suffre thou kanst haue no wille. <MILESTONE N="804"/></L>
+</LG>
+<LG N="115">
+<PB N="323" REF="26"/>
+<HEAD>CXV. <MILESTONE N="III. 24"/></HEAD>
+<L>Goodis, that be youen the of nature,</L>
+<L>Comethe eek of thy progenytours.</L>
+<L>Therfore, my child, with al thi force <HI REND="italic">and</HI> cure <MILESTONE N="807"/></L>
+<L>Love hem weel and cherissh at all hours.</L>
+<L>Thei fostred the and kept in youthe shours.</L>
+<L>Thi moodir, my child, in especiall, <MILESTONE N="810"/></L>
+<L>Iff thou do wele, neu<HI REND="italic">er</HI> offende at all.</L>
+</LG>
+<LG N="116">
+<HEAD>CXVI. Lenvoye.</HEAD>
+<L>Resorte, resorte and hidirward releve.</L>
+<L>My maister, now her is *<HI REND="italic">a</HI>n holsom ayr. <MILESTONE N="813"/> <NOTE PLACE="foot">813 <HI REND="italic">vnholsom</HI> C</NOTE></L>
+<L>For your availe vnto this place retreve,</L>
+<L>Wher-as of moralite floures fayre</L>
+<L>And swete ful plesau<HI REND="italic">n</HI>tly, lo, dothe repeir. <MILESTONE N="816"/></L>
+<L>Gadrith therof and makithe yow a gay</L>
+<L>And restethe yow heer riht in this *herbe<HI REND="italic">i</HI>re. <NOTE PLACE="foot">818 <HI REND="italic">herbere</HI> C M <HI REND="italic">ν ζ (erbayre</HI> Ad)</NOTE></L>
+<L>Behold and see, what thyng is to your pay. <MILESTONE N="819"/></L>
+</LG>
+<LG N="117">
+<HEAD>CXVII. <MILESTONE N="103r" UNIT="fol."/></HEAD>
+<L>Whane ye haue gadrid floures *<HI REND="italic">to</HI> your liste, <NOTE PLACE="foot">820 <HI REND="italic">to</HI> f. C, <HI REND="italic">vnto</HI> F, <HI REND="italic">at</HI> Hb</NOTE></L>
+<L>Tastethe hem; for thei ben p<HI REND="italic">re</HI>seruatiffe.</L>
+<L>Holdithe hem fast and berethe in your *f<HI REND="italic">i</HI>ste. <MILESTONE N="822"/> <NOTE PLACE="foot">822 <HI REND="italic">feste</HI> C, <HI REND="italic">feystys</HI> D</NOTE></L>
+<L>For the pestilence ayers infectyffe</L>
+<L>I conseil yow, and *<HI REND="italic">iu</HI>p<HI REND="italic">ar</HI>te my liff, <NOTE PLACE="foot">824 <HI REND="italic">enp</HI>ar<HI REND="italic">te</HI> C, <HI REND="italic">iuparte</HI> F, <HI REND="italic">in part</HI> R, <HI REND="italic">jupard</HI> H, <HI REND="italic">jubarte</HI> M, <HI REND="italic">jubard σ, joberd</HI> A, <HI REND="italic">jeopard</HI> Hb Cp D Fc, <HI REND="italic">gewparde</HI> Fc, <HI REND="italic">gibarde ν, iebarde</HI> Ht, <HI REND="italic">ieparde</HI> Cx</NOTE></L>
+<L>That ye shall leede your liff in sikirnesse <MILESTONE N="825"/></L>
+<L>Thoruh v<HI REND="italic">er</HI>tue of this conseruatiffe</L>
+<L>And eeke atteyne to muche worthynesse.</L>
+</LG>
+<LG N="118">
+<HEAD>CXVIII.</HEAD>
+<L>Thus meve I you vndir protecc<HI REND="italic">i</HI>ou<HI REND="italic">n</HI> <MILESTONE N="828"/></L>
+<L>Off your good grace, what tyme ye reede</L>
+<L>Or haue in this mateer inspecc<HI REND="italic">i</HI>ou<HI REND="italic">n,</HI></L>
+<L>As it biddith, that ye wol don in deede. <MILESTONE N="831"/></L>
+<L>And than I dar afferme [*] withouten dreede, <NOTE PLACE="foot">832 <HI REND="italic">afferme it τ</HI></NOTE></L>
+<L>Ye shall *acche<HI REND="italic">v</HI>e and be ful vertuous. <NOTE PLACE="foot">833 <HI REND="italic">acchewe</HI> C, <HI REND="italic">eschewe σ, eschue ν</HI></NOTE></L>
+<L>Heer shal ye fynde, that you may guyde <HI REND="italic">and</HI> leede <MILESTONE N="834"/></L>
+<L>Streiht to good fame and bryng yow til hir hous.</L>
+</LG>
+<TRAILER>Ex<HI REND="italic">pli</HI>cit <HI REND="italic">tertia</HI> p<HI REND="italic">ar</HI>s.</TRAILER>
+</DIV2>
+<DIV2 N="4" TYPE="part">
+<PB REF="27"/>
+<LG N="119">
+<HEAD>CXIX. <MILESTONE N="IV, praef."/></HEAD>
+<L>What wiht that list to leede in sikirnesse</L>
+<L>His lif and keepe his soule from accombrau<HI REND="italic">n</HI>ce <MILESTONE N="837"/></L>
+<L>Of vices, which a-yens *<HI REND="italic">good</HI> thewes expresse <NOTE PLACE="foot">838 <HI REND="italic">good</HI> f. C <HI REND="italic">ν</HI></NOTE></L>
+<L>Beth at stryff, com yiff good attendau<HI REND="italic">n</HI>ce.</L>
+<L>Thes p<HI REND="italic">re</HI>ceptis keepe wel in remembra<HI REND="italic">n</HI>ce. <MILESTONE N="840"/></L>
+<L>Enrollyng hem and pryntyng in your mynde.</L>
+<L>How to lyve wel, the mene shal *<HI REND="italic">y</HI>e fynde. <NOTE PLACE="foot">842 <HI REND="italic">be</HI> C, <HI REND="italic">he</HI> Hf <HI REND="italic">ν, the</HI> He, <HI REND="italic">Þu</HI> Hc D Fc</NOTE></L>
+</LG>
+<LG N="120">
+<HEAD>CXX. <MILESTONE N="103v" UNIT="fol."/> <MILESTONE N="IV. 1"/></HEAD>
+<L>The foule talent of richesse, my child, eschewe. <MILESTONE N="843"/></L>
+<L>Resemble nat the gredy Tantalus</L>
+<L>Whos etike in hungre is alway newe</L>
+<L>Among the fair applis delicious; <MILESTONE N="846"/></L>
+<L>Ne watir swete que<HI REND="italic">n</HI>chythe his *th<HI REND="italic">u</HI>rst riht thus. <NOTE PLACE="foot">847 <HI REND="italic">thrist</HI> C M, <HI REND="italic">thirst σ</HI> Ad, <HI REND="italic">thrust</HI> H E Fc <HI REND="italic">χ, þorst</HI> Hc</NOTE></L>
+<L>To the violente swolwe of couetise</L>
+<L>So al this world nat can ne may suffise. <MILESTONE N="849"/></L>
+</LG>
+<LG N="121">
+<HEAD>CXXI. <MILESTONE N="IV. 2"/></HEAD>
+<L>Natur can be with litil thyng contente,</L>
+<L>As in diete a man shuld neuer charge</L>
+<L>Hymsilf with mete; for many men be shente, <MILESTONE N="852"/></L>
+<L>For their receitis ben to grete and large.</L>
+<L>Men *se<HI REND="italic">e</HI>n al day: the litell boot and barge <NOTE PLACE="foot">854 <HI REND="italic">seyn</HI> C, <HI REND="italic">sayne</HI> F, <HI REND="italic">sey</HI> Hb</NOTE></L>
+<L>Wol drench a-non, whan it is ou<HI REND="italic">er</HI>-freiht. <MILESTONE N="855"/></L>
+<L>Cherissh nature, but hurt *hir nat *<HI REND="italic">with</HI> weiht. <NOTE PLACE="foot">856 <HI REND="italic">nat hir ϑ</HI> ‖ <HI REND="italic">with</HI> f. <HI REND="italic">ϑ</HI></NOTE></L>
+</LG>
+<LG N="122">
+<HEAD>CXXII. <MILESTONE N="IV. 3"/></HEAD>
+<L>Iff *thin thyng thou happe to *mysgou<HI REND="italic">ern</HI>e <NOTE PLACE="foot">857 <HI REND="italic">thyng thin</HI> C R, <HI REND="italic">thing of thyn</HI> Hb ‖ <HI REND="italic">mysgou</HI>er<HI REND="italic">e</HI> C</NOTE></L>
+<L>Withoute reson or any p<HI REND="italic">ro</HI>uydence, <MILESTONE N="858"/></L>
+<L>Than, myn owne child, of me this lessou<HI REND="italic">n</HI> lerne:</L>
+<L>Sey nat, it was thi fortune such expence</L>
+<L>To make, but wyte it thin owne necligence. <MILESTONE N="861"/></L>
+<L>For fortune may neu<HI REND="italic">er</HI> compellen the</L>
+<L>Thi good to spende but at thi liberte.</L>
+</LG>
+<LG N="123">
+<HEAD>CXXIII. <MILESTONE N="104r" UNIT="fol."/> <MILESTONE N="IV. 4"/></HEAD>
+<L>Loue the peny as for cheuysau<HI REND="italic">n</HI>ce, <MILESTONE N="864"/></L>
+<L>Nat for the coyn to hoord it *<HI REND="italic">vp</HI> on heepe. <NOTE PLACE="foot">865 <HI REND="italic">in</HI> C <HI REND="italic">π λ ν, vp in</HI> Hb, <HI REND="italic">on</HI> R Cp <HI REND="italic">κ</HI> D Fc</NOTE></L>
+<L><PB N="26" REF="28"/>
+For of the prynte was maad an ordinau<HI REND="italic">n</HI>ce</L>
+<L>Nat for it shuld *<HI REND="italic">in coffres lye and sleepe,</HI> <MILESTONE N="867"/></L>
+<L><HI REND="italic">But for it shuld</HI> among the peple leepe <NOTE PLACE="foot">867<SUP>b</SUP> und 868<SUP>a</SUP> f. α, dafür neu nach 868 in α: <HI REND="italic">But oonly ther lyvyng therwith to reepe (but</HI> f. Hb, <HI REND="italic">for to geete</HI> [st. <HI REND="italic">reepe]</HI> Hb)</NOTE></L>
+<L>In ther eschau<HI REND="italic">n</HI>ge. Who kepith it inne</L>
+<L>As for the fourme, is soget vnto synne. <MILESTONE N="870"/></L>
+</LG>
+<LG N="124">
+<HEAD>CXXIV. <MILESTONE N="IV. 5"/></HEAD>
+<L>Whan thou hast plente and art pecuniall,</L>
+<L>I meene, whan thou hast grete suffisau<HI REND="italic">n</HI>ce,</L>
+<L>Off mony foisou<HI REND="italic">n</HI> and of helthe but smalle, <MILESTONE N="873"/></L>
+<L>Than spende thi monay and thi selfe avau<HI REND="italic">n</HI>ce.</L>
+<L>Keepe neu<HI REND="italic">er</HI> thy coyn and lyve in grevau<HI REND="italic">n</HI>ce.</L>
+<L>The seek hathe siluer in ful grete excesse, <MILESTONE N="876"/></L>
+<L>But of hymsilfe hathe he no sikirnesse.</L>
+</LG>
+<LG N="125">
+<HEAD>CXXV. <MILESTONE N="IV. 6"/></HEAD>
+<L>Thouh somtyme thou suffre the grete sharpnesse</L>
+<L>Off betyng, yit thi maistres chastisment <MILESTONE N="879"/></L>
+<L>Take weel in gree withe lowly *hu<HI REND="italic">m</HI>ble<HI REND="italic">ne</HI>sse, <NOTE PLACE="foot">880 <HI REND="italic">humblesse ϑ</HI> R Hf, <HI REND="italic">humyly∣nesse</HI> He</NOTE></L>
+<L>Sith it is doo al in good entente</L>
+<L>To cause the lore and wisdom for to hente. <MILESTONE N="882"/></L>
+<L>And thouh his woordis *sow<HI REND="italic">n</HI>en ful of ire, <NOTE PLACE="foot">883 <HI REND="italic">be sowen τ δ, sowen</HI> Ha Fc, <HI REND="italic">sowne</HI> Cp A <HI REND="italic">ω, sowne is ν, sounden <HI REND="italic">x,</HI> sound</HI> H, <HI REND="italic">seme</HI> Hc</NOTE></L>
+<L>Yit suffre thou the talent of that sire.</L>
+</LG>
+<LG N="126">
+<HEAD>CXXVI. <MILESTONE N="104v" UNIT="fol."/> <MILESTONE N="IV. 7"/></HEAD>
+<L>Also, my child, thou shalt the occupye <MILESTONE N="885"/></L>
+<L>To werche thynges, that ben p<HI REND="italic">ro</HI>fitable.</L>
+<L>But look thy wittis thou neuer applie</L>
+<L>To thyng that may nat ben aduaylable. <MILESTONE N="888"/></L>
+<L>To caste a thyng, that is nat p<HI REND="italic">ro</HI>fetable,</L>
+<L>By wit or strengthe, it is but grete errour:</L>
+<L>Dispeired hope is ende of suche labour. <MILESTONE N="891"/></L>
+</LG>
+<LG N="127">
+<HEAD>CXXVII. <MILESTONE N="IV. 8"/></HEAD>
+<L>Whan thou shalt yive, than yive in freendly wise.</L>
+<L>Frely content a prayere of requeste;</L>
+<L>For thyng yoven be tyme is yoven twise. <MILESTONE N="894"/></L>
+<L>Sith gladsom cheer makith *<HI REND="italic">yiftis</HI> richeste, <NOTE PLACE="foot">895 <HI REND="italic">yiftis</HI> f. <HI REND="italic">ϑ</HI></NOTE></L>
+<L>Who yiveth gladly and soone yeveth beste.</L>
+<L>Lo, no thyng may bettir freende conquere <MILESTONE N="897"/></L>
+<L>Than man to *leene, that he may weel forber. <NOTE PLACE="foot">898 oder <HI REND="italic">leeue?</HI> (s. Oxf. Dict. unter <HI REND="italic">Lend</HI> v<SUP>2</SUP>, 2, a-b), <HI REND="italic">leen</HI> σ Cp Hf Cx, <HI REND="italic">lende</HI> R Hc, <HI REND="italic">leve</HI> Hb Ad</NOTE></L>
+</LG>
+<LG N="128">
+<HEAD>CXXVIII. <MILESTONE N="IV. 9"/></HEAD>
+<L>Whan in a thyng thou haste a coniecture,</L>
+<L>As in thi conceyt holdyng it suspecte, <MILESTONE N="900"/></L>
+<L>To discusse that thyng a-non do thi cure.</L>
+<L>For at the first whan such thyng is reiecte,</L>
+<L>The reste is aftir esy to correcte; <MILESTONE N="903"/></L>
+<L>*A<HI REND="italic">nd</HI> thyng, that at the firste is nat sett by, <NOTE PLACE="foot">904 <HI REND="italic">A</HI> C Hb σ ω</NOTE></L>
+<L>Is *oftyn seyn to greven fynally. <NOTE PLACE="foot">905 <HI REND="italic">oftyntyme</HI> C Hb, <HI REND="italic">ofte tyme</HI> A, <HI REND="italic">often tymes</HI> ω</NOTE></L>
+</LG>
+<LG N="129">
+<PB N="27" REF="29"/>
+<HEAD>CXXIX. <MILESTONE N="105r" UNIT="fol."/> <MILESTONE N="IV. 10"/></HEAD>
+<L>And whan thou arte disposid inwardli <MILESTONE N="906"/></L>
+<L>To Venus actis, than represse corage.</L>
+<L>Fostre nat thi fleessh to lustily.</L>
+<L>For [*] grete diete makethe the flessh outrage, <MILESTONE N="909"/> <NOTE PLACE="foot">909 <HI REND="italic">for a</HI> C</NOTE></L>
+<L>Where-as mesure myht cause it asswage.</L>
+<L>And glotenye is clepid cheeff *p<HI REND="italic">ro</HI>mot<HI REND="italic">r</HI>ice, <NOTE PLACE="foot">911 <HI REND="italic">p</HI>ro<HI REND="italic">motice</HI> C δ</NOTE></L>
+<L>Leedyng the fleissh to wantou<HI REND="italic">n</HI>nesse <HI REND="italic">and</HI> vice. <MILESTONE N="912"/></L>
+</LG>
+<LG N="130">
+<HEAD>CXXX. <MILESTONE N="IV. 11"/></HEAD>
+<L>The ranpau<HI REND="italic">n</HI>d leou<HI REND="italic">n</HI> and the tigre felle,</L>
+<L>The irous boor, the hou<HI REND="italic">n</HI>d ful of envye</L>
+<L>And bestis moo than nedithe heer to telle <MILESTONE N="915"/></L>
+<L>Men dreede ful sore <HI REND="italic">and</HI> fer herr tyrannye;</L>
+<L>And wel thei do. But yit oon best I espye,</L>
+<L>That is to feryn most in especial: <MILESTONE N="918"/></L>
+<L>*Mann ys *<HI REND="italic">the</HI> beste, that thou moste dreeden shall. <NOTE PLACE="foot">919 <HI REND="italic">mannys</HI> C Hb ‖ <HI REND="italic">the</HI> f. <HI REND="italic">τ π ν λ</HI> Fc</NOTE></L>
+</LG>
+<LG N="131">
+<HEAD>CXXXI. <MILESTONE N="IV. 12"/></HEAD>
+<L>The vertu, that is clepid fortitude,</L>
+<L>Stondith nat alle in strengthis bodyly, <MILESTONE N="921"/></L>
+<L>As to be virous, myhti, strong <HI REND="italic">and</HI> rude; <NOTE PLACE="foot">922 <HI REND="italic">virous] vrous v (eurous</HI> χ)</NOTE></L>
+<L>But in the soule it must ben sikirly.</L>
+<L>Than, if thou wilt thi-selfe fortifie <MILESTONE N="924"/></L>
+<L>Thi soule withynne acqueynte with sapie<HI REND="italic">n</HI>ce;</L>
+<L>And than shalt thow be strong in existence.</L>
+</LG>
+<LG N="132">
+<HEAD>CXXXII. <MILESTONE N="105v" UNIT="fol."/> <MILESTONE N="IV. 13"/></HEAD>
+<L>*Wha<HI REND="italic">t</HI> thyng in erthe thou shalt take on *h<HI REND="italic">o</HI>nde, <MILESTONE N="927"/> <NOTE PLACE="foot">927 <HI REND="italic">whan τ</HI> ‖ <HI REND="italic">hande</HI> C <HI REND="italic">μ</HI> Y Ad</NOTE></L>
+<L>And thi supporte shal be in freendlynesse.</L>
+<L>No strange wiht on lyue so nyh wol the stonde</L>
+<L>As thi knowen ffrende, my child, this is exp<HI REND="italic">re</HI>sse; <MILESTONE N="930"/></L>
+<L>Off the strau<HI REND="italic">n</HI>gier haste thou no sikirnesse.</L>
+<L>For whan all othir ben ful ferr to seche,</L>
+<L>The feitheful knowe freende kan beste be thi leche. <MILESTONE N="933"/></L>
+</LG>
+<LG N="133">
+<HEAD>CXXXIII. <MILESTONE N="IV. 14"/></HEAD>
+<L>The deethe of bestis, that beth vnresou<HI REND="italic">n</HI>able,</L>
+<L>As bi custom *and riht of sacrifice <NOTE PLACE="foot">935 <HI REND="italic">and</HI> und <HI REND="italic">of</HI> um∣gestellt in <HI REND="italic">α</HI></NOTE></L>
+<L>To purgyn the, is no seth greable. <MILESTONE N="936"/> <NOTE PLACE="foot">936 <HI REND="italic">no sethe] nothyng</HI> H, <HI REND="italic">not</HI> Db, <HI REND="italic">no feith</HI> Hf, <HI REND="italic">no suche</HI> Hc Ad</NOTE></L>
+<L>Trust nat as so to gete thy reprise;</L>
+<L>For thei, that trust so, ben ful vnwise.</L>
+<L>Bi dethe of bestis God wil nat queemyd be, <MILESTONE N="939"/></L>
+<L>And man a-bide in his iniquite.</L>
+</LG>
+<LG N="134">
+<HEAD>CXXXIV. <MILESTONE N="IV. 15"/></HEAD>
+<L>Whan thou wolt chese a freende for trustynesse,</L>
+<L>Than of his fortune make noon inquirau<HI REND="italic">n</HI>ce; <MILESTONE N="942"/></L>
+<L>For fortune is moodir of changeabilnesse.</L>
+<L>Aske of his liffe and of his gou<HI REND="italic">er</HI>nau<HI REND="italic">n</HI>ce;</L>
+<L>For that is preeff of grettir suffisau<HI REND="italic">n</HI>ce <MILESTONE N="945"/></L>
+<L><PB N="28" REF="30"/>
+Than vre or fortune, that is casuell.</L>
+<L>For liff of man his fortune dothe excell.</L>
+</LG>
+<LG N="135">
+<HEAD>CXXXV. <MILESTONE N="106r" UNIT="fol."/> <MILESTONE N="IV. 16"/></HEAD>
+<L>Vse weel the richesse, that thou hast *o<HI REND="italic">f</HI> queste. <MILESTONE N="948"/> <NOTE PLACE="foot">948 <HI REND="italic">on</HI> C Hb, <HI REND="italic">be</HI> Cp Hc D</NOTE></L>
+<L>Off avarise the wikkid name eschewe.</L>
+<L>Lat nat thi good *<HI REND="italic">be</HI> stoppid in a chest. <NOTE PLACE="foot">950 <HI REND="italic">ly</HI> C <HI REND="italic">ρ</HI> Y Hf ζ</NOTE></L>
+<L>Keepe nat thy stuff ay closid stille in mewe. <MILESTONE N="951"/></L>
+<L>Suche old tresour wol make thi shame ful newe.</L>
+<L>What p<HI REND="italic">ro</HI>fitethe plente of grete *tresur <NOTE PLACE="foot">953 <HI REND="italic">tresour τ</HI> A Hf ζ, <HI REND="italic">tre∣soore</HI> Hc</NOTE></L>
+<L>And in pouerte a wrecche alway endure. <MILESTONE N="954"/></L>
+</LG>
+<LG N="136">
+<HEAD>CXXXVI. <MILESTONE N="IV. 17"/></HEAD>
+<L>Iff thou desir to reioisen thi fame</L>
+<L>In honeste, whil thou lyvest heere,</L>
+<L>Eschiew *the thinges, that may cause shame. <MILESTONE N="957"/> <NOTE PLACE="foot">957 <HI REND="italic">thes</HI> C, <HI REND="italic">thoo δ</HI> Cp G Hc, f. <HI REND="italic">ρ</HI> E <HI REND="italic">ζ</HI></NOTE></L>
+<L>Likerous lustis must be leid on beer</L>
+<L>And thinges fele, that ful ioyous appeer.</L>
+<L>This worldis *<HI REND="italic">i</HI>oye is ay ful deffectyfe: <MILESTONE N="960"/> <NOTE PLACE="foot">960 <HI REND="italic">yoye</HI> C, <HI REND="italic">plesure</HI> Hb</NOTE></L>
+<L>Be war of ioye, that hurteth thi good liffe.</L>
+</LG>
+<LG N="137">
+<HEAD>CXXXVII. <MILESTONE N="IV. 18"/></HEAD>
+<L>And ay, my child, conceyve and adu<HI REND="italic">er</HI>tise,</L>
+<L>That neu<HI REND="italic">er</HI> thou skorne feeble stoupyng age. <MILESTONE N="963"/></L>
+<L>Thi *<HI REND="italic">e</HI>lderis, my child, for nothyng *<HI REND="italic">thou</HI> despise, <NOTE PLACE="foot">964 <HI REND="italic">alderis</HI> C, <HI REND="italic">eldere</HI> F H <HI REND="italic">ν</HI> ‖ <HI REND="italic">thou</HI> f. C R <HI REND="italic">ρ κ λ</HI> D Fc</NOTE></L>
+<L>*Thou<HI REND="italic">h</HI> in ther wittis *the<HI REND="italic">i</HI> be natt so sage <NOTE PLACE="foot">965 <HI REND="italic">thou</HI> C, <HI REND="italic">thow</HI> Hb ‖ <HI REND="italic">the</HI> C H, f. Hf</NOTE></L>
+<L>As in ther *<HI REND="italic">y</HI>outh, sith age is outrage. <MILESTONE N="966"/> <NOTE PLACE="foot">966 <HI REND="italic">thouht α, thowth</HI> Hc, <HI REND="italic">yonghe</HI> A, <HI REND="italic">yongith</HI> Hf</NOTE></L>
+<L>Whan age cometh, this is sothe certeyn,</L>
+<L>A man begynneth to ben a chyld a-geyn</L>
+</LG>
+<LG N="138">
+<HEAD>CXXXVIII. <MILESTONE N="106v" UNIT="fol."/> <MILESTONE N="IV. 19"/></HEAD>
+<L>Enforce thi wittes somwhat for to lere; <MILESTONE N="969"/></L>
+<L>Acqueynte the withe connyng. For that is sure,</L>
+<L>Iff fortune chau<HI REND="italic">n</HI>ge and than pouert appeer,</L>
+<L>*Wh<HI REND="italic">o</HI> that hathe konnyng, is likly to recure. <MILESTONE N="972"/> <NOTE PLACE="foot">972 <HI REND="italic">what τ</HI></NOTE></L>
+<L>Konnyng and crafte *remayne and endure; <NOTE PLACE="foot">973 <HI REND="italic">remay∣nethe ϑ</HI> Hb Cp Hf He <HI REND="italic">ν</HI> D, <HI REND="italic">remaynen</HI> M</NOTE></L>
+<L>And bi them a man may *h<HI REND="italic">i</HI>m-silfe releve, <NOTE PLACE="foot">974 <HI REND="italic">them silfe</HI> C</NOTE></L>
+<L>Whan fortune hathe caste hym in to myscheeffe. <MILESTONE N="975"/></L>
+</LG>
+<LG N="139">
+<HEAD>CXXXIX. <MILESTONE N="IV. 20"/></HEAD>
+<L>Be stille in silens with a-visenesse.</L>
+<L>Tary, my child, til othir men han seid;</L>
+<L>So shalt thou lerne somwhat in sothfastnesse. <MILESTONE N="978"/></L>
+<L>Latt nat thy tonge sodenly be vnteid;</L>
+<L>For that myht the of hastynesse abreid. <NOTE PLACE="foot">980 <HI REND="italic">abreid] upbreide <HI REND="italic">κ</HI></HI> D, <HI REND="italic">vbbreyde</HI> He, <HI REND="italic">breyde</HI> Hc, <HI REND="italic">umbrayde</HI> A</NOTE></L>
+<L>Bi ma<HI REND="italic">n</HI>ys woord his man<HI REND="italic">er</HI> *w<HI REND="italic">i</HI>l be schewed. <MILESTONE N="981"/> <NOTE PLACE="foot">981 <HI REND="italic">wold</HI> C, <HI REND="italic">wol</HI> R Hf Y Hc D</NOTE></L>
+<L>Bi woord is knowen the wise ma<HI REND="italic">n</HI> from þ<HI REND="italic">e</HI> lewid.</L>
+</LG>
+<LG N="140">
+<PB N="29" REF="31"/>
+<HEAD>CXL. <MILESTONE N="IV. 21"/></HEAD>
+<L>Thouh in konnyng thou have ful grete co<HI REND="italic">n</HI>ceit,</L>
+<L>Enforce *<HI REND="italic">the</HI> ay yit to lerne more. <MILESTONE N="984"/> <NOTE PLACE="foot">984 f. C, <HI REND="italic">thi</HI> F, <HI REND="italic">thi self</HI> Hc D</NOTE></L>
+<L>The soule it is, that must be the receit;</L>
+<L>Replenissh hir with that tresour <HI REND="italic">and</HI> stor.</L>
+<L>Vse makithe maistrie; vse konnyng therfore. <MILESTONE N="987"/></L>
+<L>Vse helpethe art, and cure helpithe the witte;</L>
+<L>Than vse and *<HI REND="italic">cure</HI> to konnyng moste be *kn<HI REND="italic">i</HI>tte. <NOTE PLACE="foot">989 f. C Hb ‖ <HI REND="italic">knette</HI> C</NOTE></L>
+</LG>
+<LG N="141">
+<HEAD>CXLI. <MILESTONE N="107r" UNIT="fol."/> <MILESTONE N="IV. 22"/></HEAD>
+<L>Body from soule must haue disseuerau<HI REND="italic">n</HI>ce. <MILESTONE N="990"/></L>
+<L>Dethe is ende comou<HI REND="italic">n</HI> to eu<HI REND="italic">er</HI>y wiht.</L>
+<L>Charge nat to muche therfore of dethis *chau<HI REND="italic">n</HI>ce; <NOTE PLACE="foot">992 <HI REND="italic">chaunge</HI> C Ad</NOTE></L>
+<L>The tribut of dethe must thou pay of riht. <MILESTONE N="993"/></L>
+<L>But yit bi dethe shalt thou sette more liht,</L>
+<L>Iff bi this liff thou sett no thyng expresse;</L>
+<L>It is so ful of woo and wrecchidnesse. <MILESTONE N="996"/></L>
+</LG>
+<LG N="142">
+<HEAD>CXLII. <MILESTONE N="IV. 23"/></HEAD>
+<L>*<HI REND="italic">L</HI>ere of the wise and teche the vnkunnyng. <NOTE PLACE="foot">997 <HI REND="italic">Vere</HI> C, <HI REND="italic">lerne</HI> Hb A Cp <HI REND="italic">κ</HI> G <HI REND="italic">ζ</HI></NOTE></L>
+<L>For it is vertu and *<HI REND="italic">ful</HI> commendable <NOTE PLACE="foot">998 f. <HI REND="italic">ϑ</HI> R Fc, <HI REND="italic">also</HI> Hb, <HI REND="italic">at al tyme ω</HI></NOTE></L>
+<L>Tencrese doctryne thoruh such como<HI REND="italic">n</HI>nyng. <MILESTONE N="999"/></L>
+<L>It is alway a deede charitable</L>
+<L>To lere and teche; it is ful greable</L>
+<L>To God. Doctryne kepithe vertu on lyve. <MILESTONE N="1002"/></L>
+<L>Whiche ne were, doctryne soone from ma<HI REND="italic">n</HI> shuld slyve. <NOTE PLACE="foot">1003 <HI REND="italic">sleyue</HI> H, <HI REND="italic">slyffe <HI REND="italic">κ</HI></HI> Hc, <HI REND="italic">stryve</HI> D, <HI REND="italic">schyve</HI> Fc, <HI REND="italic">fliue</HI> Cp</NOTE></L>
+</LG>
+<LG N="143">
+<HEAD>CXLIII. <MILESTONE N="IV. 24"/></HEAD>
+<L>Drynk nat to muche, no mor than þ<HI REND="italic">o</HI>u maiste bere.</L>
+<L>Rewle thy-silfe bi the bridil of mesure. <MILESTONE N="1005"/></L>
+<L>To muche drynke wol the annoy and dere.</L>
+<L>Surfette is euermore of helthe vnsure;</L>
+<L>And mesur makethe men in helthe endure. <MILESTONE N="1008"/></L>
+<L>Whatt man is rewlid aftir lustys vile,</L>
+<L>In good astate ne may a-bide no while.</L>
+</LG>
+<LG N="144">
+<HEAD>CXLIV. <MILESTONE N="107v" UNIT="fol."/> <MILESTONE N="IV. 25"/></HEAD>
+<L>And iff hit happe the in audience <MILESTONE N="1011"/></L>
+<L>An thyng to preyse, be war, that thou ne blame</L>
+<L>It eft ageyn riht in the same p<HI REND="italic">re</HI>sence.</L>
+<L>Iff thou dispreise, comende nat eek the same; <MILESTONE N="1014"/></L>
+<L>Off suche trauers must needis risen shame.</L>
+<L>To preisen now and eft to blame douteles</L>
+<L>It is a thynge of grete vnstabilnesse. <MILESTONE N="1017"/></L>
+</LG>
+<LG N="145">
+<HEAD>CXLV. <MILESTONE N="IV. 26"/></HEAD>
+<L>Whan thou lyuest heer riht at thyn owne ese</L>
+<L>In al thy ioye, rest and p<HI REND="italic">ro</HI>sp<HI REND="italic">er</HI>ite,</L>
+<L>Thynk the per-case adu<HI REND="italic">er</HI>site may sese; <MILESTONE N="1020"/></L>
+<L>For *we<HI REND="italic">l</HI>the stondithe nat in sykirte. <NOTE PLACE="foot">1021 <HI REND="italic">wethe</HI> C E, <HI REND="italic">werth</HI> Ad</NOTE></L>
+<L>And also soone, whan any adu<HI REND="italic">er</HI>site</L>
+<L><PB N="30" REF="32"/>
+Assautethe the, yit fall nat in dispeire; <MILESTONE N="1023"/></L>
+<L>Thynke in thi-silfe: good fortune may repeire.</L>
+</LG>
+<LG N="146">
+<HEAD>CXLVI. <MILESTONE N="IV. 27"/></HEAD>
+<L>It is ful fair, my child, [*] to be prudent <NOTE PLACE="foot">1025 <HI REND="italic">for to τ</HI></NOTE></L>
+<L>And wys; looke thou lere ther-fore. <MILESTONE N="1026"/></L>
+<L>To lerne ay, my sone, do thyn entent.</L>
+<L>Bi diligent bysynesse wisd<HI REND="italic">o</HI>m is more.</L>
+<L>Wisd<HI REND="italic">o</HI>m is she, that may nat be forbore. <MILESTONE N="1029"/></L>
+<L>The rare prudence, that folkes nyce refuse,</L>
+<L>Can nat ben had but bi p<HI REND="italic">ro</HI>cesse and vse.</L>
+</LG>
+<LG N="147">
+<HEAD>CXLVII. <MILESTONE N="108r" UNIT="fol."/> <MILESTONE N="IV. 28"/></HEAD>
+<L>Beware alway, that thou neuer enhau<HI REND="italic">n</HI>ce <MILESTONE N="1032"/></L>
+<L>In thi lawde or preisyng a wiht to hihe;</L>
+<L>For thou mayste haue cause eft to [*] dissavau<HI REND="italic">n</HI>ce <NOTE PLACE="foot">1034 <HI REND="italic">to do</HI> C</NOTE></L>
+<L>The same. But ay thy preysyng modifie. <MILESTONE N="1035"/></L>
+<L>For att oon day thou shalt *<HI REND="italic">ful</HI> wele espye, <NOTE PLACE="foot">1036 <HI REND="italic">ful</HI> f. C</NOTE></L>
+<L>*Whe<HI REND="italic">th</HI>er he be freende, that freendly seemythe; <NOTE PLACE="foot">1037 <HI REND="italic">whedir</HI> C H Hf He Ad, <HI REND="italic">where</HI> Fc</NOTE></L>
+<L>For all be nat freendis, that men demethe. <MILESTONE N="1038"/></L>
+</LG>
+<LG N="148">
+<HEAD>CXLVIII. <MILESTONE N="IV. 29"/></HEAD>
+<L>Be nat asshamed, my child, also to *lere, <NOTE PLACE="foot">1039 <HI REND="italic">lerne τ</HI> Hb</NOTE></L>
+<L>*<HI REND="italic">That</HI> thou canst nat; for it is but a tecche <NOTE PLACE="foot">1040 <HI REND="italic">iff ϑ</HI> R</NOTE></L>
+<L>Off foly nat to desire doctryne heere. <MILESTONE N="1041"/></L>
+<L>Ful wel is he, that to konnyng may strecche,</L>
+<L>Sithe konnyngles a man is but a wrecche.</L>
+<L>To konne moche is riht comendable <MILESTONE N="1044"/></L>
+<L>And nouht to konne is ay reproveable.</L>
+</LG>
+<LG N="149">
+<HEAD>CXLIX. <MILESTONE N="IV. 31"/> <NOTE N="1" PLACE="foot">IV. 30 folgt als Strophe CLIV.</NOTE></HEAD>
+<L>The soleyn stille oft meenethe [*] fraude and gile; <NOTE PLACE="foot">1046 <HI REND="italic">of fraude ϑ</HI></NOTE></L>
+<L>Off such a man eschewe the companye. <MILESTONE N="1047"/></L>
+<L>For the stille man compassethe othir while</L>
+<L>Withynne his herte disceit and trecherye.</L>
+<L>In floodis stille is watir deep and hihe. <MILESTONE N="1050"/></L>
+<L>In stremys softe seemyng to thy plesau<HI REND="italic">n</HI>ce</L>
+<L>Ofte betidithe ful vnhappy chau<HI REND="italic">n</HI>ce.</L>
+</LG>
+<LG N="150">
+<HEAD>CL. <MILESTONE N="108v" UNIT="fol."/> <MILESTONE N="IV. 32"/></HEAD>
+<L>With thi fortune whan thou art discontent <MILESTONE N="1053"/></L>
+<L>And kanst nat take in gree thin *adu<HI REND="italic">en</HI>ture, <NOTE PLACE="foot">1054 <HI REND="italic">adu</HI>er<HI REND="italic">ture</HI> C, <HI REND="italic">aventure ν</HI></NOTE></L>
+<L>Behold and feele in thin aduisement,</L>
+<L>How thei, that whilom wer as thou as sur <MILESTONE N="1056"/></L>
+<L>And more likly in welthe for to endure</L>
+<L>Bothe fore bou<HI REND="italic">n</HI>te and eek for noblesse,</L>
+<L>And yit haue *falle dou<HI REND="italic">n</HI> *<HI REND="italic">into</HI> wrecchidnesse. <MILESTONE N="1059"/> <NOTE PLACE="foot">1059 <HI REND="italic">doun falle τ</HI> ‖ <HI REND="italic">into] dou</HI>n C, <HI REND="italic">in</HI> F H</NOTE></L>
+</LG>
+<LG N="151">
+<HEAD>CLI. <MILESTONE N="IV. 33"/></HEAD>
+<L>Attempte the thyng, so as thou maist suffise.</L>
+<L>Passe nat thi myht. Bere nat to hihe thi saile;</L>
+<L><PB N="31" REF="33"/>
+Ther is pereil, if that the storme a-rise. <MILESTONE N="1062"/></L>
+<L>Serteyn, my child, this is withouten faile:</L>
+<L>The vessel smalle is at ful grete a-vaile,</L>
+<L>Whan with his ore to londe he may a-reche, <MILESTONE N="1065"/></L>
+<L>Where-as the sailes hihe ful oft go to wrecche.</L>
+</LG>
+<LG N="152">
+<HEAD>CLII. <MILESTONE N="IV. 34"/></HEAD>
+<L>A-geyns the trewe iuste man brawle nat ne stryve;</L>
+<L>For to God a-boue that is displesau<HI REND="italic">n</HI>ce. <MILESTONE N="1068"/></L>
+<L>Trust this trewly: heer is no man on lyve,</L>
+<L>That to the iuste man dothe dere or greuau<HI REND="italic">n</HI>ce,</L>
+<L>But at the laste God wol take vengeau<HI REND="italic">n</HI>ce. <MILESTONE N="1071"/></L>
+<L>And heerof it *<HI REND="italic">is</HI> good heed [*] to take: <NOTE PLACE="foot">1072 <HI REND="italic">is</HI> f. C Hb ‖ <HI REND="italic">for to</HI> C</NOTE></L>
+<L>The riht-wiseman of God is nat forsake.</L>
+</LG>
+<LG N="153">
+<HEAD>CLIII. <MILESTONE N="109r" UNIT="fol."/> <MILESTONE N="IV. 35"/></HEAD>
+<L>Iff extorsiou<HI REND="italic">n</HI> or mysauenture <MILESTONE N="1074"/></L>
+<L>Haue plukked at the and maad the threedbare</L>
+<L>Off richesse, yit do thou thi force <HI REND="italic">and</HI> cure.</L>
+<L>To be mery and eschewe thouht <HI REND="italic">an</HI>d care. <MILESTONE N="1077"/></L>
+<L>For fretyng thouht is a ful cursid snare;</L>
+<L>Cum nat ther-in. Fortune is vnstable.</L>
+<L>Aftir pou<HI REND="italic">er</HI>te richesse is p<HI REND="italic">r</HI>eignable. <MILESTONE N="1080"/></L>
+</LG>
+<LG N="154">
+<HEAD>CLIV. <MILESTONE N="IV. 30"/></HEAD>
+<L>Venus is reedi to all hir actis vile,</L>
+<L>Whan he, Bachus, hathe set hir in largesse</L>
+<L>The tresour of his hoote and feruent yle. <MILESTONE N="1083"/></L>
+<L>Therfore, my child, thin appetite represse.</L>
+<L>In wynes hoote doo nat to grete excesse.</L>
+<L>Drynk, that for thi soule is expedient. <MILESTONE N="1086"/></L>
+<L>Eschewe stryffe. Withe mesure be content.</L>
+</LG>
+<LG N="155">
+<HEAD>CLV. <MILESTONE N="IV. 36"/></HEAD>
+<L>It is an harme the *good<HI REND="italic">es</HI> to forgoo, <NOTE PLACE="foot">1088 <HI REND="italic">good</HI> C R Hc</NOTE></L>
+<L>That ben on hande, bi force and violence. <MILESTONE N="1089"/></L>
+<L>But yit, my child, *tho<HI REND="italic">u</HI> most considre, who <NOTE PLACE="foot">1090 <HI REND="italic">tho</HI> C, <HI REND="italic">the</HI> Ha He</NOTE></L>
+<L>And what he is, that dothe the such offense.</L>
+<L>Bi-twix freend and foo haue ay a difference; <MILESTONE N="1092"/></L>
+<L>For in som case thou most a freend forbere</L>
+<L>And suffre hym, thouh he *ann<HI REND="italic">o</HI>y and deere. <NOTE PLACE="foot">1094 <HI REND="italic">anney</HI> C, <HI REND="italic">noy ρ</HI> Hc <HI REND="italic">ω</HI></NOTE></L>
+</LG>
+<LG N="156">
+<HEAD>CLVI. <MILESTONE N="109v" UNIT="fol."/> <MILESTONE N="IV. 37"/></HEAD>
+<L>Be nat to sure, that thou shalt lyue heer long. <MILESTONE N="1095"/></L>
+<L>A wyht shal deye, alle be he lothe or leeffe;</L>
+<L>And as the old so deye the yonge a-monge.</L>
+<L>Dethe stelithe on, as dothe a pryvy theefe. <MILESTONE N="1098"/></L>
+<L>Loo, a-yens dethe men fynde no releeffe.</L>
+<L>She is a-boute to make a devorse</L>
+<L>And folwethe ay the shadwe of the *corse. <MILESTONE N="1101"/> <NOTE PLACE="foot">1101 <HI REND="italic">corpse ϑ</HI> R, <HI REND="italic">course</HI> Hf</NOTE></L>
+</LG>
+<LG N="157">
+<HEAD>CLVII. <MILESTONE N="IV. 38"/></HEAD>
+<L>Serue ay thi God withe lowly obseruau<HI REND="italic">n</HI>ce,</L>
+<L>Withe herte entier, withe swete smellyng encense;</L>
+<L><PB N="32" REF="34"/>
+Such sacrifice is moost to his plesau<HI REND="italic">n</HI>ce. <MILESTONE N="1104"/></L>
+<L>Off calues smale, that neu<HI REND="italic">er</HI> dede offence, <NOTE PLACE="foot">1105 <HI REND="italic">dede</HI> C He <HI REND="italic">ω, deden</HI> D, <HI REND="italic">dide</HI> übr.</NOTE></L>
+<L>Thouh thou hem sle, the blood may nat dispence.</L>
+<L>With the lat *h<HI REND="italic">e</HI>m growe and swynke i<HI REND="italic">n</HI> þ<HI REND="italic">i</HI> plouhe. <MILESTONE N="1107"/> <NOTE PLACE="foot">1107 <HI REND="italic">hym</HI> C Db Ad, <HI REND="italic">him</HI> R, <HI REND="italic">them</HI> M Cp, <HI REND="italic">thaym</HI> E</NOTE></L>
+<L>Thin herte to God is suffisant *i-nouh. <NOTE PLACE="foot">1108 <HI REND="italic">I nouht</HI> C</NOTE></L>
+</LG>
+<LG N="158">
+<HEAD>CLVIII. <MILESTONE N="IV. 39"/></HEAD>
+<L>Yiff place to hym, that excedith thy myht:</L>
+<L>Thouh thou be hurt, it may p<HI REND="italic">ro</HI>fette p<HI REND="italic">er</HI>chau<HI REND="italic">n</HI>ce. <MILESTONE N="1110"/></L>
+<L>And seeld availethe a man for to fiht</L>
+<L>Ageyns such on, as passith his pusau<HI REND="italic">n</HI>ce.</L>
+<L>Thouh he greve *n<HI REND="italic">ow,</HI> yit *<HI REND="italic">e</HI>fte he may avau<HI REND="italic">n</HI>ce. <MILESTONE N="1113"/> <NOTE PLACE="foot">1113 <HI REND="italic">nat</HI> C H R He <HI REND="italic">ν</HI> ‖ <HI REND="italic">ofte ϑ</HI> Cp, f. <HI REND="italic">ν</HI></NOTE></L>
+<L>Ful oftyn is seyn aftir the grete duresse</L>
+<L>The myhty man wol *kithe his gentilnesse <NOTE PLACE="foot">1115 <HI REND="italic">kithen τ, kythyth</HI> H</NOTE></L>
+</LG>
+<LG N="159">
+<HEAD>CLIX. <MILESTONE N="110r" UNIT="fol."/> <MILESTONE N="IV. 40"/></HEAD>
+<L>Aftir thy surffet and thi grete offence <MILESTONE N="1116"/></L>
+<L>Chastice thi-silfe, correcte, that is a-mys,</L>
+<L>Correcte thi gilte, amende thi necligence.</L>
+<L>Sorwe for synne a verray medycyne is. <MILESTONE N="1119"/></L>
+<L>Repent the *sore; than art thou saufe iwis. <NOTE PLACE="foot">1120 <HI REND="italic">sorwe τ, sorefully</HI> D, <HI REND="italic">for ν</HI> Fc</NOTE></L>
+<L>For fisik seithe, my child, I *<HI REND="italic">the</HI> ensure: <NOTE PLACE="foot">1121 <HI REND="italic">the</HI> f. <HI REND="italic">τ</HI></NOTE></L>
+<L>A bittir drynk the *sharpe sekenesse may cure. <MILESTONE N="1122"/> <NOTE PLACE="foot">1122 <HI REND="italic">sharper</HI> C D</NOTE></L>
+</LG>
+<LG N="160">
+<HEAD>CLX. <MILESTONE N="IV. 41"/></HEAD>
+<L>Yff thou haue fou<HI REND="italic">n</HI>de longe frenship in a wyht</L>
+<L>Ful yore ago, thouh he begynne to chau<HI REND="italic">n</HI>ge,</L>
+<L>*Disp<HI REND="italic">r</HI>e<HI REND="italic">i</HI>se hym nat; men bide nat in oon pliht. <MILESTONE N="1125"/> <NOTE PLACE="foot">1125 <HI REND="italic">displese</HI> C Hb, <HI REND="italic">dispraue</HI> G, <HI REND="italic">dispreire</HI> Y <HI REND="italic">χ</HI></NOTE></L>
+<L>*Somtyme was an abbey, ther is now a grau<HI REND="italic">n</HI>ge <NOTE N="1" PLACE="foot">Vgl. Skelton, Colin Cloute: <HI REND="italic">Of an abbaye ye make a graunge.</HI></NOTE>. <NOTE PLACE="foot">1126 <HI REND="italic">sometymes</HI> C, <HI REND="italic">some</HI> A</NOTE></L>
+<L>This worldis cours is ful quey<HI REND="italic">n</HI>te and strange.</L>
+<L>But thouh the man as now be wax vnkynde, <MILESTONE N="1128"/></L>
+<L>His olde frenship remembr in thi mynde.</L>
+</LG>
+<LG N="161">
+<HEAD>CLXI. <MILESTONE N="IV. 42"/></HEAD>
+<L>Iff it vre the in office to be sette,</L>
+<L>Than be thou gracious to othir men. <MILESTONE N="1131"/></L>
+<L>Thei may report: a goodly man is mette</L>
+<L>With such office; and so good fame shal renne</L>
+<L>A-boute of the. But *<HI REND="italic">I</HI> ensure the, whenne <MILESTONE N="1134"/> <NOTE PLACE="foot">1134 <HI REND="italic">I</HI> f. C <HI REND="italic">ν</HI></NOTE></L>
+<L>Thofficer is vnkynde, than seithe the pres:</L>
+<L>Now wold God this man *<HI REND="italic">were</HI> officeles. <NOTE PLACE="foot">1136 <HI REND="italic">is</HI> C</NOTE></L>
+</LG>
+<LG N="162">
+<HEAD>CLXII. <MILESTONE N="110v" UNIT="fol."/> <MILESTONE N="IV. 43"/></HEAD>
+<L>Be nat suspect; that is a wikkid tecche. <MILESTONE N="1137"/></L>
+<L>The suspect wiht with cowarde ielousnesse</L>
+<L>In his lyvyng is but a verray wrecche.</L>
+<L>Much is a-mys, and all wold he redresse. <MILESTONE N="1140"/></L>
+<L>Hee deemythe fals and failethe hertynesse.</L>
+<L><PB N="33" REF="35"/>
+His fals conceyt, set in malencolye,</L>
+<L>Slethe hym a-noon; *<HI REND="italic">deth</HI> endithe his folye. <MILESTONE N="1143"/> <NOTE PLACE="foot">1143 f. C H R Fb, <HI REND="italic">this</HI> F, <HI REND="italic">thus</HI> Hb, <HI REND="italic">thus deth</HI> A <HI REND="italic">ω</HI></NOTE></L>
+</LG>
+<LG N="163">
+<HEAD>CLXIII. <MILESTONE N="IV. 41"/></HEAD>
+<L>Iff thou haue men withouten liberte,</L>
+<L>Such as be clepid the men of bondage,</L>
+<L>Thouh thei ben vndir thi captyuyte, <MILESTONE N="1146"/></L>
+<L>Yit ou<HI REND="italic">er</HI> such men be neu<HI REND="italic">er</HI> outrage,</L>
+<L>Iff thei be holden vndir thy seruage.</L>
+<L>Thouh thei be bonde, yit verray men thei be. <MILESTONE N="1149"/></L>
+<L>That *the<HI REND="italic">i</HI> be men, than ay remembr<HI REND="italic">e</HI> the <NOTE PLACE="foot">1150 <HI REND="italic">the</HI> C</NOTE></L>
+</LG>
+<LG N="164">
+<HEAD>CLXIV. <MILESTONE N="IV. 45"/></HEAD>
+<L>Thi first fortune receyve withe reedynesse;</L>
+<L>Refuse it nat, thouh it be scant and smalle. <MILESTONE N="1152"/></L>
+<L>It is wele bettir in gree to take the lesse,</L>
+<L>Than refuse it and aftir faile of alle.</L>
+<L>Yiftis of fortune take them as thei falle. <MILESTONE N="1155"/></L>
+<L>Forsake hem nowe, and efte thou shalt *h<HI REND="italic">au</HI>e neede. <NOTE PLACE="foot">1156 <HI REND="italic">hem</HI> C Hb, <HI REND="italic">them</HI> Cp, f. M E</NOTE></L>
+<L>Tyme is to take, whan men p<HI REND="italic">ro</HI>fere and beede.</L>
+</LG>
+<LG N="165">
+<HEAD>CLXV. <MILESTONE N="111r" UNIT="fol."/> <MILESTONE N="IV. 46"/></HEAD>
+<L>Reioyse thou neu<HI REND="italic">er,</HI> my child, in al thi lyve <MILESTONE N="1158"/></L>
+<L>The sodeyn dethe of a cursid man and wrecche.</L>
+<L>Whan he is deede, the soule may nat revive;</L>
+<L>Fro peyne to ioye that spirit may nat strecche; <MILESTONE N="1161"/></L>
+<L>The feendis holdyn so sore, that thei may kecche.</L>
+<L>Who lyuethe wele, ful wele eeke deyethe he;</L>
+<L>That soule is sykir of grete felicite. <MILESTONE N="1164"/></L>
+</LG>
+<LG N="166">
+<HEAD>CLXVI. <MILESTONE N="IV. 47"/></HEAD>
+<L>Iff thou haue a wiffe in assurau<HI REND="italic">n</HI>ce,</L>
+<L>Than trust hir weele and love hir inwardlye</L>
+<L>Withe herte and thouht and al thyn affiau<HI REND="italic">n</HI>ce. <MILESTONE N="1167"/></L>
+<L>Be nat infecte with suspecte ielousye.</L>
+<L>Iff no deffaute in hir thou kanst espye</L>
+<L>And if thi freend telle the, suche is the *<HI REND="italic">f</HI>ame, <MILESTONE N="1170"/> <NOTE PLACE="foot">1170 <HI REND="italic">same</HI> C R</NOTE></L>
+<L>He is a freend and she nothyng to blame.</L>
+</LG>
+<LG N="167">
+<HEAD>CLXVII. <MILESTONE N="IV. 48"/></HEAD>
+<L>Whan thoruh stody and longe excersyce</L>
+<L>Thou knowest mochil and hast grete konnyng, <MILESTONE N="1173"/></L>
+<L>Yit do thy diligence in besy wyse</L>
+<L>More to konne; it is an holsom thyng.</L>
+<L>To grete hono<HI REND="italic">ur</HI> konnyng may the bryng. <MILESTONE N="1176"/></L>
+<L>And ay eschewe nat for to be tawhte.</L>
+<L>Withoute techyng science wol nat be kawhte.</L>
+</LG>
+<LG N="168">
+<HEAD>CLXVIII. <MILESTONE N="111v" UNIT="fol."/> <MILESTONE N="IV. 49"/></HEAD>
+<L>And if thou ouht m<HI REND="italic">er</HI>uayle and lest to muse, <MILESTONE N="1179"/> <NOTE PLACE="foot">1179 <HI REND="italic">lest</HI> C Hc, <HI REND="italic">lust ν</HI> E Ad, <HI REND="italic">lystene</HI> Hb, <HI REND="italic">list</HI> oder <HI REND="italic">lyste</HI> übr.</NOTE></L>
+<L>In nakid *woord<HI REND="italic">is,</HI> why my verse I write, <NOTE PLACE="foot">1180 <HI REND="italic">woord τ</HI> R</NOTE></L>
+<L><PB N="34" REF="36"/>
+In no wise I may me bettir excuse,</L>
+<L>Than sey: my witt so dul and vnp<HI REND="italic">ar</HI>fite <MILESTONE N="1182"/></L>
+<L>Artith me thus rudely for tendite.</L>
+<L>Bi too and too my metre for to knytte</L>
+<L>Nat causethe me but sympilnesse of witte. <MILESTONE N="1185"/></L>
+</LG>
+</DIV2>
+<TRAILER>Ex<HI REND="italic">pli</HI>cit s<HI REND="italic">ecundu</HI>m M<HI REND="italic">agist</HI>r<HI REND="italic">u</HI>m Benedic<HI REND="italic">tu</HI>m c<HI REND="italic">re</HI>do <HI REND="italic">[?] De. b. [oder</HI> v <HI REND="italic">oder</HI> s]</TRAILER>
+<TAILNOTE><P>Kolophon: <HI REND="italic">Explicit Cato <HI REND="italic">x,</HI> Explicit hic Cato dans castigamina nato</HI> F A Y (in F folgt noch: <HI REND="italic">Iste Cato erat unus .vij. prudenciu</HI>m <HI REND="italic">Rome, Cato et Plato et c</HI>etera. <HI REND="italic">Detur pro penna scriptori pulcra pu</HI> [i. e. <HI REND="italic">puella].</HI> T. E. J. Þ.), <HI REND="italic">Explicit liber Catonis</HI> H Hb Ha M λ (in Ha dahinter noch <HI REND="italic">transpositus in Anglicum;</HI> in Hc: <HI REND="italic">Explicet liber Catonys</HI> c<HI REND="italic">o</HI>m<HI REND="italic">pos</HI>i<HI REND="italic">t</HI>us <HI REND="italic">per Mag</HI>ist<HI REND="italic">r</HI>u<HI REND="italic">m Benedyctu</HI>m <HI REND="italic">Boruh, vicarius de Maldou</HI>n <HI REND="italic">in Essex;</HI> in Hf dahinter noch: <HI REND="italic">composit</HI>us <HI REND="italic">p</HI>er <HI REND="italic">Magi</HI>s<HI REND="italic">tr</HI>u<HI REND="italic">m B</HI>e<HI REND="italic">n</HI>e<HI REND="italic">dictu</HI>m <HI REND="italic">Burgh, vicarium de Maldou</HI>n <HI REND="italic">et c</HI>eter<HI REND="italic">a;</HI> in M noch: <HI REND="italic">quod scripci</HI> [sic!] <HI REND="italic">da michi quod merui.</HI> G.U.P.), <HI REND="italic">Thus endith Catou</HI>n <HI REND="italic">þat noble</HI> and <HI REND="italic">worthi clerke, as here it shewith by his co</HI>m<HI REND="italic">mendable werke</HI> G, <HI REND="italic">Pars quarta et vltima</HI> Cp, fehlt übr.</P></TAILNOTE>
+</DIV1>
+<DIV1 TYPE="glossary">
+<P>Lexikalisch verdienen folgende Wörter unseres Textes Beachtung, die zumeist frühere Belege bieten als das Oxford Dictionary (O D). Die we∣nigen dort, d. h. in den bisher veröffentlichten Teilen, noch nicht ver∣zeichneten Wörter, Formvarianten oder Bedeutungen sind mit einem Kreuz versehen. <NOTE N="1" PLACE="foot">Die hier gemachten Zusammenstellungen haben in erster Linie den Zweck, Ergänzungen zu diesem nicht genug zu bewundernden Riesenwerke zu geben und dadurch dem jedenfalls einst notwendig werdenden Supplemente vorzuarbeiten. Da, wo das Oxford Dictionary nicht zum Vergleich vorlag, habe ich solche Wörter notiert, die ich im Mittelenglischen sonst nicht oder nur einmal nachweisen konnte, mochten sie im Neuenglischen auch noch so bekannt sein.</NOTE></P>
+<P><HI REND="italic">Accombraunce</HI> 837 (Var.: <HI REND="italic">encombraunce δ</HI> M <HI REND="italic">v, incumbraunce χ, combe∣raunce</HI> A<HI REND="italic">κ</HI> Hc D) 'Beschwerung, Belästigung'; im O D zweimal seit 1489 (Caxton) belegt.</P>
+<P><HI REND="italic">available</HI> 153 (Var.: <HI REND="italic">vailable</HI> H C Fc, <HI REND="italic">vaileable</HI> F A Fb), <HI REND="italic">aduaylable</HI> 888, an letzterer Stelle synonym mit <HI REND="italic">profitable</HI> gebraucht, also 'nützlich' be∣deutend; in diesem Sinne seit 1474 (Caxton).</P>
+<P><HI REND="italic">aggregge</HI> 408 (Var.: <HI REND="italic">aggruggith</HI> C H Hb A Cp <HI REND="italic">χ; engreggith</HI> G Hf He D; <HI REND="italic">encrochith</HI> M, <HI REND="italic">engroccheth, σ, ingrogit</HI> Fc, <HI REND="italic">engrechith</HI> Y Hc), trans. †'nieder∣drücken' <HI REND="italic">(whan dreede of dethe a man so aggreggithe).</HI> Diese Bedeutung fehlt in O D; doch ist die daraus abgeleitete intransitive Bedeutung 'to be heavy, to be weighed down' aus Gower daselbst belegt.—Die Va∣riante <HI REND="italic">aggrugge</HI> gehört zu ne. <HI REND="italic">aggrudge</HI> 'to grumble' (O D seit 1470), muss aber hier faktitive Bedeutung haben, etwa †'to annoy, dissatisfy', wie sie auch das im Promptorium Parvulorum (O D) belegte Partz. <HI REND="italic">aggroggyd</HI> 'aggravatus' verlangt.—Die zu ne. <HI REND="italic">encroach</HI> zu ziehende Variante <HI REND="italic">en∣groccheth</HI> ist als frühester Beleg zu notieren, da O D diese Form erst aus dem 16. Jahrh. kennt. Die beiden anderen Kontaminationsformen, <HI REND="italic">ingroge</HI> und <HI REND="italic">engreche,</HI> fehlen O D.</P>
+<P><HI REND="italic">aggrugge</HI> s. <HI REND="italic">aggregge.</HI></P>
+<P><HI REND="italic">arable</HI> 350 (Var.: <HI REND="italic">areable</HI> Cp, <HI REND="italic">erable</HI> Db <HI REND="italic">χ)</HI> 'beackerbar' (O D seit 1577 Tusser).</P>
+<P><HI REND="italic">a-sethe</HI> 562 (Var.: <HI REND="italic">feith</HI> Hf, <HI REND="italic">seethe</HI> Hc; <HI REND="italic">aseth</HI> He A, <HI REND="italic">a sethe</HI> übr.) in <HI REND="italic">Hope</HI> . . . <HI REND="italic">Shal make the a sethe</HI> 'dir Genüge tun, Vergeltung schaffen'. Wenngleich auch sonst öfter das Präfix <HI REND="italic">a</HI>- getrennt geschrieben wird, so scheint doch das Übereinstimmen fast aller Handschriften (nur He und A schreiben <HI REND="italic">aseth</HI> zusammen) darauf hinzudeuten, dass in diesem Falle <HI REND="italic">a</HI>
+<PB N="35" REF="37"/>
+als unbestimmter Artikel und <HI REND="italic">sethe</HI> als die Form des Substantivs empfun∣den wurde. Geradezu beweisend für diese Auffassung ist das Vorkom∣men von <HI REND="italic">no sethe</HI> 936 (Var.: <HI REND="italic">no feith</HI> Hf, <HI REND="italic">nothyng</HI> H, <HI REND="italic">not</HI> Db) in <HI REND="italic">is no sethe greable,</HI> im Sinne einer starken Negation etwa 'keineswegs'. (O D belegt unter <HI REND="italic">assyth</HI> ein schott. <HI REND="italic">na syth</HI> 'keineswegs' um 1600.) <HI REND="italic">No sethe</HI> ist zu <HI REND="italic">a sethe</HI> offenbar nach Analogie von <HI REND="italic">no del: a del</HI> usw. gebildet. Im Lichte dieser Tatsache ist nun wohl auch das in der Handschrift Hc und in den Paston Letters (O D) erscheinende <HI REND="italic">seethe</HI> anders zu beurteilen, bei dem man sonst einfach Aphäräse des <HI REND="italic">a</HI>- anzunehmen geneigt sein könnte.</P>
+<P><HI REND="italic">attentyfnesse</HI> 765 'Aufmerksamkeit' (Var.: <HI REND="italic">ententyfnes</HI> R A Hc); O D belegt das Substantiv erst seit 1549, das Adverb <HI REND="italic">attentifly</HI> aber schon aus Wyclif. Die Variante †<HI REND="italic">ententyfnes</HI> entspricht dem ne. <HI REND="italic">intentiveness</HI> 'clo∣seness of attention', welches O D seit 1561 nachweist.</P>
+<P>†<HI REND="italic">awite</HI> He C σ 649 'tadeln, einem zum Vorwurf machen, einem die Schuld wofür zuweisen' (Var.: <HI REND="italic">a wyȝt</HI> Hb; <HI REND="italic">atwyte</HI> H R, <HI REND="italic">attwyte</HI> F; <HI REND="italic">wyte</HI> A Cp ν κ ζ;—<HI REND="italic">a wayt</HI> Hc). Ein Verbum <HI REND="italic">awite</HI> 'tadeln' fehlt O D, dagegen steht es bei Mätzner. Allerdings ist von Mätzners zwei Belegen der eine abzulehnen; denn die Shoreham - Stelle (ed. Konrath S. 94, V. 248) ver∣langt die Bedeutung 'rächen, vergelten', so dass hier sicher mit Kölbing das überlieferte <HI REND="italic">awyte</HI> in <HI REND="italic">acwyte</HI> zu ändern ist. Der zweite dort angeführte Beleg stammt aus <HI REND="italic">Stans puer ad mensam</HI> V. 28, wo das Jesus - Ms. 56 (Rel. Ant. I 157) <HI REND="italic">awite</HI> hat, andere Handschriften aber <HI REND="italic">attwite</HI> (Hazlitt E. Pop. Poet. III 25) oder <HI REND="italic">edwite</HI> (Furnivall, Babees Book, S. 29) lesen. Der letzteren Lesarten wegen hat O D die Form des Jesus-Ms. offenbar als Schreibfehler angesehen und darum <HI REND="italic">awite</HI> nicht aufgenommen. Nach∣dem aber an unserer Cato-Stelle sechs zu verschiedenen Gruppen gehörige Handschriften ein <HI REND="italic">awite</HI> bezeugen, wird an der Existenz einer solchen Nebenform kaum mehr zu zweifeln sein. Natürlich handelt es sich um Präfix-Vertauschung oder -Reduktion zu me. <HI REND="italic">atwite,</HI> ae. <HI REND="italic">aetwitan:</HI> zeigt doch das Spätmittelenglische eine starke Neigung, <HI REND="italic">a</HI>- nicht nur für <HI REND="italic">on-, of-, and-, ge</HI>- eintreten zu lassen, sondern auch für <HI REND="italic">up- (abraid</HI> 980), <HI REND="italic">en- (accombrance</HI> 837) u. dgl. m. Vergl. übrigens auch ne. <HI REND="italic">ado</HI> und <HI REND="italic">adoors</HI> (V. 726 lesen alle Handschriften <HI REND="italic">atwyte,</HI> nur <HI REND="italic">κ edwyte).</HI></P>
+<P><HI REND="italic">Beer</HI> 958 'Bahre': †<HI REND="italic">to be leid on beer</HI> 'zu Grabe getragen werden', dann hier fig. von bösen Lüsten 'aufgegeben werden'; vgl. O D <HI REND="italic">to bring on bier</HI> seit 1480.</P>
+<P><HI REND="italic">berde</HI> 722 'Bart': †<HI REND="italic">caste in thy berde</HI> 'dir ins Gesicht schleudern'.</P>
+<P><HI REND="italic">Casuel</HI> 274: <HI REND="italic">it is a casuel</HI> 'es ist ein Zufall'; frühester Beleg für die Substantivierung des Adjektivs (Einenkel, Streifzüge, S. 30), die O D seit 1566 bezeugt.</P>
+<P><HI REND="italic">chynche</HI> 787 'geizen': <HI REND="italic">the nygard chincheth</HI> in Hb Db (in den übrigen Handschriften ist <HI REND="italic">chynche</HI> 'Geizhals' Substantiv). Das Verbum ist bisher (O D) nur aus dem Prompt. Parv. und einer Handschrift des Piers Plow∣man bekannt. Die Variante <HI REND="italic">chinge</HI> G ist bisher ungebucht; vgl. dazu O. Ritter im <HI REND="italic">Archiv</HI> CXV 174.</P>
+<P><HI REND="italic">conclude</HI> 677 'folgern' mit prädikativem Adjektiv: <HI REND="italic">to conclude the body vnapte.</HI> In dieser Konstruktion bisher erst seit 1628 nachgewiesen, doch mit prädikativem Substantiv schon seit 1512.</P>
+<P><HI REND="italic">consumyng</HI> 357 'zehrend' (von Kräutern) im Gegensatz zu <HI REND="italic">nutritive.</HI> In diesem medizinischen Sinne ist sowohl das Verbaladjektiv wie das Ver∣bum bisher erst aus dem 17. Jahrh. belegt.</P>
+<P><HI REND="italic">cros ne pile</HI> 718: <HI REND="italic">Sum man . . . that hathe nouthir cros ne pile</HI> 'weder Vorderseite noch Rückseite einer Münze', d. h. 'gar kein Geld'. Diese Form kennt O D erst seit 1584, jedoch <HI REND="italic">pill ne crouche</HI> schon aus Gower.</P>
+<P><HI REND="italic">cryminous</HI> 745 'eines Verbrechens schuldig', so von Personen seit 1535 (O D).</P>
+<P><HI REND="italic">Deffectyfe</HI> 960 'unvollkommen'; frühester Beleg bisher 1472.</P>
+<P><PB N="36" REF="38"/>
+†<HI REND="italic">delaviaunce</HI> 69 (Var.: <HI REND="italic">delevyance</HI> Hf, <HI REND="italic">delauans</HI> M;—<HI REND="italic">daliaunce</HI> A Cp <HI REND="italic">ν</HI> Hc E Fc <HI REND="italic">φ).</HI> Die zuletzt genannte Variante, welche dem ne. <HI REND="italic">dalliance</HI> 'Tändelei' entspricht, passt metrisch und inhaltlich nicht recht in den Zu∣sammenhang, da das <HI REND="italic">delaviaunce of woord eschewe</HI> parallel mit <HI REND="italic">to be stille and keep thi tonge in mewe</HI> steht und ein lateinisches <HI REND="italic">compescere linguam</HI> und <HI REND="italic">tacere</HI> Dist. I 3 wiedergibt. Dagegen ist metrisch nichts einzuwenden gegen das durch 13 Handschriften gesicherte <HI REND="italic">delaviaunce.</HI> Ein solches Wort fehlt nun zwar bisher in unseren Wörterbüchern, ist aber leicht als Ab∣leitung zu dem me. ne. <HI REND="italic">delavy</HI> 'überströmend' › 'unmässig' zu erklären. Obendrein findet sich ein zu demselben Worte gehöriges Substantiv <HI REND="italic">delavi∣ness</HI> 'Unmässigkeit', das ebenso in Bezug auf das Sprechen gebraucht wird (z. B. bei Wyclif: <HI REND="italic">dilavynesse of tunge)</HI> wie unser <HI REND="italic">delaviaunce.</HI> Letzteres wird daher die gleiche Bedeutung haben, nämlich 'Masslosigkeit'.</P>
+<P><HI REND="italic">delyueraunce</HI> 571 (Var.: <HI REND="italic">deliberaunce ν</HI> C <HI REND="italic">κ</HI>). Das me. <HI REND="italic">deliveraunce</HI> 'Be∣freiung' passt mit keiner der im O D angeführten Bedeutungen in den Zusammenhang unserer Stelle, die ein lateinisches <HI REND="italic">Quod sequitur specta quodque imminet ante videto</HI> (Dist. II 27) wiedergibt. Dagegen würde sehr gut passen die Bedeutung, die sonst ne. <HI REND="italic">deliberation</HI> (lat. deliberatio) hat, nämlich 'Überlegung, 'Erwägung'. Dass wir tatsächlich ein me. <HI REND="italic">deliveraunce</HI> mit der Bedeutung 'Erwägung' erwarten dürfen, wird uns klar, wenn wir sehen, dass es im Mittelenglischen auch ein Verbum <HI REND="italic">deliver</HI> mit der Be∣deutung 'erwägen' gab (6 Belege in O D). Für dieses galt ursprünglich die Form <HI REND="italic">deliber.</HI> Es gingen aber offenbar ne. <HI REND="italic">deliber</HI> 'erwägen' und <HI REND="italic">de∣liver</HI> 'befreien' im 15. und 16. Jahrh. durcheinander; und wie man <HI REND="italic">deliver</HI> in der Bedeutung 'erwägen' gebrauchte, fasste man auch <HI REND="italic">deliveraunce</HI> als Ableitung davon als 'Erwägung'. Caxton und der Schreiber von <HI REND="italic">ν</HI> fühlten die Zugehörigkeit zu <HI REND="italic">deliber</HI> und schrieben dafür <HI REND="italic">deliberaunce</HI> mit <HI REND="italic">b.</HI></P>
+<P><HI REND="italic">distanye</HI> C 468 (Var.: <HI REND="italic">destany</HI> D E, <HI REND="italic">destenye</HI> δ σ Hf He Ad, <HI REND="italic">destynye</HI> übr.) ist als neue Formvariante zu <HI REND="italic">destiny</HI> zu buchen.</P>
+<P><HI REND="italic">do</HI> 393: die Phrase <HI REND="italic">to do for</HI> 'to act in behalf of' ist bisher erst seit 1523 belegt.</P>
+<P><HI REND="italic">Egal</HI> 752 'unparteiisch'; diese Bedeutung belegt O D zuerst aus Shak∣spere; <HI REND="italic">equal</HI> erscheint dort etwas früher so (1535).</P>
+<P><HI REND="italic">ell</HI> oder, wenn man dem oft und ganz willkürlich verwendeten Strich durch <HI REND="italic">ll</HI> eine Bedeutung beimessen will, <HI REND="italic">elle</HI> liest die Handschrift C deut∣lich an zwei Stellen (204 und 532), ausserdem an der zweiten Stelle auch der Caxtonsche Druck. Die übrigen Handschriften haben <HI REND="italic">elles, ellis, ellys</HI> oder <HI REND="italic">els.</HI> Die Form ohne -<HI REND="italic">s</HI> ist auch sonst noch zweimal überliefert, näm∣lich einmal <HI REND="italic">el</HI> in einer Handschrift (Harl. 201) von Robert of Gloucester, V. 9258 (Var. <HI REND="italic">elles),</HI> und bei John Maundeville (O D). Das Oxf. Dict. versieht nun zwar beide Formen mit Fragezeichen und scheint also ge∣neigt, sie als Schreibfehler aufzufassen. Angesichts der drei neuen Belege (oben) müssen wir ihr aber wohl Existenzberechtigung zuerkennen. Auch ist eine solche Nebenform keineswegs auffallend, wenn man bedenkt, wie stark im Mittelenglischen die Neigung herrscht, bei allen Adverbien Doppel∣formen mit oder ohne -<HI REND="italic">es</HI> zu gebrauchen; nur dass, während sonst -<HI REND="italic">s</HI> ana∣logisch angefügt wird, hier nach Analogie der <HI REND="italic">s</HI>-losen Formen dasselbe irrig unterdrückt ist.</P>
+<P><HI REND="italic">enable</HI> 152 absol. 'bestärken', in diesem Sinne bisher seit 1534 belegt.</P>
+<P><HI REND="italic">engreche</HI> siehe <HI REND="italic">aggregge.</HI></P>
+<P><HI REND="italic">engroche</HI> siehe <HI REND="italic">aggregge.</HI></P>
+<P><HI REND="italic">enrolle</HI> 841 'einprägen', in dieser fig. Bedeutung bisher zuerst bei Pals∣grave (1530) nachgewiesen.</P>
+<P><HI REND="italic">ententyfness</HI> siehe <HI REND="italic">attentyfness.</HI></P>
+<P><HI REND="italic">entrete</HI> 750 'to beseech, implore' mit dem Akk. der Person; so seit 1502 belegt.</P>
+<P><HI REND="italic">excessifly</HI> 789 Adv. 'verschwenderisch' (O D seit 1552).</P>
+<P><PB N="37" REF="39"/>
+<HI REND="italic">Ferfulnesse</HI> 796: <HI REND="italic">dethe is eend of ferfulnesse</HI> = lat. <HI REND="italic">finis malorum,</HI> Dist. III 22, also objektiv 'dreadfulness, der Schrecken'. O D belegt diese Grundbedeutung seit Coverdale 1535.</P>
+<P><HI REND="italic">freendlynesse</HI> 928 (O D seit Caxton 1490).</P>
+<P><HI REND="italic">Gare</HI> siehe <HI REND="italic">gawre.</HI></P>
+<P><HI REND="italic">gawre</HI> 656 (Var.: <HI REND="italic">gaure</HI> F Hb D Hc Ht, <HI REND="italic">gare</HI> Cp;—<HI REND="italic">gaule</HI> R, <HI REND="italic">gawle</HI> Fb;—<HI REND="italic">gnare</HI> M): <HI REND="italic">we may nat lette the peple to gawre and crye</HI> = lat. <HI REND="italic">ar∣bitrii non est nostri, quid quisque loquatur,</HI> Dist. III 2. Da von dem übeln Gerede der Leute die Rede ist, passt die ursprüngliche Bedeutung 'to stare, to gape' (O D) hier nicht; es wird vielmehr, parallel zu <HI REND="italic">crye,</HI> die abge∣leitete 'to shout or cry' hier vorliegen, die das O D zuerst aus Palsgrave (1530) nachweist.—Ein Synonymon dazu ist offenbar das durch zwei Handschriften vertretene <HI REND="italic">gaule, gawle—</HI>hier absolut und intransitiv ge∣braucht, während es in dem einzigen Belege <NOTE N="1" PLACE="foot">Häufiger belegt ist das damit identische me. <HI REND="italic">goulen</HI> (s. O D unter <HI REND="italic">gowl;</HI> Björkman, Scandinavian Loanwords I 69).</NOTE> des O D aus Greene (1592) transitiv erscheint. (Die dort mit Fragezeichen gegebene Bedeutung 'to bawl out' wird also durch unsere Stelle bestätigt).—Die dritte Variante <HI REND="italic">gnare</HI> (M) hat einen etwas abweichenden Sinn: 'knurren, brummen'. Sie ist als frühester Beleg (O D seit 1496) besonders zu vermerken.—Das <HI REND="italic">gare</HI> end∣lich des Coplandschen Druckes (1557) ist eine (wohl phonetische) Schrei∣bung für <HI REND="italic">gawre,</HI> welche O D auch aus Phaer (1558) und Twyne (1579) belegt.—Das gleiche gilt für V. 435: <HI REND="italic">Make nat all men on it to gaur and crye</HI> (Var.: <HI REND="italic">gaule</HI> R, <HI REND="italic">gnare</HI> M, <HI REND="italic">gare</HI> Cp), nur dass hier noch zwei weitere Varianten hinzukommen: <HI REND="italic">gavne</HI> G und <HI REND="italic">glauere</HI> Ad. Letzteres ist natürlich das bekannte me. ne. <HI REND="italic">glaver</HI> 'schwatzen'. <HI REND="italic">Gavne</HI> wird wohl für <HI REND="italic">gaune</HI> stehen und dem im O D einmal aus Googe (1563) belegten ne. <HI REND="italic">gawne</HI> entsprechen, das ich als Nebenform zu ne. <HI REND="italic">yawn</HI> 'den Mund aufmachen, gaffen' ziehen möchte. Mit der letzteren Bedeutung würden wir sehr wohl an unserer zweiten Cato-Stelle auskommen, da es sich hier um den Gegensatz von 'Verschweigen' und 'Bekanntmachen' handelt. Doch sei darauf hingewie∣sen, dass ne. dial. <HI REND="italic">yawn</HI> neben 'gaffen' auch die Bedeutung 'schreien' (Wright) hat, die wir also auch für unser obiges <HI REND="italic">gavne</HI> annehmen können.</P>
+<P><HI REND="italic">gawle</HI> siehe <HI REND="italic">gawre.</HI></P>
+<P><HI REND="italic">gavne</HI> siehe <HI REND="italic">gawre.</HI></P>
+<P><HI REND="italic">gnare</HI> siehe <HI REND="italic">gawre.</HI></P>
+<P><HI REND="italic">gouerment</HI> C H A <HI REND="italic">κ</HI> 576 (Var.: <HI REND="italic">gouernament</HI> F Hc, <HI REND="italic">gouernaunce</HI> M, <HI REND="italic">re∣gement</HI> D, <HI REND="italic">gouernement</HI> übr.) ist eine Nebenform zu <HI REND="italic">gouvernment,</HI> die O D erst aus dem 16. Jahrh. kennt. Das Wort hat hier seine Grundbedeutung 'control, rule', die O D zuerst aus Alday (c. 1566) nachweist. Übrigens bildet unsere Cato-Stelle das bisher früheste Beispiel für das Vorkommen des Wortes überhaupt.</P>
+<P><HI REND="italic">Hastyfly</HI> G He 790 (Var.: <HI REND="italic">hastly</HI> C R, <HI REND="italic">hastyly</HI> oder <HI REND="italic">hastely</HI> übr.) kommt als dritter zu den bisherigen zwei Belegen (14. Jahrh.) hinzu.</P>
+<P><HI REND="italic">herbeire</HI> 818 'Blumengarten' (Var.: <HI REND="italic">herbere</HI> C M <HI REND="italic">ν ζ, erbayre</HI> Ad). Die hier durch den Reim auf <HI REND="italic">ayr, fayr, repeir</HI> gesicherte Nebenform auf -<HI REND="italic">eire (herbeire</HI> und <HI REND="italic">erbayre)</HI> wäre in O D unter <HI REND="italic">arbour</HI> hinzuzufügen.</P>
+<P><HI REND="italic">hertynesse</HI> 1141 (Var.: <HI REND="italic">hartynesse</HI> Hb Ha, <HI REND="italic">hertlynesse</HI> χ) 'Herzlichkeit'. Die Form <HI REND="italic">hertyness</HI> ist bisher erst seit Palsgrave (1530) belegt.</P>
+<P><HI REND="italic">Ingroge</HI> siehe <HI REND="italic">aggregge.</HI></P>
+<P><HI REND="italic">inheritaunce</HI> 721 'das Erbe' als Gegenstand (so O D seit 1473).</P>
+<P>† <HI REND="italic">Jayissh</HI> 116 C Cp (Var.: <HI REND="italic">jayeshe</HI> Hb E D, <HI REND="italic">iayes</HI> Pm, <HI REND="italic">iaishe</HI> H, <HI REND="italic">jaysche</HI> He, <HI REND="italic">jasche</HI> Ad, <HI REND="italic">iaiscy</HI> F;—<HI REND="italic">jangleyng</HI> σ;—<HI REND="italic">rasshe</HI> A ω;—<HI REND="italic">ragisshe</HI> Fc). Ein Adjektiv <HI REND="italic">jayish</HI> findet sich in keinem Wörterbuche aufgeführt. An unserer Stelle nimmt ein <HI REND="italic">such jayissh folk</HI> ein vorausgehendes <HI REND="italic">wordy folk</HI> (= lat. <HI REND="italic">verbosos,</HI> Dist. I 10) wieder auf, muss also mit ihm annähernd sy∣nonym
+<PB N="38" REF="40"/>
+sein. Daraus ergibt sich die Bedeutung 'geschwätzig, plappernd'. Zu dieser können wir auch auf etymologischem Wege gelangen, wenn wir das Adjektiv als Ableitung zu ne. <HI REND="italic">jay</HI> (1) 'Häher, Elster', (2) 'an imperti∣nent chatterer' (O D) ziehen, natürlich an die zweite Bedeutung anknüp∣fend. Diese letztere Bedeutung ist nun zwar bisher erst seit Skelton (1523) nachgewiesen; doch dass die Geschwätzigkeit der Elster schon damals in England sprichwörtlich war, zeigen sowohl die beiden Erzählungen, die Wright, Homes of Other Days, London 1871, S. 253 ff., aus dem 'Cheva∣lier de la Tour-Landry' und den 'Seven Sages' anführt, wie zahlreiche Stellen bei Schriftstellern, wie z. B.: <HI REND="italic">thou janglest as a jay,</HI> Chaucer C. T. B. 774; <HI REND="italic">they mowe wel chiteren, as doon these jages,</HI> Chaucer C. T. G. 1397; <HI REND="italic">clappe and iangle foorth, as dooth a iay,</HI> Hoccleve Bal. to Henry V. 37; <HI REND="italic">the iay iangled them amonge,</HI> Squyr of Lowe Degre V. 51 (O D); <HI REND="italic">like a jay jangelyng in his cage,</HI> Lydgate, Minor Poems, S. 165; <HI REND="italic">thei cheteryn and chateryn, as they jays were,</HI> Coventry Myst. S. 382; <HI REND="italic">to jangle as a jay,</HI> La Belle Dame sans merci (ed. Skeat) V. 744; <HI REND="italic">he jangleth as a jay,</HI> Plowmans Tale V. 792; <HI REND="italic">as jangelynge as a jay,</HI> Russells Boke of Nurture V. 36 (Babees Book p. 119) usw. Alles dies spricht dafür, dass wir ein neues Adjektiv <HI REND="italic">jayish</HI> 'geschwätzig' für das Wörterbuch notieren dürfen. In der Variante <HI REND="italic">iayes</HI> (Pm) haben wir die nördliche Form des Suffixes -<HI REND="italic">ish</HI> vorliegen. Die Nebenformen <HI REND="italic">iaishe, jaysche</HI> sind zu vergleichen mit dem <HI REND="italic">prayng</HI> des Catholicon Anglicum, S. 289: Kontraktion oder Haplo∣graphie. Das gleiche gilt wohl von <HI REND="italic">jasche</HI> (mit schott. Schreibung?), das wohl schwerlich mit Douglas' <HI REND="italic">jasche</HI> 'a noise' (O D) und schottischem <HI REND="italic">jass</HI> (Wright) zusammenhängt. Schwieriger ist das <HI REND="italic">iaiscy</HI> (oder <HI REND="italic">iaisey?)</HI> der sonst sehr sorgfältigen Handschrift F zu deuten, wenn es auch wohl sicher ebenfalls zu <HI REND="italic">jay</HI> gehört. Sollte hier vielleicht ein falsch abgetrenntes Suffix -<HI REND="italic">cy</HI> | -<HI REND="italic">sy</HI> vorliegen (vgl. ne. <HI REND="italic">icy, fleacy, spicy, juicy, sluicy, saucy),</HI> wofür ich freilich sonst kein Beispiel weiss? Oder sollte man, wie bei ne. dial. <HI REND="italic">jawsy</HI> 'talkative' (Wright) zu <HI REND="italic">jaws</HI> 'Kinnbacken', vom Plural <HI REND="italic">jays</HI> aus∣gehen müssen?—Die Variante <HI REND="italic">jangleyng</HI> 'schwatzend' ist ein wohlbe∣kanntes Synonymon.—Einen abweichenden Sinn aber hat <HI REND="italic">rash</HI> 'vor∣schnell, voreilig, unbesonnen', das in A und <HI REND="italic">ω</HI> erscheint. Die Variante ist um so interessanter, als das Wort überhaupt nur zweimal (O D) in me. Zeit belegt ist und speziell in dem hier erforderlichen modernen Sinne erst seit 1558.—Das sonst unbezeugte <HI REND="italic">ragisshe</HI> von Fc erklärt sich wohl am ehesten entweder als direkte Ableitung zu <HI REND="italic">rage</HI> 'Wut' oder als Um∣gestaltung (Suffixvertauschung) von <HI REND="italic">ragious</HI> 'wütend, rasend'.</P>
+<P><HI REND="italic">iuparte</HI> 824 trans. 'to stake, to bet' (so O D seit 1470). Var.: <HI REND="italic">iupard, jubarte, jubard, joberd, gewparde, jeopard, gibarde, iebarde, ieparde.</HI></P>
+<P><HI REND="italic">Knack</HI> 690: <HI REND="italic">For even so riht as thou deprauyst hym, byhynde thy bakke</HI> | <HI REND="italic">Riht so wol men make the a mokke and a knakke</HI> = lat. <HI REND="italic">exemplo simili ne te derideat alter,</HI> Dist. III 7. Mithin ist <HI REND="italic">make the a mokke and a knakke</HI> annähernd synonym gebraucht mit <HI REND="italic">deprave</HI> 'schlecht machen'; und wer solches tut, heisst gleich darauf ein <HI REND="italic">skorner</HI> 'ein Spötter, Ver∣ächter'. Daraus ergibt sich, dass sowohl <HI REND="italic">mokke</HI> wie <HI REND="italic">knakke</HI> so etwas wie 'Gegenstand des Spottes' heissen muss, entsprechend dem latein. <HI REND="italic">derideat.</HI> Das O D führt nun ein Wort <HI REND="italic">knak</HI> mit der Bedeutung 'a taunt, gibe' auf, freilich nur mit Belegen aus schottischen Texten des 16. Jahrhunderts; ich zweifele aber nicht, dass dasselbe Wort mit derselben Bedeutung hier an unserer Cato-Stelle vorliegt.—Statt <HI REND="italic">mokke</HI> lesen C Hb E G D Fc <HI REND="italic">mowe</HI> und Cp He Hd <HI REND="italic">moppe.</HI> Beide Wörter bedeuten 'Grimasse, Fratze'. Diese Kopisten müssen auch <HI REND="italic">knakke</HI> in einer anderen, Bedeutung gefasst haben, jedenfalls der gewöhnlichen von 'Posse, Streich'.</P>
+<P><HI REND="italic">Leve</HI> 739: <HI REND="italic">to take leve</HI> 'Lebewohl sagen' › 'fortgehen, schwinden' (von der menschlichen Kraft gesagt); so im fig. Sinne bisher seit Dunbar (1500) belegt.</P>
+<P><PB N="39" REF="41"/>
+<HI REND="italic">lofte</HI> 165: <HI REND="italic">to crye on lofte,</HI> im Gegensatz zu <HI REND="italic">speke soft,</HI> kann nur heissen 'laut schreien', eine Bedeutung, die unter <HI REND="italic">aloft</HI> im O D fehlt, aber unter <HI REND="italic">loft</HI> mit zwei Belegen aus 'Aunters of Arthur' und 'Golagros' nachgeholt wird. Ob die Stelle aus Purchas' Pilgrimage (1613) <HI REND="italic">Speake aloft and prowdley,</HI> wo O D die sonst nicht nachweisbare Bedeutung 'in a lofty tone, loftily' annimmt, nicht auch hierher zu ziehen ist?</P>
+<P><HI REND="italic">long</HI> 684: †<HI REND="italic">at the longe</HI> 'schliesslich, d. h. auf die Dauer, auf die Länge; nichts genau Entsprechendes in O D.</P>
+<P><HI REND="italic">Mis</HI> 657: <HI REND="italic">if thei sey mys, thei lye,</HI> parallel zu <HI REND="italic">maligne;</HI> mithin <HI REND="italic">to sey mys</HI> 'übelreden, verleumden', was für me. <HI REND="italic">misseggen</HI> mehrfach belegt. Weitere Beispiele für diese Abtrennung der Verbalpartikel stellt Mätzner unter <HI REND="italic">mis</HI> zusammen. Dazu Sidney-Cato V. 468 (Engl. Stud. 36, 40): <HI REND="italic">If þou . . . misse þe gouerne.</HI></P>
+<P><HI REND="italic">modifie</HI> 1035 'mässigen'.</P>
+<P><HI REND="italic">myserous</HI> 469 'unglücklich'.</P>
+<P><HI REND="italic">mokke, moppe, mowe</HI> siehe <HI REND="italic">knakke.</HI></P>
+<P><HI REND="italic">Noysaunce</HI> 619 'Übel, Schaden'; auch Partenay V. 401 (Str.-Br.).</P>
+<P><HI REND="italic">noysaunt</HI> 723, parallel mit <HI REND="italic">ful of greuance,</HI> gehört offenbar zu dem∣selben Stamme und wird 'schädlich, lästig' heissen; vergl. me. <HI REND="italic">noyous</HI> 'troublesome'.</P>
+<P><HI REND="italic">nutrytive</HI> 617 subst. 'Nahrung, Nährmittel'.</P>
+<P><HI REND="italic">nyced</HI> 601 (Var.: <HI REND="italic">nysed</HI> M E <HI REND="italic">λ</HI> Y, <HI REND="italic">nyce</HI> F <HI REND="italic">ϑ ζ;—</HI><HI REND="italic">wanton</HI> Hb) in <HI REND="italic">any nyced fantasie</HI> muss 'närrisch geworden' heissen und wohl als Partz. zu me. <HI REND="italic">nisen</HI> 'to become foolish' (Gawain 1206 Str.-B.) gezogen werden.</P>
+<P><HI REND="italic">Officeless</HI> 1136 'ohne Amt', hier 'aus dem Amt'; in D O nur aus Cath. Angl. 1483 und Frasers Mag. 1834 belegt.</P>
+<P><HI REND="italic">ouerfreiht</HI> 855 (-<HI REND="italic">fraught</HI> Db, -<HI REND="italic">freht</HI> F) 'überladen' (vom Boot gesagt); bisher frühester Beleg aus Palsgrave (1530).</P>
+<P><HI REND="italic">ouerpeyntid</HI> 233 'übermalt', hier fig. (von der Rede = lat. <HI REND="italic">blando ser∣mone,</HI> Dist. I 27) 'geschmückt, geschminkt, schönfärberisch, schmeichle∣risch'; so in fig. Sinne bisher erst seit c. 1750 nachgewiesen, das Wort selbst seit 1611. Vgl. me. <HI REND="italic">to paint</HI> 'to feign, to fawn' (Beispiele in O D, dazu Burghs Cato 228, <HI REND="italic">with peyntid woord).</HI></P>
+<P><HI REND="italic">Part</HI> 231: †<HI REND="italic">no part</HI> 'keineswegs', fehlt O D; doch <HI REND="italic">some part</HI> 'to some extant, somewhat'.</P>
+<P><HI REND="italic">pecuniall</HI> 871: <HI REND="italic">whan thou hast plente and art pecuniall;</HI> das Wort muss also hier †'reich' bedeuten, wie sonst me. <HI REND="italic">pecunious,</HI> obschon O D nur die Bedeutungen 1) 'consisting of money', 2) 'pertaining to money' kennt.</P>
+<P><HI REND="italic">preignable</HI> 1080: <HI REND="italic">Aftir pouerte richesse is preignable</HI> heisst es, wo vom Wechsel des Schicksals die Rede ist; somit würde hier gut passen die Bedeutung 'wieder erhältlich, erlangbar'. (Für ne. <HI REND="italic">pregnable</HI> bieten die Wörterbücher nur die Bedeutung 'mit Gewalt einnehmbar'.)</P>
+<P><HI REND="italic">preseruatiffe</HI> 821 'konservierend, erhaltend'.</P>
+<P><HI REND="italic">processour</HI> 483 'der Prozessführer, Kläger'?</P>
+<P><HI REND="italic">progenytours</HI> 806 (Var: <HI REND="italic">prymogenitours</HI> Hb Hc) 'die Eltern'.</P>
+<P><HI REND="italic">Rasshe</HI> siehe <HI REND="italic">jayisshe.</HI></P>
+<P><HI REND="italic">ragish</HI> siehe <HI REND="italic">jayische.</HI></P>
+<P><HI REND="italic">regest</HI> 345 'einschreiben' › 'aufzeichnen' (O D erst seit 1520).</P>
+<P><HI REND="italic">reiecte</HI> 902 'zurückweisen'.</P>
+<P><HI REND="italic">releeve</HI> 732: <HI REND="italic">to othir mennys deede releeve,</HI> und 812 <HI REND="italic">resorte and hidir∣ward releve,</HI> beide Male also intransitiv; daher etwa etwa 'seine Zuflucht neh∣men' bedeutend.</P>
+<P><HI REND="italic">retreve</HI> 814: <HI REND="italic">vnto this place retreve,</HI> intransitiv 'sich wieder einfinden, wieder hingehen'.</P>
+<P><HI REND="italic">Sconfet</HI> 458 (Var.: <HI REND="italic">scomfite</HI> H Ha A <HI REND="italic">κ</HI> He D, <HI REND="italic">scumfit</HI> M, <HI REND="italic">scomfited ν v, schoumfite</HI> Ad, <HI REND="italic">sconfycted</HI> Hc, <HI REND="italic">discomfet</HI> Cp) 'besiegt'.</P>
+<P><HI REND="italic">sethe</HI> siehe <HI REND="italic">a-seth.</HI></P>
+<P><PB N="40" REF="42"/>
+<HI REND="italic">slyve</HI> 1003 (Var.: <HI REND="italic">slyffe κ</HI> Hc, <HI REND="italic">sleyue</HI> H;—<HI REND="italic">stryve</HI> D;—<HI REND="italic">schyve</HI> Fc;—<HI REND="italic">fliue</HI> Cp): <HI REND="italic">Doctryne kepithe vertu on lyve. Whiche ne were, doctryne soone from man shuld slyve.</HI> Nach dem Zusammenhang muss es sich hier um ein Verbum der Bewegung oder des Sich-Trennens handeln. Der ersteren Bedingung entspricht das ne. dial. <HI REND="italic">to slive</HI> 'gleiten, schleichen' (Wright), das jedenfalls identisch ist mit Palsgraves '<HI REND="italic">I slyve downe, I fall downe sodaynly,</HI> Je coule' (1530). Daher dürfen wir wohl für unsere Cato-Stelle ein me. <HI REND="italic">slyve</HI> 'entschlüpfen' ansetzen. Dasselbe Wort kommt dialektisch auch als Faktitivum vor in der Bedeutung 'to put on any article of dress hastily and untidily' (Wright). (Zur Bedeutungsentwickelung vergleiche ne. <HI REND="italic">slip</HI> 1) 'schlupfen, gleiten', 2) 'schlupfen machen' › 'hurtig anziehen' und mndd. <HI REND="italic">slippen</HI> 1) 'gleiten', 2) 'gleiten lassen' › 'den Mantel über den Kopf hängen'.) Ich halte es daher für sehr wahrscheinlich, dass das Wort identisch ist mit dem ae. <HI REND="italic">slēfan</HI> 'ein Kleidungsstück überwerfen, über∣streifen', das einmal belegt ist in dem Prosaleben des h. Guthlac (ed. Goodwin, London 1848, S. 68: <HI REND="italic">Guđlac hine sylfne ungyrede, and þaet reaf, þe he genehlice on him haefde, he hine</HI> [lies <HI REND="italic">hit] slefde on þone foresprecenan man.</HI> Lautlich und begrifflich würde sich dies ae. Verbum, ws. *<HI REND="italic">slīefan,</HI> *<HI REND="italic">slȳfan,</HI> angl. <HI REND="italic">slēfan</HI> zu vläm. ndl. <HI REND="italic">slōven</HI> in <HI REND="italic">zijne mouwen slooven</HI> 'die Armel aufstreifen' (s. Franck) stellen und mit diesem zusammen auf ein urgm. *<HI REND="italic">slaufjån</HI>- oder *<HI REND="italic">slauƀjån</HI>- zurückweisen. Ableitungen dazu mit gleichem Vokalismus sind ae. <HI REND="italic">slȳfe, slēfe</HI> 'Armel', ne. <HI REND="italic">sleeve</HI> [= mndl. <HI REND="italic">slōve</HI> (ohne i-Umlaut): nfries. saterl. <HI REND="italic">slēuə,</HI> Sylt <HI REND="italic">slîwn,</HI> Siebs im Grdr. S. 1350 u. 1387, beide ein afrs. *<HI REND="italic">slēve</HI> voraussetzend] sowie ae. <HI REND="italic">slebescoh</HI> 'soccus' und <HI REND="italic">slȳflēas</HI> 'ärmellos', auch das <HI REND="italic">slīfer</HI> 'lubricus' der Brüsseler Glossen, falls hier nicht ein Schreibfehler für <HI REND="italic">slipor</HI> vorliegt, was wegen des ne. dial. <HI REND="italic">sliverly</HI> 'slinking, crafty' (Wright) nicht eben wahrscheinlich; weiter∣hin mit Ablaut (*<HI REND="italic">sluf</HI>-, <HI REND="italic">sluƀ</HI>-) me. <HI REND="italic">sloveyn,</HI> ne. <HI REND="italic">sloven:</HI> ndl. <HI REND="italic">slof</HI> 'nachlässig' mit Genossen (s. Franck).—Von den Varianten ist <HI REND="italic">stryve</HI> 'streben' durch∣sichtig.—Die Form <HI REND="italic">schyve</HI> wird dem bei Langland und Wyclif belegten me. <HI REND="italic">schiven,</HI> ne. dial. <HI REND="italic">to shive</HI> (Wright) 'schieben' (aus ae. *<HI REND="italic">scȳfan</HI> oder an. <HI REND="italic">skȳfa)</HI> entsprechen, jedoch hier die intransitive Bedeutung 'sich abschieben, fortbewegen' haben, welche sowohl bei ne. <HI REND="italic">to shove</HI> wie bei ne. dial. <HI REND="italic">to shive off</HI> 'to go away' (s. Wright, der unnötig hierfür ein neues Verbum annimmt) vorkommt.—<HI REND="italic">Fliue</HI> bei Copland ist wohl nur Druckfehler für <HI REND="italic">sliue.</HI></P>
+<P><HI REND="italic">schyve</HI> siehe <HI REND="italic">slyve.</HI></P>
+<P><HI REND="italic">strecche</HI> 1042 mit <HI REND="italic">to</HI> 'sich strecken nach, trachten nach' <HI REND="italic">(to konnyng);</HI> vgl. ne. <HI REND="italic">to stretch for</HI> 'sich anstrengen, um etwas zu erlangen'.</P>
+<P><HI REND="italic">superflue</HI> 579 'Überflüssiges' (Adj. oder Subst.?).</P>
+<P><HI REND="italic">surfetour</HI> 320, 438 'Schwelger', ne. <HI REND="italic">surfeiter.</HI></P>
+<P><HI REND="italic">Toilous</HI> 298 'geschäftig, fleissig'.</P>
+<P><HI REND="italic">Virous</HI> 922 (Var.: <HI REND="italic">vrous ν, eurous χ).</HI> Die Variante der schlechtesten Handschriften - Gruppe, <HI REND="italic">vrous, eurous</HI> 'glücklich', ist leicht verständlich, passt aber nicht recht in den Zusammenhang. Die ganze Strophe handelt über die Stärke <HI REND="italic">(fortitude</HI> = lat. <HI REND="italic">praevalidae in corpore vires . . . vir fortis,</HI> Dist. IV 12). Der Satzteil, in dem das Wort erscheint, <HI REND="italic">as to be virous, myhti, strong and rude,</HI> ist nichts weiter als eine nähere Ausführung des vorherigen <HI REND="italic">strengthis bodyly;</HI> mithin muss <HI REND="italic">virous</HI> so etwas wie 'kräftig, männlich' oder dgl. bedeuten, obgleich ich das Wort sonst nicht nachzu∣weisen vermag. Da im Neuenglischen ein gleichbedeutendes Adjektiv <HI REND="italic">vi∣rile</HI> erscheint, werden wir unser <HI REND="italic">virous</HI> wohl mit diesem zusammenstellen dürfen, sei es nun, dass wir Suffixvertauschung annehmen oder eine ge∣lehrte Neubildung zu lat. <HI REND="italic">vir</HI> darin sehen.</P>
+<CLOSER><DATELINE>Würzburg.</DATELINE>
+<SIGNED>Max Förster.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

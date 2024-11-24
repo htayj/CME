@@ -1,0 +1,2555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-13-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed prose fragments at beginning; removed DIV1; changed TRAILER to CLOSER; changed HEAD to TRAILER; removed incorrect MILESTONEs from Ps; changed several pipes to verbars. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00066">
+<STC T="M">66</STC>
+<BIBNO T="mec">CME00066</BIBNO>
+<VID>CME00066</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poems">
+<PB REF="1"/>
+<HEAD>ZWEI MITTELENGLISCHE BEARBEITUNGEN DER SAGE VON ST. PATRIK'S PURGATORIUM.</HEAD>
+<PB N="98" REF="42"/>
+<DIV2 N="1" TYPE="poem">
+<HEAD>I.</HEAD>
+<HEAD>[PURGATORIUM SANCTI PATRICII.]</HEAD>
+<LG N="1">
+<HEAD>1</HEAD>
+<L><NOTE N="1)" PLACE="foot">Der anfang fehlt und damit die überschrift.</NOTE> . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>and liued in dedeli sinne. <MILESTONE N="25a."/></L>
+<L>Seyn Patrike hadde rewþe</L>
+<L>of hir misbileue and untrewe,</L>
+<L>þat þai weren inne.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Oft he proued sarmoun to make▪</L>
+<L>þat þai schuld to god take</L>
+<L>and do after his rede.</L>
+<L>þai were ful fild of felonie,</L>
+<L>þai no held it bot ribaudie</L>
+<L>of no þing þat he sede.</L>
+</LG>
+<LG N="3">
+<PB N="99" REF="43"/>
+<HEAD>3.</HEAD>
+<L>And al þai seyd commounliche,</L>
+<L>þat non of hem wold sikerliche</L>
+<L>do bi his techeing,</L>
+<L>bot ȝif he dede þat roman,</L>
+<L>into helle went þan,</L>
+<L>to bring hem tiding</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>of þe pain and of þe wo,</L>
+<L>þe soulen suffri euer mo,</L>
+<L>þai þat ben þer inne;</L>
+<L>and elles þai <NOTE N="1)" PLACE="foot">þai klein über dem texte nachgetr.</NOTE> sey[d] <NOTE N="2)" PLACE="foot">d von seyd verloschen.</NOTE>, þat nolden hye</L>
+<L>of her misdede nouȝt repenti,</L>
+<L>no her folies blinne.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>When sein Patrike herd þis,</L>
+<L>michel he card for soþe, ywis,</L>
+<L>and sore he gan desmay.</L>
+<L>Oft he was in afliccoun,</L>
+<L>in fasting and in orisoun,</L>
+<L>Jhesu Crist to pray,</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>þat he him schuld grace sende,</L>
+<L>hou he miȝt raþest wende</L>
+<L>out of þe fendes bond,</L>
+<L>and do hem com to amendement</L>
+<L>and leue on god omnipotent,</L>
+<L>þe folk of Yrlond <NOTE N="3)" PLACE="foot">Ms. yrluod.</NOTE>.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>And als he was in holy chirche,</L>
+<L>godes werkes for to wirche,</L>
+<L>and made his praier,</L>
+<L>and bad for þat ich þing,</L>
+<L>sone he fel on slepeing</L>
+<L>toforn his auter.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>In his chapel he slepe wel swete,</L>
+<L>of fele þinges him gan mete:</L>
+<L>þat was in heuen-blis;</L>
+<L>as he slepe, for soþe him þouȝt,</L>
+<L>þat Jhesu, þat ous dere bouȝt, <MILESTONE N="25b."/></L>
+<L>to him com ywis,</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>and ȝaf him a bok, þas nas nouȝt lite:</L>
+<L>þer nis no clerk, þat swiche can write,</L>
+<L>no neuer no schal be;</L>
+<L>it spekeþ of al maner godspelle,</L>
+<L>of heuen and erþe and of helle,</L>
+<L>of godes priuete.</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>More him þouȝt, þat god him ȝaf</L>
+<L>in his hond a wel feir staf,</L>
+<L>in slepe þer he lay;</L>
+<L>and godes staf, ich understond,</L>
+<L>men clepeþ þat staf in Yrlond</L>
+<L>ȝete to þis ich day.</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>When god him þis ȝif hadde,</L>
+<L>him þouȝt, þat he him ladde</L>
+<L>þennes þe way ful riȝt</L>
+<L>into an gret desert;</L>
+<L>þer was an hole michel apert,</L>
+<L>þat griseliche was of siȝt.</L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Rounde it was about and blak;</L>
+<L>in alle þe warld no was his mack,</L>
+<L>so griselich entring.</L>
+<L>When þat Patrike yseye þat siȝt,</L>
+<L>swiþe sore he was afliȝt</L>
+<L>in his slepeing.</L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>Þo god almiȝten him schewed and seyd,</L>
+<L>who þat hadde don sinful dede</L>
+<L>oȝaines godes lawe,</L>
+<L>and wald him þer of repenti,</L>
+<L>and take penaunce hastily,</L>
+<L>and his foliis wiþdrawe,</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>so schuld in þis ich hole</L>
+<L>a parti of penaunce þole</L>
+<L>for his misdede;</L>
+<L>a niȝt and a day be her inne,</L>
+<L>and al him schuld forȝiue his sinne,</L>
+<L>and þe better spede.</L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>And ȝif he ben of gode creaunce,</L>
+<L>gode and poure wiþouten dotaunce</L>
+<L>and stedfast bileue,</L>
+<L>he no schuld nouȝt be þer in ful long,</L>
+<L>þat he ne schal se þe paines strong,</L>
+<L>ac non no schal him greue,</L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>in wiche þe soules ben ydo, <MILESTONE N="25c."/></L>
+<L>þat haue deserued to com þer to</L>
+<L>in þis world ywis;</L>
+<L>and also þan sen he may</L>
+<L>þat ich ioie, þat lasteþ ay,</L>
+<L>þat is in paradis.</L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>When Jhesu had yseyd alout,</L>
+<L>and yschewed al about</L>
+<L>wiþ wel milde chere:</L>
+<L>god, þat bouȝt ous dere in heuen,</L>
+<L>fram him he went wiþ milde steuen,</L>
+<L>and Patrike bileft þere.</L>
+</LG>
+<LG N="18">
+<PB N="100" REF="44"/>
+<HEAD>18.</HEAD>
+<L>When seyn Patrike o slepe he woke,</L>
+<L>gode token he fond and up hem toke</L>
+<L>of his sweuening,</L>
+<L>bok and staf þer he fond,</L>
+<L>and tok hem up in his hond</L>
+<L>and þonked heuenking.</L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>He kneld and held up his hond</L>
+<L>and þonked Jhesu Cristes sond,</L>
+<L>þat he him hadde ysent,</L>
+<L>whar þurch he miȝt understond,</L>
+<L>to turn þat folk of Yrlond,</L>
+<L>to com to amendement.</L>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>In þat stede wiþouten lett</L>
+<L>A fair abbay he lete sett,</L>
+<L>wiþouten ani dueling,</L>
+<L>in þe name of godes glorie,</L>
+<L>seyn Patrike, and our leuedy,</L>
+<L>for to rede and sing.</L>
+</LG>
+<LG N="21">
+<HEAD>21.</HEAD>
+<L>Seyn Patrike maked þe abbay:</L>
+<L>þat wite wele men of þe cuntray,</L>
+<L>þat non is þat yliche:</L>
+<L>regles in þat abbay name;</L>
+<L>þer is solas, gle and game,</L>
+<L>wiþ pouer and eke wiþ riche.</L>
+</LG>
+<LG N="22">
+<HEAD>22.</HEAD>
+<L>White chanounes he sett þer ate,</L>
+<L>to serue god arliche and late</L>
+<L>and holy men to be.</L>
+<L>þat ich boke and þat staf,</L>
+<L>þat god seyn Patrike ȝaf,</L>
+<L>ȝete þer man may se.</L>
+</LG>
+<LG N="23">
+<HEAD>23.</HEAD>
+<L>In þe estende of þe abbay,</L>
+<L>þer is þat hole, for soþe to say,</L>
+<L>þat griseliche is of siȝt; <MILESTONE N="25d."/></L>
+<L>wiþ gode stonwal al abouten,</L>
+<L>wiþ locke and keye, þe gate to louken,</L>
+<L>Patrike lete it diȝte.</L>
+</LG>
+<LG N="24">
+<HEAD>24.</HEAD>
+<L>Þat ich stede, siker ȝe be,</L>
+<L>is ycleped <NOTE N="1)" PLACE="foot">Nach yc ist ein buchst. ausradirt.</NOTE> þe riȝt entre</L>
+<L>of Patrikes purgatorie:</L>
+<L>for in þat time, þat þis bifelle,</L>
+<L>mani a man went in to helle,</L>
+<L>as it seyt in þe storie,</L>
+</LG>
+<LG N="25">
+<HEAD>25.</HEAD>
+<L>and suffred pein for her trespas,</L>
+<L>and com oȝain þurch godes gras</L>
+<L>and seyd alle and some,</L>
+<L>þat þai hadde sen sikerliche,</L>
+<L>þe paines of helle apertliche,</L>
+<L>when þai were out ycome.</L>
+</LG>
+<LG N="26">
+<HEAD>26.</HEAD>
+<L>And al so þai seyd wiþ heye</L>
+<L>apertliche þe ioies, þai seiȝe,</L>
+<L>of angels singing</L>
+<L>to god almiȝti and to his:</L>
+<L>þat is þe ioie of paradys;</L>
+<L>Jhesu, ous þider bring!</L>
+</LG>
+<LG N="27">
+<HEAD>27.</HEAD>
+<L>When alle þe folk of Yrlond</L>
+<L>þe ioies gan understond,</L>
+<L>þat seyn Patrike hem sede:</L>
+<L>to him þai com euerichon,</L>
+<L>and were ycristned in fonston,</L>
+<L>and leten her misdede.</L>
+</LG>
+<LG N="28">
+<HEAD>28.</HEAD>
+<L>And þus þai bicom lasse and more</L>
+<L>cristen men þurch godes lore,</L>
+<L>þurch Patrikes preier.</L>
+<L>Now herknes to mi talking:</L>
+<L>I chil ȝou tel of oþer þing,</L>
+<L>ȝif ȝe it wil yhere.</L>
+</LG>
+<LG N="29">
+<HEAD>29.</HEAD>
+<L>Bi Steuenes day, þe king ful riȝt,</L>
+<L>þat Inglond stabled and diȝt,</L>
+<L>wel wiselich in his time,</L>
+<L>in Norþhumberland was a kniȝt,</L>
+<L>a douhti man and swiþe wiȝt,</L>
+<L>as <NOTE N="2)" PLACE="foot">Ms.: at.</NOTE> it seyt in þis rime.</L>
+</LG>
+<LG N="30">
+<HEAD>30.</HEAD>
+<L>Oweyn he hiȝt, wiþouten les,</L>
+<L>in cuntre þer he born wes,</L>
+<L>as ȝe may yhere;</L>
+<L>wel michel he couþe of batayle,</L>
+<L>and swiþe sinful he was saunfayle <MILESTONE N="26a."/></L>
+<L>oȝain his creatour.</L>
+</LG>
+<LG N="31">
+<HEAD>31.</HEAD>
+<L>On a day he him biþouȝt</L>
+<L>of þe sinne, he hadde ywrouȝt,</L>
+<L>and sore him gan adrede,</L>
+<L>and þouȝt, he wold þurch godes grace</L>
+<L>ben yschriue of his trispas,</L>
+<L>and leten his misdede.</L>
+</LG>
+<LG N="32">
+<HEAD>32.</HEAD>
+<L>And when he hadde þus gode creaunce,</L>
+<L>he com, as it bifel a chaunce,</L>
+<L>to þe bischop of Yrlond;</L>
+<L>þer he lay in þat abbay,</L>
+<L>þer was þat hole, for soþe to say,</L>
+<L>penaunce to take an hond.</L>
+</LG>
+<LG N="33">
+<PB N="101" REF="45"/>
+<HEAD>33.</HEAD>
+<L>To þe bischop he biknewe sis sinne</L>
+<L>and prayd him for godes winne,</L>
+<L>þat he him schuld schriue,</L>
+<L>and legge on him þenaunce sore:</L>
+<L>he wold sinne, he seyd, no more,</L>
+<L>neuer eft in his liue.</L>
+</LG>
+<LG N="34">
+<HEAD>34.</HEAD>
+<L>Þe bischop þer of was ful bliþe,</L>
+<L>and for his sinne blamed him swiþe,</L>
+<L>þat he him hadde ytold,</L>
+<L>and seyd, he most penaunce take,</L>
+<L>ȝif he wald his sinne forsake</L>
+<L>hard and manifold.</L>
+</LG>
+<LG N="35">
+<HEAD>35.</HEAD>
+<L>Þan answerd þe kniȝt Owayn:</L>
+<L>"Don Ichil", he seyd, "ful feyn,</L>
+<L>what god me wil sende;</L>
+<L>þei þou me wost comandy,</L>
+<L>into Patrikes purgatori,</L>
+<L>þider Ichil wende."</L>
+</LG>
+<LG N="36">
+<HEAD>36.</HEAD>
+<L>Þe bischop seyd: "Nay, Owain frende!</L>
+<L>þat ich way schaltow nouȝt wende,"</L>
+<L>and told him of þe pine,</L>
+<L>and bede him lete be þat mischaunce,</L>
+<L>"and take", he seyd, "sum oþer penaunce,</L>
+<L>to amende þe of sinnes þine."</L>
+</LG>
+<LG N="37">
+<HEAD>37.</HEAD>
+<L>For nouȝt þe bischop couþe say,</L>
+<L>þe kniȝt nold nouȝt leten his way,</L>
+<L>his soule to amende.</L>
+<L>Þan ladde he him into holy chirche,</L>
+<L>godes werkes for to wirche,</L>
+<L>and þe riȝt lawe him kende.</L>
+</LG>
+<LG N="38">
+<HEAD>38.</HEAD>
+<L>Fiften days in affliccoun, <MILESTONE N="26b."/></L>
+<L>in fasting and in orisoun</L>
+<L>he was wiþouten lesing;</L>
+<L>þan þe priour wiþ processioun,</L>
+<L>wiþ croice and wiþ gonfanoun</L>
+<L>to þe hole he gan him bring.</L>
+</LG>
+<LG N="39">
+<HEAD>39.</HEAD>
+<L>Þe priour seyd: "Kniȝt Oweyn,</L>
+<L>her is þi gate to go ful gain,</L>
+<L>wende riȝt euen forþ;</L>
+<L>and when þou a while ygon hast,</L>
+<L>liȝt of day þou al forlast,</L>
+<L>ac hold þe euen norþ.</L>
+</LG>
+<LG N="40">
+<HEAD>40.</HEAD>
+<L>"Þus þou schalt under erþe gon;</L>
+<L>þan þou schalt finde sone anon</L>
+<L>a wel gret feld, apliȝt,</L>
+<L>and þer in an halle af ston:</L>
+<L>swiche in world no wot Y non,</L>
+<L>sum dele þer is of liȝt.</L>
+</LG>
+<LG N="41">
+<HEAD>41.</HEAD>
+<L>Namore liȝtnesse nis þer yfounde,</L>
+<L>þan þe sonne goþ to grounde</L>
+<L>in winter sikerly.</L>
+<L>In to þe halle þou schalt go,</L>
+<L>and duelle þer tille þer com mo,</L>
+<L>þat schul þe solaci.</L>
+</LG>
+<LG N="42">
+<HEAD>42.</HEAD>
+<L>Þritten men þer schul come,</L>
+<L>godes seriaunce alle and some,</L>
+<L>as it seyt in þe stori;</L>
+<L>and hye þe schul conseily,</L>
+<L>hou þou schalt þe conteyni</L>
+<L>þe way þurch purgatori.</L>
+</LG>
+<LG N="43">
+<HEAD>43.</HEAD>
+<L>Þan þe priour and his couent</L>
+<L>bitauȝt him god and forþ hy went,</L>
+<L>þe gate þai schet anon.</L>
+<L>Þe kniȝt his way haþ sone ynome,</L>
+<L>þat into þe feld was ycome,</L>
+<L>þer was þe halle of ston.</L>
+</LG>
+<LG N="44">
+<HEAD>44.</HEAD>
+<L>Þe halle was ful selly diȝt:</L>
+<L>swiche can make no erþeliche wiȝt,</L>
+<L>þe pilers stode wide.</L>
+<L>Þe kniȝt wonderd, þat he fond</L>
+<L>swiche an halle in þat lond</L>
+<L>and open in ich side.</L>
+</LG>
+<LG N="45">
+<HEAD>45.</HEAD>
+<L>And when he hadde long stond þer out,</L>
+<L>and deuised al about,</L>
+<L>in he went þare. <MILESTONE N="26c."/></L>
+<L>Þritten men þer come,</L>
+<L>wise men þai war of dome,</L>
+<L>and white abite þai bere;</L>
+</LG>
+<LG N="46">
+<HEAD>46.</HEAD>
+<L>and al her crounes wer newe schorn;</L>
+<L>her most maister ȝede biforn</L>
+<L>and salud þe kniȝt;</L>
+<L>adoun he sat, so seyt þe boke,</L>
+<L>and kniȝt Owain to him he toke,</L>
+<L>and told him resoun riȝt.</L>
+</LG>
+<LG N="47">
+<HEAD>47.</HEAD>
+<L>"Ichil þe conseyl, leue broþer,</L>
+<L>as ichaue don mani anoþer,</L>
+<L>þat han ywent þis way:</L>
+<L>þat þou ben of gode creaunce,</L>
+<L>certeyn and poure wiþouten dotaunce,</L>
+<L>to god þi trewe fay;</L>
+</LG>
+<LG N="48">
+<HEAD>48.</HEAD>
+<L>for þou schalt se, when we ben ago,</L>
+<L>a þousend fendes and wele mo,</L>
+<L>to bring þe into pine:</L>
+<L><PB N="102" REF="46"/>
+ac loke wele, bise þe so:</L>
+<L>and þou ani þing bi hem do,</L>
+<L>þi soule þou schalt tine!</L>
+</LG>
+<LG N="49">
+<HEAD>49.</HEAD>
+<L>Haue god in þine hert</L>
+<L>and þenk opon his woundes smert,</L>
+<L>þat he suffred þe fore:</L>
+<L>and bot þou do as <NOTE N="1)" PLACE="foot">as fehlt im ms.</NOTE> y þe telle,</L>
+<L>bodi and soule þou <NOTE N="2)" PLACE="foot">þ scheint aus einem anderen buchst. corrigirt zu sein.</NOTE> gos to helle,</L>
+<L>and euer more forlore.</L>
+</LG>
+<LG N="50">
+<HEAD>50.</HEAD>
+<L>Nempne godes heiȝe name,</L>
+<L>and þai may do þe <NOTE N="3)" PLACE="foot">do þe steht im ms. zweimal, das zweite mal ausgestr.</NOTE> no schame,</L>
+<L>for nouȝt þat may bifalle."</L>
+<L>And when þai hadde conseyld þe kniȝt,</L>
+<L>no lenge bileue he no miȝt,</L>
+<L>bot went out of þe halle.</L>
+</LG>
+<LG N="51">
+<HEAD>51.</HEAD>
+<L>He and alle his fellewe red</L>
+<L>bitauȝt him god and forþ þai ȝede</L>
+<L>wiþ ful mild chere.</L>
+<L>Owein bileft þer in drede;</L>
+<L>to god he gan to clepi and grede,</L>
+<L>and maked his preier.</L>
+</LG>
+<LG N="52">
+<HEAD>52.</HEAD>
+<L>And sone þer after sikerly,</L>
+<L>he gan to here a reweful cri,</L>
+<L>he was aferd ful sore:</L>
+<L>Þei alle þe warld falle schold</L>
+<L>fram þe firmament to þe mold, <MILESTONE N="26d."/></L>
+<L>no miȝt haue ben no more.</L>
+</LG>
+<LG N="53">
+<HEAD>53.</HEAD>
+<L>And when of þe cri was passed þe drede,</L>
+<L>þer com in a grete ferrede,</L>
+<L>of fendes fifti score,</L>
+<L>about þe kniȝt in to þe halle;</L>
+<L>loþly þinges þai weren alle,</L>
+<L>bihinde and eke bifore.</L>
+</LG>
+<LG N="54">
+<HEAD>54.</HEAD>
+<L>And þe kniȝt þai ȝeden abouten,</L>
+<L>and grenned on him her foule touten,</L>
+<L>and drof him to heþeing,</L>
+<L>and seyd, he was comen wiþ flesche and fel,</L>
+<L>to fechen him þe ioie of helle</L>
+<L>wiþouten ani ending.</L>
+</LG>
+<LG N="55">
+<HEAD>55.</HEAD>
+<L>Þe most maisterfende of alle,</L>
+<L>adoun on knes he gan to falle</L>
+<L>and seyd: "Welcome, Owein!</L>
+<L>Þou art ycomen to suffri pine,</L>
+<L>to amende þe of sinnes tine,</L>
+<L>ac alle gett þe no gain,</L>
+</LG>
+<LG N="56">
+<HEAD>56.</HEAD>
+<L>for þou schalt haue pine anouȝ,</L>
+<L>hard, strong and ful touȝ</L>
+<L>for þi dedli sinne:</L>
+<L>no haddestow neuer more meschaunce,</L>
+<L>þan þou schal haue in our daunce,</L>
+<L>when we schul play biginne."</L>
+</LG>
+<LG N="57">
+<HEAD>57.</HEAD>
+<L>"Ac no for þan", þe fendes sede,</L>
+<L>"ȝif þou wilt do bi our rede,</L>
+<L>—for þou art ous leue and dere—</L>
+<L>we schul þe bring wiþ fiue amour,</L>
+<L>þer þou com in fram þe priour</L>
+<L>wiþ our felawes yfere.</L>
+</LG>
+<LG N="58">
+<HEAD>58.</HEAD>
+<L>And elles we schul þe teche here,</L>
+<L>þat þou has serued ous mani ȝer</L>
+<L>in pride and lecherie,</L>
+<L>for we þe haue so long yknawe,</L>
+<L>to þe we schul our hokes þrawe,</L>
+<L>alle our compeynie!"</L>
+</LG>
+<LG N="59">
+<HEAD>59.</HEAD>
+<L>He seyd, he nold wiþ outen feyle:</L>
+<L>"Ac y forsake ȝour conseyle,</L>
+<L>mi penaunce Ichil take!"</L>
+<L>And when þe fendes yherd þis,</L>
+<L>amidward þe halle ywis</L>
+<L>a grete fer þai gun make.</L>
+</LG>
+<LG N="60">
+<HEAD>60.</HEAD>
+<L>Fet and hond þai bounde him hard, <MILESTONE N="27a."/></L>
+<L>and casten him amidward.</L>
+<L>He cleped to our driȝt.</L>
+<L>Anon þe fer oway was weued,</L>
+<L>cole no spark þer nas bileued</L>
+<L>þurch grace of god almiȝt.</L>
+</LG>
+<LG N="61">
+<HEAD>61.</HEAD>
+<L>And when þe kniȝt yseiȝe þis.</L>
+<L>michel þe balder he was ywis</L>
+<L>and wele gan understond,</L>
+<L>and þouȝt wele in his memorie,</L>
+<L>it was þe fendes trecherie,</L>
+<L>his hert for to fond.</L>
+</LG>
+<LG N="62">
+<HEAD>62.</HEAD>
+<L>Þe fendes went out of þe halle,</L>
+<L>þe kniȝt þai ladde wiþ hem alle</L>
+<L>intil an uncouþe lond;</L>
+<L>þer no was no maner wele,</L>
+<L>bot hunger, þrust and chele,</L>
+<L>no tre no seiȝe he stond.</L>
+</LG>
+<LG N="63">
+<PB N="103" REF="47"/>
+<HEAD>63.</HEAD>
+<L>Bot a cold winde þat blewe þere,</L>
+<L>þat unneþe oni man miȝt yhere,</L>
+<L>and perced þurch his side.</L>
+<L>Þe fendes han þe kniȝt ynome,</L>
+<L>so long þat þai ben ycome</L>
+<L>in to a valay wide.</L>
+</LG>
+<LG N="64">
+<HEAD>64.</HEAD>
+<L>Þo wende þe kniȝt, he hadde yfounde</L>
+<L>þe deppest pit in helle grounde;</L>
+<L>when he com neiȝe þe stede,</L>
+<L>he loked up sone anon:</L>
+<L>strong it was forþer to gon,</L>
+<L>he herd schriche and grede.</L>
+</LG>
+<LG N="65">
+<HEAD>65.</HEAD>
+<L>He seiȝe þer ligge ful a feld</L>
+<L>of men and wimen þat were aqueld</L>
+<L>naked wiþ mani a wounde.</L>
+<L>Toward þe erþe þai lay deueling:</L>
+<L>"Allas, allas!" was her brocking,</L>
+<L>wiþ iren bendes ybounde;</L>
+</LG>
+<LG N="66">
+<HEAD>66.</HEAD>
+<L>And gun to scriche and to wayly,</L>
+<L>and crid: "Allas! merci! merci!</L>
+<L>merci, god almiȝt!"</L>
+<L>Merci nas þer non, for soþe,</L>
+<L>bot sorwe of hert and grinding of toþe:</L>
+<L>þat was a griseli siȝt!</L>
+</LG>
+<LG N="67">
+<HEAD>67.</HEAD>
+<L>Þat ich sorwe and þat reuþe</L>
+<L>is for þe foule sinne of slewþe,</L>
+<L>as it seyt in þe stori: <MILESTONE N="27b."/></L>
+<L>who þat is slowe in godes seruise,</L>
+<L>of þat pain hem may agrise,</L>
+<L>to legge in purgatori.</L>
+</LG>
+<LG N="68">
+<HEAD>68.</HEAD>
+<L>Þis was þe first pain, apliȝt!</L>
+<L>þat þai dede Owain þe kniȝt:</L>
+<L>þai greued him swiþe sore.</L>
+<L>Alle þat pain he haþ ouerschaken;</L>
+<L>until anoþer þai han him taken,</L>
+<L>þer he seiȝe sorwe more</L>
+</LG>
+<LG N="69">
+<HEAD>69.</HEAD>
+<L>of men and wimen þat þer lay,</L>
+<L>þad crid: "Allas!" and: "Waileway!"</L>
+<L>for her wicked lore;</L>
+<L>þilche soules lay upward,</L>
+<L>as þe oþer hadde ly donward,</L>
+<L>þat y told of bifore,</L>
+</LG>
+<LG N="70">
+<HEAD>70.</HEAD>
+<L>and were þurch fet and hond and heued</L>
+<L>wiþ iren nailes gloweand <NOTE N="1)" PLACE="foot">gl aus gr corrigirt.</NOTE> red</L>
+<L>to þe erþe ynayled þat tide.</L>
+<L>Owain seiȝe sitt on hem þere</L>
+<L>loþli dragouns <NOTE N="2)" PLACE="foot">dragrouns ms.</NOTE> alle o fer,</L>
+<L>in herd in nouȝt to hide.</L>
+</LG>
+<LG N="71">
+<HEAD>71.</HEAD>
+<L>On sum sede todes blake,</L>
+<L>euetes, neddren and þe snake,</L>
+<L>þat frete hem bac and side.</L>
+<L>Þis is þe pain of glotoni:</L>
+<L>for godes loue, be war þer bi!</L>
+<L>it rinneþ al to wide.</L>
+</LG>
+<LG N="72">
+<HEAD>72.</HEAD>
+<L>Yete him þouȝt a pain strong <NOTE N="3)" PLACE="foot">strong ms.</NOTE></L>
+<L>of a cold winde, blewe hem among,</L>
+<L>þat com out of þe sky;</L>
+<L>so bitter and so cold it blewe,</L>
+<L>þat alle þe soules it ouerþrewe,</L>
+<L>þat lay in purgatori.</L>
+</LG>
+<LG N="73">
+<HEAD>73.</HEAD>
+<L>Þe fendes lopen ou hem þere <NOTE N="4)" PLACE="foot">Urspr. þare geschr.; das a ist in e corrigirt.</NOTE></L>
+<L>and wiþ her hokes hem al to tere,</L>
+<L>and loude þai gun to crie.</L>
+<L>Who þat is licchoure in þis liif,</L>
+<L>be it man oþer be it wiif,</L>
+<L>þat schal ben his bayli.</L>
+</LG>
+<LG N="74">
+<HEAD>74.</HEAD>
+<L>Þe fendes seyd to þe kniȝt:</L>
+<L>"Þou hast ben strong lichoure, apliȝt!</L>
+<L>and strong glotoun also:</L>
+<L>in to þis pain þou schalt be diȝt,</L>
+<L>bot þou take þe way ful riȝt <MILESTONE N="27c."/></L>
+<L>oȝain, þer þou com fro."</L>
+</LG>
+<LG N="75">
+<HEAD>75.</HEAD>
+<L>Owain seyd: "Nay, satan!</L>
+<L>yete forþer mar Ichil gan</L>
+<L>þurch grace of god almiȝt!"</L>
+<L>Þe fendes wald him haue hent:</L>
+<L>he cleped to god omnipotent,</L>
+<L>and þai lorn al her miȝt.</L>
+</LG>
+<LG N="76">
+<HEAD>76.</HEAD>
+<L>Þai ladde him forþer into a stede,</L>
+<L>þer men neuer gode no dede,</L>
+<L>bot schame and vilanie.</L>
+<L>Herkneþ now and ben in pes!</L>
+<L>In þe <NOTE N="5)" PLACE="foot">þe über der zeile nachgetr.</NOTE> ferþ feld it wes</L>
+<L>al ful of turmentrie.</L>
+</LG>
+<LG N="77">
+<HEAD>77.</HEAD>
+<L>Sum bi þe fet wer honging,</L>
+<L>wiþ iren hokes al brening,</L>
+<L>and sum bi þe swere,</L>
+<L>and sum bi wombe and sum bi rigge,</L>
+<L><PB N="104" REF="48"/>
+al oþer wise þan y can sigge,</L>
+<L>in diuers manere.</L>
+</LG>
+<LG N="78">
+<HEAD>78.</HEAD>
+<L>And sum in forneise were ydon,</L>
+<L>wiþ molten ledde and quic brunston</L>
+<L>boiland aboue þe fer,</L>
+<L>and sum bi þe tong hing:</L>
+<L>"Allas!" was euer her brocking,</L>
+<L>and no noþer preiere.</L>
+</LG>
+<LG N="79">
+<HEAD>79.</HEAD>
+<L>And sum on grediris layen þere,</L>
+<L>al glowand oȝains þe fer,</L>
+<L>þat Owain wele yknewe,</L>
+<L>þat whilom were of his queyntaunce,</L>
+<L>þat suffred þer her penaunce:</L>
+<L>þo chaunged al his hewe!</L>
+</LG>
+<LG N="80">
+<HEAD>80.</HEAD>
+<L>A wilde fer hem þurch out went,</L>
+<L>alle þat it of tok, it brent,</L>
+<L>ten þousend soules and mo;</L>
+<L>þo þat henge bi fet and swere,</L>
+<L>þat were þeues and þeues fere</L>
+<L>and wrouȝt man wel wo.</L>
+</LG>
+<LG N="81">
+<HEAD>81.</HEAD>
+<L>And þo þat henge bi þe tong,</L>
+<L>þat: "Allas!" euer song</L>
+<L>and so loude crid,</L>
+<L>þat wer bacbiters in her liue:</L>
+<L>be war þer bi man and wiue,</L>
+<L>þat lef beþ for to chide!</L>
+</LG>
+<LG N="82">
+<HEAD>82.</HEAD>
+<L>Alle þe stedes, þe kniȝt com bi, <MILESTONE N="27d."/></L>
+<L>were þe paines of purgatori</L>
+<L>for her werkes wrong:</L>
+<L>who so is lef on þe halidom swere</L>
+<L>or ani fals witnes bere,</L>
+<L>þer ben her peynes strong.</L>
+</LG>
+<LG N="83">
+<HEAD>83.</HEAD>
+<L>Owain anon him bi went</L>
+<L>and seiȝe, where a whele trent,</L>
+<L>þat griseliche were of siȝt;</L>
+<L>michel it was, about it wond,</L>
+<L>and brend riȝt as it were a brond,</L>
+<L>wiþ hokes it was ydiȝt.</L>
+</LG>
+<LG N="84">
+<HEAD>84.</HEAD>
+<L>An hundred þousand soules and mo</L>
+<L>opon þe whele were honging þo,</L>
+<L>þe fendes þer til ourn.</L>
+<L>Þe stori seyt of Owain þe kniȝt,</L>
+<L>þat no soule knowe he no miȝt,</L>
+<L>so fast þai gun it tourn.</L>
+</LG>
+<LG N="85">
+<HEAD>85.</HEAD>
+<L>Out of þe erþe com a liȝting.</L>
+<L>of a blo fer al brening,</L>
+<L>þat stank foule wiþ alle,</L>
+<L>and about þe whele it went,</L>
+<L>and þe soules it forbrent</L>
+<L>to poudre swiþe smal.</L>
+</LG>
+<LG N="86">
+<HEAD>86.</HEAD>
+<L>Þat whele, þat renneþ in þis wise,</L>
+<L>is for þe sinne of couaitise,</L>
+<L>þat regnes now ouer al:</L>
+<L>þe coueytous man haþ neuer anouȝ</L>
+<L>of gold, of siluer no of plouȝ,</L>
+<L>til deþ him do doun falle.</L>
+</LG>
+<LG N="87">
+<HEAD>87.</HEAD>
+<L>Þe fendes seyd to þe kniȝt:</L>
+<L>"Þou hast ben couaitise, apliȝt!</L>
+<L>to win lond and lede;</L>
+<L>opon þis whele þou schalt <NOTE N="1)" PLACE="foot">he schal ms.</NOTE> be diȝt,</L>
+<L>bot ȝif þou take þe way ful riȝt</L>
+<L>intil þin owhen þede!"</L>
+</LG>
+<LG N="88">
+<HEAD>88.</HEAD>
+<L>Her conseyl he haþ forsaken.</L>
+<L>Þe fendes han þe kniȝt forþ taken</L>
+<L>and bounde him swiþe hard</L>
+<L>opon þe whele þat arn about</L>
+<L>and so loþly gan to rout,</L>
+<L>and cast him amidward.</L>
+</LG>
+<LG N="89">
+<HEAD>89.</HEAD>
+<L>Þo þe hokes him to rent,</L>
+<L>and þe wild fer him to brent,</L>
+<L>on Jhesu Crist he þouȝt. <MILESTONE N="28a."/></L>
+<L>Fram þat whele an angel him bare,</L>
+<L>and al þe fendes þat were þare,</L>
+<L>no miȝt him do riȝt nouȝt.</L>
+</LG>
+<LG N="90">
+<HEAD>90.</HEAD>
+<L>Þai ladde him forþer wiþ gret pain,</L>
+<L>til þai com to a mounteyn,</L>
+<L>þat was as rede as blod,</L>
+<L>and men and wimen þer on stode;</L>
+<L>him þouȝt, it nas for non gode,</L>
+<L>for þai cride as þai were wode.</L>
+</LG>
+<LG N="91">
+<HEAD>91.</HEAD>
+<L>Þe fendes seyd to þe kniȝt þan:</L>
+<L>"Þou hast wonder of þilche man,</L>
+<L>þat make so dreri mode:</L>
+<L>for þai deserued godes wreche,</L>
+<L>hem schal sone com a beuereche,</L>
+<L>þat schal nouȝt þenche hem gode!"</L>
+</LG>
+<LG N="92">
+<HEAD>92.</HEAD>
+<L>No hadde he no raþer þat word yseyd,</L>
+<L>as it is in þe stori leyd,</L>
+<L>þer com a windes blast,</L>
+<L>þat fende and soule and kniȝt up went,</L>
+<L><PB N="105" REF="49"/>
+almest into þe firmament,</L>
+<L>and seþþen adon him cast</L>
+</LG>
+<LG N="93">
+<HEAD>93.</HEAD>
+<L>into a stinkand riuer,</L>
+<L>þat under þe mounteyn ran o fer</L>
+<L>as quarel of alblast,</L>
+<L>and cold it was as ani ise:</L>
+<L>þe pain may no man deuise,</L>
+<L>þat him was wrouȝt in hast.</L>
+</LG>
+<LG N="94">
+<HEAD>94.</HEAD>
+<L>Seyn Owain in þe water was dreynt,</L>
+<L>and wex þerin so mad and feynt,</L>
+<L>þat neiȝe he was forlore;</L>
+<L>sone so he on god miȝt þenchen ouȝt,</L>
+<L>out of þe water he was ybrouȝt,</L>
+<L>and to þe lond ybore.</L>
+</LG>
+<LG N="95">
+<HEAD>95.</HEAD>
+<L>Þat ich pain, ich understond,</L>
+<L>is for boþe niþe and ond,</L>
+<L>þat was so wick liif;</L>
+<L>ond was þe windes blast,</L>
+<L>þat in to þe stinking water him cast:</L>
+<L>Ich man be war þer bi!</L>
+</LG>
+<LG N="96">
+<HEAD>96.</HEAD>
+<L>Forþ þai ladde him swiþe wiþ alle,</L>
+<L>til þai com to an halle,</L>
+<L>he ne seiȝe neuer er non swiche;</L>
+<L>out of þe halle com an hete,</L>
+<L>þat þe kniȝt bigan to swete, <MILESTONE N="28b."/></L>
+<L>he seiȝe so foule a smiche.</L>
+</LG>
+<LG N="97">
+<HEAD>97.</HEAD>
+<L>Þo stint he forþer for to gon.</L>
+<L>Þe fendes it aperceiued anon,</L>
+<L>and were þer of ful fawe.</L>
+<L>"Turn oȝain!" þai gun to crie,</L>
+<L>"or þou schalt wel sone dye,</L>
+<L>bot þou þe wiþdrawe!"</L>
+</LG>
+<LG N="98">
+<HEAD>98.</HEAD>
+<L>And when he com to þe halle dore,</L>
+<L>he no hadde neuer sen bifore</L>
+<L>haluendel þe care.</L>
+<L>Þe halle was ful of turmentri:</L>
+<L>þo þat were in þat bayly,</L>
+<L>of blis þai were ful bare,</L>
+</LG>
+<LG N="99">
+<HEAD>99.</HEAD>
+<L>for al was þe halle grounde</L>
+<L>ful of pittes, þat were rounde</L>
+<L>and were ful yfilt</L>
+<L>to þe brerdes gret and smal</L>
+<L>of bras and coper and oþer metal,</L>
+<L>and quic bronston ymelt.</L>
+</LG>
+<LG N="100">
+<HEAD>100.</HEAD>
+<L>And mon and wimen þer on stode,</L>
+<L>and schrist and crid, as þai wer wode,</L>
+<L>for her dedeli sinne;</L>
+<L>sum to þe nauel wode,</L>
+<L>and sum to þe brestes ȝode,</L>
+<L>and sum to þe chin.</L>
+</LG>
+<LG N="101">
+<HEAD>101.</HEAD>
+<L>Ich man after his misgilt</L>
+<L>in þat pein was ypilt,</L>
+<L>to haue þat strong hete,</L>
+<L>and sum bere bagges about her swere</L>
+<L>of pens gloweand al of fer,</L>
+<L>and swiche mete þer þai ete.</L>
+</LG>
+<LG N="102">
+<HEAD>102.</HEAD>
+<L>Þat were gauelers in her liif.</L>
+<L>Be war þer bi boþe man and wiif,</L>
+<L>swiche sinne þat ȝe lete!</L>
+<L>And mani soules þer ȝede upriȝtes,</L>
+<L>wiþ fals misours and fals wiȝtes,</L>
+<L>þat fendes opon sete.</L>
+</LG>
+<LG N="103">
+<HEAD>103.</HEAD>
+<L>Þe fendes to þe kniȝt sede:</L>
+<L>"Þou most baþi in þis lede,</L>
+<L>or þan þou hennes go;</L>
+<L>for þine okering and for þi sinne</L>
+<L>a parti þou most be wasche her inne,</L>
+<L>o cours or to.</L>
+</LG>
+<LG N="104">
+<HEAD>104.</HEAD>
+<L>Owain drad þat turment <MILESTONE N="28c."/></L>
+<L>and cleped to god omnipotent</L>
+<L>and his moder Marie.</L>
+<L>Yborn he was out of þe halle,</L>
+<L>fram þe paines and þe fendes alle,</L>
+<L>þo he so loude gan crie.</L>
+</LG>
+<LG N="105">
+<HEAD>105.</HEAD>
+<L>Anon þe kniȝt was war þer,</L>
+<L>whare sprang out a flaumme o fer,</L>
+<L>þat was stark and store.</L>
+<L>Out þe erþe þe fer aros:</L>
+<L>þo þe kniȝt wel sore agros,</L>
+<L>as cole and piche it fore.</L>
+</LG>
+<LG N="106">
+<HEAD>106.</HEAD>
+<L>Of seuen maner colours þe fer out went:</L>
+<L>þe soules þer in it forbrent;</L>
+<L>sum was ȝalu and grene,</L>
+<L>sum was blac and sum was blo;</L>
+<L>þo þat were þer in, hem was ful wo,</L>
+<L>and sum as nadder on to sene.</L>
+</LG>
+<LG N="107">
+<HEAD>107.</HEAD>
+<L>Þe fende haþ þe kniȝt ynome,</L>
+<L>and to þe pit þai weren ycome</L>
+<L>and seyd þus in her spelle:</L>
+<L>"Now, Owain, þou miȝt solas make,</L>
+<L>for þou schalt wiþ our felawes schake,</L>
+<L>in to þe pit of helle.</L>
+</LG>
+<LG N="108">
+<HEAD>108.</HEAD>
+<L>"Þis ben our foules in our caȝe,</L>
+<L>and þis is our courtelage</L>
+<L>and our castel-tour;</L>
+<L><PB N="106" REF="50"/>
+þo þat ben her in ybrouȝt,</L>
+<L>sir kniȝt! hou trowestow ouȝt,</L>
+<L>þat hem is ani þing sour?</L>
+</LG>
+<LG N="109">
+<HEAD>109.</HEAD>
+<L>Now turn oȝain ar to late,</L>
+<L>ar we þe put in at helle gate!</L>
+<L>Out no schaltow neuer winne,</L>
+<L>for no noise no for no crie,</L>
+<L>no for no clepeing to Marie,</L>
+<L>no for no maner ginne!"</L>
+</LG>
+<LG N="110">
+<HEAD>110.</HEAD>
+<L>Her conseil þe kniȝt forsoke.</L>
+<L>Þe fendes him nom, so seiþ þe boke,</L>
+<L>and bounde him swiþe fast;</L>
+<L>in to þat ich wicke prisoun</L>
+<L>stinckand and derk fer adoun</L>
+<L>amidward þai him cast.</L>
+</LG>
+<LG N="111">
+<HEAD>111.</HEAD>
+<L>Euer þe neþer þat þai him cast,</L>
+<L>þe hatter þe fer on him last;</L>
+<L>þo him gan sore smert. <MILESTONE N="28d."/></L>
+<L>He cleped to god omnipotent,</L>
+<L>to help im out of þat turment,</L>
+<L>wiþ gode wille and stedefast hert.</L>
+</LG>
+<LG N="112">
+<HEAD>112.</HEAD>
+<L>Out of þe pit he was yborn,</L>
+<L>and elles he hadde ben forlorn</L>
+<L>to his endingday.</L>
+<L>Þat iche <NOTE N="1" PLACE="foot">is þe ms.</NOTE> pine, þat ich of rede,</L>
+<L>is for þe foule sinne of prede;</L>
+<L>Þat schal lasten ay.</L>
+</LG>
+<LG N="113">
+<HEAD>113.</HEAD>
+<L>Biside þe pit he seiȝe and herd,</L>
+<L>hou god almiȝten him had ywerd,</L>
+<L>his cloþes wer al to rent.</L>
+<L>Forþer couþe he no way;</L>
+<L>þer him þouȝt a diuers cuntray,</L>
+<L>his bodi was al forbrent,</L>
+</LG>
+<LG N="114">
+<HEAD>114.</HEAD>
+<L>Þo chaunged Owain rode and hewe;</L>
+<L>fendes he seiȝe, ac non he no knewe,</L>
+<L>in þat diuers lond;</L>
+<L>sum sexti eiȝen bere,</L>
+<L>þat loþeliche and griseliche were <NOTE N="2" PLACE="foot">we ms.</NOTE>,</L>
+<L>and sum hadde sexti hond.</L>
+</LG>
+<LG N="115">
+<HEAD>115.</HEAD>
+<L>Þai seyd: "Þou schalt nouȝt be alon,</L>
+<L>þou schalt hauen ous to mon,</L>
+<L>to teche þe newe lawes,</L>
+<L>as þou hast ylernd <NOTE N="3" PLACE="foot">n aus einem andern buchst. corrigirt.</NOTE>) ere</L>
+<L>in þe stede þer þou were</L>
+<L>amonges our felawes.</L>
+</LG>
+<LG N="116">
+<HEAD>116.</HEAD>
+<L>Þe fendes han þe kniȝt ynome,</L>
+<L>to a stinkand water þai ben ycome,</L>
+<L>he no seiȝe neuer er non swiche:</L>
+<L>it stank fouler þan ani hounde,</L>
+<L>and mani mile it was to þe grounde,</L>
+<L>and was as swart as piche.</L>
+</LG>
+<LG N="117">
+<HEAD>117.</HEAD>
+<L>And Owain seiȝe þer ouer ligge</L>
+<L>a swiþe strong naru brigge.</L>
+<L>Þe fendes seyd þo:</L>
+<L>"Lo sir kniȝt! sestow þis?</L>
+<L>þis is þe brigge of paradis;</L>
+<L>here ouer þou most go!</L>
+</LG>
+<LG N="118">
+<HEAD>118.</HEAD>
+<L>And we þe schul wiþ <NOTE N="4" PLACE="foot">þ aus s corrigirt.</NOTE>) stones þrowe,</L>
+<L>and þe winde þe schal ouer blowe</L>
+<L>and wirche þe ful wo.</L>
+<L>Þou no schalt for al þis miduerd,</L>
+<L>bot ȝif þou falle amidwerd, <MILESTONE N="29a."/></L>
+<L>to our felawes <NOTE N="5" PLACE="foot">fewes ms.</NOTE>) mo.</L>
+</LG>
+<LG N="119">
+<HEAD>119.</HEAD>
+<L>And when þou art adoun yfalle,</L>
+<L>þan schal com our felawes alle,</L>
+<L>and wiþ her hokes þe hede.</L>
+<L>We schul þe teche a newe play</L>
+<L>—þou hast serued ous mani a day—</L>
+<L>and into helle þe lede."</L>
+</LG>
+<LG N="120">
+<HEAD>120.</HEAD>
+<L>Owain biheld þe brigge smert,</L>
+<L>þe water þer under blac and swert,</L>
+<L>and sore him gan to drede,</L>
+<L>for of o þing he tok ȝeme:</L>
+<L>neuer mot in sonne beme</L>
+<L>þicker þan þe fendes ȝede.</L>
+</LG>
+<LG N="121">
+<HEAD>121.</HEAD>
+<L>Þe brigge was as heiȝe as a tour,</L>
+<L>and as scharpe as a rasour,</L>
+<L>and naru it was also,</L>
+<L>and þe water þat þer ran under,</L>
+<L>brend o liȝting and of þonder:</L>
+<L>þat þouȝt him michel wo.</L>
+</LG>
+<LG N="122">
+<HEAD>122.</HEAD>
+<L>Þer nis no clerk, may write wip ynke,</L>
+<L>no no man no may biþinke,</L>
+<L>no no maister deuine,</L>
+<L>þat is ymade, for soþe ywis,</L>
+<L><PB N="107" REF="51" MS="y"/>
+under þe brigge of paradis,</L>
+<L>haluendel þe pine.</L>
+</LG>
+<LG N="123">
+<HEAD>123.</HEAD>
+<L>So þe dominical <NOTE N="1)" PLACE="foot">dmcal ms.</NOTE> ous telle:</L>
+<L>þer is þe pure entre of helle;</L>
+<L>sein Poule berþ witnesse.</L>
+<L>Who so falleþ of þ brigge adoun,</L>
+<L>of him nis no redempcioun,</L>
+<L>noiþer more no lesse.</L>
+</LG>
+<LG N="124">
+<HEAD>124.</HEAD>
+<L>Þe fendes seyd to þe kniȝt þo:</L>
+<L>"Ouer þis brigge miȝt þou nouȝt go</L>
+<L>for noneskines nede.</L>
+<L>Fle periil, sorwe and wo,</L>
+<L>and to þat stede, þer þou com fro,</L>
+<L>wel fair we schul þe lede.</L>
+</LG>
+<LG N="125">
+<HEAD>125.</HEAD>
+<L>Owain anon him gan biþenche,</L>
+<L>fram hou mani of þe fendis wrenche</L>
+<L>god him saued hadde.</L>
+<L>He sett his fot opon þe brigge:</L>
+<L>ne feld he no scharp egge,</L>
+<L>no no þing him no drad.</L>
+</LG>
+<LG N="126">
+<HEAD>126.</HEAD>
+<L>When þe fendes yseiȝe þo, <MILESTONE N="29b."/></L>
+<L>þat he was more þan half ygo,</L>
+<L>loude þai gun to crie:</L>
+<L>"Allas, allas, þat he was born!</L>
+<L>Þis ich kniȝt we haue forlorn</L>
+<L>out of our baylie!"</L>
+</LG>
+<LG N="127">
+<HEAD>127.</HEAD>
+<L>When he was of þe brigge ywent,</L>
+<L>he þonked god omnipotent</L>
+<L>and his moder Marie,</L>
+<L>þat him hadde swiche grace ysent;</L>
+<L>he was deliuerd fro her turment</L>
+<L>in til a better baylie.</L>
+</LG>
+<LG N="128">
+<HEAD>128.</HEAD>
+<L>A cloþ of gold him was ybrouȝt,</L>
+<L>in what maner he nist nouȝt,</L>
+<L>þo god him hadde ysent.</L>
+<L>Þat cloþ he dede on him þere,</L>
+<L>and alle woundes hole were,</L>
+<L>þat er þen was forbrent.</L>
+</LG>
+<LG N="129">
+<HEAD>129.</HEAD>
+<L>He þonked god in trinite</L>
+<L>and loked forþer and gan yse,</L>
+<L>as it were a stonwal;</L>
+<L>he biheld about fer and neiȝe,</L>
+<L>non ende þer on he no seiȝe,</L>
+<L>o red gold it schon al.</L>
+</LG>
+<LG N="130">
+<HEAD>130.</HEAD>
+<L>Forþer more he gan yse</L>
+<L>a gate, non fairer miȝt be</L>
+<L>in þis world ywrouȝt;</L>
+<L>tre no stel nas þer on non;</L>
+<L>bot rede gold and precious ston,</L>
+<L>and al god made of nouȝt.</L>
+</LG>
+<LG N="131">
+<HEAD>131.</HEAD>
+<L>Jaspers, topes and cristal,</L>
+<L>margarites and coral</L>
+<L>and riche saferstones,</L>
+<L>ribes and salidoines,</L>
+<L>onicles and causteloines,</L>
+<L>and diamaunce for þe nones.</L>
+</LG>
+<LG N="132">
+<HEAD>132.</HEAD>
+<L>In tabernacles þai wer ywrouȝt,</L>
+<L>richer miȝt it be nouȝt,</L>
+<L>wiþ pilers gent and smal,</L>
+<L>arches ybent with charbukelston,</L>
+<L>knottes of rede gold þer opon,</L>
+<L>and pinacles of cristal.</L>
+</LG>
+<LG N="133">
+<HEAD>133.</HEAD>
+<L>Bi as miche as our saueour</L>
+<L>is queinter þan goldsmitþe oþer paintour,</L>
+<L>þat wonep in ani lond, <MILESTONE N="29c."/></L>
+<L>so fare þe gates of paradis</L>
+<L>er richer ywrouȝt, for soþe ywis,</L>
+<L>as ȝe may understond.</L>
+</LG>
+<LG N="134">
+<HEAD>134.</HEAD>
+<L>Þe gates bi hem selue undede:</L>
+<L>swiche a smal com out of þat stede,</L>
+<L>as it al baume were;</L>
+<L>and of þat ich sweteniss</L>
+<L>þe kniȝt tok so gret strengþe ywis <NOTE N="2)" PLACE="foot">y über der z. geschr.</NOTE>,</L>
+<L>as ȝe may forþeward here,</L>
+</LG>
+<LG N="135">
+<HEAD>135.</HEAD>
+<L>þat him þouȝt, he miȝt wel</L>
+<L>more bi a þousand del</L>
+<L>suffri pain and wo,</L>
+<L>and turn oȝain siker, apliȝt,</L>
+<L>and oȝain alle fendes fiȝt,</L>
+<L>þer he er com fro.</L>
+</LG>
+<LG N="136">
+<HEAD>136.</HEAD>
+<L>Þe kniȝt ȝode þe gate nere,</L>
+<L>and seiȝe þer com wiþ milde chere</L>
+<L>wel mani processioun,</L>
+<L>wiþ tapers and chaundelers of gold:</L>
+<L>—non fairer no miȝt ben on mold—</L>
+<L>and croices and goinfainoun.</L>
+</LG>
+<LG N="137">
+<HEAD>137.</HEAD>
+<L>Popes wiþ gret dingnite</L>
+<L>and cardinals gret plente,</L>
+<L>kinges and quenes þer were,</L>
+<L>kniȝtes, abbotes and priours,</L>
+<L>monkes, chanouns and frere prechours,</L>
+<L>and bischopes þat croices bere.</L>
+</LG>
+<LG N="138">
+<PB N="108" REF="52" MS="y"/>
+<HEAD>138.</HEAD>
+<L>Frere Menours and Jacobins,</L>
+<L>frere Carmes and frere Austines,</L>
+<L>and nonnes white and blake:</L>
+<L>al maner religioun</L>
+<L>þer ȝede in þat processioun,</L>
+<L>þat order hadde ytake.</L>
+</LG>
+<LG N="139">
+<HEAD>139.</HEAD>
+<L>Þe order of wedlake com also,</L>
+<L>men and wimen mani and mo,</L>
+<L>and þonked godes grace,</L>
+<L>þat haþ þe kniȝt swiche grace ysent:</L>
+<L>he was deliuerd from þe fendes turment,</L>
+<L>quic man into þat plas.</L>
+</LG>
+<LG N="140">
+<HEAD>140.</HEAD>
+<L>And when þai hadde made þis melody,</L>
+<L>tvay com out of her compeynie,</L>
+<L>palmes of gold þai bere;</L>
+<L>to þe kniȝt þai ben ycome, <MILESTONE N="29d."/></L>
+<L>bitvix hem tvay þai han him nome,</L>
+<L>and erchebischopes it were.</L>
+</LG>
+<LG N="141">
+<HEAD>141.</HEAD>
+<L>Up and doun þai ladde þe kniȝt,</L>
+<L>and schewed him ioies of more miȝt</L>
+<L>and miche melodye;</L>
+<L>mirie were her carols þere,</L>
+<L>non foles among hem <NOTE N="1)" PLACE="foot">him ms.</NOTE> nere,</L>
+<L>bot ioie and menstracie.</L>
+</LG>
+<LG N="142">
+<HEAD>142.</HEAD>
+<L>Þai ȝede on carol al bi line,</L>
+<L>her ioie may no man deuine,</L>
+<L>of god þai speke and song;</L>
+<L>and angles ȝeden hem to gy</L>
+<L>wiþ harpe and fiþel and sautry,</L>
+<L>and belles miri rong.</L>
+</LG>
+<LG N="143">
+<HEAD>143.</HEAD>
+<L>No may þer no man caroly inne,</L>
+<L>bot þat he be clene of sinne</L>
+<L>and leten alle foly.</L>
+<L>Now god, for þine woundes alle,</L>
+<L>graunt ous caroly in þat halle,</L>
+<L>and his moder Marie!</L>
+</LG>
+<LG N="144">
+<HEAD>144.</HEAD>
+<L>Þis ich ioie, as ȝe may se,</L>
+<L>is for loue and charite</L>
+<L>oȝain god and mankinne:</L>
+<L>who þat lat erþely loue be,</L>
+<L>and loueþ god in trinite,</L>
+<L>he may caroly þer inne.</L>
+</LG>
+<LG N="145">
+<HEAD>145.</HEAD>
+<L>Oþer ioies he seiȝe anouȝ:</L>
+<L>heiȝe tres wiþ mani a bouȝ,</L>
+<L>þer on sat foules of heuen,</L>
+<L>and breke her notes wiþ miri gle,</L>
+<L>burdoun and mene gret plente,</L>
+<L>and hautain wiþ heiȝe steuen.</L>
+</LG>
+<LG N="146">
+<HEAD>146.</HEAD>
+<L>Him þouȝt wele wiþ þat foules song,</L>
+<L>he miȝt wele liue þer among</L>
+<L>til þe worldes ende.</L>
+<L>Þer he seiȝe þat tre of liif,</L>
+<L>whar þurch þat Adam and his wiif</L>
+<L>to helle gun wende.</L>
+</LG>
+<LG N="147">
+<HEAD>147.</HEAD>
+<L>Fair were her erbers wiþ floures,</L>
+<L>rose and lili diuers colours,</L>
+<L>primrol and paruink,</L>
+<L>mint, feþerfoy and eglentere,</L>
+<L>calombin and mo þer were, <MILESTONE N="30a."/></L>
+<L>þan ani man mai biþenke.</L>
+</LG>
+<LG N="148">
+<HEAD>148.</HEAD>
+<L>It beþ erbes of oþer maner,</L>
+<L>þan ani in erþe groweþ here</L>
+<L>þo þat is lest of priis;</L>
+<L>euermore þai grene springeþ,</L>
+<L>for winter no somer it no clingeþ,</L>
+<L>and swetter þan licorice.</L>
+</LG>
+<LG N="149">
+<HEAD>149.</HEAD>
+<L>Þer beþ þe welles in þat stede,</L>
+<L>þe water is swetter þan ani mede,</L>
+<L>ac on þer is <NOTE N="2)" PLACE="foot">is über der z. geschr.</NOTE> of priis,</L>
+<L>swiche þat seynt Owain seiȝe þo,</L>
+<L>þat foure stremes urn fro,</L>
+<L>out of paradis.</L>
+</LG>
+<LG N="150">
+<HEAD>150.</HEAD>
+<L>Dison men clepeþ þat o strem,</L>
+<L>þat is of swiþe briȝt lem,</L>
+<L>gold is þer in yfounde</L>
+<L>Fison men clepeþ þat oþer ywis,</L>
+<L>þat is of miche more priis</L>
+<L>of stones in þe grounde.</L>
+</LG>
+<LG N="151">
+<HEAD>151.</HEAD>
+<L>þe þridde strem is Eufrates,</L>
+<L>for soþe to telle wiþouten les,</L>
+<L>þat rinneþ swiþe riȝt.</L>
+<L>þe ferþ strem is Tigris;</L>
+<L>in þe world is make nis,</L>
+<L>of stones swiþe briȝt.</L>
+</LG>
+<LG N="152">
+<HEAD>152.</HEAD>
+<L>Who loueþ to liue in clenesse,</L>
+<L>he schal haue þat ich blisse</L>
+<L>and se þat semly siȝt.</L>
+<L>And more he þer yseiȝe <NOTE PLACE="foot">3) be om. ms.</NOTE></L>
+<L><PB N="109" REF="53"/>
+under godes glorie an heiȝe:</L>
+<L>yblisced be <NOTE N="1)" PLACE="foot">be om. ms.</NOTE> his miȝt!</L>
+</LG>
+<LG N="153">
+<HEAD>153.</HEAD>
+<L>Sum soule he seyȝe woni bi selue,</L>
+<L>and sum bi ten and bi tuelue,</L>
+<L>and euerich com til oþer;</L>
+<L>and when þai com togiders ywis,</L>
+<L>alle þai made miche blis,</L>
+<L>as soster doþ wiþ þe broþer.</L>
+</LG>
+<LG N="154">
+<HEAD>154.</HEAD>
+<L>Sum he seiȝe gon in rede scarlet,</L>
+<L>and sum in pourper wele ysett,</L>
+<L>and sum in sikelatoun;</L>
+<L>as þe prest ate masse wereþ,</L>
+<L>tonicles and aubes on hem þai bereþ,</L>
+<L>and sum goldbete al doun. <MILESTONE N="30b."/></L>
+</LG>
+<LG N="155">
+<HEAD>155.</HEAD>
+<L>Þe kniȝt wele in alle þing</L>
+<L>knewe bi her cloþeing,</L>
+<L>in what state þat þai weren,</L>
+<L>and what dedes þai hadde ydo,</L>
+<L>þo þat were ycloþed so,</L>
+<L>while <NOTE N="2)" PLACE="foot">whise liest ms.</NOTE> þai weren mannes fere.</L>
+</LG>
+<LG N="156">
+<HEAD>156.</HEAD>
+<L>Ichil ȝou tel a fair semblaunce,</L>
+<L>þat is a gode acordaunce</L>
+<L>bi þe sterres clere:</L>
+<L>sum ster is briȝter on to se,</L>
+<L>þan is bisides oþer þre,</L>
+<L>and of more pouwere.</L>
+</LG>
+<LG N="157">
+<HEAD>157.</HEAD>
+<L>In þis maner ydelt it is</L>
+<L>bi þe ioies of paradis:</L>
+<L>þai no haue nouȝt al yliche;</L>
+<L>þe soule, þat haþ ioie lest,</L>
+<L>him þenkeþ, he haþ alder mest,</L>
+<L>and holt him also riche.</L>
+</LG>
+<LG N="158">
+<HEAD>158.</HEAD>
+<L>Þe bischopes oȝain to him come,</L>
+<L>bitven hem tvay þai him nome</L>
+<L>and ladde him up and doun,</L>
+<L>and seyd: "Broþer, god, herd he be!</L>
+<L>Fulfild is þi volente.</L>
+<L>Now herken our resoun:</L>
+</LG>
+<LG N="159">
+<HEAD>159.</HEAD>
+<L>Þou hast yse wiþ eiȝen þine</L>
+<L>boþe þe ioies and þe pine:</L>
+<L>yherd be godes grace!</L>
+<L>We wil þe tel bi our comun dome,</L>
+<L>what way it was, þat þou bicome,</L>
+<L>er þou hennes pas.</L>
+</LG>
+<LG N="160">
+<HEAD>160.</HEAD>
+<L>Þat lond þat is so ful of sorwe,</L>
+<L>boþe auen and a morwe,</L>
+<L>þat þou þus com bi,</L>
+<L>þou suffredes pain and wo,</L>
+<L>and oþer soules mani mo:</L>
+<L>men clepeþ it purgatori.</L>
+</LG>
+<LG N="161">
+<HEAD>161.</HEAD>
+<L>And þis lond, þat is so wide,</L>
+<L>and so michel and so side,</L>
+<L>and is ful of blis,</L>
+<L>þat þou hast now in ybe,</L>
+<L>and mani ioies here yse,</L>
+<L>paradis is cleped ywis.</L>
+</LG>
+<LG N="162">
+<HEAD>162.</HEAD>
+<L>Þer mai no man comen here, <MILESTONE N="30c."/></L>
+<L>til þat he be spourged þere</L>
+<L>and ymade al clene.</L>
+<L>Þan comeþ þai hider", þe bischop sede, <NOTE N="3)" PLACE="foot">sede ms.</NOTE></L>
+<L>"into þe ioie we schul hem lede,</L>
+<L>sum while be tvelue and tene.</L>
+</LG>
+<LG N="163">
+<HEAD>163.</HEAD>
+<L>And sum ben so hard ybounde,</L>
+<L>þai nite neuer, hou long stounde</L>
+<L>þai schul suffri þat hete;</L>
+<L>bot ȝif her frendes do godenisse,</L>
+<L>ȝif mete or do sing messe,</L>
+<L>þat þai han in erþe ylete,</L>
+</LG>
+<LG N="164">
+<HEAD>164.</HEAD>
+<L>oþer ani oþer almosdede</L>
+<L>alle þe better hem may spede</L>
+<L>out of her missays,</L>
+<L>and com into þis paradis,</L>
+<L>þer ioie and blis euer is,</L>
+<L>and libbe here al in pays.</L>
+</LG>
+<LG N="165">
+<HEAD>165.</HEAD>
+<L>As hye comeþ out of purgatori,</L>
+<L>so passe we up to godes glori,</L>
+<L>þat is þe heiȝe riche,</L>
+<L>þat is paradis celestien <NOTE N="4)" PLACE="foot">celestian ms.</NOTE>;</L>
+<L>þer in com bot cristen men:</L>
+<L>no ioie is þat yliche.</L>
+</LG>
+<LG N="166">
+<HEAD>166.</HEAD>
+<L>When we comen out of þe fer</L>
+<L>of purgatori, ar we com her,</L>
+<L>we no may nouȝt anon riȝt,</L>
+<L>til we han her long ybe,</L>
+<L>we may nouȝt godes face yse,</L>
+<L>no in þat stede aliȝt.</L>
+</LG>
+<LG N="167">
+<HEAD>167.</HEAD>
+<L>þe child, þat was yborn to niȝt,</L>
+<L>er þe soule be hider ydiȝt</L>
+<L><PB N="110" REF="54"/>
+þe pain schal ouer fle;</L>
+<L>strong and heui is it þan</L>
+<L>here to com þe old man,</L>
+<L>þat long in sinne haþ be.</L>
+</LG>
+<LG N="168">
+<HEAD>168.</HEAD>
+<L>Forþ þai went til þai seiȝe</L>
+<L>a mounteyn, þat was swiþe heiȝe;</L>
+<L>þer was al gamen and gle.</L>
+<L>So long þai hadde þe way ynome,</L>
+<L>þat to þe cop þai weren ycome,</L>
+<L>þe ioies for to se.</L>
+</LG>
+<LG N="169">
+<HEAD>169.</HEAD>
+<L>Þer was al maner foulen song,</L>
+<L>michel ioie was hem among,</L>
+<L>and euer more schal be; <MILESTONE N="30d."/></L>
+<L>þer is more ioie in a foules mouþe,</L>
+<L>þan here in harp, fiþel or crouþe,</L>
+<L>bi lond oþer bi se.</L>
+</LG>
+<LG N="170">
+<HEAD>170.</HEAD>
+<L>Þat lond, þat is so honestly,</L>
+<L>is ycleped paradis terestri,</L>
+<L>þat is in erþe here;</L>
+<L>þat oþer is paradis, godes riche:</L>
+<L>þilke ioie haþ non yliche,</L>
+<L>and is aboue þe aire.</L>
+</LG>
+<LG N="171">
+<HEAD>171.</HEAD>
+<L>In þat, þat is in erþe here,</L>
+<L>was Owain, þat y spac of here,</L>
+<L>swiche þat les Adam;</L>
+<L>for, hadde Adam yhold him stille,</L>
+<L>and wrouȝt after godes wille,</L>
+<L>as he oȝain him nam,</L>
+</LG>
+<LG N="172">
+<HEAD>172.</HEAD>
+<L>he no his ofspring neuer mo</L>
+<L>out of þat ioie no schuld haue go;</L>
+<L>bot for he brac it so sone,</L>
+<L>wiþ pike and spade in diche to delue,</L>
+<L>to help his wiif and him selue,</L>
+<L>god made him miche to done.</L>
+</LG>
+<LG N="173">
+<HEAD>173.</HEAD>
+<L>God was wiþ him so wroþ,</L>
+<L>þat he no left him no cloþ,</L>
+<L>bot a lef of a tre,</L>
+<L>and alnaked ȝede and stode:</L>
+<L>loke man, ȝif hye ner wode,</L>
+<L>at swiche a conseil to be!</L>
+</LG>
+<LG N="174">
+<HEAD>174.</HEAD>
+<L>Þo com an angel wiþ a swerd o fer,</L>
+<L>and wiþ a stern loke and chere,</L>
+<L>and made hem sore aferd;</L>
+<L>in erþe to ben in sorwe and wo,</L>
+<L>þer while þai liued euer mo,</L>
+<L>he drof hem to miduerd.</L>
+</LG>
+<LG N="175">
+<HEAD>175.</HEAD>
+<L>And when he dyed, to helle he nam</L>
+<L>and al þat euer of him cam,</L>
+<L>til godes sone was born,</L>
+<L>and suffred pain and passioun,</L>
+<L>and brouȝt him out of þat prisoun,</L>
+<L>and elles were al forlorn.</L>
+</LG>
+<LG N="176">
+<HEAD>176.</HEAD>
+<L>Here of spekeþ Dauid in þe sauter,</L>
+<L>of a þing þat toucheþ here,</L>
+<L>of god in trinite,</L>
+<L>opon men, þat ben in gret honour,</L>
+<L>and honoureþ nouȝt her creatour <MILESTONE N="31a."/></L>
+<L>of so heiȝe dignite.</L>
+</LG>
+<LG N="177">
+<HEAD>177.</HEAD>
+<L>Alle þat ben of Adames kinne,</L>
+<L>þ[at here in erþe] [haue don sinne <NOTE N="1)" PLACE="foot">þat here in erþe hat Laing gelesen, ich nur þ; die drei auf erþe folgenden worte sind halb überklebt.</NOTE></L>
+<L>s . . . . . . . . . . . . .</L>
+<L>o . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+</LG>
+<LG N="178">
+<HEAD>178.</HEAD>
+<L>. . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+</LG>
+<LG N="179">
+<HEAD>179.</HEAD>
+<L>. . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>in þe paine [of purgatori <NOTE N="2)" PLACE="foot">Halb überklebt.</NOTE>;</L>
+<L>and bot he haue þe better chaunce,</L>
+<L>at domesday he is in balaunce</L>
+<L>oȝaines god in glorie.</L>
+</LG>
+<LG N="180">
+<HEAD>180.</HEAD>
+<L>Þe bischopes þe kniȝt hete,</L>
+<L>to tellen him, þat he no lete,</L>
+<L>wheþer heuen were white or biis,</L>
+<L>blewe or rede, ȝalu or grene.</L>
+<L>þe kniȝt seyd: "Wiþouten wene,</L>
+<L>y schal say min aviis.</L>
+</LG>
+<LG N="181">
+<HEAD>181.</HEAD>
+<L>Me þenkeþ, it is a þousandfold</L>
+<L>briȝter þan <NOTE N="3)" PLACE="foot">Ueber þan ist etwas ausradirt.</NOTE> euer was ani gold</L>
+<L>bi siȝt opon to se."</L>
+<L><PB N="111" REF="55"/>
+"ȝa", seyd þe bischop to þe kniȝt,</L>
+<L>"þat ich stede, þat is so briȝt,</L>
+<L>nis bot þe entre.</L>
+</LG>
+<LG N="182">
+<HEAD>182.</HEAD>
+<L>And ich day ate gate o siþe</L>
+<L>ous comeþ a mele, to make ous bliþe,</L>
+<L>þat is to our biheue <NOTE N="1)" PLACE="foot">So Laing; ich lese: biheuie; i ist eng an e angeschlossen.</NOTE>:</L>
+<L>a swete smal of al gode,</L>
+<L>it is our soule fode;</L>
+<L>abide, þou schalt ous leue!"</L>
+</LG>
+<LG N="183">
+<HEAD>183.</HEAD>
+<L>Anon þe kniȝt was war þere,</L>
+<L>whare sprong out a flaumbe o fer,</L>
+<L>fram heuengate it fel.</L>
+<L>Þe kniȝt þouȝt al fer and neiȝe,</L>
+<L>þat ouer al paradis it fleiȝe, <MILESTONE N="31b."/></L>
+<L>and ȝaf so swete a smal.</L>
+</LG>
+<LG N="184">
+<HEAD>184.</HEAD>
+<L>Þe holi gost in fourme o fer</L>
+<L>opon þe kniȝt liȝt þer</L>
+<L>in þat ich place;</L>
+<L>þurch uertu of þat ich liȝt</L>
+<L>he les þer al his erþelich miȝt</L>
+<L>and þonked godes grace.</L>
+</LG>
+<LG N="185">
+<HEAD>185.</HEAD>
+<L>Þus þe bischop to him sede:</L>
+<L>"God fet ous ich day wiþ his brede,</L>
+<L>ac we no haue noure neiȝe</L>
+<L>so grete likeing of his grace,</L>
+<L>no swiche a siȝt opon his face,</L>
+<L>as þo þat ben an heiȝe.</L>
+</LG>
+<LG N="186">
+<HEAD>186.</HEAD>
+<L>Þe soules þat beþ at godes fest,</L>
+<L>þilche ioie schal euer lest</L>
+<L>wiþ outen ani ende.</L>
+<L>Now þou most bi our comoun dome</L>
+<L>þat ich way, þat þou bicome,</L>
+<L>oȝain þou most wende.</L>
+</LG>
+<LG N="187">
+<HEAD>187.</HEAD>
+<L>Now kepe þe wele fram dedli sinne,</L>
+<L>þat þou neuer com þer inne</L>
+<L>for nonskines nede;</L>
+<L>when þou art ded, þou schalt wende</L>
+<L>in to þe ioie þat haþ no ende,</L>
+<L>angels schul þe lede.</L>
+</LG>
+<LG N="188">
+<HEAD>188.</HEAD>
+<L>Þo wepe seynt Owain swiþe sore</L>
+<L>and prayd hem for godes ore,</L>
+<L>þat he most þer duelle,</L>
+<L>þat he no seiȝe neuer more,</L>
+<L>as he hadde do bifore,</L>
+<L>þe strong peines of helle.</L>
+</LG>
+<LG N="189">
+<HEAD>189.</HEAD>
+<L>Of þat praier gat he no gain;</L>
+<L>he nam his leue and went oȝain,</L>
+<L>þei him were swiþe wo.</L>
+<L>Fendes he seiȝe ten þousand last,</L>
+<L>þay flowe fram him as quarel of alblast</L>
+<L>þat he er com fro.</L>
+</LG>
+<LG N="190">
+<HEAD>190.</HEAD>
+<L>No nere þan a quarel miȝt fle,</L>
+<L>no fende no miȝt him here no se</L>
+<L>for al þis warld to winne;</L>
+<L>and when þat he com to þe halle.</L>
+<L>þe þritten men he fond alle</L>
+<L>oȝaines him þer inne.</L>
+</LG>
+<LG N="191">
+<HEAD>191.</HEAD>
+<L>Alle þai held up her hond,</L>
+<L>and þonked Jhesu Cristes sond <MILESTONE N="31c."/></L>
+<L>a þousand times and mo,</L>
+<L>and bad him heiȝe, þat he no wond,</L>
+<L>þat he wer up im Yrlond</L>
+<L>as swiþe as he miȝt go.</L>
+</LG>
+<LG N="192">
+<HEAD>192.</HEAD>
+<L>And as ich finde in þis stori:</L>
+<L>þe priour of þe purgatori</L>
+<L>com tokening þat niȝt,</L>
+<L>þat Owain hadde ouercomen his sorwe,</L>
+<L>and schuld com up on þe morwe,</L>
+<L>þurch grace of god almiȝt.</L>
+</LG>
+<LG N="193">
+<HEAD>193.</HEAD>
+<L>Þan þe priour wiþ processioun,</L>
+<L>wiþ croice and wiþ goinfainoun</L>
+<L>to þe hole he went ful riȝt</L>
+<L>þer þat kniȝt Owain in wende,</L>
+<L>as a briȝt fere þat brende,</L>
+<L>þai seiȝe a lem of liȝt.</L>
+</LG>
+<LG N="194">
+<HEAD>194.</HEAD>
+<L>And riȝt amiddes þat ich liȝt</L>
+<L>com up Owain, godes kniȝt;</L>
+<L>þo wist þai wele bi þan,</L>
+<L>þat Owain hadde ben in paradis</L>
+<L>and in purgatori ywis,</L>
+<L>and þat he was holy man.</L>
+</LG>
+<LG N="195">
+<HEAD>195.</HEAD>
+<L>Þai ladde him in to holi chirche,</L>
+<L>godes werkes for to wirche,</L>
+<L>his praiers he gan make;</L>
+<L>and at þe ende, on þe fiften day</L>
+<L>þe kniȝt anon, for soþe to say,</L>
+<L>scrippe and burdoun gan take.</L>
+</LG>
+<LG N="196">
+<PB N="112" REF="56"/>
+<HEAD>196.</HEAD>
+<L>Þat ich holy stede he souȝt,</L>
+<L>þer Jhesus Crist ous dere bouȝt</L>
+<L>opon þe rodetre,</L>
+<L>and þer he ros fram ded to liue</L>
+<L>þurch vertu of his woundes fiue:</L>
+<L>yblisced mot he be!</L>
+</LG>
+<LG N="197">
+<HEAD>197.</HEAD>
+<L>and Bedlem, þer þat god was born</L>
+<L>of Mari, his moder as flour of þorn,</L>
+<L>and þer he stiȝe to heuen;</L>
+<L>and seþen in to Yrlond he come</L>
+<L>and monkes abite undernome,</L>
+<L>and liued þere ȝeres seuen.</L>
+</LG>
+<LG N="198">
+<HEAD>198.</HEAD>
+<L>And when he deyd, he went ywis</L>
+<L>in to þe heiȝe ioie of paradis</L>
+<L>þurch help of godes grace.</L>
+<L>Now god for seynt Owains loue</L>
+<L>graunt ous heuenblis aboue</L>
+<L>bifor his swete face!</L>
+</LG>
+<CLOSER>Amen!</CLOSER>
+</DIV2>
+<DIV2 TYPE="commentary">
+<HEAD>Anmerkungen.</HEAD>
+<P>v. 1, 3 f. rewþe—untrewe; ich vermuthe, dass für das zweite reimwort un∣trewþe einzusetzen ist; vgl. King Horn, edd. Ritson (Anc. engl. metr. rom. II) v. 415 f.: Horn, have of me reuthe | and plyht me thi treuthe.</P>
+<P>v. 2, 5. Für ribaudie führt Bartsch im glossar zur Altfr. chrest. nur die be∣deutung "hurerei" an; hier passt nur die von Hall., dict. p. 682 für ribaudrie an∣gegebene: low, profligate talk; natürlich lassen sich ja beide erklȧrungen von dem∣selben begriffe ableiten.</P>
+<P>v. 3, 4. Eigenthümlich ist hier die anwendung des wortes: roman: don that roman: das abenteuer ausführen.</P>
+<P>v. 13, 1. Hier hätte wol ohne bedenken zu gunsten des reimes seyd in sede geändert werden können, ebenso v. 31, 4 grace in gras; vgl. v. 25, 2; v. 51, 1 rede für red; v. 54, 4 fel in felle; v. 70, 5 fer in fere; v. 79, 2 fere in fer; v. 174, 1 o fere; v. 176, 1 sautere in sauter; doch aber habe ich es unterlassen, weil wie im letzten beispiel, öfters doppelte änderung möglich war.</P>
+<P>v. 20, 5. seyn Patrike ist apposition zu he in zeile 2, obwol freilich etwas spät nachgetragen.</P>
+<P>v. 33, 5. sinne ist hier verbum, entstanden aus der form singen, alte. syngian.</P>
+<P>v. 47, 6 to god þi trewe fay: füge deine treue zu gott, d. h. vertraue fest auf gott; fay = alte. fêgan, vgl. Stratm. p. 161.</P>
+<P>v. 48, 5. "and" steht hier für "wenn", wie öfters; vgl. Sir Bevis of Hamt., edd. Turnbull, Edinb. 1838, v. 1101 ff.: In al this world nis ther man, | prinse ne king, ne soudan, | that the to wiue haue nolde, | and he [so, nicht: lie, hat ms.] the hadde ones beholde; das. v. 557 ff.: And thow wile the god forsake | and to Apolyn, me lord, take, | hire ischel the ȝeue to wiue etc.</P>
+<P>v. 56, 4 ff. Diese worte erinnern an die rede des satans in Harrow, of hell v. 67 ff.: For he mai so michel do, | þat he shal ous come to, | for to ben oure fere, | and fonden, hou we pleien here.</P>
+<P>v. 60, 3 ff. driȝt—almiȝt. Die form driȝte neben der volleren driȝten kommt auch sonst vor; vgl. Stratm. s. v.</P>
+<P>v. 70, 6. In herd is nouȝt to hide; ich verstehe unter diesen worten: In der heerde, in der schaar der übrigen kann sich kein einzelner vor den drachen verbergen.</P>
+<P>v. 85, 5. plouȝ muss hier, neben gold und siluer gebraucht, die bedeutung: "gewinn" haben wie isl. plógr, vgl. Cleasb.—Vigf. s. v.</P>
+<P>v. 118, 4 ff. Zu schalt ist ouer go aus der vorigen strophe zu ergänzen; bot ȝif hat hier die bedeutung von quin, ohne zu.</P>
+<P>v. 120. mot, flexionsloser plural, oder collectiv gebrauchter sing: Nie be∣wegten sich stäubchen im sonnenstrahle dichter als dort die teufel. In engl. 3 ist
+<PB N="113" REF="57"/>
+zu demselben zwecke der ausmalenden schilderung ein anderes bild gebraucht, wenn es heisst v. 406 ff.: Sowles wer þeryn mony and thykke, | and also deueles on eche a syde, | as þykke as flowres yn someres tyde. Doch ist die in engl. 2 gebrauchte vergleichung viel treffender.</P>
+<P>v. 131, 6. for þe nones. Vgl. Wülcker, leseb., note zu 5, 74. Vor Morris hat White über diesen und ähnliche fälle, wo n zum folgenden worte genommen wird, gehandelt, Ormulum II p. 642.</P>
+<P>v. 137, 5. frer' hat Laing durch frer<HI REND="italic">en</HI> wiedergegeben, aber diese abkürzung kann nur <HI REND="italic">er, re</HI> oder <HI REND="italic">e</HI> bedeuten, wenn r schon vorhergeht, nie <HI REND="italic">en.</HI> Wegfall der pluralflexion ist in unserem texte ja sehr häufig.</P>
+<P>v. 142, 4. gy = guide; für gie citirt Stratm. Will. of Pal. v. 2727.</P>
+<P>v. 147, 3 ff. primrol ist = primrose, primel; paruink = nelke; beide blumen werden, wol schon der alliteration zu gefallen, öfters zusammengenannt; Hall. citirt s. v. parvenke aus cod. Harl. 2253: The primerole he passeth, the par∣venke of pris.—Eglentere für eglantine = hagebuttenstruch, kommt auch bei Chaucer vor; ist fetherfoy = featherfold oder featherfowl = fieberkraut, oder = feathergrass? Das wort ist weder bei Stratm. noch bei Hall. zu finden; calombin endlich ist offenbar = frz. colombine = akelei.</P>
+<P>v. 154, 5. tonicles. tonikil = Dalmatic, a garment formerly worn by a deakon and described as vestis sacerdotalis candida cum clavis purpureis. Hall. Hier ist der einschlag golden gedacht, wie die folgende zeile lehrt; zu goldbete vgl. Sir Bev. v. 1157 ff.: . . . . a mantel whit so melk, | the broider is of tuli selk, | beten abouten with rede golde.</P>
+<P>v. 160. 2. Ms.: anen oder auen oder aneu; es hätte nahe gelegen, ein e anzufügen und an eue zu lesen, vgl. King of Tars. (Ritson II) v. 468: a morwe and eke an eve; aber auch auen findet sich mehrfach; vgl. Stratm. s. v. aefen und so wagte ich nicht zu ändern.</P>
+<P>v. 183, 3. biis; Hall. sagt s. v.: A delicate blue colour; but the term is frequently applied to a silk of fine texture and to other colours, black or dark grey; für die bedeutung: schwarz, ist diese stelle ein treffender beleg.</P>
+<P>v. 189. alblast = instrument for shooting arrows. Hall.; fehlt bei Stratm.</P>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<HEAD>II.</HEAD>
+<HEAD>OWAYNE MYLES.</HEAD>
+<LG>
+<L>God þat ys so full of myght, <MILESTONE N="89c."/></L>
+<L>þat mendede wronge and made ryght,</L>
+<L>he sente men, us to wysse</L>
+<L>the ryght way to heuen blysse,</L>
+<L>ffyrste his prophetys, þat we<HI REND="italic">r</HI> bold,</L>
+<L>off þat was comyng, þey us told;</L>
+<L>but þe folke þat we<HI REND="italic">r</HI> yn londe,</L>
+<L>ne myght hem not unþurstonde.</L>
+<L>To teche us more redylye,</L>
+<L>he come hym self fu<HI REND="italic">ll</HI> priuely, <MILESTONE N="10"/></L>
+<L>and almoste þre and þrytty ȝer</L>
+<L>sothefaste mon he dwelled here;</L>
+<L>both in wordes and tokenes fele</L>
+<L>he tawȝte men, her sawles to hele,</L>
+<L>and at þe laste for monnus goode</L>
+<L>he dyed hym self upon þe rode</L>
+<L>and bowȝte us wyt his blody syde,</L>
+<L>a<HI REND="italic">ll</HI> hem, þat were lorn þorrow pride,</L>
+<L>and hys apostelus for soþe he sende,</L>
+<L>þat þey shulde þe folke amende, <MILESTONE N="20"/></L>
+<L>and to tell hem of heuenryche,</L>
+<L>ȝong and olde, pore a<HI REND="italic">ll</HI> ylyche.</L>
+<L>He hadde bysshoppus gode also</L>
+<L>and oþur prechorus mony mo,</L>
+<L>þat shewed her mony a tokenyng,</L>
+<L>that he ys god and sothefast kynge;</L>
+<L>holy þyschoppus som tyme þer were,</L>
+<L>that tawȝte men of goddes lore.</L>
+<L>In Irolonde preched seynt Patryke:</L>
+<L>in þat londe was non hym lyke; <MILESTONE N="30"/></L>
+<L><PB N="114" REF="58"/>
+he prechede goddes worde full wyde,</L>
+<L>and tolde men what shullde betyde.</L>
+<L>Ffyrste he preched of heuen blysse:</L>
+<L>who euur go þydur, may ryght nowȝt mysse;</L>
+<L>sethen he preched of helle pyne,</L>
+<L>howe wo them ys, that comeþ þerinne;</L>
+<L>and then he preched of purgatory,</L>
+<L>as he fonde in hys story.</L>
+<L>But ȝet þe folke of þys contre</L>
+<L>beleued not þat hyt myȝth be, <MILESTONE N="40"/></L>
+<L>and seyde, but ȝyf hyt were so, <MILESTONE N="89d."/></L>
+<L>þat eny mon myth hym self go</L>
+<L>and se all þat and come ageyn,</L>
+<L>þen wolde þey beleue fayn.</L>
+<L>Seynt Patryke hym self beþowȝth,</L>
+<L>and Jhesu faste he besowȝth,</L>
+<L>that he wolde som tokyne shewe,</L>
+<L>so þe pepull myȝth þe bettur knowe,</L>
+<L>and þat he myȝth þorow hys leue</L>
+<L>turne hem ynto þe ryȝt beleue. <MILESTONE N="50"/></L>
+<L>Our lord come to hym upon a day,</L>
+<L>as he yn hys bedys lay;</L>
+<L>two ryche þynkes he hym ȝaf:</L>
+<L>a booke of gospellus and a staf.</L>
+<L>Wyt full glad chere þe byschop hem toke,</L>
+<L>boþe þe ryche staffe and þe booke,</L>
+<L>and ȝet be þo ryche relyquus þere,</L>
+<L>and at euery festeday yn þe ȝere</L>
+<L>they ben bore yn processioun</L>
+<L>wyth fu<HI REND="italic">ll</HI> gret deuocyoun <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.:</HI> deuocyoun̄.</NOTE>. <MILESTONE N="60"/></L>
+<L>The archebysshop of þat lond</L>
+<L>sha<HI REND="italic">ll</HI> bere þat staffe yn hys honde;</L>
+<L>who so wy<HI REND="italic">ll</HI> wyte, what hyt hatte:</L>
+<L>Jhesu staffe men calle hyt ȝette.</L>
+<L>God spakke to saynt Patryke þo</L>
+<L>by name, and badde hym wyt hym go;</L>
+<L>he ladde hym ynto a wyldernesse,</L>
+<L>wher was no reste more ne lesse,</L>
+<L>and shewed, þat he myȝth se</L>
+<L>in to þe erþe a pryue entre; <MILESTONE N="70"/></L>
+<L>hit was yn a depe dyches ende:</L>
+<L>"What mon", he sayde, "þat wyll he<HI REND="italic">r</HI> yn wende,</L>
+<L>and dwelle þer yn a day and a nyȝth,</L>
+<L>and holde his byleue and ryȝth,</L>
+<L>and come aȝeyn, þat he ne dwelle,</L>
+<L>mony a meruayle he may of telle;</L>
+<L>and all þo þat doth þys þylgrymage,</L>
+<L>I sha<HI REND="italic">ll</HI> hem graunt for he<HI REND="italic">r</HI> wage,</L>
+<L>wheþur he be sqwyer or knawe,</L>
+<L>oþur purgatorye shall he non haue!" <MILESTONE N="80"/></L>
+<L>Als sone as he hadde sayde hym so,</L>
+<L>Jhesu wente þe bysshoppe fro.</L>
+<L>Seynt Patryke þen anon ryght, <MILESTONE N="90a."/></L>
+<L>he ne stynte ner day ne nyght,</L>
+<L>but gatte hym help fro day to day,</L>
+<L>and made þe<HI REND="italic">r</HI> a fayr abbey,</L>
+<L>and chanonus gode he dede þerinne</L>
+<L>unþur þe abbyt of seynt <NOTE N="2)" PLACE="foot">seyn̄t <HI REND="italic">ms.</HI></NOTE> Austynne.</L>
+<L>Seynt Patryke lette make ryght well</L>
+<L>a dore bowden wit iren and stele; <MILESTONE N="90"/></L>
+<L>lokke and key he made þer to,</L>
+<L>þat no mon schulde þe dore undo;</L>
+<L>The key he betoke þe pryour</L>
+<L>and badde hym lokke hyt as tresour</L>
+<L>and euur close þe entre so,</L>
+<L>þat no man myȝth þer yn go,</L>
+<L>but ȝyf hyt were þorow þe assente</L>
+<L>of þe pryour and þe couente;</L>
+<L>of þe bysschop he moste haue a lettur,</L>
+<L>elles hym were neuer þe better. <MILESTONE N="100"/></L>
+<L>ȝet ys þat stede called yn memorye</L>
+<L>seynt Patrykus purgatorye.</L>
+<L>In hys tyme some were þer yn,</L>
+<L>to haue forȝeuenesse of he<HI REND="italic">r</HI> synne.</L>
+<L>That come aȝeyn on þe morow,</L>
+<L>I wote, þey tolde of myke<HI REND="italic">ll</HI> sorow,</L>
+<L>of peynus, þat þey syȝ þoo,</L>
+<L>and of myky<HI REND="italic">ll</HI> joye also;</L>
+<L>what þey sen þer, as þey wente yn,</L>
+<L>ffor soþe, hyt was yn book wryten. <MILESTONE N="110"/></L>
+<L>Some wente yn, þat bolde wore,</L>
+<L>but out come þey neuur more.</L>
+<L>In Steuenes tyme, y unþurstonde,</L>
+<L>þat was kyng of Inglonde,</L>
+<L>Ther was a knyȝt, men called Oweyn;</L>
+<L>he was þeryn and come agayn.</L>
+<L>What he þer syȝ, y wy<HI REND="italic">ll</HI> ȝou telle,</L>
+<L>bothe of heuen <NOTE N="3)" PLACE="foot">heuen̄e <HI REND="italic">ms.</HI></NOTE> and of helle.</L>
+<L>Thys knyȝt was dowȝty mon and bolde,</L>
+<L>and among myky<HI REND="italic">ll</HI> of tolde. <MILESTONE N="120"/></L>
+<L><PB N="115" REF="59"/>
+But þys knyȝte fe<HI REND="italic">ll</HI> ynto synne,</L>
+<L>and long tyme he lay þerinne;</L>
+<L>at þe laste hym rependede soore <MILESTONE N="90b."/></L>
+<L>and þowȝte, he wolde do no more,</L>
+<L>but to þe bysshoppe of þat countre</L>
+<L>he wente and fonde hym in hys se.</L>
+<L>To hym he gon hym for to shryue</L>
+<L>of all þe synnus yn hys lyue.</L>
+<L>The bysshoppe blamede hym yn þat hete</L>
+<L>ffor his synnus mony and grete. <MILESTONE N="130"/></L>
+<L>Sethen he sayde to hym at þe laste,</L>
+<L>þat a<HI REND="italic">ll</HI> his lyf he moste faste,</L>
+<L>ffor to amende he<HI REND="italic">r</HI> hys mysdede,</L>
+<L>of þat he hadde mysdone and sayde.</L>
+<L>"Syr", he sayde, "y þe beseche,</L>
+<L>as þu art my sowles leche,</L>
+<L>graunte me, þat y mote gone</L>
+<L>to saynt Patrykes purgatorye anone;</L>
+<L>and when y am comen agayn,</L>
+<L>all ȝour wy<HI REND="italic">ll</HI> y wy<HI REND="italic">ll</HI> do fayn!" <MILESTONE N="140"/></L>
+<L>The bysshoppe sayde: "Dyþur shalt þu nowȝth,</L>
+<L>ffor mony a fole hath þyder sowȝth;</L>
+<L>to moche upon hem self þey tryste,</L>
+<L>whyþur þey wente, no mon wyste.</L>
+<L>I rede þe for þy deuocyoun,</L>
+<L>that þu take þe abyte of relygyoun,</L>
+<L>and ȝyf þu wylt þy synne lete,</L>
+<L>in þys wyse may þu heuen gete."</L>
+<L>"Syr," he sayde, "y þe pray,</L>
+<L>thow ȝeue me leue, to go þat way! <MILESTONE N="150"/></L>
+<L>I hope, y wo<HI REND="italic">ll</HI> bothe come and wende [aȝen] <NOTE N="1)" PLACE="foot">aȝen <HI REND="italic">om. ms.</HI></NOTE></L>
+<L>thorow þe grace of god of heuen."</L>
+<L>The bysshop ȝaf hym leue þo,</L>
+<L>on goddes name he badde hym go.</L>
+<L>Ano<HI REND="italic">n</HI> he made hym a letter wele,</L>
+<L>and seled hyt wyt hys owne sele</L>
+<L>to þe priour of þat abbey.</L>
+<L>He toke hys leue and wente hys way,</L>
+<L>When he [þo to <NOTE N="2)" PLACE="foot">to þo <HI REND="italic">ms.</HI></NOTE> þe priour come,</L>
+<L>of þe knyȝte þe lettur he nome. <MILESTONE N="160"/></L>
+<L>He hyt redde and stode fu<HI REND="italic">ll</HI> stylle;</L>
+<L>sone he wyste þe knyȝth wylle,</L>
+<L>and we<HI REND="italic">ll</HI> comed hym yn fayr manere:</L>
+<L>"Syr" he sayde, "þu art we<HI REND="italic">ll</HI> come here!</L>
+<L>By þys lettur yn myn honde <MILESTONE N="90c."/></L>
+<L>I haue þy wy<HI REND="italic">ll</HI> unþurstonde;</L>
+<L>but I de rede, þat þu do not so,</L>
+<L>noþur for wele ner for wo.</L>
+<L>After my rede þu do a noþur;</L>
+<L>take þe abyte and become our brodur; <MILESTONE N="170"/></L>
+<L>so þu may boþe nyȝth and day</L>
+<L>serue god fu<HI REND="italic">ll</HI> we<HI REND="italic">ll</HI> to pay.</L>
+<L>Then may þy sowle to heuen wende</L>
+<L>and haue þer blysse wyt owten ende.</L>
+<L>"Syre", he sayde, "þu redest me we<HI REND="italic">ll,</HI></L>
+<L>but for my synnus dyþur y wy<HI REND="italic">ll,</HI></L>
+<L>Thyþur y wy<HI REND="italic">ll</HI> for my synnus alle,</L>
+<L>to haue forȝeuenesse, what so befalle!"</L>
+<L>Then sayde þe priour: "ȝyf þu wylt so,</L>
+<L>god kepe þe fro kare and wo! <MILESTONE N="180"/></L>
+<L>But a lyty<HI REND="italic">ll</HI> whyle þu moste dwelle,</L>
+<L>and þe perelles we sha<HI REND="italic">ll</HI> þe telle."</L>
+<L>Ffyftene dayes he dwelled þore</L>
+<L>in almesse-dedes and holy lore.</L>
+<L>At þe fyftene dayes ende</L>
+<L>the knyȝth beȝan forth to wende.</L>
+<L>Ffyrst a morow he herde masse,</L>
+<L>and afturwarde he asoyled was</L>
+<L>wyt holy water and holy book,</L>
+<L>and ryche relykes forth þey toke. <MILESTONE N="190"/></L>
+<L>Euury prest and euery man</L>
+<L>wente wyt hym yn processyoun,</L>
+<L>and as lowde as þey myȝth crye,</L>
+<L>ffor hym þey songe þe letanye,</L>
+<L>and browte hym fayre yn to þe entre,</L>
+<L>ther as syr Owen wolde be.</L>
+<L>Ther þe knyȝth kneled adown,</L>
+<L>and þer [receiued al <NOTE N="3)" PLACE="foot">receiued <HI REND="italic">om. ms.; nach</HI> þer <HI REND="italic">lese ich nur</HI> al <HI REND="italic">[was allenfalls auch ein</HI> w <HI REND="italic">sein könnte]</HI> þ<HI REND="italic">ur.</HI></NOTE> þur benesoun.</L>
+<L>The pryour onlokked þe dore þo,</L>
+<L>in goddus name he badde hym go, <MILESTONE N="200"/></L>
+<L>and lokked þe þore and turned agayn,</L>
+<L>and laste þer syr Owayne.</L>
+<L>Fforth wente syr Owayne, þat bolde knyȝth;</L>
+<L>a whyle he hadde a lytu<HI REND="italic">ll</HI> lyȝth,</L>
+<L>but he wanted hys lyȝth full sone, <MILESTONE N="90d."/></L>
+<L>ffor þer shone neyþur sonne ne<HI REND="italic">r</HI> mone;</L>
+<L>hee hadde no mon hym to lede,</L>
+<L>he groped hys way, as he moste nede.</L>
+<L><PB N="116" REF="60"/>
+When he come furþur wyt inne,</L>
+<L>a lytu<HI REND="italic">ll</HI> lyȝth þer gan begynne, <MILESTONE N="210"/></L>
+<L>sone þer after a lytu<HI REND="italic">ll</HI> more:</L>
+<L>glad was syr Oweyn þerfore.</L>
+<L>Such was hys lyȝth, whan hyt was beste,</L>
+<L>as in þe wynter, when þe sonne goth to reste.</L>
+<L>Then wente he faste, when he myȝth se,</L>
+<L>ty<HI REND="italic">ll</HI> he come to a grete countre;</L>
+<L>hyt semed well þe more wyldernesse,</L>
+<L>ffor þer grewe noþur tre ner grasse.</L>
+<L>As he behellde on hys ryȝth honde,</L>
+<L>a swyde fayr halle he syȝe þer stonde; <MILESTONE N="220"/></L>
+<L>hyt was both longe and wyde,</L>
+<L>and hyt was open on euery syde,</L>
+<L>as a cloyster yn a<HI REND="italic">ll</HI> wyse;</L>
+<L>hyt was made yn selkowth wyse.</L>
+<L>As he þer stoode and loked abowte,</L>
+<L>ther come fyftene upon a rowte.</L>
+<L>The eldest of hem, þat he þer sye,</L>
+<L>ffurste he sayde: "Benedycyte!"</L>
+<L>To Owayne þey ȝaf ha<HI REND="italic">r</HI> benesoun,</L>
+<L>and aftur by hym þey sette hem down. <MILESTONE N="230"/></L>
+<L>A<HI REND="italic">ll</HI> hadde newe crownes shafe,</L>
+<L>as prestes oweth for to haue.</L>
+<L>The eldest mon, as hyt wolde falle,</L>
+<L>he spake anon for hem alle:</L>
+<L>"Knyȝth!" he sayde, "for þy synne <NOTE N="1)" PLACE="foot">Ms.: sȳnne.</NOTE></L>
+<L>a grete aventu<HI REND="italic">r</HI> þu art inne;</L>
+<L>but god, þat dyed on þe rode,</L>
+<L>ffulfylle þy wy<HI REND="italic">ll</HI> yn a<HI REND="italic">ll</HI> gode!</L>
+<L>We may no lengur wyt þe dwelle,</L>
+<L>but be sente þe to telle <MILESTONE N="240"/></L>
+<L>of þe fowndyng, þe sha<HI REND="italic">ll</HI> befalle:</L>
+<L>god graunte þe, to ouurcome a<HI REND="italic">ll</HI>!"</L>
+<L>Ffull sone when we be wente þe fro,</L>
+<L>the sha<HI REND="italic">ll</HI> come oþur, to do þe wo;</L>
+<L>but loke, þy þowȝth on god be styffe,</L>
+<L>and be stedfast yn þy belefe!</L>
+<L>Yf þey woll þe bete or bynde, <MILESTONE N="91a."/></L>
+<L>loke, þou haue þys worde yn mynde:</L>
+<L>Jhesu, as þu arte fu<HI REND="italic">ll</HI> <NOTE N="2)" PLACE="foot">fu<HI REND="italic">ll zweimal geschr.</HI></NOTE> of myȝth,</L>
+<L>haue mercy on me synfu<HI REND="italic">ll</HI> knyȝth! <MILESTONE N="250"/></L>
+<L>And euurmore haue yn þy þowght</L>
+<L>Jhesu, þat þe so dere hath bowght!</L>
+<L>We ne may no lenge<HI REND="italic">r</HI> þe preche,</L>
+<L>but god of heuen we þe byteche!"</L>
+<L>These holy men wente<HI REND="italic">n</HI> þens þo,</L>
+<L>but þen bygon þe knyȝtes wo.</L>
+<L>As he sat þer alone by hym self,</L>
+<L>he herde grete dynn on eche half:</L>
+<L>as all þe layte and all þe þondur,</L>
+<L>that euur was herde heuen undur, <MILESTONE N="260"/></L>
+<L>and as alle þe trees and a<HI REND="italic">ll</HI> þe stones</L>
+<L>shulde smyte to <NOTE N="3)" PLACE="foot">to <HI REND="italic">über der zeile nachgetr.</HI></NOTE> gedyr ryȝth at oonus;</L>
+<L>ffor a<HI REND="italic">ll</HI> þe worlde so hit ferde,</L>
+<L>and þerto a lowde crye he herde:</L>
+<L>ne hadde he be we<HI REND="italic">ll</HI> ytawȝte byfore,</L>
+<L>he hadde be<HI REND="italic">n</HI> loste for euur more,</L>
+<L>ffor fle myȝte he nawȝte, but moste abyde</L>
+<L>Then come þer deueles on euury syde,</L>
+<L>wykked gostes i wote fro helle,</L>
+<L>so mony, þat no tonge myȝte telle; <MILESTONE N="270"/></L>
+<L>they fylled þe hows yn two rowes,</L>
+<L>some grenned on hym and some made mowes.</L>
+<L>Syr Owayne was aferde, y trowe,</L>
+<L>ffor ȝyf he hadde myȝth, he wolde haue flowe.</L>
+<L>Some deueles stode hym fu<HI REND="italic">ll</HI> nyȝe,</L>
+<L>that sayde<HI REND="italic">n</HI> to hym a<HI REND="italic">ll</HI> on hyȝe:</L>
+<L>"Thow haste don wele to come be tyme,</L>
+<L>ffor þu shalte beleue on owre lyme.</L>
+<L>Oþur come not ty<HI REND="italic">ll</HI> þey be dede,</L>
+<L>but þu haste don a we<HI REND="italic">ll</HI> bettur rede! <MILESTONE N="280"/></L>
+<L>Thow comeste hydur, to do penaunce:</L>
+<L>wyth us þu sha<HI REND="italic">ll</HI> lede þe daunce!</L>
+<L>Thow haste serued us mony a day,</L>
+<L>we sha<HI REND="italic">ll</HI> þe qwyte, ȝyf we may!</L>
+<L>As þu hast don, so shalte þu haue,</L>
+<L>a<HI REND="italic">ll</HI> þy kynne sha<HI REND="italic">ll</HI> þe not saue!</L>
+<L>Neuur þe lesse, syth þu art hende,</L>
+<L>ȝyf þu wolte aȝeyn wende,</L>
+<L>and lyue and do as þu haste do<HI REND="italic">n,</HI></L>
+<L>we sha<HI REND="italic">ll</HI> þe spare tyll efte soun!" <MILESTONE N="91b."/> <MILESTONE N="290"/></L>
+<L>Þen sayde þe knyȝth: "I dowte you nowȝth,</L>
+<L>I betake me to hym, þat me hatht wroght!"</L>
+<L>Þen þe fendes made a fyre anone</L>
+<L><PB N="117" REF="61"/>
+of blakke pyche and of brenstone;</L>
+<L>þey caste þe knyȝth þeryn for to brenne,</L>
+<L>and all þey begonne on hym to grenne.</L>
+<L>Þe knyȝth þat payne full sore he þowȝth,</L>
+<L>to Jhesu called whyle he mowȝth:</L>
+<L>"Jhesu", he sayde, "full of pyte,</L>
+<L>help and haue mercy on me!" <MILESTONE N="300"/></L>
+<L>All þat fyre was qweynte anone,</L>
+<L>þe fendes flowen away euury chone,</L>
+<L>and þen þe knyȝth anone up stode,</L>
+<L>as hym hadde ayled nowȝt but gode,</L>
+<L>all alone be leste yn þat place,</L>
+<L>and he þonked god of a<HI REND="italic">ll</HI> hys grace.</L>
+<L>Then was he bolde<HI REND="italic">r</HI> for to stonde,</L>
+<L>ȝyf þat þey wolde hym more fonde.</L>
+<L>The<HI REND="italic">r</HI> come deueles oþur mony mo,</L>
+<L>and badde þe knyȝth wyt hem to go, <MILESTONE N="310"/></L>
+<L>and ladde hym into a fowle contreye,</L>
+<L>wher euur was nyȝth and neuur day,</L>
+<L>ffor hit was derke and wonþurcolde:</L>
+<L>ȝette was þe<HI REND="italic">r</HI> neuur man so bolde,</L>
+<L>hadde he neuur so mony cloþus on,</L>
+<L>but he wolde be colde as ony stone.</L>
+<L>Wynde herde he none blowe,</L>
+<L>but faste hyt frese boþe hye and lowe.</L>
+<L>They browȝte hym to a felde fu<HI REND="italic">ll</HI> brode,</L>
+<L>oue<HI REND="italic">r</HI> suche a<HI REND="italic">n</HI> oþur neuur he yode, <MILESTONE N="320"/></L>
+<L>ffor of þe lenghte no<HI REND="italic">n</HI> ende he knewe,</L>
+<L>the<HI REND="italic">r</HI> oue<HI REND="italic">r</HI> algate he moste nowe.</L>
+<L>As he wente, he herde a crye:</L>
+<L>he wondered, what hyt was and why.</L>
+<L>He syȝ þer men and wymmen also,</L>
+<L>that lowde cryed, for hem was woo.</L>
+<L>They leyen þykke on euury londe,</L>
+<L>ffaste nayled boþe fote and honde,</L>
+<L>wyt nayles glowyng a<HI REND="italic">ll</HI> of brasse:</L>
+<L>þey ete þe erþe, so wo hem was. <MILESTONE N="330"/></L>
+<L>He<HI REND="italic">r</HI> face was nayled to þe grownde:</L>
+<L>"Spare", þey cryde, "a lyty<HI REND="italic">ll</HI> stounde!"</L>
+<L>The deueles wolde hem not spare,</L>
+<L>to do <NOTE N="1)" PLACE="foot">to <HI REND="italic">ms.</HI></NOTE> hem peyne þey thowȝte þare.</L>
+<L>The deueles speke to syr Owayne:</L>
+<L>"Knyȝth, wylt þu ȝet turne agayne,</L>
+<L>and we wy<HI REND="italic">ll</HI> yn a lytu<HI REND="italic">ll</HI> stownde</L>
+<L>brynge þe up hole and sownde;</L>
+<L>and þer may þu lyfe a good whyle</L>
+<L>bothe wyt gamen and wyt gyle; <MILESTONE N="340"/></L>
+<L>and then, whenne þu art dede raþe,</L>
+<L>thow shalt haue þe lesse skaþe,</L>
+<L>ffor bettyr hyt ys, þy sowle be yn woo,</L>
+<L>then þy sowle and þy body also;</L>
+<L>ffor ȝyf þat þu here abyde,</L>
+<L>thus euy<HI REND="italic">ll</HI> þe sha<HI REND="italic">ll</HI> betyde!"</L>
+<L>The knyȝth answered to a<HI REND="italic">ll</HI> þe rowte:</L>
+<L>"Of ȝour thret haue I no dowte!</L>
+<L>Thus shu<HI REND="italic">ll</HI> ȝe me not fere,</L>
+<L>ffor my sowle ys elles where!" <MILESTONE N="350"/></L>
+<L>Then þey caste on hym he<HI REND="italic">r</HI> clawe;</L>
+<L>syr Owayn was aferde, I trowe.</L>
+<L>They browȝte forde nayles long,</L>
+<L>glowyng a<HI REND="italic">ll</HI> a fyre we<HI REND="italic">ll</HI> strong.</L>
+<L>They wolde haue dryuen þorow hys fete</L>
+<L>tho brennyng nayles wonþurgrete:</L>
+<L>"Jhesu", he sayde, "fu<HI REND="italic">ll</HI> of myȝte,</L>
+<L>haue mercy on me synfu<HI REND="italic">ll</HI> knyȝth!"</L>
+<L>The deueles flowen awey euery choun</L>
+<L>and leste syr Oweyn þe<HI REND="italic">r</HI> alone. <MILESTONE N="360"/></L>
+<L>"Lorde", he sayde, "I thanke hyt þe,</L>
+<L>at euery nede þu helpest me!"</L>
+<L>Some of þe fendes turned aȝeyne</L>
+<L>and forþ þey ladde syr Owayne</L>
+<L>ffu<HI REND="italic">ll</HI> ferre into a noþer felde:</L>
+<L>in such on bare he neuer shelde.</L>
+<L>Hyt was lengur and we<HI REND="italic">ll</HI> more,</L>
+<L>then þat felde was byfore;</L>
+<L>and as he loked hym be syde,</L>
+<L>he syȝ þer pyttus mony and wyde; <MILESTONE N="370"/></L>
+<L>thykke þey were as þey myȝth bene,</L>
+<L>oneþe was þer a fote hem betwene,</L>
+<L>and a<HI REND="italic">ll</HI> maner of meta<HI REND="italic">ll</HI></L>
+<L>he syȝ þer yn þe pyttus wall.</L>
+<L>Men and wymmen þer wer also, <MILESTONE N="91d."/></L>
+<L>in þo pyttus abydyng wo:</L>
+<L>some we<HI REND="italic">r</HI> þer inne up to þe chynne,</L>
+<L>and ȝet hadde þey noȝt bete he<HI REND="italic">r</HI> synne;</L>
+<L>and some we<HI REND="italic">r</HI> yn to shappus,</L>
+<L>and some we<HI REND="italic">r</HI> up to þe pappus, <MILESTONE N="380"/></L>
+<L>and some we<HI REND="italic">r</HI> yn to þe kne:</L>
+<L>they wolde fu<HI REND="italic">ll</HI> fayne out haue be.</L>
+<L>Then þe fendes anone ryȝte</L>
+<L>in a pytte þey caste þe knyȝthe.</L>
+<L>So sore aferde he was of that,</L>
+<L><PB N="118" REF="62"/>
+that almost he god forȝate.</L>
+<L>But as goddus wy<HI REND="italic">ll</HI> was,</L>
+<L>whenne he felte þe hote brasse:</L>
+<L>"Jhesu", he sayde wyt god entente,</L>
+<L>"Helpe, lorde, at þys turnemente!" <MILESTONE N="390"/></L>
+<L>Whenne he þe name of Jhesu called,</L>
+<L>ther was no fyr þat hym myȝte skalde,</L>
+<L>but anone he was out caste,</L>
+<L>and þe deueles flowen awaye faste.......</L>
+<L>But as he stode up and loked abowte,</L>
+<L>of deueles he syȝe a <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.:</HI> &amp;.</NOTE> full gret rowte.</L>
+<L>"Knyȝte", þey sayde, "why standes þu here,</L>
+<L>and whe<HI REND="italic">r</HI> ar a<HI REND="italic">ll</HI> þy false feere?</L>
+<L>They tolde þe, þat þys was helle,</L>
+<L>but oþur wyse we shull þe telle. <MILESTONE N="400"/></L>
+<L>Come wyt us a lyty<HI REND="italic">ll</HI> sowth,</L>
+<L>we shall þe lede to þe deuelus mowth!"</L>
+<L>They drewe hym be þe hatere,</L>
+<L>ty<HI REND="italic">ll</HI> þey come to a gret wate<HI REND="italic">r,</HI></L>
+<L>broode and blakke as any pyke.</L>
+<L>Sowles we<HI REND="italic">r</HI> þeryn mony and thykke,</L>
+<L>and also deueles on eche a syde,</L>
+<L>as þykke as flowres yn someres tyde.</L>
+<L>The watur stonke fowle þe<HI REND="italic">r</HI> to</L>
+<L>and dede þe soles myky<HI REND="italic">ll</HI> woo: <MILESTONE N="410"/></L>
+<L>up þey come, to ese hem a stownde,</L>
+<L>þe deuelus drewe hem aȝeyn to þe grownde.</L>
+<L>Ouur þe watur a brygge þe<HI REND="italic">r</HI> was,</L>
+<L>ffor soþe kene<HI REND="italic">r</HI> þen ony glasse;</L>
+<L>hyt was narowe and hit was hyȝe,</L>
+<L>oneþe þat oþur ende he syȝe;</L>
+<L>The myddy<HI REND="italic">ll</HI> was hyȝe, þe ende was lowe, <MILESTONE N="92a."/></L>
+<L>hyt ferde, as hyt hadde ben a bent bowe.</L>
+<L>The deue<HI REND="italic">ll</HI> sayde: "Knyȝte, he<HI REND="italic">r</HI> may þu se</L>
+<L>into helle þe ryȝte entre; <MILESTONE N="420"/></L>
+<L>ouur þys brygge þu meste wende,</L>
+<L>wynde and rayne we shu<HI REND="italic">ll</HI> þe sende,</L>
+<L>we shu<HI REND="italic">ll</HI> þe sende wynde full goode,</L>
+<L>that sha<HI REND="italic">ll</HI> þe caste ynto þe floode."</L>
+<L>Syr Owayne kneled þe<HI REND="italic">r</HI> adowne,</L>
+<L>to god he made hys orysowne:</L>
+<L>"Lord god," he sayde, "fu<HI REND="italic">ll</HI> of myȝte,</L>
+<L>haue mercy on me synfu<HI REND="italic">ll</HI> knyȝte!</L>
+<L>Wynde and rayne ys at þy wy<HI REND="italic">ll,</HI></L>
+<L>and a<HI REND="italic">ll</HI> wederes lowde and sty<HI REND="italic">ll.</HI> <MILESTONE N="430"/></L>
+<L>Thow kanste make wynde to blowe,</L>
+<L>and when þu lyst, to lye fu<HI REND="italic">ll</HI> lowe.</L>
+<L>Sende me, lorde, þy swete grace,</L>
+<L>that y may þys brygge passe;</L>
+<L>help, lorde, þat y þerin not falle,</L>
+<L>ffor to lese my labour a<HI REND="italic">ll</HI>!"</L>
+<L>To þe brygge anon he ȝede:</L>
+<L>"Jhesu," he sayde, "help at þys nede!"</L>
+<L>Hys on foote he sette fyrste þer o<HI REND="italic">n,</HI></L>
+<L>and called to Jhesu ryȝth anoo<HI REND="italic">n.</HI> <MILESTONE N="440"/></L>
+<L>He felte hys foote stonde stedfastly,</L>
+<L>and þat oþur foote he sette þer by.</L>
+<L>He called to helpe yn þat place</L>
+<L>Jhesu, þat euur shall be and euur was;</L>
+<L>the brygge wax a lyty<HI REND="italic">ll</HI> bradde<HI REND="italic">r,</HI></L>
+<L>then waxe syr Owayne gladde<HI REND="italic">r.</HI></L>
+<L>But when he come ynto þe mydde,</L>
+<L>euury deue<HI REND="italic">ll</HI> wyt oþur chydde,</L>
+<L>and for he sholde falle by,</L>
+<L>a<HI REND="italic">ll</HI> þey toke up a grete cry. <MILESTONE N="450"/></L>
+<L>That crye, him þowȝt, greuede hym more,</L>
+<L>then a<HI REND="italic">ll</HI> þe payne, he hadde before.</L>
+<L>Neuur þe latte<HI REND="italic">r</HI> forth he wente,</L>
+<L>in god was a<HI REND="italic">ll</HI> hys entente.</L>
+<L>So brode þe brygge wax þoo,</L>
+<L>that waynes myȝth þer on haue goo.</L>
+<L>Ouur þat he come fu<HI REND="italic">ll</HI> sone;</L>
+<L>then was þe deue<HI REND="italic">ll</HI> powe<HI REND="italic">r</HI> done.</L>
+<L>He þonked god yn a<HI REND="italic">ll</HI> hys þowȝth,</L>
+<L>that hadde hym harmelese ouur browȝth. <MILESTONE N="460"/></L>
+<L>Fforth he wente a lytu<HI REND="italic">ll</HI> whyle, <MILESTONE N="92b."/></L>
+<L>the mowntenance of halfe a myle.</L>
+<L>He sawe a wa<HI REND="italic">ll</HI> wondyrfayr,</L>
+<L>hym þowȝte, hyt lasted ynto þe ayr;</L>
+<L>hyt was whyte and bryȝth as glasse,</L>
+<L>he cowþe not wyte, what hyt was.</L>
+<L>When he was nyȝ þer at,</L>
+<L>agayne hym openede a fayr ȝate,</L>
+<L>ffu<HI REND="italic">ll</HI> craftyly for þe nones,</L>
+<L>of meta<HI REND="italic">ll</HI> and of presyous stones; <MILESTONE N="470"/></L>
+<L>out at þe ȝate come a sma<HI REND="italic">ll,</HI></L>
+<L>well nyȝ for joys downe he fell;</L>
+<L>as þer hadde ben a<HI REND="italic">ll</HI> mane<HI REND="italic">r</HI> of floures,</L>
+<L>such was þat swete sauoures;</L>
+<L>noun erdely sauour be a þowsand folde</L>
+<L><PB N="119" REF="63"/>
+myȝth not to þat sauour be tolde.</L>
+<L>Then hym thowȝte, he was so lyȝte</L>
+<L>off þat sauour and of þat syȝte,</L>
+<L>that a<HI REND="italic">ll</HI> þe sorow, þat he hadde sene,</L>
+<L>and a<HI REND="italic">ll</HI> þe payne, þat he hadde yn bene, <MILESTONE N="480"/></L>
+<L>all was forȝeten yn hyt þowȝth,</L>
+<L>and of hyt he sette ryȝth nowȝth.</L>
+<L>As he stode and was so fayne,</L>
+<L>hym þowȝth, þer come hym ageyne</L>
+<L>a swyde fayr processyioun</L>
+<L>of a<HI REND="italic">ll</HI> mane<HI REND="italic">r</HI> men of relygyoun;</L>
+<L>ffayre vestymentes þey hadde on,</L>
+<L>so ryche syȝ he neuer noun.</L>
+<L>Myche joye hym þowȝte to se</L>
+<L>bysshopes yn he<HI REND="italic">r</HI> dygnyte. <MILESTONE N="490"/></L>
+<L>Ilkone wente oþur be and be,</L>
+<L>eury man yn hys degre:</L>
+<L>he syȝ þer monkes and chanones,</L>
+<L>and freres wyt newe shaue<HI REND="italic">n</HI> crownes;</L>
+<L>ermytes he sawe þe<HI REND="italic">r</HI> amonge,</L>
+<L>and nonnes wyt fu<HI REND="italic">ll</HI> mery songe,</L>
+<L>persones, prestes and vycaryes,</L>
+<L>they made fu<HI REND="italic">ll</HI> mery melodyes;</L>
+<L>he syȝ þer kynges and emperoures</L>
+<L>and doukes, þat hadde casteles and toures, <MILESTONE N="500"/></L>
+<L>erles and barones fele,</L>
+<L>that some tyme hadde þe worldes wele;</L>
+<L>oþur folke he syȝ also</L>
+<L>neuur so mony, as he dede þoo;</L>
+<L>wymmen he syȝ þer that tyde,</L>
+<L>myche was þe joye þer on euery syde;</L>
+<L>for a<HI REND="italic">ll</HI> was joye þat wyt hem ferde, <MILESTONE N="92c."/></L>
+<L>and myche solempnyte þer he herde.</L>
+<L>Fayre þey we<HI REND="italic">ll</HI> comed syr Oweyne;</L>
+<L>a<HI REND="italic">ll</HI> þat þer was, of hym were fayne. <MILESTONE N="510"/></L>
+<L>Then come to hym þore</L>
+<L>two bysshoppus as hyt wore;</L>
+<L>they welcomede hym and ȝode hym by,</L>
+<L>ffor to bere hym company,</L>
+<L>and schewede hym, þat he myȝth se</L>
+<L>the fayrnesse of þat cowntre.</L>
+<L>Hyt was grene and full of flowres</L>
+<L>of mony dyuers colowres,</L>
+<L>hyt was grene on euery syde,</L>
+<L>as medewus are yn someres tyde. <MILESTONE N="520"/></L>
+<L>Ther were trees growyng fu<HI REND="italic">ll</HI> grene,</L>
+<L>ffu<HI REND="italic">ll</HI> of fruyte euur more, y wene;</L>
+<L>ffor þer was frwyte of mony a kynde:</L>
+<L>suche yn þys londe may no mon fynde.</L>
+<L>Ther þey haue þe tree of lyfe,</L>
+<L>ther yn ys myrthe and neuur stryfe;</L>
+<L>ffrwyte of wysdom also þer ys,</L>
+<L>of þe whyche Adam and Eue dede a mysse,</L>
+<L>Oþur mane<HI REND="italic">r</HI> frwytes þer were fele,</L>
+<L>and all manere joye and wele. <MILESTONE N="530"/></L>
+<L>Moche folke he syȝ þe<HI REND="italic">r</HI> dwelle,</L>
+<L>the<HI REND="italic">r</HI> was no tonge þat myȝth hem telle.</L>
+<L>All we<HI REND="italic">r</HI> þey cloded yn ryche wede,</L>
+<L>what cloþ hyt was, he kowþe not rede.</L>
+<L>But shapte þey hadde yn a<HI REND="italic">ll</HI> mane<HI REND="italic">r,</HI></L>
+<L>as folke þat wonede som tyme he<HI REND="italic">r;</HI></L>
+<L>by þe cloþus men myȝthe hem knowe,</L>
+<L>as þey stode upon a rowe,</L>
+<L>ȝonge and olde, more and lasse,</L>
+<L>as hyt he<HI REND="italic">r</HI> owene wy<HI REND="italic">ll</HI> was. <MILESTONE N="540"/></L>
+<L>Ther was no wronge, but euer ryȝth,</L>
+<L>euur day and neue<HI REND="italic">r</HI> nyȝth;</L>
+<L>They shone as bryȝth and more clere,</L>
+<L>then ony sonne yn þe day doth he<HI REND="italic">r.</HI></L>
+<L>The two bysshopes turnede aȝeyne,</L>
+<L>and speke fay<HI REND="italic">r</HI> to syr Owayne:</L>
+<L>"Blessed be þu, þay seide<HI REND="italic">n</HI> þoo,</L>
+<L>that haddeste wy<HI REND="italic">ll,</HI> þys way to goo!</L>
+<L>Purgatorye þu haste ben inne,</L>
+<L>to haue forȝeuenesse of þy synne: <MILESTONE N="550"/></L>
+<L>loke, þat þu do synne no more,</L>
+<L>ffor þu shalt neuur efte come þore;</L>
+<L>we haue gone þe way, þer þu was,</L>
+<L>and we haue passed þat ylke plas.</L>
+<L>So sha<HI REND="italic">ll</HI> yche ma<HI REND="italic">n</HI> aftur hys day, <MILESTONE N="92d."/></L>
+<L>pore and ryche, go that way;</L>
+<L>ffor þer ys mony a monn a lyue,</L>
+<L>that hath no power, hym to shryue,</L>
+<L>ty<HI REND="italic">ll</HI> at þe laste he shryueth hym for drede,</L>
+<L>somme penaunce þey mote suffre nede: <MILESTONE N="560"/></L>
+<L>if þey wo<HI REND="italic">ll</HI> nowȝth do here,</L>
+<L>they sha<HI REND="italic">ll</HI> do hit elleswhere.</L>
+<L>Suche mane<HI REND="italic">r</HI> me<HI REND="italic">n</HI> erly or late</L>
+<L>to purgatorye þey mote algate;</L>
+<L>ther mote þey dwelle stylle,</L>
+<L>and abyde goddes wylle;</L>
+<L>but some frende for he<HI REND="italic">r</HI> mysdede</L>
+<L>ffor hem do oþur synge or rede,</L>
+<L><PB N="120" REF="64"/>
+ffor þus may ma<HI REND="italic">n</HI> þorow suche dyuyne</L>
+<L>the sone<HI REND="italic">r</HI> come out of hys pyne. <MILESTONE N="570"/></L>
+<L>And þu art monn ȝet a lyue,</L>
+<L>and haste go<HI REND="italic">n</HI> þorow swythe;</L>
+<L>thorow grace of god and good entent</L>
+<L>thow art passed þat turnement;</L>
+<L>and þu arte comen to joye and blysse,</L>
+<L>I sha<HI REND="italic">ll</HI> þe telle, what hyt ys:</L>
+<L>thys ys erþly paradyse.</L>
+<L>He<HI REND="italic">r</HI> we<HI REND="italic">r</HI> Adam and Eue, þat we<HI REND="italic">r</HI> not wyse;</L>
+<L>ffor an appu<HI REND="italic">ll,</HI> þat þey ete,</L>
+<L>a<HI REND="italic">ll</HI> he<HI REND="italic">r</HI> joye þey forlete; <MILESTONE N="580"/></L>
+<L>and nyne hondredde ȝe<HI REND="italic">r</HI> and fyftene</L>
+<L>he lyued aftur yn erþe wyt sorow and tene,</L>
+<L>and fowr thowsande and VI hondred and IV ȝere</L>
+<L>he was yn helle wyt Lucyfere,</L>
+<L>ty<HI REND="italic">ll</HI> þat goddes wy<HI REND="italic">ll</HI> was,</L>
+<L>to feeche hym out of þat place,</L>
+<L>and a<HI REND="italic">ll</HI> hys kynde, that were hym by,</L>
+<L>that wordy were to haue mercy,</L>
+<L>and ledde hem forth wyt hem ywysse,</L>
+<L>ryȝth ynto hys owene blysse; <MILESTONE N="590"/></L>
+<L>and at hys ordynaunce we be</L>
+<L>in joye and blysse wyt solempnite.</L>
+<L>But when we come hym byfore,</L>
+<L>then sha<HI REND="italic">ll</HI> ou<HI REND="italic">r</HI> joye be myky<HI REND="italic">ll</HI> more,</L>
+<L>and euery day we wexen moo;</L>
+<L>but angeles called some us froo;</L>
+<L>a<HI REND="italic">ll</HI> ȝyf we be out of penance ylle,</L>
+<L>her we abyde goddes wy<HI REND="italic">ll</HI>e:</L>
+<L>ffor ȝet haue we not þat dygnyte,</L>
+<L>to come before hys mageste, <MILESTONE N="600"/></L>
+<L>but oon and on, as he wy<HI REND="italic">ll</HI> calle, <MILESTONE N="93a."/></L>
+<L>at þe laste we sha<HI REND="italic">ll</HI> come a<HI REND="italic">ll.</HI></L>
+<L>Euery day comeþ ou<HI REND="italic">r</HI> fode</L>
+<L>of hym, þat for us shedde hys blode,</L>
+<L>and þat þu shalte fele, or þu go."</L>
+<L>As he stode and sayde hym so,</L>
+<L>ther come a gleme anou<HI REND="italic">n</HI> fu<HI REND="italic">ll</HI> bryȝth,</L>
+<L>and spradde ouur þat lond ryȝth;</L>
+<L>hyt was swote and hyt was hote,</L>
+<L>into euery monnus mowþe hyt smote. <MILESTONE N="610"/></L>
+<L>The knyȝte felde þat yn glyde;</L>
+<L>he ne wyste, whe<HI REND="italic">r</HI> he was þat tyde,</L>
+<L>ne wheþur þat he was qwykke or dede,</L>
+<L>such hym þowȝte þat ryche brede.</L>
+<L>Then sayde þe bysshoppe þat be hym stode:</L>
+<L>"How þowstedest þu, knyȝte, was þys gode?"</L>
+<L>"Oo lorde," he sayde, "þyn oore!</L>
+<L>let me dwelle he<HI REND="italic">r</HI> euur more!"</L>
+<L>"Nay, sone!" he sayde, "þu may not so!"</L>
+<L>Agayn þu moste algate go, <MILESTONE N="620"/></L>
+<L>and telle oþur men, what þu haste sene,</L>
+<L>and yn what aventure þu haste bene;</L>
+<L>ffor yn þe worlde þu most dye onus,</L>
+<L>and leue þer þy flesh and þy bonus,</L>
+<L>and come yn sowle hydur agayne:</L>
+<L>then wy<HI REND="italic">ll</HI> we of þe be fayne!"</L>
+<L>The knyȝte sye, þat he moste go,</L>
+<L>and wepynge þen he ȝode hem fro.</L>
+<L>Anone ryȝte þer he fe<HI REND="italic">ll</HI> adowne</L>
+<L>and toke a<HI REND="italic">ll</HI> þer benesowne. <MILESTONE N="630"/></L>
+<L>A redy way anoun he fonde</L>
+<L>ryȝth ynto hys owene londe;</L>
+<L>to þe hole hys way lay,</L>
+<L>þat he come fro þat oþur day;</L>
+<L>þe fyftene menn he fonde þore,</L>
+<L>that he hadde spoke<HI REND="italic">n</HI> wyt before.</L>
+<L>They we<HI REND="italic">ll</HI> comede hy<HI REND="italic">m</HI> anoun ryȝth</L>
+<L>and þonked god fu<HI REND="italic">ll</HI> of myȝte;</L>
+<L>they prayde faste, he sholde goun,</L>
+<L>and so he wente forth anoun <MILESTONE N="640"/></L>
+<L>home ynto hys owne contreye,</L>
+<L>for ryȝth now spronge þe day.</L>
+<L>To pryme þey wy<HI REND="italic">ll</HI> þe belle rynge, <MILESTONE N="93b."/></L>
+<L>and afturwarde þe masse synge;</L>
+<L>aftur masse wyt oute delaye</L>
+<L>þe pryour of þe abbey</L>
+<L>bothe wyt preste and chanoun</L>
+<L>they wy<HI REND="italic">ll</HI> come wyt processyoun</L>
+<L>to þe entre the agayne</L>
+<L>and of þy comynge be fu<HI REND="italic">ll</HI> fayne: <MILESTONE N="650"/></L>
+<L>And now be good forth a<HI REND="italic">ll</HI> þy lyue,</L>
+<L>and loke þat þu de ofte shryue;</L>
+<L>and when þu art dede, þen shalt þu wende</L>
+<L>to þe blysse wyt outen ende."</L>
+<L>Thenne swyþe to go we<HI REND="italic">ll</HI> hym lyst,</L>
+<L>and he come hom e<HI REND="italic">r</HI> he wyste;</L>
+<L>to þe dore come syr Owayne,</L>
+<L>and þer þe priour come hym agayne,</L>
+<L><PB N="121" REF="65"/>
+and chanonus wyt mery songe</L>
+<L>wyt mony a wepynge tere amonge. <MILESTONE N="660"/></L>
+<L>A<HI REND="italic">ll</HI> þey we<HI REND="italic">r</HI> both gladde and blyþe,</L>
+<L>þat god hadde saued þe knyȝte a lyue.</L>
+<L>Ffyftene dayes he dwelled þore</L>
+<L>wyt þe chanonus and som dele more,</L>
+<L>and tolde, what he hadde sene,</L>
+<L>and in what payne þat he hadde bene,</L>
+<L>and ofte he tolde he<HI REND="italic">m,</HI> to make þe<HI REND="italic">m</HI> wyse,</L>
+<L>of þe joyes of paradyse.</L>
+<L>Thene þey wryte<HI REND="italic">n</HI> aftur hys mowth,</L>
+<L>that yn londe now hyt ys kowþe. <MILESTONE N="670"/></L>
+<L>Then he toke þe crosse and þe staf yn honde,</L>
+<L>and wente forth ynto þe holy londe.</L>
+<L>Agayn he come hole and sownde</L>
+<L>and aftur þat lyuede a grete stownde</L>
+<L>in bedes and yn holy orysowne,</L>
+<L>as a mo<HI REND="italic">n</HI> of goode deuocyoun.</L>
+<L>And aftur, whe<HI REND="italic">n</HI> he wexede olde,</L>
+<L>and hys body wex unboolde,</L>
+<L>he dyede and wente þe ryȝte way</L>
+<L>to þe blysse, þat lastes aye. <MILESTONE N="680"/></L>
+<L>To þat blysse he us brynge,</L>
+<L>that of a<HI REND="italic">ll</HI> ys lorde and kynge!</L>
+</LG>
+<TRAILER>EXPLYCIT OWAYNE.</TRAILER>
+</DIV2>
+<DIV2 TYPE="note">
+<P>NB. Cursiv gedrucktes ll deutet hier wie im abdruck der Theophilus-legende an, dass die beiden l durch einen schwung verbunden sind; ob das die anfügung eines e bedeuten soll, ist mir doch sehr zweifelhaft. Ebenso bedeutet cursiv ge∣drucktes n, r oder m, dass dasselbe am schlusse durch einen schwung verlängert ist.</P>
+</DIV2>
+<CLOSER><DATELINE>BRESLAU, <DATE>OCT. 1876.</DATE></DATELINE>
+<SIGNED>E. Kölbing.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

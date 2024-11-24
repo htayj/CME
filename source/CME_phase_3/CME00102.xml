@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-14-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>; removed <SUP>s</SUP> from MILESTONES. Reviewed structure; removed some incorrect MILESTONEs in commentary Ps; changed TRAILER to CLOSER; moved end of LG; added EPIGRAPH Q L at end; changed DIV2 to DIV1. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00102">
+<STC T="M">102</STC>
+<BIBNO T="mec">CME00102</BIBNO>
+<VID>CME00102</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poem">
+<HEAD>DAS 'TRENTALLE SANCTI GREGORII' IN DER EDINBURGHER HANDSCHRIFT.</HEAD>
+<LG>
+<PB N="303" REF="3"/>
+<L>Some tyme in Rome a pope þ<HI REND="italic">er</HI> was, <MILESTONE N="213" UNIT="fol."/></L>
+<L>Þ<HI REND="italic">at</HI> hade a mod<HI REND="italic">ur</HI> fułł fayr<HI REND="italic">e</HI> of face,</L>
+<L>And þ<HI REND="italic">e</HI> beste, I vndirstonde,</L>
+<L>Þ<HI REND="italic">at</HI> was holden in <NOTE N="1" PLACE="foot">in <HI REND="italic">über der zeile zugefügt.</HI></NOTE> Romes londe, <MILESTONE N="4"/></L>
+<L>Of fastyng <HI REND="italic">and</HI> of p<HI REND="italic">re</HI>yers, as we rede,</L>
+<L>And of oþ<HI REND="italic">er</HI> almes dede;</L>
+<L>Tyl at þ<HI REND="italic">e</HI> deuełł, þ<HI REND="italic">at</HI> neu<HI REND="italic">er</HI> can blyn,</L>
+<L>Had broght hor in a p<HI REND="italic">re</HI>uey syn. <NOTE N="2" PLACE="foot">syne <HI REND="italic">in der handschrift, mit aus∣punktiertem</HI> e.</NOTE> <MILESTONE N="8"/></L>
+<L>Ho dorst noght telle no man:</L>
+<L>Ho was holden so god a womon.</L>
+<L>To myno<HI REND="italic">ur</HI> ne to frer<HI REND="italic">e</HI> Austyn,</L>
+<L>To caryne ne to Jacobyn, <MILESTONE N="12"/></L>
+<L>To no p<HI REND="italic">ri</HI>st ne to clarke</L>
+<L>Ho durst not schow hor yvel warke;</L>
+<L>Tyl sykenes told hor wond<HI REND="italic">ur</HI> sore</L>
+<L>Þ<HI REND="italic">at</HI> ho trowed to lyf no more. <MILESTONE N="16"/></L>
+<L>To þ<HI REND="italic">e</HI> pope hor<HI REND="italic">e</HI> son ho sende</L>
+<L>Hor to consełł <HI REND="italic">and</HI> to mende,</L>
+<L>To com to hor als be-lyffe</L>
+<L>Yf he wolde se hur<HI REND="italic">e</HI> on lyffe. <MILESTONE N="20"/></L>
+<L>Of þis tyþand<HI REND="italic">is</HI> was he not blythe;</L>
+<L>Bot to his mod<HI REND="italic">ur</HI> he wente swythe,</L>
+<L>And he askede hur<HI REND="italic">e</HI> of hur<HI REND="italic">e</HI> fare.</L>
+<L>Ho sayde, ho was in mycułł care, <MILESTONE N="24"/> <MILESTONE N="213b" UNIT="fol."/></L>
+<L>Wher<HI REND="italic">e</HI>-fore ho lust no more to lyuen;</L>
+<L>Bot to hym ho wold be schryuen.</L>
+<L>"Alas", he sayde, "alas for syn,</L>
+<L>So fayre w<HI REND="italic">ith</HI>-out <HI REND="italic">and</HI> fole w<HI REND="italic">ith</HI>-in! <MILESTONE N="28"/></L>
+<L>Synfułł I haue byn mony a day:</L>
+<L>Son, of consełł I þ<HI REND="italic">e</HI> p<HI REND="italic">ra</HI>y.</L>
+<L>Bot yf þ<HI REND="italic">at</HI> I haue rede of þ<HI REND="italic">e,</HI></L>
+<L>I trow neu<HI REND="italic">er</HI> saffe to be. <MILESTONE N="32"/></L>
+<L>Þre chyld<HI REND="italic">ur</HI> I haue borne</L>
+<L>Foll p<HI REND="italic">re</HI>uely, þey byn for-lorne.</L>
+<L>For I was holden so gud in londe,</L>
+<L>I slo hom ałł w<HI REND="italic">ith</HI> my honde <MILESTONE N="36"/></L>
+<L>Thorooȝħ combrons of þ<HI REND="italic">e</HI> devel of hełłe;</L>
+<L>Þis syn for schame I durst neu<HI REND="italic">er</HI> tełłe.</L>
+<L><PB N="304" REF="4"/>
+A-las, how schołł I saued be,</L>
+<L>My der<HI REND="italic">e</HI> son, w<HI REND="italic">ith</HI>-out red of þ<HI REND="italic">e</HI>?" <MILESTONE N="40"/></L>
+<L>Þe pope answart wepyng sore:</L>
+<L>"God<HI REND="italic">is</HI> m<HI REND="italic">er</HI>cy is wełłe more,</L>
+<L>My der<HI REND="italic">e</HI> mod<HI REND="italic">ur,</HI> þen þ<HI REND="italic">i</HI> syne;</L>
+<L>Yf þ<HI REND="italic">ou</HI> be sory w<HI REND="italic">ith</HI>-in, <MILESTONE N="44"/></L>
+<L>I telle þ<HI REND="italic">e,</HI> mod<HI REND="italic">ur,</HI> wełł sec<HI REND="italic">ur</HI>ly</L>
+<L>God of þ<HI REND="italic">i</HI> sole wyłłe haue m<HI REND="italic">er</HI>ycy. <NOTE N="1" PLACE="foot"><HI REND="italic">Sic! lies</HI> m<HI REND="italic">er</HI>cy.</NOTE></L>
+<L>Bot panans I wyłł gyff þ<HI REND="italic">e</HI> non;</L>
+<L>I se, þ<HI REND="italic">i</HI> lyf wyłł sone be gone: <MILESTONE N="48"/></L>
+<L>In hełłe or in p<HI REND="italic">ur</HI>gatory w<HI REND="italic">ith</HI>-outon drede</L>
+<L>Þ<HI REND="italic">i</HI> sole mot bye þ<HI REND="italic">i</HI> lyvies <NOTE N="2" PLACE="foot"><HI REND="italic">Sic! lies</HI> lyves.</NOTE> dede.</L>
+<L>Yelde þ<HI REND="italic">e,</HI> mod<HI REND="italic">ur,</HI> to God ałłmyght! <MILESTONE N="214" UNIT="fol."/></L>
+<L>For þ<HI REND="italic">e</HI> I p<HI REND="italic">ra</HI>y both day <HI REND="italic">and</HI> nyght. <MILESTONE N="52"/></L>
+<L>For hys m<HI REND="italic">er</HI>cy <HI REND="italic">and</HI> hys pete</L>
+<L>P<HI REND="italic">ar</HI>don of syn he g<HI REND="italic">ra</HI>unt <NOTE N="3" PLACE="foot">g<HI REND="italic">ra</HI>mt <HI REND="italic">in der hs.</HI></NOTE> to þ<HI REND="italic">e.</HI></L>
+<L>Bot, god mod<HI REND="italic">ur,</HI> my der<HI REND="italic">e</HI> dame,</L>
+<L>Yf þ<HI REND="italic">ou</HI> may w<HI REND="italic">ith</HI>-outon blame <MILESTONE N="56"/></L>
+<L>Of Gode to tełł me <NOTE N="4" PLACE="foot">me <HI REND="italic">mit sehr undeutlichem</HI> e <HI REND="italic">in der hs., welches aus</HI> y <HI REND="italic">gebessert scheint.</HI></NOTE> þ<HI REND="italic">e</HI> g<HI REND="italic">ra</HI>me,</L>
+<L>I p<HI REND="italic">ray</HI> þ<HI REND="italic">e</HI> in God<HI REND="italic">is</HI> name,</L>
+<L>When þ<HI REND="italic">ou</HI> art dede in wele or wo,</L>
+<L>God m[o]d<HI REND="italic">ur,</HI> do ryght so!" <MILESTONE N="60"/></L>
+<L>"My swet son, þ<HI REND="italic">er</HI> schałł <NOTE N="5" PLACE="foot"><HI REND="italic">Hs.</HI> schlałł, <HI REND="italic">wovon das erste</HI> l <HI REND="italic">durch punkte getilgt ist.</HI></NOTE> no slowthe</L>
+<L>Lyt me þ<HI REND="italic">er</HI> from <NOTE N="6" PLACE="foot"><HI REND="italic">Hs.</HI> fron.</NOTE>; her<HI REND="italic">e</HI> my trowthe!</L>
+<L>Yf God voche-safe, I com a-gayne</L>
+<L>To tełł my state; I wyłł fułł fayne." <MILESTONE N="64"/></L>
+<L>Ho had vnnethe þes word<HI REND="italic">is</HI> sayde,</L>
+<L>Bot ho yelde þ<HI REND="italic">e</HI> gost in a bryde.</L>
+<L>Sone to þ<HI REND="italic">e</HI> gronde þ<HI REND="italic">i</HI> con hor bere bryng,</L>
+<L>And beryd hor w<HI REND="italic">ith</HI>-outon lesyng. <MILESTONE N="68"/></L>
+<L>Þ<HI REND="italic">e</HI> goste com þ<HI REND="italic">e</HI> þyrde nyght</L>
+<L>To þ<HI REND="italic">e</HI> pope, a rufułł wyght.</L>
+<L>As blake hym þoȝt as any pyche</L>
+<L>W<HI REND="italic">ith</HI> burnand fyre <NOTE N="7" PLACE="foot"><HI REND="italic">Hs.</HI> frye, <HI REND="italic">doch sind</HI> r <HI REND="italic">und</HI> y <HI REND="italic">durch punkte als verstellt bezeichnet.</HI></NOTE>: he se neu<HI REND="italic">er</HI> syche; <MILESTONE N="72"/></L>
+<L>Þ<HI REND="italic">e</HI> chambur glyssnet ałł a-bowte.</L>
+<L>Þ<HI REND="italic">er</HI>-of þ<HI REND="italic">e</HI> pope had grete dowte,</L>
+<L><PB N="305" REF="5"/>
+And of þ<HI REND="italic">e</HI> gret stynke ałł-so,</L>
+<L>Þ<HI REND="italic">at</HI> made hym for to wake þ<HI REND="italic">o.</HI> <MILESTONE N="76"/></L>
+<L>Þ<HI REND="italic">er</HI> he hade an yvełł fytte,</L>
+<L>Þ<HI REND="italic">at</HI> hade negħ lost hys wytt.</L>
+<L>Bot at þ<HI REND="italic">e</HI> laste vp he breyde: <MILESTONE N="214b" UNIT="fol."/></L>
+<L>And rufully þis word<HI REND="italic">is</HI> he sayde: <MILESTONE N="80"/></L>
+<L>"Bene-dicite in God<HI REND="italic">is</HI> name,</L>
+<L>Wo is þ<HI REND="italic">er</HI>?" Ho says: "Þ<HI REND="italic">i</HI> dame."</L>
+<L>Of þ<HI REND="italic">at</HI> askyng þ<HI REND="italic">o</HI> gost was glad<HI REND="italic">e;</HI></L>
+<L>Þ<HI REND="italic">e</HI> Pope for ferde was ner<HI REND="italic">e</HI> made: <MILESTONE N="84"/></L>
+<L>"Alas", he sayde, "how art þ<HI REND="italic">ou</HI> stade?"</L>
+<L>"I am comu<HI REND="italic">n</HI> so as þ<HI REND="italic">ou</HI> me badde</L>
+<L>For my soco<HI REND="italic">ur and</HI> my prowe</L>
+<L>To helpe me of my vowe. <MILESTONE N="88"/></L>
+<L>My der<HI REND="italic">e</HI> son, for charit<HI REND="italic">e</HI>!</L>
+<L>Helpe me, as þ<HI REND="italic">ou</HI> hattest me!</L>
+<L>Þ<HI REND="italic">er</HI> is no tonge þ<HI REND="italic">at</HI> may telle</L>
+<L>Peynes I soffur, þay by<HI REND="italic">n</HI> so fełł. <MILESTONE N="92"/></L>
+<L>Þis hundrtħ yere I haue hom borne;</L>
+<L>Bot I haue helpe, I am fore-lorne."</L>
+<L>He vnswart w<HI REND="italic">ith</HI> sory hart<HI REND="italic">e:</HI></L>
+<L>"Me rewes, mod<HI REND="italic">ur,</HI> of <NOTE N="1" PLACE="foot">of <HI REND="italic">über der zeile nachgetragen.</HI></NOTE> þ<HI REND="italic">i</HI> smarte: <MILESTONE N="96"/></L>
+<L>Yf þ<HI REND="italic">er</HI> be oght þ<HI REND="italic">at</HI> helpe ȝow may,</L>
+<L>Tełł me, mod<HI REND="italic">ur,</HI> I ȝow pray."</L>
+<L>Þ<HI REND="italic">e</HI> sole sayd w<HI REND="italic">ith</HI> sore sykynge <NOTE N="2" PLACE="foot">Der reim hierzu fehlt.</NOTE>:</L>
+<L>. . . . . . . . . . . . . . <MILESTONE N="100"/></L>
+<L>"Wo so dose hyt in hys lyff day,</L>
+<L>Wełł is hym, he may say,</L>
+<L>Þ<HI REND="italic">at</HI> eu<HI REND="italic">er</HI> yytt was borne,</L>
+<L>For pynes thar<HI REND="italic">e</HI> hy<HI REND="italic">m</HI> dred non forne <MILESTONE N="104"/></L>
+<L>Of p<HI REND="italic">ur</HI>gatory no of hełłe,</L>
+<L>Whecħ peynes byn I-lyke fułł iłł;</L>
+<L>Þ<HI REND="italic">e</HI> ton hase ende, þ<HI REND="italic">at</HI> oþ<HI REND="italic">er</HI> is bowte:</L>
+<L>Wyłł is hym, is hom w<HI REND="italic">ith</HI>-out:— <MILESTONE N="108"/></L>
+<L>Thre masses of Crystes natiuite,</L>
+<L>And thre of epyphanys,</L>
+<L>And thre of þ<HI REND="italic">e</HI> paryfycacyon, <MILESTONE N="215" UNIT="fol."/></L>
+<L>And thre of þ<HI REND="italic">e</HI> annunciac<HI REND="italic">i</HI>on <NOTE N="3" PLACE="foot"><HI REND="italic">Hs.</HI> arn<HI REND="italic">er</HI>iciacōm̄.</NOTE>, <MILESTONE N="112"/></L>
+<L><PB N="306" REF="6"/>
+And thr<HI REND="italic">e</HI> of þ<HI REND="italic">e</HI> resurecc<HI REND="italic">i</HI>o<HI REND="italic">n,</HI></L>
+<L>And thre of þ<HI REND="italic">e</HI> ascenciou<HI REND="italic">n,</HI></L>
+<L>And of þe Holy Gost thre schałł <NOTE N="1" PLACE="foot">a <HI REND="italic">über der zeile zugefügt.</HI></NOTE> be</L>
+<L>And oþer<HI REND="italic">e</HI> thre of þ<HI REND="italic">e</HI> t<HI REND="italic">ri</HI>nite, <MILESTONE N="116"/></L>
+<L>And of our<HI REND="italic">e</HI> layd<HI REND="italic">is</HI> assu<HI REND="italic">m</HI>pcion thre,</L>
+<L>And als mony of here natiuite:</L>
+<L>And ałł þes massus, I þ<HI REND="italic">e</HI> pryae <NOTE N="2" PLACE="foot"><HI REND="italic">So in der hs.</HI></NOTE>,</L>
+<L>W<HI REND="italic">ith</HI>-ine hor vtas þ<HI REND="italic">ou</HI> hom say. <MILESTONE N="120"/></L>
+<L>And yytt wele more þ<HI REND="italic">ou</HI> hase to do:</L>
+<L>Placebo <HI REND="italic">and</HI> dirige þ<HI REND="italic">ou</HI> say þ<HI REND="italic">er</HI>-to!</L>
+<L>Also I p<HI REND="italic">ra</HI>y þ<HI REND="italic">e,</HI> my dere son,</L>
+<L>Þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> say þis oreson: <MILESTONE N="124"/></L>
+<L>'God þ<HI REND="italic">at</HI> made ałł <HI REND="italic">and</HI> som,</L>
+<L><HI REND="italic">And</HI> yeld þ<HI REND="italic">i</HI> selfe fore our<HI REND="italic">e</HI> raunson,</L>
+<L>Þ<HI REND="italic">ou</HI> wold be borne be-fore ałł oþ<HI REND="italic">er</HI></L>
+<L>In þ<HI REND="italic">e</HI> londe of be-hest, to be our<HI REND="italic">e</HI> broþ<HI REND="italic">er;</HI> <MILESTONE N="128"/></L>
+<L>And as þ<HI REND="italic">ou</HI> suffert detħ for us,</L>
+<L>Delyu<HI REND="italic">er</HI> þis soule <NOTE N="3" PLACE="foot"><HI REND="italic">Hs.</HI> solue, <HI REND="italic">das zu</HI> soule <HI REND="italic">gebessert ist.</HI></NOTE>, þ<HI REND="italic">ou</HI> swete Jh<HI REND="italic">es</HI>u[s],</L>
+<L>Out of þ<HI REND="italic">e</HI> fend<HI REND="italic">is</HI> hond<HI REND="italic">is</HI> fełłe!</L>
+<L>G<HI REND="italic">ra</HI>nt hyt, lorde, in joy to dwełł! <MILESTONE N="132"/></L>
+<L>Þ<HI REND="italic">o</HI> folke, lord, of mys-beleve</L>
+<L>Þ<HI REND="italic">ou</HI> helpe hom, lorde, or hyt hom greue!</L>
+<L>And, lorde, for þ<HI REND="italic">i</HI> grette pete,</L>
+<L>Þ<HI REND="italic">ou</HI> helpe hom, lord, ałł þ<HI REND="italic">at</HI> tryl<HI REND="italic">is</HI> in þ<HI REND="italic">e</HI>'." <MILESTONE N="136"/></L>
+<L>Þ<HI REND="italic">e</HI> pope vnswart a-non ryghte:</L>
+<L>"Hyt shałł be done w<HI REND="italic">ith</HI> ałł my myght.</L>
+<L>Nowe, god mod<HI REND="italic">ur,</HI> I pray the,</L>
+<L>Wen hyt is done, þ<HI REND="italic">ou</HI> com to me <MILESTONE N="140"/></L>
+<L>To tel me of þ<HI REND="italic">i</HI> fare. <MILESTONE N="215b" UNIT="fol."/></L>
+<L>God bryng vs botħ out of care!"</L>
+<L>Þen sayd þ<HI REND="italic">e</HI> gost: "I wyłł fułł fayne.</L>
+<L>Yf God voche-safe, I com a-gayne, <MILESTONE N="144"/></L>
+<L>To tełł þ<HI REND="italic">e</HI> at þ<HI REND="italic">e</HI> last,</L>
+<L>Wen ałł my paynes byn past.</L>
+<L>Fare wełł, son, for now I go;</L>
+<L>For God<HI REND="italic">is</HI> lofe þynke on my wo!" <MILESTONE N="148"/></L>
+<L>Þ<HI REND="italic">e</HI> pope lett send swytħ sone <NOTE N="4" PLACE="foot"><HI REND="italic">Die zeile mit dem reim auf</HI> sone <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>. . . . . . . . . . . . .</L>
+<L><PB N="307" REF="7"/>
+To þ<HI REND="italic">e</HI> freres of saynt<HI REND="italic">e</HI> Austen,</L>
+<L>To mynor or to Jacobyn, <MILESTONE N="152"/></L>
+<L><HI REND="italic">And</HI> to þ<HI REND="italic">e</HI> freres of Mont Carmele—</L>
+<L>W<HI REND="italic">ith</HI> hys blesyng he gret hom wełłe—</L>
+<L>To p<HI REND="italic">ri</HI>st <HI REND="italic">and</HI> clarke þ<HI REND="italic">at</HI> woned in Rome,</L>
+<L>To pylg<HI REND="italic">ri</HI>m<HI REND="italic">us</HI> þ<HI REND="italic">at</HI> þedur com: <MILESTONE N="156"/></L>
+<L>He bade hom on þis blesyng</L>
+<L>Hys mod<HI REND="italic">ur</HI> sole t<HI REND="italic">o</HI> [haue] in mynde</L>
+<L>In hor p<HI REND="italic">ra</HI>yers <HI REND="italic">and</HI> byddyng;</L>
+<L>Hym selffe wolde þ<HI REND="italic">e</HI> masses syng. <MILESTONE N="160"/></L>
+<L>Wen þ<HI REND="italic">e</HI> trentałł was ałł done,</L>
+<L>Ho come a-gayne fułł sone,</L>
+<L>Þ<HI REND="italic">e</HI> þryde nyght secorly</L>
+<L>Aft<HI REND="italic">ur</HI> þ<HI REND="italic">e</HI> byrtħ of þor<HI REND="italic">e</HI> lady, <MILESTONE N="164"/></L>
+<L>To þ<HI REND="italic">e</HI> pope in þis chambur<HI REND="italic">e</HI></L>
+<L>W<HI REND="italic">ith</HI> þ<HI REND="italic">o</HI> most swett<HI REND="italic">e</HI> savo<HI REND="italic">ur,</HI></L>
+<L>Þ<HI REND="italic">at</HI> eu<HI REND="italic">er</HI> he felde in his lyfe.</L>
+<L>Þ<HI REND="italic">er</HI>w<HI REND="italic">ith</HI> þ<HI REND="italic">e</HI> pope wakende swytħ, <MILESTONE N="168"/></L>
+<L>Mucħ <NOTE N="1" PLACE="foot"><HI REND="italic">Hs.</HI> Mcħ.</NOTE> myrtħe þ<HI REND="italic">er</HI> hard <HI REND="italic">and</HI> fułł grete steuu<HI REND="italic">n;</HI></L>
+<L>He se fayr<HI REND="italic">e</HI> angłs were comn fro heuun:</L>
+<L>Be-twene hom þey broȝt his mod<HI REND="italic">ur</HI> i-wis,</L>
+<L>Hym thoȝt ho was þ<HI REND="italic">e</HI> qwene of blys; <MILESTONE N="172"/></L>
+<L>So fayre ho schon, so bryȝt ho was.</L>
+<L>Þ<HI REND="italic">o</HI> pope knelet don in þ<HI REND="italic">at</HI> place <MILESTONE N="216" UNIT="fol."/></L>
+<L>"Lade", he sayde, "I s<HI REND="italic">er</HI>ued nou<HI REND="italic">er</HI> þ<HI REND="italic">e,</HI></L>
+<L>Þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> wolde schow þ<HI REND="italic">e</HI> to me, <MILESTONE N="176"/></L>
+<L>As I schałł þ<HI REND="italic">e</HI> s<HI REND="italic">er</HI>ue, swett<HI REND="italic">e</HI> lady:</L>
+<L>Of my mod<HI REND="italic">ur</HI> sole hafe m<HI REND="italic">er</HI>cy!"</L>
+<L>"Nay", sayde þ<HI REND="italic">e</HI> sole, "þ<HI REND="italic">ou</HI> mys-leuest:</L>
+<L>I am not ho þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> wenest; <MILESTONE N="180"/></L>
+<L>Þ<HI REND="italic">i</HI> mod<HI REND="italic">ur</HI> I am, <HI REND="italic">and</HI> not þ<HI REND="italic">e</HI> qwene.</L>
+<L>Blossed mot þ<HI REND="italic">ou</HI> <NOTE N="2" PLACE="foot"><HI REND="italic">Hinter</HI> þou <HI REND="italic">folgt</HI> be, <HI REND="italic">welches aber durch einen strich und punkt ungültig gemacht ist.</HI></NOTE> ev<HI REND="italic">er</HI> ben;</L>
+<L>For thorogħ þ<HI REND="italic">i</HI> p<HI REND="italic">ra</HI>yers, my der<HI REND="italic">e</HI> son,</L>
+<L>Euer in blysse I schałł won. <MILESTONE N="184"/></L>
+<L>God of heuun brynge þ<HI REND="italic">e</HI> thedur,</L>
+<L>Þ<HI REND="italic">at</HI> we may haue þ<HI REND="italic">at</HI> joy to-gedur</L>
+<L>And to þ<HI REND="italic">e</HI> blesse þen com we."</L>
+<L>"Amen", sayd ałł, "for charyte!" <MILESTONE N="188"/></L>
+<L><PB N="308" REF="8"/>
+Her<HI REND="italic">e</HI> endes þ<HI REND="italic">e</HI> trentałł of Gergori. <NOTE N="1" PLACE="foot"><HI REND="italic">So in der hs.</HI></NOTE></L>
+<L>God of our<HI REND="italic">e</HI> soles haue m<HI REND="italic">er</HI>ci! <MILESTONE N="190"/></L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+<TRAILER>Explycyt trentałłe S<HI REND="italic">an</HI>c<HI REND="italic">t</HI>i Gregorij.</TRAILER>
+<EPIGRAPH><Q>
+<L>Be it trowe or be it fals,</L> 
+<L>It is os the cope was. <NOTE N="2" PLACE="foot"><HI REND="italic">Unten auf dieser seite steht deutlich geschrieben und von derselben hand:</HI> gorgys hopkyne nto XX pond of god boldurs.</NOTE></L>
+</Q></EPIGRAPH>
+</DIV1>
+<DIV1 TYPE="commentary">
+<HEAD>Anmerkungen.</HEAD>
+<P>Vers 11-12. Vgl. die verse 149-153. Ist <HI REND="italic">caryne</HI> (in v. 12) eine verderbniss aus <HI REND="italic">Carmelite</HI>? Vgl. v. 153 <HI REND="italic">And to þe freres of Mont Carmele.</HI></P>
+<P>Vers 28. <HI REND="italic">fole</HI> ist ne. <HI REND="italic">foul;</HI> wegen der schreibung vgl. <HI REND="italic">gronde</HI> 67, <HI REND="italic">don</HI> 174.</P>
+<P>Vers 37. Turnbull druckt <HI REND="italic">combrous.</HI> Dieses adjectiv ist bei Mätzner nicht belegt und scheint erst im Ne. vorzukommen. Die hs. lässt die lesung <HI REND="italic">combrons</HI> zu, worin nur das <HI REND="italic">o</HI> der zweiten silbe ungewöhnlich ist; vgl. <HI REND="italic">panans</HI> 47. Zeile 111 in <HI REND="italic">p</HI>a<HI REND="italic">ryfycacyon</HI> steht umgekehrt <HI REND="italic">a</HI> für <HI REND="italic">o</HI> (oder <HI REND="italic">u)</HI> geschrieben. Der sinn verlangt eben das hauptwort <HI REND="italic">combrans, cumbraunce,</HI> welches in der anderen hs. C, v. 25, auch steht.</P>
+<P>Vers 56-57. Der infinitiv steht hier auffallenderweise mit <HI REND="italic">to</HI> nach dem hülfszeitwort <HI REND="italic">may.</HI> Kaluza stellt (Engl. Studien XIV, 179) unter zu∣ziehung von Zupitza's anmerkung zu Guy B v. 1925 die regel auf: 'In einem hauptsatze darf der von einem hülfszeitworte <HI REND="italic">(will, shall, may, must, can)</HI> abhängige infinitiv im Me. die praep. <HI REND="italic">to</HI> bei sich haben, wenn er mit starkem nachdruck dem hülfszeitwort vorangeht'; nach Zupitza (anmerkung zu Guy B v. 1925) auch dann, wenn er als zweiter inf. durch <HI REND="italic">and</HI> mit dem ersten praepositionslosen verbunden ist. Das beispiel hier fällt nicht unter die regeln. Es scheint auch zu genügen, dass der inf. überhaupt durch längere zwischenstehende redeteile vom hülfszeitwort ge∣trennt ist.</P>
+<P>Vers 60. <HI REND="italic">Lyt</HI> ist ae. <HI REND="italic">lîhtan.</HI></P>
+<P>Vers 85. <HI REND="italic">stade</HI> ist participium zu <HI REND="italic">steden</HI> und steht in der bedeutung, welche Mätzner häufig für <HI REND="italic">bestad, bestade</HI> belegt hat auf seite 269 seines wörterbuchs (= 'bewältigt, überwältigt'); vergleiche auch Stratmann's beleg (seite 529): <HI REND="italic">in sorowe was he stad.</HI></P>
+<P>Vers 93-94 sind verderbt; vgl. hs. C, vers 57.</P>
+<P>Vers 101. Der ausgelassene vers lautete vielleicht wie v. 63 in hs. C: 'Ȝ<HI REND="italic">e, sone, for me þow mast synge'.</HI> Auf <HI REND="italic">synge</HI> würde sich dann das folgende <HI REND="italic">hyt</HI> beziehen, und nur so kann man die sonst unvermittelte auf∣zählung der messen in vers 108 ff. verstehen.</P>
+<P>Vers 120. Vgl. Kaufmann's anmerkung 120 auf seite 52.</P>
+<P>Vers 136. Das Lambeth-Ms. hat <HI REND="italic">trusty,</HI> Vernon <HI REND="italic">trusteþ</HI> anstatt des <HI REND="italic">trylis</HI> (Kaufmann, seite 38).</P>
+<P>Vers 175. <HI REND="italic">nouer = never;</HI> vgl. <HI REND="italic">schow</HI> 176. <HI REND="italic">blossed</HI> 182.</P>
+<CLOSER><DATELINE>HEIDELBERG.</DATELINE>
+<SIGNED>K. D. BÜLBRING.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-20-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; moved some misplaced MILESTONEs; distributed (T)s on MILESTONEs throughout; changed several (T) NOTEs to MILESTONEs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00070">
+<STC T="M">70</STC>
+<BIBNO T="mec">CME00070</BIBNO>
+<VID>CME00070</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="227" REF="11"/>
+<HEAD>TEXT.</HEAD>
+<LG>
+<L><MILESTONE N="115a" UNIT="f."/> Þe holi gostes miȝte, us alle helpe &amp; diȝte, us wissie &amp; us teche,</L>
+<L>Y-scilde us fram þe unwiȝte, bi daie &amp; bi niȝte, þat þencheþ us bipeche.</L>
+<L>Ich am elder þane ich was of wintre &amp; of lore; <MILESTONE N="1(T)"/></L>
+<L>Ich eldi more þane ich dude, mi wit aȝte beo þe more.</L>
+<L>To longe ich habbe child ibeo, of wordes &amp; of dede; <MILESTONE N="5"/></L>
+<L>Þeȝ ich beo of wintres eld, to ȝung ich am of rede.</L>
+<L>Vnnet lif ich habbe ilad &amp; ȝet me þincþ ich lede; <MILESTONE N="5(T)"/></L>
+<L>Whane ich me biþenche wel, sore ich me a-drede.</L>
+<L>Mest what þat ich habbe ido is idelnes &amp; chilse;</L>
+<L>To late ich habbe me biþoȝt, bute me Crist do milse. <MILESTONE N="10"/></L>
+<L>Vele idele wordes ich habbe ispeke, siþþe ich speke cuþe.</L>
+<L>&amp; fele ȝunge dede ido, &amp; þat me reweþ nuþe. <MILESTONE N="10(T)"/></L>
+<L>Al to muchel ich habbe a-gult, of wrke &amp; of worde;</L>
+<L>Al to muchel ich habbe ispend, to litel ileid on horde. <MILESTONE N="12(T)"/></L>
+<L>Ich miȝte bet habbe ido, ȝef ich hadde þe selþe, <MILESTONE N="15"/> <MILESTONE N="15(T)"/></L>
+<L>Nu ich wolde, &amp; ich ne mai, for elde ne for unhelþe.</L>
+<L>Elde me is istolen up-on, er þan ich hit wiste.</L>
+<L>Þat ich ne mai me iseo bifore, uor smiche ne for miste.</L>
+<L>Arȝ we beoþ to donne god, of euel al to þriste,</L>
+<L>More eie stondeþ man of man, þane him do of Criste. <MILESTONE N="20"/> <MILESTONE N="20(T)"/></L>
+<L>Þe wel ne deþ þe while he mai, sore hit scal him rewe,</L>
+<L>Whane hi sculle mowe &amp; ripe, her þat hi er sewe.</L>
+<L>Doþ al to gode þat ȝe muȝe, þe while ȝe beþ aliue;</L>
+<L>Ne truste noman to muchel, to childe ne to wiue.</L>
+<L>Man þat hine selue uorȝet uor wiue oþer uor childe, <MILESTONE N="25"/></L>
+<L>He scal come in euele stede, bute god him beo milde. <MILESTONE N="26(T)"/> <NOTE PLACE="foot"><P>1) The figures in italics on the right side of the text indicate the corresponding lines of T.</P>
+<P>In printing the text I have followed the usual principles, viz. (a) Con∣tractions and abbreviations have been expanded, the letters supplied being printed in italics. (b) Brackets have been used to denote the addition of a word or a letter, the original reading being in every case given in the foot-notes. (c) Proper names have been indicated by capitals, whereas in the MS. they are written with small letters except when standing at the beginning of a line. (d) The punctation is my own. (e) All other deviations from the MS. have been carefully noted in the foot-notes.</P></NOTE></L>
+<L><PB N="228" REF="12"/>
+Ne beo þe leuere þane þi self, þi mei ne þi moȝe; <MILESTONE N="29(T)"/></L>
+<L>Sot is þat is oþre mannes frend betere þane his oȝe.</L>
+<L>Ne truste wif to hure were, ne were to his wiue;</L>
+<L>Biuore him do wel euerich man, þe while he is aliue. <MILESTONE N="30"/></L>
+<L>Vor he is <NOTE N="1)" PLACE="foot">above the line in the original scribe's hand.</NOTE> wis, þat hine biþanch, þe while þat he mot libbe,</L>
+<L>So sone wlleþ hine uorȝete þe uremde &amp; þe sibbe.</L>
+<L><MILESTONE N="155b" UNIT="f."/> Þe wel ne deþ þe whil he mai, ne scal he whane he <NOTE N="1)" PLACE="foot">above the line in the original scribe's hand.</NOTE> wolde; <MILESTONE N="35(T)"/></L>
+<L>Manies mannes sor yswinch habbeþ ofte unholde.</L>
+<L>Ne scolde noman don auirst, ne sclakie wel to done; <MILESTONE N="35"/></L>
+<L>Vor mani man bihoteþ wel, &amp; hit forȝet wel sone.</L>
+<L>Ac þilke man þat wle beo siker to habbe godes blisse,</L>
+<L>Do wel himself þe while he mai, þanne haueþ he mid ywisse. <MILESTONE N="40(T)"/></L>
+<L>Þis riche men weneþ beo siker þurȝ walles &amp; þurȝ diche;</L>
+<L>Ac þe deþ his eȝte in sikere stede, he hit sent to heueneriche. <MILESTONE N="40"/></L>
+<L>Vor þar ne darf he ben afered of fure ne of þeue,</L>
+<L>Þar ne mai hit him binime þe loþe ne þe leue.</L>
+<L>Þar ne darf he habbe care of ȝunge ne of ȝelde.</L>
+<L>Þider we sendeþ &amp; us self bereþ to litel &amp; to selde. <MILESTONE N="46(T)"/></L>
+<L>Þider ȝe scolde alle don, wolde ȝe me yleue; <MILESTONE N="45"/> <MILESTONE N="49(T)"/></L>
+<L>Þar ne miȝte hit us binime king ne no scerreue. <MILESTONE N="50(T)"/></L>
+<L>Þider we scolde bere &amp; draȝe, ofte &amp; wel ylome; <MILESTONE N="47(T)"/></L>
+<L>Þar ne miȝte me hit us binime mid none wronge dome. <MILESTONE N="48(T)"/></L>
+<L>Al þat faireste þat man haueþ, to gode he hit scolde sende; <MILESTONE N="51(T)"/></L>
+<L>Þar he hit miȝte finde eft, &amp; habbe euere bute ende. <MILESTONE N="50"/> <MILESTONE N="52(T)"/></L>
+<L>Þe man þe his eȝte wel wile wite, þe while he mai welde, <MILESTONE N="55(T)"/></L>
+<L>Ȝeue he uor godes loue, þanne beþ hi wel ihelde. <MILESTONE N="56(T)"/></L>
+<L>Þe man þat ani god doþ her uor habbe godes ore, <MILESTONE N="53(T)"/></L>
+<L>Þar he hit scal finde eft an hundredfelde more. <MILESTONE N="54(T)"/></L>
+<L>Þe man þat deþ her mest to gode &amp; alþre lest to loþe, <MILESTONE N="55"/> <MILESTONE N="61(T)"/></L>
+<L>Aiþer to litel &amp; to muchel hit scal him þinche boþe,</L>
+<L>Whane me scal ure wurkes weȝe to uore þe heuenkinge,</L>
+<L>&amp; ȝeue us ure suinches lien after ure erni[n]gge. <NOTE N="2)" PLACE="foot">Ms. ernigge.</NOTE> <MILESTONE N="64(T)"/></L>
+<L><PB N="229" REF="13"/>
+Ne scal non euel beo unboȝt ne no god unȝulde; <MILESTONE N="59(T)"/></L>
+<L>Euel we doþ al to muchel, god lasse þane we scolde. <MILESTONE N="60"/> <MILESTONE N="60(T)"/></L>
+<L>Ac euerich man mid þan þe he haueþ, mai bugge godes riche; <MILESTONE N="65(T)"/></L>
+<L>Þe þe more haueþ &amp; þe þat lasse, boþe iliche.</L>
+<L>Ase wel þ'on mid his penie, alse þe oþer mid his punde</L>
+<L>(Þis is þat alþre beste ware, þat euere was ifunde);</L>
+<L><MILESTONE N="116a" UNIT="f."/> &amp; þe þat ne mai namore do, mid is gode þonke <MILESTONE N="65"/></L>
+<L>Also wel so he þat haueþ of goldes fele monke. <MILESTONE N="70(T)"/></L>
+<L>Vor ofte god kan more þonc him þat him ȝefþ lasse,</L>
+<L>Ȝef his workes &amp; his weȝes is milse &amp; riȝtwisnesse.</L>
+<L>Litel loc is gode lef, þat cumþ of gode wille,</L>
+<L>&amp; ȝeþ-lete muchel ȝeue of him þat his herte is ille. <MILESTONE N="70"/></L>
+<L>Heuene &amp; erþe he ouersieþ: his eȝene beþ wel briȝte, <MILESTONE N="75(T)"/></L>
+<L>Sonne &amp; mone, sterre &amp; fur is þestre to-ȝenes his liȝte. <NOTE PLACE="marg"><HI REND="italic">(om</HI> T)</NOTE></L>
+<L>He wot &amp; walt what doþ &amp; queþeþ, alle quike wiȝte. <MILESTONE N="78(T)"/></L>
+<L>Nis no louerd, suich is Crist, no king suich is ure driȝte. <MILESTONE N="79(T)"/></L>
+<L>Heuene &amp; erþe god almiȝti halt al in his honde. <MILESTONE N="75"/> <MILESTONE N="81(T)"/></L>
+<L>He deþ al þat his wille is, a watere &amp; a londe.</L>
+<L>He scuppeþ þe fish in þe seo, þe foȝel bi þe lefte.</L>
+<L>He wot alle kennes þing, he scop alle scefte.</L>
+<L>&amp; he is ord bute ord, &amp; ende bute ende. <MILESTONE N="85(T)"/></L>
+<L>He is one in eueriche stede, wende whider þu wende <MILESTONE N="80"/></L>
+<L>He is boue &amp; he is bineþe, biuore &amp; bihinde;</L>
+<L>Þe man þat godeswille deþ, oueral he hine mai finde.</L>
+<L>Eche rune god ihurþ, god wot ache dede;</L>
+<L>He þurȝsieþ aches mannes þonc. What scal us to rede? <MILESTONE N="90(T)"/></L>
+<L>We þat brekeþ godes i[h]est <NOTE N="1)" PLACE="foot">Ms. isest.</NOTE> &amp; gulteþ suo ylome, <MILESTONE N="85"/></L>
+<L>What sculle we sigge oþer do atte heȝe dome?</L>
+<L>We þat her habbeþ agult, &amp; euel lif her ladde,</L>
+<L>Huat sculle we come to dome, þar angles beþ adradde?</L>
+<L>What sculle we bere us biuore, mid wham sculle we yqueme, <MILESTONE N="95(T)"/></L>
+<L>We þat non god ne habbeþ ydo þe heuenliche deme? <MILESTONE N="90"/></L>
+<L>Þar sculle beo deueles suo fele, &amp; wulleþ us forwreie;</L>
+<L>Ne habbeþ hi noþing forȝete, her þat hy yseȝe.</L>
+<L>Al þat we misdude her, hi hit us wlleþ cuþe þare</L>
+<L>Bute we hit habbe her ibet, þe while þat we her were. <MILESTONE N="100(T)"/></L>
+<L><PB N="230" REF="14"/>
+Al hi habbeþ in hure write, þat we misdede here; <MILESTONE N="95"/> <MILESTONE N="101(T)"/></L>
+<L>Þeȝ we hi neste ne <NOTE N="1)" PLACE="foot">Ms. ne ne.</NOTE> iseȝe, hi were ure yfere. <MILESTONE N="102"/></L>
+<L><MILESTONE N="116b" UNIT="f."/> Iesu Crist seinte Marie sone us alle helpe &amp; rede, <NOTE PLACE="marg"><HI REND="italic">(om</HI> T)</NOTE></L>
+<L>&amp; eueremore yscilde us, uram euele yuerrede. <NOTE PLACE="marg"><HI REND="italic">(om</HI> T)</NOTE></L>
+<L>What sculle horlinges do, þe suike &amp; þe forsuorene? <MILESTONE N="103(T)"/></L>
+<L>Awi, so fele beoþ icliped, so uewe beoþ ycorene. <MILESTONE N="100"/></L>
+<L>A wi, what scolde hi biȝete, what scolde hi yborene,</L>
+<L>Þat sculle beo to deþe ydo, &amp; eueremore uorlorene?</L>
+<L>Ac euerich man him selue scal bic[l]ipie <NOTE N="2)" PLACE="foot">Ms. <HI REND="italic">bichipie;</HI> D T e <HI REND="italic">biclepien,</HI> J <HI REND="italic">bi-cleopien,</HI> L <HI REND="italic">biclepie,</HI> E <HI REND="italic">bi-clepiean.</HI></NOTE> &amp; eke deme,</L>
+<L>Al his workes &amp; his þoȝt þar to he scal teme. <MILESTONE N="108(T)"/></L>
+<L>Euerich man him selue scal deme to d[e]aþe <NOTE N="3)" PLACE="foot">Ms. draþe.</NOTE> oþer to liue. <MILESTONE N="105"/> <MILESTONE N="115(T)"/></L>
+<L>Þe witnesse of his workes, to oþer þan him scal driue. <MILESTONE N="116(T)"/></L>
+<L>Nis no witnesse al so muchel, so is þe mannes herte; <MILESTONE N="113(T)"/></L>
+<L>Þe man þat saiþ þat he is lame, himself he wot þe smerte. <MILESTONE N="114(T)"/></L>
+<L>Ne mai no man deme þane man also riȝte; <MILESTONE N="109(T)"/></L>
+<L>Not non his workes so wel, so wot ure driȝte. <MILESTONE N="110"/></L>
+<L>Euerich man himself wot best his workes &amp; his wille:</L>
+<L>Ac þe þat wot lest saiþ ofte mest, &amp; þe þat al wot is stille. <MILESTONE N="112(T)"/></L>
+<L>Ac Crist ne demeþ nanne man after his ginni[n]gge, <NOTE N="4)" PLACE="foot">Ms. ginnigge.</NOTE> <MILESTONE N="119(T)"/></L>
+<L>Ac al scal beo his lif iteld, suich is his endi<HI REND="italic">n</HI>gge.</L>
+<L>Ȝef his ende is euel al, hit is euel, &amp; god, ȝef god beoþ his ende. <MILESTONE N="115"/></L>
+<L>Iesu Crist leue þat ure ende beo god, &amp; witie þat he us lende.</L>
+<L>Ac þe þat nele neuere no god do, ne god lif her lede,</L>
+<L>Ere deþ &amp; dome come to his dore, sore he mai adrede,</L>
+<L>Þat he ne muȝe þanne bidde ore, uor þat itit ilome. <MILESTONE N="125(T)"/></L>
+<L>Vor-þi he is wis þat ore bit, &amp; bet biuore dome. <MILESTONE N="120"/></L>
+<L>Vor whane deþ &amp; dome comeþ to his dore, to late he biddeþ ore,</L>
+<L>To late he leteþ euele workes, þat ne may hi do namore.</L>
+<L>Whane senne let þe, &amp; þu naȝt hi, &amp; þu ne miȝt do namore;</L>
+<L>To longe he abit, þat suo abit, to bidde Cristes ore. <MILESTONE N="130(T)"/></L>
+<L>Ac naþeles we hit ileueþ, uor driȝten self hit sede: <MILESTONE N="125"/></L>
+<L>Of whiche time þat man ofþincþ his misdede,</L>
+<L>Oþer raþer oþer later, milse he scal ymete;</L>
+<L><PB N="231" REF="15"/>
+Ac who-so noþing her naueþ ibet, muchel he haueþ to bete.</L>
+<L><MILESTONE N="117a" UNIT="f."/> Ac mani man saiþ, 'Who recþ of pine, þat scal habbe ende? <MILESTONE N="135(T)"/></L>
+<L>Ne recche ich, beo ich a domesdai ilesed ut of bende'. <MILESTONE N="130"/></L>
+<L>O, lite wot he what is pine, &amp; lite pine he knoweþ,</L>
+<L>Huiche pine þe soule þoleþ, hu biter wind þar bloweþ.</L>
+<L>Vor hadde he þar ibeo, tuo bare tide,</L>
+<L>Vor al þat gold of midelerd, þe þridde he nolde abide. <MILESTONE N="140(T)"/></L>
+<L>Þat siggeþ þe, þat were þar, &amp; wite hit mid iwisse: <MILESTONE N="135"/></L>
+<L>Wo wrþe þe sorȝe of seueȝer, uor ore niȝte blisse.</L>
+<L>Vor ore blisse þat ende haueþ, endeles pine:</L>
+<L>Betere is wori wateres drinch, þane atter ime[n]gd <NOTE N="1)" PLACE="foot">Ms. imegd.</NOTE> mid wine.</L>
+<L>Suines brede beþ wel suete, &amp; so hi beþ of þe dere; <MILESTONE N="145(T)"/></L>
+<L>Al to dere he hi beiþ, þat ȝefþ þar-uor his suere. <MILESTONE N="140"/></L>
+<L>Vul wombe mai liȝtliche speke of hunger &amp; of uaste;</L>
+<L>Suo mai of pine þat not, what hie is, þat euere scal ilaste.</L>
+<L>Hadde he yfonded one stunde, he wolde sigge a-noþer;</L>
+<L>Ȝeþ-lete him were wif &amp; child, suster vader &amp; broþer <MILESTONE N="150(T)"/></L>
+<L>Eueremore her in wo, &amp; in pine wonie, <MILESTONE N="145"/> <MILESTONE N="153(T)"/></L>
+<L>Wiþ þan þe he miȝte helle pine ule &amp; ysconie. <MILESTONE N="154(T)"/></L>
+<L>Vor of þat pine þat þar beoþ, nelle ich ȝo noþing leȝe. <MILESTONE N="291(T)"/></L>
+<L>Nis hit bute game &amp; gleo her þat þat flesh mai dreȝe <MILESTONE N="292(T)"/></L>
+<L>Of þe dome we <NOTE N="2)" PLACE="foot"><HI REND="italic">ich,</HI> crossed out, precedes.</NOTE> wlleþ speke, of whan ich ȝo er seide, <MILESTONE N="157(T)"/></L>
+<L>At þan daie &amp; þan dome, Crist us helpe &amp; rede. <MILESTONE N="150"/></L>
+<L>Þar we muȝe beo afered, &amp; harde us adrede;</L>
+<L>Þar euerich man ysieþ biuore his workes &amp; his dede. <MILESTONE N="160(T)"/></L>
+<L>Al scal beo þar vnhed, her þat we hele, <NOTE N="3)" PLACE="foot">Ms. unhele, with <HI REND="italic">un</HI> crossed through and expunged.</NOTE></L>
+<L>Al scal beo þar unwriȝe, her þat man luȝe &amp; stele.</L>
+<L>Þar we sculle aches mannes lif iknowe ase ure oȝe. <MILESTONE N="155"/></L>
+<L>Þar sculle eueni[n]gges <NOTE N="4)" PLACE="foot">Ms. euenigges.</NOTE> beo þe heȝe &amp; þe loȝe.</L>
+<L>Ne scal him naȝt scamie þar, ne darf he him adrede, <MILESTONE N="165(T)"/></L>
+<L>He þe ofþuȝte her his gult, &amp; bette his misdede.</L>
+<L><PB N="232" REF="16"/>
+Him ne scameþ ne him ne grameþ, þat scal beo i-boreȝe;</L>
+<L>Ac þe oþre habbeþ scame &amp; grame &amp; oþre fele soreȝe. <MILESTONE N="160"/> <MILESTONE N="168(T)"/></L>
+<L><MILESTONE N="117b" UNIT="f."/> Al þat euere ysprungen is of Adam &amp; of Eue, <MILESTONE N="175(T)"/></L>
+<L>To þe dome hi sculle come, forsoþ, ȝe hit yleue. <MILESTONE N="176(T)"/></L>
+<L>Hi sculle habbe hardne dom, þat her were harde, <MILESTONE N="171(T)"/></L>
+<L>Þe euele helde poure men &amp; euele laȝe arerde.</L>
+<L>Euerich after þan þe he haueþ ido, he scal þar beo ydemed. <MILESTONE N="165"/></L>
+<L>Welle bliþe mai he beo, þat gode her haueþ iquemed. <MILESTONE N="174(T)"/></L>
+<L>Þo þat gode iserued habbeþ, after hare miȝte, <MILESTONE N="177(T)"/></L>
+<L>Hi sculle to heueneriche fare, uorþ mid ure driȝte.</L>
+<L>Þe oþre þ<HI REND="italic">at</HI> þe deueles worc habbeþ ido, &amp; þar inne beoþ ifunde,</L>
+<L>Hi sculle falle adun mid him into hel[l]e <NOTE N="2)" PLACE="foot">Ms. hele.</NOTE> grunde. <MILESTONE N="170"/> <MILESTONE N="180(T)"/></L>
+<L>&amp; þare hi sculle wonie eueremore bute ende;</L>
+<L>Ne brecþ neuere eft Iesus helle for ham, to bringe ham ut of bende. <MILESTONE N="182(T)"/></L>
+<L>Enes ure louerd helle brac, his frend he ut broȝte; <MILESTONE N="185(T)"/></L>
+<L>Himself he þolede deþ for us, wel dere he us boȝte. <MILESTONE N="186(T)"/></L>
+<L>Nolde hit fader do for þe sune, ne suster uor þe broþer, <MILESTONE N="175"/> <MILESTONE N="188(T)"/></L>
+<L>Ne hit moȝe uor þe mei, ne noman uor oþer. <MILESTONE N="187(T)"/></L>
+<L>Vnneþe we ȝeueþ for his loue a stecche of ure brede; <MILESTONE N="191(T)"/></L>
+<L>Lite we þencheþ þat he scal deme, þe quickewe &amp; þe dede. <MILESTONE N="192(T)"/></L>
+<L>Vre louerd uor his þreles, ipined was on þe rode. <MILESTONE N="189(T)"/></L>
+<L>Vre bendes he unbond, &amp; boȝte us mid his blode. <MILESTONE N="180"/> <MILESTONE N="190(T)"/></L>
+<L>Muchel he dude for ure loue, ȝef we hit wolde understonde. <MILESTONE N="193(T)"/></L>
+<L>Ac þat þe ure eldringes misdede, we hit habbeþ wel harde on honde. <NOTE N="1)" PLACE="foot">above the line.</NOTE> <MILESTONE N="194(T)"/></L>
+<L>&amp; lite þencheþ ani man, hu lite was þe sunne, <MILESTONE N="205(T)"/></L>
+<L>Þurȝ whan we þolieþ alle deþ, þe come of Adammes kunne. <MILESTONE N="206(T)"/></L>
+<L>Deþ com in þis midelerd þurȝ þes deueles onde; <MILESTONE N="185"/> <MILESTONE N="195(T)"/></L>
+<L>Sunne &amp; soreȝe &amp; i-suinch <NOTE N="3)" PLACE="foot">Ms. in suinch.</NOTE>, a wat<HI REND="italic">er</HI>e &amp; a londe. <MILESTONE N="196(T)"/></L>
+<L>Þurst &amp; hunger, chele &amp; hete, eche &amp; unhelþe, <MILESTONE N="200(T)"/></L>
+<L>Þurȝ deþ com in þis midelerd, &amp; manie oþre unselþe.</L>
+<L>Elles nere no man died, ne sike ne unsele, <MILESTONE N="202(T)"/></L>
+<L>Ac miȝte libbe eueremore in blisse &amp; in hele. <MILESTONE N="190"/></L>
+<L>Adam &amp; his offspreng uor ore bare sunne <MILESTONE N="211(T)"/></L>
+<L><PB N="233" REF="17"/>
+Were uele hundred wintre in helle pine &amp; in unwenne. <MILESTONE N="212(T)"/></L>
+<L><MILESTONE N="118a" UNIT="f."/> &amp; suþþe god dude so muchel wreche <NOTE N="1)" PLACE="foot">above the line.</NOTE> uor ore misdede, <MILESTONE N="209(T)"/></L>
+<L>We, þat so ylome &amp; ofte agulteþ her, wel sore we maie a-drede. <MILESTONE N="210(T)"/></L>
+<L>&amp; þe þat ledeþ hare lif mid werre &amp; mid y-wronge, <MILESTONE N="195"/> <MILESTONE N="213(T)"/></L>
+<L>Bute hit godes milse do, hi sculle beo þar wel longe.</L>
+<L>Godes wisdom is wel muchel &amp; so beþ his miȝte; <MILESTONE N="215(T)"/></L>
+<L>Nis his miȝte no lasse þane was þo bi þan ilke wiȝte.</L>
+<L>More he one mai uorȝeue, þane al uolk gulte kunne;</L>
+<L>Þe selue deuel miȝte habbe milse, ȝef he hit hadde bigunne. <MILESTONE N="200"/></L>
+<L>Þe man þe godes milse isecþ, iwis he hit scal finde;</L>
+<L>Ac helle king is oreles wiþ þan þat he mai binde. <MILESTONE N="220(T)"/></L>
+<L>Þe þat deþ his wille best, wrst he haueþ mede:</L>
+<L>His baþ scal beo wallinde pich, his bed berninde glede.</L>
+<L>Wrst he deþ <NOTE N="2)" PLACE="foot">he deþ <HI REND="italic">twice.</HI></NOTE> his godewines, þane his fulle uende. <MILESTONE N="205"/></L>
+<L>Iesu Crist us iscilde alle fram suiche euele frende.</L>
+<L>Neuere in helle ich ne com, ne neuere come ne recche, <MILESTONE N="225(T)"/></L>
+<L>Þaȝ ich al þes worldes wele, þar inne <NOTE N="3)" PLACE="foot"><HI REND="italic">ínne</HI> preceded by erasure of one letter <HI REND="italic">m</HI> (?).</NOTE> wende uecche.</L>
+<L>Ac þeȝ ich wlle ȝo telle, ase wise men me seide,</L>
+<L>&amp; on boc hit is iwrite, &amp; ȝe hit habbeþ ihurd rede. <MILESTONE N="210"/></L>
+<L>&amp; ich hit wlle telle us, þat hit er neste,</L>
+<L>&amp; warni us wiþ unureme, ȝef ȝe me wlleþ ileste. <MILESTONE N="230(T)"/></L>
+<L>Vnderstondeþ nu to me, ȝedi men &amp; areȝe <NOTE N="4)" PLACE="foot"><HI REND="italic">arme</HI> in the other Mss.</NOTE>,</L>
+<L>&amp; ich ou wille telle of helle pine, &amp; warni us wiþ harme.</L>
+<L>In helle is hunger &amp; þurst, wel euele tuo iuere; <MILESTONE N="215"/></L>
+<L>Þos pine sculle þolie þar, þat were niþinges here, <MILESTONE N="234(T)"/></L>
+<L>Þe hadde þis worldes eȝte, &amp; faste gunne hielde, <NOTE PLACE="marg"><HI REND="italic">(om</HI> T)</NOTE></L>
+<L>&amp; hi nolde helpe þar, of þe hungri ne þe chielde. <NOTE PLACE="marg"><HI REND="italic">(om</HI> T)</NOTE></L>
+<L>Þar is woni<HI REND="italic">n</HI>ge &amp; wop in eueriche strete, <MILESTONE N="235(T)"/></L>
+<L>Hi uareþ uram hete to þe chele, uram chele to þe hete. <MILESTONE N="220"/></L>
+<L>Whane hi beoþ in hete, þe chele ham þincheþ blisse;</L>
+<L>Whane hi beoþ in þe chele, of þar hete hi habbeþ misse. <MILESTONE N="238(T)"/></L>
+<L>Neteþ hi neuere whaþer ham doþ wrs, to neuere none ywisse; <MILESTONE N="240(T)"/></L>
+<L>Aiþer ham doþ wo inoȝ, ne habbeþ hi none lisse. <MILESTONE N="239(T)"/></L>
+<L><MILESTONE N="118b" UNIT="f."/> Hi walkeþ euere &amp; secheþ reste, ac hi ne muȝe ymete, <MILESTONE N="225"/> <MILESTONE N="241(T)"/></L>
+<L>Vor þan þe hi nolde þe huile hi miȝte hure sennes bete.</L>
+<L><PB N="234" REF="18"/>
+Hi secheþ reste þar non nis, &amp; hi ne muȝe non þar finde;</L>
+<L>Ac walkeþ weri vp &amp; dun, suo water doþ mid þe winde.</L>
+<L>Þos beoþ þe þat were her of þonke unstedeuaste, <MILESTONE N="245(T)"/></L>
+<L>Þe þe bihete Iesu Crist, &amp; nolde him ylaste, <MILESTONE N="230"/></L>
+<L>Þe þat god wrc bigunne, &amp; fulendi hit nolde,</L>
+<L>&amp; were her &amp; while þar, &amp; neste huat hi wolde.</L>
+<L>Þar is þat pich þat euere walþ, þat sculle þe beo inne,</L>
+<L>Þe þat ladde hure lif, mid werre &amp; mid ywinne. <MILESTONE N="250(T)"/></L>
+<L>Þar is þat fur þat is hundredfelde hatter þane vre: <MILESTONE N="235"/></L>
+<L>Not hit noþer aquenche, Auene strem ne Sture.</L>
+<L>Þat is þat fur þat euere barnþ, þat noþing ne mot aquenche.</L>
+<L>Þe sculle beo inne þe were lef poure men to suenche, <MILESTONE N="254(T)"/></L>
+<L>&amp; þe þe louede reuing &amp; stale &amp; unmetliche drunke, <MILESTONE N="257(T)"/></L>
+<L>&amp; ec in þes deueles work suo bleþeliche swonke; <MILESTONE N="240"/></L>
+<L>Þe þe were so lese, þat me ne miȝte ham yleue,</L>
+<L>Med-ȝerne domesman &amp; wrongewise reue; <MILESTONE N="260(T)"/></L>
+<L>Þe þe was oþre mannes wiues lef, his oȝen ȝeþ-lete,</L>
+<L>&amp; seneȝede bluþeliche on drunke &amp; on ete;</L>
+<L>Þe þat poure men binome &amp; leide in hare horde, <MILESTONE N="245"/></L>
+<L>&amp; litel lete of godes hest &amp; of godes worde; <MILESTONE N="264(T)"/></L>
+<L>Þe þe were ȝe[t]seres <NOTE N="1)" PLACE="foot">Ms. ȝeseres.</NOTE> of þisse world e[ȝ]te <NOTE N="2)" PLACE="foot">Ms. este; <HI REND="italic">aihte</HI> T J, <HI REND="italic">echte</HI> L E e, <HI REND="italic">eȝte</HI> D.</NOTE>, <MILESTONE N="271(T)"/></L>
+<L>&amp; dude al þat þe loþe gost hem tiȝte do &amp; teȝte; <MILESTONE N="272(T)"/></L>
+<L>Þe þe was oþre mannes god leuere þane him scolde, <MILESTONE N="267(T)"/></L>
+<L>&amp; were al to gredi of selure &amp; of golde; <MILESTONE N="250"/></L>
+<L>&amp; vnriȝ[t]wisnesse <NOTE N="3)" PLACE="foot">Ms. unriȝwisnesse.</NOTE> dude þar hi scolde beo holde,</L>
+<L>Lete what hi scolde do, &amp; dude þat hi ne scolde; <MILESTONE N="270(T)"/></L>
+<L>Þe þat in alle wise þe deuele her iquemde, <MILESTONE N="273(T)"/></L>
+<L>Þo beoþ in helle mid him uor-done &amp; uordemde,</L>
+<L>Bute þe þat o[f]þuȝte <NOTE N="4)" PLACE="foot">Ms. osþuȝte.</NOTE> sore hure misdede, <MILESTONE N="255"/></L>
+<L>&amp; hure gultes gunne bete &amp; betere lif lede. <MILESTONE N="276(T)"/></L>
+<L><MILESTONE N="119a" UNIT="f."/> Þar beoþ lodlich fend in stronge raketeȝe, <MILESTONE N="283(T)"/></L>
+<L>Þos beoþ þe þat were mid gode in heuene swiþe heȝe.</L>
+<L>Þar beoþ grisliche fend &amp; aterliche wiȝte,</L>
+<L>Þe sculle þe wrecche saule iseo, þat seneȝede mid isiȝte. <MILESTONE N="260"/> <MILESTONE N="286(T)"/></L>
+<L>Neuere sunne þar ne scinþ ne mone ne sturre, <MILESTONE N="279(T)"/></L>
+<L>Euere þar is muchel godes hate &amp; muchel godes erre. <MILESTONE N="280(T)"/></L>
+<L>Euere þar is muchel smich &amp; þusternesse &amp; eie,</L>
+<L><PB N="235" REF="19"/>
+Ne com þar neuere oþer liȝt, þane of þe suarte leye. <MILESTONE N="282(T)"/></L>
+<L>Þar is þe loþe Sathanas &amp; Belzebuc þe ȝelde, <MILESTONE N="265"/> <MILESTONE N="287(T)"/></L>
+<L>Welle sore hi muȝe ben afered, þat suiche sculle bihielde. <MILESTONE N="288(T)"/></L>
+<L>Scilde him euerich man wiþ þe helle pine, <MILESTONE N="303(T)"/></L>
+<L>Warni euerich man his frend, &amp; suo ich wille do mine.</L>
+<L>&amp; þe þat scilde ham ne cunne, þis ham wile teche, <MILESTONE N="305(T)"/></L>
+<L>Þis word may aiþ<HI REND="italic">er,</HI> ȝef hi sculle, beo lichames &amp; saule leche. <MILESTONE N="270"/></L>
+<L>Lete we þat god forbet alle mankinne;</L>
+<L>Do we þat god us het &amp; werie us wiþ senne.</L>
+<L>Louie god mid herte &amp; mid al ure miȝte.</L>
+<L>&amp; vre nexte al suo us self, suo us het ure driȝte. <MILESTONE N="310(T)"/></L>
+<L>Al þat me redeþ &amp; sincþ biuore godes borde, <MILESTONE N="275"/></L>
+<L>Al hit hongeþ &amp; halt bi þe ilke tuam worde.</L>
+<L>&amp; alle godes laȝe he felþ, þe niwe laȝe &amp; þe ȝelde,</L>
+<L>Þe þis laȝe uelleþ &amp; can hi wel yhelde.</L>
+<L>Ac strong hie is to yhelde, so ofte we agelteþ alle; <MILESTONE N="315(T)"/></L>
+<L>Strong hit is to stonde longe &amp; liȝt hit is to falle. <MILESTONE N="280"/></L>
+<L>Ac Crist us ȝeue his miȝte, stonde þat we mote,</L>
+<L>&amp; of alle ure sunne, leue us come to bote.</L>
+<L>We wilnieþ after worldes wel, þat lange nele ileste.</L>
+<L>&amp; leggeþ muchel ure suinch, in þing unstedeuaste. <MILESTONE N="320(T)"/></L>
+<L>Suonke we uor godes loue, alse we doþ uor eȝte, <MILESTONE N="285"/></L>
+<L>Nere we noþing suo ofte forgelt ne bi[k]eȝte. <NOTE N="1)" PLACE="foot">Ms. <HI REND="italic">bipeȝte</HI> (?) the third letter being more like a <HI REND="italic">p</HI> than anything else. <HI REND="italic">bi-keihte</HI> T, <HI REND="italic">bikaȝte</HI> D, <HI REND="italic">bicauhte</HI> Ee, <HI REND="italic">by-þouhte</HI> J.</NOTE></L>
+<L>&amp; ȝef we seruede gode, alsuo we doþ ermi[n]gges, <NOTE N="2)" PLACE="foot">Ms. ermigges.</NOTE></L>
+<L>We miȝte in heuene habbe al so muche ase erles oþer kinges. <MILESTONE N="324(T)"/></L>
+<L><MILESTONE N="119b" UNIT="f."/> Vor almiȝti godes loue, wute we us werie, <MILESTONE N="337(T)"/></L>
+<L>Wiþ þe wrecche worldes wele, þat hie us ne derie. <MILESTONE N="290"/></L>
+<L>Mid almesse, mid ibede, werie us wiþ senne,</L>
+<L>Mid þe wepne þat god almiȝti biteȝte alle mankenne. <MILESTONE N="340(T)"/></L>
+<L>We scolde us biþenche, ofte &amp; wel ylome, <MILESTONE N="328(T)"/></L>
+<L>What we beþ, to whan we sculle, &amp; whar of we come; <MILESTONE N="329(T)"/></L>
+<L>Ȝef [we] <NOTE N="3)" PLACE="foot">E e J.</NOTE> were wisemen, þus we scolde þenche, <MILESTONE N="295"/> <MILESTONE N="333(T)"/></L>
+<L>&amp; bute we wrþe us iwar, þe uorld us wle adrenche.</L>
+<L><PB N="236" REF="20"/>
+Mest manne hie ȝeueþ drinch of one duole scenche;</L>
+<L>He scal him cunne scilde wel, ȝef hie him nele screnche. <MILESTONE N="336(T)"/></L>
+<L>Lete we þe brode strete &amp; þane wei bene, <MILESTONE N="341(T)"/></L>
+<L>Þ<HI REND="italic">at</HI> let þ<HI REND="italic">at</HI> niȝende del to helle of mankenne &amp; mor ase <NOTE N="1)" PLACE="foot">Ms. þast; <HI REND="italic">mo ich wene</HI> J D E e, <HI REND="italic">me mai wene</HI> T.</NOTE> ich wene. <MILESTONE N="300"/></L>
+<L>Nime we þane narewe paþ &amp; þane wey grene,</L>
+<L>Þar forþ farþ wel litel folc, &amp; þat is þe worlde on-sene.</L>
+<L>Þe brode stret is ure wil, he is us loþ to lete; <MILESTONE N="345(T)"/></L>
+<L>Þe þat folȝeþ al hare wil, hi fareþ mid þe ilke strete.</L>
+<L>Hi muȝe liȝtliche go mid þar niþer-helde <MILESTONE N="305"/></L>
+<L>Þurȝut þe godlese wode in to þe bare felde.</L>
+<L>Þe narewe paþ is godes heste, ac þare uorþ uareþ wel uewe;</L>
+<L>&amp; þis beoþ þe þat scildeþ ham her wiþ euerich unþewe. <MILESTONE N="350(T)"/></L>
+<L>Þos goþ aȝenes þe heȝe clif, aȝenes þe heȝe hulle,</L>
+<L>Hi leteþ al hure oȝe wil godes hesne to felle. <MILESTONE N="310"/></L>
+<L>Go we alle in þilke paþ, &amp; he us wule bringe</L>
+<L>Mid þe uewe uaire men biuore þe heuenkinge.</L>
+<L>þar is blissene mest mid anglene songe, <MILESTONE N="355(T)"/></L>
+<L>Þe þ<HI REND="italic">at</HI> is uele hundred wintre þar, ne þincþ hit hi naȝt longe. <MILESTONE N="356(T)"/></L>
+<L>Mai non hunger ne no wane beo in godesriche, <MILESTONE N="315"/> <MILESTONE N="359(T)"/></L>
+<L>Þar beoþ wonie[n]gges <NOTE N="2)" PLACE="foot">Ms. woniegges.</NOTE> fele &amp; ech oþer unliche. <MILESTONE N="360(T)"/></L>
+<L>Sum þar haueþ lasse murcþe &amp; sum þar haueþ more;</L>
+<L>Euere after þat þ<HI REND="italic">at</HI> he dude <NOTE N="3)" PLACE="foot">Ms. þ dude.</NOTE> her, of þat þe he bisuanc sore. <MILESTONE N="362(T)"/></L>
+<L>&amp; þe þat haueþ lest, he <NOTE N="4)" PLACE="foot">Ms. he he.</NOTE> haueþ suo muche, þ<HI REND="italic">at</HI> he ne bit na<HI REND="italic">m</HI>more; <MILESTONE N="357(T)"/></L>
+<L>Hwo se let þe blisse uor þes, hit scal him rewe sore. <MILESTONE N="320"/> <MILESTONE N="358(T)"/></L>
+<L><MILESTONE N="120a" UNIT="f."/> Ne scal þar beo noþer bred ne win, ne oþre kenne este; <MILESTONE N="363(T)"/></L>
+<L>God scal beo eueriches lif, blisse, &amp; eke reste.</L>
+<L>Ne scal þar beo noþer foȝ ne grei, cunig ne ermine, <MILESTONE N="365(T)"/></L>
+<L>O-kerne ne martrin, beuer ne sabeline.</L>
+<L>Ne scal þar beo noþer schat ne scrud, ne worldes wele none, <MILESTONE N="325"/></L>
+<L>Al þe blisse þat me us bihot, al hit scal beo god one. <MILESTONE N="368(T)"/></L>
+<L>God is suo mer &amp; suo muchel in his godnesse, <MILESTONE N="393(T)"/></L>
+<L><PB N="237" REF="21"/>
+Þat he mai &amp; wule beo anglene blisse. <MILESTONE N="380(T)"/></L>
+<L>Ac þeȝ ne beoþ ure eȝene alle iliche briȝte. <MILESTONE N="381(T)"/></L>
+<L>He in þis worlde nere naȝt alle of one miȝte, <MILESTONE N="330"/> <MILESTONE N="383(T)"/></L>
+<L>Þar ne sculle naȝt habbe god al mid one wiȝte.</L>
+<L>Hi sculle more of him wite þe louede hine more,</L>
+<L>&amp; biknowe &amp; byseo his milse &amp; his ore. <MILESTONE N="386(T)"/></L>
+<L>To þare blisse us bringe god þat ricscleþ ay bute ende, <MILESTONE N="397(T)"/></L>
+<L>Whane he ure saule unbint of lichamliche bende. <MILESTONE N="335"/></L>
+<L>Crist us leue lede suich lif &amp; habbe suicchne ende,</L>
+<L>Þat we mote to him come, whane we henne wende. <MILESTONE N="400(T)"/></L>
+<CLOSER>Amen.</CLOSER>
+</LG>
+<CLOSER><DATELINE>NEWNHAM COLLEGE, CAMBRIDGE.</DATELINE>
+<SIGNED>ANNA C. PAUES.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

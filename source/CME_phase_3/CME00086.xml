@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-15-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>; removed <SUP>s</SUP> in MILESTONEs. Reviewed structure; changed TRAILER to CLOSER; changed mdashes between numerals to hyphens; restructured LISTs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs; added description. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00086">
+<STC T="M">86</STC>
+<BIBNO T="mec">CME00086</BIBNO>
+<VID>CME00086</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="5" REF="1"/>
+<DIV2 TYPE="preface">
+<HEAD>ZUM POEMA MORALE.</HEAD>
+<P><HI REND="italic">Das s. g. Poema morale ist eines der ältesten und in mehrfacher beziehung eines der interessantesten werke der me. literatur. Ich habe vorläufig nicht die absicht, die beantwortung aller der fragen, die sich daran knüpfen lassen, zu versuchen, sondern will mich für jetzt mit dreierlei begnügen.</HI></P>
+<P><HI REND="italic">Erstens will ich es nach einer bisher nur auszugsweise bekannten hs. abdrucken.</HI></P>
+<P><HI REND="italic">Zweitens will ich das verhältnis sämmtlicher hss. zu einander bestimmen.</HI></P>
+<P><HI REND="italic">Drittens endlich will ich zeigen, dass die behauptung von R. Morris, dass alle erhaltenen aufzeichnungen des gedichtes aus einer hs. des</HI> 10. <HI REND="italic">jhs. geflossen sind, durchaus unhaltbar ist.</HI></P>
+<P><HI REND="italic">Vorher aber muss ich über die verschiedenen hss. kurz aus∣kunft geben: ich bespreche sie nach der alphabetischen reihen∣folge der buchstaben, die ich zu ihrer bezeichnung hier anwen∣den werde.</HI></P>
+<P><HI REND="italic">D = Digby hs. A</HI> 4 <HI REND="italic">auf der Bodleiana in Oxford. Das gedicht steht auf foll.</HI> 97<SUP>r</SUP>-110<SUP>v</SUP>, <HI REND="italic">auf den ersten</HI> 14 <HI REND="italic">blättern einer lage von</HI> 16 <HI REND="italic">blättern sehr kleinen formats. Der schreiber, der nach den schriftzügen dem anfange des</HI> 13 <HI REND="italic">jhs., nach den sprachformen Kent angehört, hat sonst in diesem codex nichts geschrieben. Der erste buchstabe des gedichtes ist gross und rot: der erste buchstabe jeder strophe ist vorgerückt und auf der ersten seite rot durchzogen. Jede seite enthält nur eine spalte von je</HI> 28 <HI REND="italic">zeilen auf linien. Diese hs. unterscheidet sich von allen andern dadurch, dass sie kurzzeilen gibt. Sie ist bisher nur auszugsweise durch die mitteilungen in Hickes' Thesaurus I, gramm. anglosax. pp.</HI> 222 <HI REND="italic">ff. bekannt. Es sind dort abgedruckt</HI> 37 <HI REND="italic">strophen, nämlich</HI> 1. 2. 13-15. 31. 32. 36-43. 58. 59. 85
+<PB N="6" REF="2"/>
+<HI REND="italic">bis</HI> 87. 94. 96. 138. 148-150. 171-179. 190. 191. <HI REND="italic">Der abdruck dieser aufzeichnung bildet nr. I dieses aufsatzes.</HI></P>
+<P><HI REND="italic">E = Egerton hs.</HI> 613 <HI REND="italic">foll.</HI> 7-12 <HI REND="italic">abgedruckt in den Early English Poems and Lives of Saints, copied and edited by Fre∣derick J. Furnivall</HI> 1862 <HI REND="italic">(als beilage zu den Transactions of the Philologial Society von</HI> 1858) <HI REND="italic">ff.</HI> 22-33; <HI REND="italic">sodann in den Old English Homilies, ed. by Richard Morris</HI> I 288-295 <HI REND="italic">und</HI> 175 <HI REND="italic">bis</HI> 183. <HI REND="italic">Bei keinem der beiden herausgeber finde ich eine altersangabe.</HI></P>
+<P><HI REND="italic">e = Egerton hs.</HI> 613 <HI REND="italic">foll.</HI> 64-70. <HI REND="italic">Wir haben hier die∣selbe hs., wie bei E, aber eine andere hand. Furnivall, der die abweichungen von E a. a. o. in den fussnoten gibt, braucht nur die laconische bezeichnung 'later copy'.</HI></P>
+<P><HI REND="italic">J = hs. I. Arch. I.</HI> 29 <HI REND="italic">des Jesus College in Oxford foll.</HI> 242<SUP>r</SUP>-247<SUP>v</SUP>, <HI REND="italic">herausgegeben in An Old English Miscellany, ed. by R. Morris</HI> (1872), <HI REND="italic">pp.</HI> 58-71. <HI REND="italic">Nach Morris, Old English Homi∣lies II p. VIII, ist diese aufzeichnung um</HI> 1246-50 <HI REND="italic">zu setzen.</HI></P>
+<P><HI REND="italic">L = Lambeth hs.</HI> 487 <HI REND="italic">in klein quart foll.</HI> 59<SUP>v</SUP>-65<SUP>r</SUP>, <HI REND="italic">abge∣druckt bei Morris, Old English Homilies I, pp.</HI> 159-175. <HI REND="italic">Nach Wanley</HI> p. 266 <HI REND="italic">ist die hs. in die regierungszeit Richards I zu setzen; nach Morris, Old E. Hom. II p. VIII, ist sie älter, als T. Leider schliesst diese wol älteste aufzeichnung schon mit str.</HI> 130 <HI REND="italic">D.</HI></P>
+<P><HI REND="italic">T = hs. B.</HI> 14. 52 <HI REND="italic">(in klein octav) in der bibliothek von Trinity College in Cambridge, abgedruckt bei Morris, Old Engl. Hom. II, pp.</HI> 220-232. <HI REND="italic">Wanley p.</HI> 169 <HI REND="italic">setzt die hs. 'circa tem∣pora Henrici II aut Ricardi I'; nach Morris a. a. o. p. VII ist sie jünger, als <HI REND="italic">L,</HI> aber älter, als J. Wenn das a. a. o. fascimi∣lierte blatt der hs. von demselben schreiber geschrieben ist, wie unser gedicht, so dürfte diese aufzeichnung nicht weit hinter</HI> 1200 <HI REND="italic">zu setzen sein.</HI></P>
+</DIV2>
+<DIV2 N="1" TYPE="poem">
+<HEAD>I. DAS POEMA MORALE NACH D. <NOTE N="1)" PLACE="foot"><P><HI REND="italic">Mein abdruck folgt genau der hs. abgesehen von den folgenden puncten:</HI></P>
+<P N="1">1. <HI REND="italic">die abkürzungen sind aufgelöst u. durch cursiven druck bezeichnet.</HI></P>
+<P N="2">2. <HI REND="italic">den eigennamen sind grosse anfangsbuchstaben gegeben, wäh∣rend sie in der hs. ausser am strophenanfange mit kleinen stehen; da∣gegen habe ich geschrieben</HI> god <HI REND="italic">statt</HI> God 57,3. 100,1. 173,3; riche <HI REND="italic">statt</HI> Riche 20,1, mai <HI REND="italic">statt</HI> Mai 31,2; muchel <HI REND="italic">statt</HI> Muchel 63,4.</P>
+<P N="3">3. <HI REND="italic">ich habe die worttrennung geregelt und interpunction einge∣führt, dagegen aber die punkte, welche die hs. oft am ende einer strophe, manchmal am ende eines kurzverses und nur selten im inneren verse zeigt, weggelassen.</HI></P>
+<P N="4">4. <HI REND="italic">über einige vereinzelte abweichungen von der hs., sowie über die correcturen des schreibers geben die anmerkungen auskunft.</HI></P>
+<P><HI REND="italic">In den anmerkungen habe ich ausserdem an stellen, die in D un∣verständlich sind, die übrigen aufzeichnungen herbeigezogen: die weg∣gelassenen strophen sind aus T, als der D nächst verwandten hs., an∣geführt.</HI></P></NOTE></HEAD>
+<LG N="1">
+<HEAD>1</HEAD>
+<L>Ic am elder, þanne ic wes, <MILESTONE N="97r"/></L>
+<L>a wintre <HI REND="italic">and</HI> ec a lore;</L>
+<L>ic ealdi more, þanne ic dede:</L>
+<L>mi wit oȝhte to bi more.</L>
+</LG>
+<LG N="2">
+<PB N="7" REF="3"/>
+<HEAD>2</HEAD>
+<L>Wel longe ic habbe child ibien</L>
+<L>on worde <HI REND="italic">and</HI> on dede:</L>
+<L>þeȝh ic bi on wint<HI REND="italic">r</HI>en eald,</L>
+<L>to ȝiung ic am on rede.</L>
+</LG>
+<LG N="3">
+<HEAD>3</HEAD>
+<L>Vnnet lif ic habbe iled</L>
+<L><HI REND="italic">and</HI> ȝiet, me þinȝh, ic lede:</L>
+<L>þanne ic me biþenche wel,</L>
+<L>wel sore ic me abrede.</L>
+</LG>
+<LG N="4">
+<HEAD>4</HEAD>
+<L>Mest al, þ<HI REND="italic">et</HI> ic habbe idon,</L>
+<L>is idelnesse <HI REND="italic">and</HI> chilðe:</L>
+<L>to late ic habbe me biþoȝt,</L>
+<L>bute god me don milce. <NOTE N="1" PLACE="foot">4, 4 don] <HI REND="italic">l.</HI> do <HI REND="italic">mit TEeJ (A hat geändert).</HI></NOTE></L>
+</LG>
+<LG N="5">
+<HEAD>5</HEAD>
+<L>Vele idel word ic habbe iqueðe,</L>
+<L>siþen ic speke cuðe,</L>
+<L><HI REND="italic">and</HI> vele euele deden idon,</L>
+<L>þ<HI REND="italic">et</HI> me ofþencheð nuðe.</L>
+</LG>
+<LG N="6">
+<HEAD>6</HEAD>
+<L>Al to lome ic habbe igelt</L>
+<L>on worke <HI REND="italic">and</HI> on worde:</L>
+<L>al to muchel ic habbe ispent,</L>
+<L>to litel ileid on horde.</L>
+</LG>
+<LG N="7">
+<HEAD>7</HEAD>
+<L>Mest al, þ<HI REND="italic">et</HI> me likede þo,</L>
+<L>nu hit me mislikeð:</L>
+<L>se þe muchel volȝeð his iwil,</L>
+<L>him selue he biswikeð.</L>
+</LG>
+<LG N="8">
+<PB N="8" REF="4"/>
+<HEAD>8</HEAD>
+<L>Ic miȝte habbe bet idon, <MILESTONE N="97v"/></L>
+<L>hadde ic þo iselðe:</L>
+<L>nu ic wolde, ac ic ne mai</L>
+<L>vor helde ne uor unhelðe.</L>
+</LG>
+<LG N="9">
+<HEAD>9</HEAD>
+<L>Elde me is bistolen an,</L>
+<L>er ic hit iwiste:</L>
+<L>ne mai ic isien biuore me</L>
+<L>vor smeche ne uor miste.</L>
+</LG>
+<LG N="10">
+<HEAD>10</HEAD>
+<L>Arȝe we bieð to donne god,</L>
+<L>to euele al to þriste:</L>
+<L>more eie stondeð man of man,</L>
+<L>þanne him doð of Criste.</L>
+</LG>
+<LG N="11">
+<HEAD>11</HEAD>
+<L>Þo þ<HI REND="italic">et</HI> wel ne doð, þer wile hi muȝe,</L>
+<L>ofte hit ham sel riewe,</L>
+<L>þanne hi mouwe sulle <HI REND="italic">and</HI> ripe,</L>
+<L>þ<HI REND="italic">et</HI> hi her þan siewe.</L>
+</LG>
+<LG N="12">
+<HEAD>12</HEAD>
+<L>Do ech to gode, þ<HI REND="italic">et</HI> hi muȝe,</L>
+<L>þer wile hi bieð a liue:</L>
+<L>ne leue no man to muchel</L>
+<L>to childe ne to wiue.</L>
+</LG>
+<LG N="13">
+<HEAD>13</HEAD>
+<L>Se þet hine selue vorȝet</L>
+<L>vor wiue oþer uor childe,</L>
+<L>he sal comen on euele stede,</L>
+<L>bute god him bi milde.</L>
+</LG>
+<LG N="14">
+<HEAD>14</HEAD>
+<L>Sende sum god biuoren him</L>
+<L>man, þ<HI REND="italic">et</HI> wile to heuene;</L>
+<L>for betere is on elmesse biuore,</L>
+<L>þanne ben efter seuene. <NOTE N="1)" PLACE="foot">14,4 <HI REND="italic">darnach fehlt eine strophe, die in T</HI>(29.30) <HI REND="italic">lautet:</HI>
+<LG>
+<L>Ne bie þe leuere, þan þe self,</L>
+<L>ne þi maei ne þi mowe:</L>
+<L>sot is, þe is oðer mannes frend</L>
+<L>betere, þan his owen.</L>
+</LG></NOTE></L>
+</LG>
+<LG N="15">
+<HEAD>15</HEAD>
+<L>Ne hopie wif to hire were, <MILESTONE N="98r"/></L>
+<L>ne were to his wiue:</L>
+<L>bi for him selue eurich man,</L>
+<L>þer wile hi bieð a liue.</L>
+</LG>
+<LG N="16">
+<PB N="9" REF="5"/>
+<HEAD>16</HEAD>
+<L>Wis is, þ<HI REND="italic">et</HI> hine hiþencheð,</L>
+<L>þo hwile þ<HI REND="italic">et</HI> he mot libbe;</L>
+<L>vor hine willeð sone uorȝiete</L>
+<L>þo fremde <HI REND="italic">and</HI> þo sibbe.</L>
+</LG>
+<LG N="17">
+<HEAD>17</HEAD>
+<L>Se þ<HI REND="italic">et</HI> wel ne deð, þe wile he mai,</L>
+<L>ne sal he, þanne he wolde;</L>
+<L>vor manies mannes sore iswinch</L>
+<L>habbeð ofte unholde.</L>
+</LG>
+<LG N="18">
+<HEAD>18</HEAD>
+<L>Ne solde no man don a first</L>
+<L>ne sleuhþen wel to donne;</L>
+<L>for mani man bihoteð wel,</L>
+<L>þ<HI REND="italic">et</HI> hit forȝet wel sone.</L>
+</LG>
+<LG N="19">
+<HEAD>19</HEAD>
+<L>Se man, þ<HI REND="italic">et</HI> wile siker bien</L>
+<L>to habbe godes blisce,</L>
+<L>do eure god, þer hwile he mai:</L>
+<L>þanne haueð he hit to iwisse.</L>
+</LG>
+<LG N="20">
+<HEAD>20</HEAD>
+<L>Þo riche weneð siker bien</L>
+<L>þuch walles <HI REND="italic">and</HI> þurh diches <NOTE N="1" PLACE="foot">20,2 walle <HI REND="italic">Le,</HI> wallen <HI REND="italic">T;</HI> diche <HI REND="italic">EeJL,</HI> dichen <HI REND="italic">T.</HI></NOTE>:</L>
+<L>se deð his heȝhte on sikere stede,</L>
+<L>þ<HI REND="italic">et</HI> sent hi to heueriche.</L>
+</LG>
+<LG N="21">
+<HEAD>21</HEAD>
+<L>Þer ne darf he habben kare <NOTE N="2" PLACE="foot">21 <HI REND="italic">steht in den anderen hss. hinter</HI> 22, <HI REND="italic">und es folgt ausserdem auf</HI> 21 <HI REND="italic">eine strophe, die in T</HI> 47.48 <HI REND="italic">lautet:</HI>
+<LG>
+<L>þider we solden drawen and don</L>
+<L>wel ofte and ilome;</L>
+<L>for þar ne sal me us naht binime</L>
+<L>mid wrongwise dome.</L>
+</LG></NOTE></L>
+<L>of ȝieue ne of ȝielde.</L>
+<L>þider we sendeð <HI REND="italic">and</HI> selue bereð</L>
+<L>to litel <HI REND="italic">and</HI> to selde.</L>
+</LG>
+<LG N="22">
+<HEAD>22</HEAD>
+<L>Þer ne darf man ben ofdred <MILESTONE N="98v"/></L>
+<L>of fere ne of þieue:</L>
+<L>þer ne mai him naht binime</L>
+<L>se loþe ne se lieue.</L>
+</LG>
+<LG N="23">
+<HEAD>23</HEAD>
+<L>Þider we solden alle draȝhen,</L>
+<L>wolde ȝe me ileuen;</L>
+<L><PB N="10" REF="6"/>
+for þer mai hit us binime</L>
+<L>ne king ne his <NOTE N="1" PLACE="foot">23, 4 h <HI REND="italic">von</HI> his <HI REND="italic">über der zeile.</HI></NOTE> serreue.</L>
+</LG>
+<LG N="24">
+<HEAD>24</HEAD>
+<L>Þet beste, þ<HI REND="italic">et</HI> we hoȝeð,</L>
+<L>þider we solde senden;</L>
+<L>for þer we muȝen hit finden eft</L>
+<L><HI REND="italic">and</HI> habben buten ende.</L>
+</LG>
+<LG N="25">
+<HEAD>25</HEAD>
+<L>Se þe her deð ani god</L>
+<L>to habbe godes ore,</L>
+<L>al he hit sel finde þer</L>
+<L><HI REND="italic">and</HI> hundredfealde more.</L>
+</LG>
+<LG N="26">
+<HEAD>26</HEAD>
+<L>Se þ<HI REND="italic">et</HI> eȝhte wile hialde wel,</L>
+<L>þe hwile þe hi mot wealde,</L>
+<L>ȝieue hi for godes loue:</L>
+<L>þanne deð he hi wel ihialde.</L>
+</LG>
+<LG N="27">
+<HEAD>27</HEAD>
+<L>Vre iswinch <HI REND="italic">and</HI> ure itilðe</L>
+<L>is ofte iwoned to aswinde,</L>
+<L>ac, þ<HI REND="italic">et</HI> we doð for godes loue,</L>
+<L>eft we sollen hit al vinde.</L>
+</LG>
+<LG N="28">
+<HEAD>28</HEAD>
+<L>Ne sel non euel bien vnboht</L>
+<L>ne no god unforȝolde:</L>
+<L>euel we doð al to muchel,</L>
+<L>god lesse, þanne we solde.</L>
+</LG>
+<LG N="29">
+<HEAD>29</HEAD>
+<L>Se þ<HI REND="italic">et</HI> mest deð nu to gode <MILESTONE N="99r"/></L>
+<L>and se þ<HI REND="italic">et</HI> lest to loðe,</L>
+<L>aider to litel <HI REND="italic">and</HI> to muchel</L>
+<L>sal þenchen eft hem boðe,</L>
+</LG>
+<LG N="30">
+<HEAD>30</HEAD>
+<L>Þer me sal ure werkes weȝe</L>
+<L>biuore þe heuenekinge</L>
+<L><HI REND="italic">and</HI> ȝieuen us ure workes lean</L>
+<L>efter ure earninge.</L>
+</LG>
+<LG N="31">
+<HEAD>31</HEAD>
+<L>Eurich man mid, þ<HI REND="italic">et</HI> he haueð,</L>
+<L>mai beggen heueriche:</L>
+<L>se þ<HI REND="italic">et</HI> lesse <HI REND="italic">and</HI> se þ<HI REND="italic">et</HI> more,</L>
+<L>here aider iliche;</L>
+</LG>
+<LG N="32">
+<PB N="11" REF="7"/>
+<HEAD>32</HEAD>
+<L>Al suo on mid his panie,</L>
+<L>swo oþer mid his punde</L>
+<L>(þ<HI REND="italic">et</HI> is si wonderlicheste ware,</L>
+<L>þ<HI REND="italic">et</HI> ani man eure vonde);</L>
+</LG>
+<LG N="33">
+<HEAD>33</HEAD>
+<L><HI REND="italic">And</HI> se þ<HI REND="italic">et</HI> more ne mai don,</L>
+<L>mid his gode þonke</L>
+<L>al swo wel, swo se þ<HI REND="italic">et</HI> haueð</L>
+<L>goldes vele monke.</L>
+</LG>
+<LG N="34">
+<HEAD>34</HEAD>
+<L><HI REND="italic">And</HI> ofte god can more þanc</L>
+<L>þan, þe him ȝiefð þet lesse:</L>
+<L>alle his workes <HI REND="italic">and</HI> alle his weȝes</L>
+<L>is mihte <NOTE N="1" PLACE="foot">34, 4 mihte] milce <HI REND="italic">TLEe (fehlt J).</HI></NOTE> <HI REND="italic">and</HI> rihtwisnesse.</L>
+</LG>
+<LG N="35">
+<HEAD>35</HEAD>
+<L>Litel loc is gode lief,</L>
+<L>þ<HI REND="italic">et</HI> cumð of gode iwille,</L>
+<L><HI REND="italic">and</HI> eðlete muchel iȝeue,</L>
+<L>þanne si hierte is ille.</L>
+</LG>
+<LG N="36">
+<HEAD>36</HEAD>
+<L>Heuene <HI REND="italic">and</HI> erðe he ouersieð: <MILESTONE N="99v"/></L>
+<L>his eȝhen beð ful brihte,</L>
+<L>sunne <HI REND="italic">and</HI> mone <HI REND="italic">and</HI> alle st<HI REND="italic">er</HI>ren</L>
+<L>bieð þiestre on his lihte.</L>
+</LG>
+<LG N="37">
+<HEAD>37</HEAD>
+<L>Nis him ec no þing uorhole</L>
+<L>(swo muchel bieð his mihte):</L>
+<L>nis no þing swo dierne idon</L>
+<L>ne on swo þiestre nihte.</L>
+</LG>
+<LG N="38">
+<HEAD>38</HEAD>
+<L>He wot, hwet þencheð <HI REND="italic">and</HI> hwet doð</L>
+<L>alle quike wihte.</L>
+<L>nis no louerd, swich is <HI REND="italic">Chr</HI>ist,</L>
+<L>ne no king, swich is drihte.</L>
+</LG>
+<LG N="39">
+<HEAD>39</HEAD>
+<L>Heuene <HI REND="italic">and</HI> erðe <HI REND="italic">and</HI> al, þat is,</L>
+<L>biloken is on his honde:</L>
+<L>he deð al, þ<HI REND="italic">et</HI> his wille is,</L>
+<L>on sae <HI REND="italic">and</HI> ec on londe.</L>
+</LG>
+<LG N="40">
+<HEAD>40</HEAD>
+<L>He witeð <HI REND="italic">and</HI> wialdeð alle þing,</L>
+<L>he iscop alle seafte:</L>
+<L><PB N="12" REF="8"/>
+he wrohte fis on þer sae</L>
+<L><HI REND="italic">and</HI> foȝeles on þar lefte.</L>
+</LG>
+<LG N="41">
+<HEAD>41</HEAD>
+<L>He is ord al buten orde</L>
+<L><HI REND="italic">and</HI> ende al buten ende:</L>
+<L>he one is eure on eche stede,</L>
+<L>wende, þer þu wende.</L>
+</LG>
+<LG N="42">
+<HEAD>42</HEAD>
+<L>He is buuen us <HI REND="italic">and</HI> bineþen,</L>
+<L>biuoren <HI REND="italic">and</HI> ec bihinde:</L>
+<L>se man, þ<HI REND="italic">et</HI> godes wille deð,</L>
+<L>he mai hine aihwar uinde.</L>
+</LG>
+<LG N="43">
+<HEAD>43</HEAD>
+<L>Eche rune he iherð <MILESTONE N="100r"/></L>
+<L><HI REND="italic">and</HI> wot eche dede:</L>
+<L>he þurhsiȝð eches iþanc.</L>
+<L>wai, hwat sel us to rede?</L>
+</LG>
+<LG N="44">
+<HEAD>44</HEAD>
+<L>We þ<HI REND="italic">et</HI> godes hesne brekeð</L>
+<L><HI REND="italic">and</HI> gelteð swo ilome,</L>
+<L>hwet sulle we siggen oðer don</L>
+<L>at to heaȝe dome? <NOTE N="1" PLACE="foot">44,4 <HI REND="italic">dahinter fehlen zwei strophen, die in T</HI> 93-96 <HI REND="italic">so lauten:</HI>
+<LG>
+<L>We þe luueden unriht</L>
+<L>and euel lif ladden,</L>
+<L>hwat sulle we seggen oðer don,</L>
+<L>þar aengles beð ofdradde?</L>
+</LG>
+<LG>
+<L>Hwat sulle we beren us biforen?</L>
+<L>mid hwan sulle we iqueme,</L>
+<L>we þe nafre god ne duden,</L>
+<L>þan heuenliche deme?</L>
+</LG></NOTE></L>
+</LG>
+<LG N="45">
+<HEAD>45</HEAD>
+<L>Þer sulle deoflen bi swo uele,</L>
+<L>þ<HI REND="italic">et</HI> willeð us vorwreien:</L>
+<L>nabbeð hi no þing vorȝete</L>
+<L>of þan, þ<HI REND="italic">et</HI> hi iseȝen.</L>
+</LG>
+<LG N="46">
+<HEAD>46</HEAD>
+<L>Al, þ<HI REND="italic">et</HI> we misdeden hier,</L>
+<L>hi willeð keðen þere,</L>
+<L>bute we habben hit ibet,</L>
+<L>þer hwile we hier were.</L>
+</LG>
+<LG N="47">
+<HEAD>47</HEAD>
+<L>Al hi habbeð on her write,</L>
+<L>þ<HI REND="italic">et</HI> we misdeden hiere:</L>
+<L><PB N="13" REF="9"/>
+þeȝh we hi nisten ne iseȝen,</L>
+<L>hi weren vre iueren.</L>
+</LG>
+<LG N="48">
+<HEAD>48</HEAD>
+<L>Hwet sulle þo horlinges don,</L>
+<L>þo swikele <HI REND="italic">and</HI> þo vorsworene?</L>
+<L>a wei, swo uele beð icleped</L>
+<L><HI REND="italic">and</HI> swo viawe icorene.</L>
+</LG>
+<LG N="49">
+<HEAD>49</HEAD>
+<L>Wei, hwi weren hi biȝete</L>
+<L><HI REND="italic">and</HI> to hwi iborene,</L>
+<L>þ<HI REND="italic">et</HI> sullen ben to deaðe idemd</L>
+<L><HI REND="italic">and</HI> eure mo vorlorene?</L>
+</LG>
+<LG N="50">
+<HEAD>50</HEAD>
+<L>Ech man sel him selue þer <MILESTONE N="100v"/></L>
+<L>biclepien, bitelle <HI REND="italic">and</HI> deme,</L>
+<L>his oȝen werc <HI REND="italic">and</HI> his iþanc</L>
+<L>to witnesse teme.</L>
+</LG>
+<LG N="51">
+<HEAD>51</HEAD>
+<L>Ne mai him no man al swo wel</L>
+<L>demen ne swo rihte;</L>
+<L>vor non ne knoweð hine swo wel,</L>
+<L>bute one ure drihte.</L>
+</LG>
+<LG N="52">
+<HEAD>52</HEAD>
+<L>Ech man wot him selue best</L>
+<L>his workes <HI REND="italic">and</HI> his wille:</L>
+<L>se þ<HI REND="italic">et</HI> lest wot, seið ofte mest</L>
+<L>and, se þ<HI REND="italic">et</HI> al wot, is stille.</L>
+</LG>
+<LG N="53">
+<HEAD>53</HEAD>
+<L>Nis no witnesse al swo muchel,</L>
+<L>swo mannes oȝen hierte.</L>
+<L>þeȝh ȝwo sigge, þ<HI REND="italic">et</HI> he bi hol,</L>
+<L>him self he wot his smerte.</L>
+</LG>
+<LG N="54">
+<HEAD>54</HEAD>
+<L>Eurich man him demen sel</L>
+<L>to deðe oþer to life:</L>
+<L>se witnesse <NOTE N="1" PLACE="foot">54,3 is <HI REND="italic">unterpunctiert vor</HI> his.</NOTE> his selue workes</L>
+<L>to aider hine sel driue.</L>
+</LG>
+<LG N="55">
+<HEAD>55</HEAD>
+<L>Al, þ<HI REND="italic">et</HI> ech man haueð idon,</L>
+<L>seðe he com to manne,</L>
+<L>swich hit were on boe iwrite,</L>
+<L>isien he sel hit þanne.</L>
+</LG>
+<LG N="56">
+<PB N="14" REF="10"/>
+<HEAD>56</HEAD>
+<L>Drihte ne demeð nenne man</L>
+<L>bi his biginninge:</L>
+<L>al his lif sel b<HI REND="italic">e</HI>n <NOTE N="1)" PLACE="foot">56, 3 his "sel" lif bn̄.</NOTE> iteald</L>
+<L>bi bis endinge.</L>
+</LG>
+<LG N="57">
+<HEAD>57</HEAD>
+<L>Ef se ende is euel, hit is al euel <MILESTONE N="101r"/></L>
+<L>and god, ef god is se ende.</L>
+<L>god ȝeue, þ<HI REND="italic">et</HI> ure ende bi god,</L>
+<L><HI REND="italic">and</HI> wite, hwet he us lende.</L>
+</LG>
+<LG N="58">
+<HEAD>58</HEAD>
+<L>Se man, þ<HI REND="italic">et</HI> neure nele don god</L>
+<L>ne neure god lif leden,</L>
+<L>er deð <HI REND="italic">and</HI> dom come to his dure,</L>
+<L>he mai him sore adreden,</L>
+</LG>
+<LG N="59">
+<HEAD>59</HEAD>
+<L>Þ<HI REND="italic">et</HI> he þanne ore bidde ne muȝen <NOTE N="2)" PLACE="foot">59, 1 <HI REND="italic">l.</HI> muȝe <HI REND="italic">mit TLEeJ.</HI></NOTE>;</L>
+<L>vor þ<HI REND="italic">et</HI> bilimpeð ilome.</L>
+<L>he is wis, þ<HI REND="italic">et</HI> bit <HI REND="italic">and</HI> bete <NOTE N="3)" PLACE="foot">59, 3 <HI REND="italic">Ist</HI> bete <HI REND="italic">vielleicht zu</HI> bote <HI REND="italic">gebessert? Hickes las</HI> bote. <HI REND="italic">Beides ist mir unverständlich. Das richtige scheinen TE erhalten zu haben:</HI> þe bit and beȝiet (beȝit), <HI REND="italic">dh. wer (um gnade) bittet und (sie) erlangt. Die anderen hss. lesen:</HI> þe biet and bit <HI REND="italic">L,</HI> ðe beot and beat <HI REND="italic">e,</HI> þat bit ore <HI REND="italic">J.</HI></NOTE></L>
+<L><HI REND="italic">and</HI> bet biuoren dome.</L>
+</LG>
+<LG N="60">
+<HEAD>60</HEAD>
+<L>Þanne deað is at þare dore,</L>
+<L>to late he biddeð ore:</L>
+<L>to late uorlet þ<HI REND="italic">et</HI> euele worc,</L>
+<L>þ<HI REND="italic">et</HI> hit ne mai don na <NOTE N="4)" PLACE="foot">60, 4 n̄a. <HI REND="italic">Meint das vielleicht</HI> nā, <HI REND="italic">also</HI> nan?</NOTE> more.</L>
+</LG>
+<LG N="61">
+<HEAD>61</HEAD>
+<L>Senne let þe <HI REND="italic">and</HI> þu nah hoe,</L>
+<L>þanne þu ne miht hi do more.</L>
+<L>he sot, þ<HI REND="italic">et</HI> <NOTE N="5)" PLACE="foot">61, 3 forþi he is sot þe <HI REND="italic">TE, während in J die strophe geändert ist und in Le ganz fehlt.</HI></NOTE> swo abit</L>
+<L>to habben godes ore.</L>
+</LG>
+<LG N="62">
+<HEAD>62</HEAD>
+<L>Swa ileuen we hit muȝen,</L>
+<L>vor drihten self hit sede:</L>
+<L>on hwiche time se þe man</L>
+<L>ofþencheð his misdede,</L>
+</LG>
+<LG N="63">
+<PB N="15" REF="11"/>
+<HEAD>63</HEAD>
+<L>Oþer raðer oþer later,</L>
+<L>milce he sel imeten:</L>
+<L>ac, se þ<HI REND="italic">et</HI> naueð hier naht ibet,</L>
+<L>muchel he haueð to beten.</L>
+</LG>
+<LG N="64">
+<HEAD>64</HEAD>
+<L>Sum man saið: 'hwo reȝh of pine, <MILESTONE N="101v"/></L>
+<L>þ<HI REND="italic">et</HI> sel habben ende?</L>
+<L>ne recche ic, bote bi ic alesd</L>
+<L>on domes dai of bende'.</L>
+</LG>
+<LG N="65">
+<HEAD>65</HEAD>
+<L>Litel he wot, hwet pine <NOTE N="1)" PLACE="foot">65, 1 p <HI REND="italic">in</HI> pine <HI REND="italic">aus</HI> þ <HI REND="italic">gebessert.</HI></NOTE> is,</L>
+<L><HI REND="italic">and</HI> litel hi <NOTE N="2)" PLACE="foot">2 hi] he <HI REND="italic">T,</HI> he hit <HI REND="italic">LEeJ.</HI></NOTE> iknoweð,</L>
+<L>hwich hete is, þer þe saule woneð,</L>
+<L>hu biter wind þer bloweð.</L>
+</LG>
+<LG N="66">
+<HEAD>66</HEAD>
+<L>Ef he hedde þer ibie</L>
+<L>on oþer two itide,</L>
+<L>nolde he uor al middeneard</L>
+<L>þo þridde þer abiden.</L>
+</LG>
+<LG N="67">
+<HEAD>67</HEAD>
+<L>Þ<HI REND="italic">et</HI> seden þo, þ<HI REND="italic">et</HI> comen þannes,</L>
+<L>þ<HI REND="italic">et</HI> hit wisten mid iwisse:</L>
+<L>þer wurh sorȝe seue ȝier</L>
+<L>vor seuenihte blisce.</L>
+</LG>
+<LG N="68">
+<HEAD>68</HEAD>
+<L>Vre blisce, þ<HI REND="italic">et</HI> ende haueð,</L>
+<L>vor endelese pine—</L>
+<L>betere were drinke wori weter,</L>
+<L>þanne atter imai<HI REND="italic">n</HI>gd mid wine.</L>
+</LG>
+<LG N="69">
+<HEAD>69</HEAD>
+<L>Swines brede is swiþe swete,</L>
+<L>swo is of wilde diere:</L>
+<L>al to diere he hi beið,</L>
+<L>þ<HI REND="italic">et</HI> ȝief þeruore his swiere.</L>
+</LG>
+<LG N="70">
+<HEAD>70</HEAD>
+<L>Lihtliche mai ful wombe speke</L>
+<L>of hung<HI REND="italic">r</HI>e <HI REND="italic">and</HI> of þurste:</L>
+<L>swo mai of pine, þ<HI REND="italic">e</HI>t not, wat is</L>
+<L>pine, þ<HI REND="italic">et</HI> eure mo sel leste.</L>
+</LG>
+<LG N="71">
+<HEAD>71</HEAD>
+<L>Hauede he uonded sume stunde, <MILESTONE N="102r"/></L>
+<L>he wolde siggen al oþer:</L>
+<L><PB N="16" REF="12"/>
+eðlete him were wif <HI REND="italic">and</HI> child,</L>
+<L>sust<HI REND="italic">er,</HI> vader, moder <HI REND="italic">and</HI> broðer.</L>
+</LG>
+<LG N="72">
+<HEAD>72</HEAD>
+<L>Al he wolde oþer don</L>
+<L>and oþerlaker þenche,</L>
+<L>þanne he þohte of helle ver,</L>
+<L>þ<HI REND="italic">et</HI> noþing ne mai quenche.</L>
+</LG>
+<LG N="73">
+<HEAD>73</HEAD>
+<L>Eft he wolde her on wo</L>
+<L><HI REND="italic">and</HI> on wope wunie,</L>
+<L>wið þet he moste helle uer</L>
+<L>biflien <HI REND="italic">and</HI> bisunie.</L>
+</LG>
+<LG N="74">
+<HEAD>74</HEAD>
+<L>Eðlete ham were al werldes wele</L>
+<L><HI REND="italic">and</HI> werldliche blisce;</L>
+<L>for to þare muchele merhðe come,</L>
+<L>þ<HI REND="italic">et</HI> is merhðe mid iwisse.</L>
+</LG>
+<LG N="75">
+<HEAD>75</HEAD>
+<L>Ic wille nu come to þon dome,</L>
+<L>þ<HI REND="italic">et</HI> ic ȝeu of er sede.</L>
+<L>on þan deie <HI REND="italic">and</HI> on þan dome</L>
+<L>vs helpe Crist <HI REND="italic">and</HI> rede.</L>
+</LG>
+<LG N="76">
+<HEAD>76</HEAD>
+<L>We muȝen eaðe ben of herd</L>
+<L><HI REND="italic">and</HI> harde vs mai ondrede:</L>
+<L>þer ech sel him biuoren sien</L>
+<L>his werkes <HI REND="italic">and</HI> his dede.</L>
+</LG>
+<LG N="77">
+<HEAD>77</HEAD>
+<L>Al sel þanne bi þer cuð,</L>
+<L>þ<HI REND="italic">et</HI> men hier luȝen <HI REND="italic">and</HI> stelen:</L>
+<L>al sel þanne ben vnwroȝe,</L>
+<L>þ<HI REND="italic">et</HI> men her hidden <HI REND="italic">and</HI> helen.</L>
+</LG>
+<LG N="78">
+<HEAD>78</HEAD>
+<L>We sullen alre manne lif <MILESTONE N="102v"/></L>
+<L>iknawen, swo ure hoȝen.</L>
+<L>þer sullen eueninges ben</L>
+<L>þo heȝe <HI REND="italic">and</HI> þo loȝe.</L>
+</LG>
+<LG N="79">
+<HEAD>79</HEAD>
+<L>Ne sel þeð no man samien þer</L>
+<L>ne darf he him ondrede,</L>
+<L>ef him her ofþencheð his gelt,</L>
+<L><HI REND="italic">and</HI> beteð his misdede.</L>
+</LG>
+<LG N="80">
+<HEAD>80</HEAD>
+<L>Ham ne shameð ne ne g<HI REND="italic">ra</HI>með,</L>
+<L>þ<HI REND="italic">et</HI> sullen b<HI REND="italic">e</HI>n iborȝe:</L>
+<L><PB N="17" REF="13"/>
+þoðre habbeð same <HI REND="italic">and</HI> g<HI REND="italic">ra</HI>me</L>
+<L><HI REND="italic">and</HI> fele oþre sorȝe.</L>
+</LG>
+<LG N="81">
+<HEAD>81</HEAD>
+<L>Se dom sal b<HI REND="italic">e</HI>n sone idon:</L>
+<L>ne lesteð he noht longe.</L>
+<L>ne sal non him bimene þer</L>
+<L>of strenhðe ne of wronge.</L>
+</LG>
+<LG N="82">
+<HEAD>82</HEAD>
+<L>Þo sullen habbe hardne dom,</L>
+<L>þ<HI REND="italic">et</HI> her weren harde,</L>
+<L>þ<HI REND="italic">et</HI> euele hielden wrecche men</L>
+<L><HI REND="italic">and</HI> euele laȝen arerde.</L>
+</LG>
+<LG N="83">
+<HEAD>83</HEAD>
+<L>Ech eft<HI REND="italic">er,</HI> þ<HI REND="italic">et</HI> he haueð idon,</L>
+<L>sal þanne b<HI REND="italic">e</HI>n idemed.</L>
+<L>blþe <NOTE N="1)" PLACE="foot">83, 3 <HI REND="italic">l.</HI> bliþe <HI REND="italic">mit T Ee</HI> (83 <HI REND="italic">fehlt J,</HI> 83, 3-4 <HI REND="italic">L).</HI></NOTE> mai he þanne b<HI REND="italic">e</HI>n,</L>
+<L>þ<HI REND="italic">et</HI> gode haueð iquemed.</L>
+</LG>
+<LG N="84">
+<HEAD>84</HEAD>
+<L>Alle þo, þ<HI REND="italic">et</HI> aspru<HI REND="italic">n</HI>gen bieð</L>
+<L>of Adame <HI REND="italic">and</HI> of Euen,</L>
+<L>alle hi sullen þider comen,</L>
+<L>to soþe, ȝe muȝen ileuen.</L>
+</LG>
+<LG N="85">
+<HEAD>85</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> habbeð wel idon <MILESTONE N="103r"/></L>
+<L>efter hire mihte,</L>
+<L>to heueneriche hi sullen vare</L>
+<L>vorð mid ure drihte.</L>
+</LG>
+<LG N="86">
+<HEAD>86</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> wrohten dofles were</L>
+<L><HI REND="italic">and</HI> weren þer inne iuonde,</L>
+<L>þo sullen vare vorð mid him</L>
+<L>in to helle grunde.</L>
+</LG>
+<LG N="87">
+<HEAD>87</HEAD>
+<L>Þer hi sullen wonien ai</L>
+<L>buten ore <HI REND="italic">and</HI> ende:</L>
+<L>ne brekeð neure eft C<HI REND="italic">ri</HI>st helle dure</L>
+<L>to alesen hi of bende.</L>
+</LG>
+<LG N="88">
+<HEAD>88</HEAD>
+<L>Is <NOTE N="2)" PLACE="foot">88, 1 <HI REND="italic">die anderen hss. besser</HI> Nis. <HI REND="italic">dann ist natürlich das frage∣zeichen zu tilgen.</HI></NOTE> hit wonder, þaȝh hem bi wo?</L>
+<L>ne þaȝh hem bi vnnede:</L>
+<L><PB N="18" REF="14"/>
+ne þoleð neure eft drihten ded</L>
+<L>to lesen hi of deade.</L>
+</LG>
+<LG N="89">
+<HEAD>89</HEAD>
+<L>Ones drihten helle brec</L>
+<L><HI REND="italic">and</HI> his frend hut brohte.</L>
+<L>him self þolede deð for ham:</L>
+<L>wel diere he hi bohte.</L>
+</LG>
+<LG N="90">
+<HEAD>90</HEAD>
+<L>Nolde hit moȝe do vor meie</L>
+<L>ne suster vor broþer,</L>
+<L>nolde hit sune do vor vader</L>
+<L>ne no man vor oþer.</L>
+</LG>
+<LG N="91">
+<HEAD>91</HEAD>
+<L>Vre louerd vor his wiales</L>
+<L>ipines <NOTE N="1)" PLACE="foot">93, 2 <HI REND="italic">l.</HI> ipined <HI REND="italic">mit T Y (Y</HI> = <HI REND="italic">EeJ L).</HI></NOTE> wes on þo rode.</L>
+<L>vre bendes he vnband:</L>
+<L>he bohte us mid his blode.</L>
+</LG>
+<LG N="92">
+<HEAD>92</HEAD>
+<L>We ȝeueð unneaðe uor his loue <MILESTONE N="103v"/></L>
+<L>a stecche of ure breade:</L>
+<L>ne þenche we naht, þ<HI REND="italic">et</HI> he sel</L>
+<L>demen quike <HI REND="italic">and</HI> deade.</L>
+</LG>
+<LG N="93">
+<HEAD>93</HEAD>
+<L>Muchel loue he kedde us,</L>
+<L>wolde we hit understonde <NOTE N="2)" PLACE="foot">93, 2 un"stonde" der.</NOTE>.</L>
+<L>þet ure eldren misdeden,</L>
+<L>harde we habbeð on honde.</L>
+</LG>
+<LG N="94">
+<HEAD>94</HEAD>
+<L>Deað com on þis midelard <NOTE N="3)" PLACE="foot">94, 1 e <HI REND="italic">in</HI> midelard <HI REND="italic">aus</HI> l <HI REND="italic">gebessert.</HI></NOTE></L>
+<L>þurð þes defles onde</L>
+<L><HI REND="italic">and</HI> senne <HI REND="italic">and</HI> sorȝe <HI REND="italic">and</HI> iswinc</L>
+<L>on se <HI REND="italic">and</HI> on londe.</L>
+</LG>
+<LG N="95">
+<HEAD>95</HEAD>
+<L>Vres uormes uader gelt</L>
+<L>we abegeð alle,</L>
+<L><HI REND="italic">and</HI> his ospreng efer him <NOTE N="4)" PLACE="foot">95, 3 <HI REND="italic">so</HI> D; al his ofsprung after him <HI REND="italic">T Y (doch fehlt</HI> 95, 3 4 <HI REND="italic">in L).</HI></NOTE></L>
+<L>on harme bieð biualle.</L>
+</LG>
+<LG N="96">
+<PB N="19" REF="15"/>
+<HEAD>96</HEAD>
+<L>Huger <NOTE N="1)" PLACE="foot">96, 1 <HI REND="italic">l.</HI> Hunger <HI REND="italic">mit TY, die übrigens alle</HI> þurst and hunger, chele and hete <HI REND="italic">lesen.</HI></NOTE> <HI REND="italic">and</HI> þurst, hete <HI REND="italic">and</HI> chele,</L>
+<L>ecðe <NOTE N="2)" PLACE="foot">96, 2 <HI REND="italic">obwol</HI> ecðe <HI REND="italic">auf älteres</HI> * ecð (= <HI REND="italic">got.</HI> * akiþa) <HI REND="italic">zurückgehen könnte, liegt doch näher anzunehmen,</HI> ecðe <HI REND="italic">stehe für</HI> eche; <HI REND="italic">vergl.</HI> ð <HI REND="italic">für</HI> h <HI REND="italic">in</HI> peð 79, 1; 109, 1; þurð 94, 2; 166, 3; taðte 129, 4; <HI REND="italic">und umgekehrt</HI> wurh <HI REND="italic">für</HI> wurð 67, 3 <HI REND="italic">(vgl. auch</HI> behð 106, 3). <HI REND="italic">Ee haben</HI> eche, <HI REND="italic">J</HI> ache, <HI REND="italic">dagegen L</HI> helde <HI REND="italic">und T lässt das wort ganz weg.</HI></NOTE> <HI REND="italic">and</HI> al unhelðe</L>
+<L>þurh deað com on þis midelard</L>
+<L><HI REND="italic">and</HI> oþer vniselðe.</L>
+</LG>
+<LG N="97">
+<HEAD>97</HEAD>
+<L>Nere no man elles dead</L>
+<L>ne siec ne vnvele,</L>
+<L>ac mihte libben euer mo</L>
+<L>on blisce <HI REND="italic">and</HI> on hele.</L>
+</LG>
+<LG N="98">
+<HEAD>98</HEAD>
+<L>Litel hit þencheð manie men,</L>
+<L>al muchel wes si senne,</L>
+<L>vor hwi þolieð alle dead,</L>
+<L>þ<HI REND="italic">et</HI> comen of þo kenne.</L>
+</LG>
+<LG N="99">
+<HEAD>99</HEAD>
+<L>Here senne <HI REND="italic">and</HI> ec vre <MILESTONE N="104r"/></L>
+<L>sore us mai of þenche:</L>
+<L>for senne we alle hier</L>
+<L>in sorȝe bieð <HI REND="italic">and</HI> in swinche.</L>
+</LG>
+<LG N="100">
+<HEAD>100</HEAD>
+<L>Seðe god swo muchele wreche</L>
+<L>dede vor one misdede,</L>
+<L>we, þ<HI REND="italic">et</HI> gelteð ofte <HI REND="italic">and</HI> muchel,</L>
+<L>hwat sal us to rede?</L>
+</LG>
+<LG N="101">
+<HEAD>101</HEAD>
+<L>Adam <HI REND="italic">and</HI> his ospreng <NOTE N="3)" PLACE="foot">101, 1 ofspreng <HI REND="italic">TY (vgl.</HI> 95, 3).</NOTE> al</L>
+<L>vor one bare senne</L>
+<L>weren vele hundred ȝer</L>
+<L>on helle <HI REND="italic">and</HI> on vnwenne.</L>
+</LG>
+<LG N="102">
+<HEAD>102</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> ledeð here lif</L>
+<L>mid vnrihte <HI REND="italic">and</HI> mid wronge,</L>
+<L>bute hit godes milce do,</L>
+<L>hi sulle bi þer wel longe.</L>
+</LG>
+<LG N="103">
+<PB N="20" REF="16"/>
+<HEAD>103</HEAD>
+<L>Godes milce is swo muchel</L>
+<L><HI REND="italic">and</HI> al swo is his mihte:</L>
+<L>nis him no þing litlende,</L>
+<L>ac bi emliche wihte.</L>
+</LG>
+<LG N="104">
+<HEAD>104</HEAD>
+<L>He one mai more vorȝeue,</L>
+<L>þanne al uolc gelte cunne:</L>
+<L>se deuel self mihte habbe milce,</L>
+<L>ef he hit bigunne.</L>
+</LG>
+<LG N="105">
+<HEAD>105</HEAD>
+<L>Hwo swo godes milce secð,</L>
+<L>iwis he hi mai vinde:</L>
+<L>ac helle king is swiþe hard</L>
+<L>wið þo, þ<HI REND="italic">et</HI> he mai binde.</L>
+</LG>
+<LG N="106">
+<HEAD>106</HEAD>
+<L>Se, þ<HI REND="italic">et</HI> eure deð his wille mest, <MILESTONE N="104v"/></L>
+<L>he sal him werse mede:</L>
+<L>his behð <NOTE N="1)" PLACE="foot">106, 3 bað <HI REND="italic">TY.</HI></NOTE> sal bi wallinde pich,</L>
+<L>his bed berninde glede.</L>
+</LG>
+<LG N="107">
+<HEAD>107</HEAD>
+<L>Wers he doð his gode wine,</L>
+<L>þanne his loðe viende:</L>
+<L>isilde us eure drihte Crist</L>
+<L>wið swiche loðe frende.</L>
+</LG>
+<LG N="108">
+<HEAD>108</HEAD>
+<L>Neure ich on helle ne com</L>
+<L>ne comen ic þer ne recche,</L>
+<L>þeh ich alle werlde wele</L>
+<L>þer inne wende vecche.</L>
+</LG>
+<LG N="109">
+<HEAD>109</HEAD>
+<L>Ich wille þeð siggen ȝeu,</L>
+<L>þ<HI REND="italic">et</HI> wismen us sede,</L>
+<L><HI REND="italic">and</HI> on boc hit stant iwrite,</L>
+<L><HI REND="italic">and</HI> alle we muȝen hit rede.</L>
+</LG>
+<LG N="110">
+<HEAD>110</HEAD>
+<L>Ich hit wille siggen þan,</L>
+<L>þ<HI REND="italic">et</HI> hit ham selue nesten,</L>
+<L><HI REND="italic">and</HI> warni hi wið here vnwines,</L>
+<L>ef hi me willeð hlesten.</L>
+</LG>
+<LG N="111">
+<HEAD>111</HEAD>
+<L>Vnderstondeð <NOTE N="2)" PLACE="foot">111, 1 der <HI REND="italic">in</HI> Vnderstondeð <HI REND="italic">über der zeile nachgetragen.</HI></NOTE> nu to me,</L>
+<L>eadi men <HI REND="italic">and</HI> arme:</L>
+<L><PB N="21" REF="17"/>
+ich wille of <NOTE N="1)" PLACE="foot">111, 3 o <HI REND="italic">in</HI> of <HI REND="italic">aus</HI> ȝ <HI REND="italic">gebessert.</HI></NOTE> helle pine</L>
+<L>warni ȝeu <HI REND="italic">and</HI> fram harme.</L>
+</LG>
+<LG N="112">
+<HEAD>112</HEAD>
+<L>In helle is hunger <HI REND="italic">and</HI> þurst,</L>
+<L>euele two iueren:</L>
+<L>þos pine þolieð þo, þ<HI REND="italic">et</HI> weren</L>
+<L>meteniþinges <NOTE N="2)" PLACE="foot">112, 1 me, <SUP>te</SUP> <HI REND="italic">(über der zeile nachgetragen)</HI> niþinges.</NOTE> hiere.</L>
+</LG>
+<LG N="113">
+<HEAD>113</HEAD>
+<L>Þer is sorinesse <HI REND="italic">and</HI> wop <MILESTONE N="105r"/></L>
+<L>efter eche strete:</L>
+<L>hi uareð vram hete in to chele</L>
+<L><HI REND="italic">and</HI> fram chele in to hete.</L>
+</LG>
+<LG N="114">
+<HEAD>114</HEAD>
+<L>Þanne hi in þare hete bieð,</L>
+<L>se chele ham þencheð blisce:</L>
+<L>þanne hi to chele comeð,</L>
+<L>of hete hi habbeð misse.</L>
+</LG>
+<LG N="115">
+<HEAD>115</HEAD>
+<L>Eider ham deð wo inoh,</L>
+<L>nabbeð hi none blisce:</L>
+<L>niteð hi, hwer hi wonieð mest, <NOTE N="3)" PLACE="foot">115, 3 hweðer hem doð wers <HI REND="italic">T in wesentlicher übereinstimmung mit Y.</HI></NOTE></L>
+<L>mid neure none iwisse.</L>
+</LG>
+<LG N="116">
+<HEAD>116</HEAD>
+<L>Hi walkeð eure <HI REND="italic">and</HI> reste secheð,</L>
+<L>ac hi ne muȝen imeten;</L>
+<L>vor hi nolden, þo hi mihte,</L>
+<L>hire sennen ibeten.</L>
+</LG>
+<LG N="117">
+<HEAD>117</HEAD>
+<L>Hi secheð reste, þer <NOTE N="4)" PLACE="foot">117, 1 þer] þ'er, <HI REND="italic">also eigentlich</HI> þeter: <HI REND="italic">der schreiber vergass das abkürzungszeichen zu tilgen.</HI></NOTE> non nis:</L>
+<L>for hi ne muȝen iuinde,</L>
+<L>ac walked weri up <HI REND="italic">and</HI> dun,</L>
+<L>swo water doð mid winde.</L>
+</LG>
+<LG N="118">
+<HEAD>118</HEAD>
+<L>Þ<HI REND="italic">et</HI> seden <NOTE N="5)" PLACE="foot">118, 1 seden <HI REND="italic">ist f.</HI> senden <HI REND="italic">verschrieben, die andern hss. geben</HI> beð.</NOTE> þo, þ<HI REND="italic">et</HI> were her</L>
+<L>on þonke unstedeueste,</L>
+<L>and þo, þ<HI REND="italic">et</HI> biheten gode</L>
+<L>and nolden hit ileste;</L>
+</LG>
+<LG N="119">
+<PB N="22" REF="18" MS="y"/>
+<HEAD>119</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> agunne godes were</L>
+<L><HI REND="italic">and</HI> hit fulendi nolde,</L>
+<L>nu weren hier <HI REND="italic">and</HI> nu þer</L>
+<L><HI REND="italic">and</HI> deden, þet hi wolde.</L>
+</LG>
+<LG N="120">
+<HEAD>120</HEAD>
+<L>Þer is pich, þ<HI REND="italic">et</HI> eure walð, <MILESTONE N="105v"/></L>
+<L>þ<HI REND="italic">et</HI> sullen baþien inne</L>
+<L>þo, þ<HI REND="italic">et</HI> ledden here lif</L>
+<L>in wele <HI REND="italic">and</HI> in senne.</L>
+</LG>
+<LG N="121">
+<HEAD>121</HEAD>
+<L>Þer is ver, þ<HI REND="italic">et</HI> is hudredfealde <NOTE N="1)" PLACE="foot">121, 1 <HI REND="italic">l.</HI> hundredfealde <HI REND="italic">mit TY.</HI></NOTE></L>
+<L>hotter, þanne is vre:</L>
+<L>ne mai hit kuenche no weter,</L>
+<L>Hauene stream ne Sture.</L>
+</LG>
+<LG N="122">
+<HEAD>122</HEAD>
+<L>Þer is uer, þ<HI REND="italic">et</HI> eure brenneð <NOTE N="2)" PLACE="foot">122, 1 <HI REND="italic">der schreiber vergass den anfang der strophe vorzurücken; er setzte dann aber dem</HI> þer <HI REND="italic">noch ein grösseres</HI> þ <HI REND="italic">vor und scheint ausserdem durch einen zwischen die beiden</HI> þ <HI REND="italic">gesetzten kurzen senk∣rechten strich das zweite getilgt zu haben; vgl.</HI> 157, 1.</NOTE>:</L>
+<L>ne mai hit no þing quenchen.</L>
+<L>þer inne sendeð þo, þet loueden</L>
+<L>wrecche men to swenchen,</L>
+</LG>
+<LG N="123">
+<HEAD>123</HEAD>
+<L><HI REND="italic">And</HI> þo, þ<HI REND="italic">et</HI> were swikele men</L>
+<L><HI REND="italic">and</HI> ful of euele wrenchen,</L>
+<L><HI REND="italic">and</HI> þo þ<HI REND="italic">et</HI> mihte unriht do</L>
+<L><HI REND="italic">and</HI> lief hit hem wes to þenche;</L>
+</LG>
+<LG N="124">
+<HEAD>124</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> louede hordom <HI REND="italic">and</HI> stale</L>
+<L><HI REND="italic">and</HI> reauinge <HI REND="italic">and</HI> dru<HI REND="italic">n</HI>ke</L>
+<L><HI REND="italic">and</HI> on þos loþes diefle werkes</L>
+<L>to bleðeliche swunke;</L>
+</LG>
+<LG N="125">
+<HEAD>125</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> weren lease men,</L>
+<L>ne mihte me hem ileuen,</L>
+<L>and medeȝierned <NOTE N="3)" PLACE="foot">125, 3 <HI REND="italic">l.—</HI>ȝierne <HI REND="italic">mit TY.</HI></NOTE> domesmen</L>
+<L>and wrangwise ireuen;</L>
+</LG>
+<LG N="126">
+<HEAD>126</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> oþres wif haueden lief</L>
+<L><HI REND="italic">and</HI> here oȝen eðlete,</L>
+<L><PB N="23" REF="19"/>
+<HI REND="italic">and</HI> þo, þ<HI REND="italic">et</HI> swiþe seneȝeden</L>
+<L>on drunke <HI REND="italic">and</HI> on hete;</L>
+</LG>
+<LG N="127">
+<HEAD>127</HEAD>
+<L>Þe wrecche man binam his god <MILESTONE N="106r"/></L>
+<L><HI REND="italic">and</HI> leide hit on <NOTE N="1)" PLACE="foot">127, 2 on <HI REND="italic">aus</HI> om <HI REND="italic">gebessert.</HI></NOTE> horde,</L>
+<L>þe litel let of godes bode</L>
+<L><HI REND="italic">and</HI> of his swete worde;</L>
+</LG>
+<LG N="128">
+<HEAD>128</HEAD>
+<L><HI REND="italic">And</HI> se, þet his oȝen nolde ȝeuen,</L>
+<L>þer he iseȝh þo niede,</L>
+<L>ne nolde ihiere godes men,</L>
+<L>þer he set at his biede <NOTE N="2)" PLACE="foot">128, 4 <HI REND="italic">dahinter sind zwei strophen ausgefallen, die in T</HI> 267 <HI REND="italic">bis</HI> 270 <HI REND="italic">so lauten:</HI>
+<LG>
+<L>þo, þe was oðer mannes þing</L>
+<L>leuere, þan hit solde,</L>
+<L>and waren al to gradi</L>
+<L>of siluer and of golde;</L>
+</LG>
+<LG>
+<L>þo, þe untrewnesse deden þan,</L>
+<L>þe he solden ben holde,</L>
+<L>and leten al, þat hie solden don,</L>
+<L>and deden, þat hie wolden;</L>
+</LG></NOTE>;</L>
+</LG>
+<LG N="129">
+<HEAD>129</HEAD>
+<L><HI REND="italic">And</HI> þo, þet weren ȝetseres</L>
+<L>of þise worldes eȝhte</L>
+<L><HI REND="italic">and</HI> deden al, þ<HI REND="italic">et</HI> se loþe gost</L>
+<L>ham tichede <NOTE N="3)" PLACE="foot">129, 4 d <HI REND="italic">in</HI> tichede <HI REND="italic">aus</HI> t <HI REND="italic">gebessert.</HI></NOTE> to <HI REND="italic">and</HI> taðte;</L>
+</LG>
+<LG N="130">
+<HEAD>130</HEAD>
+<L>And alle þo, þ<HI REND="italic">et</HI> anie wise</L>
+<L>þo diefle er ikuemde,</L>
+<L>þo sullen ben voð <NOTE N="4)" PLACE="foot">130, 3 <HI REND="italic">l.</HI> vorð <HI REND="italic">(das wort fehlt TY).</HI></NOTE> mid him</L>
+<L>vordon <HI REND="italic">and</HI> vordemde,</L>
+</LG>
+<LG N="131">
+<HEAD>131</HEAD>
+<L>Bute þo, þ<HI REND="italic">et</HI> vorþuhte ham</L>
+<L>here sennen <HI REND="italic">and</HI> here misdeden,</L>
+<L><HI REND="italic">and</HI> gunnen here sennes beten</L>
+<L><HI REND="italic">and</HI> betere lif leden.</L>
+</LG>
+<LG N="132">
+<HEAD>132</HEAD>
+<L>Þer bieð naddren <HI REND="italic">and</HI> snaken,</L>
+<L>eueten <HI REND="italic">and</HI> ec fruden:</L>
+<L><PB N="24" REF="20"/>
+þo tereð <HI REND="italic">and</HI> freteð þo, þ<HI REND="italic">et</HI> euel spekeð,</L>
+<L>þo ondfulle <NOTE N="1)" PLACE="foot">132, 4 on, <SUP>d</SUP>fulle.</NOTE> <HI REND="italic">and</HI> þo prude.</L>
+</LG>
+<LG N="133">
+<HEAD>133</HEAD>
+<L>Neure sunne þer ne sinð</L>
+<L>ne mone ne no sterre:</L>
+<L>þer is muchel godes hete</L>
+<L><HI REND="italic">and</HI> muchel godes herre.</L>
+</LG>
+<LG N="134">
+<HEAD>134</HEAD>
+<L>Eure þer is euel smac, <MILESTONE N="106v"/></L>
+<L>þesternesse <HI REND="italic">and</HI> eȝie:</L>
+<L>nis þer neure oþer liht,</L>
+<L>þanne þiester leie.</L>
+</LG>
+<LG N="135">
+<HEAD>135</HEAD>
+<L>Þer liggeð attliche feond</L>
+<L>in stronge raketeȝe,</L>
+<L>þ<HI REND="italic">et</HI> bieð þo, þ<HI REND="italic">et</HI> weren mid gode</L>
+<L>engles swiþe heȝe.</L>
+</LG>
+<LG N="136">
+<HEAD>136</HEAD>
+<L>Þer bieð atteliche vend</L>
+<L><HI REND="italic">and</HI> eiliche wihte:</L>
+<L>þo sulle þo arme saule iseon,</L>
+<L>þ<HI REND="italic">et</HI> gelten þurh isihðe.</L>
+</LG>
+<LG N="137">
+<HEAD>137</HEAD>
+<L>Þer is se loðe Sathanas</L>
+<L><HI REND="italic">and</HI> Belzebub se alde:</L>
+<L>eaðe hi muȝen bi of herd,</L>
+<L>þ<HI REND="italic">et</HI> sullen hine bihialde.</L>
+</LG>
+<LG N="138">
+<HEAD>138</HEAD>
+<L>Ne mai non herte hit iþenche</L>
+<L>ne no tunge telle,</L>
+<L>hu muchele pinen <HI REND="italic">and</HI> hu uele</L>
+<L>bieð inne helle.</L>
+</LG>
+<LG N="139">
+<HEAD>139</HEAD>
+<L>Wið þo pinen, þ<HI REND="italic">et</HI> þer bieð,</L>
+<L>nelle ich ȝeu noht lieȝen:</L>
+<L>nis hit, bute gamen <HI REND="italic">and</HI> glie,</L>
+<L>al, þ<HI REND="italic">et</HI> man her mai drieȝen.</L>
+</LG>
+<LG N="140">
+<HEAD>140</HEAD>
+<L>Ne doð ham no þing swo wo</L>
+<L>on þo loðe bende,</L>
+<L>swo, þ<HI REND="italic">et</HI> hi niten <NOTE N="2)" PLACE="foot">140, 3 <HI REND="italic">l.</HI> witen <HI REND="italic">mit den übrigen hss.</HI></NOTE>, þ<HI REND="italic">et</HI> here pine</L>
+<L>ne sal habben ende.</L>
+</LG>
+<LG N="141">
+<PB N="25" REF="21"/>
+<HEAD>141</HEAD>
+<L>Þer bieð þo heþene men, <MILESTONE N="107r"/></L>
+<L>þ<HI REND="italic">et</HI> weren laȝelease,</L>
+<L>þer <NOTE N="1)" PLACE="foot">141, 3 þer] <HI REND="italic">l.</HI> þe nes <HI REND="italic">mit Te; J hat</HI> þet nes, <HI REND="italic">E</HI> þe heom nas.</NOTE> naht of godes bode</L>
+<L>ne of godes hesne. <NOTE N="2)" PLACE="foot">141, 4 <HI REND="italic">l.</HI> hese <HI REND="italic">mit den übr.</HI></NOTE></L>
+</LG>
+<LG N="142">
+<HEAD>142</HEAD>
+<L>Euele <HI REND="italic">chr</HI>istene men</L>
+<L>hi bieð here iuere,</L>
+<L>þo, <HI REND="italic">þet</HI> here <HI REND="italic">chr</HI>istendom</L>
+<L>euele hielden hiere.</L>
+</LG>
+<LG N="143">
+<HEAD>143</HEAD>
+<L><HI REND="italic">And</HI> ȝet hi bieð on werse stede</L>
+<L>in niþerhelle grunde:</L>
+<L>ne sulle hi neure comen vt</L>
+<L>vor marke ne vor punde.</L>
+</LG>
+<LG N="144">
+<HEAD>144</HEAD>
+<L>Ne mai ham noþer helpe þer</L>
+<L>þene ne elmesse:</L>
+<L>vor naht hi solden bidde þer</L>
+<L>ore ne ȝeuenesse.</L>
+</LG>
+<LG N="145">
+<HEAD>145</HEAD>
+<L>Shilde him ech, þe hwile he mai,</L>
+<L>wið þo helle pine</L>
+<L><HI REND="italic">and</HI> warni ech his frend þer wið,</L>
+<L>swa ich wille mine.</L>
+</LG>
+<LG N="146">
+<HEAD>146</HEAD>
+<L>Þo, þ<HI REND="italic">et</HI> silden hem ne cunne,</L>
+<L>ich ham wille teche:</L>
+<L>ich kan bien aider, ef ich sal,</L>
+<L>lichames <HI REND="italic">and</HI> saule leche.</L>
+</LG>
+<LG N="147">
+<HEAD>147</HEAD>
+<L>Lete we, þ<HI REND="italic">et</HI> god vorbiet</L>
+<L>alle mankenne,</L>
+<L><HI REND="italic">and</HI> do wel, swo he us hot, <NOTE N="3)" PLACE="foot">147, 2 <HI REND="italic">und</HI> 3 <HI REND="italic">in umgekehrter reihenfolge, aber vom schreiber durch vorgesetztes</HI> b, a <HI REND="italic">umgestellt.</HI></NOTE></L>
+<L><HI REND="italic">and</HI> warni us wið senne.</L>
+</LG>
+<LG N="148">
+<HEAD>148</HEAD>
+<L>Louie gode <NOTE N="4)" PLACE="foot">148, 1 <HI REND="italic">l.</HI> god <HI REND="italic">mit den übr.</HI></NOTE> mid ure hierte <MILESTONE N="107v"/></L>
+<L><HI REND="italic">and</HI> mid al ure mihte</L>
+<L><PB N="26" REF="22"/>
+<HI REND="italic">and</HI> ure emcristene, swo us self,</L>
+<L>swo us lereð drihte.</L>
+</LG>
+<LG N="149">
+<HEAD>149</HEAD>
+<L>Al, þ<HI REND="italic">et</HI> men ret <HI REND="italic">and</HI> singð</L>
+<L>biuoren godes borde,</L>
+<L>al hit hongeð <HI REND="italic">and</HI> halt</L>
+<L>bi þise twam worde.</L>
+</LG>
+<LG N="150">
+<HEAD>150</HEAD>
+<L>Godes laȝe he uoluelð,</L>
+<L>þo niewe <HI REND="italic">and</HI> þo ealde <NOTE N="1)" PLACE="foot">150, 2 healde.</NOTE>,</L>
+<L>þ<HI REND="italic">et</HI> <NOTE N="2)" PLACE="foot">150, 3 þet <HI REND="italic">vorgerückt.</HI></NOTE> þos two loue haueð</L>
+<L><HI REND="italic">and</HI> wel hi wile healde.</L>
+</LG>
+<LG N="151">
+<HEAD>151</HEAD>
+<L>Ac hi bieð harue ihialde <NOTE N="3)" PLACE="foot">151, 1 harue ihialde] <HI REND="italic">l.</HI> harueðhialde; <HI REND="italic">vgl.</HI> arefeð heald <HI REND="italic">T,</HI> erued helde <HI REND="italic">Ee. J hat geändert.</HI></NOTE> wel:</L>
+<L>swo ofte we gelteð alle;</L>
+<L>vor hit is strang to stonden veste</L>
+<L><HI REND="italic">and</HI> liht hit is to ualle.</L>
+</LG>
+<LG N="152">
+<HEAD>152</HEAD>
+<L>Drihte <HI REND="italic">Chr</HI>ist us iȝieue,</L>
+<L>stonde þ<HI REND="italic">et</HI> we mote,</L>
+<L><HI REND="italic">and</HI> of alle ure vallen</L>
+<L>he one <NOTE N="4)" PLACE="foot">152, 4 one] <HI REND="italic">l.</HI> unne <HI REND="italic">mit Ee; vgl.</HI> ȝieue <HI REND="italic">T,</HI> lete <HI REND="italic">J.</HI></NOTE> us come to bote.</L>
+</LG>
+<LG N="153">
+<HEAD>153</HEAD>
+<L>We wilneð efter werldes wele,</L>
+<L>þ<HI REND="italic">et</HI> longe nele ileste,</L>
+<L><HI REND="italic">and</HI> leggeð almest ure iswinch</L>
+<L>on þinge vnstedeueste.</L>
+</LG>
+<LG N="154">
+<HEAD>154</HEAD>
+<L>Swngke we vor godes loue,</L>
+<L>swo we doð vor eȝte,</L>
+<L>nere we so ofte bicherd</L>
+<L>ne swo euele bikaȝte.</L>
+</LG>
+<LG N="155">
+<HEAD>155</HEAD>
+<L>Ef we wolden herie gode, <NOTE N="5)" PLACE="foot">155, 1 Ȝif we serueden god <HI REND="italic">die übrigen.</HI></NOTE> <MILESTONE N="108r"/></L>
+<L>swo we doð arminges,</L>
+<L>we mihten richer bi mid him,</L>
+<L>þanne eorles oþer kinges.</L>
+</LG>
+<LG N="165">
+<PB N="27" REF="23"/>
+<HEAD>165</HEAD>
+<L>Ne muȝen we us biwerien her</L>
+<L>wið þurste ne wið hungre</L>
+<L>ne wið elde ne wið deað,</L>
+<L>se eldre ne se ȝungre.</L>
+</LG>
+<LG N="157">
+<HEAD>157</HEAD>
+<L>Þer <NOTE N="1)" PLACE="foot">157, 1 þer <HI REND="italic">geschrieben, wie</HI> 122, 1; <HI REND="italic">nur fehlt der tilgende strich.</HI></NOTE> nis hung<HI REND="italic">er</HI> ne þurst,</L>
+<L>deað, hunhelðe ne elde.</L>
+<L>to ofte man bicareð þis lif</L>
+<L><HI REND="italic">and</HI> þet al to selde.</L>
+</LG>
+<LG N="158">
+<HEAD>158</HEAD>
+<L>We solden us biþenche bet</L>
+<L>ofte <HI REND="italic">and</HI> wel ilome,</L>
+<L>hwet <NOTE N="2)" PLACE="foot">158, 3 <HI REND="italic">vorgerückt.</HI></NOTE> we bieð, to hwam we sulle</L>
+<L><HI REND="italic">and</HI> of hwam we come;</L>
+</LG>
+<LG N="159">
+<HEAD>159</HEAD>
+<L>Hu litle hwile we bieð hier,</L>
+<L>hu longe elles hwere,</L>
+<L>hwet we muȝer <NOTE N="3)" PLACE="foot">159, 3 <HI REND="italic">l.</HI> muȝen <HI REND="italic">mit TEe (J hat geändert).</HI></NOTE> habben hier</L>
+<L><HI REND="italic">and</HI> hwet vinden þere.</L>
+</LG>
+<LG N="160">
+<HEAD>160</HEAD>
+<L>Ef <NOTE N="4)" PLACE="foot">160, 1 we <HI REND="italic">fehlt auch T, steht aber in EeJ.</HI></NOTE> were wise men,</L>
+<L>þus we solden þenche:</L>
+<L>bute we wurðe us iwer,</L>
+<L>þis world us wile adrenche. <NOTE N="5)" PLACE="foot">160, 4 <HI REND="italic">dahinter fehlt eine strophe, die nach T</HI> 335. 6 <HI REND="italic">lautet:</HI>
+<LG>
+<L>Mast alle men hit ȝieueð drinken</L>
+<L>of on euele senche:</L>
+<L>he sal him cunnen silde wel,</L>
+<L>ȝief hit him nele screnche.</L>
+</LG></NOTE></L>
+</LG>
+<LG N="161">
+<HEAD>161</HEAD>
+<L>Vor almihti godes luue</L>
+<L>ute we us biwerien,</L>
+<L>þises wrecches werldes loue</L>
+<L>þet hi ne muȝen us derien.</L>
+</LG>
+<LG N="162">
+<HEAD>162</HEAD>
+<L>Mid uastinge, elmesse <HI REND="italic">and</HI> mid ibede <MILESTONE N="108v"/></L>
+<L>werie we us wið senne,</L>
+<L>mid þo wepnen, þ<HI REND="italic">et</HI> god haueð</L>
+<L>iȝeuen al mankenne.</L>
+</LG>
+<LG N="163">
+<PB N="28" REF="24"/>
+<HEAD>163</HEAD>
+<L>Lete we þo brode strete</L>
+<L><HI REND="italic">and</HI> þane wei bene <NOTE N="1)" PLACE="foot">163, 2 benne.</NOTE>,</L>
+<L>þ<HI REND="italic">et</HI> ledeð þo niȝende del to helle</L>
+<L>of men <HI REND="italic">and</HI> mo, ich wene.</L>
+</LG>
+<LG N="164">
+<HEAD>164</HEAD>
+<L>Go we þane narewe wei</L>
+<L><HI REND="italic">and</HI> þane wei grene,</L>
+<L>þer uorð vareð litel volc,</L>
+<L>ac þet is vair <HI REND="italic">and</HI> scene.</L>
+</LG>
+<LG N="165">
+<HEAD>165</HEAD>
+<L>Si brode strete is ure iwil,</L>
+<L>þ<HI REND="italic">et</HI> us is loð to lete:</L>
+<L>þo, þ<HI REND="italic">et</HI> al volȝeð hire hiwil <NOTE N="2)" PLACE="foot">165, 3 "hiwil" hire.</NOTE>,</L>
+<L>hi vareð þo brode strete.</L>
+</LG>
+<LG N="166">
+<HEAD>166</HEAD>
+<L>Hi muȝen lihtliche vare</L>
+<L>mid þare niþerhelde</L>
+<L>þurð one gutlease <NOTE N="3)" PLACE="foot">166, 3 godelease <HI REND="italic">T,</HI> godliese <HI REND="italic">Ee (die strophe fehlt J).</HI></NOTE> wode</L>
+<L>in to one brode velde.</L>
+</LG>
+<LG N="167">
+<HEAD>167</HEAD>
+<L>Se narewe wei is godes hesne:</L>
+<L>þer vorð vareð wel viawe.</L>
+<L>þ<HI REND="italic">et</HI> bieð þo, þ<HI REND="italic">et</HI> hier ham silten</L>
+<L>wið echen vnþeawe <NOTE N="4)" PLACE="foot">167, 4 <HI REND="italic">dahinter fehlt eine strophe, die in T</HI> 351. 2 <HI REND="italic">lautet:</HI>
+<LG>
+<L>þos goð uneaðe aȝien þe cliue</L>
+<L>and aȝien þe heie hulle,</L>
+<L>þos leten al here iwil</L>
+<L>for godes luue (hese <HI REND="italic">Ee)</HI> to fulle</L>
+</LG></NOTE>.</L>
+</LG>
+<LG N="168">
+<HEAD>168</HEAD>
+<L>Go we alle þane wei:</L>
+<L>he us wile bringe</L>
+<L>mid þo veawe vaire men</L>
+<L>biforen heuenkinge.</L>
+</LG>
+<LG N="169">
+<HEAD>169</HEAD>
+<L>Þer is alþer merȝþe mest <MILESTONE N="109r"/></L>
+<L>mid englene songe:</L>
+<L>se, þ<HI REND="italic">et</HI> is a þusend wintre þer,</L>
+<L>ne þingð hit him naht longe.</L>
+</LG>
+<LG N="170">
+<PB N="29" REF="25"/>
+<HEAD>170</HEAD>
+<L>Se, þ<HI REND="italic">et</HI> lest haueð blisce, he heð swo muche,</L>
+<L>ne biddeð he no more:</L>
+<L>se, þ<HI REND="italic">et</HI> þo blisce let vor þos,</L>
+<L>hit him sel rewen sore.</L>
+</LG>
+<LG N="171">
+<HEAD>171</HEAD>
+<L>Ne mai non euel ne no wane</L>
+<L>bi in heueriche,</L>
+<L>þeȝ þer bi woniinge vele</L>
+<L>ech oþer vniliche.</L>
+</LG>
+<LG N="172">
+<HEAD>172</HEAD>
+<L>Sume þer habbeð lesse merȝþe</L>
+<L><HI REND="italic">and</HI> sume þer habbeð more:</L>
+<L>ech eft<HI REND="italic">er</HI> þan, þ<HI REND="italic">et</HI> he dede,</L>
+<L>efter þ<HI REND="italic">et</HI> he swanc sore.</L>
+</LG>
+<LG N="173">
+<HEAD>173</HEAD>
+<L>Ne sel þer bi bred ne win</L>
+<L>ne oþer kennes este:</L>
+<L>god one sel bi eches lif</L>
+<L><HI REND="italic">and</HI> blisce <HI REND="italic">and</HI> eche reste <NOTE N="1)" PLACE="foot">173, 4 <HI REND="italic">dahinter fehlt eine strophe, die nach T</HI> 365. 6 <HI REND="italic">lautet:</HI>
+<LG>
+<L>Ne sal þar ben foh ne grai</L>
+<L>ne cunin ne ermine</L>
+<L>ne aquerne ne metheschele (martres cheole <HI REND="italic">Ee)</HI></L>
+<L>ne beuer ne sabeline.</L>
+</LG></NOTE>.</L>
+</LG>
+<LG N="174">
+<HEAD>174</HEAD>
+<L>Ne sal þer bi scete ne scrud</L>
+<L>ne worldes wele none,</L>
+<L>ac si merȝþe, þ<HI REND="italic">et</HI> men us bihat,</L>
+<L>al sal ben god one.</L>
+</LG>
+<LG N="175">
+<HEAD>175</HEAD>
+<L>Ne mai no merȝþe bi swo muchel,</L>
+<L>swo is godes isihþe:</L>
+<L>hi is soð sune <NOTE N="2)" PLACE="foot">175, 3 <HI REND="italic">l.</HI> he <HI REND="italic">und</HI> sunne <HI REND="italic">mit den übrigen.</HI></NOTE> <HI REND="italic">and</HI> briht</L>
+<L><HI REND="italic">and</HI> dai bute nihte <NOTE N="3)" PLACE="foot">175, 4 <HI REND="italic">dahinter fehlt eine strophe, die nach T</HI> 371. 2 <HI REND="italic">lautet:</HI>
+<LG>
+<L>He is aches godes ful,</L>
+<L>nis him no wiht uten:</L>
+<L>nones godes hem nis wane,</L>
+<L>þe wunieð him abuten.</L>
+</LG></NOTE>.</L>
+</LG>
+<LG N="176">
+<HEAD>176</HEAD>
+<L>Þer is wele bute wane <MILESTONE N="109v"/></L>
+<L><HI REND="italic">and</HI> reste buten iswinche:</L>
+<L><PB N="30" REF="26"/>
+se, þ<HI REND="italic">et</HI> mai <HI REND="italic">and</HI> nele þider come</L>
+<L>sore hit hit <NOTE N="1)" PLACE="foot">176, 4 <HI REND="italic">l.</HI> him <HI REND="italic">mit EeJ</HI> (hem <HI REND="italic">T).</HI></NOTE> sel vorþenche.</L>
+</LG>
+<LG N="177">
+<HEAD>177</HEAD>
+<L>Þer is blisce buten treȝe</L>
+<L><HI REND="italic">and</HI> lif buten deaðe:</L>
+<L>þet eure sullen wunie þer,</L>
+<L>bliðe hi bieð <HI REND="italic">and</HI> eade.</L>
+</LG>
+<LG N="178">
+<HEAD>178</HEAD>
+<L>Þer is ȝeuȝeþe buten elde</L>
+<L><HI REND="italic">and</HI> elde buten vnhelðe:</L>
+<L>nis þer sorȝe ne sor non</L>
+<L>ne non vniselþe.</L>
+</LG>
+<LG N="179">
+<HEAD>179</HEAD>
+<L>Þer me sel drihten isen</L>
+<L>swo, ase he is, mid iwisse.</L>
+<L>he one mai <HI REND="italic">and</HI> sel al bien</L>
+<L>engles <HI REND="italic">and</HI> mannes blisce.</L>
+</LG>
+<LG N="180">
+<HEAD>180</HEAD>
+<L>Þah ne bi here eaȝen naht</L>
+<L>al iliche brihte:</L>
+<L>nabbeð hi naht iliche muchel</L>
+<L>alle of godes lihte.</L>
+</LG>
+<LG N="181">
+<HEAD>181</HEAD>
+<L>On þise liue we <NOTE N="2)" PLACE="foot">181, 1 we] hi <HI REND="italic">TE (die strophe fehlt J).</HI></NOTE> nere noht</L>
+<L>alle of one mihte:</L>
+<L>ne þer ne sullen hi habben gode <NOTE N="3)" PLACE="foot">181, 3 god <HI REND="italic">TE.</HI></NOTE></L>
+<L>alle bi one rihte.</L>
+</LG>
+<LG N="182">
+<HEAD>182</HEAD>
+<L>Þo sullen more of him iseon,</L>
+<L>þ<HI REND="italic">et</HI> hine luuede more,</L>
+<L><HI REND="italic">and</HI> more iknowen <HI REND="italic">and</HI> isien</L>
+<L>his mihte <HI REND="italic">and</HI> his ore.</L>
+</LG>
+<LG N="183">
+<HEAD>183</HEAD>
+<L>On him hi sullen vinden al, <MILESTONE N="110r"/></L>
+<L>þ<HI REND="italic">et</HI> man mei þer to lesten:</L>
+<L>in liue boc hi sullen isien,</L>
+<L>þ<HI REND="italic">et</HI> her hi ne wisten.</L>
+</LG>
+<LG N="184">
+<HEAD>184</HEAD>
+<L>Crist one sel ben inoh</L>
+<L>alle his deorlinges:</L>
+<L><PB N="31" REF="27"/>
+he one is muchele more <HI REND="italic">and</HI> betere,</L>
+<L>þanne alle oþre þinges.</L>
+</LG>
+<LG N="185">
+<HEAD>185</HEAD>
+<L>Inoh he haueð, þ<HI REND="italic">et</HI> hine haueð,</L>
+<L>þ<HI REND="italic">et</HI> alle þing haueð on wealde.</L>
+<L>of him to isien nis non sed:</L>
+<L>swo vair he is to bihialde.</L>
+</LG>
+<LG N="186">
+<HEAD>186</HEAD>
+<L>God is swo mere <HI REND="italic">and</HI> swo muchel</L>
+<L>in his godcunnesse,</L>
+<L>þ<HI REND="italic">et</HI> al, þ<HI REND="italic">et</HI> he <NOTE N="1)" PLACE="foot">186, 3 h <HI REND="italic">von</HI> he <HI REND="italic">zum teil wegradiert. T hat dafür</HI> elles, <HI REND="italic">es fehlt in EJ; vielleicht</HI> þe? <HI REND="italic">vgl. zu</HI> 96, 2.</NOTE> wes <HI REND="italic">and</HI> is,</L>
+<L>is vele werse <HI REND="italic">and</HI> lesse.</L>
+</LG>
+<LG N="187">
+<HEAD>187</HEAD>
+<L>Ne mai hit no man oþre</L>
+<L>siggen mid iwisse,</L>
+<L>hu muchele merȝþe habbeð þo,</L>
+<L>þ<HI REND="italic">et</HI> bieð in godes blisce.</L>
+</LG>
+<LG N="188">
+<HEAD>188</HEAD>
+<L>Vten <NOTE N="2)" PLACE="foot">188 <HI REND="italic">und</HI> 189 <HI REND="italic">nur in D und gewiss zusatz.</HI></NOTE> eftin <NOTE N="3)" PLACE="foot">188, 1 eftin = efstin.</NOTE> þiderward</L>
+<L>mid aldre ȝernuolnesse</L>
+<L><HI REND="italic">and</HI> vorsien þisne midelard</L>
+<L>mid his wouernesse <NOTE N="4)" PLACE="foot">188, 4 wouernesse = <HI REND="italic">älterem</HI> wæ̂fernes, <HI REND="italic">das Ettmüller p.</HI> 89 <HI REND="italic">be∣legt und durch</HI> pompa, ludus, spectaculum <HI REND="italic">wiedergiebt. Dass der erste vocal lang ist und nicht, wie Ettmüller ihn gibt, kurz, zeigt das</HI> o <HI REND="italic">an unserer stelle.</HI></NOTE>.</L>
+</LG>
+<LG N="189">
+<HEAD>189</HEAD>
+<L>Ef we vorsieð þis loþe lif</L>
+<L>vor heuenriche blisce,</L>
+<L>þanne selð us Crist þ<HI REND="italic">et</HI> eche lif</L>
+<L>to medes on ecnesse.</L>
+</LG>
+<LG N="190">
+<HEAD>190</HEAD>
+<L>To þare blisce us bringe god <MILESTONE N="110v"/></L>
+<L>þet <NOTE N="5)" PLACE="foot">190, 2 t <HI REND="italic">in</HI> þet <HI REND="italic">aus r.</HI></NOTE> rixeð buten ende,</L>
+<L>þanne he ure saule vnbint</L>
+<L>of lichamlice bende.</L>
+</LG>
+<LG N="191">
+<PB N="32" REF="28"/>
+<HEAD>191</HEAD>
+<L>Crist ȝeue us lede swich lif</L>
+<L><HI REND="italic">and</HI> habbe swichne ende,</L>
+<L>þet we moten þider cumen,</L>
+<L>þanne we hennes wende.</L>
+<CLOSER>A—M—E—N.</CLOSER>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="textual notes">
+<HEAD>II. VERHÄLTNISS DER HSS. DES POEMA MORALE ZU EINANDER.</HEAD>
+<P>1. <HI REND="italic">Die sechs hss. des</HI> Poema morale <HI REND="italic">sondern sich zunächst in zwei gruppen: die eine (Z) umfasst die hss. D und T, die andere (Y) die hss. E, e, J und L.</HI>
+<LIST>
+<ITEM>9, 3 mai <HI REND="italic">Z,</HI> michte <HI REND="italic">Y</HI> <NOTE N="1)" PLACE="foot">Ich sehe von verschiedenheit der orthographie und sonstigen un∣wesentlichen abweichungen innerhalb der einzelnen gruppen ab.</NOTE>.</ITEM>
+<ITEM>17, 2 for <HI REND="italic">Z, fehlt Y.</HI></ITEM>
+<ITEM>30, 3 workes <HI REND="italic">Z,</HI> swinches <HI REND="italic">Y.</HI></ITEM>
+<ITEM>36, 2 ful <HI REND="italic">Z,</HI> swa <HI REND="italic">Y.</HI></ITEM>
+<ITEM>37, 1 no þing uorhole <HI REND="italic">Z,</HI> noht forholen nihud <HI REND="italic">Y.</HI></ITEM>
+<ITEM>66, 2 on oðer <HI REND="italic">Z,</HI> enne dei oðer <HI REND="italic">Y.</HI></ITEM>
+<ITEM>77, 4 hidden <HI REND="italic">Z,</HI> wruȝen <HI REND="italic">Y.</HI></ITEM>
+<ITEM>125, 1 lease men <HI REND="italic">Z,</HI> lease <HI REND="italic">Y.</HI></ITEM>
+<ITEM>128, 3 men <HI REND="italic">Z,</HI> sonde <HI REND="italic">Y.</HI></ITEM>
+<ITEM>135, 1 attliche <HI REND="italic">Z,</HI> laðliche <HI REND="italic">Y</HI> <NOTE N="2)" PLACE="foot"><HI REND="italic">Nach</HI> 130 <HI REND="italic">ist Y allerdings nur durch EeJ vertreten.</HI></NOTE>.</ITEM>
+<ITEM>135, 4 engles <HI REND="italic">Z,</HI> on heuene <HI REND="italic">Y.</HI></ITEM>
+<ITEM>143, 1 and <HI REND="italic">Z, fehlt Y.</HI></ITEM>
+<ITEM>144, 3 vor naht hi solden bidde þer <HI REND="italic">Z,</HI> for nis noþer inne helle <HI REND="italic">Y.</HI></ITEM>
+<ITEM>156, 2 wið þurste <HI REND="italic">Z,</HI> wid chele wid þurst <HI REND="italic">Y.</HI></ITEM>
+<ITEM>160, 1 were <HI REND="italic">Z,</HI> we were <HI REND="italic">Y.</HI></ITEM>
+</LIST></P>
+<P><HI REND="italic">2. Die gruppe Y stammt nicht aus der gruppe Z, da sie z. b.</HI> 66, 2; 128, 3 <HI REND="italic">und</HI> 135, 1 <HI REND="italic">offenbar die richtige lesart erhallen hat, während die von Z verderbt ist. Aber es kann auch umge∣kehrt Z nicht aus Y stammen, da die augenscheinlich richtigen lesarten von Z in</HI> 135, 4 <HI REND="italic">und</HI> 144, 3 <HI REND="italic">nicht conjecturen eines schreibers sein können.</HI></P>
+<P>3. <HI REND="italic">Die beiden hss. der gruppe Z sind unabhängig von ein∣ander.</HI>
+<LIST>
+<ITEM><HI REND="italic">a. dass T nicht aus D geflossen ist, ergibt sich</HI>
+<LIST>
+<ITEM><HI REND="italic">α) aus dem umstande, dass T weder die lücken von D zeigt (hinter strophe</HI> 14, 21, 44, 128, 160, 167, 173
+<PB N="33" REF="29"/>
+<HI REND="italic">und</HI> 175<HI REND="italic">), noch die strophen enthält, die D mehr hat, als Y</HI> (188 <HI REND="italic">und</HI> 189).</ITEM>
+<ITEM><HI REND="italic">β) daraus, dass T vielfach mit Y übereinstimmt, wo D davon abweicht, z. b.:</HI>
+<LIST>
+<ITEM>1, 3 ealdi <HI REND="italic">D,</HI> wealde <HI REND="italic">TY.</HI></ITEM>
+<ITEM>5, 3 euele <HI REND="italic">D,</HI> ȝeunge <HI REND="italic">TY.</HI></ITEM>
+<ITEM>19, 3 do eure god <HI REND="italic">D,</HI> do wel himself <HI REND="italic">TY.</HI></ITEM>
+<ITEM>22 <HI REND="italic">steht vor</HI> 21 <HI REND="italic">in TY.</HI></ITEM>
+<ITEM>22, 1 man <HI REND="italic">D,</HI> he <HI REND="italic">TY.</HI></ITEM>
+<ITEM>34, 4 mihte <HI REND="italic">D,</HI> milce <HI REND="italic">TY (fehlt J).</HI></ITEM>
+<ITEM>38, 4 is <HI REND="italic">D,</HI> ure <HI REND="italic">TY.</HI></ITEM>
+<ITEM>39, 4 on sae <HI REND="italic">D,</HI> a watere <HI REND="italic">TY.</HI></ITEM>
+<ITEM>40, 1, 3 <HI REND="italic">steht hinter</HI> 3, 4 <HI REND="italic">in TY.</HI></ITEM>
+<ITEM>44, 4 heaȝe <HI REND="italic">D,</HI> muchele <HI REND="italic">TY.</HI></ITEM>
+<ITEM><HI REND="italic">u. s. w. u. s. w.</HI></ITEM>
+</LIST></ITEM>
+</LIST></ITEM>
+<ITEM><HI REND="italic">b. Dass aber auch nicht umgekehrt D aus T stammt, wird bewiesen</HI>
+<LIST>
+<ITEM><HI REND="italic">α) durch das fehlen von</HI> 36, 3: 4 <HI REND="italic">in T, durch das fehlen des unechten langverses T</HI> 80 <HI REND="italic">(hinter</HI> 38, 4<HI REND="italic">) in D und dadurch, dass D nach</HI> 97, 4 <HI REND="italic">nicht strophe</HI> 35 <HI REND="italic">wiederholt, wie T tut (T</HI> 73. 74 = 203. 204).</ITEM>
+<ITEM><HI REND="italic">β) durch viele lesarten, in denen T von dem mit Y übereinstimmenden D abweicht; z. b.:</HI>
+<LIST>
+<ITEM>46, 1 we misdeden <HI REND="italic">DY,</HI> hie iseien <HI REND="italic">T.</HI></ITEM>
+<ITEM>52, 1 ech <HI REND="italic">DY, fehlt T.</HI></ITEM>
+<ITEM>77, 2 stelen <HI REND="italic">DY,</HI> helen <HI REND="italic">T.</HI></ITEM>
+<ITEM>77, 4 helen <HI REND="italic">DY,</HI> stalen <HI REND="italic">T.</HI></ITEM>
+<ITEM>111, 1 me <HI REND="italic">DY,</HI> me ward <HI REND="italic">T.</HI></ITEM>
+<ITEM>118, 4 and nolden hit ileste <HI REND="italic">DY,</HI> and hit him ilaste <HI REND="italic">T.</HI></ITEM>
+<ITEM>132, 3 þo þet euel spekeð <HI REND="italic">DY,</HI> þo evele swiken <HI REND="italic">T.</HI></ITEM>
+<ITEM><HI REND="italic">u. s. w.</HI></ITEM>
+</LIST></ITEM>
+</LIST></ITEM></LIST></P>
+<P>4. <HI REND="italic">Innerhalb der gruppe Y findet eine engere zusammenge∣hörigkeit der drei hs. E, e und L (X) statt, indem diese öfter eine gemeinschaftliche abweichung von JZ zeigen.</HI>
+<LIST>
+<ITEM>23, 3 us <HI REND="italic">JZ,</HI> ou <HI REND="italic">X.</HI></ITEM>
+<ITEM>38, 3 such is Crist <HI REND="italic">JZ,</HI> swilc se is Crist <HI REND="italic">X.</HI></ITEM>
+<ITEM>56, 3. 4 <HI REND="italic">lauteten gewiss ursprünglich:</HI>
+<Q><L>ac al his lif sel ben iteald</L>
+<L>after his endinge,</L></Q>
+<HI REND="italic">wenn auch der</HI> 3. <HI REND="italic">kurzvers in J durch einen anderen▪</HI> (ah dom schal þolyen vych mon) <HI REND="italic">verdrängt ist und im</HI> 4. <HI REND="italic">D</HI> bi <HI REND="italic">statt</HI> after <HI REND="italic">hat; sie lauten aber in X:</HI>
+<Q><L>ac al <HI REND="italic">(fehlt E)</HI> his lif scal beo swulc</L>
+<L>se <HI REND="italic">(fehlt L)</HI> bued his endinge.</L></Q></ITEM>
+<ITEM>58, 1 þe mon þet neuer nule do god <HI REND="italic">JZ,</HI> se man þe nole do no god <HI REND="italic">X.</HI> Anglia, I. band.</ITEM>
+<ITEM><PB N="34" REF="30"/>
+64, 3 <HI REND="italic">das zweite</HI> ic <HI REND="italic">fehlt X.</HI></ITEM>
+<ITEM>72, 1 oþer <HI REND="italic">JZ,</HI> oþerluker <HI REND="italic">X.</HI></ITEM>
+<ITEM>73, 2 wiþ þat he myhte helle fur <HI REND="italic">JZ,</HI> wiþ þan þe mihte helle pine <HI REND="italic">X.</HI></ITEM>
+</LIST></P>
+<P>5. 
+<LIST>
+<ITEM><HI REND="italic">a. Da, wie eben gezeigt worden ist, J häufig abweichend von X übereinstimmungen mit Z zeigt, die nicht zufällig sein können, also in diesen fällen die lesart von Y treuer erhalten hat, als X, so kann J nicht aus X geflossen sein.</HI></ITEM>
+<ITEM><HI REND="italic">b. Aber auch das umgekehrte, dass X etwa aus J stammen könnte, darf durchaus nicht angenommen werden.</HI>
+<LIST>
+<ITEM><HI REND="italic">α) L und wahrscheinlich auch E sind älter, als J.</HI></ITEM>
+<ITEM><HI REND="italic">β) die zusätze in J (eine halbstrophe</HI> (= <HI REND="italic">J</HI> 15) <HI REND="italic">nach</HI> 7, 4 <HI REND="italic">und</HI> (= <HI REND="italic">J</HI> 95) <HI REND="italic">nach</HI> 44, 8, <HI REND="italic">eine ganze</HI> (= <HI REND="italic">J</HI> 141. 2) <HI REND="italic">nach</HI> 66, 4, <HI REND="italic">eine halbe</HI> (= <HI REND="italic">J</HI> 258) <HI REND="italic">nach</HI> 128, 2 <HI REND="italic">und</HI> (= <HI REND="italic">J</HI> 264) <HI REND="italic">nach</HI> 128, 12, <HI REND="italic">endlich eine ganze</HI> (= <HI REND="italic">J</HI> 389. 390) <HI REND="italic">nach</HI> 191, 4) <HI REND="italic">fehlen in X.</HI></ITEM>
+<ITEM><HI REND="italic">γ) die auslassungen in J (strr.</HI> 33, 79, 80, 83, 166, 180, 181<HI REND="italic">) werden von X nicht geteilt; u. s. w.</HI></ITEM>
+</LIST></ITEM></LIST></P>
+<P>6. <HI REND="italic">Innerhalb der gruppe X sind E und e besonders nahe verwant, was schon der umstand wahrscheinlich macht, dass die varianten von e bei Furnivall einen so geringen raum einnehmen, obwohl derselbe häufig abweichungen rein phonetischer, ja ortho∣graphischer art anführt. Man vergleiche sodann die folgenden, nur W (= E und e) gemeinsamen lesarten.</HI>
+<LIST>
+<ITEM>12, 3 hopie <HI REND="italic">W,</HI> lipnie <HI REND="italic">LJT,</HI> leue <HI REND="italic">D.</HI></ITEM>
+<ITEM>21, 2 of wiue ne of childe <HI REND="italic">W,</HI> of ȝieue ne of ȝelde <HI REND="italic">LJZ.</HI> <NOTE N="1" PLACE="foot"><HI REND="italic">Dass statt</HI> ȝieue <HI REND="italic">in J</HI> yefte <HI REND="italic">und in T</HI> here <HI REND="italic">steht, ist von keinem belang.</HI></NOTE></ITEM>
+<ITEM>38, 1 deht and þenchet <HI REND="italic">W,</HI> þenkeð and hwet doð <HI REND="italic">LJZ.</HI></ITEM>
+<ITEM>39, 2 is <HI REND="italic">fehlt W.</HI></ITEM>
+<ITEM>68, 4 imenge <HI REND="italic">W,</HI> (i)mengd <HI REND="italic">LJZ.</HI></ITEM>
+<ITEM>86, 1 þo þe nabbeð god idon <HI REND="italic">W,</HI> þa þe habbed doules were idon <HI REND="italic">LJZ.</HI> <NOTE N="2" PLACE="foot"><HI REND="italic">Es ist nebensächlich, dass T</HI> habbeð <HI REND="italic">vor</HI> idon <HI REND="italic">stellt und D für beides</HI> wrohten <HI REND="italic">setzt.</HI></NOTE>)</ITEM>
+<ITEM>86, 3 he scullen falle swiþe raþe <HI REND="italic">W,</HI> hi sculen faren forð mid him <HI REND="italic">LJZ.</HI></ITEM>
+<ITEM>98, 2 hu muchel <HI REND="italic">W,</HI> ac (al <HI REND="italic">D)</HI> m. <HI REND="italic">die übrigen.</HI></ITEM>
+<ITEM>114, 2 ham <HI REND="italic">fehlt W.</HI></ITEM>
+<ITEM>120, 3, 4 
+<LIST>
+<ITEM>þo þe ladde vuel lif in feoht (feoh <HI REND="italic">E)</HI> and in iginne <HI REND="italic">W,</HI></ITEM>
+<ITEM>þa þe ledden here lif in werre and in winne <HI REND="italic">L,</HI></ITEM>
+<ITEM><PB N="35" REF="31"/>
+þo þe ladeð here lif on werre and an unwinne T,</ITEM>
+<ITEM>þo þet ledden here lif in wele and in senne <HI REND="italic">D,</HI></ITEM>
+<ITEM>þeo þat ledeþ heore lyf vnwreste and eke false were <HI REND="italic">J.</HI></ITEM>
+</LIST></ITEM></LIST></P>
+<P>7.
+<LIST>
+<ITEM><HI REND="italic">a. Die übereinstimmung von L mit JZ in den ebenange∣führten fällen beweist, dass L nicht aus W geflossen ist.</HI></ITEM>
+<ITEM><HI REND="italic">b. W stammt aber auch nicht umgekehrt aus L; denn</HI>
+<LIST>
+<ITEM>α) <HI REND="italic">L bricht mit str.</HI> 130 <HI REND="italic">ab, während W vollständig gewesen sein muss, da E vollständig ist und e wenigstens bis</HI> 176 <HI REND="italic">geht.</HI></ITEM>
+<ITEM>β) <HI REND="italic">L hat im innern lücken, indem</HI> 46, 3. 4; 61; 83, 3. 4; 95, 3. 4 <HI REND="italic">fehlen, während sie in W vorhanden gewesen sein müssen.</HI> <NOTE N="1" PLACE="foot"><HI REND="italic">Dass</HI> 61 <HI REND="italic">sowol in L als in e fehlt, erklärt sich leicht daraus, dass die vorhergehende strophe denselben reim, ja sogar, wenn auch in umgekehrter reihenfolge, dieselben reimwörter hat.</HI></NOTE></ITEM>
+<ITEM>γ) <HI REND="italic">L hat str.</HI> 6 <HI REND="italic">hinter str.</HI> 14, <HI REND="italic">während W die richtige reihenfolge zeigt.</HI></ITEM>
+<ITEM>ð) <HI REND="italic">L hat endlich fehler, wo W zu JZ stimmt; z. b.</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<ITEM>4, 2 bifealt to childhade <HI REND="italic">L,</HI> ys idelnesse ond chilce <HI REND="italic">die übr.</HI></ITEM>
+<ITEM>4, 4 bute god me nu rede <HI REND="italic">L,</HI> bute me god do milce.</ITEM>
+<ITEM>6, 4 ileid <HI REND="italic">L,</HI> ihud.</ITEM>
+<ITEM>33, 4 golde <HI REND="italic">L,</HI> goldes <HI REND="italic">u. s. w.</HI></ITEM>
+</LIST></P>
+<P>8.
+<LIST>
+<ITEM><HI REND="italic">a. E stammt nicht aus e, wie schon daraus folgt, dass E alle strophen bietet, während e mit str.</HI> 176 <HI REND="italic">abbricht und strr.</HI> 61 <HI REND="italic">und</HI> 72 <HI REND="italic">weglässt.</HI></ITEM>
+<ITEM><HI REND="italic">b. Aber ebensowenig ist e aus E geflossen; denn</HI>
+<LIST>
+<ITEM><HI REND="italic">α) str.</HI> 121 <HI REND="italic">steht in E hinter</HI> 122, <HI REND="italic">dagegen in e an richtiger stelle.</HI></ITEM>
+<ITEM><HI REND="italic">β) e nimmt, was den text anbelangt, an vielen fehlern von E nicht teil; z. b.:</HI></ITEM>
+</LIST></ITEM>
+</LIST>
+<LIST>
+<ITEM>14, 2 þe hwyle ȝe ben aliue <HI REND="italic">E (aus</HI> 15, 4), <HI REND="italic">dagegen</HI> þe hwile he mei to heuene <HI REND="italic">e in wesentlicher übereinstimmung mit LJZ.</HI></ITEM>
+<ITEM>14, 3 vyue <HI REND="italic">E,</HI> seouene <HI REND="italic">eLJZ.</HI></ITEM>
+<ITEM>21, 3 suuel and bred <HI REND="italic">E,</HI> and sulf bereð <HI REND="italic">eLJZ.</HI></ITEM>
+<ITEM>21, 8 mid wronge ne mid woȝe <HI REND="italic">E,</HI> mid wrancwise dome <HI REND="italic">eLJT (D fehlt.)</HI></ITEM>
+<ITEM>26, 4 eft heo hit scullen afinden <HI REND="italic">E (aus</HI> 27, 4), þenne deð he his wel healden <HI REND="italic">eLJZ.</HI></ITEM>
+<ITEM>74, 2 blisce <HI REND="italic">fehlt E.</HI></ITEM>
+<ITEM>80, 4 þat sculle beon forlorene <HI REND="italic">E,</HI> and oðer fele sorȝe <HI REND="italic">eLJZ.</HI></ITEM>
+<ITEM><HI REND="italic">u. s. w.</HI></ITEM>
+</LIST></P>
+<P>9. <HI REND="italic">Gegen das dargelegte verwantschaftsverhältnis dürfen zu∣fällige übereinstimmungen sonst nicht näher verwanter hss. nicht</HI>
+<PB N="36" REF="32" MS="y"/>
+<HI REND="italic">geltend gemacht werden. In der regel lassen sich diese leicht erklären. Ein beispiel ist bereits in der anmerkung zu</HI> 7 <HI REND="italic">b β er∣wähnt worden. Andere mögen hier folgen.</HI>
+<LIST>
+<ITEM>5, 1 iqueðe] ispeke <HI REND="italic">J;</HI> ispeken <HI REND="italic">T; vgl.</HI> speke <HI REND="italic">in</HI> 5, 2.</ITEM>
+<ITEM>18, 2 slawen <HI REND="italic">Ae gegenüber</HI> sclakien <HI REND="italic">E,</HI> slakien <HI REND="italic">J,</HI> sleuþen <HI REND="italic">D,</HI> laten <HI REND="italic">T. Hier lag es nahe, das seltene wort</HI> slawen <HI REND="italic">durch</HI> slakien <HI REND="italic">zu glossieren.</HI></ITEM>
+<ITEM>23, 1 draȝhen] draȝen and don <HI REND="italic">J E aus</HI> 21, 5.</ITEM>
+<ITEM>27, 3 we doð] hit yeueþ <HI REND="italic">J,</HI> we ȝieueð <HI REND="italic">T aus</HI> 26, 3.</ITEM>
+<ITEM>78, 4 heȝe] riche <HI REND="italic">JL, ein naheliegendes synonym.</HI></ITEM>
+<ITEM>100, 4 <HI REND="italic">lautete gewiss die ursprüngliche lesart (D hat geändert):</HI> we muȝen us eaðe adrede. <HI REND="italic">Doch EJ lesen</HI> sore <HI REND="italic">für</HI> eaðe; <HI REND="italic">vgl.</HI> 3, 4; 58, 4.</ITEM>
+<ITEM>110, 3 unfreme <HI REND="italic">Te,</HI> unfrome <HI REND="italic">L</HI> (vnwines <HI REND="italic">D)]</HI> hearme <HI REND="italic">EJ aus</HI> 111, 4.</ITEM>
+</LIST></P>
+<P>10. <HI REND="italic">Es ergiebt sich demnach, wenn ich die urhandschrift U nenne, der folgende stammbaum.</HI>
+<FIGURE><FIGDESC>family tree of manuscripts</FIGDESC>
+</FIGURE></P>
+</DIV2>
+<DIV2 N="3" TYPE="commentary">
+<HEAD>III. ALTER DES POEMA MORALE.</HEAD>
+<P><HI REND="italic">R. Morris in der vorrede zu Old EH. I p.</HI> VI <HI REND="italic">anm., ist ge∣neigt, anzunehmen, dass alle aufzeichnungen des Poema morale auf einen älteren, wie er sich ausdrückt, sächsich-englischen text zurückgehen, der möglicherweise noch einmal zum vorschein kom∣men könne.</HI> <NOTE N="1" PLACE="foot">I am inclined to think that all the existing copies of this Ode are taken from an older (Saxon English) version, which may perhaps turn up hereafter.</NOTE> <HI REND="italic">Noch bestimmter äussert er sich in der vorrede zu der zweiten serie der Old EH. p. VII: es seien alle aufzeich∣nungen aus einer version aus dem ende des</HI> 10. <HI REND="italic">oder aus dem an∣fange des</HI> 11. <HI REND="italic">jhds. abgeschrieben.</HI> <NOTE N="2" PLACE="foot">It is probable that all the numerous versions of the Moral Ode are transcribed from some late tenth or early eleventh-century version.</NOTE></P>
+<P><PB N="37" REF="33"/>
+<HI REND="italic">Morris führt zur stütze seiner ansicht nur zweierlei an. Zu∣nächst bemerkt er, dass der reim in so früher zeit, wenn auch selten, so doch nicht ganz unbekannt gewesen sei. Aber ausser diesem rein negativen umstande macht er nur noch das geltend, dass in T einige male der artikel s e vorkomme, dem schreiber dieser hs. aber nach seinem dialecte þ e zukomme, weshalb er s e aus seiner vorlage genommen haben müsse. Aber Morris be∣merkt selbst, Old EH II p. IX, dass s e noch im</HI> 13 <HI REND="italic">jhd. in ken∣tischen denkmälern vorkomme</HI> <NOTE N="1)" PLACE="foot"><HI REND="italic">Ja z e (fem. z y) kommt sogar noch im Ayenbite, also um die mitte des</HI> 14. <HI REND="italic">jhs., vor.</HI></NOTE>: <HI REND="italic">kann also nicht vielleicht die vorlage von T kentisch gewesen sein, wie D es ist?</HI></P>
+<P><HI REND="italic">Morris' behauptung ist aber nicht nur nicht bewiesen, son∣dern lässt sich aus den reimen auf das bündigste widerlegen.</HI></P>
+<P>1. <HI REND="italic">Im reime finden sich wörter, welche die schriftsprache des</HI> 11. <HI REND="italic">jhds. noch nicht kennt.</HI>
+<LIST>
+<ITEM><HI REND="italic">a) altnordische wörter:</HI></ITEM>
+<ITEM><LIST>
+<ITEM>29 laðe: <HI REND="italic">baðe.</HI></ITEM>
+<ITEM>35 (i)wille: <HI REND="italic">ille.</HI></ITEM>
+<ITEM>78 aȝe: <HI REND="italic">laȝe.</HI></ITEM>
+<ITEM>81 longe: <HI REND="italic">wronge.</HI></ITEM>
+<ITEM>102 <HI REND="italic">wronge:</HI> longe.</ITEM>
+<ITEM>163 <HI REND="italic">bene</HI> <NOTE N="2)" PLACE="foot"><HI REND="italic">J hat aus</HI> 164, 2 grene.</NOTE>: wene.</ITEM>
+</LIST></ITEM>
+</LIST></P>
+<P><HI REND="italic">Dass</HI> baðe <HI REND="italic">von altn.</HI> bâðir, ille <HI REND="italic">von altn.</HI> illr, illa, ben <HI REND="italic">von altn.</HI> beinn <HI REND="italic">kommt, ist allgemein zugestanden; dass aber auch</HI> laȝ <HI REND="italic">und</HI> wrong <HI REND="italic">auf altn.</HI> lâgr <HI REND="italic">und</HI> (w)rangr <HI REND="italic">zurückgehen, glaube ich im anzeiger für deutsches altertum, II pp.</HI> 12 und 13 <HI REND="italic">gezeigt zu haben.</HI>
+<LIST>
+<ITEM><HI REND="italic">b) französische wörter:</HI></ITEM>
+<ITEM><LIST>
+<ITEM>154 eihte: bi<HI REND="italic">keihte.</HI></ITEM>
+<ITEM>173, 6. 8 <HI REND="italic">ermine: sabeline.</HI></ITEM>
+</LIST></ITEM>
+<ITEM><HI REND="italic">c) anderweitige wörter:</HI></ITEM>
+<ITEM><LIST>
+<ITEM>4 <HI REND="italic">chilce:</HI> milce.</ITEM>
+<ITEM>53 heorte: <HI REND="italic">smeorte.</HI></ITEM>
+<ITEM>114 blisce: <HI REND="italic">misse.</HI></ITEM>
+</LIST></ITEM></LIST></P>
+<P>2. <HI REND="italic">Der in der sprache des ausgehenden</HI> 12. <HI REND="italic">jhds. genaue reim geht sehr häufig bei der umsetzung in die sprache des</HI> 11. <HI REND="italic">verloren.</HI>
+<LIST>
+<ITEM>5 cûðe: nû þâ.</ITEM>
+<ITEM>7 mislîcàð: beswîceð.</ITEM>
+<ITEM><HI REND="italic">nach</HI> 14 mâge: âgen.</ITEM>
+<ITEM><PB N="38" REF="34"/>
+18 dône: sôna.</ITEM>
+<ITEM>20 dîcas: rîce.</ITEM>
+<ITEM>21 gylde: seldan.</ITEM>
+<ITEM>22 þeófe: leófa.</ITEM>
+<ITEM>23 gelŷfan: scîrgerêfa,</ITEM>
+<ITEM>24 sendan: ende.</ITEM>
+<ITEM>33 þonce: moncusas.</ITEM>
+<ITEM>34 lässe: rihtwîsnes.</ITEM>
+<ITEM>38 wihta: dryhten.</ITEM>
+<ITEM>39 honda: londe.</ITEM>
+<ITEM>40 gesceafta (e): lyfte.</ITEM>
+<ITEM><HI REND="italic">nach</HI> 44 læ̂ddon: ofdræ̂dde.</ITEM>
+<ITEM>46 þæ̂r: wæ̂ron.</ITEM>
+<ITEM>47 hêr: gefêran.</ITEM>
+<ITEM><HI REND="italic">u. s. w.</HI></ITEM>
+</LIST></P>
+<P><HI REND="italic">Im</HI> 10. <HI REND="italic">oder</HI> 11. <HI REND="italic">jhd. kann also das gedicht nicht enstanden sein. Da aber die erhaltenen hss. noch ins</HI> 12. <HI REND="italic">jhd. zurückzu∣gehen scheinen, ausserdem aber, wie oben nachgewiesen worden, zwischen der aller wahrscheinlichkeit nach ältesten hs. L und dem original mehrere zwischenglieder liegen, darf man wol das</HI> Poema morale <HI REND="italic">um</HI> 1170 <HI REND="italic">setzen.</HI></P>
+<CLOSER><DATELINE>Berlin.</DATELINE>
+<SIGNED>JULIUS ZUPITZA</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

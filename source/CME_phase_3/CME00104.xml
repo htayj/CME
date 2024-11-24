@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-16-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; added numerous version DIV3s; added several HEADNOTEs; removed incorrect MILESTONEs from Ps; changed two LGs to Qs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00104">
+<STC T="M">104</STC>
+<BIBNO T="mec">CME00104</BIBNO>
+<VID>CME00104</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="collection of songs">
+<DIV2 N="1" TYPE="song">
+<PB N="86" REF="8"/>
+<HEAD>1.</HEAD>
+<LG>
+<L>I pray ȝow all, wyth o thowȝt, <MILESTONE N="5a."/></L>
+<L>[amend] me and peyre me nowȝt.</L>
+</LG>
+<LG>
+<L>Holy wryt seyȝt—whech no thyng ys sother—</L>
+<L>þat [no man] shuld apeyre other;</L>
+<L>syth, þan, in God Y am þy b[roþir], <MILESTONE N="5"/></L>
+<L>amende me and peyre me nouȝt.</L>
+</LG>
+<LG>
+<L>Th[is] lore (?) in þe Gospel eche man may se:</L>
+<L>ȝyf Y [þi] broþir trespace to the,</L>
+<L>betwene us two vp neme thow me;</L>
+<L>amend. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>ȝyf þou se Y do gretly a-mys,</L>
+<L>and no man wot, but þou, of þis,</L>
+<L>make hit nouȝt ȝit so euyl as yt is;</L>
+<L>amend <HI REND="italic">etc.</HI></L>
+</LG>
+<LG>
+<L>God wyl þou schalt no man defame, <MILESTONE N="15"/></L>
+<L>ne a-peyre no mannys name;</L>
+<L>ryȝt euen as þou degnst (?) haue þe same,</L>
+<L>amend.</L>
+</LG>
+<LG>
+<L>A-peyr þ<HI REND="italic">o</HI>u no man wyth thi word,</L>
+<L>neþ<HI REND="italic">er</HI> in ernest, neþ<HI REND="italic">er</HI> in bord; <MILESTONE N="20"/></L>
+<L>let thi tong, þ<HI REND="italic">a</HI>t is þi sword,</L>
+<L>amend eu<HI REND="italic">er</HI> &amp; peyr nouȝt.</L>
+</LG>
+<LG>
+<L>Now to amend God ȝeue vs grace</L>
+<L>off repentance, &amp; very space</L>
+<L>in h[eu]yn to se his glorious face, <MILESTONE N="25"/></L>
+<L>wher we shull a-mend &amp; peyr nougth.</L>
+</LG>
+<P>Add. Ms. 5665, <HI REND="italic">f.</HI> 31b <HI REND="italic">gives the first three stanzas, without variation. Variants in</HI> Eng. Poet. E. I, <HI REND="italic">f.</HI> 24a: 1, hert &amp; thouȝt; 3, sayth no thyng sother; 5, sythen I a<HI REND="italic">m</HI> in God þi broder; 7, lore <HI REND="italic">omitted;</HI> 9, betwen ȝow to corectyd he be; 13, mak it not so yl; 15-18 <HI REND="italic">and</HI> 19-22 <HI REND="italic">transposed;</HI> 15, lok þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u no ma<HI REND="italic">n</HI> defame; 16, fame; 17, euen <HI REND="italic">omitted,</HI> woldest; 19, þ<HI REND="italic">o</HI>u <HI REND="italic">omitted;</HI> 20, ne in; 25, and i<HI REND="italic">n</HI> hevyn to se hys face; 26, wher al thyng a-mend &amp; peyer novȝth.</P>
+</DIV2>
+<DIV2 N="2" TYPE="song">
+<PB N="87" REF="9"/>
+<HEAD>2.</HEAD>
+<LG>
+<L>Nowel, syng we, boþe al &amp; som, <MILESTONE N="7a."/></L>
+<L>now <HI REND="italic">rex pacificus</HI> ys y-come.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Exortum est</HI> in loue &amp; lysse,</L>
+<L>now Cryst hys g<HI REND="italic">ra</HI>ce he gan vs gysse,</L>
+<L>and w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hys body vs bouȝt to blysse, <MILESTONE N="5"/></L>
+<L>boþe all and sum.</L>
+</LG>
+<LG>
+<L><HI REND="italic">De fructu ventris</HI> of Mary bryȝt</L>
+<L>bothe God an man in here a-lyȝt,</L>
+<L>note of dysese he dyde vs dyȝt,</L>
+<L>bothe alle &amp; su<HI REND="italic">m</HI>me. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">Puer natus</HI> to vs was sent,</L>
+<L>to blysse vs bouȝt, fro bale vs blent,</L>
+<L>and ellys to wo we hadde y-went,</L>
+<L>bothe alle &amp; su<HI REND="italic">m</HI>me.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Lux fulgebit</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> loue &amp; lyȝt, <MILESTONE N="15"/></L>
+<L>in Mary mylde his pynon pyȝt,</L>
+<L>in here toke kynde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> manly myȝt,</L>
+<L>bothe alle &amp; su<HI REND="italic">m</HI>me.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Gloria t</HI>ib<HI REND="italic">i</HI> ay and blysse,</L>
+<L>God vnto his grace he vs wysse <MILESTONE N="20"/></L>
+<L>the rent of heuen þ<HI REND="italic">a</HI>t we not mysse,</L>
+<L>bothe alle &amp; su<HI REND="italic">m</HI>me.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="song">
+<HEAD>3.</HEAD>
+<LG>
+<L>A, man, a-say, a-say, a-say! <MILESTONE N="7b."/></L>
+<L>&amp; axe mercy while þ<HI REND="italic">o</HI>u maye.</L>
+</LG>
+<LG>
+<L>Man haue i<HI REND="italic">n</HI> mynde how here by-fore</L>
+<L>for thy mysdede þ<HI REND="italic">o</HI>u where for-lore,</L>
+<L>but mercy to ȝeue now C<HI REND="italic">ri</HI>ste vs bore. <MILESTONE N="5"/></L>
+<L>A-say! Chorus.</L>
+</LG>
+<LG>
+<L>In synne thy lyfe yf þ<HI REND="italic">o</HI>u haue ladde,</L>
+<L>a-mende hit nowe, be not a-dradde,</L>
+<L>for he his m<HI REND="italic">er</HI>cy forth hath spradde.</L>
+<L>A-say! <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<PB N="88" REF="10"/>
+<L>And, they thy synne be neu<HI REND="italic">er</HI> so ylle,</L>
+<L>for thy synne shalt þ<HI REND="italic">o</HI>u not spylle,</L>
+<L>nowe mercy to aske yf þ<HI REND="italic">o</HI>u wylle.</L>
+<L>A-say!</L>
+</LG>
+<LG>
+<L>God þ<HI REND="italic">a</HI>t deyde vppon the rode, <MILESTONE N="15"/></L>
+<L>for thi mysdede he shadde his blode,</L>
+<L>for his mercy ys ful and gode.</L>
+<L>A-say!</L>
+</LG>
+<LG>
+<L>He þ<HI REND="italic">a</HI>t the so dere hath bouȝt,</L>
+<L>mercy he wolde þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u souȝt; <MILESTONE N="20"/></L>
+<L>ȝyf þ<HI REND="italic">o</HI>u seke he nyeth hit nouȝt.</L>
+<L>A-say!</L>
+</LG>
+<LG>
+<L>Mercy is spredde on the grounde,</L>
+<L>there-to left for a stounde,</L>
+<L>ther-fore þ<HI REND="italic">o</HI>u hit seke til hit be founde. <MILESTONE N="25"/></L>
+<L>A-say!</L>
+</LG>
+<DIV3 TYPE="version">
+<HEADNOTE><P><HI REND="italic">Other versions read as follows:</HI> Ms. Balliol 354, <HI REND="italic">f.</HI> 220b:</P></HEADNOTE>
+<LG>
+<L>Man, a-say, a-say, a-say!</L>
+<L>And aske thou m<HI REND="italic">er</HI>cy whyle thou may.</L>
+</LG>
+<LG>
+<L>Man, haue i<HI REND="italic">n</HI> mynd how here beforn</L>
+<L>for thy mysded thou wast forlorn,</L>
+<L>to geve the m<HI REND="italic">er</HI>cy Cryst was born;</L>
+<L>aske þ<HI REND="italic">o</HI>u m<HI REND="italic">er</HI>cy whill þ<HI REND="italic">o</HI>u may.</L>
+</LG>
+<LG>
+<L>Yff thou thy lyff in syn hath lede,</L>
+<L>amend the now &amp; be not dred,</L>
+<L>for Cryst<HI REND="italic">is</HI> m<HI REND="italic">er</HI>cy furth ys spred,</L>
+<L><HI REND="italic">Ut supra.</HI></L>
+</LG>
+<LG>
+<L>Yff thy syn be never so yll,</L>
+<L>yet for no syn thou shalt spyll,</L>
+<L>amend the now yf þ<HI REND="italic">a</HI>t thou will.</L>
+<L><HI REND="italic">Ut supra.</HI></L>
+</LG>
+<LG>
+<L>He that hath the hether browght,</L>
+<L>He wold that thou m<HI REND="italic">er</HI>cy sowght;</L>
+<L>aske ytt &amp; he denyth ytt nowght.</L>
+<L><HI REND="italic">Ut supra.</HI></L>
+<L><PB N="89" REF="11"/>
+He that dyed on the rode</L>
+<L>&amp; shed for the his preci<HI REND="italic">us</HI> blod,</L>
+<L>He ys both m<HI REND="italic">er</HI>cyfull &amp; gud.</L>
+<L><HI REND="italic">Ut supra.</HI></L>
+</LG>
+<LG>
+<L>M<HI REND="italic">er</HI>cy ys spred on the grownd,</L>
+<L>ther for to dwell a lytill stownd;</L>
+<L>lett vs seke till yt be fownd.</L>
+<L><HI REND="italic">Ut supra.</HI></L>
+</LG>
+<LG>
+<L>Ytt for to fynd God geve vs g<HI REND="italic">ra</HI>ce,</L>
+<L>in this world while we haue space,</L>
+<L>&amp; after i<HI REND="italic">n</HI> hevyn to haue place.</L>
+<L><HI REND="italic">Ut supra.</HI></L>
+</LG>
+<TRAILER>Explicit.</TRAILER>
+</DIV3>
+<DIV3 TYPE="version">
+<HEADNOTE><P>Add. Ms. 5665, <HI REND="italic">f.</HI> 42b:</P></HEADNOTE>
+<LG>
+<L>Man asay! and axe mercy while þ<HI REND="italic">o</HI>u may.</L>
+</LG>
+<LG>
+<L>In synne yf þ<HI REND="italic">o</HI>u thi lyffe haue ledde,</L>
+<L>ame<HI REND="italic">n</HI>de the, man, &amp; be not adrad;</L>
+<L>God for the his mercy hathe sprade.</L>
+<L>Asay, asay!</L>
+</LG>
+<LG>
+<L>For thof thy synne be neuer<HI REND="italic">e</HI> so ille,</L>
+<L>amende thy-sylue, man, yf that þ<HI REND="italic">o</HI>u wille;</L>
+<L>God will not that þ<HI REND="italic">o</HI>u spylle.</L>
+<L>Asay, asay!</L>
+</LG>
+<LG>
+<L>For he that the so der<HI REND="italic">e</HI> hathe boȝste,</L>
+<L>mercy he wolde that þ<HI REND="italic">o</HI>u soȝste;</L>
+<L>iff þ<HI REND="italic">o</HI>u h<HI REND="italic">i</HI>t axske he nayes h<HI REND="italic">i</HI>t noȝste.</L>
+<L>Asay, asay!</L>
+</LG>
+<LG>
+<L>Thy lyffe vn erthe her<HI REND="italic">e</HI> thus þ<HI REND="italic">o</HI>u spende</L>
+<L>praying to Ih<HI REND="italic">es</HI>u þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u notte shende;</L>
+<L>then ioy &amp; blisse shall be thyn ende.</L>
+<L>Asay, asay!</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="4" TYPE="song">
+<HEAD>4.</HEAD>
+<LG>
+<L>Go day, go day, <MILESTONE N="8a."/></L>
+<L>my lord syre C<HI REND="italic">r</HI>iste-masse, go day.</L>
+</LG>
+<LG>
+<L>Go day, Syr<HI REND="italic">e</HI> C<HI REND="italic">r</HI>iste-masse, o<HI REND="italic">ur</HI> kyng,</L>
+<L>for eu<HI REND="italic">er</HI>y ma<HI REND="italic">n</HI> boþ olde &amp; ȝynge</L>
+<L>ys glad &amp; blithe of ȝo<HI REND="italic">ur</HI> commynge. <MILESTONE N="5"/></L>
+<L>Go day. Chorus.</L>
+</LG>
+<LG>
+<PB N="90" REF="12"/>
+<L>God-ys sone, so moche of myȝt,</L>
+<L>fram heuen to erthe dovn is lyȝt,</L>
+<L>and borne ys of a mayde so bryȝt.</L>
+<L>Good day. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>Heuen &amp; erthe &amp; also helle,</L>
+<L>and alle þ<HI REND="italic">a</HI>t eu<HI REND="italic">er</HI> in hem dwelle,</L>
+<L>of ȝo<HI REND="italic">ur</HI> comynge þey beth full snelle.</L>
+<L>Good day.</L>
+</LG>
+<LG>
+<L>Of ȝo<HI REND="italic">ur</HI> comynge this clerkys fynde: <MILESTONE N="15"/></L>
+<L>ȝe come to saue al man-kynde,</L>
+<L>and of here balys hem vnbynde.</L>
+<L>Good day.</L>
+</LG>
+<LG>
+<L>Alle man<HI REND="italic">er</HI> of m<HI REND="italic">er</HI>thes we wole make</L>
+<L>and solas to our<HI REND="italic">e</HI> hertys take, <MILESTONE N="20"/></L>
+<L>my semely lorde, for ȝour<HI REND="italic">e</HI> sake.</L>
+<L>Good day.</L>
+</LG>
+<P><HI REND="italic">Published in</HI> Early English Lyrics CXXXV. <HI REND="italic">Compare the song</HI> Fare wele aduent, Ms. Ee. 1. 2, <HI REND="italic">f.</HI> 58b (Herrig's Archiv 89. 238).</P>
+</DIV2>
+<DIV2 N="5" TYPE="song">
+<HEAD>5.</HEAD>
+<LG>
+<L>Of a rose synge we, <MILESTONE N="9b."/></L>
+<L><HI REND="italic">mist</HI>er<HI REND="italic">iu</HI>m <HI REND="italic">mirabile.</HI></L>
+</LG>
+<LG>
+<L>Thys rose is railed on a rys,</L>
+<L>he hath brouȝt þe p<HI REND="italic">r</HI>ince of prys,</L>
+<L>and in this tyme soth hit ys</L>
+<L><HI REND="italic">viri sine semine.</HI></L>
+</LG>
+<LG>
+<L>This rose is reed of colo<HI REND="italic">ur</HI> bryȝt</L>
+<L>throw whom oure ioye gan a-lyȝt</L>
+<L>vppon a C<HI REND="italic">r</HI>istys-masse nyȝt,</L>
+<L><HI REND="italic">claro Dauid g</HI>er<HI REND="italic">mine.</HI></L>
+</LG>
+<LG>
+<L>Of this rose was Cryst y-bore</L>
+<L>to saue man-kynde þ<HI REND="italic">a</HI>t was for-lore</L>
+<L>and yl alle from synnes sore</L>
+<L><HI REND="italic">P</HI>ro<HI REND="italic">phetarum carmine.</HI></L>
+</LG>
+<LG>
+<L>This rose, of flourys she is flo<HI REND="italic">ur,</HI></L>
+<L>she ne wole fade for no shour<HI REND="italic">e;</HI></L>
+<L>to synful men she sent soco<HI REND="italic">ur</HI></L>
+<L><HI REND="italic">mira plenitud</HI>in<HI REND="italic">e.</HI></L>
+</LG>
+<LG>
+<PB N="91" REF="13"/>
+<L>This rose is so faire of hywe</L>
+<L>in maide Mary, þ<HI REND="italic">a</HI>t is so trywe,</L>
+<L>y-borne was lorde of vertue,</L>
+<L><HI REND="italic">saluator sine c</HI>ri<HI REND="italic">mine.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="6" TYPE="song">
+<HEAD>6.</HEAD>
+<LG>
+<L>Alleluya. <MILESTONE N="10a."/></L>
+</LG>
+<LG>
+<L>Now wel may we m<HI REND="italic">er</HI>this make,</L>
+<L>for vs Ih<HI REND="italic">es</HI>u ma<HI REND="italic">n</HI>-hode hath take</L>
+<L>only for o<HI REND="italic">ur</HI> sy<HI REND="italic">n</HI>nes sake.</L>
+<L>Alleluya. Chorus. <MILESTONE N="5"/></L>
+</LG>
+<LG>
+<L>A kynge of kynges now forth is brouȝt</L>
+<L>of a maide þ<HI REND="italic">a</HI>t synned nouȝt,</L>
+<L>nother in dede, nother in thouȝt,</L>
+<L><HI REND="italic">res miranda.</HI></L>
+</LG>
+<LG>
+<L>An angel of cunsel this day is borne <MILESTONE N="10"/></L>
+<L>of a maide y-seide be-forne,</L>
+<L>for to saue þ<HI REND="italic">a</HI>t was for-lorne,</L>
+<L><HI REND="italic">sol de stella.</HI></L>
+</LG>
+<LG>
+<L>That su<HI REND="italic">n</HI>ne hath neu<HI REND="italic">er</HI> dovn goynge,</L>
+<L>nother his lyȝt no tyme lesynge; <MILESTONE N="15"/></L>
+<L>the st<HI REND="italic">er</HI>re is eu<HI REND="italic">er</HI>-more shynynge</L>
+<L><HI REND="italic">semper clara.</HI></L>
+</LG>
+<LG>
+<L>Ryȝt as þe st<HI REND="italic">er</HI>r<HI REND="italic">e</HI> bryngeþ forth a bem,</L>
+<L>of whom þ<HI REND="italic">er</HI> comeþ a m<HI REND="italic">er</HI>velus strem,</L>
+<L>so childede þe maide w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-oute wem <MILESTONE N="20"/></L>
+<L><HI REND="italic">pari forma.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="7" TYPE="song">
+<HEAD>7.</HEAD>
+<LG>
+<L>Synge we to þis m<HI REND="italic">er</HI>y cumpane <MILESTONE N="10b."/></L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<L>Holy maide blessyd þ<HI REND="italic">o</HI>u be,</L>
+<L>Godys sone is born of þe.</L>
+<L>þe fader of heue<HI REND="italic">n</HI> þus lyue we, <MILESTONE N="5"/></L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<L>Thow art emp<HI REND="italic">er</HI>esse of heuen fre,</L>
+<L>now art þ<HI REND="italic">o</HI>u moder in mageste,</L>
+<L>y-knytte in the blessed t<HI REND="italic">ri</HI>nite,</L>
+<L><HI REND="italic">regina celi letare.</HI> <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<PB N="92" REF="14"/>
+<L>Hayl! wyf, hayl! maide bryȝt of ble,</L>
+<L>hayl! douȝt<HI REND="italic">er,</HI> hayl! sust<HI REND="italic">er</HI> ful of pite,</L>
+<L>hayl! cosyn to the pe<HI REND="italic">r</HI>sones thre,</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<L>Lo, this curteys kynge of degre <MILESTONE N="15"/></L>
+<L>wole be thy sone w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> solempnite</L>
+<L>mylde Mary this ys thy fee:</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<L>Ther-fore knele we on our<HI REND="italic">e</HI> kne,</L>
+<L>thy blysful berthe now worshype we, <MILESTONE N="20"/></L>
+<L>with this songe of melode:</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<P><HI REND="italic">Variants:</HI> Ms. Sloane 2593, <HI REND="italic">f.</HI> 25a: 1, synge we, sy<HI REND="italic">n</HI>ge we; 3, maydy<HI REND="italic">n;</HI> 5, þe fad<HI REND="italic">er</HI> of heuene worchepe we; 7-10 <HI REND="italic">and</HI> 11-14 <HI REND="italic">transposed;</HI> 7, so fre; 8, worþi maydy<HI REND="italic">n</HI> in mageste; 9, now worchepe we þe Trenyte; 11, maydyn, heyl, brytȝ; 12, heyl, ful; <HI REND="italic">after the third stanza, the poem reads as follows:</HI></P>
+<DIV3 TYPE="version">
+<LG>
+<L>Lady so louely, so goodly to see,</L>
+<L>so buxsu<HI REND="italic">m</HI> in þi body to be,</L>
+<L>þ<HI REND="italic">o</HI>u art his mod<HI REND="italic">er</HI> for humylite,</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<L>þese be<HI REND="italic">n</HI> curteys kyng<HI REND="italic">es</HI> of solu<HI REND="italic">n</HI>te;</L>
+<L>þey worchepyd þi sone w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> vmylite;</L>
+<L>mylde Mary, þus rede we.</L>
+<L><HI REND="italic">Regina, etc.</HI></L>
+</LG>
+<LG>
+<L>So g<HI REND="italic">r</HI>acius, so p<HI REND="italic">re</HI>cyows in ryalte,</L>
+<L>þus jentyl, þus good, þus finde we</L>
+<L>þ<HI REND="italic">er</HI> is no<HI REND="italic">n</HI> swych in no<HI REND="italic">n</HI> cu<HI REND="italic">n</HI>tre.</L>
+<L><HI REND="italic">Regina, etc.</HI></L>
+</LG>
+<LG>
+<L>&amp; þ<HI REND="italic">er</HI>for<HI REND="italic">e</HI> knel we dou<HI REND="italic">n</HI> on o<HI REND="italic">u</HI>r kne,</L>
+<L>þis blyssid berþe worchepe we.</L>
+<L>þis is a song of humylyte,</L>
+<L><HI REND="italic">regina, etc.</HI></L>
+</LG>
+</DIV3>
+<DIV3 TYPE="version">
+<HEADNOTE><P><HI REND="italic">The version in</HI> Add. Ms. 5665, <HI REND="italic">f.</HI> 4b, <HI REND="italic">reads as follows:</HI></P></HEADNOTE>
+<LG>
+<L>Syng we to this mery companey</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<L>Benyng lady, blessed mote thow be,</L>
+<L>that barest God in virginite;</L>
+<L>therfor sy<HI REND="italic">n</HI>ng we to the,</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<PB N="93" REF="15"/>
+<L>O quene of heuen, þ<HI REND="italic">a</HI>t syttist in se,</L>
+<L>o comfort of all captiuite,</L>
+<L>ryght causeth vs all to syng to the,</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+<LG>
+<L>O blessed branche of humilite,</L>
+<L>O causer of all felicete,</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ioy &amp; gladdenesse syng we to the,</L>
+<L><HI REND="italic">regina celi letare.</HI></L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="8" TYPE="song">
+<HEAD>8.</HEAD>
+<LG>
+<L><HI REND="italic">Alma redemptoris mater.</HI> <MILESTONE N="13b."/></L>
+</LG>
+<LG>
+<L>[As] Y lay vpon a nyȝt,</L>
+<L>my-þouȝt Y say a semly syȝt</L>
+<L>þ<HI REND="italic">a</HI>t callid was Mary briȝt,</L>
+<L><HI REND="italic">redemptoris mater.</HI> <MILESTONE N="5"/></L>
+</LG>
+<LG>
+<L>Ther come Gabriel with lyȝt,</L>
+<L>and saide, 'Haile! þ<HI REND="italic">o</HI>u swete wyȝt,</L>
+<L>to be clepyd þ<HI REND="italic">o</HI>u art a-dyȝt</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>Ther she conceyued God almyȝt, <MILESTONE N="10"/></L>
+<L>þat was in stalle w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> her<HI REND="italic">e</HI> al nyȝt;</L>
+<L>and þere me knewe what he hyȝt</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>Whan Ih<HI REND="italic">es</HI>u was on þe rode y-pyȝt,</L>
+<L>Mary was sory of þat syȝt, <MILESTONE N="15"/></L>
+<L>tyl þ<HI REND="italic">a</HI>t she say hy<HI REND="italic">m</HI> ryse vpryȝt,</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>And aft<HI REND="italic">er</HI> to heue<HI REND="italic">n</HI> he toke his flyȝt;</L>
+<L>ther he is nowe in blysse bryȝt,</L>
+<L>and with hym þat swete wyȝt— <MILESTONE N="20"/></L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<DIV3 TYPE="version">
+<HEADNOTE><P><HI REND="italic">Other versions read as follows:</HI> Balliol 354, <HI REND="italic">f.</HI> 222a:</P></HEADNOTE>
+<LG>
+<L>Now syng we all in fere,</L>
+<L><HI REND="italic">alma redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>As I me lay on a nyght,</L>
+<L>me-thowght I sawe a se<HI REND="italic">m</HI>ly wyght,</L>
+<L>that clepid she was ryght</L>
+<L><HI REND="italic">Alma redemptoris mater.</HI></L>
+</LG>
+<LG>
+<PB N="94" REF="16"/>
+<L>To her co<HI REND="italic">m</HI> an angell w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret lyght</L>
+<L>and sayd, 'Hayle be þou blessid wyght,</L>
+<L>to be cleped thou art right</L>
+<L><HI REND="italic">[alma redemtoris mater.</HI>']</L>
+</LG>
+<LG>
+<L>At that word the maydyn bryght</L>
+<L>a-no<HI REND="italic">n</HI> co<HI REND="italic">n</HI>ceyvyd God Almyght.</L>
+<L>Then knew Mary what she hyght:</L>
+<L><HI REND="italic">[alma redemptoris mater.]</HI></L>
+</LG>
+<LG>
+<L>Whan Ih<HI REND="italic">es</HI>u on the rode was dyght,</L>
+<L>Mary was sorofull of that syght</L>
+<L>tyll aft<HI REND="italic">er</HI> she sawe hy<HI REND="italic">m</HI> ryse vp-right,</L>
+<L><HI REND="italic">alma redemptoris mater.</HI></L>
+</LG>
+</DIV3>
+<DIV3 TYPE="version">
+<HEADNOTE><P>Sloane 2593, <HI REND="italic">f.</HI> 30b:</P></HEADNOTE>
+<LG>
+<L><HI REND="italic">Alma redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>As I lay upo<HI REND="italic">n</HI> a nyȝt,</L>
+<L>my þowt was on a mayde bryȝt,</L>
+<L>þ<HI REND="italic">a</HI>t men cally<HI REND="italic">n</HI> Mary of myȝt,</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>To here cam Gabriel so bryȝt</L>
+<L>&amp; seyde, 'Heyl, Mari, ful of myȝt,</L>
+<L>to be cald þu art a-dyȝt</L>
+<L><HI REND="italic">redemp[toris mater.]</HI></L>
+</LG>
+<LG>
+<L>Aft<HI REND="italic">er</HI> þ<HI REND="italic">a</HI>t word þ<HI REND="italic">a</HI>t mayde bryȝt</L>
+<L>a-no<HI REND="italic">n</HI> co<HI REND="italic">n</HI>seyuyd God of myȝt,</L>
+<L>&amp; th<HI REND="italic">er</HI>-by wyst me<HI REND="italic">n</HI> th<HI REND="italic">a</HI>t che hyȝt</L>
+<L><HI REND="italic">r[edemptoris mater.]</HI></L>
+</LG>
+<LG>
+<L>Ryȝt as þe sun<HI REND="italic">n</HI>e schyn<HI REND="italic">i</HI>t in glas,</L>
+<L>so Ih<HI REND="italic">es</HI>u i<HI REND="italic">n</HI> his mod<HI REND="italic">er</HI> was,</L>
+<L>&amp; þerby wyt me<HI REND="italic">n</HI> þ<HI REND="italic">a</HI>t che was</L>
+<L><HI REND="italic">r[edemptoris mater.]</HI></L>
+</LG>
+<LG>
+<L>Now is born þ<HI REND="italic">a</HI>t babe of blys,</L>
+<L>&amp; qwe<HI REND="italic">n</HI> of heuene his mod<HI REND="italic">er</HI> is,</L>
+<L>&amp; þ<HI REND="italic">er</HI>fore þink me[n] þ<HI REND="italic">a</HI>t che is</L>
+<L><HI REND="italic">r[edemptoris mater.]</HI></L>
+</LG>
+<LG>
+<L>Aft<HI REND="italic">er</HI> to heuene he tok his flyȝt,</L>
+<L>&amp; þ<HI REND="italic">er</HI> he sit w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his fad<HI REND="italic">er</HI> of myȝt;</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hy<HI REND="italic">m</HI> is crownyd þ<HI REND="italic">a</HI>t lady bryȝt,</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+</DIV3>
+<DIV3 TYPE="version">
+<PB N="95" REF="17"/>
+<HEADNOTE><P>Trinity College, Cambridge, O. 3. 58:</P></HEADNOTE>
+<LG>
+<L><HI REND="italic">Alma redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>As I lay vp-on a nyth,</L>
+<L>my thowth was on a berd so brith</L>
+<L>that men clepyn Marye ful of myth,</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>[T]o here cam Gabryel wyth lyth</L>
+<L>and seyd, 'Heyl be thou, blysful wyth,</L>
+<L>to ben clepyd now art thou dyth,</L>
+<L><HI REND="italic">redemptoris mater.</HI>'</L>
+</LG>
+<LG>
+<L>At that wurd that lady byrth</L>
+<L>anon conseyuyd God, ful of myth;</L>
+<L>than men wyst weel that sche hyth</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>[Q]wan Ihesu on the rode was pyth,</L>
+<L>Mary was doolful of that syth</L>
+<L>til sche sey hym ryse vp-rith,</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+<LG>
+<L>Ihesu, that syttyst in heuene lyth,</L>
+<L>graunt vs to comyn be-forn thi sith,</L>
+<L>wyth that berde that is so brith,</L>
+<L><HI REND="italic">redemptoris mater.</HI></L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="9" TYPE="song">
+<HEAD>9.</HEAD>
+<LG>
+<L><HI REND="italic">Ave domina celi regina.</HI> <MILESTONE N="14a."/></L>
+</LG>
+<LG>
+<L>Worshyp be þe birth of þe,</L>
+<L><HI REND="italic">qu</HI>em <HI REND="italic">portasti Maria,</HI></L>
+<L>both i<HI REND="italic">n</HI> bour<HI REND="italic">e</HI> &amp; in cite;</L>
+<L><HI REND="italic">ave domina.</HI> <MILESTONE N="5"/></L>
+</LG>
+<LG>
+<L>For thorwe oure synnes we were for-lorne</L>
+<L><HI REND="italic">infernali pena,</HI></L>
+<L>but nowe shal vs save þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u hast borne;</L>
+<L><HI REND="italic">aue domina.</HI></L>
+</LG>
+<LG>
+<L>Al-myȝty Godys wyl hit was, <MILESTONE N="10"/></L>
+<L><HI REND="italic">felix fecundata,</HI></L>
+<L>þat vppon the shal lyȝt his grace;</L>
+<L><HI REND="italic">aue domina.</HI></L>
+</LG>
+<LG>
+<PB N="96" REF="18"/>
+<L>Y-blessyd be þ<HI REND="italic">o</HI>u, maide mylde,</L>
+<L><HI REND="italic">que semp</HI>er <HI REND="italic">es amica</HI> <MILESTONE N="15"/></L>
+<L>by-twene mankynd &amp; þe chylde;</L>
+<L><HI REND="italic">aue domina.</HI></L>
+</LG>
+<LG>
+<L>Lady, quene of paradyse,</L>
+<L><HI REND="italic">mater Dei electa,</HI></L>
+<L>þ<HI REND="italic">o</HI>u bare oure Lorde þ<HI REND="italic">a</HI>t hye instyse; <MILESTONE N="20"/></L>
+<L><HI REND="italic">aue domina.</HI></L>
+</LG>
+<LG>
+<L>With merthe &amp; alle solempnite</L>
+<L><HI REND="italic">nato canunt omn</HI>ia:</L>
+<L>þ<HI REND="italic">o</HI>u berde of ble, wel-come þ<HI REND="italic">o</HI>u be;</L>
+<L><HI REND="italic">aue domina.</HI> <MILESTONE N="25"/></L>
+</LG>
+</DIV2>
+<DIV2 N="10" TYPE="song">
+<HEAD>10.</HEAD>
+<LG>
+<L>Nowel, nowel, nowel, nowel, nowel, nowel. <MILESTONE N="14b."/></L>
+</LG>
+<LG>
+<L>[O]wt of ȝo<HI REND="italic">ur</HI> slepe a-ryse &amp; wake,</L>
+<L>for God manky<HI REND="italic">n</HI>d nowe hath ytake</L>
+<L>al of a maide w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-out eny make;</L>
+<L>of al wome<HI REND="italic">n</HI> she bereth the belle. <MILESTONE N="5"/></L>
+<L>Nowel.</L>
+</LG>
+<LG>
+<L>And, þorwe a maide fair<HI REND="italic">e</HI> &amp; wys,</L>
+<L>now man is made of ful g<HI REND="italic">r</HI>ete pris;</L>
+<L>now angelys knelen to ma<HI REND="italic">n</HI>nys s<HI REND="italic">er</HI>uys;</L>
+<L>&amp; at þis tyme al þis by-fel. <MILESTONE N="10"/></L>
+<L>[Nowel.]</L>
+</LG>
+<LG>
+<L>Now man is briȝt<HI REND="italic">er</HI> þan þe sonne;</L>
+<L>now man in heuen an hye shal w[onne;]</L>
+<L>blessyd be God þis game is be-go<HI REND="italic">n</HI>ne;</L>
+<L>&amp; his mod<HI REND="italic">er</HI> emp<HI REND="italic">er</HI>esse of helle. <MILESTONE N="15"/></L>
+<L>[Nowel.]</L>
+</LG>
+<LG>
+<L>That eu<HI REND="italic">er</HI> was thralle, now ys he fre;</L>
+<L>þ<HI REND="italic">a</HI>t eu<HI REND="italic">er</HI> was smalle, now grete is she;</L>
+<L>now shal God deme bothe the &amp; me</L>
+<L>vn-to his blysse, yf we do wel. <MILESTONE N="20"/></L>
+<L>Nowel.</L>
+</LG>
+<LG>
+<L>Now man may to heuen wende;</L>
+<L>now heuen &amp; erthe to hy<HI REND="italic">m</HI> they bende;</L>
+<L><PB N="97" REF="19"/>
+he þ<HI REND="italic">a</HI>t was foo, now is our<HI REND="italic">e</HI> frende;</L>
+<L>this is no nay þ<HI REND="italic">a</HI>t Y ȝowe telle. <MILESTONE N="25"/></L>
+<L>Nowel.</L>
+</LG>
+<LG>
+<L>Now, blessyd brother, g<HI REND="italic">ra</HI>unte vs grace</L>
+<L>a domes day to se thy face,</L>
+<L>and in thy courte to haue a place,</L>
+<L>þat we mow there synge nowel, <MILESTONE N="30"/></L>
+<L>nowel.</L>
+</LG>
+<P><HI REND="italic">Published in</HI> Early English Lyrics LIX. <HI REND="italic">Compare</HI> Ms. Ee. 1. 12. <HI REND="italic">f.</HI> 39b (Archiv 82. 206):
+<Q>
+<L>The sonne of god man bicome is</L>
+<L>Of virgyn Marie, quene of blis.</L>
+</Q></P>
+</DIV2>
+<DIV2 N="11" TYPE="song">
+<HEAD>11.</HEAD>
+<LG>
+<L>Make we ioye nowe in thys fest <MILESTONE N="15a."/></L>
+<L><HI REND="italic">in quo Chr</HI>is<HI REND="italic">t</HI>us <HI REND="italic">natus est.</HI> Eya!</L>
+</LG>
+<LG>
+<L><HI REND="italic">A patre vni-genitus</HI></L>
+<L>þorw a maiden is come to vs.</L>
+<L>Syng we to here and sey 'wel-come', <MILESTONE N="5"/></L>
+<L><HI REND="italic">veni rede</HI>m<HI REND="italic">ptor gentium.</HI></L>
+</LG>
+<LG>
+<L><HI REND="italic">Agnoscat omn</HI>e <HI REND="italic">seculu</HI>m:</L>
+<L>a bryȝt <HI REND="italic">s</HI>terre thre kynges come</L>
+<L>for to seke with here presens</L>
+<L><HI REND="italic">verbum sup</HI>er<HI REND="italic">num.</HI> pro<HI REND="italic">diens.</HI> <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L><HI REND="italic">A solis ortus cardine</HI></L>
+<L>so myȝty a lord was none as he;</L>
+<L>for to oure kynde he hath ȝeue gryth,</L>
+<L><HI REND="italic">Ada</HI>m <HI REND="italic">parens quod polluit.</HI></L>
+</LG>
+<LG>
+<L><HI REND="italic">Maria ventre concepit;</HI> <MILESTONE N="15"/></L>
+<L>the Holy Gost was ay here with;</L>
+<L>in Bedlem y-borne he ys:</L>
+<L><HI REND="italic">consors pat</HI>er<HI REND="italic">ni luminis.</HI></L>
+</LG>
+<LG>
+<L><HI REND="italic">O lux beata trinitas,</HI></L>
+<L>he lay by-twene an oxe &amp; asse; <MILESTONE N="20"/></L>
+<L>þ<HI REND="italic">o</HI>u moder &amp; maiden fre</L>
+<L><HI REND="italic">gloria tibi D</HI>omi<HI REND="italic">ne.</HI></L>
+</LG>
+<DIV3 TYPE="version">
+<PB N="98" REF="20"/>
+<HEADNOTE><P><HI REND="italic">Other versions read as follows:</HI> Ms. Eng. Poet. E. 1, <HI REND="italic">f.</HI> 32b:</P></HEADNOTE>
+<LG>
+<L>Make we jow in þis fest</L>
+<L><HI REND="italic">i</HI>n <HI REND="italic">quo</HI> Ch<HI REND="italic">r</HI>istus <HI REND="italic">nat</HI>us <HI REND="italic">est.</HI></L>
+</LG>
+<LG>
+<L>A patre unigenit<HI REND="italic">us</HI></L>
+<L>to a maydyn is cu<HI REND="italic">m</HI> to vs.</L>
+<L>Syng we of hy<HI REND="italic">m</HI> &amp; sey wolcu<HI REND="italic">m,</HI></L>
+<L><HI REND="italic">veni redemptor ge</HI>n<HI REND="italic">tiu</HI>m.</L>
+</LG>
+<LG>
+<L><HI REND="italic">Agnoscat o</HI>m<HI REND="italic">ne s</HI>e<HI REND="italic">c</HI>u<HI REND="italic">l</HI>u<HI REND="italic">m:</HI></L>
+<L>a bryth stare kyngg<HI REND="italic">es</HI> mad cu<HI REND="italic">m,</HI></L>
+<L>for to take w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> her p<HI REND="italic">re</HI>sens</L>
+<L><HI REND="italic">v</HI>er<HI REND="italic">bu</HI>m <HI REND="italic">sup</HI>er<HI REND="italic">nu</HI>m <HI REND="italic">p</HI>ro<HI REND="italic">diens.</HI></L>
+</LG>
+<LG>
+<L><HI REND="italic">A sol</HI>is <HI REND="italic">ort</HI>us <HI REND="italic">cardine</HI></L>
+<L>so myty a Lord is no<HI REND="italic">n</HI> as he,</L>
+<L>and to owr Lord he hath greth,</L>
+<L><HI REND="italic">[Adam parens quod polluit.]</HI></L>
+</LG>
+<LG>
+<L><HI REND="italic">Mary a ve</HI>n<HI REND="italic">t</HI>re <HI REND="italic">co</HI>n<HI REND="italic">cepit,</HI></L>
+<L>þe Holy Gost was ay hyr w<HI REND="italic">i</HI>t<HI REND="italic">h;</HI></L>
+<L>of hyr in Bedle<HI REND="italic">m</HI> now born he is,</L>
+<L><HI REND="italic">co</HI>n<HI REND="italic">sors pat</HI>er<HI REND="italic">ni luminis.</HI></L>
+</LG>
+<LG>
+<L><HI REND="italic">Alme beata trinitas,</HI></L>
+<L>þ<HI REND="italic">a</HI>t lay be-twyn an ox an a as,</L>
+<L>by hys modyr maydy<HI REND="italic">n</HI> fre;</L>
+<L><HI REND="italic">gloria t</HI>i<HI REND="italic">bi D</HI>omi<HI REND="italic">ne.</HI></L>
+</LG>
+</DIV3>
+<DIV3 TYPE="version">
+<HEADNOTE><P>Add. Ms. 5665, <HI REND="italic">f.</HI> 28b:</P></HEADNOTE>
+<LG>
+<L>Now make we ioye in this feste</L>
+<L><HI REND="italic">in quo Chr</HI>is<HI REND="italic">tus natus est.</HI></L>
+</LG>
+<LG>
+<L>A patre vnigenitus</L>
+<L>III ȝong maydens cam till vs.</L>
+<L>Syng we to hym &amp; say well come,</L>
+<L><HI REND="italic">veni redemptor gentium.</HI></L>
+</LG>
+<LG>
+<L><HI REND="italic">Agnoscat omne seculum:</HI></L>
+<L>a bryȝth sterre III kyng<HI REND="italic">es</HI> made come,</L>
+<L><HI REND="italic">A sol</HI>is <HI REND="italic">ort</HI>us <HI REND="italic">cardine</HI></L>
+<L>so myȝthi a lord ys non as he;</L>
+<L><HI REND="italic">veni redemptor gentium omniu</HI>m.</L>
+</LG>
+<P><HI REND="italic">Compare the song in</HI> Ee. 1. 12 (Archiv 89. 204):
+<Q>
+<L>Be we mery now in this fest,</L>
+<L><HI REND="italic">in quo saluato</HI>r <HI REND="italic">natus est.</HI></L>
+</Q></P>
+</DIV3>
+</DIV2>
+<DIV2 N="12" TYPE="song">
+<PB N="99" REF="21"/>
+<HEAD>12.</HEAD>
+<LG>
+<L>What tydy<HI REND="italic">n</HI>ges bry<HI REND="italic">n</HI>gest þ<HI REND="italic">o</HI>u, messang<HI REND="italic">er,</HI> <MILESTONE N="15b."/></L>
+<L>of C<HI REND="italic">r</HI>ist<HI REND="italic">es</HI> birth þis ȝer<HI REND="italic">es</HI> day?</L>
+</LG>
+<LG>
+<L>A babe ys born of hye nature,</L>
+<L>is p<HI REND="italic">r</HI>ins of pes &amp; eu<HI REND="italic">er</HI> shal be;</L>
+<L>of heue<HI REND="italic">n</HI> &amp; erþe he hath þe cure; <MILESTONE N="5"/></L>
+<L>his lordship is eternite.</L>
+<L>Such wo<HI REND="italic">n</HI>der tydy<HI REND="italic">n</HI>gys ȝe mow her<HI REND="italic">e.</HI></L>
+</LG>
+<LG>
+<L>[What tydy<HI REND="italic">n</HI>ges bry<HI REND="italic">n</HI>gest þou, messang<HI REND="italic">er,</HI></L>
+<L>of C<HI REND="italic">r</HI>ist<HI REND="italic">es</HI> birth þis ȝer<HI REND="italic">es</HI> day?]</L>
+<L>þ<HI REND="italic">a</HI>t man is made now Godys fere, <MILESTONE N="10"/></L>
+<L>wha<HI REND="italic">n</HI> synne hadde made but fendes praye.</L>
+</LG>
+<LG>
+<L>A semely syȝt hit is to se: <MILESTONE N="16a."/></L>
+<L>þe berde, þ<HI REND="italic">a</HI>t hath this babe y-borne,</L>
+<L>conceyued a lord of hye degre,</L>
+<L>&amp; maiden as heo was by-forne. <MILESTONE N="15"/></L>
+<L>[Such wo<HI REND="italic">n</HI>der tydy<HI REND="italic">n</HI>gys ȝe mow her<HI REND="italic">e.</HI></L>
+</LG>
+<LG>
+<L>What tydy<HI REND="italic">n</HI>ges bry<HI REND="italic">n</HI>gest þou, messang<HI REND="italic">er,</HI></L>
+<L>of C<HI REND="italic">r</HI>ist<HI REND="italic">es</HI> birth þis ȝer<HI REND="italic">es</HI> day?]</L>
+<L>þ<HI REND="italic">a</HI>t maide &amp; moder is one y-fere,</L>
+<L>and alwey lady of hye aray. <MILESTONE N="20"/></L>
+</LG>
+<LG>
+<L>This maide began to gretyn her<HI REND="italic">e</HI> childe</L>
+<L>&amp; saide, 'Haile sone! haile fader dere!'</L>
+<L>He saide, 'Haile moder! haile maide mylde!'</L>
+<L>þis g<HI REND="italic">re</HI>tynge was i<HI REND="italic">n</HI> queynte man<HI REND="italic">er</HI>e.</L>
+<L>[Such wo<HI REND="italic">n</HI>der tydy<HI REND="italic">n</HI>gys ȝe mow her<HI REND="italic">e.</HI> <MILESTONE N="25"/></L>
+</LG>
+<LG>
+<L>What tydy<HI REND="italic">n</HI>ges bry<HI REND="italic">n</HI>gest þou, messang<HI REND="italic">er,</HI></L>
+<L>of C<HI REND="italic">r</HI>ist<HI REND="italic">es</HI> birth þis ȝer<HI REND="italic">es</HI> day?]</L>
+<L>Here gretynge was in suche man<HI REND="italic">er</HI>e</L>
+<L>hit turned ma<HI REND="italic">n</HI>nys peyne to play.</L>
+</LG>
+<LG>
+<L>A wonder thynge is now be-falle: <MILESTONE N="30"/></L>
+<L>þat lorde þat formed sterre &amp; su<HI REND="italic">n</HI>ne,</L>
+<L>heuen &amp; erth &amp; angelys alle,</L>
+<L>nowe i<HI REND="italic">n</HI> man-kynde is by-gu<HI REND="italic">n</HI>ne.</L>
+<L>[Such wo<HI REND="italic">n</HI>der tydy<HI REND="italic">n</HI>gys ȝe mow her<HI REND="italic">e.</HI></L>
+</LG>
+<LG>
+<PB N="100" REF="22"/>
+<L>What tydy<HI REND="italic">n</HI>ges bry<HI REND="italic">n</HI>gest þou, messang<HI REND="italic">er,</HI> <MILESTONE N="35"/></L>
+<L>of C<HI REND="italic">r</HI>ist<HI REND="italic">es</HI> birth þis ȝer<HI REND="italic">es</HI> day?]</L>
+<L>A faunt þ<HI REND="italic">a</HI>t is not of o ȝere</L>
+<L>eu<HI REND="italic">er</HI> hath y-be &amp; shal be ay.</L>
+</LG>
+<DIV3 TYPE="version">
+<HEADNOTE><P><HI REND="italic">The version in</HI> Ms. Trinity College, Cambridge, O. 3. 58 <HI REND="italic">reads as follows:</HI></P></HEADNOTE>
+<LG>
+<L>Qwat tydyngis bryngyst thou, massager,</L>
+<L>of Cristys berthe this ȝolys day?</L>
+</LG>
+<LG>
+<L>A babe is born of hey nature,</L>
+<L>the prince of pees that euere xal be;</L>
+<L>of heuene &amp; erthe he hath ye cure;</L>
+<L>his lordschepe is eternyte.</L>
+<L>Swich wunder tydyngis ȝe may here.</L>
+</LG>
+<LG>
+<L>[Qwat tydyngis bryngyst thou, massager,</L>
+<L>of Cristys berthe this ȝolys day?]</L>
+<L>That man is mad now Goddis pere,</L>
+<L>qwom synne had mad but feyndys pray.</L>
+</LG>
+<LG>
+<L>A wundyr thing is now befalle:</L>
+<L>that kyng that formyd sterre &amp; sunne,</L>
+<L>heuene &amp; erthe &amp; aungelys alle,</L>
+<L>now in mankend is newe begunne.</L>
+<L>Swich wunder tydyngis ȝe may here.</L>
+</LG>
+<LG>
+<L>[Qwat tydyngis bryngyst thou, massager,</L>
+<L>of Cristys berthe this ȝolys day?]</L>
+<L>A faunt is now of o ȝere,</L>
+<L>that hath ben euere &amp; xal ben ay.</L>
+</LG>
+<LG>
+<L>That semlyest selkouth to se:</L>
+<L>this berde that hath this babe i-born,</L>
+<L>and lord conceyuyd of hey degre,</L>
+<L>a maydyn is as was beforn.</L>
+<L>Swich wunder tydyngis ȝe may here.</L>
+</LG>
+<LG>
+<L>[Qwat tydyngis bryngyst thou, massager,</L>
+<L>of Cristys berthe this ȝolys day?]</L>
+<L>That maydyn &amp; moder is on in fere,</L>
+<L>&amp; sche a lady of greth aray.</L>
+</LG>
+<LG>
+<L>That louelyest gan grete here child:</L>
+<L>'Heyl sone! heyl brother! heyl fader dere!</L>
+<L><PB N="101" REF="23"/>
+'Heyl dowter!' he seyth, 'heyl suster! heyl moder myld!'</L>
+<L>This heyling was on qweynt manere.</L>
+<L>Swich wunder tydyngis ȝe may here.</L>
+</LG>
+<LG>
+<L>[Qwat tydyngis bryngyst thou, massager,</L>
+<L>Of Cristys berthe this ȝolys day?]</L>
+<L>That heylyng was of so good chere</L>
+<L>that manys peyne is turnyd to play.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="13" TYPE="song">
+<HEAD>13.</HEAD>
+<LG>
+<L><HI REND="italic">Deo gracias anglia</HI> <MILESTONE N="17b."/></L>
+<L><HI REND="italic">redde pro victoria.</HI></L>
+</LG>
+<LG>
+<L>Owre kynge went forth to Norma<HI REND="italic">n</HI>dy</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> grace &amp; myȝt of chyualry;</L>
+<L>ther God for hy<HI REND="italic">m</HI> wrouȝt m<HI REND="italic">er</HI>velusly; <MILESTONE N="5"/></L>
+<L>wher-fore Englonde may calle &amp; cry</L>
+<L><HI REND="italic">Deo gracias.</HI></L>
+</LG>
+<LG>
+<L>He sette a sege, þe sothe for to say, <MILESTONE N="18a."/></L>
+<L>to Harflu tovne with ryal a-ray;</L>
+<L>þ<HI REND="italic">a</HI>t tovne he wan, &amp; made a fray <MILESTONE N="10"/></L>
+<L>þ<HI REND="italic">a</HI>t Fraunce shal rywe tyl domesday,</L>
+<L><HI REND="italic">Deo gracias.</HI></L>
+</LG>
+<LG>
+<L>Than went our<HI REND="italic">e</HI> kynge w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> alle his oste</L>
+<L>thorwe F<HI REND="italic">ra</HI>unce, for alle þe Frenshe boste;</L>
+<L>he spared no drede of lest ne moste <MILESTONE N="15"/></L>
+<L>tyl he come to Agincourt coste,</L>
+<L><HI REND="italic">Deo gracias.</HI></L>
+</LG>
+<LG>
+<L>Than, for soth, þat knyȝt comely</L>
+<L>In Agincourt feld he fauȝt manly;</L>
+<L>thorw grace of God most myȝty <MILESTONE N="20"/></L>
+<L>he had bothe þe felde &amp; þe victory,</L>
+<L><HI REND="italic">Deo gracias.</HI></L>
+</LG>
+<LG>
+<L>There dukys &amp; erlys, lorde &amp; barone,</L>
+<L>were take &amp; slayne, &amp; þ<HI REND="italic">a</HI>t wel sone,</L>
+<L>and su<HI REND="italic">m</HI>me were ladde in-to Lundone, <MILESTONE N="25"/></L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ioye and merthe &amp; grete renone,</L>
+<L><HI REND="italic">Deo gracias.</HI></L>
+</LG>
+<LG>
+<PB N="102" REF="24"/>
+<L>Now gracious God, he saue oure kynge,</L>
+<L>his peple, &amp; alle his wel-wyllynge;</L>
+<L>ȝef him gode lyfe &amp; gode endynge,</L>
+<L>þat we w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> merth mowe sauely synge</L>
+<L><HI REND="italic">Deo gracias.</HI></L>
+</LG>
+<P><HI REND="italic">The third stanza occurs last in the ms., but its transference is in∣dicated. The version in</HI> Ms. Trinity College, Cambridge, O. 3. 58, <HI REND="italic">reads as follows:</HI></P>
+<DIV3 TYPE="version">
+<LG>
+<L><HI REND="italic">Deo gracias anglia</HI></L>
+<L><HI REND="italic">redde p</HI>ro <HI REND="italic">victoria.</HI></L>
+</LG>
+<LG>
+<L>Our kyng went forth to Normu<HI REND="italic">n</HI>dy</L>
+<L>wyth g<HI REND="italic">ra</HI>ce &amp; myth of chyualry;</L>
+<L>þ<HI REND="italic">e</HI>r God for hy<HI REND="italic">m</HI> wrouth meruelowsly;</L>
+<L>qwerfor<HI REND="italic">e</HI> Y<HI REND="italic">n</HI>glo<HI REND="italic">n</HI>d may cal &amp; cry</L>
+<L><HI REND="italic">Deo gra</HI>cia<HI REND="italic">s.</HI></L>
+</LG>
+<LG>
+<L>He set a sege, for sothe to say,</L>
+<L>to Harflu tou<HI REND="italic">n</HI>n with ryal a-ray;</L>
+<L>þat tou<HI REND="italic">n</HI>n he wan and mad a fray</L>
+<L>þat Frau<HI REND="italic">n</HI>se xal rewe tyl domysday,</L>
+<L><HI REND="italic">Deo gra</HI>cia<HI REND="italic">s.</HI></L>
+</LG>
+<LG>
+<L>Than went hym forth owr kyng comely</L>
+<L>in Achyncourt feld he fau<HI REND="italic">u</HI>th manly;</L>
+<L>thorw grace of God most meruelowsly</L>
+<L>he had both feld and vyctory,</L>
+<L><HI REND="italic">Deo gra</HI>cia<HI REND="italic">s.</HI></L>
+</LG>
+<LG>
+<L>Ther lordys, eerlys, and barou<HI REND="italic">n</HI>n</L>
+<L>wer<HI REND="italic">e</HI> slayn and takyn, &amp; þ<HI REND="italic">a</HI>t ful soun,</L>
+<L>and sume were browth i<HI REND="italic">n</HI>-to Londou<HI REND="italic">n</HI>n,</L>
+<L>wyth ioye &amp; blysse and greth renou<HI REND="italic">n</HI>n.</L>
+<L><HI REND="italic">Deo gracias.</HI></L>
+</LG>
+<LG>
+<L>Almythy God, he kepe our kyng,</L>
+<L>hys pepyl &amp; al hys weel welyng,</L>
+<L>and ȝeue hem grace with-outy<HI REND="italic">n</HI> endy<HI REND="italic">n</HI>g;</L>
+<L>þa<HI REND="italic">n</HI> may we calle &amp; sauely syng</L>
+<L>Deo gra<HI REND="italic">cia</HI>s.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="14" TYPE="song">
+<HEAD>14.</HEAD>
+<LG>
+<L>As Y lay vp-on a nyȝt,</L>
+<L>for soth Y sawe a semely syȝt:</L>
+<L><PB N="103" REF="25"/>
+I be-held a berde so bryȝt,</L>
+<L>a child she bare on honde.</L>
+</LG>
+<LG>
+<L>Here loky<HI REND="italic">n</HI>g was so louely, <MILESTONE N="5"/></L>
+<L>her<HI REND="italic">e</HI> semblant was so swete,</L>
+<L>of alle my care &amp; sorwe</L>
+<L>she may my balys bete.</L>
+</LG>
+<LG>
+<L>By here sate a seruant</L>
+<L>þat seide al in his sawe— <MILESTONE N="10"/></L>
+<L>he semyd by his semblant</L>
+<L>a man of þe olde lawe—</L>
+</LG>
+<LG>
+<L>'þou wondryst', he seide skilfully,</L>
+<L>'in þynge þou hast be-holde;</L>
+<L>and so Y dyde trywly <MILESTONE N="15"/></L>
+<L>tyl talys were me y-tolde.</L>
+</LG>
+<LG>
+<L>They þ<HI REND="italic">a</HI>t Y vnworthy be, <MILESTONE N="18b."/></L>
+<L>she is Mary myn owne wyf;</L>
+<L>God wote she hadde neu<HI REND="italic">er</HI> childe by me,</L>
+<L>&amp; ȝyt Y loue here as my lyf. <MILESTONE N="20"/></L>
+</LG>
+<LG>
+<L>Y trust vn-to here godenys,</L>
+<L>she wolde not mysdoo,</L>
+<L>þat Y wyst ful wel, Y-wys,</L>
+<L>for ofte Y haue y-founde hit soo.'</L>
+</LG>
+<LG>
+<L>I be-helde þat swete wyȝt, <MILESTONE N="25"/></L>
+<L>and to my-selfe Y sayde:</L>
+<L>she hadde y-do man-kynde vnryȝt</L>
+<L>yf she were a mayde.</L>
+</LG>
+<LG>
+<L>His here was hore al on his hede,</L>
+<L>his ble be-gan to glyde; <MILESTONE N="30"/></L>
+<L>she herde ful wel what Y sayde</L>
+<L>&amp; bade me faire a-byde,</L>
+</LG>
+<LG>
+<L>and saide she was a-lone,</L>
+<L>maide and moder y-core,</L>
+<L>and w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-oute wem of man <MILESTONE N="35"/></L>
+<L>a childe she hadde y-bore.</L>
+</LG>
+<LG>
+<L>'But er eu<HI REND="italic">er</HI> Y wyste</L>
+<L>here wombe be-gan to ryse.</L>
+<L><PB N="104" REF="26"/>
+Y telle ȝow trywth trywly—</L>
+<L>Y note in whoche wyse— <MILESTONE N="40"/></L>
+</LG>
+<LG>
+<L>that rather a maide sholde</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-oute man conceyue</L>
+<L>than Mary mysdo wolde</L>
+<L>an soo Iosep disceyue.</L>
+</LG>
+</DIV2>
+<DIV2 N="15" TYPE="song">
+<HEAD>15.</HEAD>
+<LG>
+<L>The m<HI REND="italic">er</HI>the of alle þis londe <MILESTONE N="19a."/></L>
+<L>maketh þe gode husbonde</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> erynge of his plowe.</L>
+<L>I-blessyd be C<HI REND="italic">r</HI>ist<HI REND="italic">es</HI> sonde,</L>
+<L>þ<HI REND="italic">a</HI>t haþ vs sent i<HI REND="italic">n</HI> honde <MILESTONE N="5"/></L>
+<L>m<HI REND="italic">er</HI>the &amp; ioye y-nowe.</L>
+</LG>
+<LG>
+<L>The plowe goth mony a gate,</L>
+<L>bothe erly &amp; eke late,</L>
+<L>in wynt<HI REND="italic">er</HI> in þe clay,</L>
+<L>a-boute barly and whete, <MILESTONE N="10"/></L>
+<L>þ<HI REND="italic">a</HI>t maketh men to swete;</L>
+<L>God spede þe plowe al day.</L>
+</LG>
+<LG>
+<L>Browne morel &amp; gore</L>
+<L>drawen þe plowe ful sore</L>
+<L>al in the morwenynge; <MILESTONE N="15"/></L>
+<L>rewarde hem, ther-fore,</L>
+<L>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a shefe or more</L>
+<L>alle in the evenynge.</L>
+</LG>
+<LG>
+<L>Whan men by-gy<HI REND="italic">n</HI>ne to sowe</L>
+<L>ful wel her<HI REND="italic">e</HI> corne þey knowe <MILESTONE N="20"/></L>
+<L>in þe mo<HI REND="italic">u</HI>nthe of May.</L>
+<L>Howe eu<HI REND="italic">er</HI> Janyuer blowe,</L>
+<L>whether hye or lowe,</L>
+<L>God spede þe plowe all-way.</L>
+</LG>
+<LG>
+<L>Whan men by-gy<HI REND="italic">n</HI>neth to wede <MILESTONE N="25"/></L>
+<L>þe thystle fro þe sede</L>
+<L>in som<HI REND="italic">er,</HI> whan þey may,</L>
+<L>God lete hem wel to spede</L>
+<L>&amp; longe gode lyfe to lede,</L>
+<L>all þ<HI REND="italic">a</HI>t for plowe-men pray. <MILESTONE N="30"/></L>
+</LG>
+<P><HI REND="italic">Published in</HI> Early English Lyrics CXLII. <HI REND="italic">Vs. 3-6 are repeated in the score.</HI></P>
+</DIV2>
+<DIV2 N="16" TYPE="song">
+<PB N="105" REF="27"/>
+<HEAD>16.</HEAD>
+<LG>
+<L>Glad &amp; blithe mote ȝe be, <MILESTONE N="19b."/></L>
+<L>all that eu<HI REND="italic">er</HI> Y her<HI REND="italic">e</HI> nowe se;</L>
+<L>alleluya.</L>
+</LG>
+<LG>
+<L>Kynge of kyngys, lorde of alle,</L>
+<L>borne he is in oxe stalle, <MILESTONE N="5"/></L>
+<L><HI REND="italic">res miranda.</HI></L>
+</LG>
+<LG>
+<L>The angel of consel now borne he is</L>
+<L>of a maide ful clene, y-wis,</L>
+<L><HI REND="italic">sol de stella:</HI></L>
+</LG>
+<LG>
+<L>the su<HI REND="italic">n</HI>ne þ<HI REND="italic">a</HI>t eu<HI REND="italic">er</HI> shyneþ bryȝt, <MILESTONE N="10"/></L>
+<L>the st<HI REND="italic">er</HI>r<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t eu<HI REND="italic">er</HI> ȝeueth his lyȝt,</L>
+<L><HI REND="italic">semper clara.</HI></L>
+</LG>
+<LG>
+<L>Ryȝt as þe st<HI REND="italic">er</HI>r<HI REND="italic">e</HI> bryngth forth his beme,</L>
+<L>so þe maide her<HI REND="italic">e</HI> barn teme,</L>
+<L><HI REND="italic">pari forma.</HI> <MILESTONE N="15"/></L>
+</LG>
+<LG>
+<L>Nother þe st<HI REND="italic">er</HI>r<HI REND="italic">e</HI> for his beme,</L>
+<L>noþ<HI REND="italic">er</HI> þe maide for her<HI REND="italic">e</HI> barne teme,</L>
+<L><HI REND="italic">fit corrupta.</HI></L>
+</LG>
+<LG>
+<L>The ced<HI REND="italic">ur</HI> of Liban þ<HI REND="italic">a</HI>t g<HI REND="italic">r</HI>owth so hye,</L>
+<L>vn-to þe ysape is made lye <MILESTONE N="20"/></L>
+<L><HI REND="italic">valle nostra:</HI></L>
+</LG>
+<LG>
+<L>Godys sone of heuen bryȝt</L>
+<L>vn-tyl a maide is he lyȝt</L>
+<L><HI REND="italic">carne sumpta.</HI></L>
+</LG>
+<LG>
+<L>Ysaye saide by p<HI REND="italic">ro</HI>phecie— <MILESTONE N="20a."/></L>
+<L>the sinagoge hath hit i<HI REND="italic">n</HI> memorye</L>
+<L>ȝyt neu<HI REND="italic">er</HI> he lynneth maliciusly—</L>
+<L><HI REND="italic">esse ceca.</HI></L>
+</LG>
+<LG>
+<L>Yf they leue not her<HI REND="italic">e</HI> p<HI REND="italic">ro</HI>fetys, <MILESTONE N="5"/></L>
+<L>þen lete he<HI REND="italic">m</HI> leue ethen metrys:</L>
+<L>in sibylinys versiculys</L>
+<L><HI REND="italic">hec predicta.</HI></L>
+</LG>
+<LG>
+<L>Un-happy Iewe, come þ<HI REND="italic">o</HI>u nere,</L>
+<L>by-leue ellys thyne eldere. <MILESTONE N="10"/></L>
+<L>Why wolt þ<HI REND="italic">o</HI>u, wretche, y-da<HI REND="italic">m</HI>pned be?</L>
+</LG>
+<LG>
+<PB N="106" REF="28"/>
+<L>Whomme techeth þe letter</L>
+<L>by-holde the childe þe bett<HI REND="italic">er;</HI></L>
+<L>hym bare a maide moder Marye.</L>
+</LG>
+<P>The absence of the rubric, and the music show that vs. 25-38 are not a separate song.</P>
+</DIV2>
+<DIV2 N="17" TYPE="song">
+<HEAD>17.</HEAD>
+<LG>
+<L>Alleluya, alleluya, alleluya, <MILESTONE N="21b."/></L>
+<L>alleluya, alleluya, alleluya.</L>
+</LG>
+<LG>
+<L>A nywe werk is come on honde</L>
+<L>þorw myȝt &amp; g<HI REND="italic">ra</HI>ce of Godys sonde:</L>
+<L>to saue þe lost of eu<HI REND="italic">er</HI>y londe. <MILESTONE N="5"/></L>
+<L>For now is fre þ<HI REND="italic">a</HI>t erst was bonde;</L>
+<L>we mowe wel synge, all<HI REND="italic">eluy</HI>a.</L>
+</LG>
+<LG>
+<L>By Gabriel by-gunne hit was;</L>
+<L>ryȝt as the su<HI REND="italic">n</HI>ne shone thorwe the glas,</L>
+<L>Ih<HI REND="italic">es</HI>u Cryst conceyued was <MILESTONE N="10"/></L>
+<L>of Mary moder, ful of grace.</L>
+<L>Nowe synge we here, all<HI REND="italic">eluy</HI>a.</L>
+</LG>
+<LG>
+<L>Nowe is fulfylled the p<HI REND="italic">ro</HI>phecie</L>
+<L>o[f] Dauid and of Jeremie</L>
+<L>and al-so of Ysaie. <MILESTONE N="15"/></L>
+<L>Synge we ther-fore, bothe loude &amp; hye, alleluya, alleluya.</L>
+</LG>
+<LG>
+<L>Simeon, on his armys ryȝt,</L>
+<L>clypped Ih<HI REND="italic">es</HI>u ful of myȝt,</L>
+<L>and sayde unto þ<HI REND="italic">a</HI>t barne so bryȝt: <MILESTONE N="20"/></L>
+<L>'Y see my Sauyo<HI REND="italic">ur</HI> in syȝt';</L>
+<L>and songe thor-with, alleluya.</L>
+</LG>
+<LG>
+<L>Tho he saide w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-oute lece:</L>
+<L>'Lorde þ<HI REND="italic">o</HI>u seite thy s<HI REND="italic">er</HI>uant in pece,</L>
+<L>for nowe Y haue þ<HI REND="italic">a</HI>t Y eu<HI REND="italic">er</HI> chece <MILESTONE N="25"/></L>
+<L>alle ou<HI REND="italic">re</HI> ioyes to encrece,</L>
+<L>ther seyntes syngeth, alleluya.</L>
+</LG>
+<LG>
+<L>Alleluya, this swete songe,</L>
+<L>oute of a grene branche hit spronge.</L>
+</LG>
+<LG>
+<PB N="107" REF="29"/>
+<L>God sende vs the lyf þ<HI REND="italic">a</HI>t lasteth longe; <MILESTONE N="30"/></L>
+<L>nowe ioye &amp; blysse be hem a-monge</L>
+<L>þat thus cu<HI REND="italic">n</HI>ne synge,</L>
+<L>alleluya.</L>
+</LG>
+</DIV2>
+<DIV2 N="18" TYPE="song">
+<HEAD>18.</HEAD>
+<LG>
+<L>Hayl, Mary, ful of grace, <MILESTONE N="23a."/></L>
+<L>moder in virginite.</L>
+</LG>
+<LG>
+<L>The Holigoste is to the sent</L>
+<L>fro<HI REND="italic">m</HI> the fader o<HI REND="italic">mn</HI>ipotent;</L>
+<L>now is God w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-yn þe went, <MILESTONE N="5"/></L>
+<L>while þe angel side <HI REND="italic">aue.</HI></L>
+</LG>
+<LG>
+<L>Whan the angel <HI REND="italic">aue</HI> by-ganne,</L>
+<L>flesh &amp; blode to-gedre ranne;</L>
+<L>Mary bare bothe Gode &amp; manne</L>
+<L>thorwe the v<HI REND="italic">er</HI>tu of the dignite. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>So seith the Gospel of Syn John:</L>
+<L>God &amp; man is made al one</L>
+<L>in flesch &amp; blode, body &amp; bone,</L>
+<L>o God in personys thre.</L>
+</LG>
+<LG>
+<L>And the p<HI REND="italic">ro</HI>phete Jeremye <MILESTONE N="15"/></L>
+<L>telleth in his p<HI REND="italic">ro</HI>phecie</L>
+<L>þat the sone of Marie</L>
+<L>for vs deyde vppon a tre.</L>
+</LG>
+<LG>
+<L>Moche ioye was vs y-graunte,</L>
+<L>and in erthe pees y-plaunte, <MILESTONE N="20"/></L>
+<L>whan y-bore was that saunte</L>
+<L>in the londe of Galile.</L>
+</LG>
+<LG>
+<L>Mary g<HI REND="italic">ra</HI>unte vs of the blys</L>
+<L>there as thy sonys wonynge ys;</L>
+<L>of þ<HI REND="italic">a</HI>t we haue y-done a-mys <MILESTONE N="25"/></L>
+<L>pray for vs <HI REND="italic">p</HI>ur <HI REND="italic">charite.</HI></L>
+</LG>
+<P><HI REND="italic">Variants in</HI> Ms. Trinity College, Cambridge O. 3. 58: 6, while <HI REND="italic">omitted;</HI> 10, thorw vertu &amp; pour dyngnyte; 12, but on; 16, told; 18, schuld deye for vs on rode tre; 19, to vs was graunth; 20, &amp; plaunth; 21, that born was this; 23, of <HI REND="italic">omitted;</HI> 24, as <HI REND="italic">omitted;</HI> 25, don; <HI REND="italic">followed by</HI> amen.</P>
+</DIV2>
+<DIV2 N="19" TYPE="song">
+<PB N="108" REF="30"/>
+<HEAD>19.</HEAD>
+<LG>
+<L>An heue<HI REND="italic">n</HI>ly songe, Y dere wel say, <MILESTONE N="23b."/></L>
+<L>is su<HI REND="italic">n</HI>ge i<HI REND="italic">n</HI> erthe to man þis day.</L>
+</LG>
+<LG>
+<L>This is the songe þ<HI REND="italic">a</HI>t ȝe shul here:</L>
+<L>God is come fra<HI REND="italic">m</HI> his empere</L>
+<L>and is made man w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hye desire <MILESTONE N="5"/></L>
+<L>this day.</L>
+</LG>
+<LG>
+<L>He toke oure kynde al of a mayde,</L>
+<L>by oxe &amp; asse he was y-layde,</L>
+<L>nowe is fulfylled þat Scripture sayde,</L>
+<L>this day. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>Ay, Y wonder this in my mynde,</L>
+<L>þat he that alle may loose &amp; bynde</L>
+<L>wolde be layde by beestis vnkynde</L>
+<L>this day.</L>
+</LG>
+<LG>
+<L>He is a lorde, and by nature <MILESTONE N="15"/></L>
+<L>a maydnys breest he soke ful pure;</L>
+<L>heuen &amp; erthe beth in his cure</L>
+<L>this day.</L>
+</LG>
+</DIV2>
+<DIV2 N="20" TYPE="song">
+<HEAD>20.</HEAD>
+<LG>
+<L>Hayl, Godys sone i<HI REND="italic">n</HI> t<HI REND="italic">ri</HI>nite, <MILESTONE N="24a."/></L>
+<L>the secu<HI REND="italic">n</HI>d i<HI REND="italic">n</HI> diuinite,</L>
+<L>þy moder is a may.</L>
+</LG>
+<LG>
+<L>Lo, Moises bush shyny<HI REND="italic">n</HI>ge vn-brent,</L>
+<L>þe flo<HI REND="italic">ur</HI>es fair<HI REND="italic">e</HI> God ther<HI REND="italic">e</HI> p<HI REND="italic">re</HI>sent; <MILESTONE N="5"/></L>
+<L>oure lady w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> childe hit be ment,</L>
+<L>as p<HI REND="italic">ro</HI>fet<HI REND="italic">es</HI> saide in here lay.</L>
+</LG>
+<LG>
+<L>This is Gedeonys wulle felle</L>
+<L>on whom the dewe of heuen dyde dwelle,</L>
+<L>the dewe of heuen on Mary fel <MILESTONE N="10"/></L>
+<L>whan she conceyued Adonay.</L>
+</LG>
+<LG>
+<L>Aronnys rodde, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>-oute licour<HI REND="italic">e,</HI></L>
+<L>by merueyl bare bothe fruyte &amp; floure;</L>
+<L>to God &amp; man, oure Sauyoure</L>
+<L>a clene mayde hath borne this day. <MILESTONE N="15"/></L>
+</LG>
+<LG>
+<PB N="109" REF="31"/>
+<L>This Iacobys st<HI REND="italic">er</HI>re w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> shynynge leme—</L>
+<L>þat Balaa<HI REND="italic">m</HI> sey in Balakkys reme—</L>
+<L>figureth Mary that in Bedleme</L>
+<L>bare Ih<HI REND="italic">es</HI>u &amp; leyde in hay.</L>
+</LG>
+<LG>
+<L>But God be-wreyde by faire figure <MILESTONE N="20"/></L>
+<L>his v<HI REND="italic">ir</HI>ginel p<HI REND="italic">ro</HI>geniture.</L>
+<L>Nowe Maryes sone haue vs in cure</L>
+<L>and g<HI REND="italic">ra</HI>unte vs blys þ<HI REND="italic">a</HI>t lasteth ay.</L>
+</LG>
+</DIV2>
+<DIV2 N="21" TYPE="song">
+<HEAD>21.</HEAD>
+<LG>
+<L><HI REND="italic">Verbu</HI>m <HI REND="italic">caro factum est,</HI> <MILESTONE N="24a."/></L>
+<L><HI REND="italic">et habitauit in nobis.</HI></L>
+</LG>
+<LG>
+<L>Fetys bel chere,</L>
+<L>drynk to þi fere,</L>
+<L>vesse le bauere, <MILESTONE N="5"/></L>
+<L>&amp; synge nouwell.</L>
+</LG>
+<LG>
+<L>Notu<HI REND="italic">m</HI> fecit D<HI REND="italic">omin</HI>us</L>
+<L>salutare suu<HI REND="italic">m;</HI></L>
+<L>alleluya, etc.</L>
+</LG>
+<LG>
+<L>P<HI REND="italic">ro</HI>pe inuocauit me, <MILESTONE N="10"/></L>
+<L>Pater meus es tu;</L>
+<L>alleluya, etc.</L>
+</LG>
+</DIV2>
+<DIV2 N="22" TYPE="song">
+<HEAD>22.</HEAD>
+<LG>
+<L><HI REND="italic">Nou</HI>us <HI REND="italic">sol de virgine</HI> <MILESTONE N="25b."/></L>
+<L><HI REND="italic">reluxit nobis hodie.</HI></L>
+</LG>
+<LG>
+<L>Thow holy douȝt<HI REND="italic">er</HI> of Syon,</L>
+<L>p<HI REND="italic">ri</HI>ncesse of Hierusalem,</L>
+<L>to-day sp<HI REND="italic">ru</HI>nge of þe alone <MILESTONE N="5"/></L>
+<L>the grayn of Jesse in Bethleem.</L>
+</LG>
+<LG>
+<L>This day also the bryȝt starre—</L>
+<L>þ<HI REND="italic">a</HI>t Balam gan so to magnifye—</L>
+<L>aroos of the to stynt o<HI REND="italic">ur</HI> werre</L>
+<L>&amp; in derknys vs to gye. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>þ<HI REND="italic">o</HI>u ert also a-boue echone</L>
+<L>a moder and a mayde trywe,</L>
+<L>and the ȝerde eke of Aaron</L>
+<L>þ<HI REND="italic">a</HI>t bare this day a burion nywe.</L>
+</LG>
+<LG>
+<PB N="110" REF="32"/>
+<L>The orient lyȝt of Nazareth <MILESTONE N="15"/></L>
+<L>þ<HI REND="italic">o</HI>u ert also, to stynt our<HI REND="italic">e</HI> stryffe,</L>
+<L>þ<HI REND="italic">a</HI>t brouȝtyst forth a-gaynys deth</L>
+<L>this day the sothfast man of lyffe.</L>
+</LG>
+<LG>
+<L>Thow ert eke the flees of Gedeon,</L>
+<L>y-dewed w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> the Holigoste, <MILESTONE N="20"/></L>
+<L>the chaste temple of Salemon,</L>
+<L>clere as c<HI REND="italic">ri</HI>stal in eu<HI REND="italic">er</HI>y coste.</L>
+</LG>
+<LG>
+<L>þ<HI REND="italic">o</HI>u ert eke the ioye of Israel,</L>
+<L>to stynt all ou<HI REND="italic">re</HI> olde sorwe,</L>
+<L>the gate the whyche Ezechiel <MILESTONE N="25"/></L>
+<L>sawe al-way clos, bothe eue &amp; morwe.</L>
+</LG>
+<LG>
+<L>And þ<HI REND="italic">o</HI>u ert eke the purpyl rose</L>
+<L>þ<HI REND="italic">a</HI>t whylom grewe in Jerico;</L>
+<L>the fadres wysdom to enclose</L>
+<L>þ<HI REND="italic">o</HI>u were the temple &amp; to<HI REND="italic">ur</HI> also. <MILESTONE N="30"/></L>
+</LG>
+</DIV2>
+<DIV2 N="23" TYPE="song">
+<HEAD>23.</HEAD>
+<LG>
+<L><HI REND="italic">Ave Maria, gracia Dei plena.</HI> <MILESTONE N="26a."/></L>
+<L>Hayl, blessid flo<HI REND="italic">ur</HI> of v<HI REND="italic">ir</HI>ginite,</L>
+<L>þ<HI REND="italic">a</HI>t bare this tyme a child so fre,</L>
+<L>þ<HI REND="italic">a</HI>t was &amp; is &amp; eu<HI REND="italic">er</HI> shal be; <HI REND="italic">aue.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="24" TYPE="song">
+<HEAD>24.</HEAD>
+<LG>
+<L>Now-wel, nowel, <MILESTONE N="27b."/></L>
+<L>to vs ys born o<HI REND="italic">ur</HI> God Emanuell;</L>
+<L>now-wel, nowel,</L>
+<L>to vs ys born our God Emanuell.</L>
+</LG>
+<LG>
+<L>In Bedle<HI REND="italic">m,</HI> þ<HI REND="italic">a</HI>t child of lyfe <MILESTONE N="5"/></L>
+<L>ys born of Mary, mayde &amp; wyfe.</L>
+<L>He is boþe God &amp; man, take schrift.</L>
+<L>P<HI REND="italic">ri</HI>nce of pese schal sese al strife</L>
+<L>&amp; wone w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> vs p<HI REND="italic">er</HI>petuell.</L>
+</LG>
+<LG>
+<L>This child shal by vs w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his blode, <MILESTONE N="10"/></L>
+<L>and be nayled on a roode;</L>
+<L>his raunsu<HI REND="italic">m</HI> passyth al erthly goode.</L>
+<L>Alas! what wyȝte dar be so woode</L>
+<L>to sle so gentyl a iuwell?</L>
+</LG>
+<LG>
+<PB N="111" REF="33"/>
+<L>By his pooste this child shal ryse; <MILESTONE N="15"/></L>
+<L>fro helle he shal take his empryse,</L>
+<L>and saue mankynde in this wyse.</L>
+<L>Thus telleth vs the p<HI REND="italic">ro</HI>phecyys,</L>
+<L>her<HI REND="italic">e</HI>-be-forne as they dyde tell.</L>
+</LG>
+<DIV3 TYPE="version">
+<P><HI REND="italic">Variant:</HI> 12, Early Bodleian Music <HI REND="italic">reads</HI> raintsum.—<HI REND="italic">The version in</HI> Ms. Trinity College, Cambridge, O. 3. 58 <HI REND="italic">reads as follows:</HI></P>
+<LG>
+<L>Nowel, nowel, nowel,</L>
+<L>to vs is born owr God Emanuel.</L>
+</LG>
+<LG>
+<L>In Bedlem, this berde of lyf</L>
+<L>is born of Marye, maydyn and wyf.</L>
+<L>He is bothe God &amp; man, I schryf.</L>
+<L>Thys prince of pees xal setyn al stryf</L>
+<L>&amp; wone wyth vs perpetuel.</L>
+</LG>
+<LG>
+<L>This chyld xal bey vs wyth hys bloyd,</L>
+<L>and be naylyd vp-on the royd;</L>
+<L>hys raunsum pasyth al erdly goyd.</L>
+<L>Allas! qwat wyth dar be so woyd</L>
+<L>to sle so ientyl a nowel?</L>
+</LG>
+<LG>
+<L>Be hys powste he his emprys</L>
+<L>schal take fro helle at hys vprys,</L>
+<L>and saue mankende vp-on this wys.</L>
+<L>Thus tellth vs the prophecys,</L>
+<L>that he is kyng of heuen &amp; helle.</L>
+</LG>
+<LG>
+<L>This maydenys sone to hys empere</L>
+<L>schal stey to heuene be his powere;</L>
+<L>hys Holy Gost vs alle xal lere;</L>
+<L>[ ] and the fadyr in feere</L>
+<L>schul regne o God; this leue I well.</L>
+</LG>
+<LG>
+<L>Pray we this chyld wyth good entent</L>
+<L>in our deying he vs present</L>
+<L>on-to hys fadyr omnypotent.</L>
+<L>The ferst tydyngis of this testament</L>
+<L>browth to vs Seynt Gabryel.</L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 N="25" TYPE="song">
+<PB N="112" REF="34"/>
+<HEAD>25.</HEAD>
+<LG>
+<L><HI REND="italic">Laus, honor, v</HI>ir<HI REND="italic">tus, gloria,</HI> <MILESTONE N="28a."/></L>
+<L><HI REND="italic">&amp; tibi decus, Maria.</HI></L>
+<L><HI REND="italic">Laus, honor, virtus, gloria,</HI></L>
+<L><HI REND="italic">&amp; tibi decus, Maria.</HI></L>
+</LG>
+<LG>
+<L>A songe to syng Y haue good ryȝt <MILESTONE N="5"/></L>
+<L>&amp; myrþ to make i<HI REND="italic">n</HI> þ<HI REND="italic">is</HI> p<HI REND="italic">re</HI>se<HI REND="italic">n</HI>s,</L>
+<L>for now ys born a baro<HI REND="italic">n</HI> of myȝt,</L>
+<L><HI REND="italic">mu</HI>n<HI REND="italic">du</HI>m <HI REND="italic">pugillo continens.</HI></L>
+</LG>
+<LG>
+<L>This babe was borne on ȝoule nyȝt,</L>
+<L>in Bedlehem of oure lady; <MILESTONE N="10"/></L>
+<L>the name of hym is called ryȝt</L>
+<L><HI REND="italic">verbu</HI>m <HI REND="italic">p</HI>at<HI REND="italic">ris altissimi.</HI></L>
+</LG>
+<LG>
+<L>That nowe is come pees for to make</L>
+<L>by-twene the fader of hevyn &amp; vs,</L>
+<L>and nowe for that childys sake <MILESTONE N="15"/></L>
+<L><HI REND="italic">exultet celu</HI>m <HI REND="italic">laudib</HI>us.</L>
+</LG>
+<LG>
+<L>Oure sy<HI REND="italic">n</HI>ne to slee, he toke þe way</L>
+<L>in-to the worle fro heuyn riche blysse,</L>
+<L>and ther-fore bothe nyȝt &amp; day</L>
+<L><HI REND="italic">resultet terra gaudiis.</HI> <MILESTONE N="20"/></L>
+</LG>
+<LG>
+<L>The childe fellyd alle þe fendys p<HI REND="italic">ri</HI>de,</L>
+<L>and w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> harde yron bonde hym i<HI REND="italic">n</HI> cloos.</L>
+<L>and w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> the blode of his dere syde</L>
+<L><HI REND="italic">soluit a po[e]na misero[s].</HI></L>
+</LG>
+<LG>
+<L>Nowe Ih<HI REND="italic">es</HI>u Cryst, þ<HI REND="italic">a</HI>t come so stylle <MILESTONE N="25"/></L>
+<L>in-to þe wombe of Mary fre,</L>
+<L>we p<HI REND="italic">ra</HI>ye the, ȝyf hit be thy wylle,</L>
+<L><HI REND="italic">mane nobiscu</HI>m, <HI REND="italic">Domine.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="26" TYPE="song">
+<HEAD>26.</HEAD>
+<LG>
+<L>I-blessid be þ<HI REND="italic">a</HI>t Lord i<HI REND="italic">n</HI> mageste <MILESTONE N="28b."/></L>
+<L><HI REND="italic">qui nat</HI>us <HI REND="italic">fuit hodie.</HI></L>
+</LG>
+<LG>
+<L>That Lord þ<HI REND="italic">a</HI>t lay in asse stalle</L>
+<L>cam to dye for vs alle,</L>
+<L>to mak vs fre þ<HI REND="italic">a</HI>t erst were þralle, <MILESTONE N="5"/></L>
+<L><HI REND="italic">qui nat</HI>us <HI REND="italic">fuit hodie.</HI></L>
+</LG>
+<LG>
+<PB N="113" REF="35"/>
+<L>This Lorde þat lay in asse stalle</L>
+<L>come to dye for ys alle,</L>
+<L>to make vs fre þ<HI REND="italic">a</HI>t erst wer<HI REND="italic">e</HI> þralle,</L>
+<L><HI REND="italic">qui nat</HI>us etc. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>Wel mowe we glad &amp; mery bee,</L>
+<L>sith we wer<HI REND="italic">e</HI> þralle &amp; nowe be free;</L>
+<L>the fende, our<HI REND="italic">e</HI> foo, he made to flee,</L>
+<L><HI REND="italic">qui nat</HI>us etc.</L>
+</LG>
+<LG>
+<L>And sith our<HI REND="italic">e</HI> foo is fled fro vs, <MILESTONE N="15"/></L>
+<L>we mowe wel synge &amp; say ryȝt þus:</L>
+<L>wel-come he be, this Lorde Iesus,</L>
+<L><HI REND="italic">qui nat</HI>us etc.</L>
+</LG>
+<LG>
+<L>Nowe blessyd be this Lord benynge</L>
+<L>that nolde his cruelle dethe resynge, <MILESTONE N="20"/></L>
+<L>but for man-kynde to dye endynge,</L>
+<L><HI REND="italic">qui nat</HI>us <HI REND="italic">fuit hodie.</HI></L>
+</LG>
+</DIV2>
+<DIV2 N="27" TYPE="song">
+<HEAD>27.</HEAD>
+<LG>
+<L><HI REND="italic">Ueni, redemptor gentium;</HI> <MILESTONE N="29a."/></L>
+<L><HI REND="italic">ueni, redemtor gentium.</HI></L>
+</LG>
+<LG>
+<L>This worle wo<HI REND="italic">n</HI>dreþ of al thy<HI REND="italic">n</HI>ge</L>
+<L>howe a maide c<HI REND="italic">on</HI>ceyued a ky<HI REND="italic">n</HI>ge,</L>
+<L>to ȝeue vs al þerof shewy<HI REND="italic">n</HI>ge; <MILESTONE N="5"/></L>
+<L><HI REND="italic">veni redemptor gentium.</HI></L>
+</LG>
+<LG>
+<L>Whan Gabriel come w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his gretynge</L>
+<L>to Mary moder, þat swete thynge,</L>
+<L>he g<HI REND="italic">ra</HI>unted, &amp; saide w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> grete lykynge,</L>
+<L><HI REND="italic">veni</HI> etc. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>Ambrose saide in his writynge:</L>
+<L>Cryst sholde be in a maide dwellynge</L>
+<L>to make sothe alle þat syngynge,</L>
+<L><HI REND="italic">veni</HI> etc.</L>
+</LG>
+<LG>
+<L>And Dauyd saide in his spellynge <MILESTONE N="15"/></L>
+<L>þat truthe sholde be in erthe growynge</L>
+<L>to vs byer of alle thynge,</L>
+<L><HI REND="italic">veni</HI> etc.</L>
+</LG>
+<LG>
+<PB N="114" REF="36"/>
+<L>Cryst, y-crowned at oure be-gynny<HI REND="italic">n</HI>ge,</L>
+<L>be w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> vs at oure endynge, <MILESTONE N="20"/></L>
+<L>vs to thy ioye for to brynge;</L>
+<L><HI REND="italic">veni</HI> etc.</L>
+</LG>
+</DIV2>
+<DIV2 N="28" TYPE="song">
+<HEAD>28.</HEAD>
+<LG>
+<L>Abyde, Y hope hit be þe beste; <MILESTONE N="29b."/></L>
+<L>abyde, Y hope hit be the beste;</L>
+<L>abyde, Y hope h<HI REND="italic">i</HI>t be þe best;</L>
+<L>sith hasty man lakked neu<HI REND="italic">er</HI> woo.</L>
+</LG>
+<LG>
+<L>Late eu<HI REND="italic">er</HI>y man þ<HI REND="italic">a</HI>t wole haue reste <MILESTONE N="5"/></L>
+<L>eu<HI REND="italic">er</HI> ben avised what he wole doo.</L>
+</LG>
+<LG>
+<L>Preue or ȝe take, þenke or ȝe feste,</L>
+<L>in wele be-ware or ȝe be woo.</L>
+</LG>
+<LG>
+<L>Vnd<HI REND="italic">er</HI> þe busch ȝe shul tempeste</L>
+<L>a-byde, tyl hit be ouer-goo. <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>For longe tyme ȝo<HI REND="italic">ur</HI> hert shal breste;</L>
+<L>abyde, Y consyall ȝow do soo.</L>
+</LG>
+<P><HI REND="italic">Variants in</HI> Ms. Trinity College, Cambridge, O. 3. 58: 4, wantyth; 6, schal; 7, thou; 8, er thou.</P>
+<P><HI REND="italic">Published in</HI> Early English Lyrics CVII.</P>
+</DIV2>
+<DIV2 N="29" TYPE="song">
+<HEAD>29.</HEAD>
+<LG>
+<L>Dryngker, fyll a-nother ale. <MILESTONE N="32b."/></L>
+<L>A-nnon have I do.</L>
+<L>God sende us good sale.</L>
+<L>A-vale the stake, a-vale.</L>
+<L>Here is good ale y-founde. <MILESTONE N="5"/></L>
+<L>Drynke to me &amp; Y to þe,</L>
+<L>and lette þe coppe goo rounde.</L>
+</LG>
+<P><HI REND="italic">Note:</HI> 1, <HI REND="italic">the tenor has</HI> tappster.</P>
+<P><HI REND="italic">Published in</HI> Early English Lyrics CXXX.</P>
+</DIV2>
+<DIV2 N="30" TYPE="song">
+<HEAD>30.</HEAD>
+<LG>
+<L>Wel-co<HI REND="italic">m</HI>be be ȝe whan ȝe goo, <MILESTONE N="33a."/></L>
+<L>&amp; fare-wel whan ȝe come;</L>
+<L>so faire as ȝe þ<HI REND="italic">er</HI> be noo mo,</L>
+<L>as brygth as bere brovne.</L>
+</LG>
+<LG>
+<PB N="115" REF="37"/>
+<L>I love ȝow, verraly, at my too, <MILESTONE N="5"/></L>
+<L>no<HI REND="italic">n</HI>ne so moch yn al this stovnne;</L>
+<L>I am right glad when ȝe wil goo,</L>
+<L>and sory when ȝe wil come.</L>
+</LG>
+<LG>
+<L>And, whan ȝe be ovth fare,</L>
+<L>I p<HI REND="italic">r</HI>ay for yew, sertayn, <MILESTONE N="10"/></L>
+<L>þat neu<HI REND="italic">er</HI> man, horsse, ne mare,</L>
+<L>brynge yow to town a-geyn.</L>
+<L>To p<HI REND="italic">r</HI>ayse youre bewte I ne dare,</L>
+<L>for drede that men wille seyn.</L>
+<L>Fare-welle! no more for you I care; <MILESTONE N="15"/></L>
+<L>but pray yow of my songe have no desdeyn.</L>
+</LG>
+<P><HI REND="italic">Note:</HI> 6, <HI REND="italic">the tenor reads</HI> toune.</P>
+<P><HI REND="italic">Published in</HI> Early English Lyrics CXXV.</P>
+</DIV2>
+<DIV2 N="31" TYPE="song">
+<HEAD>31.</HEAD>
+<LG>
+<L>Yf thow fle idelnes, <MILESTONE N="33b."/></L>
+<L>Cupide hath no myght:</L>
+<L>his bow lyeth broken,</L>
+<L>his fyre hath no lyght.</L>
+</LG>
+<P><HI REND="italic">An accompanying note reads: Ouidius de remedio amoris.—The orthography of this song is of the middle or latter part of the sixteenth century.</HI></P>
+<CLOSER><DATELINE>UNIVERSITY OF WASHINGTON, <DATE>Dec. 3, 1910.</DATE></DATELINE>
+<SIGNED>FREDERICK MORGAN PADELFORD.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

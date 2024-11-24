@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-21-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; removed fragment of German introduction from beginning (placed in notes); changed sub HEAD to BYLINE; changed TRAILER to CLOSER; added two symbol GAPs; removed LIST LABEL ITEMs from three stanzas, and changed Ps to Ls. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00071">
+<STC T="M">71</STC>
+<BIBNO T="mec">CME00071</BIBNO>
+<VID>CME00071</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="539" REF="17"/>
+<HEAD>St. Katharina</HEAD>
+<BYLINE>von Ricardus Spaldyng.</BYLINE>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Katereyn, þe curteys <NOTE N="1)" PLACE="foot"><HI REND="italic">lies</HI> curteyst?</NOTE> of all<HI REND="italic">e</HI> þ<HI REND="italic">at</HI> I know,</L>
+<L>cu<HI REND="italic">m</HI>lyest kepyng kaytifs ffro kare,</L>
+<L>Of lyth þ<HI REND="italic">ou</HI> art lanterne to leche he<HI REND="italic">m</HI> be-low,</L>
+<L>to leede he<HI REND="italic">m</HI> þ<HI REND="italic">at</HI> þ<HI REND="italic">e</HI> loue fro bales ful bare;</L>
+<L>ffor no throng of no threte þ<HI REND="italic">ou</HI> woldest not ou<HI REND="italic">er</HI>-throw,</L>
+<L>bot tholyd thykly thank of vs care, <NOTE N="2)" PLACE="foot">so Ms.</NOTE></L>
+<L>Qwen̄ þe tyraunt trayfoly walde t<HI REND="italic">ur</HI>ne þe, I trow,</L>
+<L>w<HI REND="italic">ith</HI> towchy<HI REND="italic">n</HI>g of t<HI REND="italic">ur</HI>neme<HI REND="italic">n</HI>t he ty<HI REND="italic">n</HI>t not to spare.</L>
+<L>To spare þe he tynt þere,</L>
+<L>Qwen he his myht mynt þer<HI REND="italic">e</HI></L>
+<L>To momyl on his mawment,</L>
+<L>And for þ<HI REND="italic">ou</HI> styfly stynte þere,</L>
+<L>As fyr<HI REND="italic">e</HI> doth of flynt þere,</L>
+<L>þi resons hym rent.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Kat<HI REND="italic">er</HI>eyn w<HI REND="italic">ith</HI> hyr<HI REND="italic">e</HI> resons þ<HI REND="italic">at</HI> rwd þ<HI REND="italic">us</HI> <NOTE N="3)" PLACE="foot"><HI REND="italic">Ms.</HI> þ<SUP>us</SUP></NOTE> sche rent,</L>
+<L>sche rowth not of his rialte, hir rewle was so rithe,</L>
+<L><PB N="540" REF="18"/>
+And so þ<HI REND="italic">at</HI> bostful belamy þ<HI REND="italic">at</HI> beerd so bent,</L>
+<L>þ<HI REND="italic">at</HI> neþ<HI REND="italic">er</HI> bewte ne bonchif abode i<HI REND="italic">n</HI> his bythe.</L>
+<L>þan to seke schoffer<HI REND="italic">e</HI>s his sergauntes he sent,</L>
+<L>to se, qwo schuld scort hyr<HI REND="italic">e</HI> sawes i<HI REND="italic">n</HI> his sythe,</L>
+<L>ffyfti fyue <NOTE N="1)" PLACE="foot"><HI REND="italic">Richtige zahl</HI> 50</NOTE> retorikes i<HI REND="italic">n</HI> hast þei hem hent,</L>
+<L>of clargy i<HI REND="italic">n</HI> kyngdames þe hyest were hythe.</L>
+<L>Heyest wer<HI REND="italic">e</HI> þei hythe þan</L>
+<L>And most made of myth þan</L>
+<L>Clergi to kepe.</L>
+<L>He þe beerde bryth þan <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> þon?</NOTE></L>
+<L>Soche poyntes hem pyth þan</L>
+<L>To her lor<HI REND="italic">e</HI> þei lepe.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Kat<HI REND="italic">er</HI>eyn þus ful lufly sche lawth to her<HI REND="italic">e</HI> lore,</L>
+<L>lythly fyfty retorikes to lede i<HI REND="italic">n</HI> hyr lees,</L>
+<L>Alle þei bowed hir blely &amp; blessed hir<HI REND="italic">e</HI> I-bore</L>
+<L>&amp; bonde he<HI REND="italic">m</HI> to hir<HI REND="italic">e</HI> biddy<HI REND="italic">n</HI>g be-for<HI REND="italic">e</HI> al þe prees,</L>
+<L>þan þat cursud cayfte was kyng þere I-core</L>
+<L>com<HI REND="italic">m</HI>aund his com<HI REND="italic">m</HI>yneres cantly in rees,</L>
+<L>To forme a fyr<HI REND="italic">e</HI> ferly his face þere be-fore,</L>
+<L>alle þo fyfty fesawntys <NOTE N="3)" PLACE="foot"><HI REND="italic">Ms.</HI> fesawntỳs</NOTE> in fyre to fees.</L>
+<L>In fyre he wolde fees hem,</L>
+<L>But al dyd hit plese hem,</L>
+<L>ffor hurt hade þei none.</L>
+<L>And for þei to ches hem,</L>
+<L>No paryng to ples hem,</L>
+<L>Was of on here a-lone.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Kat<HI REND="italic">er</HI>eyn, wyttily þus þ<HI REND="italic">ou</HI> wit wanne,</L>
+<L>qwen þo wyȝthes at þi wyl her<HI REND="italic">e</HI> wordes had won<HI REND="italic">n</HI>e,</L>
+<L>þo þi rial resons to ryth so þei ran<HI REND="italic">n</HI>e,</L>
+<L>y [k]now <NOTE N="4)" PLACE="foot"><HI REND="italic">Ms.</HI> y now?</NOTE> þe reygn rially þ<HI REND="italic">at</HI> rewly ha[þ r]on<HI REND="italic">n</HI>e;</L>
+<L>In mankynde so mytthyly was neu<HI REND="italic">er</HI> mane</L>
+<L>haþ fyfty wyȝthes be his worde so wittily won<HI REND="italic">ne,</HI></L>
+<L>Qwer<HI REND="italic">e</HI> for<HI REND="italic">e</HI> þ<HI REND="italic">at</HI> thef thankles thyrsted þe þane</L>
+<L>&amp; bad throw þe i<HI REND="italic">n</HI> a trowe thyk fro þe son<HI REND="italic">n</HI>e.</L>
+<L>Thyk i<HI REND="italic">n</HI> a trowe þus</L>
+<L>He made his wow þus</L>
+<L>þe too <NOTE N="5)" PLACE="foot"><HI REND="italic">lies</HI> twelf?, <HI REND="italic">so die richtige zahl.</HI></NOTE> dayes to sitte;</L>
+<L><PB N="541" REF="19"/>
+To hym þe to low þus,</L>
+<L>No mete he wil a-low þus</L>
+<L>To turne þi wjtte.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>To turne þi witte hym tarying þe tredyd þ<HI REND="italic">at</HI> trayto<HI REND="italic">ur,</HI></L>
+<L>qwe<HI REND="italic">n</HI> þ<HI REND="italic">ou</HI> wer<HI REND="italic">e</HI> throw throghe, but trewþe þ<HI REND="italic">er</HI> þ<HI REND="italic">e</HI> tente,</L>
+<L>Qwe<HI REND="italic">n</HI> a de<HI REND="italic">n</HI>tywos dowf made þe to dewr<HI REND="italic">e</HI></L>
+<L>&amp; dyth þe fro derknes &amp; solace þe sente.</L>
+<L>Solace sothe þe soþly of our<HI REND="italic">e</HI> sauyo<HI REND="italic">ur,</HI></L>
+<L>qwe<HI REND="italic">n</HI> he saw þe i<HI REND="italic">n</HI> sorowes to save þin entent,</L>
+<L>And shewd þe þe salf of his soko<HI REND="italic">ur,</HI></L>
+<L>qwe<HI REND="italic">n</HI> he seyed seemly: "for me þ<HI REND="italic">ou</HI> schalt be schente.</L>
+<L>For me þ<HI REND="italic">ou</HI> schalt be blamyd,</L>
+<L>Be not þ<HI REND="italic">er</HI> for<HI REND="italic">e</HI> a-schamyd,</L>
+<L>þe deth for to take!</L>
+<L>And for þ<HI REND="italic">ou</HI> schalt be famyd,</L>
+<L>ffayre haue I framyd</L>
+<L>A crowne for þi sake."</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Kat<HI REND="italic">er</HI>eyn for þi sake þe sothe þan for to sene</L>
+<L>þe solas of þ<HI REND="italic">at</HI> savyo<HI REND="italic">ur</HI> þ<HI REND="italic">at</HI> schap þe to schame,</L>
+<L>Qwe<HI REND="italic">n</HI> pertly to Porfiri presed þe qwene</L>
+<L>&amp; p<HI REND="italic">ra</HI>yed hy<HI REND="italic">m</HI> plese þe port<HI REND="italic">er</HI> to se Kat<HI REND="italic">er</HI>eyn fame.</L>
+<L>þer<HI REND="italic">e</HI> þei com to Kat<HI REND="italic">er</HI>eyn co<HI REND="italic">m</HI>ly &amp; clene,</L>
+<L>to com<HI REND="italic">m</HI>en w<HI REND="italic">ith</HI> þ<HI REND="italic">at</HI> c<HI REND="italic">ur</HI>tays &amp; knowen of hyre game,</L>
+<L>Al bem<HI REND="italic">us</HI> of briȝtnes abowt hyr<HI REND="italic">e</HI> þ<HI REND="italic">er</HI> beene</L>
+<L>&amp; w<HI REND="italic">ith</HI> hir<HI REND="italic">e</HI> bawmy<HI REND="italic">n</HI>g of blis þo bridd<HI REND="italic">us</HI> sche brogth tame.</L>
+<L>þo briddes brogth sche tame so,</L>
+<L>Bothe que<HI REND="italic">n</HI>e &amp; knyȝt be name so</L>
+<L>To cristen beleue.</L>
+<L>Qwen grace was hir game so,</L>
+<L>No grym<HI REND="italic">m</HI>e myth he<HI REND="italic">m</HI> g<HI REND="italic">ra</HI>me so,</L>
+<L>So dethe was he<HI REND="italic">m</HI> leue.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Þat deth þ<HI REND="italic">at</HI> is derue her<HI REND="italic">e</HI> to dye not þei dowte,</L>
+<L>qwe<HI REND="italic">n</HI> þei dep<HI REND="italic">ar</HI>te fro þ<HI REND="italic">at</HI> der<HI REND="italic">e,</HI> sche drof þ<HI REND="italic">e</HI> fro drede.</L>
+<L>No leng<HI REND="italic">er</HI> sche þ<HI REND="italic">at</HI> was lost to hir<HI REND="italic">e</HI> lowe þa<HI REND="italic">n</HI> wold þei lowte,</L>
+<L>bot lo<HI REND="italic">n</HI>gly lagowrid hi<HI REND="italic">m</HI> w<HI REND="italic">ith</HI> al hi<HI REND="italic">s</HI> gr<HI REND="italic">e</HI>t lede.</L>
+<L>þan stode he a-stonyd sturdy <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> sturdy. <HI REND="italic">(mit punkt dahinter).</HI></NOTE> &amp; stowte,</L>
+<L>he stra<HI REND="italic">n</HI>glyd hy<HI REND="italic">m</HI> selue, so he strof almost in dede,</L>
+<L><PB N="542" REF="20"/>
+And for his qwe<HI REND="italic">n</HI>e schortly schamed not his schowte,</L>
+<L>he schope hir to schry<HI REND="italic">n</HI>k, qwe<HI REND="italic">n</HI> sche schuld blood schede.</L>
+<L>Her blod sche did schede þo,</L>
+<L>Qwe<HI REND="italic">n</HI> þei vnwrapped hir wede þo,</L>
+<L>Hir pappes for to kerf;</L>
+<L>Her<HI REND="italic">e</HI> myth was on hir mede þo,</L>
+<L>þe swerde sche myth not fre[de] <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> fre</NOTE> þo</L>
+<L>þat hir hede schuld sterf.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Þus sterved þe qwe<HI REND="italic">n</HI>e stro<HI REND="italic">n</HI>gly of hy<HI REND="italic">m</HI> þ<HI REND="italic">at</HI> was sterne,</L>
+<L>&amp; now stif may sche not, so styfly <NOTE N="2)" PLACE="foot">f <HI REND="italic">in</HI> styfly <HI REND="italic">undeutlich</HI></NOTE> sche stod.</L>
+<L>þa<HI REND="italic">n</HI> Porphyri litthly, os loue gaue hy<HI REND="italic">m</HI> lerne,</L>
+<L>he wonde hir<HI REND="italic">e</HI> wōwndyd i<HI REND="italic">n</HI> a wed &amp; grof hir<HI REND="italic">e</HI> ful goode.</L>
+<L>þer<HI REND="italic">e</HI> dredles þe deueles lym wax wond<HI REND="italic">ur</HI> derne</L>
+<L>&amp; dispised dedly to deel þer hys mode:</L>
+<L>"Qwat bachiler<HI REND="italic">e</HI> was so bold a-wey hir to berene,</L>
+<L>eyþ<HI REND="italic">er</HI> to beryen hir bones or hyr blode,</L>
+<L>Hir bones &amp; hir [blod] als</L>
+<L>W<HI REND="italic">ith</HI> mytthynes of mode als?"—</L>
+<L>Porphiri sayde.</L>
+<L>"Þat dede dyd I good als,</L>
+<L>ffor I schuld feel hir fode als,</L>
+<L>In g<HI REND="italic">ra</HI>ue I hir layede!"</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>Þan spro<HI REND="italic">n</HI>g þ<HI REND="italic">at</HI> cursed kayeser<HI REND="italic">e</HI> is <NOTE N="3)" PLACE="foot"><HI REND="italic">lies</HI> with</NOTE> sper<HI REND="italic">e</HI> i<HI REND="italic">n</HI> hert spru<HI REND="italic">n</HI>ge, <NOTE N="4)" PLACE="foot"><HI REND="italic">lies</HI> stunge?</NOTE></L>
+<L>he spar<HI REND="italic">e</HI>d no speche to þe pepul fast for to spe<HI REND="italic">n</HI>de,</L>
+<L>He seyde his tene wi’ <NOTE N="5)" PLACE="foot">so Ms.</NOTE> hir for to te<HI REND="italic">m</HI>pur<HI REND="italic">e</HI> &amp; to telle<HI REND="italic">n</HI> w<HI REND="italic">ith</HI> tu<HI REND="italic">n</HI>ge,—</L>
+<L>al þ<HI REND="italic">at</HI> his trw tutor wold no[t] <NOTE N="6)" PLACE="foot">t <HI REND="italic">undeutlich</HI></NOTE> entende.</L>
+<L>"Allas", sayd þ<HI REND="italic">at</HI> caytyf, "qwat woo hath þe wru<HI REND="italic">n</HI>ge?</L>
+<L>to wirkyn a-ȝens me, neu<HI REND="italic">er</HI> I þe reende?</L>
+<L>þ<HI REND="italic">ou</HI> schalt for þi traytury to t<HI REND="italic">ur</HI>me<HI REND="italic">n</HI>t be slou<HI REND="italic">n</HI>ge,</L>
+<L>to fecchen alle þi ferys fro foly he<HI REND="italic">m</HI> to fende!"</L>
+<L>Fro foly þer<HI REND="italic">e</HI> he fende hym,</L>
+<L>W<HI REND="italic">ith</HI> mekenes to mende hym</L>
+<L>To þe deth, qwe<HI REND="italic">n</HI> he went.</L>
+<L>Eu<HI REND="italic">er</HI> Porphiri wende hym,</L>
+<L>Goddys merci to me<HI REND="italic">n</HI>de hym,</L>
+<L>ffor his heed was his rent.</L>
+</LG>
+<LG N="10">
+<PB N="543" REF="21"/>
+<HEAD>10.</HEAD>
+<L>Þa<HI REND="italic">n</HI> was lufly Kat<HI REND="italic">er</HI>eyn lyft vp o-loft</L>
+<L>&amp; laȝgth fro þ<HI REND="italic">at</HI> low lake þ<HI REND="italic">at</HI> lurdeyn to lef.</L>
+<L>He sayd to þ<HI REND="italic">at</HI> semly her sorowes for to soft:</L>
+<L>"&amp; se<HI REND="italic">n</HI>d o<HI REND="italic">ur</HI> syre þi sac<HI REND="italic">ri</HI>fice, no scha<HI REND="italic">m</HI>e schal þe gref,</L>
+<L>And j schal crowne þe i<HI REND="italic">n</HI> þe court of o<HI REND="italic">ur</HI> goddess<HI REND="italic">e</HI> croft,</L>
+<L>&amp; aft<HI REND="italic">er</HI> my first chosy<HI REND="italic">n</HI> j chese þe þe chef;</L>
+<L>&amp; bot þ<HI REND="italic">ou</HI> folow þis fast, faynt schalt þ<HI REND="italic">ou</HI> oft,</L>
+<L>qwyles any fresch freþe, may feel þe to mef.</L>
+<L>Qwyles þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> meue mayst</L>
+<L>And feel any greue mayst</L>
+<L>W<HI REND="italic">ith</HI> pu<HI REND="italic">n</HI>chyng of peles,</L>
+<L>Siþ not my god þ<HI REND="italic">ou</HI> leue mayst,</L>
+<L>Prestly þ<HI REND="italic">ou</HI> preue mayst</L>
+<L>Turnyng of qweles."</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Wyth wrenchis &amp; wylys þus wrogth he hi<HI REND="italic">s</HI> wrake,</L>
+<L>w<HI REND="italic">ith</HI> a wo<HI REND="italic">n</HI>d<HI REND="italic">ur</HI>ful cast þ<HI REND="italic">at</HI> wiȝth to wyn<HI REND="italic">n</HI>e;</L>
+<L>Al her<HI REND="italic">e</HI> v<HI REND="italic">er</HI>tuuswerk for wychcraft was take,</L>
+<L>for sche wrogth not his will<HI REND="italic">e</HI> for sleyȝt ne for gyn<HI REND="italic">n</HI>e.</L>
+<L>þan made he þ<HI REND="italic">at</HI> mayden̄ his mynde for to make,</L>
+<L>to medyl hir<HI REND="italic">e</HI> w<HI REND="italic">ith</HI> mischef hir myȝth for to myn<HI REND="italic">n</HI>e</L>
+<L>So slely þ<HI REND="italic">at</HI> sleyȝth so deuly was schake,</L>
+<L>þ<HI REND="italic">at</HI> four thowsand of þ<HI REND="italic">at</HI> thref thyrst were ful thyn<HI REND="italic">n</HI>e.</L>
+<L>Qwan þ<HI REND="italic">at</HI> throng was thyn þan,</L>
+<L>Disioyned was þ<HI REND="italic">at</HI> gyn þan</L>
+<L>Selcouyth i<HI REND="italic">n</HI> syȝth.</L>
+<L>Matrones more &amp; many <NOTE N="1)" PLACE="foot"><HI REND="italic">lies</HI> myn</NOTE> þan</L>
+<L>W<HI REND="italic">ith</HI> maydens wold not blyn þan</L>
+<L>To wepe for þ<HI REND="italic">at</HI> wyȝth.</L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>þan þ<HI REND="italic">at</HI> beerde briȝthest brast on a breyd,</L>
+<L>to þo bu<HI REND="italic">n</HI>tiful beerde<HI REND="italic">s</HI> a-booue sche he<HI REND="italic">m</HI> bilde,</L>
+<L>To haue no pyte on hir peyne p<HI REND="italic">re</HI>stly sche preyd,</L>
+<L>so al hir pert pouste i<HI REND="italic">n</HI> payne hit was pilde.</L>
+<L>þan þ<HI REND="italic">at</HI> sory senato<HI REND="italic">ur</HI> sodanly seyd,</L>
+<L>for sche so þo feres freschely had fylde:</L>
+<L>Liȝthly w<HI REND="italic">ith</HI> a swerd hir<HI REND="italic">e</HI> lyf schuld be leyd,</L>
+<L>to lawnch þ<HI REND="italic">at</HI> lym̄ <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> lym? l <HI REND="italic">undeutlich.</HI></NOTE> lusty, hir nek was ful milde.</L>
+<L><PB N="544" REF="22"/>
+As feythful to fynde here</L>
+<L>And co<HI REND="italic">m</HI>ly fulkynd here</L>
+<L>Sche p<HI REND="italic">ra</HI>yed for hir frendys,</L>
+<L>þat, qwo so wold bynde he<HI REND="italic">m</HI> <NOTE N="1)" PLACE="foot"><HI REND="italic">so Ms., lies</HI> hem bynde.</NOTE> her<HI REND="italic">e,</HI></L>
+<L>To haue hir<HI REND="italic">e</HI> i<HI REND="italic">n</HI> mynde here,</L>
+<L>To fende he<HI REND="italic">m</HI> fro fendys.</L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>An heyly<HI REND="italic">n</HI>g ful hendly Kat<HI REND="italic">er</HI>eyn þ<HI REND="italic">er</HI> hente,</L>
+<L>qwe<HI REND="italic">n</HI> he, þ<HI REND="italic">at</HI> was hyȝest, hyr orisou<HI REND="italic">n</HI> herde</L>
+<L>&amp; seyd: "my der<HI REND="italic">e</HI> derlyng, to trewth take e<HI REND="italic">n</HI>tent,</L>
+<L>for þei schal lif at þi lust, on þi loue haf lerede.</L>
+<L>To save þe fulsone I am at a-sent,</L>
+<L>to fende þe fro fyendys wald make þe a-ferde,</L>
+<L>ffor alle þe meyne of myrþe hely haue mente,</L>
+<L>to myrthe þe w<HI REND="italic">ith</HI> melody, qwe<HI REND="italic">n</HI> myth hath þe merde.</L>
+<L>Qwan merde haþ þe myȝth þus,</L>
+<L>þe schol <NOTE N="2)" PLACE="foot"><HI REND="italic">so Ms., lies</HI> schal.</NOTE> I lyȝth þus</L>
+<L>fful hyȝe vp i<HI REND="italic">n</HI> heue<HI REND="italic">n,</HI></L>
+<L>As semly i<HI REND="italic">n</HI> our<HI REND="italic">e</HI> siȝth þus</L>
+<L>Schalt þ<HI REND="italic">ou</HI> rest o-riȝth þus</L>
+<L>þo<HI REND="italic">ur</HI> stiffenes of steue<HI REND="italic">n</HI>!"</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>þan p<HI REND="italic">re</HI>stly þ<HI REND="italic">at</HI> p<HI REND="italic">ri</HI>sonere hir nek forth sche pytte</L>
+<L>&amp; p<HI REND="italic">re</HI>uyd hir self purly, qwe<HI REND="italic">n</HI> peyne did [hir] prik.</L>
+<L>ffersly w<HI REND="italic">ith</HI> a faunchou<HI REND="italic">n</HI> þ<HI REND="italic">at</HI> co<HI REND="italic">m</HI>ly was kitte,</L>
+<L>þ<HI REND="italic">at</HI> milk fro þ<HI REND="italic">at</HI> mayden throng þere ful thik.</L>
+<L>þus was þe cors knytt of a kayftyf <NOTE N="3)" PLACE="foot">so Ms.</NOTE> vnknytt,</L>
+<L>qwe<HI REND="italic">n</HI> fayntly sche fou<HI REND="italic">n</HI>dyed as a flayn flik,</L>
+<L>&amp; as fresch fesau<HI REND="italic">n</HI>t to hir<HI REND="italic">e</HI> fer<HI REND="italic">e</HI> þan sche flytt,</L>
+<L>qwe<HI REND="italic">n</HI> sche was wou<HI REND="italic">n</HI>did vn-worthi as woful &amp; wik.</L>
+<L>þan þ<HI REND="italic">at</HI> flik flayn newe</L>
+<L>Angeles ful fayn newe</L>
+<L>Hir body þei fett,</L>
+<L>W<HI REND="italic">ith</HI> myȝth &amp; w<HI REND="italic">ith</HI> mayn newe</L>
+<L>Hir þ<HI REND="italic">at</HI> was slayn newe</L>
+<L>In Syna þei sett.</L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>To Syna ful scherply sothly þei flye,</L>
+<L>qwe<HI REND="italic">n</HI> þei hadd fet þ<HI REND="italic">at</HI> feþiful farly to feel.</L>
+<L><PB N="545" REF="23"/>
+To C<HI REND="italic">ri</HI>st for þ<HI REND="italic">at</HI> curteys co<HI REND="italic">m</HI>ly þei crye,</L>
+<L>for þei knew wele þ<HI REND="italic">at</HI> Kat<HI REND="italic">er</HI>eyn o<HI REND="italic">ur</HI> karis schuld h(e)r<HI REND="italic">e</HI> keel.</L>
+<L>Myȝtthily o þ<HI REND="italic">at</HI> mou<HI REND="italic">n</HI>t w<HI REND="italic">ith</HI> melodye</L>
+<L>þei mynt for to myrthe vs at euere ilk a meel,</L>
+<L>þer<HI REND="italic">e</HI> fore thanke hyr<HI REND="italic">e</HI> to herborgh hye,</L>
+<L>qwer fro hire realy oyl riueres ren<HI REND="italic">n</HI>es <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> reu̇es (= reu<HI REND="italic">er</HI>es?).</NOTE> reel.</L>
+<L>Oyl releþ oft so</L>
+<L>ffro hir vp o-loft so</L>
+<L>Sekenes to socure;</L>
+<L>þus salf fro hir soft so</L>
+<L>Com<HI REND="italic">m</HI>eth fro hir croft so</L>
+<L>Hir to honoure.</L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>þis peyne þ<HI REND="italic">at</HI> sche p<HI REND="italic">re</HI>uyd—j rede, þ<HI REND="italic">ou</HI> it pond<HI REND="italic">ur,</HI></L>
+<L>þ<HI REND="italic">at</HI> sche put þ<HI REND="italic">e</HI> fro p<HI REND="italic">ri</HI>so<HI REND="italic">u</HI>n, qwer<HI REND="italic">e</HI> peyne is ful prest,</L>
+<L>ffor alle þ<HI REND="italic">at</HI> hir<HI REND="italic">e</HI> worchipes sche wardeþ he<HI REND="italic">m</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wo<HI REND="italic">n</HI>d<HI REND="italic">ur</HI></L>
+<L>&amp; reuleþ he<HI REND="italic">m</HI> be reso<HI REND="italic">u</HI>n þ<HI REND="italic">at</HI> recheþ he<HI REND="italic">m</HI> to rest.</L>
+<L>Qwe<HI REND="italic">n</HI> þ<HI REND="italic">ou</HI> tretest i<HI REND="italic">n</HI> tempest of hayl or of thond<HI REND="italic">ur,</HI></L>
+<L>sche kouer<HI REND="italic">e</HI>s þe kyndly fro kares þe to kest</L>
+<L>&amp; sendys þe surau<HI REND="italic">n</HI>s þi sorowes for to sond<HI REND="italic">ur</HI></L>
+<L>&amp; brynges þe to bonchef þi bales to brest.</L>
+<L>Fro balys to blyss<HI REND="italic">e</HI> þor</L>
+<L>Wytty sche wyss<HI REND="italic">e</HI> þor</L>
+<L>þ<HI REND="italic">at</HI> haue hir<HI REND="italic">e</HI> i<HI REND="italic">n</HI> mynde.</L>
+<L>No myȝth may sche miss<HI REND="italic">e</HI> þor,</L>
+<L>ffor C<HI REND="italic">ri</HI>st g<HI REND="italic">ra</HI>unt hir þiss<HI REND="italic">e</HI> þor,</L>
+<L>Qwer<HI REND="italic">e</HI> sche was pynde.</L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L><HI REND="bold">K</HI> Kepe he<HI REND="italic">m</HI> her<HI REND="italic">e,</HI> Kat<HI REND="italic">er</HI>eyn, al þ<HI REND="italic">at</HI> þe call<HI REND="italic">e</HI></L>
+<L>&amp; kache he<HI REND="italic">m</HI> fro kares, qwe<HI REND="italic">n</HI> þei krepen i<HI REND="italic">n</HI> klay,</L>
+<L><HI REND="bold">a</HI> &amp; he<HI REND="italic">m,</HI> þ<HI REND="italic">at</HI> are of Adam her<HI REND="italic">e</HI> all<HI REND="italic">e,</HI></L>
+<L>fro þe aungeles of angwysch þ<HI REND="italic">ou</HI> awtur he<HI REND="italic">m</HI> ay!</L>
+<L><HI REND="bold">t</HI> Turne a-way al trayt[o]<HI REND="italic">ur</HI>es, <NOTE N="2)" PLACE="foot"><HI REND="italic">Ms.</HI> trayt{ur}es.</NOTE> turtyl so tall<HI REND="italic">e,</HI></L>
+<L>þ<HI REND="italic">at</HI> towchyn vs w<HI REND="italic">ith</HI> t<HI REND="italic">ur</HI>mentys of tene &amp; of tray,</L>
+<L><HI REND="bold">e</HI> Euer entrik þ<HI REND="italic">ou</HI> o<HI REND="italic">ur</HI> enmyes to falle,</L>
+<L>entyr þ<HI REND="italic">ou</HI> our<HI REND="italic">e</HI> heraudys to Crist euer<HI REND="italic">e</HI>-I-day!</L>
+<L><HI REND="bold">r</HI> Reche vs blyss<HI REND="italic">e</HI> blyth þer,</L>
+<L><HI REND="bold">i</HI> Ientyl i<HI REND="italic">n</HI> loue liþ þer,</L>
+<L>Our<HI REND="italic">e</HI> foos for to fende!</L>
+<L><PB N="546" REF="24"/><HI REND="bold">n</HI> Now swynk þ<HI REND="italic">ou</HI> for vs swith þer<HI REND="italic">e,</HI></L>
+<L><HI REND="bold">a</HI> Ay kyndnes to hiẏ <NOTE N="1)" PLACE="foot"><HI REND="italic">so Ms.,</HI> ? = hiþ.</NOTE> þer<HI REND="italic">e,</HI></L>
+<L>Our<HI REND="italic">e</HI> myrthys for to mende!</L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L><HI REND="bold">Ri</HI> Ryal þ<HI REND="italic">ou</HI> reyngnest, qwer<HI REND="italic">e</HI> ryalte is ryf,</L>
+<L>&amp; rewlyst he<HI REND="italic">m</HI> þ<HI REND="italic">at</HI> berwd &amp; redy<HI REND="italic">n</HI> on þe rent.</L>
+<L><HI REND="bold">car</HI> Carpy<HI REND="italic">n</HI>g of þi curtesy kep vs fro þ<HI REND="italic">at</HI> cnyf</L>
+<L>þ<HI REND="italic">at</HI> c<HI REND="italic">ur</HI>surdly karueth vs, qwe<HI REND="italic">n</HI> we to syn<HI REND="italic">n</HI>e sent.</L>
+<L><HI REND="bold">d</HI> Dyntes of deuelys der<HI REND="italic">e</HI> fro vs dryue,</L>
+<L>þ<HI REND="italic">at</HI> doluy<HI REND="italic">n</HI> be<HI REND="italic">n</HI> i<HI REND="italic">n</HI> derckeness<HI REND="italic">e</HI> deply a dent.</L>
+<L><HI REND="bold">vs</HI> Vs qwich of his v<HI REND="italic">er</HI>tues, qwer<HI REND="italic">e</HI> þ<HI REND="italic">ou</HI> art wyffe,</L>
+<L>þ<HI REND="italic">at</HI> wyȝthly wroȝgth al, w<HI REND="italic">ith</HI> qwo<HI REND="italic">m</HI> þ<HI REND="italic">ou</HI> art went.</L>
+<L>With qwo<HI REND="italic">m</HI> þ<HI REND="italic">ou</HI> art went now,</L>
+<L>Heel þ<HI REND="italic">ou</HI> vs hent now,</L>
+<L>Virgyn so cleen!</L>
+<L>Her bales mayst þ<HI REND="italic">ou</HI> blent now</L>
+<L>To lerne þe a-sent now,</L>
+<L>Son̄ beem so scheen!</L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L><HI REND="bold">S</HI> Scher<HI REND="italic">e</HI> a-way charp schowr<HI REND="italic">e</HI>s þ<HI REND="italic">at</HI> schap vs to schrik</L>
+<L>&amp; schaf a-wey chame<HI REND="italic">s</HI> þ<HI REND="italic">at</HI> schru<HI REND="italic">n</HI>k be i<HI REND="italic">n</HI> sche<HI REND="italic">n</HI>chip!</L>
+<L><HI REND="bold">pal</HI> Pales vs w<HI REND="italic">ith</HI> pyte &amp; pride fro vs pik,</L>
+<L>put vs fro þis pouert &amp; put vs to wirchip,</L>
+<L><HI REND="bold">d</HI> Draw vs to þi dy<HI REND="italic">n</HI>gnite fro þis depe dyk</L>
+<L>&amp; to þi dentiwos dool qwer<HI REND="italic">e</HI> deieþ eu<HI REND="italic">er</HI> demschip!</L>
+<L><HI REND="bold">y</HI> Ioyne vs to Ie<HI REND="italic">s</HI>u, þ<HI REND="italic">at</HI> chesus <NOTE N="2)" PLACE="foot"><HI REND="italic">so Ms.,</HI> = ches us.</NOTE> hym lyk,</L>
+<L>chef of o<HI REND="italic">ur</HI> iornay we chees euer þi frenchip:</L>
+<L><HI REND="bold">n</HI> Now þi frenchip to fynde ay,</L>
+<L><HI REND="bold">g</HI> God on þe make o<HI REND="italic">ur</HI> mynde ay,</L>
+<L>Our<HI REND="italic">e</HI> mede to encress<HI REND="italic">e</HI>!</L>
+<L>þo pynchars vs haf pynd ay,</L>
+<L>þ<HI REND="italic">ou</HI> kille he<HI REND="italic">m</HI> Kateryn̄ kynd ay</L>
+<L>And p<HI REND="italic">ro</HI>for vs þi pess<HI REND="italic">e</HI>!</L>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>I grete þe, most gracyous, to governe he<HI REND="italic">m</HI> al</L>
+<L>þ<HI REND="italic">at</HI> geder þe to hir giyld, he<HI REND="italic">m</HI> for to gyde.</L>
+<L>ffeed vs feer fayful, þ<HI REND="italic">at</HI> vs no foly fal,</L>
+<L>for seynthed &amp; freelte we feel vs be-syde!</L>
+<L>Saue þ<HI REND="italic">ou</HI> o<HI REND="italic">ur</HI> sawles synful, qwe<HI REND="italic">n</HI> þei a-per<HI REND="italic">e</HI> schal</L>
+<L>&amp; w<HI REND="italic">ith</HI> vs to þi won<HI REND="italic">n</HI>y<HI REND="italic">n</HI>g fro þis woo wyde</L>
+<L><PB N="547" REF="25"/>
+To þ<HI REND="italic">at</HI> kyng þ<HI REND="italic">at</HI> is kyndest, Kat<HI REND="italic">er</HI>eyne, vs cal,</L>
+<L>þ<HI REND="italic">at</HI> born was o<HI REND="italic">ur</HI> broþ<HI REND="italic">ur,</HI> i<HI REND="italic">n</HI> blis we to a-byde!</L>
+<L>Kat<HI REND="italic">er</HI>eyne to þat kyng vs</L>
+<L>þat on cross<HI REND="italic">e</HI> for hyng vs</L>
+<L>Vs alle mut þ<HI REND="italic">ou</HI> wyss<HI REND="italic">e</HI>!</L>
+<L>To þ<HI REND="italic">at</HI> bliss<HI REND="italic">e</HI> <NOTE N="1)" PLACE="foot">so Ms.</NOTE> he bryng vs,</L>
+<L>Qwer<HI REND="italic">e</HI> aungeles schul syng vs</L>
+<L>W<HI REND="italic">ith</HI> joye &amp; w<HI REND="italic">ith</HI> blyss<HI REND="italic">e</HI>!</L>
+<CLOSER>Amen̄.</CLOSER>
+</LG>
+</DIV1>
+<DIV1 TYPE="hymn">
+<HEAD>Hymne auf die fünf freuden der Maria.</HEAD>
+<HEAD TYPE="sub">Scā Maria.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>[<HI REND="bold">M</HI>]yldyste of moode &amp; mekyst of maydyns alle,</L>
+<L>O modyrs m<HI REND="italic">er</HI>cyfullyst, most chast þ<HI REND="italic">at</HI> eu<HI REND="italic">er</HI> was wyfe,</L>
+<L>Worschypfullyst of wom<HI REND="italic">en</HI> þ<HI REND="italic">at</HI> were ȝet be or schalle,</L>
+<L>P<HI REND="italic">ar</HI>fytst of x x x x x <GAP DESC="symbol" EXTENT="1 letter" DISP="〈☐〉"/> <NOTE N="2)" PLACE="foot"><HI REND="italic">Vor</HI> prayowre <HI REND="italic">mehrere kreuze auf Rasur und ein zeichen <GAP DESC="symbol" EXTENT="1 letter" DISP="〈☐〉"/>.</HI></NOTE> prayowre þ<HI REND="italic">e</HI> best þ<HI REND="italic">at</HI> euyr bare lyve,</L>
+<L>Whose salutacyon was fyrste Ioye of thy fyve,</L>
+<L>Whan Gabriel seyde "hayle, Mary, ful of grace",</L>
+<L>Wyth þ<HI REND="italic">e</HI> wheche worde þ<HI REND="italic">e</HI> holy gost as blyue</L>
+<L>Wyth yn þ<HI REND="italic">i</HI> chest hath chosyn a ioyful place.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>[<HI REND="bold">A</HI>] secunde Ioy hadyst þ<HI REND="italic">ou,</HI> whan Cryst Ie<HI REND="italic">s</HI>u</L>
+<L>Of þ<HI REND="italic">e</HI> was borne, &amp; ȝet was þ<HI REND="italic">ou</HI> a mayde,</L>
+<L>ffor co<HI REND="italic">m</HI>pany of man thou nevyr knewe;</L>
+<L>Chylde forth þ<HI REND="italic">ou</HI> brynge but w<HI REND="italic">ith</HI> wordes þ<HI REND="italic">at</HI> wer sayde</L>
+<L>Of þ<HI REND="italic">e</HI> aungel, whom of þ<HI REND="italic">ou</HI> wher a-frayde,</L>
+<L>Tyll he seyde: "Mary, <NOTE N="3)" PLACE="foot"><HI REND="italic">Ms.</HI> Mary dere <HI REND="italic">(also</HI> dere <HI REND="italic">ungültig).</HI></NOTE> loke, þ<HI REND="italic">ou</HI> drede nowte,</L>
+<L>Plucke vp thyn herte, and be no thyng dysmayde,</L>
+<L>ffor thys hye werke almyghty god hatħ wrowte.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>[<HI REND="bold">R</HI>]ysyn fro<HI REND="italic">m</HI> dethe to lyf that ys eterne</L>
+<L>Ys thy swete son ascend vp on hye,</L>
+<L>In to a trone above the stremyng sterren,</L>
+<L>Wher aungellys syng a-bowte þ<HI REND="italic">e</HI> chererchy,</L>
+<L>Lovyng þ<HI REND="italic">at</HI> lorde wyth heuynly melody</L>
+<L>As kyng of kyng<HI REND="italic">es</HI> whose re<HI REND="italic">n</HI>gne schal eu<HI REND="italic">er</HI> endure."</L>
+<L>Lo gracious lady and modyr of mercy,</L>
+<L>Thys was thyrde ioy of thy blest auenture.</L>
+</LG>
+<LG N="4">
+<PB N="548" REF="26"/>
+<HEAD>4.</HEAD>
+<L>[<HI REND="bold">I</HI>]n solempne wyse assu<HI REND="italic">m</HI>ptyd wyth a songe</L>
+<L>Of cherubyn, thy forthe ioy to atteyne,</L>
+<L>Was þ<HI REND="italic">i</HI> body and thy sowle aungellys a-monge</L>
+<L>Vnto thy son browte vp yn Febus wayne,</L>
+<L>Wher p<HI REND="italic">er</HI>sonys three yn .O. god sytte certeyne, <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> certeyte</NOTE></L>
+<L>Of whose p<HI REND="italic">re</HI>sens ryght ioyful mayste thow be;</L>
+<L>ffor as scrypture in holy bokys sayn:</L>
+<L>Thow co<HI REND="italic">n</HI>ceyuydyst clene that holy trinite.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>[<HI REND="bold">A</HI>]nde they alle three of on affeccion</L>
+<L>Haue chosy[n] the cheffe, te <NOTE N="2)" PLACE="foot">so Ms.</NOTE> quene for to be</L>
+<L>Of heyvyn and erthe, wos coronacione</L>
+<L>Was thy fyrste ioy wyth grete solempnyte.</L>
+<L>Now blyste lady, flowre of uirginite,</L>
+<L>Graunt vs thy grace oure lyvys to a-men[d],</L>
+<L>That we may come here aftyr <NOTE N="3)" PLACE="foot"><HI REND="italic">Ms.</HI> astyr</NOTE> vnto the</L>
+<L>Vnto þ<HI REND="italic">at</HI> ioye whyche nevyr schal haue ende.</L>
+</LG>
+<LG>
+<L><HI REND="bold">P</HI>ryncesse, pray to thy sone,</L>
+<L><HI REND="bold">I</HI>n worschyp of þ<HI REND="italic">i</HI> salutacyon,</L>
+<L><HI REND="bold">P</HI>erpetually þ<HI REND="italic">at</HI> we may wone</L>
+<L><HI REND="bold">W</HI>yth hym yn hys hy domynacione,</L>
+<L><HI REND="bold">E</HI>uyr lastyng to lyue yn þ<HI REND="italic">at</HI> <NOTE N="4)" PLACE="foot"><HI REND="italic">Ms.</HI> y<SUP>t</SUP>? t <HI REND="italic">un∣deutlich!</HI></NOTE> mancione—</L>
+<L><HI REND="bold">L</HI>ady graunt vs thys sayde supplycacione!</L>
+</LG>
+<CLOSER><DATELINE>GÖTTINGEN.</DATELINE>
+<SIGNED>W. HEUSER.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

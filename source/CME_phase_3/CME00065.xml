@@ -1,0 +1,1710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-15-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed some MILESTONEs from prose; removed some DIV1s and DIV3s; changed TRAILER to CLOSER; removed two prose fragments from beginning of text. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00065">
+<STC T="M">65</STC>
+<BIBNO T="mec">CME00065</BIBNO>
+<VID>CME00065</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="16" REF="1"/>
+<PB N="38" REF="23"/>
+<DIV2 N="H." TYPE="version">
+<HEAD>H.</HEAD>
+<HEAD>DE TYOPHILO CLERICO NARRATIO.</HEAD>
+<LG>
+<L>A bisschop wond biȝond þe se,</L>
+<L>and Cicile hight [þe same cete <NOTE N="1)" PLACE="foot">þonne þe cuntre <HI REND="italic">T. Schon im blick auf die lesart von V erscheint</HI> cuntre <HI REND="italic">als die lesart des originals.</HI></NOTE>.</L>
+<L>He had a clerk þat Tiophi<HI REND="italic">ll</HI> hight,</L>
+<L>þat serued him trewly and right;</L>
+<L>he was so worthi and so wise,</L>
+<L>al men him lufed for his seruise.</L>
+<L>Þe bisschop put in his pouste</L>
+<L>both lond and rent <NOTE N="2)" PLACE="foot">and <HI REND="italic">add. T.</HI></NOTE>, gold and fe.</L>
+<L>To all his gudes he toke entent,</L>
+<L>and was resaiuore of his rent; <MILESTONE N="10"/></L>
+<L>and he was chefe-officiale,</L>
+<L>and maister both by doune and dale;</L>
+<L>he bare him faire and curtaisly</L>
+<L>and was wele lufed in his baily.</L>
+<L>Gude he was in a<HI REND="italic">ll</HI> degre</L>
+<L>and led his life in charite;</L>
+<L>he was so curtais and so hende,</L>
+<L>ilk man him lufed and was his frende;</L>
+<L>none was halden so wise in werk,</L>
+<L>as Tiophi<HI REND="italic">ll,</HI> þe bisschop clerk. <MILESTONE N="20"/></L>
+<L><PB N="39" REF="24"/>
+All pouer folk <NOTE N="1)" PLACE="foot">fo<HI REND="italic">ll H;</HI> folk <HI REND="italic">richtig T.</HI></NOTE>, þat had nede,</L>
+<L>lufed him for his almusdede:</L>
+<L>if þai war nakid, he þam cled,</L>
+<L>if þai war hungri, he þam fed.</L>
+<L>He was so ful ay of gudenes,</L>
+<L>al men he <NOTE N="2)" PLACE="foot">him <HI REND="italic">T</HI> = <HI REND="italic">V.</HI></NOTE> lufed <NOTE N="3)" PLACE="foot">bothe <HI REND="italic">add. T.</HI></NOTE> more and les.</L>
+<L>And efterward so auenture fell,</L>
+<L>þe bisschop died, als I þow tell;</L>
+<L>and hastily, when he was ded,</L>
+<L>lered and laud a<HI REND="italic">ll</HI> toke to rede, <MILESTONE N="30"/></L>
+<L>fforto luke what man was wisest <NOTE N="4)" PLACE="foot">wiest <HI REND="italic">H.</HI></NOTE></L>
+<L>and worth to be þaire bisschop best;</L>
+<L>and all þai gaf þaire voice haly,</L>
+<L>þat Tyophi<HI REND="italic">ll</HI> was best worthi,</L>
+<L>fforto haue þe bisschoprike,</L>
+<L>ffor of wit was none halden slike;</L>
+<L>of a<HI REND="italic">ll</HI> <NOTE N="5)" PLACE="foot">al <HI REND="italic">T.</HI></NOTE> bountese þe best was he:</L>
+<L>þai chese him bisschop forto be.</L>
+<L>Þan þe fende for grete enuy</L>
+<L>in him kithed his maistri; <MILESTONE N="40"/></L>
+<L>he made his hert ful hard and stithe,</L>
+<L>þat he suld noght þaire wordes lithe,</L>
+<L>þat he suld noght grante þaire asking,</L>
+<L>fforto be bisschop for no thing.</L>
+<L>Þus þe fende so had him lered,</L>
+<L>[þat, when he <NOTE N="6)" PLACE="foot">. . . . . at he <HI REND="italic">T; hier scheint also</HI> when þat <HI REND="italic">gestanden zu haben.</HI></NOTE> was of þam enquerd,</L>
+<L>he said: "I am noght worth to be</L>
+<L>man of so grete dignite;</L>
+<L>[ffor þi chese ȝow a noþer man <NOTE N="7)" PLACE="foot">. . ese ȝow þarfore . . . . . . . . <HI REND="italic">Weiter ist auf der zeile nichts mehr vorh., doch deutet der rest die urspr. wortstellung an, vgl. V v. 45.</HI></NOTE></L>
+<L>þat wiselier ȝow counsai<HI REND="italic">ll</HI> can; <MILESTONE N="50"/></L>
+<L>ffor suthly say I ȝow ilkane,</L>
+<L>þat bisschop of me get ȝe nane!"</L>
+<L>Þan þe folk was euil paid,</L>
+<L>and unto him halely þai praide,</L>
+<L>þat he wald be þaire prelate,</L>
+<L>bot he ne wald grante þam by no gate;</L>
+<L>and a<HI REND="italic">ll</HI> þai said, þat he did i<HI REND="italic">ll,</HI></L>
+<L>and pat it was noght goddes wi<HI REND="italic">ll.</HI></L>
+<L>Þarfore leue so ne wald þai noght,</L>
+<L>maugre his þai haue him broght <MILESTONE N="60"/></L>
+<L>byfore pe pape, and praied sone,</L>
+<L>þat he suld grante <NOTE N="8)" PLACE="foot">grate <HI REND="italic">H.</HI></NOTE> to þam þaire bone.</L>
+<L>Þan Tiophi<HI REND="italic">ll</HI> ful sare gan grete,</L>
+<L><PB N="40" REF="25"/>
+and fell bifor þe papes fete,</L>
+<L>and bisoght him for goddes sake,</L>
+<L>þat he suld him no bisschop make.</L>
+<L>"I am", he said, "a sinfull man,</L>
+<L>and ful liti<HI REND="italic">ll</HI> gude <NOTE N="1)" PLACE="foot">gud <HI REND="italic">T.</HI></NOTE> I can,</L>
+<L>fforto haue swilk a dignite;</L>
+<L>and þarfore, lord, þar charite! <MILESTONE N="70"/></L>
+<L>in þis tyme þat ȝe me spare,</L>
+<L>and mak anoþer bisschop þare.</L>
+<L>Þe pape þan gaf him daies thre,</L>
+<L>better to avised be,</L>
+<L>and bad him cum on þe þrid day,</L>
+<L>and þan his wi<HI REND="italic">ll</HI> he suld him say.</L>
+<L>Bot his hert was euer in a state,</L>
+<L>þat he wald be no prelate.</L>
+<L>On þe thrid day he come ogaine,</L>
+<L>and euer he said þe same, sertaine; <MILESTONE N="80"/></L>
+<L>and when þe pape persayued his wi<HI REND="italic">ll;</HI></L>
+<L>na more þan wald he speke him ti<HI REND="italic">ll.</HI></L>
+<L>Anoþer bisschop made þai sone,</L>
+<L>and sacred him, to sit in trone.</L>
+<L>Þat new-made bisschop, whare he dweld,</L>
+<L>Tiophi<HI REND="italic">ll</HI> ay with him he held,</L>
+<L>next him self ay forto be,</L>
+<L>in grete wirschip and dignite.</L>
+<L><NOTE N="2)" PLACE="foot"><HI REND="italic">Vor diesem verse steht die rothe überschrift:</HI> De temptacione diaboli.</NOTE> Þe deuil ȝit bi his quaintise</L>
+<L>bigiled him, þat was so wise; <MILESTONE N="90"/></L>
+<L>ffor als he with þe bisschop dweld,</L>
+<L>fful haly man þe folk him held,</L>
+<L>and halden he was in full high state,</L>
+<L>bot þe fende made it to abate;</L>
+<L>of wikkednes he gert him wrighe,</L>
+<L>and sum to his lord on him lighe:</L>
+<L>þai made him gilty with leseing</L>
+<L>of sere wranges, þat he wist no þing.</L>
+<L>Þe fende þe bisschop hert puruaid,</L>
+<L>so þat he <NOTE N="3)" PLACE="foot">he <HI REND="italic">zweiml geschr. in T.</HI></NOTE> trowed a<HI REND="italic">ll</HI> þat þai said, <MILESTONE N="100"/></L>
+<L>and for þe faus, þat he herd say,</L>
+<L>Tiophi<HI REND="italic">ll</HI> he put oway;</L>
+<L>and þarof <NOTE N="4)" PLACE="foot">þareoff <HI REND="italic">T.</HI></NOTE> him grete wonder thoght,</L>
+<L>ffor he wist noght, whi it was wroght;</L>
+<L>put he was fro his baily,</L>
+<L>and wist of none enchesoun, whi.</L>
+<L>Bot unto his hows gan he gang,</L>
+<L>and honest life he led ful lang</L>
+<L><PB N="41" REF="26"/>
+in his wanes with his menȝe,</L>
+<L>and gladly gaf he charite. <MILESTONE N="110"/></L>
+<L>Bot Sathanas, his fa, þe whiles</L>
+<L>ogaines him gederd many wiles,</L>
+<L>and spedely he gert him spend,</L>
+<L>and couayt widewhare to be kend;</L>
+<L>and when his gudes war nere gane,</L>
+<L>þan he wex ful wi<HI REND="italic">ll</HI> of wane:</L>
+<L>þe fende made him to think in hy,</L>
+<L>how he had bene in grete baily,</L>
+<L>and þan, how pouer þat he was;</L>
+<L>oftsithes he sighed and said: "Allas! <MILESTONE N="120"/></L>
+<L>þat euer was I halden wise</L>
+<L>and had sere men in my seruise,</L>
+<L>þai þat war wont by day and night,</L>
+<L>to honore me with a<HI REND="italic">ll</HI> þaire might:</L>
+<L>now I se, þai gif no tale,</L>
+<L>wheþer so I be seke or hale.</L>
+<L>"Ffor suth," he said, "now se I wele,</L>
+<L>þat <NOTE N="1)" PLACE="foot">me <HI REND="italic">add. T.</HI></NOTE> es schapin meki<HI REND="italic">ll</HI> unsele!</L>
+<L>Lord wi<HI REND="italic">ll</HI> no man now me ca<HI REND="italic">ll,</HI></L>
+<L>ne honore me in boure ne ha<HI REND="italic">ll,</HI> <MILESTONE N="130"/></L>
+</LG>
+<LG>
+<L>bot a<HI REND="italic">ll</HI> my, lordschip now es lorn.</L>
+<L>"Allas", he said, "þat I was born!"</L>
+<L>So meki<HI REND="italic">ll</HI> sorow he toke in hert,</L>
+<L>als þe fende of hell him gert,</L>
+<L>þat wele <NOTE N="2)" PLACE="foot">leuer <HI REND="italic">T.</HI></NOTE> had him dede haue bene,</L>
+<L>þan so to lif in trey and tene;</L>
+<L>he wald haue had penance ful grete,</L>
+<L>his office ogaine <NOTE N="3)" PLACE="foot">ogain <HI REND="italic">T.</HI></NOTE> forto gete,</L>
+<L>and neuer roght he, what to do,</L>
+<L>els þat he might cum þarto. <MILESTONE N="140"/></L>
+<L>Þe fende made him so think in haste,</L>
+<L>þat he moght thurgh þe wikked gaste</L>
+<L>get his office sone ogaine,</L>
+<L>and þar obout he did his payne.</L>
+</LG>
+<LG>
+<L>In þat cete wonde a <NOTE N="4)" PLACE="foot">wonde a <HI REND="italic">zweimal geschr. in T.</HI></NOTE> Jew,</L>
+<L>þat grete despite did ti<HI REND="italic">ll</HI> Jhesu;</L>
+<L><PB N="42" REF="27"/>
+fful fele sawls he reft him fra,</L>
+<L>and gert þam to pine of hell ga;</L>
+<L>he was fully þe fendes man,</L>
+<L>als a<HI REND="italic">ll</HI> his werkes witnest þan: <MILESTONE N="150"/></L>
+<L>he led his life <NOTE N="1)" PLACE="foot">lif <HI REND="italic">T.</HI></NOTE> in foule foly,</L>
+<L>in witchecraft and <NOTE N="2)" PLACE="foot">in <HI REND="italic">add. T.</HI></NOTE> sorcery.</L>
+<L>Tyophi<HI REND="italic">ll</HI> of þis þing had thoght,</L>
+<L>and to þat Jew ful sone he soght;</L>
+<L>unto þe Jew by night he went,</L>
+<L>als þe fende put in his entent.</L>
+</LG>
+<LG>
+<L>Þe Jew saw sone by his chere,</L>
+<L>þat he <NOTE N="3)" PLACE="foot">he <HI REND="italic">om. H.</HI></NOTE> wald of his lawes lere;</L>
+<L>he askid him, what was his will,</L>
+<L>and for what thing he come him ti<HI REND="italic">ll.</HI> <MILESTONE N="160"/></L>
+<L>Þan Tyophi<HI REND="italic">ll</HI> talde him al þe tale,</L>
+<L>how he had bene officiale</L>
+<L>and was done out of his baily,</L>
+<L>so þat men sett no thing him by.</L>
+<L>"And, sir, if þou might me socoure,</L>
+<L>and gett ogaine to þat honoure,</L>
+<L>so þat my might ogaine may rise,</L>
+<L>wele wald I quite þe þi seruise,</L>
+<L>ffor leuer war me dede <NOTE N="4)" PLACE="foot">ded <HI REND="italic">T.</HI></NOTE> to be,</L>
+<L>þan þus to lif in law degre; <MILESTONE N="170"/></L>
+</LG>
+<LG>
+<L>and þarfore <NOTE N="5)" PLACE="foot">þarfor <HI REND="italic">T.</HI></NOTE>, sir, I wald þe pray,</L>
+<L>þat þou wald help me, if þou may!"</L>
+<L>Þe Jew bad him murn nomare:</L>
+<L>he suld be comfort of his care,</L>
+<L>and bad him cum a sertaine <NOTE N="6)" PLACE="foot">sertain <HI REND="italic">T.</HI></NOTE> tyme</L>
+<L>on þe morn, to speke with him.</L>
+<L>When Tyophill herd þir wordes, iwis,</L>
+<L>his hert was ful of ioy and blis,</L>
+<L>and sone he hied him hame ogaine,</L>
+<L>ffor of his fare he was ful faine. <MILESTONE N="180"/></L>
+<L>He come opon þat oþer night</L>
+<L>ogaine to him, als he had hight.</L>
+<L>Þan said þe Jew: "Do mak <NOTE N="7)" PLACE="foot">m. k <HI REND="italic">H; der dazwischen liegende buchstabe ist unlesbar.</HI></NOTE> þe boune,</L>
+<L><PB N="43" REF="28"/>
+wend we wi<HI REND="italic">ll</HI> withouten toune."</L>
+<L>He led him furth unti<HI REND="italic">ll</HI> a hi<HI REND="italic">ll,</HI></L>
+<L>and on þis wise he said him ti<HI REND="italic">ll:</HI></L>
+<L>þat he suld no thing be afferd,</L>
+<L>ffor no thing, þat he saw ne herde;</L>
+<L>he said: "If þou wi<HI REND="italic">ll</HI> haue þi will,</L>
+<L>be noght abaist, bot hald þe sti<HI REND="italic">ll,</HI> <MILESTONE N="190"/></L>
+<L>and luke, þat þou make noght on þe</L>
+<L>no takin of þe trinite,</L>
+<L>ne ȝit no takin of þe croyce,</L>
+<L>ne neuyn þam noght in þi voyce;</L>
+<L>think nowþer on Christ ne on Mary,</L>
+<L>bot cum furth with me hardily:</L>
+<L>I sa<HI REND="italic">ll</HI> þe lede unto my king,</L>
+<L>þat sa<HI REND="italic">ll</HI> þe grant <NOTE N="1)" PLACE="foot">grante <HI REND="italic">T.</HI></NOTE> all þine asking."</L>
+</LG>
+<LG>
+<L>Þan answerd Tyophi<HI REND="italic">ll</HI> him unto:</L>
+<L>"Sir, als þou biddes me, sa<HI REND="italic">ll</HI> I do."</L>
+<L>When Thyophi<HI REND="italic">ll</HI> come <NOTE N="2)" PLACE="foot">como <HI REND="italic">H.</HI></NOTE> unto þat hi<HI REND="italic">ll,</HI></L>
+<L>whare he hopid to haue his wi<HI REND="italic">ll,</HI></L>
+<L>mekill folk þan fand he þare,</L>
+<L>fful faire attyred and richely fare;</L>
+<L>and in þe middes of þat gedering</L>
+<L>saw he sitt a ria<HI REND="italic">ll</HI> king.</L>
+<L>Þe Jew him led into <NOTE N="3)" PLACE="foot">unto <HI REND="italic">T.</HI></NOTE> þat place,</L>
+<L>whare þis folk a<HI REND="italic">ll</HI> gederd <NOTE N="4)" PLACE="foot">gaderd <HI REND="italic">T.</HI></NOTE> was;</L>
+<L>doune <NOTE N="5)" PLACE="foot">doun <HI REND="italic">T.</HI></NOTE> on þaire knese þai þam sett,</L>
+<L>and þe king ful faire þai grett. <MILESTONE N="210"/></L>
+<L>And þan þe deuil þat sat on dese,</L>
+<L>bad, a<HI REND="italic">ll</HI> men suld be in pese,</L>
+<L>and to þe Jew a<HI REND="italic">ll</HI> þus said he:</L>
+<L>"Whi hastou broght þat man to me?</L>
+<L>Oure counsaile falles him noght to knaw!"</L>
+<L>Þan answerd he and said þis saw:</L>
+<L>"Sir, þis man þat þou sese here,</L>
+<L>has bene a man of grete powere:</L>
+<L>he was þe bisschop officiale,</L>
+<L>and now þus es he broght in bale; <MILESTONE N="220"/></L>
+<L>losed has he his baily,</L>
+<L>and he wate none encheson, whi.</L>
+<L>He has no might, als he had are,</L>
+<L>and þarfore, sir, his hert <NOTE N="6)" PLACE="foot">herte <HI REND="italic">T.</HI></NOTE> es sare;</L>
+<L>he cums to pray ȝow of ȝowre grace,</L>
+<L>þat ȝe wald help him in þis case.</L>
+<L>To do ȝowre wi<HI REND="italic">ll</HI> he wi<HI REND="italic">ll</HI> noght spare,</L>
+<L><PB N="44" REF="29"/>
+and be ȝowre man for euer mare."</L>
+<L>Þe deuil answerd and said þan</L>
+<L>unto þat ilk unsely man: <MILESTONE N="230"/></L>
+<L>"If he will my seruand be,</L>
+<L>and lele and trew be unto me,</L>
+<L>to gretter welth I sa<HI REND="italic">ll</HI> him win,</L>
+<L>þan euer he bifore was in;</L>
+<L>he sa<HI REND="italic">ll</HI> haue more of werldes wele,</L>
+<L>þan euer he had by þe half dele,</L>
+<L>and meki<HI REND="italic">ll</HI> better sa<HI REND="italic">ll</HI> he fare,</L>
+<L>[þan euer he in þe werld fore are. <NOTE N="1)" PLACE="foot"><HI REND="italic">An stelle dieser zeile glaube ich in T zu lesen:</HI> whan would fall fl . . e til, <HI REND="italic">was ich nicht verstehe; doch sind diese zeilen überhaupt fast unlesbar in T.</HI></NOTE></L>
+<L>Bot if he sa<HI REND="italic">ll</HI> my seruand be,</L>
+<L>omage bus him mak to me, <MILESTONE N="240"/></L>
+<L>and or I him unto me take,</L>
+<L>Jhesu will I þat <NOTE N="2)" PLACE="foot">þat <HI REND="italic">om. T.</HI></NOTE> he forsake,</L>
+<L>and Mari his moder bath,</L>
+<L>ffor þai do me ful mekill scath:</L>
+<L>fful oft times bitwene þam twa</L>
+<L>tak þai my seruandes me fra.</L>
+<L>Þarfore, if he wi<HI REND="italic">ll</HI> þam forsake,</L>
+<L>and seþin omage unto me make,</L>
+<L>þan will I tak him to my knight</L>
+<L>and socoure him with a<HI REND="italic">ll</HI> my might: <MILESTONE N="250"/></L>
+<L>þat sa<HI REND="italic">ll</HI> him think to morn wele sett:</L>
+<L>with swilk a maister neuer he mett,</L>
+<L>ffor or to morn þat it be none,</L>
+<L>sal he be in his seruis done."</L>
+<L>When Tyophi<HI REND="italic">ll</HI> herd, þat he so said,</L>
+<L>in his <NOTE N="3)" PLACE="foot">his <HI REND="italic">zweimal geschr. in H.</HI></NOTE> hert he was wele paid,</L>
+<L>he fell on · knese bifor his fete,</L>
+<L>and thanked him of his faire <NOTE N="4)" PLACE="foot">fare <HI REND="italic">H.</HI></NOTE> hete;</L>
+<L>he said: "I will bicum þi man</L>
+<L>in a<HI REND="italic">ll</HI> þat euer I do can; <MILESTONE N="260"/></L>
+<L>both Crist and Mari here I forsake,</L>
+<L>and þe unto my lord I take!"</L>
+<L>With þat word <NOTE N="5)" PLACE="foot">worde <HI REND="italic">T.</HI></NOTE> lost he goddes grace</L>
+<L>and in him entred Sathanas.</L>
+<L>Þan said þe fende unto him tyte:</L>
+<L>"Conferme þi couenant with a scrite,</L>
+<L>so þat we both may hald us paid,</L>
+<L>and þat oure wordes be noght gaine <NOTE N="6)" PLACE="foot">gain <HI REND="italic">T.</HI></NOTE> said!"</L>
+<L>Þan Tyophi<HI REND="italic">ll</HI> on þe erth gan sit</L>
+<L>and with his hand he wrate a writ, <MILESTONE N="270"/></L>
+<L><PB N="45" REF="30"/>
+he selid it with his awin ring,</L>
+<L>and seþin bitoke it to þe king.</L>
+<L>He toke his leue þan at þe fende,</L>
+<L>and to þe cete gan he wende,</L>
+<L>inti<HI REND="italic">ll</HI> þe hows, þare he wonde biforn,</L>
+<L>makand ioy, ogaine þe morn.</L>
+<L>Þe bisschop on þat ilk night</L>
+<L>thought, þat he had done unright,</L>
+<L>when he put out of his seruise</L>
+<L>Tyophi<HI REND="italic">ll,</HI> þat was so wise; <MILESTONE N="280"/></L>
+<L>ogaine, <NOTE N="1)" PLACE="foot">Þanne <HI REND="italic">uns. P.</HI></NOTE> he thoght, he wald him take,</L>
+<L>als þe fende gan forward make,</L>
+<L>and þarfore sone opon þe morn</L>
+<L>Tyophi<HI REND="italic">ll</HI> cald he him biforn,</L>
+<L>and said: "Tyophi<HI REND="italic">ll,</HI> I vowche saue,</L>
+<L>þat þou ogaine þi seruise <NOTE N="2)" PLACE="foot">seruis <HI REND="italic">T.</HI></NOTE> haue;</L>
+<L>and, sir, I pray þe, be noght wrath,</L>
+<L>ffor it sa<HI REND="italic">ll</HI> turn þe to <NOTE N="3)" PLACE="foot">ti<HI REND="italic">ll T.</HI></NOTE> no scath!</L>
+<L>Wele I wate, þat þi counsaile</L>
+<L>may unto me ful meki<HI REND="italic">ll</HI> availe: <MILESTONE N="290"/></L>
+<L>þine office grant <NOTE N="4)" PLACE="foot">grante <HI REND="italic">T.</HI></NOTE> I þe ogaine."</L>
+<L>Þan was Tyophi<HI REND="italic">ll</HI> wonder-faine,</L>
+<L>and on þis wise he said him ti<HI REND="italic">ll:</HI></L>
+<L>"Lord, gladly wald I wirk þi will!"</L>
+</LG>
+<LG>
+<L>His office ogaine toke he þan;</L>
+<L>was he neuer so mery man.</L>
+<L><NOTE N="5)" PLACE="foot"><HI REND="italic">H und T haben die rothe überschrift:</HI> Tiophilus peruersus est diabolo.</NOTE> Tiophill has now his baily</L>
+<L>and ouer a<HI REND="italic">ll</HI> oþer grete maistri;</L>
+<L>ald and ȝong in a<HI REND="italic">ll</HI> þe land,</L>
+<L>a<HI REND="italic">ll</HI> þai bowed unti<HI REND="italic">ll</HI> his hand, <MILESTONE N="300"/></L>
+<L>and menskid him with al þaire maine,</L>
+<L>and of þat fare was he ful faine.</L>
+<L>He was halden so wise and quaint,</L>
+<L>he had þe dome of ilka plaint,</L>
+<L>and in him self grete pride had he,</L>
+<L>ffor he was in so grete degre.</L>
+<L>Þe Jew, þat had so helpid him,</L>
+<L>come, him to tent, ful many time,</L>
+<L>and said to him oftsithes sere,</L>
+<L>þat he suld think on al manere, <MILESTONE N="310"/></L>
+<L>thurgh wham þat he had his baily,</L>
+<L><PB N="46" REF="31"/>
+and wirschip ay his king for þi:</L>
+<L>"Ffor sertes", he said, "þou aw full right,</L>
+<L>to honore him with all þi might,</L>
+<L>and lele unto þat lord to be,</L>
+<L>þat all þis welth has gifen þe;</L>
+<L>and hald him hertly for þi king,</L>
+<L>and luf him ouer al oþer thing!"</L>
+<L>Tiophi<HI REND="italic">ll</HI> tentid to his counsaile <NOTE N="1)" PLACE="foot">counsai<HI REND="italic">ll T.</HI></NOTE></L>
+<L>and thankid him mekill of his trauaile. <NOTE N="2)" PLACE="foot">trauail <HI REND="italic">T.</HI></NOTE> <MILESTONE N="320"/></L>
+<L>He said: "I thank þi king and þe,</L>
+<L>ffor hertly haue ȝe helpid me!"</L>
+<L>Þe Jew said: "Luke þou, noght pray</L>
+<L>thing, þat oure maister oght greue mai,</L>
+<L>þi pater noster ne þi crede,</L>
+<L>neuin þam noght, I þe forbede!</L>
+<L>ne of Mari no minde þou ma,</L>
+<L>bot in þi hert despise þam twa!</L>
+<L>ffor lang or þai had helpid þe,</L>
+<L>fforto get to swilk degre: <MILESTONE N="330"/></L>
+<L>and luke, þou do none <NOTE N="3)" PLACE="foot">nout <HI REND="italic">T.</HI></NOTE> almusdede,</L>
+<L>bot pray oure king, þat he þe spede!"</L>
+<L>Tiophi<HI REND="italic">ll</HI> unto him assent,</L>
+<L>fforto do al his cumandment,</L>
+<L>and lang time so lifid he</L>
+<L>in mekill pride and iolite,</L>
+<L>and serued euer with a<HI REND="italic">ll</HI> his might</L>
+<L>þe fende, als he bifore had hight;</L>
+<L>ti<HI REND="italic">ll</HI> god, þat made cirne<HI REND="italic">ll</HI> and corn,</L>
+<L>and wald, no sinful war forlorn, <MILESTONE N="340"/></L>
+<L>of his grace to him wald send,</L>
+<L>and gif <NOTE N="4)" PLACE="foot">him <HI REND="italic">add. T.</HI></NOTE> might, his mis to mend,</L>
+<L>so þat he suld noght tine his mede</L>
+<L>of praiers and of almusdede,</L>
+<L>þat he bifore þat time had done;</L>
+<L>þarfore he sent him socore sone,</L>
+<L>and of him so he had pete,</L>
+<L>þat in a visioune he lete him se,</L>
+<L>what he had done and how he was</L>
+<L>latched <NOTE N="5)" PLACE="foot">katched <HI REND="italic">T?</HI> k <HI REND="italic">uns.</HI></NOTE> in þe fendes lace, <MILESTONE N="350"/></L>
+<L>and how þe fendes had made in hell</L>
+<L>his seti<HI REND="italic">ll,</HI> þat he suld in dwe<HI REND="italic">ll,</HI></L>
+<L>and tak his seruis of þe fende,</L>
+<L>to won in wa withowten ende;</L>
+<L>þare saw he wele his dedes ilkane,</L>
+<L><PB N="47" REF="32"/>
+and to what lord he had him tane,</L>
+<L>and how þat he had god forsakin,</L>
+<L>and to þe fende fully him takin,</L>
+<L>and how he had tint al þe blis,</L>
+<L>þat unto gude men graithed is. <MILESTONE N="360"/></L>
+<L>When Tiophi<HI REND="italic">ll</HI> þus had sene þis sight,</L>
+<L>and grace of god in him was light,</L>
+<L>in his hert he him bithoght,</L>
+<L>how wikkedly þat he had wroght <NOTE N="1)" PLACE="foot">wrogh <HI REND="italic">H.);</HI></NOTE></L>
+<L>and sare bigan he forto grate:</L>
+<L>"Allas!" he said. "now wele I wate,</L>
+<L>þat I haue my self forlorn;</L>
+<L>allas þat while, þat I was born!</L>
+<L>Unto wham may I ask mercy,</L>
+<L>sen I forsoke Crist and Mary, <MILESTONE N="370"/></L>
+<L>and toke me to <NOTE N="2)" PLACE="foot">ti<HI REND="italic">ll T.</HI></NOTE> þe fende, my fo?</L>
+<L>allas þe while, whi did I so!</L>
+<L>"Allas!" he said, "lord Jhesu fre!</L>
+<L>ffalsly I haue forsakin þe;</L>
+</LG>
+<LG>
+<L>it es no ferly, if þou wi<HI REND="italic">ll,</HI></L>
+<L>for my sin suffer me to spi<HI REND="italic">ll.</HI></L>
+<L>Bot, lord Jhesu! noght for þi,</L>
+<L>Dauid sais, þat þi mercy</L>
+<L>passes obouen a<HI REND="italic">ll</HI> þi werkes,</L>
+<L>and þarto acordes a<HI REND="italic">ll</HI> þir clerkes. <MILESTONE N="380"/></L>
+<L><NOTE N="3)" PLACE="foot"><HI REND="italic">H und T haben die überschrift:</HI> Misericordia eius super omnia opera eius.</NOTE> And sen þe werkes, þat þou has made,</L>
+<L>er in þam self so lang and brade,</L>
+<L>and þi mercy passes þam a<HI REND="italic">ll,</HI></L>
+<L>þat comfortes me, on þe to ca<HI REND="italic">ll.</HI></L>
+<L>And Mari! mayden meke and milde,</L>
+<L>þat with sin was neuer filde,</L>
+<L>as þou ert euer of mercy fre,</L>
+<L>be mediature to him for me,</L>
+<L>þat of þi body <NOTE N="4)" PLACE="foot">bid <HI REND="italic">H.</HI></NOTE> wald be born,</L>
+<L>to saue mankind, þat was forlorn, <MILESTONE N="390"/></L>
+<L>ffor þe milk, þou gaff him <NOTE N="5)" PLACE="foot">me <HI REND="italic">H.</HI></NOTE> swete,</L>
+<L>and for þe teres, þou for him lete!"</L>
+<L>Þir wordes and [oþer many <NOTE N="6)" PLACE="foot">oþer ma ma <HI REND="italic">H;</HI> many oþer ma <HI REND="italic">T.</HI></NOTE> ma</L>
+<L>tald he þare unto þam twa,</L>
+</LG>
+<LG>
+<PB N="48" REF="33"/>
+<L>and fully gan he him affy</L>
+<L>in þe help of oure lady,</L>
+<L>and euer he thoght, how scho was won,</L>
+<L>ffor sinful men to pray hir sun.</L>
+<L>þare was a kirk, haloud to hald,</L>
+<L>þat oure lady kirk was cald, <MILESTONE N="400"/></L>
+<L>and unto þat ilk kirk he ran,</L>
+<L>als it war a wode man,</L>
+<L>and kneled bifor hir auter doune <NOTE N="1)" PLACE="foot">doun <HI REND="italic">T.</HI></NOTE>)</L>
+<L>with care and grete contricioune, <NOTE N="2)" PLACE="foot">contrioune <HI REND="italic">H;</HI> contricioun <HI REND="italic">T.</HI></NOTE>)</L>
+<L>and fast he praied unto Mari:</L>
+<L>"Of me caityf þou haue mercy!</L>
+<L>Leuedy, pray þi sun for me,</L>
+<L>so þat I noght dampned be!</L>
+<L>Leuedy, lat him me noght tine,</L>
+<L>sen he for me has sufferd pine! <MILESTONE N="410"/></L>
+</LG>
+<LG>
+<L>Leuedy, lat þi might be sene,</L>
+<L>sen þou of heuin es ordand quene,</L>
+<L>and lady of a<HI REND="italic">ll</HI> erthly er tou,</L>
+<L>þarfore of me haue mercy now!</L>
+<L>And sen þou es <NOTE N="3)" PLACE="foot">es <HI REND="italic">om. H.</HI></NOTE> emperis of hell,</L>
+<L>þe fendes force now fande to fell!</L>
+<L>Sen þat my self am unworthi,</L>
+<L>with <NOTE N="4)" PLACE="foot">witht <HI REND="italic">H.</HI></NOTE> mouth to ask þi sun mercy,</L>
+<L>bot I haue now þe help of þe,</L>
+<L>in hell ay mun I dampned be; <MILESTONE N="420"/></L>
+<L>þarfore to þe I call and craue,</L>
+<L>to socore me, þat I be saue,</L>
+<L>so þat all cristenmen may se</L>
+<L>þi might and þi mercy in me!"</L>
+</LG>
+<LG>
+<L>So lang was Tiophill in þis care,</L>
+<L>and for his sins <NOTE N="5)" PLACE="foot">sines <HI REND="italic">T.</HI></NOTE> wepeand ful sare,</L>
+<L>þat at þe last oure dere lady</L>
+<L>had of him pete and mercy;</L>
+<L>ffor in his hert halely he hight,</L>
+<L><PB N="49" REF="34"/>
+to mak amendes with all his might, <MILESTONE N="430"/></L>
+<L>and neuer to do i<HI REND="italic">ll</HI> fro þat tyme:</L>
+<L>þarfore oure lady helppid <NOTE N="1)" PLACE="foot">helpid <HI REND="italic">T.</HI></NOTE> him;</L>
+<L>ffor, if men on mold misdo,</L>
+<L>euer in nede helpand es scho</L>
+<L>till a<HI REND="italic">ll</HI> þat to hir wi<HI REND="italic">ll</HI> <NOTE N="2)" PLACE="foot">will <HI REND="italic">om. T.</HI></NOTE> call or cry:</L>
+<L>loued mot be swilk a lady!</L>
+<L>When fourty daies war fully gan, <NOTE N="3)" PLACE="foot">gane <HI REND="italic">T.</HI></NOTE></L>
+<L>bife<HI REND="italic">ll</HI> so, þat þis sinful man</L>
+<L>ffe<HI REND="italic">ll</HI> on slepe right in þe kirk,</L>
+<L>when he was in wi<HI REND="italic">ll,</HI> wele to wirk. <MILESTONE N="440"/></L>
+<L>Oure lady come and on him cald,</L>
+<L>and asked him, what thing he wald;</L>
+</LG>
+<LG>
+<L>scho said: "I haue herd þi praiere,</L>
+<L>bot I wate noght, on what manere</L>
+<L>þat I might þray my sun for þe,</L>
+<L>sen þou forsoke bath him and me;</L>
+<L>how might I cum unti<HI REND="italic">ll</HI> his trone,</L>
+<L>ffor þe to ask him any bone,</L>
+<L>sen þou has us both forsakin</L>
+<L>and till oure fa, þe fende, þe takin, <MILESTONE N="450"/></L>
+<L>and ti<HI REND="italic">ll</HI> him hastou made homage,</L>
+<L>þat es ti<HI REND="italic">ll</HI> us a grete outrage!</L>
+<L>Bot sen þou has þi trispas kend</L>
+<L>and hertly hetes it to amend,</L>
+<L>in all þat es onence me,</L>
+<L>þe greuance here forgif I þe.</L>
+<L>Bot what man so euer trispasses here</L>
+<L>ogains my sun, þat es me dere,</L>
+<L>al if he be full of mercy,</L>
+<L>and luf mankind als wele als I, <MILESTONE N="460"/></L>
+<L>noght for þi his rightwisnes</L>
+<L>so rightwis in it seluen es,</L>
+<L>þat him bihoues al gate do right,</L>
+<L>and deme ilk man efter his plight,</L>
+<L>and grant unto no mercy,</L>
+<L>bot als his werkes er worthi;</L>
+<L>þarfore I haue meruaile <NOTE N="4)" PLACE="foot">meruayl <HI REND="italic">T.</HI></NOTE> of þe,</L>
+<L>þat þou dar ask mercy of me,</L>
+<L>and wate, þou has so euil done</L>
+<L>both unto me and to my sun!" <MILESTONE N="470"/></L>
+<L>When Tiophi<HI REND="italic">ll</HI> þir wordes herd,</L>
+<L><PB N="50" REF="35"/>
+with grete ferdnes in hert he ferd;</L>
+<L>bot he saw, þat him bud nede,</L>
+<L>answer for his awin dede;</L>
+<L>he made his mane unto Mari</L>
+<L>and said: "My lady, wele wate I,</L>
+<L>I am unworthi and untrew,</L>
+<L>to pray unto my lord Jhesu,</L>
+<L>ffor with þe fende <NOTE N="1)" PLACE="foot">fend <HI REND="italic">T.</HI></NOTE> of he<HI REND="italic">ll</HI> I spak, <MILESTONE N="480"/></L>
+<L>þe band of baptime so I brak;</L>
+<L>bot þat he will my praier <NOTE N="2)" PLACE="foot">praiere <HI REND="italic">T.</HI></NOTE> here,</L>
+<L>think <NOTE N="3)" PLACE="foot">thnnk <HI REND="italic">H.</HI></NOTE> me by ensaumples sere;</L>
+<L>ffor wele J wate, þat king Dauy</L>
+<L>was wele wiser man þan I,</L>
+<L>and neuer þe lese he fell in sin,</L>
+<L>his knightes wife wrang forto win;</L>
+<L>he slogh þe nobi<HI REND="italic">ll</HI> knight Urri,</L>
+<L>ffor he wald haue his lady.</L>
+<L>So for manslaghter <NOTE N="4)" PLACE="foot">manslaghtet <HI REND="italic">H.</HI></NOTE> and spowsebreke <MILESTONE N="490"/></L>
+<L>serued he of god grete wreke;</L>
+<L>and leue dere lady, noght for þi</L>
+<L>god had of him ful gude mercy.</L>
+<L>Ane oþer thing ȝit mase me faine,</L>
+<L>when I think on þe Maudelaine,</L>
+<L>þat led hir life in licchery,</L>
+<L>ane foloud euer hir fless foly;</L>
+<L>and ȝit, lady, þi sun so fre,</L>
+<L>þat sufferd ded for hir and me,</L>
+<L>and for all sinful men bidene, <MILESTONE N="500"/></L>
+<L>made hir of hir sines clene:</L>
+<L>and þarfore, lady, hope I wele,</L>
+<L>þat þi sun sa<HI REND="italic">ll</HI> my sorow kele,</L>
+<L>A<HI REND="italic">ll</HI> if I haue unwisely wroght,</L>
+<L>omang a<HI REND="italic">ll</HI> sinfu<HI REND="italic">ll</HI> he me boght;</L>
+<L>and lady, if it war þi wi<HI REND="italic">ll,</HI></L>
+<L>þat I might te<HI REND="italic">ll</HI> þis tale þe ti<HI REND="italic">ll:</HI></L>
+<L>if þat Adam and a<HI REND="italic">ll</HI> his kin</L>
+<L>had kepid þam euer out of sin,</L>
+<L>þan had þou noght bene heuinquene, <MILESTONE N="510"/></L>
+<L>ne goddes moder had þou noght bene;</L>
+<L>fforþi me think wele, þat I may</L>
+<L>procure þe, for me to pray</L>
+<L>unto þi sun for my misdede,</L>
+<L>þat of þe toke for me manhede!"</L>
+</LG>
+<LG>
+<L>When þis was said, oure lady dere</L>
+<L><PB N="51" REF="36"/>
+answerd and said on þis manere,</L>
+<L>scho said: "Me think wele by þi saws,</L>
+<L>me and my sun sum dele þou knaws;</L>
+<L>and a<HI REND="italic">ll</HI> mankind I luf so wele,</L>
+<L>þat fande I will, þi care to kele; <MILESTONE N="520"/></L>
+<L>and to my sun now will I wende,</L>
+<L>to fraist, if he wi<HI REND="italic">ll</HI> be þi frende.</L>
+<L>But or I wende to pray for þe,</L>
+<L>I will, þat þou grant unto me,</L>
+<L>þat þou sal wele þi self <NOTE N="1)" PLACE="foot">lif <HI REND="italic">T.</HI></NOTE> amend</L>
+<L>and forward fra þe fende þe fend;</L>
+<L>and for þou has bene his seruant,</L>
+<L>with þi mowth I will, þou grant,</L>
+<L>þat he es a wretche unworthy,</L>
+<L>and my sun god allmighty, <MILESTONE N="530"/></L>
+<L>þat of me toke fless and blude,</L>
+<L>and for mankind was done on rode,</L>
+<L>and fro þe fende þan toke his pray,</L>
+<L>and rase fro dede <NOTE N="2)" PLACE="foot">ded <HI REND="italic">T.</HI></NOTE> on þe þrid day,</L>
+<L>and stegh to heuin als mighty king,</L>
+<L>and wones þare withouten <NOTE N="3)" PLACE="foot">with owen <HI REND="italic">T.</HI></NOTE> ending,</L>
+<L>þat a<HI REND="italic">ll</HI> sa<HI REND="italic">ll</HI> deme both gude and i<HI REND="italic">ll,</HI></L>
+<L>and a<HI REND="italic">ll</HI> þe prophecy fullfi<HI REND="italic">ll:</HI></L>
+<L>if þou a<HI REND="italic">ll</HI> þis wele understand,</L>
+<L>þan will I wende on þine erand!" <MILESTONE N="540"/></L>
+<L>Þan Tyophi<HI REND="italic">ll</HI> was wonderfaine,</L>
+<L>and said to oure lady ogayne:</L>
+<L>"Lady, I trow and wate ful <NOTE N="4)" PLACE="foot">fuf <HI REND="italic">H.</HI></NOTE> wele,</L>
+<L>þat þis be suth euer ilkadele;</L>
+<L>I grante with a<HI REND="italic">ll</HI> opinly</L>
+<L>all þat þou has said, lady!"</L>
+<L>At þis word scho went him fro,</L>
+<L>and he waknid fro slepe right so;</L>
+<L>up he rase with ioyful mode,</L>
+<L>and kneled þare þe ymage stode; <MILESTONE N="550"/></L>
+<L>to hir he made his orisoune</L>
+<L>with ful grete deuocioune,</L>
+<L>þare he knelid dayes thre,</L>
+<L>ne nowþer ett ne drink wald he.</L>
+<L>Oure lady on þe thrid night</L>
+<L>come to him with meki<HI REND="italic">ll</HI> light,</L>
+<L>and said, þat scho had getin grant,</L>
+<L>þat he suld be hir sun seruant.</L>
+<L>"Mi sun", scho said, "has granted me,</L>
+<L>þat þi sin es forgifen þe, <MILESTONE N="560"/></L>
+<L>so þat þou forward lif right</L>
+<L><PB N="52" REF="37"/>
+and menske <NOTE N="1)" PLACE="foot">mensk <HI REND="italic">T.</HI></NOTE> my sun with mayn and might,</L>
+<L>and forward fra a<HI REND="italic">ll</HI> folis blin,</L>
+<L>and fand to fle a<HI REND="italic">ll</HI> fillth of sin,</L>
+<L>despise þe fende and his powste,</L>
+<L>and honor euer my sun and me!"</L>
+<L>Thiophi<HI REND="italic">ll</HI> þan <NOTE N="2)" PLACE="foot">þat <HI REND="italic">T.</HI></NOTE> ti<HI REND="italic">ll</HI> hir gan say,</L>
+<L>so in his praiers als he lay:</L>
+<L>"Leuedy mine, ful wele <NOTE N="3)" PLACE="foot">we<HI REND="italic">ll T.</HI></NOTE> es me,</L>
+<L>blisced mot þou euer be! <MILESTONE N="570"/></L>
+<L>ffor unto a<HI REND="italic">ll</HI> þou es redy,</L>
+<L>þat unto þe will ca<HI REND="italic">ll</HI> or cri;</L>
+<L>if þaire trispas be neuer so grete,</L>
+<L>þi grace ful gedely <NOTE N="4)" PLACE="foot">gudely <HI REND="italic">T.</HI></NOTE> may þay gete.</L>
+<L>And, lady, seu þou þus has done,</L>
+<L>Ȝit I beseke þe of a bone:</L>
+<L>help þat I had þe fendes fra</L>
+<L>þe charter, þat I gan him ma,</L>
+<L>and þat þe fendes gert me write,</L>
+<L>ffor els fro þam I am noght quite, <MILESTONE N="580"/></L>
+<L>ne fro þam may I noght be fre,</L>
+<L>or þat ilk charter broken be,</L>
+<L>þat I made forward with þe fende,</L>
+<L>to serue him and with him wende.</L>
+<L>And, lady, sen þou has me tane,</L>
+<L>to serue þi sun and þe allane,</L>
+<L>help me, lady, on a<HI REND="italic">ll</HI> wise,</L>
+<L>to mak me clene of his seruise! <NOTE N="5)" PLACE="foot"><HI REND="italic">H und T haben die rothe überschrift:</HI> Tyophilus conuersus est ad dominum.</NOTE></L>
+<L>Oure lady þan went fro him eft,</L>
+<L>and in þe kirk ay sti<HI REND="italic">ll</HI> he left, <MILESTONE N="590"/></L>
+<L>bifor hir auter he him held,</L>
+<L>in grete deuocioune þare he dweld;</L>
+<L>ffor fasting so him failed might,</L>
+<L>and fell on slepe <NOTE N="6)" PLACE="foot">ssepe <HI REND="italic">H.</HI></NOTE> opon þe night;</L>
+<L>and milde Mari, oure faithful frende</L>
+<L>had trauaild for him to þe fende,</L>
+<L>with angels sere, als sais þe boke,</L>
+<L>þe charter <NOTE N="7)" PLACE="foot">charte <HI REND="italic">H.</HI></NOTE> fro þe fende scho <NOTE N="8)" PLACE="foot">sche, <HI REND="italic">T; ebenso v. 605.</HI></NOTE> toke,</L>
+<L>and wit ȝe wele, him was ful wa,</L>
+<L>when þe charter was tane him fra, <MILESTONE N="600"/></L>
+<L>and more striuyng was þam ome<HI REND="italic">ll,</HI></L>
+<L>þan I haue tyme now forto te<HI REND="italic">ll.</HI></L>
+<L>Oure lady broght it in hir hand</L>
+<L>to Tyophi<HI REND="italic">ll,</HI> als he lay slepeand,</L>
+<L><PB N="53" REF="38"/>
+opon his briste scho gan it lay,</L>
+<L>and left him so and went oway.</L>
+<L>Sone efter, when he was wakeand,</L>
+<L>þe boke opon his brest he fand,</L>
+<L>and þan in hert he hopid wele,</L>
+<L>he was deliuerd ilka dele. <MILESTONE N="610"/></L>
+<L>Te<HI REND="italic">ll</HI> with tong here may no man</L>
+<L>þe mekill ioy, þat he had þan;</L>
+<L>he loued god with wi<HI REND="italic">ll</HI> and thoght,</L>
+<L>þat him had out of thralldom broght,</L>
+<L>and mild Mari, his moder dere,</L>
+<L>þat saued him so fra sorows sere.</L>
+<L>Þan on þe morn was sononday,</L>
+<L>to kirk men went on riche array,</L>
+<L>ilkone in þaire best manere,</L>
+<L>goddes seruise so forto here. <MILESTONE N="620"/></L>
+<L>Þe bisschop come to þat same kirk,</L>
+<L>goddes werkes þare forto wirk;</L>
+</LG>
+<LG>
+<L>and efter þe ofring of þe mes</L>
+<L>þe bisschop, als þe custum es,</L>
+<L>ffra þe auter went he doune</L>
+<L>unti<HI REND="italic">ll</HI> þe folk, to mak sarmoune.</L>
+<L>Tyophi<HI REND="italic">ll</HI> come þan him to mete,</L>
+<L>and doune he fell unti<HI REND="italic">ll</HI> his fete,</L>
+</LG>
+<LG>
+<L>and tald unto him al þe case,</L>
+<L>þe fendes seruand how he was, <MILESTONE N="630"/></L>
+<L>and how a Jew with sorcery</L>
+<L>had gert him fa<HI REND="italic">ll</HI> in grete foly;</L>
+<L>and als, how Mari meke and milde</L>
+<L>gat him forgifnes of hir childe,</L>
+<L>and made him haue of him mercy,</L>
+<L>and broght him fro þe fendes baily.</L>
+<L>When <NOTE N="1)" PLACE="foot">by H; <HI REND="italic">das entspr. wort weggerissen in T.</HI></NOTE> Tyophi<HI REND="italic">ll</HI> his tale had talde <NOTE N="2)" PLACE="foot">tolde <HI REND="italic">T.</HI></NOTE>,</L>
+<L>þe bisschop hert for care was calde <NOTE N="3)" PLACE="foot">colde <HI REND="italic">T.</HI></NOTE>,</L>
+<L>so mekill [meruaile was in <NOTE N="4)" PLACE="foot">meruailed was <HI REND="italic">T.</HI></NOTE> his thoght,</L>
+<L>þat in lang tyme speke might he noght; <MILESTONE N="640"/></L>
+<L>and a<HI REND="italic">ll</HI> þe folk, þat herd þis tale,</L>
+<L>war gretely meruaild, grete and smale;</L>
+<L>ffor he tald it on swilk manere,</L>
+<L>þat a<HI REND="italic">ll</HI> þe folk obout might here,</L>
+<L>and forto conferm al his saw,</L>
+<L><PB N="54" REF="39"/>
+þe charter to þam gan he schaw.</L>
+<L>and þan þe bisschop gart it rede,</L>
+<L>how þat a<HI REND="italic">ll</HI> was done in dede,</L>
+<L>and for a<HI REND="italic">ll</HI> folk suld wit,</L>
+<L>in his sarmon said he it, <MILESTONE N="650"/></L>
+<L>and bad þe folk ensaumpi<HI REND="italic">ll</HI> take,</L>
+<L>to do penance and sin forsake;</L>
+<L>"ffor herby," said he, "may ȝe lere,</L>
+<L>how schrift, penance and praiere</L>
+<L>may fordo a mans sin,</L>
+<L>ffall he neuer so fer þar in;</L>
+<L>þat may men se fulfild in werk</L>
+<L>of Tyophill, þat nobi<HI REND="italic">ll</HI> clerk,</L>
+<L>thurgh penance how he gat mercy</L>
+<L>and prayer of oure dere lady. <MILESTONE N="660"/></L>
+<L>Wele es him, þat here has might,</L>
+<L>to serue hir by day or night;</L>
+<L>in wanhope here thar no man fa<HI REND="italic">ll,</HI></L>
+<L>bot mercy haue, þat hir will ca<HI REND="italic">ll,</HI></L>
+<L>if þat he will forsake his sin,</L>
+<L>and namore forto fall þar in:</L>
+<L>Tiophi<HI REND="italic">ll,</HI> als men may here,</L>
+<L>synned on so grete manere,</L>
+<L>þat a<HI REND="italic">ll</HI> folk may haue ferly,</L>
+<L>how he might euer get mercy; <MILESTONE N="670"/></L>
+<L>bot for him self so euil had done,</L>
+<L>he was worthi, to ask na bone;</L>
+<L>þarfore wittily he wroght,</L>
+<L>untill oure lady when he soght,</L>
+<L>fforto be his mediatoure</L>
+<L>bitwix him and his sauioure,</L>
+<L>so forto get him forgifnes</L>
+<L>of his misdedes more and les.</L>
+<L>Lady! blith aw man to be,</L>
+<L>þat has in heuyn swilk atturne <NOTE N="1)" PLACE="foot">attune <HI REND="italic">H.</HI></NOTE>, <MILESTONE N="680"/></L>
+<L>þat failes neuer a man in nede,</L>
+<L>al do he neuer so sinful dede;</L>
+<L>wele us aw both day and night,</L>
+<L>to honore hir with a<HI REND="italic">ll</HI> oure <NOTE N="2)" PLACE="foot">our <HI REND="italic">T.</HI></NOTE> might!"</L>
+<L>Þe bisschop þan withouten mare</L>
+<L>in fire did brin þe charter þare,</L>
+<L>þat Tyophi<HI REND="italic">ll</HI> had made of couenant,</L>
+<L>when he bycome þe fendes seruant,</L>
+<L>and all þe folk, þat saw þis sight,</L>
+<L>made grete ioy with a<HI REND="italic">ll</HI> þaire might, <MILESTONE N="690"/></L>
+<L>and loued god and oure lady,</L>
+<L><PB N="55" REF="40"/>
+þat unto man gifes swilk mercy.</L>
+<L>Þus when þe sarmon was said,</L>
+<L>and all Þe puple ful wele paid,</L>
+<L>þe bisschop to þe auter ȝode,</L>
+<L>and sang his mes with ioyful mode;</L>
+<L>and when þe mes was said ti<HI REND="italic">ll</HI> ende,</L>
+<L>Tyophill asked with wordes hende,</L>
+<L>and praied, þat he might in þat oure</L>
+<L>resaiue þe cors of his creatoure. <MILESTONE N="700"/></L>
+<L>Þe bisschop granted with gude will,</L>
+<L>and godes body he broght him ti<HI REND="italic">ll,</HI></L>
+<L>and he resaiued it worthily,</L>
+<L>þat was wele sene and sese now whi:</L>
+<L>hastily, when he howseld <NOTE N="1)" PLACE="foot">howseled <HI REND="italic">T.</HI></NOTE> was,</L>
+<L>als bright þan schane his face,</L>
+<L>als <NOTE N="2)" PLACE="foot">as <HI REND="italic">T.</HI></NOTE> dose þe sun in someres tyde;</L>
+<L>all þe folk þan on ilka side</L>
+<L>unto þe erth þai fell doune right,</L>
+<L>ffor none might luke ogains þat light; <MILESTONE N="710"/></L>
+<L>bot for no ferdnes doune þai fell,</L>
+<L>ffor mekill mirth was þam ome<HI REND="italic">ll;</HI></L>
+<L>and when þe light oway was,</L>
+<L>al þe folk loued god ful fast,</L>
+<L>and grete ioy made þai albidene</L>
+<L>of þis sight, þat þai had sene.</L>
+<L>And when þe seruis was al done,</L>
+<L>Tyophi<HI REND="italic">ll</HI> toke his way <NOTE N="3)" PLACE="foot">leue <HI REND="italic">T.</HI></NOTE> ful sone,</L>
+<L>and up he gaf a<HI REND="italic">ll</HI> his baily,</L>
+<L>his office and his grete maistri: <MILESTONE N="720"/></L>
+<L>"J wi<HI REND="italic">ll</HI> namore þarof", he said;</L>
+<L>þan was þe bisschop euil <NOTE N="4)" PLACE="foot">ouil <HI REND="italic">T.</HI></NOTE> paid,</L>
+<L>ffor ful wele he wist by þan,</L>
+<L>þat he was a haly man.</L>
+<L>Tyophi<HI REND="italic">ll</HI> said: "I wi<HI REND="italic">ll</HI> me gife <NOTE N="5)" PLACE="foot">gif <HI REND="italic">T.</HI></NOTE></L>
+<L>ti<HI REND="italic">ll</HI> oper life ay whils I life <NOTE N="6)" PLACE="foot">lif <HI REND="italic">T.</HI></NOTE>,</L>
+<L>and þarfore, gude <NOTE N="7)" PLACE="foot">gud <HI REND="italic">T.</HI></NOTE> sir, ȝow noght greue!"</L>
+<L>and on þis wise he toke his leue;</L>
+<L>unti<HI REND="italic">ll</HI> his hows furth went he þus,</L>
+<L>and gaf his gudes all in almus, <MILESTONE N="730"/></L>
+<L>a<HI REND="italic">ll</HI> his rent and al his store,</L>
+<L>all his landes and his tresore,</L>
+<L>all he gaf to pouer in hy,</L>
+<L>ffor Jhesu luf and for Mary;</L>
+<L>to god halely he turned his thoght,</L>
+<L>and by him self no thing he roght.</L>
+<L><PB N="56" REF="41"/>
+When he had gifen all his catell,</L>
+<L>and left him seluen neuer a dele,</L>
+<L>þan to þe kirk ogaine <NOTE N="1)" PLACE="foot">ogain <HI REND="italic">T.</HI></NOTE> he ȝode,</L>
+<L>þare þe ymage of oure lady stode, <MILESTONE N="740"/></L>
+<L>and þare he made his wonig stede</L>
+<L>and dwelled þare till he war ded;</L>
+</LG>
+<LG>
+<L>fful hard payne þare gan he drighe</L>
+<L>ogayne þe tyme, þat he suld dye,</L>
+<L>ffor he had prayed god specially,</L>
+<L>fforto haue here his purgatori;</L>
+<L>he wist him self right wele inogh,</L>
+<L>when tyme of ded nere to him drogh;</L>
+<L>he toke his leue at frendes all,</L>
+<L>his eghen-liddis <NOTE N="2)" PLACE="foot">liddes <HI REND="italic">T.</HI></NOTE> þan lete he fall, <MILESTONE N="750"/></L>
+<L>and so his saul to heuyn ȝede,</L>
+<L>ffor his trauaile to tak his mede.—</L>
+<L>þis tale in bokes we wretin <NOTE N="3)" PLACE="foot">written <HI REND="italic">T.</HI></NOTE> finde,</L>
+<L>to mak men forto haue in minde,</L>
+<L>þat two thinges helis man of syn,</L>
+<L>þat wownded es in saul within:</L>
+<L>goddes mercy þat es þe tane,</L>
+<L>þat merked es to sinful man,</L>
+<L>whar thurgh grace es to him send</L>
+<L>and will, his misdedes to amend; <MILESTONE N="760"/></L>
+<L>it mase man think, what he has done,</L>
+<L>and to forsake his sins sone.</L>
+<L>Þat oþer thing es hard penance,</L>
+<L>þat folows efter repentance:</L>
+<L>Of þir two thinges here we tell</L>
+<L>with crist him self in oure godspell,</L>
+<L>by þe oyle and by þe wine <NOTE N="4)" PLACE="foot">wyn <HI REND="italic">T.</HI></NOTE>,</L>
+<L>þat war unti<HI REND="italic">ll</HI> þat man medcyne,</L>
+<L>þat by þe way was wounded sare,</L>
+<L>als men might here tell of are. <MILESTONE N="770"/></L>
+<L>Tyophill, þat I of talde,</L>
+<L>had wikked woundes manifalde <NOTE N="5)" PLACE="foot">fald <HI REND="italic">T.</HI></NOTE></L>
+<L>als theues, þat er fendes of hell,</L>
+<L>had wounded him sare þam omell,</L>
+<L>and for ded allane left þai him;</L>
+<L>þat may men mene by þat ilk time,</L>
+<L><PB N="57" REF="42"/>
+when he gan þe charter make,</L>
+<L>þat he suld neuer þe fende forsake;</L>
+<L>þat he war ded, þan wele þai wende.</L>
+<L>to won in he<HI REND="italic">ll</HI> withouten ende: <MILESTONE N="780"/></L>
+<L>bot Crist, þat es verray medcyne,</L>
+<L>helled in his woundes oyle and wine,</L>
+<L>þat es: he had of him mercy</L>
+<L>thurgh þe prayer of oure lady <NOTE N="1)" PLACE="foot">leuedy <HI REND="italic">T.</HI></NOTE></L>
+<L>Beseke <NOTE N="2)" PLACE="foot">biseke <HI REND="italic">T.</HI></NOTE> we þan in stede and sta<HI REND="italic">ll</HI></L>
+<L>untill þat lady, flowre of a<HI REND="italic">ll,</HI></L>
+<L>þat scho vowche safe, to pray for us</L>
+<L>untill hir sun, oure lord Jhesus Christus,</L>
+<L>þat he us medcin more and myn,</L>
+<L>and clense us clene of all oure syn, <MILESTONE N="790"/></L>
+<L>and len us force, þat we noght fall</L>
+<L>in fandinges, forto mak us thral,</L>
+<L>bot so lely oure liues to lede,</L>
+<L>and so him forto luf and drede,</L>
+<L>in þat life þat we may lende,</L>
+<L>þat lastes euer with outen ende:</L>
+<L>and mildely, þat it may so be,</L>
+<L>sais all: Amen, par charite! <MILESTONE N="798"/></L>
+</LG>
+</DIV2>
+<DIV2 N="V." TYPE="version">
+<PB N="38" REF="23"/>
+<HEAD>V.</HEAD>
+<HEAD>ÞE STORY OFF THEOFLE.</HEAD>
+<LG>
+<L>A busschop woned in a cuntre</L>
+<L>þat hihte Cisyli biȝonde þe see.</L>
+<L>He hedde a clerk þat Theophil hiht</L>
+<L>and served hym trewly and riht;</L>
+<L>so qweynte he was and so wys,</L>
+<L>þat alle hym louede for his seruis.</L>
+<L>Þe bisschop hym ȝaf in his pouste</L>
+<L>lond and leode, gold and fee.</L>
+<L>To alle his goodes took he tent</L>
+<L>and spendet wisly al his rent. <MILESTONE N="10"/></L>
+<L>Theofle, of whom I telle þis tale,</L>
+<L>was þis bisschopes officiale,</L>
+<L>and bar hym feire and corteysly,</L>
+<L>and gat him frend in his bayly.</L>
+<L>Chast he was of his bodi,</L>
+<L>ffor he louede no lecheri;</L>
+<L>he was boþe corteis and hende,</L>
+<L>and alle goode men weren his frende;</L>
+<L>was non holde so wys in werk,</L>
+<L>as Teophele, þe bisschopes clerk. <MILESTONE N="20"/></L>
+<L><PB N="39" REF="24"/>
+þe pore folk þat hedde neode,</L>
+<L>louede him for his almusdede:</L>
+<L>þo þat weore naked, he hem cled,</L>
+<L>þo þat weore hungri, heo hem fed.</L>
+<L>Alle him louede for his godnes,</L>
+<L>olde and ȝonge, more and les.</L>
+<L>Ffel aunter, þat þe bisschop dyed</L>
+<L>ffor muchel seknesse, þat he dried.</L>
+<L>Sone so þe bisschop was ded,</L>
+<L>lered and lewed toke to red, <MILESTONE N="30"/></L>
+<L>what mon þat was wysest,</L>
+<L>þat mihte ben heore bisschop best.</L>
+<L>Lered folk and leued baþe</L>
+<L>to bisschop ches Teophele raþe;</L>
+<L>on Theophele was al her hope,</L>
+<L>þerfore þei ches him to bisschope.</L>
+</LG>
+<LG>
+<L>But þe fend þorwh onde and nyþe</L>
+<L>bigon on him his maistrie kiþe,</L>
+<L>and his herte made hard and stiþe,</L>
+<L>þat wolde he not þe folk liþe <MILESTONE N="40"/></L>
+<L>ne graunten hem heore askyng,</L>
+<L>ne be bisschop for no þyng.</L>
+</LG>
+<LG>
+<L>"I am not worþi forte be</L>
+<L>mon of so gret a dignite.</L>
+<L>Geteþ ow þerfore a nother mon,</L>
+<L>þat ow beter lere con.</L>
+<L>Sikerly dar ȝe not hope</L>
+<L>þat I wol beo ȝoure bisschope."</L>
+<L>Þe folk was ful vuel payed,</L>
+<L>and Theophele ful ȝerne prayed, <MILESTONE N="50"/></L>
+<L>þat he schulde ben heore prelate,</L>
+<L>bot he nolde graunte hem no gate;</L>
+<L>and þei seide, he dude ille,</L>
+<L>þat stod aȝeyn godus wille.</L>
+<L>But herwiþ wolde þei leue nouht,</L>
+<L>aȝein his wille þe folk him brouht</L>
+<L>bifore þe erchebisschop sone,</L>
+<L>to make him graunte hem heore bone.</L>
+<L>Whon he com þer, sore dude he grete,</L>
+<L><PB N="40" REF="25"/>
+and fel to þe bisschopes feete, <MILESTONE N="60"/></L>
+<L>and preyed him for godes sake,</L>
+<L>þat he schulde not him bisschop make.</L>
+<L>"I am, quaþ he, a synful mon,</L>
+<L>and to luytel good I con,</L>
+<L>ffor to haue such dignite,</L>
+<L>þerfore, sir bisschop, I preye þe,</L>
+<L>at þis time þou me spare,</L>
+<L>and mak anoþur bisschop ȝare.</L>
+<L>Þe bisschop ȝaf him dayes þre,</L>
+<L>to loke hou hit mihte best be, <MILESTONE N="70"/></L>
+<L>and bad him come þe þridde day</L>
+<L>to him, his wille forte say.</L>
+<L>But euere his herte was in o state,</L>
+<L>ffor wolde he not be prelate.</L>
+</LG>
+<LG>
+<L>Whon þe bisschop sauh his wille,</L>
+<L>wolde he no lengore speke him tille,</L>
+<L>but made a noþur bisschop sone,</L>
+<L>and set him deorely in trone.</L>
+<L>Þat oþur bisschop Teophele heold</L>
+<L>in his seruise wiþ muchel beld. <MILESTONE N="80"/></L>
+</LG>
+<LG>
+<L>Now schul ȝe here what queyntise</L>
+<L>þe fend gilede Teophele þe wyse;</L>
+</LG>
+<LG>
+<L>he made men sone uppon him lye,</L>
+<L>and Teophele to his lord beo wrye.</L>
+</LG>
+<LG>
+<L>Þe bisschop leuede þat he herde say,</L>
+<L>and pult him out of his offys away;</L>
+<L>and Teophele þhouhte gret ferly,</L>
+<L>ffor he nuste wherfore ne whi,</L>
+<L>þat he was don from his baily;</L>
+<L>and þerfore was he ful sori. <MILESTONE N="90"/></L>
+<L>In his owne hous not forþi</L>
+<L>liuede he feire and corteisli;</L>
+<L><PB N="41" REF="26"/>
+he clepte gistes to his hous</L>
+<L>and fedde þe pore wiþ almus.</L>
+<L>But Sathanas, his fo, wiþ his wiles</L>
+<L>gederede aȝeyn him queynte giles</L>
+</LG>
+<LG>
+<L>and made him þenke on his maistrie,</L>
+<L>on his lordhed and his bailye,</L>
+<L>what he hedde ben and what he was,</L>
+<L>and sone he seide: "Allas, allas! <MILESTONE N="100"/></L>
+<L>þat euere I was qweinte and wys,</L>
+<L>and hedde men in my seruis,</L>
+<L>þat were iwont dai and niht</L>
+<L>to serue me wiþ al heore miht:</L>
+<L>now ȝiue men of me no tale,</L>
+<L>ne recche, wheþer i be sek or hale;</L>
+<L>nu seo I wel in uche place,</L>
+<L>me is fallen luitel grace,</L>
+<L>ffor no mon deþ me honoure,</L>
+<L>nouþer in halle ne in boure!" <MILESTONE N="110"/></L>
+<L>Now is Teofle, þat lord was,</L>
+<L>so foule icast in þe plas,</L>
+<L>þat no mon wolle him lord calle,</L>
+<L>nouþer in boure ne in halle.</L>
+<L>"Allas!" quaþ he, þat I was born!</L>
+<L>schomely is my joye forlorn!"</L>
+<L>So muchel care fel in his herte,</L>
+<L>as þe ffend of helle gerte,</L>
+<L>þat leuere him were to be dede,</L>
+<L>þen such lyf for to lede; <MILESTONE N="120"/></L>
+<L>ffor him þhouhte, þat he wolde fayn</L>
+<L>ben in his baylie aȝein,</L>
+<L>þat neuer þouhte he, what to do,</L>
+<L>to couenant þat he come þer to.</L>
+<L>Þe ffend mad him to þenke in hast,</L>
+<L>þorwh miht of þe holi gost,</L>
+<L>hou he mihte geten his bayli aȝein,</L>
+<L>þat he wolde han so fayn.</L>
+<L>He biþouhte him ful hastely,</L>
+<L>þat he mihte come to his bayli, <MILESTONE N="130"/></L>
+<L>þorwh wicchecraft and sorcerye,</L>
+<L>þat clerkes clepen nigramauncie.</L>
+<L>In þat citee woned a Jewh,</L>
+<L>þat hedde idon muchel aȝein Jhesu;</L>
+<L><PB N="42" REF="27"/>
+soules hedde he raft him fro,</L>
+<L>and made hem to helle go.</L>
+<L>He was bicome þe deueles man,</L>
+<L>and in his seruyse liuede he þan,</L>
+<L>wiþ wicchecraft and sorcerye</L>
+<L>to lede his lyf ful priuelye. <MILESTONE N="140"/></L>
+<L>Teophele herte was euere in flouht,</L>
+<L>and on þis Jew ful wel he þouht.</L>
+<L>So fer forþ þe Jewh him ladde,</L>
+<L>and mad him so wood and madde,</L>
+<L>þat he eode uppon a niht</L>
+<L>to þe Jewes hous ful riht</L>
+<L>and knokked faste atte ȝate,</L>
+<L>and preied ȝerne, him in late,</L>
+<L>and he nolde his knokkyng blyn,</L>
+<L>til þe Jew let him come in. <MILESTONE N="150"/></L>
+<L>Þe Jew sauh his druri chere,</L>
+<L>and what him eiled, wolde he here,</L>
+<L>and asked him, what was his wille,</L>
+<L>and for what nedes he com him tille.</L>
+<L>Teophele tolde þe Jew his tale,</L>
+<L>hou he hedde ben officiale,</L>
+<L>and was don out of his baily,</L>
+<L>but he wuste neuere, wherfore ne whi:</L>
+<L>"ȝif þou miht me socoure,</L>
+<L>and bringe me to myn honoure, <MILESTONE N="160"/></L>
+<L>Þi trauayle I wolde þe ȝelde iwis,</L>
+<L>wiþ ȝiftus and wiþ gret riches,</L>
+<L>ffor leuere me were, to be dede,</L>
+<L>þen þus schomeliche my lyf lede,</L>
+<L>wiþoute welye and orpraunce (?)</L>
+<L>þat I haue lost wiþ ferli chaunce.</L>
+<L>þerfore, my frend, I preye þe,</L>
+<L>þat ȝif þou may, þou helpe me!</L>
+<L>Þe Jewh bad him leue his care,</L>
+<L>and seide, þat wel schulde he fare, <MILESTONE N="170"/></L>
+<L>and bad him, come þat ilke tym</L>
+<L>on þe morwe, to speke wiþ him.</L>
+<L>Whon þat Theophele herde þis,</L>
+<L>his herte was ful of joye and blis,</L>
+<L>and sone he eode hom aȝeyn,</L>
+<L>ffor he was neuer er so fayn,</L>
+<L>and com uppon þat oþur niht</L>
+<L>to þe jewh, as he hedde hiht.</L>
+</LG>
+<LG>
+<PB N="43" REF="28"/>
+<L>Þe Jewh ladde him on an hulle,</L>
+<L>þer folk were wont, to pleie heore fulle <MILESTONE N="180"/></L>
+<L>and bad, he schulde not ben aferd</L>
+<L>ffor noþing, þat he sauh or herd.</L>
+<L>"ȝif þou," he seide, "wolt haue þy wille,</L>
+<L>loue þat þou holde þe stille;</L>
+<L>loke þat þou make not on þe</L>
+<L>þe tokne of þe rodetre,</L>
+</LG>
+<LG>
+<L>ne þenk on Crist ne on Marie,</L>
+<L>but cum wiþ me ful boldelye.</L>
+<L>I schal þe lede to my kyng,</L>
+<L>þat schal folfulle þi longyng." <MILESTONE N="190"/></L>
+<L>Whon þat Teophele herde al þis,</L>
+<L>he was noþing aferd iwis,</L>
+<L>but seide: "Lord, fayn wol I do</L>
+<L>al þat euere þou seist me to."</L>
+<L>Whon Teophele com to þis hille,</L>
+<L>he was siker to han his wille;</L>
+<L>muche folk þen sauh he þare,</L>
+<L>ffeire atired and riche fare;</L>
+<L>and amiddes þe gederyng</L>
+<L>sauh he sitte a modi kyng. <MILESTONE N="200"/></L>
+<L>Pe Jewh him ladde in to þe plas,</L>
+<L>þer al þe folk igedered was,</L>
+<L>and on knes boþe hem sette,</L>
+<L>and þe kyng feire þey grette.</L>
+<L>Þe prince bigon wroþ to be;</L>
+<L>and seide: "Jewh, hit is wonder of þe,</L>
+<L>whi hastou brouht þis mon to me?"</L>
+<L>"Lord," quaþ he, "I schal telle þe:</L>
+<L>þis mon þat I haue ibrouht here,</L>
+<L>haþ beo mon of gret pouwere; <MILESTONE N="210"/></L>
+<L>he was þe bisschopes officiale,</L>
+<L>but he is brouht now in such bale,</L>
+<L>þat his bisschop haþ mad him quite</L>
+<L>of his baily wiþouten wite;</L>
+<L>and he not, wherfore ne whi</L>
+<L>he is don out of his baily;</L>
+<L>þerfore, lord, he is sori,</L>
+<L>and comeþ to asken ow merci.</L>
+<L>I prey ow, lord, of ȝor gras,</L>
+<L>þat ȝe help him in þis cas! <MILESTONE N="220"/></L>
+<L>To do þi wille he is redi,</L>
+<L><PB N="44" REF="29"/>
+and bicome þi mon gladly."</L>
+<L>Þe deuel onswerde and seide þan</L>
+<L>to þat like uncely man:</L>
+<L>"ȝif he wol ben of my meyne</L>
+<L>and be riht trewe and torne to me,</L>
+<L>grettor lord schal he be,</L>
+<L>þen euer ȝit in world was he,</L>
+<L>and more beo þe haluen dele</L>
+<L>hauen of þis worldes wele, <MILESTONE N="230"/></L>
+<L>þen euer ȝit hedde he aare,</L>
+<L>and muchel better schal he fare.</L>
+</LG>
+<LG>
+<L>But or I him in seruyse take,</L>
+<L>I wol þat he Jhesu forsake</L>
+<L>and Marie, his moder, baþe,</L>
+<L>ffor þei make me ofte wraþe.</L>
+<L>Aȝeyn me beo þei ful þro,</L>
+<L>ffor my seruauns þei take me fro.</L>
+<L>Þerfore ȝif he hem forsake,</L>
+<L>and aftur omage to me make, <MILESTONE N="240"/></L>
+<L>þen wol I make him mi kniht,</L>
+<L>and socoure him wiþ al mi miht;</L>
+<L>and þat schal he to morwe se,</L>
+<L>and for his lord holde me;</L>
+<L>ffor to morwe, or hit beo non,</L>
+<L>he schal ben in his bayli don."</L>
+<L>Whon þat Teophele herde þis,</L>
+<L>him þhouhte he hedde muche blis,</L>
+<L>and þonked þe fend of his bihete,</L>
+<L>and fel on knes and custe his feete, <MILESTONE N="250"/></L>
+<L>and seide: "I wol bycome þi mon,</L>
+<L>wiþ al þe wit, þat I now con;</L>
+<L>ffor Crist and Marie I forsake,</L>
+<L>and to þe, lord, I me take.</L>
+<L>At þat word les he godus gras,</L>
+<L>and into him eode Sathanas.</L>
+<L>Þe ffend of helle bad hym tyte,</L>
+<L>comferme þe couenaunt wiþ a scrite.</L>
+</LG>
+<LG>
+<L>Teophele on þe eorþe gan sit, <MILESTONE N="260"/></L>
+<L>and wiþ his hond wrot a writ</L>
+<L><PB N="45" REF="30"/>
+and selede hit wiþ his ryng,</L>
+<L>and aftur he tok hit to his kyng,</L>
+<L>and tok his leue at þe ffende,</L>
+<L>and to þe cite gon he wende.</L>
+<L>Teophele eode into his hous,</L>
+<L>a glad mon and a joyous.</L>
+<L>Þe bisschop on þat ilke niht</L>
+<L>þouhte, he hedde don unriht,</L>
+<L>þo he dude out of seruise</L>
+<L>Theophele þat was queynte and wise; <MILESTONE N="270"/></L>
+</LG>
+<LG>
+<L>and þerfore uppon þe morn</L>
+<L>he made Teophele cum him biforn,</L>
+<L>and seide: "Teophele, I was unwys,</L>
+<L>whon I dude þe from my seruys;</L>
+<L>I haue ido me seluen scaþe,</L>
+<L>but I þe preye: beo not wraþe!</L>
+<L>ffor I wot, þat þi counsayle</L>
+<L>may to me muchel avayle;</L>
+<L>þerfore, Teophele, now I þe pray,</L>
+<L>þat þow take þin offys to day!" <MILESTONE N="280"/></L>
+<L>Teophele onswerde and seide him tille,</L>
+<L>þat gladly wolde he don his wille;</L>
+<L>but he seide, him þhouhte gret ferly,</L>
+<L>whi he was don from bis bayly.</L>
+<L>"And sire!", he seide, "not forþi</L>
+<L>to do ȝor wille I am redi."</L>
+<L>Þo tok he his offys aȝeyn:</L>
+<L>was he neuer er so fayn.</L>
+<L>Now is Teophele lord and sire,</L>
+<L>and lered and lewed at his atyre, <MILESTONE N="290"/></L>
+<L>olde and ȝonge of al þat lond,</L>
+<L>alle þei dude bowen to his hond;</L>
+<L>dorste no mon don aȝeyn his wille,</L>
+<L>but alle weore fayn, hit to folfille.</L>
+<L>In juggement was he queynte,</L>
+<L>riht he dude in eueri pleynte,</L>
+<L>and neuer beo þe haluen dele</L>
+<L>in his bayli was he so wele.</L>
+<L>Þe Jewh, þat hedde iholpen hym,</L>
+<L>com to him mony a tym</L>
+<L>and spac to hym ful priuely, <MILESTONE N="300"/></L>
+<L>and bad him þenke witerly,</L>
+<L>þorwh whom he com to his bayly,</L>
+<L><PB N="46" REF="31"/>
+to þonken his kyng derworþly,</L>
+<L>and seide: "Me þinkeþ, þou ouhtest riht</L>
+</LG>
+<LG>
+<L>to worschipe him wiþ al þi miht,</L>
+<L>þat al þis wele haþ ȝiue þe,</L>
+<L>to him þou ouhtest trewe to be,</L>
+<L>and worschipe him as for þi kyng</L>
+<L>and loue him ouer alle þing!" <MILESTONE N="310"/></L>
+<L>Teophele herde gladly his counsayle,</L>
+<L>and þonked muche his trauayle.</L>
+<L>"Wel worþ þe kyng", he seide, "and þe,</L>
+<L>ffor treweliche haue ȝe holpen me!"</L>
+</LG>
+<LG>
+<L>Teophele hedde longe his pouste,</L>
+<L>in pruide of herte and jolyfte,</L>
+<L>and serued þe fend wiþ al his miht,</L>
+<L>to whom he hedde his seruice hiht.</L>
+<L>But god, þat alle craftes con,</L>
+<L>wolde not suffre þat synful mon, <MILESTONE N="320"/></L>
+</LG>
+<LG>
+<L>to leosen al þat grete mede</L>
+<L>of þe muchele almusdede,</L>
+<L>þat he hedde bifore done,</L>
+<L>but hedde of him merci sone;</L>
+<L>Jhesu Crist of his pite</L>
+<L>made him in his herte se,</L>
+<L>what he hedde idon and hou he was</L>
+<L>ffallen in þe deueles cas,</L>
+<L>and how þe fend bitter and felle</L>
+<L>hedde mad his careful seete in helle, <MILESTONE N="330"/></L>
+<L>þer he schulde be wiþouten ende,</L>
+<L>and taken þe seruise of þe fende,</L>
+<L>whos seruaunt he was bicome,</L>
+<L><PB N="47" REF="32"/>
+and to what lord he hedde him nome;</L>
+<L>and hou he hedde his lord forsake,</L>
+<L>and to þe fend hedde him take.</L>
+<L>Now hedde he lost þe muchel blis</L>
+<L>þat to goode men iordeynd is,</L>
+</LG>
+<LG>
+<L>and gret deol and serwe leete:</L>
+<L>and sore bigon he forte wepe, <MILESTONE N="340"/></L>
+<L>"Allas!" quaþ Teophele, "þat I was born,</L>
+<L>ffor foule I haue my self ilorn!</L>
+<L>Whom may I now aske merci?</L>
+<L>I haue forsake Crist and Mari,</L>
+<L>and itake me to my foule fo:</L>
+<L>wo is me, go wher I go!</L>
+<L>A Jhesu! Jhesu! wo is me,</L>
+<L>wot I neuere, whodur to fle!</L>
+<L>ffor Marie haue I left and þe,</L>
+<L>and to þe ffend itake me:</L>
+<L>ȝif I euere gete merci, <MILESTONE N="350"/></L>
+<L>alle cristene folk may haue ferli.</L>
+<L>But lord Jhesu! not forþi</L>
+<L>Seint Dauid seiþ, þat þi merci</L>
+<L>is aboue alle þi werkes,</L>
+<L>and þerto graunteþ alle grete clerkes,</L>
+<L>and siþþe þi werkes þat þou made,</L>
+<L>ben in hem self so long and brade:</L>
+<L>and þi merci is more þen alle,</L>
+<L>ȝit wol I fonde, ou þe to calle!</L>
+<L>Teophele seide þis and more <MILESTONE N="360"/></L>
+<L>wiþ careful herte and sikyng sore,</L>
+<L>ffor nou to longe hit ware,</L>
+<L>to telle þat he seide þare.</L>
+<L>Of þis tale I leue þe lengþe,</L>
+<L>and telle not but þe strengþe,</L>
+<L>hou Teophele gat þe maystri</L>
+<L>þorwh þe help of ure ladi.</L>
+<L>Iblesset be þe maide Mari,</L>
+<L>ffor euere in neode heo is redi,</L>
+<L>to gete us of hire sone merci, <MILESTONE N="370"/></L>
+<L>and ȝeorne we auhte on hire to cri:</L>
+<L>ffor do we neuere so synful dede,</L>
+<L>euere heo helpeþ us in nede.</L>
+<L><PB N="48" REF="33"/>
+Wel is him, þat niht nad day</L>
+<L>mai hire honoure and serue to pay!</L>
+<L>Teophele in al his wo and care</L>
+<L>þouhte on Marie, þat Jhesu bare,</L>
+<L>þe þouhte, þat heo was wel wone,</L>
+<L>ffor synful mon to preye hire sone. <MILESTONE N="380"/></L>
+</LG>
+<LG>
+<L>To hire chapele sone he ron.</L>
+<L>as hit were a wood mon,</L>
+<L>and kneled bifore hire autere</L>
+<L>wiþ careful herte and druri chere,</L>
+<L>and seide: "Modur, ladi Mari!</L>
+<L>of me caytyf þou haue merci!</L>
+<L>Ladi, prey þi sone for me,</L>
+<L>þat for me dyed on þe tre:</L>
+<L>lady, let him not me tyne,</L>
+<L>þat þolede for me harde pyne! <MILESTONE N="390"/></L>
+<L>Lauedi, schewe here þi miht</L>
+<L>and reue þe fend of helle his kniht!</L>
+<L>Ladi, let hit nou beo sene,</L>
+<L>þat þou of heuene art mihti qwene.</L>
+<L>Ladi! fond his wraþþe to slake,</L>
+<L>þat wolde þe qwene of heuene make!</L>
+</LG>
+<LG>
+<L>for I my self am not worþi,</L>
+<L>to aske wiþ mouþe þi sone merci:</L>
+<L>but ȝif I haue now help of þe,</L>
+<L>wiþouten ende in helle I be; <MILESTONE N="400"/></L>
+<L>þerfore haue reuþe of me caytif,</L>
+<L>and mak Crist graunte me lyme and lyf,</L>
+<L>þat alle cristene men may se</L>
+<L>þi miht and þi merci on me!"</L>
+<L>Suche wordes Teophele seide,</L>
+<L>þat he in orisun was leyde;</L>
+<L>ffourti dayes was he þare,</L>
+<L>in gret trauayle, pyne and care,</L>
+<L>in gret serwe and wepyng,</L>
+<L>in muche fastyng and wakyng. <MILESTONE N="410"/></L>
+<L>So longe was Teophele in destaunce,</L>
+<L>in gret trauayle and penaunce.</L>
+<L>þat atte laste ure ladi</L>
+<L>hedde pite of him and merci:</L>
+</LG>
+<LG>
+<PB N="49" REF="34"/>
+<L>ffor, what synne þat mon may do,</L>
+<L>euere in neode helpeþ ho</L>
+<L>to alle þat wole aske hire merci:</L>
+<L>blessed beo heo, as vre ladi!</L>
+<L>Whon þe fourti dayes were gon,</L>
+<L>heo com to þat sely mon, <MILESTONE N="420"/></L>
+<L>þer he was falle on slepe,</L>
+<L>ffor gret serwe and for wepe.</L>
+<L>Ure ladi asked him, what he walde,</L>
+<L>and whi so faste on hire he calde.</L>
+<L>"Þou hast," quaþ heo, "maad me vnro,</L>
+<L>and maad me come hider þe to.</L>
+<L>Undurstond, what þou hast done,</L>
+<L>ȝif þou beo worþi, han þi bone.</L>
+<L>I haue wel herd þi preyere,</L>
+<L>but I not, on what manere <MILESTONE N="430"/></L>
+<L>þat I may preye my sone for þe,</L>
+<L>ffor þou forsoke mi sone and me.</L>
+<L>Hou dar I stonde bifore his trone,</L>
+<L>to make him graunte þe þy bone?</L>
+<L>ffor þu hast vs boþe forsake,</L>
+<L>and to vr fo þou hast þe take.</L>
+</LG>
+<LG>
+<L>Þat þou hast don aȝeyn me,</L>
+<L>holliche I forȝiue hit now þe:</L>
+<L>but whon me doþ my sone wrong,</L>
+<L>wite þow wel, me þinkeþ strong. <MILESTONE N="440"/></L>
+<L>þeih my sone beo ful of merci,</L>
+<L>and loueþ monkynde as wel as I:</L>
+<L>not forþi his rihtwisnis</L>
+<L>so muchel in him seluen is,</L>
+<L>þat him bihoueþ euere do riht,</L>
+<L>and deme þe mon aftur his pliht;</L>
+</LG>
+<LG>
+<L>þerfore me þinkeþ gret ferly,</L>
+<L>þat þow askest of me merci,</L>
+<L>whon þow hast don so strong outrage, <MILESTONE N="450"/></L>
+<L>þat þou hast don þe fend omage!"</L>
+<L>Whon þat Teophele þis herde,</L>
+<L><PB N="50" REF="35"/>
+in his herte he was aferde,</L>
+<L>but he sauh, him bihoued nede,</L>
+<L>to onswere for his owne dede,</L>
+<L>and sone he spac to vre ladi</L>
+<L>and seide: "Ladi, wel wot I,</L>
+<L>þat my mouþ nis not worþi,</L>
+<L>fforte aske of þe merci,</L>
+<L>ffor wiþ þe ffend of helle I spake,</L>
+<L>and my cristendom schomely brake, <MILESTONE N="460"/></L>
+</LG>
+<LG>
+<L>but, swete ladi, not forþi</L>
+<L>J wot wel þat kyng Daui</L>
+<L>was muchel beter mon þen I,</L>
+<L>and ȝit he fel in gret foly,</L>
+<L>and made sle þe kniht Urri</L>
+<L>and to cheues tok his leuedi;</L>
+<L>wiþ monslauht and spousbruche</L>
+<L>he deserued greefly wreche.</L>
+<L>And leoue ladi, not forþi <MILESTONE N="470"/></L>
+<L>of him dude god ful good merci.</L>
+<L>A noþer þing makeþ me fayn,</L>
+<L>whon I þenke on þe Maudelayn,</L>
+<L>þat ladde hire lyf in gret folye,</L>
+<L>in jolyte and lecherye,</L>
+<L>and not forþi þi sone Jhesus Christus,</L>
+<L>þat died on þe rode for us,</L>
+<L>made hire of synne so clene,</L>
+<L>þat no synne was on hire sene.</L>
+<L>þerfore, my ladi, I hope wele <MILESTONE N="480"/></L>
+<L>þat þin help may my serwe kele.</L>
+<L>Wel I wot, þi sone bouhte me</L>
+<L>also dere, as he dude þe:</L>
+</LG>
+<LG>
+<L>ȝif synne ne were, þu neddest beo quene,</L>
+<L>ne godes modur in heuene bene;</L>
+<L>þerfore me þinkeþ, I may wel fonde</L>
+<L>to preye, þat þou bere myn ernde</L>
+<L>to þi sone for mi misdede,</L>
+<L>þat tok for vs in þe monhede!"</L>
+<L>Whon Teophele hedde þus ispoken, <MILESTONE N="490"/></L>
+<L>þer he was in chirche iloken,</L>
+<L>vre ladi, moder of merci,</L>
+<L><PB N="51" REF="36"/>
+onswerede him ful swetely:</L>
+</LG>
+<LG>
+<L>I loue, quaþ heo, monkynde so weel,</L>
+<L>þat I wol fonde, þi care to kel,</L>
+<L>and to my sone nou gon wol I,</L>
+<L>fforte aske for þe merci.</L>
+<L>But or I do þis grace to þe,</L>
+<L>I wole, þat þou siker be,</L>
+<L>þat þou schalt wel þi lyf amende,</L>
+<L>and from þe fend þe defende; <MILESTONE N="500"/></L>
+<L>and for þou hast ben his seruaunt,</L>
+<L>I wol, þat þou wiþ mouþ graunt,</L>
+<L>pat he is wrecche and vnworþi,</L>
+<L>and my sone is god almihti,</L>
+<L>þat of me tok flesch and blode,</L>
+<L>and for monkynde dyed on rode,</L>
+<L>and binom þe fend of helle his prai,</L>
+<L>and ros from deþ to liue þe þridde day,</L>
+<L>and steih to heuene as mihti kyng,</L>
+<L>And mad of nouht alle þyng, <MILESTONE N="510"/></L>
+<L>and schal deeme boþe goode and ille,</L>
+<L>and al þe prophecye fulfille.</L>
+<L>Ȝif þu leeue þis studefastly,</L>
+<L>to do þin erende fonde wol I."</L>
+<L>Teophele herde þis and was fayn,</L>
+<L>and seide to vr ladi aȝeyn:</L>
+<L>"Ladi, al þis leeue I so wel,</L>
+<L>þat þerof doute I neuer a del,</L>
+<L>and graunte wiþ mouþe openly</L>
+<L>al þat þou hast seid, ladi!" <MILESTONE N="520"/></L>
+<L>At þis word heo wente him fro,</L>
+<L>and he fel on slepe riht so,</L>
+<L>and ros vp wiþ joyful mode,</L>
+<L>and kneled þere vr ladi stode,</L>
+<L>and made to hire his vrisoun,</L>
+<L>wiþ ful good deuocioun.</L>
+<L>Þere he knelede dayes þre,</L>
+<L>neiþer ete ne drinke wolde he.</L>
+<L>Ur ladi on þe þridde niht</L>
+<L>com to hym wiþ leomes liht <MILESTONE N="530"/></L>
+<L>and seide, heo hedde igete him graunt,</L>
+<L>þat he mihte beo hire sone seruaunt.</L>
+<L>Mi sone, quaþ heo, haþ graunted me,</L>
+<L>þat þi synnes forȝiue be:</L>
+<L>but her aftur kep þe wel,</L>
+<L><PB N="52" REF="37"/>
+þat þow falle in non vncel!"</L>
+</LG>
+<LG>
+<L>Teophele onswerde hire and seide,</L>
+<L>þer he in orisun was leyde:</L>
+<L>"Swete ladi! wel is me,</L>
+<L>iblessed euere mote þou be! <MILESTONE N="540"/></L>
+</LG>
+<LG>
+<L>Now þou hast, ladi, wel idone,</L>
+<L>I preye þe, graunte me my bone!</L>
+<L>Swete ladi! mak me haue</L>
+<L>þat vnsely cirograue,</L>
+<L>þat þe fend made me write,</L>
+<L>ffor elles of him am I not quyte.</L>
+<L>May I neuer siker be,</L>
+<L>til þat scrit beo brouht to me,</L>
+<L>þat I made wiþ þe fende,</L>
+<L>to ben his seruaunt and his frende.</L>
+<L>Ladi, mak me haue þat scryte,</L>
+<L>ffor þerof is al my wite!" <MILESTONE N="550"/></L>
+</LG>
+<LG>
+<L>Whon þis was seid, heo wente him fro,</L>
+<L>but of þat stude nolde he go,</L>
+<L>but þer in orisun he lay</L>
+<L>sore wepinge niht and day.</L>
+<L>On slepe he fel þe þridde niht,</L>
+<L>ffor gret trauayle lusten him miht;</L>
+</LG>
+<LG>
+<L>and as he lay faste slepynge,</L>
+<L>þulke scrit Marie gon bringe, <MILESTONE N="560"/></L>
+<L><PB N="53" REF="38"/>
+on Theophele breste heo leyde þe scrite,</L>
+<L>and wente a wei from him tyte.</L>
+<L>Whon þat Teophele was wakande,</L>
+<L>þe scrit on his breste he fonde:</L>
+</LG>
+<LG>
+<L>þe joye, þat he made þon,</L>
+<L>wiþ tonge telle may no mon!</L>
+<L>þe joye, þat he hedde in herte,</L>
+<L>made him for joye lepe and sterte.</L>
+</LG>
+<LG>
+<L>Upon þe morwe sonday was,</L>
+<L>to chirche ede þe folk, to here heor mas, <MILESTONE N="570"/></L>
+<L>and forte make heore preyere,</L>
+<L>godes seruise forte here.</L>
+<L>Þe bisschop com to þe chirche,</L>
+<L>godes seruise for to worche.</L>
+<L>Þider com Teophele faste rennande,</L>
+<L>and brouhte þe scrit in his hande.</L>
+<L>Aftur þe offring of þe mes</L>
+<L>þe bisschop, as þe custom is,</L>
+<L>ffrom þe auter he com doun,</L>
+<L>to sigge þe ffolk a sarmoun. <MILESTONE N="580"/></L>
+<L>Theophele gon þe bisschop mete,</L>
+<L>and sone he fel to his feete,</L>
+<L>and sore bygon he forte wepe,</L>
+<L>and spac to him wiþ wordes swete,</L>
+<L>and tolde al to gedere his cas,</L>
+<L>whos mon bicomen he was,</L>
+<L>and hou a Jewh wiþ sorcerye</L>
+<L>hed mad him falle in gret folye,</L>
+<L>and how þe blisfol qwen Marie</L>
+<L>gat him forȝiuenes and mercye. <MILESTONE N="590"/></L>
+</LG>
+<LG>
+<L>Whon þat Teophele þis tale hedde told,</L>
+<L>þe bisschopes herte wox ful cold;</L>
+<L>so muche ferli him þouht,</L>
+<L>þat wel speke mihte he nouht.</L>
+<L>Teophele spak on such manere,</L>
+<L>þat lered and lewed mihte him here,</L>
+<L>and to comferme al his sawe,</L>
+<L>þe scrit he made rede and schawe.</L>
+<L>Whon þe folc herde þis, <MILESTONE N="600"/></L>
+<L><PB N="54" REF="39"/>
+gret ferli hem þhouhte iwis.</L>
+<L>þe bisschop mad rede þat scrite,</L>
+<L>and aftur preche hit in pulpite,</L>
+</LG>
+<LG>
+<L>and bad þe folk ensaumple take,</L>
+<L>to do <NOTE N="3)" PLACE="foot">de <HI REND="italic">ms.</HI></NOTE> penaunce for sinne and sake.</L>
+<L>"Here", quaþ he "may ȝe lere,</L>
+<L>how schrifte, penaunce and preyere</L>
+<L>makeþ forȝiue monnes syn,</L>
+<L>ffalle he neuere so depe þer in:</L>
+<L>þat may ȝe seo ful witerly</L>
+<L>in þis clerk, þat gat mercy, <MILESTONE N="610"/></L>
+<L>wiþ preyere and penaunce worþi,</L>
+<L>and þorw help of vre ladi.</L>
+<L>Wel is him, þat niht and day</L>
+<L>may serue, þat mihtful qwen to pay!</L>
+<L>In wonhope þar no mon falle,</L>
+<L>þat on þe mylde qwen wol calle,</L>
+<L>and do riht penaunce for his syn,</L>
+<L>and aftur no more falle þer in:</L>
+<L>ffor Teophele, þat ȝe seon here,</L>
+<L>sunged in so strong manere, <MILESTONE N="620"/></L>
+<L>þat al þe world may þinke ferli,</L>
+<L>hou euere he mihte gete merci;</L>
+<L>þerfore he þouhte queynteli,</L>
+<L>whon he preyede vre ladi,</L>
+</LG>
+<LG>
+<L>ffor to ben his atorne,</L>
+<L>to stonde bifore þe trinite</L>
+<L>and gete him þere forȝiuenes</L>
+<L>of his synne more and les.</L>
+<L>Ladi! bliþe may þei be,</L>
+<L>þat han in heuene such aturne, <MILESTONE N="630"/></L>
+<L>þat fayleþ neuermore in nede,</L>
+<L>haue mon do neuere so synful dede.</L>
+<L>Wel ouhte we boþe day and niht</L>
+<L>honoure hire wiþ al ur miht!"</L>
+<L>Whon he hed seid þis and mare,</L>
+<L>he let brenne þe scrit þare,</L>
+<L>þat Teophele made of couenaunt,</L>
+<L>when he bicom þe deueles seruaunt.</L>
+<L>Whon þe folk hedde herd and sene</L>
+<L>al þat þe bisschop wolde mene, <MILESTONE N="640"/></L>
+<L>ffor joye þei beogonne to crie,</L>
+<L><PB N="55" REF="40"/>
+and þonked god and vre ladie.</L>
+</LG>
+<LG>
+<L>þe bisschop to þe auter ȝode,</L>
+<L>and song his masse wit joyful mode,</L>
+</LG>
+<LG>
+<L>and ȝaf Teophele þe fflesch and blode,</L>
+<L>þat Jhesus Crist schedde on þe roode.</L>
+<L>And sone, whon he hoseled was,</L>
+<L>as briht þo schon his fas,</L>
+<L>as doþ sonne in someres tyde,</L>
+<L>and al þe folk, þat stod beo syde, <MILESTONE N="650"/></L>
+<L>ffor joye of herte to þe erþe þei flawe,</L>
+<L>whon þat þei þis miracle sawe:</L>
+<L>ffor non of hem, þat þer was,</L>
+<L>miht loke for brihtnes of his fas.</L>
+</LG>
+<LG>
+<L>Whon þis miracle was done,</L>
+<L>Teophele tok his leue sone</L>
+<L>and ȝeld vp al his bailye,</L>
+<L>his offys and his grete maistrie,</L>
+</LG>
+<LG>
+<L>and ȝeode in to his owne hous,</L>
+<L>and ȝaf his goodes in almous, <MILESTONE N="660"/></L>
+<L>al his gold and his tresore,</L>
+<L>al his lond and his store,</L>
+<L>al he ȝaf and lefte him nouht,</L>
+<L>ffor his loue, þat on rode him bouht:</L>
+<L>to him he torned al his þouht,</L>
+<L>and no þing of him selue rouht.</L>
+<L><PB N="56" REF="41"/>
+Whon he hedde ȝiuen al his catel,</L>
+<L>and left him self neuer a del,</L>
+<L>into þat stude anon he ȝode,</L>
+<L>þer ur ladi bifore him stode, <MILESTONE N="670"/></L>
+<L>and riht þere þat he sauh hire stande,</L>
+<L>in þat stude he was euere dwellande,</L>
+<L>til þat god him seknes sent,</L>
+<L>wherfore out of þis wold he went;</L>
+<L>ffor in þat stude sek he lay</L>
+<L>euer til þe þridde day.</L>
+<L>Vre lord dude of him his wille,</L>
+<L>and clepte him to heuene him tille;</L>
+<L>Teophele gon harde pyne drie,</L>
+<L>and wel he wuste, whon he schulde die; <MILESTONE N="680"/></L>
+</LG>
+<LG>
+<L>he was in gret deuociun,</L>
+<L>and clepte men of religiun;</L>
+<L>and whon he hedde icust hem alle,</L>
+<L>his eȝelides let he falle,</L>
+<L>and so to heuene blisse he eode,</L>
+<L>and for his trauayle to take mede.</L>
+<L>Al þis tale I haue ow told,</L>
+<L>to make ow in or herte bold:</L>
+<L>þat twey þinges helpeþ mon of synne,</L>
+<L>þat woundeþ sore þe soule wiþinne: <MILESTONE N="690"/></L>
+<L>godus merci is þat on,</L>
+<L>and ȝiueþ grace to synful mon,</L>
+<L>fforþinkeþ, þat he haþ idone,</L>
+<L>and rise out of synne sone.</L>
+<L>Þat oþur is hard penaunce,</L>
+<L>þat ouhte folwe repentaunce,</L>
+<L>ffor þeos two þinges, as I wene,</L>
+<L>wol Crist in vre gospel mene</L>
+<L>beo þe oyle and beo þe wyn,</L>
+<L>þat clanseþ his woundes wiþin, <MILESTONE N="700"/></L>
+<L>þat bi þe wey lay iwoundet sore,</L>
+<L>as I tolde ow lang ore.</L>
+<L>Teophele of whom I haue told,</L>
+<L>hedde woundes on him so monifold,</L>
+</LG>
+<LG>
+<PB N="57" REF="42"/>
+<L>þat he hedde dyed in helle pyne,</L>
+<L>ȝif Crist ne hedde iȝiuen him medicine.</L>
+<L>and clansed his woundes wiþin</L>
+<L>wiþ þis forseyd oyle and wyn.</L>
+<L>ȝit is þer more in vre gospel,</L>
+<L>þat ouerlonge hit weore to tel, <MILESTONE N="710"/></L>
+<L>and þerfore I wol leue here,</L>
+<L>and to ur lord make preyere,</L>
+<L>þat he schild vs from dedly synne,</L>
+<L>and let vs neuere falle þer inne,</L>
+<L>and ȝif we falle þorwh vre foly,</L>
+<L>he sende vs grace of his merci,</L>
+<L>to haue riht repentaunce,</L>
+<L>and after to do worþi penaunce;</L>
+<L>and þenne take we þe medicyne</L>
+<L>þat is tokned bi oyle and wyne; <MILESTONE N="720"/></L>
+<L>ffor þeos twey þinges clanseþ us</L>
+<L>and makeþ vs come to godus hous,</L>
+<L>þer we schule wiþouten ende</L>
+<L>liue wiþ Crist as broþur and frende.</L>
+<L>Vre lord, Jhesu Crist, vs spede,</L>
+<L>to do penaunce and þider vs lede! <MILESTONE N="725"/></L>
+<CLOSER>Amen.</CLOSER>
+</LG>
+<CLOSER><DATELINE>BRESLAU, <DATE>JULI 1876.</DATE></DATELINE>
+<SIGNED>E. Kölbing.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

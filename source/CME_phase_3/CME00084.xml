@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-20-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed titles. Checked <SUP>s</SUP>; removed <SUP>s</SUP> in MILESTONEs. Reviewed structure; changed some TRAILERs to CLOSERs; changed a TRAILER to L; moved some misplaced MILESTONEs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00084">
+<STC T="M">84</STC>
+<BIBNO T="mec">CME00084</BIBNO>
+<VID>CME00084</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 N="1" TYPE="poem">
+<PB N="365" REF="6"/>
+<HEAD>I. Here begyneþ sei<HI REND="italic">n</HI>t gregories trentel.</HEAD>
+<LG>
+<L>Iffynde wreten a good storie, þe pope of</L>
+<L>rome it wrot, seynt gregorie,</L>
+<L>Off his moder &amp; of hure liif,</L>
+<L>That men helden an holi wif,</L>
+<L>So sad of maner, so mylde of modo <NOTE N="1)" PLACE="foot">Evidently a miswriting for <HI REND="italic">mode.</HI></NOTE>, <MILESTONE N="5"/></L>
+<L>That alle men helden hur<HI REND="italic">e</HI> holi good,</L>
+<L>Debon<HI REND="italic">er,</HI> deuout, so mylde of steuen,</L>
+<L>þat alle men seide sche scholde to heue<HI REND="italic">n.</HI></L>
+<L>As holi holden as sche was,</L>
+<L>Þe fende felde in a foule cas. <MILESTONE N="10"/></L>
+<L>He gilde hur with tricherie,</L>
+<L>And ladde hur<HI REND="italic">e</HI> into þe synne of lecherie.</L>
+<L>That lest w<HI REND="italic">ith</HI> loue hur<HI REND="italic">e</HI> so bigilid,</L>
+<L>So foul þat sche was with childe.</L>
+<L>And so preueli sche hit bar, <MILESTONE N="15"/></L>
+<L>That þer-of was no whiȝte war.</L>
+<L>And for no wiȝthe scholde wete hir<HI REND="italic">e</HI> cas,</L>
+<L>Anoon as þe child I-bore was,</L>
+<L>Bi þe necke þe childe sche weried,</L>
+<L>And sone aftir sche hit beried. <MILESTONE N="39a." UNIT="fol."/> <MILESTONE N="20"/></L>
+<L>Sche was combred in a foule cas,</L>
+<L>And was noȝt schreuyn, alas!</L>
+<L>ffor sche wolde holi holden be,</L>
+<L>Sche tolde neu<HI REND="italic">er</HI> prest her<HI REND="italic">e</HI> preuite.</L>
+<L>Alle men were glad of her<HI REND="italic">e</HI> good fame, <MILESTONE N="25"/></L>
+<L>So holi sche was holde<HI REND="italic">n</HI> &amp; of good name.</L>
+<L>Efte-sonys hure bi-fil þe same cas,</L>
+<L>Riȝt as bi-forn tid hur<HI REND="italic">e</HI> was.</L>
+<L>ffor sche was comyn of hiȝe parage,</L>
+<L>Of riche kyn &amp; gentel lynage,— <MILESTONE N="30"/></L>
+<L>Hure sone was sei<HI REND="italic">n</HI>t gregorie þe pope,—</L>
+<L>Men helden hur<HI REND="italic">e</HI> holi in al hur<HI REND="italic">e</HI> hope;</L>
+<L>Therfor sche lefte hur<HI REND="italic">e</HI> schrifte to schowe.</L>
+<L>Lest þroȝ scherfte hur<HI REND="italic">e</HI> syn<HI REND="italic">ne</HI> wer<HI REND="italic">e</HI> knowe.</L>
+<L>Schame makeþ men to holde<HI REND="italic">n</HI> her<HI REND="italic">e</HI> scherft, <MILESTONE N="35"/></L>
+<L>And lese<HI REND="italic">n</HI> þe grace of godis gifte,</L>
+<L>And seþen to lyue<HI REND="italic">n</HI> ful sy<HI REND="italic">n</HI>nfulli,</L>
+<L>And foule to deiȝen &amp; sodeynly.</L>
+<L><PB N="366" REF="7"/>
+This womanys dedis were not aspyed,</L>
+<L>And soþeli sone þerafter sche deied. <MILESTONE N="39b." UNIT="fol."/> <MILESTONE N="40"/></L>
+<L>Whan sche was seien so gostli die,</L>
+<L>Men helden hire in heuen ful hiȝe.</L>
+<L>Men helden hire so holi &amp; deuowt</L>
+<L>That of hur<HI REND="italic">e</HI> deþ hadden þei no dowt;</L>
+<L>But wende witterli alle to wisse <MILESTONE N="45"/></L>
+<L>That sche were sent to heuen blisse.</L>
+<L>Here-aftir with-i<HI REND="italic">n</HI>ne a litel tyme,</L>
+<L>Sone oon a day aftir-þe prime,</L>
+<L>Here sone þe pope at þe masse stode,</L>
+<L>And of his moder ne couþe but good. <MILESTONE N="50"/></L>
+<L>Al sodeynli i<HI REND="italic">n</HI> myddis his masse</L>
+<L>Drouȝ to hi<HI REND="italic">m</HI>-warde a gret merkenesse,</L>
+<L>That blacked alle þe daies liȝt,</L>
+<L>And was as derke as eny nyȝt.</L>
+<L>And in þat derken<HI REND="italic">us</HI> w<HI REND="italic">ith</HI> suche a mest amo<HI REND="italic">n</HI>g, <MILESTONE N="55"/></L>
+<L>Þat al astonyed he was of steynch<HI REND="italic">e</HI> stro<HI REND="italic">n</HI>g.</L>
+<L>Þer-of ful grisli he was agast,</L>
+<L>That swownyg he was al-mast.</L>
+<L>Bi-sides lokede vnder his lere,</L>
+<L>In meddis þat derkenesse þer þrouȝ on nere, <MILESTONE N="60"/></L>
+<L><MILESTONE N="40a." UNIT="fol."/> A wonder grisli creature;</L>
+<L>Riȝt as a fende was his feture,</L>
+<L>So ragged, so rent, so elynge &amp; euel,</L>
+<L>As foule to siȝt as eny deuel.</L>
+<L>Mouþe &amp; nose, eris &amp; eyȝes <MILESTONE N="65"/></L>
+<L>fflamed ful of fyri sperkeles.</L>
+<L>He asked holiche þrouȝ his myȝt</L>
+<L>That alle fendis scholde drede &amp; diȝth,</L>
+<L>And also bi vertu of his blode</L>
+<L>That for mankynde deiede on roode:— <MILESTONE N="70"/></L>
+<L>Seye me soþeli þe soþe sone,</L>
+<L>What hast þou in þis place to done?</L>
+<L>What is þi cause, þou cursed wreche,</L>
+<L>Thus at my masse me to dreche?</L>
+<L><NOTE PLACE="marg">§</NOTE> The gost answerede with rewli chere:— <MILESTONE N="75"/></L>
+<L>I am þi moder þat þe bere,</L>
+<L>That for vnschreuy<HI REND="italic">n</HI> dedis derne,</L>
+<L><PB N="367" REF="8"/>
+In better peynes þus I bre<HI REND="italic">n</HI>ne.</L>
+<L>Tha<HI REND="italic">n</HI>ne answerede þe pope, &amp; seide alas!</L>
+<L>Alas, my moder, þis vnder cas! <MILESTONE N="40b." UNIT="fol."/> <MILESTONE N="80"/></L>
+<L>Alas, my moder, how may þis be,</L>
+<L>In suche aray þe to se?</L>
+<L>Men wende witterli alle I-wisse</L>
+<L>Thou were worþi to haue heue<HI REND="italic">n</HI> blisse,</L>
+<L>And ful wel with god þou were, <MILESTONE N="85"/></L>
+<L>To prayen for vs þat ben here.</L>
+<L>Sey me, moder, with-outen feyn,</L>
+<L>Whi art þou put to suche peyn?</L>
+<L>Sche seide, my sone, soþfastli</L>
+<L>I schal þe telle þe skele whi. <MILESTONE N="90"/></L>
+<L>ffor I was noȝt suche as I semed,</L>
+<L>But wickedder &amp; worse þa<HI REND="italic">n</HI> me<HI REND="italic">n</HI> deme.</L>
+<L>I semed wickedl i<HI REND="italic">n</HI> my lyue,</L>
+<L>Of whiche syn<HI REND="italic">n</HI>e I nolde me neu<HI REND="italic">er</HI> schriue.</L>
+<L>Sche tolde hi<HI REND="italic">m</HI> treweli al hur<HI REND="italic">e</HI> cas, <MILESTONE N="95"/></L>
+<L>ffrom ende to ende, riȝt as hit was.</L>
+<L>Sey me, moder, for marie flowre,</L>
+<L>Ȝif ouȝth may be þi sauf socoure.</L>
+<L>Wheþ<HI REND="italic">er</HI> penau<HI REND="italic">n</HI>ce or fasti<HI REND="italic">n</HI>g<HI REND="italic">e</HI> may þe alegge,</L>
+<L>Bedis or masses þi peynes abegge. <MILESTONE N="41a." UNIT="fol."/> <MILESTONE N="100"/></L>
+<L>Whiche crafte, whiche cost, or oþer<HI REND="italic">e</HI> þyng<HI REND="italic">e</HI></L>
+<L>To þe may helpen eny lysnyng<HI REND="italic">e.</HI></L>
+<L><NOTE PLACE="marg">§</NOTE> My dere blessed sone, seide sche,</L>
+<L>fful wel holpen myȝt I be,</L>
+<L>Holpen &amp; saued I myȝt be wel, <MILESTONE N="105"/></L>
+<L>Who-so vndertoke a trewe trentel</L>
+<L>Of ten chef festis of þe ȝere,</L>
+<L>To synge for me on þis man<HI REND="italic">er</HI>e:</L>
+<L>Thre masses of cristis natiuite,</L>
+<L>And of þe epiphanye oþir þre; <MILESTONE N="110"/></L>
+<L>Thre of þe purificacion,</L>
+<L>And þre of þe annu<HI REND="italic">n</HI>ciacion;</L>
+<L>Thre of þe resurreccion,</L>
+<L>And þre of þe ascencion;</L>
+<L>Of þe pentecoste oþir þre, <MILESTONE N="115"/></L>
+<L>And þre of þe trinyte;</L>
+<L>Thre of maries natiuite,</L>
+<L><PB N="368" REF="9"/>
+And of hure assumpcio oþir þre.</L>
+<L>These aren the masse ten,</L>
+<L>That sou<HI REND="italic">er</HI>eynli socouren syn<HI REND="italic">n</HI>eful men. <MILESTONE N="41b." UNIT="fol."/> <MILESTONE N="120"/></L>
+<L>What good prest þat syngeþ þ<HI REND="italic">e</HI>se masses can faile?</L>
+<L>To synful soulis þei scholle a-vaile</L>
+<L>In oon ȝere with-outen treyne</L>
+<L>Delyu<HI REND="italic">er</HI>en a soule oute of peyne.</L>
+<L>But let seyen þese masse bi ȝ<HI REND="italic">ou</HI>re heste <MILESTONE N="125"/></L>
+<L>With-i<HI REND="italic">n</HI>ne þe vtas of þese festes.</L>
+<L>And he þat þese masses schal do,</L>
+<L>Lat hi<HI REND="italic">m</HI> seie þer-w<HI REND="italic">ith</HI> þis oreson þer<HI REND="italic">e</HI>-to,</L>
+<L>Trewli with outen were</L>
+<L>Eueri day in þe ȝere. <MILESTONE N="130"/></L>
+<L>Do hi<HI REND="italic">m</HI> to seie hit euery day,</L>
+<L>Or he þat doþ þe masses say.</L>
+<L>Who so wole knowen þe orisou<HI REND="italic">n</HI> clene,</L>
+<L>Hit is in engleische þus to mene:</L>
+</LG>
+<LG>
+<L>God oure veri redempciou<HI REND="italic">n,</HI> <MILESTONE N="135"/></L>
+<L>Oure soþfaste soule saluacou<HI REND="italic">n,</HI></L>
+<L>That chose alle oþer londis bi-forn</L>
+<L>The lond of bi-heste in to ben born,</L>
+<L>And þi deþ suffredest in the same,</L>
+<L>Delyu<HI REND="italic">er</HI>e þis soule fro gult &amp; blame. <MILESTONE N="42a." UNIT="fol."/> <MILESTONE N="140"/></L>
+<L>Take it oute of the fendes bonde,</L>
+<L>And þat lond fron heþen honde,</L>
+<L>And þe pepil þat bileueþ noȝt on þe</L>
+<L>Þrouȝ þi vertu amende mot be;</L>
+<L>And alle þat trustyn in þi merci, <MILESTONE N="145"/></L>
+<L>Lord saue hem sone &amp; sothfali.</L>
+</LG>
+<LG>
+<L>O moder, seide gregori, þat wol I do,</L>
+<L>ffor I am man most holden þer-to.</L>
+<L>Thou were my moder, I was þi sone;</L>
+<L>To synge<HI REND="italic">n</HI> þo masse I ne schal noȝt schone. <MILESTONE N="150"/></L>
+<L>God grau<HI REND="italic">n</HI>te, moder, þei stonde þe i<HI REND="italic">n</HI> stede</L>
+<L>Aȝenest alle þe syn<HI REND="italic">n</HI>es þat eu<HI REND="italic">er</HI>e þou dede.</L>
+<L>And I charge þe, moder, holi here</L>
+<L>Thus tyme twelfmonþe to me þ<HI REND="italic">ou</HI> apere,</L>
+<L>holli þi stat to me to telle, <MILESTONE N="155"/></L>
+<L>How þou fareste of þi peynes felle.</L>
+<L><PB N="369" REF="10"/>
+My sone, sche seide, I wol in fay.</L>
+<L>And w<HI REND="italic">ith</HI> þat word sche wente a-way.</L>
+<L>So from day to day þat ȝere gan passe;</L>
+<L>The pope lefte neu<HI REND="italic">er</HI> to seyn his masse <MILESTONE N="42b" UNIT="fol."/> <MILESTONE N="160"/></L>
+<L>The same daies þat weren asygned</L>
+<L>To helpen his moder þ<HI REND="italic">at</HI> was so peyned,</L>
+<L>And tok þe orisou<HI REND="italic">n</HI> al-gatis per-to,</L>
+<L>As his moder prayede hi<HI REND="italic">m</HI> to do.</L>
+<L>Þat tyme twelfmonþe at þe masse he stod, <MILESTONE N="165"/></L>
+<L>Holli i<HI REND="italic">n</HI> p<HI REND="italic">ra</HI>iour w<HI REND="italic">ith</HI> deuociou<HI REND="italic">n</HI> good;</L>
+<L>And in þe same tide a pliȝth</L>
+<L>He sawȝ a swiþe semeli syȝth,</L>
+<L>A comli ladi, so dressed &amp; deiȝth,</L>
+<L>That alle þe worlde of hure schon brith, <MILESTONE N="170"/></L>
+<L>Comli crownyd as a quene,—</L>
+<L>Two angelis ladden hur<HI REND="italic">e</HI> hem bi-twene.</L>
+<L>He was rauassched so of þat siȝt,</L>
+<L>Al-most for ioie he swowned riȝt.</L>
+<L>He fel don flat bi-forn hure feet; <MILESTONE N="175"/></L>
+<L>Deuout teres þer he lette.</L>
+<L>He grette hur<HI REND="italic">e</HI> w<HI REND="italic">ith</HI> ful myld steuene,</L>
+<L>And seide, ladi, quene of heuene,</L>
+<L>Moder of ih<HI REND="italic">es</HI>u, myld marie,</L>
+<L>ffor my moder merci I crie <MILESTONE N="43a." UNIT="fol."/> <MILESTONE N="180"/></L>
+<L>Do way, sche seide, I am noȝt sche</L>
+<L>That þou wenest þat I be.</L>
+<L>But sooþli as þou seest me here,</L>
+<L>I am þi moder þat þe bere.</L>
+<L>By-forn I ferde as þ<HI REND="italic">ou</HI> westest welle, <MILESTONE N="185"/></L>
+<L>ffaryng<HI REND="italic">e</HI> foule as þe deuel of helle.</L>
+<L>I am suche now as þou seest here</L>
+<L>þrouȝ helpen &amp; vertu of þi prayere,</L>
+<L>ffrom derkenesse dressed to blisse clere;</L>
+<L>The tyme be blessed þat I þe bere. <MILESTONE N="190"/></L>
+<L>And for þi kyndenesse of þi dede</L>
+<L>Sou<HI REND="italic">er</HI>ein ioie schal be þi mede.</L>
+<L>And alle þat þe masses leten þus be do</L>
+<L>Schul sauyn hem-seluen &amp; þat þ<HI REND="italic">o</HI> <NOTE N="1)" PLACE="foot">The vowel, which is written above the þ, is uncertain; it may be <HI REND="italic">e.</HI></NOTE> soule þer-to.</L>
+<L>Ther-fore, sone, þis storie þou preche, <MILESTONE N="195"/></L>
+<L><PB N="370" REF="11"/>
+Mi dere sone, god I þe be-teche.</L>
+<L>Whan sche hadde endid þese wordis eue<HI REND="italic">n,</HI></L>
+<L>Angelis hure bere up to heuene;</L>
+<L>To þat same place god vs sende,</L>
+<L>That woneþ in blisse wi<HI REND="italic">th</HI>-oute<HI REND="italic">n</HI> ende. <MILESTONE N="200"/></L>
+<CLOSER>Am<HI REND="italic">en.</HI></CLOSER>
+</LG>
+<LG>
+<L><MILESTONE N="43b" UNIT="fol."/> Now haue ȝe herd boþe fair<HI REND="italic">e</HI> &amp; wel</L>
+<L>þe vertu of sei<HI REND="italic">n</HI>t g<HI REND="italic">re</HI>gories trentel;</L>
+<L>But who-so wole dou<HI REND="italic">n</HI> it wel &amp; p<HI REND="italic">er</HI>fiȝtli,</L>
+<L>He moste do more, sekerli.</L>
+<L>þe prest þ<HI REND="italic">at</HI> schal for þe soule syng<HI REND="italic">e,</HI> <MILESTONE N="205"/></L>
+<L>At eche a feste þat he herde mynge,</L>
+<L>He most saye wi<HI REND="italic">th</HI> gret deuociou<HI REND="italic">n</HI></L>
+<L>Ouer euen þe co<HI REND="italic">m</HI>mendaciou<HI REND="italic">n;</HI></L>
+<L>Placebo &amp; dirige he most seyn also,</L>
+<L>The soule to breyngen out of wo, <MILESTONE N="210"/></L>
+<L>And also þe salmes seuene</L>
+<L>To helpen brynge þe soule to heuene.</L>
+<L>Among<HI REND="italic">e</HI> alle praieres þei arn good</L>
+<L>To bryng<HI REND="italic">e</HI> soulis fro helle flode;</L>
+<L>ffor eu<HI REND="italic">er</HI>y salme quencheþ a synne, <MILESTONE N="215"/></L>
+<L>As often as men doþ hem bi gynne,</L>
+<L>And w<HI REND="italic">ith</HI> good deuocion seide he<HI REND="italic">m</HI> to þ<HI REND="italic">e</HI> ende,</L>
+<L>þan may þe soule to heuene wende.</L>
+<L>Therfor<HI REND="italic">e</HI> þese salmes haue i<HI REND="italic">n</HI> þi þouȝt;</L>
+<L>The fyftene salmes for ȝete þou noȝt; <MILESTONE N="44a." UNIT="fol."/> <MILESTONE N="220"/></L>
+<L>The latenye also haue þou i<HI REND="italic">n</HI> mynde;</L>
+<L>Loke þou leue hem noȝt bi-hynde,</L>
+<L>With goode deuocion þou hem saye,</L>
+<L>And to alle seyntis þer-w<HI REND="italic">ith</HI> þou praye.</L>
+<L>Pray he<HI REND="italic">m</HI> to helpe<HI REND="italic">n</HI> þe w<HI REND="italic">ith</HI> alle her<HI REND="italic">e</HI> myȝt <MILESTONE N="225"/></L>
+<L>Þat soule to bryng<HI REND="italic">e</HI> to heuene briȝt,</L>
+<L>Ther<HI REND="italic">e</HI> eu<HI REND="italic">er</HI>e is day &amp; neu<HI REND="italic">er</HI> nyȝt.</L>
+<L>Crist grau<HI REND="italic">n</HI>te vs part of þat liȝt.</L>
+<L>Loke þese be seide al I-fere</L>
+<L>Euery day þrouȝ oute þe ȝere. <MILESTONE N="230"/></L>
+<L>Neu<HI REND="italic">er</HI> a day loke þou noȝt for-ȝete;</L>
+<L>Thus to saye loke þou ne lete.</L>
+<L>Also in þe vtas of eu<HI REND="italic">er</HI>y feste,</L>
+<L>Also longe as hit schal leste,—</L>
+<L><PB N="371" REF="12"/>
+Eiȝthe daies men callen þe vtase,— <MILESTONE N="235"/></L>
+<L>Þe prest most seie hit in his masse.</L>
+<L>A nobel orisou<HI REND="italic">n</HI> hit is I-holde,</L>
+<L>The collet þat I ferst tolde.</L>
+<L>And after þat furste orisou<HI REND="italic">n,</HI></L>
+<L>Ther<HI REND="italic">e</HI> is anoþer of gret renou<HI REND="italic">n,</HI> <MILESTONE N="44b." UNIT="fol."/> <MILESTONE N="240"/></L>
+<L>That to þe soule is vnder swete;</L>
+<L>Men calleþ hit þe secrete.</L>
+<L>And whan þe prest haþ sacrid h<HI REND="italic">is</HI> masse,</L>
+<L>And I-vsed, &amp; his hondis wassche,</L>
+<L>Anoþer orisou<HI REND="italic">n</HI> he most say, <MILESTONE N="245"/></L>
+<L>That on þe boke fynde he may;</L>
+<L>The post co<HI REND="italic">m</HI>mune men dou<HI REND="italic">n</HI> hit calle,</L>
+<L>That helpen soulis out of þralle.</L>
+<L>And þat þis be dou<HI REND="italic">n</HI> at ethe <NOTE N="1)" PLACE="foot">The word is distinctly written <HI REND="italic">ethe,</HI> obviously an error for <HI REND="italic">eche.</HI></NOTE> a feste</L>
+<L>That þe trentel spekeþ of, mest &amp; lest, <MILESTONE N="250"/></L>
+<L>Than myȝt þou ben seker &amp; sertayne</L>
+<L>To brynge þat soule out of payne</L>
+<L>To endelis ioie þat lasteþ ay.</L>
+<L>He þat deiede for vs on good friday</L>
+<L>To þat ioie he vs brynge, <MILESTONE N="255"/></L>
+<L>That is in heuene with-oute<HI REND="italic">n</HI> endyng.</L>
+<L>Praye we alle þat hit so be.</L>
+<L>Amen. Amen purcharite. Amen.</L>
+</LG>
+</DIV1>
+<DIV1 N="2" TYPE="poem">
+<HEAD>II. Here begynneþ þe songe of sai<HI REND="italic">n</HI>g þe best.</HEAD>
+<LG>
+<L>The grete god so ful of grace, <MILESTONE N="45a." UNIT="fol."/></L>
+<L>of whom al godnes growe ga<HI REND="italic">n</HI>ne,</L>
+<L>And alle þat listeneth me a space,</L>
+<L>God childe hem from þe fende sata<HI REND="italic">n</HI>ne.</L>
+<L>A litil word i<HI REND="italic">n</HI> my hert ranne,</L>
+<L>I wole hit synge ȝif hit ȝou lest</L>
+<L>To gete þe loue of god &amp; man,</L>
+<L>And al-wey fonde to say þe best.</L>
+</LG>
+<LG N="2">
+<HEAD>(2)</HEAD>
+<L>Speke non yuel in no place,</L>
+<L>But rule þi tonge, &amp; get þi frende,</L>
+<L><PB N="372" REF="13"/>
+And let no wicked word out pace,</L>
+<L>ffor hit is an eggement of þe fend.</L>
+<L>Ȝif þou w<HI REND="italic">ith</HI> oon be sore atenede,</L>
+<L>And knowist hi<HI REND="italic">m</HI> a wickid gest,</L>
+<L>Be þou þi-silf curtese &amp; hende,</L>
+<L>And al-way fond to say þe best.</L>
+</LG>
+<LG N="3">
+<HEAD>(3)</HEAD>
+<L>ffor eny anger or eny hate</L>
+<L>Or eny enuy be þe sette,</L>
+<L>An ille word may sone make bate,</L>
+<L>Let noȝt þi wille passe þi witte.</L>
+<L>An ille word ful sore may sette, <MILESTONE N="45b." UNIT="fol."/></L>
+<L>That longe in hert is kepit faste;</L>
+<L>Of þe worst co<HI REND="italic">m</HI>myth no profite,</L>
+<L>And þerfor<HI REND="italic">e</HI> fond to say þe beste.</L>
+</LG>
+<LG N="4">
+<HEAD>(4)</HEAD>
+<L>ffor cristis loue þat bouȝte þe dere</L>
+<L>let noȝt þi tonge haue al his willie;</L>
+<L>What art þou þe bet or þe nere</L>
+<L>Þi neiȝbur wickedli for to spille.</L>
+<L>Ȝif man or woman com þe tille,</L>
+<L>To frayne yuel of any gest,</L>
+<L>ffor cristis loue holde þe stille,</L>
+<L>And al-way fond to say þe beste.</L>
+</LG>
+<LG N="5">
+<HEAD>(5)</HEAD>
+<L>In company ȝif þat þou be,</L>
+<L>Þer men speketh vilany,</L>
+<L>Ȝyve þou be tempted, ȝet turne þe,</L>
+<L>And þan dost þou a gret gentri.</L>
+<L>A bad tale is ribaudi,</L>
+<L>Hit gete no worschip, est ne west.</L>
+<L>ffor godis loue do cortesi,</L>
+<L>And eu<HI REND="italic">er</HI> fond to say þe best.</L>
+</LG>
+<LG N="6">
+<HEAD>(6)</HEAD>
+<L>Hoso wolde be-þenke hi<HI REND="italic">m</HI>-silf ariȝt, <MILESTONE N="46a." UNIT="fol."/></L>
+<L>A good wod how good hit is,</L>
+<L>I durst welle swere be þis liȝt</L>
+<L><PB N="373" REF="14"/>
+He nol neu<HI REND="italic">er</HI> wille<HI REND="italic">n</HI> to say amys.</L>
+<L>ffor good word may gete heuen blisse</L>
+<L>And do þe lyue in ese &amp; rest.</L>
+<L>ffor cristis loue taka tent to þis,</L>
+<L>And eu<HI REND="italic">er</HI> fond to say þe best.</L>
+</LG>
+<LG N="7">
+<HEAD>(7)</HEAD>
+<L>Loke þat þou no man de-fame,</L>
+<L>With wicked wille, so haue þou blisse,</L>
+<L>ffor ho-so haþ a wicked name,</L>
+<L>Me semeþ for soþe half hongid he is.</L>
+<L>Þou maist not make amendis his</L>
+<L>With al þi þresor in þi chest.</L>
+<L>ffor cristis loue þou þenke on þis,</L>
+<L>And eu<HI REND="italic">er</HI> fond to say þe best.</L>
+</LG>
+<LG N="8">
+<HEAD>(8)</HEAD>
+<L>I holde þat dede to dere a stre</L>
+<L>Don to do anoþer fame;</L>
+<L>I haþ as leue þou woldest hi<HI REND="italic">m</HI> slee,</L>
+<L>ffor þis is holde an endelis blame.</L>
+<L>ffor þ<HI REND="italic">ou</HI> myȝtist noȝt bryng<HI REND="italic">e</HI> aȝaine h<HI REND="italic">is</HI> name <MILESTONE N="46b." UNIT="fol."/></L>
+<L>þrouȝ wicked wordis þat þou seist.</L>
+<L>ffor maries loue, cristes dame,</L>
+<L>Al-way fond to say þe best.</L>
+</LG>
+<LG N="9">
+<HEAD>(9)</HEAD>
+<L>In halle or chauber þer þou gos,</L>
+<L>What eu<HI REND="italic">er</HI> þat þou here or see,</L>
+<L>Al-way kepe þi tonge in clos,</L>
+<L>Ȝif eny man aske ouȝte of þe.</L>
+<L>Ȝif eny fiȝt or foli be,</L>
+<L>Let not þi tonge a-mys be wrest;</L>
+<L>But for his loue þat died on tre</L>
+<L>Al-way fond to say þe best.</L>
+</LG>
+<LG N="10">
+<HEAD>(10)</HEAD>
+<L>ffor godis loue þenke on þis song<HI REND="italic">e,</HI></L>
+<L>Man &amp; woman faire of face,</L>
+<L>And take þis i<HI REND="italic">n</HI> ȝour<HI REND="italic">e</HI> hertis amonge</L>
+<L><PB N="374" REF="15"/>
+Whare euer ȝe go, or in what place.</L>
+<L>Ih<HI REND="italic">es</HI>us ȝou kepe in eueri cas,</L>
+<L>And in heuene ȝou make a feste.</L>
+<L>ffor godis loue, so ful of grace,</L>
+<L>Al-way fond to say þe best.</L>
+</LG>
+</DIV1>
+<DIV1 N="3" TYPE="poem">
+<HEAD>III. Here begyn<HI REND="italic">n</HI>eþ þe songe of þonkyng<HI REND="italic">e</HI> god of al.</HEAD>
+<LG>
+<L>BI a way wandryng<HI REND="italic">e</HI> as I went, <MILESTONE N="47a." UNIT="fol."/></L>
+<L>wel sore I siȝed, for sorowe sad</L>
+<L>Of hard happes þat I haþ hende</L>
+<L>Mornyg<HI REND="italic">e</HI> me made al-most made.</L>
+<L>Tille a lett<HI REND="italic">re</HI> on me lad,</L>
+<L>Þat wel was writen on a wal;</L>
+<L>A blisful word þer-on I rad,</L>
+<L>þat al-way seid, þonke god of al.</L>
+</LG>
+<LG N="2">
+<HEAD>(2)</HEAD>
+<L>And ȝit I rad þer forther more,</L>
+<L>fful good entent I toke þer-tille,</L>
+<L>Crist may wel ȝour<HI REND="italic">e</HI> state restore,</L>
+<L>What is to stryue aȝens his wille?</L>
+<L>He may vs spare, &amp; also spille;</L>
+<L>Þenke riȝt wel we ben his þralle;</L>
+<L>What sorowe we suffer loude or stille,</L>
+<L>Al-way þonke god of al.</L>
+</LG>
+<LG N="3">
+<HEAD>(3)</HEAD>
+<L>Þouȝ þou be wex blynd or lame,</L>
+<L>Or eny sikenes be in þe set,</L>
+<L>Thou þenke riȝt wel hit is no chame; <MILESTONE N="47b." UNIT="fol."/></L>
+<L>The grace of god hit haþ þe gret.</L>
+<L>In sorow &amp; care þoȝ ȝe be knyt,</L>
+<L>And worldis wele be fro þe falle,</L>
+<L>I can not say þouȝ myȝtest do bet,</L>
+<L>But al-way þonke god of al.</L>
+</LG>
+<LG N="4">
+<HEAD>(4)</HEAD>
+<L>þouȝ þou weld þis worldis good,</L>
+<L>And rialli ledest þi lyue i<HI REND="italic">n</HI> rest,</L>
+<L>wel I-chape of bon &amp; blod,</L>
+<L>Noon þe like neuþer est ne west,</L>
+<L><PB N="375" REF="16"/>
+Þenke god hem sent as hi<HI REND="italic">m</HI> lest;</L>
+<L>Riches turneþ ofte as a bal;</L>
+<L>In al man<HI REND="italic">er</HI> hit is þe best</L>
+<L>Al-way to þonk god of al<HI REND="italic">le.</HI></L>
+</LG>
+<LG N="5">
+<HEAD>(5)</HEAD>
+<L>Ȝif þi gode by-gyn<HI REND="italic">n</HI>eþ to passe,</L>
+<L>And þou wexiþ a pore man,</L>
+<L>Take good comfort, &amp; bere good face,</L>
+<L>And þenke on hi<HI REND="italic">m</HI> þat al good whan.</L>
+<L>Crist for soþe hi<HI REND="italic">m</HI>-silf began,</L>
+<L>He may vs reue boure &amp; halle;</L>
+<L>No better concel I ne can, <MILESTONE N="48a." UNIT="fol."/></L>
+<L>But al-way þonke god of al<HI REND="italic">le.</HI></L>
+</LG>
+<LG N="6">
+<HEAD>(6)</HEAD>
+<L>Þenke on Iob þat was so riche;</L>
+<L>He waxed pore fro day to day;</L>
+<L>His bestes died in iche a diche;</L>
+<L>His catel vanescheþ al a-way.</L>
+<L>He was put in pore araye,</L>
+<L>Neiþer in purp<HI REND="italic">ur,</HI> ne in palle;</L>
+<L>In sympel wede, as clerkus saie,</L>
+<L>Al-way he þenke god of al.</L>
+</LG>
+<LG N="7">
+<HEAD>(7)</HEAD>
+<L>ffor cristis loue now so do we,</L>
+<L>ffor he may boþe ȝeue &amp; take;</L>
+<L>In what mysche þat we in be,</L>
+<L>He is of myȝt our<HI REND="italic">e</HI> sorow to slake.</L>
+<L>fful good amend<HI REND="italic">is</HI> he wol vs make,</L>
+<L>And we to hi<HI REND="italic">m</HI> crie or calle;</L>
+<L>Þouȝ wo &amp; anger can þe awake,</L>
+<L>Ȝit al-way þou þonke god of al.</L>
+</LG>
+<LG N="8">
+<HEAD>(8)</HEAD>
+<L>Þouȝ to be in prisou<HI REND="italic">n</HI> cast,</L>
+<L>Or eny distresse men do þe bede,</L>
+<L>ffor cristis loue ȝit be stedefast, <MILESTONE N="48b." UNIT="fol."/></L>
+<L>And eu<HI REND="italic">er</HI> haue mynde on þi crede.</L>
+<L>Þenke he fayled neu<HI REND="italic">er</HI> at nede,</L>
+<L><PB N="376" REF="17"/>
+Þe dereworth duke þ<HI REND="italic">at</HI> deme vs schal;</L>
+<L>Whan þou sori, þer-of take hede,</L>
+<L>And al-way þonke god of al.</L>
+</LG>
+<LG N="9">
+<HEAD>(9)</HEAD>
+<L>Þouȝ þi frendis fro þe faile,</L>
+<L>And deþ bereue hem þe lyue,</L>
+<L>Whi schuldest þou wepe or waile?</L>
+<L>Ȝit is not agayn god to stryue.</L>
+<L>Him-self made boþe man <NOTE N="1)" PLACE="foot">No gap in MS.</NOTE> wyue;</L>
+<L>To his blisse he brynge vs al;</L>
+<L>How eu<HI REND="italic">er</HI> þou þele ouþer þriue,</L>
+<L>Al-way þonke god of al.</L>
+</LG>
+<LG N="10">
+<HEAD>(10)</HEAD>
+<L>What dyuerse sonde þ<HI REND="italic">at</HI> god þe sent,</L>
+<L>Here or in eny place,</L>
+<L>Take hit w<HI REND="italic">ith</HI> a good entent;</L>
+<L>Þe sanner god wol send his grace.</L>
+<L>Þouȝ þi bodi be browt ful base,</L>
+<L>Lat noȝt þi hert al dou<HI REND="italic">n</HI> falle;</L>
+<L>But þenke þat god is þer he was, <MILESTONE N="49a." UNIT="fol."/></L>
+<L>And al-way þouȝ god of al.</L>
+</LG>
+<LG N="11">
+<HEAD>(11)</HEAD>
+<L>þouȝ þi neiȝbor haue þe world at wil,</L>
+<L>And þou farest noȝt so wel as he,</L>
+<L>Be not maade þenke non ille,</L>
+<L>ffor his welþe enuyus ne be.</L>
+<L>Þe kyng<HI REND="italic">e</HI> of heuene hi<HI REND="italic">m</HI>-self can se</L>
+<L>Hos takeþ his sond, gret or smale;</L>
+<L>Þus iche man in his degre</L>
+<L>I rede he þonke eu<HI REND="italic">er</HI> god of alle.</L>
+</LG>
+</DIV1>
+<DIV1 N="4" TYPE="poem">
+<HEAD>IV. Her<HI REND="italic">e</HI> begyn<HI REND="italic">n</HI>e þe song<HI REND="italic">e</HI> of amendis maki<HI REND="italic">n</HI>g<HI REND="italic">e.</HI></HEAD>
+<LG>
+<L>BE a wild wodis side,</L>
+<L>as I walked my-selue alone,</L>
+<L>A blisse of briddes bad me abidde,</L>
+<L>ffor cause þer song<HI REND="italic">e</HI> mo þan oon.</L>
+<L><PB N="377" REF="18"/>
+Amonge þese briddis eu<HI REND="italic">er</HI>ychone,</L>
+<L>fful gret hede gan I take,</L>
+<L>How oon þer song<HI REND="italic">e</HI> with ruful mone,</L>
+<L>Man I rede amendis make.</L>
+</LG>
+<LG N="2">
+<HEAD>(2)</HEAD>
+<L>Make amendis truli,</L>
+<L>So songe þat brid with feþeres gray. <MILESTONE N="49b." UNIT="fol."/></L>
+<L>In my hert ful wo was I,</L>
+<L>Whan amendis he gan to say.</L>
+<L>I stode &amp; stodied al þat day;</L>
+<L>Þis word me made al nyȝt to wake;</L>
+<L>þan fond I be skiles in fay,</L>
+<L>Whi he seide, amendis make.</L>
+</LG>
+<LG N="3">
+<HEAD>(3)</HEAD>
+<L>The first skille þat I can fynde,</L>
+<L>As it semeþ i<HI REND="italic">n</HI> my witte,</L>
+<L>O þyng<HI REND="italic">e</HI> þer is þat comeþ of kynde,</L>
+<L>That eu<HI REND="italic">er</HI>y man schal have a pitte.</L>
+<L>Whan tope &amp; too of þe is knytte,</L>
+<L>And worldis wele is fro þe schake,</L>
+<L>Avise þe wel or þou be ditte,</L>
+<L>And fond amendis for to make.</L>
+</LG>
+<LG N="4">
+<HEAD>(4)</HEAD>
+<L>The secu<HI REND="italic">n</HI>de skiles þat þou schalt die,</L>
+<L>But ȝit tyme wost þou nere,</L>
+<L>ffor ȝif þou wistist sicurli,</L>
+<L>Þou woldest flee þi deþ for fere.</L>
+<L>Þi last boure schal be a bere,</L>
+<L>Ȝif þat þi frendis mowe take <MILESTONE N="50a." UNIT="fol."/></L>
+<L>And stoppe þe vp, as I saide ere;</L>
+<L>And þerfor<HI REND="italic">e</HI> fond amandis make.</L>
+</LG>
+<LG N="5">
+<HEAD>(5)</HEAD>
+<L>The þridde skiles schal do þe wo,</L>
+<L>Ȝif þou þenke þer-on I wisse;</L>
+<L>ffor whan þi lif schal p<HI REND="italic">ar</HI>te þe fro,</L>
+<L>Þou nost wheþer to bale or blisse.</L>
+<L>I fynde no clerke can telle me þis,</L>
+<L><PB N="378" REF="19"/>
+Þerfor<HI REND="italic">e</HI> my wo begyn<HI REND="italic">n</HI>eþ to wake;</L>
+<L>Whan þou þenkest to do amys,</L>
+<L>I rede þe amendis for to make.</L>
+</LG>
+<LG N="6">
+<HEAD>(6)</HEAD>
+<L>Þouȝ þou be kyng<HI REND="italic">e</HI> &amp; croune bere,</L>
+<L>And þis worlde stond at þi wille,</L>
+<L>Þou schalt be pore as þ<HI REND="italic">ou</HI> were ere,</L>
+<L>Þis maist þ<HI REND="italic">ou</HI> knowe be p<HI REND="italic">ro</HI>per skille;</L>
+<L>And take a schete þe w<HI REND="italic">ith</HI> to hille,</L>
+<L>To keuer þe for chames sake;</L>
+<L>Repent þe, man, þ<HI REND="italic">ou</HI> hast do ille,</L>
+<L>And fond to amandes make.</L>
+</LG>
+<LG N="7">
+<HEAD>(7)</HEAD>
+<L>Whan þ<HI REND="italic">ou</HI> art frik &amp; in þi floures,</L>
+<L>Þou werest purper, perrey, &amp; palle; <MILESTONE N="50b." UNIT="fol."/></L>
+<L>In churche at matenys, masse, &amp; oures,</L>
+<L>Þou wolt not come w<HI REND="italic">ith</HI>-in<HI REND="italic">n</HI>e þe wal;</L>
+<L>ffor þir<HI REND="italic">e</HI> <NOTE N="1)" PLACE="foot">The reading is uncertain.</NOTE> þi sau<HI REND="italic">or</HI> is ful smal.</L>
+<L>Þus wildenes þe wol awake,</L>
+<L>And in oo day þou schal lese al;</L>
+<L>Þerfor<HI REND="italic">e</HI> fond amandis make.</L>
+</LG>
+<LG N="8">
+<HEAD>(8)</HEAD>
+<L>A sawmpil we mowe se al day,</L>
+<L>Þat god sent among<HI REND="italic">e</HI> vs alle,</L>
+<L>To day þoȝ þ<HI REND="italic">ou</HI> be stowȝt &amp; gay,</L>
+<L>A-morowe þ<HI REND="italic">ou</HI> list be þe walle.</L>
+<L>Merci þan to crie &amp; calle</L>
+<L>It is to late; þi leue is take;</L>
+<L>Þerfore, man, or þou falle,</L>
+<L>I rede þe to amendis make.</L>
+</LG>
+<LG N="9">
+<HEAD>(9)</HEAD>
+<L>Ȝif þ<HI REND="italic">ou</HI> have do a dedli synne,</L>
+<L>Whare-þrouȝ þi soule may be schent,</L>
+<L>Twelmonþe þ<HI REND="italic">ou</HI> wolt liȝe þer-i<HI REND="italic">n</HI>ne,</L>
+<L>And so abide vn-tille þe lent.</L>
+<L><PB N="379" REF="20"/>
+Þan a frere wolt þ<HI REND="italic">ou</HI> hent,</L>
+<L>Þi paresche prest þ<HI REND="italic">ou</HI> wolt for-sake; <MILESTONE N="51a." UNIT="fol."/></L>
+<L>Of suche dedes, verament,</L>
+<L>I rede þe amendis make.</L>
+</LG>
+<LG N="10">
+<HEAD>(10)</HEAD>
+<L>I rede þe, man, bere þe euen,</L>
+<L>Whether þ<HI REND="italic">ou</HI> be seruant, lord, or meyre;</L>
+<L>ffor ofte men meteþ at vn-set steue<HI REND="italic">n;</HI></L>
+<L>Couett þ<HI REND="italic">ou</HI> not no pere to peire.</L>
+<L>Þis world nys but a chiri feire;</L>
+<L>Whan ȝe ben hiȝest ȝe mowe aslake,</L>
+<L>To day a lord, to morowe þi<HI REND="italic">n</HI> eire,</L>
+<L>And þerfor fond amendis make.</L>
+</LG>
+<LG N="11">
+<HEAD>(11)</HEAD>
+<L>Þouȝ þ<HI REND="italic">ou</HI> be richer man þan he,</L>
+<L>While þ<HI REND="italic">ou</HI> lyuest on erþe here,</L>
+<L>God made hi<HI REND="italic">m</HI> as wel as þe,</L>
+<L>And bouȝt alle iliche dere.</L>
+<L>Þouȝ he be noȝt þi worldis pere,</L>
+<L>Do hi<HI REND="italic">m</HI> no wrong<HI REND="italic">e</HI> for synnes sake;</L>
+<L>To noȝt schal turne þi proude chere,</L>
+<L>And þerfor fond amendis make.</L>
+</LG>
+<LG N="12">
+<HEAD>(12)</HEAD>
+<L>God þat was of marie bore,</L>
+<L>And suffred deþ on rode tree, <MILESTONE N="51b." UNIT="fol."/></L>
+<L>Lat vs neu<HI REND="italic">er</HI> be for-lore,</L>
+<L>Ih<HI REND="italic">es</HI>u, ȝif þi wille be.</L>
+<L>Comeli quene þat art so fre,</L>
+<L>Pray þi sone for or oure sake</L>
+<L>In heuene a siȝt of ȝou to se,</L>
+<L>And here to amendis make.</L>
+<CLOSER>Amen.</CLOSER>
+</LG>
+<CLOSER><DATELINE>Princeton.</DATELINE>
+<SIGNED>Robert K. Root.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

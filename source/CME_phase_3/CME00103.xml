@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-13-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed titles. Checked <SUP>s</SUP>. Reviewed structure; changed three yoghs to aburs; added missing HEADNOTE P tags and text for both versions; removed incorrect MILESTONEs from NOTEs; added poem DIV1 and changed version DIV1s to DIV2s; changed second version beginning Ls to HEAD and added HEADNOTE to P. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00103">
+<STC T="M">103</STC>
+<BIBNO T="mec">CME00103</BIBNO>
+<VID>CME00103</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="410" REF="7"/>
+<DIV2 TYPE="version">
+<HEADNOTE><P>[MS. Harley 542, foll. 102-104a.]</P></HEADNOTE>
+<HEAD>london licpenye /</HEAD>
+<LG N="1">
+<HEAD>[1]</HEAD>
+<L>In london there I was bent</L>
+<L>I saw my selfe, where truthe shuld be ateynte</L>
+<L>fast to westminstar ward I went</L>
+<L>to a man of lawe, to make my complaynt</L>
+<L>I sayd for maris love, that holy seynt <MILESTONE N="5"/></L>
+<L>have pity on the powre, that would procede</L>
+<L>I would gyve (sylvar), but my purs is faynt <NOTE PLACE="foot">In l. 7, the word <HI REND="italic">money</HI> was first written by the scribe, then crossed out, and <HI REND="italic">sylvar</HI> written.</NOTE></L>
+<L>for lacke of money, I may not spede /</L>
+</LG>
+<LG N="2">
+<HEAD>[2]</HEAD>
+<L><MILESTONE N="102b" UNIT="Fol."/> As I thrast thrughe out the thronge</L>
+<L>amonge them all, my hode was gonn <MILESTONE N="10"/></L>
+<L>netheles I let not longe,</L>
+<L>to kyngs benche tyll I come</L>
+<L>by fore a juge I kneled anon</L>
+<L>I prayd hym for gods sake he would take hede</L>
+<L>full rewfully to hym I gan make my mone <MILESTONE N="15"/></L>
+<L>for lacke of money I may not spede /</L>
+</LG>
+<LG N="3">
+<HEAD>[3]</HEAD>
+<L>benethe hym sat clerks, a great Rowt</L>
+<L>fast they writen by one assent</L>
+<L>there stode vp one, and cryed round about</L>
+<L>Richard Robert and one of Kent <MILESTONE N="20"/></L>
+<L>I wist not wele what he ment</L>
+<L>he cried so thike there in dede</L>
+<L>there were stronge theves shamed &amp; shent</L>
+<L>but they that lacked money mowght not spede /</L>
+</LG>
+<LG N="4">
+<HEAD>[4]</HEAD>
+<L>vnto the comon place I yowde thoo <MILESTONE N="25"/></L>
+<L>where sat one with a sylken houde</L>
+<L><PB N="412" REF="9"/>
+I dyd hym reverence as me ought to do</L>
+<L>I tolde hym my case, as well as I coŭde</L>
+<L>and seyd all my goods by nowrd and by sowde</L>
+<L>I am defraudyd with great falshed <MILESTONE N="30"/></L>
+<L>he would not geve me a momme of his mouthe</L>
+<L>for lake of money, I may not spede /</L>
+</LG>
+<LG N="5">
+<HEAD>[5]</HEAD>
+<L>Then I went me vnto the Rollis</L>
+<L>before the clerks of the chauncerie</L>
+<L>there were many qui tollis <MILESTONE N="35"/></L>
+<L>but I herd no man speke of me</L>
+<L>before them I knelyd vpon my kne</L>
+<L>shewyd them myne evidence &amp; they began to reade</L>
+<L>they seyde trewer things might there nevar be</L>
+<L>but for lacke of money I may not spede / <MILESTONE N="40"/></L>
+</LG>
+<LG N="6">
+<HEAD>[6]</HEAD>
+<L><MILESTONE N="103a" UNIT="Fol."/> In westminster hall I found one</L>
+<L>went in a longe gowne of Ray</L>
+<L>I crowched I kneled before them anon</L>
+<L>for marys love of helpe I gan them pray</L>
+<L>as he had be wrothe, he voyded away <MILESTONE N="45"/></L>
+<L>bakward, his hand he gan me byd</L>
+<L>I wot not what thou menest gan he say</L>
+<L>ley downe sylvar, or here thow may not spede /</L>
+</LG>
+<LG N="7">
+<HEAD>[7]</HEAD>
+<L>[In all westminsta' hall I could find nevar a one <NOTE PLACE="foot">In l. 49, the scribe, anticipating the <HI REND="italic">-all</HI> of <HI REND="italic">hall,</HI> wrote <HI REND="italic">Westminstall,—</HI>then crossed out the <HI REND="italic">-ll</HI> and made the <HI REND="italic">r</HI> curl above.</NOTE></L>
+<L>that for me would do, thowghe I shuld dye <MILESTONE N="50"/></L>
+<L><PB N="414" REF="11"/>
+w<SUP>t</SUP>out þ<SUP>e</SUP> dores, were flemings grete woon</L>
+<L>vpon me fast they gan to cry</L>
+<L>and sayd mastar what will ye copen or by</L>
+<L>fine felt hatts, spectacles for to rede</L>
+<L>of this gay gere, a great cause why <MILESTONE N="55"/></L>
+<L>for lake of money I might not spede /</L>
+</LG>
+<LG N="8">
+<HEAD>[8]</HEAD>
+<L>Then to westminster gate I went</L>
+<L>when the sone was at highe prime</L>
+<L>Cokes to me, they toke good entent</L>
+<L>called me nere, for to dyne <MILESTONE N="60"/></L>
+<L>and proferyd me good brede ale &amp; wyne</L>
+<L>a fayre clothe they began to sprede</L>
+<L>rybbes of befe, bothe fat and fine</L>
+<L>bŭt for lacke of money I might not spede /</L>
+</LG>
+<LG N="9">
+<HEAD>[9]</HEAD>
+<L>In to london I gan me hy <MILESTONE N="65"/></L>
+<L>of all the lond it bearethe the prise</L>
+<L>hot pescods, one gan cry</L>
+<L>strabery rype, and chery in the ryse</L>
+<L>one bad me come nere and by some spice</L>
+<L>pepar and saffron they gan me bede <MILESTONE N="70"/></L>
+<L>clove, grayns, and flowre of Rise</L>
+<L>for lacke of money I might not spede /</L>
+</LG>
+<LG N="10">
+<HEAD>[10]</HEAD>
+<L><MILESTONE N="103b" UNIT="Fol."/> Then into Chepe I gan me drawne</L>
+<L>where I sawe stond moche people <MILESTONE N="74"/></L>
+<L>one bad me come nere, and by fine cloth of lawne</L>
+<L>paris thred, Coton, and vmple</L>
+<L>I seyde there vpon I could no skyle</L>
+<L>I am not wont there to in dede</L>
+<L>one bad me by an hewre, my hed to hele <NOTE PLACE="foot">The <HI REND="italic">hewre</HI> of l. 79 is again written in the margin in another hand.</NOTE></L>
+<L>for lake of money I might not spede <MILESTONE N="80"/></L>
+</LG>
+<LG N="11">
+<PB N="416" REF="13"/>
+<HEAD>[11]</HEAD>
+<L>Then went I forth by london stone</L>
+<L>Thrwghe out all canywike strete</L>
+<L>drapers to me they called anon</L>
+<L>grete chepe of clothe, they gan me hete <MILESTONE N="84"/></L>
+<L>then come there one, and cried hot shepes fete</L>
+<L>Risshes faire &amp; grene, an othar began to grete</L>
+<L>both melwell and makarcll I gan mete</L>
+<L>but for lacke of money I myght not spede /</L>
+</LG>
+<LG N="12">
+<HEAD>[12]</HEAD>
+<L>Then I hied me into estchepe</L>
+<L>one cried ribes of befe, and many a pie <MILESTONE N="90"/></L>
+<L>pewtar potts they clatteryd on a heape</L>
+<L>ther was harpe pipe and sawtry</L>
+<L>ye by cokke, nay by cokke some began to cry</L>
+<L>some sange of Jenken and Julian, to get them selvs mede</L>
+<L>full fayne I wold hadd of that mẏnstralsie <MILESTONE N="95"/></L>
+<L>but for lacke of money I cowld not spede /</L>
+</LG>
+<LG N="13">
+<HEAD>[13]</HEAD>
+<L>Into Cornhill anon I yode</L>
+<L>where is moche stolne gere amonge</L>
+<L>I saw wher henge myne owne hode</L>
+<L>that I had lost in westminstar amonge þ<SUP>e</SUP> throng</L>
+<L>then I beheld it with lokes full longe <MILESTONE N="101"/></L>
+<L>I kenned it as well as I dyd my crede</L>
+<L>to by myne owne hode agayne, me thought it wrong</L>
+<L>but for lacke of money I might not spede /</L>
+</LG>
+<LG N="14">
+<PB N="418" REF="15"/>
+<HEAD>[14]</HEAD>
+<L><MILESTONE N="104a" UNIT="Fol."/> Then came the taverner, and toke my by þ<SUP>e</SUP> sleve</L>
+<L>and seyd ser a pint of wyn would yow assay</L>
+<L>syr quod I it may not greve <MILESTONE N="107"/></L>
+<L>for a peny may do no more then it may</L>
+<L>I dranke a pint, and therefore gan pay</L>
+<L>sore a hungred away I yede</L>
+<L>for well london lykke peny for ones &amp; eye</L>
+<L>for lake of money I may not spede / <MILESTONE N="112"/></L>
+</LG>
+<LG N="15">
+<HEAD>[15]</HEAD>
+<L>Then I hyed me to byllingesgate</L>
+<L>and cried wagge wagge yow hens</L>
+<L>I praye a barge man for gods sake <MILESTONE N="115"/></L>
+<L>that they would spare me myn expens</L>
+<L>he sayde ryse vp man, and get the hens</L>
+<L>what wenist thow I will do on þ<SUP>e</SUP> my almes dede <NOTE PLACE="foot">In l. 118 the <HI REND="italic">my</HI> is crossed out, and <HI REND="italic">no</HI> written above in a later hand.</NOTE></L>
+<L>here skapethe no man, by nethe ij. pens</L>
+<L>for lacke of money I myght not spede / <MILESTONE N="120"/></L>
+</LG>
+<LG N="16">
+<HEAD>[16]</HEAD>
+<L>Them I conveyed me into Kent,</L>
+<L>for of the law would I medle no more</L>
+<L>by caus no man to me would take entent</L>
+<L>I dight me to the plowe, even as I ded before</L>
+<L>Ihūs save london, that in bethelem was bore <MILESTONE N="125"/></L>
+<L>and every trew man of law god graunt hym so<SUP>u</SUP>ls med</L>
+<L>and they that be othar, god theyr state restore</L>
+<L>for he that lackethe money, w<SUP>t</SUP> them he shall not spede /</L>
+<TRAILER>Explicit london likke peny /</TRAILER>
+</LG>
+</DIV2>
+<DIV2 TYPE="version">
+<PB N="411" REF="8"/>
+<HEADNOTE><P>[MS. Harley 367, foll. 127-126b.]</P></HEADNOTE>
+<HEAD>London Lyckpenny A Ballade compyled<LB/>
+by Dan John Lydgate monke of Bery<LB/>
+about yeres agoe, and now newly<LB/>
+oū'sene and amended.</HEAD>
+<HEADNOTE><P>[MS. leaves a blank space between <HI REND="italic">about</HI> and <HI REND="italic">yeres.]</HI></P></HEADNOTE>
+<LG N="1">
+<HEAD>[1]</HEAD>
+<L>To london once my stepps I bent</L>
+<L>where trouth in no wyse should be faynt</L>
+<L>To westmynster ward I forthw<SUP>th</SUP> went</L>
+<L>to a man of law to make complaynt</L>
+<L>I sayd for marys love that holy saynt <MILESTONE N="5"/></L>
+<L>pyty the poore that wold {per}ceede</L>
+<L>but for lack of mony I cold not spede.</L>
+</LG>
+<LG N="2">
+<HEAD>[2]</HEAD>
+<L>(and) as I thrust the prese amonge <NOTE PLACE="foot">In l. 8, the <HI REND="italic">and</HI> is written above <HI REND="italic">but,</HI> which the scribe crossed out.</NOTE></L>
+<L>by froward chavnce, my hood was gone</L>
+<L>yet for all that I stayd not longe <MILESTONE N="10"/></L>
+<L>tyll to the kynge bench, I was com</L>
+<L>before the Judge I kneled anon</L>
+<L>and prayd hȳ for gods sake to take heede</L>
+<L>but for lack of mony I myght not speede.</L>
+</LG>
+<LG N="3">
+<HEAD>[3]</HEAD>
+<L>Beneth them sat clarkes a great Rout <MILESTONE N="15"/></L>
+<L>which fast dyd wryte by one assent</L>
+<L>There stoode vp one and cryed about</L>
+<L>Rychard, Robert, and John of Kent</L>
+<L>I wyst not well what this man ment</L>
+<L>he cryed so thycke there in dede, <MILESTONE N="20"/></L>
+<L>but he that lackt mony myght not spede /</L>
+</LG>
+<LG N="4">
+<HEAD>[4]</HEAD>
+<L>Vnto the com̄on place I yode thoo</L>
+<L>where sat one w<SUP>th</SUP> a sylken hoode</L>
+<L><PB N="413" REF="10"/>
+I dyd hym reverence (for) I ought to do so <NOTE PLACE="foot">In l. 24 the scribe wrote, after <HI REND="italic">reverenc, Þ do,</HI> then crossed it out and finished the line with <HI REND="italic">I ought to do so,</HI> inserting the <HI REND="italic">for</HI> above with a caret.</NOTE></L>
+<L>&amp; told my case as well as I coolde <MILESTONE N="25"/></L>
+<L>(how) my goode were defravded me by falshood <NOTE PLACE="foot">In l. 26 <HI REND="italic">how</HI> is written above an illegible word which the scribe has crossed out.</NOTE></L>
+<L>I gat not a mvm of his mouth for my meed</L>
+<L>and for lack of mony I myght not spede.</L>
+</LG>
+<LG>
+<L>Vnto the Rolls I gat me from thence</L>
+<L>before the Clarkes of the Chavncerye <MILESTONE N="30"/></L>
+<L>where many I found earnyng of pence</L>
+<L>but none at all once regarded mee.</L>
+<L>I gave them my playnt vppon my knee</L>
+<L>they lyked it well, when they had it reade</L>
+<L>but lackyng mony I could not be sped <MILESTONE N="35"/></L>
+</LG>
+<LG N="6">
+<HEAD>[6]</HEAD>
+<L><MILESTONE N="127b" UNIT="Fol."/> In westmynster hall I fovnd out one</L>
+<L>which went in a long gown of Raye</L>
+<L>I crowched and kneled before hȳ anon</L>
+<L>for Maryes love of help, I hym praye <NOTE PLACE="foot">In l. 39, Skeat's footnote (loc. cit. edit. 1890, p. 25) as to the MS. reading is not correct.</NOTE></L>
+<L>I wot not what thou meanest gan he say <MILESTONE N="40"/></L>
+<L>to get me thence he dyd me bede</L>
+<L>(For) lack of mony I cold not speede. <NOTE PLACE="foot">In l. 42, the scribe began the line with <HI REND="italic">but,</HI> then crossed it out and continued with <HI REND="italic">for.</HI></NOTE></L>
+</LG>
+<LG N="7">
+<HEAD>[7]</HEAD>
+<L>w<SUP>t</SUP>hin thise hall nether rych nor yett poore <NOTE PLACE="foot">In l. 43 the second word is either <HI REND="italic">thise</HI> or <HI REND="italic">the;</HI> one word has been written upon the other.</NOTE></L>
+<L>wold do for me ought, although I shold dye</L>
+<L><PB N="415" REF="12"/>
+which seing, I gat me out of the doore <MILESTONE N="45"/></L>
+<L>where flemynge began on me for to cry</L>
+<L>master what will you copen or by</L>
+<L>fyne felt hatte or spectacles to reede</L>
+<L>lay down yo<SUP>{ur}</SUP> sylver and here you may speede</L>
+</LG>
+<LG N="8">
+<HEAD>[8]</HEAD>
+<L>then to westmȳster gate I p<SUP>r</SUP>sently went <MILESTONE N="50"/></L>
+<L>when the sonn was at hyghe pryme</L>
+<L>Cookes to me, they tooke good entent</L>
+<L>and pfered me bread w<SUP>th</SUP> ale and wyne</L>
+<L>rybbs of befe both fat and ful fyne</L>
+<L>a fayre cloth they gan for to sprede <MILESTONE N="55"/></L>
+<L>but wantyng mony I myght not speede. <NOTE PLACE="foot">In l. 56 a word is crossed out before <HI REND="italic">speede,</HI> and <HI REND="italic">be</HI> inserted, in later hand, with a caret. Skeat reads the scored word as <HI REND="italic">then;</HI> it seems to be <HI REND="italic">spre,</HI> probably for <HI REND="italic">sprede,—</HI>see l. 55.</NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>[9]</HEAD>
+<L>Then vnto London I dyd me hye</L>
+<L>of all the land it beareth the pryse</L>
+<L>Hot pescode one began to crye</L>
+<L>stabery rype and cherryes in the ryse <MILESTONE N="60"/></L>
+<L>one bad me come nere and by some spyce</L>
+<L>peper and safforne they gan me bede</L>
+<L>but for lack of mony I myght not spede.</L>
+</LG>
+<LG N="10">
+<HEAD>[10]</HEAD>
+<L>Then to the Chepe I gan me drawne</L>
+<L>where mutch people I saw for to stand <MILESTONE N="65"/></L>
+<L>one ofred me velvet sylke and lawne</L>
+<L>an other he taketh me by the hande,</L>
+<L>here is parys thred the fynest in the land</L>
+<L>I never was used to such thynge in dede</L>
+<L>and wantyng mony I myght not spede. <MILESTONE N="70"/></L>
+</LG>
+<LG N="11">
+<PB N="417" REF="14"/>
+<HEAD>[11]</HEAD>
+<L><MILESTONE N="126a" UNIT="Fol."/> Then went I forth by London stone</L>
+<L>throughout all Canwyke streete</L>
+<L>Drapers mutch cloth me offred anone <NOTE PLACE="foot">In l. 73 <HI REND="italic">to</HI> has been crossed out before <HI REND="italic">me.</HI></NOTE></L>
+<L>then (comes me) one cryed hot shepes feete <MILESTONE N="74"/> <NOTE PLACE="foot">In l. 74 <HI REND="italic">comes me</HI> is written above <HI REND="italic">met I,</HI> which is crossed out. The alteration is in the scribe's hand, apparently.</NOTE></L>
+<L>one cryde makerell Ryshes (grene) an other gan greete <NOTE PLACE="foot">In l. 75 the scribe has inserted <HI REND="italic">grene</HI> above, with a caret. The first 4 lines of Stanza 11 are written at the bottom of fol. 127b. Then the scribe, seeing he had not space enough, crossed them out and began the stanza again on fol. 126a. See list of later corrections.</NOTE></L>
+<L>on bad me by a hood to cover my head</L>
+<L>but for want of mony I myght not be sped /</L>
+</LG>
+<LG N="12">
+<HEAD>[12]</HEAD>
+<L>Then I hyed me Into Estchepe</L>
+<L>one cryes rybbs of befe, &amp; many a pye</L>
+<L>Pewter pottes they clattered on a heape <MILESTONE N="80"/></L>
+<L>there was harpe, pype, and mynstralsye</L>
+<L>yea by cock nay by cock some began crye</L>
+<L>Som songe of Jenken and Julyan for there mede</L>
+<L>But for lack of mony I myght not spede.</L>
+</LG>
+<LG N="13">
+<HEAD>[13]</HEAD>
+<L>Then Into Cornhyll anon I yode. <MILESTONE N="85"/></L>
+<L>where (was) mvtch stolen gere amonge <NOTE PLACE="foot">In l. 86 <HI REND="italic">was</HI> is written by the scribe above <HI REND="italic">is,</HI> which he crossed out.</NOTE></L>
+<L>I saw where honge myne owne hoode</L>
+<L>that I had lost amonge the thronge.</L>
+<L>to by my own hood I thought it wronge</L>
+<L>I knew it well as I dyd my crede <MILESTONE N="90"/></L>
+<L>but for lack of mony I could not spede.</L>
+</LG>
+<LG N="14">
+<PB N="419" REF="16"/>
+<HEAD>[14]</HEAD>
+<L>The Taverner tooke mee by the sleve</L>
+<L>S<SUP>{ur}</SUP> sayth he wyll you o<SUP>{ur}</SUP> wyne assay <NOTE PLACE="foot">In l. 93 the word <HI REND="italic">good,</HI> before <HI REND="italic">wyne,</HI> is crossed out.</NOTE></L>
+<L>I answerd, that can not mvtch me greve</L>
+<L>a peny can do no more then it may <MILESTONE N="95"/></L>
+<L>I drank a pynt &amp; for it dyd paye</L>
+<L>yet sore a hungerd frō thence I yede</L>
+<L>and wantynyng mony I cold not spede / <NOTE PLACE="foot">In l. 98 the ms. writes the second word as printed.</NOTE></L>
+</LG>
+<LG N="15">
+<HEAD>[15]</HEAD>
+<L><MILESTONE N="126b" UNIT="Fol."/> Then hyed I me to Belyngsgate</L>
+<L>and one cryed hoo go we hence <MILESTONE N="100"/></L>
+<L>I prayd a barge man for gods sake</L>
+<L>that he wold spare me my expence</L>
+<L>Thou scapst not here q<SUP>d</SUP> he vnder ij pence</L>
+<L>I lyst not yet bestow my Almes dede <NOTE PLACE="foot">In l. 104, the word before <HI REND="italic">Almes</HI> may be either <HI REND="italic">my</HI> or <HI REND="italic">any,</HI> more probably the former.</NOTE></L>
+<L>thus lackyng mony I could not speede. <MILESTONE N="105"/></L>
+</LG>
+<LG N="16">
+<HEAD>[16]</HEAD>
+<L>Then I convayd me Into Kent</L>
+<L>ffor of the law wold I meddle no more</L>
+<L>be cause no man to me tooke entent</L>
+<L>I dyght me to do as I dyd before</L>
+<L>now Jsus that In Bethle' was bore <MILESTONE N="110"/></L>
+<L>Save london and send trew lawyers there mede</L>
+<L>for who so wante mony w<SUP>th</SUP> the' shall not spede,</L>
+<TRAILER>Explicit London Lyckpeny.</TRAILER>
+</LG>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

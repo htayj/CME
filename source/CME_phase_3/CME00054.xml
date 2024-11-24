@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-19-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; changed sub HEAD to HEADNOTE P; removed HEADNOTE MILESTONE. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00054">
+<STC T="M">54</STC>
+<BIBNO T="mec">CME00054</BIBNO>
+<VID>CME00054</VID>
+</IDG>
+<TEXT LANG="enm">
+<FRONT>
+<DIV1 TYPE="title page">
+<P><PB REF="3"/>
+<HI REND="italic">The Wright's Chaste Wife,</HI> OR "A Fable of a wrygħt that was maryde to a pore wydows dowt<HI REND="italic">re</HI> / the whiche wydow havyng noo good to geve w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> her / gave as for a p<HI REND="italic">re</HI>cyous Johełł to hy<HI REND="italic">m</HI> a Rose garlond / the whyche sche affermyd wold nev<HI REND="italic">er</HI> fade while sche kept truly her wedlok."</P>
+<P><HI REND="italic">A Merry Tale, by Adam of Cobsam, From a MS. in the Library of the Archbishop of Canterbury, at Lambeth, about</HI> 1462 <HI REND="italic">A.D.</HI></P>
+<P>COPIED AND EDITED BY FREDERICK J. FURNIVALL.</P>
+<P><HI REND="italic">[Second Edition, revised,</HI> 1869.]</P>
+<P>LONDON: PUBLISHED FOR THE EARLY ENGLISH TEXT SOCIETY, BY N. TRÜBNER &amp; CO., 60, PATERNOSTER ROW.</P>
+<P>MDCCCLXV.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="9"/>
+<HEAD>THE WRIGHT'S CHASTE WIFE.</HEAD>
+<HEADNOTE><P><HI REND="italic">[MS. Lambeth</HI> 306, <HI REND="italic">leaves</HI> 178-187.]</P></HEADNOTE>
+<LG>
+<L>Ałłmyghty god, maker of all<HI REND="italic">e,</HI></L>
+<L>Saue you my sou<HI REND="italic">er</HI>eyns in towre &amp; hall<HI REND="italic">e,</HI> <NOTE PLACE="marg">My sovereigns,</NOTE></L>
+<L>And send yoū good grace! <MILESTONE N="3"/></L>
+<L>If ye wyłł a stounde blynne,</L>
+<L>Of a story I wyłł begynne, <NOTE PLACE="marg">I will tell you a tale</NOTE></L>
+<L>And telle you ałł the cas, <MILESTONE N="6"/></L>
+<L>Meny farleyes þat I haue herd<HI REND="italic">e,</HI></L>
+<L>Ye would haue wondyr how yt ferde;</L>
+<L>Lystyn, and ye schałł here; <MILESTONE N="9"/></L>
+<L>Of a wryght I wyłł you telle, <NOTE PLACE="marg">of a wright</NOTE></L>
+<L>That some tyme in thys land gan dwelle, <NOTE PLACE="marg">of this land,</NOTE></L>
+<L>And lyued by hys myster. <MILESTONE N="12"/></L>
+<L>Whether that he were yn or owte, <NOTE PLACE="marg">who, at work, was afraid of no earthly man.</NOTE></L>
+<L>Of erthely man hadde he no dowte,</L>
+<L>To werke hows, harowe, nor plowgh, <MILESTONE N="15"/></L>
+<L>Or other werkes, what so they were,</L>
+<L>Thous wrought he hem farre and nere,</L>
+<L>And dyd tham wele I-nough. <MILESTONE N="18"/></L>
+<L>Thys wryght would wedde no wyfe, <NOTE PLACE="marg">At first he would wed no wife,</NOTE></L>
+<L>Butt yn yougeth to lede hys lyfe</L>
+<L>In myrthe and oþer melody; <MILESTONE N="21"/> <MILESTONE N="178, back" UNIT="leaf"/></L>
+<L>Ou<HI REND="italic">er</HI> ałł where he gan wende, <NOTE PLACE="marg">for wherever he went he was welcome;</NOTE></L>
+<L>Ałł they seyd "welcome, frende,</L>
+<L>Sytt downe, and do gla[d]ly." <MILESTONE N="24"/></L>
+<L><PB N="2" REF="10"/>
+Tyłł on a tyme he was wyllyng, <NOTE PLACE="marg">but at last he wished</NOTE></L>
+<L>As tyme comyth of all<HI REND="italic">e</HI> thyng,</L>
+<L>(So seyth the p<HI REND="italic">ro</HI>fesye,) <MILESTONE N="27"/></L>
+<L>A wyfe for to wedde &amp; haue <NOTE PLACE="marg">to have a spouse to look after his goods.</NOTE></L>
+<L>That myght hys goodes kepe and saue,</L>
+<L>And for to leue ałł foly. <MILESTONE N="30"/></L>
+<L>Ther dwellyd a wydowe in þat contre <NOTE PLACE="marg">A widow near had a fair daughter</NOTE></L>
+<L>That hadde a doughter feyre &amp; fre;</L>
+<L>Of her, word sprang wyde, <MILESTONE N="33"/></L>
+<L>For sche was bothe stabyłł &amp; trewe, <NOTE PLACE="marg">true and meek.</NOTE></L>
+<L>Meke of maners, and fey<ABBR>r</ABBR> of hewe;</L>
+<L>So seyd men in that tyde. <MILESTONE N="36"/></L>
+<L>The wryght seyde, "so god me saue,</L>
+<L>Such a wyfe would I haue <NOTE PLACE="marg">Her the wright would like to lie by him,</NOTE></L>
+<L>To lye nyghtly by my syde." <MILESTONE N="39"/></L>
+<L>He þought to speke wyth þat may,</L>
+<L>And rose erly on a daye <NOTE PLACE="marg">and therefore went to her mother</NOTE></L>
+<L>And þyder gan he to ryde. <MILESTONE N="42"/></L>
+<L>The wryght was welcome to þe wyfe,</L>
+<L>And her saluyd ałł so blyve,</L>
+<L>And so he dyd her doughter fre: <MILESTONE N="45"/></L>
+<L>For the erand that he for cam̄ <NOTE PLACE="marg">and proposed for the maiden.</NOTE></L>
+<L>Tho he spake, þat good yeman̄;</L>
+<L>Than to hym seyd sche: <MILESTONE N="48"/></L>
+<L>The wydowe seyd, "by heuen kyng, <NOTE PLACE="marg">The mother says she can only give him as a portion</NOTE></L>
+<L>I may geue wyth her no þing,</L>
+<L>(And þat forthynketh me;) <MILESTONE N="51"/></L>
+<L>Saue a garlond I wyłł the geue, <NOTE PLACE="marg">a garland</NOTE></L>
+<L>Ye schałł neu<HI REND="italic">er</HI> see, whyle ye lyve,</L>
+<L>None such in thys contre: <MILESTONE N="54"/></L>
+<L>Haue here thys garlond of roses ryche, <NOTE PLACE="marg">of roses</NOTE></L>
+<L>In ałł thys lond ys none yt lyche,</L>
+<L>For ytt wyłł eu<HI REND="italic">er</HI> be newe, <MILESTONE N="57"/> <NOTE PLACE="marg">that will keep its colour</NOTE></L>
+<L>Wete þou wele w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>owtyn fable, <MILESTONE N="179" UNIT="leaf"/></L>
+<L>Ałł the whyle thy wyfe ys stable <NOTE PLACE="marg">while his wife is true,</NOTE></L>
+<L>The chaplett wolle hold hewe; <MILESTONE N="60"/></L>
+<L><PB N="3" REF="11"/>
+And yf thy wyfe vse putry, <NOTE PLACE="marg">but change when she is faithless.</NOTE></L>
+<L>Or tolle eny man to lye her by,</L>
+<L>Than wolle yt change hewe, <MILESTONE N="63"/></L>
+<L>And by the garlond þou may see,</L>
+<L>Fekyłł or fals yf þat sche be,</L>
+<L>Or ellys yf sche be trewe." <MILESTONE N="66"/></L>
+<L>Of thys chaplett hym was fułł fayne, <NOTE PLACE="marg">The wright is delighted with his garland and wife,</NOTE></L>
+<L>And of hys wyfe, was nott to layne;</L>
+<L>He weddyd her fułł sone, <MILESTONE N="69"/> <NOTE PLACE="marg">marries her and takes her home;</NOTE></L>
+<L>And ladde her home wyth solempnite,</L>
+<L>And hyld her brydałł dayes thre.</L>
+<L>Whan they home come, <MILESTONE N="72"/></L>
+<L>Thys wryght in hys hart cast, <NOTE PLACE="marg">and then begins to think that when he is out at work</NOTE></L>
+<L>If that he walkyd est or west</L>
+<L>As he was wonte to done, <MILESTONE N="75"/></L>
+<L>"My wyfe þat ys so bryght of ble, <NOTE PLACE="marg">men will try to corrupt his wife.</NOTE></L>
+<L>Men wolle desyre he<ABBR>r</ABBR> fro me,</L>
+<L>And þat hastly and sone;" <MILESTONE N="78"/></L>
+<L>Butt sone he hym byþought <NOTE PLACE="marg">So he plans a crafty room and tower,</NOTE></L>
+<L>That a chambyr schuld be wrought</L>
+<L>Bothe of lyme and stone, <MILESTONE N="81"/></L>
+<L>Wyth wallys strong as eny stele,</L>
+<L>And dorres sotylly made and wele,</L>
+<L>He owte framyd yt sone; <MILESTONE N="84"/></L>
+<L>The chambyr he lett make fast, <NOTE PLACE="marg">and builds it soon with plaster of Paris,</NOTE></L>
+<L>Wyth plast<HI REND="italic">er</HI> of parys þ<HI REND="italic">a</HI>t wyłł last,</L>
+<L>Such ous know I neu<HI REND="italic">er</HI> none; <MILESTONE N="87"/></L>
+<L>Ther ys [ne] kyng ne emp<HI REND="italic">er</HI>oure, <NOTE PLACE="marg">which no one could ever get out of if he once got into it,</NOTE></L>
+<L>And he were lockyn in þat towre,</L>
+<L>That cowde gete owte of þat wonne. <MILESTONE N="90"/></L>
+<L>Nowe hath he done as he þought,</L>
+<L>And in the myddes of the flore wrought</L>
+<L>A wondyr strange gyle, <MILESTONE N="93"/> <NOTE PLACE="marg">for there was a trapdoor in the middle,</NOTE></L>
+<L>A trapdoure rounde abowte</L>
+<L>That no man myght come yn nor owte; <MILESTONE N="179, back" UNIT="leaf"/></L>
+<L>It was made wyth a wyle, <MILESTONE N="96"/></L>
+<L><PB N="4" REF="12"/>
+That who-so touchyd yt eny thyng, <NOTE PLACE="marg">and if any one only touched it, down he'd go into a pit.</NOTE></L>
+<L>In to þe pytt he schuld flyng</L>
+<L>Wythyn a lytyłł whyle. <MILESTONE N="99"/></L>
+<L>For hys wyfe he made that place, <NOTE PLACE="marg">This was to stop any tricks with his wife.</NOTE></L>
+<L>That no man schuld beseke her of grace,</L>
+<L>Nor her to begyle. <MILESTONE N="102"/></L>
+</LG>
+<LG>
+<L>By þat tyme þe lord of the towne <NOTE PLACE="marg">Just then the town Lord</NOTE></L>
+<L>Hadde ordeynyd tymbyr redy bowne,</L>
+<L>An halle to make of tre. <MILESTONE N="105"/></L>
+<L>Aft<HI REND="italic">er</HI> the wryght the lord lett sende, <NOTE PLACE="marg">sends for him to build a Hall,</NOTE></L>
+<L>For þat he schuld wyth hym lende</L>
+<L>Monythys two or thre. <MILESTONE N="108"/> <NOTE PLACE="marg">(a job for two or three months,)</NOTE></L>
+<L>The lord seyd, "woult þou haue þi wyfe?</L>
+<L>I wyłł send aft<HI REND="italic">er</HI> her blyve <NOTE PLACE="marg">and offers to fetch his wife too.</NOTE></L>
+<L>That sche may com to the." <MILESTONE N="111"/></L>
+<L>The wryght hys garlond hadde take w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hym̄,</L>
+<L>That was bryght and no þing dymme,</L>
+<L>Yt wes feyre on to see. <MILESTONE N="114"/></L>
+<L>The lord axyd hym as he satt, <NOTE PLACE="marg">He sees the wright's garland, and asks what it means.</NOTE></L>
+<L>"Felowe, where hadyst þou þis hatte</L>
+<L>That ys so feyre and newe?" <MILESTONE N="117"/></L>
+<L>The wryght answerd ałł so blyue,</L>
+<L>And seyd, "syr, I hadde yt wyth my wyfe, <NOTE PLACE="marg">"Sir, it will</NOTE></L>
+<L>And þat dare me neue<ABBR>r</ABBR> rewe; <MILESTONE N="120"/></L>
+<L>Syr, by my garlond I may see <NOTE PLACE="marg">tell me whether my wife is false or true;</NOTE></L>
+<L>Fekyłł or fals yf þat sche be,</L>
+<L>Or <NOTE N="1" PLACE="foot">[MS. <HI REND="italic">of]</HI></NOTE> yf þat sche be trewe; <MILESTONE N="123"/></L>
+<L>And yf my wyfe loue a p<HI REND="italic">ar</HI>amoure, <NOTE PLACE="marg">and will change its colour if she go wrong."</NOTE></L>
+<L>Than wyłł my garlond vade coloure,</L>
+<L>And change wyłł yt the hewe." <MILESTONE N="126"/></L>
+<L>The lord þought "by godys myght,</L>
+<L>That wyłł I wete thys same nyght <NOTE PLACE="marg">"I'll try that," thinks the Lord,</NOTE></L>
+<L>Whether thys tale be trewe." <MILESTONE N="129"/></L>
+<L>To the wryghtys howse anon he went, <NOTE PLACE="marg">and goes to the wright's wife.</NOTE></L>
+<L>He fonde the wyfe ther-in p<HI REND="italic">re</HI>sente</L>
+<L><PB N="5" REF="13"/>
+That was so bryght and schene; <MILESTONE N="132"/> <MILESTONE N="180" UNIT="leaf"/></L>
+<L>Sone he hayled her trewly,</L>
+<L>And so dyd sche the lord curtesly:</L>
+<L>Sche seyd, "welcome ye be;" <MILESTONE N="135"/></L>
+<L>Thus seyd the wyfe of the hows,</L>
+<L>"Syr, howe faryth my swete spouse <NOTE PLACE="marg">She asks after her husband,</NOTE></L>
+<L>That hewyth vppon you<ABBR>r</ABBR> tre?" <MILESTONE N="138"/></L>
+<L>"Sertes, dame," he seyd, "wele, <NOTE PLACE="marg">but the Lord</NOTE></L>
+<L>And I am come, so haue I hele,</L>
+<L>To wete the wylle of the; <MILESTONE N="141"/></L>
+<L>My loue ys so vppon the cast <NOTE PLACE="marg">declares his own love for her,</NOTE></L>
+<L>That me thynketh my hert wolle brest,</L>
+<L>It wolle none otherwyse be; <MILESTONE N="144"/></L>
+<L>Good dame, graunt me thy grace <NOTE PLACE="marg">and prays her to grant him his will.</NOTE></L>
+<L>To pley with the in some preuy place</L>
+<L>For gold and eke for fee." <MILESTONE N="147"/></L>
+<L>"Good syr, lett be youre fare, <NOTE PLACE="marg">She entreats him to let that be,</NOTE></L>
+<L>And of such wordes speke no mare</L>
+<L>For hys loue þat dyed on tre; <MILESTONE N="150"/></L>
+<L>Hadde we onys begonne þat gle,</L>
+<L>My husbond by his garlond myght see;</L>
+<L>For sorowe he would wexe woode." <MILESTONE N="153"/></L>
+<L>"Certes, dame," he seyd, "naye; <NOTE PLACE="marg">but he presses her,</NOTE></L>
+<L>Loue me, I pray you, in þat ye maye:</L>
+<L>For godys loue change thy mode, <MILESTONE N="156"/></L>
+<L>Forty marke schałł be youre mede <NOTE PLACE="marg">and offers her 40 marks.</NOTE></L>
+<L>Of sylu<HI REND="italic">er</HI> and of gold<HI REND="italic">[e]</HI> rede,</L>
+<L>And that schałł do the good." <MILESTONE N="159"/></L>
+<L>"Syr, that deede schałł be done; <NOTE PLACE="marg">On this she con∣sents if he'll put down the money.</NOTE></L>
+<L>Take me that mony here anon<HI REND="italic">e."</HI></L>
+<L>"I swere by the holy rode <MILESTONE N="162"/></L>
+<L>I thought when I cam hydde<ABBR>r</ABBR></L>
+<L>For to bryng <NOTE N="1" PLACE="marg"><HI REND="italic">[or</HI> hyng. ? <HI REND="italic">MS.]</HI></NOTE> yt ałł to-gydde<ABBR>r</ABBR>,</L>
+<L>As I mott broke my heele." <MILESTONE N="165"/></L>
+<L>Ther sche toke xl marke <NOTE PLACE="marg">The 40 marks she takes,</NOTE></L>
+<L>Of syluer and gold styff and sterke:</L>
+<L><PB N="6" REF="14"/>
+Sche toke yt feyre and welle; <MILESTONE N="168"/></L>
+<L>Sche seyd, "in to the chambyr wyłł we, <NOTE PLACE="marg">and tells him to go</NOTE></L>
+<L>Ther no man schałł vs see; <MILESTONE N="180, back" UNIT="leaf"/></L>
+<L>No lenger wyłł we spare." <MILESTONE N="171"/> <NOTE PLACE="marg">into the secret chamber.</NOTE></L>
+<L>Vp the steyer they gan <NOTE PLACE="foot">1 MS. <HI REND="italic">gar</HI></NOTE> hye: <NOTE PLACE="marg">Upstairs he goes,</NOTE></L>
+<L>The stepes were made so queyntly</L>
+<L>That farther myght he nott fare. <MILESTONE N="174"/></L>
+<L>The lord stumbyllyd as he went in hast, <NOTE PLACE="marg">stumbles,</NOTE></L>
+<L>He fełł doune in to þat chaste <NOTE PLACE="marg">and pops down 40 feet through the wright's trapdoor.</NOTE></L>
+<L>Forty fote and somedele more. <MILESTONE N="177"/></L>
+<L>The lord began to crye;</L>
+<L>The wyfe seyd to hym in hye,</L>
+<L>"Syr, what do ye there?" <MILESTONE N="180"/></L>
+<L>"Dame, I can nott seye howe <NOTE PLACE="marg">He prays the</NOTE></L>
+<L>That I am come hydder nowe</L>
+<L>To thys hows þat ys so newe; <MILESTONE N="183"/></L>
+<L>I am so depe in thys sure flore</L>
+<L>That I ne can come owte att no dore;</L>
+<L>Good dame, on me þou rewe!" <MILESTONE N="186"/> <NOTE PLACE="marg">good dame to have pity on him. "Nay," says she, "not till my hus∣band sees you."</NOTE></L>
+<L>"Nay," sche seyd, "so mut y the,</L>
+<L>Tyłł myne husbond come and se,</L>
+<L>I schrewe hym þat yt þought." <MILESTONE N="189"/></L>
+<L>The lord arose and lokyd abowte <NOTE PLACE="marg">The Lord tries to get out, but can't,</NOTE></L>
+<L>If he myght eny where gete owte,</L>
+<L>Butt yt holpe hym̄ ryght nogħt, <MILESTONE N="192"/></L>
+<L>The wallys were so thycke w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>yn̄,</L>
+<L>That he no where myght owte wynne</L>
+<L>But helpe to hym̄ were brought; <MILESTONE N="195"/></L>
+<L>And eu<HI REND="italic">er</HI> the lord made euyłł chere, <NOTE PLACE="marg">and then threatens the wife,</NOTE></L>
+<L>And seyd, "dame, þou schalt by thys dere."</L>
+<L>Sche seyd that sche ne rougħt; <MILESTONE N="198"/></L>
+<L>Sche seyd "I recke nere <NOTE PLACE="marg">but she doesn't care for that,</NOTE></L>
+<L>Whyle I am here and þou art there,</L>
+<L>I schrewe herre þat þe doth drede." <MILESTONE N="201"/></L>
+<L>The lord was sone owte of her þought,</L>
+<L>The wyfe went in to her lofte, <NOTE PLACE="marg">and goes away to her work.</NOTE></L>
+<L><PB N="7" REF="15"/>
+Sche satte and dyd her dede. <MILESTONE N="204"/></L>
+<L>Than yt fełł on þat oþer daye, <NOTE PLACE="marg">Next day the Lord begs for food.</NOTE></L>
+<L>Of mete and drynke he gan her p<HI REND="italic">ra</HI>y,</L>
+<L>There of he hadde gret nede. <MILESTONE N="207"/></L>
+<L>He seyd, "dame, for seynt charyte, <MILESTONE N="181" UNIT="leaf"/></L>
+<L>Wyth some mete þou comfort me."</L>
+<L>Sche seyd, "nay, so god me spede, <MILESTONE N="210"/> <NOTE PLACE="marg">"You'll get none from me</NOTE></L>
+<L>For I swere by swete seynt Iohn<HI REND="italic">e,</HI></L>
+<L>Mete ne drynke ne getyst þou none</L>
+<L>Butt þou wylt swete or swynke; <MILESTONE N="213"/> <NOTE PLACE="marg">unless you sweat for it," says she; "spin me some flax."</NOTE></L>
+<L>For I haue both hempe and lyne,</L>
+<L>And a betyngstocke fułł fyne,</L>
+<L>And a swyngyłł good and grete; <MILESTONE N="216"/></L>
+<L>If þou wylt worke, tell me sone."</L>
+<L>"Dame, bryng yt forthe, yt schałł be done, <NOTE PLACE="marg">He says he will:</NOTE></L>
+<L>Fułł gladly would I ete." <MILESTONE N="219"/></L>
+<L>Sche toke the stocke in her honde, <NOTE PLACE="marg">she throws him the tools,</NOTE></L>
+<L>And in to the pytt sche yt sclang</L>
+<L>Wyth a grete hete: <MILESTONE N="222"/></L>
+<L>Sche brought the lyne and hempe on her backe, <NOTE PLACE="marg">the flax and hemp,</NOTE></L>
+<L>"Syr lord," sche seyd, "haue þou þat, <NOTE PLACE="marg">and says, "Work away."</NOTE></L>
+<L>And lerne for to swete." <MILESTONE N="225"/></L>
+<L>Ther sche toke hym a bonde</L>
+<L>For to occupy hys honde,</L>
+<L>And bade hym fast on to bete. <MILESTONE N="228"/></L>
+<L>He leyd yt downe on the <NOTE N="1" PLACE="marg">[? MS. this.]</NOTE> stone, <NOTE PLACE="marg">He does,</NOTE></L>
+<L>And leyd on strockes wełł good wone, <NOTE PLACE="marg">lays on well,</NOTE></L>
+<L>And sparyd nott on to leyne. <MILESTONE N="231"/></L>
+<L>Whan þat he hadde wrought a thraue,</L>
+<L>Mete and drynke he gan to craue, <NOTE PLACE="marg">and then asks for his food,</NOTE></L>
+<L>And would haue hadde yt fayne; <MILESTONE N="234"/></L>
+<L>"Tha<ABBR>t</ABBR> I hadde somewhat for to ete</L>
+<L>Now aft<HI REND="italic">er</HI> my gret swete;</L>
+<L>Me thynketh yt were rygħt, <MILESTONE N="237"/></L>
+<L>For I haue labouryd nyght and daye <NOTE PLACE="marg">for he's toiled night and day.</NOTE></L>
+<L>The for to plese, dame, I saye,</L>
+<L>And therto putt my myght." <MILESTONE N="240"/></L>
+<L><PB N="8" REF="16"/>
+The wyfe seyd "so mutt I haue hele, <NOTE PLACE="marg">The wife</NOTE></L>
+<L>And yf þi worke be wrought wele</L>
+<L>Thou schalt haue to dyne." <MILESTONE N="243"/></L>
+<L>Mete and drynke sche hym bare, <NOTE PLACE="marg">gives him meat and drink</NOTE></L>
+<L>Wyth a thrafe of flex mare <MILESTONE N="181, back" UNIT="leaf"/></L>
+<L>Of fułł long boundyn lyne. <MILESTONE N="246"/> <NOTE PLACE="marg">and more flax,</NOTE></L>
+<L>So feyre the wyfe the lord gan praye</L>
+<L>That he schuld be werkyng aye, <NOTE PLACE="marg">and keeps him up to his work.</NOTE></L>
+<L>And nought þat he schuld blynne; <MILESTONE N="249"/></L>
+<L>The lord was fayne to werke tho,</L>
+<L>Butt hys men knewe nott of hys woo</L>
+<L>Nor of þer lordes pyne. <MILESTONE N="252"/></L>
+</LG>
+<LG>
+<L>The stuard to þe wryght gan saye, <NOTE PLACE="marg">The Steward asks the wright after his Lord,</NOTE></L>
+<L>"Sawe þou owte of my lord to-daye,</L>
+<L>Whether that he ys wende?" <MILESTONE N="255"/></L>
+<L>The wryght answerde and seyd "naye;</L>
+<L>I sawe hym nott syth yesterdaye;</L>
+<L>I trowe þat he be schent." <MILESTONE N="258"/></L>
+<L>The stuard stode þe wryght by, <NOTE PLACE="marg">then notices the garland,</NOTE></L>
+<L>And of hys garlond hadde ferly</L>
+<L>What þat yt be-mente. <MILESTONE N="261"/></L>
+<L>The stuard seyd, "so god me saue, <NOTE PLACE="marg">and asks who gave it him.</NOTE></L>
+<L>Of thy garlond wondyr I haue,</L>
+<L>And who yt hath the sent." <MILESTONE N="264"/></L>
+<L>"Syr," he seyd, "be the same hatte <NOTE PLACE="marg">"Sir, it will tell me whether my wife goes bad."</NOTE></L>
+<L>I can knowe yf my wyfe be badde</L>
+<L>To me by eny other man̄; <MILESTONE N="267"/></L>
+<L>If my floures ouþer fade or falle,</L>
+<L>Then doth my wyfe me wrong wyth-all<HI REND="italic">e,</HI></L>
+<L>As many a woman can̄. <MILESTONE N="270"/></L>
+<L>The stuard þought "by godes mygħt, <NOTE PLACE="marg">"I'll prove that this very night," says the steward,</NOTE></L>
+<L>That schałł I preue thys same nygħt</L>
+<L>Whether þou blys or banne," <MILESTONE N="273"/></L>
+<L>And in to hys chambyr he gan gone, <NOTE PLACE="marg">gets plenty of money, and goes off</NOTE></L>
+<L>And toke tresure fułł good wone,</L>
+<L><PB N="9" REF="17"/>
+And forth he spedde hem than̄. <MILESTONE N="276"/></L>
+<L>Butt he ne stynt att no stone</L>
+<L>Tyłł he vn-to þe wryghtes hows come <NOTE PLACE="marg">to the wright's house,</NOTE></L>
+<L>That ylke same nygħt. <MILESTONE N="279"/></L>
+<L>He mett the wyfe amydde the gate,</L>
+<L>Abowte þe necke he gan her take, <NOTE PLACE="marg">takes her round the neck, and offers her all</NOTE></L>
+<L>And seyd "my dere wyght, <MILESTONE N="282"/></L>
+<L>Ałł the good þat ys myne <MILESTONE N="182" UNIT="leaf"/></L>
+<L>I wyłł the geue to be thyne <NOTE PLACE="marg">he has, to lie by her that night.</NOTE></L>
+<L>To lye by the ałł nyght." <MILESTONE N="285"/></L>
+<L>Sche seyd, "syr, lett be thy fare, <NOTE PLACE="marg">She refuses,</NOTE></L>
+<L>My husbond wolle wete wyth-owtyn̄ mare</L>
+<L>And I hym dyd that vnrygħt; <MILESTONE N="288"/></L>
+<L>I would nott he myght yt wete</L>
+<L>For ałł the good that I myght gete,</L>
+<L>So Ih<HI REND="italic">esus</HI> <NOTE PLACE="foot">1 MS. <HI REND="italic">Iħc</HI></NOTE> mutt me spede <MILESTONE N="291"/></L>
+<L>For, and eny man lay me by, <NOTE PLACE="marg">as her husband would be sure to know of it.</NOTE></L>
+<L>My husbond would yt wete truly,</L>
+<L>It ys wythowtyn eny drede." <MILESTONE N="294"/></L>
+<L>The stuard seyd "for hym þat ys wrought, <NOTE PLACE="marg">The steward urges her again,</NOTE></L>
+<L>There-of, dame, drede the nogħt</L>
+<L>Wyth me to do that dede; <MILESTONE N="297"/></L>
+<L>Haue here of me xx marke <NOTE PLACE="marg">and offers her 20 marks.</NOTE></L>
+<L>Of gold and syluer styf and starke,</L>
+<L>Thys tresoure schałł be thy mede." <MILESTONE N="300"/></L>
+<L>"Syr, and I graunt þat to yoū, <NOTE PLACE="marg">She says, "Then don't tell any one,"</NOTE></L>
+<L>Lett no man wete but<ABBR>t</ABBR> we two nowe."</L>
+<L>He seyd, "nay, wythowtyn drede." <MILESTONE N="303"/></L>
+<L>The stuard þought, 'sykerly</L>
+<L>Women beth both queynte &amp; slye.'</L>
+<L>The mony he gan her bede; <MILESTONE N="306"/> <NOTE PLACE="marg">takes his money,</NOTE></L>
+<L>He þought wele to haue be spedde,</L>
+<L>And of his erand he was onredde</L>
+<L>Or he were fro hem̄ I-gone. <MILESTONE N="309"/></L>
+<L>Vp the sterys sche hym leyde <NOTE PLACE="marg">sends him up the quaint stairs,</NOTE></L>
+<L><PB N="10" REF="18"/>
+Tyłł he saw the wryghtes bedde:</L>
+<L>Of tresoure þought he none; <MILESTONE N="312"/></L>
+<L>He went and stumblyd att a stone; <NOTE PLACE="marg">and lets him tumble through the trapdoor.</NOTE></L>
+<L>In to þe selle<ABBR>r</ABBR> he fylle sone,</L>
+<L>Downe to the bare flore. <MILESTONE N="315"/></L>
+<L>The lord seyd "what deuyłł art þoū? <NOTE PLACE="marg">"What the devil are you?" says the Lord.</NOTE></L>
+<L>And þou hadest falle on me nowe,</L>
+<L>Thowe hadest hurt me fułł sore." <MILESTONE N="318"/></L>
+<L>The stuard stert and staryd abowte <MILESTONE N="182, back" UNIT="leaf"/></L>
+<L>If he mygħt ower gete owte <NOTE PLACE="marg">The steward finds he can't get out;</NOTE></L>
+<L>Att hole lesse or mare. <MILESTONE N="321"/></L>
+<L>The lord seyd, "welcome, and sytt be tyme,</L>
+<L>For þou schalt helpe to dyght thys lyne</L>
+<L>For ałł thy fers[e] fare." <MILESTONE N="324"/></L>
+<L>The stuard lokyd on the knygħt,</L>
+<L>He seyd, "syr, for godes myght, <NOTE PLACE="marg">and wonders why his Lord is there.</NOTE></L>
+<L>My lord, what do you here?" <MILESTONE N="327"/></L>
+<L>He seyd "felowe, wyth-owtyn oth,</L>
+<L>For o erand we come bothe, <NOTE PLACE="marg">"We both came on one errand, man."</NOTE></L>
+<L>The sothe wolle I nott lete." <MILESTONE N="330"/></L>
+<L>Tho cam the wyfe them vn-to, <NOTE PLACE="marg">The wife asks what they're doing;</NOTE></L>
+<L>And seyd, "syres, what do you to,</L>
+<L>Wyłł ye nott lerne to swete?" <MILESTONE N="333"/></L>
+<L>Than seyd þe lord her vn-to, <NOTE PLACE="marg">the Lord says,</NOTE></L>
+<L>'Dame, you<ABBR>r</ABBR> lyne ys I-doo, <NOTE PLACE="marg">"Your flax is done, and I want my dinner."</NOTE></L>
+<L>Nowe would I fayne ete: <MILESTONE N="336"/></L>
+<L>And I haue made yt ałł I-lyke,</L>
+<L>Fułł clere, and no þing thycke,</L>
+<L>Me thynketh yt gret payne." <MILESTONE N="339"/></L>
+<L>The stuard seyd "wyth-owtyn dowte, <NOTE PLACE="marg">The steward says if he ever gets out he'll crack her skull.</NOTE></L>
+<L>And eu<HI REND="italic">er</HI> I may wynne owte,</L>
+<L>I wyłł breke her brayne." <MILESTONE N="342"/></L>
+<L>"Felowe, lett be, and sey nott so, <NOTE PLACE="marg">But the wife chaffs him,</NOTE></L>
+<L>For þou schalt worke or eu<HI REND="italic">er</HI> þou goo,</L>
+<L>Thy wordes þou torne agayne, <MILESTONE N="345"/> <NOTE PLACE="marg">says he'll soon be glad to eat his words,</NOTE></L>
+<L>Fayne þou schalt be so to doo,</L>
+<L>And thy good wylle put þerto;</L>
+<L><PB N="11" REF="19"/>
+As a man buxome and bayne <MILESTONE N="348"/></L>
+<L>Thowe schalt rubbe, rele, and spynne, <NOTE PLACE="marg">and unless he rubs and reels, he'll get no meat.</NOTE></L>
+<L>And þou wolt eny mete wynne,</L>
+<L>That I geue to god a gyfte." <MILESTONE N="351"/></L>
+<L>The stuard seyd, "then haue I wondyr; <NOTE PLACE="marg">"I'll die for hunger first, unhouseled," answers he.</NOTE></L>
+<L>Rather would I dy for hungyr</L>
+<L>Wyth-owte hosyłł or shryfte." <MILESTONE N="354"/></L>
+<L>The lord seyd, "so haue I hele,</L>
+<L>Thowe wylt worke, yf þou hungyr welle, <MILESTONE N="183" UNIT="leaf"/></L>
+<L>What worke þat the be brought." <MILESTONE N="357"/></L>
+<L>The lord satt and dyd hys werke, <NOTE PLACE="marg">The Lord works away,</NOTE></L>
+<L>The stuard drewe in to the derke,</L>
+<L>Gret sorowe was in hys þought. <MILESTONE N="360"/></L>
+<L>The lord seyd, "dame, here ys youre lyne,</L>
+<L>Haue yt in godes blessyng and myne,</L>
+<L>I hold yt welle I-wrought." <MILESTONE N="363"/></L>
+<L>Mete and drynke sche gaue hym yn̄, <NOTE PLACE="marg">and gets his food and drink.</NOTE></L>
+<L>"The stuard," sche seyd, "wolle he nott spynne,</L>
+<L>Wyłł he do ryght nogħt?" <MILESTONE N="366"/></L>
+<L>The lord seyd, "by swete sen Ione,</L>
+<L>Of thys mete schałł he haue none <NOTE PLACE="marg">None of it will he give to the steward,</NOTE></L>
+<L>That ye haue me hydder brought." <MILESTONE N="369"/></L>
+<L>The lord ete and dranke fast, <NOTE PLACE="marg">but eats it all up,</NOTE></L>
+<L>The stuard hungeryd att þe last,</L>
+<L>For he gaue hym nought. <MILESTONE N="372"/></L>
+<L>The stuard satt ałł in a stody,</L>
+<L>Hys lord hadde forgote curtesy:</L>
+<L>Tho <NOTE PLACE="foot">1 [MS. <HI REND="italic">The]</HI></NOTE> seyd þe stuard, "geue me some." <MILESTONE N="375"/></L>
+<L>The lord seyd, "sorowe haue þe morsełł or sope</L>
+<L>That schałł come in thy throte! <NOTE PLACE="marg">and won't give him one crumb:</NOTE></L>
+<L>Nott so much as o crome! <MILESTONE N="378"/></L>
+<L>Butt þou wylt helpe to dyght þis lyne, <NOTE PLACE="marg">let him work and earn some for himself.</NOTE></L>
+<L>Much hungyr yt schałł be thyne</L>
+<L>Though þou make much mone." <MILESTONE N="381"/></L>
+<L>Vp he rose, and went therto, <NOTE PLACE="marg">The steward gives in,</NOTE></L>
+<L>"Bett<HI REND="italic">er</HI> ys me þus to doo</L>
+<L>Whyle yt must nedys be do." <MILESTONE N="384"/></L>
+<L><PB N="12" REF="20"/>
+The stuard began fast to knocke, <NOTE PLACE="marg">asks for work; the wife throws it him,</NOTE></L>
+<L>The wyfe þrew hym a swyngelyng stocke,</L>
+<L>Hys mete þerwyth to myn̄; <MILESTONE N="387"/></L>
+<L>Sche brought a swyngyłł att þe last,</L>
+<L>"Good syres," sche seyd, "swyngyll<HI REND="italic">e</HI> on fast;</L>
+<L>For no þing that ye blynne." <MILESTONE N="390"/></L>
+<L>Sche gaue hym̄ a stocke to sytt vppon̄,</L>
+<L>And seyd "syres, þis werke must nedys be done,</L>
+<L>Ałł that that ys here yn̄." <MILESTONE N="393"/></L>
+<L>The stuard toke vp a stycke to saye, <MILESTONE N="183, back" UNIT="leaf"/></L>
+<L>"Sey, seye, swyngyłł bett<HI REND="italic">er</HI> yf ye may, <NOTE PLACE="marg">and steward and Lord are both spinning away</NOTE></L>
+<L>Hytt wyłł be the bett<HI REND="italic">er</HI> to spynne." <MILESTONE N="396"/></L>
+<L>Were þe lord neu<HI REND="italic">er</HI> so gret,</L>
+<L>Yet was he fayne to werke for hys mete <NOTE PLACE="marg">to earn their dinner,</NOTE></L>
+<L>Though he were neu<HI REND="italic">er</HI> so sadde; <MILESTONE N="399"/></L>
+<L>Butt þe stuard þat was so stowde,</L>
+<L>Was fayne to swyngell<HI REND="italic">e</HI> þe scales owte,</L>
+<L>Ther-of he was nott glad. <MILESTONE N="402"/></L>
+<L>The lordys meyne þat were att home <NOTE PLACE="marg">while the Lord's people cannot make out what has become of him.</NOTE></L>
+<L>Wyst nott where he was bycome,</L>
+<L>They were fułł sore adrad. <MILESTONE N="405"/></L>
+</LG>
+<LG>
+<L>The proctoure of þe parysche chyrche rygħt <NOTE PLACE="marg">Then the Proctor sees the wright</NOTE></L>
+<L>Came and lokyd on þe wryght,</L>
+<L>He lokyd as he ware madde; <MILESTONE N="408"/></L>
+<L>Fast þe proctoure gan hym frayne,</L>
+<L>"Where hadest þou þis garlond gayne? <NOTE PLACE="marg">and asks where he got his gar∣land from.</NOTE></L>
+<L>It ys eu<HI REND="italic">er</HI> lyke newe." <MILESTONE N="411"/></L>
+<L>The wryght gan say "felowe,</L>
+<L>Wyth my wyfe, yf þou wylt knowe; <NOTE PLACE="marg">"With my wife;</NOTE></L>
+<L>That dare me nott rewe; <MILESTONE N="414"/></L>
+<L>For ałł the whyle my wyfe trew ys, <NOTE PLACE="marg">and while she is true it will never fade,</NOTE></L>
+<L>My garlond wolle hold hewe I-wys,</L>
+<L>And neu<HI REND="italic">er</HI> falle nor fade; <MILESTONE N="417"/></L>
+<L>And yf my wyfe take a p<HI REND="italic">ar</HI>amoure, <NOTE PLACE="marg">but if she's false it will."</NOTE></L>
+<L>Than wolle my garlond vade þe floure,</L>
+<L>That dare I ley myne hede." <MILESTONE N="420"/></L>
+<L><PB N="13" REF="21"/>
+The proctoure þought, "in good faye <NOTE PLACE="marg">The proctor thinks he'll test this,</NOTE></L>
+<L>That schałł I wete thys same daye</L>
+<L>Whether yt may so be." <MILESTONE N="423"/></L>
+<L>To the wryghtes hows he went, <NOTE PLACE="marg">goes to the wright's wife</NOTE></L>
+<L>He grete þe wyfe wyth feyre entente,</L>
+<L>Sche seyd "syr, welcome be ye." <MILESTONE N="426"/></L>
+<L>"A! dame, my loue ys on you fast <NOTE PLACE="marg">and declares his love for her;</NOTE></L>
+<L>Syth the tyme I sawe you last;</L>
+<L>I pray you yt may so be <MILESTONE N="429"/></L>
+<L>That ye would graunt me of you<ABBR>r</ABBR> grace</L>
+<L>To play w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> you in some p<HI REND="italic">ri</HI>uy place, <NOTE PLACE="marg">he must have her or die.</NOTE></L>
+<L>Or ellys to deth mutt me." <MILESTONE N="432"/> <MILESTONE N="184" UNIT="leaf"/></L>
+<L>Fast þe proctoure gan to pray,</L>
+<L>And eu<HI REND="italic">er</HI> to hym̄ sche seyd "naye, <NOTE PLACE="marg">She says nay,</NOTE></L>
+<L>That wolle I nott doo. <MILESTONE N="435"/></L>
+<L>Hadest þou done þat dede w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> me, <NOTE PLACE="marg">as her husband will know of it by his garland.</NOTE></L>
+<L>My spouse by hys garlond myght see,</L>
+<L>That schuld torne me to woo." <MILESTONE N="438"/></L>
+<L>The proctoure seyd, "by heuen kyng, <NOTE PLACE="marg">The proctor</NOTE></L>
+<L>If he sey to the any þing</L>
+<L>He schałł haue sorowe vn-sowte; <MILESTONE N="441"/></L>
+<L>Twenty marke I wolle þe geue, <NOTE PLACE="marg">offers her 20 marks.</NOTE></L>
+<L>It wolle þe helpe welle to lyue,</L>
+<L>The mony here haue I brought." <MILESTONE N="444"/></L>
+<L>Nowe hath sche the tresure tane, <NOTE PLACE="marg">These she takes;</NOTE></L>
+<L>And vp þe steyr<HI REND="italic">e</HI> be they gane, <NOTE PLACE="marg">they go upstairs,</NOTE></L>
+<L>(What helpyth yt to lye?) <MILESTONE N="447"/></L>
+<L>The wyfe went the steyre be-syde,</L>
+<L>The proctoure went a lytyłł to wyde <NOTE PLACE="marg">and the proctor tumbles into the cellar,</NOTE></L>
+<L>He fełł downe by and by. <MILESTONE N="450"/></L>
+<L>Whan he in to þe seller felle,</L>
+<L>He wente to haue sonke in to helle, <NOTE PLACE="marg">and thinks he is going to hell.</NOTE></L>
+<L>He was in hart fułł sory. <MILESTONE N="453"/></L>
+<L>The stuard lokyd on the knyght,</L>
+<L>And seyd "proctoure, for godes myght, <NOTE PLACE="marg">The steward asks him to sit down;</NOTE></L>
+<L>Come and sytt vs by." <MILESTONE N="456"/></L>
+<L>The proctoure began to stare,</L>
+<L><PB N="14" REF="22"/>
+For he was he wyst neu<HI REND="italic">er</HI> whare, <NOTE PLACE="marg">he doesn't know where he is,</NOTE></L>
+<L>Butt wele he knewe þe knyght <MILESTONE N="459"/></L>
+<L>And the stuard þat swyngelyd þe lyne.</L>
+<L>He seyd "syres, for godes pyne, <NOTE PLACE="marg">but asks what the Lord and steward are after there,</NOTE></L>
+<L>What do ye here thys nygħt?" <MILESTONE N="462"/></L>
+<L>The stuard seyd, "god geue the care,</L>
+<L>Thowe camyst to loke howe we fare,</L>
+<L>Nowe helpe þis lyne were dyght." <MILESTONE N="465"/></L>
+<L>He stode styłł in a gret þought,</L>
+<L>What to answer he wyst noght:</L>
+<L>"By mary fułł of mygħt," <MILESTONE N="468"/></L>
+<L>The proctoure seyd, "what do ye in þis yn<HI REND="italic">e</HI> <NOTE PLACE="marg">working the wife's flax;</NOTE></L>
+<L>For to bete thys wyfees lyne?</L>
+<L>For Ih<HI REND="italic">esu</HI>s loue, ffułł of myght," <MILESTONE N="471"/> <MILESTONE N="184, back" UNIT="leaf"/></L>
+<L>The proctoure seyd ryght as he þougħt,</L>
+<L>"For me yt schałł be euyłł wrougħt <NOTE PLACE="marg">he, the proctor, will never do the like,</NOTE></L>
+<L>And I may see arygħt, <MILESTONE N="474"/></L>
+<L>For I lernyd neu<HI REND="italic">er</HI> in lon<ABBR>d</ABBR> <NOTE PLACE="marg">it's not his trade.</NOTE></L>
+<L>For to haue a swyngełł in hond</L>
+<L>By day nor be nyght." <MILESTONE N="477"/></L>
+<L>The stuard seyd, "as good as þoū <NOTE PLACE="marg">The steward says, "We're as good as you, and yet</NOTE></L>
+<L>We hold vs that be here nowe,</L>
+<L>And lett preue yt be sygħt; <MILESTONE N="480"/></L>
+<L>Yet must vs worke for owre mete, <NOTE PLACE="marg">have to work for our food."</NOTE></L>
+<L>Or ellys schałł we none gete,</L>
+<L>Mete nor drynke to owre honde." <MILESTONE N="483"/></L>
+<L>The lord seyd, "why flyte ye two? <NOTE PLACE="marg">The Lord says, "And you'll have to work ere you go."</NOTE></L>
+<L>I trowe ye wyłł werke or ye goo,</L>
+<L>Yf yt be as I vndyrstond." <MILESTONE N="486"/></L>
+<L>Abowte he goys twyes or thryes;</L>
+<L>They ete &amp; drunke in such wyse <NOTE PLACE="marg">They eat and drink, and give the proctor nothing,</NOTE></L>
+<L>That þey geue hym ryght noght. <MILESTONE N="489"/></L>
+<L>The proctoure seyd, "thynke ye no schame,</L>
+<L>Yheue me some mete, (ye be to blame,) <NOTE PLACE="marg">to his great disgust,</NOTE></L>
+<L>Of that the wyfe ye brougħt." <MILESTONE N="492"/></L>
+<L>The stuard seyd "euyłł spede the soppe</L>
+<L>If eny morcełł come in thy throte</L>
+<L><PB N="15" REF="23"/>
+Butt þou w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> vs hadest wrought." <MILESTONE N="495"/></L>
+<L>The proctoure stode in a stody <NOTE PLACE="marg">till at last</NOTE></L>
+<L>Whether he mygħt worke hem by;</L>
+<L>And so to torne hys þougħt, <MILESTONE N="498"/></L>
+<L>To the lord he drewe nere,</L>
+<L>And to hym seyd w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> myld<HI REND="italic">[e]</HI> chere,</L>
+<L>"That mary mott the spede!" <MILESTONE N="501"/></L>
+<L>The proctoure began to knocke, <NOTE PLACE="marg">he too knocks for work,</NOTE></L>
+<L>The good wyfe rawte hym a rocke,</L>
+<L>For therto hadde sche nede; <MILESTONE N="504"/></L>
+<L>Sche seyd "whan I was mayde att home,</L>
+<L>Other werke cowde I do none</L>
+<L>My lyfe ther-wyth to lede." <MILESTONE N="507"/></L>
+<L>Sche gaue hym in hande a rocke hynde, <NOTE PLACE="marg">gets a distaff and some winding to do,</NOTE></L>
+<L>And bade hem fast for to wynde</L>
+<L>Or ellys to lett be hys dede. <MILESTONE N="510"/> <MILESTONE N="185" UNIT="leaf"/></L>
+<L>"Yes, dame," he seyd, "so haue I hele,</L>
+<L>I schałł yt worke both feyre &amp; welle</L>
+<L>As ye haue taute me." <MILESTONE N="513"/></L>
+<L>He wauyd vp a strycke of lyne,</L>
+<L>And he span wele and fyne <NOTE PLACE="marg">and spins away well.</NOTE></L>
+<L>By-fore the swyngełł tre. <MILESTONE N="516"/></L>
+<L>The lord seyd "þou spynnest to grete,</L>
+<L>Therfor þou schalt haue no mete,</L>
+<L>That þou schalt wełł see." <MILESTONE N="519"/></L>
+<L>Thus þey satt and wrought fast <NOTE PLACE="marg">Thus they all sit and work till the wright comes home.</NOTE></L>
+<L>Tyłł þe wekedayes were past;</L>
+<L>Then the wryght, home came he, <MILESTONE N="522"/></L>
+<L>And as he cam by hys hows syde <NOTE PLACE="marg">As he approaches he hears a noise,</NOTE></L>
+<L>He herd <NOTE N="1" PLACE="marg">[?MS. <HI REND="italic">hard]</HI></NOTE> noyse that was nott ryde</L>
+<L>Of p<HI REND="italic">er</HI>sons two or thre; <MILESTONE N="525"/></L>
+<L>One of hem knockyd lyne,</L>
+<L>A-nothyr swyngelyd good and fyne</L>
+<L>By-fore the swyngyłł tre, <MILESTONE N="528"/></L>
+<L>The thyrde did rele and spynne,</L>
+<L>Mete and drynke ther-wyth to wynne,</L>
+<L>Gret nede ther-of hadde he. <MILESTONE N="531"/></L>
+<L><PB N="16" REF="24"/>
+Thus þe wryght stode herkenyng;</L>
+<L>Hys wyfe was ware of hys comyng, <NOTE PLACE="marg">his wife comes to meet him,</NOTE></L>
+<L>And ageynst hym went sche. <MILESTONE N="534"/></L>
+<L>"Dame," he seyd, "what ys þis dynne?</L>
+<L>I here gret noyse here wythynne; <NOTE PLACE="marg">and he asks what all that noise is about.</NOTE></L>
+<L>Tełł me, so god the spede." <MILESTONE N="537"/></L>
+<L>"Syr," sche seyd, "workemen thre <NOTE PLACE="marg">"Why, three workmen have come to help us, dear.</NOTE></L>
+<L>Be come to helpe you and me,</L>
+<L>Ther-of we haue gret nede; <MILESTONE N="540"/></L>
+<L>Fayne would I wete what they were." <NOTE PLACE="marg">Who are they?"</NOTE></L>
+<L>Butt when he sawe hys lord there, <NOTE PLACE="marg">The wright sees his Lord in the pit,</NOTE></L>
+<L>Hys hert bygan to drede: <MILESTONE N="543"/></L>
+<L>To see hys lord in þat place,</L>
+<L>He þought yt was a strange cas,</L>
+<L>And seyd, "so god hym spede, <MILESTONE N="546"/> <NOTE PLACE="marg">and asks how</NOTE></L>
+<L>What do ye here, my lord and knygħt? <MILESTONE N="185, back" UNIT="leaf"/></L>
+<L>Tełł me nowe for godes mygħt</L>
+<L>Howe cam thys vn-to?" <MILESTONE N="549"/> <NOTE PLACE="marg">he came there.</NOTE></L>
+<L>The knyght seyd "What ys best rede?</L>
+<L>M<HI REND="italic">er</HI>cy I aske for my mysdede, <NOTE PLACE="marg">The Lord asks mercy: he is very sorry.</NOTE></L>
+<L>My hert ys wondyr wo." <MILESTONE N="552"/></L>
+<L>"So ys myne, verame<HI REND="italic">n</HI>t, <NOTE PLACE="marg">"So am I," says the wright, "to see you among the flax and hemp,"</NOTE></L>
+<L>To se you among thys flex and hempe,</L>
+<L>Fułł sore yt ruytħ me; <MILESTONE N="555"/></L>
+<L>To se you in such hevynes,</L>
+<L>Fułł sore myne hert yt doth oppresse,</L>
+<L>By god in trinite." <MILESTONE N="558"/></L>
+<L>The wryght bade hys wyfe lett hym̄ owte, <NOTE PLACE="marg">and orders his wife to let the Lord out.</NOTE></L>
+<L>"Nay, þen sorowe come on my snowte</L>
+<L>If they passe hens to-daye <MILESTONE N="561"/> <NOTE PLACE="marg">"No, bother my snout if I do," says the wife, "before his lady sees what he wanted to do with me."</NOTE></L>
+<L>Tyłł that my lady come and see</L>
+<L>Howe þey would haue done w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> me,</L>
+<L>Butt nowe late me saye." <MILESTONE N="564"/></L>
+<L>Anon sche sent aft<HI REND="italic">er</HI> the lady brygħt <NOTE PLACE="marg">So she sends for the dame to fetch her lord home,</NOTE></L>
+<L>For to fett home her lord and knyght,</L>
+<L>Therto sche seyd nogħt; <MILESTONE N="567"/></L>
+<L>Sche told her what they hadde ment,</L>
+<L><PB N="17" REF="25"/>
+And of ther purpos &amp; ther intente <NOTE PLACE="marg">and tells her what he and his companions came there for. The lady</NOTE></L>
+<L>That they would haue wrought. <MILESTONE N="570"/></L>
+<L>Glad was þat lady of that tydyng;</L>
+<L>When sche wyst her lord was lyuyng,</L>
+<L>Ther-of sche was fułł fayne: <MILESTONE N="573"/></L>
+<L>Whan sche came vn-to þe steyre abouen̄,</L>
+<L>Sche lokyd vn-to þe seller downe, <NOTE PLACE="marg">looks down into the cellar, and says, "Good sirs, what are you doing?"</NOTE></L>
+<L>And seyd,—þis ys nott to leyne,— <MILESTONE N="576"/></L>
+<L>"Good syres, what doo you here?"</L>
+<L>"Dame, we by owre mete fułł dere, <NOTE PLACE="marg">"Earning our meat full dear:</NOTE></L>
+<L>Wyth gret trauayle and peyne; <MILESTONE N="579"/></L>
+<L>I pray you helpe þat we were owte, <NOTE PLACE="marg">help us out, and I'll never come here again."</NOTE></L>
+<L>And I wyłł swere w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>-owtyn dowte</L>
+<L>Neu<HI REND="italic">er</HI> to come here agayne." <MILESTONE N="582"/></L>
+<L>The lady spake the wyfe vn-tyll<HI REND="italic">e,</HI> <NOTE PLACE="marg">The lady asks the wife why</NOTE></L>
+<L>And seyd "dame, yf yt be youre wylle, <MILESTONE N="186" UNIT="leaf"/></L>
+<L>What doo thes meyny here?" <MILESTONE N="585"/> <NOTE PLACE="marg">the men are there.</NOTE></L>
+<L>The carpentarys wyfe her answerd sykerly, <NOTE PLACE="marg">The wife says they wanted to lie with her, and offered her gold and silver;</NOTE></L>
+<L>"Ałł they would haue leyne me by;</L>
+<L>Eu<HI REND="italic">er</HI>ych, in ther maner<HI REND="italic">e,</HI> <MILESTONE N="588"/></L>
+<L>Gold and syluer they me brought,</L>
+<L>And forsoke yt, and would yt noght,</L>
+<L>The ryche gyftes so clere. <MILESTONE N="591"/></L>
+<L>Wyllyng þey were to do me schame,</L>
+<L>I toke ther gyftes wyth-owtyn blame, <NOTE PLACE="marg">she took their gifts, and there they are.</NOTE></L>
+<L><HI REND="italic">And</HI> ther they be ałł thre." <MILESTONE N="594"/></L>
+<L>The lady answerd her anon̄, <NOTE PLACE="marg">The lady says she really wants her lord for herself,</NOTE></L>
+<L>"I haue thynges to do att home</L>
+<L>Mo than two or thre; <MILESTONE N="597"/></L>
+<L>I wyst my lord neu<HI REND="italic">er</HI> do ryght noght</L>
+<L>Of no þing þat schuld be wrought,</L>
+<L>Such as fallyth to me." <MILESTONE N="600"/></L>
+<L>The lady lawghed and made good game <NOTE PLACE="marg">and laughs heartily when the three culprits come out.</NOTE></L>
+<L>Whan they came owte ałł in-same</L>
+<L>From the swyngyłł tre. <MILESTONE N="603"/></L>
+<L>The knyght seyd "felowys in fere, <NOTE PLACE="marg">The Lord says,</NOTE></L>
+<L>I am glad þat we be here,</L>
+<L><PB N="18" REF="26"/>
+By godes dere pyte; <MILESTONE N="606"/></L>
+<L>Dame, and ye hadde bene wyth vs, <NOTE PLACE="marg">"Ah, you'd have worked too if you'd been with us,</NOTE></L>
+<L>Ye would haue wrought, by swete Ih<HI REND="italic">es</HI>us,</L>
+<L>As welle as dyd we." <MILESTONE N="609"/></L>
+<L>And when they cam vp abouen̄</L>
+<L>They turnyd abowte and lokyd downe,</L>
+<L>The lord seyd, "so god saue me, <MILESTONE N="612"/></L>
+<L>Yet hadde I neu<HI REND="italic">er</HI> such a fytte <NOTE PLACE="marg">I never had such a turn in my life before, I can tell you."</NOTE></L>
+<L>As I haue hadde in þat lowe pytte;</L>
+<L>So mary so mutt me spede." <MILESTONE N="615"/></L>
+<L>The knyght and thys lady bryght, <NOTE PLACE="marg">Then the Lord and lady go home,</NOTE></L>
+<L>Howe they would home that nygħt,</L>
+<L>For no thyng they would abyde; <MILESTONE N="618"/></L>
+<L>And so they went home;</L>
+<L>Thys seyd Adam of Cobsam̄. <NOTE N="1" PLACE="foot">The letter between the <HI REND="italic">b</HI> and <HI REND="italic">a</HI> has had the lower part marked over. But it must mean a long s.</NOTE> <NOTE PLACE="marg">as ADAM of COBSAM says.</NOTE></L>
+<L>By the weye as they rode <MILESTONE N="621"/> <MILESTONE N="186, back" UNIT="leaf"/></L>
+<L>Throwe a wode in ther playeng, <NOTE PLACE="marg">On their way home</NOTE></L>
+<L>For to here the fowlys syng</L>
+<L>They hovyd stylle and bode. <MILESTONE N="624"/> <NOTE PLACE="marg">they halt,</NOTE></L>
+<L>The stuard sware by godes ore, <NOTE PLACE="marg">and the steward and proctor swear they'll never go back for five and forty years.</NOTE></L>
+<L>And so dyd the proctoure much more,</L>
+<L>That neu<HI REND="italic">er</HI> in ther lyfe <MILESTONE N="627"/></L>
+<L>Would they no more come in þ<HI REND="italic">a</HI>t wonne</L>
+<L>Whan they were onys thens come,</L>
+<L>Thys forty yere and fyve. <MILESTONE N="630"/></L>
+<L>Of the tresure that they brought, <NOTE PLACE="marg">The lady gives all their money to the wright's wife.</NOTE></L>
+<L>The lady would geue hem ryght noght,</L>
+<L>Butt gaue yt to the wryghtes wyfe. <MILESTONE N="633"/></L>
+<L>Thus the wryghtes garlond was feyre of hewe, <NOTE PLACE="marg">The garland is fresh as ever.</NOTE></L>
+<L>And hys wyfe bothe good and trewe:</L>
+<L>There-of was he fułł blythe; <MILESTONE N="636"/></L>
+<L>I take wytnes att gret and smałł,</L>
+<L>Thus trewe bene good women ałł <NOTE PLACE="marg">Thus true are all good women now alive!</NOTE></L>
+<L>That nowe bene on lyve, <MILESTONE N="639"/></L>
+<L>So come thryste on ther hedys</L>
+<L><PB N="19" REF="27"/>
+Whan they mombyłł on ther bedys</L>
+<L>Ther pat<HI REND="italic">er</HI> n<HI REND="italic">oste</HI>r ryue. <MILESTONE N="642"/></L>
+</LG>
+<LG>
+<L>Here ys wretyn a geste of the wryght <NOTE PLACE="marg">Here then is written a tale of the Wright and his Garland.</NOTE></L>
+<L>That hadde a garlond wełł I-dyght,</L>
+<L>The coloure wyłł neu<HI REND="italic">er</HI> fade. <MILESTONE N="645"/></L>
+<L>Now god, þat ys heuyn kyng, <NOTE PLACE="marg">God grant us all his blessing,</NOTE></L>
+<L>Graunt vs ałł hys dere blessyng</L>
+<L>Owre hertes for to glade; <MILESTONE N="648"/></L>
+<L>And ałł tho that doo her husbondys rygħt, <NOTE PLACE="marg">and may all true faithful wives</NOTE></L>
+<L>Pray we to Ih<HI REND="italic">es</HI>u fułł of myght,</L>
+<L>That feyre mott hem byfalle, <MILESTONE N="651"/></L>
+<L>And that they may come to heuen blys, <NOTE PLACE="marg">come to heaven's bliss,</NOTE></L>
+<L>For thy dere moderys loue ther-of nott to mys,</L>
+<L>All<HI REND="italic">e</HI> good wyues all<HI REND="italic">e.</HI> <MILESTONE N="654"/></L>
+<L>Now all<HI REND="italic">e</HI> tho that thys tretys hath hard, <NOTE PLACE="marg">and be such</NOTE></L>
+<L>Ih<HI REND="italic">es</HI>u graunt hem, for her reward,</L>
+<L>As trew louers to be <MILESTONE N="657"/> <NOTE PLACE="marg">true lovers as the</NOTE></L>
+<L>As was the wryght vn-to hys wyfe <MILESTONE N="187" UNIT="leaf"/></L>
+<L>And sche to hym duryng her lyfe. <NOTE PLACE="marg">wright and his wife were. Amen!</NOTE></L>
+<L>Amen, for charyte. <MILESTONE N="660"/></L>
+</LG>
+<LG>
+<L>Here endyth the wryghtes p<HI REND="italic">ro</HI>cesse trewe <NOTE PLACE="marg">Here ends our tale of the Garland</NOTE></L>
+<L>Wyth hys garlond feyre of hewe</L>
+<L>That neu<HI REND="italic">er</HI> dyd fade the coloure. <MILESTONE N="663"/></L>
+<L>It was made, by the avyse</L>
+<L>Of hys wywes moder wytty and wyse,</L>
+<L>Of flourys most of honoure, <MILESTONE N="666"/> <NOTE PLACE="marg">which was made of White Roses,</NOTE></L>
+<L>Of roses whyte þat wyłł nott fade,</L>
+<L>Whych floure ałł ynglond doth glade, <NOTE PLACE="marg">the flowers that gladden all England,</NOTE></L>
+<L>Wyth trewloues medelyd in sygħt; <MILESTONE N="669"/></L>
+<L>Vn-to the whych floure I-wys</L>
+<L>The loue of god and of the comenys <NOTE PLACE="marg">and receive the love of God, and of the Com∣mons too.</NOTE></L>
+<L>Subdued <NOTE N="1" PLACE="foot">May be <HI REND="italic">subdied;</HI> the word has been corrected.</NOTE> bene of rygħt. <MILESTONE N="672"/></L>
+</LG>
+<TRAILER>Explicit.</TRAILER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

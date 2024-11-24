@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-13-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed incorrect MILESTONE from P; added DIV2s. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00092">
+<STC T="M">92</STC>
+<BIBNO T="mec">CME00092</BIBNO>
+<VID>CME00092</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1"/>
+<DIV2 TYPE="preface">
+<HEAD>XIII. Zu dem 'streitgedichte zwischen drossel und nachtigall'.</HEAD>
+<P>Dieses gedicht wurde nach Digby 86 abgedruckt in Rel. ant. I 241 ff.; collation dazu in Stengels beschreibung dieser hs. s. 64. Sodann ist es nach derselben hs. wieder abgedruckt bei Hazlitt, Rem. I 50 ff., wobei jedoch mehrere versehen aus dem erstern drucke herübergenommen sind. Ein fragment
+<PB N="208" REF="2"/>
+einer weitern aufzeichnung findet sich in der Auchinleck∣handschrift und ist abgedruckt von D. Laing in A penni worthe of witte etc. Ich teile dieses fragment hier von neuem nach der hs. mit.</P>
+</DIV2>
+<DIV2 TYPE="poem">
+<LG>
+<L>Le . . . . . . . n wiþ love . . . <MILESTONE N="279v" UNIT="fol."/> <MILESTONE N="1" UNIT="sp."/></L>
+<L>Wiþ blosme <HI REND="italic">and</HI> wiþ briddes roun, <NOTE PLACE="foot">1-2. Cf. <HI REND="italic">Lenten ys come wiþ love to toune, Wiþ blosmen and wiþ briddes roune</HI> (Frühlingsgedicht, Böddeker 164).</NOTE></L>
+<L>Þe notes of þe hasel springeþ;</L>
+<L>Þe dewes derken in þe dale</L>
+<L>Þe notes of þe niȝtingale, <MILESTONE N="5"/></L>
+<L>Þis foules miri singeþ. <NOTE PLACE="foot">5-6. Ich vermag diesen beiden versen, die doch wol zu verbinden sind, einen rechten sinn nicht abzugewinnen. D hat: <HI REND="italic">Þe dewes darkneþ in þe dale For longing of þe niȝttegale,</HI> was ich übersetze: 'Der tau versteckt sich im tale aus sehnsucht nach der nachtigall', d. h. um die nachtigall, nach deren gesange er sich sehnt, nicht an ihrem kommen zu hindern, ver∣steckt der tau sich in den tälern.</NOTE></L>
+<L>Ich herd a striif bituixen to,</L>
+<L>Þat on of wele, þat oþer of wo,</L>
+<L>Bituen hem to yfere.</L>
+<L>Þat on herieþ wimen þ<HI REND="italic">at</HI> ben hende, <MILESTONE N="10"/></L>
+<L>Þat oþer he wald fawe schende.</L>
+<L>Þis strif ȝe mow yhere.</L>
+</LG>
+<LG>
+<L>Þe niȝtingale haþ ynome</L>
+<L>To speke for wimen atte frome,</L>
+<L>Of shame he wald hem were. <MILESTONE N="15"/></L>
+<L>Þe þrustelcok he spekeþ ay,</L>
+<L>He seyt bi niȝtes <HI REND="italic">and</HI> bi day,</L>
+<L>Þat þai ben fendes fere.</L>
+<L>For þai bitraien ev<HI REND="italic">er</HI>i man,</L>
+<L>Þat mest bileveþ hem on, <MILESTONE N="20"/></L>
+<L>Þei þai be milde of chere.</L>
+<L>Þai ben fals <HI REND="italic">and</HI> fikel to fond,</L>
+<L><HI REND="italic">And</HI> wircheþ wo in everi lond,</L>
+<L>It were better þat hye nere.</L>
+</LG>
+<LG>
+<L>Þe niȝtingale:</L>
+<L>Schame it is to blame levedi, <MILESTONE N="25"/></L>
+<L>For þai ben hende of curtaisi;</L>
+<L>Y rede þat þou lete.</L>
+<L>Nas never breche non so strong,</L>
+<L>No wiþ riȝt, no wiþ wrong,</L>
+<L><PB N="209" REF="3"/>
+Þat wimen no miȝt bete. <MILESTONE N="30"/></L>
+<L>Ysauȝten hem þat ben wroþe,</L>
+<L><HI REND="italic">And</HI> makeþ leve þat is loþe,</L>
+<L>Wiþ game men schuld hem grete.</L>
+<L>Þis warld wer<HI REND="italic">e</HI> nouȝt, ȝif wime<HI REND="italic">n</HI> nere, <MILESTONE N="2" UNIT="sp."/></L>
+<L>Ymaked þai ben to mannes fere, <MILESTONE N="35"/></L>
+<L>Nis noþing half so swete.</L>
+</LG>
+<LG>
+<L>Þe þrostelcok:</L>
+<L>I may wimen heri nouȝt,</L>
+<L>For þai ben fals <HI REND="italic">and</HI> fikel of þouȝt,</L>
+<L>So me is don to understond.</L>
+<L>Y take witnes of mani <HI REND="italic">and</HI> fele, <MILESTONE N="40"/></L>
+<L>Þat riche were of worldes wele</L>
+<L><HI REND="italic">And</HI> fre, to senden hem sond.</L>
+<L>Þei þai ben fair <HI REND="italic">and</HI> briȝt in hewe,</L>
+<L>Þai ben fals, fikel, untrewe,</L>
+<L><HI REND="italic">And</HI> worcheþ wo in ich lond. <MILESTONE N="45"/></L>
+<L>King Alisaunder meneþ hi<HI REND="italic">m</HI> of hem,</L>
+<L>In þe world nis non so crafti men,</L>
+<L>No non so riche of lond.</L>
+</LG>
+<LG>
+<L>Þe niȝtingale:</L>
+<L>Þrustelkok, þou art wode,</L>
+<L>Or þou canst to litel gode, <MILESTONE N="50"/></L>
+<L>Wimen for to schende.</L>
+<L>It is þe best drurie,</L>
+<L><HI REND="italic">And</HI> mest þai cun of curteisie,</L>
+<L>Nis no þing al so hende.</L>
+<L>Her love is swetter ywis, <MILESTONE N="55"/></L>
+<L>Þan þe braunche of licoris,</L>
+<L>Lofsum þai ben <HI REND="italic">and</HI> hende.</L>
+<L>Wele swetter is her breþ,</L>
+<L>Þan ani milke oþer meþ,</L>
+<L><HI REND="italic">And</HI> lovelich in armes to wende. <MILESTONE N="60"/></L>
+</LG>
+<LG>
+<L>Þe þrostelcok:</L>
+<L>Niȝtingale, þou hast wrong,</L>
+<L>As ich finde in mi song,</L>
+<L>For ich hold wiþ þe riȝt.</L>
+<L>Y take witnisse of Wawain,</L>
+<L>Þat Crist ȝaf miȝt <HI REND="italic">and</HI> main, <MILESTONE N="65"/></L>
+<L><HI REND="italic">And</HI> trewest was of kniȝt.</L>
+<L>So wide so he hadde riden <HI REND="italic">and</HI> gon,</L>
+<L>Fals fond he never non,</L>
+<L>Bi day no bi niȝt.</L>
+<L>Foule, for þi fals mouþe, <MILESTONE N="70"/></L>
+<L><PB N="210" REF="4"/>
+Þine sawes schal be wide couþe;</L>
+<L>Aliȝt whare þou liȝt.</L>
+</LG>
+<LG>
+<L>Þe niȝtingale:</L>
+<L>Ichave leve to aliȝt here</L>
+<L>In orchard <HI REND="italic">and</HI> in erbere</L>
+<L>. . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . .</L>
+</LG>
+</DIV2>
+<CLOSER><DATELINE>GREIFSWALD.</DATELINE>
+<SIGNED>HERMANN VARNHAGEN.</SIGNED></CLOSER></DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,3163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-30-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; added a P. Checked <SUP>s</SUP>. Reviewed structure; added table of contents DIV1; changed P to TRAILER; changed two Ps to Ls; removed a P; removed a ROW and a CELL; removed a missing GAP; changed an L to TRAILER; changed a HEAD to TRAILER. Checked placement and completeness of PBs; moved numerous PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00146">
+<STC T="M">146</STC>
+<BIBNO T="mec">CME00146</BIBNO>
+<VID>CME00146</VID>
+</IDG>
+<TEXT LANG="enm">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>LIBER CURE COCORUM.</P>
+<P>COPIED AND EDITED FROM THE SLOANE MS. 1986</P>
+<P>BY RICHARD MORRIS, AUTHOR OF "THE ETYMOLOGY OF LOCAL NAMES", MEMBER OF THE PHILOLOGICAL SOCIETY.</P>
+<P>PUBLISHED FOR THE PHILOLOGICAL SOCIETY BY A. ASHER &amp; CO., BERLIN.</P>
+<P>1862.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="introductory verses">
+<LG>
+<PB REF="2"/>
+<L>Now speke I wele a lytul more</L>
+<L>Of craft, iwys, þat tase grete lore</L>
+<L>In court, þat men calles cure,</L>
+<L>Þat most be don in þrinne degre;</L>
+<L>Þis hasteler, pasteler, and potagere,</L>
+<L>And ȝet þo scoler þat foloes in fere,</L>
+<L>Fyrst to ȝow I wylle schawe</L>
+<L>Þo poyntes of cure, al by rawe<NOTE N="1" PLACE="foot">in rotation.</NOTE>,</L>
+<L>Of Potage, hastery, and bakun mete,</L>
+<L>And petecure, I nylle forȝete.</L>
+<L>Þo names in tabulle I schalle sete</L>
+<L>Þo number in augrym above, with outen lete,</L>
+<L>In augrim þat schalle wryten be,</L>
+<L>An þo tytels with in on þo same degre.</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="table of contents">
+<P><TABLE>
+<HEAD>Incipit tabula cure, primo, de potagiis:—</HEAD>
+<ROW>
+<CELL></CELL>
+<CELL>[Page</CELL>
+</ROW>
+<ROW>
+<CELL>Pur Furmente</CELL>
+<CELL>7</CELL>
+</ROW>
+<ROW>
+<CELL>Amydoune</CELL>
+<CELL>7</CELL>
+</ROW>
+<ROW>
+<CELL>Conyngus in grave</CELL>
+<CELL>8</CELL>
+</ROW>
+<ROW>
+<CELL>Chekyns in cretene</CELL>
+<CELL>8</CELL>
+</ROW>
+<ROW>
+<CELL>Vyande de cypur</CELL>
+<CELL>8</CELL>
+</ROW>
+<ROW>
+<CELL>Mortrews de chare</CELL>
+<CELL>9</CELL>
+</ROW>
+<ROW>
+<CELL>Blanke maunger</CELL>
+<CELL>9</CELL>
+</ROW>
+<ROW>
+<CELL>Þandon for swannus, wylde gese and pyggus</CELL>
+<CELL>9]</CELL>
+</ROW>
+<ROW>
+<CELL>Nombuls</CELL>
+<CELL>10</CELL>
+</ROW>
+<ROW>
+<CELL>Anoþer maner of nombuls</CELL>
+<CELL>10</CELL>
+</ROW>
+<ROW>
+<CELL>Charlet de force</CELL>
+<CELL>11</CELL>
+</ROW>
+<ROW>
+<CELL>For charlet icoloured</CELL>
+<CELL>11</CELL>
+</ROW>
+<ROW>
+<CELL>Iussell</CELL>
+<CELL>11</CELL>
+</ROW>
+<ROW>
+<CELL>Bruet de almonde</CELL>
+<CELL>12</CELL>
+</ROW>
+<ROW>
+<CELL>Blanke de sorre</CELL>
+<CELL>12</CELL>
+</ROW>
+<ROW>
+<CELL>Bucnade</CELL>
+<CELL>12</CELL>
+</ROW>
+<ROW>
+<CELL>Rosse</CELL>
+<CELL>13]</CELL>
+</ROW>
+<PB N="2" REF="3"/>
+<ROW>
+<CELL>Letlardus<NOTE N="1" PLACE="foot">an error for Leche-lardus See 'Ord and Reg.' p. 439.</NOTE></CELL>
+<CELL>13</CELL>
+</ROW>
+<ROW>
+<CELL>For blanched mortrews</CELL>
+<CELL>13</CELL>
+</ROW>
+<ROW>
+<CELL>Peions istued</CELL>
+<CELL>14</CELL>
+</ROW>
+<ROW>
+<CELL>Sowpes dorre</CELL>
+<CELL>14</CELL>
+</ROW>
+<ROW>
+<CELL>Gruel of almonde</CELL>
+<CELL>14</CELL>
+</ROW>
+<ROW>
+<CELL>Joutes of almonde</CELL>
+<CELL>15</CELL>
+</ROW>
+<ROW>
+<CELL>Caudelle of almonde</CELL>
+<CELL>15</CELL>
+</ROW>
+<ROW>
+<CELL>Buttur of mylke of almonde</CELL>
+<CELL>15</CELL>
+</ROW>
+<ROW>
+<CELL>Mylke of almonde</CELL>
+<CELL></CELL>
+</ROW>
+<ROW>
+<CELL>Rise</CELL>
+<CELL>16</CELL>
+</ROW>
+<ROW>
+<CELL>Caudel Ferre</CELL>
+<CELL>16</CELL>
+</ROW>
+<ROW>
+<CELL>For to make a rape</CELL>
+<CELL>16</CELL>
+</ROW>
+<ROW>
+<CELL>Mylke rostyd</CELL>
+<CELL>17</CELL>
+</ROW>
+<ROW>
+<CELL>For to make a potage of welkys</CELL>
+<CELL>17</CELL>
+</ROW>
+<ROW>
+<CELL>For to make potage of oysturs</CELL>
+<CELL>17</CELL>
+</ROW>
+<ROW>
+<CELL>Sauge Seynes</CELL>
+<CELL>18</CELL>
+</ROW>
+<ROW>
+<CELL>For to make a compost</CELL>
+<CELL>18</CELL>
+</ROW>
+<ROW>
+<CELL>Roo in a sew</CELL>
+<CELL>23</CELL>
+</ROW>
+<ROW>
+<CELL>Blanke maunger of fysshe</CELL>
+<CELL>19</CELL>
+</ROW>
+<ROW>
+<CELL>Mortrews of fysshe</CELL>
+<CELL>19</CELL>
+</ROW>
+<ROW>
+<CELL>For to make rose de almayne</CELL>
+<CELL>19</CELL>
+</ROW>
+<ROW>
+<CELL>For a kolys</CELL>
+<CELL>20</CELL>
+</ROW>
+<ROW>
+<CELL>Gruel of Porke</CELL>
+<CELL>20</CELL>
+</ROW>
+<ROW>
+<CELL>Conyngus in cyne</CELL>
+<CELL>20</CELL>
+</ROW>
+<ROW>
+<CELL>Harus in cyne</CELL>
+<CELL>21</CELL>
+</ROW>
+<ROW>
+<CELL>Harus in a sewe</CELL>
+<CELL>21</CELL>
+</ROW>
+<ROW>
+<CELL>Harus in albrotetus<NOTE N="2" PLACE="foot">Harus in a browet.</NOTE></CELL>
+<CELL>21</CELL>
+</ROW>
+<ROW>
+<CELL>Harus in a pardolyce</CELL>
+<CELL>22</CELL>
+</ROW>
+<ROW>
+<CELL>Hennes in a browet</CELL>
+<CELL>22</CELL>
+</ROW>
+<ROW>
+<CELL>Chekens in browet</CELL>
+<CELL>22</CELL>
+</ROW>
+<ROW>
+<CELL>Chekens in þo brothe</CELL>
+<CELL>23</CELL>
+</ROW>
+<ROW>
+<CELL>For to boyle fesawntes and pertrykes</CELL>
+<CELL>23</CELL>
+</ROW>
+<ROW>
+<CELL>Hennes in gravé</CELL>
+<CELL>24]</CELL>
+</ROW>
+<ROW>
+<CELL>Capons in covuse</CELL>
+<CELL>24</CELL>
+</ROW>
+<ROW>
+<CELL>Hennes in gauncel</CELL>
+<CELL>24</CELL>
+</ROW>
+<ROW>
+<CELL>Lamprays in browet</CELL>
+<CELL>25</CELL>
+</ROW>
+<ROW>
+<CELL>Lamprays in galantine</CELL>
+<CELL>25</CELL>
+</ROW>
+<ROW>
+<CELL>For tenches in grave</CELL>
+<CELL>25</CELL>
+</ROW>
+<ROW>
+<CELL>Chawdewyne de boyce</CELL>
+<CELL>25</CELL>
+</ROW>
+<ROW>
+<CELL>For to make momene</CELL>
+<CELL>26</CELL>
+</ROW>
+<ROW>
+<CELL>Lange de boef</CELL>
+<CELL>26</CELL>
+</ROW>
+<ROW>
+<CELL>Sawce for maulardys ros∣tedde</CELL>
+<CELL>27</CELL>
+</ROW>
+<ROW>
+<CELL>Sawce for wele and venyson</CELL>
+<CELL>28</CELL>
+</ROW>
+<ROW>
+<CELL>Blaunche sawce for capons</CELL>
+<CELL>28</CELL>
+</ROW>
+<ROW>
+<CELL>Sawce best for capons rostedde</CELL>
+<CELL>28</CELL>
+</ROW>
+<ROW>
+<CELL>Sawce syrer for mawdelardys</CELL>
+<CELL>28</CELL>
+</ROW>
+<ROW>
+<CELL>Gawncel for þe gose</CELL>
+<CELL>29</CELL>
+</ROW>
+<ROW>
+<CELL>Sawce for swannes, cranes, and herons</CELL>
+<CELL>29</CELL>
+</ROW>
+<ROW>
+<CELL>For pekokes and pcrtrykes</CELL>
+<CELL>29</CELL>
+</ROW>
+<ROW>
+<CELL>Galentine</CELL>
+<CELL>30</CELL>
+</ROW>
+<ROW>
+<CELL>Sawce comelyne, kervelettes and oþer þyngis</CELL>
+<CELL>30</CELL>
+</ROW>
+<ROW>
+<CELL>For lumbardis mustard</CELL>
+<CELL>30</CELL>
+</ROW>
+<ROW>
+<CELL>For Pyculle</CELL>
+<CELL>31</CELL>
+</ROW>
+<ROW>
+<CELL>Filettes in Galentine</CELL>
+<CELL>31</CELL>
+</ROW>
+<ROW>
+<CELL>Piggus in sawce</CELL>
+<CELL>31</CELL>
+</ROW>
+<ROW>
+<CELL>Sawce Madame</CELL>
+<CELL>32</CELL>
+</ROW>
+<ROW>
+<CELL>Gose in Hogge pot</CELL>
+<CELL>32</CELL>
+</ROW>
+<ROW>
+<CELL>To save venyson fresshe over þe ȝer</CELL>
+<CELL>33</CELL>
+</ROW>
+<ROW>
+<CELL>For to save venysone fro restyng</CELL>
+<CELL>33</CELL>
+</ROW>
+<ROW>
+<CELL>To keep herbis over þo wyntur</CELL>
+<CELL>34</CELL>
+</ROW>
+<ROW>
+<CELL>For lyour best</CELL>
+<CELL>34]</CELL>
+</ROW>
+<PB N="3" REF="4"/>
+<ROW>
+<CELL>For þe crane</CELL>
+<CELL>35</CELL>
+</ROW>
+<ROW>
+<CELL>For wodcock, snyte, and curlu</CELL>
+<CELL>35</CELL>
+</ROW>
+<ROW>
+<CELL>For pygges farsed</CELL>
+<CELL>36</CELL>
+</ROW>
+<ROW>
+<CELL>For franche mele</CELL>
+<CELL>36</CELL>
+</ROW>
+<ROW>
+<CELL>For bouris</CELL>
+<CELL>37</CELL>
+</ROW>
+<ROW>
+<CELL>For pome dorres</CELL>
+<CELL>37</CELL>
+</ROW>
+<ROW>
+<CELL>Hastelettes on fysshe dayes</CELL>
+<CELL>37</CELL>
+</ROW>
+<ROW>
+<CELL>For lamprayes</CELL>
+<CELL>38</CELL>
+</ROW>
+<ROW>
+<CELL>For dareals</CELL>
+<CELL>38</CELL>
+</ROW>
+<ROW>
+<CELL>For flawnes</CELL>
+<CELL>39</CELL>
+</ROW>
+<ROW>
+<CELL>For custon</CELL>
+<CELL>39</CELL>
+</ROW>
+<ROW>
+<CELL>For rysshens</CELL>
+<CELL>39</CELL>
+</ROW>
+<ROW>
+<CELL>For freture</CELL>
+<CELL>39</CELL>
+</ROW>
+<ROW>
+<CELL>Crustate of flesshe</CELL>
+<CELL>40</CELL>
+</ROW>
+<ROW>
+<CELL>Loysens</CELL>
+<CELL>40</CELL>
+</ROW>
+<ROW>
+<CELL>Tartelettes</CELL>
+<CELL>41</CELL>
+</ROW>
+<ROW>
+<CELL>Chewetes on fysshe dayes</CELL>
+<CELL>41</CELL>
+</ROW>
+<ROW>
+<CELL>Chewettes on flesshe dayes</CELL>
+<CELL>41</CELL>
+</ROW>
+<ROW>
+<CELL>For stondande fignade</CELL>
+<CELL>42</CELL>
+</ROW>
+<ROW>
+<CELL>For a surupe</CELL>
+<CELL>43</CELL>
+</ROW>
+<ROW>
+<CELL>For a tusken</CELL>
+<CELL>44</CELL>
+</ROW>
+<ROW>
+<CELL>For blanchet porray</CELL>
+<CELL>44</CELL>
+</ROW>
+<ROW>
+<CELL>Porray of white pese</CELL>
+<CELL>44</CELL>
+</ROW>
+<ROW>
+<CELL>For white pese after porray</CELL>
+<CELL>45</CELL>
+</ROW>
+<ROW>
+<CELL>For gray pese</CELL>
+<CELL>46]</CELL>
+</ROW>
+<ROW>
+<CELL>For cole</CELL>
+<CELL>46</CELL>
+</ROW>
+<ROW>
+<CELL>For mustul bree</CELL>
+<CELL>46</CELL>
+</ROW>
+<ROW>
+<CELL>For porray of mustuls</CELL>
+<CELL>47</CELL>
+</ROW>
+<ROW>
+<CELL>For gruelle of fors</CELL>
+<CELL>47</CELL>
+</ROW>
+<ROW>
+<CELL>For Ioutes</CELL>
+<CELL>47</CELL>
+</ROW>
+<ROW>
+<CELL>For capons in herbes</CELL>
+<CELL>48</CELL>
+</ROW>
+<ROW>
+<CELL>For oþer Ioutes</CELL>
+<CELL>48</CELL>
+</ROW>
+<ROW>
+<CELL>For honge cole</CELL>
+<CELL>49</CELL>
+</ROW>
+<ROW>
+<CELL>For hennes in brothe</CELL>
+<CELL>49</CELL>
+</ROW>
+<ROW>
+<CELL>For a comyne sewe</CELL>
+<CELL>49</CELL>
+</ROW>
+<ROW>
+<CELL>For tansay cake</CELL>
+<CELL>50</CELL>
+</ROW>
+<ROW>
+<CELL>For a froyse</CELL>
+<CELL>50</CELL>
+</ROW>
+<ROW>
+<CELL>For a brothe of elys</CELL>
+<CELL>50</CELL>
+</ROW>
+<ROW>
+<CELL>For a pye</CELL>
+<CELL>51</CELL>
+</ROW>
+<ROW>
+<CELL>For a cawdalle</CELL>
+<CELL>51</CELL>
+</ROW>
+<ROW>
+<CELL>For sawce gynger</CELL>
+<CELL>52</CELL>
+</ROW>
+<ROW>
+<CELL>For wesels</CELL>
+<CELL>52</CELL>
+</ROW>
+<ROW>
+<CELL>For a hagese</CELL>
+<CELL>52</CELL>
+</ROW>
+<ROW>
+<CELL>For seke menne</CELL>
+<CELL>53</CELL>
+</ROW>
+<ROW>
+<CELL>For to sethe ray</CELL>
+<CELL>53</CELL>
+</ROW>
+<ROW>
+<CELL>Oysturs in brewette</CELL>
+<CELL>53</CELL>
+</ROW>
+<ROW>
+<CELL>For a service on fyssh day</CELL>
+<CELL>54</CELL>
+</ROW>
+<ROW>
+<CELL>For anoþer maner of service apon a flesshe day</CELL>
+<CELL>54</CELL>
+</ROW>
+<ROW>
+<CELL>For a comyn rewle in cure</CELL>
+<CELL>55]</CELL>
+</ROW>
+</TABLE></P>
+<TRAILER>Jam finitur tab[u]la per manus ut vocabula complete testantur.</TRAILER>
+</DIV1>
+<DIV1 TYPE="poem">
+<PB REF="5"/>
+<PB N="5" REF="6"/>
+<LG>
+<L>Now slyȝtes of cure wylle I preche,</L>
+<L>How somme mete schalle seme raw I teche;</L>
+<L>Take harus blode, or kyddus ful fayre,</L>
+<L>And dry hit in powder and kepe hit fro ayre;</L>
+<L>When flesshe or fysshe his served wele hote,</L>
+<L>Cast on þe powder of hare I wot;</L>
+<L>Hit is so frym<NOTE N="1" PLACE="foot">strong.</NOTE>, ren hyt wylle</L>
+<L>An malt as sugur, by ryȝt good skylle</L>
+<L>And make þo flesshe to seme, iwys,</L>
+<L>As hit were raw, and ȝyt hit nys.</L>
+<L>And þagh þou sethe hit alle day,</L>
+<L>Hit wolde seme rawe by any kyn way.</L>
+</LG>
+<LG>
+<L>Anoþer sotelté I wylle telle.</L>
+<L>Take harpe strynges made of bowel,</L>
+<L>In brede of stoe, þou cut hom þenne;</L>
+<L>Kast hom on fysshe or flesshe, I kenne,</L>
+<L>Þat sothyn is hote or rostyd, iwys,</L>
+<L>Þat wynne seme wormes, so have I blys.</L>
+</LG>
+<LG>
+<L>And ȝif<NOTE N="2" PLACE="foot">ȝit?</NOTE> anoþer I telle con;</L>
+<L>Yf þe coke be croked or soward mane</L>
+<L>Take sope, cast in hys potage;</L>
+<L>Þenne wylle þe pot begyn to rage</L>
+<L>And welle on alle, and lepe in.</L>
+<L>Þat licoure is made, noþer thykke ne thynne;</L>
+<L>And henne-ban sede duckys wylle kylle,</L>
+<L>And hennes also hit wille spylle;</L>
+<L>And cast this to hom opon grene;</L>
+<L>Who wylle assay hit, þo sothe may sene.</L>
+</LG>
+<LG>
+<L><PB N="6" REF="7"/>
+<HI REND="italic">To make venegur manede;</HI></L>
+<L>Take a gad of stele I wot in dede;</L>
+<L>In strong venegur þou schalt hit seke</L>
+<L>ix sythes in venegur, þerof þou reke,</L>
+<L>A bere with þe hete hit þou may,</L>
+<L>And in goode wyne sleck hit I say;</L>
+<L>Hit shalle be venegur I wot hit wele,</L>
+<L>To serve at a tyme at fest or mele.</L>
+<L>And rosted benes, þat steped han bene,</L>
+<L>Goode wyne schalle turne to venegur be dene.</L>
+</LG>
+<LG>
+<L><HI REND="italic">To preve venegur, weþer hit be fyne.</HI></L>
+<L>Þou take hys knyve or ellis myne,</L>
+<L>In harde drye flore a hole to make;</L>
+<L>Put in þo venegur, I undurtake,</L>
+<L>If hit be good, welle, syr, hit schalle,</L>
+<L>Yf hit be noȝt, downe wylle hit falle.</L>
+<L>Þis seȝe I preved, so have I blys;</L>
+<L>Þerfore I wot þat hit sothe is.</L>
+</LG>
+<LG>
+<L><HI REND="italic">To powder befe with in a nyȝt,</HI></L>
+<L>Þou welle þo salt, in water bryȝt;</L>
+<L>Malt hit in bryne, set doun to kele,</L>
+<L>Put in þy flesshe fayre and wele,</L>
+<L>And in a nyȝt hit poudert schalle be,</L>
+<L>Grene powdert þorogh, so mot I þe.</L>
+<L>Yf þy dysshe metes dere ben to salt,</L>
+<L>Kerve a grene sod, I wot, þou schalt,</L>
+<L>And kover þy pot with þo gresse done,</L>
+<L>Þo salt on þo gresse shalle barke fulle sone.</L>
+<L>With þy honde smyte of, I say;</L>
+<L>Þo salt lay on anew þou may;</L>
+<L>Þys schalt þou gedur hit, yche a dele,</L>
+<L>And make hit fresshe unto þe mele.</L>
+<L>If I schalle of þese potage spelle</L>
+<L>A whyle þeron þen most I dwelle;</L>
+<L>Fyrste, to speke of furmenté,</L>
+<L>How hit is made in yche degre.</L>
+</LG>
+<LG>
+<PB N="7" REF="8"/>
+<HEAD><HI REND="italic">Furmente.</HI></HEAD>
+<L>Take wete, and pyke hit fayre [and clene]</L>
+<L>And do hit in a morter shene;</L>
+<L>Bray hit a lytelle, with water hit spryng</L>
+<L>Tyl hit hulle, with-oute lesyng.</L>
+<L>Þen wyndo hit wele, nede þou mot;</L>
+<L>Wasshe hit fayre, put hit in pot;</L>
+<L>Boyle hit tylle hit brest, þen</L>
+<L>Let hit doun, as I þe kenne.</L>
+<L>Take know mylke, and play hit up</L>
+<L>To hit be thykkerede to sup.</L>
+<L>Lye hit up with ȝolkes of eyren,</L>
+<L>And kepe hit wele, lest hit berne.</L>
+<L>Coloure hit with safron and salt hit wele,</L>
+<L>And servyd<NOTE N="1" PLACE="foot">servys?</NOTE> hit forthe, Syr, at þe mele;</L>
+<L>With sugur candy, þou may hit dowce,</L>
+<L>If hit be served in grete lordys howce.</L>
+<L>Take black sugur for mener menne;</L>
+<L>Be ware þer with, for hit wylle brenne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Amydone.</HI></HEAD>
+<L>Take wete and stepe hit dayes ix;</L>
+<L>Þus chaunge þy water yche day be dene.</L>
+<L>Brys hit in a morter ryȝt smalle,</L>
+<L>Sethe hit with mylke and water with alle.</L>
+<L>Þorowgh a herseve loke þou hit sye<NOTE N="2" PLACE="foot">strain.</NOTE>,</L>
+<L>And let hit stonde and setel bye;</L>
+<L>Poure oute þe water, in clothe hit lay,</L>
+<L>Tyl hit be drye þou turne hit ay.</L>
+<L>Þys is a lycour as men sayn,</L>
+<L>Þer of I schalle speke more in playn.</L>
+</LG>
+<LG>
+<PB N="8" REF="9"/>
+<HEAD><HI REND="italic">Conyngus in gravé.</HI></HEAD>
+<L>Sethe welle þy conyngus in water clere,</L>
+<L>After, in water colde þou wasshe hom scre,</L>
+<L>Take mylke of almondes, lay hit anone</L>
+<L>With myed bred or amydone;</L>
+<L>Fors hit with cloves or gode gyngere;</L>
+<L>Boyle hit over þo fyre,</L>
+<L>Hew þo conyngus, do hom þer to,</L>
+<L>Seson hit with wyn or sugur þo.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Chekyns in cretene.</HI></HEAD>
+<L>Take cow mylke, lye hit anone</L>
+<L>With flowre, or ellis with amydone;</L>
+<L>Fors hit with galyngale and gode gyngere,</L>
+<L>With canel and comyn, alle in fere,</L>
+<L>Coloure hit with safron þo;</L>
+<L>Þe chekyns by hom selfe þo sethe þer to,</L>
+<L>Hew hom in quarteres and lay hom inne,</L>
+<L>Boyle hom up with alle, no more ne mynne;</L>
+<L>But seson hit with sugur suete,</L>
+<L>And serve hom forthe for þay ben scte.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Viande de Cipur.</HI></HEAD>
+<L>Take braunne of capons or hennes þou shalle;</L>
+<L>Parboyle and drye hit with alle;</L>
+<L>Hew hom smalle, bray in mortere,</L>
+<L>As smalle as bred, þat myed were;</L>
+<L>Take good almonde mylke anone</L>
+<L>And lye hit up with amydone</L>
+<L>Or with floure of ryse, þou may;</L>
+<L>Coloure hit with safron, I þe say;</L>
+<L>Boyle hit after yche adele,</L>
+<L>Charge hit with flesshe brayed wele;</L>
+<L><PB N="9" REF="10"/>
+Seson hit with sugur and þen þy dysshe</L>
+<L>With almondes set þou schalle florysshe<NOTE N="1" PLACE="foot">decorate, garnish.</NOTE>.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Mortrews de chare.</HI></HEAD>
+<L>Take hennes and fresshe porke, y þe kenne,</L>
+<L>Sethe hom togedur alwayes þenne;</L>
+<L>Take hem up, pyke out þe bonys,</L>
+<L>Enbande þe porke, Syr, for þo nonys;</L>
+<L>Hew hit smalle and grynde hit wele,</L>
+<L>Cast it agayne, so have þou cele,</L>
+<L>In to þe brothe, and charge hit þenne</L>
+<L>With myed wastelle, as I þe kenne;</L>
+<L>Colour hit with safron, at þat tyde;</L>
+<L>Boyle hit and set hit doune be syde;,</L>
+<L>Lye hit with ȝolkes of eren ryȝt,</L>
+<L>And florysshe þy dysshe with pouder þou myȝt.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Blonc Manger.</HI></HEAD>
+<L>Take ryse and loke þou wasshe hom clene,</L>
+<L>And þorowgh a strynour þou hom strene;</L>
+<L>Temper hom with almonde mylke anon.</L>
+<L>Take brawne of capons or henne good won<NOTE N="2" PLACE="foot">quantity.</NOTE>,</L>
+<L>Tese hit smalle, as I þe lere;</L>
+<L>Do þe ryse in þo mylke over þe fyre,</L>
+<L>Let hit boyle for ony nede;</L>
+<L>Charge hit with tesyd flesshe in dede;</L>
+<L>Seson hit with sugur, and floresshe</L>
+<L>With fryud almondes þo lordes dysshe.</L>
+</LG>
+<LG>
+<HEAD>Þ<HI REND="italic">andon for wylde digges, swannus, and piggus.</HI></HEAD>
+<L>Take, wasshe þo isues of swannes anon,</L>
+<L>And skoure þo guttus with salt ichon;</L>
+<L><PB N="10" REF="11"/>
+Sethe alle to gedur and hew hit smalle,</L>
+<L>Þe flesshe and eke þo guttus with alle;</L>
+<L>Take galingale and gode gyngere</L>
+<L>And canel, and grynd hom al in fere;</L>
+<L>And myude bred þou take þerto,</L>
+<L>And temper hit up with brothe also;</L>
+<L>Coloure hit with brend bred or with blode,</L>
+<L>Seson hit with venegur, a lytelle for gode;</L>
+<L>Welle alle togedur in a posnet;</L>
+<L>In service forthe þou schalt hit sett.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Nombuls.</HI></HEAD>
+<L>Take þo hert and þo mydruv and þe kydnere,</L>
+<L>And hew hom smalle, as I þe lere;</L>
+<L>Presse oute þe blode, wasshe hom þou schalle,</L>
+<L>Sethe hom in water and in gode ale;</L>
+<L>Coloure hit with brende bred or with blode;</L>
+<L>Fors hit with peper and canel gode,</L>
+<L>Sett hit to þo fyre, as I þe telle in tale;</L>
+<L>Kele hit with a litelle ale,</L>
+<L>And set hit downe to serve in sale.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Anoþer maner for noumbuls.</HI></HEAD>
+<L>Take þe noumbuls of þe veneson,</L>
+<L>In water and salt þo wasshe hom sone,</L>
+<L>And in<NOTE N="1" PLACE="foot">two.</NOTE> twynne waters, þou schalt hom sethe;</L>
+<L>Grynd bred and peper with ale full smethe,</L>
+<L>With þe secunde brothe þou temper hit mun,</L>
+<L>And hew þy noumbuls alle and sum;</L>
+<L>And boyle þy sew, do hom þer inne,</L>
+<L>Of þys mater þer, no more ne myn.</L>
+</LG>
+<LG>
+<PB N="11" REF="12"/>
+<HEAD><HI REND="italic">Charlet.</HI></HEAD>
+<L>Take swettest mylke, þat þou may have,</L>
+<L>Colour hit with safron, so God þe save;</L>
+<L>Take fresshe porke and sethe hit wele,</L>
+<L>And hew hit smalle every dele;</L>
+<L>Swyng eyryn, and do þer to;</L>
+<L>Set hit over þe fyre, þenne</L>
+<L>Boyle hit and sture lest hit brenne;</L>
+<L>Whenne hit welles up, þou schalt hit kele</L>
+<L>With a litel ale, so have þou cele;</L>
+<L>When hit is inoȝe, þou sett hit doune,</L>
+<L>And kepe hit lest hit be to broune.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For Charlet icoloured.</HI></HEAD>
+<L>Take almondes unblanchyd, wasshe hom and grynd;</L>
+<L>Temper hom with rede wyne, þat is so kynd;</L>
+<L>Alye hit up with floure of ryce,</L>
+<L>Do þer to pynys and saunders for spyce,</L>
+<L>For to coloure hit, loke þou do þis,</L>
+<L>And oþer goode spyces þou take, iwys,</L>
+<L>Bothe strong and swete þou do þer to;</L>
+<L>Salt hit, boyle hit, sethe hit forthe þo,</L>
+<L>With annes icomfet, florysshe hit þou schalle;</L>
+<L>Messe hit in dysshes to be served in halle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Iusselle.</HI></HEAD>
+<L>Take myud<NOTE N="1" PLACE="foot">grated.</NOTE> bred, and eyren þou swynge<NOTE N="2" PLACE="foot">beat up.</NOTE>;</L>
+<L>Do hom togeder with out lettyng,</L>
+<L>Take fresshe broth of gode befe,</L>
+<L>Coloure hit with safron, þat is me lefe,</L>
+<L>Boyle hit softly, and in þo boylyng,</L>
+<L>Do þer to sage and persely ȝoyng.</L>
+</LG>
+<LG>
+<PB N="12" REF="13"/>
+<HEAD><HI REND="italic">Breuet de almonde.</HI></HEAD>
+<L>Take gode almonde mylke anon,</L>
+<L>And loke þou lye hit with amydone,</L>
+<L>Or with flowre þat is bake;</L>
+<L>Coloure hit with safron, I undurtake;</L>
+<L>Fors hit with powder of þy male</L>
+<L>Of gyngere, canel, and galingale.</L>
+<L>Take pertrykes and chykyns and hom wele sethe <NOTE N="1" PLACE="foot">The MS. reads "Take pertrykes and chykyus and sethe hom wele'.</NOTE></L>
+<L>Hew hom in quarters fayre and smethe;</L>
+<L>Do þat mylke over þo fyre þat tyde,</L>
+<L>And boyle and sett hit doune besyde,</L>
+<L>And florysshe hit with powdur, as I þe kenne,</L>
+<L>Þou may have more menske<NOTE N="2" PLACE="foot">favour.</NOTE> emong alle menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Blonk desore.</HI></HEAD>
+<L>Take ryse and wasshe hom in a cup,</L>
+<L>Grynd hom smalle and temper up</L>
+<L>With almonde mylke, so have þou cele<NOTE N="3" PLACE="foot">happiness, bliss.</NOTE>;</L>
+<L>Do hit over þo fyre and boyle hit wele;</L>
+<L>Take braune of capons or hennes alle,</L>
+<L>Hew hit þat hit be riȝt smalle;</L>
+<L>And grynd hit wele, as myud brede,</L>
+<L>And do þer to, as I þe rede;</L>
+<L>Seson hit with sugur grete plenté,</L>
+<L>With fryid almondes florysshe so fre.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Bucnade.</HI></HEAD>
+<L>Take almonde mylke as I con preche;</L>
+<L>Coloure hit with safron as I þe teche;</L>
+<L>Fors hit with poudur, þat is gode;</L>
+<L>Take larde of porke, wele soþyn, by þo rode;</L>
+<L>Hew hit in gobettes wele afyne;</L>
+<L>Loke þey ben smale and put hem inne;</L>
+<L><PB N="13" REF="14"/>
+Lye hit with floure or amydone,</L>
+<L>Boyle hit wele and sett hit done;</L>
+<L>Florysshe hit with powdur, as I þe kenne,</L>
+<L>Þenne may hit be served, before gode men.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Rose.</HI></HEAD>
+<L>Take flour of ryse, as whyte as sylke,</L>
+<L>And hit welle, with almond mylke;</L>
+<L>Boyle hit tyl hit be chargyd, þenne</L>
+<L>Take braune of capone or elle of henne;</L>
+<L>Loke þou grynd hit wondur smalle,</L>
+<L>And sithen þou charge hit with alle;</L>
+<L>Coloure with alkenet, sawnder, or ellys with blode,</L>
+<L>Fors hit with clowes or macys gode;</L>
+<L>Seson hit with sugur grete plenté,</L>
+<L>Þis is a rose, as kokes telle me.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Lede lardes</HI><NOTE N="1" PLACE="foot">See page 2, note.</NOTE> <HI REND="italic">[Leche lardes].</HI></HEAD>
+<L>Take eyren and swete mylke of a cow,</L>
+<L>Swyng hom togedur, as I byd now;</L>
+<L>Take larde of fresshe porke with alle,</L>
+<L>Sethe hit and schere hit on peses smalle;</L>
+<L>Cast þer in and boyle hit, þenne</L>
+<L>Styr hit wele, as I þe kenne,</L>
+<L>Tyl hit be gedered on crud harde;</L>
+<L>Leche<NOTE N="2" PLACE="foot">1) to slice, 2) to serve in slices.</NOTE> hit, and rost hit afterwarde</L>
+<L>Apone a gredel, þen serve þou may</L>
+<L>Hit forthe, with spit, as I þe say.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For blanchyd mortrews.</HI></HEAD>
+<L>Sethe hennes and porke, þat is fulle fresshe;</L>
+<L>Bray almondes unblanchyd and temper hom nesshe</L>
+<L>With clene brothe, and drawe hom þo;</L>
+<L><PB N="14" REF="15"/>
+Alay þy flesshe smalle grounden to,</L>
+<L>And floure of ryce þou grynd also;</L>
+<L>Cast powder of gyngere and sugur þerinne,</L>
+<L>But loke þat hit be not to þyn,</L>
+<L>But stondand<NOTE N="1" PLACE="foot">thick.</NOTE> and saltid mesurlé</L>
+<L>And kepe þy dysshe mete for þo maystré.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Peions istued.</HI></HEAD>
+<L>Take peions and hew hom in morselle smalle,</L>
+<L>Put hom in a erþyn pot, þou shalle;</L>
+<L>Take pilled garlek and herbys anon,</L>
+<L>Hack hom smalle er þou more don;</L>
+<L>Put hom in þo pot, and þer to take</L>
+<L>Gode brothe with wyte grece, þou noȝt forsake;</L>
+<L>Do powdur þer to and gode verius,</L>
+<L>Coloure hit with safron, and salt inow;</L>
+<L>Þou put in pote þese þynges alle,</L>
+<L>And stue þy peions þus þou schalle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Sowpus dorre.</HI></HEAD>
+<L>Take almondes, bray hem, wryng hom up;</L>
+<L>Boyle hom with wyn rede to sup;</L>
+<L>Þen temper hom with wyn, salt, I rede,</L>
+<L>And loke þou tost fyne wete brede,</L>
+<L>And lay in dysshes, dubene with wyne;</L>
+<L>Do in þis dysshes mete, þat is so fyne;</L>
+<L>Messe hit forthe, and florysshe hit þenne</L>
+<L>With sugur and gynger, as I þe kenne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Gruel of almondes.</HI></HEAD>
+<L>Take almondes unblanchid and bray hom sone,</L>
+<L>Put ote mele to, þenne hase þou done,</L>
+<L>And grynde alle sammen<NOTE N="2" PLACE="foot">together.</NOTE>, and draw hit þenne</L>
+<L>With water and sethe, as I þe kenne;</L>
+<L><PB N="15" REF="16"/>
+Coloure hit with safron and salt hit þenne,</L>
+<L>And set in sale byfore gode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Ioutus de almonde.</HI></HEAD>
+<L>Take erbe, perboyle hom, fayre and wele;</L>
+<L>Hew hom and grynde hom every dele;</L>
+<L>Take almondes unblanched and grynd hom smalle,</L>
+<L>Drawȝe hom with water, I wote þou schalle;</L>
+<L>Set hit over þe fyre, þyn erbis þou sethe</L>
+<L>With þo mylke forsayde, þat grounden is smethe;</L>
+<L>Cast þerto sugur, and salt anone;</L>
+<L>Take þer þy ioutes made dalmone.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Caudel dalmone.</HI></HEAD>
+<L>Take almondes unblanchyd and hom þou bray;</L>
+<L>Drawe hom up with wyn, I dar wele say;</L>
+<L>Þer to do pouder of good gyngere</L>
+<L>And sugur, and boyle alle þese in fere,</L>
+<L>And coloure hit with safron and salt hit wele,</L>
+<L>And serve hit forthe Sir at þo mele.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Buttur of Almonde mylke.</HI></HEAD>
+<L>Take thykke mylke of almondes clere,</L>
+<L>Boyle wele alle in fere;</L>
+<L>And in þo boylyng, cast þerinne</L>
+<L>Venegur, oþer ellys gode wyne;</L>
+<L>Do hit soþenne in a canvas þenne,</L>
+<L>In soþun, gar hit on hepe to renne;</L>
+<L>In clothe þou henge hit a myle way,</L>
+<L>And after in colde water þou hit lay;</L>
+<L>Serve hit forthe in þe dysshe,</L>
+<L>Þat day þo lorde is servyd with fysshe.</L>
+</LG>
+<LG>
+<PB N="16" REF="17"/>
+<HEAD><HI REND="italic">Ryse.</HI></HEAD>
+<L>Take ryse and wasshe and grynde hem smalle,</L>
+<L>Temper hom with almonde mylke þou schalle;</L>
+<L>Drauȝe hom thorowghe a streynour clene,</L>
+<L>Boyle hom and seson hom with sugur schene;</L>
+<L>Fors hit with fryude almondes gode,</L>
+<L>Þen hase þou done, syr, by þo rode.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Kaudel Ferry.</HI></HEAD>
+<L>Take almondes unblanchyd, so have þou cele,</L>
+<L>And wasshe hom fayre and grynd hom wele;</L>
+<L>Temper hom up with wyne so clene,</L>
+<L>And drauȝe hom þorowgh a canvas shene;</L>
+<L>In pot þou coloure hit with safron,</L>
+<L>And lye hit up with Amydone,</L>
+<L>Or with floure of ryse so fre;</L>
+<L>Ryȝt thykke loke þou þat be;</L>
+<L>Seson hit with sugur grete plenté,</L>
+<L>Florysshe hit with maces, I tel þe.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to make a rape.</HI></HEAD>
+<L>Take raysyns of corauns þerto,</L>
+<L>And wyte wynne þou take also;</L>
+<L>Sethe þenne oþer raysyns grete</L>
+<L>In rede wyne, and boyle a lytul with hete;</L>
+<L>Do opon a broche, rost hom bydene</L>
+<L>A lytel, and take hom fayre and clene</L>
+<L>And bray hom in a morter smalle,</L>
+<L>A crust of brede þou bray with alle.</L>
+<L>Put alle in þe pot with grythe,</L>
+<L>Þo raysyns of corauns, þo swete wyne with,</L>
+<L>A lytul vengur, and pouder take þo</L>
+<L>Of clowes, maces and quibibis<NOTE N="1" PLACE="foot">Cubebs.</NOTE> to;</L>
+<L><PB N="17" REF="18"/>
+Boyle alle to geder, and serve hit þenne,</L>
+<L>And sett hit forthe before goode men.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Mylke rostyd.</HI></HEAD>
+<L>Take swete mylke and put in panne,</L>
+<L>Swyng eyren with alle, grynde safron</L>
+<L>And do þerto; welle hit þenne,</L>
+<L>Tylle hit wax thykke, as I þe kenne;</L>
+<L>And sethe and sye hit thorowghe a cloth,</L>
+<L>Presse hit, þat leves, withouten othe;</L>
+<L>When hit is colde, leche hit with knyves;</L>
+<L>Rost hit, and messe hit forthe on schyves<NOTE N="1" PLACE="foot">slices.</NOTE>.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to make a potage of welkes.</HI></HEAD>
+<L>Take welkes and wasshe fayre, in blythe,</L>
+<L>In water, and take whyte salt þerwith</L>
+<L>And after hakke hom on a borde,</L>
+<L>As smalle as þou may, at a worde,</L>
+<L>And bray hom in a morter clere;</L>
+<L>Sethe hom in mylke over þe fyre;</L>
+<L>Of almondes or of a clow þou take schalle,</L>
+<L>Lye hit with amydone þerwith alle;</L>
+<L>Coloure hit with safrone, and do þerinne</L>
+<L>Poudur of peper, or goode comyne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to make potage of oysturs.</HI></HEAD>
+<L>Perboyle þyn oysturs and take hom oute;</L>
+<L>Kepe welle þy bre with outen doute,</L>
+<L>And hakke hom on a borde full smalle,</L>
+<L>And bray in a morter þou schalle;</L>
+<L>Do hom in hor owne brothe for goode,</L>
+<L>Do mylke of almondes þer to by þe rode,</L>
+<L>And lye hit up with amydone,</L>
+<L>And frye smalle mynsud onyone</L>
+<L><PB N="18" REF="19"/>
+In oyle, or sethe hom in mylke þou schalle;</L>
+<L>Do powdur þerto of spyces withalle,</L>
+<L>And coloure hit þenne with safron gode;</L>
+<L>Hit is holden restoratyf fode.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Sauge Seynes.</HI></HEAD>
+<L>Take swynes fete and sethe hom clene,</L>
+<L>Take ȝolkes of eyren þat harde bene,</L>
+<L>And sage as mykul as fall þerto,</L>
+<L>Gode powdur, and temper with venegur;</L>
+<L>When þou hase soþyn þo fete ryȝt welle,</L>
+<L>Clovyn hom and paryd hom þer tylle,</L>
+<L>Lay hom on dysshe with blythe,</L>
+<L>Þo sawce on þe ȝolkes þerwyth.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to make a compost.</HI></HEAD>
+<L>Take þo chekyns and hew hom for þo seke,</L>
+<L>All but þe hede and þe legges eke;</L>
+<L>Take a handfulle of herb lovache,</L>
+<L>And anoþer of persely, als</L>
+<L>Of sage þat never was founde fals,</L>
+<L>And noþer of lekes and alle hom wasshe</L>
+<L>Þose herbes in water, þat rennes so rasshe;</L>
+<L>Breke þorowghe þy honde, bothe herbe and leke,</L>
+<L>With a pynt of hony enbeny hom eke,</L>
+<L>Summe of þese herbes þou shalle laye</L>
+<L>In þe pottus bothun<NOTE N="1" PLACE="foot">sothun?</NOTE>, as I þe say;</L>
+<L>Summe of þe chekyns þou put þerto,</L>
+<L>And þen of þe herbȝ do to also;</L>
+<L>So of þo ton so of þat oþer,</L>
+<L>Þo herbȝ on þe last my dere brother;</L>
+<L>Above þese herbus a lytul larde</L>
+<L>Smalle myncyd, haldand togeder warde;</L>
+<L>Take powder of gynger and canel god wone,</L>
+<L>Cast on þese oþer thynges everychon;</L>
+<L><PB N="19" REF="20"/>
+Be sleȝe and powre in water þenne</L>
+<L>To myd þo pot, as I the kenne;</L>
+<L>Opone þo bruys poure hit withinne,</L>
+<L>And cover hit þat no hete oute wynne,</L>
+<L>And tendurly seyth hit þou do may,</L>
+<L>Salt hit, serve hit, as I þe say.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Blanc maungere of fysshe.</HI></HEAD>
+<L>Take a pownde of ryse and sethe hom wele,</L>
+<L>Tyl þat þay brostene; and lete hom kele.</L>
+<L>Mylke of almondes þerto þou cast,</L>
+<L>Þo tenche or lampray do to on last;</L>
+<L>Welle alle togeder, as I þe kenne,</L>
+<L>And messe hit forthe before godde men.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Mortrews of fysshe.</HI></HEAD>
+<L>Take þo kelkes<NOTE N="1" PLACE="foot">roe or milt.</NOTE> of fysshe anon,</L>
+<L>And þo lyver of þo fysshe, sethe hom alon;</L>
+<L>Þen take brede and peper and ale,</L>
+<L>And temper þo brothe fulle welle þou schalle,</L>
+<L>And welle hit togeder and serve hit þenne,</L>
+<L>And set in sale<NOTE N="2" PLACE="foot">hall.</NOTE> before good mene.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to make rose dalmoyne.</HI></HEAD>
+<L>Take whyte pese and wasshe hom wele,</L>
+<L>Tylle þat þey hulle, sethe yche adele,</L>
+<L>And bene clene of þam, þen schalle þou caste</L>
+<L>In to þo pot and cover in hast;</L>
+<L>And loke no brethe þer passe oute,</L>
+<L>But boyle hom wele with owtyn dowte;</L>
+<L>Of almonde mylke þou kest þerto,</L>
+<L>Of floure of ryse and salt also;</L>
+<L><PB N="20" REF="21"/>
+Coloure hit with safrone and messe hit, þenne</L>
+<L>Set hit in sale before goode men.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a kolys.</HI></HEAD>
+<L>Þe brawne take of sothun henne or chekyne,</L>
+<L>And hew hit smalle and bray þen with wyne,</L>
+<L>With ote grotis, and whyte brede eke;</L>
+<L>With þe brothe of henne þou tempur hit meke;</L>
+<L>Take oute þe bonys and grynd hit smalle,</L>
+<L>In to þe brothe þou kast hit alle,</L>
+<L>And sye hit thurgh a clothe clene;</L>
+<L>Dose hit, and serve hit forthe bydene.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Gruel of Porke.</HI></HEAD>
+<L>Take brawne of swyne, perboyle hit wele,</L>
+<L>And grynde hit smalle, Syr, everydele;</L>
+<L>With ȝolkes of eyren þou schalle hit lye,</L>
+<L>Set hit over þe fyre for-þye,</L>
+<L>Put whyte grece þerto, bewar, iwys,</L>
+<L>Let hit not sethe lest þou mys.</L>
+<L>Do þer to powder and safron þenne</L>
+<L>And messe hit forthe before goode menne;</L>
+<L>Powder dowce þeron þou kast</L>
+<L>Stondande at dressore on þe last.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Conyngus in cyne</HI> <NOTE N="1" PLACE="foot">The "Forme of Cury" and "Ord. and Reg." read Cyne; but the cor∣rect reading is more probably Cyve = chives, onions; the sauce for both 'Conyngus' and 'Harus', as seen above, is evidently composed of onions.</NOTE></HEAD>
+<L>Smyte þe conyngus in pese smalle;</L>
+<L>And sethe hom in brothe gode þou shalle;</L>
+<L>Mynsyn onyons in grece þou sethe,</L>
+<L>And in good brothe, þat is so smethe</L>
+<L>Walle togeder; and drauȝe alioure</L>
+<L>Of blode and brede sumdele sowre,</L>
+<L><PB N="21" REF="22"/>
+Sesonut with venegur and good brothe eke,</L>
+<L>Kast salt þerto and powder fulle meke.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Harus in cyne.</HI></HEAD>
+<L>Perboyle þe hare and larde hit wele,</L>
+<L>Sethyn loke þou rost hir everydele;</L>
+<L>Take onyons and loke þou hew hom smalle,</L>
+<L>Frye hom in grece, take peper and ale,</L>
+<L>And grynde togeder þo onyons also;</L>
+<L>Coloure hit with safrone and welle hit þo;</L>
+<L>Lay þe hare in charioure, as I þe kenne;</L>
+<L>Powre on þe sewe and serve hit þenne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Harus in a sewe.</HI></HEAD>
+<L>Alle rawe þo hare schalle hacked be,</L>
+<L>In gobettis smalle, Syr, levys me;</L>
+<L>In hir owne blode seyn or sylud<NOTE N="1" PLACE="foot">strained.</NOTE> clene,</L>
+<L>Grynde brede and peper withalle bydene;</L>
+<L>Þenne temper hit with þe same bre,</L>
+<L>Þenne boyled and salted hit servyd schalle be.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Harus in abrotet</HI><NOTE N="2" PLACE="foot">Harus in a browet.</NOTE>.</HEAD>
+<L>Hew smalle þy hare in gobetus gode,</L>
+<L>Sethe hom in brothe with alle his blode;</L>
+<L>When hit is soþun wondur wele,</L>
+<L>Drawȝh thurgh a streynour, so have þou cele;</L>
+<L>Take almondes unblanchid, wasshe hom and grynde;</L>
+<L>With self brothe temper hom by kynde;</L>
+<L>Take onyons and perboyle hom þou mot,</L>
+<L>And dresshe hom smalle, kest hom in pot</L>
+<L>With alle oþer thyngus, and cast þer to</L>
+<L>With venegur and salt, þen hase þou doo.</L>
+</LG>
+<LG>
+<PB N="22" REF="23"/>
+<HEAD><HI REND="italic">Harus in Perdoylyse.</HI></HEAD>
+<L>Take harys and perboyle hom, I rede,</L>
+<L>In goode brothe, kele hit for drede,</L>
+<L>And hew þy flesehe and cast þerinne.</L>
+<L>Take swongen eggus, no more ne myn,</L>
+<L>And cast in þy sewe and sethe hit þenne.</L>
+<L>Take obles and wafrons, as I þe kenne,</L>
+<L>Close hom in dysshes fare and wele;</L>
+<L>Salt þe sewe, so have þou cele,</L>
+<L>And lay hit above as gode men done,</L>
+<L>And messe hit forthe, Syr, at þo none.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Hennes in brewes.</HI></HEAD>
+<L>With porke þou sethe þo henne fatte,</L>
+<L>Grynde brede and peper and be not batte<NOTE N="1" PLACE="foot">hasty.</NOTE>;</L>
+<L>And comyne also þou schalle grynde,</L>
+<L>Seson hom with ale, þat is hor kynde;</L>
+<L>With þo brothe of hennes þou temper hit shalle,</L>
+<L>Boyle hit, coloure hit, salt hit withalle;</L>
+<L>Serve hom forthe, as þou may see,</L>
+<L>Þese er hennes in browet, levys þou me.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Chekyns in browet.</HI></HEAD>
+<L>Take chekyns, scalde hom fayre and clene;</L>
+<L>Take persole, sauge, oþer herbȝ, grene</L>
+<L>Grapus, and stope þy chekyns with wynne;</L>
+<L>Take goode brothe, sethe hom þerinne,</L>
+<L>So þat þay sone boyled may be;</L>
+<L>Coloure þe brothe with safrone fre,</L>
+<L>And cast þeron powder dowce,</L>
+<L>For to be served in goode mennys howse.</L>
+</LG>
+<LG>
+<PB N="23" REF="24"/>
+<HEAD><HI REND="italic">Chekyns in Cawdel.</HI></HEAD>
+<L>In brothe þou boyle þy chekyns gode;</L>
+<L>Take ȝolkes of eyren, Syr, for þo rode,</L>
+<L>Alye hom up with brothe forsayde;</L>
+<L>Take powder gynger, abrayde,</L>
+<L>And sugur, and rew, and safron clere,</L>
+<L>And salt, and set hit over þo fyre;</L>
+<L>With owtyn boylyng messe hit forthe þenne;</L>
+<L>Þy chekyns hole take, I þe kenne,</L>
+<L>Of<NOTE N="1" PLACE="foot">Yf?</NOTE> þay be brokyn, on dysshe hom lay,</L>
+<L>Helde<NOTE N="2" PLACE="foot">pour over.</NOTE> hom þe sewe, as I þe say.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to boyle fesawantes and pertryks.</HI></HEAD>
+<L>Take goode brothe, þerin þou pyt</L>
+<L>Þy fesauntes and þy pertryks, þat men may wyt.</L>
+<L>Do þerto ale, floure, peper fre,</L>
+<L>Of hole canel, good quantité;</L>
+<L>And let alle sethe þerwyth fulle wele,</L>
+<L>And messe hit forthe, Syr, at þe mele.</L>
+<L>Powder dowce þerin þou cast,</L>
+<L>When hit [is] servyd on þe last.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Roo in a Sewe.</HI></HEAD>
+<L>Take þo roo, pyke hit clene forthy;</L>
+<L>Boyle hit þou shalt and after hit drye;</L>
+<L>Hew hit on gobettis, þat ben smalle,</L>
+<L>Do hit in pot withalle;</L>
+<L>Kest wyn þerto, if þou do ryȝt,</L>
+<L>Take persole and sawge and ysope bryȝt,</L>
+<L>Wasshe hom and hew hom wondur smalle,</L>
+<L>And do þerto hit þou schalle,</L>
+<L>Coloure hit with blode or sawnders hors<NOTE N="3" PLACE="foot">rough.</NOTE></L>
+</LG>
+<LG>
+<PB N="24" REF="25"/>
+<HEAD><HI REND="italic">Hennes in gravé.</HI></HEAD>
+<L>Take hennes and rost, as I þe kenne,</L>
+<L>Sithinn, hew hom smalle and frye hom; þenne</L>
+<L>Take wyne or peper or venegur to,</L>
+<L>Grynd hit togeder with hennes þo;</L>
+<L>Lye hit with ȝolkes of eyren wele,</L>
+<L>Coloure hit with safrone everydele,</L>
+<L>And messe hit forthe withoutene ony more,</L>
+<L>And loke þou forȝete noȝt þys lore.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Capons in Covisye.</HI></HEAD>
+<L>Take capons and sethe hom wele,</L>
+<L>And hew hom smalle ilkadele;</L>
+<L>Take peper and brede, and grynde hit smalle,</L>
+<L>And temper hit up with capon alle;</L>
+<L>Take whyȝte of eyren harde soþun þo,</L>
+<L>And hake hom smalle and do þerto,</L>
+<L>And boyle þe capon and coloure hit þenne</L>
+<L>With safrone, and do as I kenne;</L>
+<L>Þo ȝolkes of eggus, I telle þe,</L>
+<L>Alle hole þou put in disshe so fre.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Hennes in gauncel.</HI></HEAD>
+<L>Take first and rost welle þy henne,</L>
+<L>Take garlek by hit selfe and grynd; þenne</L>
+<L>Blonde hit with mylke and put alle in panne,</L>
+<L>And hew þyn henne and do þer to þenne</L>
+<L>Þy henne and ȝolkes of eyren imelle<NOTE N="1" PLACE="foot">mixed.</NOTE>;</L>
+<L>Coloure hit with safron and let hit welle,</L>
+<L>And messe hit forthe, I telle þe;</L>
+<L>But þou wille alye hit with floure so fre.</L>
+</LG>
+<LG>
+<PB N="25" REF="26"/>
+<HEAD><HI REND="italic">Lamprayes in browet.</HI></HEAD>
+<L>Take lamprayes and scalde hom by kynde,</L>
+<L>Sythyn, rost hom on gredyl, and grynde</L>
+<L>Peper and safrone; welle hit with alle,</L>
+<L>Do þo lampreyes and serve hit in sale.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Lamprayes in galentine.</HI></HEAD>
+<L>Take lamprayes and hom let blode</L>
+<L>At þo navel, and scalde hom for gode;</L>
+<L>Rost hom þenne, and þou hom laye</L>
+<L>Alle hole in platere, as I þe saye;</L>
+<L>Serve with galentine, made in sale,</L>
+<L>With gyngere, canel and galingale.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For tenchis in gravé.</HI></HEAD>
+<L>Sethe þy tenchis, and after hom brede,</L>
+<L>And rost hom on a gredel, I rede;</L>
+<L>Grynd peper and safron with ale, I kenne,</L>
+<L>With tenchis brothe, þou temper hit; þenne</L>
+<L>Lay þo tenche opon a platere fayre,</L>
+<L>Do on þat browet withouten disware.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Chawdewyne de boyce.</HI></HEAD>
+<L>Take smalle notes, schale not<NOTE N="1" PLACE="foot">out?</NOTE> kurnele,</L>
+<L>As þou dose of almondes, fayre and wele;</L>
+<L>Frye hom in oyle, þen sethe hom ryȝt</L>
+<L>In almonde mylke þat is bryȝt;</L>
+<L>Þen þou schalle do in floure of ryce</L>
+<L>And also oþer pouder of spyce;</L>
+<L>Fry oþer curneles besyde also,</L>
+<L>Coloure þou hit with safron, or þou fer goo,</L>
+<L>To divers þo mete þou schalt hit set,</L>
+<L>With þo fryed curnels with outen let.</L>
+</LG>
+<LG>
+<PB N="26" REF="27"/>
+<HEAD><HI REND="italic">Capons in Cassolyce.</HI></HEAD>
+<L>Take capons and schalde and pyke hom þen;</L>
+<L>Þe skyn þou opon, as I þe kenne,</L>
+<L>Be hynde þo hede, blaw hym with penne;</L>
+<L>Þenne ryses þo skyn before,</L>
+<L>Rayse up þo skyn alle hole abowte,</L>
+<L>Take porke and hen flesshe with outen doute,</L>
+<L>And ȝolkes of eyren and gode powder;</L>
+<L>Of alle þo thynges þou make farsure<NOTE N="1" PLACE="foot">stuffing.</NOTE></L>
+<L>And farse<NOTE N="2" PLACE="foot">to stuff.</NOTE>þo skyn and perboyle hit wele;</L>
+<L>Þen larde þo capone, rost hym yche dele;</L>
+<L>Of almonde mylke and amydone</L>
+<L>Make bater, and coloure hit anone</L>
+<L>With safron; serve hit at fyre rostande,</L>
+<L>Enbene hit wele withe þy ryȝt honde.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to make momene.</HI></HEAD>
+<L>Take whyte wyne, I telle þe,</L>
+<L>And sugur þerto ryȝt grete plenté;</L>
+<L>Take, bray þo brawne of aȝt capon;</L>
+<L>To a pot of oyle of on galon,</L>
+<L>And of hony a qwharte þou take;</L>
+<L>Do hit þer to as ever þou wake,</L>
+<L>Take powder þo mountenaunce<NOTE N="3" PLACE="foot">weight.</NOTE> of a pownde,</L>
+<L>And galingale ginger and canel rownde,</L>
+<L>And cast þer to, and styre hit; þenne</L>
+<L>Alle in on pot sethe hit, I kenne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Lange de beof.</HI></HEAD>
+<L>Take þo ox tonge and schalle hit wele,</L>
+<L>Sethe hit, broche hit in larde yche dele,</L>
+<L>With cloves of gelofer hit broch þou shalle,</L>
+<L>Þen do hit to fyre and rost hit alle;</L>
+<L><PB N="27" REF="28"/>
+With ȝolkes of eyren enbene<NOTE N="1" PLACE="foot">baste.</NOTE> hit ay</L>
+<L>Whille þat hit rostes, as I þe say.</L>
+<L>Þen take blode, þat is so lefe,</L>
+<L>Welle hit in fresshe brothe of þe befe,</L>
+<L>Bray hit fulle wele in on mortere,</L>
+<L>Do in fayre grece, þat is so clere;</L>
+<L>Fors hit with spicys ryȝt gode with alle,</L>
+<L>And sythun, serve hit in to þe halle;</L>
+<L>To þe forsayde tonge þis sawce is dyȝt,</L>
+<L>Here endes oure potage fulle gode ryȝt.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Pro Salsamentis.—To make sawce.</HI></HEAD>
+<L>Now speke I wylle of sauces sere:</L>
+<L>How þay ar made, I wylle ȝow lere,</L>
+<L>Next after potage þay servyd schalle be,</L>
+<L>As I have lurned in þys cuntré.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Pur verde sawce.</HI></HEAD>
+<L>Take persole, peletre an oyns, and grynde,</L>
+<L>Take whyte bred myude by kynde,</L>
+<L>Temper alle up with venegur or wyne,</L>
+<L>Force hit with powder of peper fyne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Sawce for Mawdelardes rosted.</HI></HEAD>
+<L>Take onyons and hew hom wele,</L>
+<L>Put sum in þo mawdelarde, so have þou cele,</L>
+<L>And hacke mo onyons, as I þe kenne;</L>
+<L>With þo grece of þo mawdelarde þou sethe hom, þen</L>
+<L>Take ale, mustarde and hony þo,</L>
+<L>Boyle alle togeder or þou more do;</L>
+<L>For maularde rosted þys sawce is dyȝt,</L>
+<L>And served in sale by gode ryȝt.</L>
+</LG>
+<LG>
+<PB N="28" REF="29"/>
+<HEAD><HI REND="italic">Sawce for vele and venysone.</HI></HEAD>
+<L>Take brede and frye hit in grece þou schalle,</L>
+<L>With brothe of venegur drawȝe hit withalle,</L>
+<L>Kast powder of gynger anon þer to</L>
+<L>And peper, and sethe þo</L>
+<L>And messe hit forthe; a sawce hit is</L>
+<L>For vele and venyson, iwys.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Blaunche sawce for capons.</HI></HEAD>
+<L>Take blanchid almondis and smal hom grynde,</L>
+<L>Temper hom with verius, þat is hor kynde,</L>
+<L>Powder of gynger, and kast þer to,</L>
+<L>And messe hit forthe, þen hase þou do.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Sawce best for capons rostyd.</HI></HEAD>
+<L>Take lyver of capons and rost hom wele,</L>
+<L>Take annes and grynd hit, as have þou cele,</L>
+<L>Pare gynger and canel gode þer to,</L>
+<L>A lytel crust of brede þou take also;</L>
+<L>Grynde al þese þynges wondur smalle,</L>
+<L>With verius temper hom up þou schalle;</L>
+<L>With grece of capons boyle hit in syȝt</L>
+<L>And serve hit forthe fulle wele þou myȝt.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Sawce sirer for mawdelardus.</HI></HEAD>
+<L>Take brede and blode iboylyd and grynde,</L>
+<L>And drawȝhe hit þorowghe a clothe by kynde,</L>
+<L>With venegur gode and sesounabulle,</L>
+<L>With powder of gynger, and peper abulle,</L>
+<L>And grece of mawdelarde; and boyle alle wele,</L>
+<L>And messe hit forthe Syr at þo mele.</L>
+</LG>
+<LG>
+<PB N="29" REF="30"/>
+<HEAD><HI REND="italic">Gawncel for þe gose.</HI></HEAD>
+<L>Take garlek and grynde hit wele forþy,</L>
+<L>Temper hit with water a lytel, perdy;</L>
+<L>Put floure þer to and also salt,</L>
+<L>Colour hit with safron I wot þou schalt;</L>
+<L>Temper hit up with cow-mylke þo,</L>
+<L>And sethe hit and serve hit forthe also.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Sawce for swannus.</HI></HEAD>
+<L>Take þo offal and þo lyver of þo swan,</L>
+<L>In gode brothe þou sethe hom þan;</L>
+<L>When hit is sothyne, take oute þe bonus,</L>
+<L>Smalle hew þo flesshe, Syr, for þe nonus;</L>
+<L>Make alyoure of crust of brede,</L>
+<L>Of blode of swanne, þat soþun is lede,</L>
+<L>Caste powdur of gynger and clawes þer to,</L>
+<L>Of peper and wyn þou take also,</L>
+<L>And salt hit þen and sethe hit wele;</L>
+<L>Cast in þy flesshe, hewen yche a dele,</L>
+<L>And messe hit forthe, as I þe kenne,</L>
+<L>Set hit in sale before goode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">[Sawce] For cranys and herons.</HI></HEAD>
+<L>The crane is enarmed ful wele I wot</L>
+<L>With larde of porke at on bare mot<NOTE N="1" PLACE="foot">at one single blast of the horn.</NOTE>,</L>
+<L>Rostyd and eten with gode gingere,</L>
+<L>Þat is þo sawce þat servis þere;</L>
+<L>Þo heroun is rosted, as have I blys,</L>
+<L>And eton with gynger as his kynde is.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">[Sawce] For pekokys and pertrikis.</HI></HEAD>
+<L>Pekokys and pertrikys perboylyd schyn be,</L>
+<L>Lardyd, rostyd, eton, levys me,</L>
+<L><PB N="30" REF="31"/>
+With gyngere, payndmayn paryd clene</L>
+<L>And groundyn in a morter, þat is schene,</L>
+<L>Temperid up with venegur gode,</L>
+<L>With powder of gyngere and salt, by þo rode,</L>
+<L>And drawȝen þorowghe a streynour mylde,</L>
+<L>Servid forthe with pekok and pertrik wylde.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Galentyne.</HI></HEAD>
+<L>Take crust of brede and grynde hit smalle,</L>
+<L>Take powder of galingale and temper with alle</L>
+<L>Powder of gyngere and salt also;</L>
+<L>Temper hit with venegur er þou more do,</L>
+<L>Drawȝe hit þurughe a streynour þenne,</L>
+<L>And messe hit forthe before gode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Sawce camelyne, kervelettes and oþer thyngus.</HI></HEAD>
+<L>Take raysons of corouns and kyrnels smalle</L>
+<L>Of notes, and do away þo schale,</L>
+<L>Take crust of brede and clowe in fere,</L>
+<L>And powder imaked of gode gyngere,</L>
+<L>Flowre of canel þou schalle take, þenne</L>
+<L>Bray alle togedur, as I þe kenne,</L>
+<L>In a morter and salt þerto;</L>
+<L>Temper alle with venegur, þen hase þou do,</L>
+<L>And messe hit forthe; þis is sawce fyne,</L>
+<L>Þat men calles camelyne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For lumbardus mustard.</HI></HEAD>
+<L>Take mustarde and let hit drye</L>
+<L>Anonyn, Sir, wyturlye;</L>
+<L>Stomper hit in a morter fyne,</L>
+<L>And fars hit þurghe a clothe of lyne;</L>
+<L>Do wyne þerto and venegur gode,</L>
+<L>Sture hom wele togeder for þe rode,</L>
+<L><PB N="31" REF="32"/>
+And make hit þyke inowghe þenne,</L>
+<L>Whenne þou hit spendes byfore gode menne,</L>
+<L>And make hit thynne with wyne, I say,</L>
+<L>With diverse metes þou serve hit may.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For Pykulle.</HI></HEAD>
+<L>Take droppyng of capone rostyd wele</L>
+<L>With wyne and mustarde, as have þou cele,</L>
+<L>With onyons smalle schrad and sothun in grece,</L>
+<L>Meng alle in fere and forthe hit messe.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Filetus in Galentine.</HI></HEAD>
+<L>Take filetes of porke and half hom rost,</L>
+<L>Smyte hom in peses with outene bost;</L>
+<L>Drawȝe a lyoure of blode and brede withalle,</L>
+<L>Do venegur þer to, I wot þou schalle;</L>
+<L>Fors hit with powder of canel, or gode gynger,</L>
+<L>Sethe hit with þo flesshe, alle in fere;</L>
+<L>Salt and messe forthe, þenne</L>
+<L>Set hit in sale before gode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Pigges in sawce.</HI></HEAD>
+<L>Take pigges and scalde hom in water clene,</L>
+<L>Sethe hom in water and salt bydene;</L>
+<L>Take hom up and lete hom kele;</L>
+<L>Take persoley and sage, and grynde hit wele</L>
+<L>With þe brothe of pigges with owtene rewarde,</L>
+<L>And ȝolkes of eggus þat soþun ar harde,</L>
+<L>Temper alle with venegur sumdele stondande;</L>
+<L>Lay pigges in a vessayle, with bothe hande,</L>
+<L>Held þy sawce a-bofe tolde<NOTE N="1" PLACE="foot">The MS. reads 'cold'.</NOTE> forþy,</L>
+<L>And serve hit alle forthe, Syr, wyturly.</L>
+</LG>
+<LG>
+<PB N="32" REF="33"/>
+<HEAD><HI REND="italic">Sawce madame.</HI></HEAD>
+<L>Take sawge, persoly, ysope, saveray,</L>
+<L>Onyons gode, peres, garlek, I say,</L>
+<L>And grapes; go fille þy gose þenne</L>
+<L>And sew þy hole, no grece oute renne;</L>
+<L>Lay hur to fyre and rost hyr browne,</L>
+<L>And kepe þo grece þat falles doune.</L>
+<L>Take galingale and þo grece þat renne,</L>
+<L>Do hit in posnet, as I þe kenne;</L>
+<L>Whenne þo gose is rostyd, take hir away,</L>
+<L>Smyte hir in pesys, I þe pray;</L>
+<L>Þat is within, þou schalle take oute,</L>
+<L>Kest in þy posnet with outene doute;</L>
+<L>Ȝif hit is thyke do þerto wyne,</L>
+<L>And powder of galingale þat is fyne,</L>
+<L>And powder dowce and salt also;</L>
+<L>Boyle alle togeder er þou fyr go,</L>
+<L>In a dysshe þy gose þou close</L>
+<L>Þe sawce abofe, as I suppose.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Gose in a Hogge pot.</HI></HEAD>
+<L>In pesis þou schalle þy gose stryke,</L>
+<L>Take water and wyne bothe ilyke;</L>
+<L>Do in þy gose; and onyons þou take</L>
+<L>A gode quantité, as I er spake,</L>
+<L>And erbus hacked þou take also,</L>
+<L>And cast þou in er þou more do;</L>
+<L>Þen set þy pot over þo fyre,</L>
+<L>And hit wele stir for þe hyre;</L>
+<L>And make a lyoure of brede and blode,</L>
+<L>And lye hit þerwithe, for hit is gode;</L>
+<L>Kast powder þerto and salt anon,</L>
+<L>And messe hit, þenne þou hase done.</L>
+</LG>
+<LG>
+<PB N="33" REF="34"/>
+<HEAD><HI REND="italic">To save venysone fresshe over þe ȝer.</HI></HEAD>
+<L>Yf þou wylle kepe þe tayle of a dere</L>
+<L>Fresshe in seson over þo ȝere,</L>
+<L>Or oþer venesone yf þat hit nede,</L>
+<L>Þus schalt þu do, I wot in dede;</L>
+<L>Presse out þo blode, for anythyng</L>
+<L>Þat is cause for grete rotyng;</L>
+<L>In erþyne pot þou shalt hit pyt</L>
+<L>And feyre hony do into hit;</L>
+<L>To þo hony stonde over þo flesshe</L>
+<L>Too fyngurs thyke for harde or nesshe;</L>
+<L>With leder þo mouthe þen schalt þou bynde,</L>
+<L>Kepe hit fro ayre, son or wynde,</L>
+<L>In cofer, or huche or seler merke.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For to save venysone fro restyng</HI><NOTE N="1" PLACE="foot">becoming rancid.</NOTE>.</HEAD>
+<L>Take venesone when hit is new slayn,</L>
+<L>And cover hit alle with ferne playn</L>
+<L>Þat no wynde enter þer to;</L>
+<L>And whenne þou hast covered hit so,</L>
+<L>Lede hit home, selor hit lay</L>
+<L>Þat wynde ne sone ne ughe<NOTE N="2" PLACE="foot">injure.</NOTE> hit may;</L>
+<L>Dresse hit wele and wassh hit clene,</L>
+<L>Sythen, lay hit in water alle hy dene,</L>
+<L>Þer in be half a day to lye;</L>
+<L>Þenne take hit oute on flore to drye,</L>
+<L>Þenne after take salt a qnantité;</L>
+<L>Boyle hit in clene water so fre,</L>
+<L>And kele hit, þat he be bot lue,</L>
+<L>And þerin wasshe þy venesone true,</L>
+<L>And let hit lye þerin thre dayes</L>
+<L>And thre nyȝhtes, by any kyns wayes;</L>
+<L>Then take hit oute of þat water,</L>
+<L>Salt hit wyth drye salt, alle in fere.</L>
+<L><PB N="34" REF="35"/>
+And do hit in a barel þenne;</L>
+<L>Þe barel staf ful as I þe kenne,</L>
+<L>Stop wele þo hede for wynde and sone,</L>
+<L>For hit wylle payre þo venysone.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">To keep herbȝ over þe wyntur.</HI></HEAD>
+<L>Take floure and rere þo cofyns<NOTE N="1" PLACE="foot">a raised crust.</NOTE> fyne,</L>
+<L>Wele stondande withonten stine;</L>
+<L>Take tenderons<NOTE N="2" PLACE="foot">stalks.</NOTE> of sauge with owte lesyng,</L>
+<L>And stop one fulle up to þo ryng;</L>
+<L>Þenne close þo lyd fayre and wele,</L>
+<L>Þat ayre go not oute never a dele,</L>
+<L>Do so with saveray, percil and rewe;</L>
+<L>And þenne bake hom harde, wel neȝe brende;</L>
+<L>Sythun, kepe hom drye and to hom tent<NOTE N="3" PLACE="foot">attend.</NOTE>;</L>
+<L>Þis powder schalle be of more vertu,</L>
+<L>Þen opone erþe when hit gru.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For lyoure best.</HI></HEAD>
+<L>Take drye floure, in cofyne hit close,</L>
+<L>And bake hit hard, as I suppose;</L>
+<L>Þou may hit kepe alle þys fyve ȝere,</L>
+<L>Þere-with alye mony metes sere;</L>
+<L>Here endys oure sawce, þat I foretolde.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">De cibis assatis.</HI></HEAD>
+<L>Of rostyd mete now speke I wolde,</L>
+<L>For þer bene bestes þat schyne be rost,</L>
+<L>As conyng, pigges, ful wele þou wost,</L>
+<L>And foules also þat rostyd schyne be</L>
+<L>On diverse manere in her degré;</L>
+<L>And kostyf of motone, þat I wele knaw,</L>
+<L>Enbrochyd shal be, by ryȝt gode law;</L>
+<L><PB N="35" REF="36"/>
+And also fysshe þou schalle enbroche,</L>
+<L>As porpays þat swymmes by þo see roche;</L>
+<L>Þerfore I telle ȝou now, I rede,</L>
+<L>What schalle rost with neck and hede.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For þe crane.</HI></HEAD>
+<L>Þo crane schalle fyrst enarmed be,</L>
+<L>Scalde and pulde ful warlé,</L>
+<L>Draȝun at þo syde as wodcockis,</L>
+<L>With legges al hole he rostyd is;</L>
+<L>Abowte þo brothe þo necke þou cralle<NOTE N="1" PLACE="foot">bend. curl.</NOTE>,</L>
+<L>Put in þo bylle at coler þou schalle;</L>
+<L>Enarme hym forthe as hit is tolde</L>
+<L>Before, and serve þys crane bolde.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For heroun rostyd.</HI></HEAD>
+<L>Þe heroun is slayn, as have I sene;</L>
+<L>Þe herte oute pyke alle bydene,</L>
+<L>Under þe lyft wyng þo neck bone steke,</L>
+<L>Devoyded, as men me tolde meke;</L>
+<L>Þenne under þo wynge þo skyn þou cralle<NOTE N="1" PLACE="foot">bend. curl.</NOTE>,</L>
+<L>Pyt in þo bylle at coler þou schalle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For wodcock, snyȝt and curlue.</HI></HEAD>
+<L>To wodcok, snype, curlue also,</L>
+<L>Þe betore in fere with hom schalle goo;</L>
+<L>Alle schun be draȝun, Syr, at þo syde,</L>
+<L>And honestly rostyd with outene pryde,</L>
+<L>With neck and hede suande in fere,</L>
+<L>Þo bylle put þurghe þo þeȝes sere;</L>
+<L>On alle þese fowles þo legges schune bene,</L>
+<L>Summe cralled<NOTE N="2" PLACE="foot">bent, curled.</NOTE>, sum streȝt, as I have sene.</L>
+<L>And gret as heroun rostyd schalle be,</L>
+<L>Þat a knyȝt is called for gentloré,</L>
+<L><PB N="36" REF="37"/>
+A capone also þat comyn is,</L>
+<L>Þo pecok wyth his tayle so have I blys,</L>
+<L>Þo fesaunt kok, but not þo henne;</L>
+<L>Þus have I lurnet at gentil men;</L>
+<L>Alle oþer foles þat swymmen in flode,</L>
+<L>Þat schun be rostyd, Syr, by þo rode,</L>
+<L>With outen necke or hede, I trowe,</L>
+<L>And oþer smalle bryddes, þat I wele knaw,</L>
+<L>As osel, smityng, laveroc gray<NOTE N="1" PLACE="foot">Perhaps we should here read: 'As osel snite and laveroc gray' i. e. the blackbird, snipe and lark.</NOTE>,</L>
+<L>Pertryk, werkock, I dayr wele say;</L>
+<L>Þo kormorount schalle rost iwys,</L>
+<L>With þo bylle opone for grete koyntes.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For pygges farsyd.</HI></HEAD>
+<L>Take swongen<NOTE N="2" PLACE="foot">beaten up.</NOTE> eyrene and floure þer to,</L>
+<L>And powder of peper er þou more do;</L>
+<L>Blend alle togeder and salt þerwith;</L>
+<L>Coloure hit with safrone, so have þou blythe;</L>
+<L>Put alle in body of þo pygge,</L>
+<L>Rost hit on broche of irne bygge</L>
+<L>Enfarsed; þo cle<NOTE N="3" PLACE="foot">claw.</NOTE> of pygge schalle be</L>
+<L>Festened in þe cheke so mot þou þe;</L>
+<L>Þo hender legges enoynt<NOTE N="4" PLACE="foot">enioynt?</NOTE> þou schalle,</L>
+<L>Þo cles by þo sydes þou festun withalle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For fraunche mele.</HI></HEAD>
+<L>Take swongene<NOTE N="2" PLACE="foot">beaten up.</NOTE> eyrene in bassyne clene,</L>
+<L>And kreme of mylke þat is so schene,</L>
+<L>And myyd bred, þou put þer to,</L>
+<L>Aud powder of peper er þou more do;</L>
+<L>Coloure hit with safrone in hast,</L>
+<L>And kremelyd sewet of schepe on last,</L>
+<L>And fylle þy bagge þat is so gode,</L>
+<L>And sew hit fast, Syr, for þo rode;</L>
+<L><PB N="37" REF="38"/>
+Whenne hit is soþun, þou schalt hit leche,</L>
+<L>And broyle hyt on gredel, as I þe teche.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For bours.</HI></HEAD>
+<L>Take porke and gese, hew hom þou schalle</L>
+<L>On gobetes, with powder of peper withalle;</L>
+<L>Hom sethe in pot þat is so clene,</L>
+<L>With oute any water, with salt, I wene;</L>
+<L>Fro Martyn messe to gode tyde evyne,</L>
+<L>Þys mete wylle serve, þou may me lene,</L>
+<L>At dyner or soper, if þat hit nede;</L>
+<L>Þou take gode ale, þat is not quede<NOTE N="1" PLACE="foot">bad</NOTE>,</L>
+<L>Þer in þou boyle þo forsayde mete</L>
+<L>Þo more worship þou may gete.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For powme dorrys.</HI></HEAD>
+<L>Take porke and grynde hit rawe, I kenne,</L>
+<L>Temper hit with swongen<NOTE N="2" PLACE="foot">beaten up.</NOTE> egges; þenne</L>
+<L>Kast powder to make hit on a balle;</L>
+<L>In playand<NOTE N="3" PLACE="foot">boiling.</NOTE> water þou kast hit schalle</L>
+<L>To harden, þenne up þou take,</L>
+<L>Enbroche hit fayre for goddes sake.</L>
+<L>Endore hit with ȝolkes of egges þen</L>
+<L>With a fedyr at fyre, as I þe kenne;</L>
+<L>Bothe grene and rede þow may hit make</L>
+<L>With iuse of herbȝ I undertake;</L>
+<L>Halde under a dysshe þat noȝt be lost,</L>
+<L>More honest hit is as þou wele wost.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Hasteletes on fysshe day.</HI></HEAD>
+<L>Take fyggus quartle, and raysyns, þo</L>
+<L>Hole dates, almondes, rine hom also</L>
+<L>On broche of irne, and rost hom sone;</L>
+<L>Endore hom with ȝolkes of egges anone.</L>
+<L><PB N="38" REF="39"/>
+Here endys onre hastere þat I of spake;</L>
+<L>To speke of bakun mete I wolde clake,</L>
+<L>For lamprays, darials and flaunes also,</L>
+<L>And oþer metes mony and moo.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For lamprays bakun.</HI></HEAD>
+<L>Fyrst scalde þy lamprays fayre and wele,</L>
+<L>As I tolde byfore, so have þou cele;</L>
+<L>Soþun, rere a cofyne of flowre so fre,</L>
+<L>Rolle in þo lampray, as hit may be;</L>
+<L>Take mynsud onyons þer to, gode wonne,</L>
+<L>But fyrst take powder of peper, anon</L>
+<L>Of maces, cloves and graynys also,</L>
+<L>And dates al hole þou take þerto,</L>
+<L>Poure rede wyne þerto þou schalle,</L>
+<L>Coloure hit with safrone and closen alle.</L>
+<L>In myddes þo lydde an tuel<NOTE N="1" PLACE="foot">an opening.</NOTE> þou make,</L>
+<L>Set hit in þo ovyn for to bake;</L>
+<L>Ȝete take hit oute, fede hit with wyne,</L>
+<L>Lay on þo tuel a past fulle fyne,</L>
+<L>And bake hit forthe, as I þe kenne,</L>
+<L>To serve in sale before gode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For darials.</HI></HEAD>
+<L>Take creme of almonde mylke iwys,</L>
+<L>And ȝolkes of eyren, so have þou blys,</L>
+<L>And make a batere þat is ful gode,</L>
+<L>And rere a cofyne with mylde mode;</L>
+<L>And sethe a mawdelarde<NOTE N="2" PLACE="foot">a mallard, the wild drake.</NOTE>, þat fat is þenne,</L>
+<L>And cut in peses, as I þe kenne;</L>
+<L>Square as dises þou shalt hit make,</L>
+<L>Kast hit in batere, and powder þou take</L>
+<L>Of gynger, of kanel, þat gode is, þo</L>
+<L>Enfors hit wele er þou more do,</L>
+<L><PB N="39" REF="40"/>
+And loke þy cofyne be hardened wele,</L>
+<L>Powre in þy batere, so have þou cele,</L>
+<L>With a disshe hit florysshe þou may,</L>
+<L>With blanchyd almondes, as I þe say.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For flaunes.</HI></HEAD>
+<L>Take new chese and grynde hit fayre,</L>
+<L>In morter with egges, with out dysware;</L>
+<L>Put powder þer to of sugur, I say,</L>
+<L>Coloure hit with safrone ful wele þou may;</L>
+<L>Put hit in cofyns þat bene fayre,</L>
+<L>And bake hit forthe, I þe pray.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For custanes.</HI></HEAD>
+<L>Grynde porke, brek eyren þer to anon,</L>
+<L>With powder of peper er þou more done;</L>
+<L>Put hit in cofyn, þat harde is bake,</L>
+<L>And ȝolke of egge þen shalt þou take,</L>
+<L>That harde is soþun, lay in to þo top</L>
+<L>As hit were a gyldene knop.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For risshens.</HI></HEAD>
+<L>Take grounden porke þat soþun hase bene</L>
+<L>With peper and swongen egges clene;</L>
+<L>Put berme þer to, I undertake,</L>
+<L>As tome<NOTE N="1" PLACE="foot">light.</NOTE> as belle hit wille hit make;</L>
+<L>Lay hit in a roller as sparlyng fysshe,</L>
+<L>Frye hit in grece, lay hit in dysshe.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For freture.</HI></HEAD>
+<L>With egges and floure in batere þou make,</L>
+<L>Put berme þer to, I undertake;</L>
+<L><PB N="40" REF="41"/>
+Coloure hit with safrone er þou more do;</L>
+<L>Take powder of peper and cast þer to,</L>
+<L>Kerve appuls overtwert and cast þerin,</L>
+<L>Frye hom in grece, no more ne mynne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Crustate of flesshe.</HI></HEAD>
+<L>Take peiuns and smalle chekuns with alle</L>
+<L>And oþer smale bryddes, and hew hom smalle;</L>
+<L>And sethe hom alle togedur þoo</L>
+<L>In brothe and in white grece, also</L>
+<L>In verius, and do þer to safroune;</L>
+<L>Fyrst make a fole<NOTE N="1" PLACE="foot">a thin paste made of flour and water.</NOTE> trap<NOTE N="2" PLACE="foot">a dish or pie.</NOTE> þou mun,</L>
+<L>Pynche hym, cowche<NOTE N="3" PLACE="foot">lay, place.</NOTE> hym þy flesshe þerby;</L>
+<L>Kast þerin raysyns of corouns forthy,</L>
+<L>And powder dowce and salt gode won;</L>
+<L>Breke eyren and streyne hom thorowghe a clothe anone,</L>
+<L>And swyng þy sewe þerwyth þenne,</L>
+<L>And helde hit onne þe flesshe I kenne,</L>
+<L>And kover þy trap and hele hit wele,</L>
+<L>And serve hit forthe, Syr, at þe mele.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Loysyns.</HI></HEAD>
+<L>In erthen pot put brothe for hast;</L>
+<L>Take floure of payndemayn, and make þy past</L>
+<L>With water, þer of þy fele þou make</L>
+<L>With a roller, and drye hit, I undurtake</L>
+<L>Aȝayne þo sonne þat hit be harde;</L>
+<L>Kast þerin brothe and make rewarde;</L>
+<L>To sethe hom take rawe chese anone</L>
+<L>And grate hit in disshes mony on</L>
+<L>With powder dowce; and lay þer in</L>
+<L>Þy loseyns abofe þe chese with wynne,</L>
+<L>And powder on last spryngil hit þou may;</L>
+<L>Þose loysyns er harde to make in fay.</L>
+</LG>
+<LG>
+<PB N="41" REF="42"/>
+<HEAD><HI REND="italic">Tartlotes.</HI></HEAD>
+<L>Take porke sothun, and grynde hit wele</L>
+<L>With safroune, and medel hit ylkadel</L>
+<L>With egges and raysyns of corouns; þo</L>
+<L>Take powder and salt, and do þerto;</L>
+<L>Make a fole of doghe, and close þis fast,</L>
+<L>This flesshe þat hewene was opon þo last</L>
+<L>Kover hit with lyddes, and pynche hit fayre,</L>
+<L>Korven in þe myddes two loyseyns a payr,</L>
+<L>Set hit with fryed almondes sere,</L>
+<L>And coloure þe past with safroune dere,</L>
+<L>And bake hit forthe, as I þe kenne,</L>
+<L>And set in sale before gode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Chewetes on fysshe day.</HI></HEAD>
+<L>Take turbut, haddok, and gode codlyng,</L>
+<L>Hacke hit, sethe hit, with owte lesyng,</L>
+<L>And grynde hit smale, do dates þerto</L>
+<L>Igroundene, and raysyns and prunus also,</L>
+<L>With gode powder and salt on last;</L>
+<L>Make a cofyne, close hit fast,</L>
+<L>Frye hit in oyle, sethe hit þou schalle</L>
+<L>And sugur and wyne ryȝt gode with alle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Chewetes on flesshe daye.</HI></HEAD>
+<L>Take lyver of porke and kerve hit smalle,</L>
+<L>As to a pye be hewen hit schalle,</L>
+<L>And hennes þerwith do alle in a panne,</L>
+<L>And frye hit wele as þou wele kanne;</L>
+<L>Make a cofyne as to smalle pye,</L>
+<L>Do þat þerin; and ȝolkes þerby</L>
+<L>Of harde egges sothun, and eke þou take</L>
+<L>Powder of gynger and salt to bake;</L>
+<L>Kerve hit and frye hit in grece ful gode,</L>
+<L>Wele pynchyd serve on last by þo rode,</L>
+<L><PB N="42" REF="43"/>
+Here endes oure cure, þat I of spake,</L>
+<L>Of potage, hasteletes, and mete [ibake]</L>
+<L>And sawce þer to, with oute lesyng,</L>
+<L>Cryst mot our sowles to hevene bryng.</L>
+<TRAILER>Explicit hic quartus passus.</TRAILER>
+</LG>
+<LG>
+<L>Of petecure I wylle preche;</L>
+<L>What falles þer to ȝow wylle I teche;</L>
+<L>Fore pore menne þys crafte is tolde</L>
+<L>Þat mowon not have spysory, as þay wolde;</L>
+<L>For hit is nede to gode, to ken men gode</L>
+<L>As wele þe pore as ryche by þo rode;</L>
+<L>Þerfore to telle you I am set,</L>
+<L>Fyrst what herbȝ, with owtene let,</L>
+<L>Ben gode to potage I wolle ȝow lere;</L>
+<L>Þou take þe crop of þo rede brere,</L>
+<L>Rede nettel crop, and avans also,</L>
+<L>Þo prymrol, violet, þou take þerto</L>
+<L>Town cresses, and cresses þat growene in flode,</L>
+<L>Clarray saveray and tyme gode wone,</L>
+<L>Persoley, wortes, oþer herbȝ mony wone;</L>
+<L>Alle þese erbs þou noȝt forsake,</L>
+<L>But lest of prymrol þou shalle take.</L>
+<L>Rede cole hane parte of potage is,</L>
+<L>Fro Iuny to Sayn Iame tyde, iwys,</L>
+<L>Þenne leve his stade to Myȝellis eve,</L>
+<L>And þen bygynnys hit to releve;</L>
+<L>Þen þoroughe þe wyntur his curse schal holde,</L>
+<L>Neghe lentone seson þat porray be bolde.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For stondand fygnade.</HI></HEAD>
+<L>Fyrst play<NOTE N="1" PLACE="foot">boil.</NOTE> þy water with hony and salt,</L>
+<L>Grynde blanchyd almondes I wot þou schalle;</L>
+<L>Þurghe a streynour þou shalt hom streyne,</L>
+<L>With þe same water þat is so clene.</L>
+<L><PB N="43" REF="44"/>
+In sum of þe water stepe þou schalle</L>
+<L>Whyte brede crustes to alye hit with alle;</L>
+<L>Þenne take figgus and grynde hom wele,</L>
+<L>Put hom in pot so have þou cele;</L>
+<L>Þen take brede, with mylke hit streyne</L>
+<L>Of almondes þat be white and clene;</L>
+<L>Cast in þo fyggus þat ar igrynde</L>
+<L>With powder of peper þat is þo kynde,</L>
+<L>And powder of canel; in grete lordys house</L>
+<L>With sugur or hony þou may hit dowce;</L>
+<L>Þen take almondes cloven in twen,</L>
+<L>Þat fryid ar with oyle, and set with wyn</L>
+<L>Þy disshe, and florysshe hit þou myȝt</L>
+<L>With powder of gynger þat is so bryȝt,</L>
+<L>And serve hit forthe as I spake thenne</L>
+<L>And set hit in sale before gode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For sirup.</HI></HEAD>
+<L>Take befe and sklice hit fayre and thynne,</L>
+<L>Of þo luddock<NOTE N="1" PLACE="foot">loins.</NOTE> with owte or ellis with in;</L>
+<L>Take mynsud onyouns, and powder also</L>
+<L>Of peper, and suet and befe þerto</L>
+<L>And cast þeron, rolle hit wele,</L>
+<L>Enbroche hit overtwert, so have þou cele;</L>
+<L>And rost hit browne as I þe kenne,</L>
+<L>And take brothe of fresshe flesshe þenne,</L>
+<L>And alye hit with bred er þou more do,</L>
+<L>And mynsnd onyons þou cast þer to,</L>
+<L>With powder of peper and clowes in fere;</L>
+<L>Boyle alle togeder, as I þe lere,</L>
+<L>Þenne boylyd blode take þou shalle;</L>
+<L>Strene hit þorowghe clothe, colour hit withalle;</L>
+<L>Þenne take þy rost, and sklyce hit clene</L>
+<L>In þe lengethe of a fynger; boyle hit by dene</L>
+<L>In þe same sewe; serve hit þou may</L>
+<L>In a disshe togedur I say.</L>
+</LG>
+<LG>
+<PB N="44" REF="45"/>
+<HEAD><HI REND="italic">For Tuskyn.</HI></HEAD>
+<L>Take raw porke and hew hit smalle,</L>
+<L>And grynde in a morter; temper hit þou schalle</L>
+<L>With swongen egges, but not to þynne;</L>
+<L>In gryndynge, put powder of peper withinne,</L>
+<L>Þenne þis flessh take up in þy honde,</L>
+<L>And rolle hit on balles, I undurstonde,</L>
+<L>In gretnes of crabbes; I harde say</L>
+<L>In boylande water þou kast hom may.</L>
+<L>To harden þen take hom oute to cole,</L>
+<L>And play fresshe brothe fayre and wele;</L>
+<L>Þer in cast persoley, ysope, saveray,</L>
+<L>Þat smalle is hakked by any way.</L>
+<L>Alye hit with flour or brede for þy,</L>
+<L>Coloure hit with safroun for þe maystré;</L>
+<L>Cast powder of peper and clawes þer to,</L>
+<L>And take þy balles or þou more do,</L>
+<L>And put þer in; boyle alle in fere</L>
+<L>And serve hit forthe for tuskyne dere.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For blaunchyd porray.</HI></HEAD>
+<L>Take thykke mylke of almondes dere</L>
+<L>And heke<NOTE N="1" PLACE="foot">leke?</NOTE> hedes þou take with stalk in fere,</L>
+<L>Þat is in peses þou stryke;</L>
+<L>Put alle in pot, alye hit ilyke</L>
+<L>With a lytel floure, and serve hit þenne</L>
+<L>Wele soþun, in sale, before gode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Porry of white pese.</HI></HEAD>
+<L>Take white pese and wasshe hom wele;</L>
+<L>Put hom in pot, so have þou cele,</L>
+<L>With water; and ere þo fyrst boylyng</L>
+<L>Þou katche hom doune with oute lesyng;</L>
+<L><PB N="45" REF="46"/>
+Trendel hom in platere and pyke hom clene,</L>
+<L>Devoyde þo worme-etone alle bydene,</L>
+<L>In fressh water þou schalt hom caste,</L>
+<L>And boyle hom wyle þat þey breste;</L>
+<L>So sethe hom forthe al by dene,</L>
+<L>Quylle þay be boylde fayre and clene;</L>
+<L>Þen take þat brothe, and put þer to</L>
+<L>Mynsyd onyons, with powder also</L>
+<L>Of peper, coloure hit with gode safroune,</L>
+<L>And put þer to a lytel porc[i]oun</L>
+<L>Of ale, and sethe hit ryȝt wele, þenne</L>
+<L>After cut crust of bred I kenne,</L>
+<L>Sware as dyse and put þerto;</L>
+<L>Gyf hit a boylyng, no more ne myn,</L>
+<L>And serve bit forthe in to þe halle,</L>
+<L>Þese oþer pese ȝit make þou shalle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For white pese after porray.</HI></HEAD>
+<L>Take boyled water wyth honey swete,</L>
+<L>Sethe in þy pesone þat ben so sete,</L>
+<L>While þat þey lie be hom selfe þere</L>
+<L>With mynsud onyons and no more,</L>
+<L>To serve on fysshe day with grappays,</L>
+<L>With sele fysshe or ellis with porpays,</L>
+<L>Opone fyssh dayes ȝif þat hit falle,</L>
+<L>Þus sethe þy pese I wot þou schalle;</L>
+<L>Temper hom in brothe of bacun clene</L>
+<L>And kepe þe gravé hit be not sene;</L>
+<L>Ȝif þay ben harde and wynnot alye</L>
+<L>Brysse hom or strene hom, Sir, wyturlye;</L>
+<L>Thre leches of bacun lay þou mot</L>
+<L>In brothe; and serve fulle wele þou wot</L>
+<L>With þy pese, þat soþun ar wele,</L>
+<L>To ete þerwith, so have þou cele.</L>
+</LG>
+<LG>
+<PB N="46" REF="47"/>
+<HEAD><HI REND="italic">For Gray pese.</HI></HEAD>
+<L>Fyrst stepe þy pese over þe nyȝt,</L>
+<L>And trendel hom clene, and fayre hom dyȝt.</L>
+<L>Sethe hom in water; and brothe þou take</L>
+<L>Of bacun, and fresshe bre þou noȝt forsake;</L>
+<L>Summe men hom lofe alyed wyle</L>
+<L>With floure and summe with never a dele;</L>
+<L>Þese pese with bacun eten may be</L>
+<L>As þo whyȝt pese were, so mot I þe.</L>
+<L>But þo white with powder of peper þo</L>
+<L>Moun be forsyd with ale þer to.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For kole.</HI></HEAD>
+<L>Take fresshe brothe of motene clene,</L>
+<L>Of vele and porke al by dene;</L>
+<L>Hakke smalle þy wortis and persyl, þo</L>
+<L>When þat hit boylys, cast hom þerto,</L>
+<L>Do a lite grotes þy wortis amang</L>
+<L>And sethe hom forthe I undurstande.</L>
+<L>Ȝif þou have salt flesshe sethand I wot,</L>
+<L>Take a fresshe pece oute of þo pot,</L>
+<L>And sethe by þo self, as I þe kenne;</L>
+<L>Take up, put in þy wortis þenne,</L>
+<L>In þe mene whyle gode gravé þou gete</L>
+<L>To florisshe þy wortis at þo last hete.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For mustul bre.</HI></HEAD>
+<L>Fyrst sethe þy mustuls quyl shel of lepe</L>
+<L>In water, and þerof summe kepe;</L>
+<L>Þer in þou stepe white brede fayre,</L>
+<L>Þo remunaunde þou kepe with oute disware;</L>
+<L>And voyde þy groundyngus for sonde;</L>
+<L>Þyke elene þy mustuls, wasshe hom with honde,</L>
+<L>Sett hom besyde þy brede þou bray,</L>
+<L>Take mynsud onyons, and powdur I say</L>
+<L><PB N="47" REF="48"/>
+Of peper, and cast þy bre into;</L>
+<L>Color hit with safroune er þou more do,</L>
+<L>And sethe hit wele; alye hit þenne</L>
+<L>With þy forsayde brede, as I þe kenne,</L>
+<L>Al hole do in þy mustuls þore</L>
+<L>And serve hit forthe with outyn more.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For porray of mustuls.</HI></HEAD>
+<L>Take mustul brothe, as I say þe,</L>
+<L>And grynd þy lecus in morter fre,</L>
+<L>With a lite<NOTE N="1" PLACE="foot">little.</NOTE> grotes put hom þer in</L>
+<L>And sethe hom wele, no more no myn;</L>
+<L>But grynde þy mustuls and put þer to</L>
+<L>And sethe alle up, now hase þou do.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For gruel of fors.</HI></HEAD>
+<L>Fyrst take porke, wele þou hit sethe</L>
+<L>With otene grotes, þat ben so smethe;</L>
+<L>Whenne hit begynnes wele to alye,</L>
+<L>Þou save of þe þynnest brothe þer by</L>
+<L>To streyne þy gruel, alle and summe;</L>
+<L>But furst take oute þy porke þou mun</L>
+<L>And hak hit smal and grynde hit clene;</L>
+<L>Cast hit to þo gruel þat streyned bene,</L>
+<L>Colour hit with safroune and sethe hit wele;</L>
+<L>For gruel of force serve hom at mele.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For Ioutes.</HI></HEAD>
+<L>Take most of cole, borage<NOTE N="2" PLACE="foot">lovage?</NOTE>, persyl,</L>
+<L>Of plumtre leves, þou take þer tyl,</L>
+<L>Redde nettel crop and malues grene,</L>
+<L>Rede brere croppes, and avans goode,</L>
+<L>A lytel nept violet by þo rode,</L>
+<L><PB N="48" REF="49"/>
+And lest of prymrol levus þou take,</L>
+<L>Sethe hom in water for goddes sake;</L>
+<L>Þenne take hom up, presse oute þou shalle</L>
+<L>Þe water, and hakke þese erbs alle</L>
+<L>And grynd hom in a morter schene</L>
+<L>With grotene; and sethe hom thyk by dene</L>
+<L>In fresshe brothe, as I þe kenne;</L>
+<L>Take sklyset, enbawdet<NOTE N="1" PLACE="foot">enbrawdet?</NOTE> þenne</L>
+<L>Besyde on platere þou shalt hit lay</L>
+<L>To be cut and eten with ioutes in fay.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For capons in erbis.</HI></HEAD>
+<L>Fyrst stop þy capone with saveray,</L>
+<L>With persyl, a lytil ysope I say;</L>
+<L>Þen take þo neck, avoyde þe bone;</L>
+<L>And make a puddyng þer of anon</L>
+<L>With an egge and myed bred also,</L>
+<L>With hakked lyver and hert þer to,</L>
+<L>With powder of peper and safroune; þen</L>
+<L>Sew fast þo bylle grete ende, I ken;</L>
+<L>Þen sethe þy capone, as I þe say,</L>
+<L>With persoley, sauge, ysope, saveray,</L>
+<L>A litel nep, brisse hom in hast</L>
+<L>And wrythe itwen; in hom þou cast</L>
+<L>With sklices of bacon, enbrawdet here,</L>
+<L>And colour þy brothe with safrone dere.</L>
+<L>When hit is soþun, in disshe hit lay</L>
+<L>Þo bacon þo neck besyde in fay.</L>
+<L>Take grounden safron temperid with ale,</L>
+<L>To florysshe þy capone with syder þou shalle,</L>
+<L>Lyande in dysshe, and serve hym þenne,</L>
+<L>Set hym in sale before goode menne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For oþer ioutes.</HI></HEAD>
+<L>Take cole and strype hom þorowghe þi honde</L>
+<L>And do away þo rybbys I undurstonde;</L>
+<L><PB N="49" REF="50"/>
+In fat bre fresshe of befe I wene,</L>
+<L>Þay schalle be soþun ful thykk by dene.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For honge cole.</HI></HEAD>
+<L>Hakke þy kole wel grete I trow,</L>
+<L>Sethe hom in water ful thyke I thrawe<NOTE N="1" PLACE="foot">crawe?</NOTE>;</L>
+<L>Þen take hom up; presse a non</L>
+<L>Þe water of hom, er þou more done;</L>
+<L>In dysshe hom hakke togeder þen</L>
+<L>With buttur, to serve before gode men.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For henne in brothe.</HI></HEAD>
+<L>Take, sethe þy henne and kut her wele</L>
+<L>On gobbettes, save alrons<NOTE N="2" PLACE="foot">pinions of the wings.</NOTE> and þe pestle<NOTE N="3" PLACE="foot">legs.</NOTE>;</L>
+<L>Sethe thritté egges harde also,</L>
+<L>And hakke þe white and cast þer to</L>
+<L>In pot, with mynsud onyonus gode;</L>
+<L>First stepe þy brede of whete by þe rode,</L>
+<L>In þe same brothe besyde to lye</L>
+<L>Þy sewe, in put powder of peper þer by</L>
+<L>Of clowes, of gynger þer to þou take,</L>
+<L>Coloure hit with safroune for goddes sake;</L>
+<L>Do fyve ȝolkes in on disshe, þenne</L>
+<L>Thre gobbettis of flesshe als of þat henne;</L>
+<L>Poure on þat sewe þat first was dyȝt,</L>
+<L>To serve in sale by ful gode ryȝt.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For comyne sewe.</HI></HEAD>
+<L>Ȝiff þou wylle make a comyne sew,</L>
+<L>Vele and motun and porke þou hew</L>
+<L>On smalle gobettis; put hom in pot</L>
+<L>With mynsud onyouns, ful wele I wot,</L>
+<L>And powder of Peper þou kast þerto;</L>
+<L>Coloure hit with safroune or þou more do,</L>
+<L><PB N="50" REF="51"/>
+And drawȝe alyoure of browne crust eke</L>
+<L>To alye þis sew þat is so meke.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a tansy cake.</HI></HEAD>
+<L>Breke egges in bassyn and swyng hem sone,</L>
+<L>Do powder of peper þer to anone;</L>
+<L>Þen grynde tansy, þo iuse owte wrynge,</L>
+<L>To blynde with þo egges with owte lesynge.</L>
+<L>In pan or skelet þou shalt hit frye,</L>
+<L>In buttur wele skymmet wyturly,</L>
+<L>Or white grece þou make take þer to,</L>
+<L>Geder hit on a cake, þenne hase þou do,</L>
+<L>With platere of tre, and frye hit browne.</L>
+<L>On brode leches serve hit þou schalle,</L>
+<L>With fraunche mele or oþer metis with alle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a froyse.</HI></HEAD>
+<L>Sethe porke or vele and hew hit smalle,</L>
+<L>Take swongen egges and hew with alle;</L>
+<L>Frye hom in buttur in panne sone</L>
+<L>And styr hit wele, þen hase þou done.</L>
+<L>With trowȝtes on þe same aray,</L>
+<L>Wele soþun and hakked, tesyd in fay,</L>
+<L>And frye hom in buttur, as I þe kenne,</L>
+<L>To serve on fysshe day before gode men.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a brothe of elys.</HI></HEAD>
+<L>Fyrst flyghe þyn elys, in pese hom smyte,</L>
+<L>Put hom in pot, þagh þay ben lyte,</L>
+<L>With clene water; þen take þou schalle</L>
+<L>Alle powder of peper, coloure hit with alle</L>
+<L>With safroune and alyed þenne</L>
+<L>With floure, and cast alle in, I kenne,</L>
+<L>At þe fyrst boylyng þat may falle</L>
+<L>Soth hote, and serve hit in to þe halle.</L>
+</LG>
+<LG>
+<PB N="51" REF="52"/>
+<HEAD><HI REND="italic">For a pye.</HI></HEAD>
+<L>Fyrst sly þy capon over þo nyȝght,</L>
+<L>Plump hym in water wher he is dyȝt,</L>
+<L>Alle wallande hote anon take oute</L>
+<L>Þo capone to drye, with outen dowte;</L>
+<L>Þy stuffe of fressh befe mynse þou schalle</L>
+<L>With wyne or verius or salt with alle,</L>
+<L>To temper þat stuffe, and suet take þen</L>
+<L>Of þe same befe hakked I ken,</L>
+<L>That suet þou coloure wiþ safroune wele</L>
+<L>In a dysshe by hit selfe, as I þe telle<NOTE N="1" PLACE="foot">The MS. reads "as I telle þe".</NOTE>;</L>
+<L>Þen lay þy capon in coffyn fyne,</L>
+<L>A mawdelarde þerby and wodcockys twyne,</L>
+<L>Put in þy stuffe er þou more done,</L>
+<L>With an hen egge ȝolkes set hit anon,</L>
+<L>Þen take þy suet þat coloured was wele,</L>
+<L>Mynge hit above, so have þou cele;</L>
+<L>Þen coloure þy capon with safroune, dore</L>
+<L>With a feder, with a fayre feder, as I þe lore,</L>
+<L>Sethyne, with clovyn dates ryȝt,</L>
+<L>With maces and quibibis he shalle be dyȝt;</L>
+<L>Cloves and graynys þou take þer to</L>
+<L>And raysyns of corauns forȝete not; þo</L>
+<L>Close on þy lyd and pynche hym þen,</L>
+<L>And bake hym forthe, as I þe ken.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a cawdel.</HI></HEAD>
+<L>Breke ten egges in cup fulle fayre,</L>
+<L>Do away þe white with oute diswayre;</L>
+<L>Þo strene also þou put away</L>
+<L>And swyng þy ȝolkes with spone I þe say;</L>
+<L>Þen mynge hom wele with gode ale,</L>
+<L>A cup fulle large take þou schalle,</L>
+<L>Set hit on fyre, styr hit, I telle,</L>
+<L>Bewar þer with þat hit never welle;</L>
+<L>Ȝif þou cast salt þer to, iwys</L>
+<L>Þou marres alle, so have I blis.</L>
+<L><PB N="52" REF="53"/>
+At þo fyrst assay þou take hit doun,</L>
+<L>When hit wolde welle, þys caudel broun,</L>
+<L>Ȝif þat hit welle, as may be falle,</L>
+<L>Þus helpe hit þen I wot þou schalle;</L>
+<L>Storve myed wastel with colde ale þen,</L>
+<L>And cast þer to, sethe hit I ken.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For sawce gynger.</HI></HEAD>
+<L>Fyrst stepe þy brede, þat white is bake,</L>
+<L>And verius or venegur I undertake;</L>
+<L>Þen drawghe hit þorowghe a streynour fyne,</L>
+<L>Coloure hit with safroune, and cast þer in</L>
+<L>Powder of gynger inoȝht, and salt,</L>
+<L>Or ellys coloure hit nouȝt þou schalt;</L>
+<L>For grete lordis þou schalt take wyne</L>
+<L>With safroune to þy sawce ful fyne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For wesels.</HI></HEAD>
+<L>Fyrst grynde porke, temper in fere</L>
+<L>With egges and powder of peper dere,</L>
+<L>And powder of canel þou put þer to,</L>
+<L>In chapon necke þou close hit þo,</L>
+<L>Or elles in paunche of grys hit pyt,</L>
+<L>And rost hit wele, and þen dore hit</L>
+<L>With oute, with batere of egges and floure,</L>
+<L>To serve in sale or ellys in boure.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For hagese.</HI></HEAD>
+<L>Þe hert of schepe, þe nere<NOTE N="1" PLACE="foot">the kidneys.</NOTE> þou take,</L>
+<L>Þo bowel noȝt þou shalle forsake,</L>
+<L>On þe turbilen made, and boyled wele,</L>
+<L>Hacke alle togeder with gode persole,</L>
+<L>Isop, saveray, þou schalle take þen,</L>
+<L>And suet of schepe take in, I ken,</L>
+<L>With powder of peper and egges gode wonne,</L>
+<L><PB N="53" REF="54"/>
+And sethe hit wele and serve hit þenne,</L>
+<L>Loke hit be saltyd for gode menne.</L>
+<L>In wyntur tyme when erbs ben gode,</L>
+<L>Take powder of hom I wot in dede,</L>
+<L>As saveray, mynt and tyme, fulle gode,</L>
+<L>Isop and sauge I wot by þe rode.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For seke menne.</HI></HEAD>
+<L>Ale bre<NOTE N="1" PLACE="foot">Alebery, caudle, warm broth, [Cotgrave] = ale broth.</NOTE> þus make þou schalle,</L>
+<L>With grotes and safroune and good ale.</L>
+<L>Take playd water with hony, I wote,</L>
+<L>For water gruel made with grote;</L>
+<L>Melle white brede in dysshes aboute,</L>
+<L>Powre in wellyd mylke, with outen doute,</L>
+<L>Þat called is mylke soppys in serves</L>
+<L>For Satyrday at nyȝt, so have [I] blys.</L>
+<L>Ȝet sugurt soppes I nyl forȝete,</L>
+<L>Þou tost shyves of gode manchete,</L>
+<L>Enbene hom with wyne on both syde; þenne</L>
+<L>Sawce hom with sugur inoȝhe I kenne.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For sethe ray.</HI></HEAD>
+<L>Take ote, strey and draghe hit clene,</L>
+<L>Couch hit in a panne with water by dene;</L>
+<L>Cast salt þer to, ley in þy ray,</L>
+<L>And set hit forthe as I þe say:</L>
+<L>Then take hit oute, þo skyn away,</L>
+<L>Souse hit in ale, and salt, I pray;</L>
+<L>When hit is colde, ete hit þou may</L>
+<L>With lyver and garlek, þat samen are dyȝght.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">Oystere in browet.</HI></HEAD>
+<L>Take and schole hom and sethe hom in clene water;</L>
+<L>Grynde peper and safroun with brede and ale, temper hit</L>
+<L><PB N="54" REF="55"/>
+Up with þe same brothe, and do þe oysters þer in, and</L>
+<L>Let hit boyle and cast salt þerin and messe hit forthe.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a servise on fysshe day.</HI></HEAD>
+<L>Fyrst white pese and porray þou take,</L>
+<L>Cover þy white heryng for goddys sake;</L>
+<L>Þen cover red heryng and set abufe,</L>
+<L>And mustard on heghe, for goddys lufe;</L>
+<L>Þen cover salt salmon on hast,</L>
+<L>Salt ele þer wyth on þis course last.</L>
+<L>For þe secunde course, so god me glad,</L>
+<L>Take ryse and fletande fignade,</L>
+<L>Þan salt fysshe and stok fysshe take þou schalle,</L>
+<L>For last of þis course, so fayre me falle.</L>
+<L>For þe iii cours sowpys dorre fyne,</L>
+<L>And also lampronus in galentyne,</L>
+<L>Bakun turbut and sawmon ibake</L>
+<L>Alle fresshe, and smalle fysshe þou take</L>
+<L>Þer with, als trouȝte, sperlynges<NOTE N="1" PLACE="foot">the smelt.</NOTE> and menwus with al,</L>
+<L>And loches to hom sawce versance shal.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a servise on flesshe day.</HI></HEAD>
+<L>Fyrst wortes and salt befe þou shalle have,</L>
+<L>With capon in erbe þer to I crawe;</L>
+<L>For þo fyrst cours, no more þou take,</L>
+<L>But of þe secunde course now wylle I clake.</L>
+<L>Fyrst take in selle, þan gose anon,</L>
+<L>Bothe grys<NOTE N="2" PLACE="foot">pork.</NOTE> and vele and rostyd motone;</L>
+<L>With gynger þo pigge eton shalle be,</L>
+<L>And sorel with þo moton so mot I þe.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For anoþer maner of service on flesshe day.</HI></HEAD>
+<L>Take fyrst grete pyes and frumenté</L>
+<L>With venison, so mot I þe,</L>
+<L><PB N="55" REF="56"/>
+And rostyd capon, þen shal þou take,</L>
+<L>Þys for þe fyrst cours, þou noȝght forsake;</L>
+<L>Then fylets in galentine and mortrews eke</L>
+<L>With rostyd befe and moton so meke,</L>
+<L>And rosted vele and porke and grys;</L>
+<L>And gose and gryce for secunde be wyse,</L>
+<L>For the thrydde cours, now take shalle</L>
+<L>Cawdel ferre, stued mawdelarde with alle,</L>
+<L>Then tarts and daryels and custan dere,</L>
+<L>Rysshene and pome dorres, and frutur in fere,</L>
+<L>Thenne rosted mawlarde and cele þer to,</L>
+<L>With wodcoke and oþer smalle bryddys inow.</L>
+<L>Of servis tel ȝou no more I wylle,</L>
+<L>For a comyne fest at home be skylle.</L>
+</LG>
+<LG>
+<HEAD><HI REND="italic">For a comyn rewle in cure.</HI></HEAD>
+<L>Now tas þys for a rewle fulle gode,</L>
+<L>All hole futed fuylle in flud</L>
+<L>Gose before, and ay þou take</L>
+<L>Þo grettis fyrst, savun gose and drake,</L>
+<L>Bothe of towne and of toþer,</L>
+<L>Also bakyn mete, my der brother,</L>
+<L>And most daynté, come byhynde:</L>
+<L>Þys is a rewle mad in kynde.</L>
+</LG>
+<TRAILER>Explicit Liber cure Cocorum.</TRAILER>
+</DIV1>
+</BODY>
+<BACK>
+<DIV1 TYPE="index">
+<PB N="56" REF="57"/>
+<HEAD>INDEX OF WORDS, DISHES &amp;c.</HEAD>
+<LIST>
+<ITEM>A, 6, 'and'.</ITEM>
+<ITEM>Afyne, 12, 'finely'.</ITEM>
+<ITEM>Ale bre, 55, 'ale broth'.</ITEM>
+<ITEM>Aliour, 20, 49, 'a mixture'.</ITEM>
+<ITEM>Alye, 11, 22, 34, 47, 49, 'to mix'.</ITEM>
+<ITEM>Alrons, 49, 'the pinions of the wing'.</ITEM>
+<ITEM>Amydone, 7.</ITEM>
+<ITEM>Annes, 11.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Anykyns,</CELL>
+<CELL ROWS="2">33, 5, 'any kind of'.</CELL>
+</ROW>
+<ROW>
+<CELL>Anykyn,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>An, 5, 'and'.</ITEM>
+<ITEM>Augrym, 1, 'a table'.</ITEM>
+<ITEM>Avans, 47, 'the herb harefoot'.</ITEM>
+<ITEM>Avoyde, 48, 'to take away'.</ITEM>
+<ITEM>Aȝt, 27, 'eight'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Batere, 38, 52, 'a batter'.</ITEM>
+<ITEM>Batte, 22, 'hasty'.</ITEM>
+<ITEM>Berme, 39, 'yeast'.</ITEM>
+<ITEM>Betore, 35, 'bittern'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Blend, 36,</CELL>
+<CELL ROWS="3">'to mix'.</CELL>
+</ROW>
+<ROW>
+<CELL>Blonde, 24,</CELL>
+</ROW>
+<ROW>
+<CELL>Blynde, 50,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Blanc Maungere of fysshe, 19.</ITEM>
+<ITEM>Blanchyd Mortrews, 13.</ITEM>
+<ITEM>Blaunche sawce for capons, 28.</ITEM>
+<ITEM>Blonc Manger, 9.</ITEM>
+<ITEM>Blonke desore, 12.</ITEM>
+<ITEM>Boure achamber, 52.</ITEM>
+<ITEM>Bours, 37.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Braune, 12,</CELL>
+<CELL ROWS="2">'flesh'.</CELL>
+</ROW>
+<ROW>
+<CELL>Brawne, 26,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Bre, 17, 'broth'.</ITEM>
+<ITEM>Brend, 10, 'burnt'.</ITEM>
+<ITEM>Brere, 42, 'briar'.</ITEM>
+<ITEM>Brest, 7, 'burst'.</ITEM>
+<ITEM>Brethe, 19, 'steam'.</ITEM>
+<ITEM>Breuet de almonde, 12.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Brewet,</CELL>
+<CELL ROWS="2">12, 25 'potage, broth'.</CELL>
+</ROW>
+<ROW>
+<CELL>Browet,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Broch, 16, 26, 36, 37, 'a spit, to put on the spit'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Brost,</CELL>
+<CELL ROWS="2">19, 'burst'.</CELL>
+</ROW>
+<ROW>
+<CELL>Brostene,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Brothe of Elys, 50.</ITEM>
+<ITEM>Bruys, 19, 'brewis, broth'.</ITEM>
+<ITEM>Brys, 7, 'to bruise'.</ITEM>
+<ITEM>Bucnade, 12.</ITEM>
+<ITEM>Buttur of Almonde Mylke, 15.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Canel, 26, 'cinnamon'.</ITEM>
+<ITEM>Capons, 48.</ITEM>
+<ITEM>Capons in Cassolyce, 26.</ITEM>
+<ITEM>Capons in erbis, 48.</ITEM>
+<ITEM>Capons in Covisye, 24.</ITEM>
+<ITEM>Cawdel, 51.</ITEM>
+<ITEM>Cawdel dalmone, 15.</ITEM>
+<ITEM>Cele, 12, 'happiness, bliss'.</ITEM>
+<ITEM>Charioure, 19, 'a dish'.</ITEM>
+<ITEM>Charlet, 11.</ITEM>
+<ITEM>Charlet icoloured, 11.</ITEM>
+<ITEM>Chawdewyne de boyce, 25.</ITEM>
+<ITEM>Chekyns in browet, 22.</ITEM>
+<ITEM>Chekyns in Cretene, 8.</ITEM>
+<ITEM>Chekyns in Cawdel, 23.</ITEM>
+<ITEM>Chewetes on fysshe day, 41.</ITEM>
+<ITEM>Chewetes on flesshe day, 41.</ITEM>
+<ITEM><PB N="57" REF="58"/>
+Cle, 24, 'a claw'.</ITEM>
+<ITEM>Clake, 54, 'to talk'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Clow,</CELL>
+<CELL ROWS="2">17, 43, 'a clove'.</CELL>
+</ROW>
+<ROW>
+<CELL>Claw,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Cofyne, 34, 39, 41, 'a raised crust'.</ITEM>
+<ITEM>Coke, 17, 'a cook'.</ITEM>
+<ITEM>Cole (Honge), 49.</ITEM>
+<ITEM>Comfet (= Confeit), 11, 'a sweet∣meat'.</ITEM>
+<ITEM>Compost, 18.</ITEM>
+<ITEM>Conyng, 8, 'a rabbit'.</ITEM>
+<ITEM>Conyngus in Cyne, 20.</ITEM>
+<ITEM>Conyngus in gravé, 8.</ITEM>
+<ITEM>Corauns, 16, 'currants'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Cowche,</CELL>
+<CELL ROWS="2">40, 53, 'to lay, place'.</CELL>
+</ROW>
+<ROW>
+<CELL>Couch,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Cralle, 35, 'to bend, curl'.</ITEM>
+<ITEM>Crane (rostyd), 35.</ITEM>
+<ITEM>Crawe, 54, 'to crave'.</ITEM>
+<ITEM>Crud, 13, 'curd'.</ITEM>
+<ITEM>Crustate of flesshe, 40.</ITEM>
+<ITEM>Cure, 2, 'cookery'.</ITEM>
+<ITEM>Custane, 40.</ITEM>
+<ITEM>Cyne, 19.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Dariels, 38.</ITEM>
+<ITEM>Devoyde, 35, 'take away'.</ITEM>
+<ITEM>Digges, 10, 'ducks'.</ITEM>
+<ITEM>Disware, 25, 51, 'doubt'.</ITEM>
+<ITEM>Doghe, 41, 'dough'.</ITEM>
+<ITEM>Dore, 50, 52, 'to varnish'.</ITEM>
+<ITEM>Dowce, 7, 43, 'to sweeten'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Draȝun,</CELL>
+<CELL ROWS="2">35, 'to remove the entrails'.</CELL>
+</ROW>
+<ROW>
+<CELL>Drawe,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Draw, 13, 'to strain'.</ITEM>
+<ITEM>Dressore, 19, 20, 'cupboard'.</ITEM>
+<ITEM>Droppyng, 31, 'dripping'.</ITEM>
+<ITEM>Dyȝt, 47, 'prepared'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Elys (broth of), 50.</ITEM>
+<ITEM>Enarm, 29, 35, 'to lard'.</ITEM>
+<ITEM>Enbene, 26, 27, 'to baste'.</ITEM>
+<ITEM>Enbrawdet, 48, 'to border'.</ITEM>
+<ITEM>Enbroche, 34, 35, 37, 43, 'to put on the spit'.</ITEM>
+<ITEM>Endore, 36, 37, 'to varnish'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Enfarse,</CELL>
+<CELL ROWS="2">36, 'to stuff'.</CELL>
+</ROW>
+<ROW>
+<CELL>Enfors,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Eyren, 7, 11, 'eggs'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Farse, 26, 'to stuff'.</ITEM>
+<ITEM>Farsure, 26, 'a stuffing'.</ITEM>
+<ITEM>Fay, 50, 'truth'.</ITEM>
+<ITEM>Feder, 51, 'a feather'.</ITEM>
+<ITEM>Fele, 40, 'a paste'.</ITEM>
+<ITEM>Fere, 2, 35, as <HI REND="italic">in fere,</HI> 'together, in company'.</ITEM>
+<ITEM>Festened, 36, 'fastened'.</ITEM>
+<ITEM>Fesawantes and Pertryks (to boil), 23.</ITEM>
+<ITEM>Filetus in Galentine, 31.</ITEM>
+<ITEM>Flaunes, 39, 49.</ITEM>
+<ITEM>Fletand, 54, 'flowing, thin'.</ITEM>
+<ITEM>Florysshe, 9, 39, 'to decorate'.</ITEM>
+<ITEM>Flud, 55, 'flood'.</ITEM>
+<ITEM>Flyghe, 49, 'to flay'.</ITEM>
+<ITEM>Fole (see fele), 41.</ITEM>
+<ITEM>Fole, 36, 'fowl'.</ITEM>
+<ITEM>Fors, 8, 31, 'to stuff'.</ITEM>
+<ITEM>Fraunche Mele 36.</ITEM>
+<ITEM>Freture, 39.</ITEM>
+<ITEM>Fro, 1, 'from'.</ITEM>
+<ITEM>Froyse, 50.</ITEM>
+<ITEM>Frumenté, 7.</ITEM>
+<ITEM>Frym, 5, 'strong'.</ITEM>
+<ITEM>Fygnade (Stondande), 42.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Gad, 6, 'a goad'.</ITEM>
+<ITEM>Galentyne, 30.</ITEM>
+<ITEM>Galyngale, 8, 'sweet cyperus'.</ITEM>
+<ITEM>Gar, 15, 'to force, make'.</ITEM>
+<ITEM>Garlek, 53.</ITEM>
+<ITEM>Gawncel (for the gose), 29.</ITEM>
+<ITEM>Gelofer, 26, 'gillyflower'.</ITEM>
+<ITEM>Gentloré, 35, 'courtesy, honour'.</ITEM>
+<ITEM>Gose, 32, 'goose'.</ITEM>
+<ITEM>Gose in a Hogge pot, 32, (i. e. in a Hodge-podge).</ITEM>
+<ITEM>Grappays, 45, 'the grampus'.</ITEM>
+<ITEM>Gredel, 13, 37, 'a grediron'.</ITEM>
+<ITEM>Gresse, 6, 'grass'.</ITEM>
+<ITEM><PB N="58" REF="59"/>
+Grotene, 14, 48, 'grits'.</ITEM>
+<ITEM>Groundynges, 46, 'grounds'.</ITEM>
+<ITEM>Gruel of Almondes, 14.</ITEM>
+<ITEM>Gruel of fors, 47.</ITEM>
+<ITEM>Gruel of porke, 30.</ITEM>
+<ITEM>Grys, 55, 69, 'pig, pork'.</ITEM>
+<ITEM>Grythe (= graythe), 16, 'speed'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Hagese, 52.</ITEM>
+<ITEM>Haldand, 18, 'holding'.</ITEM>
+<ITEM>Hane (= ane), 'one'.</ITEM>
+<ITEM>Harus in a browet, 21.</ITEM>
+<ITEM>Harus in Cyne, 20.</ITEM>
+<ITEM>Harus in a sewe, 21.</ITEM>
+<ITEM>Harus in Pardolyse, 22.</ITEM>
+<ITEM>Hasteler, 2, 'one who roasts meat'.</ITEM>
+<ITEM>Hasteletes ou fysshe day, 37, (Has∣teletes, the inwards of a wild boar).</ITEM>
+<ITEM>Hastery, 2, 'roasted meat'.</ITEM>
+<ITEM>Heghe, 54, 'high'.</ITEM>
+<ITEM>Helde, 23, 31, 'to pour over'.</ITEM>
+<ITEM>Hele, 40, 'to cover'.</ITEM>
+<ITEM>Heng, 15, 'to hang'.</ITEM>
+<ITEM>Hennes in brewes, 22.</ITEM>
+<ITEM>Hennes in gravé, 24.</ITEM>
+<ITEM>Hennes in gauncel, 24.</ITEM>
+<ITEM>Hennes in brothe, 49.</ITEM>
+<ITEM>Herbȝ (to kepe over the wyntur), 34.</ITEM>
+<ITEM>Heroun (rostyd), 35.</ITEM>
+<ITEM>Herseve, 7, 'hairsieve'.</ITEM>
+<ITEM>Hogge pot (= Hodge-podge), 32.</ITEM>
+<ITEM>Hors, 23, 'rough'.</ITEM>
+<ITEM>Huche, 33, 'chest, hutch'.</ITEM>
+<ITEM>Hulle, 2, 7, 19, 'to cast off the shell, to shell'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Ilkadele, 41, 'each part'.</ITEM>
+<ITEM>Ilyke, 32, 'alike'.</ITEM>
+<ITEM>Imelle, 24, 'mixed'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Inoȝhe,</CELL>
+<CELL ROWS="3">11, 50, 52, 'enough'.</CELL>
+</ROW>
+<ROW>
+<CELL>Inow,</CELL>
+</ROW>
+<ROW>
+<CELL>Inoȝe,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Ioutes, 15, 47, 48.</ITEM>
+<ITEM>Ioutes de almonde, 15.</ITEM>
+<ITEM>Irne, 36, 'iron'.</ITEM>
+<ITEM>Itwen, 48, 'in two'.</ITEM>
+<ITEM>Iusselle, 11.</ITEM>
+<ITEM>Iwys, 5, 'certainly, truly'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Kaudel Ferry 16.</ITEM>
+<ITEM>Katche, 44, 'to take'.</ITEM>
+<ITEM>Kele, 6, 10, 'to cool'.</ITEM>
+<ITEM>Kelkes, 19, 'milt, roe'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Kerve,</CELL>
+<CELL ROWS="2">6, 41, 'to cut'.</CELL>
+</ROW>
+<ROW>
+<CELL>Korve,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Kervelettes, 30.</ITEM>
+<ITEM>Kest, 22, 'to cast'.</ITEM>
+<ITEM>Kole, 46.</ITEM>
+<ITEM>Koke, 13, 'cook'.</ITEM>
+<ITEM>Kolys, 20.</ITEM>
+<ITEM>Kostyf of motone, 34, 'breast of mutton'.</ITEM>
+<ITEM>Kremelyd, 36, 'crumbled'.</ITEM>
+<ITEM>Kydnere, 10, 'kidneys'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Lamprayes (in galentine), 25.</ITEM>
+<ITEM>Lamprays (bakun), 38.</ITEM>
+<ITEM>Lange de beof, 26.</ITEM>
+<ITEM>Laveroc, 36, 'the lark'.</ITEM>
+<ITEM>Leche, 13, 50, 'to cut in slices'.</ITEM>
+<ITEM>Leche lardes, 13.</ITEM>
+<ITEM>Lefe, 46, 'dear'.</ITEM>
+<ITEM>Lene, 37, 'to grant'.</ITEM>
+<ITEM>Levys, 21, 'believe'.</ITEM>
+<ITEM>Loche, 54, 'a loach'.</ITEM>
+<ITEM>Loysyns, 40.</ITEM>
+<ITEM>Lovache, 18, 'lovage'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Lite,</CELL>
+<CELL ROWS="2">46, 47, 49, 'little, few'.</CELL>
+</ROW>
+<ROW>
+<CELL>Lyte,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Luddock, 43, 'loins'.</ITEM>
+<ITEM>Lue, 33, 'warm'.</ITEM>
+<ITEM>Lumbardus Mustard, 30.</ITEM>
+<ITEM>Lye, 8, 'to mix'.</ITEM>
+<ITEM>Lyoure (best), 36.</ITEM>
+<ITEM>Lyoure, 31, 32, 'a mixture'.</ITEM>
+<ITEM>Lyne, 30, 'linen'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Male, 12, 'meal'.</ITEM>
+<ITEM>Malt, 6, 'to melt'.</ITEM>
+<ITEM><PB N="59" REF="60"/>
+Malues, 47.</ITEM>
+<ITEM>Manchete, 53, 'fine wheaten bread'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Mawdelarde, 38,</CELL>
+<CELL ROWS="2">'a mallard, the wild drake'.</CELL>
+</ROW>
+<ROW>
+<CELL>Mawlarde, 55,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Medel, 41, 'to mix'.</ITEM>
+<ITEM>Melle, 53, 'to mix'.</ITEM>
+<ITEM>Meng, 31, 'to mingle'.</ITEM>
+<ITEM>Menske, 22, 'grace, favour'.</ITEM>
+<ITEM>Menwus, 54, 'the minnow'.</ITEM>
+<ITEM>Merke, 33, 'dark'.</ITEM>
+<ITEM>Mesurlé, 48, 'moderately'.</ITEM>
+<ITEM>Messe, 28, 'to serve'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Mo,</CELL>
+<CELL ROWS="2"> 27, 38, 'more'.</CELL>
+</ROW>
+<ROW>
+<CELL>Moo,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Momene, 26.</ITEM>
+<ITEM>Motone, 34, 'mutton'.</ITEM>
+<ITEM>Mortrewes de chare, 9.</ITEM>
+<ITEM>Mortrewes of fysshe, 29.</ITEM>
+<ITEM>Mot, 'may, must'.</ITEM>
+<ITEM>Mountenaunce, 26, 'amount, weight'.</ITEM>
+<ITEM>Mun, 47, 'must'.</ITEM>
+<ITEM>Mustel bre, 46.</ITEM>
+<ITEM>Mydruv, 10, 'midriff'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Myed,</CELL>
+<CELL ROWS="2">8, 11, 12, 48, 'minced, pounded, grated'.</CELL>
+</ROW>
+<ROW>
+<CELL>Myud,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Myn,</CELL>
+<CELL ROWS="2">8, 22, 'less'.</CELL>
+</ROW>
+<ROW>
+<CELL>Mynne,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Myng, 51, 'to mingle'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Neghe, 42, 'near'.</ITEM>
+<ITEM>Nep, 48, 'the herb cat-mint'.</ITEM>
+<ITEM>Nere, 52, 'kidneys'.</ITEM>
+<ITEM>Nesshe, 13, 33, 'soft'.</ITEM>
+<ITEM>Neȝe, 34, 'nigh'.</ITEM>
+<ITEM>Nombuls, 10.</ITEM>
+<ITEM>Note, 25, 'nut'.</ITEM>
+<ITEM>Nylle, 1, 'will not'.</ITEM>
+<ITEM>Nys, 5, 'is not'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Obles, 22, 'small cakes'.</ITEM>
+<ITEM>On, p. 44, l. 7, 'in, into'.</ITEM>
+<ITEM>Osel, 36, 'blackbird'.</ITEM>
+<ITEM>Ote, 48, 53, 'oat'.</ITEM>
+<ITEM>Other, 15, 'or'.</ITEM>
+<ITEM>Overtwert, 40, 'across'.</ITEM>
+<ITEM>Oystere in browet, 53.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Pasteler, 1, 'a maker of pastry'.</ITEM>
+<ITEM>Payndemayn, 40.</ITEM>
+<ITEM>Payre to injure, 34.</ITEM>
+<ITEM>Peions istued, 14.</ITEM>
+<ITEM>Peletre, 27, 'pellitory'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Persole, 22, 23,</CELL>
+<CELL ROWS="2">'parsley'.</CELL>
+</ROW>
+<ROW>
+<CELL>Persyl, 46,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Pestle, 49, 'legs'.</ITEM>
+<ITEM>Pese (gray), 46.</ITEM>
+<ITEM>Pese (after porray), 45.</ITEM>
+<ITEM>Petecure, 42.</ITEM>
+<ITEM>Pigges in sawce, 31.</ITEM>
+<ITEM>Pigges (farsyd), 36.</ITEM>
+<ITEM>Playand, 37, 'boiling'.</ITEM>
+<ITEM>Play, 7, 44, 42, 'to boil'.</ITEM>
+<ITEM>Plump, 51, 'to plunge'.</ITEM>
+<ITEM>Porpays, 35, Porpoise.</ITEM>
+<ITEM>Porray (blaunchyd), 44.</ITEM>
+<ITEM>Porray (of Mustuls), 47.</ITEM>
+<ITEM>Porry (of white Pese), 44.</ITEM>
+<ITEM>Posnet, 10, 32, 'a little pot'.</ITEM>
+<ITEM>Potage, 42.</ITEM>
+<ITEM>Potage of welkes, 17.</ITEM>
+<ITEM>Potage of oysturs, 17.</ITEM>
+<ITEM>Powme Dorrys, 37.</ITEM>
+<ITEM>Prymrol, 42, 'primrose'.</ITEM>
+<ITEM>Pur verde sawce, 27.</ITEM>
+<ITEM>Pye, 54.</ITEM>
+<ITEM>Pykulle, 30.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Quartle, 37, 'a quart'.</ITEM>
+<ITEM>Quede, 37, 'bad'.</ITEM>
+<ITEM>Quyl, 46, 'while'.</ITEM>
+<ITEM>Quibibis, 16, 'Cubebs'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Rape (A), 16.</ITEM>
+<ITEM>Rasshe, 18, 'quick, swift'.</ITEM>
+<ITEM>Ray (to sethe), 53.</ITEM>
+<ITEM>Rede, 12, 'to advise'.</ITEM>
+<ITEM>Reke, 6, to take care, attend'.</ITEM>
+<ITEM>Remunande, 46, 'remainder'.</ITEM>
+<ITEM>Rere, 34, 'to raise'.</ITEM>
+<ITEM>Restyng, 33, 'becoming rancid'.</ITEM>
+<ITEM><PB N="60" REF="61"/>
+Reward, 31, 'regard'.</ITEM>
+<ITEM>Rine, 37, 'to run'.</ITEM>
+<ITEM>Risshens, 39.</ITEM>
+<ITEM>Roche, 35, 'rock'.</ITEM>
+<ITEM>Roo in a sewe, 23.</ITEM>
+<ITEM>Rose, 13.</ITEM>
+<ITEM>Rose dalmoyne, 19.</ITEM>
+<ITEM>Ryse, 16.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Safroun, 53.</ITEM>
+<ITEM>Sale, 10, 'hall'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Sammen,</CELL>
+<CELL ROWS="2">14, 33, 'together'.</CELL>
+</ROW>
+<ROW>
+<CELL>Samen,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Saveray, 44, 'the herb savory'.</ITEM>
+<ITEM>Sawce (to make), 27.</ITEM>
+<ITEM>Sawce camelyne, 30.</ITEM>
+<ITEM>Sawce (blaunch for capons), 28.</ITEM>
+<ITEM>Sawce (best for capons), 28.</ITEM>
+<ITEM>Sawce (for cranes and herons), 29.</ITEM>
+<ITEM>Sawce (gynger), 52.</ITEM>
+<ITEM>Sawee (for mawdelardes rostyd), 27.</ITEM>
+<ITEM>Sawce madame, 32.</ITEM>
+<ITEM>Sawce (for Pekokys and pertrikis), 29.</ITEM>
+<ITEM>Sawce (pur verde), 27.</ITEM>
+<ITEM>Sawce sirer (for mawdelardus), 28.</ITEM>
+<ITEM>Sawce (for vele and venysone), 28.</ITEM>
+<ITEM>Sawnder, 13, 'sandal wood'.</ITEM>
+<ITEM>Schale, 25, 30, 'to shell'.</ITEM>
+<ITEM>Schale, 30, 'a shell'.</ITEM>
+<ITEM>Schere, 13, 'to cut'.</ITEM>
+<ITEM>Schyves, 3, 15, 17, 'slices'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Schun,</CELL>
+<CELL ROWS="2">29, 36, 'shall'.</CELL>
+</ROW>
+<ROW>
+<CELL>Schyn,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Seke, 6, 'to plunge, soak'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Seler,</CELL>
+<CELL ROWS="2">30, 33 'a cellar'.</CELL>
+</ROW>
+<ROW>
+<CELL>Selor,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Selle, 34, 'seal'.</ITEM>
+<ITEM>Self, 21, 'same'.</ITEM>
+<ITEM>Sere, 'severally, several'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Servise on fysshe day,</CELL>
+<CELL ROWS="2">54.</CELL>
+</ROW>
+<ROW>
+<CELL>Servise on flcsshe day,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Sewe, 21, 43, 'potage, broth'.</ITEM>
+<ITEM>Sirup, 42.</ITEM>
+<ITEM>Sklice, 43, 48, 'a slice, to slice'.</ITEM>
+<ITEM>Sleck, 6, 'to slake'.</ITEM>
+<ITEM>Sly, 51, 'to kill'.</ITEM>
+<ITEM>Sleȝe, 'clever, quick'.</ITEM>
+<ITEM>Slyȝte, 1, 'art, craft'.</ITEM>
+<ITEM>Smethe, 50, 'smooth'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Snite,</CELL>
+<CELL ROWS="2">35, 'snipe'.</CELL>
+</ROW>
+<ROW>
+<CELL>Snyȝt,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Sorel, 54.</ITEM>
+<ITEM>Sotelté, 5, 'device'.</ITEM>
+<ITEM>Sothe, 5, 'truth'.</ITEM>
+<ITEM>Sothyn, 5, 'boiling'.</ITEM>
+<ITEM>Soward, 5, ? 'sow-like', or 'soured, of a sour disposition'.</ITEM>
+<ITEM>Sowpus dorre, 14.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Sparlyng,</CELL>
+<CELL ROWS="2">54, 'the smelt'</CELL>
+</ROW>
+<ROW>
+<CELL>Sperlyng,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Spryng, 7, 'to sprinkle'.</ITEM>
+<ITEM>Spryngil, 40, 'to sprinkle'.</ITEM>
+<ITEM>Spylle, 5, 'to destroy'.</ITEM>
+<ITEM>Stine, 34, 'stint'.</ITEM>
+<ITEM>Stondand, 14, 'thick'.</ITEM>
+<ITEM>Stondand, 20, 'standing'.</ITEM>
+<ITEM>Stop, 34, 'to stuff'.</ITEM>
+<ITEM>Strene, 34, 'scum'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Strene, 9, 45,</CELL>
+<CELL ROWS="3">'to strain'.</CELL>
+</ROW>
+<ROW>
+<CELL>Strey, 53,</CELL>
+</ROW>
+<ROW>
+<CELL>Streyne, 43,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Streynour, 16, 21, 51.</ITEM>
+<ITEM>Stryke, 44, 'to cut'.</ITEM>
+<ITEM>Suand, 35, 'following'.</ITEM>
+<ITEM>Sumdele, 20, 'somewhat'.</ITEM>
+<ITEM>Swongen, 36, 37, 'beaten up'.</ITEM>
+<ITEM>Swynge, 11, 'to beat up'.</ITEM>
+<ITEM><TABLE>
+<ROW>
+<CELL>Sye,</CELL>
+<CELL ROWS="2">7, 17, 'to drain, strain'.</CELL>
+</ROW>
+<ROW>
+<CELL>Syle,</CELL>
+</ROW>
+</TABLE></ITEM>
+<ITEM>Sythes, 6, 'times'.</ITEM>
+<ITEM>Sythyn, 25, 'afterwards, then'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Tansy cake, 50.</ITEM>
+<ITEM>Tartlotes, 41.</ITEM>
+<ITEM>Temper, 'to mix'.</ITEM>
+<ITEM>Tenderon, 34, 'a stalk'.</ITEM>
+<ITEM>Tent, 34, 'to attend'.</ITEM>
+<ITEM>Tese, 9, 'to mince'.</ITEM>
+<ITEM>Þagh, 5, though'.</ITEM>
+<ITEM>Thandon (for wilde digges &amp;c.), 10.</ITEM>
+<ITEM><PB N="61" REF="62"/>
+The, 36, 'to prosper'.</ITEM>
+<ITEM>Theȝe, 'thigh'.</ITEM>
+<ITEM>Þo, 1, 'the'.</ITEM>
+<ITEM>—, 11, 'then'.</ITEM>
+<ITEM>Thrinne, 1, 'three'.</ITEM>
+<ITEM>Thrydde, 55, 'third'.</ITEM>
+<ITEM>Thurgh, 'through'.</ITEM>
+<ITEM>Tome, 39, 'light, empty'.</ITEM>
+<ITEM>Trap, 40, 'a dish'.</ITEM>
+<ITEM>Tree, 50, 'wood'.</ITEM>
+<ITEM>Trouȝte, 50, 54, 'trout'.</ITEM>
+<ITEM>Tuel, 35, 'an opening'.</ITEM>
+<ITEM>Turbilen, 52,? Fr.<HI REND="italic">tourbillon.</HI></ITEM>
+<ITEM>Tuskyn, 44.</ITEM>
+<ITEM>Twynne, 10, 51, 'two'.</ITEM>
+<ITEM>Tyl, 47, 'to'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Ughe, 33, 'to injure'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Venysone (to save fresshe over þe ȝer), 33.</ITEM>
+<ITEM>Venysone (to save fro restyng).</ITEM>
+<ITEM>Viande de Cipur, 8.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Wafrons, 22, 'cakes'.</ITEM>
+<ITEM>Walle, 30, 'to boil'.</ITEM>
+<ITEM>Warlé, 35, 'carefully'.</ITEM>
+<ITEM>Wastelle, 9, 'fine white bread'.</ITEM>
+<ITEM>Welle, 5, 6, 13, 'to boil'.</ITEM>
+<ITEM>Werkok, 36, 'pheasant'.</ITEM>
+<ITEM>Wodcock, &amp;c., 36.</ITEM>
+<ITEM>Won, 8, 40, 52, 'a quantity'.</ITEM>
+<ITEM>Wortes, 43, 54, 'herbs'.</ITEM>
+<ITEM>Wost, 'knowest'.</ITEM>
+<ITEM>Wot, 5, 6, 'know'.</ITEM>
+<ITEM>Wrythe, 48, 'break'.</ITEM>
+<ITEM>Wyndo, 7, 'to winnow'.</ITEM>
+<ITEM>Wynne, 5, 'will'.</ITEM>
+<ITEM>Wynnot, 45, 'will not'.</ITEM>
+<ITEM>Wyturly, 31, 'truly, certainly'.</ITEM>
+</LIST>
+<LIST>
+<ITEM>Ȝet, 1, 'also'.</ITEM>
+<ITEM>Ȝif, 5, 'if'.</ITEM>
+<ITEM>Ȝolkes, 18, 'yolks'.</ITEM>
+<ITEM>Ȝoyng, 11, 'young'.</ITEM>
+<ITEM>Ȝow, 1, 'you'.</ITEM>
+<ITEM>Ȝyt, 5, 'yet'.</ITEM>
+</LIST>
+</DIV1>
+<DIV1 TYPE="note">
+<P>Note to page 5, line 23:—
+<Q><L>"And welle on alle, and <HI REND="italic">lepe</HI> in."</L></Q>
+The sense would seem to require that we should read:—
+<Q><L>"And welle on alle, and noȝt <HI REND="italic">kepe</HI> in."</L></Q></P>
+</DIV1>
+<DIV1 TYPE="colophon">
+<P>Berlin, printed by Unger Brothers, Printers to the King.</P>
+</DIV1>
+</BACK>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-19-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed titles. Checked <SUP>s</SUP>. Reviewed structure; changed P to HEAD; changed HEAD to HEADNOTE P; removed several MILESTONEs found in prefatory prose; changed TRAILER to CLOSER; changed two LGs to Qs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00082">
+<STC T="M">82</STC>
+<BIBNO T="mec">CME00082</BIBNO>
+<VID>CME00082</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1"/>
+<HEAD>EINE NEUE MITTELENGLISCHE VERSION DER THEOPHILUS-SAGE.</HEAD>
+<DIV2 TYPE="preface">
+<P>Die aus einer griechischen urschrift durch zwei lateinische übersetzungen schon früh in die abendländische literatur über∣gegangene und weitverbreitete sage von Theophilus, dem Faust des mittelalters, findet sich natürlich auch in mittel∣englischen bearbeitungen. Aber unsere kenntnis derselben ist noch nicht über das hinausgekommen, was Kölbing schon 1876 in den <HI REND="italic">Beitr. z. vgl. gesch. der rom. poesie und prosa des mittelalters</HI> darlegte. Noch heute kennen wir nur drei eng∣lische versionen. Zunächst die der südenglischen legenden in langzeilen, welche in zahlreichen handschriften vorliegen, teilt mit, teils ohne verbindung mit den Marienwundern, welche aber sämtlich nicht wesentlich von der fassung der hs. Harl. 2277, also der von Kölbing 1877 im 1. bande der Engl. Stud. (s. 16 ff.) veröffentlichten, abweichen. Ferner die version in kurzen reimpaaren, erhalten im Vernon-Ms. (ed. Engl. Stud. I) und dem nordenglischen legendar, von welchem Kölbing seiner∣zeit nur die lückenhafte Hs. Cott. Tib. E. VII zur verfügung stand, während die vollständige fassung des Ms. Harl. 4196 erst in dem 1. bande der Engl. Stud. veröffentlicht wurde. Die dritte—von Kölbing erwähnte, aber nicht weiter berück∣sichtigte—englische fassung in strophenform, die von »Guilelmus Forrestus« im Ms. Harl. 1703, ist noch ungedruckt, übrigens, wie ich nach einsicht des Ms. urteilen muss, eine späte und völlig ungeniessbare zusammenstoppelung, die es kaum verdient ab∣gedruckt zu werden.</P>
+<P>Aus einem bislang unbekannten Ms. der Bodleiana, Rawl. Poetry 225, kann ich jetzt eine vierte englische fassung
+<PB N="2" REF="2"/>
+nachweisen, welche die andern an poetischem werte bei weitem übertrifft und mir in dieser hinsicht zu den ansprechendsten er∣zeugnissen der mittelenglischen literatur überhaupt zu gehören scheint. Abgefasst in der bekannten schweifreimstrophe zeichnet diese fassung sich aus durch leichte, flüssige sprache, durch natürlichkeit und frische des ausdrucks und durch fast dramatische lebhaftigkeit der darstellung. In fast ununter∣brochener rede und gegenrede treten Theophilus, der Jude, der teufel und die jungfrau Maria auf; oft fehlt der verbindende text ganz, meist beschränkt er sich ein auf paar zeilen, nie überschreitet er ein oder zwei strophen; selbst die einleitung ist mit zwei strophen erledigt, der schluss gar mit einer. Es hätte nur einer geringfügigen änderung bedurft, um aus dem ganzen ein reizendes kleines mirakelspiel zu machen, wozu der stoff wie geschaffen erscheint. All den verschiedenen bearbeitungen, gleichgültig, welcher sprache angehörig, gleich∣viel, ob poesie oder prosa, ob voll dichterischen schwunges oder eintönig und schlicht, ist der häufige gebrauch der ersten und zweiten person, sind monologe oder rede und gegenrede eigentümlich; mehrfach—in den beiden neiderdeutschen be∣arbeitungen und derjenigen Ruteboeuf's—stellen sich direkt Mirakelspiele dar.</P>
+<P>Die beziehungen unseres textes zu den verschiedenen epischen oder dramatischen fassungen sind gering; offenbar ist der vorliegende stoff sehr frei bearbeitet, manches ganz wegelassen, anderes, wie der kampf Maria's mit dem satan, näher ausgeführt. Im vollgefühle seines glückes tritt uns Theo∣philus entgegen, aber die klagen des gestürzten mannes, der sich seines unglücks schämt, folgen fast unvermittelt; unser text nähert sich damit Ruteboeuf, der die ganze, sonst so umfang∣reiche vorgeschichte fortlässt und mit jenem klagereichen monologe beginnt. Die handlung entwickelt sich rasch, nur mit den notwendigsten übergängen, in scharfer konzentration, die all und jedes beiwerk weglässt. Nur die vier hauptpersonen finden sich, keine der nebenpersonen tritt auf; der bischof oder erzbischof, Theophilus' vorgesetzter, dessen gunst er verliert und schliesslich wiedergewinnt, wird überhaupt nicht erwähnt,—in dem niederdeutschen mirakelspiel dagegen sind nicht weniger als 21 dramatis personae vorhanden. Von der uralten erzählung geht das äussere detail, das lokalkolorit fast völlig verloren; nur
+<PB N="3" REF="3"/>
+der in das unglück gestürzte mensch, der mit allen fasern seines herzens an dem verlornen hängt, der sich in seiner not dem satan verkauft und von der jungfrau Maria gerettet wird, bleibt übrig.</P>
+<P>Näher ausgeführt als in den übrigen vorliegenden fassungen ist der kampf der jungfrau Maria mit dem satan um den »charter«, in dem sich Theophilus jenem verschrieben hat. Bei Ruteboeuf gibt der satan den charter ohne weiteres heraus; nur das niederdeutsche mirakelspiel lässt ihn in längerer, aber ganz abweichender ausführung ausweichen, sich sträuben, doch schliesslich sich fügen.</P>
+<P>Ein eigentümlicher und sehr wirkungsvoller zug unsrer fassung, den sie mit keiner der übrigen teilt, ist die plötzliche umkehr und reue des Theophilus durch eine stimme vom himmel, die ihm das wort »revertere« zuruft; in einigen andern versionen erscheint ihm Maria in einer vision im traume, in den ältesten wie auch bei Gautier de Coincy und Ruteboeuf tritt die reue des Theophilus ganz unvermittelt ein.</P>
+<P>Nicht verschweigen möchte ich, dass unsere englische fassung im übrigen an Ruteboeuf's mirakelspiel mehrfach an∣klingt, besonders in dem schlusse, welcher das lat. "Te deum laudamus" verwendet, ja auch in dem versmass, denn bei Ruteboeuf folgt auf zwei oder drei 8-silbner häufig ein 4-silbner, was an unsre schweifreimstrophe erinnert; vgl.:</P>
+<Q>
+<L>Theophiles par son droit nom</L>
+<L>Mult a este de grant renon</L>
+<L>En ceste terre etc.</L>
+</Q>
+<P>Dass Ruteboeuf etwa direktes vorbild gewesen sei, ist schon dadurch ausgeschlossen, das bei ihm der Jude Salatin genannt wird, während unsre bearbeitung hier mit dem gros geht. Die verwandtschaftsverhältnisse müssen also auch für diese englische fassung vorläufig im unklaren bleiben; nichts zu schaffen hat sie jedenfalls mit den beiden bekannten eng∣lischen versionen, welche auch unter sich keinen engeren zu∣sammenhang aufweisen, wie Kölbing gezeigt hat.</P>
+<P>Die sprache unsres Theophilus in übereinstimmung mit der schreibung der ganzen Hs. zeigt spätmittelenglischen charakter, etwa zweite hälfte des 15. jahrhunderts. Doch kann unser gedicht auf ein sehr viel älteres original zurückgehn, findet sich doch in derselben Hs. auch ein Gregorius,
+<PB N="4" REF="4"/>
+der mit der Vernon-version übereinstimmt, also eins der älteren erzeugnisse der mittelenglischen literatur. Auf ein viel älteres original deutet übrigens auch eine altertümliche form, die sich in strophe 69 erhalten hat:</P>
+<Q>
+<L>My rychesse I wil lete al gon</L>
+<L>And I forsakes euerychon,</L>
+<L>ffor I wil kepen hem nouȝt.</L>
+</Q>
+<P>In <HI REND="italic">forsakes</HI> liegt doch wohl das altertümliche, nur aus mittel∣englischen denkmälern der früheren periode bekannte enklitische pronomen <HI REND="italic">-es, -s</HI> = sie (cf. <HI REND="italic">hem</HI> der folgenden zeile) vor <NOTE N="1)" PLACE="foot">Vgl. Morsbach, Anglia, beibl. VII 331. Heuser ib. XI 302 ff. Diehn, <HI REND="italic">Die pronomina im Frühmittelenglischen.</HI> (Kieler stud. zur engl. philol. 1.) s. 51 u. 53.</NOTE>.</P>
+<P>Das Ms. Rawl. Poetry 225 auf der Bodleiana zu Oxford ist eine zum teil stark verstümmelte papierhandschrift, welche häufig neu auf papier aufgeklebte und so gesicherte bruchstücke und fetzen enthält. Sie bietet eine bislang gänz∣lich unbekannte legendenhandschrift, welche allerdings recht spät zu sein scheint, wie der fortgeschrittene charakter von sprache und schreibung zeigt. Gerade dadurch aber nimmt sie gegenüber den zahlreichen Hss. der südlichen legendensamm∣lung aus früherer zeit eine gewisse sonderstellung ein. Mit diesen ist sie verbunden durch mehrere ganz oder teilweise erhaltene legenden in der üblichen langzeile, wie: Cat(h)erine, Clement, Symon &amp; Jude, Eustas, Maria &amp; Joseph, Zakarye &amp; Elisabeth, Thomas von Canterbury, In die animarum, Stephan, St. John þe euangelist. Zum teil in prosa umgewandelt ist die legende von Nicholas. Vollständig erhalten findet sich ferner eine Barbara, aber in kreuzreimen, also nicht zu der vorigen gruppe gehörig; sie ist übrigens offenbar ein spätes machwerk ohne poetisches wie sprachliches interesse und erhält nur dadurch eine gewisse bedeutung, dass von dieser legende metrische mittelenglische versionen überhaupt nicht be∣kannt sind. Ferner ist eine ganze reihe von bruchstücken zu erwähnen, die noch dazu ziemlich bunt durcheinander geheftet sind. Sie zeigen kreuzreim, zuweilen gemischt mit schweif∣reim, und scheinen mir ebenfalls ein weiteres interesse nicht zu haben; sie sind wohl als späte und flüchtige umarbeitungen älterer legenden, wie Dunston, Athelston, Margrete, Martha,
+<PB N="5" REF="5"/>
+Jacob, anzusehen; darunter findet sich in reimpaaren ein stück eines Trental.</P>
+<P>Höheren wert dürfte neben dem Theophilus nur eine vollständige version des wichtigen, altertümlichen und nur aus wenigen Mss. bekannten Gregorius beanspruchen, welche mit der im Vernon-Ms. erhaltenen fassung ziemlich genau überein∣zustimmen scheint, unter der überschrift: Hic incipit Nateuitas beati Gregorii pape (s. 105<SUP>b</SUP>-114<SUP>b</SUP> des Ms.).—</P>
+</DIV2>
+<DIV2 TYPE="poem">
+<HEADNOTE><P>Ms. Rawl. Poetr. 225, s. 11 ff.</P></HEADNOTE>
+<HEAD>Hic incipit historia quomodo Tiofelus vendidit animam suam diabolo et quomodo per sanctam mariam liberatus fuit.—</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Listenyth bothe, grete &amp; smale,</L>
+<L>I wil ȝow tellen a litel tale</L>
+<L>Of Tyofle þe fre.</L>
+<L>Erchedekne he was y plyȝt,</L>
+<L>Wyse clerk &amp; a man of myȝt</L>
+<L>And riche of gold &amp; fee.</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Curtes he was. &amp; large y wis,</L>
+<L>ffestis to maken. with men of pris</L>
+<L>And ȝyftes to ȝeuen.</L>
+<L>Also he rod on his iolyfte,</L>
+<L>He spak al of his dygnete,</L>
+<L>How wel þat he was threuen.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>"fful wel is þat ilke man</L>
+<L>Þat welthe hath. &amp; wisdam can,</L>
+<L>In blysse forto leuen.</L>
+<L>He may þe folk wissen &amp; techen,</L>
+<L>He may hem helpen &amp; lechen,</L>
+<L>He may hem lenen &amp; ȝeuen.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Be my self I it say,</L>
+<L>Þer I go in þe wey,</L>
+<L>Þer of I haue gret þouȝt;</L>
+<L>ffor wysdam I haue mekel wele</L>
+<L>Of wordelis good &amp; ȝiftis fele,</L>
+<L>No thing fayles me nouȝt.</L>
+</LG>
+<LG N="5">
+<PB N="6" REF="6"/>
+<HEAD>5.</HEAD>
+<L>Who so haue defaute or nede</L>
+<L>Of good counseil or of rede</L>
+<L>Oþer of gold . othir of fe,</L>
+<L>Cum to me . &amp; he schal hauen,</L>
+<L>What so euer he wil craven,</L>
+<L>ffor I haue gret plente.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Curteis &amp; large I wil ben,</L>
+<L>Whils I leve ., so mote I then</L>
+<L>With word &amp; with dede.</L>
+<L>My rentis ben so gode &amp; fele,</L>
+<L>Me may nouȝt faylen no wordelis wele</L>
+<L>ffor no kyn̄es nede.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Swilk dignete I haue nomen</L>
+<L>Þat I am erchedeken now be comen,</L>
+<L>Tiofle is my name;</L>
+<L>So large &amp; curteis I schal ben,</L>
+<L>þer is no man þat me schal sen</L>
+<L>Of me schal sayn no schame.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Now wil I walken on my pleyeng,</L>
+<L>Ne dred I nothir duk ne kyng,</L>
+<L>Erel, knyȝt ., baron ne bond.</L>
+<L>Wher so I go, wher so I be,</L>
+<L>Al wordelis blysse folwis me</L>
+<L>In euery kynges londe."</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>fforth hym wente þis clerk ywis</L>
+<L>With mekel ioy &amp; mekel blis,</L>
+<L>But in alitel stounde</L>
+<L>Al his wisdam &amp; his good,</L>
+<L>Ryȝt as doth þe salte flood,</L>
+<L>It sanc doun to grounde.</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>Whan his good was al gon̄</L>
+<L>And he had spendyng non,</L>
+<L>Ageyn ward he hym went;</L>
+<L>And as he wente þer allone,</L>
+<L>Mekel sorwe he made &amp; mone,</L>
+<L>Of pouerte . he hym be ment.</L>
+</LG>
+<LG N="11">
+<PB N="7" REF="7"/>
+<HEAD>11.</HEAD>
+<L>"Allas, what schal I don for schame?</L>
+<L>ffor saken I wil my ryȝt name</L>
+<L>Þat no man schal me knowe.</L>
+<L>Be god I hadde mekel won̄,</L>
+<L>And ryȝt now it is al agon</L>
+<L>In alitel throwe.</L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Mi wisdam is to foly brouȝt,</L>
+<L>And al my good is com̄e to nouȝt,</L>
+<L>Þis world chaungeth wel swythe.</L>
+<L>Men þat wer wont vn to me lovten,</L>
+<L>Þei speren hir ȝates. &amp; me þer outen,</L>
+<L>Þer for I am vn blythe.</L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>But now I knowe verely þe fode:</L>
+<L>Þis world farith . as ebbe &amp; flode;</L>
+<L>Þis is mekil wo.</L>
+<L>ffirst was I riche ., now I am pouer<SUP>e</SUP>,</L>
+<L>Now was I sek ., &amp; now I couer<SUP>e</SUP>,</L>
+<L>I carful am ., þer I go.</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>Routh me neuer ., what I dede;</L>
+<L>Ryȝt now her in þis stede</L>
+<L>Richesse for to wynne</L>
+<L>Had I strengthe. vn to my pay</L>
+<L>And my worschip. be nyȝt &amp; day</L>
+<L>To holde &amp; to be gynne."</L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>Þer cam a iew &amp; herde his mone,</L>
+<L>As he ȝede in þe wey allone,</L>
+<L>And how sor<SUP>e</SUP> he hym bemente.</L>
+<L>ffor to weten of his car<SUP>e</SUP></L>
+<L>And tydyn̄g of his hard far<SUP>e</SUP></L>
+<L>To tiofle faste he wente.</L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>"Tiofle, whi art þ<SUP>u</SUP> swilk a wrecche?</L>
+<L>&amp; welthe was neuer þi meche,</L>
+<L>Of power. ne of lore.</L>
+<L>Now þ<SUP>u</SUP> art fallen so lowe,</L>
+<L>Þ<SUP>u</SUP> may cursen þat throwe</L>
+<L>Þat Þ<SUP>u</SUP> euer wer<SUP>e</SUP> bore.</L>
+</LG>
+<LG N="17">
+<PB N="8" REF="8"/>
+<HEAD>17.</HEAD>
+<L>Wel heye on hors þ<SUP>u</SUP> wer<SUP>e</SUP> wont to ride</L>
+<L>Wiþ richesse &amp; wiþ mekil pride,</L>
+<L>And now þ<SUP>u</SUP> gost on fote;</L>
+<L>Þin art &amp; þin wit it is mys went,</L>
+<L>Thourgh pride j leve þ<SUP>u</SUP> art schent.</L>
+<L>What thyng is it. may ben þi bote?"</L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>Tiofle wex paal of hew,</L>
+<L>ffor he nolde nouȝt. þe iew hym knew;</L>
+<L>ffro hym he wold hym hide.</L>
+<L>Þe iew percayued his maner</L>
+<L>And ȝede euer tiofle ner &amp; ner</L>
+<L>ffaste be his syde.</L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>"Tiofle, no thyng schame þe,</L>
+<L>Þouȝ þ<SUP>u</SUP> hidest þe fro me;</L>
+<L>Wel wot I, what þ<SUP>u</SUP> menest.</L>
+<L>Say me her þi nede anon,</L>
+<L>Þer of I schal þe bote don̄</L>
+<L>Wel betir þan þ<SUP>u</SUP> wenest."</L>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>"I ne wot, what I may sayn,</L>
+<L>ffor schame &amp; sorwe I wolde deyen</L>
+<L>Ryȝt now her in þis place.</L>
+<L>Gon is al my wordelis good,</L>
+<L>Þer for I waxe bothe wilde &amp; wood,</L>
+<L>ffor gon is al my grace.</L>
+</LG>
+<LG N="21">
+<HEAD>21.</HEAD>
+<L>No wonder it is ., þouȝ I sike &amp; car<SUP>e</SUP>,</L>
+<L>ffor I was wont to noble far<SUP>e</SUP></L>
+<L>Among prynces of londes;—</L>
+<L>And now is al my good a wey,</L>
+<L>I may wel sa<HI REND="overline">yn</HI> welawey</L>
+<L>And wringen boþe myn hondes."</L>
+</LG>
+<LG N="22">
+<HEAD>22.</HEAD>
+<L>Þe jew seys hym so sor<SUP>e</SUP> mournen</L>
+<L>&amp; þouȝt in herte, how he myȝt hym turnen</L>
+<L>To beleuen on his lawe;</L>
+<L>As fayr<SUP>e</SUP> as he covde,</L>
+<L>Neither to stille ne to lovde,</L>
+<L>He sayde to hym his sawe.</L>
+</LG>
+<LG N="23">
+<PB N="9" REF="9"/>
+<HEAD>23.</HEAD>
+<L>"Tiofle, let þi mournyng cher<SUP>e</SUP>,</L>
+<L>Listne to me. &amp; be my fer<SUP>e</SUP></L>
+<L>And do, as I wil þe lere.</L>
+<L>Ȝyf þ<SUP>u</SUP> after my wil wilt don̄,</L>
+<L>Þ<SUP>u</SUP> schalt ben er to morwen at no<HI REND="overline">on</HI></L>
+<L>Richer þan þ<SUP>u</SUP> er wer<SUP>e</SUP>.</L>
+</LG>
+<LG N="24">
+<HEAD>24.</HEAD>
+<L>I haue a lord þat hatte satan;</L>
+<L>Ȝyf þ<SUP>u</SUP> wilt be comen his man,</L>
+<L>He schal þe riche man maken,</L>
+<L>Gret dignete he schal þe ȝeven</L>
+<L>Whils þ<SUP>u</SUP> on erthe her schal leven,</L>
+<L>And gold y nowe þe be taken.</L>
+</LG>
+<LG N="25">
+<HEAD>25.</HEAD>
+<L>Þer for be thinke þe, I þe pray,</L>
+<L>Ȝyf þ<SUP>u</SUP> wilt don̄, as I þe say</L>
+<L>Prevely allone;</L>
+<L>And I hastely anon̄</L>
+<L>Wil to my maister gon̄</L>
+<L>Ðin erand for to done."</L>
+</LG>
+<LG N="26">
+<HEAD>26.</HEAD>
+<L>Tiofle be þouȝtte hym sone,</L>
+<L>What hym was best for to done,</L>
+<L>He gan sor<SUP>e</SUP> siken &amp; murnen.</L>
+<L>Whan he had hym al bi þouȝt,</L>
+<L>Hym þouȝtte, his wisdam halp hym nouȝt;</L>
+<L>To þe jew he gan turnen.</L>
+</LG>
+<LG N="27">
+<HEAD>27.</HEAD>
+<L>And sayd: "sir, I pray þe,</L>
+<L>Ȝif þat it þi wil be,</L>
+<L>Myn erand þat þ<SUP>u</SUP> wilt bede,</L>
+<L>To medes he wil ȝeuen me wordely good,</L>
+<L>Say hym, I wil with mylde mood</L>
+<L>His bond man be in dede.</L>
+</LG>
+<LG N="28">
+<HEAD>28.</HEAD>
+<L>Go now firste and duel no while,</L>
+<L>It wer<SUP>e</SUP> synne to don me gile,</L>
+<L>ffor I am ful of care."</L>
+<L>"Ȝis," sayde þe jew, "I wil gon̄;</L>
+<L>Þ<SUP>u</SUP> schalt sen þat I schal don</L>
+<L>Belyve a redy fare."</L>
+</LG>
+<LG N="29">
+<PB N="10" REF="10"/>
+<HEAD>29.</HEAD>
+<L>Þe jew wente his wey forth</L>
+<L>Also ryȝt, as he couthe, north,</L>
+<L>Tiofle he leet þer dwellen.</L>
+<L>He ȝede to seken satanas</L>
+<L>Þat in helle is &amp; was</L>
+<L>His erand for to tellen.</L>
+</LG>
+<LG N="30">
+<HEAD>30.</HEAD>
+<L>"Satanas, I coniur<SUP>e</SUP> þe.</L>
+<L>Þat þ<SUP>u</SUP> come vp &amp; speke with me,</L>
+<L>As þ<SUP>u</SUP> be forn̄ hast don̄;</L>
+<L>Þis day þ<SUP>u</SUP> schalt haue, &amp; I leue,</L>
+<L>A soule to þi ȝeres ȝeue</L>
+<L>ffro Jesu goddis son̄."</L>
+</LG>
+<LG N="31">
+<HEAD>31.</HEAD>
+<L>Vp he ros, þis foule thyng,</L>
+<L>As sone as he herde of þat tiding,</L>
+<L>He rapede hym wel swithe.</L>
+<L>Hym þouȝt be þe iewes steuen</L>
+<L>An̄ soule for to drawen fro heuen,</L>
+<L>Þer for he was wel blithe.</L>
+</LG>
+<LG N="32">
+<HEAD>32.</HEAD>
+<L>"Sey me now, þ<SUP>u</SUP> maister iew,</L>
+<L>What is þi wil, I do now?</L>
+<L>Þ<SUP>u</SUP> callest me so ȝerne.</L>
+<L>Ister ony thing. þat I may hauen</L>
+<L>Or ony good þat I may craven?</L>
+<L>Telle me swiþe, my leve barne."</L>
+</LG>
+<LG N="33">
+<HEAD>33.</HEAD>
+<L>"Her<SUP>e</SUP> is a clerk þat wisdam can,</L>
+<L>ffor catel. he wil be comen þi man,</L>
+<L>He dredis hym. of blame;</L>
+<L>He was wont. to mekel won̄,</L>
+<L>Of wordelis good. now hath he non̄,</L>
+<L>Þer of he hath gret schame.</L>
+</LG>
+<LG N="34">
+<HEAD>34.</HEAD>
+<L>ffor wordely richesse &amp; of gold &amp; fe</L>
+<L>He wil ȝelde hym al to þe</L>
+<L>With word &amp; with dede."</L>
+<L>Satanas sayde. "ȝif he wil so,</L>
+<L>Sey hym swithe ., he come me to,</L>
+<L>And he schal haue his mede."</L>
+</LG>
+<LG N="35">
+<PB N="11" REF="11"/>
+<HEAD>35.</HEAD>
+<L>Whan Satanas had hym þus red,</L>
+<L>Þe iew þouȝt ., he had weel sped</L>
+<L>And his erand weel founden.</L>
+<L>Age<HI REND="overline">yn</HI> he ȝede wel swythe</L>
+<L>To maken þe clerkis herte blithe</L>
+<L>Þat was in gret sorwe bounden.</L>
+</LG>
+<LG N="36">
+<HEAD>36.</HEAD>
+<L>"Tiofle, I haue þin erand don̄,</L>
+<L>And I was to my maister gon,</L>
+<L>Cum now . &amp; go we bothe."</L>
+<L>Tiofle sayd þan. "is it he ȝone?</L>
+<L>I wene, he is þe deuelis sone.</L>
+<L>Me be gynnis to lothe."</L>
+</LG>
+<LG N="37">
+<HEAD>37.</HEAD>
+<L>Þe iew seide: "hold þ<SUP>u</SUP> no tale;</L>
+<L>Þouȝ he be grisly. &amp; of hew pale,</L>
+<L>He is of mekel myȝt.</L>
+<L>Of foul semblaunt þouȝ he be,</L>
+<L>He is bothe large &amp; fre</L>
+<L>And a good felawe ., I þe plyȝt."</L>
+</LG>
+<LG N="38">
+<HEAD>38.</HEAD>
+<L>Þe iew bad hym, he schulde gon̄,</L>
+<L>Satanas man to be comen anon̄,</L>
+<L>It wer<SUP>e</SUP> hym al to done.</L>
+<L>Tiofle stood &amp; sykyd sor<SUP>e</SUP>,</L>
+<L>Lytel he spak, he þouȝtte mor<SUP>e</SUP>,</L>
+<L>He grauntid hym his bone.</L>
+</LG>
+<LG N="39">
+<HEAD>39.</HEAD>
+<L>"ffro men I may me noȝt hide,</L>
+<L>I may no leng her<SUP>e</SUP> abyde,</L>
+<L>ffor I can don no dede.</L>
+<L>I am ful of sorwe &amp; wo,</L>
+<L>I can nouȝt say, what I may do;</L>
+<L>Marie me helpe. &amp; rede."</L>
+</LG>
+<LG N="40">
+<HEAD>40.</HEAD>
+<L>fforth wente þis car<SUP>e</SUP> ful man</L>
+<L>And cam be forn̄ mayster satan,</L>
+<L>On knes he hym þer sette.</L>
+<L>As wel as he couthe,</L>
+<L>Neyther stille ne to loude,</L>
+<L>Þat meysterlyng he grette.</L>
+</LG>
+<LG N="41">
+<PB N="12" REF="12"/>
+<HEAD>41.</HEAD>
+<L>"Meystir &amp; syre, wel þ<SUP>u</SUP> be,</L>
+<L>Þer þ<SUP>u</SUP> sittist in þi se,</L>
+<L>I grete þe, as I can.</L>
+<L>Nede hath me so sor<SUP>e</SUP> taken,</L>
+<L>Myn owen lawe I wil for saken</L>
+<L>And be comen þi man."</L>
+</LG>
+<LG N="42">
+<HEAD>42.</HEAD>
+<L>"Bel amy, wel comen art þ<SUP>u</SUP>,</L>
+<L>Say me þin erand, why &amp; how</L>
+<L>Þat þ<SUP>u</SUP> art hedir comen to me.</L>
+<L>I am a mayster &amp; pouste haue,</L>
+<L>Riche to maken ilke pouere knaue</L>
+<L>Þat wil my seruaunt bounden be."</L>
+</LG>
+<LG N="43">
+<HEAD>43.</HEAD>
+<L>"Mayster &amp; sir<SUP>e</SUP>, I say it to þe,</L>
+<L>I was a man of gret dignete</L>
+<L>And erche deken y wis.</L>
+<L>I had richesse &amp; mekil won,</L>
+<L>And euerydel it is now gon̄,</L>
+<L>A wey is al my blys.</L>
+</LG>
+<LG N="44">
+<HEAD>44.</HEAD>
+<L>Al mennis cumpany now I fle</L>
+<L>ffor schame of my pouerte</L>
+<L>And hyde me in hernys allone;</L>
+<L>Þer fore I am now comen to þe,</L>
+<L>A riche man ȝyf þ<SUP>u</SUP> wilt maken me,</L>
+<L>Seruyse I wil þe done."</L>
+</LG>
+<LG N="45">
+<HEAD>45.</HEAD>
+<L>"ffor sac first Jesu &amp; marie</L>
+<L>And al hir hool cumpanye</L>
+<L>With word &amp; with þouȝt,</L>
+<L>And make me a charter with þin hond,</L>
+<L>As men don̄ þat sellen lond,</L>
+<L>Þat I lese þe nouȝt."</L>
+</LG>
+<LG N="46">
+<HEAD>46.</HEAD>
+<L>"Sir, I schal wel don þi bone,</L>
+<L>A chartre I schal maken sone,</L>
+<L>As wel as I can;</L>
+<L>Wher so I go or be,</L>
+<L>Þ<SUP>u</SUP> may ben seker of me,</L>
+<L>I am þi trewe man."</L>
+</LG>
+<LG N="47">
+<PB N="13" REF="13"/>
+<HEAD>47.</HEAD>
+<L>Tyofle made þat chartre good</L>
+<L>And wrot it with his owen blood,</L>
+<L>And þat was al to fele,</L>
+<L>Swilk sekirnesse to maken</L>
+<L>And iesu crist to forsaken</L>
+<L>ffor a litel wele.</L>
+</LG>
+<LG N="48">
+<HEAD>48.</HEAD>
+<L>Whan þe charter wretin was</L>
+<L>And þe couenaund mad with satanas</L>
+<L>Þat he myȝt nouȝt breken,</L>
+<L>Satanas þouȝt a long fare,</L>
+<L>To he was sekir of his war<SUP>e</SUP>,</L>
+<L>To tyofle he gan speken.</L>
+</LG>
+<LG N="49">
+<HEAD>49.</HEAD>
+<L>"I say, clerk, hast þ<SUP>u</SUP> don þi dede?</L>
+<L>Art þ<SUP>u</SUP> redy to taken mede?</L>
+<L>Is þe chartre good?"</L>
+<L>"Sir<SUP>e</SUP>, þe chartre, it has no cel;</L>
+<L>My trewthe I þe plyȝt, it is mad wel</L>
+<L>With myn owen blode."</L>
+</LG>
+<LG N="50">
+<HEAD>50.</HEAD>
+<L>"Red her<SUP>e</SUP> þat chartre anon</L>
+<L>Be forn̄ þise men euery chon̄</L>
+<L>Þat þei m<HI REND="overline">oun</HI> ber<SUP>e</SUP> þer of witnesse.</L>
+<L>In chaffaring of mys happe</L>
+<L>Witnesse is good for after clappe,</L>
+<L>Be it mor<SUP>e</SUP> or lesse."</L>
+</LG>
+<LG N="51">
+<HEAD>51.</HEAD>
+<L>Þe man þat wiste of þat chaffare,</L>
+<L>How þe clerk seld hym self for ware,</L>
+<L>His herte myȝtte sor<SUP>e</SUP> bleden.</L>
+<L>Tyofle gan þe chartre taken,</L>
+<L>As he beforn̄ had it maken,</L>
+<L>And þo began he it to reden:</L>
+</LG>
+<LG N="52">
+<HEAD>52.</HEAD>
+<L>Alle men knowen. þat arn̄ &amp; schul b<HI REND="overline">en</HI></L>
+<L>Þat þis chartre schul herin &amp; s<HI REND="overline">en</HI></L>
+<L>With eris &amp; with eye,</L>
+<L>Þat I—Tyofle—her<SUP>e</SUP> for sake</L>
+<L>God only &amp; to þe deuil me take</L>
+<L>Bothe loude &amp; heye.</L>
+</LG>
+<LG N="53">
+<PB N="14" REF="14"/>
+<HEAD>53.</HEAD>
+<L>ffor his syluer &amp; his gold</L>
+<L>Lyf &amp; soule I haue hym sold</L>
+<L>To hauen with outen ende,</L>
+<L>Hym to loven &amp; to seruen,</L>
+<L>In his seruise to leuyn &amp; dyen,</L>
+<L>Wher so euer I wende.</L>
+</LG>
+<LG N="54">
+<HEAD>54.</HEAD>
+<L>Þat I schal nouȝt for nō nede</L>
+<L>ffro hym gon̄ in no drede</L>
+<L>Be day ne be terme,</L>
+<L>But euer mor<SUP>e</SUP> to ben his man</L>
+<L>With alle þe werk<SUP>s</SUP> þat I can.</L>
+<L>Þis chartre I wil conferme."—</L>
+</LG>
+<LG N="55">
+<HEAD>55.</HEAD>
+<L>Þan answerde satanas,</L>
+<L>Þat foule thyng, þer he was</L>
+<L>Be forn̄ hym in present.</L>
+<L>Whan þe chartre was al red,</L>
+<L>Hym þouȝtte, he hadde wel sped,</L>
+<L>He sayde al his talent.</L>
+</LG>
+<LG N="56">
+<HEAD>56.</HEAD>
+<L>"Þe chartre is mad fayre &amp; wel,</L>
+<L>I may fynde þer in non euyl;</L>
+<L>Of beter<SUP>e</SUP> I haue nō nede.</L>
+<L>Now þ<SUP>u</SUP> hast þe chartre wrouȝt,</L>
+<L>Þ<SUP>u</SUP> art myn bothe sold &amp; bouȝt,</L>
+<L>Cum now to me. &amp; do me manrede!"</L>
+</LG>
+<LG N="57">
+<HEAD>57.</HEAD>
+<L>Tyofle on his kneis. he fel doun þo</L>
+<L>Be forn̄ Satanas. with herte wel wo,</L>
+<L>He dede it al for nede.</L>
+<L>"Satanas, I am þi bonde man</L>
+<L>With alle þe werk<SUP>s</SUP> þat I can</L>
+<L>Bothe in word &amp; dede.</L>
+</LG>
+<LG N="58">
+<HEAD>58.</HEAD>
+<L>To ride or to go ., be nyȝt or be day</L>
+<L>With al þe wil þat I can or may</L>
+<L>And with my wit &amp; my lor<SUP>e</SUP>;</L>
+<L>Wher so I go or be,</L>
+<L>My lord for to holden þe</L>
+<L>Now &amp; euere more."</L>
+</LG>
+<LG N="59">
+<PB N="15" REF="15"/>
+<HEAD>59.</HEAD>
+<L>A synful dede wrouȝtte þat man,</L>
+<L>Whan he leet god &amp; tok satan,</L>
+<L>He dede it al for nede.</L>
+<L>Whan he hadde al don his wil,</L>
+<L>As it was bothe lawe &amp; skil,</L>
+<L>He ȝaf þe clerk his mede.</L>
+</LG>
+<LG N="60">
+<HEAD>60.</HEAD>
+<L>"ffor þ<SUP>u</SUP> so wel hast told þi tale,</L>
+<L>Tak þe þer pens ful a male,</L>
+<L>I schal faylen þe nevyr;</L>
+<L>Wheder þ<SUP>u</SUP> ride or go,</L>
+<L>Suylk y nowȝ &amp; ȝit mo</L>
+<L>I schal þe fynden evir.</L>
+</LG>
+<LG N="61">
+<HEAD>61.</HEAD>
+<L>Ryȝt wel I wille a waunsen þe</L>
+<L>In þat self dygnete</L>
+<L>To ben, as þ<SUP>u</SUP> wer<SUP>e</SUP> wone,</L>
+<L>Erche dekne I þe make,</L>
+<L>Hors &amp; welthes her<SUP>e</SUP> I þe be take,</L>
+<L>And be euer my gode sone.</L>
+</LG>
+<LG N="62">
+<HEAD>62.</HEAD>
+<L>Wordelis richesse þ<SUP>u</SUP> schalt haue,</L>
+<L>What thyng euer þ<SUP>u</SUP> wilt crave,</L>
+<L>And loke, þ<SUP>u</SUP> be trewe;</L>
+<L>ffor I haue so wel a waunsen þe,</L>
+<L>Loke, þ<SUP>u</SUP> neuer for sake me</L>
+<L>ffor no lord newe."</L>
+</LG>
+<LG N="63">
+<HEAD>63.</HEAD>
+<L>Þan sayde tyofle: "Þat wil I nouȝt,</L>
+<L>It schal neuer comen in my þouȝt</L>
+<L>ffor non kynnis nede.</L>
+<L>Wher for scholde I þe for saken</L>
+<L>And a nothir lord now taken?</L>
+<L>Þat wer<SUP>e</SUP> a theues dede.</L>
+</LG>
+<LG N="64">
+<HEAD>64.</HEAD>
+<L>Haue good day now, lord myn̄,</L>
+<L>Body &amp; soule I am thyn,</L>
+<L>Euere with outen ende;</L>
+<L>Of al my sorwe þ<SUP>u</SUP> art my leche,</L>
+<L>Body &amp; soule I the be teche,</L>
+<L>Wher so I euer wende.</L>
+</LG>
+<LG N="65">
+<PB N="16" REF="16"/>
+<HEAD>65.</HEAD>
+<L>Alle men may now haue ioye of me,</L>
+<L>Bothe ȝyng &amp; eld, whedir he be,</L>
+<L>Þat hath me be forn̄ knowen,</L>
+<L>Þat I am now so wel threuen,</L>
+<L>My lord hath me al this good ȝeuen,</L>
+<L>ffor I am al hys owen.</L>
+</LG>
+<LG N="66">
+<HEAD>66.</HEAD>
+<L>With ioye &amp; blysse I may now faren,</L>
+<L>I dar my self neuer mor<SUP>e</SUP> caren,</L>
+<L>Ryȝt wel I haue spedde.</L>
+<L>fforto hauen her<SUP>e</SUP> al myn wille,</L>
+<L>Of wordely good to haue my fylle,</L>
+<L>My soule is set to wedde.</L>
+</LG>
+<LG N="67">
+<HEAD>67.</HEAD>
+<L>Good lyf &amp; large I schal leden,</L>
+<L>Pouerte dar me neuer dreden,</L>
+<L>ffor nothyng þat may be fallen.</L>
+<L>Mi lord wil me don hauen,</L>
+<L>What thyng me list of hym to crauen,</L>
+<L>Whan I to hym will callen."</L>
+</LG>
+<LG N="68">
+<HEAD>68.</HEAD>
+<L>And as tyofle rod ., he herde a steuyn—</L>
+<L>I wis it was a voys of heuyn</L>
+<L>Þat lyȝtte adoun to grounde.</L>
+<L>A word þer was sayd: reuertere.</L>
+<L>Whan he it herde, he fel on kne</L>
+<L>On swounyng in þat stounde.</L>
+</LG>
+<LG N="69">
+<HEAD>69.</HEAD>
+<L>"Reuertere ., reuertere,</L>
+<L>Þat word, I wot, was sayd of me.</L>
+<L>Allas, what haue I wrouȝt.</L>
+<L>My richesse I wil lete al gon̄,</L>
+<L>And I for sakes euery chon̄,</L>
+<L>ffor I wil kepen hem nouȝt.</L>
+</LG>
+<LG N="70">
+<HEAD>70.</HEAD>
+<L>Allas, allas, why was I so wod,</L>
+<L>Þat I for sok Jesu so good</L>
+<L>Þat hath bouȝt al man kynne.</L>
+<L>I haue don̄ þe werste dede</L>
+<L>Þat euer ony man dede for nede</L>
+<L>And þe cursedist synne.</L>
+</LG>
+<LG N="71">
+<PB N="17" REF="17"/>
+<HEAD>71.</HEAD>
+<L>So foul stynkande is my bede</L>
+<L>Þat my prayer<SUP>s</SUP> may haue no stede.</L>
+<L>To whom is best þat I crye?</L>
+<L>Now I haue god for saken,</L>
+<L>Mercy I may neuer taken,</L>
+<L>But it be thourgh marie.</L>
+</LG>
+<LG N="72">
+<HEAD>72.</HEAD>
+<L>Now mercy, moder mek &amp; mylde,</L>
+<L>A synful clerk fro schame þ<SUP>u</SUP> schilde</L>
+<L>Þat is in sorwe bounde.</L>
+<L>Þer was neuer man so synful in dede,</L>
+<L>Ȝif he wil aske þe help at nede,</L>
+<L>Þ<SUP>u</SUP> herist hym in a stounde.</L>
+</LG>
+<LG N="73">
+<HEAD>73.</HEAD>
+<L>Now, swete moder &amp; lady of grace,</L>
+<L>Þ<SUP>u</SUP> sende me þin help in þis place;</L>
+<L>Þ<SUP>u</SUP> þat art bothe meke &amp; mylde</L>
+<L>And ful of mercy &amp; of pite,</L>
+<L>Þis day þi grace þ<SUP>u</SUP> sende me</L>
+<L>ffor Jesus love þat is þi childe.</L>
+</LG>
+<LG N="74">
+<HEAD>74.</HEAD>
+<L>And for þe loue of þo harde stoundes</L>
+<L>Þat þ<SUP>u</SUP> haddest of þo woundes</L>
+<L>Þat þi sone sufferd for mannis synne</L>
+<L>And for þe teres þat þ<SUP>u</SUP> lete,</L>
+<L>Myn synful lyf amende &amp; bete</L>
+<L>Þat I am now inne.</L>
+</LG>
+<LG N="75">
+<HEAD>75.</HEAD>
+<L>And, lady, for þo ioyes fyve</L>
+<L>Þat þ<SUP>u</SUP> haddest in þi lyve,</L>
+<L>Moder of Jesu, þi childe,</L>
+<L>Þ<SUP>u</SUP>, lady, þat art ful of pite,</L>
+<L>Þi merci þis day þ<SUP>u</SUP> sende me</L>
+<L>And fro schame þ<SUP>u</SUP> me schilde."</L>
+</LG>
+<LG N="76">
+<HEAD>76.</HEAD>
+<L>As god it wolde in þat stounde,</L>
+<L>Þe clerk hym fel a doun to þe grounde,</L>
+<L>And þer he lay in a sueuene.</L>
+<L>Marie ful of grace cam</L>
+<L>fforto helpen þat careful man̄</L>
+<L>Doun fro þe blysse of heuynne.</L>
+</LG>
+<LG N="77">
+<PB N="18" REF="18"/>
+<HEAD>77.</HEAD>
+<L>"Wak, tyofle, &amp; slep þ<SUP>u</SUP> nouȝt,</L>
+<L>ffor I am comen fro heuyn loft</L>
+<L>To brynge þe good tydynge.</L>
+<L>Man, why wer<SUP>e</SUP> þ<SUP>u</SUP> so wod</L>
+<L>Þat þ<SUP>u</SUP> forsok my sone good,</L>
+<L>And holdis he alle thynge.</L>
+</LG>
+<LG N="78">
+<HEAD>78.</HEAD>
+<L>Al thyng he hath wrouȝt</L>
+<L>With his word &amp; with hys þouȝt,</L>
+<L>Swilk a lord men scholde taken;</L>
+<L>Þe deuel of helle hath no thyng</L>
+<L>But of thefte &amp; false lenyng,</L>
+<L>He is worthy to ben for saken.</L>
+</LG>
+<LG N="79">
+<HEAD>79.</HEAD>
+<L>Ȝyf o man hadde mys wrouȝt</L>
+<L>Alle þe synnes þat myȝtten be þouȝt,</L>
+<L>And he wille þem for saken</L>
+<L>And sor<SUP>e</SUP> repente hym of þat synne,</L>
+<L>In to þat blys my sone is inne</L>
+<L>He schal redly ben taken.</L>
+</LG>
+<LG N="80">
+<HEAD>80.</HEAD>
+<L>What thyng þat þ<SUP>u</SUP> euer hast mys done,</L>
+<L>Openly or allone,</L>
+<L>Þer of drede þe nouȝt.</L>
+<L>Ȝyf þ<SUP>u</SUP> wilt louen me with honur,</L>
+<L>I wil ben̄ þi procatour</L>
+<L>To hym þat hath þe wrouȝt."</L>
+</LG>
+<LG N="81">
+<HEAD>81.</HEAD>
+<L>"Mylde lady &amp; heuyn quen,</L>
+<L>Blissid mote þ<SUP>u</SUP> euer ben̄,</L>
+<L>ffor þ<SUP>u</SUP> hast herd my bone.</L>
+<L>Of alle wymmen blyssid þ<SUP>u</SUP> be</L>
+<L>Þat þin wil is to comen to me</L>
+<L>To helpen me þus sone.</L>
+</LG>
+<LG N="82">
+<HEAD>82.</HEAD>
+<L>I am to þe aknowen of þis synful dede;</L>
+<L>But þ<SUP>u</SUP> helpe me at þis nede,</L>
+<L>I wot wel, I am but lorn̄.</L>
+<L>Lady queen, þ<SUP>u</SUP> art euer mylde,</L>
+<L>Help me for þe love of þi childe</L>
+<L>Þat of þe was born̄.</L>
+</LG>
+<LG N="83">
+<PB N="19" REF="19"/>
+<HEAD>83.</HEAD>
+<L>Lady &amp; queen, now þ<SUP>u</SUP> art comen</L>
+<L>Doun fro heuyn ȝondir aboven</L>
+<L>To don̄ þat is þi wille.</L>
+<L>Þ<SUP>u</SUP>, lady, vnlose me of þo bondes</L>
+<L>Þat I wrot with myn owyn hondes,</L>
+<L>And þat my soule nouȝt spylle."</L>
+</LG>
+<LG N="84">
+<HEAD>84.</HEAD>
+<L>"Tyofle, þer for<SUP>e</SUP> I am comen:</L>
+<L>Ȝyf þ<SUP>u</SUP> wilt me seruen &amp; louen,</L>
+<L>To helle I schal wende,</L>
+<L>And I wille for þe loue of þe</L>
+<L>Gon to helle &amp; maken þe fre,</L>
+<L>Þe deuel þer schal I schende.</L>
+</LG>
+<LG N="85">
+<HEAD>85.</HEAD>
+<L>Abyd þ<SUP>u</SUP> me in þat stede</L>
+<L>In prayer<SUP>e</SUP> &amp; in holy bede,</L>
+<L>I schal comen ageyn wel sone.</L>
+<L>I schal thourgh my sones myȝt</L>
+<L>Bryngen þe fro þat foule wyȝt,</L>
+<L>ffor I haue herd þin bone."</L>
+</LG>
+<LG N="86">
+<HEAD>86.</HEAD>
+<L>Our<SUP>e</SUP> lady tok þo þe ryȝt wey</L>
+<L>In to helle, as I ȝow say,</L>
+<L>Tyofle out to borwen,</L>
+<L>Whil tyofle made hys prayere;</L>
+<L>It was wel sene, he was hir dere,</L>
+<L>Wel aughtte he hir to seruen.</L>
+</LG>
+<LG N="87">
+<HEAD>87.</HEAD>
+<L>"Blessid be þat lady, heuyn quen,</L>
+<L>Thourgh hir I hope saued ben̄,</L>
+<L>Þat is mayden marie.</L>
+<L>Synful wrecche þouȝ I be,</L>
+<L>Þat sche so sone wil helpen me,</L>
+<L>Whan I to hir gan krye.</L>
+</LG>
+<LG N="88">
+<HEAD>88.</HEAD>
+<L>ffor no thyng þat I haue mys wrouȝt</L>
+<L>My prayer<SUP>e</SUP> for sakis sche nouȝt,</L>
+<L>Hir mercy is euer swete.</L>
+<L>fflour of erthe, heuyn quen,</L>
+<L>Blessid mote þ<SUP>u</SUP> euere ben,</L>
+<L>Wiþ Love I þe grete."</L>
+</LG>
+<LG N="89">
+<PB N="20" REF="20"/>
+<HEAD>89.</HEAD>
+<L>Anon̄ as marie to helle cam,</L>
+<L>Þe fend satan sche vndernam</L>
+<L>Of þat ilke dede.</L>
+<L>How he þouȝtte þat mys aventur<SUP>e</SUP></L>
+<L>To byen goddes creature</L>
+<L>ffor ony kynnis nede.</L>
+</LG>
+<LG N="90">
+<HEAD>90.</HEAD>
+<L>"Satanas, what hast þ<SUP>u</SUP> ywrouȝt?</L>
+<L>Hast þ<SUP>u</SUP> my sones best bouȝt</L>
+<L>Þat he hath bouȝt beforen?</L>
+<L>Satanas, I telle it þe,</L>
+<L>Tyofle hath ȝolden hym to me,</L>
+<L>And þ<SUP>u</SUP> hast hym yloren."</L>
+</LG>
+<LG N="91">
+<HEAD>91.</HEAD>
+<L>"Certis þer ageyn̄ I wille cleymen,</L>
+<L>ffor þat myȝtte neuer be fallen</L>
+<L>ffor non aventur<SUP>e</SUP>.</L>
+<L>I haue a chartre trewe &amp; good,</L>
+<L>He wrot it hymself with his owen blod,</L>
+<L>Þer for tyofle is oure."</L>
+</LG>
+<LG N="92">
+<HEAD>92.</HEAD>
+<L>"Tyofle, þe clerk, ys me wel der<SUP>e</SUP>,</L>
+<L>Þer for<SUP>e</SUP> I am now comen her<SUP>e</SUP>,</L>
+<L>Þat chartre I wil hauen.</L>
+<L>Jesu, my sone, hath hym wrouȝtte</L>
+<L>And sithen on þe rode hym bouȝtte,</L>
+<L>With ryȝt he wil hym craven."</L>
+</LG>
+<LG N="93">
+<HEAD>93.</HEAD>
+<L>"Þat chartre þ<SUP>u</SUP> schalt neuer wynne,</L>
+<L>ffor it is sperid her with inne,</L>
+<L>Þer to comest þ<SUP>u</SUP> nouȝt.</L>
+<L>ffor my catel gret plente</L>
+<L>Tyofle solde his sovle to me,</L>
+<L>And I haue hym bouȝt."</L>
+</LG>
+<LG N="94">
+<HEAD>94.</HEAD>
+<L>"Þat chartre I schal my seluyn taken</L>
+<L>And al my wil her<SUP>e</SUP> in maken,</L>
+<L>And car<SUP>e</SUP> &amp; woo þat schal ben þin.</L>
+<L>Þat catel þat þ<SUP>u</SUP> ȝef þe clerk,</L>
+<L>It was al of my sones werk,</L>
+<L>þerfor<SUP>e</SUP> he schal be myn̄."</L>
+</LG>
+<LG N="95">
+<PB N="21" REF="21"/>
+<HEAD>95.</HEAD>
+<L>No wondir it was þat þe fend was wo,</L>
+<L>ffor sche be nom hym þe chartre þo,</L>
+<L>Marie, þat lady bryȝt.</L>
+<L>Al þouȝ he wer<SUP>e</SUP> bothen wroth &amp; grym,</L>
+<L>Sche tok þe chartre fro vnder hym</L>
+<L>And be nome hym hys myȝt.</L>
+</LG>
+<LG N="96">
+<HEAD>96.</HEAD>
+<L>"Now I wot and now I may telle:</L>
+<L>Þi myȝt is bothen in heuyn &amp; in helle</L>
+<L>And ouerall aboute;</L>
+<L>In helle ne in erthe is no lawe,</L>
+<L>Ne treuthe þat is worth an hawe,</L>
+<L>My ryȝt goth al with oute.</L>
+</LG>
+<LG N="97">
+<HEAD>97.</HEAD>
+<L>Allas, allas, wherfor<SUP>e</SUP> cam þ<SUP>u</SUP> her<SUP>e</SUP></L>
+<L>To reuen me of þat I bouȝtte wel der<SUP>e</SUP>,</L>
+<L>And þ<SUP>u</SUP> þin maysteri her to maken?</L>
+<L>Why wilt þ<SUP>u</SUP> for schame &amp; velenye</L>
+<L>Receyuen hym to þi mercye,</L>
+<L>Whan he hath god forsaken?"</L>
+</LG>
+<LG N="98">
+<HEAD>98.</HEAD>
+<L>"Satanas, I telle her þe:</L>
+<L>My sone is so ful of pite,</L>
+<L>What so euer man hath mys þouȝt,</L>
+<L>Þat he wil haue mercy on hem alle</L>
+<L>Þat willen mercy asken &amp; calle,</L>
+<L>What man þat hath ony thyng mys wrouȝt.</L>
+</LG>
+<LG N="99">
+<HEAD>99.</HEAD>
+<L>I wil her<SUP>e</SUP> now no lenger dwelle,</L>
+<L>Ne I wil to þe no mor<SUP>e</SUP> telle,</L>
+<L>A ȝeen I wil now wende."</L>
+<L>"Þat ilke tyme I crie welawey</L>
+<L>[Þat] þ<SUP>u</SUP> com her þis day</L>
+<L>[M]y myȝt doun to schende."</L>
+</LG>
+<LG N="100">
+<HEAD>100.</HEAD>
+<L>Our<SUP>e</SUP> swete lady wente aȝen̄</L>
+<L>ffro helle, þer sche hadde ben̄;</L>
+<L>fful wel sche hadde þo sped,</L>
+<L>Þe clerk sche brouȝtte good tydyng</L>
+<L>And a sur<SUP>e</SUP> tokyn of delyueryng—</L>
+<L>Sche brouȝtte hym hom his wed.</L>
+</LG>
+<LG N="101">
+<PB N="22" REF="22"/>
+<HEAD>101.</HEAD>
+<L>"Haue now, tyofle, chartre þin</L>
+<L>And loke, þ<SUP>u</SUP> be euer trewe seruaunt myn</L>
+<L>Myn miracles to rede;</L>
+<L>ffro þe fend I haue þe brouȝt,</L>
+<L>Þouȝ he be forn̄ had þe bouȝt,</L>
+<L>Þer of dar þe neuer mor<SUP>e</SUP> drede.</L>
+</LG>
+<LG N="102">
+<HEAD>102.</HEAD>
+<L>[Ȝif] þ<SUP>u</SUP> wilt loven wel to seruen me</L>
+<L>[&amp;] my trewe seruant euer be,</L>
+<L>þan þ<SUP>u</SUP> schalt saued ben.</L>
+<L>Go now &amp; do, as I þe say,</L>
+<L>And I schal wende my wey</L>
+<L>Vn to heuyn ageyn̄."</L>
+</LG>
+<LG N="103">
+<HEAD>103.</HEAD>
+<L>"Blessid be þ<SUP>u</SUP>, lady myn̄,</L>
+<L>I am ryȝt glad to ben þyn̄,</L>
+<L>Thourgh þe I am out borwen.</L>
+<L>My chartre þ<SUP>u</SUP> hast brouȝt aȝen̄;</L>
+<L>Glorious lady, blessid þ<SUP>u</SUP> euer ben̄,</L>
+<L>Þer for<SUP>e</SUP> me nedis nouȝt to sorwen.</L>
+</LG>
+<LG N="104">
+<HEAD>104.</HEAD>
+<L>Ilke a synful man now her<SUP>e</SUP> me,</L>
+<L>I wil ȝow sa<HI REND="overline">yn</HI> wordys thre</L>
+<L>Of oure lady marie,</L>
+<L>How I þat hadde crist iesu for saken,</L>
+<L>Redly to hir mercy sche hath me taken</L>
+<L>ffro þe fendis balye.</L>
+</LG>
+<LG N="105">
+<HEAD>105.</HEAD>
+<L>Þer may no man ben so synful in þouȝt,</L>
+<L>What so euere he hath mys wrouȝt,</L>
+<L>Good hope &amp; trust he may hauen,</L>
+<L>Þat he schal fynde euer mercy</L>
+<L>Redly at our<SUP>e</SUP> lady,</L>
+<L>Ȝyf he wil it of hir craven.</L>
+</LG>
+<LG N="106">
+<HEAD>106.</HEAD>
+<L>O þ<SUP>u</SUP> blessid moder &amp; lady swete,</L>
+<L>With al myn herte I wil þe grete</L>
+<L>And preysen þe a mong;</L>
+<L>I am euer worthy to louen þe</L>
+<L>In goddis name, &amp; of þe</L>
+<L>Syngen I wille a song:</L>
+<L>Te deum laudamus."</L>
+</LG>
+<LG N="107">
+<PB N="23" REF="23"/>
+<HEAD>107.</HEAD>
+<L>Þat lady þat grete miracles hath don̄</L>
+<L>ffor tyofle, þat clerk, on̄</L>
+<L>Þat was ner hand lorn̄,</L>
+<L>Sche brynge vs alle to þat blys,</L>
+<L>Þer sche with hir sone euer is</L>
+<L>Þat was of hir born.</L>
+<CLOSER>Amen.</CLOSER>
+<TRAILER>Explicit Tyofle.</TRAILER>
+</LG>
+</DIV2>
+<DIV2 TYPE="commentary">
+<HEAD>Bemerkungen.</HEAD>
+<P N="1">1. Abkürzungen wie <HI REND="italic">þ<SUP>t</SUP></HI> (= <HI REND="italic">þat), w<SUP>t</SUP></HI> (= <HI REND="italic">with), þ<SUP>{er}</SUP></HI> (= <HI REND="italic">þer)</HI> sind aufgelöst, aus∣genommen <HI REND="italic">þ<SUP>u</SUP></HI> (= <HI REND="italic">þou).</HI> Der schnörkel am <HI REND="italic">r</HI> ist durch übergeschriebenes <HI REND="italic">e</HI> wiedergegeben (z. b. <HI REND="italic">car<SUP>e</SUP>),</HI> ausser in fällen wie <HI REND="italic">trewe, gret, chartre, reuertere.</HI> Der strich über <HI REND="italic">n̄</HI> scheint ebenfalls <HI REND="italic">-e</HI> zu bedeuten (z. b. <HI REND="italic">gon̄</HI> = <HI REND="italic">gone).</HI> Für <HI REND="italic">e(s)</HI> findet sich zuweilen ein schnörkel, der durch übergeschriebenes <HI REND="italic">s</HI> wiedergegeben ist, z. b. <HI REND="italic">werk<SUP>s</SUP></HI> (Ms. <HI REND="italic">werk{is}).</HI> Häufig hat die handschrift punkte in der mitte der zeilen, welche neben der modernen interpunktion beibehalten sind.</P>
+<P N="2">2. 14 <SUP>1</SUP>. <HI REND="italic">Routh</HI> oder <HI REND="italic">Reuth?—</HI>16 <SUP>2</SUP>. Lies <HI REND="italic">Of welthe?—</HI>22 <SUP>1</SUP>. <HI REND="italic">seys</HI> = <HI REND="italic">ses</HI> 'sieht'.—30 <SUP>5</SUP>. Lies <HI REND="italic">geres?—</HI>36 <SUP>6</SUP>. Im Ms. ein zeichen ⁁ hinter <HI REND="italic">be gynnis,</HI> am rande steht ⁁ <HI REND="italic">hym.—</HI>53 <SUP>5</SUP>. Lies <HI REND="italic">to leuyn &amp; steruen?—</HI>62 <SUP>5</SUP>. Ms. <HI REND="italic">for sakē,</HI> der strich über <HI REND="italic">e</HI> in anderer tinte.—91 <SUP>1</SUP>. Lies <HI REND="italic">I wille callen?—</HI>99 u. 102. Die eingeklammerten buchstaben sind ergänzt, da im Ms. verwischt.—103 5. Lies <HI REND="italic">mote þ<SUP>u</SUP> euer ben.</HI></P>
+<CLOSER><DATELINE>Wilhelmshaven, <DATE>Dezbr. 1902.</DATE></DATELINE>
+<SIGNED>W. Heuser.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

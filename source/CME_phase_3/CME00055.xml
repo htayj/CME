@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-19-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; changed ARGUMENT to HEADNOTE; changed TRAILER to CLOSER; changed several HEADs to Qs and removed LGs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00055">
+<STC T="M">55</STC>
+<BIBNO T="mec">CME00055</BIBNO>
+<VID>CME00055</VID>
+</IDG>
+<TEXT LANG="enm">
+<FRONT>
+<DIV1 TYPE="title page">
+<P><PB REF="1"/>
+<HI REND="italic">Arthur;</HI> A SHORT SKETCH OF HIS LIFE AND HISTORY IN ENGLISH VERSE OF THE FIRST HALF OF THE FIFTEENTH CENTURY.</P>
+<P>COPIED AND EDITED FROM THE MARQUIS OF BATH'S MS. <HI REND="italic">Liber Rubeus Bathoniae,</HI> 1428 A.D.</P>
+<P>BY FREDERICK J. FURNIVALL, M.A., CAMB., EDITOR OF DE BORRON'S AND LONELICH'S "HISTORY OF THE HOLY GRAAL," WALTER MAP'S "QUESTE DEL SAINT GRAAL," ETC. ETC.</P>
+<P><HI REND="italic">[Second Edition,</HI> 1869.]</P>
+<P>LONDON: PUBLISHED FOR THE EARLY ENGLISH TEXT SOCIETY, BY N. TRÜBNER &amp; CO., 60, PATERNOSTER ROW.</P>
+<P>MDCCCLXIV.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="7"/>
+<HEAD>ARTHUR, FROM THE MARQUIS OF BATH'S MS. 1428 A.D.</HEAD>
+<HEADNOTE><P>[The Latin side-notes in italics and Clarendon, and the stops of the text in parentheses (), are those of the MS.]</P></HEADNOTE>
+<L>HErkeneþ, þat loueþ hono<HI REND="italic">ur,</HI> <MILESTONE N="42, back" UNIT="leaf"/></L>
+<L>Of kyng Arthour &amp; hys labo<HI REND="italic">ur;</HI></L>
+<L>And furst how he was bygete, <NOTE PLACE="marg">How Arthur was begotten</NOTE></L>
+<L>As þ<HI REND="italic">a</HI>t we in bok<HI REND="italic">is</HI> do rede. <MILESTONE N="4"/></L>
+<L>Vther pendragon̄ was hys fader, <NOTE PLACE="marg">by Pendragon on Ygerne.</NOTE></L>
+<L>And ygerne was hys Moder.</L>
+<L>Pendragon̄ ys in walyscħ <NOTE PLACE="marg">Pendragon <HI REND="italic">(t. i.</HI> Dragon's Head) made two painted dragons,</NOTE></L>
+<L>'Dragones heed' on Englyscħ <MILESTONE N="8"/></L>
+<L>He maked ypeynted dragon̄s two;</L>
+<L>Oon schold <NOTE N="1" PLACE="foot">'scold' over an erasure in the text; 'schold' in the left margin.</NOTE> byfore him goo</L>
+<L>Whan he went to batayle,</L>
+<L>Whan he wold hys foes sayle; <MILESTONE N="12"/></L>
+<L>That other abood at wynchester,</L>
+<L>Euer-more stylle there.</L>
+<L>Bretones ȝaf hym þ<HI REND="italic">a</HI>t Name, <NOTE PLACE="marg">and thence had his name.</NOTE></L>
+<L>Vther Pendragon̄ þe same, <MILESTONE N="16"/></L>
+<L>For þat skyle fer &amp; nere</L>
+<L>Euer-more hyt to bere.</L>
+<Q>¶</Q>
+<L>The Erles wyff of Cornewayle <NOTE PLACE="marg">How Uther loved the Earl of Corn∣wall's wife,</NOTE></L>
+<L>He loued to Muche sanȝ fayle; <MILESTONE N="20"/></L>
+<L><PB N="2" REF="8"/>
+Merlyn wyþ hys sotelnesse</L>
+<L>Turned vtheris lyknesse,</L>
+<L>And maked hym lyche þe Erl anone,</L>
+<L>And wyþ hys wyff (:) his wyłł to done <MILESTONE N="24"/></L>
+<L>In þe co<HI REND="italic">u</HI>ntre of Cornewełł:</L>
+<L>In þe Castel of Tyntagełł,</L>
+<L>Thus vther, yf y schałł nat lye,</L>
+<L>Bygat Arthour in avowtrye. <MILESTONE N="28"/> <NOTE PLACE="marg">and begat Arthur in adultery.</NOTE></L>
+<L>Whan vther Pendragon̄ was deed,</L>
+<L>Arthour anon was y-crowned; <NOTE PLACE="marg">Arthur is crowned,</NOTE></L>
+<L>He was courteys, large, &amp; Gent</L>
+<L>To alle puple verrament; <MILESTONE N="32"/></L>
+<L>Beaute, Myȝt, amyable chere</L>
+<L>To alle Men ferre and neere;</L>
+<L>Hys port (;) hys ȝyftes gentyłł</L>
+<L>Maked hym y-loved wyłł; <MILESTONE N="36"/> <NOTE PLACE="marg">is loved of all,</NOTE></L>
+<L>Ech mon was glad of hys p<HI REND="italic">re</HI>sence,</L>
+<L>And drade to do hym dysplesan̄ce;</L>
+<L>A stronger Man of hys honde <NOTE PLACE="marg">is strong</NOTE></L>
+<L>was neuer fou<HI REND="italic">n</HI>de on any londe, <MILESTONE N="40"/></L>
+<L>As courteys as any Mayde:—<NOTE PLACE="marg">and courteous.</NOTE></L>
+<L>Þus wryteþ of hym þ<HI REND="italic">a</HI>t hym a-sayde.</L>
+<L>At Cayrlyon̄ w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>oute fable, <MILESTONE N="42 bk" UNIT="leaf"/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>He let make þe Rou<HI REND="italic">n</HI>de table: <MILESTONE N="44"/> <NOTE PLACE="marg">He makes the Round Table,</NOTE></L>
+<L>And why þ<HI REND="italic">a</HI>t he maked hyt þus,</L>
+<L>Þis was þe resou<HI REND="italic">n</HI> y-wyss,—</L>
+<L>Þat no man schulde sytt aboue other, <NOTE PLACE="marg">that all at it might be equal.</NOTE></L>
+<L>Ne haue indignacio<HI REND="italic">u</HI>n of hys broþ<HI REND="italic">er;</HI> <MILESTONE N="48"/></L>
+<L>And alle hadde (.)oo(.) seruyse,</L>
+<L>For no pryde scholde aryse</L>
+<L>For any degree of syttynge,</L>
+<L>Oþer for any seruynge: <MILESTONE N="52"/></L>
+<L>Þus he kept þe table Rou<HI REND="italic">n</HI>de</L>
+<L>Whyle he leuyd on þe gro<HI REND="italic">u</HI>nde.</L>
+<L>After he hadde conquered Skotlond <NOTE PLACE="marg">After his first conquests</NOTE></L>
+<L>Yrland &amp; Gotland, <MILESTONE N="56"/></L>
+<L><PB N="3" REF="9"/>
+Þan leuyd he at þe best <NOTE PLACE="marg">he lives twelve years in peace,</NOTE></L>
+<L>Twelf ȝeeris on all<HI REND="italic">e</HI> reste</L>
+<L>Wyþoute werre (:) tyłł at þe laste</L>
+<L>He þouȝt to make (.)a(.) nywe c<HI REND="italic">on</HI>queste. <MILESTONE N="60"/></L>
+<L>Into Frau<HI REND="italic">n</HI>ce wyþ gode cou<HI REND="italic">n</HI>ceyle <NOTE PLACE="marg">and then invades France.</NOTE></L>
+<L>he wolde weende (:) &amp; hyt assayle,</L>
+<L>Þat Rome þo kept vnder Myght,</L>
+<L>Vnder Frollo (:) a worthy knyght <MILESTONE N="64"/></L>
+<L>Þ<HI REND="italic">a</HI>t frau<HI REND="italic">n</HI>ce hadde þo to kepe,</L>
+<L>To rywle, defende, &amp; to lede.</L>
+<L>Arthour and Frollo fowȝt in feld; <NOTE PLACE="marg">He beats Frollo back to Paris,</NOTE></L>
+<L>Þere deyde many vnder scheld. <MILESTONE N="68"/></L>
+<L>Frollo in-to Paryss fly,</L>
+<L>W<HI REND="italic">y</HI>th strenkthe kept hyt wysely:</L>
+<L>Arthour byseged þ<HI REND="italic">a</HI>t Syte &amp; town <NOTE PLACE="marg">and there be∣sieges him, till</NOTE></L>
+<L>Tyłł þeire vytayl was y-doon. <MILESTONE N="72"/></L>
+<L>Frollo þat worthy knyght <NOTE PLACE="marg">Frollo challenges him to single combat.</NOTE></L>
+<L>Proferyd w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> Artho<HI REND="italic">ur</HI> for to fyght</L>
+<L>Vnder þis wyse &amp; condiciou<HI REND="italic">n,—</HI></L>
+<L>"Ho hadde þe Maystrie (:) haue þe crown; <MILESTONE N="76"/></L>
+<L>And no mo men but þey two."</L>
+<L>Þe day was sett (:) to-gede<ABBR>r</ABBR> þey go: <NOTE PLACE="marg">They fight:</NOTE></L>
+<L>Fayr hyt was to byholde</L>
+<L>In suche two knyȝghteȝ bolde: <MILESTONE N="80"/></L>
+<L>Þer was no word y-spoke,</L>
+<L>But eche hadde other by þe þrote;</L>
+<L>Þey smote w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> trou<HI REND="italic">n</HI>chou<HI REND="italic">n</HI> &amp; w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> swerd;</L>
+<L>Þat hyt seye, were a-ferd; <MILESTONE N="84"/> <MILESTONE N="43." UNIT="leaf"/></L>
+<L>Frollo fowȝt wyþ hys ax (:) as men dude se; <NOTE PLACE="marg">(Frollo with his axe)</NOTE></L>
+<L>He hytt Arthour (:) so sore (:) þ<HI REND="italic">a</HI>t he felle on kne.</L>
+<L>He ros vp raply (:) and smot hym fułł sore;</L>
+<L>He dude hym to grent a (.) soueȝ <NOTE N="1" PLACE="foot">[? soneȝ]</NOTE> þ<HI REND="italic">er</HI>fore. <MILESTONE N="88"/></L>
+<L>Thus they hyw on helmes hye,</L>
+<L>And schatered on wyþ scheldes.</L>
+<L>Þe puple by-gan to crye</L>
+<L>Þ<HI REND="italic">a</HI>t stood on þe feldes; <MILESTONE N="92"/></L>
+<L><PB N="4" REF="10"/>
+Ther ne wyst no man, as y can ler<HI REND="italic">e,</HI></L>
+<L>Who of ham two was þe better<HI REND="italic">e</HI> þer<HI REND="italic">e.</HI></L>
+<L>Arthour was chafed &amp; wexed wrotħ, <NOTE PLACE="marg">till Arthur in wrath takes Brownsteel,</NOTE></L>
+<L>He hente brou<HI REND="italic">n</HI>steełł / and to Frollo gotħ; <MILESTONE N="96"/></L>
+<L>Brou<HI REND="italic">n</HI>stełł was heuy &amp; also kene; <NOTE PLACE="marg"><HI REND="italic">Caliburn</HI>us <HI REND="italic">Arthuri Gladius</HI></NOTE></L>
+<L>Fra<HI REND="italic">m</HI> þe schulder (:) to þe syde went bytwene</L>
+<L>Off frollo / and þan he fell to þe grou<HI REND="italic">n</HI>de. <NOTE PLACE="marg">[with a sketch thereof in the MS.]</NOTE></L>
+<L>Ryȝt as he moste / deed (.) in lyte stou<HI REND="italic">n</HI>de. <MILESTONE N="100"/></L>
+<L>Frenscħ men made doełł &amp; wept fułł faste; <NOTE PLACE="marg">and strikes Frollo dead.</NOTE></L>
+<L>Þeir Crowne of frau<HI REND="italic">n</HI>ce þere þey loste.</L>
+<L>Than wente Arthour in-to paryse <NOTE PLACE="marg">Arthur takes Paris.</NOTE></L>
+<L>And toke þe castełł &amp; þe town at hys avyse. <MILESTONE N="104"/></L>
+<L>Worschuped be god of hys grete grace <NOTE PLACE="marg">Glory to God.</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t þus ȝeueþ fortune (:) and worschup to þe Reme;</L>
+<L>Thanke ȝe hym ałł þ<HI REND="italic">a</HI>t beþ on þis place,</L>
+<L>And seyeþ a Pater noster w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>out any Beeme. <MILESTONE N="108"/> <NOTE PLACE="marg">Say ye a Pater Noster therefore.</NOTE></L>
+<Q>¶ // <HI REND="italic">Pat<HI REND="italic">er</HI> noster.</HI> //</Q>
+<L>Artho<HI REND="italic">ur</HI> fram Paryse went w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hys Rowte,</L>
+<L>And co<HI REND="italic">n</HI>quered þe Con̄tre on euery syde aboute; <NOTE PLACE="marg">Arthur conquers the countries around,</NOTE></L>
+<L>Angeoy, <NOTE N="1" PLACE="foot">? MS. perhaps <HI REND="italic">Angecye.</HI> See <HI REND="italic">Angeoy,</HI> <MILESTONE N="312" UNIT="l."/>.</NOTE> Peytow, Berry, &amp; Gaskoyne,</L>
+<L>Nauerne, Burgon̄ / Loreyn &amp; Toreyne; <MILESTONE N="112"/></L>
+<L>He dau<HI REND="italic">n</HI>ted þe proude / &amp; hawted þe poure;</L>
+<L>He dwelt long in Paryss after in honoure;</L>
+<L>He was drad and loued in con̄treis abowte;</L>
+<L>Heyest &amp; lowest hym Loved &amp; alowte; <MILESTONE N="116"/></L>
+<L>And vp-on an Esto<HI REND="italic">ur</HI> tyme sone afterward</L>
+<L>He fested hys knyght<HI REND="italic">is</HI> &amp; ȝaf ham gret reward; <NOTE PLACE="marg">distributes them among his knights,</NOTE></L>
+<L>To hys Styward he ȝaf Angers &amp; An̄geye;</L>
+<L>To Bedewer hys botyler he ȝaf Norma<HI REND="italic">n</HI>dye; <MILESTONE N="120"/></L>
+<L>He ȝaf to Holdyne flau<HI REND="italic">n</HI>drys parde;</L>
+<L>To Borel hys Cosyn, Boloyne þe Cyte;</L>
+<L>And eche man, after þe astat þat he was,</L>
+<L>He rewarded hem alle, boþe More &amp; lasse, <MILESTONE N="124"/></L>
+<L>And ȝaf hem reward, boþe lond and Fee,</L>
+<L>And turned to Breteyn, to Carlyon̄ ayhe. <NOTE PLACE="marg">and returns to Britain.</NOTE></L>
+<L><PB N="5" REF="11"/>
+Artho<HI REND="italic">ur</HI> wolde of hono<HI REND="italic">ur</HI> <MILESTONE N="43 bk" UNIT="lf."/>, <MILESTONE N="1." UNIT="col."/></L>
+<L>Hold a fest at Eestour <MILESTONE N="128"/> <NOTE PLACE="marg">Arthur gives an Easter Feast</NOTE></L>
+<L>Of regalye &amp; worthynesse,</L>
+<L>And feede alle hys frendess;</L>
+<L>And sende Messanger</L>
+<L>To kynges ferre &amp; neer <MILESTONE N="132"/></L>
+<L>Þat were to hym Omager,</L>
+<L>to come to þis Dyner.</L>
+<L>And alle at oo certeyn day</L>
+<L>They come þyder in gode aray, <MILESTONE N="136"/></L>
+<L>And kept þeire Ceson̄</L>
+<L>At þe Castełł Carlyon̄. <NOTE PLACE="marg">at Carlyon, greater than ere before.</NOTE></L>
+<L>Thys fest was Muche Moore</L>
+<L>Þan euere Artho<HI REND="italic">ur</HI> made a-fore; <MILESTONE N="140"/></L>
+<L>For þere was Vrweyn þe kynge <NOTE PLACE="marg">Ten kings were there,</NOTE></L>
+<L>Of scottes at þat dynynge,</L>
+<L>Stater þe kyng of south wales,</L>
+<L>Cadwełł þe kyng of north waleȝ, <MILESTONE N="144"/></L>
+<L>Gwylmar þe kyng of yrland,</L>
+<L>Dolmad þe kyng of guthland,</L>
+<L>Malgan of yselond also,</L>
+<L>Archyl of De<HI REND="italic">n</HI>march þ<HI REND="italic">er</HI>to, <MILESTONE N="148"/></L>
+<L>Alotħ þe kyng of Norwey,</L>
+<L>Souenas þe kyng of Orkenye,</L>
+<L>Of Breteyn þe kyng Hoel,</L>
+<L>Cador Erl of Cornewełł, <MILESTONE N="152"/> <NOTE PLACE="marg">and thirteen earls</NOTE></L>
+<L>Morice þe Erl of Gloucestr<HI REND="italic">e,</HI></L>
+<L>Marran Erl of Wy<HI REND="italic">n</HI>chestre,</L>
+<L>Gwergo<HI REND="italic">u</HI>nd Erl of herford,</L>
+<L>Booȝ Erl of Oxenford, <MILESTONE N="156"/></L>
+<L>Of bathe vngent þe Erl also, <NOTE PLACE="marg">(including him of Bath),</NOTE></L>
+<L>Cursal of Chestr<HI REND="italic">e</HI> þer-to,</L>
+<L>Euerad Erl of Salesbury, <NOTE N="1" PLACE="foot">The <HI REND="italic">s</HI> is rubbed: the word may be "onlesbury."</NOTE></L>
+<L>Kynmar Erl of Canterbury, <MILESTONE N="160"/></L>
+<L>Ionas þe Erl of Dorcestre,</L>
+<L><PB N="6" REF="12"/>
+Valence þe Erl of Sylchestr<HI REND="italic">e,</HI></L>
+<L>Iugeyn of Leyccer [?] þ<HI REND="italic">er</HI>to,</L>
+<L>Argal of warwyk also,— <MILESTONE N="164"/></L>
+<L>Kynges &amp; Erles Echon</L>
+<L>Þes wer<HI REND="italic">e;</HI> &amp; many anoþ<HI REND="italic">er</HI> goom <NOTE PLACE="marg">with many other gentles great,</NOTE></L>
+<L>Gret of astaat, &amp; þe beste,</L>
+<L>Þes were at þe Feste. <MILESTONE N="168"/></L>
+<L>Other also gentyls grete <MILESTONE N="43 bk" UNIT="lf."/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>Were þere at þat Meete,</L>
+<L>Sauer appon Donand,</L>
+<L>Regeym &amp; Alard, <MILESTONE N="172"/></L>
+<L>Reyneȝ fitȝ Colys,</L>
+<L>Tade<HI REND="italic">us</HI> fitȝ Reis,</L>
+<L>Delyn fitȝ Dauid,</L>
+<L>Kymbelyn le fitȝ Gryffitħ, <MILESTONE N="176"/></L>
+<L>Gryffitȝ þe sone of Nagand,</L>
+<L>Þes were þer<HI REND="italic">e</HI> also theoband:</L>
+<L>Alle þes were þer<HI REND="italic">e</HI> w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>oute fable,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI>oute ham of þe rou<HI REND="italic">n</HI>de table. <MILESTONE N="180"/> <NOTE PLACE="marg">besides the Round Tablers, Archbishops,</NOTE></L>
+<L>Thre archebusschopes þ<HI REND="italic">er</HI> wer<HI REND="italic">e</HI> also,</L>
+<L>And other busschopes many mo—<NOTE PLACE="marg">Bishops,</NOTE></L>
+<L>Ałł þis mayne were nat al-oone;</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> ham com many a Goome. <MILESTONE N="184"/></L>
+<L>Þis feste dured dayes þre</L>
+<L>In reuełł &amp; sole<HI REND="italic">m</HI>pnite.</L>
+<L>Of byȝonde þe See also <NOTE PLACE="marg">and many from beyond the sea.</NOTE></L>
+<L>Many lordeȝ were þere þo. <MILESTONE N="188"/></L>
+<L>Now resteþ alle wyþ Me,</L>
+<L>And say a Pater &amp; Aue.</L>
+<Q>¶ <HI REND="italic">Pater noster.</HI></Q>
+<L>The þrydde day folowyng</L>
+<L>The<HI REND="italic">n</HI> coom nywe tydynge, <MILESTONE N="192"/></L>
+<L>Þe whyle þey sete at þe Mete</L>
+<L>Messagers were In ylete; <NOTE PLACE="marg">To the feasters came messengers from the Roman Emperor,</NOTE></L>
+<L>Wełł arayd forsoþe þey come,</L>
+<L>Y-send fram cite of Rome <MILESTONE N="196"/></L>
+<L><PB N="7" REF="13"/>
+Wyþ l<HI REND="italic">ett</HI>res of þe Emp<HI REND="italic">er</HI>oures</L>
+<L>Whas name was Lucies. <NOTE PLACE="marg"><HI REND="italic">Luci</HI>us.</NOTE></L>
+<L>Þes l<HI REND="italic">ett</HI>res were opened &amp; vnfold,</L>
+<L>And þe tydyn<ABBR>g</ABBR> to alle men told, <MILESTONE N="200"/></L>
+<L>Whas sentence, yf y ne lye,</L>
+<L>Was after þ<HI REND="italic">a</HI>t y can aspye: <NOTE PLACE="marg">L<HI REND="italic">ite</HI>ra Lucii i<HI REND="italic">m</HI>p<HI REND="italic">er</HI>at<HI REND="italic">oris.</HI></NOTE></L>
+<L>¶ Luci<HI REND="italic">us</HI> þe grete Emp<HI REND="italic">er</HI>our</L>
+<L>To hys Enemy Arthour:— <MILESTONE N="204"/></L>
+<L>We won̄dereþ of þi wodeness</L>
+<L>And also of þy Madnesse!</L>
+<L>How darst þow any wyse</L>
+<L>Aȝenst the Emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> þ<HI REND="italic">us</HI> aryse, <MILESTONE N="208"/> <NOTE PLACE="marg">saying, that to have invaded France, etc., and made kings, Arthur must be mad in his noll;</NOTE></L>
+<L>And ryde on Remes on eche wey,</L>
+<L>And make kyngeȝ to þe obey?</L>
+<L>Þu art wood on þe Nolle!</L>
+<L>Þu hast Scley owre cosyn frolle; <MILESTONE N="212"/></L>
+<L>Þu schalt be tawȝt at a schort day <MILESTONE N="44" UNIT="leaf"/>, <MILESTONE N="1." UNIT="col."/></L>
+<L>for to make sucħ aray.</L>
+<L>Oure cosyn Iuli<HI REND="italic">us</HI> cesar</L>
+<L>So<HI REND="italic">m</HI>me tyme conquered þar; <MILESTONE N="216"/></L>
+<L>To Rome þu owest hys trybut; <NOTE PLACE="marg">that he must pay his tribute,</NOTE></L>
+<L>We chargeþ þe to paye vs hyt.</L>
+<L>Thy pryde we wołł alaye</L>
+<L>Þat makest so gret aray: <MILESTONE N="220"/></L>
+<L>We co<HI REND="italic">m</HI>mandeþ þe on haste</L>
+<L>To paye owre trybut faste;</L>
+<L>Þu hast scley frolle in frau<HI REND="italic">n</HI>ce</L>
+<L>Þat hadde vnder vs þer<HI REND="italic">e</HI> gou<HI REND="italic">er</HI>nau<HI REND="italic">n</HI>ce, <MILESTONE N="224"/></L>
+<L>And wyþholdest oure tribute þ<HI REND="italic">er</HI>to:</L>
+<L>Þu schalt be tawȝt þu hast mysdo:</L>
+<L>We co<HI REND="italic">m</HI>mandeþ þe in haste soone</L>
+<L>Þ<HI REND="italic">a</HI>t þu come to vs at Rome <MILESTONE N="228"/> <NOTE PLACE="marg">and come to Rome to be pun∣ished for his dis∣obedience.</NOTE></L>
+<L>To vnd<HI REND="italic">er</HI>fang our<HI REND="italic">e</HI> ordyna<HI REND="italic">u</HI>nce</L>
+<L>For þy dysobedia<HI REND="italic">u</HI>nce;</L>
+<L>As þu wold nat leȝe þy lyf,</L>
+<L>Fulfylle þys w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>oute stryff." <MILESTONE N="232"/></L>
+<Q>(¶ . . . . . ¶ . . . . . ¶ . . . . . ¶)</Q>
+<L><PB N="8" REF="14"/>
+¶ Whan þis l<HI REND="italic">ett</HI>re was open &amp; rad,</L>
+<L>Þe breton̄s &amp; ałł men wer<HI REND="italic">e</HI> mad, <NOTE PLACE="marg">The Britons pur∣pose to kill the messengers,</NOTE></L>
+<L>And wolde þe messager scle:—</L>
+<L>"Nay," seyd Arthour, "per de, <MILESTONE N="236"/> <NOTE PLACE="marg">but Arthur for∣bids it,</NOTE></L>
+<L>That were aȝenst ałł kynde,</L>
+<L>A messager to bete or bynde;</L>
+<L>Y charge alle men here</L>
+<L>For to make ham good chere." <MILESTONE N="240"/></L>
+<L>And after Mete sanȝ fayl</L>
+<L>Wyþ hys lordes he hadde cou<HI REND="italic">n</HI>sayl;</L>
+<L>And alle asented þer-to,</L>
+<L>Artho<HI REND="italic">ur</HI> to Rome scholde go; <MILESTONE N="244"/> <NOTE PLACE="marg">and resolves to invade Rome.</NOTE></L>
+<L>And þey ne wolde in hys t<HI REND="italic">ra</HI>uayle</L>
+<L>Wyþ strenkþ &amp; good neu<HI REND="italic">er</HI> fayle.</L>
+<L>Than Artho<HI REND="italic">ur</HI> wroot to Rome a l<HI REND="italic">ett</HI>re,</L>
+<L>Was sentence was so<HI REND="italic">m</HI>m-what bytter<HI REND="italic">e,</HI> <MILESTONE N="248"/></L>
+<L>And seyde i<HI REND="italic">n</HI> þis manere</L>
+<L>As ȝe may hure here:—</L>
+<L>"KNoweþ wełł ȝe of Romayne, <NOTE PLACE="marg"><HI REND="italic">L</HI>ite<HI REND="italic">ra Reg</HI>is <HI REND="italic">Arthuri.</HI></NOTE></L>
+<L>Y am kyng Artho<HI REND="italic">ur</HI> of Bretayne. <MILESTONE N="252"/></L>
+<L>Fran̄ce, y haue conquered hyt, <NOTE PLACE="marg">Arthur's answer to the Emperor Lucius,</NOTE></L>
+<L>Y schałł defende &amp; kepe hyt ȝut, <MILESTONE N="44" UNIT="leaf"/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>Y come to Rome, as y am tryw,</L>
+<L>To take my trybut (.) to me dywe, <MILESTONE N="256"/> <NOTE PLACE="marg">claiming tribute from him.</NOTE></L>
+<L>But noon þere for to paye,</L>
+<L>By my werk ȝe schałł asay;</L>
+<L>For þe Emp<HI REND="italic">er</HI>our Constantyne</L>
+<L>Þat was þe Soone of Elyne, <MILESTONE N="260"/></L>
+<L>Þat was a Breton̄ of þis lond,</L>
+<L>Co<HI REND="italic">n</HI>quered Rome w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hys hond,</L>
+<L>And so ȝe oweþ me tribut:</L>
+<L>Y charge ȝow þ<HI REND="italic">a</HI>t ȝe pay me hyt. <MILESTONE N="264"/></L>
+<Q>¶</Q>
+<L>Also Maximian kyng of Bretai<HI REND="italic">n</HI>gne</L>
+<L>Co<HI REND="italic">[n]</HI>quered al fran̄ce &amp; Almayne,</L>
+<L>Lombardye, Rome, &amp; ytalye—</L>
+<L><PB N="9" REF="15"/>
+By ȝoure bok<HI REND="italic">is</HI> ȝe may a-spye. <MILESTONE N="268"/></L>
+<L>Y am þeir Eyr &amp; þeyre lynage,</L>
+<L>Y aske ȝow my trywage."</L>
+<L>Þis l<HI REND="italic">ett</HI>re was celyd fast,</L>
+<L>Y-take the Messagereȝ on hast; <MILESTONE N="272"/></L>
+<L>Arthour ȝaf ham ȝyfteȝ grete,</L>
+<L>And chered ham wyþ drynk and Mete. <NOTE PLACE="marg">Lucius's messen∣gers return to him,</NOTE></L>
+<L>Þey hasted ham to come hoom;</L>
+<L>Byfor þe Emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> þey beþ coom; <MILESTONE N="276"/></L>
+<L>Saluted hym as reson̄ ys,</L>
+<L>And toke hym þes letterys.</L>
+<L>Þey seyde to þe Emp<HI REND="italic">er</HI>our</L>
+<L>"We have be wyþ kyng Artho<HI REND="italic">ur;</HI> <MILESTONE N="280"/></L>
+<L>But sucħ anoþ<HI REND="italic">er</HI> as he ys oon,</L>
+<L>Say neuer no Man.</L>
+<L>He ys s<HI REND="italic">er</HI>ued on hys howshold</L>
+<L>Wyþ kynges, Erles, worthy &amp; bold; <MILESTONE N="284"/></L>
+<L>Hys worthynesse, sur Emp<HI REND="italic">er</HI>our,</L>
+<L>Passeþ Mucħ ałł ȝowre;</L>
+<L>He seyde he wolde hyder come <NOTE PLACE="marg">and give him Arthur's mes∣sage.</NOTE></L>
+<L>And take trywage of ałł Rome, <MILESTONE N="288"/></L>
+<L>We dowteþ last he wol do soo,</L>
+<L>For he ys Myghty ynow þer-too."</L>
+<L>Now, erst þan we goo ferþer,</L>
+<L>Every man þat ys here <MILESTONE N="292"/></L>
+<L>Sey a Pater noster</L>
+<L>And ave wyþ gode chere. Ame<HI REND="italic">n.</HI></L>
+<Q>¶ <HI REND="italic">Pater noster<LB/>
+Ave Maria.</HI></Q>
+<L>Now stureth hym self Artho<HI REND="italic">ur</HI> <MILESTONE N="44, back." UNIT="leaf"/></L>
+<L>Þenkyng on hys labo<HI REND="italic">ur,</HI> <MILESTONE N="296"/> <NOTE PLACE="marg">Arthur prepares for his expedi∣tion to Rome.</NOTE></L>
+<L>And gaderyþ to hym strenghth aboute,</L>
+<L>Hys kynges &amp; Erles on a rowte—</L>
+<L>A fayr syȝt to Mannes ye</L>
+<L>To see sucħ a cheualrye,— <MILESTONE N="300"/></L>
+<L><PB N="10" REF="16"/>
+The kyng of Gotland, <NOTE PLACE="marg">Has five kings,</NOTE></L>
+<L>Also þe kyng of Irland,</L>
+<L>The kyng of ysland / &amp; of Orkenye,</L>
+<L>Þis was worthy Maynye; <MILESTONE N="304"/></L>
+<L>The kyn<ABBR>g</ABBR> of Denmark also was þer<HI REND="italic">e,</HI></L>
+<L>Þis was a worthy chere:</L>
+<L>Eche of þese vyve at her venyw</L>
+<L>Brouȝt zyx þousand at har retenyw; <MILESTONE N="308"/></L>
+<L>xxx<SUP>t</SUP>̣<SUP>i</SUP> þowsand, yc<HI REND="italic">h</HI> vnderstand, <NOTE PLACE="marg">with 30,000 men,</NOTE></L>
+<L>Þes vyf kyng<HI REND="italic">is</HI> hadde on honde.</L>
+<L>Than hadde he out of Normandye, <NOTE PLACE="marg">80,000 Normans and</NOTE></L>
+<L>Of Angeoy &amp; of Almanye, <MILESTONE N="312"/></L>
+<L>Boloyne (.) Peytow &amp; flau<HI REND="italic">n</HI>dres</L>
+<L>Fowre skore þowsand harneys—</L>
+<L>Geryn of Charteȝ .xij. þowsand <NOTE PLACE="marg">12,000 from Chartres,</NOTE></L>
+<L>þat went wyþ Arto<HI REND="italic">ur</HI> euer at honde; <MILESTONE N="316"/></L>
+<L>Hoel of bretayn, þowsandeȝ ten <NOTE PLACE="marg">10,000 Bretons,</NOTE></L>
+<L>Of hardy &amp; wełł fyghtyng Men;</L>
+<L>Out of Bretaygne hys owne land</L>
+<L>He passed fourty þowsand <MILESTONE N="320"/> <NOTE PLACE="marg">and 40,000 British:</NOTE></L>
+<L>Of Archerys &amp; off Arblastere</L>
+<L>Þ<HI REND="italic">a</HI>t Cowþ wełł þe craft of werre.</L>
+<L>¶ In Foot other Many a Man Moo</L>
+<L>Able to feyghte (:) as wełł as þo: <MILESTONE N="324"/></L>
+<L>Two hunderd þousand <NOTE PLACE="marg">in all 200,000.</NOTE></L>
+<L>Went wyþ hym out of lond,</L>
+<L>And Many moo sykerly</L>
+<L>That y can nat nombrye. <MILESTONE N="328"/></L>
+<L>Artho<HI REND="italic">ur</HI> toke þan þe lond</L>
+<L>To Moddredes owne hond; <NOTE PLACE="marg">Britain is left in Mordred's charge.</NOTE></L>
+<L>He kept al oþer þyng</L>
+<L>Saue þe Corowne weryng; <MILESTONE N="332"/></L>
+<L>But he was [fals] of hys kepynge,</L>
+<L>As ȝe schałł hure here folewynge.</L>
+<L>Now than̄ ys Arto<HI REND="italic">ur</HI> y-Come, <NOTE PLACE="marg">Arthur ships at Southampton,</NOTE></L>
+<L>And hys Ost, to Sowthamptone: <MILESTONE N="336"/></L>
+<L><PB N="11" REF="17"/>
+Ther was Many a Man of Myghte <NOTE PLACE="marg">¶ Ascend<HI REND="italic">eba</HI>t naue<HI REND="italic">m</HI> sua<HI REND="italic">m</HI> Hamptonie.</NOTE></L>
+<L>Strong &amp; bold also to fyghte.</L>
+<L>Eche man hath take his schuppynge, <MILESTONE N="44 bk" UNIT="leaf"/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>And ys at hys loghynge. <MILESTONE N="340"/></L>
+<L>Vp goþ þe sayl (:) þey sayleþ faste:</L>
+<L>Arthour owt of syȝt ys paste.</L>
+<L>Þe ferst lond þat he gan Meete,</L>
+<L>Forsoþ hyt was Bareflete; <MILESTONE N="344"/> <NOTE PLACE="marg">and lands at Bar∣fleet.</NOTE></L>
+<L>Ther he gan vp furst aryve.</L>
+<L>Now wełł Mote Artho<HI REND="italic">ur</HI> spede &amp; thryve!</L>
+<L>And þat hys saule spede þe better, <NOTE PLACE="marg">God speed him!</NOTE></L>
+<L>Lat eche man sey a pater noster. <MILESTONE N="348"/></L>
+<Q>¶ <HI REND="italic">Pater noster.</HI></Q>
+<L>Now god spede Artour wełł!</L>
+<L>Hym ys comyng a nyw batełł. <NOTE PLACE="marg">A new foe ap∣pears, a Spanish Giant,</NOTE></L>
+<L>Ther coom a gyant out of spayne,</L>
+<L>And rauasched had fayr Elayne; <MILESTONE N="352"/></L>
+<L>He had brouȝt heo<ABBR>r</ABBR> vp on an hulle—</L>
+<L>Mornyng hyt ys to hure or telle—</L>
+<L>Cosyn heo was to kyng Hoell,</L>
+<L>A damesel fayr and gentełł; <MILESTONE N="356"/></L>
+<L>And ȝut ferþ<HI REND="italic">er</HI>more to,</L>
+<L>He rauasched heore Moder also. <NOTE PLACE="marg">who has slain fair Elayne.</NOTE></L>
+<L>He dude þe damesel for to dye,</L>
+<L>For he myght not lygge heo<ABBR>r</ABBR> bye. <MILESTONE N="360"/></L>
+<L>Whan þis was told to Artour,</L>
+<L>He maked Much dolour,</L>
+<L>And send Bedewer for to spye <NOTE PLACE="marg">Arthur sends Bedwere first as a spy,</NOTE></L>
+<L>How he myght come hym bye; <MILESTONE N="364"/></L>
+<L>And he was nat Sclowh,</L>
+<L>But to þe hulle hym drowh</L>
+<L>Þat Closed was wyþ wat<HI REND="italic">er</HI> stronge,</L>
+<L>Þe hulle a-Mydde gret &amp; longe; <MILESTONE N="368"/></L>
+<L>He went ouer to þe hulle syde,</L>
+<L>And þere a fonde a wo<HI REND="italic">m</HI>man̄ byde,</L>
+<L>Þat sorwedd &amp; wept Mornynge</L>
+<L><PB N="12" REF="18"/>
+For Eleynes deþ &amp; dep<HI REND="italic">ar</HI>tynge, <MILESTONE N="372"/></L>
+<L>And bad Bedewer to fle also</L>
+<L>Last he were ded more to;</L>
+<L>"For yf þe Gyant fynde þe,</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI>oute dowte he wyłł þe scle." <MILESTONE N="376"/></L>
+<L>Bedwer wyþ ałł hastynge</L>
+<L>Tolde Artho<HI REND="italic">ur</HI> ałł þis þynge.</L>
+<L>Amorwe whan þat hyt was day</L>
+<L>Arthour toke þyder hys way, <MILESTONE N="380"/> <NOTE PLACE="marg">and then (with Bedwere and Key) starts on his adventure.</NOTE></L>
+<L>Bedewer wyþ hym wente, &amp; keye,— <MILESTONE N="45" UNIT="leaf"/></L>
+<L>Men þat cowþe wełł þe weye,—</L>
+<L>And broute Artho<HI REND="italic">ur</HI> Meyntenan̄t</L>
+<L>Euen <NOTE N="1" PLACE="marg"><HI REND="italic">by</HI> in a later hand, above.]</NOTE> byfore þe gyant. <MILESTONE N="384"/></L>
+<L>Arthour fowȝt wyþ þat wyght;</L>
+<L>He had almost ylost hys Myght:</L>
+<L>Wyþ Muche peyne, þruȝ goddeȝ g<HI REND="italic">ra</HI>ce</L>
+<L>He sclowh þe Geant in þat place, <MILESTONE N="388"/> <NOTE PLACE="marg">He kills the Giant,</NOTE></L>
+<L>And þan he made Bedewere</L>
+<L>To smyte of hys heed þere.</L>
+<L>To þe Ost he dude hyt brynge,</L>
+<L>And þ<HI REND="italic">er</HI>on was gret won̄drynge, <MILESTONE N="392"/></L>
+<L>Hyt was so oryble &amp; so greet, <NOTE PLACE="marg">whose horrible head is shown to the host,</NOTE></L>
+<L>More þan any Horse heed.</L>
+<L>Than hadde hoel Ioye ynowh</L>
+<L>For þat Arthour so hym sclowh; <MILESTONE N="396"/></L>
+<L>And for a p<HI REND="italic">er</HI>petuel Memorie</L>
+<L>He Made a chapełł of seynt Marye <NOTE PLACE="marg">and St. Mary's Chapel is built in honour of the victory.</NOTE></L>
+<L>In þe hulle vpon þe pleyne,</L>
+<L>Wyþ-Inne þat (:) þe t<HI REND="italic">um</HI>be of Eleyne; <MILESTONE N="400"/> <NOTE PLACE="marg">to<HI REND="italic">m</HI>be.</NOTE></L>
+<L>And þat name wyþoute nay</L>
+<L>Hyt bereþ ȝut in-to þis day.</L>
+<L>Now ys an ende of þis þynge,</L>
+<L>And artour haþ nyw tydynge: <MILESTONE N="404"/> <NOTE PLACE="marg">News of Lucius's approach is brought,</NOTE></L>
+<L>Lucy þe Emp<HI REND="italic">er</HI>our wyþ hys host</L>
+<L>Comeþ fast in gret bost;</L>
+<L>Þey helyþ ouer ałł þe lond,</L>
+<L><PB N="13" REF="19"/>
+Fowre hunderd þowsand <MILESTONE N="408"/> <NOTE PLACE="marg">with an army of 400,124 men.</NOTE></L>
+<L>An hunderd &amp; foure &amp; twenty,—</L>
+<L>Thus herawdes dude ham rekeny;—</L>
+<L>Thus he hadde gadered to hym</L>
+<L>Of cristiens and of Sarasyn, <MILESTONE N="412"/></L>
+<L>Wyþ ałł hys wytt &amp; labour</L>
+<L>To destroyen Arthour.</L>
+<L>Arthour dude wyselye,</L>
+<L>And hadde euer gode aspye <MILESTONE N="416"/></L>
+<L>Of lucyes gouernynge</L>
+<L>And of hys þyder comynge;</L>
+<L>But so<HI REND="italic">m</HI>me seyde hyt wer<HI REND="italic">e</HI> folye <NOTE PLACE="marg">Some advise Arthur to turn and flee,</NOTE></L>
+<L>To fyght aȝenst Emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> lucie, <MILESTONE N="420"/></L>
+<L>For he hadde sexe <NOTE N="1" PLACE="foot">I read this <HI REND="italic">sepe</HI> before; but now I read it <HI REND="italic">sexe;</HI> for though the <HI REND="italic">x</HI> is not like that of <HI REND="italic">ax,</HI> <MILESTONE N="85" UNIT="l."/>, or of <HI REND="italic">axes,</HI> <MILESTONE N="463" UNIT="l."/>, Maxymyan, 507, next 508, Saxoynes, 521, &amp;c., yet it is something like that of the 'Xristianitas durat' of the headlines of the English pages, and the 'Destruct<HI REND="italic">i</HI>o x<HI REND="italic">ri</HI>anitat<HI REND="italic">is'</HI> of the headline on the back of <MILESTONE N="46" UNIT="leaf"/>, and Sexaginta, <MILESTONE N="66, back" UNIT="leaf"/>. But as Arthur had 200,000, and Lucius only 400,124, <HI REND="italic">sexe</HI> should be <HI REND="italic">two.</HI></NOTE> euer<HI REND="italic">e</HI> aȝenst oon,</L>
+<L>&amp; cou<HI REND="italic">n</HI>ceyled Artho<HI REND="italic">ur</HI> to fle &amp; goon.</L>
+<L>Wyþ þe Emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI> come kynges Many oon, <MILESTONE N="45" UNIT="leaf"/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>And ałł þeire power hoołł &amp; soom; <MILESTONE N="424"/></L>
+<L>Stronger men Myȝt no man see,</L>
+<L>As fułł of drede as þey myght be;</L>
+<L>But / Arthour was nat dysmayd,</L>
+<L>He tryst on god, &amp; was wel payd, <MILESTONE N="428"/> <NOTE PLACE="marg">but he trusts in God,</NOTE></L>
+<L>And prayd þe hye trynyte</L>
+<L>Euer hys help forto be;</L>
+<L>And ałł hys Men wyþ oo voyse</L>
+<L>Cryede to god wyþ Oo noyse, <MILESTONE N="432"/></L>
+<L>"Fader in heuene, þy wyłł be doon; <NOTE PLACE="marg">to whom his soldiers pray</NOTE></L>
+<L>Defende þy puple fram þeire foon,</L>
+<L>And lat nat þe heþon̄ Men</L>
+<L>Destroye þe puple crystien: <MILESTONE N="436"/></L>
+<L>Haue Mercy on þy se[r]uan̄tis bonde,</L>
+<L>And kepe ham fram þe heþon̄ honde; <NOTE PLACE="marg">to keep them from the heathen's hands.</NOTE></L>
+<L><PB N="14" REF="20"/>
+Þe Muchelnesse of Men sainfayle</L>
+<L>Ys nat victorie in Batayle; <MILESTONE N="440"/></L>
+<L>But after þe wyłł þ<HI REND="italic">a</HI>t in heuene ys,</L>
+<L>So þe victorie falleþ y-wys."</L>
+<L>Than seyd Arthour, "hyt ys so: <NOTE PLACE="marg">Arthur's "For∣ward!"</NOTE></L>
+<L>Auan̄t Baner, &amp; be Goo." <MILESTONE N="444"/></L>
+<L>Now frendes ałł, for goddes loue,</L>
+<L>Rereþ ȝowre hertes to god aboue,</L>
+<L>And seyeþ ȝowre prayeris faste,</L>
+<L>Þ<HI REND="italic">a</HI>t we wełł spede furst &amp; laste. <MILESTONE N="448"/></L>
+<Q>¶ <HI REND="italic">Pater noster.</HI></Q>
+<L>The emp<HI REND="italic">er</HI>our tryst on hys men,</L>
+<L>And þat haþ bygyled hym;</L>
+<L>Forsothe hyt most nedeȝ be so,</L>
+<L>For þey beþ cursed þat wełł hyt do, <MILESTONE N="452"/></L>
+<L>Sucħ ałł myght comeþ of god; <NOTE PLACE="marg"><HI REND="italic">Maledict</HI>us <HI REND="italic">q</HI>ui con<HI REND="italic">fi</HI>det <HI REND="italic">in h</HI>om<HI REND="italic">i</HI>n<HI REND="italic">e.</HI></NOTE></L>
+<L>To tryst on hym, y hold hyt good,</L>
+<L>Lucye haþ pyght his pauelon̄</L>
+<L>And sprad wyþ pryde his gu<HI REND="italic">n</HI>fanon̄; <MILESTONE N="456"/></L>
+<L>His claryon̄s blastes fułł grete blywe,</L>
+<L>Archeris schot (:) Men ouer-thrywe; <NOTE PLACE="marg">The battle be∣gins.</NOTE></L>
+<L>Bowes, arwes, &amp; arblastere</L>
+<L>Schot sore ałł y-vere; <MILESTONE N="460"/></L>
+<L>Quarels, arwes, þey fly smerte;</L>
+<L>Þe fyched Men þruȝ heed &amp; herte;</L>
+<L>Axes, sperys, and gysarmes gret,</L>
+<L>Clefte Many a prowt Ma<HI REND="italic">n</HI>nes heed: <MILESTONE N="464"/></L>
+<L>Hors &amp; steedes gan to grent,</L>
+<L>And deyde wyþ strok<HI REND="italic">is</HI> þ<HI REND="italic">a</HI>t þey hente;</L>
+<L>Many a man þ<HI REND="italic">er</HI>e lost hys lyf, <MILESTONE N="45, back." UNIT="leaf"/></L>
+<L>Many on was wedyw þ<HI REND="italic">a</HI>t was wyff; <MILESTONE N="468"/></L>
+<L>Þere men were wetschoede <NOTE PLACE="marg">Men are wetshod with brains and blood.</NOTE></L>
+<L>Ałł of Brayn &amp; of blode;</L>
+<L>Gret rywtħ hyt was to seyn</L>
+<L>Þe feltes fułł of men y-scleyn; <MILESTONE N="472"/></L>
+<L>Lucy þe Emp<HI REND="italic">er</HI>our also was dede; <NOTE PLACE="marg">Lucius is slain,</NOTE></L>
+<L><PB N="15" REF="21"/>
+But ho hym sclowh, y can nat rede;</L>
+<L>He, for ałł hys grete Renou<HI REND="italic">n,</HI></L>
+<L>Aȝenst Arthour hadde no fusou<HI REND="italic">n,</HI> <MILESTONE N="476"/> <NOTE PLACE="marg">not able to stand against Arthur.</NOTE></L>
+<L>No more þan haue twenty schep</L>
+<L>Aȝenst vyve wolfeȝ greet.</L>
+<L>To god be euere alle hono<HI REND="italic">ur</HI>eȝ!</L>
+<L>The falde was hys &amp; Arthoureȝ. <MILESTONE N="480"/></L>
+<L>Arthour, as he scholde done, <NOTE PLACE="marg">Arthur sends Lucius's body to Rome,</NOTE></L>
+<L>Sende lucyes body to Rome.</L>
+<L>Whan þe Romeynes say þis,</L>
+<L>Þo þey dradde Artho<HI REND="italic">ur</HI> &amp; hys. <MILESTONE N="484"/></L>
+<L>Also he buryed Bedewere <NOTE PLACE="marg">buries Bedwere and others</NOTE></L>
+<L>Hys frend and / hys Botyler,</L>
+<L>And so he dude other Echon</L>
+<L>In Abbeys of Relygyon̄ <MILESTONE N="488"/> <NOTE PLACE="marg">in Abbeys,</NOTE></L>
+<L>Þat were cristien of name;</L>
+<L>He dude to alle þe same;</L>
+<L>And dude for ham Masse synge</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> sole<HI REND="italic">m</HI>pne song &amp; offrynge, <MILESTONE N="492"/></L>
+<L>And bood þere for to rest</L>
+<L>Tyłł þat wynter was past, <NOTE PLACE="marg">and stays the winter,</NOTE></L>
+<L>Boþe he (.) hys Men echone</L>
+<L>Seruyd god in deuocione, <MILESTONE N="496"/></L>
+<L>Þankyng god of hys Myȝt <NOTE PLACE="marg">thanking God</NOTE></L>
+<L>Þat kepeþ hys serua<HI REND="italic">u</HI>ntez ryȝt,</L>
+<L>And suffreþ noon for to spylle</L>
+<L>Þ<HI REND="italic">a</HI>t hym loueþ &amp; tryste wylle: <MILESTONE N="500"/></L>
+<L>Þus worschup god dude certeyn <NOTE PLACE="marg">for His honour to England.</NOTE></L>
+<L>To Englond, þat þo was Bretayn; <NOTE PLACE="marg">[Of the difference between More (or Great) Britain, and Little Britain.]</NOTE></L>
+<L>Þe More Breteyn Englond ys—</L>
+<L>As men may rede on Cronyclys— <MILESTONE N="504"/></L>
+<L>Byȝend þe See Bretayne þ<HI REND="italic">er</HI> ys,</L>
+<L>Þat haþ hys name forsoþe of þis,</L>
+<L>For þe kyng Maxymyan,—<NOTE PLACE="marg"><HI REND="italic">Quomodo anglia e</HI>st <HI REND="italic">Brita</HI>n<HI REND="italic">nia ma</HI>i<HI REND="italic">or, &amp; quare maior</HI></NOTE></L>
+<L>Þe next after Octauyan,— <MILESTONE N="508"/></L>
+<L>He conquered ałł Armoryk, <MILESTONE N="45 bk" UNIT="lf."/>, <MILESTONE N="2." UNIT="col."/></L>
+<L><PB N="16" REF="22"/>
+And to þe Reme named hyt lyk:</L>
+<L>Amorica on latyn me cleped þ<HI REND="italic">a</HI>t lond, <NOTE PLACE="marg">Armorica.</NOTE></L>
+<L>Tyl Maxymyan co<HI REND="italic">[n]</HI>queryd hyt w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> honde, <MILESTONE N="512"/></L>
+<L>And called hyt lyte bretayne þan,</L>
+<L>So hyȝt þis lond þat he coom fram;</L>
+<L>For p<HI REND="italic">er</HI>petuełł Mynde of grete Bretayne <NOTE PLACE="marg">Little Britain is called after Great Britain.</NOTE></L>
+<L>He called hyt lyte Bretayne, <MILESTONE N="516"/></L>
+<L>Þat Men schulde kepe in Mynde &amp; wytt</L>
+<L>How þis lond conqueryd hytt;</L>
+<L>For Walscħ Men beþ Breto<HI REND="italic">u</HI>ns of kynde—</L>
+<L>Know þat wełł fast on Mynde— <MILESTONE N="520"/></L>
+<L>Englyscħ men beþ Saxoynes,</L>
+<L>Þ<HI REND="italic">a</HI>t beþ of Engistes Soones;</L>
+<L>There-fore þe walsch man Breton̄</L>
+<L>Seyþ &amp; clepeþ vs "Sayson" <MILESTONE N="524"/> <NOTE PLACE="marg">Þ<HI REND="italic">a</HI>t ys to seye vpon a reess, "Stynkyng Saxon<HI REND="italic">e,</HI> be on pees."</NOTE></L>
+<L>And seyþ (.) "taw or (.) Peyd Sayson brou<HI REND="italic">n</HI>t" <NOTE N="1" PLACE="foot">Pughe's abridged Dictionary gives <HI REND="italic">tau, v.a.</HI> be still; <HI REND="italic">taw, s.m.</HI> and <HI REND="italic">adj.</HI> quiet, silence, silent; <HI REND="italic">paid, s.m.</HI> a cessation, quiet; <HI REND="italic">bront, a.</HI> nasty, filthy, surly. <HI REND="italic">Or,</HI> says Dr. Benj. Davies, you must take as equal to the modern Welsh <HI REND="italic">wr,</HI> man, if it is not English; <HI REND="italic">peyd</HI> is cease, pause; <HI REND="italic">taw,</HI> be silent.</NOTE> <NOTE PLACE="marg">How the Welsh∣men call the English "stink∣ing Saxons."</NOTE></L>
+<L>Whan he ys wroth (:) or ellys dro<HI REND="italic">u</HI>nke;</L>
+<L>Hauyng Mynde of Engystis Men</L>
+<L>Þat w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> gyle sclow þeyre kyn: <MILESTONE N="528"/></L>
+<L>At þe place of þe Stonehenge</L>
+<L>Ȝut þey þenkeþ for to venge:</L>
+<L>And þat hyt neuere be so,</L>
+<L>Seyþ a Pater noster more to. <MILESTONE N="532"/></L>
+<Q>¶ <HI REND="italic">Pater noster.</HI></Q>
+<L>Now turne we to oure labo<HI REND="italic">ur,</HI> <NOTE PLACE="marg">Arthur is pre∣paring to cross the mountains to Rome,</NOTE></L>
+<L>And lat vs speke of Arthour:</L>
+<L>He cast on herte sone</L>
+<L>After þat to go to Rome, <MILESTONE N="536"/></L>
+<L>And spak of Passage &amp; hys wey</L>
+<L>Forth ouer Mon̄t Ioye.</L>
+<L>And sone after vpon an owr <NOTE PLACE="marg">when he hears of Mordred's treachery;</NOTE></L>
+<L>He hurde of Mordred the treto<HI REND="italic">ur</HI> <MILESTONE N="540"/></L>
+<L><PB N="17" REF="23"/>
+That hadde ałł þis lond on warde—</L>
+<L>Euyłł moot sucħ fare, and harde!</L>
+<L>Who may best bygyle a man</L>
+<L>But sucħ as he tryst vpan? <MILESTONE N="544"/></L>
+<L>Þer ys no man wel nye, y tryste,</L>
+<L>Þat can be waar of hadde wyste.—</L>
+<L>Mordred, þis falss Man,</L>
+<L>Mucħ sorw þo bygan; <MILESTONE N="548"/></L>
+<L>He stuffed alle castells</L>
+<L>Wyþ armyre &amp; vytells,</L>
+<L>And strenghthed hym on eche syde</L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> Men of contreys ferre &amp; wyde: <MILESTONE N="552"/> <MILESTONE N="46." UNIT="leaf"/></L>
+<L>He toke þe qweene, Arthoureȝ wyff, <NOTE PLACE="marg">how the traitor had seized the queen, his (Ar∣thur's) wife,</NOTE></L>
+<L>Aȝenst goddes lawe &amp; gode lyff,</L>
+<L>And putte heore to soiourne þo</L>
+<L>At Euerwyk (:) god ȝyf hym wo.— <MILESTONE N="556"/></L>
+<L>Yhork ys Euerwyk (:) <NOTE PLACE="marg">and put her at York.</NOTE></L>
+<L>&amp; so me calleþ hyt.—</L>
+<L>Artho<HI REND="italic">ur</HI> aryved at Whytsond <NOTE PLACE="marg">Arthur then comes home,</NOTE></L>
+<L>W<HI REND="italic">y</HI>t<HI REND="italic">h</HI> gret Myght &amp; strong hond, <MILESTONE N="560"/></L>
+<L>And Mordred sainȝ fayl <NOTE PLACE="marg">fights Mordred,</NOTE></L>
+<L>Ȝaf hym þo a strong batayl;</L>
+<L>Many a man, as y rede,</L>
+<L>Þat day was þere dede; <MILESTONE N="564"/></L>
+<L>Arthoures nevew Waweyn</L>
+<L>Þat day was þere y-sclayn, <NOTE PLACE="marg">and Gawain is slain.</NOTE></L>
+<L>And oþer knyȝtes Many moo:</L>
+<L>Þan Arthour was heuy &amp; woo. <MILESTONE N="568"/></L>
+<L>Mordred fly toward Londou<HI REND="italic">n;</HI> <NOTE PLACE="marg">Mordred flies to London,</NOTE></L>
+<L>He most nat come in þe tou<HI REND="italic">n:</HI></L>
+<L>Þan fled he to Wy<HI REND="italic">n</HI>chester</L>
+<L>And w<HI REND="italic">y</HI>t<HI REND="italic">h</HI> hys Mayn<SUP>e</SUP> kep hym þe<ABBR>r</ABBR>; <MILESTONE N="572"/></L>
+<L>And Arthour on gret haste</L>
+<L>Pursywed after hym faste.</L>
+<L>Mordred w<HI REND="italic">y</HI>t<HI REND="italic">h</HI>oute fayle</L>
+<L>Fled in-to Cornewayle. <MILESTONE N="576"/> <NOTE PLACE="marg">and then to Corn∣wall.</NOTE></L>
+<L><PB N="18" REF="24"/>
+The qwene wyþoute lesyng</L>
+<L>Hurde of þis tydyng,</L>
+<L>And how Mordred was flow,</L>
+<L>And how to Cornewale he hym drow. <MILESTONE N="580"/></L>
+<L>Heo of Mercy hadde noon hoope,</L>
+<L>Ther-for he dude on a Russet cote,</L>
+<L>And to Carlyon̄ ys preuyly Ron̄ne, <NOTE PLACE="marg">The Queen turns nun at Carlyon.</NOTE></L>
+<L>And made heore self þo a Non̄ne; <MILESTONE N="584"/></L>
+<L>Fro þat place neuer heo wende,</L>
+<L>But of heore lyf þere made an ende.</L>
+<L>Waweynes body, as y reede, <NOTE PLACE="marg">Gawain</NOTE></L>
+<L>And other lordes þat weere deede, <MILESTONE N="588"/></L>
+<L>Arthour sente in-to skotlonde, <NOTE PLACE="marg">is buried in Scotland.</NOTE></L>
+<L>And buryed ham þ<HI REND="italic">er</HI>e, y vnd<HI REND="italic">er</HI>stonde.</L>
+<L>Muche folke þ<HI REND="italic">er</HI>henne he toke þo,</L>
+<L>Of Northu<HI REND="italic">m</HI>ber-lond also <MILESTONE N="592"/> <NOTE PLACE="marg">Northern men and others come to Arthur.</NOTE></L>
+<L>Fram dyverse places to Artho<HI REND="italic">ur</HI> come</L>
+<L>Hys wyłł to werk &amp; to done:</L>
+<L>Thus he sembled a fułł gret Ost;</L>
+<L>To Cornewayle he draweþ hym fast <MILESTONE N="596"/></L>
+<L>After þat Mordred þe trato<HI REND="italic">ur</HI></L>
+<L>Þat hadde do hym Mucħ dyshono<HI REND="italic">ur.</HI></L>
+<L>That treto<HI REND="italic">ur</HI> hadde gret Strength <MILESTONE N="46" UNIT="leaf"/>, <MILESTONE N="2." UNIT="col."/></L>
+<L>And fulled þ<HI REND="italic">a</HI>t lond on brede &amp; lengtħ, <MILESTONE N="600"/></L>
+<L>Sucħ a batełł as þere was redy þo <NOTE PLACE="marg">He gives Mor∣dred battle.</NOTE></L>
+<L>Hadde neuer Arthour byfore y-doo:</L>
+<L>They fowȝt tyl þer come dou<HI REND="italic">n</HI> bloode</L>
+<L>As a(.) Ryver or (.)a(.) flood; <MILESTONE N="604"/> <NOTE PLACE="marg"><HI REND="italic">Bellu</HI>m <HI REND="italic">arthuri ap</HI>u<HI REND="italic">d Camelerto∣n</HI>um <HI REND="italic">in Cornubia.</HI></NOTE></L>
+<L>Þey fowȝt euer sore &amp; sadde;</L>
+<L>Men nyst ho þe betere hadde;</L>
+<L>But at þe last Certeyn</L>
+<L>Was Mordred &amp; alle hys y-sclayn; <MILESTONE N="608"/> <NOTE PLACE="marg">Mordred is slain,</NOTE></L>
+<L>And Artho<HI REND="italic">ur</HI> y-bete wyþ wou<HI REND="italic">n</HI>de, <NOTE PLACE="marg">Arthur wounded,</NOTE></L>
+<L>He Myght not stonde on grou<HI REND="italic">n</HI>de;</L>
+<L>But on lyter ryȝt anon <NOTE PLACE="marg">and carried to Avelon, or Auelona .i. in∣sula pomor<HI REND="italic">um</HI> Glastonia.</NOTE></L>
+<L>Was browȝt to Auelon̄ <MILESTONE N="612"/></L>
+<L><PB N="19" REF="25"/>
+Þ<HI REND="italic">a</HI>t was a place fayr &amp; Mury;</L>
+<L>Now hyt hooteþ Glastyngbury. <NOTE PLACE="marg">Glastonbury, where he dies,</NOTE></L>
+<L>Ther Artho<HI REND="italic">ur</HI> þat worthy kyng</L>
+<L>Maked hys lyues endyng; <MILESTONE N="616"/></L>
+<L>But for he skaped þ<HI REND="italic">a</HI>t batełł y-wys,</L>
+<L>Breton̄s &amp; Cornysch seyeþ þus,</L>
+<L>"Þat he leuyth ȝut p<HI REND="italic">ar</HI>de,</L>
+<L>And schałł come &amp; be a kyng aȝe." <MILESTONE N="620"/></L>
+<L>At glastyngbury on þe qweer</L>
+<L>Þey made Arto<HI REND="italic">ur</HI>eȝ tou<HI REND="italic">m</HI>be þere, <NOTE PLACE="marg">and is buried, A.D. 542.</NOTE></L>
+<L>And wrote wyth latyn vers þus,</L>
+<L>Hic iacet Arthurus, rex quonda<HI REND="italic">m,</HI> rex que futur<HI REND="italic">us.</HI> <MILESTONE N="624"/></L>
+<L>Thys was þus forsoþe ydone</L>
+<L>Þe yheer after þe Incarnacione, <NOTE PLACE="marg">Anno d<HI REND="italic">o</HI>m<HI REND="italic">ini</HI> qu<HI REND="italic">in</HI>gente<HI REND="italic">simo</HI> quadragesi<HI REND="italic">m</HI>o s<HI REND="italic">e</HI>c<HI REND="italic">un</HI>do.</NOTE></L>
+<L>Vyf hundred (.) fourty &amp; two.</L>
+<L>Now saue vs alle fra woo <MILESTONE N="628"/></L>
+<L>Ih<HI REND="italic">es</HI>u cryst, heuenly kyng,</L>
+<L>&amp; grau<HI REND="italic">n</HI>t vs alle hys blessyng;</L>
+<L>And þat hyt Moote so be,</L>
+<L>Seyeþ alle Pater &amp; Aue. <MILESTONE N="632"/></L>
+<Q>¶ <HI REND="italic">Pater noster / Aue /</HI></Q>
+<L>Ho þ<HI REND="italic">a</HI>t wołł more loke,</L>
+<L>Reed on þe frensch boke, <NOTE PLACE="marg">Read the French Book for the rest.</NOTE></L>
+<L>And he schałł fynde þere</L>
+<L>Þynges þat y leete here. <MILESTONE N="636"/></L>
+<L>But yf þat god wolle grau<HI REND="italic">n</HI>te g<HI REND="italic">ra</HI>ce,</L>
+<L>y schałł rehercy in þis place</L>
+<L>Alle þe kyngez þat after were,</L>
+<L>And what names at þey bere; <MILESTONE N="640"/></L>
+<L>And ho þ<HI REND="italic">a</HI>t wołł þeyre gestes loke,</L>
+<L>Reed on þe Frenscħ boke.</L>
+<CLOSER>Amen fiat.</CLOSER>
+</DIV1>
+<DIV1 TYPE="commentary">
+<P>[On the back of <MILESTONE N="46" UNIT="leaf"/> follows: 'Destruct<HI REND="italic">i</HI>o <HI REND="italic">christi</HI>anitat<HI REND="italic">is</HI> / Et reformac<HI REND="italic">i</HI>o eiusde<HI REND="italic">m.</HI> Constantinus. Post Arthuru<HI REND="italic">m</HI> regnauit Constantin<HI REND="italic">us,</HI> fili<HI REND="italic">us</HI> Cador, Comit<HI REND="italic">is</HI> Cornubie, nepos Arthuri / iste constantin<HI REND="italic">us</HI> interfecit duos filios Mordredi spurios, qui Mouer<HI REND="italic">un</HI>t bellu<HI REND="italic">m</HI> cont<HI REND="italic">ra</HI> eu<HI REND="italic">m</HI> p<HI REND="italic">ro</HI>p<HI REND="italic">ter</HI> p<HI REND="italic">at</HI>rem eor<HI REND="italic">um,</HI>' &amp;c., &amp;c.]</P>
+<PB REF="26"/>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-21-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed some incorrect MILESTONEs from Ps; changed TRAILERs to CLOSERs; changed HEAD to HEADNOTE P; changed HEAD to Q L. Checked placement and completeness of PBs; moved some PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00097">
+<STC T="M">97</STC>
+<BIBNO T="mec">CME00097</BIBNO>
+<VID>CME00097</VID>
+</IDG>
+<TEXT LANG="enm ger lat">
+<BODY>
+<DIV1 TYPE="collection of versions of prayer">
+<PB REF="1"/>
+<HEAD>AVE MARIA.</HEAD>
+<DIV2 N="1" TYPE="section">
+<HEAD>§ 1.</HEAD>
+<HEADNOTE>
+<P>Hier möge ein bislang noch nicht bekanntes Ave Maria aus derselben hs. Douce 126 abgedruckt werden, welche eins der wichtigsten <HI REND="italic">O and I</HI> - gedichte enthält.</P>
+<P>Das schöne Ave Maria mit seiner etwas künstlichen an∣lehnung an die einzelnen wörter des englischen grusses ist in der altertümlichen vierzeiligen strophe mit durchgehendem reime abgefasst, ohne binnenreime, die gewöhnlich ein zeichen späterer überarbeitung sind. Selbst das Vernon-Ms., die haupt∣quelle derartiger hymnen, enthält nur wenige gedichte in dieser metrischen form, wie z. b. An orisoun to vr lord Jesu (Minor Poems I s. 29) und An orison to vr lady (Minor Poems I s. 30). Andere me. versionen oder solche Marienlieder, die dem hier abgedruckten mit seiner charakteristischen anlage nahe stehen, sind noch nicht bekannt. Auffallend sind schreibungen wie 9<HI REND="italic">wyle</HI> 17<SUP>4</SUP>, 9<HI REND="italic">when</HI> 7<SUP>4</SUP>, 9<HI REND="italic">what</HI> 3<SUP>4</SUP>. Wenn 9<HI REND="italic">wene</HI> 8<SUP>1</SUP> wirklich aus <HI REND="italic">quene</HI> entstellt sein sollte, wie ich vermute, so läge es nahe an eine vorlage mit nördlichem <HI REND="italic">qu</HI> für <HI REND="italic">wh</HI> zu denken und der schreiber hätte <HI REND="italic">qu</HI> auch da geändert, wo es etymo∣logisch berechtigt war und seinem eigenen <HI REND="italic">qu</HI> entsprach.</P>
+</HEADNOTE>
+<LG N="1">
+<HEAD>1 Aue</HEAD>
+<L>Hayle mayden of maydyns thorȝht worde consaywyng,</L>
+<L>Hayle mayden and moder wiþ þi mylke Cryst Jesu norescheng,</L>
+<L>Hayle, heuen joye, þy blessednes þat feddest heuen kyng,</L>
+<L>For hys loue helpe þou me jn peryle here leueyng.</L>
+</LG>
+<LG N="2">
+<HEAD>2 Maria.</HEAD>
+<L>Mary Cristes moder, þy body was hys boure,</L>
+<L>Mary for þat bryþe offe wommen þou art floure,</L>
+<L>Mary hauen offe seker rest jn stormys and eke jn stowere,</L>
+<L>Haue mynde of me jn worldys wawys, þat hope to þy sokou(r).</L>
+</LG>
+<LG N="3">
+<PB N="321" REF="2"/>
+<HEAD>3 Gratia</HEAD>
+<L>Grace þat was hyest was holy lyȝth jn þe,</L>
+<L>Grace þat kyndest was made þe Jesus moder to be,</L>
+<L>Grace þat was saddest jn þe setteld, þou myȝth noȝth fle,</L>
+<L>Now gracyus lady, of þat grace sum qwhat graunte þou me.</L>
+</LG>
+<LG N="4">
+<HEAD>4 Plena.</HEAD>
+<L>Fulle <NOTE N="1)" PLACE="foot">łł <HI REND="italic">durch</HI> lle <HI REND="italic">aufgelöst.</HI></NOTE> offe grace, madyn wiþouten pere,</L>
+<L>Fulle offe alle worschepe, for heuen kyng þou bere,</L>
+<L>Fulle þat art offe alle pete, þou see sterre so clere,</L>
+<L>When jn synne j begynne to synken, here, lady, my prayere.</L>
+</LG>
+<LG N="5">
+<HEAD>5 Dominus.</HEAD>
+<L>Lorde þat jn þe conseywyd was for sauyng offe lesse and more,</L>
+<L>Lorde þat wolde offe þe mayden so wonderly be bore,</L>
+<L>Lorde þat in þe wroȝth þat profycy seyde before,</L>
+<L>For þi sake haue mercy onne me, þat j be nouȝth forlore.</L>
+</LG>
+<LG N="6">
+<HEAD>6 Tecum</HEAD>
+<L>Wiþ þe þe trinite pyȝth hys owen place,</L>
+<L>Wiþ þe, when Crist wolde manne become to doe vs alle grace,</L>
+<L>Wiþ þe he ys and þou wiþ hym, atwyn ȝe maye nouȝth pase</L>
+<L>Wiþ hym to be helpe þou me, ladye, þat j maye see hys face.</L>
+</LG>
+<LG N="7">
+<HEAD>7 Benedicta</HEAD>
+<L>Blyssyd madyn pereles amonge wommen alle,</L>
+<L>Blessyd moder þat was worþy oure lorde to ley jn stalle,</L>
+<L>Blessyd be þou jn euery tyme, euer blyssyd j wylle þe calle;</L>
+<L>Nowe blisful lady, blesse þou me, to deþe qwhen j schal falle.</L>
+</LG>
+<LG N="8">
+<HEAD>8 tu</HEAD>
+<L>þou syttes, qwene j-crownyd, an heye in heuen blysse,</L>
+<L>þou reygnyst euer wiþ þy sone, 9hwere noe joye may mysse,</L>
+<L>þou hast powere jn heuen and erþe and in helle peyn to lysse,</L>
+<L>þat j come nouȝth to þat place, good lady, þou me wysse.</L>
+</LG>
+<LG N="9">
+<PB N="322" REF="3"/>
+<HEAD>9 In</HEAD>
+<L>In heuen þe worschepyn angels nyȝth and daye,</L>
+<L>In erþe þe honowereþ <NOTE N="1" PLACE="foot"><HI REND="italic">Ms.</HI> honowre þet</NOTE> alle cristenmens laye,</L>
+<L>In helle þe dredeth fendes alle þat beþe offe fowle araye,</L>
+<L>Soe myȝthtyfulle lady helpe, 9hwere þat j ne maye.</L>
+</LG>
+<LG N="10">
+<HEAD>10 (Mu)lieribus</HEAD>
+<L>Wommen alle comforteþ Mary, þat beþe boþe good and wyse,</L>
+<L>Wommen alle jn synne broȝth helpe Mary þat þey may ryse,</L>
+<L>Wommen alle wiþ woe begoe helpe Mary on þy gyse,</L>
+<L>And me þat daye, qwhen j schalle see þy sone, my justyse.</L>
+</LG>
+<LG N="11">
+<HEAD>11 (Et)</HEAD>
+<L>And seþen, lady, howe grete þou art, yt mowe nouȝth be tolde,</L>
+<L>And also howe mercyable boþe to ȝonge and olde,</L>
+<L>And howe þou sauyst men wiþ myȝth oute offe þe fendes holde—</L>
+<L>þy sokoure, lady, j prey also, þat helpyþ soe (m)anyfolde.</L>
+</LG>
+<LG N="12">
+<HEAD>12 Benedictus</HEAD>
+<L>Blessyd be þat hey fader þat schope þe sweche a wyȝth,</L>
+<L>Blessyd be hys owen son̄e, in þe þat wold alyȝth,</L>
+<L>Blessyd be þat holygost þat made þe so bryȝth.</L>
+<L>þat blessyd trinyte, þe to serue, sende me grace and myȝth.</L>
+</LG>
+<LG N="13">
+<HEAD>13 (fr)uctus.</HEAD>
+<L>Fruyt þat offe þy wombe sprange þat ys soe fayre and swete,</L>
+<L>Fruyt yt was þat was byhote to come oute offe Jesses rote,</L>
+<L>Fruyt Jesus þat blossimmyd offe þe for alle mannys kyndys bote,</L>
+<L>My sowle foode and lyf als soe ay þouȝþ þe be yt mote.</L>
+</LG>
+<LG N="14">
+<HEAD>14 uteri</HEAD>
+<L>Wombe, to þe was Cristus bowere, harbar offe alle clennes,</L>
+<L>Wombe to þe als paradyse ffulle offe alle swetnesse,</L>
+<L>Wombe, offe þe was prinsys palyce þat most ys offe prowes,</L>
+<L>For þe byrȝth of þat wombe helpe, Mary, in dysstres.</L>
+</LG>
+<LG N="15">
+<HEAD>15 tui</HEAD>
+<L>Thyn ys alle heuen court redy at þyn heste,</L>
+<L>þyn ys here alle holycherche boþe by west and este,</L>
+<L>þyn ys euery crysten man in erthe boþe mest and leste,</L>
+<L>For þyn j am, þou schylde me frome satan, þat fowle beste.</L>
+</LG>
+<LG N="16">
+<PB N="323" REF="4"/>
+<HEAD>16 Jesus</HEAD>
+<L>Jesus ys oure blyssed lorde þat made alle þynge offe nouȝth,</L>
+<L>Jesus ys oure sawyour þat wiþ hys blode ous bouȝth,</L>
+<L>Jesus ys kyng offe all pete þat soe wiþ man haþe wrowȝth—</L>
+<L>Nowe Jesus, Mary moder sone, ay be ȝe in my þowȝth.</L>
+</LG>
+<LG N="17">
+<HEAD>17 Amen.</HEAD>
+<L>Amen nowe seyþe alle lerned men wiþ here letterure,</L>
+<L>Amen seythe nowe lewede men dewotely þe to honoure,</L>
+<L>Amen to þe wiþ alle here myȝth say euery creature,</L>
+<L>Amen, worchep euer be to þe, qwyle any þynge schalle dure.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV2>
+<DIV2 N="2" TYPE="section">
+<HEAD>§ 2.</HEAD>
+<HEADNOTE>
+<P>Gedichte, welche jeden vers mit einem der worte des englischen grusses beginnen, sind in der afrz. litteratur nicht selten. Aus anglonormannischen handschriften wird aber im Grundriss für Rom. Phil. II 974 nur ein einziges denkmal dieser art erwähnt, von welchem P. Meyer, Rom. 15, 306 die beiden ersten verse abgedruckt hat. Es scheint mir der mühe wert es hier ganz zugängig zu machen. Obgleich es im einzelnen zu sehr von dem in § 1 gegebenen englischen gedichte ab∣weicht, um etwa die quelle desselben darstellen zu können, hat es doch—im versbau und auch sonst—zuviel verwandte züge, um nicht interesse zu erwecken. Ein zweites anglo∣normannisches gedicht, ebenfalls in vierzeilern mit durch∣gehendem reim und mit fast demselben anfange ("<HI REND="italic">Ave seynte Marie, ave gloriose</HI>"), im übrigen aber von ganz abweichender anlage und ohne zugrundelegung der einzelnen wörter des englischen grusses, ist von P. Meyer, Rom. 13, 534 beschrieben und z. t. abgedruckt. Es enthält in der vorletzten strophe eine me. zeile:
+<Q><L><HI REND="italic">Be myn help and my fultum that ich mey amendi here.</HI></L></Q></P>
+</HEADNOTE>
+<HEADNOTE><P>Cambr. Univ. Libr. Gg I 1. (Anfang des 14. jahrh.)</P></HEADNOTE>
+<LG N="1">
+<HEAD>1. Aue</HEAD>
+<L>Ave tresduce Marie, aue gloriouse, <MILESTONE N="264" UNIT="fol."/></L>
+<L>Aue ros espani, aue preciouse,</L>
+<L>Aue freche flour flori, aue graciouse,</L>
+<L>Aue fonteingne de aie, aue plentiuouse.</L>
+</LG>
+<LG N="2">
+<HEAD>2. Maria</HEAD>
+<L>Maria, esteile de mere estes appelle,</L>
+<L>La lune, le solail cler de vous est alume.</L>
+<L><PB N="324" REF="5"/>
+Requerez tun trecher fiz, mere benure,</L>
+<L>Qe m'alme doint si guuerner qe en ciel eit le entre.</L>
+</LG>
+<LG N="3">
+<HEAD>3. gracia</HEAD>
+<L>Gracia: de grace plein estes replenie,</L>
+<L>Chaste, pure, certeine, leal deu amie.</L>
+<L>Grantez ceus qe sunt en peine vostre duce aye,</L>
+<L>Ke de ioie souereine tute enuis partie.</L>
+</LG>
+<LG N="4">
+<HEAD>4. plena</HEAD>
+<L>Plena: pleine de ducur, mere merciable,</L>
+<L>A tuz ceus qi sunt en dolur estes ioie estable.</L>
+<L>Grauntez moy vostre socur, dame socourable,</L>
+<L>Ke pur peccherie folour ia ne sei dampnable.</L>
+</LG>
+<LG N="5">
+<HEAD>5. dominus</HEAD>
+<L>Dominus: le sire qe fist ciel e tere e mere</L>
+<L>E tut crea par sun soul dist e a vous vout granter,</L>
+<L>Quancque <NOTE N="1" PLACE="foot"><HI REND="italic">Ms.</HI> Quancqȝ.</NOTE> vous de quor parfit li vodras prier,</L>
+<L>Car de vous, pucel, nasquist pur nous rechater.</L>
+</LG>
+<LG N="6">
+<HEAD>6. tecum</HEAD>
+<L>Od tei tun cher fiz est rey de grant valur,</L>
+<L>A sun destre vous ad assis en ciel a grant honur,</L>
+<L>Priez, pucele de pris, mere al sauueour, <MILESTONE N="264b" UNIT="fol."/></L>
+<L>Ke il nous amene a ses eliz en haut par sa ducur.</L>
+</LG>
+<LG N="7">
+<HEAD>7. Benedicta</HEAD>
+<L>Benedicta: es beneit, qe portastes la flour</L>
+<L>Que tut tens est freche e nette sanz nul flestrur.</L>
+<L>Que en lui sa tente mette, trouera a chef de tour</L>
+<L>Que il lui rendra bien sa dette, amy fet bon dreitur.</L>
+</LG>
+<LG N="8">
+<HEAD>8. Tu</HEAD>
+<L>Tv, pucel, futes einz ke deu nasquist,</L>
+<L>E auant e apres cel hour qe Gabriel vous dist</L>
+<L>Ke vne enfant de grant mesure, par le seint espirit</L>
+<L>De vous nestreit sanz blemur, si cum nous trouum escrit.</L>
+</LG>
+<LG N="9">
+<HEAD>9. In</HEAD>
+<L>En creaturs ke deu fist auez la seignurie,</L>
+<L>Puskil que fut tun fiz vous fist par sa mestrie,</L>
+<L>E char humeine de vous prist pur nous sauuer la vie,</L>
+<L>Quant le maufe se entremist pur nous auer trahie,</L>
+</LG>
+<LG N="10">
+<HEAD>10. Mulieribus</HEAD>
+<L>De femmes estes la plus bele.</L>
+<L>Par vous grant ioie auums, deu amy leel,</L>
+<L>Quant deu nasquist de uous meimes, tres cher pucel.</L>
+<L>Priez tun fiz qe tant eimys qe il ot ma querel!</L>
+</LG>
+<LG N="11">
+<PB N="325" REF="6"/>
+<HEAD>11. Et</HEAD>
+<L>E chescune creature qe est en ciel e tere</L>
+<L>Prest serra par nature de tun gre par fere.</L>
+<L>Priez pur nous, uirgine pure, dame debonere,</L>
+<L>Ke ta pouer a nul houre neimes de mesfere,</L>
+</LG>
+<LG N="12">
+<HEAD>12. Benedictus</HEAD>
+<L>Benedictus: seit beneit qe letta ta mamel!</L>
+<L>Qui en lui sa tente mette e mustre sa querel,</L>
+<L>Sa request tost auereit saunz nul entrecel,</L>
+<L>E la dame einsi ben eit qe est sa mere bel.</L>
+</LG>
+<LG N="13">
+<HEAD>13. fructus</HEAD>
+<L>Le fruit qe Adam prist nous tolli la vie,</L>
+<L>Par le fruit qe de vous issit lauoms recouerie.</L>
+<L>Pur ceo priez douce Jesu ke ia ne seit honie!</L>
+<L>Qui lui prie de quor parfit, mes sa prier otrie.</L>
+</LG>
+<LG N="14">
+<HEAD>14. Ventris</HEAD>
+<L>De tun ventre issist Jesu, le sauueour,</L>
+<L>Si il nust este, tuz fusoums en dolur.</L>
+<L>Pur ceo li prioms de haut crie qe il nous doint socur,</L>
+<L>Ke il nous amene haut en ciel hors de cel tristur!</L>
+</LG>
+<LG N="15">
+<HEAD>15. Tui</HEAD>
+<L>Tui: tes serfs prient qe es de ciel regine.</L>
+<L>Priez tun fiz, duce Jesu, que <NOTE N="1" PLACE="foot"><HI REND="italic">Ms.</HI> q̄.</NOTE> par sa grace diuine</L>
+<L>Nous sauue e garde par ta prier de enfernale vermine</L>
+<L>E nous doint la ioie qe ia ne termine.</L>
+</LG>
+<LG N="16">
+<HEAD>16. Amen.</HEAD>
+<L>Amen diums trestuz de quor e buche ouert,</L>
+<L>E priums le rei gloriose e sa mer apert</L>
+<L>Que ci nous doint finir le curs par nostre desert, <MILESTONE N="265" UNIT="fol."/></L>
+<L>Que a lui veignums la suz hors de ceste desert.</L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="section">
+<HEAD>§ 3.</HEAD>
+<HEADNOTE>
+<P>Ein zweites me. gedicht mit derselben verwendung der einzelnen wörter des englischen grusses kann ich jetzt aus dem Ms. Cambridge Univ. Libr. Gg IV 32 nachweisen, dessen sonstige me. stücke grösstenteils von Halliwell, Rel. Ant. I 159 abgedruckt sind. Wie es kommt, dass gerade dieses litterar∣historisch wie sprachlich so interessante denkmal aus der be∣kannten handschrift bislang unberücksichtigt blieb, ist nicht recht klar. Eine untersuchung der sprachlichen eigentümlich∣keiten gedenke ich an anderer stelle zu geben.</P>
+</HEADNOTE>
+<HEAD><PB N="326" REF="7"/>
+<MILESTONE N="14b" UNIT="fol."/> (Ms. ist nicht foliiert).</HEAD>
+<EPIGRAPH>
+<Q><L>Heil Marie, ful of grace,</L>
+<L>God is wiþ þe in eurich place;</L>
+<L>Blesced be þou ouer alle wymmen</L>
+<L>And þe fruit of þin wombe, amen.</L></Q>
+</EPIGRAPH>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Heil and holi ay be þi name,</L>
+<L>Fulsum leuedi hende and swete!</L>
+<L>To hem þat beþ þorgh sennes lame</L>
+<L>Hastif helpe þou bihete,</L>
+<L>And schildest hem fram schendful schame</L>
+<L>þat here sennes willeþ lete.</L>
+<L>Help out of euerech blame</L>
+<L>Senfulle þat þe willeþ grete!</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Marie, mayde and moder milde,</L>
+<L>Milce and merci was of þe boren,</L>
+<L>To sauuen and fram helle schilde</L>
+<L>Alle þo þat weren forloren</L>
+<L>For giltes of oure eldren wilde,</L>
+<L>Adam and Eue, her biforen.</L>
+<L>Praie for vs to þine childe <MILESTONE N="15" UNIT="fol."/></L>
+<L>þat we to his blisse be coren!</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Fvl of eche þewes gode,</L>
+<L>þou were chaste and clene of þoghte,</L>
+<L>þou vnderfenge liues fode</L>
+<L>Of Gabriel þat hit te broghte,</L>
+<L>And his gretinge wel vnderstode,</L>
+<L>þorgh what Crist in þe wonder wroghte:</L>
+<L>Of manlich flessch and blode</L>
+<L>þat he tok þat vs dere boghte.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Grace þou founde in God and loue,</L>
+<L>þo he so holilich {that}e dighte</L>
+<L>þat he wolde fro heuene aboue</L>
+<L>So lowe into þin bodi lighte.</L>
+<L>þorgh þe to sike is helþe iȝoue,</L>
+<L>To lame limes, to blinde sighte;</L>
+<L>Out of heuene blisse ischoue</L>
+<L>Nis non þat þe serueþ aplighte.</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>God is he þat iboren was</L>
+<L>Wiþoute eurich senful likinge</L>
+<L><PB N="327" REF="8"/>
+Of þe, ase sonne þorgh glas</L>
+<L>Schineþ wiþoute ani brekinge.</L>
+<L>His birþe was blisful solas</L>
+<L>To hem þat weren þorgh egginge</L>
+<L>Forloren of Satanas.</L>
+<L>Help vs to þi blisse to bringe!</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>With þe is eure and þe aboute</L>
+<L>Michel mirþe and ioie and blisse</L>
+<L>In heuene of angles route</L>
+<L>þat þe worþschipeþ myde iwisse.</L>
+<L>Wel owen we to þe aloute</L>
+<L>And preien <NOTE N="1" PLACE="foot"><HI REND="italic">Ms.</HI> p{er}ien.</NOTE> þat þou vs schilde</L>
+<L>And wisse fram deueles doute,</L>
+<L>þat non of þin helþe ne misse.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>In euerech sor þat we hauen here</L>
+<L>þorgh þe we finden liþing sone;</L>
+<L>For Jesu Crist, þin sone dere,</L>
+<L>Nelle naght werne þe þin bone,</L>
+<L>Whan þou bisext wiþ milde chere</L>
+<L>For vs þat weren dempt and fordone,</L>
+<L>As deueles into helle fere</L>
+<L>þorgh sennes þat her beþ idone.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Place ches him on forto reste</L>
+<L>In þis world Crist, godes sone,</L>
+<L>In þin clene blisful breste;</L>
+<L>Wel likede him þer in to wone,</L>
+<L>And kenned was as brid in neste.</L>
+<L>Of milce and merci þou him mone</L>
+<L>þat he ȝiue vs soules reste</L>
+<L>And grace oure fon forto schone</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>Blesced was þat ilke stounde</L>
+<L>þat god almighti on þe þoghte,</L>
+<L>þo he fram heuene to þe grounde</L>
+<L>Lighte and in þe lownesse soghte;</L>
+<L>And þat was in þin herte ifounde,</L>
+<L>þorgh what we weren alle ibroghte</L>
+<L>Out of sor and maked sounde,</L>
+<L>þat ferst yuele weren idoghte <NOTE N="2" PLACE="foot">idoghte <HI REND="italic">im Ms.</HI></NOTE>.</L>
+</LG>
+<LG N="10">
+<PB N="328" REF="9"/>
+<HEAD>10.</HEAD>
+<L>Be þou leuedi to al mankenne</L>
+<L>þat to þe clepeþ in here nede</L>
+<L>Right scheld and clensing of senne,</L>
+<L>And to þin sone oure ernde bede,</L>
+<L>þat we, whan we wenden henne,</L>
+<L>Out of þis world þin help ifrede</L>
+<L>Smartliche to renne,</L>
+<L>þider þer eche god haueþ mede.</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Ouer alle angles in heuene heȝe</L>
+<L>þe sette Crist on his right side,</L>
+<L>To helpen þo þat beþ onsleȝe</L>
+<L>And ek forloren þorgh senne of pride.</L>
+<L>Wend toward vs þin milzful <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> milzful.</NOTE> eȝe,</L>
+<L>So þat þorgh þe bet vs bitide!</L>
+<L>Clense vs, ar we deȝe, <MILESTONE N="15b" UNIT="fol."/></L>
+<L>Of senne, þin blisce to bide!</L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Wymmen weren alle ischente,</L>
+<L>In þraldom helde and onworþlie,</L>
+<L>þorgh Eue þat þe deuel blente,</L>
+<L>What Jesu Crist wiþ his maistrie</L>
+<L>þo lettres of hire name wente</L>
+<L>And made of Eua Aue Marie</L>
+<L>And clansing sente</L>
+<L>To wymmen of ech vileinie.</L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>And þe fruit þat to alle gode</L>
+<L>Frouering is and ek hem strongeþ</L>
+<L>And soules helþe and liues fode</L>
+<L>þat worþschipeliche hit vnderfongeþ</L>
+<L>Ripede in þin herte blode,</L>
+<L>Ase appel þat on þe tre hongeþ;</L>
+<L>So dede vpon rode</L>
+<L>He to wham folk cristene longeþ.</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>Of þin wombe Crist his halle</L>
+<L>Maked her among mankinde,</L>
+<L>To driue awey þo deueles alle</L>
+<L>þat mannes soules gonnen binde</L>
+<L>Wiþ biterere pines þane ȝalle.</L>
+<L>Help vs þat of þe makeþ mynde</L>
+<L><PB N="329" REF="10"/>
+And doun beþ falle,</L>
+<L>þorgh þe reisinge to finde!</L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>Amen, so mote hit euer be,</L>
+<L>As y haue seid in my gretinge,</L>
+<L>þat Jesu Crist sente to þe</L>
+<L>In þin worþschipe ouer alle þinge.</L>
+<L>Help, leuedi, to maken vs fre</L>
+<L>Out of dedli senne to bringe,</L>
+<L>þat we þi blisse ise</L>
+<L>Moten in heuenlich woniinge.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV2>
+<DIV2 N="4" TYPE="section">
+<HEAD>§ 4.</HEAD>
+<HEADNOTE>
+<P>Unmittelbar voraus geht in derselben handschrift auf fol. 14 ein lat. gedicht von gleicher anlage, das allerdings im einzelnen mannigfach abweicht. In metrischer hinsicht ist beachtens∣wert, dass mit dem letzten verse der vierzeiligen strophe der trochäische rhythmus des mittelalterlichen hymnenverses in einen hexameter übergeht, natürlich ohne genaue beachtung der quantitäten.</P>
+</HEADNOTE>
+<HEAD><MILESTONE N="14b" UNIT="fol."/></HEAD>
+<EPIGRAPH>
+<Q>Ave Maria, gracia plena, dominus tecum; benedicta tu in mulieribus et benedictus fructus ventris tui. Amen.</Q>
+</EPIGRAPH>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Ave, dei genitrix, semper deo grata,</L>
+<L>Virgo, celi gaudium, munda mundo nata,</L>
+<L>Ad salutem hominum in exemplum data,</L>
+<L>Nescia concubitus, patrem paris inuiolata!</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Maria, miseria per te terminatur,</L>
+<L>Et misericordia per te renouatur,</L>
+<L>Per te naufragantibus portus demonstratur,</L>
+<L>Per te, virgo pia, miserorum culpa piatur.</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>Gracia te redd[id]it, virgo, graciosam,</L>
+<L>Te vestiuit lilio, spersit in te rosam,</L>
+<L>Te virtutum floribus fecit luminosam,</L>
+<L>Intus et exterius te perfecit speciosam.</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Plena medicamine, habundans vnguentis.</L>
+<L>Respice tu faciem lacrimas fundentis!</L>
+<L>Audi preces pauperis coram te plangentis,</L>
+<L>Tu, pia, lapsorum restaura uulnera mentis!</L>
+</LG>
+<LG N="5">
+<PB N="330" REF="11"/>
+<HEAD>5.</HEAD>
+<L>Dominus, Rex omnium, nobis in te fecit</L>
+<L>Cellam pigmentariam, quam in te confecit;</L>
+<L>Morbis egrotantibus salutem perfecit,</L>
+<L>Et saluandorum sic federa fracta refecit.</L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Tecum tota trinitas fecit mansionem;</L>
+<L>In te sumpsit deitas carnis vnionem,</L>
+<L>Vt prodesset miseris ad te dempcionem,</L>
+<L>Vt tandem moriens posset superare leonem.</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Benedicta, benedic te benedicentes!</L>
+<L>Fac, ut tuis laudibus maneant feruentes!</L>
+<L>Effice dulcedine tu eorum mentes,</L>
+<L>Vt te laudantes semper sint proficientes!</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>Tv in mulieribus optima figura,</L>
+<L>Dignior es cognita omni creatura.</L>
+<L>Stupet vsus, nimium miratur natura,</L>
+<L>Dum paris intacta carnis percellere iura.</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>Et benedictus est pater, qui te creauit</L>
+<L>Et in matris vtero te sacrificauit,</L>
+<L>Et beata viscera matris, que te portauit,</L>
+<L>Non minus est felix genitor, qui te generauit.</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>Fructus tuus, domina, fructus angelorum,</L>
+<L>Quo fruuntur, cibus est omnium sanctorum;</L>
+<L>Ipsa delectacio et dulcor eorum</L>
+<L>Fructus ventre tu es <NOTE N="1)" PLACE="foot"><HI REND="italic">Ms.</HI> tues.</NOTE>, virgo, merces premiorum.</L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Ventris habitaculum Rex Regum intrauit,</L>
+<L>Pugnaturus propter nos ibi se armauit</L>
+<L>Armis condecentibus, quibus hostem strauit,</L>
+<L>Ne moriatur homo, moriens mortem superauit.</L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Tvi ergo filij redempti cruore</L>
+<L>Sperso in patibulo crucis cum liuore</L>
+<L>Emundati penitus te laudamus ore</L>
+<L>Vt nos, virgo, tuo crescamus semper amore.</L>
+</LG>
+<CLOSER>Amen. Amen.</CLOSER>
+</DIV2>
+<CLOSER><DATELINE>CAMBRIDGE.</DATELINE>
+<SIGNED>W. HEUSER.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

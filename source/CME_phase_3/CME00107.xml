@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-6-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; changed sub HEAD to BYLINE; removed DIV2; added HEADNOTE; changed TRAILER to CLOSER; changed some marginal NOTEs to MILESTONEs; removed some incorrect MILESTONEs from HEADs and Ps. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00107">
+<STC T="M">107</STC>
+<BIBNO T="mec">CME00107</BIBNO>
+<VID>CME00107</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1"/>
+<HEAD>Die altenglische Legende von St. Brendan <NOTE N="*" PLACE="foot">Aus Ms. Harl. 2277 bereits von Thom. Wright für die Percy Soc. edirt.</NOTE> aus Ms. Ashmol, 43. fol. 71 b.</HEAD>
+<BYLINE>Herausgegeben von Dr. C. Horstmann.</BYLINE>
+<HEADNOTE><P>In der durch Ms. Egerton 1993 und Ms. Vernon vertretenen Sektion der Legendenhand∣schriften, welche einen kürzeren und jüngeren Text enthält, fehlt diese Legende, wol wegen ihres mehr romantischen Inhalts.</P></HEADNOTE>
+<LG>
+<L>SEyn Brendan, þe holi mon,: was of Irlonde.</L>
+<L>Monek he was, of harde lyue,: as i<SUP>c</SUP> vnd<HI REND="italic">er</HI>stonde,</L>
+<L>Of vastynge &amp; penau<HI REND="italic">n</HI>ce Inou;: Monek he was þer<HI REND="italic">e</HI> <NOTE PLACE="foot">V. 3 Ms. Monek st. abbod; so in d. übr. Mss.</NOTE></L>
+<L>Of a þousend monekes,: þ<SUP>t</SUP> vnd<HI REND="italic">er</HI> hi<HI REND="italic">m</HI> alle wer<HI REND="italic">e.</HI></L>
+<L>So þ<SUP>t</SUP> it byuel In aday,: as our lordes wille was, <MILESTONE N="5"/></L>
+<L>þ<SUP>t</SUP> barynt, anoþ<HI REND="italic">er</HI> abbod,: to hi<HI REND="italic">m</HI> com bi cas.</L>
+<L>S. brendan hi<HI REND="italic">m</HI> bisoȝte anon,: þ<SUP>t</SUP> he scholde hi<HI REND="italic">m</HI> vnd<HI REND="italic">er</HI>stonde</L>
+<L>&amp; telle of þ<SUP>t</SUP> he hadde iseie: aboute i<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> londe.</L>
+<L>þis godemo<HI REND="italic">n,</HI> þo he hurde þis,: sikynge made Inowe,</L>
+<L>&amp; bigan to wepe i<HI REND="italic">n</HI> grete þoȝte,: &amp; vel adoun iswowe. <MILESTONE N="10"/></L>
+<L>Bitwene is armes s. brendan: þis holi mo<HI REND="italic">n</HI> up nom,</L>
+<L>&amp; custe hi<HI REND="italic">m</HI> &amp; c<HI REND="italic">ri</HI>de on hi<HI REND="italic">m,:</HI> vorte is wit aȝen hi<HI REND="italic">m</HI> com.</L>
+<L>ffad<HI REND="italic">er,</HI> he sede, p<HI REND="italic">ar</HI>charite,: oþ<HI REND="italic">er</HI> red þ<SUP>u</SUP> most take:</L>
+<L>Hud<HI REND="italic">er</HI> þ<SUP>u</SUP> come vor our solas,: &amp; noȝt, such deol to make;</L>
+<L>Tel ous wat þ<SUP>u</SUP> hast iseie,: as þ<SUP>u</SUP> hast aboute iwend <MILESTONE N="15"/></L>
+<L>In þe muchel se of occian,: as our lord þe haþ isend.</L>
+<L>Nou is þe se of occean: grettost, &amp; mest also,</L>
+<L>Vor heo geþ aboute al þe world,: &amp; al oþ<HI REND="italic">er</HI> sees goþ þ<HI REND="italic">er</HI>to.</L>
+<L>So þ<SUP>t</SUP> barynt, þis olde mo<HI REND="italic">n,:</HI> riȝ<HI REND="italic">t</HI> at is herte g<HI REND="italic">ro</HI>nde <NOTE PLACE="foot">V. 19 Ms. riȝ st. riȝt.</NOTE></L>
+<L>Al wepynge gan hi<HI REND="italic">m</HI> telle: wat he hadde ifounde. <MILESTONE N="20"/></L>
+<L><PB N="18" REF="2"/>
+He sede: ichabbe a godsone,: M<HI REND="italic">er</HI>uot was is name, <NOTE PLACE="foot">V. 21 st. habbe haben die and. Mss. hadde.</NOTE> <NOTE PLACE="foot">V. 21 Meruot st. Mernoc.</NOTE></L>
+<L>Monek he was, as we beþ,: &amp; mo<HI REND="italic">n</HI> of g<HI REND="italic">re</HI>t fame.</L>
+<L>So þ<SUP>t</SUP> is herte hi<HI REND="italic">m</HI> ȝaf to wende: i<HI REND="italic">n</HI> ap<HI REND="italic">ri</HI>ue stude &amp; stille,</L>
+<L>þ<HI REND="italic">er</HI> he miȝte al one be,: to seruy god to wille.</L>
+<L>So þ<SUP>t</SUP> by myn leue he wende: &amp; al one hi<HI REND="italic">m</HI> drouȝ <MILESTONE N="25"/></L>
+<L>To an Ile, ver i<HI REND="italic">n</HI> þe se,: þ<SUP>t</SUP> delitable was Inouȝ,</L>
+<L>Biside þe mou(n)tayne of stones,: þ<SUP>t</SUP> couþ is wel wide.</L>
+<L>So longe þ<SUP>t</SUP> þis gode monek: In þis ile gan abide, <NOTE PLACE="foot">V. 28 So longe, sc. it was.</NOTE></L>
+<L>þ<SUP>t</SUP> he hadde of monekes vnd<HI REND="italic">er</HI> hi<HI REND="italic">m</HI> monyon. <NOTE PLACE="foot">V. 29 fehlt: in d. Mitte, wie V. 60, 248, 258, 283, 292, 369, 370, 372, 375, 377, 525, 597, 648, 660.</NOTE></L>
+<L>Ano<HI REND="italic">n</HI> so i<SUP>c</SUP> hurde telle þ<HI REND="italic">us,:</HI> þud<HI REND="italic">er</HI>ward i<SUP>c</SUP> wende anon. <MILESTONE N="30"/></L>
+<L>So þ<SUP>t</SUP> i<HI REND="italic">n</HI> a vision: our suete lord hi<HI REND="italic">m</HI> kende,</L>
+<L>þ<SUP>t</SUP> aȝen me, as i<SUP>c</SUP> to hi<HI REND="italic">m</HI> com,: þre Iorneys he wende.</L>
+<L>So þ<SUP>t</SUP> we dude ous i<HI REND="italic">n</HI> ascip,: &amp; estward euene drowe <NOTE PLACE="foot">V. 33 die and. Mss. euere st. euene.</NOTE></L>
+<L>In þe se of occian,: wiþ torment<HI REND="italic">(es)</HI> Inowe. <NOTE PLACE="foot">V. 34 Ms. torment mit Schleifchen an t = es?</NOTE></L>
+<L>Toward þen est so ver we wende,: þ<SUP>t</SUP> we come atelaste <MILESTONE N="35"/></L>
+<L>In astude swiþe derk,: &amp; clouden ous ou<HI REND="italic">er</HI>caste.</L>
+<L>Al an tide of þe day: we were i<HI REND="italic">n</HI> derkhede; <MILESTONE N="72" UNIT="fol."/></L>
+<L>Ate laste our suete lord: v<HI REND="italic">er</HI>rore ous gon lede:</L>
+<L>So þ<SUP>t</SUP> we seie an ilond;: þud<HI REND="italic">er</HI>ward our scip drouȝ. <NOTE PLACE="foot">V. 39 ff. Vgl. mit dieser Schilderung</NOTE></L>
+<L>Briȝt it is as þe so<HI REND="italic">n</HI>ne,: Joie þ<HI REND="italic">er</HI> was Inouȝ: <MILESTONE N="40"/> <NOTE PLACE="foot">V. 40 die and. Mss. wol richtig: Briȝttere hit þoȝte þane.</NOTE></L>
+<L>Of tren &amp; herbes þicke it stod,: biset i<HI REND="italic">n</HI> ech side,</L>
+<L>Of p<HI REND="italic">re</HI>sious stones ek,: þ<SUP>t</SUP> scynde briȝt &amp; wide;</L>
+<L>Ech herbe was vol of floures,: &amp; ech tre vol of frut;</L>
+<L>Bote it wer<HI REND="italic">e</HI> i<HI REND="italic">n</HI> heuene sulf,: nas neu<HI REND="italic">er</HI> more dedut.</L>
+<L>þ<HI REND="italic">er</HI> Inne wiþ Joie Inou: wel longe we go<HI REND="italic">n</HI>ne wende, <MILESTONE N="45"/></L>
+<L>þei it lute wule ous þoȝte;: we ne miȝte fynde non ende.</L>
+<L>So þ<SUP>t</SUP> we come to awat<HI REND="italic">er,:</HI> cler &amp; briȝt Inou,:</L>
+<L>þ<SUP>t</SUP> euene f<HI REND="italic">ra</HI>mward þen est: toward þe west drou.</L>
+<L>We stode &amp; bihulde aboute,: vor we ne miȝte noȝt ou<HI REND="italic">er</HI> wende.</L>
+<L>þ<HI REND="italic">er</HI> com to ous aȝong mon,: swiþe vair &amp; hende; <MILESTONE N="50"/></L>
+<L>He wilcomede ous vair<HI REND="italic">e</HI> eu<HI REND="italic">er</HI>ichone,: wel mildelich<HI REND="italic">e</HI> &amp; suete,</L>
+<L>&amp; ane<HI REND="italic">m</HI>pned ech is riȝte name,: &amp; wel vair<HI REND="italic">e</HI> ous gon grete,</L>
+<L>&amp; sede: ȝe aȝte ihū c<HI REND="italic">ri</HI>st: þonky wel wiþ riȝte,</L>
+<L>þ<SUP>t</SUP> sceweþ of is pr<HI REND="italic">i</HI>uete ȝou: so muche, &amp; of is miȝte;</L>
+<L><PB N="19" REF="3"/>
+þis is þ<SUP>t</SUP> lond þ<SUP>t</SUP> he wole ȝut: ar þe wordles ende <MILESTONE N="55"/></L>
+<L>His der<HI REND="italic">n</HI>elynges anerþe ȝyue,: &amp; hid<HI REND="italic">er</HI> hi scholleþ wende. <NOTE PLACE="foot">V. 56 Ms. deruelynges.</NOTE></L>
+<L>þis lond is half i<HI REND="italic">n</HI> þis side,: as ȝe seþ wel wide,</L>
+<L>&amp; biȝonde þe wat<HI REND="italic">er</HI> þe haluendel: as bi þe oþ<HI REND="italic">er</HI> side; <NOTE PLACE="foot">V. 58 þe vor haluendel fehlt in d. and. Mss.</NOTE></L>
+<L>þ<SUP>t</SUP> wat<HI REND="italic">er</HI> ne mowe ȝe passe noȝt,: þ<SUP>t</SUP> oþ<HI REND="italic">er</HI> del to se.</L>
+<L>&amp; her ȝe habbeþ alle ȝer meteles ibe, <MILESTONE N="60"/> <NOTE PLACE="foot">V. 60 &amp; wol zu tilgen. alle ȝer st. al a ȝer, wie in d. and. Mss.</NOTE></L>
+<L>þ<SUP>t</SUP> ȝe ne ete ne dronke noȝt,: ne slepte noȝt wiþ our eie,</L>
+<L>Ne chele ne hete ne fredde ȝe noȝt,: ne no nyȝt ȝe ne seie: <NOTE PLACE="foot">V. 62 Harl. fonde ȝe, Bodl. Laud. greued ȝow.</NOTE></L>
+<L>Vor þis (is) godes p<HI REND="italic">ri</HI>ue stude,: &amp; þoru hi<HI REND="italic">m</HI> is þis liȝt, <NOTE PLACE="foot">V. 63 Nach þis fehlt is im Ms.</NOTE></L>
+<L>þ<HI REND="italic">er</HI>uore it worþ eu<HI REND="italic">er</HI> her day,: &amp; neu<HI REND="italic">er</HI> nyȝt. <NOTE PLACE="foot">V. 64 Nach neuer fehlt more.</NOTE></L>
+<L>Ȝif mon aȝen godes heste: nadde noþi<HI REND="italic">n</HI>g mysdo, <MILESTONE N="65"/></L>
+<L>Her Inne he hadde ȝut bileued,: &amp; is ofsprung also.</L>
+<L>Ȝe ne mowe her noleng bileue,: aȝen ȝe mote far<HI REND="italic">e;</HI></L>
+<L>þei it þenche ȝou lute wule,: ȝe habbe ibe her ȝar<HI REND="italic">e.</HI></L>
+<L>So þ<SUP>t</SUP> he broȝte ous i<HI REND="italic">n</HI> our scip,: &amp; wel uair<HI REND="italic">e</HI> is leue nom,</L>
+<L>&amp;, þo we wer<HI REND="italic">e</HI> hamward i<HI REND="italic">n</HI> þe se,: we nuste war he bicom; <MILESTONE N="70"/></L>
+<L>Aȝenward he wende aȝen our wille,: it ous of þoȝte sore Inouȝ. <NOTE PLACE="foot">V. 71 Ms. our st. ous; ous ist hinter þoȝte zu versetzen.</NOTE></L>
+<L>Aȝen to þis oþ<HI REND="italic">er</HI> monekes: þis scip we(l) euene drou. <NOTE PLACE="foot">V. 72 Ms. we st. wel.</NOTE></L>
+<L>þis monekes ourne aȝen ous,: þo hi myȝte ous ise,</L>
+<L>&amp; sori wer<HI REND="italic">e</HI> &amp; wroþ Inou: þ<SUP>t</SUP> we hadde so longe ibe.</L>
+<L>We sede þ<SUP>t</SUP> we hadde ibe,: wiþ g<HI REND="italic">re</HI>t Joie &amp; feste, <MILESTONE N="75"/></L>
+<L>Byuore þe ȝates of p<HI REND="italic">ar</HI>ays,: In þe lond of biheste,</L>
+<L>þ<SUP>t</SUP> our suete lord haþ bihote: he<HI REND="italic">m</HI> þ<SUP>t</SUP> he loueþ her; <MILESTONE N="b."/></L>
+<L>þ<HI REND="italic">er</HI> is day &amp; neu<HI REND="italic">er</HI> nyȝt,: &amp; þe leme eu<HI REND="italic">er</HI> cler. <NOTE PLACE="foot">V. 78 Vor day fehlt euer.</NOTE></L>
+<L>Certes, queþe þis monekes,: wel we mowe ise</L>
+<L>Bi þe suote smul of ȝou,: þ<HI REND="italic">er</HI> ȝe habbeþ ibe. <MILESTONE N="80"/></L>
+<L>þo s. brendan ihurde þis,: In þoȝte he stod wel stille;</L>
+<L>He þoȝte fondi more her of,: ȝif it wer<HI REND="italic">e</HI> godes wille.</L>
+<L>He wende among is monekes: &amp; twelf out he nom,</L>
+<L>þ<SUP>t</SUP> he truste mest to of alle,: wen eny neode com.</L>
+<L>þis twelfue he clupe i<HI REND="italic">n con</HI>seil,: &amp; i<HI REND="italic">n</HI> p<HI REND="italic">ri</HI>uete he<HI REND="italic">m</HI> sede: <MILESTONE N="85"/> <NOTE PLACE="foot">V. 85 Ms. twelf ue. clupe st. clupede.</NOTE></L>
+<L>I<SUP>c</SUP> þenche do ap<HI REND="italic">ri</HI>ue þing,: þ<HI REND="italic">er</HI> of ȝe mote me rede,</L>
+<L>To seche þ<SUP>t</SUP> lond of biheste,: ȝif god wolde ous þud<HI REND="italic">er</HI> lede; <NOTE PLACE="foot">V. 86 u. 87 fehlen in Harl. u. Bodl.</NOTE></L>
+<L><PB N="20" REF="4"/>
+Seggeþ wat ȝour <HI REND="italic">con</HI>seil is,: to do so g<HI REND="italic">re</HI>t adede!</L>
+<L>Leue fad<HI REND="italic">er,</HI> þe oþ<HI REND="italic">er</HI> sede,: our wille we habbeþ vorsake,</L>
+<L>Our frend, &amp; al our oþ<HI REND="italic">er</HI> good,: &amp; clanliche to þe itake; <MILESTONE N="90"/></L>
+<L>&amp; wen our dede is on þe,: ȝif þ<SUP>u</SUP> wolt þ<SUP>t</SUP> it be,</L>
+<L>We scholle vawe wiþ þe wende,: our lordes g<HI REND="italic">ra</HI>ce to se.</L>
+<L>So þ<SUP>t</SUP> hi uaste fourti dawes,: &amp; g<HI REND="italic">re</HI>t penau(n)ce dude also, <NOTE PLACE="foot">V. 93 Ms. penauce.</NOTE></L>
+<L>&amp; bede ȝerne our lordes g<HI REND="italic">ra</HI>ce: þulke viage to do.</L>
+<L>Hi let he<HI REND="italic">m</HI> make ast<HI REND="italic">ro</HI>ng scip,: &amp; aboue it al bicaste <MILESTONE N="95"/></L>
+<L>Wiþ bole huden, st<HI REND="italic">ro</HI>ng Inouȝ,: &amp; nailede þ<HI REND="italic">er</HI>to vaste, <NOTE PLACE="foot">V. 96 Statt &amp; nailede ist inailed zu lesen.</NOTE></L>
+<L>&amp; seþþe ipiched al aboute,: þ<SUP>t</SUP> þe wat<HI REND="italic">er</HI> In ne come.</L>
+<L>Hi wende to hor breþ<HI REND="italic">er</HI>en: &amp; wel vair<HI REND="italic">e</HI> hor leue nome,</L>
+<L>&amp; seþþe i<HI REND="italic">n</HI> our lordes name: to scipe hi wende anon.</L>
+<L>Hor breþ<HI REND="italic">er</HI>en, þ<SUP>t</SUP> bihynde wer<HI REND="italic">e,:</HI> sori wer<HI REND="italic">e</HI> echon. <MILESTONE N="100"/></L>
+<L>&amp; þo hi wer<HI REND="italic">e</HI> ȝut i<HI REND="italic">n</HI> þe scip,: aft<HI REND="italic">er</HI> þ<HI REND="italic">er</HI> come two</L>
+<L>&amp; bed he<HI REND="italic">m</HI> vaste þ<SUP>t</SUP> hi moste: þen wei wiþ he<HI REND="italic">m</HI> go.</L>
+<L>Ȝe mowe wel, s. brendan sede,: ac or oþ<HI REND="italic">er</HI> schal ate ende <NOTE PLACE="foot">V. 103 or = ȝour.</NOTE></L>
+<L>Repenti, ar he come aȝen,: &amp; al quic to helle wende.</L>
+<L>Worþ hi<HI REND="italic">m</HI> wende þis holi mon,: wud<HI REND="italic">er</HI> our lord hi<HI REND="italic">m</HI> sende; <MILESTONE N="105"/> <NOTE PLACE="foot">V. 105 Ms. Worþ st. vorþ.</NOTE></L>
+<L>&amp; þis twei monekes, þ<SUP>t</SUP> come last,: also wiþ he<HI REND="italic">m</HI> wende.</L>
+<L>In þe g<HI REND="italic">re</HI>te se of occean: vorþ hi rewe vaste,</L>
+<L>&amp; truste al to our lordes g<HI REND="italic">ra</HI>ce: &amp; noþi<HI REND="italic">n</HI>g nere agaste.</L>
+<L>þe wynd drof hor scip al aft<HI REND="italic">er</HI> wille,: þe wynd was good Inouȝ. <NOTE PLACE="foot">V. 109 Statt des ersten wynd haben Harl. u. Bodl. see, wol die richtige Lesart.</NOTE></L>
+<L>As þe wynd he<HI REND="italic">m</HI> drof, wel euene: uorþ west hor scip drouȝ, <MILESTONE N="110"/> <NOTE PLACE="foot">V. 110 Ms. west st. est, vgl. 113.</NOTE></L>
+<L>Euene aȝen þ<SUP>t</SUP> þe so<HI REND="italic">n</HI>ne arist: (a)mydsomeres day. <NOTE PLACE="foot">V. 111 Vor myd someres fehlt a.</NOTE></L>
+<L>Non nuste of he<HI REND="italic">m</HI> war he was,: ne no lond ne say.</L>
+<L>Euene est fourti dawes: þe wynd he<HI REND="italic">m</HI> drof vaste.</L>
+<L>So þ<SUP>t</SUP> hi seie i<HI REND="italic">n</HI> þe norþ side: ag<HI REND="italic">re</HI>t Ile ate laste,</L>
+<L>Of harde roche, &amp; g<HI REND="italic">re</HI>t Inouȝ,: aboue þe se wel hei. <MILESTONE N="115"/> <NOTE PLACE="foot">V. 115 Ms. heie mit wegpunktirtem e.</NOTE></L>
+<L>þre dawes hi wende þ<HI REND="italic">er</HI> aboute,: ar hi miȝte come þ<HI REND="italic">er</HI> ney.</L>
+<L>A lute hauene hi founde,: a lond hi wende þer<HI REND="italic">e.</HI> <MILESTONE N="73" UNIT="fol."/> <NOTE PLACE="foot">V. 117 Nach founde fehlt þo.</NOTE></L>
+<L>Hi wende aboute as mopismen,: þ<SUP>t</SUP> nuste war hi wer<HI REND="italic">e.</HI></L>
+<L>þ<HI REND="italic">er</HI> com gon a wel vair hound,: as it wer<HI REND="italic">e</HI> he<HI REND="italic">m</HI> to ler<HI REND="italic">e;</HI></L>
+<L>At s. brendans vet he vel adoun,: &amp; made he<HI REND="italic">m</HI> vair<HI REND="italic">e</HI> cher<HI REND="italic">e.</HI> <MILESTONE N="120"/> <NOTE PLACE="foot">V. 120 hem st. him.</NOTE></L>
+<L>Beu freres, quaþ s. brendan,: ȝe ne dorre noþi<HI REND="italic">n</HI>g drede:</L>
+<L>Ichot þis is amessag<HI REND="italic">er,:</HI> þen riȝte wei ous to lede.</L>
+<L><PB N="21" REF="5"/>
+þis hound ladde þis holi mo<HI REND="italic">n:</HI> to an halle, vair Inouȝ,</L>
+<L>Gret &amp; starc &amp; swiþe noble,: wel euene In he drouȝ.</L>
+<L>þe monekes founde i<HI REND="italic">n</HI> þis halle: bord &amp; cloþ isprad, <MILESTONE N="125"/></L>
+<L>&amp; bred &amp; fisc þ<HI REND="italic">er</HI> up Inouȝ,: þ<HI REND="italic">er</HI> nas non þ<SUP>t</SUP> nas glad.</L>
+<L>Hi sete adoun &amp; ete vaste,: vor he<HI REND="italic">m</HI> luste wel þ<HI REND="italic">er</HI>to.</L>
+<L>Beddes hi seie, ȝar<HI REND="italic">e</HI> ymad,: ar hor soper wer<HI REND="italic">e</HI> ido;</L>
+<L>Aft<HI REND="italic">er</HI> sop<HI REND="italic">er</HI> to bedde hi wende,: to reste he<HI REND="italic">m</HI> as þe wise.</L>
+<L>þo hi hadde alle islept Inouȝ,; sone hi go<HI REND="italic">n</HI>ne arise, <MILESTONE N="130"/></L>
+<L>&amp; wende aȝen to hor scip,: as hi hadde er ibe.</L>
+<L>&amp; In þe se wel longe hi wer<HI REND="italic">e:</HI> ar hi miȝte eny lond ise.</L>
+<L>þo seie hi bi þe oþ<HI REND="italic">er</HI> side: an ile, vair Inouȝ,:</L>
+<L>Grene, &amp; wiþ awel vair lese,: þud<HI REND="italic">er</HI>war hor scep drouȝ. <NOTE PLACE="foot">V. 134 Ms. þuderwar st. þuderward. scep st. scip.</NOTE></L>
+<L>þo hi come i<HI REND="italic">n</HI> to þisse vair<HI REND="italic">e</HI> londe: &amp; bihulde aboute wide, <MILESTONE N="135"/></L>
+<L>þe vairest scip þ<SUP>t</SUP> miȝte be: hi seie i<HI REND="italic">n</HI> ech side, <NOTE PLACE="foot">V. 136 Ms. scip st. scep.</NOTE></L>
+<L>A scep was grettore þe<HI REND="italic">n</HI> an oxe,: &amp; wittore ne miȝte be.</L>
+<L>Gret Joie hi hadde i<HI REND="italic">n</HI> hor herte,: þis vair<HI REND="italic">e</HI> scep to se.</L>
+<L>þo com þ<HI REND="italic">er</HI> go a wel vair man,: &amp; g<HI REND="italic">re</HI>te he<HI REND="italic">m</HI> wiþ vaire cher<HI REND="italic">e,</HI></L>
+<L>&amp; sede: ȝe beþ her icome,: as ȝe neu<HI REND="italic">er</HI> er nere: <MILESTONE N="140"/></L>
+<L>þis is icluped þe lond of scep,: vor scep wel vair<HI REND="italic">e</HI> her beþ,</L>
+<L>Muchele &amp; wite &amp; grete Inouȝ,: as ȝe al day iseþ;</L>
+<L>Vairore hi beþ þen ȝour<HI REND="italic">e</HI> scep,: &amp; grettore vn iliche,</L>
+<L>Vor muri wed<HI REND="italic">er</HI> her is Inouȝ,: &amp; lese good &amp; riche;</L>
+<L>Her nys neu<HI REND="italic">er</HI> wynt<HI REND="italic">er</HI> non,: ne no<HI REND="italic">n</HI> hei ifou<HI REND="italic">n</HI>de, <MILESTONE N="145"/> <NOTE PLACE="foot">V. 145 hei fehlt in Harl., Bodl. haþ st. hay?; hei = hay, Heu.</NOTE></L>
+<L>Ac hi eteþ þe erbes also nywe: as hi sp<HI REND="italic">ri</HI>ngeþ of þe g<HI REND="italic">ro</HI>nde;</L>
+<L>Me ne gadereþ noþi<HI REND="italic">n</HI>g of hor mylc,: þ<SUP>t</SUP> hi scholde þe worse be; <NOTE PLACE="foot">V. 147 Harl. u. Bodl. Ne me ne.</NOTE></L>
+<L>Vor þis þi<HI REND="italic">n</HI>g, &amp; mony oþ<HI REND="italic">er,:</HI> þe bet hi mowe iþe.</L>
+<L>To astude ȝe scholleþ henne we<HI REND="italic">n</HI>de,: þoru our lordes g<HI REND="italic">ra</HI>ce,</L>
+<L>þ<SUP>t</SUP> is foulen p<HI REND="italic">ar</HI>ais,: a wel Joyuol place; <MILESTONE N="150"/></L>
+<L>þ<HI REND="italic">er</HI> ȝe sculle þis est<HI REND="italic">er</HI> be,: &amp; witsontid also;</L>
+<L>Wendeþ vorþ a godes name!: þ<SUP>t</SUP> þis viage wer<HI REND="italic">e</HI> ido,</L>
+<L>S. brendan &amp; is breþ<HI REND="italic">er</HI>en: to scipe wende anon,</L>
+<L>&amp; rewe uorþ i<HI REND="italic">n</HI> þe se,: i<HI REND="italic">n</HI> te<HI REND="italic">m</HI>pest monyon. <NOTE PLACE="foot">V. 154 Nach uorþ fehlt wol uaste.</NOTE></L>
+<L>So þ<SUP>t</SUP> hi seie bi þe one side: an ile, gret Inouȝ. <MILESTONE N="155"/></L>
+<L>Hor scip þoru our lordes g<HI REND="italic">ra</HI>ce: þud<HI REND="italic">er</HI>ward euene drouȝ.</L>
+<L>þo hi come almest þ<HI REND="italic">er</HI>to,: up roches it gan ride, <MILESTONE N="b."/> <NOTE PLACE="foot">V. 157 Harl. u. Bodl. hit cam st. hi come.</NOTE></L>
+<L>þ<SUP>t</SUP> it ne miȝte to þe ile come,: ac bileuede biside.</L>
+<L>þis monekes wode up to þis ile,: ac s. brendan noȝt.</L>
+<L>þis monekes go<HI REND="italic">n</HI>ne make hor mete: of þ<SUP>t</SUP> hi hadde ibroȝt, <MILESTONE N="160"/></L>
+<L><PB N="22" REF="6"/>
+Hi made he<HI REND="italic">m</HI> fur, &amp; zode he<HI REND="italic">m</HI> fisc: i<HI REND="italic">n</HI> a caudron vaste. <NOTE PLACE="foot">V. 161 Vor fur ist fisc wegpunktirt.</NOTE></L>
+<L>Ar þis visc wer<HI REND="italic">e</HI> isode Inouȝ,: hi wer<HI REND="italic">e</HI> somdel agaste:</L>
+<L>Vor, (þo) þis fur was þoruhot,: þe ile quakede anon <NOTE PLACE="foot">V. 163 Nach vor fehlt þo im Ms. þoru = þoruout, vgl. V. 473.</NOTE></L>
+<L>&amp; wiþ g<HI REND="italic">re</HI>t eir hupte al up;: þis monekes dradde echon,</L>
+<L>&amp; þe wei toward hor schip: ech aft<HI REND="italic">er</HI> oþ<HI REND="italic">er</HI> nom, <MILESTONE N="165"/></L>
+<L>God leuest, he<HI REND="italic">m</HI> þoȝte, he was: þ<SUP>t</SUP> sonest þud<HI REND="italic">er</HI> com. <NOTE PLACE="foot">V. 165 u. 166 fehlen in Harl. u. Bodl.</NOTE></L>
+<L>Hi bihulde hou þis ile: i<HI REND="italic">n</HI> þe se wende vaste,</L>
+<L>&amp; as q<HI REND="italic">ui</HI>c þi<HI REND="italic">n</HI>g hupte up &amp; doun,: &amp; þ<SUP>t</SUP> fur f<HI REND="italic">ra</HI>m hi<HI REND="italic">m</HI> caste. <NOTE PLACE="foot">V. 168 steht im Ms. unrichtig hinter 170; die richtige Folge ergibt sich aus Mss. Harl. u. Bodl.</NOTE></L>
+<L>He swam more þen to myle,: þe wule þis fur ilaste.</L>
+<L>þis monekes seie þ<SUP>t</SUP> fur longe,: &amp; wer<HI REND="italic">e</HI> sore agaste; <MILESTONE N="170"/></L>
+<L>Hi c<HI REND="italic">ri</HI>de ȝerne on s. brendan: wat þ<SUP>t</SUP> wou<HI REND="italic">n</HI>d<HI REND="italic">er</HI> wer<HI REND="italic">e.</HI></L>
+<L>Beþ stille! quaþ þis holi mo<HI REND="italic">n,:</HI> uor noȝt ȝe habbeþ fer<HI REND="italic">e;</HI></L>
+<L>Ȝe weneþ þ<SUP>t</SUP> it be an ile,: ac ȝe þencheþ amys:</L>
+<L>Hit is a visc of þe g<HI REND="italic">re</HI>te se,: þ<SUP>e</SUP> meste þ<SUP>t</SUP> þ<HI REND="italic">er</HI> is,</L>
+<L>Iastony he is icluped;: he fond<SUP>e</SUP>þ nyȝt &amp; day <MILESTONE N="175"/></L>
+<L>To pulte is tail i<HI REND="italic">n</HI> is mouþ,: &amp; vor grettnesse he ne may.</L>
+<L>Vorþ hi rewe i<HI REND="italic">n</HI> þe se: euene west wel naste, <NOTE PLACE="foot">V. 177 west wol st. est.</NOTE></L>
+<L>þre dawes ar hi seie lond;: hi wer<HI REND="italic">e</HI> somdel agaste.</L>
+<L>þo seie hi a wel vair lond,: of floures þicke Inouȝ.</L>
+<L>Wel glade hi wer<HI REND="italic">e,</HI> þo hi seie: þ<SUP>t</SUP> hor scip þud<HI REND="italic">er</HI> drouȝ. <MILESTONE N="180"/></L>
+<L>In þis vair lond hi wende: lengore þe<HI REND="italic">n</HI> i<SUP>c</SUP> ȝou telle. <NOTE PLACE="foot">V. 181 Bodl. wonede st. wende.</NOTE></L>
+<L>So þ<SUP>t</SUP> hi founde i<HI REND="italic">n</HI> astude: aswiþe vair welle;</L>
+<L>In þe welle stod a tre,: brod &amp; hei Inouȝ; <NOTE PLACE="foot">V. 183 Ms. In st. Bi.</NOTE></L>
+<L>ffoules, swiþe wite &amp; vair<HI REND="italic">e,:</HI> so þick wer<HI REND="italic">e</HI> i<HI REND="italic">n</HI> ech bouȝ, <NOTE PLACE="foot">V. 184 Ms. þick mit Schleifchen an k.</NOTE></L>
+<L>þ<SUP>t</SUP> vnneþe eny lef: me myȝte þ<HI REND="italic">er</HI> on ise, <MILESTONE N="185"/></L>
+<L>þ<SUP>t</SUP> it was Joie &amp; blisse Inouȝ,: to loke on þis tre.</L>
+<L>S. brendan vor Joie wep,: &amp; sat adoun akne</L>
+<L>&amp; bed our lord to scewe hi<HI REND="italic">m,:</HI> wat such cas myȝte be.</L>
+<L>þo fley þ<HI REND="italic">er</HI> up alutel fowel,: &amp; toward hi<HI REND="italic">m</HI> gan te;</L>
+<L>As aviþele is wyngen v<HI REND="italic">er</HI>de,: þo he bigan to fle: <MILESTONE N="190"/></L>
+<L>M<HI REND="italic">er</HI>gore enstreme<HI REND="italic">n</HI>t neu<HI REND="italic">er</HI> nas,: þen is wyngen wer<HI REND="italic">e.</HI></L>
+<L>He bihuld s. brendan: wiþ wel vair<HI REND="italic">e</HI> chere.</L>
+<L>I<SUP>c</SUP> hote þe, quaþ. s. brendan,: ȝif þ<SUP>u</SUP> art messag<HI REND="italic">er,</HI></L>
+<L>þ<SUP>t</SUP> þ<SUP>u</SUP> segge me wat ȝe beþ,: &amp; wat ȝe doþ her.</L>
+<L><PB N="23" REF="7"/>
+Ac þei it þoȝte aȝen kunde,: þis fouwel ansuerede anon: <MILESTONE N="195"/> <NOTE PLACE="foot">V. 195 ac fehlt in Harl.; Bodl.: al þey.</NOTE></L>
+<L>We wer<HI REND="italic">e,</HI> he seide, somtyme was,: angles i<HI REND="italic">n</HI> heuene echon,</L>
+<L>Ac, as sone as we wer<HI REND="italic">e</HI> Imad,: our maist<HI REND="italic">er</HI> was to prout, <MILESTONE N="74" UNIT="fol."/></L>
+<L>Lucefer, f<HI REND="italic">ra</HI>m is vair<HI REND="italic">e</HI> stude: þ<SUP>t</SUP> he vel sone out,</L>
+<L>&amp; wiþ hi<HI REND="italic">m</HI> also monyon,: eu<HI REND="italic">er</HI> as hor misdede was;</L>
+<L>&amp; we velle also adoun,: ac vor non mysdede it nas, <MILESTONE N="200"/></L>
+<L>Vor noþi<HI REND="italic">n</HI>g þ<SUP>t</SUP> we ensented: to is foule vnriȝte, <NOTE PLACE="foot">V. 201 Vor vor fehlt wol ne.</NOTE></L>
+<L>Bote souleme<HI REND="italic">n</HI>t vorte scewe: our suete lordes myȝte;</L>
+<L>Ne we beþ her In pyne non,: ac In Joie Inou we beþ,</L>
+<L>&amp; somdel ney our swete lord,: &amp; is myȝte we seþ;</L>
+<L>&amp; bi þe erþe we fleþ aboute,: &amp; bi þe lufte also, <MILESTONE N="205"/></L>
+<L>As gode angles, &amp; luþ<HI REND="italic">er</HI> ek,: riȝt is vorte do: <NOTE PLACE="foot">V. 206 ek mit Schleifchen an k.</NOTE></L>
+<L>þe gode, vorte do me<HI REND="italic">n</HI> good,: þe luþ<HI REND="italic">er</HI> luþ<HI REND="italic">er</HI>hede makeþ:</L>
+<L>&amp; þe soneday, þ<SUP>t</SUP> is day of reste,: such fourme we takeþ: <NOTE PLACE="foot">V. 208 Vor makeþ ist to wegpunktirt; statt luþerhede liest Harl. liþere, Bodl. leþer.</NOTE></L>
+<L>þe fourme of such wite foweles,: as þ<SUP>u</SUP> myȝt her ise,</L>
+<L>&amp; honoureþ god, þ<SUP>t</SUP> ous made,: her up þis tre. <MILESTONE N="210"/> <NOTE PLACE="foot">V. 210 Vor tre fehlt wol brode.</NOTE></L>
+<L>Twelf monþe it is ipassed: þ<SUP>t</SUP> ȝe go<HI REND="italic">n</HI>ne v<HI REND="italic">er</HI>st out wende, <NOTE PLACE="foot">V. 211 Ms. ippassed mit wegpunkt. p.</NOTE></L>
+<L>&amp; al þis six ȝer ȝe scholle var<HI REND="italic">e,:</HI> ar ȝe b<HI REND="italic">ri</HI>nge þis viage to ende,</L>
+<L>Vor, wa<HI REND="italic">n</HI>ne ȝe habbeþ ipassed þis seue ȝer,: our lord ȝou wole sende</L>
+<L>An siȝt of þ<SUP>t</SUP> ȝe habbeþ isoȝt,: ate seue ȝeres ende.</L>
+<L>Ech ȝer ȝe scholleþ her wiþ ous: holde ȝour<HI REND="italic">e</HI> est<HI REND="italic">er</HI> feste, <MILESTONE N="215"/></L>
+<L>As ȝe nou doþ, vorte ȝe come: to þe lond of biheste.</L>
+<L>Nou was þis an est<HI REND="italic">er</HI> day,: þ<SUP>t</SUP> al þis was ido.</L>
+<L>þis fowel nom is leue at he<HI REND="italic">m,:</HI> &amp; to is felawes wende also. <NOTE PLACE="foot">V. 218 also wol st. þo (Harl.) oder so (Bodl.).</NOTE></L>
+<L>þis foweles, þo it tyme was,: bygo<HI REND="italic">n</HI>ne hor euesong,</L>
+<L>M<HI REND="italic">er</HI>gore song ne myȝte be,: þei god hi<HI REND="italic">m</HI> sulf wer<HI REND="italic">e</HI> þ<HI REND="italic">er</HI> among. <MILESTONE N="220"/></L>
+<L>þis monekes wende to bedde &amp; slepe,: þo hor sop<HI REND="italic">er</HI> was ido;</L>
+<L>&amp; þo it was tyme of matyns,: hi arise vp þ<HI REND="italic">er</HI>to.</L>
+<L>þis foules songe ek hor matyns: wel riȝt, þo it was tyme,</L>
+<L>&amp; of þe saut<HI REND="italic">er</HI> sede v<HI REND="italic">er</HI>s,: &amp; seþþe also p<HI REND="italic">ri</HI>me,</L>
+<L>&amp; vndarne seþþe, &amp; mydday,: &amp; aft<HI REND="italic">er</HI>ward seþþe non, <MILESTONE N="225"/></L>
+<L>&amp; ech tyde of þe day songe,: as c<HI REND="italic">ri</HI>steneme<HI REND="italic">n</HI> scholde don.</L>
+<L>þis monekes wer<HI REND="italic">e</HI> i<HI REND="italic">n</HI> þe londe: eiȝte wuke also,</L>
+<L>Vorte al þe feste of est<HI REND="italic">er</HI> was,: &amp; of witsonetid, ido.</L>
+<L><PB N="24" REF="8"/>
+þo com ate t<HI REND="italic">ri</HI>nyte þis godemon: to hem þar, <NOTE PLACE="foot">V. 229: ist hinter trinyte zu versetzen, wie das Versmaass verlangt.</NOTE></L>
+<L>þ<SUP>t</SUP> spac wiþ he<HI REND="italic">m</HI> i<HI REND="italic">n</HI> þe lond of scep: &amp; ladde he<HI REND="italic">m</HI> aboute þar. <MILESTONE N="230"/> <NOTE PLACE="foot">V. 230 Ms. scip mit überschr. e u. wegpunkt. i. Statt þar ist ar zu lesen.</NOTE></L>
+<L>He chargede hor scip swiþe wel: wiþ mete &amp; dri<HI REND="italic">n</HI>ke Inou,</L>
+<L>&amp; nom is leue wel hendeliche: &amp; aȝenward hi<HI REND="italic">m</HI> drou.</L>
+<L>þo s. brendan was i<HI REND="italic">n</HI> þe scip,: &amp; is breþ<HI REND="italic">er</HI>en al so,</L>
+<L>þis fowel, þ<SUP>t</SUP> spac wiþ hi<HI REND="italic">m</HI> er,: wel sone com hi<HI REND="italic">m</HI> to.</L>
+<L>He sede: ȝe habbeþ her wiþ ous: þis heie feste ibe; <MILESTONE N="235"/></L>
+<L>Gret t<HI REND="italic">ra</HI>uail ȝou is to come,: ar ȝe efsone lond ise; <NOTE PLACE="foot">V. 236 efsone st. eftsone.</NOTE></L>
+<L>Ȝe scholleþ aft<HI REND="italic">er</HI> seue monþes: fynde an vair ile, <MILESTONE N="b."/></L>
+<L>þ<SUP>t</SUP> abbey icluped is,: he<HI REND="italic">n</HI>ne it is mony amyle;</L>
+<L>Ȝe scholleþ myd holi me<HI REND="italic">n</HI> be: þis myd wynt<HI REND="italic">er</HI> þer<HI REND="italic">e;</HI></L>
+<L>Ȝour est<HI REND="italic">er</HI> ȝe scholleþ holde þ<HI REND="italic">er,:</HI> as ȝe duden to ȝer<HI REND="italic">e:</HI> <MILESTONE N="240"/> <NOTE PLACE="foot">240 Nach ester fehlt gewiss eue, vgl. V. 362, 388; dann wäre: vor þer zu versetzen.</NOTE></L>
+<L>Vp þe g<HI REND="italic">re</HI>te visches rugge,: as þi<HI REND="italic">n</HI> monekes wer<HI REND="italic">e</HI> i<HI REND="italic">n</HI> fer<HI REND="italic">e,</HI></L>
+<L>&amp; our est<HI REND="italic">er</HI> wiþ ous, riȝt: as ȝe nou wer<HI REND="italic">e.</HI> <NOTE PLACE="foot">V. 242 our = ȝour wie V. 61. 103.</NOTE></L>
+<L>S. brendan a godes name,: &amp; is breþ<HI REND="italic">er</HI>en echon,</L>
+<L>In þe se of occean: vorþ hi wende anon.</L>
+<L>þe wynd he<HI REND="italic">m</HI> harled up &amp; doun: In p<HI REND="italic">er</HI>il monyon: <MILESTONE N="245"/></L>
+<L>So weri hi wer<HI REND="italic">e</HI> of hore lyue,: þ<SUP>t</SUP> he<HI REND="italic">m</HI> ne roȝte wud<HI REND="italic">er</HI> gon;</L>
+<L>þis four monþes hi wende i<HI REND="italic">n</HI> þe se: i<HI REND="italic">n</HI> swiþe g<HI REND="italic">re</HI>t t<HI REND="italic">ur</HI>ment, <NOTE PLACE="foot">V. 247 þis wol zu tilgen.</NOTE></L>
+<L>Hi ne sei noþi<HI REND="italic">n</HI>g bote þe se &amp; þe f<HI REND="italic">ir</HI>mame<HI REND="italic">n</HI>t. <NOTE PLACE="foot">V. 68-248 fehlen im Ms. Laud., da 2 Blätter ausgerissen sind.</NOTE></L>
+<L>þo seie hi ver f<HI REND="italic">ra</HI>m he<HI REND="italic">m:</HI> an ile as it wer<HI REND="italic">e.</HI></L>
+<L>Hi c<HI REND="italic">ri</HI>de ȝerne on ihū c<HI REND="italic">ri</HI>st: þ<SUP>t</SUP> hi moste ariue þer<HI REND="italic">e;</HI> <MILESTONE N="250"/></L>
+<L>Ȝut, aft<HI REND="italic">er</HI> þ<SUP>t</SUP> s. brendan: verst þis (ile) isei, <NOTE PLACE="foot">V. 251 ile fehlt im Ms. nach þis.</NOTE></L>
+<L>In þe se he wende fourti dawes,: ar he miȝte come þ<HI REND="italic">er</HI> ney; <NOTE PLACE="foot">V. 252 he st. hi.</NOTE></L>
+<L>He<HI REND="italic">m</HI> þoȝte þ<SUP>t</SUP> hor lif was loþ;: þe monekes wer<HI REND="italic">e</HI> agaste; <NOTE PLACE="foot">V. 253 Vor was fehlt hem.</NOTE></L>
+<L>Hi c<HI REND="italic">ri</HI>de ȝerne on ihū c<HI REND="italic">ri</HI>st: &amp; help bede vaste. <NOTE PLACE="foot">V. 254 Vor help fehlt his.</NOTE></L>
+<L>A lutel hauene, swiþe streit,: hi fou<HI REND="italic">n</HI>de ate laste, <MILESTONE N="255"/></L>
+<L>Vnneþe hor scip com þ<HI REND="italic">er</HI> Inne;: hor ancre þ<HI REND="italic">er</HI> hi caste.</L>
+<L>þis monekes wende þ<HI REND="italic">er</HI> alond,: wel longe er hem þoȝte.</L>
+<L>Hi wende &amp; bihuld aboute, &amp; þonkede god þ<SUP>t</SUP> he<HI REND="italic">m</HI> þud<HI REND="italic">er</HI> broȝte. <NOTE PLACE="foot">V. 257 Hier liest Harl. richtig hem þoȝte er, u. V. 258 die letzte Hlbz.: wel murie hem þoȝte þer; die Vorsetzung von er in Ms. Ashm. mag der Grund sein für die Umänderung der 2. Hlbz. in V. 258, die jedenfalls eine Hebung zu viel zählt.</NOTE></L>
+<L>So þ<SUP>t</SUP> hi seie twei vair<HI REND="italic">e</HI> wellen:: þe on was swiþe cler,</L>
+<L>&amp; þe oþ<HI REND="italic">er</HI> wori &amp; þicke Inouȝ.: þis monekes eode ner, <MILESTONE N="260"/></L>
+<L><PB N="25" REF="9"/>
+To drynke of þis vair<HI REND="italic">e</HI> welle.: s. brendan it isei:</L>
+<L>Wiþþoute leue of oþ<HI REND="italic">er</HI> men: ne come ȝe noȝt þ<HI REND="italic">er</HI> ney,</L>
+<L>Of olde me<HI REND="italic">n,</HI> þ<SUP>t</SUP> her Inne beþ,: vor myd gode wille</L>
+<L>Hi wolleþ p<HI REND="italic">ar</HI>ti þ<HI REND="italic">er</HI> of myd ȝou,: &amp; þ<HI REND="italic">er</HI>uore beþ ȝe stille! <NOTE PLACE="foot">V. 264 ȝe st. ȝet.</NOTE></L>
+<L>A uair old mon, &amp; swiþe hor,: aȝen he<HI REND="italic">m</HI> com gon; <MILESTONE N="265"/></L>
+<L>He wilcomede he<HI REND="italic">m</HI> vair<HI REND="italic">e</HI> Inouȝ,: &amp; s. brendan custe anon;</L>
+<L>He nom &amp; ladde hi<HI REND="italic">m</HI> bi þe hond,: al bi a uair wey,</L>
+<L>Aboute i<HI REND="italic">n</HI> mony amuri stude,: &amp; seþþe i<HI REND="italic">n</HI> to an abbey.</L>
+<L>S. brendan bihuld aboute,: &amp; escte wat it wer<HI REND="italic">e,</HI></L>
+<L>&amp; wat man<HI REND="italic">er</HI>e me<HI REND="italic">n</HI> wer<HI REND="italic">e</HI> wiþ<HI REND="italic">in</HI>ne,: &amp; ho wonede þ<HI REND="italic">er</HI>e. <MILESTONE N="270"/></L>
+<L>Stille was þis olde man: &amp; ne ȝaf hi<HI REND="italic">m</HI> non vnsuer<HI REND="italic">e.</HI> <NOTE PLACE="foot">V. 271 Ms. vnsuere = ansuere.</NOTE></L>
+<L>þo sei he come auair couent,: &amp; acrois biuore he<HI REND="italic">m</HI> ber<HI REND="italic">e,</HI></L>
+<L>Wiþ tap<HI REND="italic">er</HI>es i<HI REND="italic">n</HI> eiþ<HI REND="italic">er</HI> side;: monekes it wer<HI REND="italic">e</HI> echon,</L>
+<L>Reuested i<HI REND="italic">n</HI> uair<HI REND="italic">e</HI> copes.: aȝen he<HI REND="italic">m</HI> hi come gon, <NOTE PLACE="foot">V. 274 Vor copes fehlt wol quer, s. Ms. Laud.</NOTE></L>
+<L>Wiþ p<HI REND="italic">ro</HI>cession vair<HI REND="italic">e</HI> Inouȝ.: þe abbod bihynde com, <MILESTONE N="275"/></L>
+<L>&amp; vair<HI REND="italic">e</HI> custe s. brendan,: &amp; bi (þe) hond hi<HI REND="italic">m</HI> nom <NOTE PLACE="foot">V. 276 Vor hond fehlt þe, s. V. 267.</NOTE></L>
+<L>&amp; ladde hi<HI REND="italic">m,</HI> &amp; is monekes,: In to anoble halle,</L>
+<L>&amp; sette he<HI REND="italic">m</HI> adoun a rank,: &amp; wesc hor vet alle: <MILESTONE N="75" UNIT="fol."/></L>
+<L>Of þe wori welle he wesc hor vet,: þ<SUP>t</SUP> hi er iseie.</L>
+<L>In to þe freitore he ladde he<HI REND="italic">m</HI> seþþe,: &amp; sette he<HI REND="italic">m</HI> þ<HI REND="italic">er</HI> heie, <MILESTONE N="280"/></L>
+<L>I medled wiþ is owe couent;: &amp; þo hi wer<HI REND="italic">e</HI> alle isete,</L>
+<L>þ<HI REND="italic">er</HI> com on &amp; seruede he<HI REND="italic">m,:</HI> &amp; vette he<HI REND="italic">m</HI> alle mete:</L>
+<L>A vair wit lof he sette biuore two &amp; two, <NOTE PLACE="foot">V. 283: fehlt nach sette. Statt bi fore lesen die and. Mss. bi twene, wol richtiger.</NOTE></L>
+<L>Wite moren as it wer<HI REND="italic">e</HI> of erbes: he sette biuore he<HI REND="italic">m</HI> also;</L>
+<L>Sweter<HI REND="italic">e</HI> þi<HI REND="italic">n</HI>g ne miȝte be,: hi ne knewe it noȝt on. <MILESTONE N="285"/></L>
+<L>Of þe cler<HI REND="italic">e</HI> welle, þ<SUP>t</SUP> hi seie,: þis monekes dronke echon.</L>
+<L>Beþ nou glade, þe abbod sede,: &amp; drynkeþ nou Inouȝ</L>
+<L>In charite of þulke welle,: þ<SUP>t</SUP> ȝe wolden er wiþ wouȝ;</L>
+<L>Hit is bet<HI REND="italic">er</HI>e to dri<HI REND="italic">n</HI>ke i<HI REND="italic">n</HI> charite,: wen it is ȝou ibroȝt, . . .</L>
+<L>Vor hoso douteþ ihū c<HI REND="italic">ri</HI>st,: hi<HI REND="italic">m</HI> ne schal faili noȝt. <MILESTONE N="290"/></L>
+<L>ffour &amp; twenti freres we beþ her<HI REND="italic">e,:</HI> &amp; we<HI REND="italic">n</HI> we beþ alle isete, <NOTE PLACE="foot">V. 289 Hier fehlen 4 Verse, s. u. V. 291 alle fehlt in d. and. Mss.</NOTE></L>
+<L>Twelf suche loues ech day me b<HI REND="italic">ri</HI>ngeþ ous to mete; <NOTE PLACE="foot">V. 292 Nach day fehlt:.</NOTE></L>
+<L>Ate feste of eche holi day,: &amp; we<HI REND="italic">n</HI>ne it soneday is,</L>
+<L><PB N="26" REF="10"/>
+He b<HI REND="italic">ri</HI>ngeþ ous four<HI REND="italic">e</HI> &amp; twenti loues,: þ<SUP>t</SUP> ech monek haþ his, <NOTE PLACE="foot">V. 294 he st. me.</NOTE></L>
+<L>&amp; ech frer<HI REND="italic">e</HI> of þ<SUP>t</SUP> he leueþ: wite to is soper. <MILESTONE N="295"/></L>
+<L>Vor ȝou it is to day idoubled,: as ȝe seþ nou her,</L>
+<L>Vor our couent nys noȝt her,: ac haþ muchedel vn ete; <NOTE PLACE="foot">V. 297 Vor our fehlt wol al, s. Ms. Laud.</NOTE></L>
+<L>So þ<SUP>t</SUP> our lord þoru is g<HI REND="italic">ra</HI>ce: ech day send ous mete.</L>
+<L>Seþþe s. pat<HI REND="italic">ri</HI>kes day,: &amp; s. ailbi also,</L>
+<L>We habbeþ ibe her vour score ȝer,: þ<SUP>t</SUP> nomo<HI REND="italic">n</HI> com ous to; <MILESTONE N="300"/></L>
+<L>Eu<HI REND="italic">er</HI>eft our lordes g<HI REND="italic">ra</HI>ce Iued: ous haþ echon. <NOTE PLACE="foot">V. 301 Die and. Mss. oure louerd þurf his grace; gewiss ist: vor Iued zu ver∣setzen.</NOTE></L>
+<L>þis wed<HI REND="italic">er</HI> is eu<HI REND="italic">er</HI> mury her,: sekenesse nys her non;</L>
+<L>&amp; wa<HI REND="italic">n</HI>ne we scholleþ do our seruise,: our lord tend our liȝt,</L>
+<L>&amp; our tap<HI REND="italic">er</HI>es ne beþ noþe lasse,: þei hi berne day &amp; nyȝt.</L>
+<L>Hi arise up, &amp; to chirche eode,: þo hi hadde alle iȝete. <MILESTONE N="305"/></L>
+<L>Twelf oþ<HI REND="italic">er</HI> monekes ate quer: hi mette toward þe mete.</L>
+<L>Hou is þis? quaþ s. brendan,: wi ner<HI REND="italic">e</HI> noȝt þes wiþ ous?</L>
+<L>Leue fad<HI REND="italic">er,</HI> þe abbod sede,: it mot neode be þus;</L>
+<L>þ<HI REND="italic">er</HI> nelleþ bote vour &amp; twenti monekes: i<HI REND="italic">n</HI> our freitor be ido,</L>
+<L>&amp;, wen ȝe wer<HI REND="italic">e</HI> þ<HI REND="italic">er</HI> wiþ ous,: þes ne miȝte noȝt also; <MILESTONE N="310"/></L>
+<L>þe wile we singeþ euesong,: þes scholleþ sitte &amp; ete,</L>
+<L>Hor euesong hi scholleþ seþþe synge: wen hi habbeþ iȝete.</L>
+<L>S. brendan bihuld hor vair<HI REND="italic">e</HI> weued;: hi<HI REND="italic">m</HI> þoȝte it was al,</L>
+<L>Weued, calis, &amp; cruet,: al pur c<HI REND="italic">ri</HI>stal. <NOTE PLACE="foot">V. 314 Statt cruet ist wol cruettes zu lesen.</NOTE></L>
+<L>Seue tap<HI REND="italic">er</HI>es i<HI REND="italic">n</HI> þe quer: þ<HI REND="italic">er</HI> wer<HI REND="italic">e,</HI> &amp; nammo, <MILESTONE N="315"/></L>
+<L>&amp; four &amp; twenti seges also,: to wan hi scholde go,</L>
+<L>Vor þ<HI REND="italic">er</HI> wer<HI REND="italic">e</HI> four &amp; twenti monekes,: þ<SUP>t</SUP> eu<HI REND="italic">er</HI>ich hadde his;</L>
+<L>&amp; þe abbodes sege was: amydde þe quer iwis.</L>
+<L>S. brendan escte þe abbod þo:: sei me, leue broþ<HI REND="italic">er,</HI> <MILESTONE N="b."/></L>
+<L>Hou holde ȝe so wel silence,: þ<SUP>t</SUP> no<HI REND="italic">n</HI> ne spekeþ wiþ oþ<HI REND="italic">er?</HI> <MILESTONE N="320"/></L>
+<L>Our lord it wot, þe abbod sede,: we habbeþ her ibe</L>
+<L>Vor score ȝer i<HI REND="italic">n</HI> suche lyue,: as þ<SUP>u</SUP> miȝt her ise, <NOTE PLACE="foot">V. 322 vor = vour.</NOTE></L>
+<L>Ac þ<HI REND="italic">er</HI> nas neu<HI REND="italic">er</HI>eft among ous alle: ispeke anone wise</L>
+<L>Ar þis tyme non oþ<HI REND="italic">er</HI> word,: bote cur lordes s<HI REND="italic">er</HI>uyce;</L>
+<L>Ne we neu<HI REND="italic">er</HI>eft ner<HI REND="italic">e</HI> i<HI REND="italic">n</HI> feblesse,: ne sik of ous noȝt on. <MILESTONE N="325"/></L>
+<L>þo s. brendan hurde þis,: uor Ioie he wep anon.</L>
+<L>Leue fad<HI REND="italic">er,</HI> he sede, uor godes loue,: mote we bileue her<HI REND="italic">e?</HI></L>
+<L>þ<SUP>u</SUP> wost wel, quaþ þis oþ<HI REND="italic">er,:</HI> ȝe ne mowe i<HI REND="italic">n</HI> none maner<HI REND="italic">e;</HI></L>
+<L>Ne haþ our lord iscewed wel: al þ<SUP>t</SUP> þ<SUP>u</SUP> schalt do,</L>
+<L><PB N="27" REF="11"/>
+&amp; come ȝut to irlond aȝen,; &amp; þi twelf breþ<HI REND="italic">er</HI>en also, <MILESTONE N="330"/></L>
+<L>&amp; f<HI REND="italic">ra</HI>m þe to þe ile (of) ankres: þe þretteþe schal wende, <NOTE PLACE="foot">V. 331 Vor ankres fehlt of im Ms.</NOTE></L>
+<L>&amp; þe fourteþe to helle al q<HI REND="italic">ui</HI>c,: be þ<HI REND="italic">er</HI> wiþþouten ende?</L>
+<L>þo com þ<HI REND="italic">er</HI> In afury arwe: at an fenest<HI REND="italic">re</HI> anon,</L>
+<L>As þei he f<HI REND="italic">ra</HI>m heuene come: &amp; þe tap<HI REND="italic">er</HI>es tende echon,</L>
+<L>&amp; aȝenward flei, riȝt as he com,: bi þulke fenest<HI REND="italic">re</HI> þer<HI REND="italic">e.</HI> <MILESTONE N="335"/></L>
+<L>þis tap<HI REND="italic">er</HI>es barnde longe Inouȝ,: &amp; noþe wors ner<HI REND="italic">e.</HI> <NOTE PLACE="foot">V. 336 Statt wors ist wol lasse zu lesen, s. V. 304.</NOTE></L>
+<L>Lord c<HI REND="italic">ri</HI>st, quaþ s. brendan,: i<SUP>c</SUP> wondri i<HI REND="italic">n</HI> my þoȝt,</L>
+<L>Hou þis tap<HI REND="italic">er</HI>es berneþ þ<HI REND="italic">us:</HI> &amp; ne wonyeþ noȝt.</L>
+<L>Nastou noȝt, quaþ (þe) abbod,: i<HI REND="italic">n</HI> þe olde lawe ifou<HI REND="italic">n</HI>de <NOTE PLACE="foot">V. 339 Vor abbod fehlt þe im Ms.</NOTE></L>
+<L>Hou moyses sei a þorn berne: f<HI REND="italic">ra</HI>m þe croppe to þe g<HI REND="italic">ro</HI>nde, <MILESTONE N="340"/></L>
+<L>&amp; þe swiþ<HI REND="italic">er</HI> þ<SUP>t</SUP> þis þorn brende,: þe grener þe leues wer<HI REND="italic">e?</HI> <NOTE PLACE="foot">V. 341 &amp; fehlt in den and. Mss.</NOTE></L>
+<L>Ne wenestou noȝt þ<SUP>t</SUP> our lord be: her as miȝti as þer<HI REND="italic">e?</HI></L>
+<L>þis monekes wer<HI REND="italic">e</HI> to gader<HI REND="italic">e</HI> þ<HI REND="italic">us,:</HI> vorte mydwynt<HI REND="italic">er</HI> was ido;</L>
+<L>Hit was aft<HI REND="italic">er</HI> twelfþe day,: ar hi p<HI REND="italic">ar</HI>tede atwo.</L>
+<L>Anon to s. hillar<HI REND="italic">e</HI> day: s. brendan vorþ wende, <MILESTONE N="345"/></L>
+<L>Wiþ is monekes, i<HI REND="italic">n</HI> þe se,: þoru g<HI REND="italic">ra</HI>ce þ<SUP>t</SUP> god he<HI REND="italic">m</HI> sende.</L>
+<L>Hi rewe up &amp; doun i<HI REND="italic">n</HI> sorwe Inouȝ,: þe se he<HI REND="italic">m</HI> caste heie.</L>
+<L>Vorte ver i<HI REND="italic">n</HI> leynte f<HI REND="italic">ra</HI>m þulke tyme: no lond hi ne seie. <NOTE PLACE="foot">348 fram þulke tyme ist in d. and. Mss. vorangestellt.</NOTE></L>
+<L>So þ<SUP>t</SUP> aboute palmesoneday: hi bihulde aboute vaste:</L>
+<L>He<HI REND="italic">m</HI> þoȝte hi seie ver f<HI REND="italic">ra</HI>m he<HI REND="italic">m:</HI> as acloude ate laste. <MILESTONE N="350"/></L>
+<L>þis monekes wondred þ<HI REND="italic">er</HI> of,: wat þe cloude wer<HI REND="italic">e.</HI></L>
+<L>Beþ stille! quaþ s. brendan,: er ȝe habbeþ ibe her<HI REND="italic">e.</HI> <NOTE PLACE="foot">V. 352 here st. þere.</NOTE></L>
+<L>þis is our<HI REND="italic">e</HI> gode p<HI REND="italic">ro</HI>curat<HI REND="italic">ur,:</HI> þ<SUP>t</SUP> muche good ous haþ ido <NOTE PLACE="foot">V. 353 Statt þis ist wol þer zu lesen.</NOTE></L>
+<L>In þe foulen p<HI REND="italic">ar</HI>ays,: &amp; i<HI REND="italic">n</HI> þe lond of schep also.</L>
+<L>So þ<SUP>t</SUP> hor scip ate laste: toward þis ile drouȝ. <MILESTONE N="355"/></L>
+<L>A scereþorsday hi come þud<HI REND="italic">er,:</HI> wiþ t<HI REND="italic">ra</HI>uail &amp; sorwe Inouȝ.</L>
+<L>þis gode p<HI REND="italic">ro</HI>curat<HI REND="italic">ur</HI> com aȝen he<HI REND="italic">m</HI> glad,: &amp; wilcome he<HI REND="italic">m</HI> anon, <NOTE PLACE="foot">V. 357 gode ist zu tilgen. wilcome st. wilcomede.</NOTE></L>
+<L>&amp; custe s. brendanes vet,: &amp; þe monekes echon,</L>
+<L>&amp; seþþe he<HI REND="italic">m</HI> sette to þe sop<HI REND="italic">er,:</HI> vor þe day it wolde so, <MILESTONE N="76" UNIT="fol."/></L>
+<L>&amp; seþþe he wesc hor alre vet,: hor maunde to do; <MILESTONE N="360"/></L>
+<L>Hor alr<HI REND="italic">e</HI> maunde hi hulde þer<HI REND="italic">e,:</HI> &amp; þer<HI REND="italic">e</HI> hi gonne bileue</L>
+<L>A gode friday allonge day,: vorte an est<HI REND="italic">er</HI> eue.</L>
+<L>An est<HI REND="italic">er</HI> eue hor p<HI REND="italic">ro</HI>curat<HI REND="italic">ur:</HI> bed he<HI REND="italic">m</HI> hor scip take,</L>
+<L>&amp; þe holi resurexcion: up þe fisches rug make,</L>
+<L>&amp; aft<HI REND="italic">ur</HI> þe resurexcion: he<HI REND="italic">m</HI> het euene te <MILESTONE N="365"/></L>
+<L><PB N="28" REF="12"/>
+To þe foulen p<HI REND="italic">ar</HI>ays,: as hi hadde er ibe.</L>
+<L>þis holi men he<HI REND="italic">m</HI> wende uorþ,: &amp; our lordes (grace) nome: <NOTE PLACE="foot">V. 367 Nach lordes fehlt grace im Ms.</NOTE></L>
+<L>So þ<SUP>t</SUP> to þe g<HI REND="italic">re</HI>te fische: þulke day hi come,</L>
+<L>As alond þ<SUP>t</SUP> houede. hor caudron hi fou<HI REND="italic">n</HI>de ek þer<HI REND="italic">e,</HI> <NOTE PLACE="foot">V. 369 In der ersten Hlbz. fehlt eine Hebung; es ist wol zu lesen: as a lond it were it houede; Laud: þat houede ase it were a lond. Im Ms. ist hinter houede þulke day weg∣punktirt. ek fehlt in d. and. Mss.</NOTE></L>
+<L>As hi bileuede it vp is rugge In þe oþ<HI REND="italic">er</HI> ȝer<HI REND="italic">e.</HI> <MILESTONE N="370"/></L>
+<L>Lou<HI REND="italic">er</HI>d c<HI REND="italic">ri</HI>st, þ<SUP>t</SUP> such abest: houy scholde so stille,</L>
+<L>&amp; soffri men þ<HI REND="italic">er</HI> up gon &amp; do al hor wille!</L>
+<L>þis monekes up þis fisches rugge: bileuede al longe nyȝt,</L>
+<L>&amp; songe matyns &amp; euesong,: &amp; seþþe, þo it was liȝt,</L>
+<L>Anoward is rugge songe: masse echon; <MILESTONE N="375"/> <NOTE PLACE="foot">V. 375 Vor masse fehlt: und hor; masse st. massen.</NOTE></L>
+<L>&amp; eu<HI REND="italic">er</HI> was þis muchel best: so stille so eny ston.</L>
+<L>As þis resurexcion wiþ gret hon<HI REND="italic">ur</HI> was ido,</L>
+<L>&amp; þis monekes hadde isonge: hor massen also,</L>
+<L>Aboute vndarne of þe day: to hor schip þen wei hi nome,</L>
+<L>&amp; to þe foulen p<HI REND="italic">ar</HI>ays: þulke day hi come. <MILESTONE N="380"/></L>
+<L>Anon so þe foules iseie he<HI REND="italic">m</HI> come,: hi go<HI REND="italic">n</HI>ne to synge echone <NOTE PLACE="foot">381 Harl. ymone st. echone.</NOTE></L>
+<L>Aȝen he<HI REND="italic">m</HI> wiþ g<HI REND="italic">re</HI>t melodie,: as it wer<HI REND="italic">e</HI> vor þe none.</L>
+<L>&amp; þulke þ<SUP>t</SUP> spac wiþ he<HI REND="italic">m</HI> er: aȝen he<HI REND="italic">m</HI> sone drouȝ,</L>
+<L>þe soun of is wyngen Muri was;: he welcomede he<HI REND="italic">m</HI> vair<HI REND="italic">e</HI> Inouȝ.</L>
+<L>Ȝe auȝte, he sede, our lord c<HI REND="italic">ri</HI>st: honouri myd þe beste: <MILESTONE N="385"/></L>
+<L>He p<HI REND="italic">ur</HI>ueieþ ȝou vour studes,: to habbe Inne ȝour<HI REND="italic">e</HI> reste: <NOTE PLACE="foot">V. 386 Vor vour fehlt þis.</NOTE></L>
+<L>Wiþ ȝour<HI REND="italic">e</HI> gode p<HI REND="italic">ro</HI>curat<HI REND="italic">ur,:</HI> ȝour<HI REND="italic">e</HI> mau<HI REND="italic">n</HI>de to do,</L>
+<L>&amp; seþþe þe resurexcion: up þe fisches rugge also,</L>
+<L>&amp; wiþ ous her þis eiȝte woukes: uorte aft<HI REND="italic">er</HI> witesoneday,</L>
+<L>&amp; to mydwynt<HI REND="italic">er</HI> vorte candelmasse: In þe ile of þe abbay; <MILESTONE N="390"/> <NOTE PLACE="foot">V. 390 Die and. Mss. fram st. to. þe vor abbay zu tilgen, s. V. 238.</NOTE></L>
+<L>&amp; i<HI REND="italic">n</HI> þis g<HI REND="italic">re</HI>te se of occian: i<HI REND="italic">n</HI> g<HI REND="italic">re</HI>t p<HI REND="italic">er</HI>il ȝe scholle wende,</L>
+<L>In t<HI REND="italic">ra</HI>uail, al þe oþ<HI REND="italic">er</HI> tyme,: vorte þe seue ȝeres ende,</L>
+<L>&amp; seþþe þ<SUP>t</SUP> lond of biheste: god wole þ<SUP>t</SUP> ȝe se</L>
+<L>&amp; þ<HI REND="italic">er</HI> Inne i<HI REND="italic">n</HI> Joie Inouȝ: vourti dawes be;</L>
+<L>&amp; to þe contrei þ<SUP>t</SUP> ȝe beþ of: seþþe ȝe scholleþ wende, <MILESTONE N="395"/></L>
+<L>Al eselich<HI REND="italic">e</HI> wiþ (oute) anuy,: &amp; þ<HI REND="italic">er</HI> ȝour lif ende. <NOTE PLACE="foot">V. 396 Im Ms. fehlt oute nach wiþ.</NOTE></L>
+<L>þis holi men bileuede þ<HI REND="italic">er:</HI> vorte þe t<HI REND="italic">ri</HI>nyte.</L>
+<L>Hor p<HI REND="italic">ro</HI>curat<HI REND="italic">ur</HI> com þo to he<HI REND="italic">m,:</HI> þ<SUP>t</SUP> was eu<HI REND="italic">er</HI> i<HI REND="italic">n</HI> pleynte.</L>
+<L>He broȝte he<HI REND="italic">m</HI> mete &amp; drynke Inouȝ,: as he hadde er ido, <MILESTONE N="b."/></L>
+<L>&amp; chargede hor scip þ<HI REND="italic">er</HI> wiþ,: &amp; let he<HI REND="italic">m</HI> wende so. <MILESTONE N="400"/></L>
+<L><PB N="29" REF="13"/>
+þis holi me<HI REND="italic">n</HI> he<HI REND="italic">m</HI> wende vorþ,: as god he<HI REND="italic">m</HI> wolde sende;</L>
+<L>Vor godes g<HI REND="italic">ra</HI>ce was wiþ he<HI REND="italic">m,:</HI> þe bet hi myȝte we<HI REND="italic">n</HI>de. <NOTE PLACE="foot">V. 402 Ms. hi myȝte hi miȝte, doppelt.</NOTE></L>
+<L>As hi wende vp an tyme: In gret tempest Inouȝ,</L>
+<L>A gret fisch hi seie &amp; g<HI REND="italic">ri</HI>slich<HI REND="italic">e,:</HI> þ<SUP>t</SUP> aft<HI REND="italic">er</HI> hor scip drouȝ.</L>
+<L>Brenninde fom out at is mouþ: &amp; at is nese he caste; <MILESTONE N="405"/> <NOTE PLACE="foot">V. 405 Ms. Brennnde.</NOTE></L>
+<L>þ<SUP>t</SUP> wat<HI REND="italic">er</HI> was herr<HI REND="italic">e</HI> þen hor schip: biuore he<HI REND="italic">m</HI> at eche blaste;</L>
+<L>He wolched aft<HI REND="italic">er</HI> as an hous,: &amp; p<HI REND="italic">ur</HI>siwede he<HI REND="italic">m</HI> vaste; <NOTE PLACE="foot">V. 406 u. 407 sind umgestellt, s. Ms. Laud.</NOTE></L>
+<L>Wiþ is breste so uaste he scef:: þe monekes wer<HI REND="italic">e</HI> agaste,</L>
+<L>&amp; cride ȝerne on s. brendan,: &amp; on ihū c<HI REND="italic">ri</HI>st also.</L>
+<L>Aft<HI REND="italic">er</HI> þe schip so uaste he scef,: þ<SUP>t</SUP> he com almest þ<HI REND="italic">er</HI>to. <MILESTONE N="410"/></L>
+<L>As he he<HI REND="italic">m</HI> hadde almest of take: &amp; hi ne tolde noȝt of hor lyue,</L>
+<L>Anoþ<HI REND="italic">er</HI> fisc out of þe west: þ<HI REND="italic">er</HI> com swymme wel blyue,</L>
+<L>&amp; encontred þis luþ<HI REND="italic">er</HI> fisc,: &amp; smot to hi<HI REND="italic">m</HI> vaste,</L>
+<L>&amp; uorclef is foule bouk: i<HI REND="italic">n</HI> þre p<HI REND="italic">ar</HI>ties ate laste,</L>
+<L>&amp; þen wei as he com er: wel euene aȝen he drou. <MILESTONE N="415"/></L>
+<L>þis monekes þonkede ihū c<HI REND="italic">ri</HI>st,: &amp; wer<HI REND="italic">e</HI> Joyuol Inouȝ.</L>
+<L>So longe wende þis holi men: i<HI REND="italic">n</HI> þe se aboute so,</L>
+<L>þ<SUP>t</SUP> hi wer<HI REND="italic">e</HI> of hongred sore;: hor mete was al ido.</L>
+<L>þo com þ<HI REND="italic">er</HI> fle alutel fowel: &amp; broȝte agret bouȝ,</L>
+<L>Vol of grapes swiþe rede,: &amp; wel euene to he<HI REND="italic">m</HI> drouȝ. <MILESTONE N="420"/></L>
+<L>þis grapes he tok s. brendan;: þis gode mon somdel louȝ.</L>
+<L>þ<HI REND="italic">er</HI> by hi lyuede fourtene nyȝt,: &amp; hadde alle mete Inouȝ.</L>
+<L>þo þis g<HI REND="italic">ra</HI>pes wer<HI REND="italic">e</HI> ido,: hi wer<HI REND="italic">e</HI> of hongred sore: <NOTE PLACE="foot">V. 423 Vor ido fehlt wol alle.</NOTE></L>
+<L>By þe one syde hi seye an yle,: &amp; mete þ<HI REND="italic">er</HI> Inne more:</L>
+<L>þe ile was uol of vair<HI REND="italic">e</HI> tren,: &amp; so þicke eu<HI REND="italic">er</HI>ich bouȝ <MILESTONE N="425"/></L>
+<L>Of suche g<HI REND="italic">ra</HI>pes as hi hadde er,: þ<SUP>t</SUP> to g<HI REND="italic">ro</HI>nde it drouȝ.</L>
+<L>S. brendan wende upon þis yle,: &amp; of þe g<HI REND="italic">ra</HI>pes nom uaste <NOTE PLACE="foot">V. 427 Statt upon þis yle lesen die and. Mss. vp of þis schip.</NOTE></L>
+<L>&amp; bar in to þe schip, to libbe by,: þ<SUP>t</SUP> fourti dawes ilaste. <NOTE PLACE="foot">V. 428 Vor ilaste haben die and. Mss. hi oder it.</NOTE></L>
+<L>Sone þ<HI REND="italic">er</HI> aft<HI REND="italic">er</HI> þ<HI REND="italic">er</HI> com a grip fle: vaste i<HI REND="italic">n</HI> þe se, <NOTE PLACE="foot">V. 429 Harl.: vor fleo.</NOTE></L>
+<L>&amp; asailed he<HI REND="italic">m</HI> uaste &amp; hor scip,: &amp; fondede he<HI REND="italic">m</HI> to sle. <MILESTONE N="430"/></L>
+<L>þis monekes c<HI REND="italic">ri</HI>de deluollich<HI REND="italic">e,:</HI> &amp; ne tolde noȝt of hor lyue.</L>
+<L>þo sei hi come þe lutel foul: toward he<HI REND="italic">m</HI> wel blyue,</L>
+<L>þ<SUP>t</SUP> i<HI REND="italic">n</HI> foulen p<HI REND="italic">ar</HI>ays: so ofte he<HI REND="italic">m</HI> hadde irad.</L>
+<L>þo s. brendan sei hi<HI REND="italic">m</HI> come,: he was somdel glad. <NOTE PLACE="foot">V. 434 Die and. Mss. nas noȝt a lute st. was somdel.</NOTE></L>
+<L>þis lutel fowel smot to þis g<HI REND="italic">ri</HI>p,: &amp; nom is dunt wel heie, <MILESTONE N="435"/></L>
+<L>þe verste dunt, þ<SUP>t</SUP> he hi<HI REND="italic">m</HI> ȝaf,: he smot out eiþ<HI REND="italic">er</HI> eie:</L>
+<L>þis luþ<HI REND="italic">er</HI> best sone he slouȝ,: þ<SUP>t</SUP> he vel dun i<HI REND="italic">n</HI> þe se.</L>
+<L><PB N="30" REF="14"/>
+þi<HI REND="italic">n</HI>g, þ<SUP>t</SUP> god wole habbe iwust,: ne schal noþi<HI REND="italic">n</HI>g asle.</L>
+<L>þis holi me<HI REND="italic">n</HI> wende i<HI REND="italic">n</HI> þe se: aboute her &amp; þer<HI REND="italic">e,</HI></L>
+<L>&amp; i<HI REND="italic">n</HI> on of þe four studes: þe vour festes eu<HI REND="italic">er</HI> hi wer<HI REND="italic">e.</HI> <MILESTONE N="440"/> <NOTE PLACE="foot">V. 440 euere wol zu tilgen, oder statt þe vour festes ist in reste zu lesen.</NOTE></L>
+<L>A tyme a seyn Pet<HI REND="italic">re</HI>s day,: g<HI REND="italic">re</HI>t feste myd hor tonge <MILESTONE N="77" UNIT="fol."/></L>
+<L>In þe se hi made of s. pet<HI REND="italic">ur,:</HI> &amp; hor s<HI REND="italic">er</HI>uyce songe.</L>
+<L>Hi come i<HI REND="italic">n</HI> astude i<HI REND="italic">n</HI> þe se,: so cler þe se hi founde, <NOTE PLACE="foot">V. 443 in þe se st. of þe se.</NOTE></L>
+<L>þ<SUP>t</SUP> hi sei i<HI REND="italic">n</HI> ech half: clerliche to þe g<HI REND="italic">ro</HI>nde;</L>
+<L>Hem þoȝte þe g<HI REND="italic">ro</HI>nd iheled was: wiþ fisc al at an hepe, <MILESTONE N="445"/></L>
+<L>þ<SUP>t</SUP> hi ne seie non oþ<HI REND="italic">er</HI> g<HI REND="italic">ro</HI>nd,: bote as hi wer<HI REND="italic">e</HI> aslepe.</L>
+<L>þis monekes bede s. brendan: þ<SUP>t</SUP> he softe speke,</L>
+<L>þ<SUP>t</SUP> he ne aweite noȝt þ<SUP>t</SUP> fisc,: leste hi hor scip to breke.</L>
+<L>Wat is ȝou? quaþ s. brendan,: war of beþ ȝe adrad?</L>
+<L>Vp þe maist<HI REND="italic">re</HI>s rugge of alle fisches: ȝe habbeþ Imad ȝou glad, <MILESTONE N="450"/></L>
+<L>&amp; anoueward is rug fur Imad,; &amp; doþ f<HI REND="italic">ra</HI>m ȝer<HI REND="italic">e</HI> to ȝer<HI REND="italic">e</HI>!</L>
+<L>þis holi mo<HI REND="italic">n</HI> þe loddore song,: uor þe none as it wer<HI REND="italic">e.</HI></L>
+<L>þe fisches sturt up uor hor song,: as hi awoke of slepe,</L>
+<L>&amp; come al aboute þe schip: al at one hepe,</L>
+<L>So þicke hi flote bi ech half,: þ<SUP>t</SUP> no<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> wat<HI REND="italic">er</HI> me ne sei, <MILESTONE N="455"/></L>
+<L>&amp; bi sette þis scip al aboute,: ac hi ne come noȝt þ<HI REND="italic">er</HI> ney.</L>
+<L>So þicke hi wer<HI REND="italic">e</HI> aboute þis schip,: &amp; siwede it eu<HI REND="italic">er</HI> so,</L>
+<L>þe wule þe holi mon is masse song,: uorte it was al ido.</L>
+<L>&amp; þo þe masse was al ido,: ech wende i<HI REND="italic">n</HI> is ende.</L>
+<L>Muche wond<HI REND="italic">er</HI> me may ise,: hoso wole aboute wende. <MILESTONE N="460"/></L>
+<L>þ<SUP>t</SUP> wynd was st<HI REND="italic">ro</HI>ng &amp; stif Inouȝ,: &amp; drof þ<SUP>t</SUP> schip wel uaste.</L>
+<L>As ver as hi wende seuenyȝt,: þe cler<HI REND="italic">e</HI> se ilaste,</L>
+<L>þ<SUP>t</SUP> hi seie i<HI REND="italic">n</HI> þe se as clerliche: as hi scholde a londe.</L>
+<L>Gret wond<HI REND="italic">er</HI> hadde þis gode me<HI REND="italic">n:</HI> &amp; þonkede godes sonde.</L>
+<L>þo com asouþ<HI REND="italic">er</HI>ne wynd,: þ<SUP>t</SUP> norþward he<HI REND="italic">m</HI> drof uaste, <MILESTONE N="465"/></L>
+<L>Riȝt euene norþ, hi nuste wud<HI REND="italic">er,:</HI> þ<SUP>t</SUP> eiȝte dawes ilaste. <NOTE PLACE="foot">V. 466 norþ st.uorþ? auch Ms. Cotton hat forþ.</NOTE></L>
+<L>þo seie hi, ver i<HI REND="italic">n</HI> þe norþ,: a lond, derk Inouȝ,</L>
+<L>Smokie, as it smythes wer<HI REND="italic">e.:</HI> þud<HI REND="italic">er</HI>ward hor scip drouȝ.</L>
+<L>þo hurde hi of bulies: g<HI REND="italic">re</HI>t blowynge þer<HI REND="italic">e,</HI></L>
+<L>&amp; g<HI REND="italic">re</HI>t betynge, &amp; noyse Inouȝ,: as it þond<HI REND="italic">er</HI> wer<HI REND="italic">e.</HI> <MILESTONE N="470"/></L>
+<L>þo was s. brendan sore agast,: he blessede hi<HI REND="italic">m</HI> ano<HI REND="italic">n</HI> (faste). <NOTE PLACE="foot">V. 471 Statt, oder nach, anon ist faste zu lesen.</NOTE></L>
+<L>þo com þ<HI REND="italic">er</HI> out aluþ<HI REND="italic">er</HI> wiȝt: wel g<HI REND="italic">ri</HI>slich<HI REND="italic">e</HI> ate laste,</L>
+<L>þoru suart, &amp; brennyng al.: up he<HI REND="italic">m</HI> his eien he caste. <NOTE PLACE="foot">Nach V. 473 fehlt ein Vers, s. u. 473 þoru, auch Harl., = þoru out.</NOTE></L>
+<L><PB N="31" REF="15"/>
+þis luþ<HI REND="italic">er</HI> þ<HI REND="italic">in</HI>g made acri,: þ<SUP>t</SUP> me miȝte ihur<HI REND="italic">e</HI> wide:</L>
+<L>þo come þ<HI REND="italic">er</HI> suche screwen mo: wel þicke bi eche side, <MILESTONE N="475"/></L>
+<L>Wiþ to(n)gen &amp; wiþ hom<HI REND="italic">er</HI>es,: brenynde monyon. <NOTE PLACE="foot">V. 476 Ms. togen st. tongen.</NOTE></L>
+<L>To þe bre<HI REND="italic">m</HI>me hi ourne of þe se,: toward þe schipe, anon.</L>
+<L>þo hi ne miȝte come no ner,: hi gonne ȝolle uaste, <NOTE PLACE="foot">V. 478 Vor ȝolle fehlt wol to.</NOTE></L>
+<L>&amp; hor oweles, al bre<HI REND="italic">n</HI>nynde,: aft<HI REND="italic">er</HI> þis me<HI REND="italic">n</HI> hi caste,</L>
+<L>þ<SUP>t</SUP> me ne miȝte noþi<HI REND="italic">n</HI>g bote fur: ise noþ<HI REND="italic">er</HI> ihur<HI REND="italic">e.</HI> <MILESTONE N="480"/></L>
+<L>þe se, as it uel adoun,: þoȝte ek afur<HI REND="italic">e.</HI></L>
+<L>Eu<HI REND="italic">er</HI>ich caste upon oþ<HI REND="italic">er:</HI> þis oweles al an hei, <MILESTONE N="b."/> <NOTE PLACE="foot">V. 482 Anders Ms. Laud. s. u.</NOTE></L>
+<L>&amp; aboute þe scip ek i<HI REND="italic">n</HI> þe se,: ac þ<HI REND="italic">er</HI> ne com non ney.</L>
+<L>Ate laste hi t<HI REND="italic">ur</HI>nde he<HI REND="italic">m</HI> aȝen,: þo hi ne spedde noȝt þer<HI REND="italic">e;</HI></L>
+<L>&amp; al þ<SUP>t</SUP> lond þoȝte of he<HI REND="italic">m</HI> ek: as it afur<HI REND="italic">e</HI> were, <MILESTONE N="485"/></L>
+<L>&amp; al þe se þ<HI REND="italic">er</HI> aboute: barnde &amp; smokede uaste;</L>
+<L>St<HI REND="italic">ro</HI>ng was þe stench &amp; þe smoke,: &amp; wel longe ilaste.</L>
+<L>þo þe monekes wer<HI REND="italic">e</HI> so ver,: þ<SUP>t</SUP> hi ne miȝte ise na<HI REND="italic">m</HI>more,</L>
+<L>Hor ȝellyng ȝut hi hurde,: þe screwen wope so sore.</L>
+<L>Hou þyncþ ȝou, quaþ s. brendan,: was þis a muri pas? <MILESTONE N="490"/></L>
+<L>We ne wilneþ come þ<HI REND="italic">er</HI> na<HI REND="italic">m</HI>more,: uor an ende of helle it was,</L>
+<L>&amp; þe deuelen hopede wel of ous: habbe iheued a good cas,</L>
+<L>Ac, ihered be ihū c<HI REND="italic">ri</HI>st!: hi caste ambes as.</L>
+<L>þe souþ<HI REND="italic">er</HI>ne wynd laste ȝut,: &amp; drof he<HI REND="italic">m</HI> eu<HI REND="italic">er</HI> vorþ:</L>
+<L>So þ<SUP>t</SUP> hi seie an hei hul: ver i<HI REND="italic">n</HI> þ<SUP>t</SUP> norþ, <MILESTONE N="495"/> <NOTE PLACE="foot">V. 495 þ<SUP>t</SUP> wol st. þe.</NOTE></L>
+<L>Cloudi &amp; brennynge smoke,: Muche wo was þer<HI REND="italic">e;</HI> <NOTE PLACE="foot">V. 496 Die and. Mss. gret stench st. muche wo.</NOTE></L>
+<L>þe lye of þe fur stop up an hei,: as it awal wer<HI REND="italic">e.</HI> <NOTE PLACE="foot">V. 497 stop st. stod?</NOTE></L>
+<L>Ȝif þ<HI REND="italic">er</HI> was muche wo i<HI REND="italic">n</HI> þen oþ<HI REND="italic">er,:</HI> þ<HI REND="italic">er</HI> was wel more.</L>
+<L>On of is monekes bigon þo: to wepe &amp; ȝelle sore,</L>
+<L>Vor is tyme was þo icome,: þ<SUP>t</SUP> he ne miȝte no leng abide. <MILESTONE N="500"/></L>
+<L>He hupte hi<HI REND="italic">m</HI> out amydde þe se: out of þe schip biside, <NOTE PLACE="foot">V. 501 Das erste out wol zu tilgen.</NOTE></L>
+<L>&amp; orn hi<HI REND="italic">m</HI> uaste upon þis wat<HI REND="italic">er:</HI> toward þis fur<HI REND="italic">e,</HI> <NOTE PLACE="foot">V. 502 Vor fure fehlt viel∣leicht ilke oder grisliche.</NOTE></L>
+<L>&amp; c<HI REND="italic">ri</HI>de &amp; ȝal deluollich<HI REND="italic">e,:</HI> þ<SUP>t</SUP> deol it was to hur<HI REND="italic">e.</HI></L>
+<L>Alas, he sede, my wreche lif,: uor nou i<SUP>c</SUP> seo myn ende;</L>
+<L>Wiþ ȝou ichabbe i<HI REND="italic">n</HI> Joie ibe,: &amp; Ine may no leng wiþ ȝou wende. <MILESTONE N="505"/> <NOTE PLACE="foot">V. 505 no leng fehlt in d. and. Mss.</NOTE></L>
+<L>Acorsed be heo þ<SUP>t</SUP> me bar,: &amp; þe tyme þ<SUP>t</SUP> i<SUP>c</SUP> was ibore,</L>
+<L>&amp; þe fad<HI REND="italic">er</HI> þ<SUP>t</SUP> me byȝat,: uor nou icham uorlore!</L>
+<L>Aȝen hi<HI REND="italic">m</HI> þe deuel com anon,: &amp; nome þen wreche vaste, <NOTE PLACE="foot">V. 508 Statt deuel com ist deuelen come zu lesen.</NOTE></L>
+<L>&amp; defoulede hi<HI REND="italic">m</HI> st<HI REND="italic">ro</HI>nge Inouȝ,: &amp; amydde þe fur hi<HI REND="italic">m</HI> caste.</L>
+<L><PB N="32" REF="16"/>
+þo vond he þ<SUP>t</SUP> s. brendan: hi<HI REND="italic">m</HI> sede, þo he out wende, <MILESTONE N="510"/> <NOTE PLACE="foot">V. 510 him wol zu tilgen u.: nach sede zu versetzen.</NOTE></L>
+<L>Hi<HI REND="italic">m</HI> failede g<HI REND="italic">ra</HI>ce, hou so it was,: is lif vorto amende.</L>
+<L>So st<HI REND="italic">ro</HI>nge barnde þis montayne,: þ<SUP>t</SUP> hi noþi<HI REND="italic">n</HI>g ne seie,</L>
+<L>þe ȝut hi wer<HI REND="italic">e</HI> ver þ<HI REND="italic">er</HI> f<HI REND="italic">ra</HI>m,: bote fur &amp; lie.</L>
+<L>þo t<HI REND="italic">ur</HI>nde þe wynd i<HI REND="italic">n</HI> to þe norþ,: &amp; sou(þ)ward he<HI REND="italic">m</HI> drof vaste; <NOTE PLACE="foot">V. 514 Ms. souward.</NOTE></L>
+<L>In þulke side st<HI REND="italic">ro</HI>ng Inouȝ: seuenyȝt þe wynd ilaste. <MILESTONE N="515"/></L>
+<L>So longe hi wende euene souþ,: þ<SUP>t</SUP> hi seie aten ende</L>
+<L>An harde roche i<HI REND="italic">n</HI> þe se,: &amp; þe se þ<HI REND="italic">er</HI> ou<HI REND="italic">er</HI> wende:</L>
+<L>þ<HI REND="italic">er</HI> ou<HI REND="italic">er</HI> þe se caste ilome,: &amp; ofte he was al bar.</L>
+<L>þo hi come þis roche ney,: of oþ<HI REND="italic">er</HI> hi wer<HI REND="italic">e</HI> iwar:</L>
+<L>Anoueward þe roche hi seie sitte,: wen þe se wiþ drouȝ, <MILESTONE N="520"/></L>
+<L>A wrechedde gost, naked &amp; bar,: i<HI REND="italic">n</HI> meseise Inouȝ:</L>
+<L>Aboue hi<HI REND="italic">m</HI> was acloþ iteid: myd twei tongen vaste,</L>
+<L>þe neþ<HI REND="italic">er</HI> ende tilde to is chynne;: ou<HI REND="italic">er</HI> al þe wynd it caste, <MILESTONE N="78" UNIT="fol."/></L>
+<L>þ<SUP>t</SUP>, (wan þ<SUP>t</SUP>) wat<HI REND="italic">er</HI> hi<HI REND="italic">m</HI> wiþ drouȝ.: þ<SUP>t</SUP> cloþ, þ<SUP>t</SUP> heng so heie, <NOTE PLACE="foot">V. 524 Nach þ<SUP>t</SUP> fehlt wan þ<SUP>t</SUP>; Ms. Cotton.: þ<SUP>t</SUP> whanne þe.</NOTE></L>
+<L>Bet, as þe wynd it bleu, þen wreche amydde þe eie. <MILESTONE N="525"/></L>
+<L>þe wawes bete ek of þe se: bi uore &amp; bihynde; <NOTE PLACE="foot">V. 526 Vor bete fehlt hi<HI REND="italic">m.</HI></NOTE></L>
+<L>Wrecchedore gost þen he was: ne dorte nomon fynde.</L>
+<L>S. brendan hi<HI REND="italic">m</HI> bad agodes name: to telle hi<HI REND="italic">m</HI> wat he wer<HI REND="italic">e,</HI></L>
+<L>&amp; wat he hadde god mysdo,: &amp; wat he dude þ<HI REND="italic">er</HI>e. <NOTE PLACE="foot">V. 529 Die letzte Hlbz. lautet in d. and. Mss. &amp; whi he sete þere.</NOTE></L>
+<L>Icham, he sede, adeluol gost,: þe wrecche Iudas, <MILESTONE N="530"/></L>
+<L>þ<SUP>t</SUP> uor panewes our lord solde: &amp; anerþe myd hi<HI REND="italic">m</HI> was.</L>
+<L>þis nys noȝt my riȝte stude,: ac our lord doþ me g<HI REND="italic">ra</HI>ce</L>
+<L>To habbe her my p<HI REND="italic">ar</HI>ays,: as ȝe seþ, i<HI REND="italic">n</HI> þisse place,</L>
+<L>Vor no godnesse þ<SUP>t</SUP> ichabbe ido,: bote our lordes milce &amp; ore,</L>
+<L>Vor Ine myȝte habbe so muche pyne: þ<SUP>t</SUP> Inabbe of s<HI REND="italic">er</HI>ued more; <MILESTONE N="535"/></L>
+<L>Vor In þe bre<HI REND="italic">n</HI>nynge hul,: þ<SUP>t</SUP> ech of ȝou isay,</L>
+<L>My riȝte is to be &amp; bre<HI REND="italic">n</HI>ne: þ<HI REND="italic">er</HI>Inne nyȝt &amp; day; <NOTE PLACE="foot">537 Statt þer Inne ist wol mit Harl. boþe zu lesen.</NOTE></L>
+<L>þ<HI REND="italic">er</HI> i<SUP>c</SUP> was þis oþ<HI REND="italic">er</HI> day,: þo ȝour<HI REND="italic">e</HI> broþ<HI REND="italic">er</HI> þud<HI REND="italic">er</HI> com</L>
+<L>&amp; was i<HI REND="italic">n</HI> to pyne ilad: &amp; wel sone hadde is dom;</L>
+<L>þ<HI REND="italic">er</HI> uore helle was glad Inouȝ,: þ<SUP>t</SUP> he made þe g<HI REND="italic">re</HI>te lie, <MILESTONE N="540"/></L>
+<L>Vor Joie þ<SUP>t</SUP> he was icome,: þ<SUP>t</SUP> ȝe so ver iseie:</L>
+<L>So he deþ wen eny soule: verst is þud<HI REND="italic">er</HI> icome;</L>
+<L>þoru our lordes heie milse: icham anon þenne Inome, <NOTE PLACE="foot">V. 543 anon st. nou verschrieben.</NOTE></L>
+<L>Vor icham her eche soneday,: &amp; f<HI REND="italic">ra</HI>m þe sat<HI REND="italic">er</HI>dayes eue,</L>
+<L>Vorte it be þen soneday eue,: her i<SUP>c</SUP> schal bileue, <MILESTONE N="545"/></L>
+<L>&amp; at mydwynt<HI REND="italic">er</HI> ek,: vorte twelfþe day be ido,</L>
+<L>&amp; f<HI REND="italic">ra</HI>m bigy<HI REND="italic">n</HI>nynge ek of est<HI REND="italic">er:</HI> vorte witesoneday also,</L>
+<L><PB N="33" REF="17"/>
+&amp; our ledi festen ek,: vor vol of milce heo is; <NOTE PLACE="foot">V. 546 u. 548 ek mit Schleifchen an k.</NOTE> <NOTE PLACE="foot">V. 548 Nach &amp; fehlt at.</NOTE></L>
+<L>&amp; al þe oþ<HI REND="italic">er</HI> tyme of þe ȝer<HI REND="italic">e:</HI> i<HI REND="italic">n</HI> helle icham iwis,</L>
+<L>Wiþ pilates &amp; herodes,: anne &amp; cayphas; <MILESTONE N="550"/></L>
+<L>Bote i<SUP>c</SUP> may corsi þe tyme: þ<SUP>t</SUP> i<SUP>c</SUP> eu<HI REND="italic">er</HI> ibore was;</L>
+<L>Ac i<SUP>c</SUP> bidde ȝou vor þe loue of god,: þ<SUP>t</SUP> ȝe fondi i<HI REND="italic">n</HI> alle wise,</L>
+<L>þ<SUP>t</SUP> i<SUP>c</SUP> bileue her al nyȝt: vorte þe so<HI REND="italic">n</HI>ne arise,</L>
+<L>þ<SUP>t</SUP> ȝe wite me f<HI REND="italic">ra</HI>m þe deuelen,: þ<SUP>t</SUP> comeþ sone aft<HI REND="italic">er</HI> me. <NOTE PLACE="foot">V. 554 Im Anfang fehlt &amp;.</NOTE></L>
+<L>S. brendan sede: þoru godes g<HI REND="italic">ra</HI>ce: we scholleþ wite þe; <MILESTONE N="555"/></L>
+<L>Tel me nou wat is þ<SUP>t</SUP> cloþ,: þ<SUP>t</SUP> so heie hongeþ þar.</L>
+<L>þo i<SUP>c</SUP> was anerþe, quaþ Iudas,: &amp; our lordes panes bar,</L>
+<L>þis cloþ i<SUP>c</SUP> ȝaf an mesel,: uor my nowe it nas noȝt,</L>
+<L>Ac it was myd our lordes panewes,: &amp; myd our breþ<HI REND="italic">er</HI>en, iboȝt;</L>
+<L>Ac vor i<SUP>c</SUP> it ȝaf vor godes loue,: nou it is me byuore, <MILESTONE N="560"/></L>
+<L>Vor me ne schal noþi<HI REND="italic">n</HI>g do uor hi<HI REND="italic">m,:</HI> þ<SUP>t</SUP> schal be uor lore;</L>
+<L>&amp; uor it was of oþ<HI REND="italic">er</HI> mo<HI REND="italic">n</HI>nes,; as myn Inwit vnd<HI REND="italic">er</HI>stod,</L>
+<L>It doþ me, þei it honge her<HI REND="italic">e,:</HI> more harm þen good,</L>
+<L>Vor it bat In Myn eien sore,: &amp; doþ me harm Inouȝ. <MILESTONE N="b."/></L>
+<L>Her me may ise, wuch it is,: to ȝeue of oþ<HI REND="italic">er</HI> ma<HI REND="italic">n</HI>nes wiþ wouȝ, <MILESTONE N="565"/></L>
+<L>As wolleþ mony riche men: myd vnriȝt al day take</L>
+<L>Of pour<HI REND="italic">e</HI> men, her &amp; þ<HI REND="italic">er,:</HI> &amp; almesse suþþe make;</L>
+<L>þ<SUP>t</SUP> hi doþ uor gydes loue,: ne schal noȝt be vorȝete,</L>
+<L>Ac to pyne it schal he<HI REND="italic">m</HI> t<HI REND="italic">ur</HI>ne,: as hi scholleþ þa<HI REND="italic">n</HI>ne iwite.</L>
+<L>þe tongen al so, quaþ Iudas,: þ<SUP>t</SUP> ȝe seþ honge an hei, <MILESTONE N="570"/></L>
+<L>Prestes is i<SUP>c</SUP> ȝaf anerþe,: þ<HI REND="italic">er</HI> uore hi beþ me ney, <NOTE PLACE="foot">V. 571 is = as, vertritt des pron. pers. der 3. pers.</NOTE></L>
+<L>Vor clanlich<HI REND="italic">e</HI> me schal al þi<HI REND="italic">n</HI>g fynde,: þ<SUP>t</SUP> me deþ uor is loue;</L>
+<L>þe ston vp wam i<SUP>c</SUP> sitte,: þ<SUP>t</SUP> makeþ me sitte aboue,</L>
+<L>In awei i<SUP>c</SUP> fond hi<HI REND="italic">m</HI> ligge,: þ<HI REND="italic">er</HI> no ned nas to ston,</L>
+<L>I<SUP>c</SUP> caste hi<HI REND="italic">m</HI> i<HI REND="italic">n</HI> a deop dich,: (þ<SUP>t</SUP> me) þ<HI REND="italic">er</HI> myȝte ou<HI REND="italic">er</HI> gon; <MILESTONE N="575"/> <NOTE PLACE="foot">V. 575 Vor þer fehlt þat me.</NOTE></L>
+<L>Vewe gode dede ichabbe ido: of wam i<SUP>c</SUP> mowe telle,</L>
+<L>Ac non so lute, þ<SUP>t</SUP> I ne fynde: her oþ<HI REND="italic">er</HI> In helle.</L>
+<L>þo it was eue þen soneday,: þe deuelen come blaste,</L>
+<L>Vorte lede to helle þis seli gost,: hi c<HI REND="italic">ri</HI>de &amp; ȝolle vaste.</L>
+<L>Wend he<HI REND="italic">n</HI>ne, hi sede, þ<SUP>u</SUP> godes mon!: þ<SUP>u</SUP> nast noȝt her to done; <MILESTONE N="580"/></L>
+<L>Let ous habbe our felawe: &amp; to helle hi<HI REND="italic">m</HI> lede sone!</L>
+<L>Vor we ne dorr<HI REND="italic">e</HI> noȝt our<HI REND="italic">e</HI> maist<HI REND="italic">er</HI> ise,: vorte we hi<HI REND="italic">m</HI> habbe ibroȝt;</L>
+<L>Wend f<HI REND="italic">ra</HI>m hi<HI REND="italic">m,</HI> vor hit is tyme,: &amp; ne let þ<SUP>u</SUP> ous noȝt!</L>
+<L>I ne lette ȝou noȝt, quaþ s. brendan,: ne newite ȝou noȝt her,</L>
+<L><PB N="34" REF="18"/>
+Ac doþ our lord Ihū c<HI REND="italic">ri</HI>st,: þ<SUP>t</SUP> is of more power. <MILESTONE N="585"/></L>
+<L>Hou darstou, þe deuelen sede,: byuore hi<HI REND="italic">m</HI> ne<HI REND="italic">m</HI>pne is name?</L>
+<L>Ne bit<HI REND="italic">ra</HI>ide he hi<HI REND="italic">m</HI> &amp; solde ek: to deþe wiþ gret schame?</L>
+<L>S. brendan sede: i<HI REND="italic">n</HI> is name: i<SUP>c</SUP> hote ȝou, as i<SUP>c</SUP> may,</L>
+<L>þ<SUP>t</SUP> ȝe touche hi<HI REND="italic">m</HI> noȝt to nyȝt,: ar to morwe day. <NOTE PLACE="foot">V. 589 Vor touche fehlt wol ne.</NOTE></L>
+<L>Grisliche þe deuelen ȝolle þo,: &amp; aȝenward gonne fle. <MILESTONE N="590"/></L>
+<L>Iudas þonkede pytosliche,: þ<SUP>t</SUP> deol it was to se.</L>
+<L>A morwe, so sone so it was day,: þe deuelen come blaste,</L>
+<L>Grislich<HI REND="italic">e</HI> hi c<HI REND="italic">ri</HI>de &amp; ȝolle,: &amp; chidde also uaste.</L>
+<L>A wei, hi sede, þ<SUP>u</SUP> godes mon!: acorsed be þe stounde</L>
+<L>þ<SUP>t</SUP> þ<SUP>u</SUP> come ower h<HI REND="italic">er</HI> aboute,: &amp; þ<SUP>t</SUP> we her þe ifounde! <MILESTONE N="595"/> <NOTE PLACE="foot">V. 595 Die and. Mss.: her owhar, u. we þe her.</NOTE></L>
+<L>Our maist<HI REND="italic">er</HI> ous haþ itorme<HI REND="italic">n</HI>ted: g<HI REND="italic">ri</HI>slich<HI REND="italic">e</HI> al longe nyȝt,</L>
+<L>&amp; st<HI REND="italic">ro</HI>ng Inouȝ, vor we ne broȝte wiþ ous þis luþ<HI REND="italic">er</HI> wiȝt; <NOTE PLACE="foot">V. 597 strong st. stronge.</NOTE> <NOTE PLACE="foot">V. 597 fehlt: nach broȝte.</NOTE></L>
+<L>Ac we wolleþ ous wel awreke,: up hi<HI REND="italic">m</HI> sulue it schal go,</L>
+<L>Vor we scholle þis six dawes: þ<HI REND="italic">er</HI>uore doubli is wo.</L>
+<L>þis wrechede gost quakede þo,: þ<SUP>t</SUP> reuþe it is to telle. <MILESTONE N="600"/></L>
+<L>þis deuelen nome hi<HI REND="italic">m</HI> g<HI REND="italic">ri</HI>mlich<HI REND="italic">e,:</HI> &amp; ber<HI REND="italic">e</HI> hi<HI REND="italic">m</HI> to helle.</L>
+<L>Ac s. brendan he<HI REND="italic">m</HI> vorbed,: i<HI REND="italic">n</HI> our lordes name,</L>
+<L>þ<SUP>t</SUP> he nadde uor þulke nyȝt: neu<HI REND="italic">er</HI> þe more schame.</L>
+<L>S. brendan &amp; is monekes: In þe se vorþ wende <MILESTONE N="79" UNIT="fol."/></L>
+<L>Ȝut þre dawes, euene souþ,: as our lord he<HI REND="italic">m</HI> sende. <MILESTONE N="605"/></L>
+<L>þe verþe day hi seie an yle: al bi souþe an hei.</L>
+<L>S. brendan siȝte sore,: þo he þis yle isei.</L>
+<L>Poul, he sede, þe h<HI REND="italic">er</HI>emyte,: is i<HI REND="italic">n</HI> þe yle, þ<SUP>t</SUP> i<SUP>c</SUP> ise,</L>
+<L>þ<HI REND="italic">er</HI> he haþ wiþoute mete: fourti ȝer ibe.</L>
+<L>þo hi come to þisse yle,: In hi wende echon. <MILESTONE N="610"/></L>
+<L>þis h<HI REND="italic">er</HI>myte, þ<SUP>t</SUP> was so old,: aȝen he<HI REND="italic">m</HI> com anon;</L>
+<L>His her to his fet tilde,: of berd &amp; of heued,</L>
+<L>&amp; helede al aboute is bodi,: þ<HI REND="italic">er</HI> nas bar noȝt bileued,</L>
+<L>Non oþ<HI REND="italic">er</HI> cloþes nadde he on;: is lymes wer<HI REND="italic">e</HI> al hore.</L>
+<L>S. brendan hi<HI REND="italic">m</HI> bi huld,: &amp; bigan to sike sore. <MILESTONE N="615"/></L>
+<L>Alas, he sede, ichabbe so ȝar<HI REND="italic">e:</HI> i<HI REND="italic">n</HI> stude of monek ibe,</L>
+<L>&amp; nou In lyue of angel: an mon i<SUP>c</SUP> ise.</L>
+<L>Be stille! quaþ þis h<HI REND="italic">er</HI>mite,: god deþ wel bet bi þe,</L>
+<L>Vor he scewe þe more þen eny oþ<HI REND="italic">er:</HI> of is p<HI REND="italic">ri</HI>uete; <NOTE PLACE="foot">V. 619 scewe st. sceweþ.</NOTE></L>
+<L>Vor amonek lyueþ bi þe suench: of is owe honde, <MILESTONE N="620"/></L>
+<L>&amp; þoru our lordes g<HI REND="italic">ra</HI>ce: þ<SUP>u</SUP> lyuest, &amp; þoru is sonde. <NOTE PLACE="foot">V. 621 In Bodl. steht: nach lyuest; ist es hinter þ<SUP>u</SUP> zu versetzen?</NOTE></L>
+<L>&amp; In þe abbei of s. pat<HI REND="italic">ri</HI>c: monek i<SUP>c</SUP> was iwis, <NOTE PLACE="foot">V. 622 &amp; wol zu tilgen.</NOTE></L>
+<L><PB N="35" REF="19"/>
+&amp; of is chirchei a wardeyn,: þ<HI REND="italic">er</HI> is p<HI REND="italic">ur</HI>gatorie is. <NOTE PLACE="foot">V. 623 Ms. chirchei; merkwürdig ist dass auch in Harl. churchai, in Cotton cerchei steht; es ist doch wol verschrieben st. chirche.</NOTE></L>
+<L>A day þ<HI REND="italic">er</HI> com amon to me;: i<SUP>c</SUP> ecste wat he wer<HI REND="italic">e;</HI></L>
+<L>Icham, he sede, þin abbod,: of me naue þ<SUP>u</SUP> fer<HI REND="italic">e</HI>! <MILESTONE N="625"/></L>
+<L>Non oþ<HI REND="italic">er</HI> þen s. Pat<HI REND="italic">ri</HI>c: myn abbod is, i<SUP>c</SUP> sede.</L>
+<L>No i<SUP>c</SUP> it am, quaþ þis oþ<HI REND="italic">er,:</HI> þe ne dar of me noȝt drede;</L>
+<L>To morwe aris sone daies,: to þe se þ<SUP>u</SUP> most wende:</L>
+<L>A schip þ<SUP>u</SUP> schalt fynde ȝar<HI REND="italic">e,:</HI> as our lord þe wole sende;</L>
+<L>Do þe uorþ i<HI REND="italic">n</HI> þulke schipe: In þe se wel wide, <MILESTONE N="630"/></L>
+<L>&amp; it wole lede þe i<HI REND="italic">n</HI> þe stude; þ<HI REND="italic">er</HI> þ<SUP>u</SUP> schalt abide.</L>
+<L>Sone amorwe i<SUP>c</SUP> aros,: to don is holi bone;</L>
+<L>Vorþ i<SUP>c</SUP> wende to þe se,: þe schip i<SUP>c</SUP> fond wel sone.</L>
+<L>Mid me i<SUP>c</SUP> let þ<SUP>t</SUP> schip iworþe,: wel euene <HI REND="italic">u</HI>orþ it we<HI REND="italic">n</HI>de; <NOTE PLACE="foot">V. 634 Ms. norþ st. uorþ; vgl. 466.</NOTE></L>
+<L>þen seueþe day to þis ile: our swete lord me sende. <MILESTONE N="635"/></L>
+<L>Anon so i<SUP>c</SUP> was out of þe schip,: þen wei aȝen it nom,</L>
+<L>As euene as it miȝte drawe,: riȝt as it hud<HI REND="italic">er</HI> com.</L>
+<L>Elynge i<SUP>c</SUP> eode h<HI REND="italic">er</HI> al one,; &amp; co<HI REND="italic">n</HI>fort nadde non.</L>
+<L>So þ<SUP>t</SUP> vp is hind<HI REND="italic">er</HI> vet: an hot<HI REND="italic">ur</HI> þ<HI REND="italic">er</HI> com gon, <NOTE PLACE="foot">V. 639 Ms. hotur mit unorgan. h.</NOTE></L>
+<L>Myd is vorþ<HI REND="italic">er</HI> vet he broȝte: an furir<HI REND="italic">e</HI> &amp; an ston, <MILESTONE N="640"/></L>
+<L>Vorte smyte me fur þ<HI REND="italic">er</HI> of,: &amp; of fisc good won. <NOTE PLACE="foot">V. 641 þer of st. þer wiþ.</NOTE></L>
+<L>þis hot<HI REND="italic">ur</HI> wende anon awei.: i<SUP>c</SUP> made me fur wel uaste, <NOTE PLACE="foot">642 Die and. Mss. aȝen st. anon.</NOTE></L>
+<L>&amp; seþ me fisch a godes name,: þ<SUP>t</SUP> þre dawes ilaste.</L>
+<L>So þ<SUP>t</SUP> eu<HI REND="italic">er</HI> þe þridde day: þis hot<HI REND="italic">ur</HI> to me drouȝ, <MILESTONE N="b."/></L>
+<L>&amp; broȝte me mete, þ<SUP>t</SUP> ichabbe: þre dawes on Inouȝ. <MILESTONE N="645"/> <NOTE PLACE="foot">V. 645 Die and. Mss. ichadde st. ichabbe.</NOTE></L>
+<L>Wat<HI REND="italic">er</HI> of þis harde ston: þoru our lordes sonde</L>
+<L>þ<HI REND="italic">er</HI> sprong eche soneday,: to drynke &amp; wesche myn honde. <NOTE PLACE="foot">V. 647 Nach sprong fehlt out.</NOTE></L>
+<L>þo ichadde þritti ȝer: i<HI REND="italic">n</HI> þis lyue ibe,</L>
+<L>þis welle hi<HI REND="italic">m</HI> gan verst to scewe,: as þ<SUP>u</SUP> miȝt her ise;</L>
+<L>Bi þis welle ichabbe ilyued: fourti ȝer nou &amp; on, <MILESTONE N="650"/></L>
+<L>&amp; fifti ȝer i<SUP>c</SUP> was old,: þo i<SUP>c</SUP> gan hud<HI REND="italic">er</HI> gon; <NOTE PLACE="foot">V. 650 u. 651 im Ms. umge∣stellt. In</NOTE></L>
+<L>So þ<SUP>t</SUP> of an hondred ȝer: &amp; twenti þ<HI REND="italic">er</HI>to</L>
+<L>Bi þis tyme icham old,: our lordes wille to do, <NOTE PLACE="foot">V. 653 steckt wol ein Fehler; ist ȝu lesen: our lord is wille do? Harl. iredi st. old.</NOTE></L>
+<L>&amp; my deþ i<SUP>c</SUP> abide her,: wen god hyme (!) me wole sende, <NOTE PLACE="foot">V. 654 Ms. hyme st. hine oder him; Harl. hyne, Bodl. u. Laud it; aber Ms. Cotton.: henne.</NOTE></L>
+<L>Wen god wole þ<SUP>t</SUP> i<SUP>c</SUP> to hi<HI REND="italic">m</HI> come: &amp; of þis world wende. <MILESTONE N="655"/></L>
+<L>&amp; nym wiþ þe of þis wat<HI REND="italic">ur,:</HI> þ<SUP>t</SUP> þ<SUP>u</SUP> hast neode to,</L>
+<L><PB N="36" REF="20"/>
+&amp; wend uorþ uaste i<HI REND="italic">n</HI> þe se,: uor þi wei nys noȝt ido,</L>
+<L>Vor þ<SUP>u</SUP> schalt ȝut i<HI REND="italic">n</HI> þe se: fourti dawes far<HI REND="italic">e,</HI></L>
+<L>&amp; þa<HI REND="italic">n</HI>ne þ<SUP>u</SUP> schalt þin est<HI REND="italic">ur</HI> holde,: as þ<SUP>u</SUP> hast ido ȝar<HI REND="italic">e,</HI> <NOTE PLACE="foot">V. 659 as st. þer.</NOTE></L>
+<L>&amp; þe<HI REND="italic">n</HI>ne þ<SUP>u</SUP> schalt wende uorþ: to þe lond of biheste, <MILESTONE N="660"/></L>
+<L>&amp; þ<HI REND="italic">er</HI> þ<SUP>u</SUP> schalt fourti dawes: bi leue ate meste,</L>
+<L>&amp; to þi<HI REND="italic">n</HI> owe lond aȝen: þ<SUP>u</SUP> schalt wende so.</L>
+<L>þis godeme<HI REND="italic">n</HI> wiþ deol Inouȝ: p<HI REND="italic">ar</HI>tede þ<HI REND="italic">us</HI> atwo. <NOTE PLACE="foot">V. 663 þus st. þer, vgl. 723.</NOTE></L>
+<L>þis holi me<HI REND="italic">n</HI> he<HI REND="italic">m</HI> wende uorþ: i<HI REND="italic">n</HI> þe se wel uaste</L>
+<L>ffourti dawes, euene souþ,: þe wule leynte ilaste. <MILESTONE N="665"/></L>
+<L>To hor gode p<HI REND="italic">ro</HI>curat<HI REND="italic">ur:</HI> an est<HI REND="italic">er</HI> eue hi come.</L>
+<L>Wiþ he<HI REND="italic">m</HI> he made Joie Inouȝ,: as he dude er ilome.</L>
+<L>He ladde he<HI REND="italic">m</HI> to þis g<HI REND="italic">re</HI>te visch;: þud<HI REND="italic">er</HI> hi come an eue.</L>
+<L>þis est<HI REND="italic">ur</HI> nyȝt vorte amorwe: þ<HI REND="italic">er</HI> hi go<HI REND="italic">n</HI>ne bileue;</L>
+<L>þ<HI REND="italic">er</HI> hi songe hor matyns: &amp; hor masse also. <MILESTONE N="670"/></L>
+<L>þis fisch bigon to meouy hi<HI REND="italic">m,:</HI> þo þe masse was ido,</L>
+<L>&amp; bar þis monekes uorþ wiþ hi<HI REND="italic">m,:</HI> &amp; swom uorþ wel uaste</L>
+<L>In þe grete se wel g<HI REND="italic">ri</HI>sliche;: þis monekes wer<HI REND="italic">e</HI> agaste.</L>
+<L>A wond<HI REND="italic">er</HI> þi<HI REND="italic">n</HI>g it was to mete,: hoso it hadde iseie,</L>
+<L>A so g<HI REND="italic">re</HI>t best aboute wende,: as al a contreie. <MILESTONE N="675"/> <NOTE PLACE="foot">V. 675 as al wol st. al as; al fehlt in d. and. Mss.</NOTE></L>
+<L>To þe foulen p<HI REND="italic">ar</HI>ays: þis monekes he ladde echon,</L>
+<L>&amp; sette he<HI REND="italic">m</HI> vp þ<HI REND="italic">er</HI> al hol &amp; sou<HI REND="italic">n</HI>d,: &amp; wende aȝen anon.</L>
+<L>þo þis monekes þud<HI REND="italic">er</HI> come,: wel Joiuol hi wer<HI REND="italic">e.</HI></L>
+<L>Vorte aft<HI REND="italic">er</HI> þe t<HI REND="italic">ri</HI>nyte: hi bileuede þere,</L>
+<L>Vor hor c<HI REND="italic">re</HI>at<HI REND="italic">ur</HI> þulke tyme: broȝte he<HI REND="italic">m</HI> mete Inouȝ, <MILESTONE N="680"/></L>
+<L>As he hadde er ofte ido,: &amp; to hor schip it drouȝ; <NOTE PLACE="foot">V. 681 creatur, 686 procreatur, ver∣schrieben st. procuratur, procratur.</NOTE></L>
+<L>&amp; wende uorþ myd he<HI REND="italic">m,:</HI> as our lord hi<HI REND="italic">m</HI> sende.</L>
+<L>Riȝt euene toward þen est: fourti dawes hi wende.</L>
+<L>þo þis fourti dawes wer<HI REND="italic">e</HI> ago,: hit gan to hauli vaste; <MILESTONE N="80" UNIT="fol."/> <NOTE PLACE="foot">V. 684 ff. vgl. 35 ff.</NOTE></L>
+<L>&amp; wel derk myst þ<HI REND="italic">er</HI> com also,: þ<SUP>t</SUP> wel longe ilaste. <MILESTONE N="685"/></L>
+<L>Beþ glade, quaþ þis p<HI REND="italic">ro</HI>creat<HI REND="italic">ur,:</HI> &amp; makeþ gret feste,</L>
+<L>Vor ichot we beþ nou ney: þe lond of biheste. <NOTE PLACE="foot">V. 687 die and. Mss. ȝe st. we.</NOTE></L>
+<L>þo hi come out of þis derke myst: &amp; myȝte aboute ise, <NOTE PLACE="foot">V. 688 ff. vgl. V. 39 ff.</NOTE></L>
+<L>Vnd<HI REND="italic">er</HI> þe vairest lond hi wer<HI REND="italic">e:</HI> þ<SUP>t</SUP> miȝte anerþe be;</L>
+<L>So cler &amp; so liȝt it was,: þ<SUP>t</SUP> þ<HI REND="italic">er</HI> was Joie Inouȝ. <MILESTONE N="690"/></L>
+<L>Tren þ<HI REND="italic">er</HI> wer<HI REND="italic">e,</HI> vol of frut,: wel þicke eu<HI REND="italic">er</HI>ich bouȝ:</L>
+<L>þicke it was biset of tren,: &amp; þe tren þicke ber<HI REND="italic">e,</HI></L>
+<L>þe applen wer<HI REND="italic">e</HI> alle ripe Inouȝ,: riȝt as it heruest wer<HI REND="italic">e.</HI></L>
+<L>ffourti dawes i<HI REND="italic">n</HI> þis lond: aboute hi go<HI REND="italic">n</HI>ne wende,</L>
+<L>Hi ne miȝte fynde In non half: of þis lond non ende. <MILESTONE N="695"/></L>
+<L><PB N="37" REF="21"/>
+Hit was eu<HI REND="italic">er</HI>more day,: hi ne founde non nyȝt:</L>
+<L>Hi ne wende fynde i<HI REND="italic">n</HI> no stude: so muche clerte ne liȝt.</L>
+<L>þe eir was eu<HI REND="italic">er</HI> i<HI REND="italic">n</HI> ostat,: nouþ<HI REND="italic">er</HI> to hot ne to cold. <NOTE PLACE="foot">V. 698 to wol zu tilgen.</NOTE></L>
+<L>Bote þe Joie þ<SUP>t</SUP> hi fou<HI REND="italic">n</HI>de: ne may neu<HI REND="italic">er</HI> be itold.</L>
+<L>So þ<SUP>t</SUP> hi come to auair wat<HI REND="italic">er;:</HI> hi nolde noȝt ou<HI REND="italic">er</HI> wende, <MILESTONE N="700"/></L>
+<L>Ac ou<HI REND="italic">er</HI> hi miȝte þ<SUP>t</SUP> lond ise,: vair wiþþouten ende.</L>
+<L>þo com þ<HI REND="italic">er</HI> gon aȝonglich<HI REND="italic">e</HI> man,: swiþe vair &amp; hende,</L>
+<L>Vairor man ne miȝte be,: as our lord he<HI REND="italic">m</HI> gan sende.</L>
+<L>He wilcomede he<HI REND="italic">m</HI> ech bynome,: &amp; custe he<HI REND="italic">m</HI> echon,</L>
+<L>&amp; honourede vair<HI REND="italic">e</HI> s. brendan: &amp; nom is hond a non. <MILESTONE N="705"/></L>
+<L>Lo, he sede, her is þ<SUP>t</SUP> lond: þ<SUP>t</SUP> ȝe habbeþ isoȝt wide,</L>
+<L>&amp; longe, uor our lord wolde: þ<SUP>t</SUP> ȝe longe scholde abide, <NOTE PLACE="foot">V. 707 Harl. þe lengere st. longe, wol richtige Lesart; vgl. Bodl.</NOTE></L>
+<L>Vor ȝe scholde i<HI REND="italic">n</HI> þis g<HI REND="italic">re</HI>te se: is p<HI REND="italic">ri</HI>uetes ise;</L>
+<L>Chargeþ ȝour<HI REND="italic">e</HI> schip wiþ þis frut,: vor ȝe ne mowe nole<HI REND="italic">n</HI>g h<HI REND="italic">er</HI> be!</L>
+<L>Vor þ<SUP>u</SUP> most to þi<HI REND="italic">n</HI> owe londe: aȝenward anon wende, <MILESTONE N="710"/></L>
+<L>Vor þ<SUP>u</SUP> schalt sone of þis world: þi lif is ney þen ende.</L>
+<L>þis wat<HI REND="italic">er,</HI> þ<SUP>t</SUP> ȝe h<HI REND="italic">er</HI> iseþ,: deleþ þis lond atwo:</L>
+<L>þis half ȝou þencþ vair Inouȝ,: &amp; aȝondhalf it is also;</L>
+<L>A ȝondhalf ne mowe ȝe come noȝt,: uor it nys noȝt riȝt.</L>
+<L>þ<SUP>t</SUP> frut is eu<HI REND="italic">er</HI> ilich<HI REND="italic">e</HI> ripe,: &amp; þ<SUP>t</SUP> lond ilich<HI REND="italic">e</HI> liȝt. <MILESTONE N="715"/> <NOTE PLACE="foot">V. 715 die and. Mss. þis st. þ<SUP>t</SUP>.</NOTE></L>
+<L>&amp; wen our lord ech man<HI REND="italic">er</HI> men: to hi<HI REND="italic">m</HI> haþ idrawe,</L>
+<L>&amp; ech man<HI REND="italic">er</HI> men iknoweþ hi<HI REND="italic">m:</HI> &amp; beþ vnd<HI REND="italic">er</HI> is lawe,</L>
+<L>þis lond he wole þe<HI REND="italic">n</HI>ne scewe,: toward þis wordles ende,</L>
+<L>He<HI REND="italic">m</HI> þ<SUP>t</SUP> beþ next icore hi<HI REND="italic">m,:</HI> ar hi henne wende. <NOTE PLACE="foot">V. 719 him vor next zu setzen.</NOTE></L>
+<L>S. brendan &amp; is felawes: of þis frut nome vaste, <MILESTONE N="720"/></L>
+<L>&amp; of p<HI REND="italic">re</HI>ciouse stones,: &amp; i<HI REND="italic">n</HI> to hor scipe caste,</L>
+<L>&amp; vair<HI REND="italic">e</HI> &amp; wel hor leue nome,: þo þis was al ido,</L>
+<L>&amp; wiþ wop &amp; deol Inouȝ: p<HI REND="italic">ar</HI>tede þ<HI REND="italic">us</HI> a two,</L>
+<L>&amp; wende hamward in þe se,: as our lord he<HI REND="italic">m</HI> sende, <MILESTONE N="b."/></L>
+<L>&amp; wel soner<HI REND="italic">e</HI> come hom: þen hi outward wende. <MILESTONE N="725"/></L>
+<L>Hor breþ<HI REND="italic">er</HI>en, þo hi come hom,: Joyuol wer<HI REND="italic">e</HI> Inouȝ.</L>
+<L>þis holi mon, s. brendan,: sone to deþe drouȝ,</L>
+<L>Vor neu<HI REND="italic">er</HI>eft aft<HI REND="italic">er</HI> þulke tyme: of þe world he ne roȝte,</L>
+<L>Bote as aman i<HI REND="italic">n</HI> anoþ<HI REND="italic">er</HI> world,: &amp; as he wer<HI REND="italic">e</HI> i<HI REND="italic">n</HI> þoȝte.</L>
+<L>He deide i<HI REND="italic">n</HI> irlonde sone: aft<HI REND="italic">er</HI> þulke stounde. <MILESTONE N="730"/></L>
+<L>Mony myracle me haþ: uor hi<HI REND="italic">m</HI> seþþe ifounde. <NOTE PLACE="foot">V. 731 Nach haþ fehlt þer.</NOTE></L>
+<L>An abbei þ<HI REND="italic">er</HI> was seþþe arered: as is bodi was ido.</L>
+<L>Nou god ous b<HI REND="italic">ri</HI>nge to þulke Ioie: as is soule wende to.</L>
+</LG>
+<DIV2 N="Ms. Harl. 2277" TYPE="textual variants">
+<PB REF="1"/>
+<HEAD>Varianten des Ms. Harl. 2277.</HEAD>
+<P>1 Seint. man. was ȝund of Irlande. 2 hard lyf. 3 Of fasting of. abbod st. monek. 4 alle an vnder him. 5 hit ful. oure louerdes (so stets oure louerd). 6 abbot. 7 him nach scholde fehlt. 8 &amp; telle þ<SUP>t</SUP> he iseȝ, of fehlt. 9 sikinges he makede (so stets st. made). 10 in gret þoȝt. ful. isuoȝe. 11 Bituene his. 12 him nach custe fehlt. forte þ<SUP>t</SUP> his wit aȝe com. 13 seide. þu (so stets). 14 hider. oure solaȝ. &amp; for, noȝt fehlt. 15 what, so stets. iseȝe. 16 mochele see. 17 occian. grettest. 18 ffor he goþ þe wordle aboute: &amp; alle oþere goþ þerto. 19 þe st. þis. hurte (so stets). 20 Wel st. Al. bigan to, him fehlt. what he er founde.</P>
+<P><PB N="18" REF="2"/>
+21 i<SUP>c</SUP> hadde. Mernoc. 22 beoþ. grete. 23 hurte gan wende: to a priuei stede. 24 serui. at wille. 25 bi mi. him fehlt. 26 ylle þ<SUP>t</SUP> is in þe see: þ<SUP>t</SUP> is delitable ynouȝ. 29 vnder him: monekes meni on; of fehlt. 30 Anon þo i<SUP>c</SUP> ihurde þis: þiderward i<SUP>c</SUP> gan gon. 31 auisioun. 32 þ<SUP>t</SUP> aȝe me er i<SUP>c</SUP> come þer: þreo iourneyes. 33 schip: &amp; euere estward we. 34 turmentȝ ynowe. 35 þan st. þen. fur. atte. 36 suyþe durc. ous fehlt. 37 Al o. dai. 38 Atte. forþere. gan. 39 ane lond. oure. 40 Briȝttere hit þoȝte þan. ioye. 41 Of treon of erbes þikke. eche. 42 preciose. þ<SUP>t</SUP> briȝte schyneþ wide, &amp; fehlt. 43 eche erbe. ful. eche treo, &amp; fehlt. 44 sulf fehlt. neuere (so stets). 45 ynouȝ (so stets). wel fehlt. 46 þeȝ hit ous lute while. 48 þan est. þane west. 49 noȝt fehlt. 50 ȝung. 51 welcomede. vaire fehlt. euerechon. wel fehlt. milþeliche. 52 &amp; nemnede euereches owe name. myldeliche st. vaire. 53 ȝe auȝte wel ihū crist: wel faire þonki mid. 54 schoweþ ȝou his priueite: &amp; so moche of.</P>
+<P><PB N="19" REF="3"/>
+55 is fehlt. þe lond. wole: ȝut er. 56 durlings. vrþe. ȝeue. schulle. 57 seoþ. 58 bi ȝunde. halfendel, ohne þe. albi þoþer. 59 passi. iseo. 60 &amp; fehlt. al aȝer. 61 drunke. slepe mid ȝoure eȝe; noȝt fehlt. 62 chile. ne fonde ȝe. ȝe ne fehlt. iseȝe. 63 þis is. stede. &amp; fehlt. þurf. is alþis. 64 her eure. neure more niȝt. 65 If man nadde aȝe.: noþing misdo. 66 hi. ilyued: &amp; here of spring. 67 mote bileue her noleng. 68 ne þenche ȝou bote a while. habbeþ. 69 þat so st. soþ<SUP>t</SUP>. oure. wel fehlt. 70 þe st. þo. war. 71 Aȝe ward. oure. þ<SUP>t</SUP> of þoȝte ous. 72 wel. 73 vrne. ous miȝte iseo. 74 wroþe. 75 seide hem. in st. wiþ. 76 Bifore. 78 euere dai. &amp; euere liȝt suyþe cler. 79 quaþ. þis st. wel. 80 suete smyl. þ<SUP>t</SUP> ȝe habbeþ þer ibeo. 81 he þoȝte &amp; stod stille. 82 fehlt. 83 aboute st. among. tuelue. 84 triste to mest of alle. whan (stets so st. wen wan wanne). him com. 85 þuse he nom in consail; twelf fehlt. hem fehlt. 86 u. 87 fehlen.</P>
+<P><PB N="20" REF="4"/>
+88 Siggeþ. ȝoure. such a; gret fehlt. 89 Leoue fader quaþ þis oþere. oure. 90 Oure. god. 91 al oure. &amp; st. ȝif. 92 schulle bliþeliche (st. vawe). godes grace, our fehlt. 94 ȝurne. veyage. 95 leten hem diȝte a gret schip. abbi st. al bi. 96 stronge ynou: ynailed, &amp; fehlt. 97 siþþe. al aboue. In fehlt. 98 here st. hor, so stets. 99 hi fehlt. 101 ȝut fehlt. come go tuo. 102 bede faste, hem fehlt. þane wei mid. 103 quaþ seint brendan. ac ȝoure on. atta. 104 er st. ar. aȝe. 105 þider wende, him fehlt. whoder. hem st. him. 109 see st. wynd. al fehlt. wil. gret st. good. 110 est forþ: wel euene þe schip him drouȝ. 111 aȝe. ariseþ: a. 112 Nou nuste non. whar. he nesay. 113 Euene forþriȝt (st. est). dayes. 114 ylle. 115 in st. aboue. heȝe. 116 þreo dayes. neȝe. 117 he fonde þo. 118 hi wende alond as maskede men: hi nuste. 119 go. 120 B<HI REND="italic">rendanes. him st. hem.</HI> 121 Beau. neþore. 122 Ich wot. þe st. þen.</P>
+<P><PB N="21" REF="5"/>
+124 wel fehlt. 125 þis st. þe. fonde. 126 vppe. 128 Beddes þer were al ȝare ymaked. 129 After here soper. resten. 130 islepe. 131 aȝen fehlt. 132 &amp; fehlt. eny fehlt. 133 þo hi seȝe as bi þoþer. 134 wiþ a fehlt. þiderward. schip. 135 on þis faire lond. 136 faireste scheep. eche. 137 grettere þan. &amp; fehlt. whittere ne miȝte non beo. 138 hurte: þ<SUP>t</SUP> hi miȝte þis iseo. 139 þer com go. grette. 140 hider st. her. þer st. as. er fehlt. 141 icliped. 142 Mochele. white. 143 ffairere. þan. grettere vnyliche. 144 murie. is her. &amp; lese suyþe riche. 145 for her nis non ifounde(!). 146 þerbes nue, also fehlt. gunde (st. grounde). 147 Ne me ne. noȝt st. noþing. mulc. 148 meni, so stets. iþeo. 149 stede. schulle hunne. 150 foweles parays. 151 þis wit sonedai. 153 Initiale. 154 rue forþ faste. wiþ st. in. 155 in anoþer side. ylle. 156 þurf godes grace: þiderwardes; euene fehlt. 157 hit cam. vpe þe roche. 158 ne—noȝt. yle. 159 wende vp. yle. 160 makie.</P>
+<P><PB N="22" REF="6"/>
+161 hem fehlt. soden hem fisch. caudroun. 162 Inouȝ fehlt. somdel hi were. 163 ffor þo. þurf hot. yle. 165 u. 166 fehlen. 167 þe yle. V. 168 folgt hinter 167. 168 as a. 169 suam. þan tuei. while, þe fehlt. 170 þe monekes iseȝe þe fur wel longe. 171 ȝurne. þe wonder. 172 þis gode man. ȝe nabbe. 173 yle. amis. 174 of þis. þe gretteste st. meste. 175 Iastoni. icleped. &amp; st. he. 176 ac for gretnisse. nemai, so ne meist mit dem Verb verbunden. 177 rue. 178 þreo dayes. 179 seȝen. 181 faire. lengere þan i<SUP>c</SUP> telle; ȝou fehlt. 182 fonde. place st. stude. noble st. vair. 183 Bi st. In. treo. round st. hei. 184 ffoweles white &amp; faire ynouȝ. so þicke fehlt. euerech st. ech. 185 vneþe, so stets. eni leef. hi miȝte. 186 þer st. þ<SUP>t</SUP> it. to lokie on suche o treo. 187 akneo. 188 bad. to fehlt. schowi. such a. 189 fleȝ. lute. þo he gan to fleo. 190 wynges furde: þo he to him ward gan teo. 191 Murie Instrument neuere nas: þat his(!). 193 Ich hote seide; þe fehlt. ert. 194 sigge. what ert(!) st. wat ȝe beþ.</P>
+<P><PB N="23" REF="7"/>
+195 Ac fehlt. aȝe cunde. fowel. 196 sum st. som, so meist. 197 ac fehlt. oure. 198 Lucefer for his fairhede. 199 mid. euer fehlt. dede st. misdede. 200 fulle. for no synne. 201 Ac for. assentede. vnriȝt. 202 forto. oure louerdes suete miȝt. 203 Ne we ne. 204 And somdel oure suete louerdes: miȝte we seoþ. 205 fleoþ, aboute fehlt. lifte. 206 liþere. for to. 207 to st. vorte. þe liþer liþere makieþ. 208 þe fehlt. rest. forme. makeþ(!) 209 suche. her fehlt. 210 &amp; fehlt. on st. up. brode treo. 211 Tuelf monþ hit ipassed nou. verst fehlt. 212 alle. schulle. er ȝe schulle bringe ȝoure wille. 213 iwend soue, þis fehlt. wole ȝou. 214 A. of fehlt. longe isoȝt. anon after þe soue. 215 Eche. schulle. mid. ȝoure fehlt. 217 hit st. þis. 218 þe st. þis. of st. at. þo st. also. 219 þe st. þis. eue st. tyme. 220 Muriere. god silf, him fehlt. þer fehlt. 221 þe st. þis. hor fehlt. 222 vp fehlt. 223 þe foweles sunge. 224 seide þe vers. alto. 225 vnderne. afterwardes; seþþe fehlt. 226 eche. songen of þe dai. 227 lond. wyke. 228 fforto. was fehlt. &amp; of witsonedai were ido.</P>
+<P><PB N="24" REF="8"/>
+229 atte trinite:. þer. 230 scheep. hem fehlt. er st. þar. 231 mid st. wiþ. 232 aȝeward drouȝ; him fehlt. 233 his st. þe. 234 hem st. him; hem to. 236 eftsone. 237 schulle. soue. iseo a wel fair yle. 238 is icliped: þ<SUP>t</SUP> is hunne. 239 schulleþ beo mid holie men. myde wynter. 240 ȝoure. schulle. dude. 241 Vpe. þer þi. 242 ȝoure. mid ous: riȝt as. 244 grete see. hi fehlt. 245 harlede. peryls. 246 þ<SUP>t</SUP> hi nuste whoder. 247 þis fehlt. were st. wende.: in þis grete. 248 þ<SUP>t</SUP> hi neseȝe. see. 249 seȝen. fur fram; hem fehlt. ylle. 250 muste aryue. 251 after þan þ<SUP>t</SUP>. furst þis yle. 252 hi st. he. dayes. neȝ. 253 þ<SUP>t</SUP> hem þoȝte here lyf hem. þis st. þe. 254 &amp; his help. 255 lute. fonde atte. 256 þer neȝ: here neȝ (!). ankre. 257 hem þoȝte er. 258 bihulde aboute: wel murie hem þoȝte þer. 259 þt on. 260 þoþer. þe st. þis. ȝeode.</P>
+<P><PB N="25" REF="9"/>
+261 drinke. wil. seint brende seide þo he hit iseȝ. 262 wiþ oute. ȝe fehlt. 263 þer st. her. 264 wiþ. &amp; fehlt. ȝut st. ȝe. 266 wolcomede. 267 al fehlt. wei. 268 into st. in. o stede; muri fehlt. 269 eschte. 270 maner. þer inne. 271 him vor was. þ<SUP>t</SUP> st. þis. ansuere. 272 seȝe hi. croice. to fore. 273 in eche side. 274 anon st. gon. 275 processioun fair. abbot. 276 bi þe. 277 wel fair st. noble. 278 arenk. wosche. 279 hi wosche. 280 freitour. hi st. he. wel heȝe. 281 Imelled. &amp; fehlt. 282 brouȝte st. vette. 283 whit. sette: bi tuene tuo. 284 bifore hem sette; he fehlt. 285 Suettere. 286 wel. seȝe er. þe st. þis. 287 Abbot seide. 288 water st. welle. wolde. 289 idronke st. to drinke. ibrouȝt. Nach 289 hat H. die 4 Verse:</P>
+<LG>
+<L>þan ȝe hit þeofliche nome: as ȝe hadde er iþoȝt</L>
+<L>þis bred þ<SUP>t</SUP> we eteþ nou: we nuteþ whanne hit is</L>
+<L>Ac a strong man hit bringeþ ech dai: to oure celer iwis,</L>
+<L>We nuteþ noȝt bote þurf god: whannes hit is ibrouȝt.</L>
+</LG>
+<P>290 him ne failleþ. 291 her. alle fehlt. 292 Tuelf. eche dai. 293 &amp; feste &amp; euerech.</P>
+<P><PB N="26" REF="10"/>
+294 Me st. he. bringþ. four &amp; tuenti. &amp; st. þt. haueþ. 295 þ<SUP>t</SUP> st. &amp;. 296 idubled. 297 oure. for (st. ac) muchedel is vnyete. 298 sendeþ oure. 299 Aluey st. ailbi. 300 necom. 301 louerd þurf his grace: ifed. 302 murie euere ek: &amp; siknisse nis þer. 303 schule. oure. tent oure. 304 oure. 305 to churche wende. yete. 306 freres (st. monekes) of the queor. 307 wi fehlt. nere þuse noȝt 308 abbot seide. nede. 309 nulleþ. in oure celle (st. freitor). 310 hi st. þes. 311 þe while we sitteþ (!). hi wolleþ. 312 wolleþ sigge; seþþe fehlt. whan we. 314 Weueþ &amp; caliȝ &amp; cruetȝ: pur cler crestal. 315 Soue tapres. nomo. 316 sigen ek: to whan. 317 &amp; euerech. 318 abbotes sige. 319 Abbot. þo fehlt. 320 mid st. wiþ. 321 abbot seide. 322 ffourscore. her fehlt. 323 &amp; st. ac. eft fehlt. in none. 324 seruise. 325 nere neuereft in feblesce: ne in siknisse noȝt on. 326 ihurde. he wep for ioye. 328 wel sire. 329 Naþ. þe schowed. wel: what; al fehlt.</P>
+<P><PB N="27" REF="11"/>
+330 Irlande aȝe. 331 &amp; þe þretteoþ fram þe: to þe ylle of ankres. 332 fourteoþe. 333 þo þer com in. arewe. a st. an. 334 þei fehlt. tapres. 335 &amp; fehlt. Aȝe ward as he com: at afenestre þere; flei riȝt fehlt. 336 tapres brende. ac hi no þe lasse nere. 337 on mi. 338 wanyeþ. 339 þis abbot. 340 iseȝ. fram toppe. 341 &amp; fehlt. suyþere. grennere. 342 wenstou. noȝt fehlt. beo her: as miȝti as he was þere. 343 Mide w. 344 departede atuo. 345 Initiale. hillaries. 346 In þe see wiþ his monekes: þur þe grace. 347 hi fehlt. vrne st. rewe. 348 ffram þulke tyme fur in leynte. 349 palmsonede. 350 hi þoȝte þ<SUP>t</SUP>. fur. atte. 351 wondrede moche (st. þer of): whar þis. 352 er þis. þere st. here. 353 þer st. þis. haueþ. 354 fowelen. 355 þe schip. yle. 356 scher þursdai. þider hi come. trauayl. 357 gode fehlt. wolcome. 359 &amp; sitte hem siþþe atte. 360 he fehlt. wosch. mande. 361 Al here. þer. þer. 362 aldai, longe fehlt. forto. an fehlt. 363 bad. 364 resureccioun. V. 365 he het hem euene teo.</P>
+<P><PB N="28" REF="12"/>
+366 þer st. as. 367 hem fehlt. &amp; godes grace. 368 fisch: wel sone siþþe. 369 fonde. ek fehlt. 370 leuede. it fehlt. vp on his rug. þ<SUP>t</SUP> st. þe. 371 such a b<HI REND="italic">e</HI>st: scholde beo. 372 suffri. vppe go. 373 þe st. þis. vpe þe. rug. alle. 375 Anoueward þe fisches rug: hi songen here massen echon. 376 mochele. so vor stille fehlt. 377 resurexioun. 379 vnderne. here wei to schipe. 381 hi (st. þe foules) seȝe þe monekes come. ymone st. echone. 382 for þan one. 383 sone toward hem. 384 þe soun of him murie. wol∣comede. 385 onury wiþ. 386 purueide. þis four stedes. habben in. 388 ȝoure st. þe. vpe. rug. 389 wyke: forto witsonedai; after fehlt. 390 &amp; fram Midewynter to. þille of abbai. 391 þe st. þis. wiþ st. in. trauayl st. peril. schulle. 392 &amp; in pyne al þoþer. þe fehlt vor soue. 393 &amp; þe lond, seþþe fehlt. 391 dayes. 395 contrai. schulle. 396 wiþ oute. ȝoure lyf. 398 þo fehlt.: þer hi were er in gret plente.</P>
+<P><PB N="29" REF="13"/>
+401 Initiale. 403 vp on a. 404 grislich. 405 Berninge fom: out of his mouþ he caste. 407 fehlt. 406 þe st. þ<SUP>t</SUP>. heȝere þan. 408 browen st. breste. wel faste. þis st. þe. 409 on ihū crist: &amp; in seint brendan also. 410 þ<SUP>t</SUP> almest he com. 412 suymminge blyue. 413 encountrede. liþere. 414 book. atte. 415 þane. cam. aȝe. 417 hi wende. 418 afingred sore: for here 419 þer com fleo. lute. brouȝte. 420 wel fehlt. 421 sumdel. 422 fourte. 423 alle ido. afingred. 424 Bi þ<SUP>t</SUP> o side. 425 yle. ful st. þicke. 426 as he seȝ er. þe ground. 427 vp of þis schip: of þis grapes he. 428 bar hem to his. to libbe by fehlt. dayes hi laste. 429 þer fehlt v. cam. gryp: fleo. 430 assaillede. 431 dulfulliche. 432 þo com þer fleo a. 433 in þe fowelen. 434 iseȝ. he nas noȝt alute glad. 435 grymp: &amp; sette his. 436 aiþer. 437 liþere. so he sloȝ. ful in to, dun fehlt.</P>
+<P><PB N="30" REF="14"/>
+438 iwist: ne mai. sle st. asle. 440 Ac st. &amp;. stedes: in reste euere. 441 Initiale O. wiþ st. mid. tunge. 442 peter. sunge. 443 o stede of þe see: þe see so cler. 444 seȝe on bi eche. 445 grounde. wiþ fisches at one; al fehlt. 446 grounde. hi leye. 447 hete st. bede. 448 weiȝte. þe fisches. to fehlt. 449 beo ȝe ofdrad. 450 vpe. rug. ymaked. 451 anoward. 452 makede loudere song: as hit for þan one were. 453 þe fisch sturte vp wiþ. 454 flote st. come. as hit were at one hepe. 455 flote aboute bi eche. 456 noȝt fehlt. 457 þe st. þis. suede. 458 þis holi man. forte he hadde ido. 459 al fehlt. 460 Moche. he st. me. 461 þe wynd. þe schip. wel fehlt. 462 fur. soueniȝt. 463 Soþ<SUP>t</SUP>. 464 þe gode. 465 þe com þer. þ<SUP>t</SUP> drof hem forþward faste. 466 noȝþ st. norþ(!). whoder. hit laste. 467 durk. 468 as þer schipes were (!). 469 hurden. 470 beting. as þer þundre. 471 So þ<SUP>t</SUP> brendan agaste sore: &amp; him blescede faste. 472 þer cam out a grislich. wel liþer. 473 berning. his eȝen vpe hem. Nach 473 folgt der Vers: &amp; turnde him in anon: þis monekes were agaste.</P>
+<P><PB N="31" REF="15"/>
+476 tangen. hameres. berninge. 477 brym. vrne. after þe schip echon. 478 þer neȝ st. no ner. to crie st ȝolle. 479 brenninge: after þe monekes hi fehlt. 480 ne st. noþer. 481 as he ful. al afure. 482 Ech. his st. þis. 483 ek fehlt. ac neuere ne cam. 485 of fehlt. afur as þeȝ hit. 486 smokede &amp; brende. 487 þ<SUP>t</SUP> stench: &amp; þ<SUP>t</SUP> longe ilaste (!). 488 nomore. 489 ȝullinge. wepe. so fehlt. 490 þinȝþ. murie. 491 wilnyeþ. her st. þer. uor fehlt. 492 ihad. 493 an ambesas. 494 ilaste. 495 an hulle wel heȝ. þe st þ<SUP>t</SUP>. 496 berninge. gret stench st. muche wo. 497 lie. stod; up fehlt. was (st. wal). 498 moche smoke in þan oþer: ȝut was þer. 499 ȝulle. 501 hipte. out vor amidde fehlt. 502 to þis grisliche fure. 503 so dulfulliche. ruþe st. deol. 504 Allas. mi wrecche. iseo. 505 Mid. i<SUP>c</SUP> habbe. &amp; ynemai mid; no leng fehlt. 506 Acursed. ich. 507 i<SUP>c</SUP> am nou. 508 þe deuelen come. þane wrecche. 510 þo he fonde. seide: þo; him vor s. fehlt. 511 faillede. to st. vorto.</P>
+<P><PB N="32" REF="16"/>
+512 brende. þe st. þis. noþing hi. 514 souþward. 515 souenyȝt. 516 attan ende. 517 A hard roch. 518 al fehlt. 519 þe st. þis. 520 Ano∣ward þe se. 521 A wrecche gost sitte naked: bar &amp; meseise ynouȝ. 523 nyþer. him st. it. 524 þ<SUP>t</SUP> þe water wiþdrouȝ(!). þe cloþ. so fehlt. 525 Beot. it fehlt. þe st. þen. þan eȝe. 526 beote him; ek fehlt. &amp; eke bi hynde. 527 wrecchedere. þan. mai st. dorte. 528 bad him. to vor telle fehlt. 529 &amp; whi he sete þere. 530 dulful. þe fehlt. 531 pans. 532 Nis þis. me doþ. 533 þis st. þisse. 534 godnisse. ich habbe. bote of. 535 y ne. þ<SUP>t</SUP> y nere worþe more. 537 Mi riȝt. boþe st. þer Inne. 539 wel fehlt. 540 was þo. þe grettere lye. 541 þo vor he st. þ<SUP>t</SUP>. isye. 542 doþ. 543 suete (st. heie) milce: i<SUP>c</SUP> am nou þanne. 544 i<SUP>c</SUP> am. ech. 545 þane st. þen. 546 midewynter. 547 byginning. whitsoneday.</P>
+<P><PB N="33" REF="17"/>
+548 &amp; at oure lefdi feste ek. 549 In st. &amp;. ȝer. i<SUP>c</SUP> am. 550 pilatus; &amp; fehlt. Anne &amp; kayfas. 551 cursi. ich. euer fehlt. 552 &amp; st. ac. fonde. wyse. 553 ich. 554 &amp; þat ȝe. 555 we schulle schulde þe. 556 nou fehlt. þe cloþ. þere. 557 pans ber. 558 a st. an.: &amp; for myne nas hit noȝt. 559 pans. oure breþerne. 561 for him do. 562 of fehlt. 563 Hit me doþ. hongi her. þan. 564 bet. 565 which. ȝyue oþer manes; of fehlt. 566 woleþ. 567 pore. þar st. þer. almisse. 568 hem noȝt. forȝute. 569 mowe st. scholleþ. wite. 570 hongen. 571 Preostes i<SUP>c</SUP>; is fehlt. þerfore here hi beoþ (!). 572 clenliche. eche st. al. doþ. 573 vpe whan. 574 i<SUP>c</SUP> him fond. neod. 575 Ich. a dupe. þ<SUP>t</SUP> me miȝte þer ouer gon. 576 i<SUP>c</SUP> habbe ido: þ<SUP>t</SUP> ich mowe of telle. 577 yne st. i ne. 578 þane st. þen. 579 To st. vorte. þis wrecche gost. ȝulle. 580 hunne. 581 oure. &amp; lede to helle sone. 582 w ne þore. noȝt fehlt. er st. vorte. 583 lette; þu fehlt. 584 ne vor lette fehlt. witie. noȝt fehlt.</P>
+<P><PB N="34" REF="18"/>
+585 þ<SUP>t</SUP> st. ac. poer. 586 þerstou. quaþ þis d. nemne. 587 bitrayde. grete. 589 þ<SUP>t</SUP> ȝe ne tuouche. er to morwe þ<SUP>t</SUP> hit beo day. 590 ȝulle. þo fehlt. ward fehlt. 591 pitousliche. 592 gonne blaste. 593 &amp; ȝulle also. 595 her o whar. þere here (st. þe here). founde. 596 Oure. iturmented: so grisliche allonge. 597 stronge. brouȝte. mid. liþere. 598 vpe him silue. 599 schulle. dayes. dubli. 600 wrecche. hit was. 601 þe st. þis. him nome wel grisliche. him fehlt into. 605 Riȝt þreo dayes. 606 þe furde dai. 608 ermite. ich. 609 þis fourti. 610 þis st. þisse. yn. 611 þe ermite. com gon. 612 berde. 613 nas þer no bar on him bileued. 614 None. 615 gan st. bigan. 616 Allas. i<SUP>c</SUP> haue. 617 in lyf of an. a man. 618 doþ wel fehlt. 619 schoweþ. þan. priueite. 620 o st. a. swynk. 622 &amp; fehlt. Of st. in. patrik. ich.</P>
+<P><PB N="35" REF="19"/>
+623 churchai. þer as p. 624 eschte. 625 þu no fere. 626 Non oþer man þan. myn fehlt. abbot nis. 627 neþerstou noþing drede. 628 arys sone days. 630 schip. 631 þe lede in to. 633 a schip. wel fehlt. 634 þe schip. 635 þane soueþe dai in to. yle. swete fehlt. 636 So sone st. anon so. aȝe þane wey. 637 þider st. huder. 638 Eling. ȝeode. &amp; fehlt. nadde ic. 639 vpe. hynder. an oter. 640 forþere. afur ire. a st. an. 641 fforto. me fehlt, þer wiþ. 642 oter. aȝe anon. 643 seoþ. þreo dayes. 645 ich hadde. on fehlt. 647 sprong out ech. &amp; to wasche. 648 þo i<SUP>c</SUP> hadde her in þisse lyue: þretti ȝer ibeo. 649 þ<SUP>t</SUP> st. as. 651 vyfti. 650 u. 651 umgestellt. 650 wille. i<SUP>c</SUP> haue. four &amp; tuenti ȝer nou non. 653 iredi st. old. 654 god fehlt. hyne wole me. 655 ich come to him: &amp; out of þis wordle. 656 water: what þu. þer to st. to.</P>
+<P><PB N="36" REF="20"/>
+658 dayes. 659 &amp; fehlt. ester. þer st. as. 660 þanne. 661 dayes. 662 aȝe. 663 departede. þer st. þus. 664 þis gode men. wel fehlt. 665 dayes. laste. 669 ester niȝt. scholde st. gonne. 670 seide st. songe. 671 moeui. 672 swam. 675 in to al þe contreye. 676 þis fowelen. 677 al fehlt. aȝe. 678 ioyful. 680 procuratour bi þulke. brouȝte. 681 into st. &amp; to. 682 wiþ st. myd. whoder st. as. hem st. him. 683 þan est. dayes. 684 ido st. ago. bigan to haweli. 685 A wel durc. 686 glad. procuratour. &amp; makieþ grete. 687 ffor i<SUP>c</SUP> hit wot ȝe beoþ. 688 durke mist. 689 faireste. come st. were. þ<SUP>t</SUP> euere miȝte beo. 690 þ<SUP>t</SUP> ioye þer was. 691 on euerech. 693 þapplen. alle fehlt. haruest. 694 dayes. aboute (st. in) þis lond: hi hem gonne.</P>
+<P><PB N="37" REF="21"/>
+696 euere more. fonde neuere nyȝt. 697 so moche cler liȝt. 698 to fehlt nach noþer u. ne. 699 fonde. 700 hi nemiȝte noȝt. 701 þe lond. wiþ outen. 702 þo cam þer to hem a ȝunglich. swyse(!). 703 ffairere. þ<SUP>t</SUP> st. as. 704 wolcome. hem fehlt. bi his name. 705 honurede. &amp; nom him bi þe hond anon. 706 þe lond. wyde. 707 &amp; þe lengere. longe fehlt. schulde abyde. 708 þe st. þis. priueiteȝ. 709 chargieþ. 710 toward st. to. lond. aȝe wardes; anon fehlt. 711 out of þe wordle. neȝ þan. 713 þinȝþ. &amp; þoþer half also. 714 ȝund. 715 þis frut. þis lond. 717 knoweþ. 718 he fehlt. þanne. þe wordles. 719 him next icore. hunnes. 721 schip. 723 mid st. wiþ. departede þo atuo. 724 wende hem. 725 raþere st. sonere. come hem hom. 727 toward st. sone to. 728 euereft st. neuereft. wordle. 729 of þoþer wordle. 730 Irlande. sone fehlt. 731 haþ þer: siþþe for him. 732 is st. was. seþþe fehlt. þer as. 733 þ<SUP>t</SUP> st. as.</P>
+</DIV2>
+<DIV2 N="Ms. Laud. 108" TYPE="textual variants">
+<PB N="38" REF="22"/>
+<HEAD>Varianten aus Ms. Laud. 108.</HEAD>
+<P>1 Seint. man. was here of ovre londe. 2 ich me. 3 and oþur. and Abbot. 4 alle under him. 5 So þ<SUP>t</SUP> fehlt. hit bi feol. ore louerdes, so stets. 6 beryn an oþur Abbot. cam. 7 bi souȝte anon: him don onder stonde. 8 Ant tellen him ȝwat. iseiȝe 9 guode man. iheorde. sichingues he made. 10 Ant in grete þouȝte bi gan for to weope. isuowe. 11 holie. op nam. 12 &amp; custe him faste. al for to. aȝen fehlt. him cam. 13 seide. þov. 14 hidere. ovre. nouȝt suych. 15 us ȝwat. aboute as þou hast. 16 muchel fehlt. Occean. 17 of fehlt. grettest. 18 vor fehlt. goth. alle oþere cometh, sees fehlt. 19 berin. of st. at. heorte. 20 Al weopinde he hem tolde. 21 he hadde a wel guod sone: and Mernok. 22 A Monek. beoth. grete. 23 So þ<SUP>t</SUP> fehlt. for to st. to. in to. 24 þare. beo al one. to a serui godes wille. 25 bi mine wille.: ase ich it telle ov, so die Hlbz. 26 yle. 27 is couth. 28 þe Monek likede þare wel: and longue gan þare a bide. 29 And hadde þare under him: Monekes mani on. 30 þo ich (anon fehlt). tellen þat. ich gan gon. 31 sende st. kende. 32 are ich. come. Iorneies. 33 And in a schip we duden us sone: and Astward euere kenden. 34: as ore louerd is grace us sende. 35 þe st. þen. wenden. comen. 36 In suyþe þuyster stude: 37 ane daye. weren. deork hede. 38 forþere. gan. 39 i seiȝen a newe lond. 40 briȝttore it þouȝte þane. 41 I novȝ st. it stod. eche. 42 And of suete preciouse stones, (ek fehlt): þat briȝtte schynen and wide. 43 Euerech. ful. treo was. fruyt. 44 sulf fehlt. neuere. duyt. 45 Ioye and blisse I novȝ. wel fehlt. duden i wende. 46 Ȝeot us þouȝte luytel ȝwyle: ne miȝte we finde. 47 comen. watur. 48 euere st. euene. þe st. þen it drovȝ. 49 stoden bi heolden. miȝten. noȝt fehlt. i wende. 50 a ȝong ȝomman. 51 And wel∣comede. vaire fehlt. 52 he nemnede euerech is riȝtte name. wel fehlt. gan us. 53 þat we ouȝten. suyþe wel. 54 þat schewez eov is priuete: and al so of is miȝte. 55 þis is. wole: ȝuyt are. 56 Dieser Vers von späterer Hd. dazu geschrieben; auch am Rande von noch anderer Hand. hyder he schal, a. R.: hider heo scholle. 57 in þusse half. i seoz. 58 bi ȝeonde. watere. þe fehlt. al bi þat oþur. 59 watur. passi. 60 For here. al a ȝer. 61 eten. dronken, noȝt fehlt. ne slepen nouȝt with eyȝe. 62 ne greuede ev nouȝt: noþur lowe ne heiȝe, so die Hlbz. 63 vor fehlt. ore louerdes st. godes. it is þus liȝt. 64 it is euere day: and neuere more niȝt. 65 Adam st. mon. a ȝein. ne hadde. 66 here st. her. ȝuyt i beo: 67 mowen no leng here. moten.</P>
+<P>V. 68-248 fehlen, da 2 Blätter im Ms. ausgerissen sind.</P>
+<P>248 þat huy ne yseiȝen. ant. 249 þo huy yseiȝen. ane yle ase þei. 250 heo criden faste. huy mosten a riuie. 251 ȝeot. þis yle furst. 252 fourti dawes heo wenden in þe se: er huy comen þere neiȝ. 253 þat heom þouȝte heore. was heom loz. weren. 254 criden ȝeorne. and is help heo beden. 255 luytel. and swyþe streit: huy founden atþe laste. 256 þat vnneþes heore schip miȝte þerinne come: Aunker for to caste. 257 wenden a lond þo. heom þouȝte er. 258 Huy bi heolden (wende fehlt) al aboute: murie heom þouȝte þer. 258 þo yseiȝen heo. wellene. þat on. 260 And sumdel wori and þicke þat oþer was. þe m. ȝeoden. 261 drinken of þat. 262 And seide zugefügt. þere neiȝ. 263 beoz: al þoruȝ godes wille. 264 for heo wollez party þar of mid us. ȝeot st. ȝe. 265 þere cam gon. 266 he custe. 267 he nom fehlt. heom (st. him) forth with him: bi a wel fair wei. 268 murie. on st. an. 269 axede. 270 weren þare inne. &amp; ho þare woneden þere(!). 271 none answere. 272 þo cam þere gon. ane croyz. 273 eyþur. weren. 274 And yreuested faire and in queor copes. comen. 276 wel faire. bi þe. 277 He ladde. 278 sette<HI REND="italic">n.</HI> adoun alle on a rewe (st. a rank). wuchs. 279 worie. heore fet he wuchs. 280 þo st. seþþe. wel (st. þer) heiȝe. 281 I medlede with heore owene. weren. 282 þare cam. hem fehlt. brouȝte st. vette. 283 And ane wel faire white lof:. bitwene to &amp; to. 284 of herbes were: bi fore heom he sette. 285 Swettore mete ne miȝte non beo.
+<PB N="39" REF="23"/>
+knewen. 286 er i seiȝen. þe st. þis. 287 Beoz nouþe. Abbot. nouþe. 289 Betere it is drinke. ȝwan. ov. Hier folgen die Verse: þane ȝe it þeof∣liche nomen: ase ȝe hadden i þouȝt. þis bred þat we eteth of: we nuten of ȝwan it is. An straunge man eche daye it bringuth: In to ovre celere iwis. We nutez nouȝt bote ope godes grace: wanne it is ibrouȝt. 290 trust to st. douteþ. failly. 291 We beoz foure ant twenti freres: and ȝwane we beoz i sete. 292 Twelf ȝwite (st. suche) Miches men brynguth us: eche daye to ore mete. 293 hali daye. ȝwan. sonen day. 294 Foure and twenti loues us comieth: so þat euerech man hath his. 295 þat euerech. him leuez. witiez. 296 I doublet it worth nouþe for ov: ase ȝe iseoth wel her. 297 Al (st. vor) ore. here. ake muche it hath vn ete. 298 ech day fehlt. sent us alle mete. 299 Fram seint paterikes Abbeye: þat in yrlonde is al so.(!) 300 Four score ȝer we habbez i beon here. ne cam. 301 Euere eft ore louerd þoruȝ is grace:. 302 And þis murie i nouȝ: syknesse here nis non. 303 schullen ore seruise don. sent us liȝt. 304 &amp; fehlt. brenne. 305 Heo arisen op and wenden to churche. hadden yȝete, alle fehlt. 306 And twelf oþere freres heo i metten: Inward to þe mete. 307 ȝwy neren þeose nouȝt. 308 quath þe Abbot: nede it mot. 309 þer ne mouwen. foure. freitore beon. 310 weren þare inne. þeos ne miȝten. 311 ȝwile. singuth. heo schullen. 312 And heore. seþþe fehlt. iȝet. 313 þat weued. þat hit. 314 and chaliz. Cruettes: þoruȝ out cler cristal. 315 Seue taperes weren in þe queor: for þare ne weren non mo. 316 segene (also fehlt): þat Monekes scholden to. 317 weren. and st. þt. 319 Abbode: do seiȝe. broþur. 320 wel fehlt. þat neuer on ne. 321 Abbot. þat we. here. 322 Four. swuche. ase ȝe mowen here is seo. 323 And þare. eft fehlt. in none. 324 Are. 325 neren neuer eft. sike. 326 Seint brendan þo he i heorde. 327 uor godes loue fehlt. 328 þe Abbot seide. mowen. 329 haueth. ov wel: ȝwat ȝe schullen do. 330 Come þov schalt to yrlonde i wis:. þine. breþren. 331 yle of. þreotteoþe. iwende. 332 &amp; fehlt. al quic to helle. beon þare. 333 cam þare. fuyri Arewe. a st. an. 334 heo. 335 And flevȝ out a ȝein ase heo cam In: 336 þe st. þis. barnden. no þe lasse huy. 337 Ich. 338 Houȝ. waniez. 339 Ne hastþou. þe abbod. 340 say. þe toppe. 341 &amp; fehlt. þe more þat þe þorn barnde. grenore. 342 wenestþou. ase miȝti here as. 343 þeos. weren. þus fehlt. for to mide. al ido. 344 for to st. hit was. twelfte. are huy departeden a to. 345 hyllaries. i wende. 346 Monekus. 347 Huy floten op. soruwe. 348 Fram þulke tyme forto in leinte. i seiȝe. 350 iseiȝen swiþe fer; fram hem fehlt. 351 hadden wonder þar of. 352 seide st. quaþ. er fehlt. i beon þere. 353 þare is. gode fehlt. 354 In foulene p. 355 to þat yle. 356 schereþores day. comen þudere: in gret trauaile inouȝ. 357 gode fehlt. heom cam a ȝein; glad fehlt. welcomede. 359 And sette heom sethþe. 360 wuchs hore fet alle. þe st. hor. for to st. to. 361 Huy heolden þare heore maunde. heo gounnen. 362 al þe longue. 363 bad. 364 And heore resurrection: opon. rugge. 365 aftur heore. he bad heom. 366 foulene. heo hadden. 367 holie. hem fehlt. wenden. grace. 368 So fehlt. þis st. þe. fischse. daye. 369 þat houede ase it were a lond. heo founden. ek fehlt. 370 it bileften op on. In þat oþere. 371 swch. scholde houi. 372 op on him st. þer up. don. 373 op on þe. bi leften al þe nyȝt. 374 songuen matynes. 375 Op on is rugge huy sounguen: heore massene. 376 eueuere houede(!). muche fichs. so vor stille fehlt. 377 þo st. As. heore st. þis. was: with. 378 monekus hadden. Massene. 379 onderne. daye. to þe schipe huy heom nome. 380 foulene. þat ilke day. 381 þo st. Anon so. þis st. þe i seiȝen. gonne singue. 382 Aȝenest. 383 &amp; fehlt. þe foul st. þulke. hem vor er fehlt. he drouȝ. 384 drem st. soun. winguene. murie. 385 auȝten. þonky st. honouri. 386 porueiez ou þeos. to habben on ouwer. 387 ouwer. for to st. to. 388 ouwer st. þe. ope. 389 And sethþe with. her fehlt. wokes. anon to st. uorte after. witsonen day. 390 fram st. to. to st. vorte. candele masse. yle of Aylbey(!). 391 &amp; fehlt. In þe se Occean:. schullen i wende. 392 þat oþur. seuen. 393 i seon. 394 And fourti sethþe
+<PB N="40" REF="24"/>
+þar inne: In ioyȝe ȝe schullen beon; dawes fehlt. 395 contreye. i wende. 396 With oute trauail al aisieliche. þare ower. 397 bi lefden þare. 398 procratour. þo fehlt. to hem cam: and (st. þ<SUP>t</SUP>). plente. 400 þere. wenden. 401 holie. hem fehlt. wenden. 402 betere. miȝten. 403 Am Rande: Pissis mala. Al so st. As. wenden In a. strong tempeste. 404 seiȝen. grislich. þ<SUP>t</SUP> fehlt. þe schipe he drouȝ. 405 out of.: after heom he caste, so die Hlbz. Die Reihenfolge der folg. Verse ist richtig. 406 þane st. þen. 407 He cam wolchi. porsiwede heom so faste. 408 So he schef with is breostene. weren. 409 criden. ore louerd st. ihu crist. 410 heore st. þe. swyþe st. uaste. cam. 411 And þo st. As. ouer take. &amp; fehlt. tolden. hore. 412 þare cam. wel fehlt. 413 He gan i mete. luþere. 414 þat he st. &amp;. partyes. atþe. 415 &amp; fehlt. þat ilke wey þat. cam. 416 þonkeden. weren i gladde von späterer Hand a. R. geschr.; Ioyuol fehlt. 417 So fehlt. wenden. gode st. holi. forth st. aboute. 418 weren. and heore. 419 Am Rande: Auis para∣disi. cam. luytel foul. 420 grapus. wel fehlt. he drouȝ. 421 liueden. hadden. alle fehlt. 423 weren i don alle: of hongrede huy weren sore. 424 bi þone. i seiȝen. þar inne. 425 and so ful was euerech bouȝ. 426 swuche. hadden. on þe grounde. 427 op of þis schip. &amp; of fehlt. he nam. 428 schipe. to libbe þer bi. it laste. 429 þer after fehlt. þare cam a gryp fleoinde: after heom st. vaste. 430 a saillede. uaste fehlt. in hore schip. 431 criden. and tolden luyte of. 432 i seiȝen. þat luytel. 433 þat heom; heom doppelt, da auch nach ofte. foulene. 434 i saiȝ heom come: he nas nouȝt a luytel glad. 435 foul von spät. Hd. a. R., fehlt im Text. nam. so st. wel. 436 And at þe furste dunte: he smot out eyþur eyȝen. 437 Sone he a slouȝ þis luþere best. doun in to. 438 ne schal it no wiȝt sle, wiȝt a. R., im Texte ist man wegpunktirt. 439 holie. wenden. here. 440 &amp; fehlt. þe heyȝe festes. euer fehlt. 441 In a seint peteres day(!), a tyme fehlt. gret feste huy maden with heore tounge. 442 And swiþe murie of seint peter: In þe se huy sounge. 443 Hi come fehlt. of þe se. 444 þ<SUP>t</SUP> fehlt. Aboute heo i seiȝen in eche side: 445 iheled fehlt. was on eche half:. at fehlt. al on hepe. 446 folgt erst hinter 448 in der Form: Alle þe fisches leiȝen stille: ase þei heo weren a slepe. 447 beden. 448 So þat. a weiȝte. þe fisches. laste. to fehlt. 449 Beo ȝe a ferde quath seint brendan: ȝwarof beo ȝe a drad. 450 Opon þe maisteres. i beon (st. Imad) wel glad. 451 And fuyr i maked op on is rugge. 452 holie. luddere. for þes ones ase þei. 453 sturten op with þis song: ase þei huy a woken a slepe. 454 comen. al fehlt. þis monekes st. þe schip. alle to one. 455 floten bi eche side. þ<SUP>t</SUP> fehlt. no water man ne i seiȝ. 456 bi setten þat. Ake no water ne cam þare neiȝ. 457 weren. And euere syweden it so. 458 þe ȝwyle brendan is. heo st. it. 459 ech fisch. 460 ȝwounder man. þat wide wole i wende. 461 þe wynd was boþe strong and stif; Inouȝ fehlt. heore st. þ<SUP>t</SUP>. so st. wel. 462 Al so feor ase heo miȝten seue nyȝt wenden: þ<SUP>t</SUP> clere water. 463 iseiȝen. se: ase. miȝten st. scholde. 464 hadden. þonkeden. 465 cam sone. northþe ward drof heom. 466 Riȝt euene with heom he was: and. he laste. 467 i seiȝen. deork. 468 Smoke stynkinde foule: and. 469 þo i heorden heo gret blowynge: of manie beolies þere. 470 þondre ase þei it were. 471 seint fehlt. sori Inouȝ: and. wel faste st. anon. 472 wyȝt: ful Atelich. 473 þoru out. brenninde. al fehlt. ope. is eiȝene. Nach 473 folgt: And tornede him a non a ȝen: þis monekes weren a gaste. 474 þat luþere wiȝt ȝaf. þat Men miȝten i heore him wide. 475 þare out swuche schrewes mo. wel fehlt. on st. bi. 476 ha∣meres. 477 Op on þe watere heo ornen faste: After þat schip ech on. 478 þo huy ne miȝten þare neiȝ come. gounnen to ȝeolle. 479 &amp; fehlt. hameres st. oweles. casten. 480 men. miȝten. fuyr: noþer iseo ne huyre (aus heore corrig.). 481 þe se was brenninde al a brod: ase þei heo were a fuyre. 482 Euer ech caste is owel op oþur: and some huy þrewen an heiȝ. 483 Huy þrewen alle a boute þat schip: ake non ne cam þare neiȝ. 484 heo tor∣neden alle a ȝein. spedden. 485 ek fehlt. a fuyre ase þei it were. 487 stunch. and longe i wis it laste. 488 þo þe smoke was sum del feor: þat heo ne iseiȝen
+<PB N="41" REF="25"/>
+non more. 489 Ȝeot heo i heorden heore ȝeollinge: þe þeoues weopen sore. 490 þinchez. seint fehlt. murie. 491 We nellez non more come þare neiȝ: þat on. 492 feondes st. deuelen. hopeden suyþe wel: habbe ihaued a wel god cas. 493 swete vor ihu. casten Aumbes as. 494 ȝuyt: and ȝuyt. euer fehlt. 495 i seiȝen. ane; hei fehlt. wel feor. þe. 496 Glowinde and brenninde smoke: gret stunch so. 497 leiȝe. of þe fur fehlt. stod op. ase þei. 498 þare. wo fehlt. in þat oþur stude: þare was ȝeot. 499 þe st. þis. þo bi gan. ȝeollen. 500 þ<SUP>t</SUP> fehlt. bi leue st. abide. 501 him fehlt. out of þat schip: and amidde þe se he gan weue. 502 him fehlt. þe watere. þat ilke fuyre. 503 ȝeorne nach cride. þat gret deol. huyre. 504 mi wrechche lijf. i st. ic. 505 In ioye ich habbe with ou i beo: ake i ne may nouȝt aȝen. 506 heo fehlt. ich. 506 ich am nouþe. 508 þe feondes comen him a ȝein. nomen þat. 509 defouleden. fuyre. 510 þo fond he soth þat seint b.: seide þo he. 511 his sunnes st. is lif. 512 faste st. stronge. þe st. þis. no þing huy. i seiȝe. 513 ȝuyt. weren. þare fram: no þing bote leyȝe. 514 tornede. and drof heom south ward faste. 515 stronge: þat seuen Niȝt fulle he laste. 516 wenden. i seiȝen at þen ende. 517 One. þare. 518 al fehlt. 519 Ant þo heo comen þe. of a gost heo weren i war. 520 Heo iseiȝe on ouewarde þe roche sitte: 521 wrechche. in stronge meseise. 522 i tild st. iteid. tweie tonguene. 523 To is chin tilde þe neoþer ende: þe wynd it wide caste. 524 þat euere ȝwane þat water. so fehlt. 525 Beot him. him blevȝ: þat wrechche gost in þen eiȝe. 526 of þe se beoten also. 527 A ȝeomerore. miȝte st. dorte. 528 to fehlt. him fehlt. 529 ore louerd st. god. mis don: and ȝwi he sete þere. 530: ich hote wreche Iudas. 531 ore louerd for panewes. on: eorþe with. 532 ake. 533 habben. her fehlt. as ȝe seþ fehlt. here in þis place. 534 þat ich dude. milce &amp; fehlt. 535 vor fehlt. I ne habbe nouȝt so. þat ich nere wurþe more. 536 brennynde hulle. eov isaiȝ. 537 be &amp; fehlt. to brennen Inne: boþe. dayȝ. 538 þis ȝeondere daiȝ. ower. þudere cam. 539 þare st. wel sone. 540 so glad; Inouȝ fehlt. and makede so g. l. 541 Ioie fehlt. þudere i come: and so neiȝ him i seiȝe. 542 huy doz. ani soule: is formest þudere i come. 543 þoruȝ godes. milce: þare fram ich am i nome. 544 for here ich am euer ech sonenday. þe fehlt. 545 For to euen song tyme þane soneday. i st. i<SUP>c</SUP>. 546 Ant at midewinter al so. twelfte. 547 Ant fram þe. ek fehlt. estur: þat ȝwit sonenday come al so. 548 Ant al so at. lauedi festes: so ful of milce heo is. 549 Ake alle oþure tymene. of þe ȝere fehlt 550 ant with heroudus: and also with cayphas. 551 Acorsed beo þe tyme: þat ich iboren was. 552 Ac fehlt. þe st. ȝou. þat ȝe fehlt. fonde on. 553 For to bi leuen here al þis: þat þe s. a. 554 And þat ȝe wyten. feondes. sone comieth aftur me. 555 We schullen schilde þe. 556 nouþe. hanguth her. 557 quath Iudas fehlt. and godes panewes ber. 558 a musel: and min owene. 559 For st. ac. with. panes. ant mine felawes i bouȝt. 560 Ant for. nouþe. 561 vor fehlt. So luyte ne schal man for him do: þat schulle beo i lore. 562 &amp; fehlt. ase ich me under stod. 563 þei it hangy bi fore me: it doth me. 564 vor fehlt. In mine eiȝene it bat sore: and doth hem. 565 Her fehlt. Man. ȝwuch. ȝyuen oþur mannes þing w. w. 566 manie of þis r. m. with onriȝte. 567 pouere. here ant þer. þar of st. suþþe. 568 for ȝite. 569 it heom turne schal: ant þat huy schullen i wite. 570 tonguene. þat ȝe so heiȝe i seoth. 571 Tweye p. is fehlt. on. and þare fore here heo beoth. 572 For man schal clanliche ech. he (st. me) doth. 573 þat ich op on sitte: and. 574 In one weiȝe ich hyne fond; ligge fehlt. non neode. no st. to. 575 In a fenni dich ich it caste: þat men miȝten þare ouer gon. 576 Fewe goddedes ich haue i don: of ȝwan ich nouþe may telle. 577 Nis non so luyte þat man ne may fynde: in heuene oþur in helle. 578 þe st. þen. feondes comen. 579 leden. þat sori gost: huy weopen ant ȝollen faste. 580 heonne. heo seiden. gode. here. 581 Lat. leden him. 582 dorren. noȝt fehlt. are st. vorte. habben. 583 þou wend. lete us. 584 ov: to don ouwer mester, so d. Hlbz.
+<PB N="42" REF="26"/>
+585 pouwer. 586 darst þou. feon (!). nemme. 587 him al so st. ek. grete. 589 þat ȝe ne derien. noȝt fehlt. are to morewe þat hit beo day. 590 Reu∣liche þe feondes ȝollen þo: ant hamward. 591 reufolliche: þat it was deol. 592 a non so þat. feondes comen. 593 ȝollen ant weopen: ant gonnen to chide faste. 594 Awey huy seiden gode man. 595 ower fehlt. here us so neiȝ. þe here founde. 596 haueth i pyned: bitterliche al þis nyȝt. 597 Ant swyþe strongue. brouȝten. sorie st. luþer. 598 u. 9 umgestellt. Ake we wollez þeos six dawes: doubli al is wo. And so we wollez a wreken us: for on him sulf it schal go. 600 þat wrechche. it was to seo oþur telle. 601 þe fendes nomen þo þis gost: Ant ladden in to helle. 602 Ant st. ac. 603 þat heo ne scholden for þat nyȝt: don him þe m. s. 604 Monekus. 605 ȝut fehlt. hem grace sende. 606 heo i seiȝen ane. 607 þat, ohne yle. 608 Powel þe heremite; he sede fehlt. 609 here he haueth. 610 comen. þis. heo wenden in. 611 so old man. 612 tilde doun to is fet. berde. 613 is bodi al a boute: riȝt nouȝt þare nas bar bi leued. 614 None. weren. 615 S. fehlt. Brendan stod and bi heold: and weop swiþe sore. 616 fehlt. 617 nouþe. of Aungele. ane. 618 þe hermite: for god doth wel bi þe. 619 schewez. 620 liuez muche: bi swunche of mannes honde. 621 Ant þou liuest bi godes grace: ant þoruȝ is owene sonde. 622 &amp; fehlt. Abbeye. paterich. 623 churche a wardein. 624 ich eschte him. 625 He sede ich am. Abbot: ne haue of me no fere. 626 oþur man. paterik. min Abbot nis. 627 No fehlt. quath he a ȝein: ne haue of me no drede. 628 To morewe he seide ȝwane it is day:. iwende. 629 Al ȝare þou schalt finde a schip: þat god. 630 Ant do. in þe se: in þine schipe wide. 631 &amp; fehlt. þe lede to. 632 a fehlt. ich oup a ros. holie. 633 And þo ich cam to. þat schip. 634 bad st. let. 635 þe seuenþe dai. yle. swete fehlt. me hydere. 636 þo st. anonso. þat st. þe. þane wei a non ich nam. 637 Riȝt euene þoruȝ godes grace: so þat ich hidere cam. 638 ȝeode here. &amp; fehlt. nadich. 639 on st. vp. hindore. An Otur. 640 Bi twene is forþere. a fuyr Ire ant a s. 641 þare with to smite me fuyr: and fisch he brouȝte sethþe guod won. 642 otur fehlt. sone a ȝein. wel fehlt. 643 þre dayes it i laste; þ<SUP>t</SUP> fehlt. 644 þene st. þe. 645 ich hadde. þar on. 646 watur. stone. 647 sprong out of eche daye. wasche. 648 u. 649 umgestellt. 649 bigan furst hire to schewen: þat þou. her fehlt. 648 Here ich habbe þritti winter: In swuche. 650 u. 651 umgestellt. 651 I leoued. nou fehlt. 650 are st. þo. 652 and twenti ȝer þare to. 653 Ich am nouþe bi þis tyme: ore louerd is wille bi me do. 654 here.: ȝwane god it wole sende. 655 ȝwanne mi louerd. ich come to him. i wende. 656 Ake nim. 657 wiend þe forth. uaste fehlt. al ido. 658 ȝeot. 659 þine Ester. i don are. 660 And fram þanne. wiende. londe. 661 bi leuen atþe. 662 owene londe. wiende. 663 þus de parteden. 664 holie. wenden hem. in tempeste wel faste. 665 þe ȝwile þat. 666 To heore guode procratour. 668 huy comen. 669 þe st. þis. a moruwe. gounne. 670 songuen. matynes. 671 þe fisch. meouen. al ido. 672 swam swiþe faste; uorþ fehlt. 673 grete fehlt. wel stuyrneliche. þe st. þis. weren. 674 seo st. mete. 675 wiende: ase it were a gret contreie. 676 Riȝt to foulene. 677 þer al fehlt. hole and sounde. 678 þis monekes þo huy þudere comen: wel glade and bliþe huy were. 679 aftur. huy bi lefden. 680 for heore guode procuratour: þulke tyme brouȝte heom mete and drinke inouȝ. 681 ofte fehlt. &amp; fehlt. into. he it. 682 And al so he wende. with. ȝwodere so god heom. 683 þe est. dayes. 684 þe st. þis. daiȝes weren a gon. 685 A st. &amp; mijst. swiþe longue. 686 procuratour. makiez grete. 687 for ichot wel þat ȝe beoth: in þe londe. 688 comen. derke fehlt. Mijst. miȝten. 689 In þe faireste. weren. þat euere miȝte beo. 690 Ioye þare was. 661 fulle. fruyt. 692 i set with treon: þe treon wel faire were. 693 applene weren. alle fehlt. 694 londe. gounne i wiende. 695 In none half huy ne miȝten finde. 696: heom þouȝte and neuere more nyȝt. 697 Huy ne founden in none stude: neuere so muche
+<PB N="43" REF="27"/>
+liȝt. 698 eyr. naþur. 699 Bote þe Ioie fehlt. ȝwat huy þere founden beon. 700 comen. watur. nolden. i wiende. 701 fehlt. 702 þo cam to heom a. hiende. 703 Fairore ne miȝte neuere non beo: ase god him gan þure (!) siende. 704 wel comede euerech bi is name. 705 Faire he h.: and on is hond him nam a non. 706 here þe lond. so wide. 707 &amp; longe fehlt. nele nouȝt: þat ȝe here Inne longue þus a bide. 708 schullen in þe se. priuetez. 709 Chargiez ower schip with of þis fruyt. mouwen. here. Nach 709 steht der Vers: To seint Brendan he seide and spak: þis ȝounge man fair and hende. 710 vor fehlt. owene. i wiende. 711 out of. lijf. neiȝ atþende. 712 watur. here. world st. lond. 713 þeos st. þis. þinchez. and bi ȝeonde half al so. 714 ȝe ne mouwen nouȝt comen a ȝend half. 715 Ake þis fruyt þis lond. briȝt. 716 manere. haueth. 717 And ȝwane alle manere men knowez him: and vnder stondez is lawe. 718 þat lond. worldes. 719 next fehlt. to him i core. heonnes i wiende. 720 ad st. &amp; monekes st. felawes. token st. nome. 721 stones al so. hore. it caste. 722 nomen. þo al þis was ido. 723 wop and sor and deol i nov: departeden. þus fehlt. 724 wenden. 725 &amp; fehlt. wel sonere ich wot hom huy come: þane. 726 breþren. comen. Ioyfule weren. 727 Seint b. þe holie man. 728 neueref aftur. 729 of st. in. worlde. 730 And st. he. sone in yrlaunde. aftur. 731 Mani fair. men habbez sethþe. þare st. seþþe. 732 And a fair Abbeie þare is a red (!). 733 God bringue us to. þat st. as.</P>
+</DIV2>
+<DIV2 N="Ms. Bodl. 779" TYPE="textual variants">
+<HEAD>Varianten von Ms. Bodl. 779. fol. 1.</HEAD>
+<P>Die Ueberschrift ist fälschlich Seint patric þe holy monk.</P>
+<P>1. Brandan. monk st. mon. was ȝond in erlond. 2 hard lyf. ich ondir∣stond. 3 Of fasting &amp; of penauns: an abot he wex þere. 4 monkis. alle ondir him. 5 hit fil on. oure lordus. 6 barnyt. com to him. 7 hym by souȝt, anon fehlt. 8 &amp; telle him of þ<SUP>t</SUP> he say: In oþer onkouþ londe. 9 goodmon. herde. syking. Inow. 10 gan. gret þouȝt. In swou. 11 his armys. 12 for to. him fehlt. 13 fadir. seyde. parcharte. 14 Hedir þou. oure. soch dol. 15 vs. what. aboute hast sente (!). 16 mochel. sente. 17 Now. see of occyan. grest. 18 he goþ. al fehlt. alle oþer. sees fehlt. 19 man. of st. at. ground. 20 what he þer I fond. 21 ich hadde. mermot. 23 his wil (st. herte). preuy stede. 24 þat st. þer. myȝt. serue godd<HI REND="italic">us</HI> wille. 25 by my. went. drowȝ. 26 þat is delitable. 27 mountayn of tones. þat is knowe. 28 þ<SUP>t</SUP> fehlt. good mon. þ<SUP>t</SUP> st. þis. 29 oþer st. of. 30 &amp; whanne st. Anon so. þis st. þus. þedir ich wente (d. folg. Wort ausgerissen). 31 uisiun. gode st. suete. 32 er st. as. to him fehlt. iorneyȝes. 33 dede vs in to schip. euer st. euene. drowȝ. 34 w<SUP>t</SUP> turmens. 35 þe est. wente. at þe. 36 cloud. 37 atyde. wer we. 38 gode st. suete. forþ he vs gan. 39 syȝe anewe lond: &amp; þedir oure. 40 bryȝtur hit þouȝte þan. Ioyȝe. 41 of tres &amp; erbis. stood. syde. 42 preciouse. þat schinyd by ech syde. 48 vche erbe. ful of flouris: vche; &amp; fehlt. 44 But. þer nas neuer more delyt. 46 þou hit vs þouȝte lyte while. myȝt. 47 bryȝt. 48 fromward þe. to st. toward. 49 stood. be held. myȝt. noȝt fehlt. 50 swyþe fayr. 51 he welcomed vch echon: wel myldelich. 52 &amp; nempned ich monn<HI REND="italic">us</HI> ryȝt 53 auȝte. ful wel þonke w<SUP>t</SUP> ryȝt. 54 scheueþ ȝow his preuite: &amp; so moche of his myȝt. 55 þis lo þ<SUP>t</SUP> lond is þ<SUP>t</SUP> he wol: er þe worldis ende. 56 derling<HI REND="italic">us.</HI> on erþe ȝeue. hider fehlt hy scholle. 57 þat st. as. so st. wel. 58 by ȝinde. þe vor h. fehlt.: in þat oþer syde. 59 ȝe ne mowe. 60 &amp; fehlt. ar ȝe. al a ȝer. metles. 61 drinke. slep, ohne noȝt. ȝoure yȝe. 62 ne greued ȝow nouȝt. syȝe. 63 þis is. godd<HI REND="italic">us</HI> preue. þorw. is al þis lyȝt. 64 schal be st. worþ. her fehlt. neuere more. 65 godd<HI REND="italic">us.</HI> 66 ȝit. ofspring. 67 Here ne mowe ȝe no lenger be leue. mot. 68 þou it ȝow þenke lyte whyle: ȝe habbeþ be here wel ȝare. 69 brouȝt. oure. 70 nyste wher. becom. 71 ward
+<PB N="44" REF="28"/>
+fehlt. wente. oure. hit aþouȝt ous. 72 &amp; anon to þese. þe schip ful euene. 73 ȝernede a ȝens vs. þey st. hi. se. 74 had. long. be. 75 þat we u. 76 þe ȝates of: sind ausgerissen. 75 ioy. 76 paradis. 77 be hote hem: þ<SUP>t</SUP> he loueþ here. 78 euer day. lem. clere. 79 quaþ þese. 80 by þe swete smel. þat ȝe haue þer I be. 81 Initiale. herde þis: he þouȝt hym &amp; stood w. s. 82 he þouȝte fonde mor þer of. wer. 83 aboute st. among. twelue. 84 triste to most. whanne any nede hym com. 85 twelue. nom st. clupe. 86 u. 87 fehlen, wie im Ms. Harl. 88 Seye what ȝoure conseyl is: to swych a dede; do fehlt 89 quaþ þese oþere: oure wil. 90 oure frendes &amp; al oure gode. clenlyche. 91 &amp; wende al oure ded<HI REND="italic">us</HI> In þe. wilt. so be. 92 we chal blelyche. 93 þ<SUP>i</SUP> st. hi. 94 bed. þylke veage. 95 He let mak hem agret chyppe. 96 hydyn. &amp; fehlt. I nayled. 97 &amp; þer to pyched. 98 þ<SUP>i</SUP> st. hi. here breþeryn: &amp; here leue fayre nome, wel fehlt. 99 chyp þey. 100 Here breþeryn. be hynde. sory. 101 &amp; þ<SUP>u</SUP> whan þ<SUP>i</SUP> (!). ȝut fehlt. chyp. com. 102 bade, hem fehlt. þey. þ<SUP>t</SUP> way. do st. go. 103 quaþ seyn brandan. ac ȝoure on chal atte nende. 104 repenty. quik. 105 him fehlt. man: whedyr. hem sente. 106 twei fehlt. com. 107 occean: norþe þey rowe. 108 noþyng were. 109 se st. wynd. chyp. whylle st. wille. wynde. gret st. good. 110 drof est norþ st. uorþ: wel euene here chyp drouȝ. 111 aȝen fehlt. a ryseþ: amyd∣somer<HI REND="italic">us.</HI> 112 þ<SUP>o</SUP> ne wis non of hem wher. ne fehlt. no lond þey ne say. 113 est norþ (!). daws. 114 þey seye. hyl st. Ile. atte. 115 hard. in st. aboue. hye. 116 dayes þey wente. þey myȝt. nye. 117 a lytel hauen. þey founde þor. þey. 118 þey. alond st. aboute. as masyd men: þey ne wiste wher þ<SUP>i</SUP> were. 119 þo com þer go. wer. 120 &amp; at. brandan<HI REND="italic">us</HI> feet fel, he fehlt. mad. fayr. 121 oueþ st. dorre. 122 I wot. þ<SUP>e</SUP> st. þen. 123 led. 124 strong st. starc. swythe. wel fehlt. þay st. he. 125 þese st. þe. 126 fychs þer on. þ<SUP>t</SUP> he nas. 127 þey. lyst. 128 al redy made. þere st. hor. 129 wyse. 130 slepe. 131 aȝen fehlt. to þer schyp. 132 eny fehlt. 133 Initiale. sey þay as be. 134 w<SUP>t</SUP> wel fayre, a fehlt. þedirward here chyp. 135 In þis fayr londe. be held. 136 fayreste chep. eche. 137 grettere þan. &amp; whyttere myȝt non be. 138 here herte: þ<SUP>t</SUP> þey myȝt þis chep se. 139 þan com þer gon. grette. fayr. 140 sayde. here. þere ȝe neuere were. 141 y cleped. lon st. lond. 142 Mechele &amp; whyte &amp; gret. aboute st. al day. 143 ffayrere hue. grettere vnlyche. 144 mery wedir. &amp; lese swyþe ryche. 145 Here is neuere winter non: ne non haþ I founde. 146 þey ete. also fehlt. newe: al so hi springe on þ<SUP>e</SUP> g. 147 ne men ne gaderyþ. þer st. hor. mylk. þey chold. 148 ffor þese þyng<HI REND="italic">us</HI> &amp; many oþere. þey. I þe. 149 stede. cholle. heþyn st. henne. þorwȝ. 150 foul<HI REND="italic">us</HI> paradys. 151 chol. &amp; þis whit sonday. 152 veage wer. 153 Sen. breþeryn þen: to chip. 154 rowe fast norþ. tempest<HI REND="italic">us.</HI> 155 þey seye be þ<SUP>e</SUP> osyde. 156 Here. þoruȝ. euene þedur. 157 it com st. hi come al most. op aroche. 158 be leued. 159 þ<SUP>e</SUP> st. þis. woke vp þis ile (!). 160 þese m. here. þey. 161 here (st. hem) fere &amp; sethe here fychs. fast. 162 soþe. a gast. 163 vor fehlt. þo þis fyr was þorw out hot: þe eyle quaked. 164 ire st. eir. hipped. ichon. 165 u. 166 fehlen. 167 þey be held houȝ þe yle. see. 168 hinter 167. &amp; fehlt. quik. hupte fehlt. fer from hym. 169 to whyle þe fer laste. 170 þe st. þis. sey þe fer long. wel sore. 171 þey. 172 be stille. gode st. holi. for nouȝt ȝe ben afere. 173 Ȝe wene. &amp; st. ac. þenkeþ. 174 of þis grete see: þe grettest. 175 Jascom. I cleped. 176 To pot. mouthe. ac st. &amp;. gretnesse. 177 hue reuȝ. see. est st. west. ful faste. 178 dayes. þey se lond. 179 sey. ryche st. þicke. 180 glad. þo þey it se. here chyp þedir. 181 wonede st. wende. lenger. ich. 182 place st. stude. noble st. vair. 183 By st. In. stood. brood. hyȝe. 184 swiþe fehlt. fayre I nouȝ. þykke wer eche. 185 þat vnneþe hue myȝte anylef: þer on I se. 186 blysse. 187 wepe. on kne. 188 bad. to fehlt. chewe. swyche. myȝt. 189 a lyte foule. se st. te. 190 fyþele. wengen ferþe. 191 Meryere Instrument neuere ne was: þanne his wyngen were. 192 be hyld. fayr. 193 I bidde þe. 194 þat þou sey
+<PB N="45" REF="29"/>
+me what þ<SUP>u</SUP> art: &amp; what þ<SUP>u</SUP> dost her. 195 al þey. kynde. answerde. 196 aungel<HI REND="italic">us.</HI> ichon. 197 Ac al so sone as. 198 Lucifer for his fayr stede:. so sone. 199 euere as þeyre dede was. 200 fylle st. velle. ac for no synne. 201 Ne for. ensentede vnryȝt. 202 bot sych men for to cheue; soulement fehlt. myȝt. 203 ne we ne. here. Inou fehlt. 204 ney fehlt. oure lord swete. myȝt. we fehlt. I seþ. 205 &amp; be þe oþer syde we fle a boute: &amp; be þe lyȝt al so. 206 eke. for to. 207 gode st. good.: þ<SUP>e</SUP> yuel leþer takeþ. 208 rest. sych forme we takeþ. 209 fourme. swyche whyte foul<HI REND="italic">us.</HI> her fehlt. 210 &amp; fehlt. onoureþ. here on þis brode tre. 211 passed nouȝ. 212 alle. sex. cholleþ. ar ȝe bryng ȝoure wil to ende. 213 ffor whan ȝe haue wend þis seuyn ȝer. wille ȝou. 214 A syȝt. haueþ. atte seue 215 cholleþ be. &amp; holde. 216 nouȝ. byheste. 217 on st. an. alle þis. 218 tok st. nom. of hem. felauys wend so. 219 þese foul<HI REND="italic">us.</HI> be gan here euensonge. 220 Mur∣gore. þey. hym self. hadde be hem amonge. 221 þe st. þis. slep. here. 222 matynes. þey arese. 223 þese. song. maten<HI REND="italic">us.</HI> 224 swyþe = seþþe. alto. 225 &amp; vnderne swyþe. swyþe. 226 &amp; eche tyde song of þe day. chold. 227 þese. In þ<SUP>t</SUP> lond: þe eyȝte weke also. 228 whit sonday al so (st. ido). 229 atte trinyte: þis god man to ham þer. 230 to st. wiþ. chepe. ledde. er st. þar. 231 &amp; charged. wit. 232 tok st. nom. him fehlt. 233 breþeryn alle so. 234 wit hem þer. þem to. 235 haue. 236 trauayle. þe st. ȝou. eft ohne sone. 237 ȝe chol after al þis: I se a fayr ile. 238 þat abbay is icleped &amp; is: henne many amyle. 239 be w<SUP>t</SUP> holy mem. 240 ȝoure ester eue. held. wer st. duden. 241 Vppon. rygge: þer of þe monk<HI REND="italic">us</HI> wer In fere. 242 ȝoure. nouȝ. 243 Initiale. 244 grete se. þem st. hi. 245 turned st. harled perel<HI REND="italic">us.</HI> 246 here lyf. þey st. hem. wyder. 247 þis fehlt. foure. see. þis st. swiþe. 248 þat þey ne seyȝ. but. 249 seyȝ. fro st. fram. 250 most. 251 In te st. ȝut. 252 þey wente. þey myȝt. nyȝ. 253 þ<SUP>t</SUP> hem þouȝte here lyf was lore. 254 his help bad. 255 lytyl. strit. fond. atte. 256 þer st. hor. þer in. 257 þese. wel longe hem þouȝte her. 258 be held alle aboute: wel mery hem þouȝte þer. 259 seyȝ to fayre wellyn. þ<SUP>t</SUP> on. clere. 260 þ<SUP>e</SUP> st. þis. þo ȝede nere. 261 þat st. þis. seyȝ. 262 wit oute. nyȝ. 263 þer inne. for wit þeyre good wille. 264 þey willyþ parte. wit. bere ȝouȝ st. beþ ȝe. 265 Initiale. old fehlt. þer com gon. 266 welcomede. fayr. sen kyste. 267 tok. ledde. by. al be þe fayr waye. 268 in fehlt. a stede swyþe fayr: to an abbaye; &amp; seþþe fehlt. 269 Sen. asked. 270 maner. wit inne. who woned. 271 hym was. ne fehlt. answere. 272 seyȝ þey. &amp; fehlt. croys. 273 wit tapris. 274 Reu<HI REND="italic">er</HI>ced. fayr cop<HI REND="italic">us.</HI> þey come anon. 275 wit. fayr. abbot. 276 fayr. sen. by þ<SUP>e</SUP> hond. 277 fayr st. noble. 278 doun a rau. wessche. 279 wesse here fete. 280 freytour. ledde. hyȝe. 281 I melled it is oure couen te. 282 serued. brouȝte st. vette. 283 lof &amp; sette: be twene to. 284 whyte. erben: be fore hem þ<SUP>i</SUP> sette al so. 285 Swettere. kneuȝ. 286 cler wele. sey. þese. 287 nouȝ. abbot. nouȝ. 288 of þilke water. wolde here. 289 beter drynke, to fehlt. whanne. ȝouȝ. Nach 289 folgen die Verse: þan ȝe it þeflyche nome: as ȝe hadde er I þouȝt. þis bred þat ȝe ete nouȝ: we ne wot whenne it is. A straunge man it brynges eche day: to oure celer I wis. We ne weteþ nouȝt but hope on god: whan it is vs I brouȝt. 290 who so. chal fayle. 291 ffoure. whanne. alle fehlt. 292 Twelue swyche. euerychday. Men brynge. ete st. mete. 293 Atte. euerych. oþer whan it sonday is. 294 Men st. he. iche monk. hadde st. haþ. 295 þat iche frere. kepe st. wite. sopere. 296 For þe. I dobled. nouȝ here. 297 ac mochedele hadde vn ete. 298 iche. sende. 299 Suythþe seyn paterik<HI REND="italic">us</HI> day: &amp; sent albon al so. 300 be here foure. ȝere. 301 euere seþþe oure lord þorwȝ his grace:. ichon. 302 wedir merie. &amp; sekenesse is þer non. 303 whenne. tendeþ. 304 &amp; oure taprus beþ neuer þe les: þou þey bren. 305 þey rese vp &amp; to þe chirche wende. 306 frer<HI REND="italic">us</HI> st. monekes. atte. 307 houȝ. why ner þese nauȝt wit vs. 308 fadir. abbot. sayde. nede. 309 þer ne willyþ but foure.
+<PB N="46" REF="30"/>
+fraytur. 310 &amp; fehlt. whanne ȝe ware þere w<SUP>t</SUP> vs: þey ne myȝt nouȝt alle so. 311 þe whyle ȝe (st. we). þey (st. þes) wille. 312 þey cholle swyþe. when þey habbeþ ete here mete. 313 Sen. by held þayre fayr. þouȝt. alle. 314 Auter chalys &amp; croys: alle cler cristalle. 315 taprus. þer fehlt. nomo. 316 syngende (st. seges) ek: to whan hy cholde go. 317 wer foure. þat iche hadde his. 318 abbot<HI REND="italic">us</HI> sege. was fehlt. 319 Sen. asked. abbot. 320 sylence. 321 abot. here. 322 Foure. swyche lyf: as ȝe may here. 323 &amp; st. ac. was st. nas. among<HI REND="italic">us</HI> vs: alle:. In non wyse. 324 bot. seruyse. 325 Ne we ne were neuere In. sek. 326 sen. herde. he wepe for ioye anon. 327 fadir. godd<HI REND="italic">us.</HI> mot. 328 nomanere. 329 Nad. I cheued. 330 ȝit. Ireland. þy twelue breþeren. 331 ile of acres (!): þe tretur (!). 332 four∣tenþe. quik. wit outen. 333 a fire. at o. 334 As þo. cam. tapres. ichon. 335 &amp; fehlt. flei riȝt fehlen. atte st. bi þulke. fenestere. 336 tapres brende long. &amp; neuer þe lasse nere (Ms. uere). 337 ich wondir. 338 þese tapres brenne. waneþ. 339 Initiale. Nastou quaþ þ<SUP>e</SUP> abot nouȝt. old laue. 340 houȝ m. sau a tre brenne: fram croppe. 341 &amp; fehlt. tre st. þorn. grennere. 342 wenestouȝ. as myȝty her as þere. 343 þese. gedere. were st. was. 344 þe twelfþe. þey partede ato. 345 illary. sen. 346 see: whyder god þam sende; þoru grace fehlt. 347 þay rewe. see. hyȝe. 348 ffram þylke tyme forþ fer In lente. þey ne syȝe. 349 he be held. 350 þey seyȝ. ver fehlt. atte. 351 þis cloude. 352 er þis ȝe. be þere. 353 þer st. þis. meche. 354 foul<HI REND="italic">us</HI> paradys. &amp; fehlt. 355 here chip. 356 schire þoresday þey. þedir. trauel. 357 gode fehlt. þem st. hem. welcomede hem. 358 kyste. ichon. 359 &amp; sette hem swyþe. 360 as swyþe he wessche here al þer fet: here matenes to do. 361 alle here maunde þey held þere: &amp; þere be gonne byleue. 362 a good fryday al þe day. 363 procouratour. bad. chyp. 364 resurexioun: on þe fyschis ryg. 365 he ladde hem euene to. 366 as he hadde er I do. 367 hem fehlt. Ms. norþ st. uorþ. godd<HI REND="italic">us</HI> grace. 368 fysch: wel sone þey þedir come. 369 as a londe it houed. ek fehlt. 370 As it be leued vppon his rygge: of þat oþer ȝere. 371 sych. hou<SUP>e</SUP>. 372 soffre. vppon hym st. þer up. alle þer wille. 373 þe st. þis. vp þe fysches rygge: beleued al þe nyȝt. 374 maten<HI REND="italic">us.</HI> euen song. seþþen. 375 þey songen: here messen euerychon. 376 euere. mechil. so vor stille fehlt. 378 þese. here messes. 379 ondren. þe wey to chip þey nome. 380 þe fehlt. paradis. þylke. 381 Anon þo. sey. þey. ich one. 382 melodye. wer. 383 aȝen þem. 384 his weng<HI REND="italic">us</HI> murie. fayr. 385 ȝe oneþ. he sede fehlt. honoure: myd. 386 porueyeþ. þis fayre stedes. þer In. ȝour. 387 messe st. maunde. 388 suþþe. vppo þe fisches ryge I do. 389 here. VIII weke. for to, after fehlt. whit sonday. 390 fram st. to. to st. vorte. þe nach of fehlt. 391 þe gret see. occean. trauayle. chulleþ. 392 &amp; In pyne alle þe. for to somer<HI REND="italic">us</HI> ende(!). 393 wille. 394 &amp; ȝe. 395 contre. chol. 396 als eslyche. a noye. þere ȝoure. 397 man. be leued. 398 procouratour. þo fehlt. her st. euer. In gret plente. 399 brouȝt. 400 chargid. 401 þan st. hem. norþ st. uorþ. cholde st. wolde. 402 þey myȝt. 403 vp a tyme. 404 fysche þey seyȝ. greslych. 405 bernynge fom of his mouþ: &amp; of his nose he caste. V. 408 folgt hinter 405. 406 u. 407 fehlen. 408 brest. chof. 409 &amp; cryde ȝerne on Ihū crist: &amp; seyn brandan al so. 410 chef. almost. 411 told. þer st. hor. 412 þer com swymmende swyþe. 413 encountred. leþer. 414 bouke. atte. 415 &amp; þat way as he er com. forþ st. aȝen. 416 þese. þanked. 417 sely st. holi. 418 a hongred. 419 lytel foul. brouȝt. 421 þese grapis. sen. goodman. 422 þer wit þey leued fourtenyȝt. al st. alle. 423 þese grapes. alle Ido: &amp; (st. hi). 424 Be þe o syde þey seyȝ. ny st. Inne. 425 fayr tres. ful st. þicke. eueriche bowe. 426 swyche. þey. to þe g. it drowe 427 Sen. vp of þe chip. &amp; of fehlen. þe grapes he tok faste. 428 hem to his chip. to libbe by fehlt. daues. it laste. 429 þer vor com fehlt. gryp. 430 asaylede. fle st. sle verschrieben. 431 told. her lyue. 432 alyte foule. 433 paradis. 434 I seyȝ. he nas nouȝt alyte glad. 435 lyte. to þe grype. nome his dynt. 436 hym ȝaue. eyȝe. 437 þe leþer best þo he. dun fehlt. In to þe see.
+<PB N="47" REF="31"/>
+438 wil haue I saued. sle. 439 man. see. 440 foure sted<HI REND="italic">us:</HI> In reste euere. 441 Initiale. of seynt petrus. wit here. 442 þey. peter. seruise. 443 Hy com. of þe see. þey founde. 444 þey se þer on by eche. 445 þouȝt. grounde. fysche. al fehlt. at on. 446 þat men ne seyȝ. grounde. but. hy. 447 þese. sen. 448 weyȝte. þe fysche. breke, ohne to. 449 What be ȝe. war of be ȝe a drad. 450 ope þe mayster<HI REND="italic">us</HI> ryge. 451 anoward his rygge. fram ȝer. 452 lodder. non<HI REND="italic">us.</HI> 453 storte. wit st. uor. as þey hadde wake of slepe. 454 flote st. come. alle. as it were at an hepe. 455 flote aboute on eche half. men st. me. ne fehlt. syȝ. 456 be set. alle. þey com; ne fehlt. 457 seuede. 458 messe. alle st. al. 459 whenne st. þo. alle. iche. 460 Meche wondur men. wele. 461 þe wynd. 462 Als fer as. cler. 463 u. 464 fehlen. 465 souþerene. 466 euere (st. euene) forþ. þey newiste whedir. laste. 467 seyȝ þey. 468 Smoke. 469 belyes. 470 of noyse, of st. &amp;. 471 So þ<SUP>t</SUP> seyn brandan sore a gast. wel faste st. anon. 472 wel gresely atte. 473 þorwȝ out swart &amp; brennynge. al fehlt. vp vs his eyen. Nach 473 folgt: &amp; turned hym In a non aȝen: þis monk<HI REND="italic">us</HI> were a gaste. 474 men st. me. 475 com. swyche. þyk be iche syde. 476 hameres. bren∣nynge. 477 brymme þey ronne. see: after þis chip ichon. 478 nere. to ȝelle. 479 tong<HI REND="italic">us</HI> st. oweles. brennynge. þese monk<HI REND="italic">us</HI> st. þis men. 480 men. but fyre. I se no I here. 481 ek al a fere. 482 Eueriche. vppon. þese tong<HI REND="italic">us</HI> al on hyȝe. 483 &amp; fehlt. nyȝe. 484 turned. 485 alle. þouȝt. a fyre. 486 see. brende:. 487 stenche. 488 hue st. hi. myȝt. namore. 489 ȝit. þe chrewe wep. 490 houȝ þynk ȝouȝ. mury. 491 willeþ. uor fehlt. 492 deuel hoped. I had. 493 &amp; st. ac. I heryed. hy cast. aumbȝ as. 494 Initiale. lasted. 495 þey se. hei fehlt. hylle. þe st. þ<SUP>t</SUP>. 496 grete stenche st. muche wo. 497 ley. fer. stood vp an hy. 498 meche. þ<SUP>t</SUP> st. þen. þan was þer w. m. 500 myȝt. lenger. 501 stirte st. hupte. vp st. out. see. 502 ran. oppon þe. toward þis grislyche fyre. 503 He cryed &amp; ȝelled. del fullyche. dol. 504 wrecche. I se st. i<SUP>c</SUP> seo. 505 ich habbe. nouȝt st. no leng. 506 heo fehlt. bare. I st. i<SUP>c</SUP>. 507 fadir. ich am nouȝ. 508 þe deuelyn come. tok st. nome. þe st. þen. 509 defouled. strong. amyde. 510 sen brandans seide: (him fehlt). 511 fayled. 512 So stronge þis mountayne brennes: þat noþyng hue ne seyȝ. 513 þo þouȝte þey þere fer þer fram: but fyr &amp; leyȝ. 514 torned. 515 gret st. strong. 516 þy se st. hi seie. atte nende. 517 hard. 518 cast. alle bare. 519 þo þay come þe roche nere. I ware. 520 anouward þey seyȝ. þe roche fehlt. whanne. 521 a wrecche gost þey se naked: &amp; mys ese I nouȝ. 522 wit to tongen. 523 In eyþer. tyld. 524 &amp; (st. þt) whanne þe water. hynge heye; so fehlt. 525 bleuȝ: rulyche st. þen wreche. his eye. 526 waues. beteþ. by fore &amp; be hy hynde (!). 527 wreccheder. þan. dorst. 528 Sen. on st. a. 529: &amp; why he sette þere. 530 dolful. 531 þat for XXX plat<HI REND="italic">us</HI> oure lord sold. on st. an. wit. 532 ouere lord. 533 haue here. þis st. þisse. 534 ich haue. but. myȝt st. milce. 535 myȝt haue. I ne habbe. 536 hulle. ich. 537 ryȝt. 538 þere ich. þedir. 539 þe pyne. 540 was þo. þat þey mad a gret leyȝe. 542 So haueþ þey whan any. þedur. 543 hyȝe myȝt. þenne nouȝ. 544 iche. 545 here ich. 546 for to þe twelf day be do. 547 &amp; fram þe bygynnyng. ek fehlt. of þe ester. white sonday. 548 &amp; fehlt. leuedy. eke. meknesse st. milce. ȝhe st. heo. 549 alle. ȝer. 550 erodes. cayfas. 551 ich. a corse. 552 bydde. fonde. 553 by leue here. 554 &amp; þat ȝe. come. 555 cholle chelde (st. wite). 556 Initiale. clout st. cloþ. hy st. heie. þare. 557 pans bare. 558 a mesel: &amp; for myn oune it was nouȝt. 559 wit. breþeryn. 560 ȝaf it. be fore. 561 men ne chulleþ. noþing fehlt. for hym do: þyng þ<SUP>t</SUP> chal. 562 ac for it of oþer mann<HI REND="italic">us</HI> was. vnderstode. 563 þou st. þei. gode. 564 beteþ. 565 Here men may se what it is to ȝeue:. 566 williþ. wit. 567 of þer men. almesdede swyþe. 568 þey do. ne chal it nouȝt be for ȝyte. 569 hyȝ (st. hi) chulleþ. 570 tangen. quad. þat ȝe se hongeþ an hyȝe. 571 prestes iche is ȝaf. &amp; þerfore here beþ hyȝe (!). 572 clenliche. men. iche st. al. men doþ. 573 vppon ich sitte. 574 way. ich hym fond ligge. nede was. 575 I cast it In a dep dyche:
+<PB N="48" REF="32"/>
+þat men myȝt ouer gon. 576 good ded<HI REND="italic">us.</HI> ich haue. iche may. 577 lyte. fynd here: oþer. 578 euyn þe deuelyn. 579 to st. vorte. ȝellede. 580 Wende. 581 Lete. haue. 582 dur st. dorre. ar st. vorte. 583 lette vs; þ<SUP>u</SUP> fehlt. 584 sen.: ne wyte þ<SUP>u</SUP> nouȝt here. 585 powere. 586 dorstou. deuelyn. neuene st. nempne. 587 be trayede. eke: to deyen. chame. 588 Sen. ich hote. I may. 589 þat ȝe ne. 590 Gryselyche. deuelyn. 591 þonked petus∣lyche. dol. 593 Gryselyche þey þolle &amp; cride al so: 594 goodman. 595 her owher. þe her founde. 596 al þis longe nyȝt. 598 chulleþ. vppon hymself. 599 schulle þis syxe daues: þer for double. 600 wrecche. ruþe it was. 601 deuelyn. tok hym wel egyrlyche: &amp; bar hym forþ to. 602 sen. 603 ne hadde. 605 In to st. ȝut. 606 þe ferþe dayes þey se an ile: al souþ an hyȝe. 607 sen. I seye. 608 ermyte. ich se. 610 þay st. hi. þis st. þisse. þay wente ichon. 612 feet. hyng st. tilde. 613 heled. nouȝt bare by leued. 614 hadde st. nadde. lem<HI REND="italic">us.</HI> 615 began syke; to fehlt. 616 Allas. 617 nou fehlt. lyf of an aungel: aman iche I se. 618 doþ. be þe. 619 cheueþ. 620 lyueþ fehlt. be þe synk. oune. 621 leuest: 623 chirche. 624 ich asked. 625 abbot. haue st. naue. no fere. 626 Non oþer man þan. myn abot nys he seyde (!). 627 ȝe ne þur. 628 aryse sone dawes. 629 þere st. ȝare. 630 þylke schip. 631 wele st. wole. þe vor stede fehlt. 632 Son. he aros. þis st. is. bon. 633 fforþ he wende. he fond. son. 634 þe schip worþe. 635 þe soneday In to. 636: þe same way aȝen. 637 ryȝt as ich heder com. 638 elenge I ȝede. alon. 639 an oter. 640 Wit. a feriren. a ston. 641 fyr þer wit. fysche. 642 wente anon aȝen. I made fer; me fehlt. 643 me fehlt. fysche. on st. a. it laste. 645 I hadde. dayes. 647 sprong out euereche. &amp; to wassche. 648 I hadde þer þretti. lyf. 649 þat st. as. here. 650 I st. i<SUP>c</SUP>. ich gam. 651 vor 650. 651 I habbe Ileuede: fourty ȝer nouȝ o non. 652 am hondreþ (!). 653 Be þis tyme I was nouȝ old. 654 i<SUP>c</SUP> fehlt. whanne god it me wele sende. 655 whan. wile þat ich com to hym. 656 Ac tak. water. nede. 657 wende faste forþ. 658 ȝit. 659 &amp; þan. ester. þo st. þ<SUP>u</SUP>. 660 &amp; þan. In st. to. 661 &amp; þere. byleue atte. 662 oune. 663 þese. dol. departede. a to. 664 Initiale. man hym wente. see. 665 þe whyle lente. 666 To þayr. gode fehlt þey com. 667 he dud. Ilom. 668 lad. fysche. þedyr he com. 669 þere hy. beleue. 670 þere þey songe. maten<HI REND="italic">us.</HI> messe. 671 fysche. be gan to meue hym. þis messe. 672 &amp; bar forþ þese m. wit hym. swam. 673 gret. griselyche. 674 wondir. who so. I se. 675 contre. 676 þese st. þis. ichon. 677 þer al feblt. sounde wente. 678 þese. com. hue were. 679: þey be leued alle stille þere. 680 procuratour. be þulke. 681 &amp; In to. I drouȝ; it fehlt. 682 wit hem: whyder. him fehlt. 683 þe est. hey wende (st. hi w.). 684 were I do: it be gan to hayle. 685 A st. &amp;. 687 I wot ȝe beþ. nyȝe. 688 þey come. derk. myȝt. 689 Vndyr þe fayreste. myȝt In erþe. 690 þat Ioye þer was I nowe. 691 euerybowe. 692 Wel þykke. be set. þykke were (!). 694 þey st. hi. 695 myȝt. 696 þey ne founde neuere nyȝt. 697 meche. 698 eyre. noyþer hot ne cold; to fehlt. 699 But. told. 700 ouere. 701 w<SUP>t</SUP> oute. 702 þen com þer to hem a ȝonglyche mon. 703 ffayrore non ne. þem st. hem. 704 he welcomede euerych be his name. ilkon st. echon. 705 sen. tok st. nom. hand. onon. 706 londe. haueþ. 707 &amp; longer hadde ac oure lord wolde: þat scholde abyde(!). 708 schold. 709 þis st. ȝoure. ȝe nemouȝ. 710 oune londe. 711 ny þan ende. 712 ȝe seþ here: departeþ þe lond a two. 713 þis halue þ<SUP>u</SUP> þynkest fayr Inouȝ: &amp; þetoþere halue it is al so. 714 a ȝend. com. no ryȝt. 715 þis frut. þis lond. 716 &amp; fehlt. whann. ilke manere. 717 &amp; iche maner men knouȝ hym. 718 wele þanne scheue. þe st. þis. 719 beþ hym nex I core. 720 Initiale. Sen. nom. 721 presyouse. schip. 722 fayr. 723 wepynge st. wop. dol.: hue partede nede a to. 724 homward. 725 sonnere com. þan. ferde st. wende. 726 breþeryn. 728 euere eft. 729 But. In þe oþer. 730 irlande. þylke. 731 men haþ þere. 732 an abbey þer is arered: þat his body was In do. 733 nouȝ. wente to.</P>
+<CLOSER>amen.</CLOSER>
+<TRAILER>(Fortsetzung folgt.)</TRAILER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

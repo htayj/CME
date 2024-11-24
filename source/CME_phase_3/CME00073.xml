@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-16-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed pars to Verbars; removed one LG and HEAD from NOTE; changed several incorrect MILESTONE UNITs to MILESTONE Ns; changed several mdashes between numerals to hyphens. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00073">
+<STC T="M">73</STC>
+<BIBNO T="mec">CME00073</BIBNO>
+<VID>CME00073</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<LG N="1">
+<PB N="66" REF="10"/>
+<HEAD>I.</HEAD>
+<L>God, that died for vs all <MILESTONE N="52r"/> <MILESTONE N="46" UNIT="Hw. S,"/></L>
+<L>And drank both eysell <HI REND="italic">and</HI> gall,</L>
+<L>Bring theym oute of bale <NOTE PLACE="foot">3 Bring theym] He bryng us alle <HI REND="italic">P</HI></NOTE></L>
+<L>And graunt theym good liff <HI REND="italic">and</HI> long, <NOTE PLACE="foot">4 gr. th.] gyve hym <HI REND="italic">P</HI></NOTE></L>
+<L>That woll listyn to my song <MILESTONE N="5" UNIT="Hz."/> <NOTE PLACE="foot">5 listyn] attend <HI REND="italic">P</HI></NOTE></L>
+<L>And tend to my tale. <NOTE PLACE="foot">6 tend to] herkyne oneto <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<L>Ther<HI REND="italic">e</HI> was a man in my contre, <NOTE PLACE="foot">1 was] dwelyd <HI REND="italic">P</HI></NOTE></L>
+<L>Which had wyves thre <NOTE PLACE="foot">2 The wyche <HI REND="italic">P</HI></NOTE></L>
+<L>In p<HI REND="italic">ro</HI>cesse of tyme: <NOTE PLACE="foot">3 of certyn tyme <HI REND="italic">P</HI></NOTE></L>
+<L>By the fyrst wyff a child he had, <MILESTONE N="10" UNIT="Hz."/> <NOTE PLACE="foot">4 the] hys <HI REND="italic">P</HI></NOTE></L>
+<L>Which was a p<HI REND="italic">ro</HI>pre lad <NOTE PLACE="foot">5 The wyche <HI REND="italic">P</HI></NOTE></L>
+<L>And a hasty hyne. <MILESTONE N="47" UNIT="Hw. S."/> <NOTE PLACE="foot">6 a hasty] ryght ane happy <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Hys fader loved hym well <NOTE PLACE="foot">1 And his <HI REND="italic">P</HI> ‖ ryght welle <HI REND="italic">P</HI></NOTE></L>
+<L>And his moder neu<HI REND="italic">er</HI> a dele: <NOTE PLACE="foot">2 And h. m.] Hys steppe dame lovyd hyme <HI REND="italic">P</HI></NOTE></L>
+<L>I tell you, as I think. <MILESTONE N="15" UNIT="Hz."/></L>
+<L>All she thought lost, by the rode, <NOTE PLACE="foot">4 She thoght it lost <HI REND="italic">P</HI> ‖ lost <HI REND="italic">fehlt R</HI></NOTE></L>
+<L>Of all, that eu<HI REND="italic">er</HI> did hym good, <NOTE PLACE="foot">5 Of <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>Of mete or of drynk.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Nott half i-nough therof he had,</L>
+<L>And yett, forsoth, it was right bad: <MILESTONE N="20" UNIT="Hz."/> <NOTE PLACE="foot">2 forsoth] in faythe <HI REND="italic">P</HI> ‖ right] fulle <HI REND="italic">P</HI></NOTE></L>
+<L>Yett she thought it lost. <NOTE PLACE="foot">3 Yett she] And alle hyr <HI REND="italic">P</HI></NOTE></L>
+<L>Therfor<HI REND="italic">e</HI> evill mott she fare; <NOTE PLACE="foot">4 Therf.] Y pray god <HI REND="italic">P</HI></NOTE></L>
+<L>For ofte she did hym moch care,</L>
+<L>As farforth as she durst.</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>The good wiff to her husband gan say: <MILESTONE N="25" UNIT="Hz."/></L>
+<L>'For to putt this boye a way <NOTE PLACE="foot">2 away thys boy <HI REND="italic">P</HI></NOTE></L>
+<L>I rede you in haste; <NOTE PLACE="foot">3 Y hold yt for the beste <HI REND="italic">P</HI></NOTE></L>
+<L>For, in fayth, it is a shrewed lad. <NOTE PLACE="foot">4 For <HI REND="italic">fehlt P</HI> ‖ it] he <HI REND="italic">P</HI> ‖ shr.] lether <HI REND="italic">P</HI></NOTE></L>
+<L>I wold, som other man hym had, <NOTE PLACE="foot">5 had] h <HI REND="italic">undeutlich R</HI></NOTE></L>
+<L>That wold hym better chaste.' <MILESTONE N="30" UNIT="Hz."/> <NOTE PLACE="foot">6 beter myȝt hym <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="6">
+<PB N="67" REF="11"/>
+<HEAD>VI.</HEAD>
+<L>The goodman answered agayn <MILESTONE N="52v"/> <NOTE PLACE="foot">1 Than anone spake the good man <HI REND="italic">P</HI></NOTE></L>
+<L>And said: 'Dame, I shall the sayn, <NOTE PLACE="foot">2 And to hys wyff sayd he than <HI REND="italic">P</HI></NOTE></L>
+<L>He is butt yong of age:</L>
+<L>He shall abide w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> me a yere, <NOTE PLACE="foot">4 abide] be <HI REND="italic">P</HI> ‖ me a y.] us lenger <HI REND="italic">P</HI></NOTE></L>
+<L>Till he be strenger <MILESTONE N="35" UNIT="Hz."/> <NOTE PLACE="foot">5 Tyll that he <HI REND="italic">P</HI></NOTE></L>
+<L>To wynne better wage.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>We haue a man, a strong freke,</L>
+<L>Which kepyth on the feld our<HI REND="italic">e</HI> nete <MILESTONE N="48" UNIT="Hw. S."/> <NOTE PLACE="foot">2 The wyche one fyld kypythe <HI REND="italic">P</HI> ‖ shepe <HI REND="italic">vor</HI> nete <HI REND="italic">ausge∣strichen R</HI></NOTE></L>
+<L>And slepith half the day:</L>
+<L>He shall com home, be Mary myld; <MILESTONE N="40" UNIT="Hz."/></L>
+<L>The boy shall in to the feld <NOTE PLACE="foot">5 And to the fylde schalle go the chyld <HI REND="italic">P</HI></NOTE></L>
+<L>And kepe hem, if he may.'</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>The goodwiff was glad, verament, <NOTE PLACE="foot">1 The wyff was not glad <HI REND="italic">P</HI></NOTE></L>
+<L>And therto sone she assent <NOTE PLACE="foot">2 And—sone] Nere the les therto <HI REND="italic">P</HI></NOTE></L>
+<L>And said: 'It is best.' <MILESTONE N="45" UNIT="Hz."/> <NOTE PLACE="foot">3 It] ser that <HI REND="italic">P</HI></NOTE></L>
+<L>Vpon the morowe, when it was day, <NOTE PLACE="foot">4 Vpon] Erly yn <HI REND="italic">P</HI></NOTE></L>
+<L>Forth went the litell boye: <NOTE PLACE="foot">5 Furthe than went <HI REND="italic">P</HI></NOTE></L>
+<L>To the feld he was p<HI REND="italic">re</HI>ste. <NOTE PLACE="foot">6 was full preste <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Vpon his bak he bare his staff. <MILESTONE N="50" UNIT="Hz."/> <NOTE PLACE="foot">1 bak] schulder <HI REND="italic">P</HI></NOTE></L>
+<L>Of no man he ne gaff: <NOTE PLACE="foot">1. 2 <HI REND="italic">in umgekehrter Reihenfolge P</HI></NOTE> <NOTE PLACE="foot">2 he ne] ryght noȝt he <HI REND="italic">P</HI></NOTE></L>
+<L>He was mery i-nowgh. <NOTE PLACE="foot">3 He] The boy <HI REND="italic">P</HI></NOTE></L>
+<L>He went forth, the soth to sayn, <NOTE PLACE="foot">4 Furth he went as y ȝow sayne <HI REND="italic">P</HI></NOTE></L>
+<L>Till he com on the playn: <NOTE PLACE="foot">5 on] into <HI REND="italic">P</HI></NOTE></L>
+<L>His dynn<HI REND="italic">er</HI> oute he drowe. <NOTE PLACE="foot">6 oute] forth <HI REND="italic">P</HI> ‖ <HI REND="italic">es ist unsicher, ob R</HI> drowe <HI REND="italic">oder</HI> drewe <HI REND="italic">liest</HI></NOTE></L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>When he sawe, it was so bad, <MILESTONE N="55" UNIT="Hz."/> <NOTE PLACE="foot">1 it was so] that yt was <HI REND="italic">P</HI></NOTE></L>
+<L>Lytill lust therto he had</L>
+<L>And putt it vp anon: <NOTE PLACE="foot">3 And] He <HI REND="italic">P</HI></NOTE></L>
+<L><PB N="68" REF="12"/>
+I-wysse, he was nott for to wyte. <NOTE PLACE="foot">4 I-wysse] Be Cryst <HI REND="italic">P</HI> ‖ for] moche <HI REND="italic">P</HI></NOTE></L>
+<L>He seyde: 'I will ete but a lyȝte <MILESTONE N="53r"/> <NOTE PLACE="foot">5 He] And <HI REND="italic">P</HI> ‖ he wold <HI REND="italic">P</HI> ‖ a <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>Tyl nyȝt, þ<HI REND="italic">a</HI>t I come home.' <MILESTONE N="60" UNIT="Hz."/> <NOTE PLACE="foot">6 nyȝt] evyn <HI REND="italic">P</HI> ‖ I] he <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Vppon an hill he hym set:</L>
+<L>An olde man þ<HI REND="italic">er</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> he met, <NOTE PLACE="foot">2 þer with] sone after <HI REND="italic">P</HI></NOTE></L>
+<L>Cam walkyng be the wey.</L>
+<L>He seide: 'God spede, good son.' <MILESTONE N="49" UNIT="Hw. S."/> <NOTE PLACE="foot">4 God sped he sayd <HI REND="italic">P</HI></NOTE></L>
+<L>He seide: 'Sir, welcome,' <MILESTONE N="65" UNIT="Hz."/> <NOTE PLACE="foot">5 Ser he sayd ȝe be ryȝte w. <HI REND="italic">P</HI></NOTE></L>
+<L>The sothe for to saye. <NOTE PLACE="foot">6 sothe ȝow for <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<L>The olde man was hungrid sore <NOTE PLACE="foot">1 was an hongoryd <HI REND="italic">P</HI></NOTE></L>
+<L>And sayde: 'Son, hast þ<HI REND="italic">o</HI>u any mete astore, <NOTE PLACE="foot">2 Son <HI REND="italic">fehlt P</HI> ‖ in store <HI REND="italic">P</HI></NOTE></L>
+<L>That þ<HI REND="italic">o</HI>u mayst geve me?' <NOTE PLACE="foot">3 may <HI REND="italic">P</HI></NOTE></L>
+<L>The boye seide: 'So god me save, <MILESTONE N="70" UNIT="Hz."/> <NOTE PLACE="foot">4 The boye] Ser he <HI REND="italic">P</HI></NOTE></L>
+<L>Thow shalt se suche, as I haue, <NOTE PLACE="foot">5 To soche vyttayllys as <HI REND="italic">P</HI></NOTE></L>
+<L>And welcome shalt þ<HI REND="italic">o</HI>u be.' <NOTE PLACE="foot">6 Thou art welcome to me <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>The lytill boye gaffe hym suche, as he had, <NOTE PLACE="foot">1 He toke hyme <HI REND="italic">P</HI></NOTE></L>
+<L>And bad him ete and be glad</L>
+<L>And seide: 'Welcome, trewly,' <MILESTONE N="75" UNIT="Hz."/> <NOTE PLACE="foot">3 trewly] ȝe be <HI REND="italic">P</HI></NOTE></L>
+<L>The olde man for to please. <NOTE PLACE="foot">4 for] was fulle good <HI REND="italic">P</HI></NOTE></L>
+<L>He ete and made him at ease <NOTE PLACE="foot">5 hyme well at <HI REND="italic">P</HI></NOTE></L>
+<L>And sayde: 'Sir, gramarcy. <NOTE PLACE="foot">6 Gramersy sone sayd he <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>For þ<HI REND="italic">e</HI> mete, þow hast geve me, <NOTE PLACE="foot">1 þe] thys <HI REND="italic">P</HI> ‖ þ<SUP>n</SUP> <HI REND="italic">durchgestrichen vor</HI> þow <HI REND="italic">R</HI></NOTE></L>
+<L>I shall gyffe þ<HI REND="italic">e</HI> gyft<HI REND="italic">is</HI> thre, <MILESTONE N="80" UNIT="Hz."/> <NOTE PLACE="foot">2 the gyve <HI REND="italic">P</HI></NOTE></L>
+<L>That shall not be for-gete.' <NOTE PLACE="foot">3 befor gete <HI REND="italic">R</HI></NOTE></L>
+<L>The boye seyde: 'As I trowe,</L>
+<L>It were best, þ<HI REND="italic">a</HI>t I hadde a bowe <NOTE PLACE="foot">5 þat <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>Byrdys for to shete.' <NOTE PLACE="foot">6 shote <HI REND="italic">R,</HI> schete <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="15">
+<PB N="69" REF="13"/>
+<HEAD>XV.</HEAD>
+<L>'Bowe and bolte þ<HI REND="italic">o</HI>u shalt haue ryve, <MILESTONE N="85" UNIT="Hz."/> <NOTE PLACE="foot">1 Thou schalt have a bowe and boltes blyth <HI REND="italic">P</HI></NOTE></L>
+<L>That shall laste þ<HI REND="italic">e</HI> all þ<HI REND="italic">i</HI> lyve. <NOTE PLACE="foot">2 The wych <HI REND="italic">P</HI> ‖ laste] dure <HI REND="italic">P</HI></NOTE></L>
+<L>At eu<HI REND="italic">er</HI>y keyte, þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u mete, <NOTE PLACE="foot">3 And ever to the alyche mete <HI REND="italic">P</HI></NOTE></L>
+<L>Loke, þ<HI REND="italic">o</HI>u kepe þ<HI REND="italic">i</HI> pylt,</L>
+<L>And shote, where at þ<HI REND="italic">o</HI>u wylt, <NOTE PLACE="foot">4. 5 Schete whersoever thou wyll Thou schalt never faylle thou schalt it kyll <HI REND="italic">P</HI></NOTE></L>
+<L>The markys þou shalte kepe.' <MILESTONE N="53v"/> <MILESTONE N="90" UNIT="Hz."/> <MILESTONE N="50" UNIT="Hw. S."/> <NOTE PLACE="foot">6 markys] pryke rydy <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="16">
+<HEAD>XVI (Wr. XV).</HEAD>
+<L>The bowe a non in hand he felt, <NOTE PLACE="foot">1 a non] sone <HI REND="italic">vor</HI> he <HI REND="italic">P</HI> ‖ hefelt <HI REND="italic">R</HI></NOTE></L>
+<L>And his boltys vnder his belt <NOTE PLACE="foot">2 And h. b.] The boltes he put <HI REND="italic">P</HI></NOTE></L>
+<L>Lyȝtely þan he drowe. <NOTE PLACE="foot">3 Ryght meryly than he lowe <HI REND="italic">P</HI></NOTE></L>
+<L>He saide: 'Had I now a pipe, <NOTE PLACE="foot">4 He s.] Be my troth <HI REND="italic">P</HI> ‖ now <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>Thouh it were neu<HI REND="italic">er</HI> so lite, <MILESTONE N="95" UNIT="Hz."/></L>
+<L>Than were I mery i-nowe.'</L>
+</LG>
+<LG N="17">
+<HEAD>XVII (Wr. XVI).</HEAD>
+<L>'A pipe þ<HI REND="italic">o</HI>u shalte haue also: <NOTE PLACE="foot">1 pype boy thou <HI REND="italic">P</HI></NOTE></L>
+<L>Trve mesure it shall goo. <NOTE PLACE="foot">2 Trewe of mesore schall it goo <HI REND="italic">P</HI></NOTE></L>
+<L>I put þ<HI REND="italic">e</HI> owte of dowte.</L>
+<L>All, þ<HI REND="italic">a</HI>t eu<HI REND="italic">er</HI> þ<HI REND="italic">a</HI>t pipe dothe here, <MILESTONE N="100" UNIT="Hz."/> <NOTE PLACE="foot">4 What man that thys pype <HI REND="italic">P</HI></NOTE></L>
+<L>They shall not hem self astere, <NOTE PLACE="foot">5 They] He <HI REND="italic">P (aber</HI> hemselfe) ‖ afere <HI REND="italic">oder</HI> asere <HI REND="italic">vor</HI> astere <HI REND="italic">durchgestrichen R</HI> ‖ stere <HI REND="italic">P</HI></NOTE></L>
+<L>But lepe and daunce a bowte. <NOTE PLACE="foot">6 lepe] hope <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="18">
+<HEAD>XVIII (Wr. XVII).</HEAD>
+<L>Let se, what shall þ<HI REND="italic">a</HI>t other be? <NOTE PLACE="foot">1 Let se] Say one boy <HI REND="italic">P</HI> ‖ þat] the <HI REND="italic">P</HI></NOTE></L>
+<L>For þ<HI REND="italic">o</HI>u shalt haue yeftis thre,</L>
+<L>As I þ<HI REND="italic">e</HI> hyȝt before.' <MILESTONE N="105" UNIT="Hz."/> <NOTE PLACE="foot">3 hote þe <HI REND="italic">P</HI></NOTE></L>
+<L>The boye þan lowde lowgh <NOTE PLACE="foot">4 boye—lowde] lytell boy stode and <HI REND="italic">P</HI> ‖ lewgh <HI REND="italic">R,</HI> lowȝe <HI REND="italic">P</HI></NOTE></L>
+<L>And sayde: 'Be my trowth, I haue inowe: <NOTE PLACE="foot">5 Be my tr.] in fayth <HI REND="italic">P</HI> ‖ be my <HI REND="italic">doppelt R</HI></NOTE></L>
+<L>I will desire no more.'</L>
+</LG>
+<LG N="19">
+<HEAD>XIX (Wr. XVIII).</HEAD>
+<L>The olde man saide to hym: 'A plyȝt, <NOTE PLACE="foot">1 to hym A] y the <HI REND="italic">P</HI></NOTE></L>
+<L>Thow shalt haue, as I þ<HI REND="italic">e</HI> hyȝte; <MILESTONE N="110" UNIT="Hz."/></L>
+<L>Ther fore sey on: let se.'</L>
+<L><PB N="70" REF="14"/>
+The lytill boye seyde full sone: <NOTE PLACE="foot">4 lytill <HI REND="italic">fehlt P</HI> ‖ full sone] be saynt Iame <HI REND="italic">P</HI></NOTE></L>
+<L>'I haue a steppe moder at home; <NOTE PLACE="foot">5 a—home] at hom a stepe dame <HI REND="italic">P</HI></NOTE></L>
+<L>She is a shrewe to me.</L>
+</LG>
+<LG N="20">
+<HEAD>XX (Wr. XIX).</HEAD>
+<L>When my fadir gewyth me mete, <MILESTONE N="115" UNIT="Hz."/> <NOTE PLACE="foot">1 For whanne <HI REND="italic">P</HI> ‖ myfadir <HI REND="italic">R</HI> ‖ gyve <HI REND="italic">P</HI></NOTE></L>
+<L>She wold, þ<HI REND="italic">e</HI> devill shold me cheke: <MILESTONE N="51" UNIT="Hw. S."/> <NOTE PLACE="foot">2 e <HI REND="italic">in</HI> devill <HI REND="italic">undeut∣lich R</HI> ‖ shold] had <HI REND="italic">R,</HI> schuld <HI REND="italic">P</HI></NOTE></L>
+<L>She stareth so in my face. <NOTE PLACE="foot">3 stare <HI REND="italic">R,</HI> staryth <HI REND="italic">P</HI></NOTE></L>
+<L>Whan she lokyth on me so,</L>
+<L>Yef she myght lette a rappe goo, <NOTE PLACE="foot">5 I wolde sche lete a crake or too <HI REND="italic">P</HI></NOTE></L>
+<L>That myght rynge all þ<HI REND="italic">e</HI> place!' <MILESTONE N="120" UNIT="Hz."/></L>
+</LG>
+<LG N="21">
+<HEAD>XXI (Wr. XX).</HEAD>
+<L>The olde man sayde to him þ<HI REND="italic">o:</HI> <NOTE PLACE="foot">1 to him þo] the boy on too <HI REND="italic">P</HI></NOTE></L>
+<L>'Yef she loke on þ<HI REND="italic">e</HI> so, <NOTE PLACE="foot">2 Whan sche lokythe <HI REND="italic">P</HI></NOTE></L>
+<L>She shall be-gynne to blowe:</L>
+<L>All, þ<HI REND="italic">a</HI>t maye her heere, <NOTE PLACE="foot">4 And as many as her dothe here <HI REND="italic">P</HI></NOTE></L>
+<L>They shall hem not a-stere, <MILESTONE N="54r"/> <MILESTONE N="125" UNIT="Hz."/></L>
+<L>But lauȝh vpon a rowe. <NOTE PLACE="foot">5. 6 For lawyng schalle they not stere Whyll sche ys there y trowe <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="22">
+<HEAD>XXII (Wr. XXI).</HEAD>
+<L>Farewele,' saide þ<HI REND="italic">e</HI> olde man. <NOTE PLACE="foot">1 Nowe far welle <HI REND="italic">P</HI></NOTE></L>
+<L>'No more þan I ne can, <NOTE PLACE="foot">2 And farwell sayd the boy thane <HI REND="italic">P</HI></NOTE></L>
+<L>But take my leve of the. <NOTE PLACE="foot">3 My leve y take of the <HI REND="italic">P</HI></NOTE></L>
+<L>All-myȝty god, þ<HI REND="italic">a</HI>t best may, <MILESTONE N="130" UNIT="Hz."/></L>
+<L>Spede yow both nyȝte and daye.' <NOTE PLACE="foot">5 yow] the <HI REND="italic">P</HI></NOTE></L>
+<L>'Gramarcy, syr,' sayde he. <NOTE PLACE="foot">6 syr] sone <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="23">
+<HEAD>XXIII (Wr. XXII).</HEAD>
+<L>Than aftyrward, whan it was nyȝte, <NOTE PLACE="foot">1 Than <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>Home went þ<HI REND="italic">e</HI> boy full ryght:</L>
+<L>This was his ordinaunce. <MILESTONE N="135" UNIT="Hz."/> <NOTE PLACE="foot">3 This] As <HI REND="italic">P</HI></NOTE></L>
+<L>He toke his pipe <HI REND="italic">and</HI> be-gan to blow, <NOTE PLACE="foot">4 gane <HI REND="italic">P</HI></NOTE></L>
+<L>Than all his bestis on a row <NOTE PLACE="foot">5 Hys bestes com rakyng on a rawe <HI REND="italic">P</HI></NOTE></L>
+<L>A bowte him be-gan to daunce. <NOTE PLACE="foot">6 be-gan] they gan <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="24">
+<PB N="71" REF="15"/>
+<HEAD>XXIV (Wr. XXIII).</HEAD>
+<L>The boye went pypyng þorow þ<HI REND="italic">e</HI> towne, <NOTE PLACE="foot">1 went pypyng] pypyd <HI REND="italic">P</HI></NOTE></L>
+<L>The best<HI REND="italic">is</HI> folowid him be þ<HI REND="italic">e</HI> sowne <MILESTONE N="140" UNIT="Hz."/> <NOTE PLACE="foot">2 The bestes hym foloyd alle and some <HI REND="italic">P</HI></NOTE></L>
+<L>Vnto his fadirs close. <NOTE PLACE="foot">3 Vnto] Hom to <HI REND="italic">P</HI></NOTE></L>
+<L>Whan he was come home, <MILESTONE N="52" UNIT="Hw. S."/> <NOTE PLACE="foot">4 Whan—was] Anone as ever he <HI REND="italic">P</HI></NOTE></L>
+<L>He be-shet hem eu<HI REND="italic">er</HI>y-chone, <NOTE PLACE="foot">5 He sete up hys bestes anone <HI REND="italic">P</HI></NOTE></L>
+<L>And into þ<HI REND="italic">e</HI> halle he goos.</L>
+</LG>
+<LG N="25">
+<HEAD>XXV (Wr. XXIV, 1-3).</HEAD>
+<L>His fader at soop<HI REND="italic">er</HI> sat: <MILESTONE N="145" UNIT="Hz."/></L>
+<L>The boye spyed wele þ<HI REND="italic">a</HI>t <NOTE PLACE="foot">2 The lytyll boy aspyed that <HI REND="italic">P</HI></NOTE></L>
+<L>And spake to him a noon. <NOTE PLACE="foot">3 him] hys fader <HI REND="italic">P</HI></NOTE></L>
+<L>He seyde: 'Welcome. <NOTE PLACE="foot">4 w.] Iake well come <HI REND="italic">P</HI></NOTE></L>
+<L>Where be my bestys, good son? <NOTE PLACE="foot">5 be my] ar thy <HI REND="italic">P</HI></NOTE></L>
+<L>Hast þ<HI REND="italic">o</HI>u brouȝte hem home?' <MILESTONE N="150" UNIT="Hz."/> <NOTE PLACE="foot">6 hem broȝt <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="26">
+<HEAD>XXVI (Wr. XXIV, 4-6).</HEAD>
+<L>'Ye, fadir, in good faye: <NOTE PLACE="foot">1 Ye <HI REND="italic">fehlt P</HI> ‖ he sayd in <HI REND="italic">P</HI> ‖ fa ye <HI REND="italic">R,</HI> fay <HI REND="italic">P</HI></NOTE></L>
+<L>I haue kepte hem all þ<HI REND="italic">is</HI> daye, <NOTE PLACE="foot">2 heme kept <HI REND="italic">P</HI></NOTE></L>
+<L>And now þey are shet.' <NOTE PLACE="foot">3 And they be now up schete <HI REND="italic">P</HI></NOTE></L>
+<L>A capons legge he toke him tho</L>
+<L>And sayde: 'Iak, þ<HI REND="italic">a</HI>t is wele do: <MILESTONE N="155" UNIT="Hz."/> <NOTE PLACE="foot">5 Iak] sone <HI REND="italic">P</HI></NOTE></L>
+<L>Boy, þ<HI REND="italic">o</HI>u shalte fare þ<HI REND="italic">e</HI> bet.' <NOTE PLACE="foot">6 Boy <HI REND="italic">fehlt P</HI></NOTE></L>
+</LG>
+<LG N="27">
+<HEAD>XXVII (Wr. XXV).</HEAD>
+<L>That grevid his dame herte sore: <NOTE PLACE="foot">1 dames hart fulle sore <HI REND="italic">P</HI></NOTE></L>
+<L>Eu<HI REND="italic">er</HI> she was tened more and more; <NOTE PLACE="foot">2 As y have told ȝow before <HI REND="italic">P</HI></NOTE></L>
+<L>Than she starid in his face, <MILESTONE N="54v"/> <NOTE PLACE="foot">3 Than <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>And she let go a gret blaste, <MILESTONE N="160" UNIT="Hz."/> <NOTE PLACE="foot">4 And] Anon <HI REND="italic">P</HI> ‖ gret <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>That eu<HI REND="italic">er</HI>y man þ<HI REND="italic">er</HI>of was a-gaste, <NOTE PLACE="foot">5 That sche mad hem alle agaste <HI REND="italic">P</HI></NOTE></L>
+<L>That was in þ<HI REND="italic">a</HI>t place. <NOTE PLACE="foot">6 war <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII (Wr. XXVI).</HEAD>
+<L>Eu<HI REND="italic">er</HI> they lowgh and had good game: <NOTE PLACE="foot">1 Euer] All <HI REND="italic">P</HI></NOTE></L>
+<L>The wyffe wex red for shame; <NOTE PLACE="foot">2 wex] sche wex <HI REND="italic">P</HI></NOTE></L>
+<L>She wolde fayne be a-gon. <MILESTONE N="165" UNIT="Hz."/> <NOTE PLACE="foot">3 fayne] a <HI REND="italic">P</HI></NOTE></L>
+<L><PB N="72" REF="16"/>
+Iak seide, wele I wote: <NOTE PLACE="foot">4 wele I w.] wylle ȝe wytte <HI REND="italic">P</HI></NOTE></L>
+<L>'I trow, þ<HI REND="italic">is</HI> game were wele smote, <NOTE PLACE="foot">5 That gonne was welle smet <HI REND="italic">P</HI></NOTE></L>
+<L>Þough it had be a gon stone.' <MILESTONE N="53" UNIT="Hw. S."/> <NOTE PLACE="foot">6 a gon] with a <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="29">
+<HEAD>XXIX (Wr. XXVII).</HEAD>
+<L>Ful egerly lokid she on him þo: <NOTE PLACE="foot">1 Angerly sche lokyd <HI REND="italic">P</HI></NOTE></L>
+<L>A noþ<HI REND="italic">er</HI> rappe she let goo, <MILESTONE N="170" UNIT="Hz."/></L>
+<L>And eu<HI REND="italic">er</HI> she a vey went. <NOTE PLACE="foot">3 Hyr ars was ny to rente <HI REND="italic">P</HI> ‖ she <HI REND="italic">getilgt hinter</HI> And <HI REND="italic">R</HI></NOTE></L>
+<L>Iak seid: 'Will ye se?</L>
+<L>My moder can let a pelet fle, <NOTE PLACE="foot">5 Another pelat sche wyll lete fley <HI REND="italic">P</HI></NOTE></L>
+<L>Or eu<HI REND="italic">er</HI> she astent.' <NOTE PLACE="foot">6 she astent] that sche wylle stent <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="30">
+<HEAD>XXX (Wr. XXVIII).</HEAD>
+<L>Eu<HI REND="italic">er</HI> þey lough and had good game: <MILESTONE N="175" UNIT="Hz."/> <NOTE PLACE="foot">1 Every man lowȝ <HI REND="italic">P</HI> ‖ had <HI REND="italic">fehlt R</HI></NOTE></L>
+<L>The wyffe went a waye for shame; <NOTE PLACE="foot">2 a] hyr <HI REND="italic">P</HI></NOTE></L>
+<L>Sho was in moche sorow. <NOTE PLACE="foot">3 mykyll <HI REND="italic">P</HI></NOTE></L>
+<L>The good man seide: 'Go þ<HI REND="italic">i</HI> weye; <NOTE PLACE="foot">4 Aftirwar <HI REND="italic">durchgestrichen vor</HI> The <HI REND="italic">R</HI></NOTE></L>
+<L>For it is tyme, be my faye:</L>
+<L>Thyn arce is not to borowe.' <MILESTONE N="180" UNIT="Hz."/> <NOTE PLACE="foot">6 to] thy <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="31">
+<HEAD>XXXI (Wr. XXIX).</HEAD>
+<L>Aftir þ<HI REND="italic">a</HI>t, will ye here, <NOTE PLACE="foot">1 Afterward than wyll <HI REND="italic">P</HI></NOTE></L>
+<L>Tho in to þ<HI REND="italic">a</HI>t howse cam a frere, <NOTE PLACE="foot">2 To the hows there come <HI REND="italic">P</HI></NOTE></L>
+<L>That lay þ<HI REND="italic">er</HI> al nyȝte. <NOTE PLACE="foot">3 That lay] And loggyd <HI REND="italic">P</HI></NOTE></L>
+<L>Owre dame thouȝth him a saynte: <NOTE PLACE="foot">4 Owre—him] The wyff lovyd hym as <HI REND="italic">P</HI></NOTE></L>
+<L>Anon to him she made a pleynte <MILESTONE N="185" UNIT="Hz."/> <NOTE PLACE="foot">5 mad sche hyr playnt <HI REND="italic">P</HI></NOTE></L>
+<L>And tolde to hym anon ryght: <NOTE PLACE="foot">6 to <HI REND="italic">fehlt P</HI> ‖ anon] full <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="32">
+<HEAD>XXXII (Wr. XXX).</HEAD>
+<L>'I haue a boy, þ<HI REND="italic">a</HI>t in þ<HI REND="italic">is</HI> howse wons: <NOTE PLACE="foot">1 I] We <HI REND="italic">P</HI> ‖ in þ. h.] with us <HI REND="italic">P</HI></NOTE></L>
+<L>He is a shrew for þ<HI REND="italic">e</HI> nons;</L>
+<L>He doth me moche care. <MILESTONE N="55r"/> <NOTE PLACE="foot">3 He] And <HI REND="italic">P</HI> ‖ me∣kylle <HI REND="italic">P</HI></NOTE></L>
+<L>I may not loke ons hym vpon, <MILESTONE N="190" UNIT="Hz."/> <NOTE PLACE="foot">4 may] dar <HI REND="italic">P</HI> ‖ ons <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>But I haue a shame, be seynt Ihon: <NOTE PLACE="foot">5 But—be] I am aschamyd be swet <HI REND="italic">P</HI></NOTE></L>
+<L>I telle þe, how I fare. <NOTE PLACE="foot">6 I] To <HI REND="italic">P</HI> ‖ þe] ȝow <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="33">
+<PB N="73" REF="17"/>
+<HEAD>XXXIII (Wr. XXXI).</HEAD>
+<L>Mete hym in þ<HI REND="italic">e</HI> fylde to morow: <NOTE PLACE="foot">1 Mete—fylde] And ȝyff ȝe mete that boy <HI REND="italic">P</HI></NOTE></L>
+<L>Loke, þ<HI REND="italic">o</HI>u bete hym and do hym sorowe <NOTE PLACE="foot">2 Loke þou <HI REND="italic">fehlt P</HI> ‖ ad (d <HI REND="italic">nicht ganz vollständig) ausgestrichen vor</HI> and <HI REND="italic">R</HI> ‖ and do] welle and gyve <HI REND="italic">P</HI></NOTE></L>
+<L>And make þ<HI REND="italic">e</HI> boye lame. <MILESTONE N="195" UNIT="Hz."/> <MILESTONE N="54" UNIT="Hw. S."/> <NOTE PLACE="foot">3 þe b.] that lad <HI REND="italic">P</HI></NOTE></L>
+<L>I-wis, it is a cursed byche; <NOTE PLACE="foot">4 I-wis it] Be god he <HI REND="italic">P</HI> ‖ cursed] schrewd <HI REND="italic">P</HI></NOTE></L>
+<L>I trow, þ<HI REND="italic">e</HI> boye be some wycche: <NOTE PLACE="foot">5 I—some] In fayth y trow he be a <HI REND="italic">P</HI></NOTE></L>
+<L>He dothe me moche shame.' <NOTE PLACE="foot">6 mykyll grame <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV (Wr. XXXII).</HEAD>
+<L>The frere seid: 'I will, wete.'</L>
+<L>She prayde him not for-gete; <MILESTONE N="200" UNIT="Hz."/> <NOTE PLACE="foot">2 Y pray the ser lete it not be forgete (: wyte) <HI REND="italic">P</HI></NOTE></L>
+<L>'For þ<HI REND="italic">a</HI>t will greve me sore.' <NOTE PLACE="foot">3 wold <HI REND="italic">P</HI></NOTE></L>
+<L>The frere seide: 'In good faye,</L>
+<L>But I lasshe wele þ<HI REND="italic">a</HI>t boye, <NOTE PLACE="foot">5 lasshe] chastys <HI REND="italic">P</HI></NOTE></L>
+<L>Truste me neu<HI REND="italic">er</HI> more.'</L>
+</LG>
+<LG N="35">
+<HEAD>XXXV (Wr. XXXIII).</HEAD>
+<L>Vpon þ<HI REND="italic">e</HI> morow þ<HI REND="italic">e</HI> boye arose <MILESTONE N="205" UNIT="Hz."/> <NOTE PLACE="foot">1 Vpon] Erly in <HI REND="italic">P</HI> ‖ arose] he ros <HI REND="italic">P</HI></NOTE></L>
+<L>And into þ<HI REND="italic">e</HI> felde he goos: <NOTE PLACE="foot">2 into] lyȝtly to <HI REND="italic">P</HI></NOTE></L>
+<L>His bestis gan he dryve. <NOTE PLACE="foot">3 he gan <HI REND="italic">P</HI></NOTE></L>
+<L>The frere vent ovte at þ<HI REND="italic">e</HI> gate: <NOTE PLACE="foot">4 went <HI REND="italic">P</HI></NOTE></L>
+<L>He went, he had come to late, <NOTE PLACE="foot">5 wend <HI REND="italic">P</HI> ‖ had] schuld have <HI REND="italic">P</HI></NOTE></L>
+<L>And ran aftyr full ryve. <MILESTONE N="210" UNIT="Hz."/> <NOTE PLACE="foot">6 He ranne fast and blyth <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI (Wr. XXXIV).</HEAD>
+<L>Whan he cam in to þ<HI REND="italic">a</HI>t londe, <NOTE PLACE="foot">1 in to þat] one hye the <HI REND="italic">P</HI></NOTE></L>
+<L>The lytill boye þ<HI REND="italic">er</HI> he founde <NOTE PLACE="foot">2 The l.] Sone the <HI REND="italic">P</HI></NOTE></L>
+<L>And his bestis echon. <NOTE PLACE="foot">3 And] Kypyng <HI REND="italic">P</HI></NOTE></L>
+<L>He seide: 'Boye, god gif þ<HI REND="italic">e</HI> shame. <NOTE PLACE="foot">4 Boy he sayd <HI REND="italic">P</HI></NOTE></L>
+<L>What haste þ<HI REND="italic">o</HI>u do to þy dame? <MILESTONE N="215" UNIT="Hz."/></L>
+<L>Haue do and tel me anone. <NOTE PLACE="foot">6 Haue do and] Loke thou <HI REND="italic">P</HI> ‖ anone <HI REND="italic">P] fehlt R</HI></NOTE></L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII (Wr. XXXV).</HEAD>
+<L>But yf þ<HI REND="italic">o</HI>u can escuse þ<HI REND="italic">e</HI> þe bet, <NOTE PLACE="foot">1 þe þe] the <HI REND="italic">P</HI> ‖ better <HI REND="italic">P</HI></NOTE></L>
+<L>Be my trouth, þ<HI REND="italic">i</HI> narce shall be bete: <MILESTONE N="55v"/> <NOTE PLACE="foot">2 Thou schalt abye be the seker <HI REND="italic">P</HI></NOTE></L>
+<L>I will no lenger abyde.' <NOTE PLACE="foot">3 longer <HI REND="italic">P</HI></NOTE></L>
+<L><PB N="74" REF="18"/>
+The boye seide: 'What aylith þ<HI REND="italic">e?</HI> <MILESTONE N="220" UNIT="Hz."/> <NOTE PLACE="foot">4 The boye] Ser he <HI REND="italic">P</HI> ‖ y <HI REND="italic">in</HI> aylith <HI REND="italic">aus</HI> l <HI REND="italic">R</HI> ‖ þe] the nowe <HI REND="italic">P</HI></NOTE></L>
+<L>My dame farith as wele, as ye: <NOTE PLACE="foot">5 ye] thowe <HI REND="italic">P</HI></NOTE></L>
+<L>Thow haste no cause to chyde.' <MILESTONE N="55" UNIT="Hw. S."/> <NOTE PLACE="foot">6 Thow—cause] What menys thou thus <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII (Wr. XXXVI).</HEAD>
+<L>The boye sayde: 'Will þ<HI REND="italic">o</HI>u wite, <NOTE PLACE="foot">1 Ser he sayd and ȝe wylle wytt <HI REND="italic">P</HI></NOTE></L>
+<L>How fele byrdis I can shete <NOTE PLACE="foot">2 fele] welle <HI REND="italic">P</HI> ‖ I] that y <HI REND="italic">P</HI></NOTE></L>
+<L>And oþ<HI REND="italic">er</HI> thyng<HI REND="italic">is</HI> all? <MILESTONE N="225" UNIT="Hz."/> <NOTE PLACE="foot">3 And do heme down to fall <HI REND="italic">P</HI></NOTE></L>
+<L>I trowe, þough I be but lyȝt, <NOTE PLACE="foot">4 Ȝondyr is on that ys but lytte <HI REND="italic">P</HI></NOTE></L>
+<L>Yonder birde shall I smyte, <NOTE PLACE="foot">5 As y trow y schall hym smytt <HI REND="italic">P</HI></NOTE></L>
+<L>And geve it þ<HI REND="italic">e</HI> I shall.' <NOTE PLACE="foot">6 it] hym <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX (Wr. XXXVII).</HEAD>
+<L>Ther sat a byrde on a brere: <NOTE PLACE="foot">1 The byrd sat upon the breyr <HI REND="italic">P</HI></NOTE></L>
+<L>'Shote on þ<HI REND="italic">a</HI>t,' q<HI REND="italic">uo</HI>d the frere; <MILESTONE N="230" UNIT="Hz."/> <NOTE PLACE="foot">2 on þat quod] one boy sayd <HI REND="italic">P</HI></NOTE></L>
+<L>'That lystyth me to se.' <NOTE PLACE="foot">3 For that me leste to se <HI REND="italic">P</HI></NOTE></L>
+<L>The boye smote it on þ<HI REND="italic">e</HI> hede, <NOTE PLACE="foot">4 hyt the byrd upon <HI REND="italic">P</HI></NOTE></L>
+<L>That it felle dovne þ<HI REND="italic">er</HI> dede: <NOTE PLACE="foot">5 That it] Yn the hegge he <HI REND="italic">P</HI> ‖ þer <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>It myȝte no leng<HI REND="italic">er</HI> flee. <NOTE PLACE="foot">6 forther <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="40">
+<HEAD>XL (Wr. XXXVIII).</HEAD>
+<L>The frere in to þ<HI REND="italic">e</HI> hegge went, <MILESTONE N="235" UNIT="Hz."/> <NOTE PLACE="foot">1 went] he went <HI REND="italic">P</HI></NOTE></L>
+<L>And þ<HI REND="italic">e</HI> birde vp he hente, <NOTE PLACE="foot">2 þe—he] lyȝtly he it up <HI REND="italic">P</HI></NOTE></L>
+<L>As it was for to don.</L>
+<L>The boye leyde a side his bowe <NOTE PLACE="foot">4 l. a side] cast down <HI REND="italic">P</HI></NOTE></L>
+<L>Full hastly, as I trowe,</L>
+<L>And tooke his pype sone. <MILESTONE N="240" UNIT="Hz."/> <NOTE PLACE="foot">5. 6 And toke hys pype and began to blowe Full lyȝtly and full sone <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="41">
+<HEAD>XLI (Wr. XXXIX).</HEAD>
+<L>Whan þ<HI REND="italic">e</HI> frere þ<HI REND="italic">e</HI> pipe herde,</L>
+<L>As a wodman, he ferde <NOTE PLACE="foot">2 he] than he <HI REND="italic">P</HI></NOTE></L>
+<L>And be-gan to lepe a bowte: <NOTE PLACE="foot">3 lepe] stertyll <HI REND="italic">P</HI></NOTE></L>
+<L>A monge þ<HI REND="italic">e</HI> bowis smale <HI REND="italic">and</HI> grete <NOTE PLACE="foot">4 boyschys <HI REND="italic">P</HI></NOTE></L>
+<L>A bovte lyȝtly gan he lepe, <MILESTONE N="245" UNIT="Hz."/> <NOTE PLACE="foot">5 Fast abowte he gan to lepe <HI REND="italic">P</HI></NOTE></L>
+<L>But he cowde nowhere owte. <NOTE PLACE="foot">6 nowhere] not come <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="42">
+<PB N="75" REF="19"/>
+<HEAD>XLII (Wr. XL).</HEAD>
+<L>Bremblis cracched hym in þ<HI REND="italic">e</HI> face <MILESTONE N="56r"/> <NOTE PLACE="foot">1 The bramblys <HI REND="italic">P</HI></NOTE></L>
+<L>And eke in many a noþ<HI REND="italic">er</HI> place: <MILESTONE N="250" UNIT="Hz."/> <NOTE PLACE="foot">2 eke <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>His body be-gan to blede. <MILESTONE N="56" UNIT="Hw. S."/> <NOTE PLACE="foot">3 That hys sydes began <HI REND="italic">P</HI></NOTE></L>
+<L>He rent his clothis by and by, <NOTE PLACE="foot">4 He] And <HI REND="italic">P</HI></NOTE></L>
+<L>His girdill and his chapelery <NOTE PLACE="foot">5 girdill] kyrtyll <HI REND="italic">P</HI> ‖ kapelary <HI REND="italic">P</HI></NOTE></L>
+<L>And all his oþ<HI REND="italic">er</HI> weede.</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII (Wr. XLI). <NOTE PLACE="foot">fehlt P</NOTE></HEAD>
+<L>Eu<HI REND="italic">er</HI> þ<HI REND="italic">e</HI> boye blewe <HI REND="italic">and</HI> lewh a monge,</L>
+<L>How þ<HI REND="italic">e</HI> frere lepe and wronge:</L>
+<L>He leped wonder hye. <MILESTONE N="255" UNIT="Hz."/></L>
+<L>Than sayed þ<HI REND="italic">e</HI> boye <HI REND="italic">and</HI> sware w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all:</L>
+<L>'Be my trowth, here is a sporte ryall</L>
+<L>For any man to se w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yee.'</L>
+</LG>
+<LG N="44">
+<HEAD>XLIV (Wr. XLII, 1-5).</HEAD>
+<L>Eu<HI REND="italic">er</HI> þ<HI REND="italic">e</HI> frere hyld vp his honde <NOTE PLACE="foot">1 The freyr often held <HI REND="italic">P</HI></NOTE></L>
+<L>And callid to hym a monge <NOTE PLACE="foot">2 And cryed unto the boy among <HI REND="italic">P</HI></NOTE></L>
+<L>And prayed hym be stylle, <NOTE PLACE="foot">3 him to be <HI REND="italic">P</HI></NOTE></L>
+<L>'And here my trowth I plyȝte to þ<HI REND="italic">e,</HI> <MILESTONE N="260" UNIT="Hz."/> <NOTE PLACE="foot">4 And here] Ser <HI REND="italic">P</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u shalte neu<HI REND="italic">er</HI> haue harme of me: <NOTE PLACE="foot">5 neuer haue] have no <HI REND="italic">P</HI> ‖ of] for <HI REND="italic">P</HI></NOTE></L>
+<L>I will do þ<HI REND="italic">e</HI> non ylle.' <NOTE PLACE="foot">6 I] Nor never <HI REND="italic">P</HI> non <HI REND="italic">fehlt P</HI></NOTE></L>
+</LG>
+<LG N="45">
+<HEAD>XLV (Wr. XLII, 6-8).</HEAD>
+<L>The boye seide to hym þ<HI REND="italic">a</HI>t tyde: <NOTE PLACE="foot">1 to hym] yn <HI REND="italic">P</HI></NOTE></L>
+<L>'Crepe owte on þ<HI REND="italic">a</HI>t oþ<HI REND="italic">er</HI> syde <NOTE PLACE="foot">2 the tother <HI REND="italic">P</HI></NOTE></L>
+<L>And hye þ<HI REND="italic">e,</HI> þ<HI REND="italic">o</HI>u were go. <NOTE PLACE="foot">3 þ<HI REND="italic">e]</HI> that <HI REND="italic">P</HI> ‖ ware agoo <HI REND="italic">P</HI></NOTE></L>
+<L>My dame made a pleynte to þ<HI REND="italic">e,</HI> <NOTE PLACE="foot">4 hathe mad hyr complaynt to me <HI REND="italic">(so) P</HI></NOTE></L>
+<L>And now I can non oþ<HI REND="italic">er</HI> se: <NOTE PLACE="foot">5 In fayth the best that y kan se <HI REND="italic">P</HI></NOTE></L>
+<L>Thow must compleyne to her also.' <NOTE PLACE="foot">6 Thow m. c.] Goo playn <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="46">
+<HEAD>XLVI (Wr. XLIII).</HEAD>
+<L>The frere ovte of þ<HI REND="italic">e</HI> hegge wente <MILESTONE N="265" UNIT="Hz."/></L>
+<L>All to-raged and to-rente</L>
+<L>And torne on eu<HI REND="italic">er</HI>y syde: <NOTE PLACE="foot">3 And t.] To torne <HI REND="italic">P</HI></NOTE></L>
+<L><PB N="76" REF="20"/>
+Vnneth he had any clowte <NOTE PLACE="foot">4 He had not left an holle clowte <HI REND="italic">P</HI></NOTE></L>
+<L>Forto wende hys body a bowte <NOTE PLACE="foot">5 Forto w.] Wherwith to hyde <HI REND="italic">P</HI></NOTE></L>
+<L>His arsse for to hyde. <MILESTONE N="270" UNIT="Hz."/> <NOTE PLACE="foot">6 Hys armes heng full syde <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="47">
+<HEAD>XLVII (Wr. XLIV). <NOTE PLACE="foot">fehlt P</NOTE></HEAD>
+<L>Boþ<HI REND="italic">e</HI> his fyng<HI REND="italic">er</HI>s and his face <MILESTONE N="56v"/></L>
+<L>Were crached in many a place</L>
+<L>And be-rayed all w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> bloode.</L>
+<L>Eu<HI REND="italic">er</HI>y man, þ<HI REND="italic">a</HI>t hym gan se, <NOTE PLACE="foot">4 u <HI REND="italic">in</HI> Eu<HI REND="italic">er</HI>y <HI REND="italic">aus</HI> e? <HI REND="italic">R</HI></NOTE></L>
+<L>They were hym fayne for to fle: <MILESTONE N="275" UNIT="Hz."/></L>
+<L>They went, þ<HI REND="italic">e</HI> frere had bene woode.</L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII (Wr. XLV).</HEAD>
+<L>Whan he cam to his oste,</L>
+<L>Of his iorney made he no boste:</L>
+<L>He was both tame <HI REND="italic">and</HI> tale. <NOTE PLACE="foot">3 torne and talle <HI REND="italic">P</HI></NOTE></L>
+<L>Moche sorow in hert he had; <MILESTONE N="280" UNIT="Hz."/> <NOTE PLACE="foot">4 Mykyll <HI REND="italic">P</HI></NOTE></L>
+<L>For eu<HI REND="italic">er</HI>y man was a-drad, <NOTE PLACE="foot">5 Full sore of hym they wer adrad <HI REND="italic">P</HI></NOTE></L>
+<L>Whan he came into þ<HI REND="italic">e</HI> hall. <MILESTONE N="57" UNIT="Hw. S."/></L>
+</LG>
+<LG N="49">
+<HEAD>XLIX (Wr. XLVI).</HEAD>
+<L>The good wyf sayed: 'Where hast þ<HI REND="italic">o</HI>u be?</L>
+<L>In shrewde place, as semyth me, <NOTE PLACE="foot">2 thynkys <HI REND="italic">P</HI></NOTE></L>
+<L>Me thynke, be þyn araye.' <MILESTONE N="285" UNIT="Hz."/> <NOTE PLACE="foot">3 Hyt semyth <HI REND="italic">P</HI></NOTE></L>
+<L>He seid: 'I haue be w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þy son. <NOTE PLACE="foot">4 He] The freyr <HI REND="italic">P</HI></NOTE></L>
+<L>The devill of helle hym ou<HI REND="italic">er</HI>-com;</L>
+<L>For, cert<HI REND="italic">is,</HI> I ne maye.'</L>
+</LG>
+<LG N="50">
+<HEAD>L (Wr. XLVII).</HEAD>
+<L>Than cam in þ<HI REND="italic">e</HI> goodman: <NOTE PLACE="foot">1 Soon after com hom the <HI REND="italic">P</HI></NOTE></L>
+<L>'Lo, sir,' seid þ<HI REND="italic">e</HI> good wyf þan, <MILESTONE N="290" UNIT="Hz."/> <NOTE PLACE="foot">2 Be god sayd the wyffe <HI REND="italic">P</HI></NOTE></L>
+<L>'Here is a shrewid a-raye:</L>
+<L>Thy son, þ<HI REND="italic">a</HI>t is to þ<HI REND="italic">e</HI> so leef and dere, <NOTE PLACE="foot">4 to <HI REND="italic">und</HI> so <HI REND="italic">fehlen P</HI></NOTE></L>
+<L>Hath almoste slayne þ<HI REND="italic">is</HI> holy frere. <NOTE PLACE="foot">5 Had <HI REND="italic">P</HI> ‖ holy] swet <HI REND="italic">P</HI></NOTE></L>
+<L>Alas and weleaweye!' <NOTE PLACE="foot">6 and] alas a <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="51">
+<PB N="77" REF="21"/>
+<HEAD>LI (Wr. XLVIII).</HEAD>
+<L>The goodman seide: 'Benedicite! <MILESTONE N="295" UNIT="Hz."/></L>
+<L>What hath my boye don to þ<HI REND="italic">e?</HI> <NOTE PLACE="foot">2 my] the <HI REND="italic">P</HI></NOTE></L>
+<L>Tell me anon blyve.' <NOTE PLACE="foot">3 anon b.] without stryffe <HI REND="italic">P</HI></NOTE></L>
+<L>The frere seyde: 'Be seynt Iame, <NOTE PLACE="foot">4 The f.] Ser he <HI REND="italic">P</HI></NOTE></L>
+<L>I haue dauncid in þ<HI REND="italic">e</HI> devill<HI REND="italic">is</HI> name.'</L>
+<L>The goodman seyde to hym belyve: <MILESTONE N="300" UNIT="Hz."/> <NOTE PLACE="foot">6 Tyll y had ny loste my lyff <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="52">
+<HEAD>LII (Wr. XLIX).</HEAD>
+<L>These word<HI REND="italic">is</HI> seyde he tho: <NOTE PLACE="foot">1 The good mane sayd to hym tho <HI REND="italic">P</HI></NOTE></L>
+<L>'And þ<HI REND="italic">o</HI>u haddist lorne þ<HI REND="italic">i</HI> lyf so, <NOTE PLACE="foot">2 Yff thou had lost <HI REND="italic">P</HI></NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u haddist be in grete synne.' <NOTE PLACE="foot">3 Thou had <HI REND="italic">P</HI></NOTE></L>
+<L>The frere seide: 'I shall tell, why: <NOTE PLACE="foot">4 Ser sayd the freyr sekerly <HI REND="italic">P</HI></NOTE></L>
+<L>Me thouȝte, þ<HI REND="italic">e</HI> pipe went so merely, <MILESTONE N="305" UNIT="Hz."/> <NOTE PLACE="foot">5 þe p. w.] he pyped <HI REND="italic">P</HI></NOTE></L>
+<L>That I cowde not blynne.' <NOTE PLACE="foot">6 not] never <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="52a">
+<HEAD>LIIa.</HEAD>
+<L>'Be my trowth,' þan seide he, <NOTE PLACE="foot">1 The good man sayd so mot y thee <HI REND="italic">P</HI></NOTE></L>
+<L>'Than is þ<HI REND="italic">a</HI>t a mery gle,</L>
+<L>Or ellys þ<HI REND="italic">o</HI>u art to blame. <MILESTONE N="58" UNIT="Hw. S."/> <NOTE PLACE="foot">3 Or] And <HI REND="italic">P</HI> ‖ artto <HI REND="italic">ursprünglich, aber dann durch Striche getrennt R,</HI> war to <HI REND="italic">P</HI></NOTE></L>
+<L>That pipe will I here, trvly.' <NOTE PLACE="foot">4 will] he sayd woll <HI REND="italic">P</HI> ‖ trvly <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>The frere saide: 'So will not I, <NOTE PLACE="foot">5 So wolle not y quod the freyere <HI REND="italic">P</HI></NOTE></L>
+<L>Be god and be seynte Iame.'</L>
+</LG>
+<LG N="53">
+<HEAD>LIII (Wr. L).</HEAD>
+<L>Aft<HI REND="italic">er</HI>ward, whan it was nyȝte,</L>
+<L>Homeward went þ<HI REND="italic">e</HI> boy ryght, <NOTE PLACE="foot">2 Hom come the boy full ryȝt <HI REND="italic">P</HI></NOTE></L>
+<L>As it was forto done. <NOTE PLACE="foot">3 As he was wont to done <HI REND="italic">P</HI></NOTE></L>
+<L>As soon as he came in to þ<HI REND="italic">e</HI> hall, <MILESTONE N="310" UNIT="Hz."/> <NOTE PLACE="foot">4 As—as] Whan <HI REND="italic">P</HI></NOTE></L>
+<L>A non his fader did hym call <NOTE PLACE="foot">5 did] gane <HI REND="italic">P</HI></NOTE></L>
+<L>And seide: 'Boye, come heder a non. <NOTE PLACE="foot">6 An <HI REND="italic">R,</HI> And <HI REND="italic">P</HI> ‖ Boye—a non] hydyr com thou sone <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="54">
+<HEAD>LIV (Wr. LI).</HEAD>
+<L>Herke, boy, now þ<HI REND="italic">o</HI>u arte here: <NOTE PLACE="foot">1 Herke b.] Boy he sayd <HI REND="italic">P</HI></NOTE></L>
+<L>What hast þ<HI REND="italic">o</HI>u don to þ<HI REND="italic">is</HI> frere?</L>
+<L>Telle me w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> owte lettynge.' <MILESTONE N="315" UNIT="Hz."/> <NOTE PLACE="foot">3 lessyng <HI REND="italic">P</HI></NOTE></L>
+<L><PB N="78" REF="22"/>
+'Fader,' he seide, 'in good faye,</L>
+<L>I did ryȝt nouȝt to hym þ<HI REND="italic">is</HI> day, <NOTE PLACE="foot">5 not <HI REND="italic">durchgestrichen vor</HI> nouȝt <HI REND="italic">R</HI> ‖ þis] to <HI REND="italic">P</HI></NOTE></L>
+<L>But pipe him a sprynge.' <NOTE PLACE="foot">6 pyped <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="55">
+<HEAD>LV (Wr. LII).</HEAD>
+<L>'That pipe,' he seide, 'will I here.' <NOTE PLACE="foot">1 That p. he seide] Boy that pype <HI REND="italic">P</HI></NOTE></L>
+<L>'Nay, for god,' q<HI REND="italic">uo</HI>d þ<HI REND="italic">e</HI> frere: <MILESTONE N="320" UNIT="Hz."/> <NOTE PLACE="foot">2 Nay f. g.] So wyll not y <HI REND="italic">P</HI></NOTE></L>
+<L>'Þ<HI REND="italic">a</HI>t were an evill thynge.' <NOTE PLACE="foot">3 For that <HI REND="italic">P</HI> ‖ an evill th.] hevy tydyng <HI REND="italic">P</HI></NOTE></L>
+<L>The good man sayde: 'Ys, be godd<HI REND="italic">is</HI> g<HI REND="italic">r</HI>ace.' <MILESTONE N="57v"/></L>
+<L>The frere seide: 'Alas, alas!'</L>
+<L>His hand<HI REND="italic">is</HI> he gan wrynge. <NOTE PLACE="foot">6 And handes began to wryng <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="56">
+<HEAD>LVI (Wr. LIII).</HEAD>
+<L>'For godd<HI REND="italic">is</HI> love,' q<HI REND="italic">uo</HI>d þ<HI REND="italic">e</HI> frere, <MILESTONE N="325" UNIT="Hz."/> <NOTE PLACE="foot">1 sayd <HI REND="italic">P</HI></NOTE></L>
+<L>'And ye will þ<HI REND="italic">e</HI> pipe here, <NOTE PLACE="foot">2 Yff <HI REND="italic">P</HI> ‖ thys p. <HI REND="italic">P</HI></NOTE></L>
+<L>Bynde me to þ<HI REND="italic">e</HI> poste. <NOTE PLACE="foot">3 to] one to <HI REND="italic">P</HI> ‖ þe] a <HI REND="italic">P</HI></NOTE></L>
+<L>I-wis, I can no bett<HI REND="italic">er</HI> rede:</L>
+<L>I wote, I shall be dede; <NOTE PLACE="foot">5 Well y wot <HI REND="italic">P</HI></NOTE></L>
+<L>My lyffe wyll sone be loste.' <MILESTONE N="330" UNIT="Hz."/> <MILESTONE N="59" UNIT="Hw. S."/> <NOTE PLACE="foot">6 wyll sone be] is ny hand <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="57">
+<HEAD>LVII (Wr. LIV).</HEAD>
+<L>Ropys a non þey had in hond, <NOTE PLACE="foot">1 had] toke <HI REND="italic">P</HI></NOTE></L>
+<L>And to þ<HI REND="italic">e</HI> poste þey hym bond, <NOTE PLACE="foot">2 And] The freyr <HI REND="italic">P</HI> ‖ hym <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>That stode in þ<HI REND="italic">e</HI> hall. <NOTE PLACE="foot">3 in] in the mydes of <HI REND="italic">P</HI></NOTE></L>
+<L>Tho, þ<HI REND="italic">a</HI>t at soup<HI REND="italic">er</HI> satte, <NOTE PLACE="foot">4 Tho—at] All they that at the <HI REND="italic">P</HI></NOTE></L>
+<L>They had good game <HI REND="italic">and</HI> lough þ<HI REND="italic">er</HI>at <MILESTONE N="335" UNIT="Hz."/> <NOTE PLACE="foot">5 They] Lowȝ and <HI REND="italic">P</HI> ‖ and lough <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>And seid: 'Now þ<HI REND="italic">e</HI> frere shall not fall.' <NOTE PLACE="foot">6 Now <HI REND="italic">fehlt P</HI> ‖ shall] myȝt <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="58">
+<HEAD>LVIII (Wr. LV).</HEAD>
+<L>Than spake þ<HI REND="italic">e</HI> good man, <NOTE PLACE="foot">1 bespake <HI REND="italic">P</HI></NOTE></L>
+<L>To his son he seyde þan: <NOTE PLACE="foot">2 And to <HI REND="italic">P</HI> ‖ sayd he <HI REND="italic">P</HI></NOTE></L>
+<L>'Pipe on, what þ<HI REND="italic">o</HI>u wylte.' <NOTE PLACE="foot">3 what] whan <HI REND="italic">P</HI></NOTE></L>
+<L>'All redy, fader,' seide he. <MILESTONE N="340" UNIT="Hz."/> <NOTE PLACE="foot">4 he <HI REND="italic">vor</HI> seide <HI REND="italic">und</HI> þan <HI REND="italic">vor</HI> he <HI REND="italic">getilgt R</HI></NOTE></L>
+<L>'I shall yow shewe of my gle: <NOTE PLACE="foot">5 I] Ȝe <HI REND="italic">P</HI> ‖ yow shewe] her <HI REND="italic">P</HI></NOTE></L>
+<L>Ye shall haue a fytte.' <NOTE PLACE="foot">6 Y wyll geve yowe a fytt <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="59">
+<PB N="79" REF="23"/>
+<HEAD>LIX (Wr. LVI).</HEAD>
+<L>As soon as þ<HI REND="italic">e</HI> pype wente, <NOTE PLACE="foot">1 þe] ever the <HI REND="italic">P</HI></NOTE></L>
+<L>They myȝte not hemselfe stent, <NOTE PLACE="foot">2 Then myȝt no man hymselfe stent <HI REND="italic">P</HI></NOTE></L>
+<L>But be-gan to daunce <HI REND="italic">and</HI> lepe. <MILESTONE N="345" UNIT="Hz."/></L>
+<L>[They, that gan the pype here,</L>
+<L>Myght not hemselfe stere,</L>
+<L>But hurled upone an hepe.] <NOTE PLACE="foot">4-6 <HI REND="italic">aus P, fehlen R</HI></NOTE></L>
+</LG>
+<LG N="59a">
+<HEAD>LIXa.</HEAD>
+<L>Tho, þ<HI REND="italic">a</HI>t at soup<HI REND="italic">er</HI> satte, <NOTE PLACE="foot">1 Tho] Than they <HI REND="italic">P</HI></NOTE></L>
+<L>Ou<HI REND="italic">er</HI> þ<HI REND="italic">e</HI> table anon þey lepte <NOTE PLACE="foot">2 anon þ. l.] ȝede som under crape <HI REND="italic">P</HI></NOTE></L>
+<L>And sterid in þ<HI REND="italic">a</HI>t stounde. <NOTE PLACE="foot">3 sterid] sterte up <HI REND="italic">P</HI></NOTE></L>
+<L>They, þ<HI REND="italic">a</HI>t sat on þ<HI REND="italic">e</HI> forme, <NOTE PLACE="foot">4 upon <HI REND="italic">P</HI></NOTE></L>
+<L>Had no tyme hem to turne: <NOTE PLACE="foot">5 hem] for <HI REND="italic">P</HI></NOTE></L>
+<L>They were borne to þe grounde. <MILESTONE N="58r"/> <NOTE PLACE="foot">6 But war bore downe to <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="60">
+<HEAD>LX (Wr. LVII).</HEAD>
+<L>The goodman was in dispeyre, <NOTE PLACE="foot">1 was] wex <HI REND="italic">P</HI></NOTE></L>
+<L>Streyte he sterte owte of þ<HI REND="italic">e</HI> cheyre <MILESTONE N="350" UNIT="Hz."/> <NOTE PLACE="foot">2 Streyte] And lyȝtly <HI REND="italic">P</HI> ‖ lept <HI REND="italic">P</HI> ‖ þe] hys <HI REND="italic">P</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> an hevy chere. <MILESTONE N="60" UNIT="Hw. S."/> <NOTE PLACE="foot">3 And with a full good chere <HI REND="italic">P</HI></NOTE></L>
+<L>Som sterte ou<HI REND="italic">er</HI> þ<HI REND="italic">e</HI> stoke <NOTE PLACE="foot">4 sterte] in fayth lepe <HI REND="italic">P</HI></NOTE></L>
+<L>And brake her shynnes a geyn bloke, <NOTE PLACE="foot">5 aȝens the bloke <HI REND="italic">P</HI></NOTE></L>
+<L>And som in þ<HI REND="italic">e</HI> fyre felle. <NOTE PLACE="foot">6 fell yn the fyere <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="61">
+<HEAD>LXI (Wr. LVIII).</HEAD>
+<L>The good wyfe cam in be hynde, <MILESTONE N="355" UNIT="Hz."/> <NOTE PLACE="foot">1 Than com in the good wyff behynd <HI REND="italic">P</HI></NOTE></L>
+<L>She be-gan to lepe and wynde <NOTE PLACE="foot">2 and to <HI REND="italic">P</HI></NOTE></L>
+<L>And sharpely for to shake. <NOTE PLACE="foot">3 sh. for] fast began <HI REND="italic">P</HI></NOTE></L>
+<L>But, when she lokid on litill Iak, <NOTE PLACE="foot">4 But <HI REND="italic">fehlt P</HI></NOTE></L>
+<L>Her arsse to hym scpake <NOTE PLACE="foot">5 And hyr neybors to hyr spake <HI REND="italic">P</HI> ‖ scpake <HI REND="italic">oder</HI> sopake? <HI REND="italic">R</HI></NOTE></L>
+<L>And lowde be-gan to crake. <MILESTONE N="360" UNIT="Hz."/> <NOTE PLACE="foot">6 And lowde] Hyr ars <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="62">
+<HEAD>LXII (Wr. LIX).</HEAD>
+<L>The frere was all-moste loste:</L>
+<L>He beete his hede a geyne þ<HI REND="italic">e</HI> poste; <NOTE PLACE="foot">2 knokyd <HI REND="italic">P</HI></NOTE></L>
+<L>He had non oþ<HI REND="italic">er</HI> grace. <NOTE PLACE="foot">3 non oþer] no beter <HI REND="italic">P</HI></NOTE></L>
+<L><PB N="80" REF="24"/>
+The rope rubbid of þ<HI REND="italic">e</HI> skynne: <NOTE PLACE="foot">4 The ropys <HI REND="italic">P</HI> ‖ of] away <HI REND="italic">P</HI></NOTE></L>
+<L>I woote, þ<HI REND="italic">e</HI> blode ranne doune be hym <MILESTONE N="365" UNIT="Hz."/> <NOTE PLACE="foot">5 I woote] That <HI REND="italic">P</HI> ‖ doune be hym] to hys chyne <HI REND="italic">P</HI></NOTE></L>
+<L>In many dyu<HI REND="italic">er</HI>s place. <NOTE PLACE="foot">6 many a d. <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="63">
+<HEAD>LXIII (Wr. LX).</HEAD>
+<L>The boye went pypyng in þ<HI REND="italic">e</HI> strete <NOTE PLACE="foot">1 Than whent the boy p. <HI REND="italic">P</HI></NOTE></L>
+<L>And aft<HI REND="italic">er</HI> hym hoole all þ<HI REND="italic">e</HI> hepe; <NOTE PLACE="foot">2 hoole] hurlyd <HI REND="italic">P</HI></NOTE></L>
+<L>Þey myȝte neu<HI REND="italic">er</HI> astentt. <NOTE PLACE="foot">3 They cowd not hemselfe stynt <HI REND="italic">P</HI></NOTE></L>
+<L>They went owte at þ<HI REND="italic">e</HI> dore so thyke, <MILESTONE N="370" UNIT="Hz."/></L>
+<L>That eche man fell in oþ<HI REND="italic">er</HI>s neke:</L>
+<L>So myȝtely ovte þey wente. <NOTE PLACE="foot">6 wyghtly <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="64">
+<HEAD>LXIV (Wr. LXI).</HEAD>
+<L>They, þ<HI REND="italic">a</HI>t dwellyd þ<HI REND="italic">er</HI> by, <NOTE PLACE="foot">1 Than the men that <HI REND="italic">P</HI></NOTE></L>
+<L>Harde þe pype, sekyrly, <NOTE PLACE="foot">2 They herd <HI REND="italic">P</HI></NOTE></L>
+<L>In place, þ<HI REND="italic">er</HI> they sat. <MILESTONE N="375" UNIT="Hz."/> <NOTE PLACE="foot">3 pl. þer] setes wher <HI REND="italic">P</HI> ‖ sette <HI REND="italic">P</HI></NOTE></L>
+<L>A non þey lepte ou<HI REND="italic">er</HI> þ<HI REND="italic">e</HI> hacche: <NOTE PLACE="foot">4 Som in fayth lepe <HI REND="italic">P</HI></NOTE></L>
+<L>They had no tome to vndo þ<HI REND="italic">e</HI> lacche; <MILESTONE N="58v"/> <NOTE PLACE="foot">5 tome] tyme <HI REND="italic">P</HI> ‖ vndo] seche <HI REND="italic">P</HI></NOTE></L>
+<L>They were so lothe to lette. <MILESTONE N="61" UNIT="Hw. S."/> <NOTE PLACE="foot">6 For they <HI REND="italic">P</HI> ‖ so <HI REND="italic">fehlt P</HI></NOTE></L>
+</LG>
+<LG N="65">
+<HEAD>LXV (Wr. LXII).</HEAD>
+<L>And þo, þ<HI REND="italic">a</HI>t laye in þ<HI REND="italic">er</HI> bedde, <NOTE PLACE="foot">1 Than they that in here bedys lay <HI REND="italic">P</HI></NOTE></L>
+<L>A non þey hyld vp þ<HI REND="italic">er</HI> hede, <MILESTONE N="380" UNIT="Hz."/> <NOTE PLACE="foot">2 Stert up lyȝtly as y ȝow say <HI REND="italic">P</HI></NOTE></L>
+<L>Bothe þe lesse and eke þ<HI REND="italic">e</HI> more: <NOTE PLACE="foot">3 <HI REND="italic">beide</HI> þe <HI REND="italic">und</HI> eke <HI REND="italic">fehlen P</HI></NOTE></L>
+<L>In þe strete, as I hard saye, <NOTE PLACE="foot">4 In] Ynto <HI REND="italic">P</HI> ‖ as—saye] to the play <HI REND="italic">P</HI></NOTE></L>
+<L>In feyth, þey toke þ<HI REND="italic">e</HI> ryght waye <NOTE PLACE="foot">5 In f.] Anone <HI REND="italic">P</HI></NOTE></L>
+<L>As nakyd, as þey were borne. <NOTE PLACE="foot">6 bore <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="66">
+<HEAD>LXVI (Wr. LXIII).</HEAD>
+<L>Whan þay wer gaderid all abowte, <MILESTONE N="385" UNIT="Hz."/></L>
+<L>Than was þ<HI REND="italic">er</HI> a grete rovte <NOTE PLACE="foot">2 a fulle grete <HI REND="italic">P</HI></NOTE></L>
+<L>In þ<HI REND="italic">e</HI> medyll of þ<HI REND="italic">e</HI> strete. <NOTE PLACE="foot">3 medyll] mydys <HI REND="italic">P</HI></NOTE></L>
+<L>Some were lame and myȝte not goo, <NOTE PLACE="foot">4 Some] They that <HI REND="italic">P</HI></NOTE></L>
+<L>Yt þey hoppid abovte also,</L>
+<L>And some be-gan to crepe. <MILESTONE N="390" UNIT="Hz."/> <NOTE PLACE="foot">6 On her hondys and fete <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="67">
+<PB N="81" REF="25"/>
+<HEAD>LXVII (Wr. LXIV).</HEAD>
+<L>The boye sayde: 'Fader, wyll ye reste?' <NOTE PLACE="foot">1 boye] boys fader <HI REND="italic">P</HI> ‖ Fader—ye] it is tyme to <HI REND="italic">P</HI></NOTE></L>
+<L>'In feyth,' he seide, 'I holde it beste,' <NOTE PLACE="foot">2 In—seide] All redy fader <HI REND="italic">P</HI> ‖ it] that for the <HI REND="italic">P</HI></NOTE></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ryght a good chere. <NOTE PLACE="foot">3 ryght a] a full <HI REND="italic">P</HI></NOTE></L>
+<L>'Make an ende, whan þ<HI REND="italic">o</HI>u wilte:</L>
+<L>In feyth, þ<HI REND="italic">is</HI> was þ<HI REND="italic">e</HI> meryest fytte, <MILESTONE N="395" UNIT="Hz."/> <NOTE PLACE="foot">5 it is the beste fyte <HI REND="italic">P</HI></NOTE></L>
+<L>That I hard þ<HI REND="italic">is</HI> sewyn yere.'</L>
+</LG>
+<LG N="68">
+<HEAD>[LXVIII.]</HEAD>
+<L>Whan þ<HI REND="italic">e</HI> pype went no more,</L>
+<L>Than þey am<HI REND="italic">er</HI>veylid sore <NOTE PLACE="foot">2 þey] wer they all <HI REND="italic">P</HI></NOTE></L>
+<L>Of þ<HI REND="italic">e</HI> gou<HI REND="italic">er</HI>naunce. <NOTE PLACE="foot">3 þe] ther <HI REND="italic">P</HI></NOTE></L>
+<L>'Seynt Mary,' sayde some, <NOTE PLACE="foot">4 By sente <HI REND="italic">P</HI></NOTE></L>
+<L>'Where is all þ<HI REND="italic">is</HI> myrth become,</L>
+<L>That made vs forto daunce?' <NOTE PLACE="foot">6 forto] thus to <HI REND="italic">P</HI></NOTE></L>
+</LG>
+<LG N="69">
+<HEAD>[LXIX.]</HEAD>
+<L>Eu<HI REND="italic">er</HI>y man was of good chere <NOTE PLACE="foot">1 Thus e. m. mad g. ch. <HI REND="italic">P</HI></NOTE></L>
+<L>Thank þ<HI REND="italic">e</HI> good wyfe and þ<HI REND="italic">e</HI> frere: <NOTE PLACE="foot">2 Thank] Save <HI REND="italic">P</HI></NOTE></L>
+<L>They were all dysmayde. <MILESTONE N="62" UNIT="Hw. S."/></L>
+<L>He, þ<HI REND="italic">a</HI>t hath not all his will, <NOTE PLACE="foot">4 Whether it be good or yll <HI REND="italic">P</HI> ‖ i <HI REND="italic">in</HI> his <HI REND="italic">aus etwas anderem? R</HI></NOTE></L>
+<L>Be it good, or be it ylle, <MILESTONE N="59r"/> <NOTE PLACE="foot">5 They that have not her wylle</NOTE></L>
+<L>He holdyth hym not a-payde. <NOTE PLACE="foot">6 They wyll not hold them payd</NOTE></L>
+</LG>
+<LG N="70">
+<HEAD>[LXX.] <NOTE PLACE="foot">
+<L>Hyt ys every good wyffys wone</L>
+<L>For to love hyr husbandes sone</L>
+<L>Yn well and eke yn woo.</L>
+<L>In olde termys it is fownd:</L>
+<L>He, that lovythe me, lovythe my hound</L>
+<L>And my servaunt also.</L> <HI REND="italic">P</HI></NOTE></HEAD>
+<L>Now haue ye herd all in same, <NOTE PLACE="foot">1 he <HI REND="italic">getilgt vor</HI> ye <HI REND="italic">R</HI></NOTE></L>
+<L>How Iak pleyde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his dame</L>
+<L>And pypid before þ<HI REND="italic">e</HI> frere:</L>
+<L>Hym lykyd no þyng þ<HI REND="italic">e</HI> boyes lay;</L>
+<L>Therfor he toke his leve <HI REND="italic">and</HI> went his wey</L>
+<L>Some dele w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hevy chere.</L>
+</LG>
+<LG N="71">
+<PB N="82" REF="26"/>
+<HEAD>[LXXI.] <NOTE PLACE="foot"><LG N="71">
+<HEAD>LXXI</HEAD>
+<L>So schuld every good chyld</L>
+<L>Be to hys moder meke and myld,</L>
+<L>Be good in euery degre.</L>
+<L>All womene, that love her husbondes sone,</L>
+<L>Yn hevyn blys schall be her wone.</L>
+<L>Amen, amen, for charyte!</L>
+</LG>
+<HI REND="italic">P</HI></NOTE></HEAD>
+<L>The goodman norysshyd forth his chylde,</L>
+<L>The step moder was to hym mylde,</L>
+<L>And fare wele all in fere.</L>
+<L>That lorde yow kepe, frend<HI REND="italic">is</HI> all,</L>
+<L>That dranke both eysill <HI REND="italic">and</HI> gall,</L>
+<L>Holy god in his empere.</L>
+<CLOSER>Amen.</CLOSER>
+</LG>
+<TRAILER>Here endyth þ<HI REND="italic">e</HI> tale of Iak and his step dame.</TRAILER>
+<CLOSER><DATELINE>Berlin.</DATELINE>
+<SIGNED>Julius Zupitza.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

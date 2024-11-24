@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-21-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed titles. Checked <SUP>s</SUP>. Reviewed structure; removed DIV2s; changed two HEADs to HEADNOTE Ps. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00085">
+<STC T="M">85</STC>
+<BIBNO T="mec">CME00085</BIBNO>
+<VID>CME00085</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="13" REF="4"/>
+<HEAD>Life of St. George.</HEAD>
+<HEADNOTE><P>[MS. Bodley 686.]</P></HEADNOTE>
+<HEAD>Here endeth þe life of seynte Margarete.</HEAD>
+<HEAD>And begynneth þe lyfe of the glorious martir seint George.</HEAD>
+<LG>
+<L>O ye folkes þat here present be</L>
+<L>Which of þis story shal haue inspeccion</L>
+<L>Of seint George ye may be holde &amp; see</L>
+<L>His marterdom and his passion</L>
+<L>And how he is protector and patron <MILESTONE N="5"/></L>
+<L>Þis holy martir of knyghthode lode sterre</L>
+<L>To englisshmen both in pes and werre</L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>In whos honoure sithen gon ful yore</L>
+<L>Þe thridde Edwarde of knyghthode most entier</L>
+<L>In his tyme by assent of Wyndesore <MILESTONE N="10"/></L>
+<L>ffounded þe ordre first of þe gartere</L>
+<L>Of worthi knyghtys and ay fro yere to yere</L>
+<L>xxiiijti cladde in oo lyveree <NOTE PLACE="foot">13. <HI REND="italic">ffoure and twenty</HI> Sh.</NOTE></L>
+<L>Vpon his day kept þe solempnyte</L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>This name George by interupcion <MILESTONE N="15"/> <NOTE PLACE="foot">15. <HI REND="italic">by Interpretacyoun</HI> Sh.</NOTE></L>
+<L>Is seid of tweyn þe first of holynesse</L>
+<L>And þe secunde of knyghthode &amp; renoun</L>
+<L>As myn Auctor lyketh to expresse</L>
+<L>The devel venquysshyng of maydenhode &amp; prowesse <NOTE PLACE="foot">19. <HI REND="italic">þe feonde venqwysshing</HI> Sh.</NOTE></L>
+<L>The worlde þe flessch as kristes owne knyght <MILESTONE N="20"/></L>
+<L>Where eu<HI REND="italic">er</HI> he rode in stele armed bright</L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Capadoce a myghty stronge contre <NOTE PLACE="foot">22. <HI REND="italic">strong Citee</HI> Sh.</NOTE></L>
+<L>As þe storye of him list endite</L>
+<L>Ordeyned was in his natiuite</L>
+<L>And in his youth he gan him selue delite <MILESTONE N="25"/> <NOTE PLACE="foot">25. <HI REND="italic">gaf him self delyte</HI> Sh.</NOTE> <NOTE PLACE="foot">Variants Sh. = from Shirley's [= Sh.] copy, B = Bodley.</NOTE></L>
+<L><PB N="14" REF="5"/>
+ffro day to day as clerkis of him write</L>
+<L>To sue vertu so gynnyng his passage</L>
+<L>Vices excludyng al riot and outerage</L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>And cristes feith for to magnifie</L>
+<L>Atte gretter age his contre he forsoke <MILESTONE N="30"/> <NOTE PLACE="foot">30. <HI REND="italic">be forsoke</HI> B; <HI REND="italic">he forsooke</HI> Sh.</NOTE></L>
+<L>And þorough his nobelnesse &amp; his chyualrye <NOTE PLACE="foot">31. <HI REND="italic">noblesse</HI> Sh.</NOTE></L>
+<L>Trouth to sustene ho so liste to loke</L>
+<L>Many a Jorney he vpon him toke</L>
+<L>Þe chirch defendyng with swerde of equite</L>
+<L>Right of weddewes and virginite <MILESTONE N="35"/></L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>And in þis while an aduenture is byfalle <NOTE PLACE="foot">36. <HI REND="italic">is falle</HI> Sh.</NOTE></L>
+<L>Importable þe peple to sustene</L>
+<L>Amyddys þe provynce which þat men Lybie calle</L>
+<L>In a Cite þat named is Lessene</L>
+<L>A grete dragon with skalys siluer shene <MILESTONE N="40"/></L>
+<L>Horrible dredeful &amp; monstrous of sight <NOTE PLACE="foot">41. <HI REND="italic">monstruous</HI> Sh.</NOTE></L>
+<L>To fore þe Cite lay both day and nyght</L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>The kyng the quene the lordes taken hede</L>
+<L>Of þis sodeyn [w]ooful aventure <NOTE PLACE="foot">44. Bodley omits initial <HI REND="italic">w.</HI></NOTE></L>
+<L>And the peple fallyng in grete drede <MILESTONE N="45"/></L>
+<L>Consideryng how þey stode vnsure <NOTE PLACE="foot">46. <HI REND="italic">howe þat þey</HI> Sh.</NOTE></L>
+<L>As þey þat myght þe myschef not endure</L>
+<L>Made by þe assent of þat fel dragon <NOTE PLACE="foot">48. <HI REND="italic">by assaute of that felle dragoun</HI> Sh.</NOTE></L>
+<L>By pestelence vpon þer woful toun</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>But when þe counsel of þe toun toke kepe <MILESTONE N="50"/></L>
+<L>How þer peyne was intollerable <NOTE PLACE="foot">51. <HI REND="italic">Howe þat þeyre</HI> Sh.</NOTE></L>
+<L>They senten oute eu<HI REND="italic">er</HI>y day two shepe</L>
+<L>To þis beste foule and abhominable</L>
+<L>To stanch his honger which was vnstancheable</L>
+<L><PB N="15" REF="6"/>
+But when þare shepe by p<HI REND="italic">ro</HI>cesse gan to faile <MILESTONE N="55"/></L>
+<L>Thei moste of newe p<HI REND="italic">ro</HI>uyde for more vitaille <NOTE PLACE="foot">56. Shirley has no <HI REND="italic">for.</HI></NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>And when þey founde no refute nor comforte</L>
+<L>ffor þe dragon to make purveaunce</L>
+<L>When þey token by lot or by sorte <NOTE PLACE="foot">59. <HI REND="italic">þane þey tooke</HI> Sh. He writes lines 60, 61 in the reverse order.</NOTE></L>
+<L>Like as it felle on þer mortal chaunce <MILESTONE N="60"/></L>
+<L>Man or childe þer vitaille to avaunce</L>
+<L>Allas allas it was to grete pitee</L>
+<L>To seen þe sorowe þat was in þat Cite</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>The statute made non excepcion</L>
+<L>Of high ne lowe þei stode in so grete dowte <MILESTONE N="65"/></L>
+<L>Touching þat monstre and þat foule dragon</L>
+<L>Eu<HI REND="italic">er</HI>y maner man as it cam abowte <NOTE PLACE="foot">67. <HI REND="italic">Eche maner man</HI> Sh.</NOTE></L>
+<L>To byn deuoured allas þey were sent oute</L>
+<L>Til atte last þe lot in his manere <NOTE PLACE="foot">69. <HI REND="italic">in þis maner</HI> Sh.</NOTE></L>
+<L>ffil vpon þe kynges doughter dere <MILESTONE N="70"/> <NOTE PLACE="foot">70. <HI REND="italic">ffel right vpon</HI> Sh.</NOTE></L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>That she most of necessite <NOTE PLACE="foot">71. <HI REND="italic">most nexst of necessytee</HI> Sh.</NOTE></L>
+<L>Ben deuoured þ<HI REND="italic">er</HI> helpe may no mede <NOTE PLACE="foot">72. <HI REND="italic">Beo so deuowred help may</HI> Sh.</NOTE></L>
+<L>But be sent oute of þat Citee</L>
+<L>Þis sely mayde quakyng in hir drede</L>
+<L>Vpon hir honde a shepe she dide lede <MILESTONE N="75"/></L>
+<L>Hir ffader wepte hir moder boþ tweyn</L>
+<L>And al þe Citee in terys dide reyne <NOTE PLACE="foot">77. <HI REND="italic">did so reyne</HI> Sh.</NOTE></L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Atte hir oute goyng hir ffader for the nones</L>
+<L>Arrayed hir with al his ful myght</L>
+<L>In cloth of golde in gemmys and in stones <MILESTONE N="80"/></L>
+<L>Which shone ful shene agayn þe sonne bright</L>
+<L>And on hir wey she met an armed knyght</L>
+<L>Sent fro þe lorde as in hir defence</L>
+<L>Agayn þe dragon to make resistence</L>
+</LG>
+<LG N="13">
+<PB N="16" REF="7"/>
+<HEAD>13.</HEAD>
+<L>Seynt George it was oure ladies owne knyght <MILESTONE N="85"/></L>
+<L>That armed sate vpon a riol stede</L>
+<L>Which cam to socoure þis mayden in hir right</L>
+<L>Of auenture in þis grete nede</L>
+<L>Allas qd she whan she toke hede</L>
+<L>Bade him fle in his mortal fere <MILESTONE N="90"/></L>
+<L>Leste he also with hir deuoured were</L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>And whanne he sawe of hir þe manere</L>
+<L>He hadde pite and compassion <NOTE PLACE="foot">93. <HI REND="italic">He hedde</HI> B.; <HI REND="italic">and eeke compossyoun</HI> Sh.</NOTE></L>
+<L>To seen allas þe cristal stremes clere</L>
+<L>On hir chekyns renne and rayl doun <MILESTONE N="95"/> <NOTE PLACE="foot">95. <HI REND="italic">chekyns.</HI> Note that on p. 7 of his Preface to the Six-Text Chaucer Furnivall speaks of the "scanda∣lous reading" <HI REND="italic">chickens</HI> for <HI REND="italic">cheeks</HI> in l. 2834 of the Barlow 20 copy of the <HI REND="italic">Canterbury Tales.</HI></NOTE></L>
+<L>Þoghte he wolde be hir champion</L>
+<L>ffor lyf for deth from hir not departe <NOTE PLACE="foot">97. <HI REND="italic">nor deeth</HI> Sh.</NOTE></L>
+<L>But in hir querel his body to iuparte</L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>Holy seynt George his hors smote on þe side</L>
+<L>Whan he þe dragon saw lifte vp his hede <MILESTONE N="100"/></L>
+<L>And towarde him he proudely gan to ryde</L>
+<L>fful like a knyght withoute fere or drede</L>
+<L>Avisily of wit he took gode hede</L>
+<L>With his spere sharpe and kene grounde</L>
+<L>Thorgh his body he gaf þe fende a wonde <MILESTONE N="105"/></L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>This sely mayde knelyng on hir kne</L>
+<L>Vnto hir goddes makyng hir preyere <NOTE PLACE="foot">107. <HI REND="italic">maked hir preyer</HI> Sh.</NOTE></L>
+<L>And seint George when he dide hit se</L>
+<L>To hir he seide with a benyngne chere</L>
+<L>Ris vp anon myn owne doughter dere <MILESTONE N="110"/></L>
+<L>Take þi Gyrdel and make þer of a bounde</L>
+<L>And lede þis dragon bodyly on þe grounde <NOTE PLACE="foot">112. Sh. apparently has . . . <HI REND="italic">dragon boldely wt þyn honde;</HI> but the page is blurred.</NOTE></L>
+</LG>
+<LG N="17">
+<PB N="17" REF="8"/>
+<HEAD>17.</HEAD>
+<L>Into the Citee like a conqueresse</L>
+<L>And þe dragon mekely shal obeye</L>
+<L>And to þe Citee anon she gan hir dresse <MILESTONE N="115"/></L>
+<L>The owgle monstre dorst it not withseye</L>
+<L>And seynt George þe maide gan conveye</L>
+<L>Þat when þe kyng had inspeccion <NOTE PLACE="foot">118. <HI REND="italic">hed inspeccion</HI> B.</NOTE></L>
+<L>With palms and laurer he goth a procession</L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>Yevyng to him þe laude of his victorye <MILESTONE N="120"/> <NOTE PLACE="foot">120. <HI REND="italic">to hem</HI> B.: <HI REND="italic">þis victorye</HI> Sh.</NOTE></L>
+<L>Which hath there Citee delyvered oute of drede</L>
+<L>And seint George to encrese his glorie</L>
+<L>Pulled oute a swerd and smote of his hede <NOTE PLACE="foot">123. <HI REND="italic">Pulled oute aswere</HI> B.</NOTE></L>
+<L>Þe peple alwey takyng ful gode hede</L>
+<L>How god þis martir list to magnyfie <MILESTONE N="125"/></L>
+<L>And him to enhance þorgh his chyvalrye</L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>Then he made þe dragon to be drawe</L>
+<L>With waynes and cartes fer oute of þe toun</L>
+<L>And after þat he taught hem cristes lawe</L>
+<L>By his doctryne and predicacon <MILESTONE N="130"/></L>
+<L>And from þere erroure by conuersioun</L>
+<L>He made hem to<HI REND="italic">ur</HI>ne / þe kynge and þe Cite</L>
+<L>And of oon herte baptyzed for to be</L>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>The kyng after in þe honoure of marie</L>
+<L>And in worship of seint George hir knyght <MILESTONE N="135"/></L>
+<L>A ful feire church gan to edifie</L>
+<L>Rich of byldyng and wonder feire of sight</L>
+<L>Mydde of þe which þer sprong vp anon right <NOTE PLACE="foot">138. Sh. omits <HI REND="italic">vp.</HI></NOTE></L>
+<L>A plesaunt welle with stremes crystallyne</L>
+<L>Whos drynke to sike was helpe and medicyne <MILESTONE N="140"/> <NOTE PLACE="foot">140. <HI REND="italic">helthe and medecyne</HI> Sh.</NOTE></L>
+</LG>
+<LG N="21">
+<HEAD>21.</HEAD>
+<L>Seynt George enforme gan þe kynge <NOTE PLACE="foot">141. <HI REND="italic">þanne enfourme gan þe kyng</HI> Sh.</NOTE></L>
+<L><PB N="18" REF="9"/>
+Of fowre þynges of grete excellence</L>
+<L>ffurst þat he shulde ouer al þyng <NOTE PLACE="foot">143. <HI REND="italic">aboue al oþer thing</HI> Sh.</NOTE></L>
+<L>Cristes churche haue in reuerence <NOTE PLACE="foot">144. <HI REND="italic">haue euer in reuerence</HI> Sh.</NOTE></L>
+<L>Worship presthode with al his diligence <MILESTONE N="145"/></L>
+<L>Haue mynde on pore and first his herte enclyne</L>
+<L>Every day to here s<HI REND="italic">er</HI>uice which is devyne <NOTE PLACE="foot">146. 147. Sh. text is: . . . <HI REND="italic">and his hert enclyne ffrome day to day to hir servyce devyne.</HI></NOTE></L>
+</LG>
+<LG N="22">
+<HEAD>22.</HEAD>
+<L>The same tyme þe story tel kan <NOTE PLACE="foot">148. <HI REND="italic">þis same tyme</HI> Sh.</NOTE></L>
+<L>Agayn Cristene þ<HI REND="italic">er</HI> was a tyrant sent</L>
+<L>The which was called Dacian <MILESTONE N="150"/> <NOTE PLACE="foot">150. <HI REND="italic">was called þoo Dacyan</HI> Sh.</NOTE></L>
+<L>Of peynym lawe he was a president</L>
+<L>And destroy was holy his entent <NOTE PLACE="foot">151. 152. Sh. writes these lines in reverse order.</NOTE></L>
+<L>The feith of crist and sleen his confessoures</L>
+<L>With diuers peynes wroght by his turmentoures</L>
+</LG>
+<LG N="23">
+<HEAD>23.</HEAD>
+<L>Whan seint George gan hereof take hede <MILESTONE N="155"/> <NOTE PLACE="foot">155. <HI REND="italic">Whane þat saint George</HI> Sh.</NOTE></L>
+<L>How þis tyrant gan cristes feith manace <NOTE PLACE="foot">156. <HI REND="italic">monace</HI> B.</NOTE></L>
+<L>He of purpose lefte his knyghtly wede</L>
+<L>And porely cladde met him in þe face</L>
+<L>Manly chered fulfilled al with grace</L>
+<L>In his presence lowde gan to crye <MILESTONE N="160"/></L>
+<L>O god þer is fye on þi ydolatrye <NOTE PLACE="foot">161. Sh. has no <HI REND="italic">þi.</HI></NOTE></L>
+</LG>
+<LG N="24">
+<HEAD>24.</HEAD>
+<L>The fals tyrant by grete violence</L>
+<L>Commaunded hath anon þat he be take</L>
+<L>And to be broght in to his presence</L>
+<L>Bad he shulde cristes feith forsake <MILESTONE N="165"/></L>
+<L>But he ne liste no delayes make</L>
+<L>Answered playnly his lyf by deth to fyne</L>
+<L>ffro cristes law no þyng shal him declyne</L>
+</LG>
+<LG N="25">
+<HEAD>25.</HEAD>
+<L>The tyrant þenne of verray cruelte</L>
+<L>Bad þat he shulde þis matere most entere <MILESTONE N="170"/> <NOTE PLACE="foot">170. Sh. has the correct reading, <HI REND="italic">þis martir moost entier.</HI></NOTE></L>
+<L><PB N="19" REF="10"/>
+Naked be hanged on a galowe tre</L>
+<L>With skorges skorged in ful fel manere <NOTE PLACE="foot">172. <HI REND="italic">With scowrges beet</HI> Sh.</NOTE></L>
+<L>And with brondes brennyng bright and clere</L>
+<L>His sides brent / were not his peynes stronge</L>
+<L>His entrailles open salt cast inne amonge <MILESTONE N="175"/> <NOTE PLACE="foot">175. <HI REND="italic">His entraylles opende</HI> Sh.</NOTE></L>
+</LG>
+<LG N="26">
+<HEAD>26.</HEAD>
+<L>The nyght after criste dede him appere <NOTE PLACE="foot">176. <HI REND="italic">þe nexst night | Cryst to him did peere</HI> Sh.</NOTE></L>
+<L>And graciously gan him to comforte</L>
+<L>Bad him suffre his peynes with ful gode chere <NOTE PLACE="foot">178. Sh. has no <HI REND="italic">ful.</HI></NOTE></L>
+<L>And in no wyse him seluen dyscomforte</L>
+<L>ffor he þe palme of victorie shal resorte <MILESTONE N="180"/> <NOTE PLACE="foot">180. <HI REND="italic">shal reporte</HI> Sh.</NOTE></L>
+<L>By his sufferaunce and wynnen þe laurere</L>
+<L>Of marterdom aboue þe sterres clere</L>
+</LG>
+<LG N="27">
+<HEAD>27.</HEAD>
+<L>This myght[y] Geaunt Cristes champion <NOTE PLACE="foot">183. B. omits the <HI REND="italic">y.</HI></NOTE></L>
+<L>Dranke bitter venym made by enchauntemente</L>
+<L>Cristes croos was his proteccion <MILESTONE N="185"/></L>
+<L>Pres<HI REND="italic">er</HI>uyng him þat he was nat shente</L>
+<L>And he þat made it of ful fals entente</L>
+<L>Sawe agayn god he hadde no puissaunce <NOTE PLACE="foot">188. <HI REND="italic">he hedde</HI> B. Cp. lines 118. 93.</NOTE></L>
+<L>fforsoke his erroure and fil in repentaunce</L>
+</LG>
+<LG N="28">
+<HEAD>28.</HEAD>
+<L>And axeth mercy in ful hvmble wyse <MILESTONE N="190"/> <NOTE PLACE="foot">190. Sh. has no <HI REND="italic">And.</HI></NOTE></L>
+<L>And by came cristen bitwyxt hope and drede</L>
+<L>Þe fals Juge fals of al justice <NOTE PLACE="foot">192. <HI REND="italic">voyde of al Iustyce</HI> Sh.</NOTE></L>
+<L>Commaunded hath þat he lese his hede</L>
+<L>And in his blode as eny rose rede</L>
+<L>He was baptised who þat kan deserne <MILESTONE N="195"/></L>
+<L>By deth des<HI REND="italic">er</HI>uyng þe lyfe þat is eterne</L>
+</LG>
+<LG N="29">
+<HEAD>29.</HEAD>
+<L>Than Dacian furious and cruele</L>
+<L>Gan of new deuysen in his tene</L>
+<L>Reysed on lofte a ful large whele</L>
+<L><PB N="20" REF="11"/>
+fful of swordes grounde sharpe and kene <MILESTONE N="200"/></L>
+<L>And seint George in his entent most clene</L>
+<L>Turned þer on in that mortal rage</L>
+<L>The whele to brake he felt no damage</L>
+</LG>
+<LG N="30">
+<HEAD>30.</HEAD>
+<L>Eke in a vessel boylyng ful of lede</L>
+<L>The holy martir was plunched doun <MILESTONE N="205"/> <NOTE PLACE="foot">205. <HI REND="italic">was eplounged downe</HI> Sh.</NOTE></L>
+<L>He ent<HI REND="italic">er</HI>ede inne withoute fere or drede</L>
+<L>Þe grace of god was his savacion</L>
+<L>And lych a bath of consulacion <NOTE PLACE="foot">208. is omitted by Shirley.</NOTE></L>
+<L>He founde þe metal confortable and clere</L>
+<L>Escapyng oute devoyde of al daungere <MILESTONE N="210"/></L>
+</LG>
+<LG N="31">
+<HEAD>31.</HEAD>
+<L>He was eke broght þe storye doth devyse</L>
+<L>In to a temple ful of maumretrye <NOTE PLACE="foot">212. Sh. writes, correctly, <HI REND="italic">mawmetrye.</HI></NOTE></L>
+<L>Of entente to have do sacrifise</L>
+<L>But al hir goddis he knyghtly hath defye <NOTE PLACE="foot">214. <HI REND="italic">can defye</HI> Sh.</NOTE></L>
+<L>And sodeynly oure feith to magnyfie <MILESTONE N="215"/></L>
+<L>A fyre of heuen was by miracle sent</L>
+<L>Wherthurgh þe temple was to asshes brent</L>
+</LG>
+<LG N="32">
+<HEAD>32.</HEAD>
+<L>And with al this we fynden in his lyfe</L>
+<L>Thorgh goddes myght &amp; gracious purveaunce</L>
+<L>That Alexandria of Dacian þe wyfe <MILESTONE N="220"/></L>
+<L>ffor soke ydolas and alle hir fals creaunce</L>
+<L>And bycame Cristene with homble attendaunce</L>
+<L>Suffred deth baptised in hir blode</L>
+<L>ffor love of him þat starfe vpon þe rode</L>
+</LG>
+<LG N="33">
+<HEAD>33.</HEAD>
+<L>And Dacian þan by a ful mortal lawe <MILESTONE N="225"/></L>
+<L>Commaunded hath in open audience</L>
+<L>Þat seint George be þorgh þe Citee drawe</L>
+<L>And after þat þis was his sentence</L>
+<L>He to ben heueded by cruel violence <NOTE PLACE="foot">229. omitted by Sh.</NOTE></L>
+<L><PB N="21" REF="12"/>
+And in his dyeng þis it is byfalle <MILESTONE N="230"/> <NOTE PLACE="foot">230. <HI REND="italic">þus it is befalle</HI> Sh.</NOTE></L>
+<L>He made his prayer for hem þat to him calle</L>
+</LG>
+<LG N="34">
+<HEAD>34. Qualiter Georgius orauit</HEAD>
+<L>O lorde qd he here myn orison <NOTE PLACE="foot">232. <HI REND="italic">þou here myn orysoun</HI> Sh.</NOTE></L>
+<L>And graunt it be vnto þe plesaunce</L>
+<L>Þat alle þe folke þat have deuocion <NOTE PLACE="foot">234. Sh. has no <HI REND="italic">þe.</HI></NOTE></L>
+<L>To me / o lorde have hem in remembraunce <MILESTONE N="235"/></L>
+<L>And condescende with eu<HI REND="italic">er</HI>y circumstaunce</L>
+<L>Of þi mercy o souereyn lorde most dere</L>
+<L>ffor my sake to heren þeire preyere</L>
+</LG>
+<LG N="35">
+<HEAD>35.</HEAD>
+<L>And al þe peple beyng in presence</L>
+<L>A vois was herde down fro þe hye heven <MILESTONE N="240"/></L>
+<L>How his prayer was graunted in sentence</L>
+<L>Of him þat is lorde of þe sterres seven</L>
+<L>And Dacian with a sodeyn leven</L>
+<L>Was brennt vnwarly by consumpsion</L>
+<L>As he repeired home to his mansion <MILESTONE N="245"/></L>
+</LG>
+<TRAILER>Here endeth the lyfe of seynt George</TRAILER>
+<TRAILER>And here begynneth þe prologe of þe xv joyes of our ladye</TRAILER>
+</DIV1>
+<DIV1 TYPE="commentary">
+<HEAD> </HEAD>
+<P>The modern student perceives no occasion for the re∣production of this entire text in the tapestry, were the re∣production of so long a poem possible; and it is difficult to see how a poem so devoid of dramatic emphasis could have furnished the illustrator with points of attachment for his pic∣tures. A similar question, so far as the length of the text is concerned, might be raised regarding the <HI REND="italic">Bycorne and Chiche∣vache:</HI> the mode of illustration is there clearer, because Shirley, in his copy of the poem, has transcribed the instructions for the workman. It is possible that the weaver or painter in∣corporated such portions of the narrative as he could repro∣duce, and ignored the rest; and in the case of the poem here printed we might surmise that the verses were not enwrought
+<PB N="22" REF="13"/>
+in the tapestry (or painted upon the wall), but read as the new mural decoration was uncovered during the "feest of St. George."</P>
+<P>However, history gives us no ground for the suggestion. In the destruction which has overtaken nearly all medieval tapestries and frescoes, we are not in a position to affirm that the use of long or of unpictorial texts in decoration was im∣possible. Two inventories of this period, those of Charles VI of France and of Henry V of England, which still exist, enumerate masses of tapestries. In the French list <NOTE N="1)" PLACE="foot">See Guiffrey in <HI REND="italic">Bibliotheque de l'Ecole de Chartes,</HI> 48: 59ff.; see 90, 109.</NOTE> we find descriptions of wallhangings <HI REND="italic">à personnages,</HI> "ou il y a au dessoubz desdits personnages escriptures et leur noms escripz"; and again a tapestry of "plusieurs autres personnages" where "au dessoubz de elles a grans escriptures"; or "ung tappiz . . . ou y a plusieurs escripteaulx". The appraiser of the English king's possessions <NOTE N="2)" PLACE="foot">Rolls of Parliament 1423, IV: 214-241.</NOTE> gives the opening phrase of the "estorie" upon each piece of tapestry; and we find "Vessi amour sovient", "Cest estorie fait mention", "Comment Bevis de Hampton", "Cest ystorie fait a remembraunce de noble Vierge Plesance", "Par ma foy veisi bon destrer", "Si poez voier en memorie", "Ycy comence pur une message", "Vees Farman premier Roy de France", "Vessi Dames de noble affaire", "Vessi une turnement comenser", "Vessi amans en consolation", "Que voet avoir certain conusans", etc. One in especial should be noticed; it is described as "Une pece d'Arras d'or de St. George, que comense en l'escripture des l<HI REND="italic">ett</HI>res d'or "Geaus est Agles" ovec les armes de Monsr de Gloucestr". This may have been the St. George tapestry possessed by Thomas Duke of Gloucester <NOTE N="3)" PLACE="foot">See the inventory of Gloucester's goods in <HI REND="italic">Archaeological Journal</HI> 54: 275-330.</NOTE>; it is of similar size.</P>
+<P>It might again be possible that beside a long romance, e. g. of Charlemagne, there existed one or many brief forms of the story adapted to wall-decoration; as at the close of the list above mentioned there appears "Sy vees le Roy Charle∣mayn." And a briefer form yet of the Emperor's story must have been used if he appeared modeled by the confectioner,
+<PB N="23" REF="14"/>
+as was the custom to present a tableau, in pastry or sugar, at the close of each course in a medieval banquet. The coro∣nation feast of Henry VI, as recorded by Fabyan, catalogues the meats of the three courses, and then describes the "sotiltee" or subtlety, with its group of figures and its accompanying verse-legend or "reason <NOTE N="1)" PLACE="foot">For example, the third course of that banquet:—"This folowing was the third cours that is for to sey first quinces in compost // Blaunde surre poudrit wt quaterfoylis gilt // veneson rostid // Egrettes // Curlewe // plover // Quaylis · snytes // Grete briddis larkes // Carpe · crabb // leche of thre colours // a cold bake mete like a sheld quaterly rede &amp; white sette with losengis and gilt and flouris of borage // ffrito<HI REND="italic">ur</HI>e crispes // A sotilte of our lady sittyng &amp; hir child in hir lapp and she holding in hir hond a croun and seynt George knelyng on the toon syde &amp; seynt Denyse on the tothir syde p<HI REND="italic">re</HI>sentyng the kynge knelyng to our lady wt this reson folowing
+<LG>
+<L>O blessid lady cristis moder dere</L>
+<L>And þow seynt George þt callid art hir knyghte</L>
+<L>Holy seynt Denyse O martir most entere</L>
+<L>The sixt Henry her p<HI REND="italic">re</HI>sent in þer sighte</L>
+<L>Shedithe of grace on hym your hevenly lighte</L>
+<L>His tendir youthe with vertu doith avaunce</L>
+<L>Bore by discent and titill of righte</L>
+<L>Justly to regn in Englond &amp; in ffraunce."</L>
+</LG>
+From the MS St. John's College Oxford LVII, which contains, in the same hand, a copy of Chaucer's <HI REND="italic">Parlement of Foules.</HI></NOTE>." The language of such a stanza, equally with that of the tapestry, required on the part of the versifier a mental attitude nowise differing from that necessary to the composition of a dumb-show or a mumming.</P>
+<P>The opening phrases of the "estories" above mentioned, with their "Vessi", should be compared with the opening phrases of the following poem by Lydgate.</P>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>Falls of seven Princes.</HEAD>
+<HEADNOTE><P>[MS. Trin. Coll. Cambr. R. 3, 20.]</P></HEADNOTE>
+<HEAD>Here folowen seven balades made by Daun John Lydegate of þe sodeine fal of certain p<HI REND="italic">ri</HI>nces of ffrance and Englande nowe late in oure dayes</HEAD>
+<LG N="1">
+<HEAD>1. Kyng Edward of Carnarvan</HEAD>
+<L>Beholde þis gret prynce Edwarde þe secounde</L>
+<L>Which of diuers landes lord was and kyng</L>
+<L><PB N="24" REF="15"/>
+But so governed was he / nowe vnderstonde</L>
+<L>By suche as caused / foule his vndoying</L>
+<L>ffor trewly to telle yowe / wt oute lesing <MILESTONE N="5"/></L>
+<L>He was deposed / by al þe rewmes assent</L>
+<L>In prisoun murdred / wt a broche in his foundament</L>
+</LG>
+<LG N="2">
+<HEAD>2. Kyng Richard þe seconde</HEAD>
+<L>Se howe Richard of Albyoun þe kyng</L>
+<L>Which in his tyme ryche and glorious was</L>
+<L>Sacred with Abyt. with corone and wt ring <MILESTONE N="10"/></L>
+<L>Yit fel his fortune so / and eke his cas</L>
+<L>Þat yvel counseyle / rewled him so elas</L>
+<L>ffor mys treting lordes of his monarchye</L>
+<L>He feyne was to resigne and in prysone dye</L>
+</LG>
+<LG N="3">
+<HEAD>3. King Charlles</HEAD>
+<L>Lo Charles. of noble ffraunce þe kyng <MILESTONE N="15"/></L>
+<L>Taken with seknesse and maladye</L>
+<L>Which lefft him never / vnto his eonding</L>
+<L>Were it of nature / or by sorcerye /</L>
+<L>Vnable he was for to governe or guye</L>
+<L>His reaume / which caused suche discencyon <MILESTONE N="20"/></L>
+<L>Þat fallen it is to gret destruccyon</L>
+</LG>
+<LG N="4">
+<HEAD>4. Þe Duc of Orlyence</HEAD>
+<L>Se nowe þis lusty Duc of Orlyaunce</L>
+<L>Which floured in Parys of chiuallerie</L>
+<L>Broþer to Charles þe kyng of ffraunce</L>
+<L>His yong hert / thought never to dye <MILESTONE N="25"/></L>
+<L>But for he vsed / þe synne of lecherye</L>
+<L>His cosin to assent was ful fayene <NOTE PLACE="foot">27. Shirley has a marginal note: <HI REND="italic">i. duc of Burgoigne John.</HI></NOTE></L>
+<L>Þat he in Parys was murdred and foule slayne.</L>
+</LG>
+<LG N="5">
+<HEAD>5. Thom<HI REND="italic">a</HI>s Duc of Gloucestre</HEAD>
+<L>Of Edward þe thridde / Thomas his sone</L>
+<L>Of Gloucestre Duc Constable of England <MILESTONE N="30"/></L>
+<L><PB N="25" REF="16"/>
+Which to love trouth it was ever his wone</L>
+<L>Yet not withstonding his entent of trouthe</L>
+<L>He murdred was at Caleys / þat was routhe</L>
+<L>And he to god and man moste acceptable</L>
+<L>And to þe comvne profit moste fauorable <MILESTONE N="35"/></L>
+</LG>
+<LG N="6">
+<HEAD>6. John Duc of Bourgoyne</HEAD>
+<L>Lo here þis Eorlle and Duc of Burgoyne boþe</L>
+<L>Oon of þe douspiers / and deon of ffraunce</L>
+<L>Howe fortune gan his prosparite to looþe</L>
+<L>And made him putte his lyff in suche balaunce</L>
+<L>þat him navayled kyn nor allyaunce <MILESTONE N="40"/></L>
+<L>Þat for his mourder / he mortherd was and slayne</L>
+<L>Of whos deth / þermynakes were fayne</L>
+</LG>
+<LG N="7">
+<HEAD>7. Þe Duc of Yrland</HEAD>
+<L>Þis duc of Yrland / of England chaumburleyn</L>
+<L>Which in plesaunce so he ledde his lyff</L>
+<L>Tyl fortune of his welthe hade disdeyn <MILESTONE N="45"/></L>
+<L>Þat causeles he parted was frome his wyff <NOTE PLACE="foot">46. Shirley notes in the margin: <HI REND="italic">i. Launcecrane.</HI> According to the chroniclers, e. g. Walsingham (ed. Rolls Series II: 160), the woman for whom Vere in 1387 repudiated his royally descended wife was called "Launcecrona". Walsingham adds "ob quam causam magna surrepsit occasio scandalorum".</NOTE></L>
+<L>Which grounde was of gret debate and stryff</L>
+<L>And his destruccyon / if I shal not lye</L>
+<L>ffor banned he was / and did in meschef dye</L>
+</LG>
+</DIV1>
+<DIV1 TYPE="commentary">
+<PB N="26" REF="17"/>
+<P>These few and meagre stanzas contain some of Lydgate's rare allusions to contemporary events. His huge <HI REND="italic">Falls of Princes,</HI> derived ultimately from Boccaccio's <HI REND="italic">De Casibus,</HI> and ranging all over Biblical and classical history, closes with the "tragedy" of King John of France and his capture by the English at Poitiers in 1356; it contains thus no material for contemporary history and gives no clue as to its date. But the date of this lesser <HI REND="italic">Falls,</HI> possibly not remote from that of the greater, is a trifle clearer; for as John of Burgundy was murdered in 1419, and as Charles VI of France died in 1422, the verses must be later than these events. It need not sur∣prise us that the death of Henry V of England does not appear in the list; Lydgate would not consider his death a "fall."</P>
+<P>The murders of Orleans and of Burgundy, even of Richard II, are spoken of by Lydgate with remarkable frank∣ness, as is the death of the duke of Ireland, Robert de Vere, Richard's favorite. The emphasis upon Vere's desertion of his wife, recalled by Lydgate more than a generation later as the prime cause of the duke's fall, is interesting. When we recall that that desertion took place in Chaucer's lifetime, we may wonder again if the unfinished <HI REND="italic">Legend of Good Women</HI> or the <HI REND="italic">Complaint of Anelida</HI> had in it some disguised reflection of the "gret debate and stryff" to which Lydgate alludes. We may wonder also how the Duke of Gloucester, for whom Lydgate executed the mammoth <HI REND="italic">Falls of Princes,</HI> the Duke of Gloucester who in 1425 deserted his wife Jacqueline of Hainault even as Vere duke of Ireland had deserted his, would have relished the last stanza. If however these verses were later than 1425, they were perhaps done for some person in private station. The dynasty of Henry the Fourth might not object to plain speaking as to Richard's "mystreting" of their founder; but the tragical ending of one's own royal and noble contemporaries was hardly the sort of death's head which an English lord desired upon the walls of his chamber or in his banqueting hall.</P>
+<CLOSER><DATELINE>Chicago.</DATELINE>
+<SIGNED>Eleanor Prescott Hammond.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

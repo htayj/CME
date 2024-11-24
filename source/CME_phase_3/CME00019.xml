@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>6-21-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; removed some Ps. Checked <SUP>s</SUP>. Reviewed structure. Checked placement and completeness of PBs; moved a PB. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00019">
+<STC T="M">19</STC>
+<BIBNO T="mec">CME00019</BIBNO>
+<VID>CME00019</VID>
+</IDG>
+<TEXT LANG="enm">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>ST. BRANDAN: <HI REND="italic">A Medieval Legend of the Sea,</HI> IN ENGLISH VERSE AND PROSE.</P>
+<P>EDITED BY THOMAS WRIGHT, ESQ. M.A., F.S.A. CORRESPONDING MEMBER OF THE INSTITUTE OF FRANCE (ACADEMIE DES INSCRIPTIONS ET BELLES LETTRES.)</P>
+<P>LONDON. PRINTED FOR THE PERCY SOCIETY, BY T. RICHARDS, 100, ST. MARTIN'S LANE.</P>
+<P>AUGUST, 1844. No. XLVIII.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2"/>
+<HEAD>THE METRICAL LIFE OF ST. BRANDAN.</HEAD>
+<LG>
+<L>SEINT Brendan the holi man was ȝund of Irlande;</L>
+<L>Monek he was of hard lyf, as ich understonde,</L>
+<L>Of fasting, of penance y-nouȝ; abbod he was there</L>
+<L>Of a thousend monekes that alle an under him were.</L>
+<L>So that hit ful an a dai, as oure Loverdes wille was,</L>
+<L>That Barint, another abbot, to him com bi cas;</L>
+<L>Seint Brendan him bisoȝte anon that he scholde under∣stonde,</L>
+<L>And telle that he i-seȝ aboute in other londe.</L>
+<L>This gode man, tho he hurde this, sikinges he makede y-nowe,</L>
+<L>And bigan to wepe in gret thoȝt, and ful adoun i-suoȝe.</L>
+<L>Bituene his armes seint Brendan this holi man up nom,</L>
+<L>And custe and cride on him forte that his wit aȝe com:</L>
+<L>"Fader," he seide, "par charité, other red thu most take;</L>
+<L>Hider thu com for oure solaz, and for such deol to make,</L>
+<L>Tel ous what thu hast i-seȝe, as thu hast aboute i-wend</L>
+<L>In the mochele see of occian, as oure Loverd the hath i-send."</L>
+<L><PB N="2" REF="3"/>
+Nou is the see of occian grettest and mest also,</L>
+<L>For he goth the wordle aboute and alle othere goth therto.</L>
+<L>So that Barint the olde man riȝt at his hurte grounde,</L>
+<L>Wel wepinge bigan to telle what he er founde;</L>
+<L>He seide, "Ich hadde a godsone, Mernoc was his name,</L>
+<L>Monek he was as we beoth, and man of grete fame,</L>
+<L>So that his hurte gan wende to a privei stede and stille,</L>
+<L>Ther he miȝte alone beo to servi God at wille;</L>
+<L>So that bi mi leve he wende and alone drouȝ</L>
+<L>To an ylle that is in the see that is delitable y-nouȝ,</L>
+<L>Biside the Montayne of Stones that couth is wel wide.</L>
+<L>So longe that this gode monek in this ylle gan abide,</L>
+<L>That he hadde under him monekes meni on.</L>
+<L>Anon tho ich i-hurde this, thider-ward ich gan gon,</L>
+<L>So that in avisioun oure suete Loverd him kende,</L>
+<L>That aȝe me, er ich come ther, threo journeyes he wende.</L>
+<L>So that we dude ous in a schip, and evere est-ward we drowe</L>
+<L>In the see of occian with turmentz y-nowe.</L>
+<L>Toward than est so fur we wende, that we come atte laste</L>
+<L>In a stude suythe durc and clouden overcaste;</L>
+<L>Al o tide of the dai we were in durchede.</L>
+<L>Atte laste oure suete Loverd forthere ous gan lede,</L>
+<L>So that we seȝe ane lond, thiderward oure schip drouȝ,</L>
+<L>Briȝttere hit thoȝte than the sonne, joye ther was y-nouȝ.</L>
+<L>Of treon, of erbes, thikke hit stod biset in eche side;</L>
+<L>Of preciose stones ek that briȝte schyneth wide;</L>
+<L>Eche erbe was ful of floures, eche treo ful of frut,</L>
+<L>Bote hit were in hevene nas nevere more dedut.</L>
+<L><PB N="3" REF="4"/>
+Therinne with joye y-nouȝ longe we gonne wende;</L>
+<L>Theȝ hit ous lute while thoȝte, we ne miȝte fynde non ende,</L>
+<L>So that we come to a water cler and briȝt y-nouȝ,</L>
+<L>That evene fram-ward than est to-ward thane west drouȝ.</L>
+<L>We stode and bihulde aboute, for we ne miȝte over wende;</L>
+<L>Ther com to ous a ȝung man suythe fair and hende,</L>
+<L>He welcomede ous everechon miltheliche and suete,</L>
+<L>And nemnede evereches owe name, and wel myldeliche ous gan grete,</L>
+<L>And seide, "ȝe miȝte wel Jhesu Crist wel faire thonki mid riȝte,</L>
+<L>That schoweth ȝou his priveité and so moche of his miȝte.</L>
+<L>This the lond that he wole ȝut er the wordles ende</L>
+<L>His durlings an urthe ȝeve, and hider hi schulle wende;</L>
+<L>This lond is half in this side, as ȝe seoth wel wide,</L>
+<L>And biȝunde the water halfen-del al bi thother side.</L>
+<L>That water ne mowe ȝe passi noȝt, that other del to i-seo,</L>
+<L>Her ȝe habbeth al a ȝer meteles i-beo,</L>
+<L>That ȝe ne ete ne drinke noȝt, ne slepe mid ȝoure eȝe;</L>
+<L>Ne chile ne hete ne fonde ȝe noȝt, ne no nyȝt i-seȝe;</L>
+<L>For this is Godes privé stede, thurf him is al this liȝt,</L>
+<L>Therfore hit worth her evre dai, and nevre more niȝt.</L>
+<L>If man nadde aȝe Godes heste nothing mis-do,</L>
+<L>Herinne hi hadde ȝut i-lyved and here ofspring also.</L>
+<L>Ȝe ne mote bileve her no leng, agen ȝe mote fare,</L>
+<L><PB N="4" REF="5"/>
+Theȝ hit ne thenche ȝou bote a while, ȝe habbeth i-beo her ȝare."</L>
+<L>That so he brouȝte ous in our schip, and faire his leve nom:</L>
+<L>And tho we were ham-ward in the see, we nuste whar he bicom.</L>
+<L>Aȝe-ward we wende aȝen oure wille, that of-thoȝte ous sore y-nouȝ,</L>
+<L>Aȝen to this other monekes this schip wel evene drouȝ;</L>
+<L>This monekes urne aȝen ous, tho hi ous miȝte i-seo,</L>
+<L>And sori were and wrothe y-nouȝ that we hadde so long i-beo.</L>
+<L>We seide hem that we hadde i-beo in alle joye and feste,</L>
+<L>Bifore the ȝates of Paradys, in the lond of biheste,</L>
+<L>That oure suete Loverd hath bihote hem that he loveth her,</L>
+<L>Ther is evere dai, and nevere niȝt, and evere liȝt suythe cler.</L>
+<L>"Certes," quath this monekes, "this we mowe i-seo</L>
+<L>Bi the suete smyl of ȝou, that ȝe habbeth ther i-beo."</L>
+<L>THO seint Brendan i-hurde this, he thoȝte and stod stille;</L>
+<L>He wende about his monekes, and tuelve out he nom,</L>
+<L>That he triste to mest of alle whan eni neode him com;</L>
+<L>Thuse he nom in consail, and in priveté sede,</L>
+<L>"Siggeth what ȝoure consail is to do such a dede."</L>
+<L>"Leove fader," quath this othere, "oure wille we hab∣beth forsake,</L>
+<L>Oure freond and al oure other god, and clanliche to the i-take;</L>
+<L><PB N="5" REF="6"/>
+And whan al oure dede is on the, and thu wost that hit beo,</L>
+<L>We schulle blitheliche with the wende Godes grace to seo."</L>
+<L>So that hi faste fourti dawes, and gret penance dude also,</L>
+<L>And bede ȝurne oure Loverdes grace thulke veyage to do.</L>
+<L>Hi leten hem diȝte a gret schip, and above hit al bi-caste</L>
+<L>With bole huden stronge y-nou y-nailed therto faste,</L>
+<L>And siththe i-piched al above, that the water ne come.</L>
+<L>Hi wende to here bretheren, and wel faire here leve nome,</L>
+<L>And siththe in oure Loverdes name to schipe wende anon;</L>
+<L>Here bretheren that bihynde were sori were echon.</L>
+<L>And tho hi were in the schip, after ther come go tuo,</L>
+<L>And bede faste that hi moste thane wei mid hem go.</L>
+<L>"Ȝe mowe wel," quath seint Brendan, "ac ȝoure on schal atta ende</L>
+<L>Repenti er he com aȝe, and al quic to helle wende."</L>
+<L>Thider wende this holi man whoder oure Loverd hem sende,</L>
+<L>And this tuei monekes that come last also with hem wende.</L>
+<L>IN the grete see of occian forth hi rewe faste,</L>
+<L>And triste al to oure Loverdes grace, and nothing nere agaste.</L>
+<L>The see drof here schip after wil, the wynd was gret y-nouȝ:</L>
+<L>As the wynd hem drof est forth, wel evene the schip him drouȝ</L>
+<L><PB N="6" REF="7"/>
+Evene aȝe that the sonne ariseth a midsomeres day:</L>
+<L>Nou nuste non of hem whar he was, ne no lond he ne say.</L>
+<L>Evene forth riȝt fourti dayes the wynd hem drof faste,</L>
+<L>So that hi seȝe in the north side a gret ylle atte laste,</L>
+<L>Of harde roche and gret y-nou, in the see wel heȝe;</L>
+<L>Threo dayes hi wende ther-aboute er hi miȝte come ther neȝe.</L>
+<L>A lute havene he fonde tho, a-lond hi wende there,</L>
+<L>Hi wende a-lond as maskede men, hi nuste war hi were;</L>
+<L>Ther com go a wel fair hound, as hit were hem to lere;</L>
+<L>At seint Brendanes fet he ful a-doun, and makede faire chere.</L>
+<L>"Beau freres," quath seint Brendan, "ȝe ne thore nothing drede;</L>
+<L>Ich wot this is a messager the riȝte wei out to lede."</L>
+<L>This hound ladde this holi man to an halle fair y-nouȝ,</L>
+<L>Gret and starc and suythe noble, evene in he drouȝ.</L>
+<L>This monekes fonde in this halle bord and cloth i-sprad,</L>
+<L>And bred and fisch ther-uppe y-nouȝ, ther was non that nas glad.</L>
+<L>Hi sete a-doun and ete faste, for hem luste wel ther-to;</L>
+<L>Beddes ther were al ȝare y-maked, er here soper were i-do,</L>
+<L>After here soper to bedde hi wende to resten hem as the wise.</L>
+<L>Tho hi hadde alle i-slepe y-nouȝ, sone hi gonne arise,</L>
+<L>And wende to here schip, as hi hadde er i-beo;</L>
+<L>In the see wel longe hi were er hi miȝte lond i-seo.</L>
+<L>Tho hi seȝe, as bi thother side, an ylle fair y-nouȝ,</L>
+<L>Grene and wel fair lese, thider-ward here schip drouȝ</L>
+<L><PB N="7" REF="8"/>
+Tho hi come on this faire lond, and bihulde aboute wide,</L>
+<L>The faireste scheep that miȝte beo hi seȝe in eche side;</L>
+<L>A scheep was grettere than an oxe, whittere ne miȝte non beo.</L>
+<L>Gret joye hi hadde in here hurte, that hi miȝte this i-seo.</L>
+<L>Ther com go a wel fair man, and grette hem with faire chere,</L>
+<L>And seide, "ȝe beoth hider i-come ther ȝe nevere nere:</L>
+<L>This is i-cliped the Lond of Scheep, for scheep wel faire her beoth,</L>
+<L>Mochele and white and grete y-nouȝ, as ȝe al dai i-seoth;</L>
+<L>Fairere hi beoth than ȝoure scheep, grettere unyliche,</L>
+<L>For murie weder is her y-nouȝ, and lese suythe riche.</L>
+<L>Her nis nevere wynter non, for her nis non i-founde,</L>
+<L>Achieteth therbes nue as hi springeth of the g[ro]unde;</L>
+<L>Ne me ne gadereth noȝt of here mulc, that hi schold the worse beo,</L>
+<L>For this thing and meni other the bet hi mowe i-theo.</L>
+<L>To a stede ȝe schulle hunne wende, thurf oure Loverdes grace,</L>
+<L>That is Foweles Parays, a wel joyful place;</L>
+<L>Ther ȝe shulle this Ester beo, and this Witsonedai also.</L>
+<L>Wendeth forth a Godes name, that this veyage were i-do!"</L>
+<L>SEINT Brendan and his bretheren to schipe wende anon,</L>
+<L>And rue forthe faste in the see, with tempest meni on,</L>
+<L>So that hi seȝe in another side an ylle gret y-nouȝ;</L>
+<L>Here schip thurf Godes grace thider-wardes drouȝ.</L>
+<L>Tho hit cam almest ther-to, upe the roche hit gan ride,</L>
+<L><PB N="8" REF="9"/>
+That hit ne miȝte noȝt to the ylle come, ac bilevede biside.</L>
+<L>This monekes wende up to this ylle, ac seint Brendan noȝt;</L>
+<L>This monekes gonne make here mete of that hi hadde i-broȝt.</L>
+<L>Hi makede fur, and soden hem fisch in a caudroun faste;</L>
+<L>Er this fish were i-sode, somdel hi were agaste.</L>
+<L>For tho this fur was thurf hot, the yle quakede anon,</L>
+<L>And with gret eir hupte al up; this monekes dradde echon,</L>
+<L>Hi bihulde hou the yle in the see wende faste,</L>
+<L>And as a quic thing hupte up and doun, and that fur fram him caste.</L>
+<L>He suam more than tuei myle while this fur i-laste.</L>
+<L>The monekes i-seȝe the fur wel longe, and were sore agaste;</L>
+<L>Hi cride ȝurne on seint Brendan, what the wonder were.</L>
+<L>"Beoth stille," quath this gode man, "for noȝt ȝe nabbe fere!</L>
+<L>Ȝe weneth that hit beo an yle, ac ȝe thencheth amis,</L>
+<L>Hit is a fisch of this grete see, the gretteste that ther is,</L>
+<L>Jascom he is i-cleped, and fondeth niȝt and dai</L>
+<L>To putte his tail in his mouth, ac for gretnisse he ne mai."</L>
+<L>Forth hi rue in the see evene west wel faste</L>
+<L>Threo dayes er hi seȝe lond, hi were somdel agaste;</L>
+<L>Tho seȝen hi a wel fair lond, of floures thikke y-nouȝ.</L>
+<L>Wel glade hi were tho hi seȝe that here schip thider drouȝ.</L>
+<L><PB N="9" REF="10"/>
+In this faire lond hi wende lengere than ich telle,</L>
+<L>So that hi fonde in a place a suythe noble welle;</L>
+<L>Bi the welle stode a treo, brod and round y-nouȝ,</L>
+<L>Foweles white and faire y-nouȝ were in everech bouȝ,</L>
+<L>That unethe eni leef hi miȝte theron i-seo,</L>
+<L>Ther was joye and blisse y-nouȝ to lokie on suche o treo.</L>
+<L>SEINT Brendan for joye wep, and sat a-doun a-kneo,</L>
+<L>And bad oure Loverd schowi him what such a cas miȝte beo.</L>
+<L>Tho fleȝ ther up a lute fowel, tho he gan to fleo,</L>
+<L>As a fithele his wynges furde tho he to him-ward gan teo;</L>
+<L>Murie instrument nevere nas that his wyngen were.</L>
+<L>He bihuld seint Brendan with wel faire chere.</L>
+<L>"Ich hote," seide seint Brendan, "if thu ert messager,</L>
+<L>That thu sigge me what ert, and what ȝe doth her."</L>
+<L>Theȝ hit thoȝte aȝe cunde, this fowel ansuerede anon,</L>
+<L>"We were," he seide, "sum tyme was, angles in hevene echon;</L>
+<L>As sone as we were y-maked, oure maister was to prout,</L>
+<L>Lucefer, for his fairhede, that he ful sone out,</L>
+<L>And mid him also meni on, as here dede was,</L>
+<L>And we fulle also a-doun, ac for no synne hit nas,</L>
+<L>Ac for nothing that we assentede to his foule unriȝt,</L>
+<L>Bote soulement for to schewe oure Loverdes suete miȝt;</L>
+<L>Ne we ne beoth her in pyne non, ac in joye y-nouȝ we beoth,</L>
+<L>And somdel oure suete Loverdes miȝte we seoth,</L>
+<L>And bi the urthe we fleoth, and bi the lifte also,</L>
+<L>As gode angles and lithere ek riȝt is for to do,</L>
+<L><PB N="10" REF="11"/>
+The gode to do men god, the lithere lithere makieth;</L>
+<L>And Sonedai, that is dai of rest, such forme we maketh,</L>
+<L>The forme of suche white foweles as thu miȝt i-seo,</L>
+<L>Honureth God that ous makede her on this brode treo.</L>
+<L>Tuelf month hit i-passed nou, that ȝe gunne out wende,</L>
+<L>And alle this six ȝer e schulle fare, er ȝe schulle bringe ȝoure wille to ende;</L>
+<L>For whan ȝe habbeth i-wend sove ȝer, oure Loverd wole ȝou sende</L>
+<L>A siȝt that ȝe habbeth longe i-soȝt, anon after the sove ȝeres ende;</L>
+<L>Eche ȝer ȝe schulle her mid ous holde Ester feste,</L>
+<L>As ȝe nou doth, forte ȝe come to the lond of biheste."</L>
+<L>Nou was hit an Esterdai that al this was i-do:</L>
+<L>The fowel nom his leve of hem, and to his felawes wende tho.</L>
+<L>The foweles tho hit eve was, bigonne here evesong;</L>
+<L>Muriere song ne miȝte i-beo, theȝ God silf were among.</L>
+<L>The monekes wende to bedde and slepe, tho soper was i-do,</L>
+<L>And tho hit was tyme of matyns hi arise ther-to.</L>
+<L>The foweles sunge ek here matyns wel riȝt tho hit was tyme,</L>
+<L>And of the Sauter seide the vers, and siththe al to prime,</L>
+<L>And underne siththe and middai, and afterwardes non,</L>
+<L>And eche tyde songen of the dai as cristene men scholde don.</L>
+<L>This monekes were in the lond eiȝte wyke also,</L>
+<L>For to al the feste of Ester and of Witsonedai were i-do;</L>
+<L>Tho com atte Trinité this gode man to hem ther,</L>
+<L>That spac with hem in the Lond of Scheep, and ladde about er,</L>
+<L><PB N="11" REF="12"/>
+He chargede here schip suythe wel mid mete and drinke y-nouȝ,</L>
+<L>And nom his leve wel hendeliche, and aȝe-ward drouȝ.</L>
+<L>Tho seint Brendan was in his schip and his bretheren also,</L>
+<L>This fowel that spac with hem er, wel sone com hem to.</L>
+<L>He seide, "ȝe habbeth her with ous this heȝe feste i-beo,</L>
+<L>Gret travayl ȝou is to come er ȝe eftsone lond i-seo;</L>
+<L>Ȝe schulleth after sove monthes i-seo a wel fair yle,</L>
+<L>That Abbey is i-cliped, that is hunne meni a myle.</L>
+<L>Ȝe schulleth beo mid holie men this mydewynter there,</L>
+<L>Ȝoure Ester ȝe schulle holde ther as ȝe dude to ȝere,</L>
+<L>Upe the grete fisches rugge, ther thi monekes were in fere,</L>
+<L>And ȝoure Ester mid ous riȝt as ȝe nou were."</L>
+<L>Seint Brendan a Godes name, and his bretheren echon,</L>
+<L>In the grete see of occian forth wende anon;</L>
+<L>The wynde hem harlede up and doun in peryls meni on,</L>
+<L>So weri hi were of here lyve, that hi nuste whoder gon.</L>
+<L>Four monthes hi were in the see, in this grete turment,</L>
+<L>That hi ne seȝe nothing bote the see and the firmament;</L>
+<L>Tho seȝen hi fur fram hem an ylle as hit were,</L>
+<L>Hi cride ȝurne on Jhesu Crist that hi muste aryve there.</L>
+<L>Ȝut after than that seint Brendan furst this yle i-seȝ,</L>
+<L>In the see hi wende fourti dayes er hi miȝte come ther neȝ;</L>
+<L>That hem thoȝte here lyf hem was loth, this monekes were agaste,</L>
+<L>Hi cride ȝurne on Jhesu Crist, and his help bede faste.</L>
+<L>A lute havene suythe streit hi fonde atte laste,</L>
+<L>Unethe here schip com ther neȝ, here ankre ther hi cast.</L>
+<L>This monekes wende ther a-lond, wel longe hem thoȝte er,</L>
+<L><PB N="12" REF="13"/>
+Hi wende and bihulde aboute, wel murie hem thoȝte ther,</L>
+<L>So that hi seȝe tuei faire wellen, that on was suythe cler,</L>
+<L>And thother wori and thikke y-nou; the monekes ȝeode ner</L>
+<L>To drinke of this faire wil; seint Brende seide tho he hit i-seȝ,</L>
+<L>"Withoute leve of other men ne come noȝt ther neȝ,</L>
+<L>Of olde men that therinne beoth, for mid gode wille</L>
+<L>Hi wolleth parti therof with ȝou, therfore beoth ȝut stille."</L>
+<L>A fair old man and suythe hor aȝen hem com gon,</L>
+<L>He wolcomede hem faire y-nouȝ, and seint Brendan custe anon.</L>
+<L>He nom and ladde him bi the hond bi a fair wei,</L>
+<L>Aboute into meni o stede, and siththe into an abbei.</L>
+<L>Seint Brendan bihuld aboute, and eschte what hit were,</L>
+<L>And what maner men were therinne, and ho wonede there:</L>
+<L>Stille him was that olde man, and ne ȝaf him non ansuere.</L>
+<L>Tho seȝe hi come a fair covent, and a croice to-fore hem bere,</L>
+<L>With taperes in eche side, monekes hit were echon,</L>
+<L>Revested in faire copes aȝen hem hi come anon,</L>
+<L>With processioun fair y-nou; the abbot bihynde com,</L>
+<L>And faire custe seint Brendan and bi the hond him nom,</L>
+<L>And ladde him and his monekes into a wel fair halle,</L>
+<L>And sette hem a-doun a-renk, and wosche here fet alle.</L>
+<L>Of the wori wel hi wosche here fet, that hi er i-seȝe;</L>
+<L><PB N="13" REF="14"/>
+Into the freitour hi ladde hem siththe and sette hem ther wel heȝe</L>
+<L>I-melled with his owe covent; tho hi were alle i-sete,</L>
+<L>Ther com on and servede hem, and brouȝte hem alle mete;</L>
+<L>A fair whit lof he sette, bituene tuo and tuo,</L>
+<L>White mores as hit were of erbes bifore hem sette also,</L>
+<L>Suettere thing ne miȝte beo, hi ne knewe hit noȝt on,</L>
+<L>Of the clere wel that hi seȝe er the monekes dronke echon.</L>
+<L>"Beoth nou glade," the abbot seide, "and drinketh nou y-nouȝ,</L>
+<L>In charité, of thulke water that ȝe wolde er with wouȝ;</L>
+<L>Hit is betere dronke in charité, whan hit is ȝou i-brouȝt,</L>
+<L>Than ȝe hit theofliche nome, as ȝe hadde er i-thoȝt.</L>
+<L>This bred that we eteth nou, we nuteth whanne hit is,</L>
+<L>Ac a strong man hit bringeth ech dai to oure celer i-wis;</L>
+<L>We nuteth noȝt bote thurf God whannes hit is i-brouȝt,</L>
+<L>For ho so douteth Jhesu Crist, him ne failleth noȝt.</L>
+<L>Four and tuenti freres we beoth her, and whan we beoth i-sete,</L>
+<L>Tuelf suche loves eche dai me bringeth ous to mete;</L>
+<L>And feste and everech holi day, and whan hit Sone∣dai is,</L>
+<L>Me bringith ous four and tuenti loves, and ech monek haveth his,</L>
+<L>That ech frere of that he leveth wite to his soper;</L>
+<L>For ȝou hit is to-dai i-dubled, as ȝe seoth nou her.</L>
+<L>For oure covent nis noȝt her, for moche del is un-y-ete,</L>
+<L>So that oure Loverd thurf his grace ech dai sendeth oure mete,</L>
+<L><PB N="14" REF="15"/>
+Siththe seint Patrikes dai, and seint Alvey also.</L>
+<L>We habbeth i-beo her fourscore ȝer that noman ne com ous to;</L>
+<L>Evereft oure Loverd thurf his grace i-fed ous hath echon.</L>
+<L>This weder is murie evere ek, and siknisse nis ther non.</L>
+<L>And whan we schule do oure servise, oure Loverd tent oure liȝt,</L>
+<L>And oure taperes ne beoth nothe lasse, theȝ hi berne day and nyȝt."</L>
+<L>Hi arise up and to churche wende, tho hi hadde alle y-ete,</L>
+<L>Tuelf other freres of the queor hi mette to-ward the mete.</L>
+<L>"Hou is this?" quath seint Brendan, "nere thuse noȝt with ous?"</L>
+<L>"Leove fader," the abbot seide, "hit mot nede beo thus:</L>
+<L>Ther nulleth bote four and tuenti monekes in oure celle beo i-do,</L>
+<L>And whan ȝe were ther with ous hi ne miȝte noȝt also;</L>
+<L>The while we siggeth eve-song hi wolleth sitte and ete,</L>
+<L>Here eve-song hi wolleth sigge whan we habbeth y-ete."</L>
+<L>SEINT Brendan bihuld here faire weved, him thoȝte hit was al,</L>
+<L>Weveth and caliz and cruetz, pur cler crestal;</L>
+<L>Sove tapres in the queor ther were, and nomo,</L>
+<L>And four and tuenti sigen ek, to whan hi scholde go;</L>
+<L>For ther were four and tuenti monekes, and everech hadde his,</L>
+<L>And the abbotes sige was amidde the queor i-wis.</L>
+<L><PB N="15" REF="16"/>
+Seint Brendan eschte the abbot, "Sei me, leove brother,</L>
+<L>Hou holde ȝe so wel silence, that non ne speketh mid other?"</L>
+<L>"Oure Loverd hit wot," the abbot seide, "we habbeth her i-beo</L>
+<L>Fourscore ȝer in suche lyve as thu miȝt i-seo,</L>
+<L>And ther nas nevere among ous alle i-speke in non wise</L>
+<L>Er this tyme non other word bote oure Loverdes servise,</L>
+<L>Ne we nere never-eft in feblesce, ne in siknesse noȝt on."</L>
+<L>Tho seint Brendan i-hurde this he wep for joye anon:</L>
+<L>"Leove fader," he seide, "for Godes love, mote we bileve here?"</L>
+<L>"Thu wost wel, sir," quath this other, "ȝe ne mowe in none manere.</L>
+<L>Nath oure Loverd the schowed wel what thu schalt do?</L>
+<L>And come ȝut to Irland aȝe, and thi tuelf bretheren also,</L>
+<L>And the thretteoth fram the to the ylle of ankres schal wende,</L>
+<L>And the fourteothe to helle al quic, and beo ther with∣outen ende?"</L>
+<L>Tho ther com in a furi arewe at a fenestre anon,</L>
+<L>As he fram hevene come, and the tapres tende echon;</L>
+<L>Aȝe-ward as he com at a fenestre there,</L>
+<L>This tapres brende longe y-nouȝ, ac hi no the lasse nere.</L>
+<L>"Loverd Crist," quath seint Brendan, "ich wondri on mi thoȝt,</L>
+<L>Hou this tapres berneth thus, an ne wanyeth noȝt."</L>
+<L><PB N="16" REF="17"/>
+"Nastou noȝt," quath this abbot, "in the olde lawe i-founde</L>
+<L>Hou Moyses i-seȝ a thorn berne fram toppe to the grounde?</L>
+<L>The suythere that this thorn brende the grennere the leves were:</L>
+<L>Ne wenstou that oure Loverd beo her as miȝti as he was there?"</L>
+<L>This monekes were togadere thus forte midewynter was i-do;</L>
+<L>Hit was twelfthe dai er hi departede a-tuo.</L>
+<L>ANON to seint Hillaries dai seint Brendan forth wende</L>
+<L>In the see with his monekes, thur the grace that God hem sende,</L>
+<L>Urne up and doun in sorwe y-nouȝ, the see hem caste heȝe.</L>
+<L>Fram thulke tyme fur in Leynte ne lond hi ne seȝe,</L>
+<L>So that aboute Palmsonede[i] hi bihulde about faste,</L>
+<L>Hi thoȝte that hi seȝe fur fram hem as a cloude atte laste.</L>
+<L>This monekes wondrede moche whar this cloude were:</L>
+<L>"Beoth stille," quath seint Brendan, "er this ȝe hab∣beth i-beo there;</L>
+<L>Ther is oure gode procuratour, that moche god ous haveth i-do,</L>
+<L>In the Fowelen Parays and in the Lond of Schep also.</L>
+<L>So that the schip atte laste to-ward this yle drouȝ,</L>
+<L>A Scher-thursdai thider hi come, with travayl and sorwe y-nouȝ.</L>
+<L><PB N="17" REF="18"/>
+This procuratour com aȝen hem glad, and wolcome hem anon,</L>
+<L>And custe seint Brendanes fet, and the monekes echon,</L>
+<L>And sitte hem siththe atte soper, for the dai hit wolde so,</L>
+<L>And siththe wosch here alre fet, here mandé to do.</L>
+<L>Al here mandé hi hulde ther, and ther hi gonne bileve</L>
+<L>A Gode-Fridai aldai forto Ester eve;</L>
+<L>An Ester eve here procuratour bad hem here schip take,</L>
+<L>And the holi resureccioun upe the fisches rug make,</L>
+<L>And after the resureccioun he het hem evene teo</L>
+<L>To the Fowelen Parays, ther hi hadde er i-beo.</L>
+<L>THIS holi men wende forth, and Godes grace nome,</L>
+<L>So that to the grete fisch wel sone siththe hi come;</L>
+<L>As a lond that hovede, here caudron hi fonde there,</L>
+<L>As hi levede upon his rug in that other ȝere.</L>
+<L>Loverd Crist! that such a best scholde beo so stille,</L>
+<L>And suffri men ther-uppe go, and do al here wille.</L>
+<L>THE monekes upe the fisches rug bilevede alle longe nyȝt,</L>
+<L>And songe matyns and eve-song, and siththe, tho hit was liȝt,</L>
+<L>Anone-ward the fisches rug hi songen here massen echon,</L>
+<L>And evere was this mochele best stille so eni ston.</L>
+<L>AS this resurexioun with gret honur was i-do,</L>
+<L>And this monekes hadde i-songe here massen also,</L>
+<L>Aboute underne of the dai here wei to schipe hi nome,</L>
+<L>And to the Fowelen Parays thulke dai hi come.</L>
+<L>ANON so hi seȝe the monekes come, hi gonne to singe ymone</L>
+<L><PB N="18" REF="19"/>
+Aȝen hem with gret melodie, as hit were for than one;</L>
+<L>And thulke that spac with hem er sone toward hem drouȝ.</L>
+<L>The soun of him murie was, he wolcomede hem faire y-nouȝ:</L>
+<L>"Ȝe auȝte," he seide, "oure Loverd Crist onury with the beste,</L>
+<L>He purveide ȝou this four stedes to habben in ȝoure reste,</L>
+<L>With ȝoure gode procuratour, ȝoure mandé to do,</L>
+<L>And siththe ȝoure resurexioun upe this fisches rug also,</L>
+<L>And with ous her this eiȝte wyke forto Witsonedai,</L>
+<L>And fram Midewynter to Candelmasse in thille of Abbai;</L>
+<L>And in the grete see of occian with gret travayl ȝe schulle wende,</L>
+<L>And in pyne al thother tyme, forte sove ȝeres ende;</L>
+<L>And the Lond of Biheste God wole that ȝe seo,</L>
+<L>And ther-inne in joye y-nouȝ fourti dayes beo;</L>
+<L>And to the contrai that ȝe beoth of siththe ȝe schulle wende,</L>
+<L>Al eseliche withoute anuy, and ther ȝoure lyf ende."</L>
+<L>THIS holi men bilevede ther forte the Trinité,</L>
+<L>Here procuratour com to hem ther hi were in gret plenté;</L>
+<L>He brouȝte hem mete and drinke y-nouȝ, as he hadde er i-do,</L>
+<L>And chargede here schip therwith and let hem wende so.</L>
+<L>THIS holi men hem wende forth as God hem wolde sende,</L>
+<L>For Godes grace was with hem the bet hi miȝte wende.</L>
+<L><PB N="19" REF="20"/>
+As hi wende upon a tyme in gret tempest y-nouȝ,</L>
+<L>A gret fisch hi seȝe and grislich, that after here schip drouȝ;</L>
+<L>Berninge fom out of his mouth he caste,</L>
+<L>The water was heȝere than here schip bifore hem at eche blaste,</L>
+<L>With his browen wel faste he schef; this monekes were agaste,</L>
+<L>And cride ȝurne on Jhesu Crist, and in seint Brendan also.</L>
+<L>After the schip so faste he schef that almest he com therto:</L>
+<L>As he hem hadde almest of-take, and hi ne tolde noȝt of here lyve,</L>
+<L>Another fisch out of the west ther com suymminge blyve,</L>
+<L>And encountrede this lithere fisch, and smot to him faste,</L>
+<L>And for-clef his foule book in threo parties atte laste,</L>
+<L>And thane wei as he cam er wel evene aȝe he drouȝ.</L>
+<L>This monekes thonkede Jhesu Crist, and were joyful y-nouȝ.</L>
+<L>So longe hi wende this holi men in the see aboute so,</L>
+<L>That hi were afingred sore, for here mete was al i-do.</L>
+<L>Ther com fleo a lute fowel, and brouȝte a gret bouȝ</L>
+<L>Ful of grapes suythe rede, and evene to hem drouȝ;</L>
+<L>This grapes he tok seint Brendan, this gode man sum∣del louȝ,</L>
+<L>Ther-bi hi lyvede fourte nyȝt, and hadde alle mete y-nouȝ.</L>
+<L><PB N="20" REF="21"/>
+THO this grapes were alle i-do, hi were afingred sore,</L>
+<L>Bi that o side hi seȝe an yle, and mete ther-inne more:</L>
+<L>The yle was ful of faire treon, and so ful everech bouȝ</L>
+<L>Of suche grapes as he seȝ er, that to the ground hit drouȝ.</L>
+<L>Seint Brendan wende up of this schip, of this grapes he nom faste,</L>
+<L>And bar hem to his schip, that fourti dayes hi laste.</L>
+<L>Sone ther-after cam a gryp fleo faste in the see,</L>
+<L>And assaillede hem faste, and here schip, and fondede hem to sle.</L>
+<L>This monekes cride dulfulliche, and ne tolde noȝt of here lyve;</L>
+<L>Tho com ther fleo a lutel fowel toward hem wel blyve,</L>
+<L>That in the Fowelen Parays so ofte hem hadde i-rad.</L>
+<L>Tho seint Brendan i-seȝ hem come, he nas noȝt a lute glad.</L>
+<L>This lutel fowel smot to this grymp, and sette his dunt wel heȝe,</L>
+<L>The furste dunt that he him ȝaf he smot out aither eȝe;</L>
+<L>This lithere best so he sloȝ that he ful into the see;</L>
+<L>Thing that God wole habbe i-wist ne mai nothing sle.</L>
+<L>This holi men wende in the see aboute her and there;</L>
+<L>Ac in on of the four stedes in reste evere hi were.</L>
+<L>O TYME a seint Petres dai, gret feste with here tunge</L>
+<L>In the see hi makede of seint Peter, and here servise sunge;</L>
+<L>Hi come in o stede of the see, the see so cler hi founde</L>
+<L>That hi seȝe on bi eche half clerliche to the grounde.</L>
+<L>Hem thoȝte the ground i-heled was with fisches at one hepe,</L>
+<L><PB N="21" REF="22"/>
+That hi ne seȝe non other grounde bote as hi leye aslepe.</L>
+<L>This monekes hete seint Brendan that he softe speke,</L>
+<L>That hi ne weiȝte noȝt the fisches, leste hi here schip breke.</L>
+<L>"What is ȝou?" quath seint Brendan, "whar-of beo ȝe of-drad?</L>
+<L>Upe the maistres rug of alle fisches ȝe habbeth y-ma∣ked ȝou glad,</L>
+<L>And ano-ward his rug fur y-maked, and doth fram ȝere to ȝere."</L>
+<L>This holi man makede loudere song, as hit for than one were.</L>
+<L>THE fisch sturte upe with here song, as hi awoke of slepe,</L>
+<L>And flote al aboute the schip, as hit were at one hepe;</L>
+<L>So thikke hi flote aboute bi eche half, that non other water me ne seȝ,</L>
+<L>And bisette this schip al aboute, ac hi ne come ther neȝ.</L>
+<L>So thikke hi were aboute the schip, and suede hit evere so,</L>
+<L>The while this holi man his masse song, forte he hadde i-do;</L>
+<L>And tho the masse was i-do, eche wende in his ende.</L>
+<L>Moche wonder he mai i-seo, ho so wole aboute wende.</L>
+<L>The wynd was strong, and stif y-nouȝ, and drof the schip faste,</L>
+<L>As fur as hi wende sove niȝt the clere see i-laste,</L>
+<L>So that hi seȝe in the see as clerliche as hi scholde a∣londe;</L>
+<L>Gret wonder hadde the gode men, and thonkede Godes sonde.</L>
+<L><PB N="22" REF="23"/>
+THO com ther a southerne wynd, that drof hem forth∣ward faste</L>
+<L>Riȝt evene noȝth hi nuste whoder, that eiȝte dawes hit laste;</L>
+<L>Tho seȝe hi fur in the north a lond durk y-nouȝ,</L>
+<L>Smokie as ther schipes were, thider-ward here schip drouȝ.</L>
+<L>Tho hurden hi of bulies gret blowinge there,</L>
+<L>And gret beting and noyse y-nouȝ, as ther thundre were;</L>
+<L>So that Brendan agaste sore, and him blescede faste.</L>
+<L>Ther cam out a grislich wiȝt wel lither atte laste;</L>
+<L>Thurf suart and berning al his eȝen upe hem he caste,</L>
+<L>And turnde him in anon; this monekes were agaste.</L>
+<L>This lither thing maked a cri that me miȝte i-hure wide;</L>
+<L>Tho come ther suche schrewen mo wel thicke bi eche side,</L>
+<L>With tangen and with hameres berninge meni on,</L>
+<L>To the brym hi urne of the see after the schip echon.</L>
+<L>Tho hi ne miȝte come ther neȝ, hi gonne to crie faste,</L>
+<L>And here oules al brenninge after the monekes caste;</L>
+<L>That me ne miȝte nothing bote fur i-seo ne i-hure,</L>
+<L>The see as he ful a-doun thoȝte ek al a-fure.</L>
+<L>Ech caste upon other his oules al an heȝ,</L>
+<L>And aboute the schip in the see, ac nevere ne cam non neȝ.</L>
+<L>Atte laste hi turnde hem aȝen, tho hi ne spedde noȝt there,</L>
+<L>And al that lond thoȝte hem ek a-fur as theȝ hit were,</L>
+<L><PB N="23" REF="24"/>
+And al the see ther-aboute smokede and brende faste,</L>
+<L>Strong was that stench and that longe i-laste.</L>
+<L>Tho the monekes were so fur that hi ne miȝte i-seo no∣more,</L>
+<L>Here ȝullinge ȝut hi hurde, the schrewen wepe sore.</L>
+<L>"Hou thinȝth ȝou," quath seint Brendan, "was this a murie pas?</L>
+<L>We ne wilnyeth come her nomore, an ende of helle hit was,</L>
+<L>And the develen hopede wel of ous habbe i-had a god cas;</L>
+<L>Ac i-hered beo Jhesu Crist, hi caste an ambesas."</L>
+<L>THE southerne wynd i-laste ȝut, and drof hem evere forth,</L>
+<L>So that hi seȝe an hulle wel heȝ fur in the north,</L>
+<L>Cloudi and berninge smoke, gret stench was there;</L>
+<L>The lie of the fur stod an heȝ as hit a was were:</L>
+<L>If ther was moche smoke in than other, ȝut was ther wel more.</L>
+<L>On of his monekes bigan tho to wepe and ȝulle sore;</L>
+<L>For his tyme was to i-come that he ne miȝte no leng abide,</L>
+<L>He hipte him amidde the see out of the schip biside,</L>
+<L>And orn him faste upon this water to this grisliche fure;</L>
+<L>He cride and ȝal so dulfulliche, that ruthe hit was to hure:</L>
+<L>"Allas!" he seide, "mi wrecche lyf! for nou ich i-seo myn ende,</L>
+<L>Mid ȝou ich habbe in joye i-beo, and y ne mai mid ȝou wende:</L>
+<L><PB N="24" REF="25"/>
+Acursed beo heo that me bar, and the tyme that ich was i-bore,</L>
+<L>And the fader that me biȝat, for ich am nou for-lore!"</L>
+<L>AȜEN him the develen come anon, and nome thane wrecche faste,</L>
+<L>And defoulede him stronge y-nouȝ, and amidde the fur him caste.</L>
+<L>Tho he fonde that seint Brendan seide tho he out wende,</L>
+<L>Him faillede grace, hou so hit was, his lyf to amende.</L>
+<L>So stronge brende the mountayne, that nothing hi ne seȝe,</L>
+<L>The ȝut hi were fur ther-fram, bote fur and lie.</L>
+<L>Tho turnde the wynd into the north; and south-ward hem drof faste,</L>
+<L>In thulke side strong y-nouȝ sove nyȝt the wynd i-laste.</L>
+<L>SO longe hi wende evene south, that hi seȝe attan ende</L>
+<L>A hard roch in the see, and the see ther-over wende;</L>
+<L>Ther-over the see caste i-lome and ofte he was bar.</L>
+<L>Tho hi come the roche neȝ of other hi were i-war:</L>
+<L>Ano-ward tho se hi seȝe sitte, wan the see withdrouȝ,</L>
+<L>A wrecche gost sitte naked, bar and meseise y-nouȝ;</L>
+<L>Above him was a cloth i-teid mid tuei tongen faste,</L>
+<L>The nyther ende tilde to his chynne, over al the wynd him caste,</L>
+<L>That the water withdrouȝ, the cloth that heng heȝe</L>
+<L>Beot as the wynd bleu the wrecche amidde than eȝe.</L>
+<L>The wawes beote him of the see bifore and eke bihynde;</L>
+<L>Wrecchedere gost than he was ne mai noman fynde.</L>
+<L>Seint Brendan bad him a Godes name telle him what he were,</L>
+<L><PB N="25" REF="26"/>
+And what he hadde God mis-do, and whi he sete there.</L>
+<L>"Ich am," he seide, "a dulful gost, wrecche Judas,</L>
+<L>That for pans oure Loverd solde, and an urthe mid him was;</L>
+<L>Nis this noȝt mi riȝte stede, ac oure Loverd me doth grace</L>
+<L>To habbe her mi parays, as ȝe seoth, in this place,</L>
+<L>For no godnisse that ich habbe i-do, bote of oure Lo∣verdes milce and ore,</L>
+<L>For y ne miȝte habbe so moche pyne that y nere worthe more;</L>
+<L>For in the brenninge hul that ech of ȝou i-say</L>
+<L>Mi riȝt is to beo and brenne bothe nyȝt and day.</L>
+<L>Ther ich was this other dai tho ȝoure brother thider com,</L>
+<L>And was into pyne i-lad, and sone hadde his dom;</L>
+<L>Therfore helle was tho glad y-nouȝ, that he makede the grettere lye</L>
+<L>For joye tho he was i-come that ȝe so fur i-sye.</L>
+<L>So he doth whan eni soule furst is thider i-come.</L>
+<L>Thurf oure Loverdes suete milce ich am nou thanne y-nome;</L>
+<L>For ich am her ech Soneday, and fram the Saterdayes eve</L>
+<L>Forte hit beo thane Soneday eve her ich schal bileve,</L>
+<L>And at Midewynter ek forte tuelfthe day beo i-do,</L>
+<L>And fram byginning ek of Ester forte Whitsoneday also,</L>
+<L>And at oure Lefdi feste ek, for ful of milce heo is;</L>
+<L>In al the other tyme of the ȝer in helle ich am i-wis,</L>
+<L>With Pilatus, Herodes, Anne, and Kayfas.</L>
+<L><PB N="26" REF="27"/>
+Bote ich mai cursi the tyme that ich i-bore was;</L>
+<L>And ich bidde ȝou for the love of God that ȝe fondie in alle wyse,</L>
+<L>That ich bileve her al niȝt forte the sonne arise,</L>
+<L>And that ȝe wite me fram the develen that cometh sone after me."</L>
+<L>SEINT Brendan seide, "Thurf Godes grace we schulle schulde the:</L>
+<L>Tel me what is the cloth that so heȝe hongeth there."</L>
+<L>"Tho ich was an urthe," quath Judas, "and oure Lo∣verdes pans ber,</L>
+<L>This cloth ich ȝaf a mesel, and for myne nas hit noȝt,</L>
+<L>Ac hit was mid oure Loverdes pans and mid oure bre∣therne i-boȝt;</L>
+<L>Ac for ich hit ȝaf for Godes love nou hit is me bifore,</L>
+<L>For me ne schal nothing for him do that schal beo forlore;</L>
+<L>And for hit was other mannes, as myn inwit understod,</L>
+<L>Hit me doth theȝ hit hongi her more harm than god,</L>
+<L>For hit bet in myn eȝen sore, and doth me harm y-nouȝ."</L>
+<L>Her me mai i-seo which hit is to ȝyve other manes with wouȝ,</L>
+<L>As woleth meni riche men mid unriȝt al dai take</L>
+<L>Of pore men her and thar, and almisse siththe make;</L>
+<L>That hi doth for Godes love ne schal hem noȝt beo forȝute,</L>
+<L>Ac to pyne hit schal hem turne, as hi mowe thanne wite.</L>
+<L>"The tongen also," quath Judas, "that ȝe seoth hongen an heȝ,</L>
+<L><PB N="27" REF="28"/>
+Preostes ich ȝaf an urthe, therfore here hi beoth;</L>
+<L>For clenliche me schal eche thing fynde that me doth for his love.</L>
+<L>The ston upe whan ich sitte, that maketh me sitte above,</L>
+<L>In a wei ich him fond ligge ther no neod nas to ston,</L>
+<L>Ich caste him in a dupe dich that me miȝte ther-over gon.</L>
+<L>Fewe gode dede ich habbe i-do that ich mowe of telle,</L>
+<L>Ac non so lute that y ne fynde her other in helle."</L>
+<L>THO hit was eve thane Sonedai, the develen come blaste,</L>
+<L>To lede to helle this wrecche gost; hi cride and ȝulle faste,</L>
+<L>"Wend hunne," hi seide, "thu Godes man, thu nast noȝt her to done,</L>
+<L>Let ous habbe oure felawe and lede to helle sone;</L>
+<L>For we ne thore oure maister i-seo er we him habbe i-brouȝt:</L>
+<L>Wend fram him, for hit is tyme, and ne lette ous nouȝt."</L>
+<L>"I lette ȝou noȝt," quath seint Brendan, "ne ne witie ȝou her,</L>
+<L>That doth oure Loverd Jhesu Crist, that is of more poer."</L>
+<L>"HOU therstou," quath this develen, "bifore him nemne his name?</L>
+<L>Ne bitrayde he him and solde ek to dethe with grete schame?"</L>
+<L>Seint Brendan seide, "In his name ich hote ȝou as ich mai,</L>
+<L><PB N="28" REF="29"/>
+That ȝe ne tuouche him noȝt to niȝt, er to morwe that hit beo day."</L>
+<L>Grisliche the develen ȝulle, and aȝen gonne fleo.</L>
+<L>Judas thonkede pitousliche, that deol hit was to seo.</L>
+<L>A-morwe, so sone as hit was dai, the develen gonne blaste,</L>
+<L>Grisliche hi cride and ȝulle also, and chidde also faste,</L>
+<L>"Awei!" hi seide, "thu Godes man, acursed beo the stounde</L>
+<L>That thu come her owhar about, and that we there here founde:</L>
+<L>Oure maister ous hath i-turmented so grisliche allonge niȝt,</L>
+<L>And stronge y-nouȝ, for we ne brouȝte mid ous this lithere wiȝt.</L>
+<L>Ac we wolleth ous wel awreke, upe him silve hit schal go,</L>
+<L>For we schulle this six dayes therfore dubli his wo."</L>
+<L>This wrecche gost quakede tho, that reuthe hit was to telle;</L>
+<L>The develen him nome wel grisliche, and bere into helle.</L>
+<L>Ac seint Brendan hem forbed in oure Loverdes name,</L>
+<L>That he nadde for thulke niȝt nevere the more schame.</L>
+<L>Seint Brendan and his monekes in the see forth wende</L>
+<L>Riȝt threo dayes evene south, as oure Loverd hem sende;</L>
+<L>The furde dai hi seȝe an yle al bi southe an heȝ,</L>
+<L>Seint Brendan siȝte sore tho he this yle i-seȝ,</L>
+<L>"Poul," he seide, "the ermite, is in the yle that ich i-seo,</L>
+<L>Ther he hath withoute mete this fourti ȝer i-beo."</L>
+<L><PB N="29" REF="30"/>
+THO hi come to this yle, yn hi wende echon,</L>
+<L>The ermite that was so old aȝen hem com gon;</L>
+<L>His her to his fet tilde of berde and of heved,</L>
+<L>And helede al aboute his bodi, nas ther no bar on him bileved;</L>
+<L>None other clothes nadde he on, his lymes were al hore.</L>
+<L>Seint Brendan him bihulde, and gan to sike sore,</L>
+<L>"Allas!" he seide, "ich have so ȝare in stede of monek i-beo,</L>
+<L>And nou in lyf of an angel a man ich i-seo."</L>
+<L>"BEO stille," quath this Ermite, "God doth bet bi the,</L>
+<L>For he schoweth the more than eni other of his pri∣veité;</L>
+<L>For o monek lyveth bi the swynk of his owe honde,</L>
+<L>And thurf oure Loverdes grace thu lyvest, and thurf his sonde;</L>
+<L>Of the abbey of seint Patrik monek ich was i-wis,</L>
+<L>And of his church ai a wardeyn, ther as purgatorie is:</L>
+<L>A dai ther com a man to me, ich eschte what he were,</L>
+<L>Ich am, he seide, thyn abbod, of me nave thu no fere.</L>
+<L>Non other man than seint Patrik abbot nis, ich sede.</L>
+<L>No ich hit am, quath this other, "ne therstou nothing drede.</L>
+<L>To morwe arys sone days to the see thu must wende,</L>
+<L>A schip thu schal fynde ȝare, as oure Loverd the wole sende:</L>
+<L>Do the forth in thulke schip in the see wel wide,</L>
+<L>And hit wole the lede into the stede ther thu schalt abide.</L>
+<L><PB N="30" REF="31"/>
+Sone a-morwe ich aros to don his holi bone,</L>
+<L>Forth ich wende to the see, a schip ich fond sone,</L>
+<L>Mid me ich let the schip i-worthe; wel evene forth hit wende,</L>
+<L>Thane sovethe dai into this yle oure Loverd me sende.</L>
+<L>So sone ich was out of tho schip, aȝe thane wei hit nom,</L>
+<L>As evene as hit miȝte drawe riȝt as hit thider com.</L>
+<L>Eling ich ȝeode her alone, confort nadde ich non,</L>
+<L>So that upe his hynder fet an oter ther com gon,</L>
+<L>Mid his forthere fet he brouȝte a fur-ire and a ston,</L>
+<L>Forto smyte fur therwith, and of fisch god won.</L>
+<L>This oter wende aȝe anon; ich makede me fur wel faste,</L>
+<L>And seoth me fisch a Godes name that threo dayes i-laste,</L>
+<L>So that evere the thridde dai this oter to me drouȝ,</L>
+<L>And brouȝte me mete that ich hadde threo dayes y∣nouȝ;</L>
+<L>Water of this harde ston, thurf oure Loverdes sonde,</L>
+<L>Ther sprong out ech Sonedai to drinke and to wasche myn honde.</L>
+<L>THO ich hadde her in thisse lyve thretti ȝer i-beo,</L>
+<L>This welle him gan furst to schewe, that thu miȝt her i-seo.</L>
+<L>Bi this wille ich have i-lyved four and tuenti ȝer nou non,</L>
+<L>And vyfti ȝer ich was old tho ich gan hider gon;</L>
+<L>So that of an hondred ȝer and tuenti ther-to</L>
+<L>Bi this tyme ich am i-redi oure Loverdes wille to do,</L>
+<L>And mi deth ich abide her, whan hyne wole me sende,</L>
+<L>Whan God wole that ich come to him and out of this wordle wende.</L>
+<L><PB N="31" REF="32"/>
+And nym with the of this water what thu hast neode ther-to,</L>
+<L>And wend forth faste in the see, for thi wei nis noȝt i-do;</L>
+<L>For thu schalt ȝut in the see fourti dayes fare,</L>
+<L>Thanne thu schalt thin Ester holde ther thu hast i-do ȝare,</L>
+<L>And thanne thu schalt wende forth to the Lond of Biheste,</L>
+<L>And ther thu schalt fourti dayes bileve atte meste,</L>
+<L>And to thin owe lond aȝe thu schalt wende so."</L>
+<L>This gode men with deol y-nouȝ departede ther a-tuo.</L>
+<L>THIS gode men hem wende forth in the see faste,</L>
+<L>Fourti dayes evene south the while Leynte i-laste;</L>
+<L>To here gode procuratour an Ester eve hi come.</L>
+<L>With hem he makede joye y-nouȝ, as he dude er i-lome,</L>
+<L>He ladde hem to this grete fisch, thider hi come an eve,</L>
+<L>This Ester niȝt forte a-morwe ther hi scholde bileve,</L>
+<L>Ther hi seide here matyns and here masse also.</L>
+<L>This fisch bigan to moevi him tho the masse was i-do,</L>
+<L>And bar this monekes forth with him, and swam forth wel faste,</L>
+<L>In the grete see wel grislich, this monekes were agaste,</L>
+<L>A wonder thing hit was to mete, ho so hit hadde i-seie,</L>
+<L>A so gret best aboute wende into al the contreye.</L>
+<L>To this Fowelen Parays this monekes he ladde echon,</L>
+<L>And sette hem up ther hol and sound, and wende aȝe anon.</L>
+<L>Tho this monekes thider come wel joyful hi were;</L>
+<L><PB N="32" REF="33"/>
+Forte after the Trinité hi bileved there,</L>
+<L>For here procuratour bi thulke tyme brouȝte hem mete y-nouȝ,</L>
+<L>As he hadde er ofte i-do, into here schip hit drouȝ,</L>
+<L>And wende forth with hem whoder oure Loverd hem sende.</L>
+<L>Riȝt evene toward than est fourti dayes hi wende;</L>
+<L>Tho this fourti dayes were i-do hit bigan to haweli faste,</L>
+<L>A wel durc myst ther com also that wel longe i-laste.</L>
+<L>"Beoth glad," quath this procuratour, "and makieth grete feste,</L>
+<L>For ich hit wot ȝe beoth nou neȝ the Lond of Biheste."</L>
+<L>THO hi come out of this durke mist, and miȝte aboute i-seo,</L>
+<L>Under the faireste lond hi come that evere miȝte beo;</L>
+<L>So cler and so liȝt hit was, that joye ther was y-nouȝ,</L>
+<L>Treon ther were ful of frut wel thikke on everech bouȝ.</L>
+<L>Thikke hit was biset of treon, and the treon thicke bere,</L>
+<L>Thapplen were ripe y-nouȝ, riȝt as hit harvest were.</L>
+<L>Fourti dayes aboute this lond hi hem gonne wende;</L>
+<L>Hi ne miȝte fynde in non half of this lond non ende;</L>
+<L>Hit was ever more dai, hi ne fonde nevere nyȝt,</L>
+<L>Hi ne wende fynde in no stede so moche cler liȝt.</L>
+<L>The eir was evere in o stat, nother hot ne cold,</L>
+<L>Bote the joye that hi fonde ne mai nevere beo i-told.</L>
+<L>So that hi come to a fair water, hi ne miȝte noȝt over wende;</L>
+<L>Ac over hi miȝte the lond i-seo fair withouten ende.</L>
+<L><PB N="33" REF="34"/>
+THO cam ther to hem a ȝunglich man, swyse fair and hende,</L>
+<L>Fairere man ne miȝte beo, that oure Loverd hem gan sende.</L>
+<L>He wolcome ech bi his name, and custe hem echon,</L>
+<L>And honurede faire seint Brendan, and nom him bi the hond anon.</L>
+<L>"Lo," he seide, "her is the lond that ȝe habbeth i-soȝt wyde,</L>
+<L>And the lengere for oure Loverd wolde that ȝe schulde abyde,</L>
+<L>For ȝe scholde in the grete see his priveitez i-seo.</L>
+<L>Chargieth ȝoure schip with this frut, for ȝe ne mowe no leng her beo,</L>
+<L>For thu most to-ward thin owe lond aȝe-wardes wende,</L>
+<L>For thu schalt sone out of the wordle, thi lyf is neȝ than ende.</L>
+<L>This water that ȝe her i-seoth deleth this lond a-tuo;</L>
+<L>This half ȝou thinȝth fair y-nouȝ, and thother half also;</L>
+<L>A ȝund half ne mowe ȝe come noȝt, for hit nis noȝt riȝt.</L>
+<L>This frut is evere i-liche ripe, and this lond i-liche liȝt.</L>
+<L>And whan oure Loverd ech maner man to him hath i-drawe,</L>
+<L>And ech maner men knoweth him, and beoth under his lawe,</L>
+<L>This lond wole thanne schewe to-ward the wordles ende,</L>
+<L>Hem that beoth him next i-core er hi hunnes wende."</L>
+<L>Seint Brendan and his felawes of this frut nome faste,</L>
+<L>And of preciouse stones, and into here schip caste,</L>
+<L><PB N="34" REF="35"/>
+And faire and wel here leve nome tho this was al i-do,</L>
+<L>And mid wop and deol y-nouȝ departede tho a-tuo,</L>
+<L>And wende hem ham-ward in the see, as oure Loverd hem sende,</L>
+<L>And welrathere come hem hom than hi out-ward wende.</L>
+<L>Here bretheren, tho hi come hom, joyful were y-nouȝ.</L>
+<L>This holi man seint Brendan to-ward dethe drouȝ;</L>
+<L>For ever-eft after thulke tyme of the wordle he ne roȝte,</L>
+<L>Bote as a man of thother wordle, and as he were in thoȝte.</L>
+<L>He deide in Irlande after thulke stounde;</L>
+<L>Meni miracle me hath ther siththe for him i-founde;</L>
+<L>An abbei ther is arered ther as his bodi was i-do:</L>
+<L>Nou God ous bringe to thulke joye that his soule wende to!</L>
+</LG>
+<CLOSER>AMEN.</CLOSER>
+</DIV1>
+<DIV1 TYPE="biography">
+<PB REF="36"/>
+<HEAD>PROSE LIFE OF ST. BRANDAN.</HEAD>
+<OPENER>Here begynneth the lyfe of saynt Brandon.</OPENER>
+<P>SAYNT BRANDON, the holy man, was a monke, and borne in Yrlonde, and there he was abbot of an hous wherein were a thousand monkes, and there he ladde a full strayte and holy lyfe, in grete penaunce and abstynence, and he governed his monkes ful vertuously. And than within shorte tyme after, there came to hym an holy abbot that hyght Beryne to vysyte hym, and eche of them was joyfull of other; and than saynt Brandon began to tell to the abbot Beryne of many wonders that he had seen in dyverse londes. And whan Beryne herde that of saynt Brandon, he began to sygh, and sore wepte. And saynt Brandon comforted him the best wyse he coude, sayenge, "Ye come hyther for to be joyfull with me, and therfore for Goddes love leve your mournynge, and tell me what mervayles ye have seen in the grete see occean, that compasseth all the worlde aboute, and all other waters comen out of hym, whiche renneth in all the partyes of the erth." And than Beryne began to tell to saynt Brandon and to his monkes the mervaylles that he had seen, full sore wepynge, and sayd, "I have a sone, his name is Mer∣uoke, and he was a monke of grete fame, whiche had
+<PB N="36" REF="37"/>
+grete desyre to seke aboute by shyppe in dyverse countrees, to fynde a solytary place wherin he myght dwell secretly out of the besynesse of the worlde, for to serve God quyetly with more devocyon; and I counseyled hym to sayle into an ylonde ferre in the see, besydes the Mountaynes of Stones, whiche is ful well knowen, and than he made hym redy and sayled thy∣der with his monkes. And whan he came thyder, he lyked that place full well, where he and his monkes served our Lorde full devoutly." And than Beryne sawe in a visyon that this monke Meruoke was sayled ryght ferre eestwarde into the see more than thre dayes saylynge, and sodeynly to his semynge there came a derke cloude and overcovered them, that a grete parte of the daye they sawe no lyght; and as our Lorde wold, the cloude passed awaye, and they sawe a full fayr ylond, and thyderwarde they drewe. In that ylonde was joye and myrth ynough, and all the erth of that ylonde shyned as bryght as the sonne, and there were the fayrest trees and herbes that ever ony man sawe, and there were many precyous stones shynynge bryght, and every herbe there was ful of fygures, and every tree ful of fruyte; so that it was a glorious sight, and an hevenly joye to abyde there. And than there came to them a fayre yonge man, and full curtoysly he welcomed them all, and called every monke by his name, and sayd that they were much bounde to prayse the name of our Lorde Jesu, that wold of his grace shewe to them that glorious place, where is ever day, and never night, and this place is called paradyse ter∣restre.
+<PB N="37" REF="38"/>
+But by this ylonde is an other ylonde wherin no man may come. And this yonge man sayd to them, "Ye have ben here halfe a yere without meet, drynke, or slepe." And they supposed that they had not ben there the space of half an houre, so mery and joyfull they were there. And the yonge man tolde them that this is the place that Adam and Eve dwelte in fyrst, and ever should have dwelled here, yf that they had not broken the commaundement of God. And than the yonge man brought them to theyr shyppe agayn, and sayd they might no lenger abyde there; and whan they were all shypped, sodeynly this yonge man van∣ysshed away out of theyr sight. And than within shorte tyme after, by the purveyaunce of our Lorde Jesu, they came to the abbey where saint Brandon dwelled, and than he with his bretherne receyved them goodly, and demaunded where they had ben so longe, and they sayd, "We have ben in the Londe of Byheest, to-fore the gates of Paradyse, where as is ever daye, and never night." And they sayd all that the place is full delectable, for yet all theyr clothes smelled of the swete and joyfull place. And than saynt Brandon purposed soone after for to seke that place by Goddes helpe, and anone began to purvey for a good shyppe, and a stronge, and vytaylled it for vij. yere; and than he toke his leve of all his bretherne, and toke xij. monkes with him. But or they entred into the shyppe they fasted xl. dayes, and lyved devoutly, and eche of them receyved the sacrament. And whan saynt Bran∣don with his xij. monkes were entred into the shyppe,
+<PB N="38" REF="39"/>
+there came other two of his monkes, and prayed hym that they myght sayle with hym. And than he sayd, "Ye may sayle with me, but one of you shall go to hell, or ye come agayn." But not for that they wold go with hym.</P>
+<P>And than saynt Brandon badde the shypmen to wynde up the sayle, and forth they sayled in Goddes name, so that on the morow they were out of syght of ony londe; and xl. dayes and xl. nightes after they sayled playn eest, and than they sawe an ylonde ferre fro them, and they sayled thyder-warde as fast as they coude, and they sawe a grete roche of stone appere above all the water, and thre dayes they sayled aboute it or they coude gete in to the place. But at the last, by the purveyaunce of God, they founde a lytell haven, and there went a-londe everychone, and than sodeynly came a fayre hounde, and fell down at the feet of saynt Brandon, and made hym good chere in his maner. And than he badde his bretherne, "Be of good chere, for our Lorde hath sente to us his messenger, to lede us into some good place." And the hounde brought them into a fayre hall, where they founde the tables spredde redy, set full of good meet and drynke. And than saynt Brandon sayd graces, and than he and his bretherne sate down and ete and dranke of suche as they founde; and there were beddes redy for them, wherin they toke theyr rest after theyr longe labour. And on the morowe they returned agayne to theyr shyppe and sayled a longe tyme in the see after or they coude fynde ony londe, tyll at the last, by the purveyaunce
+<PB N="39" REF="40"/>
+of God, they sawe ferre fro them a full fayre ylonde, ful of grene pasture, wherin were the whytest and gretest shepe that ever they sawe; for every shepe was as grete as an oxe. And soone after came to them a goodly olde man, whiche welcomed them, and made them good chere, and sayd, "This is the Ylonde of Shepe, and here is never colde weder, but ever som∣mer, and that causeth the shepe to be so grete and whyte; they ete of the best grasse and herbes that is ony where." And than this olde man toke his leve of them, and bad them sayle forth ryght eest, and within shorte tyme, by Goddes grace, they sholde come into a place lyke paradyse, wherin they shold kepe theyr Eestertyde.</P>
+<P>And than they sayled forth, and came soone after to that lond; but bycause of lytell depthe in some place, and in some place were grete rockes, but at the last they wente upon an ylonde, wenynge to them they had ben safe, and made theron a fyre for to dresse theyr dy∣ner, but saynt Brandon abode styll in the shyppe. And whan the fyre was ryght hote, and the meet nygh soden, than this ylonde began to move; wherof the monkes were aferde, and fledde anone to the shyppe, and lefte the fyre and meet behynde them, and mervayled sore of the movyng. And saynt Brandon comforted them, and sayd that it was a grete fisshe named Jasconye, whiche laboureth nyght and daye to put his tayle in his mouth, but for gretnes he may not. And than anone they sayled west thre dayes and thre nyghtes or they sawe ony londe, wherfore they were ryght hevy.
+<PB N="40" REF="41"/>
+But soone after, as God wold, they sawe a fayre ylonde, full of floures, herbes, and trees, wherof they thanked God of his good grace, and anone they went on londe. And whan they had gone longe in this, they founde a ful fayre well, and therby stode a fayre tree, full of bowes, and on every bough sate a fayre byrde, and they sate so thycke on the tree that unneth ony lefe of the tree myght be seen, the nombre of them was so grete, and they songe so meryly that it was an hevenly noyse to here. Wherfore saynt Brandon kneled down on his knees, and wepte for joye, and made his prayers devoutly unto our Lord God to knowe what these byrdes ment. And than anone one of the byrdes fledde fro the tree to saynt Brandon, and he with flykerynge of his wynges made a full mery noyse lyke a fydle, that hym semed he herde never so joy∣full a melodye. And than saynt Brandon commaunded the byrde to tell hym the cause why they sate so thycke on the tree, and sange so meryly. And than the byrde sayd, "Somtyme we were aungels in heven, but whan our mayster Lucyfer fell down into hell for his hygh pryde, we fell with hym for our offences, some hyther, and some lower, after the qualyté of theyr trespace; and bycause our trepace is but lytell, ther∣fore our Lorde hath set us here out of all payne in full grete joye and myrth, after his pleasynge, here to serve hym on this tree in the best maner that we can. The Sonday is a day of rest fro all worldly occupacyon, and, therfore, that daye all we be made as whyte as ony snow, for to prayse our Lorde in the best wyse we
+<PB N="41" REF="42"/>
+may." And than this byrde sayd to saynt Brandon, "It is xij. monethes past that ye departed fro your abbey, and in the vij. yere hereafter ye shall se the place that ye desyre to come, and all this vij. yere ye shal kepe your Eester here with us every yere, and in the ende of the vij. yere ye shal come into the Londe of Byhest." And this was on Eester daye that the byrde sayd these wordes to saynt Brandon. And than this fowle flewe agayn to his felawes that sate on the tree. And than all the byrdes began to synge even∣songe so meryly, that it was an hevenly noyse to here; and after souper saynt Brandon and his felawes wente to bedde, and slepte well, and on the morowe they arose betymes, and than those byrdes began matyns, pryme, and houres, and all suche service as Chrysten men use to synge.</P>
+<P>And saynt Brandon with his felawes abode there viij. wekes, tyll Trinité Sonday was past; and they sayled agayne to the Ylonde of Shepe, and there they vytayled them wel, and syth toke theyr leve of that olde man, and returned agayn to shyppe. And than the byrde of the tree came agayn to saynt Brandon, and said, "I am come to tell you that ye shall sayle fro hens into an ylonde, wherein is an abbey of xxiiij. monkes, whiche is fro this place many a myle, and there ye shall holde your Chrystmasse, and your Eester with us, lyke as I tolde you." And than this byrde flewe to his felawes agayn. And than saynt Brandon and his felawes sayled forth in the occyan; and soone after fell a grete tempest on them, in whiche
+<PB N="42" REF="43"/>
+they were gretely troubled longe tyme, and sore for-laboured. And after that, they founde by the purvey∣aunce of God an ylonde whiche was ferre fro them, and than they full mekely prayed to our Lord to sende them thyder in safeté, but it was xl. dayes after or they came thyder, wherfore all the monkes were so wery of that trouble that they set lytel pryce by theyr lyves, and cryed contynually to our Lord to have mercy on them and brynge them to that ylonde in safeté. And by the purveyaunce of God, they came at the last into a lytell haven; but it was so strayte that unneth the shyppe might come in. And after they came to an ancre, and anone the monkes went to londe, and whan they had longe walked about, at the last they founde two fayre welles; that one was fayre and clere water, and that other was somwhat troubly and thycke. And than they thanked our Lorde full humbly that had brought them thyder in safeté, and they wolde fayne have droken of that water, but saynt Brandon charged them that they sholde take none without lycence, "for yf we absteyne us a whyle, our Lord wyll purvey for us in the best wyse." And anone after came to them a fayre old man, with hoor heer, and welcomed them ful mekely, and kyssed saynt Brandon, and ledde them by many a fayre welle tyll they came to a fayre abbey, where they were receyved with grete honour, and solempne processyon, with xxiiij. monkes all in ryal copes of cloth of golde, and a ryall crosse was before them. And than the abbot welcomed saynt Brandon and his felawshyp, and kyssed them full mekely, and
+<PB N="43" REF="44"/>
+toke saynt Brandon by the hande, and ledde hym with his monkes into a fayre hall, and set them downe a-rowe upon the benche; and the abbot of the place wasshed all theyr feet with fayre water of the well that they sawe before, and after ladde them into the fraytour, and there set them amonge his covent. And anone there came one by the purveyaunce of God, whiche served them well of meet and drynke. For every monke had set before hym a fayre whyte lofe and whyte rotes and herbes, whiche were ryght delycyous, but they wyst not what rotes they were; and they dranke of the water of the fayre clere welle that they sawe before whan they came fyrst a-londe, whiche saynt Brandon forbadde them. And than the abbot came and chered saynt Brandon and his monkes, and prayed them to ete and drynke for charité, "for every day our Lorde sendeth a goodly olde man that covereth this table, and setteth our meet and drynke to-fore us; but we knowe not how it cometh, ne we ordeyne never no meet ne drynke for us, and yet we have ben lxxx. yere here, and ever our Lorde (worshypped mote he be!) fedeth us. We ben xxiiij. monkes in nombre, and every feryall day of the weke he sendeth to us xij. loves, and every Sondaye and feestful day xxiiij. loves, and the breed that we leve at dyner we ete at souper. And nowe at your comynge our Lorde hath sente to us xlviij. loves, for to make you and us mery togyder as brethern, and alwaye xij. of us go to dyner, whyles other xij. kepe the quere; and thus have we done this lxxx. yere, for so longe have we dwelled
+<PB N="44" REF="45"/>
+here in this abbey; and we came hyther out of the abbey of saynt Patrykes in Yrelonde, and thus, as ye se, our Lorde hath purveyd for us, but none of us knoweth how it cometh, but God alone, to whome be gyven honour and laude worlde without ende. And here in this londe is ever fayre weder, and none of us hath ben seke syth we came hyther. And whan we go to masse, or to ony other servyce of our Lorde in the chirche, anone seven tapers of waxe ben set in the quere, and ben lyght at every tyme without mannes hande, and so brenne daye and nyght at every houre of servyce, and never waste ne mynysshe as longe as we have ben here, whiche is lxxx. yere."</P>
+<P>And than saynt Brandon wente to the chirche with the abbot of the place, and there they sayd evensonge togyder full devoutly. And than saynt Brandon loked up-ward to-warde the crucifyxe, and sawe our Lorde hangynge on the crosse, which was made of fyne cristal and curyously wrought; and in the quere were xxiiij. setes for xxiiij. monkes, and the vij. tapers brennynge, and the abbottes sete was made in the myddes of the quere. And than saynt Brandon de∣manded of the abbot how longe they had kepte that scylence that none of them spake to other." And he sayd, "This xxiiij. yere we spake never one to an other." And than saynt Brandon wepte for joye of theyr holy conversation. And than saynt Brandon desyred of the abbot that he and his monkes might dwell there styll with hym. To whom the abbot sayd, "Syr, that may ye not do in no wyse, for our Lorde
+<PB N="45" REF="46"/>
+hath shewed to you in what maner ye shall be guyded tyll the vij. yere be fulfylled, and after that terme thou shalte with thy monkes returne into Yrlonde in safeté; but on of the two monkes that came last to you shall dwell in the Ylonde of Ankers, and that other shall go quycke to hell. And as saynt Brandon kneled in the chirche, he sawe a bryght shynynge aungell come in at the wyndowe, and lyghted all the lyghtes in the chirche, and than he flewe out agayn at the wyndowe unto heven, and than saynt Brandon mervayled gretly how the lyght brenned so fayre and wasted not. And than the abbot sayd that it is wryten that Moyses sawe a busshe all on a fyre, and yet it brenned not, "and therefore mer∣vayle not therof, for the myght of our Lorde is now as grete as ever it was."</P>
+<P>And whan saynt Brandon had dwelled there fro Chrystmasse even tyll the xij. daye was passed, than he toke his leve of the abbot and covent, and returned with his monkes to his shyppe, and sayled fro thens with his monkes to-warde the abbey of saynt Hylaryes, but they had grete tempestes in the see fro that tyme tyll Palme Sondaye. And than they came to the Ylonde of Shepe, and there were receyved of the olde man, whiche brought them to a fayre hall and served them. And on Sher-Thursdaye after souper he was∣shed theyr feet and kyssed them, lyke as our Lorde dyd to his discyples, and there abode tyll Saterdaye Eester even, and than they departed and sayled to the place where the grete fysshe laye, and anone they sawe theyr caudron upon the fysshes backe whiche they had left there xij. monethes to-fore, and there
+<PB N="46" REF="47"/>
+they kepte the servyce of the resurreccyon on the fysshes backe, and after they sayled the same daye by the mornynge to the ylonde where as the tree of byrdes was, and than the sayd byrde welcomed saynt Brandon and all his felawshyp, and went agayn to the tree and sangefull meryly. And there he and his monkes dwelled fro Eester tyll Trynité Sondaye, as they dyd the yere before, in full grete joye and myrth; and dayly they herde the mery servyce of the byrdes syttynge on the tree. And than the byrde tolde to saynt Brandon that he sholde returne agayn at Chryst∣masse to the abbey of monkes, and at Eester thyder agayn, and the other dele of the yere labour in the oc∣cean in full grete perylles, "and fro yere to yere tyll the vij. yere ben accomplysshed, and than shall ye come to the joyfull place of Paradyse, and dwell there xl. daye in full grete joye and myrth; and after ye shall returne home into your owne abbey in safeté, and there end your lyf and come to the blysse of heven, to whiche our Lorde bought you with his precyous blode." And than the aungell of oure Lorde ordeyned all thynge that was nedefull to saynt Brandon and to his monkes, in vytayles and all other thynges necessary. And than they thanked our Lorde of his grete goodnes that he had shewed to them ofte in theyr grete nede, and than sayled forth in the grete see occcan abydynge the mercy of our Lord in grete trouble and tempestes, and soone after came to them an horryble fysshe, whiche folowed the shyppe long tyme, castynge so moche water out of his mouth into the shyppe, that
+<PB N="47" REF="48"/>
+they supposed to have ben drowned. Wherfore they devoutly prayed to God to delyver them of that grete peryll. And anone after came an other fysshe, greter than he, out of the west see, and faught with him, and at the laste clave hym in thre places, and than returned agayne. And than they thanked mekely our Lord of theyr delyveraunce fro this grete peryll; but they were in grete hevynesse, because theyr vytayles were nygh spente. But, by the ordynaunce of our Lorde, there came a byrde and brought to them a grete braunche of a vine full of reed grapes, by whiche they lyved xiiij. dayes; and than they came to a lytell ylonde, wherin were many vynes full of grapes, and they there londed, and thanked God, and gadred as many grapes as they lyved by xl. dayes after, alwaye saylynge in the see in many a storme and tempest. And as they thus sayled, sodeynly came fleynge towarde them a grete grype, whiche assayled them and was lyke to have destroyed them; wherfore they devoutly prayed for helpe and ayde of our Lord Jesu Chryst. And than the byrde of the tree of the ylonde where they had holden theyr Eester to-fore came to the gripe and smote out both his eyen, and after slewe hym; wherof they thanked our Lorde, and than sayled forth contynually tyll saynt Peters daye, and than songen they solempnely theyr servyce in the honour of the feest. And in that place the water was so clere, that they myght se all the fysshes that were aboute them, wherof they were full sore agast, and the monkes counseyled saynt Brandon to synge no more, for all the fysshes lay than as they
+<PB N="48" REF="49"/>
+had slepte. And than saynt Brandon sayd, "Drede ye not, for ye have kepte by two Eesters the feest of the resurreccion upon the grete fysshes backe, and ther∣fore drede ye not of these lytel fysshes." And than saynt Brandon made hym redy, and wente to masse, and badde his monkes to synge the best wyse they coude. And than anone all the fysshes awoke and came aboute the shippe so thicke, that unneth they myght se the water for the fysshes. And whan the masse was done, all the fysshes departed so that they were no more seen.</P>
+<P>And seven dayes they sayled alwaye in that clere water. And than there came a south wynde and drove the shyppe north-warde, where as they sawe an ylonde full derke and full of stenche and smoke; and there they herde grete blowynge and blastyng of belowes, but they myght se no thynge, but herde grete thon∣drynge, wherof they were sore aferde and blyssed them ofte. And soone after there came one stertynge out all brennynge in fyre, and stared full gastly on them with grete staryng eyen, of whome the monkes were agast, and at his departyng from them he made the horryblest crye that myght be herde. And soone there came a grete nombre of fendes and assayled them with hokes and brennynge yren malles, whiche ranne on the water, folowyng fast theyr shyppe, in suche wyse that it semed all the see to be on a fyre; but by the wyll of God they had no power to hurte ne to greve them, ne theyr shyppe. Wherfore the fendes began to rore and crye, and threwe theyr hokes and
+<PB N="49" REF="50"/>
+malles at them. And they than were sore aferde, and prayed to God for comforte and helpe; for they sawe the fendes all about the shyppe, and them semed that all the ylonde and the see to be on a fyre. And with a sorowfull crye all the fendes departed fro them and returned to the place that they came fro. And than saynt Brandon tolde to them that this was a parte of hell, and therfore he charged them to be stedfast in the fayth, for they shold yet se many a dredefull place or they came home agayne. And than came the south wynde and drove them ferther into the north, where they sawe an hyll all on fyre, and a foule smoke and stenche comyng from thens, and the fyre stode on eche syde of the hyll lyke a wall all brennynge. And than one of his monkes began to crye and wepe ful sore, and sayd that his ende was comen, and that he might abyde no lenger in the shyppe, and anone he lepte out of the shyppe into the see, and than he cryed and rored full pyteously, cursynge the tyme that he was borne, and also fader and moder that bygate him, bycause they sawe no better to his correccyon in his yonge age, "for now I must go to perpetual payne." And than the sayenge of saynt Brandon was veryfyed that he sayd to hym whan he entred into the shyppe. Therfore it is good a man to do penaunce and forsake synne, for the houre of deth is incertayne.</P>
+<P>And than anone the wynde turned into the north, and drove the shyppe into the south, whiche sayled vij. dayes contynually; and they came to a grete rocke standynge in the see, and theron sate a naked man in
+<PB N="50" REF="51"/>
+full grete mysery and payne; for the wawes of the see had so beten his body that all the flesshe was gone of, and nothynge lefte but synewes and bare bones. And whan the wawes were gone, there was a canvas that henge over his heed whiche bette his body full sore with the blowynge of the wynde; and also there were two oxe tongues and a grete stone that he sate on, whiche dyd hym full grete ease. And than saynt Brandon charged hym to tell hym what he was. And he sayd, "My name is Judas, that solde our Lorde Jesu Chryst for xxx. pens, whiche sytteth here moche wretchedly, how be it I am worthy to be in the gretest payne that is; but our Lorde is so mercyfull that he hath rewarded me better than I have deserved, for of ryght my place is in the brennynge hell; but I am here but certayne tymes of the yere, that is, fro Chrystmasse to twelfth daye, and fro Eester tyll Whytsontyde be past, and every feestfull daye of our lady, and every Sater∣daye at noone tyll Sonday that evensonge be done; but all other tymes I lye styll in hell in ful brennynge fyre with Pylate, Herode, and Cayphas; therfore accursed be the tyme that ever I knewe them." And than Judas prayed saynt Brandon to abyde styll there all that nyght, and that he wolde kepe hym there styll that the fendes sholde not fetche hym to hell. And he sayd, "With Goddes helpe thou shalt abyde here all this nyght." And than he asked Judas what cloth that was that henge over his heed. And he sayd it was a cloth that he gave unto a lepre, whiche was bought with the money that he stale fro our Lorde whan he bare his purse,
+<PB N="51" REF="52"/>
+"wherfore it dothe to me grete payne now in betyng my face with the blowynge of the wynde; and these two oxe tongues that hange here above me, I gave them somtyme to two preestes to praye for me. I bought them with myne owne money, and therfore they ease me, bycause the fysshes of the see knawe on them and spare me. And this stone that I syt on laye somtyme in a desolate place where it eased no man; and I toke it thens and layd it in a foule waye, where it dyd moche ease to them that went by that waye, and therfore it easeth me now; for every good dede shall be rewarded, and every evyll dede shal be punysshed." And the Sondaye agaynst even there came a grete multitude of fendes blastyng and rorynge, and badde saynt Brandon go thens, that they myght have theyr servaunt Judas, "for we dare not come in the presence of our mayster, but yf we brynge hym to hell with us." And saynt Brandon sayd, "I lette not you do your maysters com∣maundement, but by the power of our Lorde Jesu Chryst I charge you to leve hym this nyght tyll to morow." "How darest thou helpe hym that so solde his mayster for xxx. pens to the Jewes, and caused hym also to dye the moost shamefull deth upon the crosse?" And than saynt Brandon charged the fendes by his passyon that they sholde not noy hym that nyght. And than the fendes went theyr way rorynge and cryenge towarde hell to theyr mayster, the grete devyll. And than Judas thanked saynt Brandon so rewfully that it was pité to se, and on the morowe the fendes came with an horryble noyse, sayenge that they had that nyght
+<PB N="52" REF="53"/>
+suffred grete payne bycause they brought not Judas, and sayd that he shold suffre double payne the sixe dayes folowynge. And they toke than Judas tremblynge for fere with them to payne.</P>
+<P>And after saynt Brandon sayled south-warde thre dayes and thre nyghtes, and on the Frydaye they sawe an ylonde, and than saynt Brandon began to sygh and saye, "I se the ylonde wherin saynt Poule the heremyte dwelleth, and hath dwelled there xl. yere, without meet and drynke ordeyned by mannes hande." And whan they came to the londe, saynt Poule came and welcomed them humbly. He was olde and for-growen, so that no man myght se his body, of whom saynt Brandon sayd weepyng, "Now I se a man that lyveth more lyke an aungell than a man, wherfore we wretches may be ashamed that we lyve not better." Than saynt Poule sayd to saynt Brandon, "Thou art better than I; for our Lorde hath shewed to the more of his prevytees than he hath done to me, wherfore thou oughtest to be more praysed than I." To whome saynt Brandon sayd, "We ben monkes and must labour for our meet, but God hath provyded for the suche meet as thou holdest the pleased, wherfore thou art moche better than I." To whome saynt Poule sayd, "Somtime I was a monke of saynt Patrykes abbey in Yrelonde, and was wardeyn of the place where as men entre into saynt Patrikes pur∣gatory. And on a day there came one to me, and I asked hym what he was, and he sayd I am your abbot Patryke, and charge the that thou departe from hens to morowe erly to the see syde, and there thou shalt
+<PB N="53" REF="54"/>
+fynde a shyppe, into the whiche thou must entre, whiche God hath ordeyned for the, whose wyll thou must accomplysshe. And so the nexte daye I arose and went forth and founde the shyppe, in whiche I entred, and by the purveyaunce of God I was brought into this ylonde the seventh daye after, and than I lefte the shyppe and went to londe, and there I walked up and downe a good whyle, and than by the purveyaunce of God there came an otter goynge on his hynder feet and brought me a flynte stone, and an yren to smyte fyre with, in his two fore clawes of his feet; and also he had aboute his necke grete plenté of fysshes, whiche he cast down before me and went his waye, and I smote fyre, and made a fyre of styckes, and dyd sethe the fysshe, by whiche I lyved thre dayes. And than the otter came agayn, and brought me fysshe for other thre dayes; and thus he hath done lj. yere, through the grace of God. And there was a grete stone, out of whiche our Lorde made to sprynge fayre water, clere and swete, wherof I drynke dayly. And thus have I lyved this lj. yere; and I was lx. yere olde whan I came hyther, and am now an hondred and xj. yere olde, and abyde tyll it please our Lorde to sende for me; and if it pleased hym, I wolde fayne be discharged of this wretched lyfe." And than he bad saynt Brandon to take of the water of the welle, and to cary it into his shyppe, "for it is tyme that thou de∣parte, for thou hast a grete journey to do; for thou shalt sayle to an ylonde whiche is xl. dayes saylyng hens, where thou shalt holde thyn Eester lyke as thou
+<PB N="54" REF="55"/>
+hast done to-fore, wher as the tree of byrdes is. And fro thens thou shalte sayle into the Londe of Byheest, and shalt abyde there xl. dayes, and after returne home into thy countree in safeté." And than these holy men toke leve eche of other, and they wepte bothe full sore and kyssed eche other.</P>
+<P>And than saynt Brandon entred into his shyppe, and sayled xl. dayes even southe, in full grete tempest. And on Eester even came to theyr procuratour, whiche made to them good chere, as he had before tyme. And from thens they came to the grete fysshe, where they sayd matyns and masse on Eester daye. And whan the masse was done, the fysshe began to meve, and swamme forth fast into the see, wherof the monkes were sore agast which stode upon hym, for it was a grete mervayle to se suche a fysshe as grete as all a countree for to swymme so fast in the water; but by the wyll of our Lorde God this fysshe set all the monkes a-londe in the Paradise of Byrdes all hole and sounde, and than returned to the place that he came fro. And than saynt Brandon and his monkes thanked our Lorde God of theyr delyveraunce of the grete fysshe, and kepte theyr Eestertyde tyll Trinité Son∣daye, lyke as they had done before tyme. And after this they toke theyr shyppe and sayled eest xl. dayes, and at the xl. dayes ende it began to hayle ryght fast, and therwith came a derke myst, whiche lasted longe after, whiche fered saynt Brandon and his monkes, and prayed to our Lord to kepe and helpe them. And than anone came theyr procuratour, and badde
+<PB N="55" REF="56"/>
+them to be of good chere, for they were come into the Londe of Byheest. And soone after that myst passed awaye, and anone they sawe the fayrest countree eest∣warde that ony man myght se, and was so clere and bryght that it was an hevenly syght to beholde; and all the trees were charged with rype fruyte and herbes full of floures; in whiche londe they walked xl. dayes, but they coude se none ende of that londe; and there was alwaye daye and never nyght, and the londe attemperate ne to hote ne to colde. And at the last they came to a ryver, but they durst not go over. And there came to them a fayre yonge man, and wel∣comed them curtoysly, and called eche of them by his name, and dyd grete reverence to saynt Brandon, and sayd to them, "Be ye now joyfull, for this is the londe that ye have sought; but our Lorde wyll that ye departe hens hastely, and he wyll shewe to you more of his secretes whan ye come agayn into the see; and our Lorde wyll that ye lade your shyppe with the fruyte of this londe, and hye you hens, for ye may no lenger abyde here, but thou shalt sayle agayne into thyne owne countree, and soone after thou comest home thou shalt dye. And this water that thou seest here departeth the worlde asondre; for on that other syde of the water may no man come that is in this lyfe. And the fruyte that ye se is alwaye thus rype every tyme of the yere, and alwaye it is here lyght as ye now se; and he that kepeth our Lordes hestes at all tymes shall se this londe, or he passe out of this worlde."</P>
+<P>And than saynt Brandon and his monkes toke of
+<PB N="56" REF="57"/>
+that fruyte as moche as they wolde, and also toke with them grete plenté of precyous stones; and than toke theyr leve and went to shyppe, wepynge sore bycause they myght no lenger abyde there. And than they toke theyr shyppe and came home into Yrelonde in safeté, whome theyr bretherne receyved with grete joye, gyvynge thankynges to our Lorde, which had kepte them all those seven yere fro many a peryll, and brought them home in safeté, to whome be gyven honour and glory worlde withouten ende. Amen. And soone after, this holy man saynt Brandon wexed feble and seke, and had but lytell joye of this world, but ever after his joye and mynde was in the joyes of heven. And in shorte tyme after, he, beynge full of vertues, departed out of this lyfe unto everlastyng lyfe, and was worshypfully buryed in a fayre abbey, whiche he hym selfe founded, where our Lorde sheweth for this holy saynt many fayre myracles. Wherfore let us devoutly praye to this holy saynt that he praye for us unto our Lord, that he have mercy on us, to whom be gyven laude, honour, and empyre, world withouten ende.</P>
+<CLOSER>Amen.</CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

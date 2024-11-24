@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-31-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed P to OPENER SALUTE; changed P to CLOSER DATELINE DATE; removed "A.D. 1400" running dates; removed DIV2; added TAILNOTE. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00126">
+<STC T="M">126</STC>
+<BIBNO T="mec">CME00126</BIBNO>
+<VID>CME00126</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="letter">
+<PB REF="1"/>
+<PB N="23" REF="2"/>
+<HEAD>X. <NOTE PLACE="foot">X.] MS. Cotton. Vespas. F. VII. fol. 22.—On paper; original, with traces of a seal. See also Letter XII.; Rymer, viii. 133, 149, 154, 205, 212, 245; Nicolas, i. 114, 171, 172, 177, 182, 187.</NOTE></HEAD>
+<HEAD>THE EARL OF MARCH TO HENRY IV.</HEAD>
+<OPENER><SALUTE>Excellent, mychty, and noble Prince.</SALUTE></OPENER>
+<P>Likit yhour Realte to wit that I am gretly wrangit <NOTE PLACE="marg">Complains of his daughter's rejection by the Duke of Rothsay, and offers to espouse Henry's cause.</NOTE> be the Duc of Rothesay, the quhilk spousit my douchter, and now, ageyn his oblisyng to me, made be hys lettre and his seal, and agaynes the law of Halikirc, spouses ane other wife, as it ys said.</P>
+<P>Of the quhilk wrang and defowle to me and my douchter in swilk maner done, I, as ane of yhour poer kyn, gif it like yhow, requere yhow of holp and suppowall fore swilk honest service as I may do efter my power to yhour noble lordship, and to yhour lande: fore tretee of the quhilk matere will yhe dedoy[ne] to charge the Lord the Foarnivalle, ore the Erle of Westmerland, at yhour likyng to the Marche, with swilk gudely haste as yhow like, qware
+<PB N="24" REF="3"/>
+that I may have spekyng with quhilk of thaim that yhe will sond, and schew hym clerly myne entent; the quhilk I darre nocht discover to nane other bot tyll ane of thaim, be cause of kyn, and the grete lewtee that I traist in thaim, and as I suppose yhe traist in thaim on the tother part.</P>
+<P>Alsa, noble Prince, will yhe dedeyne to graunt and <NOTE PLACE="marg">Asks for a safe∣conduct.</NOTE> to send me yhour saufconduyt, <NOTE N="1" PLACE="foot">See Rymer, viii. 181.</NOTE> endurand quhill the fest of the Nativite of Seint John the Baptist, <NOTE N="2" PLACE="foot">June 24.</NOTE> fore a hundreth knichtis and squiers, and servantz, gudes, hors, and harnais, als wele within wallit town, as with owt, ore in qwat other resonable manere that yhow like, fore travaillyng and dwellyng within yhour land gif I hafe myster.</P>
+<P>And, excellent Prince, syn that I clayme to be of <NOTE PLACE="marg">Explains his rela∣tionship to Henry IV.,</NOTE> kyn tyll yhow, and it peraventour nocht knawen on yhour parte, I schew it to yhour Lordschip be this my lettre, that gif Dame Alice the Bowmount was yhour gud-dame, Dame Marjory Comyne, hyrre full sister, was my gud-dame on the tother syde, sa that I am bot of the feirde degre of kyn tyll yhow, the quhilk in alde tyme was callit neir.</P>
+<P>And syn I am in swilk degre tyll yhow, I requere <NOTE PLACE="marg">and en∣treats his help.</NOTE> yhow as be way of tendirness thareof, and fore my service in manere as I hafe before writyn, that yhe will vouchesauf tyll help me, and suppowell me, tyll gete amendes of the wrangis and the defowle that ys done me; sendand tyll me gif yhow like yhour answer of this with all gudely haste.</P>
+<P>And, noble Prince, mervaile yhe nocht that I write my lettres in Englishe, fore that ys mare clere to myne understandyng than Latyne or Fraunche.</P>
+<P>Excellent, mychty, and noble Prince, the Haly Trinite hafe yhow evermare in kepyng!</P>
+<CLOSER><PB N="25" REF="4"/>
+<DATELINE>Writyn at my castell of Dunbarr, <DATE>the xviij. day of Feverer.</DATE></DATELINE>
+<SIGNED>LE COUNT DE LA MARCHE D'ESCOCE. <NOTE N="1" PLACE="foot">George Dunbar, eleventh Earl.</NOTE></SIGNED></CLOSER>
+<TAILNOTE><P><HI REND="italic">Endorsed:—</HI>"Au tresexcellent trespuissant et tres∣noble Prince, le Roy d'Engleterre."</P></TAILNOTE>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

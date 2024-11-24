@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-26-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed HEAD to HEADNOTE P; changed ARGUMENT to HEADNOTE; changed DIV2 to DIV1; added CHOICE UNCLEARs. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00067">
+<STC T="M">67</STC>
+<BIBNO T="mec">CME00067</BIBNO>
+<VID>CME00067</VID>
+</IDG>
+<TEXT LANG="enm eng">
+<BODY>
+<DIV1 TYPE="introduction">
+<PB REF="1"/>
+<HEAD>XXIII.—<HI REND="italic">MAGNIFICENCIA ECCLESIE.</HI></HEAD>
+<P>This curious product of mediaevalism, translated from some Latin treatise by an unknown hand in the latter half of the fifteenth century, carries symbolism to its last stage. It is interesting as showing how the preachers in the abbeys and cathedrals of England found, on occasion, "sermons in stones." It would seem as if Longfellow must have read this poem; for a part of his <HI REND="italic">Golden Legend,</HI> the close of Friar Cuthbert's sermon, is an accu∣rate reproduction of the spirit of this piece.</P>
+<LG>
+<L>"And above it the great cross-beam of wood</L>
+<L>Representeth the Holy Rood</L>
+<L>Upon which, like the bell, our hopes are hung;</L>
+<L>And the wheel, wherewith it is swayed and rung,</L>
+<L>Is the mind of man, that round and round</L>
+<L>Sways, and maketh the tongue to sound!</L>
+<L>And the rope, with its twisted cordage three,</L>
+<L>Denoteth the Scriptural Trinity</L>
+<L>Of Morals, and Symbols, and History,</L>
+<L>And the upward and downward motion show</L>
+<L>That we touch upon matters high and low,</L>
+<L>And the constant change and transmutation</L>
+<L>Of action and of contemplation,</L>
+<L>Downward, the Scripture brought from on high;</L>
+<L>Upward, exalted again to the sky.</L>
+<L>Downward, the literal interpretation,</L>
+<L>Upward, the Vision and Mystery!"</L>
+</LG>
+<P>The Trinity College MS. R. 3. 21, from which the poem is taken, is fully described in the second volume of Pre∣vost James's <HI REND="italic">Catalogue of the Western</HI> MSS. <HI REND="italic">in Trinity College.</HI> It dates from the reign of Edward IV. Among its earliest owners was Roger Thorney, a mercer of London and friend of Wynkyn de Worde. It may be surmised that the poem was written not far from the vicinity of
+<PB N="688" REF="2"/>
+the Westminster printing shop. John Stow, who owned the MS. in 1598, ascribed the poem to Lydgate in his last of the Monk's writings, printed on the last leaf of Stow's <HI REND="italic">Chaucer.</HI> He was followed in this error by Joseph Ritson, in his <HI REND="italic">Bibliographia Literaria</HI> (1802). There is no evi∣dence whatever for this theory, and the poem is far too uncouth and irregular ever to have been penned by Lydgate. <NOTE N="1" PLACE="foot">See <HI REND="italic">The Lydgate Canon,</HI> p. xxxvi (Philological Soc. <HI REND="italic">Transactions,</HI> March, 1908), for rhyme-tests.</NOTE></P>
+<P>The poem, miserably deficient in a literary sense, is yet of value in letting us look for a moment at a fifteenth-century church through a fifteenth-century lens.</P>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEADNOTE><P>Trinity MS. R. 3. 21.</P></HEADNOTE>
+<HEADNOTE><P><HI REND="italic">Hic sequit</HI>UR <HI REND="italic">paruus tractatus compendiose in Anglicis translatus de magnificencia ecclesie.</HI> <MILESTONE N="285 a" UNIT="f."/></P>
+<P><HI REND="italic">Audi Israel. Deus tuus vnus est. Ip</HI>SU<HI REND="italic">m adorabis &amp; illi soli s</HI>ER<HI REND="italic">uies. Non assumes nomen dei tui in uanu</HI>M <HI REND="italic">Sicut p</HI>RI<HI REND="italic">mu</HI>M <HI REND="italic">p</HI>RE<HI REND="italic">ceptu</HI>M <HI REND="italic">est quod p</HI>ER<HI REND="italic">tinet ad p</HI>AT<HI REND="italic">rem. Ita ista ad filium. Obs</HI>ER<HI REND="italic">ua diem sabb</HI>AT<HI REND="italic">i i</HI>D EST <HI REND="italic">expecta req</HI>UI<HI REND="italic">e</HI>M <HI REND="italic">p</HI>ER <HI REND="italic">bonitatem dei. id est p</HI>ER <HI REND="italic">sp</HI>IRITU<HI REND="italic">m s</HI>AN<HI REND="italic">c</HI>TU<HI REND="italic">m.</HI></P>
+</HEADNOTE>
+<LG>
+<L>Empe<HI REND="italic">r</HI>our of ałł emp<HI REND="italic">er</HI>o<HI REND="italic">ur</HI>s omnipotent</L>
+<L>Pres<HI REND="italic">er</HI>ue þys empyre in ałł prosp<HI REND="italic">er</HI>ite</L>
+<L><HI REND="italic">Rex Regu</HI>M our<HI REND="italic">e</HI> Reame &amp; o<HI REND="italic">ur</HI> regent</L>
+<L>Rule &amp; redresse in ryght &amp; equyte</L>
+<L>O crystyn soule here what ys seyde to the</L>
+<L>Haue oon god in worship of who<HI REND="italic">m</HI> þou toke creac<HI REND="italic">i</HI>on</L>
+<L>ffad<HI REND="italic">er</HI> &amp; son &amp; holy gost þ<HI REND="italic">a</HI>t blessyd trinite</L>
+<L>And hy<HI REND="italic">m</HI> oonly s<HI REND="italic">er</HI>ue w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> dew gratulacion</L>
+</LG>
+<LG>
+<L>Hys name in nowyse þ<HI REND="italic">o</HI>u shalt take in veyne</L>
+<L>þ<HI REND="italic">a</HI>t ys þ<HI REND="italic">o</HI>u shalt nat swere but hit be in ryght</L>
+<L>lyche as þe furst p<HI REND="italic">re</HI>cept beforne specfyed pleyne</L>
+<L><PB N="689" REF="3"/>
+p<HI REND="italic">er</HI>teyneþ to þe fad<HI REND="italic">er</HI> ryght so þys Iplyght</L>
+<L>p<HI REND="italic">er</HI>teyneþ to þe son of ide<HI REND="italic">m</HI>ptical myght</L>
+<L>The ij<SUP>de</SUP> in trinite god &amp; man v<HI REND="italic">er</HI>ryly</L>
+<L>Who þ<HI REND="italic">a</HI>t beleueþ þe son of god ys only man &amp; nat god bryght</L>
+<L>He worshippeþ hy<HI REND="italic">m</HI> nat / but takeþ hys name veynly</L>
+</LG>
+<LG>
+<L>Thow shalt halow þe sabat þ<HI REND="italic">a</HI>t ys þe holy day</L>
+<L>Whyche longeþ to þe iij<SUP>de</SUP> p<HI REND="italic">er</HI>son þe same god in s<HI REND="italic">u</HI>bstance</L>
+<L>ffro<HI REND="italic">m</HI> s<HI REND="italic">er</HI>uile werk þ<HI REND="italic">o</HI>u shalt absteyne þe I say</L>
+<L>And in goodnes of þe holygost dresse þy remembraunce</L>
+<L>These oþ<HI REND="italic">er</HI> vij . precept<HI REND="italic">es</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ałł þeyr<HI REND="italic">e</HI> circumstaunce</L>
+<L>Were long to declare þ<HI REND="italic">er</HI>fore w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yo<HI REND="italic">ur</HI> pacience</L>
+<L>Because we take in þe chirche feyþe &amp; creaunce</L>
+<L>We p<HI REND="italic">ur</HI>pose to speke of hyr magnificence</L>
+</LG>
+<LG>
+<L>Sou<HI REND="italic">er</HI>eynes þe grou<HI REND="italic">n</HI>de of o<HI REND="italic">ur</HI> p<HI REND="italic">ro</HI>cesse ys thys</L>
+<L>To shew yow why þe chyrche ys magnyfyed</L>
+<L>And of sondry þyng<HI REND="italic">es</HI> in hit what þe menyng ys</L>
+<L>As porche churche &amp; chau<HI REND="italic">n</HI>cełł as shalbe dyscryuyd</L>
+<L>Iles toures pylers walles &amp; wyndowes wyde</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oþ<HI REND="italic">er</HI> p<HI REND="italic">ar</HI>ticuler þyng<HI REND="italic">es</HI> ałł we wyłł expresse</L>
+<L>What yche of hem signifieþ yef ye wyłł abyde</L>
+<L>We p<HI REND="italic">ur</HI>pose to p<HI REND="italic">re</HI>ue in co<HI REND="italic">m</HI>pendious processe</L>
+</LG>
+<LG>
+<L>Thys erþely chyrche in whyche þe pepyłł dayly</L>
+<L>ys congregate oonly to worshyp of spyrit<HI REND="italic">es</HI> heuy<HI REND="italic">n</HI>ly</L>
+<L><NOTE N="1" PLACE="foot">Opposite these lines the scribe writes "a." Reconstruct the lines as follows 1 2 8 3 4 5 6 7. Line 2 should end in some word like "vertuous." The scribe erred through confusion of the "of spirites," occurring in two separate lines.</NOTE> Construct of quyk stones apostles &amp; martyrs gloryos</L>
+<L><HI REND="italic">Hic est domus d</HI>OMIN<HI REND="italic">i frequent</HI>ER <HI REND="italic">edificata</HI> þan þus</L>
+<L>Thys churche here ys clepyd <HI REND="italic">Ecclesia militans</HI></L>
+<L>ffor hyt ys cu<HI REND="italic">er</HI> werryng ayenst þe vycyous</L>
+<L><NOTE N="1" PLACE="foot">Opposite these lines the scribe writes "a." Reconstruct the lines as follows 1 2 8 3 4 5 6 7. Line 2 should end in some word like "vertuous." The scribe erred through confusion of the "of spirites," occurring in two separate lines.</NOTE> The churche aboue ys clepyd <HI REND="italic">Ecclesia t</HI>RI<HI REND="italic">u</HI>M<HI REND="italic">phans</HI></L>
+<L>Betokeneþ þe celestiałł churche of spirit<HI REND="italic">es</HI> heuynly</L>
+</LG>
+<LG>
+<PB N="690" REF="4"/>
+<L>Lyche as out of þe ryght syde of Adam</L>
+<L>Oure mod<HI REND="italic">er</HI> Eve was make &amp; he slepyng</L>
+<L>Ryght so þe churche of whyche we take crystyndam</L>
+<L>Out of cryst<HI REND="italic">es</HI> ryght syde toke forme in hys dying</L>
+<L>Whereout ran flowyng . ij . lycours dystyllyng</L>
+<L>P<HI REND="italic">re</HI>cyous blood &amp; watyr for our<HI REND="italic">e</HI> redempcion</L>
+<L>Whyche sygnify . ij . sac<HI REND="italic">ra</HI>ment<HI REND="italic">es</HI> o<HI REND="italic">ur</HI> most helfull wasshyng</L>
+<L>Bapty<HI REND="italic">m</HI> &amp; Eukaryst necessary to our saluacion</L>
+</LG>
+<LG>
+<L>Than syrs to meue yow þe churche to magnyfy</L>
+<L>ffurst ye shałł consyder<HI REND="italic">e</HI> in you<HI REND="italic">r</HI> mynde expresse</L>
+<L>Worship &amp; reu<HI REND="italic">er</HI>ence to þe fadyr almyghty</L>
+<L>longeþ of ryght w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> verrey dew mekenesse</L>
+<L>Whyche in þe chyrche of hys gret bounteuosnesse</L>
+<L>Abydeþ our<HI REND="italic">e</HI> co<HI REND="italic">m</HI>myng &amp; ys dayly there p<HI REND="italic">re</HI>sent</L>
+<L>Then co<HI REND="italic">m</HI>myng to churche deuoutly do yo<HI REND="italic">ur</HI> besynesse</L>
+<L>Mow ye best fulfyłł þe furst co<HI REND="italic">m</HI>maundment</L>
+</LG>
+<LG>
+<L>And eke þe second for hit ys most conuenient <MILESTONE N="285 b" UNIT="fol."/></L>
+<L>In chyrche where god &amp; man ys v<HI REND="italic">er</HI>ryly in substaunce</L>
+<L>To restrayne yo<HI REND="italic">ur</HI> langage &amp; be sad &amp; silent</L>
+<L>No iapyng ne ianglyng to cause p<HI REND="italic">er</HI>turbaunce</L>
+<L>ffor hit ys þe celle of soulys gostly sustynaunce</L>
+<L>Our<HI REND="italic">e</HI> hauyn of refute our<HI REND="italic">e</HI> helfułł port salew</L>
+<L>There ys hys glorios name red of most magnifice<HI REND="italic">n</HI>ce</L>
+<L>Where we be hurt for soules soco<HI REND="italic">ur</HI> eu<HI REND="italic">er</HI> þed<HI REND="italic">er</HI> we sew</L>
+</LG>
+<LG>
+<L>Kepyng of þe holyday þys ys euyn trew</L>
+<L>P<HI REND="italic">er</HI>teyneþ to þe holygost þe þryd in dyuyne</L>
+<L>To be kept in þe chyrche hit ys most dew</L>
+<L>ffro<HI REND="italic">m</HI> worldly þought<HI REND="italic">es</HI> in þ<HI REND="italic">a</HI>t place men shuld declyne</L>
+<L>Ther<HI REND="italic">e</HI> suld be put p<HI REND="italic">ra</HI>yer<HI REND="italic">e</HI> &amp; holy þought<HI REND="italic">es</HI> fyne</L>
+<L>Thys place ys halowyd by o<HI REND="italic">ur</HI> lord<HI REND="italic">es</HI> holy p<HI REND="italic">re</HI>sence</L>
+<L><PB N="691" REF="5"/>
+Then ought we to worship hit pleynly I t<HI REND="italic">er</HI>myne</L>
+<L>The . vij . sacrament<HI REND="italic">es</HI> byn þer<HI REND="italic">e</HI> mynystred to<HI REND="italic">ur</HI> expedience</L>
+</LG>
+<LG>
+<L>The churche fygureþ þe deificate <HI REND="italic">cella vniaria</HI></L>
+<L>As seyþ Salo<HI REND="italic">mo</HI>n &amp; poule <HI REND="italic">Ad Galathas quarto</HI></L>
+<L><HI REND="italic">Illa que sursu</HI>M <HI REND="italic">est Ier</HI>USA<HI REND="italic">l</HI>E<HI REND="italic">m lib</HI>ER<HI REND="italic">a q</HI>UE <HI REND="italic">est mat</HI>ER <HI REND="italic">n</HI>OST<HI REND="italic">ra</HI></L>
+<L>The heuy<HI REND="italic">n</HI>ly ch<HI REND="italic">ur</HI>che ys t<HI REND="italic">ri</HI>u<HI REND="italic">m</HI>phant &amp; for þis reson to</L>
+<L>The me<HI REND="italic">m</HI>bres of þ<HI REND="italic">a</HI>t ch<HI REND="italic">ur</HI>che haue endyd þer<HI REND="italic">e</HI> woo</L>
+<L>In passio<HI REND="italic">n</HI>s m<HI REND="italic">a</HI>rtyrdo<HI REND="italic">m</HI> &amp; now be in glory</L>
+<L>The chyrche here ys werry<HI REND="italic">n</HI>g agayn o<HI REND="italic">ur</HI> mortałł foo</L>
+<L>þ<HI REND="italic">er</HI>fore hit ys mylytant in þys lyfe t<HI REND="italic">ra</HI>nsitory</L>
+</LG>
+<LG>
+<L>Of þys churche Jero<HI REND="italic">m</HI> Bede &amp; oþ<HI REND="italic">er</HI> sey thus</L>
+<L><HI REND="italic">Vrbs b</HI>EAT<HI REND="italic">a Ier</HI>USA<HI REND="italic">l</HI>E<HI REND="italic">m dicta pacis visio</HI></L>
+<L><HI REND="italic">Que construitu</HI>R <HI REND="italic">in celis uiuis ex lapidibus</HI></L>
+<L><HI REND="italic">Noua veniens de celo nuptiali thalamo</HI></L>
+<L>The mysteryes of þys chyrche ye shałł vnd<HI REND="italic">er</HI>stand loo</L>
+<L>Be infinite as vnto our negligence</L>
+<L>But now to þe artificiałł churche we wyłł goo</L>
+<L>Of shap &amp; me<HI REND="italic">m</HI>bres shewyng þe exp<HI REND="italic">er</HI>yence</L>
+</LG>
+<LG>
+<L>Eu<HI REND="italic">er</HI>y churche lo gen<HI REND="italic">er</HI>ally ys made þus</L>
+<L>The quere lower<HI REND="italic">e</HI> þen þe body for þys encheson</L>
+<L>Tanto maior est h<HI REND="italic">u</HI>m<HI REND="italic">i</HI>lia te in o<HI REND="italic">mn</HI>ibus</L>
+<L>ffor so þe sp<HI REND="italic">irit</HI>uałł men shuld do by reson</L>
+<L>The hygher in dignite þe lower in spyryt eche seson</L>
+<L>Geuyng ensample to þe degrees temp<HI REND="italic">or</HI>ałł</L>
+<L>I suppose þys vndyrstondy<HI REND="italic">n</HI>g to many man is gason</L>
+<L><HI REND="italic">Maior est obediencia q</HI>UAM <HI REND="italic">victi</HI>M<HI REND="italic">a</HI></L>
+</LG>
+<LG>
+<L>The churche walles in . iiij . quarters set in tryst</L>
+<L>The co<HI REND="italic">n</HI>u<HI REND="italic">er</HI>sion of Jewes &amp; payny<HI REND="italic">m</HI>s signify</L>
+<L>ffrom . iiij . quart<HI REND="italic">er</HI>s of þe world co<HI REND="italic">m</HI>myng to cryst</L>
+<L>Whyche wallys of square stones byn reryd hygh</L>
+<L><PB N="692" REF="6"/>
+Broken &amp; polysshyd þe werke to rectyfy</L>
+<L>That ys to mene stones þ<HI REND="italic">a</HI>t to þese wallys p<HI REND="italic">er</HI>teyne</L>
+<L>Must be made able by þe hand<HI REND="italic">es</HI> v<HI REND="italic">er</HI>ryly</L>
+<L>Of þe mast<HI REND="italic">er</HI> werkman þ<HI REND="italic">at</HI> ys þe p<HI REND="italic">re</HI>ste certeyne</L>
+</LG>
+<LG>
+<L>These stonys togedyr<HI REND="italic">e</HI> conioynyd in þe werke</L>
+<L>So<HI REND="italic">m</HI> bere nat / but ar<HI REND="italic">e</HI> bore <HI REND="italic">vt simplices loose</HI></L>
+<L>So<HI REND="italic">m</HI> bere &amp; ar<HI REND="italic">e</HI> borne <HI REND="italic">vt medii</HI> seyþ þe clerke</L>
+<L>So<HI REND="italic">m</HI> bere &amp; ar<HI REND="italic">e</HI> nat borne / but of cryst <HI REND="italic">q</HI>UI <HI REND="italic">est singula</HI>RE</L>
+<L>These stones w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> mort<HI REND="italic">er</HI> to gedyr syment be</L>
+<L>Ryght so þe pepyłł of þe churche by heuy<HI REND="italic">n</HI>ly disposicion</L>
+<L>Shuld be conglutinat w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> loue &amp; charyte</L>
+<L>Then be þey quyk stones mete to þys op<HI REND="italic">er</HI>acion</L>
+</LG>
+<LG>
+<L>The stones þ<HI REND="italic">a</HI>t bere nat be þo of þe batylment<HI REND="italic">es</HI></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> suche oþ<HI REND="italic">er</HI> garnysshers þ<HI REND="italic">a</HI>t ly on loft hyghest</L>
+<L>So þe simple pore in clene lyfe v<HI REND="italic">er</HI>rament</L>
+<L>They yeue to þe churche gret beute at leste</L>
+<L>Though þey nat bere þey be necessary &amp; honeste</L>
+<L>The pore þough þey bere but lytyłł cost &amp; charge</L>
+<L>Yet be þy quyk stones in þe churche I sey p<HI REND="italic">re</HI>ste</L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þeyr<HI REND="italic">e</HI> good p<HI REND="italic">ra</HI>yer<HI REND="italic">es</HI> þe feyþe gretly enlarge</L>
+</LG>
+<LG>
+<L>So<HI REND="italic">m</HI> bere &amp; ar<HI REND="italic">e</HI> bore as þus to wyłł ye here <MILESTONE N="286 a" UNIT="f."/></L>
+<L><HI REND="italic">Vt medii</HI> þ<HI REND="italic">a</HI>t ys to sey in mydd<HI REND="italic">es</HI> of þe werke</L>
+<L>Whyche be lykenyd to pepyłł of gret powere</L>
+<L>ffor <HI REND="italic">virtus in medio consistit</HI> yef þ<HI REND="italic">i</HI>s text be derke</L>
+<L>lo in þe mene ys v<HI REND="italic">er</HI>tu / mys take nat yo<HI REND="italic">ur</HI> merke</L>
+<L>The furst mow pray þe . ij .<SUP>de</SUP> mow pray &amp; do</L>
+<L>þe churche ys nat bore vp ałł w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> cost quoth þe clerke</L>
+<L>But w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> good werk<HI REND="italic">es</HI> &amp; deuout prayers also</L>
+</LG>
+<LG>
+<L>So<HI REND="italic">m</HI> bere &amp; ar<HI REND="italic">e</HI> nat bore but of cryste oonly</L>
+<L>And whyche be þo þe lowest in þe foundacion</L>
+<L>By whyche þe p<HI REND="italic">re</HI>lat<HI REND="italic">es</HI> of þe churche I may signify</L>
+<L><PB N="693" REF="7"/>
+ffor þey be þe worþyest of þe edificacion</L>
+<L>They bere vp þe churche by ghostly op<HI REND="italic">er</HI>acion</L>
+<L>Not we they<HI REND="italic">m</HI> / but þey vs w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> holso<HI REND="italic">m</HI> doctryne</L>
+<L>Suppose vs &amp; lyft vs out of tribulacion</L>
+<L>And polysshe vs w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> penance þen be we stones fyne</L>
+</LG>
+<LG>
+<L>The toures betoken p<HI REND="italic">re</HI>chors &amp; p<HI REND="italic">re</HI>lacy</L>
+<L>Whyche in þe churches defence be ready to refreyn</L>
+<L>Ałł te<HI REND="italic">m</HI>pest<HI REND="italic">es</HI> whyche toures byn bylt hy</L>
+<L><HI REND="italic">Vnde sponsus ad sponsam in cantic</HI>IS <HI REND="italic">amoris</HI> doþ seyn</L>
+<L><HI REND="italic">Collu</HI>M <HI REND="italic">tuu</HI>M <HI REND="italic">sicut turris</HI> also dauid seyþ pleyn</L>
+<L><HI REND="italic">Edificata cum p</HI>RO<HI REND="italic">pugnac</HI>U<HI REND="italic">la</HI> lo a pronosticacion</L>
+<L>The toures of þe chyrche be prelat<HI REND="italic">es</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>out feyn</L>
+<L>Toures of our<HI REND="italic">e</HI> defence ageyn gostly t<HI REND="italic">ri</HI>bulacion</L>
+</LG>
+<LG>
+<L>Vppon þe mastyr toure þ<HI REND="italic">a</HI>t ys seyd þe stepyłł</L>
+<L>Comonly þ<HI REND="italic">er</HI> stondeþ a shaft of altitude</L>
+<L>Or a pynacle whyche to þe vndirstondy<HI REND="italic">n</HI>g of þe pepyłł</L>
+<L>Betokeneþ þe lyuyng of þe p<HI REND="italic">re</HI>lat<HI REND="italic">es</HI> to conclude</L>
+<L>Whos mynde vpward to the heuenes celsytude</L>
+<L>Shuld be dyrect &amp; þer<HI REND="italic">e</HI> also aboue</L>
+<L>A pomełł or a crosse w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sowde or syment glued</L>
+<L>þ<HI REND="italic">er</HI>on a wedyrcok w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yche wynde doþ moue</L>
+</LG>
+<LG>
+<L>The cok betokeneþ þe p<HI REND="italic">re</HI>chor of godd<HI REND="italic">es</HI> worde</L>
+<L>ffor ayenst þe . iiij . wyndes he torneþ hys hede</L>
+<L>By whyche wyndes ye shałł vnd<HI REND="italic">er</HI>stonde discorde</L>
+<L>Of . iiij . malycyos pepil as heritici<HI REND="italic">us</HI> in feyþ dede</L>
+<L>Proud man &amp; couetous &amp; þo þ<HI REND="italic">a</HI>t lechero<HI REND="italic">us</HI> lyfe lede</L>
+<L>Whyche . iiij . be seyde detestable ou<HI REND="italic">er</HI> ałł þe sy<HI REND="italic">n</HI>nes seuyn</L>
+<L>Ayenst whyche . godd<HI REND="italic">es</HI> p<HI REND="italic">re</HI>chors w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> opyn mouþe doþ grede</L>
+<L>lyke as þe wed<HI REND="italic">ur</HI>cok ayenst yche wynde doþe <CHOICE>
+ <UNCLEAR>meuyn</UNCLEAR>
+ <UNCLEAR>weuyn</UNCLEAR>
+</CHOICE></L>
+</LG>
+<LG>
+<L>The crosse of Iron stondeþ opon a pomełł rounde</L>
+<L>In tokenyng þ<HI REND="italic">a</HI>t cryst Jh<HI REND="italic">es</HI>us made our<HI REND="italic">e</HI> rede<HI REND="italic">m</HI>pcion</L>
+<L>Vppon þe crosse our<HI REND="italic">e</HI> gostly enemy to confounde</L>
+<L><PB N="694" REF="8"/>
+Amydd<HI REND="italic">es</HI> þe worlde as scriptur<HI REND="italic">e</HI> mak<HI REND="italic">es</HI> mension</L>
+<L>Thys þyng to p<HI REND="italic">ro</HI>clayme þorought eu<HI REND="italic">er</HI>y region</L>
+<L>longeþ to þe curat to stere our<HI REND="italic">e</HI> slepy mynde</L>
+<L>ffor to reme<HI REND="italic">m</HI>bre our<HI REND="italic">e</HI> blessyd lord<HI REND="italic">es</HI> passion</L>
+<L>Whyche apon a crosse wold dy for ałł mankynde</L>
+</LG>
+<LG>
+<L>Whyche p<HI REND="italic">re</HI>chor ys lykened to a cok take hede</L>
+<L>A Cok soþly dyuydyþ þe owres of þe nyght</L>
+<L>And out of slo<HI REND="italic">m</HI>bryng &amp; slepe he clepeþ vs in dede</L>
+<L>And hys crowyng bryngeþ tydyng<HI REND="italic">es</HI> of day lyght</L>
+<L>And for to make also hys voyce of grett<HI REND="italic">er</HI> myght</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his owne wyng<HI REND="italic">es</HI> he beteþ hy<HI REND="italic">m</HI>sylf fułł ryfe</L>
+<L>The mystery of þys whoso vndyrstond hit ryght</L>
+<L>Betokeneþ lyfe actyf &amp; lyfe conte<HI REND="italic">m</HI>platyfe.</L>
+</LG>
+<LG>
+<L>The nyght betokeneþ þ<HI REND="italic">i</HI>s blynd world<HI REND="italic">es</HI> wrechydnes</L>
+<L>In whyche þe pepyłł dayly lyþe slepyng in syn</L>
+<L>The cok I mene þe p<HI REND="italic">re</HI>ste clepeþ vs w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> besynes</L>
+<L>To ryse out of our<HI REND="italic">e</HI> derk slepe &amp; co<HI REND="italic">n</HI>seleþ vs to wyn</L>
+<L>The lyght eu<HI REND="italic">er</HI>lastyng kepe þus þy mynde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>yn</L>
+<L><HI REND="italic">Ve dormientib</HI>US þe scr<HI REND="italic">i</HI>ptur<HI REND="italic">e</HI> seyþh pleynly</L>
+<L>Wo be to þe slepar þ<HI REND="italic">a</HI>t v<HI REND="italic">er</HI>tu cannat begyn</L>
+<L><HI REND="italic">Exurge qui dormis</HI> ałł creatures þ<HI REND="italic">o</HI>u shuld cry</L>
+</LG>
+<LG>
+<L>Ryght as a foule spredeþ vppon her nest syttyng <MILESTONE N="286 b" UNIT="fol."/></L>
+<L>Whyche vnder her wyng<HI REND="italic">es</HI> her byrd<HI REND="italic">es</HI> doþ cure</L>
+<L>Ryght so our<HI REND="italic">e</HI> modyr holy churche p<HI REND="italic">re</HI>senteþ a figure</L>
+<L>Norysshyng her chyldre vnd<HI REND="italic">er</HI> þe cou<HI REND="italic">er</HI>ture</L>
+<L>Of her wyng<HI REND="italic">es</HI> þ<HI REND="italic">a</HI>t ys to sey þe ylys I sure</L>
+<L>ffor vnder þe modyrs wynge þe chylde is kept clos</L>
+<L>ffro<HI REND="italic">m</HI> p<HI REND="italic">er</HI>ysshyng &amp; p<HI REND="italic">er</HI>ełł þan p<HI REND="italic">ra</HI>y we w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> scrypture</L>
+<L><HI REND="italic">Sub umbra alar</HI>UM <HI REND="italic">tuar</HI>UM <HI REND="italic">protege nos.</HI></L>
+</LG>
+<LG>
+<L>The wyndowes be glased for defence of wy<HI REND="italic">n</HI>de &amp; Rayn</L>
+<L>In whyche þ<HI REND="italic">er</HI> be portrayed storyes auctorized</L>
+<L><PB N="695" REF="9"/>
+That betokeneþ þe deuyne scriptur<HI REND="italic">e</HI> as doctors seyn</L>
+<L>Whyche ys gret defence where hit ys ex<HI REND="italic">er</HI>cysyd</L>
+<L>Ayenst erroneo<HI REND="italic">us</HI> wyndes w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> heresyes supprysyd</L>
+<L>Also as þe bryght son yeueþ orient lyght</L>
+<L>Thorough þe glasse to þe chyrche ryght so hit ys deuysyd</L>
+<L>That þe storyes of scripture make þe consciens bryght</L>
+</LG>
+<LG>
+<L>The wyndows by wyder<HI REND="italic">e</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>yn þan w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>out</L>
+<L>In tokyn þ<HI REND="italic">a</HI>t þe mysterious science of sc<HI REND="italic">ri</HI>pture</L>
+<L>Passeþ þe litterałł sense &amp; ryght so out of dout</L>
+<L>The p<HI REND="italic">re</HI>lates of churche in vndyrstondyng pure</L>
+<L>Passe þe lay pepyłł &amp; as clowdes I yow sure</L>
+<L>Ben seen fleyng <HI REND="italic">quasi colu</HI>M<HI REND="italic">be ad fenestras</HI></L>
+<L>These wyndows betokyn . v . wytt<HI REND="italic">es</HI> in eche creature</L>
+<L>Openyng inward þe redyer to reccue grace</L>
+</LG>
+<LG>
+<L>They be variaunt w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>out <HI REND="italic">ne vanitates hauriant</HI></L>
+<L>That ys þ<HI REND="italic">a</HI>t no vyce enter<HI REND="italic">e</HI> nor no corrupcion</L>
+<L>Then to receue grace þey ought nat to be scant</L>
+<L>But opyn inwarde redy to take gostly inst<HI REND="italic">ru</HI>ccion</L>
+<L><HI REND="italic">Hostium christus est</HI> þan w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> swetnes &amp; deuocion</L>
+<L>Entryng þe churche þynke þe dore seyþ þe gospełł</L>
+<L>Ye cryst hy<HI REND="italic">m</HI>self þys ys hys own mocion</L>
+<L>I am þe dore by whyche ye ent<HI REND="italic">er</HI> þe churche p<HI REND="italic">er</HI>petuełł</L>
+</LG>
+<LG>
+<L>The pylers of þe chyrche byn þe docto<HI REND="italic">ur</HI>s veryly</L>
+<L>Whyche myghtyly bere hit vp w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> holy doctryne</L>
+<L>Augustyne &amp; Ambrose holy Jerom &amp; Gregory</L>
+<L>As þe four<HI REND="italic">e</HI> euangelyst<HI REND="italic">es</HI> bere vp þe trone dyuyne</L>
+<L>Ryght so þey se þe chyrche &amp; be as sylu<HI REND="italic">er</HI> fyne</L>
+<L><HI REND="italic">Vt in Canticis canticor</HI>UM ye may haue euydence</L>
+<L><HI REND="italic">Colu</HI>M<HI REND="italic">pnas fecit argenteas</HI> þ<HI REND="italic">a</HI>t as sylu<HI REND="italic">er</HI> shyne</L>
+<L>ffor in þo song<HI REND="italic">es</HI> of þe soule ys songyn gret reu<HI REND="italic">er</HI>ence</L>
+</LG>
+<LG>
+<PB N="696" REF="10"/>
+<L><HI REND="italic">Veni colu</HI>M<HI REND="italic">ba mea</HI> vnto my tabernacle</L>
+<L><HI REND="italic">Colu</HI>M<HI REND="italic">pna argenteas</HI> þere shyny<HI REND="italic">n</HI>g shalt þ<HI REND="italic">o</HI>u se</L>
+<L>Aureu<HI REND="italic">m</HI> reclinatoriu<HI REND="italic">m</HI> be in myn habitacle</L>
+<L>Curyosly contryuyd embrawdyd w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> charyte</L>
+<L><HI REND="italic">Assensu</HI>M <HI REND="italic">p</HI>UR<HI REND="italic">pureu</HI>M for pure humylyte</L>
+<L>ffor þe ys redy rayed in my regalibus</L>
+<L>lo for mannys soule ys ordeynyd þys dignite</L>
+<L>Now whyche be þe reclinatoryes we shałł sone discus</L>
+</LG>
+<LG>
+<L>The seetys in þe churche where men rest in to pray</L>
+<L>Tho be þe reclinatoryes whyche setys signyfy</L>
+<L>The holy co<HI REND="italic">n</HI>te<HI REND="italic">m</HI>plac<HI REND="italic">i</HI>on of men &amp; wemen I say</L>
+<L>Whyche in holy þought<HI REND="italic">es</HI> in her seet<HI REND="italic">es</HI> byn besy</L>
+<L>In whyche pepyłł our<HI REND="italic">e</HI> lord haþ hys sete v<HI REND="italic">er</HI>ryly</L>
+<L>And resteþ in þeyr<HI REND="italic">e</HI> soules w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> fułł gret plesaunce</L>
+<L>Those be þe goldyn seet<HI REND="italic">es</HI> ocupyed w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þyng<HI REND="italic">es</HI> heuynly</L>
+<L>lo of þe reclinatoryes þys ys þe signifiaunce</L>
+</LG>
+<LG>
+<L>The degrees ascendyng vnto þe auter<HI REND="italic">e</HI></L>
+<L>Betokeneþ apostles &amp; martyrs . I . vndyrtake</L>
+<L>Whyche forto shede þ<HI REND="italic">er</HI> blood made no danger<HI REND="italic">e</HI></L>
+<L>But paciently suffred to dy for crystes sake</L>
+<L>þys ys <HI REND="italic">ascensu</HI>M <HI REND="italic">p</HI>UR<HI REND="italic">pureu</HI>M þ<HI REND="italic">a</HI>t Sal<HI REND="italic">om</HI>on let make</L>
+<L>Of Cedre trees of lyban a Royałł mansion</L>
+<L>And cryste makeþ hys house of þe purest to ransake</L>
+<L>Of holy seynt<HI REND="italic">es</HI> puryd by peynfułł passion</L>
+</LG>
+<LG>
+<L>The aut<HI REND="italic">er</HI> in hit sylf betokeneþ cryst Jh<HI REND="italic">es</HI>us <MILESTONE N="287 a" UNIT="fol."/></L>
+<L>Vppon whyche dayly þe p<HI REND="italic">re</HI>ste makeþ oblacion</L>
+<L>To þe fadyr in heuen þ<HI REND="italic">er</HI>fore þe p<HI REND="italic">re</HI>st seyþ þus</L>
+<L><HI REND="italic">P</HI>ER <HI REND="italic">christum d</HI>OMI<HI REND="italic">n</HI>U<HI REND="italic">m n</HI>OST<HI REND="italic">r</HI>U<HI REND="italic">m</HI> at þe ende of his orison</L>
+<L>The multitude of mysteryes short in conclusion</L>
+<L>That may be ascryuyd to þe chyrches excellence</L>
+<L>Were impossible for oon clerke in myn opinion</L>
+<L>In ałł hys lyfe to shew to yo<HI REND="italic">ur</HI> intelligence</L>
+</LG>
+<LG>
+<PB N="697" REF="11"/>
+<L>Wherefore brefely concludyng our<HI REND="italic">e</HI> p<HI REND="italic">ur</HI>pos</L>
+<L>Why we mene þys mater I wyłł hit expresse</L>
+<L>lo þ<HI REND="italic">a</HI>t eche man shuld þynke hy<HI REND="italic">m</HI>sylf on of þose</L>
+<L>To do þe churche reu<HI REND="italic">er</HI>ence w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ałł mekenesse</L>
+<L>þys ys nat ałł ment by þe stonewerk in soþnesse</L>
+<L>But by þe crystyn pepyłł in bapty<HI REND="italic">m</HI> confirmat</L>
+<L>ffor ryche &amp; pore when deþe he<HI REND="italic">m</HI> shałł dystresse</L>
+<L>But he be a quyk stone he ys a Renegat</L>
+</LG>
+<LG>
+<L>That ys a forsaker<HI REND="italic">e</HI> of feyþe &amp; of trew beleue</L>
+<L>Of whyche þ<HI REND="italic">er</HI> be to many yef men shuld hit say</L>
+<L>Yef feyþe were in vs stedfast noþy<HI REND="italic">n</HI>g shuld myscheue</L>
+<L>Sysme ne fygaldry ne falshode in no way</L>
+<L>Shuld reygne among þe pepyłł þus day by day</L>
+<L>To abho<HI REND="italic">m</HI>i<HI REND="italic">n</HI>able yef men wold take hede</L>
+<L><HI REND="italic">Eiciens de templo</HI> cryst o<HI REND="italic">ur</HI> lord drof no nay</L>
+<L>Thre pepyłł þ<HI REND="italic">a</HI>t gretly defoule þe churche in dede</L>
+</LG>
+<LG>
+<L>Tho were proud men lechero<HI REND="italic">us</HI> &amp; couetous</L>
+<L>Whyche in þe heuynly chyrche haue no dwelly<HI REND="italic">n</HI>g place</L>
+<L>That ought we curat<HI REND="italic">es</HI> to loke wełł about vs</L>
+<L>These . iij . cursyd wedys out of þe chyrche to race</L>
+<L>þe p<HI REND="italic">ro</HI>phet Dauid <HI REND="italic">Ps</HI>ALM<HI REND="italic">o</HI> LXXX<SUP>mo</SUP> . vj<SUP>o</SUP> . has</L>
+<L><HI REND="italic">Ciuitas dei gl</HI>ORI<HI REND="italic">osa dicta sunt de te</HI></L>
+<L>Thys Ciuitas <HI REND="italic">int</HI>ER<HI REND="italic">p</HI>RE<HI REND="italic">tat</HI>UR <HI REND="italic">ciuiu</HI>M vnitas</L>
+<L>þe churche me<HI REND="italic">m</HI>bres shuld be oon in feyþe &amp; charyte</L>
+</LG>
+<LG>
+<L>Pryde doutlese of þe churche me<HI REND="italic">m</HI>bre ys non</L>
+<L>Reme<HI REND="italic">m</HI>bre why lucifer<HI REND="italic">e</HI> fełł from heuyn down</L>
+<L>þan who þ<HI REND="italic">a</HI>t ys mysponde may be no quyk ston</L>
+<L>He must be þrow downe þan þys ys þe conclusion</L>
+<L>What p<HI REND="italic">ri</HI>de now regneþ &amp; inordinat abusion</L>
+<L>To abho<HI REND="italic">m</HI>i<HI REND="italic">n</HI>able to here yef ye wold vndyrstond</L>
+<L>And moste among þe pore þ<HI REND="italic">a</HI>t haue no possession</L>
+<L>Syþ hit began was neu<HI REND="italic">er</HI> wele comen in þys lond</L>
+</LG>
+<LG>
+<PB N="698" REF="12"/>
+<L>The . ij<SUP>de</SUP> ys lechery whyche cryst draue out also</L>
+<L>An vnclene pale stone in paldnes abydyng</L>
+<L>Of whyche stones whylo<HI REND="italic">m</HI> were fou<HI REND="italic">n</HI>ded chyrches two</L>
+<L><HI REND="italic">Soddoma Gomor</HI> þ<HI REND="italic">a</HI>t to hełł were slydyng</L>
+<L>ffor febyłł foundacion hit gayneþ nat þe gydyng</L>
+<L><HI REND="italic">Debile fundamentu</HI>M <HI REND="italic">fallit opus</HI> as I rede</L>
+<L>These stones from þe werke we must by dyuydyng</L>
+<L>Or þey wołł drow down ałł þys ys forto drede</L>
+</LG>
+<LG>
+<L>The coueto<HI REND="italic">us</HI> also auoydyd must be nede</L>
+<L>In whyche be . vij . p<HI REND="italic">ro</HI>pertees fułł p<HI REND="italic">er</HI>ylo<HI REND="italic">us</HI> I preue</L>
+<L>As þeft Rauen vsury lying &amp; falshede</L>
+<L>Sacrylege &amp; simony þ<HI REND="italic">a</HI>t doþ þe toures meue</L>
+<L>And wher<HI REND="italic">e</HI> þe mures be meuyng þe werk must myscheue</L>
+<L>The brenny<HI REND="italic">n</HI>g of þis ston dyssolueþ þe syment</L>
+<L>That ys loue &amp; charyte þen trustly me beleue</L>
+<L>Suche stones in þe churche be fułł inconuenient</L>
+</LG>
+<LG>
+<L>Broþer þe gou<HI REND="italic">er</HI>naunce of þe churche I assygne yow forþy</L>
+<L>That ye suffer þ<HI REND="italic">er</HI>in no surfet nor sup<HI REND="italic">er</HI>fluyte</L>
+<L>Therwhyles I wyłł go in to þe library</L>
+<L>To serche &amp; stody in bokes of auctoryte</L>
+<L>Eftsones to shew þe pepyłł þe gret dignite</L>
+<L>That longeþ to þe churche &amp; liberałł fraunchyse</L>
+<L>Whyles ye pray I wołł rede storyes of antiquite</L>
+<L>And I wyłł pray whyle ye rede eftsone in lyke wyse</L>
+</LG>
+<TRAILER>E<HI REND="italic">xplicit.</HI></TRAILER>
+<CLOSER><SIGNED>HENRY NOBLE MACCRACKEN.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

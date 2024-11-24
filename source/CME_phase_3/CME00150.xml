@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-30-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed missing GAP; correct spacing of MILESTONEs. Checked placement and completeness of PBs; moved several PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00150">
+<STC T="M">150</STC>
+<BIBNO T="mec">CME00150</BIBNO>
+<VID>CME00150</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poems">
+<PB REF="1"/>
+<HEAD>Die Sprüche des h. Bernhard und die Vision des h. Paulus nach Ms. Laud 108.</HEAD>
+<BYLINE>Von Dr. Carl Horstmann.</BYLINE>
+<DIV2 N="1" TYPE="poem">
+<HEAD>I. Die Sprüche des h. Bernhard.<NOTE N="*" PLACE="foot">The Sayings of St. Bernard und The Visions of St. Paul betitelt F. Madden beide Gedichte; vgl. Havel. ed. W. Skeat, London 1868, Pref. p. XXXV.</NOTE></HEAD>
+<LG>
+<L>HErkniez me a luytel þrowe.</L>
+<L>Ȝe þat wollez ou self i knowe.</L>
+<L>Wise þei ȝe beo.</L>
+<L>Ichulle ou telle ase ich can.</L>
+<L>Ȝwat holie writ spekz of Man.</L>
+<L>Ȝif ȝe wullez i heore me.</L>
+</LG>
+<LG>
+<L>Seint bernard seith in his bok.</L>
+<L>þat man is worm and wormes cok.</L>
+<L>For he schal wormes fede</L>
+<L>Ȝwan his lijf him is bi reued.</L>
+<L>In his rug and in his heued.</L>
+<L>Schullen grisliche wormes brede.</L>
+</LG>
+<LG>
+<L>þi fleschs schal melte fram þe bon.</L>
+<L>þi senues sundriez euerech on.</L>
+<L>þi bodi schal al to sie.</L>
+<L>Ȝe þat wollez þe soþe i seo.</L>
+<L>Vndoz þe burieles þare hi beoz</L>
+<L>And lokiez ȝwat þare lie.</L>
+</LG>
+<LG>
+<L>Man þu art a feble fom.</L>
+<L>Here nast þou no siker hom.</L>
+<L>I segge it þe wel stille.</L>
+<L>þi riȝhte hom is elles ȝwer.</L>
+<L>Ihūs us graunti to come þer.</L>
+<L>Ȝwan it is his wille.</L>
+</LG>
+<LG>
+<L>þi flesch stant a ȝein þi gost.</L>
+<L>Ȝwanne þu schalt deiȝe þu it nost.</L>
+<L>Noþur day ne nyȝht.</L>
+<L>Nedescostes þou most deiȝe</L>
+<L>Ne may no raunchoun þe fur buye.</L>
+<L>Striue þe ȝwile þou miȝht.</L>
+</LG>
+<LG>
+<L>Of feble wynd man is þi lijf.</L>
+<L>Ȝwanne dez drawez is scharpe knyf.</L>
+<L>þou do þe sone to schriue.</L>
+<L>For ȝif þat þou canst loken ariȝht.</L>
+<L>Ne hast þou here bote fiȝht.</L>
+<L>þe ȝwile þou ar aliue.</L>
+</LG>
+<LG>
+<L>Nov þu art wrong nov þu art ryȝht. <MILESTONE N="198. b." UNIT="Fol."/></L>
+<L>Nou þou art heuy nou þu art lyȝht.</L>
+<L>þou lepest also a ro.</L>
+<L>Nov þu art sik nou þou art coueret.</L>
+<L>Nov þou art riche nou þu art pouere.</L>
+<L>Ne is þis muche wo.</L>
+</LG>
+<LG>
+<PB N="34" REF="2"/>
+<L>þi flesch þe seith boþe niȝht and day.</L>
+<L>Ichulle habbe ayse þe ȝwile i may.</L>
+<L>þi soule seith a ȝein him nay.</L>
+<L>Ȝif ich am aȝein þe of muche meth.</L>
+<L>þou bringust me to helle to þe deth.</L>
+<L>And to wo þat lastez ay.</L>
+</LG>
+<LG>
+<L>þus it farez bi twene heom to.</L>
+<L>þat on seith let. þat oþur seith do.</L>
+<L>Ne connen huy neuere blinne.</L>
+<L>Ake wel ȝe mouwen ov self i seo.</L>
+<L>þe soule ouȝhte maister to beo.</L>
+<L>þe maistrie for to winne.</L>
+</LG>
+<LG>
+<L>A man ne beo nouȝht þi sulf vnkouth.</L>
+<L>Loke ȝwat comez out of þi mouth.</L>
+<L>And elles ȝware with oute.</L>
+<L>ȝif þou wolt nime wel guod kepe.</L>
+<L>þou ne findest bote a foul doung hepe.</L>
+<L>þei þou loke þe al a boute.</L>
+</LG>
+<LG>
+<L>Man þu hast in þi foule hous.</L>
+<L>A deoreworþe þing and precious.</L>
+<L>And ful deore it was a bouȝht.</L>
+<L>Ich holde þe more þane wod.</L>
+<L>Ȝif letest (!) so muche guod.</L>
+<L>þe feond habbe al for nouȝht.</L>
+</LG>
+<LG>
+<L>Man beo þou i war and eke wys.</L>
+<L>Ȝif þou doun fallest sone aris.</L>
+<L>Ne lie þou none stounde.</L>
+<L>With al þi miȝht ȝif þou dost þis.</L>
+<L>þi soule þe seyth and soth it is.</L>
+<L>þat blisse þou hast i founde.</L>
+</LG>
+<LG>
+<L>Man þou hauest þreo wicke fon.</L>
+<L>Heore names i can nemme echon.</L>
+<L>Ȝif ich schal tellen hem alle.</L>
+<L>þin. owene flechs. þe world. þe feond.</L>
+<L>And he þat best scholde beo þi freond.</L>
+<L>Maketh þe raþest doun falle.</L>
+</LG>
+<LG>
+<L>þou cloþest him with fair schroud.</L>
+<L>þou makest þi fo fat and proud.</L>
+<L>To fyȝhte þe a ȝein.</L>
+<L>þou dost þi sulf wel muche wronk</L>
+<L>þou makest þi fo fat and strong.</L>
+<L>Ȝif ich it dorste seyen.</L>
+</LG>
+<LG>
+<L>Man do þu bi conseil and bi red.</L>
+<L>And with drauȝ þou him of is bred.</L>
+<L>And watur ȝif him to drinke.</L>
+<L>Ne lat him no þing Idel gon.</L>
+<L>Ake do him pines mani on.</L>
+<L>And ofte forto swynke.</L>
+</LG>
+<LG>
+<L>To coueitise of mani þing.</L>
+<L>þe world þe drawez a misliking.</L>
+<L>A ȝeynes þe more and more.</L>
+<L>Fals he is and fayr he semez.</L>
+<L>Alre best ȝwane he þe quemez.</L>
+<L>He þe bindez sore.</L>
+</LG>
+<LG>
+<L>þou wost þis world schal gon to nouȝht.</L>
+<L>Ne hast þou no þing hidere i brouȝht.</L>
+<L>Ne nouȝht ne schalt bere with þe.</L>
+<L>þou schalt al one gon þi wey.</L>
+<L>With outen stede and palefrey.</L>
+<L>With oute gold and feo.</L>
+</LG>
+<LG>
+<L>þi þridde fo is þe foule wiȝht.</L>
+<L>þat fondeth boþe day and nyȝht.</L>
+<L>With his guyles alle.</L>
+<L>Wel þou wost he ne louez þe nouȝht</L>
+<L>He fondez ay to chaungen þi þouȝht.</L>
+<L>And makez þe forto falle.</L>
+</LG>
+<LG>
+<L>þou wost wel he nele þe no guod.</L>
+<L>He wolde hauen þin herte blod.</L>
+<L>Beo iwar of his hok.</L>
+<L>Ake do ase ich þe habbe i seid.</L>
+<L>And þine þreo fon worþez a leyd.</L>
+<L>With heore owene Crok.</L>
+</LG>
+<LG>
+<L>Ȝif þu seist þis spel is hard</L>
+<L>Ine may nouȝht holde þis foreward</L>
+<L>Holde ne wel it driȝe.</L>
+<L>A luytel þing ich axi þe.</L>
+<L>þou seie it me par charite.</L>
+<L>þat þou me nouȝht ne lye.</L>
+</LG>
+<LG>
+<L>Ȝware beoth nou þei þat bi fore us weren.</L>
+<L>þat houndes ladden and hauekes beren.</L>
+<L>And hadden field and wode.</L>
+<L>þis riche leuedies in heore bour.</L>
+<L>þet wereden gold on heore tressour.</L>
+<L>With heore briȝhte rode.</L>
+</LG>
+<LG>
+<L>Huy eten and dronken and maden hem glad. <MILESTONE N="199. a." UNIT="Fol."/></L>
+<L>Here lyf was al in Ioye a lad.</L>
+<L>Men knevleden hem bi fore.</L>
+<L>Huy beren heom here so swiþe heyȝe.</L>
+<L>þat þoruȝ twinklingues of heore eyȝen.</L>
+<L>Heore soules beon alle for lore.</L>
+</LG>
+<LG>
+<PB N="35" REF="3"/>
+<L>Ȝware beoz þulke þat couþen so wel</L>
+<L>With vnriȝhte and wrongliche echdel</L>
+<L>Winne rentes and londes.</L>
+<L>And nolden nouȝht here beon aknowe.</L>
+<L>þat it was unriȝhtfulliche heore owe.</L>
+<L>For þe worldes schonde.</L>
+</LG>
+<LG>
+<L>þulke þat deiden on vrþe here</L>
+<L>And wonnen ouȝht in swuch manere.</L>
+<L>Londes oþur rente</L>
+<L>For soþe i segge it eou to wisse</L>
+<L>Huy ne comiez neuere in heuene bisse<NOTE N="*" PLACE="foot">Ms. bisse statt blisse.</NOTE></L>
+<L>Ake in helle huy schullen stunte.</L>
+</LG>
+<LG>
+<L>þei huy ligge sike longue</L>
+<L>And in heore dez bedde þienchez mid wronge</L>
+<L>To þulke þing we come.</L>
+<L>Fain huy wolden hadden huy space.</L>
+<L>Ake manie nabbez þer to no grace</L>
+<L>To ȝelden a ȝein eft sone.</L>
+</LG>
+<LG>
+<L>þare seith þe bok a pliȝht.</L>
+<L>þat eorl ne baroun cler<NOTE N="**" PLACE="foot">cler st. clerk.</NOTE> ne knyȝht.</L>
+<L>Bacheler ne sweyn.</L>
+<L>Noþing ne mouwe huy with onriȝht.</L>
+<L>In þis manere habbe no wiȝht.</L>
+<L>Bote huy it ȝelden aȝein.</L>
+</LG>
+<LG>
+<L>Ȝware is þis hoppingue and þis song.</L>
+<L>þis ridingue and þis proute ȝong.</L>
+<L>þis hauekes and þis houndes.</L>
+<L>Al þat weole is went awey.</L>
+<L>þat Joyȝe is come to weilawey.</L>
+<L>And to mani harde stoundes.</L>
+</LG>
+<LG>
+<L>þole þou man ȝif þat þou miȝht.</L>
+<L>A luyte pine þat man þe bit.</L>
+<L>With drauȝh þine ayses ofte.</L>
+<L>þei þine pines þe þinchen on lede.<NOTE N="*" PLACE="foot">on lede st. onrede?</NOTE></L>
+<L>þou þench opon þe muchele mede.</L>
+<L>Hit schal þe liken softe.</L>
+</LG>
+<LG>
+<L>Ȝif þe feond þat foule þing</L>
+<L>With wicke roun oþur vuel egging.</L>
+<L>Hauez þe ene a kast</L>
+<L>Op stond and beo guod Chaum∣piun</L>
+<L>And ne fal þou non more a doun</L>
+<L>For a luytel blast.</L>
+</LG>
+<LG>
+<L>þou tak þe rode to þi staf.</L>
+<L>And þenk on him þat þaron ȝaf.</L>
+<L>His lif þat was so leof.</L>
+<L>He ȝaf it for þe þou ȝeld it him.</L>
+<L>A ȝein is fo a staf þu nim.</L>
+<L>And awrek him on þat þeof.</L>
+</LG>
+<LG>
+<L>Marie moder houene quen.</L>
+<L>þou canst and miȝht and owest to ben.</L>
+<L>Ore help aȝein þe feonde.</L>
+<L>Help us sunnes forto fleon.</L>
+<L>þat we moten þi sone i seon.</L>
+<L>In Joye with outen ende.</L>
+</LG>
+<CLOSER>Amen.</CLOSER>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<HEAD>II. Die Vision des h: Paulus.</HEAD>
+<LG>
+<L>SEue dawes aren þat men callez. <MILESTONE N="199. a." UNIT="Fol."/></L>
+<L>þe sonenday is best of alle.</L>
+<L>þanne aungles habbuz heore pley.</L>
+<L>Alle þe sunfole soules wicke.</L>
+<L>þat beoz in helle pines þicke.</L>
+<L>Huy restez hem þat ilke day.</L>
+</LG>
+<LG>
+<L>þe storie is ase ich eou radde.</L>
+<L>Hou seint Miȝhel powel ladde.</L>
+<L>To þe peynes of helle.</L>
+<L>He saiȝh at helle ȝates stonde.</L>
+<L>Galutres al fuyrie to fonde.</L>
+<L>Sunfole soules to quelle.</L>
+</LG>
+<LG>
+<L>Some bi þe fiet weren an hongue.</L>
+<L>And some bi heore tresses longue.</L>
+<L>Heore peynes forto lienge.</L>
+<L>Some bi hondene and bi armes.</L>
+<L>And some bi heore erene and bi þe þarmes.</L>
+<L>And some bi heore toungues hienge.</L>
+</LG>
+<LG>
+<L>Powel lokede him bi side</L>
+<L>And saiȝh a flod in helle glide</L>
+<L>þare inne weren bestes felle.</L>
+<L>Some ase fisches in þe se.</L>
+<L>And some ase wormes fierden heo.</L>
+<L>Sunfole soules to quelle.</L>
+</LG>
+<LG>
+<L>A ful heiȝh brugge and vnguod.</L>
+<L>Was maked ouer þat foule flod.</L>
+<L>To habbe redie passage.</L>
+<L>To laten þe guode soules pase.</L>
+<L><PB N="36" REF="4"/>
+To seon ore swete louerdes grace.</L>
+<L>With oute ani out rage.</L>
+</LG>
+<LG>
+<L>He saiȝh peynes fale and wicke <MILESTONE N="199. b." UNIT="Fol."/></L>
+<L>And sunfole gostus þaron þicke.</L>
+<L>For soþe ich eov segge.</L>
+<L>þat bindez þe wrechche soules faste.</L>
+<L>And inte helle pine hem castez.</L>
+<L>Heore sunnes forto abugge.</L>
+</LG>
+<LG>
+<L>Nis no toungue þat al may telle.</L>
+<L>Of þe strongue peynes of helle.</L>
+<L>Ne þe peynes þat some haue.</L>
+<L>Lechours bi heom sulue wonen.</L>
+<L>And wūmen þat of hore dom conne.</L>
+<L>God amendi heore fare.</L>
+</LG>
+<LG>
+<L>Powel opon þe brugge stod.</L>
+<L>And lokede into þat foule flod.</L>
+<L>He saiȝh heore diuerse peynes.</L>
+<L>Some to heore kneos woden.</L>
+<L>And some to hore naueles stoden.</L>
+<L>And some to heore eyȝen.</L>
+</LG>
+<LG>
+<L>Some to heore brouwes stoden þer in.</L>
+<L>And some to þe mouþes also swyn.</L>
+<L>And some to heore chynne.</L>
+<L>þe sunfole weren al wode.</L>
+<L>So weren þei dreinte in þat flode.</L>
+<L>For heore dedlich sunne.</L>
+</LG>
+<LG>
+<L>Powel gradde and seide alas.</L>
+<L>þat swuch soruwe imaked was.</L>
+<L>Al þus powel seide.</L>
+<L>þulke þat to here naueles stondez</L>
+<L>Lechours huy weren in heore londe.</L>
+<L>And in helle heore (!) is a leyd.</L>
+</LG>
+<LG>
+<L>þulke þat stondez to þe chinne.</L>
+<L>In churche nolden huy neuere a blinne</L>
+<L>To Jaungli ne to chide.</L>
+<L>Ne miȝte no prechour so heom lere.</L>
+<L>Of godes wordes for to heore.</L>
+<L>þare fore in helle þei moten a bide.</L>
+</LG>
+<LG>
+<L>þulke þat stondez to heore browes.</L>
+<L>Adronken ase it were souwes.</L>
+<L>In þat foule flod</L>
+<L>Heore Joye was more to seon and heore.</L>
+<L>Of þeire neyȝhebores teone.</L>
+<L>þane of heore oþur guod.</L>
+</LG>
+<LG>
+<L>Powel saiȝh an old man al one.</L>
+<L>In one huyrne sitte and grone.</L>
+<L>And make reulich chere.</L>
+<L>Feondes in is necke he bar.</L>
+<L>For he nolde nouȝht beo war.</L>
+<L>þe ȝwile he was here.</L>
+</LG>
+<LG>
+<L>þanne seide powel þo.</L>
+<L>Ȝwat is þat man þat is so wo.</L>
+<L>And in so gret trauaile.</L>
+<L>þe Aungel Answere him a ȝein</L>
+<L>Powel for soþe ichulle þe seien</L>
+<L>With outen ani fayle.</L>
+</LG>
+<LG>
+<L>He was an hokerere in is liue.</L>
+<L>In word in weork he dude Gyle.</L>
+<L>In þouȝt and eke dede.</L>
+<L>Trichour he was euere embe ȝwile</L>
+<L>Foul nig and hard in al is liue.</L>
+<L>þare fore he hath þere is mede.</L>
+</LG>
+<LG>
+<L>Powel gradde and seide alas.</L>
+<L>þat þulke soule imaked was.</L>
+<L>To pini so in wowe.</L>
+<L>He lokede him bi side þo.</L>
+<L>A put he saiȝh was ful of wo.</L>
+<L>Hit was þe feondes owe.</L>
+</LG>
+<LG>
+<L>Sunfole soules for heore gult.</L>
+<L>Weren in þat þustur put ipult.</L>
+<L>Heore tongues forto hete.</L>
+<L>þulke weren bacbitares in heore liue.</L>
+<L>þat no merci nadden siþe.</L>
+<L>Powel bi gan to weope.</L>
+</LG>
+<LG>
+<L>Powel weop for soruwe þat he hadde.</L>
+<L>þe Aungel him a boute ladde</L>
+<L>And bad him late al beo.</L>
+<L>Wel mo peynes þane þou seiȝe.<NOTE N="*" PLACE="foot">Ms. sewe mit überschriebenem iȝe.</NOTE></L>
+<L>I schal þe ȝuyt in helle schewe.</L>
+<L>Powel þat þou schalt i seo.</L>
+</LG>
+<LG>
+<L>He let him seon a put bi cas.</L>
+<L>þat with seouen seles a seled was.</L>
+<L>þat gan foule stinke.</L>
+<L>He brac þe seles euerech on.</L>
+<L>Foulere stunch nas neuere non.</L>
+<L>þane cam out of þane brinke.</L>
+</LG>
+<LG>
+<L>Also þo dominical it tellez.</L>
+<L>Hit is þe meste pine of helle.</L>
+<L>Powel bereth witnesse.</L>
+<L><PB N="37" REF="5"/>
+þe soules þat comez in þat prisoun.</L>
+<L>Of heom nis no mencion.</L>
+<L>Noþer more ne lesse.</L>
+</LG>
+<LG>
+<L>Also deop is þat funde∣ment. <MILESTONE N="200. a." UNIT="Fol."/></L>
+<L>Ase it is to þe firmament.</L>
+<L>Heore gredingue farth ase þonder</L>
+<L>Euerech feond on oþur sat.</L>
+<L>Much feorlich him þouȝhte þat.</L>
+<L>Powel hadde gret wunder.</L>
+</LG>
+<LG>
+<L>In þat stinkinde put þei wone.</L>
+<L>þulke þat ihū Marie sone.</L>
+<L>Nolden on bi leue.</L>
+<L>Hey hadden cristindom to ȝift.</L>
+<L>And ȝif huy wolden boþe hosel and schrift.</L>
+<L>And sethþe wolden mis bi leue.</L>
+</LG>
+<LG>
+<L>Powel saiȝh a fuyr glowe grimme.</L>
+<L>Of seue colours was þat leiȝe þar inne.</L>
+<L>At seuen holes hit out wende.</L>
+<L>Sunfole soules weren þar inne.</L>
+<L>For huy deiden in dedlich sunne.</L>
+<L>Heore sunnes forte amende.</L>
+</LG>
+<LG>
+<L>þat o leyȝe was puy<NOTE N="*" PLACE="foot">puy st. puyr.</NOTE> snouȝh ȝwyȝht.</L>
+<L>þat oþur ase hayl þat lyȝt in dyȝt.<NOTE N="**" PLACE="foot">Oder dyȝh?</NOTE></L>
+<L>þat þridde ase fuyr him brennez.</L>
+<L>þat feorþe was hewene ich wene.</L>
+<L>þat fiȝfte ase naddres on to seone.</L>
+<L>þare was luyte wunne.</L>
+</LG>
+<LG>
+<L>þe sixte leyȝe ful cold was.</L>
+<L>þe seouenþe stonke foule alas.</L>
+<L>þe soules weren þare inne.</L>
+<L>For heore sunnes no penaunce.</L>
+<L>Huy nolden don no cheuisaunce.</L>
+<L>Ne neuere wicke hede a blinne.</L>
+</LG>
+<LG>
+<L>Powel lokede bi side heom.</L>
+<L>þare he saiȝh blake wūmen</L>
+<L>And blake weren heore cloþus.</L>
+<L>þe cloþus þat huy hadden on.</L>
+<L>Welden in pich and in brumston.</L>
+<L>With dragones and fuyr boþe.</L>
+</LG>
+<LG>
+<L>Dragones weren a boute heore hals.</L>
+<L>And seouen feondes þat weren fals.</L>
+<L>þat day þat huy weren take.</L>
+<L>þe feondes harden<NOTE N="***" PLACE="foot">st. hadden.</NOTE> hornes grete.</L>
+<L>Huy pulten heom for heore misdede.</L>
+<L>Muche wo þare huy maden.</L>
+</LG>
+<LG>
+<L>Some brenden in þat fuyr þere.</L>
+<L>And some maden reulich bere.</L>
+<L>And seiden in heore mone.</L>
+<L>Some songuen in heore songue.</L>
+<L>Allas þat we liuen þus longue.</L>
+<L>In helle fuyre to grone.</L>
+</LG>
+<LG>
+<L>þulke weren wummen in heore liue</L>
+<L>þat bi fore heore wedlok and eke siþen.</L>
+<L>Heore children a slowe.</L>
+<L>Ne sethþe huy nolden atþe laste.</L>
+<L>For heore sunnes o day faste.</L>
+<L>Ne to Ihū crist a bouwe.</L>
+</LG>
+<LG>
+<L>Powel lokede up an heiȝh.</L>
+<L>And saiȝh ane soule þare heo fleiȝh.</L>
+<L>Among feondes seouene.</L>
+<L>þat bodi was ded þat ilke day.</L>
+<L>þe soule þouȝhte to scapen a wey.</L>
+<L>And a scapede almest to heouene.</L>
+</LG>
+<LG>
+<L>þo cam an Aungle him aȝein.</L>
+<L>And bad him laten is fleoingue beon.</L>
+<L>And bi leue with is make.</L>
+<L>Of alle his sunnes a chartre huy radde.</L>
+<L>þe feondes out heore armes spradden.</L>
+<L>þat soule huy gonne take.</L>
+</LG>
+<LG>
+<L>þat wrechche soule huy bounden faste.</L>
+<L>A feond in his necke hire caste.</L>
+<L>And bar hire into helle.</L>
+<L>He ste (!) hire into þe put.</L>
+<L>Also deope ase any feond sit.</L>
+<L>His pruyde huy maden doun falle.</L>
+</LG>
+<LG>
+<L>In one stude þare powel stod.</L>
+<L>He saiȝh a soule þat was guod.</L>
+<L>To ward heouene bringue.</L>
+<L>A þousend Aungles in a play.</L>
+<L>Bi fore þat soule huy comen þat day.</L>
+<L>And murie huy gonne singue.</L>
+</LG>
+<LG>
+<L>To þat soule þanne seiden heo.</L>
+<L>Sweting iblessed mote þou beo.</L>
+<L>Euere with outen ende.</L>
+<L>Nime we huy seiden þis soule briȝht.</L>
+<L>And beren to ihū oure driȝht.</L>
+<L>To ore louerd þat is so hende.</L>
+</LG>
+<LG>
+<L>þe soules þat weren in pining stude.</L>
+<L>To seint Miȝhel huy maden heore bede.</L>
+<L><PB N="38" REF="6"/>
+And to powel boþe.</L>
+<L>þat huy scholden heore erinde craue</L>
+<L>Some remedie for to haue.</L>
+<L>þei it were heom loth.</L>
+</LG>
+<LG>
+<L>þat heorde powel and seint Miȝhel. <MILESTONE N="200. b." UNIT="Fol. "/></L>
+<L>On kneos huy fullen to grounde echdel.</L>
+<L>And Ihū crist bi souȝhten</L>
+<L>A þousend Aungles fullen heom with</L>
+<L>Alle huy mauden heom pays and grith</L>
+<L>To Jesu þat hem bouȝhte.</L>
+</LG>
+<LG>
+<L>He ȝaf heom remedie with oute soruwe.</L>
+<L>Fram saturday non to þe monen moruwe.</L>
+<L>For to beon on bounde.</L>
+<L>He þat vscher was in helle.</L>
+<L>Of muche soruwe he miȝhte telle</L>
+<L>In þat schorte stounde.</L>
+</LG>
+<LG>
+<L>Huy heuen heore hondene heom aboue.</L>
+<L>And þonkeden Ihm̄ Marie sone.</L>
+<L>þat heom ȝaf swuch reste.</L>
+<L>Ake ȝwane it comez to þe mone mo∣ruwe</L>
+<L>þanne awakez heore soruwe.</L>
+<L>And þat is al þat wurste.</L>
+</LG>
+<LG>
+<L>Powel gan Miȝhel forto frayne.</L>
+<L>þat he scholde don him to seine.</L>
+<L>Ȝif he euere wuste.</L>
+<L>&amp; þat he him scholde sone telle.</L>
+<L>Hou fale peynes weren in helle.</L>
+<L>þat he þar of ne miste.</L>
+</LG>
+<LG>
+<L>þo seide Miȝhel to him ful sone</L>
+<L>I ne ne<NOTE N="*" PLACE="foot">Ms. doppelt ne.</NOTE> may nouȝt do þi bone.</L>
+<L>þe soþe forto seiȝe.</L>
+<L>Pines þare beth swiþe strongue.</L>
+<L>Lasse and more þat lastez longue.</L>
+<L>To heo<NOTE N="**" PLACE="foot">Ms. heo statt heom.</NOTE> þat þare beoz neyȝe.</L>
+</LG>
+<LG>
+<L>Ake þei a þousend tounguen were echdel.</L>
+<L>I maked of Ire and of stiel.</L>
+<L>And couþe speken and spelle.</L>
+<L>And hadden i sete in studijngue.</L>
+<L>Fram þe worldes bi guynnigue.</L>
+<L>þe peynes ne miȝhten huy telle.</L>
+</LG>
+<LG>
+<L>Ake Ihū crist þat alle þing wost.</L>
+<L>Fader and sone and holi gost.</L>
+<L>þou ȝif us miȝhte and space.</L>
+<L>A domes day þane þe dom schal be.</L>
+<L>þat we moten þine face i seo.</L>
+<L>Louerd þoruȝh þine holie grace.</L>
+</LG>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>6-16-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; changed ARGUMENT Ps to EPIGRAPH Qs throughout; added one introduction DIV2 and seven psalm DIV2s; changed two Ps to HEADNOTE Ps. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00017">
+<STC T="M">17</STC>
+<BIBNO T="mec">CME00017</BIBNO>
+<VID>CME00017</VID>
+</IDG>
+<TEXT LANG="enm">
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="1"/>
+<HEAD>HIC INCIPIUNT SEPTEM PSALMI PENITENCIALES, DE LATINO TRANSLATI IN ANGLICUM.</HEAD>
+<DIV2 TYPE="introduction">
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>IN wynter, whan the wedir was cold,</L>
+<L>I ros at mydnyȝt fro my rest,</L>
+<L>And prayed to Jesu that he wold,</L>
+<L>Be myn helpe, for he myȝt best.</L>
+<L>In myn herte anon I kest</L>
+<L>How I had synned, and what degré:</L>
+<L>I cryëd, knockyng up on my brest,</L>
+<L>"Ne reminiscaris, Domine!"</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<EPIGRAPH>
+<Q>Ne reminiscaris, Domine, delicta nostra, vel pa∣rentum nostorum; neque vindictam sumas de pec∣catis nostris. Parce, Domine, parce populo tuo, quem redemisti precioso sanguine tuo; et ne ineternum irascaris nobis; et ne des hereditatem tuam in per∣dicionem.</Q>
+</EPIGRAPH>
+<L>That is to seye, "Lord! thynke no more</L>
+<L>"Of my mysdedis that I have wrought,</L>
+<L><PB N="2" REF="2"/>
+"I or my faderys here be fore,</L>
+<L>"That me in to this world have brought.</L>
+<L>"Of my mysdedys venge thé nought:</L>
+<L>"But graunte me mercy and pyté.</L>
+<L>"My woordys, my werkys, and wycked thought,</L>
+<L>"'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>"Spare thy peple that is outerage,</L>
+<L>"We crye to the ful pytously;</L>
+<L>"Lese noȝt lyȝtly thyn herytage,</L>
+<L>"That thou hast lovyd so hertily.</L>
+<L>"Have mynde, Lord, how thou woldyst dy,</L>
+<L>"And hange ful hye up on a tre,</L>
+<L>"To save hym that wolde wilfully</L>
+<L>"Sey, 'Ne reminiscaris, Domine!'"</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>With sorwefull herte and repentaunce,</L>
+<L>Un to my Confessour I ȝede,</L>
+<L>To schryve me clene and aske penaunce;</L>
+<L>Ther to me thouȝte I hadde gret nede.</L>
+<L>Myn herte for sorwe began to blede,</L>
+<L>And cowthe non other coumfort se,</L>
+<L>For wyl, and woord, and wicked dede,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>My Confessour coumfortyd me blyve,</L>
+<L>And seyde, "Thi synnes forȝevyn are,</L>
+<L>"Zyf thou purpose to amende thi lyve,</L>
+<L>"God of his mercy will thé spare.</L>
+<L><PB N="3" REF="3"/>
+"No synful man he wille forfare,</L>
+<L>"That sory of his synnes wylle be:</L>
+<L>"This woord schal coumforte all thi kare,</L>
+<L>"'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>"And ferthermore, for thi trespace,</L>
+<L>"That thou hast don to God of hevene,</L>
+<L>"Zif God wille sende thé lyif and space,—</L>
+<L>"Thou shalt seyn thisĕ Psalmĕs sevene:</L>
+<L>"The bettyr with God thou mayst ben evene,</L>
+<L>"Or evere thi soulĕ passe fro thé.</L>
+<L>"Begynne, and seye with myldĕ stevene,</L>
+<L>"'Ne reminiscaris, Domine!'"</L>
+</LG>
+</DIV2>
+<DIV2 N="6 (6)" TYPE="psalm">
+<LG N="7">
+<HEAD>VII.</HEAD>
+<EPIGRAPH>
+<Q>DOMINE, ne in furore tuo arguas me: neque in ira tua corripias me.</Q>
+</EPIGRAPH>
+<L>LORD! will thou noȝt me schame ne schende,</L>
+<L>Whan thou schalt be in thi fersnesse,</L>
+<L>To dredfull dome whan I schal wende?</L>
+<L>Helde noȝt thi wretthe on my frealnessse,</L>
+<L>Thi derworthi childeryn whan thou schalt blesse,</L>
+<L>And bydde hem come to blysse with thé:</L>
+<L>Mi synfull werkys more and lesse,</L>
+<L>'Ne reminiscaris Domine!'</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<EPIGRAPH>
+<Q>Miserere mei, Domine, quoniam infirmus sum: sana me, Domine, quoniam conturbata sunt omnia ossa mea.</Q>
+</EPIGRAPH>
+<L><PB N="4" REF="4"/>
+Sythen thou woldyst no man were lost,</L>
+<L>Have mercy on me, for I am seke.</L>
+<L>Helĕ me, for my bonys are brost,</L>
+<L>And rewe on alle that will be meke.</L>
+<L>Thi pyté, Lord, encrese and eke,</L>
+<L>To alle that wille repentaunt be,</L>
+<L>And wille with sorweful hertĕ seke,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<EPIGRAPH>
+<Q>Et anima mea turbata est valde: tu, Domine, usquequo?</Q>
+</EPIGRAPH>
+<L>My soule begynneth to tremble and qwake!</L>
+<L>How longe schal it with dreed be schent?</L>
+<L>Late noȝt thyn ymage be forsake,</L>
+<L>Made with so good avysĕment.</L>
+<L>Sythe man was made be full assent</L>
+<L>Of the blyssed Trinité;</L>
+<L>Thowȝ he do mys, and after repent,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<EPIGRAPH>
+<Q>Convertere, Domine, et eripe animam meam: salvum me fac propter misericordiam tuam.</Q>
+</EPIGRAPH>
+<L>Turne thé, Lord, and tarye nowȝt,</L>
+<L>Thin owen lyknes to helpe and save.</L>
+<L>Delyvere hem alle that thou hast bought,</L>
+<L>And graunte hem mercy that will it crave.</L>
+<L>Thynke, thou madyst bothe kyng and knave:</L>
+<L>Therfore of mercy be so fre,</L>
+<L>That no man wante, that wille it have.</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="11">
+<PB N="5" REF="5"/>
+<HEAD>XI.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam non est in morte qui memor sit tui: in inferno autem quis confitebitur tibi?</Q>
+</EPIGRAPH>
+<L>Whan man is seek, and nedys muste dye,</L>
+<L>(As every man schal do be kynde,)</L>
+<L>After mercy he kan noȝt crye,</L>
+<L>For sykenes revyth hym his mynde.</L>
+<L>Therfore, I rede, be noȝt be hynde,</L>
+<L>Whil mercy is in gret plenté:</L>
+<L>For in helle myȝt neverĕ man fynde</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="12">
+<HEAD>XII.</HEAD>
+<EPIGRAPH>
+<Q>Laboravi in gemitu meo: lavabo per singulas noctes lectum meum: lacrimis meis stratum meum rigabo.</Q>
+</EPIGRAPH>
+<L>My travayle is, bothe nyght and day,</L>
+<L>To wepe and weylĕ for my synne:</L>
+<L>With bittere terys I schal asay</L>
+<L>To wassche the bed that I lye inne.</L>
+<L>Whoso evere hevene will wynne,</L>
+<L>In endeles blysse evere more to be,</L>
+<L>This vers he mustĕ ofte begynne,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<EPIGRAPH>
+<Q>Turbatus est a furore oculus meus: inveteravi inter omnes inimicos meos.</Q>
+</EPIGRAPH>
+<L>Myn eyin ben wexin al derke for drede;</L>
+<L>My wickednes is drawyn on elde;</L>
+<L>My soule is wrappyd in wofull wede,</L>
+<L>For synne I have forsake ful selde.</L>
+<L><PB N="6" REF="6"/>
+Lord! fro sorwe and schame me schelde!</L>
+<L>Myn helpe, myn hele, it lythe in thé!</L>
+<L>Therfore I crye, in town and felde,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<EPIGRAPH>
+<Q>Discedite a me omnes qui operamini iniquitatem: quoniam exaudivit Dominus vocem fletus mei.</Q>
+</EPIGRAPH>
+<L>Whan thou schalt deme bothe grete and smale,</L>
+<L>That day we nedys muste abyde.</L>
+<L>Fro Iosaphath, that gret vale,</L>
+<L>There is no man that may hym hyde.</L>
+<L>Thanne sette me, Lord, on thi ryȝt syde,</L>
+<L>And cursede wretchys departe fro me.</L>
+<L>Wepyng I preye, aȝens that tyde,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="15">
+<HEAD>XV.</HEAD>
+<EPIGRAPH>
+<Q>Exaudivit Dominus deprecacionem meam: Do∣minus oracionem meam suscepit.</Q>
+</EPIGRAPH>
+<L>Whanne gode and ille here mede schal take,</L>
+<L>As they ben worthi wo or wele,</L>
+<L>Late me noȝt thannĕ be forsake;</L>
+<L>Sythe I have lefte my synnĕs fele.</L>
+<L>Suffere no feend me thanne apele,</L>
+<L>Whanne the laste judgĕment schal be.</L>
+<L>Late me be syker, whil I have hele,</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<EPIGRAPH>
+<Q>Erubescant et conturbentur vehementer omnes ini∣mici mei: convertantur et erubescant valde velociter.</Q>
+</EPIGRAPH>
+<L><PB N="7" REF="7"/>
+Whanne thei, that lyven aȝens thi lawe,</L>
+<L>Schul be schent with open schame,</L>
+<L>To thy mercy I wille me drawe,</L>
+<L>And kepe my soulĕ oute of blame.</L>
+<L>Thi mercy, Lord, I muste ataine,</L>
+<L>Whan myn enmyes dampnyd schul be:</L>
+<L>For evere I crye, and seye the same,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+</DIV2>
+<DIV2 N="31 (32)" TYPE="psalm">
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<EPIGRAPH>
+<Q>BEATI quorum remisse sunt iniquitates; et quorum tecta sunt peccata.</Q>
+</EPIGRAPH>
+<L>They may be syker of hevene blys,</L>
+<L>That han forȝevenes of here synne.</L>
+<L>Thi mercy hydeth that is amys,</L>
+<L>Of wickede werkys ȝyf thei will blynne.</L>
+<L>Whan body and soule departe atwynne,</L>
+<L>All worldys frenschippe awey will fle:</L>
+<L>Thou getyst non helpe, of sybbe nor kynne,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<EPIGRAPH>
+<Q>Beatus vir, cui non imputavit Dominus peccatum; nec est in spiritus ejus dolus.</Q>
+</EPIGRAPH>
+<L>Zyf God, that made all thyng of nouȝt,</L>
+<L>Of no synnĕ may thé apeche,</L>
+<L>In dedĕ doon, or hertĕ thouȝt,</L>
+<L>Ne gyle ne falsnes in my speche;</L>
+<L>Thanne, ȝif it be as clerkys teche,</L>
+<L>Of endeles blysse I dowte noȝt me.</L>
+<L>Zyf I be seek, this is my leche,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="19">
+<PB N="8" REF="8"/>
+<HEAD>XIX.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam tacui, inveteraverunt ossa mea; dum clamarem tota die.</Q>
+</EPIGRAPH>
+<L>My medefull werkys, that ben ful fewe,</L>
+<L>Zyf I go telle hem every where;</L>
+<L>My synne[s], that I in schryfte schulde schewe,</L>
+<L>I kepe hem clos for schame or fere;—</L>
+<L>Thanne waxe thei olde, and done me dere;</L>
+<L>I rote as dooth a bowe on tre.</L>
+<L>Therfore, er I be leyd on bere,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam die ac nocte graviter est super me manus tua: conversus sum in erumpna mea, dum configitur spina.</Q>
+</EPIGRAPH>
+<L>The hand of vengeaunce, more and more,</L>
+<L>Is up on me bothe day and nyȝt;</L>
+<L>The prycke of conscyence grevyth me sore,</L>
+<L>As often as I do unryȝt:</L>
+<L>But mercy, Lord! as thou hast hyȝt</L>
+<L>To alle tho that wyl turne un to thé.</L>
+<L>I kan no socour in thys plyȝt,</L>
+<L>But, 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<EPIGRAPH>
+<Q>Delictum meum cognitum tibi feci: et injusticiam meam non abscondi.</Q>
+</EPIGRAPH>
+<L>My trespas and myn unryȝtwysnesse</L>
+<L>I knowleche, and my synnĕs fele.</L>
+<L>Thowȝ I wolde hyde my wickydnesse,</L>
+<L>My conscyence willĕ me apele.</L>
+<L><PB N="9" REF="9"/>
+I synne al day, for I am frele;</L>
+<L>It is mannys infirmyté:</L>
+<L>Whan no man may his gylte concele,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<EPIGRAPH>
+<Q>Dixi, Confitebor adversum me injusticiam meam Domino: et tu remisisti impietatem peccati mei.</Q>
+</EPIGRAPH>
+<L>Zyf thou, with good avysĕment,</L>
+<L>Of thi synnĕs wilt thé schryve,</L>
+<L>Thi soule in helle schal nevere be schent,</L>
+<L>Whil thou wilt here thi penaunce dryve.</L>
+<L>Amende thi lyif (I rede the blyve)</L>
+<L>Er evere thi wittĕs fro thé fle;</L>
+<L>And thynke wel, whil thou art on lyve,</L>
+<L>On 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<EPIGRAPH>
+<Q>Pro hac orabit ad te omnis sanctus, in tempore oportuno.</Q>
+</EPIGRAPH>
+<L>Thowȝ thou be holy in woord and dede,</L>
+<L>And besy thi God to plese and pay,</L>
+<L>To more mercy thou hast gret nede,</L>
+<L>Zyf thou thi conscyens wylt asay.</L>
+<L>Sevenĕ sythes up on a day,</L>
+<L>The ryȝtwyse fallyth, Cryist seyth to thé:</L>
+<L>But who so cryith, he seyde nevere nay,</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<EPIGRAPH>
+<Q>Verumptamen in diluvio aquarum multarum, ad eum non approximabunt.</Q>
+</EPIGRAPH>
+<L><PB N="10" REF="10"/>
+Thou mayst noȝt come to God above,</L>
+<L>Throwȝ thi fleschly governaunce:</L>
+<L>Lust and lykyng ȝyf thou love,</L>
+<L>The ende therof is bitter chaunce.</L>
+<L>Thou mayst noȝt serve bothe, with plesaunce,</L>
+<L>Cryist and the feend, in no degré.</L>
+<L>Serve God; and seye, with repentaunce,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<EPIGRAPH>
+<Q>Tu es refugium meum a tribulacione que circum∣dedit me. Exultacio mea! erue me a circundantibus me.</Q>
+</EPIGRAPH>
+<L>Thou art myn helpe in al dyssese!</L>
+<L>Whan I am wrappyd in wele or wo,</L>
+<L>I schulde be besy thé to plese,</L>
+<L>But, allas! I do noȝt so.</L>
+<L>Delyvere me, Lord, fro many a fo,</L>
+<L>That nyȝt and day envyroun me.</L>
+<L>For helpe I kan no ferthere go,</L>
+<L>But to 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<EPIGRAPH>
+<Q>Intellectum tibi dabo, et instruam te in via qua gradieris: firmabo super te oculos meos.</Q>
+</EPIGRAPH>
+<L>Graunte me gracĕ wisdam and witt,</L>
+<L>Thi lawe to understande and lere,</L>
+<L>That I nevere gylte aȝens itt,</L>
+<L>Wher evere I go, fer or nere.</L>
+<L>I pray thé, Lord, be thou my fere;</L>
+<L>And pitously beholde, and se</L>
+<L>How I crye, whil I am here,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="27">
+<PB N="11" REF="11"/>
+<HEAD>XXVII.</HEAD>
+<EPIGRAPH>
+<Q>Nolite fieri sicut equus et mulus: quibus non est intellectus.</Q>
+</EPIGRAPH>
+<L>I am full dull and ryȝt unwyse,</L>
+<L>As beestys that kan no resoun take;</L>
+<L>Slowe and slak in thi servyse,</L>
+<L>And seldĕ suffre for thi sake.</L>
+<L>To thé my moörnyng I make,</L>
+<L>On me have mercy and pyté.</L>
+<L>There may no thyng my sorwe aslake,</L>
+<L>But "Ne reminiscaris, Domine!"</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<EPIGRAPH>
+<Q>In chamo et freno maxillas eorum constringe; qui non approximant ad te.</Q>
+</EPIGRAPH>
+<L>Lord! drawe hym to thé with a brydel,</L>
+<L>That will noȝt comĕ with good wylle;</L>
+<L>And streyne here chekys fro woordys ydell,</L>
+<L>That kan noȝt holdyn here tungys stylle.</L>
+<L>But, Lord! late nevere mannes soulĕ spylle,</L>
+<L>That axyth mercy and grace of thé,</L>
+<L>And mekely puttyth to thé this bylle,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<EPIGRAPH>
+<Q>Multa flagella peocatoris: sperantem autem in Domino misericordia circumdabit.</Q>
+</EPIGRAPH>
+<L>The scourge of God is sharp and kene,</L>
+<L>Whanne synnĕ among men is ryif;</L>
+<L>Often he betyth hem by dene,</L>
+<L>To drawe hem fro here wycked lyif.</L>
+<L><PB N="12" REF="12"/>
+He sparyth neythir man ne wyif,</L>
+<L>Ne non astatĕ nor degré:</L>
+<L>There is no thyng may stynte this stryif,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<EPIGRAPH>
+<Q>Letamini in Domino, et exultate justi: et gloria∣mini omnes recti corde.</Q>
+</EPIGRAPH>
+<L>In herte thei may be merye and glad,</L>
+<L>That ryȝtfully here lyïf lede,</L>
+<L>And kepe the lawe that Cryïst bad,</L>
+<L>In thouȝt, in woord, and eke in dede.</L>
+<L>God willĕ qwytĕ hem here mede,</L>
+<L>In endles blysse when thei schul be.</L>
+<L>Here nedys may no thyng bettyr spede,</L>
+<L>Than 'Ne reminiscaris, Domine!'</L>
+</LG>
+</DIV2>
+<DIV2 N="37 (38)" TYPE="psalm">
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<EPIGRAPH>
+<Q>DOMINE, ne in furore tuo arguas me: neque in ira tua corripias me.</Q>
+</EPIGRAPH>
+<L>Lord! ȝif thou be fers and sterne,</L>
+<L>As ofte tyme as thou schewyst outward,</L>
+<L>And I trespase aȝens thé ȝerne,</L>
+<L>To thé I am rebell and froward.</L>
+<L>Ryghtwysnesse to me is hard,</L>
+<L>But it with mercy mengyd be:</L>
+<L>To this woord, Lord, have reward,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam sagitte tue infixe sunt michi: et confir∣masti super me manum tuam.</Q>
+</EPIGRAPH>
+<L><PB N="13" REF="13"/>
+Thyn arwys ben scharpe and persyn myn herte;</L>
+<L>Thi vengeaunce woundyth me ful depe;</L>
+<L>Thou makyst my body sore to smerte,</L>
+<L>For thou woldist my soulĕ kepe.</L>
+<L>I kan no more but weyle and wepe;</L>
+<L>Thin hand is sorĕ set on me:</L>
+<L>In to my grave er evere I crepe,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<EPIGRAPH>
+<Q>Non est sanitas in carne mea, a facie ire tue: non est pax ossibus meis, a facie peccatorum meorum.</Q>
+</EPIGRAPH>
+<L>In my flesch I have non hele:</L>
+<L>Of synne comyth sorwe, and that is sene:</L>
+<L>My synful body is fals and frele,</L>
+<L>And dooth my spirite gret angyr and tene.</L>
+<L>There is no peës hem betwene,</L>
+<L>But evermore stryif and enmyté.</L>
+<L>My synfull werkis, alle be dene,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam iniquitates mee supergresse sunt caput meum: et sicut honus grave, gravate sunt super me.</Q>
+</EPIGRAPH>
+<L>My gylt is growyn over myn heed;</L>
+<L>All wyckidnesse in me is founde:</L>
+<L>My synnes ben hevy as hevy leed,</L>
+<L>Thei drawe me down on to the grounde.</L>
+<L>The feende with synne hath me so bounde,</L>
+<L>Bothe hand and foot, I may noȝt fle:</L>
+<L>No thyng may make me saaf and sounde,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="35">
+<PB N="14" REF="14"/>
+<HEAD>XXXV.</HEAD>
+<EPIGRAPH>
+<Q>Putruerunt et corrupte sunt cicatrices mee; a facie insipiencie mee.</Q>
+</EPIGRAPH>
+<L>My soule is comberyd with sorwe and synne:</L>
+<L>Lord! have pyté of my grevaunce.</L>
+<L>My woundĕs festryn and rotyn with inne,</L>
+<L>Be cause of unwyse governaunce.</L>
+<L>Who so wille scape a carefull chaunce,</L>
+<L>Whan all oure lyif demyd schall be;</L>
+<L>He muste be forn make purveaunce,</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI.</HEAD>
+<EPIGRAPH>
+<Q>Miser factus sum, et curvatus sum usque in finem: tota die contristatus ingrediebar.</Q>
+</EPIGRAPH>
+<L>I am a wreeche and feble of myght,</L>
+<L>And drawĕ faste toward myn ende;</L>
+<L>I may noȝt go ne stonde aryght,</L>
+<L>Mi bak begynneth for to bende.</L>
+<L>Sorwe and syknesse wil me schende;</L>
+<L>Al day I make my mone to thé:</L>
+<L>For now have I non othir freende,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam lumbi mei impleti sunt illusionibus: et non est sanitas in carne mea.</Q>
+</EPIGRAPH>
+<L>My spirite and my flesch, in fere,</L>
+<L>The feend is besy to begyle:</L>
+<L>As longe as I have lyved here,</L>
+<L>He is aboute with many a wyle,</L>
+<L><PB N="15" REF="15"/>
+Bothe body and soulĕ to defyle:</L>
+<L>I may noȝt scape his cruelté.</L>
+<L>Ther is non helpĕ, in this whyle,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<EPIGRAPH>
+<Q>Afflictus sum et humiliatus sum nimis: rugiebam a gemitu cordis mei.</Q>
+</EPIGRAPH>
+<L>Syknesse makyth me lowe and meke;</L>
+<L>I am turmentyd in wo and peyne.</L>
+<L>Thowȝ thou woldyst my sorwe eke,</L>
+<L>I hadde no mater of thé to pleyne.</L>
+<L>I am worthy (I may noȝt feyne)</L>
+<L>To suffre more, ȝyf it lyke thé.</L>
+<L>With contrite herte, I turne ageyne</L>
+<L>To 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX.</HEAD>
+<EPIGRAPH>
+<Q>Domine! ante te omne desiderium meum: et gemitus meus a te non est absconditus.</Q>
+</EPIGRAPH>
+<L>Thou knowyst myn herte and all my wille:</L>
+<L>My sorwe I may noȝt fro thé hyde:</L>
+<L>Suffre nevere my soule to spylle,</L>
+<L>Ne no myscheëf me betyde.</L>
+<L>Now fadyth and fallyth all my pryde:</L>
+<L>For erthe I was, and erthe schal be.</L>
+<L>Thi mercy only I abyde:</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="40">
+<HEAD>XL.</HEAD>
+<EPIGRAPH>
+<Q>Cor meum conturbatum est; dereliquit me virtus mea: et lumen oculorum meorum et ipsum non est mecum.</Q>
+</EPIGRAPH>
+<L><PB N="16" REF="16"/>
+Homward I drawe un to my rest;</L>
+<L>My myght and syȝt awey is went.</L>
+<L>Myn hertĕ is in poynt to brest,</L>
+<L>For dreed of hardĕ jugĕment.</L>
+<L>Lord! late me nevere be schamyd nor schent,</L>
+<L>Thi ferdefull face whan I schal se;</L>
+<L>Nor non that cryeth, with good entent,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<EPIGRAPH>
+<Q>Amici mei et proximi mei: adversum me appro∣pinquaverunt, et steterunt.</Q>
+</EPIGRAPH>
+<L>Kyn and knowleche, at myn ende,</L>
+<L>Whan I have nede, begynneth to fayle.</L>
+<L>He, that was sumtyme my frende,</L>
+<L>Is noȝt aschamyd me to assayle.</L>
+<L>That I have getyn with sore travayle,</L>
+<L>Men ben a boutyn to ȝyve fro me.</L>
+<L>There is no thyng may me avayle,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="42">
+<HEAD>XLII.</HEAD>
+<EPIGRAPH>
+<Q>Et qui juxta me erant, de longe steterunt: et vim faciebant, qui querebant animam meam.</Q>
+</EPIGRAPH>
+<L>Summe that were sumtyme ful nye,</L>
+<L>Untrewly now han me forsake:</L>
+<L>Thei stryve ful faste, whan I schal dye,</L>
+<L>My wordely godys for to take.</L>
+<L>Thus falsnesse is the worldys make;</L>
+<L>And feythfull freendys fewe there be.</L>
+<L>Er ryghtwysnesse be fully wake,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="43">
+<PB N="17" REF="17"/>
+<HEAD>XLIII.</HEAD>
+<EPIGRAPH>
+<Q>Et qui inquirebant mala michi, locuti sunt vani∣tates: et dolos tota die meditabantur.</Q>
+</EPIGRAPH>
+<L>Whanne I may no lengere lyve,</L>
+<L>Myn enemyes spekyn of me full ille:</L>
+<L>Zyf I myȝte an answere gyve,</L>
+<L>They woldĕ kepe here tungys stylle.</L>
+<L>Thus al day falsnesse hath his wylle,</L>
+<L>For frenschyp feyned is enemyté:</L>
+<L>Folys ben favouryd all here fylle.</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<EPIGRAPH>
+<Q>Ego autem, tanquam surdus, non audiebam: et sicut mutus non aperiens os suum.</Q>
+</EPIGRAPH>
+<L>Myn erys and my mowth I dytt,</L>
+<L>As I myȝte neyther speke nor here:</L>
+<L>For now men sëyn, it is wytt</L>
+<L>To thynke my fylle and make good chere.</L>
+<L>Thus every day we be to lere,</L>
+<L>'As fortune chaungyth, so muste we:'</L>
+<L>In erthe I fynde no feythful fere,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<EPIGRAPH>
+<Q>Et factus sum sicut homo non audiens: et non habens in ore suo redarguciones.</Q>
+</EPIGRAPH>
+<L>As I herde nouȝt, I holde my pes;</L>
+<L>In woord I dar no man repreve:</L>
+<L>Zyf truthe will puttyn hym in pres,</L>
+<L>He may sone dysplese and greve.</L>
+<L><PB N="18" REF="18"/>
+Now soothfastnesse hath takyn his leve,</L>
+<L>And wytt is turned to vanyté!</L>
+<L>It is gret nede this woord to meve,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam in te, Domine, speravi: tu exaudies me, Domine Deus meus!</Q>
+</EPIGRAPH>
+<L>Lord! whan I on to thé calle,</L>
+<L>Forȝyve me my synnĕs more and lesse:</L>
+<L>Thou art governour of alle,</L>
+<L>Welle and roote of all goodnesse!</L>
+<L>Late noȝt myn enemyes me oppresse;</L>
+<L>Myn hope, myn helpe, it is in thé.</L>
+<L>Whan thou schalt all wrong redresse,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<EPIGRAPH>
+<Q>Quia dixi, Nequando supergaudeant mihi inimici mei: et, dum commoventur pedes mei, super me magna locuti sunt.</Q>
+</EPIGRAPH>
+<L>Late noȝt myn enemyes makyn here game</L>
+<L>Of me, whan I am lokyn in leed;</L>
+<L>Ne with here tungys blemysch my name,</L>
+<L>And speke me ille whan I am deed.</L>
+<L>Er evere my feet and myn heed</L>
+<L>Be leyde a lyke, (as they muste be,)</L>
+<L>To have in mynde, it is best reed,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam ego in flagella paratus sum: et dolor meus in conspectu meo semper.</Q>
+</EPIGRAPH>
+<L><PB N="19" REF="19"/>
+Here no lengere taryen I may;</L>
+<L>In erthe I schal no lengere dwelle:</L>
+<L>Hardĕ peynes I muste asay,</L>
+<L>In purgatorye, or ellys in helle.</L>
+<L>The ferdefull feendys, ferse and fell,</L>
+<L>On me will schewyn here cruelté;</L>
+<L>But I kunne summĕ tydinges telle</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam iniquitatem meam annunciabo: et cogi∣tabo pro peccato meo.</Q>
+</EPIGRAPH>
+<L>My wyckydnesse I nedys schal schewe,</L>
+<L>Before my dredefull jugys face;</L>
+<L>Whethyr my synnes be manye or fewe,</L>
+<L>I schal have ryght thanne, and no grace.</L>
+<L>Thanne schal mercy be ful scace,</L>
+<L>Whan ryghtwysnesse and equité</L>
+<L>Schal puttyn a wey, out of his place,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<EPIGRAPH>
+<Q>Inimici autem mei vivunt, et confirmati sunt super me: et multiplicati sunt, qui oderunt me inique.</Q>
+</EPIGRAPH>
+<L>More ovyr, my peynĕs to encrese,</L>
+<L>Myn enmyes that be lefte behynde,</L>
+<L>They multiplye and will noȝt cese:</L>
+<L>Here hatrede and here wratthe I fynde;</L>
+<L>In woord and werk, thei ben unkynde,</L>
+<L>Whan I am deed to pursewe me.</L>
+<L>They sette ful seldĕ in here mynde,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="51">
+<PB N="20" REF="20"/>
+<HEAD>LI.</HEAD>
+<EPIGRAPH>
+<Q>Qui retribuunt mala pro bonis, detrahebant michi: quoniam sequebar bonitatem.</Q>
+</EPIGRAPH>
+<L>Now I am ful lytel bounde</L>
+<L>To manye, that were to me beholde;</L>
+<L>Whan I am deed, and leyd in grounde,</L>
+<L>Here love is waxen wonder colde.</L>
+<L>They bakbýte me manye folde;</L>
+<L>Evyll for good thei qwyten me:</L>
+<L>I am aferd thei be to bolde</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<EPIGRAPH>
+<Q>Ne derelinquas me, Domine Deus meus! ne dis∣cesseris a me.</Q>
+</EPIGRAPH>
+<L>Now fleschly freendys have I none:</L>
+<L>Lord! to thé my soule I take.</L>
+<L>I hope and truste in thé alone,</L>
+<L>That thou wylt me nevere forsake.</L>
+<L>Thou mäyst best my sorwe aslake.</L>
+<L>Departe noȝt, Lord, awey fro me.</L>
+<L>To thi mercy my mone I make,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<EPIGRAPH>
+<Q>Intende in adjutorium meum: Domine Deus sa∣lutis mee!</Q>
+</EPIGRAPH>
+<L>Thowȝ I in flesch be syke and frele,</L>
+<L>Of my soule, god[e] Lord! take hede.</L>
+<L>In thé only is hope and hele:</L>
+<L>Thou art myn helpe at every nede.</L>
+<L><PB N="21" REF="21"/>
+Thi mercy thou wylt no man forbede,</L>
+<L>Tyl the body and soule departyd be:</L>
+<L>Thanne is to late to synge, or rede,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+</DIV2>
+<DIV2 N="50 (51)" TYPE="psalm">
+<LG N="54">
+<HEAD>LIV.</HEAD>
+<EPIGRAPH>
+<Q>MISERERE mei, Deus! secundum magnam misericordiam tuam.</Q>
+</EPIGRAPH>
+<L>Mercy, Lord, I calle and crye:</L>
+<L>Thi mercy is redy in every place.</L>
+<L>Thowȝ I have lyved ful synfullye,</L>
+<L>I putte me fully in thi grace.</L>
+<L>There is no synne, before thi face,</L>
+<L>So grete as mercy and pyté.</L>
+<L>To synfull man thou were nevere scace</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<EPIGRAPH>
+<Q>Et, secundum multitudinem miseracionum tuarum, dele iniquitatem meam.</Q>
+</EPIGRAPH>
+<L>To me thi mercy multiplye,</L>
+<L>And lesĕ noȝt that thou hast bowȝt.</L>
+<L>Putte awey, Lord! gracyouslye,</L>
+<L>My wicked werkys that I have wrowȝt.</L>
+<L>Thowȝ I thi mercy déserve nowȝt,</L>
+<L>Zyt it is thi propirté,</L>
+<L>To sparĕ hem that mekely sowȝt,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="56">
+<HEAD>LVI.</HEAD>
+<EPIGRAPH>
+<Q>Amplius lava me ab iniquitate mea: et a peccato meo munda me.</Q>
+</EPIGRAPH>
+<L><PB N="22" REF="22"/>
+Wasschĕ me, Lord! ferthermore,</L>
+<L>Fro synne that grevyth me ful ille;</L>
+<L>That there leve no prevy sore,</L>
+<L>Ne circumstaunce that longyth ther tylle.</L>
+<L>Make me clene fro woord and wylle,</L>
+<L>And kepe me, for thyn honesté.</L>
+<L>Therfore I présente thé this bylle,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam iniquitatem meam ego cognosco: et pec∣catum meum contra me est semper.</Q>
+</EPIGRAPH>
+<L>I am aknowe my synfull lyif,</L>
+<L>That I have led fro tendyr age:</L>
+<L>But ȝyf thi mercy to me were ryif,</L>
+<L>To peyne schulde be my pilgrymage.</L>
+<L>Myn owen dedys, that ben outrage,</L>
+<L>Before thi syȝt accusyn me:</L>
+<L>But to thi mercy I do homage.</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="58">
+<HEAD>LVIII.</HEAD>
+<EPIGRAPH>
+<Q>Tibi soli peccavi, et malum coram te feci: ut jus∣tificeris in sermonibus tuis, et vincas cum judicaris.</Q>
+</EPIGRAPH>
+<L>I have synnéd to thé alone,</L>
+<L>And forfetyd ofte before thi syȝt:</L>
+<L>Zyf I will leve my synnes ilkone,</L>
+<L>Grace and mercy thou hast behyȝt.</L>
+<L>Schewe, Lord! how they do unryȝt,</L>
+<L>That seyn thou wylt noȝt rewe on me,</L>
+<L>Whanne I crye, bothe day and nyȝt,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="59">
+<PB N="23" REF="23"/>
+<HEAD>LIX.</HEAD>
+<EPIGRAPH>
+<Q>Ecce enim! in iniquitatibus conceptus sum: et in peccatis concepit me mater mea.</Q>
+</EPIGRAPH>
+<L>Of my modyr I was conceyved</L>
+<L>In synne, and so was every chylde,</L>
+<L>(After that Adam was dysceyved,)</L>
+<L>Sauf Cryist alone and Marie mylde.</L>
+<L>The feend ther to hath maad ful wylde</L>
+<L>My flesch, my soule with innĕ me;</L>
+<L>But ȝyf I kunne the bettyr bylde,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="60">
+<HEAD>LX.</HEAD>
+<EPIGRAPH>
+<Q>Ecce enim! veritatem dilexisti: incerta et occulta sapiencie tue manifestasti michi.</Q>
+</EPIGRAPH>
+<L>Zyf I my synne will noȝt excuse,</L>
+<L>But telle it trewly as it is;</L>
+<L>I truste thou wilt noȝt me refuse,</L>
+<L>Thowȝ I do oftĕ tyme amys.</L>
+<L>Thannĕ thi wysdam will me wis,</L>
+<L>To knowe so weel thi pryvyté,</L>
+<L>That I schal noȝt fayle of thys,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<EPIGRAPH>
+<Q>Asperges me, Domine, ysopo et mundabor: lavabis me, et super nivem dealbabor.</Q>
+</EPIGRAPH>
+<L>Sprenkle me, Lord! with watyr of terys,</L>
+<L>That myn herte be pourgyd clene.</L>
+<L>Wysse me fro my wyldĕ gerys,</L>
+<L>And wassche my synne awey be dene:</L>
+<L><PB N="24" REF="24"/>
+As snow, that fallyth in fyldĕs grene,</L>
+<L>Is whyȝt and bryȝt, so schal I be;</L>
+<L>Thanne schal the werkyng be ful sene</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="62">
+<HEAD>LXII.</HEAD>
+<EPIGRAPH>
+<Q>Auditui meo dabis gaudium et leticiam: et ex∣ultabunt ossa humiliata.</Q>
+</EPIGRAPH>
+<L>My synnĕ ȝyf I noȝt defende,</L>
+<L>But aske mercý with sorwefull chere,</L>
+<L>And my lyif mekĕly amende,</L>
+<L>God will my bonĕ gladly here.</L>
+<L>He will noȝt lese that is bouȝt dere</L>
+<L>Wyth bytter deth up on a tre,</L>
+<L>As longe as we wyll lowely here</L>
+<L>Seye 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII.</HEAD>
+<EPIGRAPH>
+<Q>Averte faciem tuam a peccatis meis: et omnes iniquitates meas dele.</Q>
+</EPIGRAPH>
+<L>My wicked werkys thou putte awey,</L>
+<L>And fro my synnĕs turne thi face,</L>
+<L>Sorwe and syȝhyng is my pley,</L>
+<L>Wher evere I be in ony place.</L>
+<L>I am noȝt worthy to have thi grace,</L>
+<L>And ryȝtwysnesse I may noȝt fle:</L>
+<L>But, myghtfull Lord! be noȝt scace</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="64">
+<HEAD>LXIV.</HEAD>
+<EPIGRAPH>
+<Q>Cor mundum crea in me, Deus! et spiritum rectum innova in visceribus meis.</Q>
+</EPIGRAPH>
+<L><PB N="25" REF="25"/>
+Myn herte hath be dyffoyled with synne;</L>
+<L>My spirit was to thé untrewe.</L>
+<L>Clense me, Lord! therfore with inne;</L>
+<L>A ryghtful spiryte in me renewe,</L>
+<L>That I may evere synne esschewe.</L>
+<L>And ȝyf I forfete, of frealté,</L>
+<L>To thi mercy I will pursewe,</L>
+<L>Wyth 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="65">
+<HEAD>LXV.</HEAD>
+<EPIGRAPH>
+<Q>Ne proicias me a facie tua: et spiritum sanctum tuum ne auferas a me.</Q>
+</EPIGRAPH>
+<L>Fro thi face castĕ thou me nouȝt,</L>
+<L>Thowȝ I be úntrewe and unkynde.</L>
+<L>Zyf I trespàce in dede or thouȝt,</L>
+<L>Lete noȝt thi mercy be behynde.</L>
+<L>Of my frealnesse, gode Lord, have mynde.</L>
+<L>Thyne holy spirite take noȝt fro me;</L>
+<L>And ȝyf thou do, how schal I fynde</L>
+<L>'Ne reminiscaris, Domine?'</L>
+</LG>
+<LG N="66">
+<HEAD>LXVI.</HEAD>
+<EPIGRAPH>
+<Q>Redde michi leticiam salutaris tui: et spiritu prin∣cipali confirma me.</Q>
+</EPIGRAPH>
+<L>Fadyr, that art of myghtĕs most!</L>
+<L>Graunte me gladnésse of soulys hele.</L>
+<L>Conferme me with the holy gost;</L>
+<L>And lete me nevere with feendys dele.</L>
+<L>Forsake me noȝt in wo ne in wele;</L>
+<L>For evere I have nede to thé:</L>
+<L>And ȝyf thou do, I will apele</L>
+<L>To 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="67">
+<PB N="26" REF="26"/>
+<HEAD>LXVII.</HEAD>
+<EPIGRAPH>
+<Q>Docebo iniquos vias tuas: et impii ad te conver∣tentur.</Q>
+</EPIGRAPH>
+<L>The weyis that ben to God in hye,</L>
+<L>Ful gladly I schal telle and teche,</L>
+<L>Wher evere I be in cumpanye;</L>
+<L>Of tho only schal be my speche.</L>
+<L>To turnĕ synfull men fro wreche,</L>
+<L>Ensaumple they may take of me:</L>
+<L>For I cowde nevere fynde othyr leche,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="68">
+<HEAD>LXVIII.</HEAD>
+<EPIGRAPH>
+<Q>Libera me de sanguinibus, Deus, Deus salutis mee! et exultabit lingua mea justiciam tuam.</Q>
+</EPIGRAPH>
+<L>I may noȝt overcome the feende;</L>
+<L>His malyce I kan noȝt fully felle:</L>
+<L>He steryth my flesch, me to schende;</L>
+<L>It waxith sturdy and rebelle.</L>
+<L>Of helthe and hele thou art the welle!</L>
+<L>Fro fleschly lust thou delyvere me;</L>
+<L>That ryȝtfully my tunge may telle,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="69">
+<HEAD>LXIX.</HEAD>
+<EPIGRAPH>
+<Q>Domine, labia mea aperies: et os meum annun∣ciabit laudem tuam.</Q>
+</EPIGRAPH>
+<L>My mouth schal preyse thé day and nyȝt,</L>
+<L>My lyppes to thé schull opyn wyde;</L>
+<L>Thé to serve myn herte is lyȝt;</L>
+<L>Evere more with thé I wyll abyde,</L>
+<L><PB N="27" REF="27"/>
+Zyf I my trespace will noȝt hyde,</L>
+<L>But lowely aske mercy of thé.</L>
+<L>I crye to thé in ilke a tyde,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="70">
+<HEAD>LXX.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam, si voluisses sacrificium, dedissem utique: holocaustis non delectaberis.</Q>
+</EPIGRAPH>
+<L>Of beeste that is unresonable,</L>
+<L>Thou desyrest no sacryfyse.</L>
+<L>That mannys lyvyng be convenable,</L>
+<L>And redy un to thi servyse,—</L>
+<L>That is all thi coveytise,—</L>
+<L>That I love God as he doth me.</L>
+<L>I may no bettyr offrýng devyse,</L>
+<L>Than 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="71">
+<HEAD>LXXI.</HEAD>
+<EPIGRAPH>
+<Q>Sacrificium Deo, spiritus contribulatus: cor con∣tritum et humiliatum, Deus, non despicies.</Q>
+</EPIGRAPH>
+<L>Zyf thou wilt offere, to God of hevene,</L>
+<L>A spyrit of gret repentaunce;</L>
+<L>Thowȝ thou be gylty of synnĕs sevene,</L>
+<L>A sorwefull herte is Goddys plesaunce.</L>
+<L>Syn thou wylt noȝt thi self avaunce,</L>
+<L>God wyll noȝt dispysen thé;</L>
+<L>Whil thou wylt make good ordynaunce</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="72">
+<HEAD>LXXII.</HEAD>
+<EPIGRAPH>
+<Q>Benigne fac, Domine, in bona voluntate tua, Syon: ut edificentur muri Iherusalem.</Q>
+</EPIGRAPH>
+<L><PB N="28" REF="28"/>
+My soule, that often hath be distryed,</L>
+<L>Graunte me thi wyll to bygge ageyn.</L>
+<L>Thi goodnesse was nevere ȝyt denyed:</L>
+<L>There hath no man matère to pleyn.</L>
+<L>Thi bounté passyth, as alle men seyn,</L>
+<L>All that was or evere schal be;</L>
+<L>And ellys my speche were all in veyn,</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="73">
+<HEAD>LXXIII.</HEAD>
+<EPIGRAPH>
+<Q>Nunc acceptabis sacrificium justicie, oblaciones et holocausta: tunc imponent super altare tuum vitulos.</Q>
+</EPIGRAPH>
+<L>Offryng and schedyng of beestys blood</L>
+<L>Were made in awterys, in figure</L>
+<L>Of Cryist, that deyid up on the rood,</L>
+<L>To raunsoun synfull creäture.</L>
+<L>Whan I do ony forfeture,</L>
+<L>A contrite heart I offere to thé:</L>
+<L>Accepte this, Lord, for ryȝt rekure,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+</DIV2>
+<DIV2 N="101 (102)" TYPE="psalm">
+<LG N="74">
+<HEAD>LXXIV.</HEAD>
+<EPIGRAPH>
+<Q>DOMINE! exaudi oracionem mea[m]: et clamor meus ad te veniat.</Q>
+</EPIGRAPH>
+<L>HERE me, Lord, I calle and crye:</L>
+<L>Thou art my comfort in wele and wo.</L>
+<L>Accepte my prayère gracyouslye;</L>
+<L>I trustĕ fully thou wylt do so.</L>
+<L>Zyf thou fayle me I knowe no mo:</L>
+<L>In dyspeyr thannĕ levyst thou me.</L>
+<L>I am but lost, ȝyf I forgo</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="75">
+<PB N="29" REF="29"/>
+<HEAD>LXXV.</HEAD>
+<EPIGRAPH>
+<Q>Non avertas faciem tuam a me: in quacumque die tribulor, inclina ad me aurem tuam.</Q>
+</EPIGRAPH>
+<L>Fro me turne noȝt awey thi face,</L>
+<L>Thowȝ I to thé be often unkynde.</L>
+<L>Ful selde thowȝ I deserve thi grace,</L>
+<L>Whan thou art wroth, of mercy have mynde.</L>
+<L>Zyf I seke grace, lete me it fynde;</L>
+<L>And goodly thyn erys bowe to me.</L>
+<L>Fro synne may no thyng me unbynde,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="76">
+<HEAD>LXXVI.</HEAD>
+<EPIGRAPH>
+<Q>In quacumque die invocavero te: velociter exaudi me.</Q>
+</EPIGRAPH>
+<L>Every day to synne I falle,</L>
+<L>And selde do ryght and oftĕ wrong:</L>
+<L>Zyf I be sory, and to thé calle,</L>
+<L>Lete noȝt thi mercy tarye to longe.</L>
+<L>Sprede thi grace on me amonge,</L>
+<L>Whan I have synned in ony degré.</L>
+<L>For trust to thé, this is my songe,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="77">
+<HEAD>LXXVII.</HEAD>
+<EPIGRAPH>
+<Q>Quia defecerunt, sicut fumus, dies mei: et ossa mea, sicut cremium, aruerunt.</Q>
+</EPIGRAPH>
+<L>My dayes begynne to fayle and fade;</L>
+<L>Thei wanyssche as smoke, whan it is hye:</L>
+<L>My bonys were stronge, and myghtyly made;</L>
+<L>But now thei clynge, and waxe all drye.</L>
+<L><PB N="30" REF="30"/>
+This is a tokene that I schal dye:</L>
+<L>My day is sett, I schal noȝt fle.</L>
+<L>I take me fully to thi mercy:</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="78">
+<HEAD>LXXVIII.</HEAD>
+<EPIGRAPH>
+<Q>Percussus sum ut fenum, et aruit cor meum: quia oblitus sum comedere panem meum.</Q>
+</EPIGRAPH>
+<L>I am smetyn down, and begynne to welwe,</L>
+<L>As heyȝ that lythe aȝens the sunne:</L>
+<L>I have no myght my mete to swelwe;</L>
+<L>For dry myn herte to gydere is runne.</L>
+<L>My deth with inne me is begunne;</L>
+<L>I falle as doth the leef on tre:</L>
+<L>My soule I hope to blysse be wunne,</L>
+<L>With 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="79">
+<HEAD>LXXIX.</HEAD>
+<EPIGRAPH>
+<Q>A voce gemitus mei: adhesit os meum carni mee.</Q>
+</EPIGRAPH>
+<L>For sorwe my lyppĕs cleve to gyder;</L>
+<L>My mouth[ĕ] hath no myght to speke:</L>
+<L>I may noȝt meve me hyder ne thyder;</L>
+<L>Myn herte for wo begynneth to breke.</L>
+<L>For stark, my lemys I may not streke.</L>
+<L>Mercyfull Lord! rewĕ on me!</L>
+<L>And wickyd werkys whan thou schalt wreke,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="80">
+<HEAD>LXXX.</HEAD>
+<EPIGRAPH>
+<Q>Similis factus sum pelicano solitudinis: factus sum sicut nicticorax in domicilio.</Q>
+</EPIGRAPH>
+<L>To dreedful deth I am dyȝt,</L>
+<L>As a pelycan in wyldyrnesse;</L>
+<L><PB N="31" REF="31"/>
+And as a backe, that flyith be nyȝt,</L>
+<L>I am withdrawyn fro all goodnesse.</L>
+<L>Thou helyst my woundys more and lesse;</L>
+<L>With thyn herte blood thou wasschyst me:</L>
+<L>As oftyn I kan fynde wytnesse,</L>
+<L>At 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="81">
+<HEAD>LXXXI.</HEAD>
+<EPIGRAPH>
+<Q>Vigilavi: et factus tum sicut passer solitarius in tecto.</Q>
+</EPIGRAPH>
+<L>I dar noȝt slepe, but ever more wake,</L>
+<L>As a sparwe that is alone.</L>
+<L>The feend is busy my soule to take;</L>
+<L>And frendys have I fewe or none.</L>
+<L>Whan wordely trust awey is gone,</L>
+<L>All hope and helpe it is in thé:</L>
+<L>To thi mercý I make my mone;</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="82">
+<HEAD>LXXXII.</HEAD>
+<EPIGRAPH>
+<Q>Tota die exprobrabant michi inimici mei: et, qui laudabant me, adversum me jurabant.</Q>
+</EPIGRAPH>
+<L>Myn enmyes often me reprevyn,</L>
+<L>And bakbyte me with outen enchésoun:</L>
+<L>Now may no man othir levyn,</L>
+<L>For wylfulnesse is holde resoun;</L>
+<L>All day we se in trust is tresoun,</L>
+<L>And preysing prevyd sotylté.</L>
+<L>False othys ben now noȝt gesoun:</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="83">
+<HEAD>LXXXIII.</HEAD>
+<EPIGRAPH>
+<Q>Quia cinerem tanquam panem manducabam: et potum meum cum fletu miscebam.</Q>
+</EPIGRAPH>
+<L><PB N="32" REF="32"/>
+Asschys I eete in stede of brede,</L>
+<L>My drynk is watyr that I wepe;</L>
+<L>Whan I thynke I schal be deed,</L>
+<L>Be turnyd to asschys, and lye ful depe.</L>
+<L>My deth evermore in mynde I kepe;</L>
+<L>I wote noȝt whanne myn ende schal be:</L>
+<L>In to my grave er evere I crepe,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="84">
+<HEAD>LXXXIV.</HEAD>
+<EPIGRAPH>
+<Q>A facie ire indignationis tue: quia elevans alli∣sisti me.</Q>
+</EPIGRAPH>
+<L>Sythen thou woldyst my soule avaunce,</L>
+<L>And make me eyr of hevene blysse;</L>
+<L>I am worthy the more penaunce,</L>
+<L>As often as I do amysse.</L>
+<L>Fro thi wratthe who schal me wysse,</L>
+<L>Whan sorwe and synne schul vengyd be?</L>
+<L>All myn hope schal lyin in thysse,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="85">
+<HEAD>LXXXV.</HEAD>
+<EPIGRAPH>
+<Q>Dies mei, sicut umbra, declinaverunt: et ego sicut fenum arui.</Q>
+</EPIGRAPH>
+<L>My dayes as schadewe waxe drye and derke,</L>
+<L>On me no lyght of grace may schyne;</L>
+<L>Deth on me hath set his merke:</L>
+<L>As gres in medewe I drye and dwyne,</L>
+<L>My synnes I drede thei schul be myne,</L>
+<L>And more schal I noȝt bere with me;</L>
+<L>But ȝyf I make the bettre my fyne,</L>
+<L>Wyth 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="86">
+<PB N="33" REF="33"/>
+<HEAD>LXXXVI.</HEAD>
+<EPIGRAPH>
+<Q>Tu autem, Domine, ineternum permanes: et me∣moriale tuum in generacione[m] et generacione[m].</Q>
+</EPIGRAPH>
+<L>There lastyth no thyng but thou alone;</L>
+<L>For here may I noȝt longe abyde.</L>
+<L>Whan my soule in peyne schal grone,</L>
+<L>What schal avayle me all my pryde?</L>
+<L>Lust and lykyng I sette be syde;</L>
+<L>And sette evermore my mynde in thé.</L>
+<L>I prey thé, that thou wylt noȝt hyde</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="87">
+<HEAD>LXXXVII.</HEAD>
+<EPIGRAPH>
+<Q>Tu exurgens, Domine, misereberis Syon: quia tempus miserendi ejus, quia venit tempus.</Q>
+</EPIGRAPH>
+<L>Have mercy of Syon, Davydes towr,</L>
+<L>That signyfyeth the ordre of knyȝt;</L>
+<L>They schulde be holy cherchys socóur,</L>
+<L>And máyntĕne the feyth with al here myȝt.</L>
+<L>Late nevere knyȝthod, aȝen the ryght,</L>
+<L>Be lost with tresoun and sotylté.</L>
+<L>For we preye, bothe day and nyȝt,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="88">
+<HEAD>LXXXVIII.</HEAD>
+<EPIGRAPH>
+<Q>Quoniam placuerunt servis tuis lapides ejus: et terre ejus miserebuntur.</Q>
+</EPIGRAPH>
+<L>Every knyȝt is callyd a ston</L>
+<L>Of Syon, for holy cherchis defens;</L>
+<L>And goddys servauntys, everylkon,</L>
+<L>Thei schulde plese, with gret reverens.</L>
+<L><PB N="34" REF="34"/>
+Thanne wratthe schulde slake, and al offens;</L>
+<L>And mercy on erthe schulde be so fre,</L>
+<L>That preyerys schulde turne all vyolens</L>
+<L>To 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="89">
+<HEAD>LXXXIX.</HEAD>
+<EPIGRAPH>
+<Q>Et timebunt gentes nomen tuum, Domine! et omnes reges terre gloriam tuam.</Q>
+</EPIGRAPH>
+<L>All peple in erthe thi name schal drede,</L>
+<L>And kyngĕs to thi blysse schul bende.</L>
+<L>Of thi grace a kyng hath nede:</L>
+<L>Mercyfull Lord, be thou his frende!</L>
+<L>For thou only mayst save, or schende,</L>
+<L>Bothe hye and lowe of iche degré.</L>
+<L>Lete hym nevere forfete, thruȝ the fende,</L>
+<L>Aȝens 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="90">
+<HEAD>XC.</HEAD>
+<EPIGRAPH>
+<Q>Quia edificavit Dominus Syon: et videbitur in gloria sua.</Q>
+</EPIGRAPH>
+<L>Syon a merour is, to say,</L>
+<L>That God hath bygged and sett ful hye:</L>
+<L>There sytt oure kyng, be trewĕ fay,</L>
+<L>That schal herétykes alle distrye.</L>
+<L>He máyntĕnyth oure cherchĕ gracyouslye,</L>
+<L>And kepyth it, (as ȝe may se),</L>
+<L>That preyith for hym ful hertylye,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="91">
+<HEAD>XCI.</HEAD>
+<EPIGRAPH>
+<Q>Respexit in oracionem humilium: et non sprevit precem eorum.</Q>
+</EPIGRAPH>
+<L><PB N="35" REF="35"/>
+Zyf lordys willen to God be meke,</L>
+<L>And leve cruelté and coveytise,</L>
+<L>Holy cherche to encrese and eke,</L>
+<L>And worschyp God in his servyse;</L>
+<L>Thanne will noȝt God prayerys dispyse,</L>
+<L>For kyng and for the comounté,</L>
+<L>Whan we syngen, in devoutĕ wyse,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="92">
+<HEAD>XCII.</HEAD>
+<EPIGRAPH>
+<Q>Scribantur hec in generacione altera: et populus, qui creabitur, laudabit Dominum.</Q>
+</EPIGRAPH>
+<L>Mekenes of kynges in bokys is wretyn,</L>
+<L>As of David and Ezechye;</L>
+<L>For othere aftyr hem schulde wetyn,</L>
+<L>How thei schulde lyvĕ vertouslye,</L>
+<L>And thanke here God, that sytt on hye,</L>
+<L>That formyth and stabelyth kyngĕs see,</L>
+<L>To kynges that trustyn stedfastlye</L>
+<L>To 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="93">
+<HEAD>XCIII.</HEAD>
+<EPIGRAPH>
+<Q>Quia prospexit de excelso sancto suo: Dominus de celo in terram aspexit.</Q>
+</EPIGRAPH>
+<L>God beholdyth bothe more and lesse,</L>
+<L>Fro hevene there he sytteth in trone,</L>
+<L>How térauntys in erthe his peple oppresse,</L>
+<L>That han non helpe but hym alone.</L>
+<L>As thei dore, they make here mone,</L>
+<L>To hym that all oure Juge schal be:</L>
+<L>For alle here freendys ben i gone,</L>
+<L>Saaf 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="94">
+<PB N="36" REF="36"/>
+<HEAD>XCIV.</HEAD>
+<EPIGRAPH>
+<Q>Ut audiret gemitus compeditorum: et solveret filios interemptorum.</Q>
+</EPIGRAPH>
+<L>God heryth his peple weyle and wepe,</L>
+<L>That lyeth in feterys boundĕ sore:</L>
+<L>In stokkys, and in prysons depe,</L>
+<L>Thei curse the tyme that thei were bore.</L>
+<L>Here faderys were släyn hem before;</L>
+<L>And they be faste, and mowe noȝt fle:</L>
+<L>Helpe ne frenschypp have thei no more,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="95">
+<HEAD>XCV.</HEAD>
+<EPIGRAPH>
+<Q>Ut annuncient in Syon nomen Domini: et laudem ejus in Iherusalem.</Q>
+</EPIGRAPH>
+<L>Thi name is knowyn of kyng and knyȝt,</L>
+<L>In the mount of Syon, that thou ches.</L>
+<L>Thou art preysid, bothe day and nyȝt,</L>
+<L>In Ierusalem the cyté of pes.</L>
+<L>Presthod of preysing schal noȝt ces:</L>
+<L>For thou hast made thi peple fre.</L>
+<L>Thy mercy hath made a ful reles,</L>
+<L>With 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="96">
+<HEAD>XCVI.</HEAD>
+<EPIGRAPH>
+<Q>In conveniendo populos in unum; et reges, ut serviant Domino.</Q>
+</EPIGRAPH>
+<L>Preestys, parfyȝt in here lyvyng,</L>
+<L>Schulde teche the peple the ryȝt way;</L>
+<L>And tellyn knyȝtes, comounnerys, and kyng,</L>
+<L>How thei schulde servĕ God, to pay;</L>
+<L><PB N="37" REF="37"/>
+And stere hem, all that evere thei may,</L>
+<L>To pes, [and] love, and charyté,</L>
+<L>And for the peple synge, and say,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="97">
+<HEAD>XCVII.</HEAD>
+<EPIGRAPH>
+<Q>Respondit ei in via virtutis sue: paucitatem dierum meorum nuncia michi.</Q>
+</EPIGRAPH>
+<L>The weye to vertew I wolde fayne lere,</L>
+<L>In bodily lyif whil I have space:</L>
+<L>For my tyme is lytel here;</L>
+<L>My dayes be waxen wonder scace;</L>
+<L>And whider I schal, or to what place,</L>
+<L>It lythe in Goddys pryvyté.</L>
+<L>But evere I hope to fynde sum grace,</L>
+<L>Wyth 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="98">
+<HEAD>XCVIII.</HEAD>
+<EPIGRAPH>
+<Q>Ne revoces me in dimidio dierum meorum: in generacione[m] et generationem, anni tui.</Q>
+</EPIGRAPH>
+<L>Calle me noȝt sodeynly ageyn,</L>
+<L>Whan half my dayĕs ben i past;</L>
+<L>Ne dampne me noȝt to endles peyn,</L>
+<L>But ȝyve me lyif that evere schal last.</L>
+<L>Thi ȝerys ben endles, and may noȝt wast;</L>
+<L>But I am goyng, and hens muste fle:</L>
+<L>Myn hope and trust fully I caste,</L>
+<L>In 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="99">
+<HEAD>XCIX.</HEAD>
+<EPIGRAPH>
+<Q>Inicio tu, Domine, terram fundasti: et opera manuum tuarum sunt celi.</Q>
+</EPIGRAPH>
+<L><PB N="38" REF="38"/>
+First thou madyst <HI REND="italic">both earth and heven,</HI></L>
+<L>Down to the lowest <HI REND="italic">element;</HI></L>
+<L>The sterrys, and the <HI REND="italic">planetys seven,</HI></L>
+<L>That mevyn abowtyn the <HI REND="italic">firmament:</HI></L>
+<L>Thanne madyst thou man, <HI REND="italic">with ăvýsĕment,</HI></L>
+<L>In erthe thi servaunt for to be.</L>
+<L>Lete hym nevere therfore be schent:</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="100">
+<HEAD>C.</HEAD>
+<EPIGRAPH>
+<Q>Ipsi peribunt; tu autem permanes: et omnes sicut vestimentum veterascent.</Q>
+</EPIGRAPH>
+<L>Whan alle the planetys, that turnyn abowte,</L>
+<L>At the day of dome schul cese and reste;</L>
+<L>Alle erthely thynges schul were owte;</L>
+<L>Castellys and towrys schul bende and breste:</L>
+<L>Thanne thou schalt laste, for thou art beste!</L>
+<L>Begynnyng thou art, and ende schalt be!</L>
+<L>Late me thanne be no straungĕ geste,</L>
+<L>To 'Ne reminiscaris Domine!'</L>
+</LG>
+<LG N="101">
+<HEAD>CI.</HEAD>
+<EPIGRAPH>
+<Q>Et sicut oportorium mutabis eos, et mutabuntur: tu autem idem ipse es, et anni tui non deficient.</Q>
+</EPIGRAPH>
+<L>Mann[ĕ]<HI REND="italic">s flesh shall bee</HI> [<HI REND="italic">d</HI>]<HI REND="italic">y</HI>stryed,</L>
+<L>As cloth<HI REND="italic">ys doth were with</HI> wedyr and wynde;</L>
+<L>And after <HI REND="italic">ryse and</HI> [<HI REND="italic">be</HI>] <HI REND="italic">glory</HI>fyed,</L>
+<L>In holy <HI REND="italic">scripture as we</HI> fynde:</L>
+<L>But <HI REND="italic">thou art unmutable</HI> be kynd!</L>
+<L>There <HI REND="italic">is no chan</HI>gyng foundyn in thé!</L>
+<L>Whan <HI REND="italic">thou dost</HI> body and soule unbynde,</L>
+<L>'Ne reminiscaris Domine!'</L>
+</LG>
+<LG N="102">
+<PB N="39" REF="39"/>
+<HEAD>CII.</HEAD>
+<EPIGRAPH>
+<Q>Filii servorum tuorum habitabunt: et semen eorum in seculum dirigetur.</Q>
+</EPIGRAPH>
+<L>Thi servauntys and thi chylderyn, in fere,</L>
+<L>Schul be delyveryd fro peynes of helle:</L>
+<L>To thé thei schul be leve and dere,</L>
+<L>Evere more in endles joye to dwelle.</L>
+<L>There is no tunge that blysse may telle,</L>
+<L>Nor hertĕ thynke, nor eyȜebreve; se;</L>
+<L>That God to synfull men will selle,</L>
+<L>For 'Ne reminiscaris, Domine!'</L>
+</LG>
+</DIV2>
+<DIV2 N="129 (130)" TYPE="psalm">
+<LG N="103">
+<HEAD>CIII.</HEAD>
+<EPIGRAPH>
+<Q>DE profundis clamavi ad te, Domine! Domine, exaudi vocem meam.</Q>
+</EPIGRAPH>
+<L>To thé, Lord! I calle and <HI REND="italic">cry,</HI></L>
+<L>Fro the depe dale of <HI REND="italic">sorow</HI> [<HI REND="italic">and woo:</HI>]</L>
+<L>Here my vöys gra<HI REND="italic">cyously,</HI></L>
+<L>And schelde me <HI REND="italic">fro</HI> [<HI REND="italic">my feerfull foo.</HI>]</L>
+<L>I preye for me and <HI REND="italic">many moe</HI></L>
+<L>That ben in peyne, and mowe [<HI REND="italic">not fflee:</HI>]</L>
+<L>To dredefull dome whan we <HI REND="italic">should goe,</HI></L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="104">
+<HEAD>CIV.</HEAD>
+<EPIGRAPH>
+<Q>Fiant aures tue intendentes, in vocem deprecacionis mee.</Q>
+</EPIGRAPH>
+<L>Bowe thin erys hyderward,</L>
+<L>And here my prayerys, whan I have nede.</L>
+<L>Of mercy thou were nevere so hard,</L>
+<L>Thi grace thou woldyst never man forbede,</L>
+<L><PB N="40" REF="40"/>
+That wolde be sory of his mysdede;</L>
+<L>Thi mercy is redyere than he.</L>
+<L>Hym thar no more but speke, and spede,</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="105">
+<HEAD>CV.</HEAD>
+<EPIGRAPH>
+<Q>Si iniquitates observaveris, Domine! Domine, quis sustinebit?</Q>
+</EPIGRAPH>
+<L>Zyf thou woldyst vengĕ thé anon,</L>
+<L>Whan we have synned, and no thyng spare;</L>
+<L>Oure lyif in erthe schulde sone be gon,</L>
+<L>Oure merthe schulde turne to sorwe and care;</L>
+<L>Thi ryȝtwysnes wolde us furfare;</L>
+<L>We durst noȝt byde, we myȝte noȝt fle.</L>
+<L>Thanne schuldĕ many on bé ful bare</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="106">
+<HEAD>CVI.</HEAD>
+<EPIGRAPH>
+<Q>Quia apud te propiciacio est: et propter legem tuam sustinui te, Domine!</Q>
+</EPIGRAPH>
+<L>A <HI REND="italic">law of mercy</HI> thou hast gyven,</L>
+<L>To hym that wyll no synnĕs hyde,</L>
+<L>But clenly to a preest be schryven,</L>
+<L>And leve rebellyoun and his pryde.</L>
+<L>Thi mercy is bothe long and wyde:</L>
+<L>Ther of alle men han gret plenté,</L>
+<L>That wyll noȝt lese, ne caste asyde,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="107">
+<HEAD>CVII.</HEAD>
+<EPIGRAPH>
+<Q>Sustinuit anima mea in verbo ejus: speravit anima mea in Domino.</Q>
+</EPIGRAPH>
+<L><PB N="41" REF="41"/>
+I am in hope of thi beheste,</L>
+<L>Thi woordys fully I beleve,—</L>
+<L>That thou wylt save bothe most and leste,</L>
+<L>That wylfully thé wyl noȝt greve.</L>
+<L>There is no man that may myscheve,</L>
+<L>Whyll thou of mercy art so fre;</L>
+<L>With sorwefull herte ȝyf he wyll meve,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="108">
+<HEAD>CVIII.</HEAD>
+<EPIGRAPH>
+<Q>A custodia matutina, usque ad noctem: speret Israel in Domino.</Q>
+</EPIGRAPH>
+<L>I trustĕ fully thou wylt me kepe</L>
+<L>Fro all myscheef, bothe day and nyȝt.</L>
+<L>Wher so evere I wake or slepe,</L>
+<L>Wyth me is evere an aungyl bryȝt:</L>
+<L>Thowȝ he apere noȝt to my syȝt,</L>
+<L>Ful tendyrly he kepyth me;</L>
+<L>He steryth myn herte, with al his myȝt,</L>
+<L>To 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="109">
+<HEAD>CIX.</HEAD>
+<EPIGRAPH>
+<Q>Quia apud Dominum misericordia: et copiosa apud eum redempcio.</Q>
+</EPIGRAPH>
+<L>Thou art mercyfull and pyteuous,</L>
+<L>Zyf we oure lyvyng will amende;</L>
+<L>Oure raumsoun is ful copyous,</L>
+<L>For thou art redy thi grace to sende.</L>
+<L>But, ȝyf we wille oure synne defende,</L>
+<L>And dyspyse thi lawe and thé;</L>
+<L>Thanne mustĕ ryȝtwysnesse suspende</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="110">
+<PB N="42" REF="42"/>
+<HEAD>CX.</HEAD>
+<EPIGRAPH>
+<Q>Et ipse redimet Israel, ex omnibus iniquitatibus ejus.</Q>
+</EPIGRAPH>
+<L>Lord! ful bytterly thou hast bouȝt</L>
+<L>Wrecchyd mannĕs forfeture.</L>
+<L>Whan he was lost, thou hast hym souȝt;</L>
+<L>Thi lyif thou potyst in aventure.</L>
+<L>There myȝte no porĕ creäture,</L>
+<L>Whan we were thrallĕ, make us fre;</L>
+<L>For on owre syde was no recure,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+</DIV2>
+<DIV2 N="142 (143)" TYPE="psalm">
+<LG N="111">
+<HEAD>CXI.</HEAD>
+<EPIGRAPH>
+<Q>DOMINE, exaudi oracionem meam; auribus per∣cipe obsecrationem meam, in veritate tua: ex∣audi [me,] in tua justicia.</Q>
+</EPIGRAPH>
+<L>To thé, Lord, my cause I take:</L>
+<L>Thi doom is truthe and ryȝtwysnesse:</L>
+<L>On myn enmýes a pleynt I make,</L>
+<L>That steryn me evere to wickydnesse.</L>
+<L>Here my prayère, and redresse</L>
+<L>The malyce that thei schewe to me.</L>
+<L>I leve my synne; I take wytnesse</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="112">
+<HEAD>CXII.</HEAD>
+<EPIGRAPH>
+<Q>Et non intres in judicium cum servo tuo, Domine! quia non justificabitur in conspectu tuo omnis vivens.</Q>
+</EPIGRAPH>
+<L>What so evere I háve ben here before,</L>
+<L>Deme me noȝt on the hardest wyse;</L>
+<L>I have do mys; I will no more,</L>
+<L>But take me fully to thi servyse.</L>
+<L><PB N="43" REF="43"/>
+Before so ryȝtfull a justyse,</L>
+<L>No lyvyng man gyltles may be:</L>
+<L>Therfore I rede, no man dyspyse</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="113">
+<HEAD>CXIII.</HEAD>
+<EPIGRAPH>
+<Q>Quia persecutus est inimicus animam meam: hu∣miliavit in terra vitam meam.</Q>
+</EPIGRAPH>
+<L>Myn enemyes ben ful harde to knowe,</L>
+<L>That so faste my soule pursewe:</L>
+<L>Thei drawe my love to the world ful lowe,</L>
+<L>That be resoun I schulde eschewe.</L>
+<L>They make me, to the ful, untrewe.</L>
+<L>Out of here handys I may noȝt fle,</L>
+<L>But ȝyf thi grace in me renewe</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="114">
+<HEAD>CXIV.</HEAD>
+<EPIGRAPH>
+<Q>Collocavit me in obscuris, sicut mortuos seculi: et anxiatus est super me spiritus meus; in me turba∣tum est cor meum.</Q>
+</EPIGRAPH>
+<L>Thei cumbre me in wyll and werk.</L>
+<L>My spirite is ful of wo wyth inne.</L>
+<L>Alle my woordys be waxĕ derk,</L>
+<L>For thei be mynged with dedly synne.</L>
+<L>Myn herte begynneth to breste atwynne,</L>
+<L>And hope of helpe I kan non se,</L>
+<L>But ȝyf I may frenschypp wynne</L>
+<L>With 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="115">
+<HEAD>CXV.</HEAD>
+<EPIGRAPH>
+<Q>Memor fui dierum antiquorum; meditatus sum in omnibus operibus tuis: in factis manuum tuarum meditabar.</Q>
+</EPIGRAPH>
+<L><PB N="44" REF="44"/>
+God hath chastysed, for here mysdede,</L>
+<L>Summe of oure faderys, as I fynde;</L>
+<L>And largely qwytt hem herĕ mede,</L>
+<L>That han to hym be good and kynde.</L>
+<L>His werkys schul nevere out of my mynde:</L>
+<L>Love and dreed they prentyn on me;</L>
+<L>That I dar nevere more leve be hynde</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="116">
+<HEAD>CXVI.</HEAD>
+<EPIGRAPH>
+<Q>Expandi manus meas ad te: anima mea, sicut terra sine aqua, tibi.</Q>
+</EPIGRAPH>
+<L>Often tymes myn handys I sprede,</L>
+<L>And my synne be ful ypocrysye;</L>
+<L>For I lyve noȝt ther after in dede;</L>
+<L>Myn herte is fals[ĕ feynt, and drye.</L>
+<L>There ben no terys in myn eye;</L>
+<L>Thowȝ I wolde wepe, it wyll noȝt be:</L>
+<L>I kan noȝt preye ryȝt hertylye,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="117">
+<HEAD>CXVII.</HEAD>
+<EPIGRAPH>
+<Q>Velociter exaudi me, Domine! defecit spiritus meus.</Q>
+</EPIGRAPH>
+<L>Here me, Lord, and wyll noȝt tarye:</L>
+<L>My spirite begynneth to feynte and fayle.</L>
+<L>Suffere nevere my soule myskarye,</L>
+<L>Whannĕ the feendys will me assayle.</L>
+<L>Evere he is redy to gyvve batayle,</L>
+<L>And I drede sore his cruelté:</L>
+<L>I have non armour, of plate nor mayle,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="118">
+<PB N="45" REF="45"/>
+<HEAD>CXVIII.</HEAD>
+<EPIGRAPH>
+<Q>Non avertas faciem tuam a me: et similis ero descendentibus in lacum.</Q>
+</EPIGRAPH>
+<L>Turne noȝt awey fro me thi face,</L>
+<L>But lete me have a syȝte of itt:</L>
+<L>For, ȝyf thou withdrawe thi grace,</L>
+<L>My soule in synne schal sone be schytt.</L>
+<L>Who so falle in that depĕ pytt,</L>
+<L>It is so derk he schal noȝt se.</L>
+<L>Thanne is non helpe in mannys wytt,</L>
+<L>But 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="119">
+<HEAD>CXIX.</HEAD>
+<EPIGRAPH>
+<Q>Auditam fac michi mane misericordiam tuam: quia in te speravi.</Q>
+</EPIGRAPH>
+<L>Of thi mercy I wolde fayn lere</L>
+<L>Be tymĕ, ȝyf it be thi lyst,</L>
+<L>In this world, whil I am here:</L>
+<L>In thé is al myn hope and tryst!</L>
+<L>Syth truthe and mercy were freendys and kyst,</L>
+<L>There was nevere man, of no degré,</L>
+<L>(But ȝyf he wolde hym self,) that myst</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="120">
+<HEAD>CXX.</HEAD>
+<EPIGRAPH>
+<Q>Notam fac michi viam in qua ambulem: quia ad te levavi animam meam.</Q>
+</EPIGRAPH>
+<L>Teche me, Lord, the ryȝt[ĕ] weye,</L>
+<L>That I may my soulĕ save;</L>
+<L>Zyf the gospell trewly seye,</L>
+<L>Me thar no more but aske and have.</L>
+<L><PB N="46" REF="46"/>
+Thou were nevere scarce, to knyȝt nor knave,</L>
+<L>That wolde lyfte up his herte to thé,</L>
+<L>And devoutly crye, and crave,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="121">
+<HEAD>CXXI.</HEAD>
+<EPIGRAPH>
+<Q>Eripe me de inimicis meis, Domine! ad te con∣fugi: doce me facere voluntatem tuam, quia Deus meus es tu.</Q>
+</EPIGRAPH>
+<L>Delyvere me, Lord, after thi myȝt,</L>
+<L>Fro myn enemyes that wole me ille:</L>
+<L>Thei púrsewe me, bothe day and nyȝt;</L>
+<L>Thei seke my soule to spoyle and spylle.</L>
+<L>Teche me to parforme thi wylle:</L>
+<L>Thou art my Lord, and evere schalt be!</L>
+<L>This is my prayère, lowde and stylle,</L>
+<L>'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="122">
+<HEAD>CXXII.</HEAD>
+<EPIGRAPH>
+<Q>Spiritus tuus bonus deducet me in terram rectam: propter nomen tuum, Domine, vivificabis me in equi∣tate tua.</Q>
+</EPIGRAPH>
+<L>To the lond of ryȝtwysnesse</L>
+<L>Thi spirit schal lede me hole and sounde,</L>
+<L>Tyl God schal deme bothe more and lesse:</L>
+<L>Thanne schal I ryse out of the grounde.</L>
+<L>There schal truthe and ryght be founde;</L>
+<L>We schul be demyd be equité.</L>
+<L>There schal no man, for peny ne pounde,</L>
+<L>Have 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="123">
+<HEAD>CXXIII.</HEAD>
+<EPIGRAPH>
+<Q>Educes de tribulacione animam meam: et in misericordia tua disperdes inimicos meos.</Q>
+</EPIGRAPH>
+<L><PB N="47" REF="47"/>
+Lord! ledĕ me fro peynĕs kene,</L>
+<L>And myn enmýes dysparple wyde;</L>
+<L>Whan thou schalt deme alle men be dene,</L>
+<L>There is no man that may hym hyde.</L>
+<L>Make me thanne with hem abyde,</L>
+<L>That schul be savyd, and go with thé;</L>
+<L>For thei ben provyd, ageyn that tyde,</L>
+<L>Of 'Ne reminiscaris, Domine!'</L>
+</LG>
+<LG N="124">
+<HEAD>CXXIV.</HEAD>
+<EPIGRAPH>
+<Q>Et perdes omnes qui tribulant animam meam: quoniam ego servus tuus sum.</Q>
+</EPIGRAPH>
+<L>Allĕ feendys, ferse and felle,</L>
+<L>That wolde my soulĕ schame and schende,</L>
+<L>Thei schul be dampnyd to the peynes of helle,</L>
+<L>Whanne thi servauntys to blysse schul wende.</L>
+<L>That joye and blyssĕ he us sende,</L>
+<L>That schadde his blood up on a tre;</L>
+<L>And alle that makyn here last ende</L>
+<L>Wyth 'Ne reminiscaris, Domine!'</L>
+</LG>
+</DIV2>
+<CLOSER>AMEN.</CLOSER>
+</DIV1>
+<DIV1 N="1" TYPE="appendix">
+<PB REF="48"/>
+<PB REF="49"/>
+<HEAD>APPENDIX I.</HEAD>
+<HEADNOTE><P>[Harl. MS. 1845, ff. 15, 16.]</P></HEADNOTE>
+<P><HI REND="italic">Legitur in Vita Sancti</HI> BERNARDI <HI REND="italic">Abbatis Clare∣vallis, quod Demon sibi semel apparuit, dicens se scire octo versus in Psalterio, quos qui cotidie diceret, tanti meriti acquireret, ac si totum Psalterium Da∣viticum decantasset. Et cum beatus Bernardus instaret ut sibi eosdem versus ostenderet, ille vero hoc facere recusaret; tunc beatus Bernardus, "Scio," in[quit,] "quid faciam:</HI> <NOTE N="*" PLACE="foot">MS. <HI REND="italic">scio inquid faciam.</HI></NOTE> <HI REND="italic">nam quotidie legam totum Psalterium, deinceps; sicque predictos versus non obmittam." Quod cum audisset Demon, ne tantum bonum faceret, pocius sibi hos versus ostendit. Sunt autem qui sequuntur.</HI> <NOTE N="†" PLACE="foot">MS. <HI REND="italic">sequitur.</HI></NOTE></P>
+<P>Illumina oculos meos, ne unquam obdormiam in morte: nequando dicat inimicus meus, 'Prevalui adversus eum.' <HI REND="italic">(Ps.</HI> xii. 4.)</P>
+<P>In manus tuas, Domine, <NOTE N="‡" PLACE="foot"><HI REND="italic">Domine</HI> does not occur here in many Psalters.</NOTE> commendo spiritum meum: redemisti me, Domine Deus veritatis! <HI REND="italic">(Ps.</HI> xxx. 6.)</P>
+<P><PB N="50" REF="50"/>
+Locutus sum in lingua mea, 'Notum michi fac, Domine, finem meum;</P>
+<P>'Et numerum dierum meorum, quis est: ut sciam quid desit michi.' <HI REND="italic">(Ps.</HI> xxxviii. 5, 6.)</P>
+<P>Fac mecum signum in bono, <NOTE N="*" PLACE="foot">The Psalters read <HI REND="italic">in bonum.</HI></NOTE> ut videant qui te oderunt, <NOTE N="†" PLACE="foot">The Psalters, <HI REND="italic">qui oderunt me.</HI></NOTE> et confundantur: quoniam tu, Domine, adjuvisti me, et consolatus es me. <HI REND="italic">(Ps.</HI> lxxxv. 16.)</P>
+<P>Dirupisti, Domine, vincula mea: tibi sacrificabo hostiam laudis, et nomen Domini invocabo. <HI REND="italic">(Ps.</HI> cxv. 7.)</P>
+<P>Periit fuga a me: et non est qui requirat animam [meam.] <NOTE N="‡" PLACE="foot">This word is added from the Psalters, to complete the sense.</NOTE> <HI REND="italic">(Ps.</HI> cxli. 6.)</P>
+<P>Clamavi ad te, Domine: dixi, 'Tu es spes mea, porcio mea in terra vivencium.' <HI REND="italic">(Ps.</HI> cxli. 7.)</P>
+<DIV2 TYPE="part">
+<HEAD>Oracio dicenda post hos versus.</HEAD>
+<P>Omnipotens sempiterne Deus! qui Ezechie Regi, inde te cum lacrimis humiliter deprecanti, vite spa∣cium protendisti! concede michi indigno famulo tuo, ante diem mortis mee, tantum vite spacium, quo, ad mensuram, ut omnia peccata mea valeam deplorare; et veniam ac graciam, secundum misericordiam tuam, consequi merear. Per Christum.</P>
+</DIV2>
+<DIV2 TYPE="part">
+<PB N="51" REF="51"/>
+<HEAD>Item alia oracio.</HEAD>
+<P>Domine Jesu C[h]riste! per illam amaritudinem mortis quam sustinuisti pro me in cruce, maxime cum anima tua egressa fuit de corpore tuo; miserere anime in gressu suo. Amen. <NOTE N="*" PLACE="foot">In the MS. is added the following short prayer, without a rubric: but, as it was added with a different pen, it seems not properly to belong to this article. "Peto, Domine Jesu, largire michi in amore tuo modum sine mensura, a ectum sine modo, languorem s[i]ne ordine, ardorem sine discrecione. Amen."</NOTE></P>
+</DIV2>
+</DIV1>
+<DIV1 N="2" TYPE="appendix">
+<HEAD>APPENDIX II.</HEAD>
+<HEADNOTE><P>[Royal MS. 17 A. XXVIII. ff. 86 b—88 b.]</P></HEADNOTE>
+<P><HI REND="italic">We redenne in the Lyf of Seynt Bernard, that the Develle seyd to him, he knew viij. versus in the Sauter, tho wheche versus and a man sey hem wche day, he schal never be dampnude. And Seynt Ber∣nard askut whiche they were; and he sayde he schulde never wyte fro hym. And he sayde he wolde ellus say tho hol Sauter uche day. And he answerud and sayd, he wold raȝwr telle him whyche they wer; and ȝese hit arne.</HI></P>
+<LG N="1">
+<PB N="52" REF="52"/>
+<HEAD>I.</HEAD>
+<EPIGRAPH>
+<Q>Illumina oculos meos ne umquam obdormiam.</Q>
+</EPIGRAPH>
+<L>Zyf liȝt unto myn eȜebreve; siȝt,</L>
+<L>That I nouȝt slepe whan I schal dye.</L>
+<L>Lat nouȝt my fo, in gostly fiȝt,</L>
+<L>Seyn, 'I have over hym the maystrie':</L>
+<L>But shilde me fro that foulĕ wiȝt,</L>
+<L>That fel out of thin hevenis hye;</L>
+<L>That he be nome me nouȝ[t] my myȝt,</L>
+<L>Whan I schal to thé 'mercý cry.</L>
+</LG>
+<LG N="2">
+<HEAD>II.</HEAD>
+<EPIGRAPH>
+<Q>In manus tuas, Domine, commendo spiritum meum.</Q>
+</EPIGRAPH>
+<L>In to thi hondus I be take my gost;</L>
+<L>Lord, sothfast God! thow hast me bouȝt.</L>
+<L>Thow quittist me fro the fendis host,</L>
+<L>There I was thral in presoun brouȝt.</L>
+<L>My soule is thin, Lord, welle thow wost:</L>
+<L>Hit is to thi liknessĕ wrouȝt.</L>
+<L>To that tresor the ryȝt is most:</L>
+<L>Saviour! for sake hit nouȝt.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<EPIGRAPH>
+<Q>Locutus sum lingua mea, notum fac michi.</Q>
+</EPIGRAPH>
+<L>I have spokyn with my tunge,—</L>
+<L>'Lord make me myn endy[n]g to knowe,</L>
+<L>Sodenly that I be nouȝt slunge</L>
+<L>In fire, that makith gostis glowe.</L>
+<L>But, Lord, that warnist olde and ȝunge!</L>
+<L>Soo warnĕ me, that am thin owe;</L>
+<L>That I be nouȝt in clottus clunge,</L>
+<L>Til al mi syne wey be throwe.'</L>
+</LG>
+<LG N="4">
+<PB N="53" REF="53"/>
+<HEAD>IV.</HEAD>
+<EPIGRAPH>
+<Q>Et numerum dierum meorum qui est, ut.</Q>
+</EPIGRAPH>
+<L>'And sene the numbre of dayis myne,</L>
+<L>That I may wyte what lakith me:</L>
+<L>Of deth sende me sum certayne syn,</L>
+<L>Er my lyf dayis dispendid be.</L>
+<L>Teche me to plesĕ thé and thyne!</L>
+<L>Lat me nouȝt lackĕ charité;</L>
+<L>So that sum vertu in me may schine,</L>
+<L>Jesus! in plesaunce of thé.'</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<EPIGRAPH>
+<Q>Dirupisti vincula mea: tibi sacrificabo.</Q>
+</EPIGRAPH>
+<L>Thow hast to brokĕ, Lord, in two,</L>
+<L>Cloos imade my hondis alle.</L>
+<L>A sacrifiȝce I schal thé do,</L>
+<L>Of preysing, and thi namĕ calle.</L>
+<L>Dĕre Lord! lat hit be so;</L>
+<L>The fendus feteris lat hem falle;</L>
+<L>That I may loos and freli go,</L>
+<L>Thé to preyse in heven halle.</L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<EPIGRAPH>
+<Q>Periit fuga a me, et non est qui.</Q>
+</EPIGRAPH>
+<L>Fro me hath fliȝte perischid and failid,</L>
+<L>And ther nis none that my soule wil seke;</L>
+<L>For they, that han me sore a saylid,</L>
+<L>Sowȝt soule and bodi eke.</L>
+<L>But alle here fraud hath nouȝt a vaylid;</L>
+<L>Jesu! thow madist hem so meke,</L>
+<L>Whan thow were to the deth traváylit,</L>
+<L>To save the soulis that were seke.</L>
+</LG>
+<LG N="7">
+<PB N="54" REF="54"/>
+<HEAD>VII.</HEAD>
+<EPIGRAPH>
+<Q>Clamavi ad te, Domine Deus, tu es spes.</Q>
+</EPIGRAPH>
+<L>I cride, and sayde, 'Thow art my trist,</L>
+<L>My part in the lond of hem that lyve:</L>
+<L>Ther thow art lyf, lykyng, and list;</L>
+<L>Ther drede of deth to deme is dryve.</L>
+<L>Ther is non hongur, ne no thrist;</L>
+<L>Al care lyth closid undir clive:</L>
+<L>But al the wele that may be wyst,</L>
+<L>Thow partist hit, Lord, man to ȝeive.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<EPIGRAPH>
+<Q>Fac mecum signum in bono, ut videant.</Q>
+</EPIGRAPH>
+<L>Do with me sum token in gode,</L>
+<L>That they mow sen, and schamid be,</L>
+<L>That have me hatyd: for thow, Lord, stode</L>
+<L>To helpyn and [to] counfort me.</L>
+<L>My gostly fon, that ben so wode,</L>
+<L>Confundĕ hem, for thi pyté;</L>
+<L>And me conforte with gostly fode,</L>
+<L>That al my lyst be layd on thé.</L>
+</LG>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

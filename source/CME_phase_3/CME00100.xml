@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-16-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>; removed <SUP>s</SUP> from MILESTONEs. Reviewed structure; changed DIV3s to DIV2s; changed several incorrect MILESTONEs in NOTEs to plain text. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00100">
+<STC T="M">100</STC>
+<BIBNO T="mec">CME00100</BIBNO>
+<VID>CME00100</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<BODY>
+<DIV1 TYPE="poems">
+<PB REF="1"/>
+<HEAD>ZU MITTELENGLISCHEN GEDICHTEN.</HEAD>
+<DIV2 TYPE="preface">
+<HEAD>X. Zu den 'Signa ante Judicium'.</HEAD>
+<P>In den Beiträgen von Paul und Braune VI 413 ff. hat G. Nölle eine sehr dankenswerte zusammenstellung und classi∣fication der bearbeitungen der 'legende von den fünfzehn zeichen vor dem jüngsten gerichte' gegeben. Vgl. auch R. Peiper, Zur gesch. der Mittellat. dichtung, im Arch. f. literaturgesch. IX 117 ff. Von gedruckten texten dürfte kaum etwas fehlen. <NOTE N="1" PLACE="foot">Die Altfriesische bearbeitung (cf. Nölle, no. 6) ist auch abgedruckt in Rieger's lesebuche 213.</NOTE> Aber eine durchsuchung der handschriften, namentlich in Eng∣land und Frankreich, wird noch manchen neuen text zu tage bringen. <NOTE N="2" PLACE="foot">Auf dem umschlage des 4. heftes des 1. bandes der <HI REND="italic">Rivista di filologia romanza</HI> findet sich unter den für die folgenden hefte jener zeitschrift versprochenen beiträgen angeführt: <HI REND="italic">W. Foerster. L'Anticristo e i XV segni, poema in dialetto franco-italiano del sec. XIII.</HI> Doch ist die veröffentlichung dieses textes bisher nicht erfolgt.</NOTE></P>
+<P>Ich teile im folgenden zwei Me. bearbeitungen mit, die Nölle unbekannt geblieben sind. Die erstere entnehme ich der bekannten hs. Ff II 38 der universitätsbibliothek zu Cam∣bridge, die andere der nicht weniger bekannten hs. Cott., Calig. A II des Brit. Mus. Die letztere steht in einem nahen ver∣hältnisse zu dem von Stengel in seiner beschreibung von Digby 86, pag. 53 ff. aus letzterer hs. herausgegebenen bruchstücke. Doch weichen beide texte vielfach durchaus von einander ab, so dass der eine vielmehr als eine umarbeitung des andern anzusehen ist. Welchem derselben die priorität gebührt, lasse ich dahingestellt sein.</P>
+</DIV2>
+<DIV2 N="1" TYPE="poem">
+<PB N="534" REF="2"/>
+<HEAD>I. Cambridge, Univ. Ff II 38.</HEAD>
+<HEAD>Here foloweþ þe .XV. tokenys before the day of dome <MILESTONE N="42v" UNIT="fol."/>, <MILESTONE N="1" UNIT="sp."/>.</HEAD>
+<LG>
+<L>The grace of the holy goste,</L>
+<L>That ys ay stedfaste,</L>
+<L>Be nou amonge us,</L>
+<L>And þ<HI REND="italic">at</HI> graunt us swete J<HI REND="italic">esus.</HI></L>
+</LG>
+<LG>
+<L>Hyt ys no wonder thogh eche londe <MILESTONE N="5"/></L>
+<L>Can not Laten undurstonde; <MILESTONE N="2" UNIT="sp."/></L>
+<L>Therfore y wyll yow telle in Englysche,</L>
+<L>As oure propur speche ys,</L>
+<L>And schewe of the tokenynge,</L>
+<L>That owre lorde, hevynkynge, <MILESTONE N="10"/></L>
+<L>Schall sende on erthe among mankyn</L>
+<L>For wrath þat he wole take for synne.</L>
+<L>For as us techys Jeremy,</L>
+<L>And the prophete Ysay,</L>
+<L>Bothe Davyd and Danyell, <MILESTONE N="15"/></L>
+<L>Moyses and Myghell,</L>
+<L>And other holy men þat have ben,</L>
+<L>The whych god lete scrypturys sene,</L>
+<L>And undurstonde and wyt also</L>
+<L>Of hys prevytses many moo, <MILESTONE N="20"/> <NOTE PLACE="foot">20. <HI REND="italic">prevytses,</HI> so lese ich in der hs.; verschrieben für <HI REND="italic">profecies?</HI> (wol eher = <HI REND="italic">prevytees</HI> nebenf. zu <HI REND="italic">privytees.</HI> R. W.)</NOTE></L>
+<L>Then he dothe tho that levyn,</L>
+<L>For þat þey schulde ensaumple ȝevyn</L>
+<L>To oþur þat trows not soche lore,</L>
+<L>That was þe skylle wherefore,</L>
+<L>And þat þey schoulden Cryste drede, <MILESTONE N="25"/></L>
+<L>Yf þey wyll have hevyn to þer mede,</L>
+<L>When they harden of þys preche, <NOTE PLACE="foot">27. <HI REND="italic">harden = herden.</HI></NOTE></L>
+<L>And of the fyrste day of wreche,</L>
+<L>That before domes day schall falle.</L>
+<L>Thys ys the furste day of all: <MILESTONE N="30"/></L>
+<L>On erthe schall falle a blody rayne</L>
+<L>All thys myddyllerthe agayne,</L>
+<L>On erthe, on stone, on grasse, on tree,</L>
+<L>A dredefull begynnyng schall þat bee.</L>
+<L>Tho chylder þat þen ben unbore <MILESTONE N="35"/></L>
+<L>Schull wepe full sore therfore,</L>
+<L>And crye in ther moders wombe.</L>
+<L>Lorde, that hath us undur honde,</L>
+<L>Let us nevyr be borne to see</L>
+<L><PB N="535" REF="3"/>
+The grete sorow þ<HI REND="italic">at</HI> þen schall bee. <MILESTONE N="40"/></L>
+<L>How schall hyt of þese wrechys fare!</L>
+<L>Wepe burd ous for oure synnes care,</L>
+<L>And of grete dome have drede,</L>
+<L>If we wyll have hevyn to our mede;</L>
+<L>And schryve us <HI REND="italic">and</HI> make us clene. <MILESTONE N="45"/></L>
+<L>Thys ys the fyrste day of XV, <MILESTONE N="43r"/>, <MILESTONE N="1" UNIT="sp."/>.</L>
+<L>Thys ys a day of grete sorowe,</L>
+<L>But more comys on the morowe;</L>
+<L>And us tellyth Davyd the kynge</L>
+<L>Of that ylke tokenynge, <MILESTONE N="50"/></L>
+<L>That all mankynde may sore drede,</L>
+<L>As then wyse clerkys rede.</L>
+<L>That other day y may yow telle,</L>
+<L>As the wyse clerkys spelle;</L>
+<L>For hyt wytnessyth Moyses, <MILESTONE N="55"/></L>
+<L>That hyt may not be lees.</L>
+<L>That day schall the sterrys all</L>
+<L>Downe fro the welkyn falle;</L>
+<L>There schall no þyng so faste flee,</L>
+<L>That to the erthe hyt schall be, <MILESTONE N="60"/></L>
+<L>And on the erthe faste renne, <NOTE PLACE="foot">60-61. Man erwartet eine negation; cf. aber Zupitza zu Guy 1301.</NOTE></L>
+<L>As hyt were fyre <HI REND="italic">and</HI> wolde brenne.</L>
+<L>So faste þey schall on þe erthe glyde,</L>
+<L>That undur þe erþe þey wolde þem hyde</L>
+<L>For the drede that ys to come <MILESTONE N="65"/></L>
+<L>Of þe dome, þ<HI REND="italic">at</HI> no man may schone.</L>
+<L>Thys ys a tokenyng þ<HI REND="italic">at</HI> byrd us teche,</L>
+<L>For to drede goddys wreche.</L>
+<L>Before what was seyde <HI REND="italic">and</HI> what was kydd</L>
+<L>For soþe no thyng may be hydde; <MILESTONE N="70"/></L>
+<L>Noght may there be forȝetyn,</L>
+<L>But eche man hys mede getyn</L>
+<L>Ryght aftur that he had wroght.</L>
+<L>Wrenches ne wyles avayles noght,</L>
+<L>But w<HI REND="italic">ith</HI> a worde the dome ys ȝevyn, <MILESTONE N="75"/></L>
+<L>Whethur he schall leve or dyen.</L>
+<L>But, lorde, yf thy wylle hyt ys,</L>
+<L>Syþen no þyng may fle þy ryȝtwysenes,</L>
+<L>But thy mercy on us ley</L>
+<L>For oght þat man may see or say. <MILESTONE N="80"/></L>
+<L>To mykyll sorow we were borne,</L>
+<L>And ellys were we all forlorne.</L>
+<L>The þrydd day comeþ so keene,</L>
+<L>Ther of drede may eche man, y weene,</L>
+<L>That ev<HI REND="italic">er</HI> had forþoght oþere wytt; <MILESTONE N="85"/></L>
+<L><PB N="536" REF="4"/>
+For hyt ys fonde in holy wrytt</L>
+<L>Of the wyse profecy, <MILESTONE N="2" UNIT="sp."/></L>
+<L>That us tellyth Isay.</L>
+<L>The sonne, he seyth, schall wex bloo,</L>
+<L>And all hys bryghtnes forgoo, <MILESTONE N="90"/></L>
+<L>And forworthe all away</L>
+<L>The lyght þat he ȝevyth on the day;</L>
+<L>For of þe sonne ne of the moone</L>
+<L>Of them schall no lyghtnes come,</L>
+<L>But all merkenes <HI REND="italic">and</HI> all mekenynge. <MILESTONE N="95"/> <NOTE PLACE="foot">95. <HI REND="italic">mekenynge</HI> wol = <HI REND="italic">mekynge</HI> 'lenire', etwa in der bedeutung 'matt∣werden, ablassen'?</NOTE></L>
+<L>Thys ys a full wondertokenynge,</L>
+<L>Sythen ev<HI REND="italic">er</HI>y thynge þ<HI REND="italic">at</HI> god haþe wroght</L>
+<L>Schall have knowyng <HI REND="italic">and</HI> forthoght</L>
+<L>Of the dede of Crystys wreche.</L>
+<L>A selcouthe thynge þys ys to preche, <MILESTONE N="100"/></L>
+<L>That man for whom ys all dyght</L>
+<L>Have knowyng and forsyght</L>
+<L>On all the schappes þat ther ben,</L>
+<L>That wolde not before hym sene,</L>
+<L>What wreche Cryste haþe done for synne, <MILESTONE N="105"/></L>
+<L>So ryfe hyt ys amonge menkynne.</L>
+<L>Of tokenynges thys ys the fourthe:</L>
+<L>Grete drede schall falle in erthe;</L>
+<L>For so seyth seynt John w<HI REND="italic">ith</HI> þe gylden mouþe,</L>
+<L>That tellyth of grete selcouthe. <MILESTONE N="110"/></L>
+<L>He seyth: 'þe moone, þ<HI REND="italic">at</HI> ys so clene <NOTE PLACE="foot">111. Zwischen <HI REND="italic">seyth</HI> und <HI REND="italic">þe</HI> steht in der hs. ein mir unverständliches zeichen, wie ein langes <HI REND="italic">s</HI> mit einem querstrich aus∣sehend, ungefähr so, wie sonst <HI REND="italic">sir</HI> abgekürzt wird.</NOTE></L>
+<L>And of gate swyfte and kene,</L>
+<L>In soche state, when he ys newe,</L>
+<L>Schall all forgo hur bryght hewe,</L>
+<L>And forber all the lyght, <MILESTONE N="115"/></L>
+<L>That sche yevyth on the nyght.</L>
+<L>Downe fro þe welkyn sche schall falle</L>
+<L>And become grene as any galle.</L>
+<L>A grete space hyt schall glyde,</L>
+<L>Toward the see hym to hyde, <MILESTONE N="120"/></L>
+<L>That hyt schall fle <HI REND="italic">and</HI> go good spede, <NOTE PLACE="foot">121. <HI REND="italic">good spede;</HI> cf. Zupitza zu Guy 1876.</NOTE></L>
+<L>So hyt schall be takyn w<HI REND="italic">ith</HI> drede'.</L>
+<L>But, lorde, mekyll ys thy ryght,</L>
+<L>And well more ys thy myght;</L>
+<L>For to drede þat grete wreche, <MILESTONE N="125"/></L>
+<L>And wele to hyt, lord, us teche.</L>
+<L>J<HI REND="italic">esu,</HI> lorde, us wysse and rede,</L>
+<L><PB N="537" REF="5"/>
+And let us nevyr for no nede <MILESTONE N="43v"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>Loose the blysse of bryghtnes,</L>
+<L>That nevyr more ys merkenes. <MILESTONE N="130"/></L>
+<L>The Vthe day ys full parellous</L>
+<L>And also full dredefullous.</L>
+<L>For on þat day schall all the tren,</L>
+<L>That on the erthe growen or ben,</L>
+<L>Upward schall the rotys all, <MILESTONE N="135"/></L>
+<L>And the toppys downe falle;</L>
+<L>That all tho þat þen levyn</L>
+<L>W<HI REND="italic">ith</HI> soche a drede þey schall be drevyn,</L>
+<L>Evyr (to) þat drede of dome to have,</L>
+<L>That undur erthe þey wolde be g<HI REND="italic">ra</HI>ve. <MILESTONE N="140"/></L>
+<L>The bestys, þ<HI REND="italic">at</HI> of speche be dombe,</L>
+<L>Upward schall ther hedys tombe,</L>
+<L>And calle to god on ther wyse,</L>
+<L>So sore þen schall þem agryse,</L>
+<L>And wolden crye, yf they couthe, <MILESTONE N="145"/></L>
+<L>Yf they myght speke w<HI REND="italic">ith</HI> mouthe,</L>
+<L>And tyll oure lorde of mercy pray.</L>
+<L>A selcouthe thynge þys ys to say.</L>
+<L>The beste, that hath no skylle,</L>
+<L>But of speche [ys] dombe and dylle, <MILESTONE N="150"/></L>
+<L>Of þ<HI REND="italic">at</HI> dome schall make mynde;</L>
+<L>And soche tokenyng ys ageyn kynde.</L>
+<L>Now comeþ þe VI[the] day so stronge,</L>
+<L>W<HI REND="italic">ith</HI> sorowe <HI REND="italic">and</HI> sykyng ay amonge. <NOTE PLACE="foot">154. <HI REND="italic">ay amonge,</HI> wie sonst <HI REND="italic">ever amonge;</HI> über letzteres cf. Zupitza zu Guy 650.</NOTE></L>
+<L>For than schall a flodd ryse <MILESTONE N="155"/></L>
+<L>So grysly on storme wyse;</L>
+<L>So hyt schall come <HI REND="italic">and</HI> ovyrflowen</L>
+<L>All þat then ben on erthe growen.</L>
+<L>The see schall wende owt of hys reste,</L>
+<L>And ovyrgo all þat then may laste, <MILESTONE N="160"/></L>
+<L>And drowne all þat then stondes,</L>
+<L>Stokkes <HI REND="italic">and</HI> stones, woddes <HI REND="italic">and</HI> londes.</L>
+<L>The fyscheys that ther in brede,</L>
+<L>That now men take in ther nede,</L>
+<L>Upward<HI REND="italic">e</HI> the londe þey schall swym, <MILESTONE N="165"/></L>
+<L>Ageyn þe erthe to bete þer fynne, <MILESTONE N="2" UNIT="sp."/></L>
+<L>And wolden flee that day of wreche.</L>
+<L>Soche a forewarnyng myȝt us teche,</L>
+<L>Yf that we couth any skylle,</L>
+<L>To take the goode <HI REND="italic">and</HI> leve the ylle. <MILESTONE N="170"/></L>
+<L>Lorde, þon wysse us also</L>
+<L><PB N="538" REF="6"/>
+That we nevyr for synne forgoo</L>
+<L>The mekyll blysse þat þ<HI REND="italic">ou</HI> haste hyȝt</L>
+<L>To all tho þat levyn in ryght.</L>
+<L>The VIIthe day ys moche to drede, <MILESTONE N="175"/></L>
+<L>As these wyse clerkys rede.</L>
+<L>Tthat day worcheth agayn kynde,</L>
+<L>In hooly wrytt as man may fynde.</L>
+<L>And þat ys not full moche wonder,</L>
+<L>For þat day cometh layte <HI REND="italic">and</HI> þonder; <MILESTONE N="180"/></L>
+<L>Downe hyt dryveth halle <HI REND="italic">and</HI> boure,</L>
+<L>Churche, palyse, castell and toure.</L>
+<L>Ther stondeþ no hows so faste on grou<HI REND="italic">n</HI>de,</L>
+<L>Thogh hyt has coste an C. pounde,</L>
+<L>But on þat day hyt schall down dryve, <MILESTONE N="185"/></L>
+<L>And w<HI REND="italic">ith</HI> þo þonder all toryve.</L>
+<L>And seynt Poule seyth sekerly,</L>
+<L>That hyt schall ȝeve soche a crye,</L>
+<L>That the bodyes þat ben dede</L>
+<L>A thousand wyntyr in many a stede, <MILESTONE N="190"/></L>
+<L>They schall crye in ther grave;</L>
+<L>Soche drede of dome þey schall have</L>
+<L>Agayne the dome þat ys to come,</L>
+<L>That no levyng man may schone.</L>
+<L>For yf any man myght flee, <MILESTONE N="195"/></L>
+<L>Ther was nev<HI REND="italic">er</HI> none þ<HI REND="italic">at</HI> hyt wolde se</L>
+<L>For all the gode hens to Rome;</L>
+<L>Wele byrd us drede that dome.</L>
+<L>In þe VIIIthe day, as we fynde,</L>
+<L>Schall ryse a grete storme of wynde. <MILESTONE N="200"/></L>
+<L>Amonge these clowdes blowe,</L>
+<L>Yf oght stonde, downe hyt schall yt þrowe.</L>
+<L>So grete stormes hyt schall make,</L>
+<L>That rynde and rote schall tocrake;</L>
+<L>And broke all that evyr was faste, <MILESTONE N="205"/></L>
+<L>That schall be a wonderblaste. <MILESTONE N="44r"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>And when þey have loste þer syght,</L>
+<L>And hyt draweth to þe nyght,</L>
+<L>Downe to helle hyt schall wende.</L>
+<L>There hyt schall have ay wonnyng, <MILESTONE N="210"/></L>
+<L>Among the fendys there to be;</L>
+<L>Ther schall nev<HI REND="italic">er</HI> man soche sorowe see.</L>
+<L>Lord, what schall us then rede?</L>
+<L>For soche tokenynge byrd us drede,</L>
+<L>That evyr <HI REND="italic">and</HI> ay arn preste to synne <MILESTONE N="215"/></L>
+<L>For weele of þys worldys wynne.</L>
+<L>The IXthe day wyth mekyll care</L>
+<L>Maketh us of blysse bare;</L>
+<L>That ys lytyll wonder, y wene.</L>
+<L><PB N="539" REF="7"/>
+Who so bydeth that to sene, <MILESTONE N="220"/></L>
+<L>He may see þen þ<HI REND="italic">at</HI> he sawe nev<HI REND="italic">er</HI> ȝere</L>
+<L>Soche sorowe as schall be there.</L>
+<L>For all the stones þ<HI REND="italic">at</HI> evyr weryn</L>
+<L>On erthe, syth god was borne,</L>
+<L>Othur syth god hath wroght, <MILESTONE N="225"/></L>
+<L>On a hepe they schall be broght,</L>
+<L>And yche oon agayne other fyght;</L>
+<L>That schall be a wondursyght.</L>
+<L>For gretly þen schall þem drede,</L>
+<L>As them dyd, when god dyedd. <MILESTONE N="230"/></L>
+<L>When ho schulde on the rode dye,</L>
+<L>The stones þ<HI REND="italic">at</HI> undur þe tempull lye,</L>
+<L>They flowen for dowt of hys dede;</L>
+<L>So schall they do for drede,</L>
+<L>And for the dome all tobraste. <MILESTONE N="235"/></L>
+<L>Ovyr þ<HI REND="italic">at</HI> tyme may no þynge laste;</L>
+<L>All schall downe þ<HI REND="italic">at</HI> ev<HI REND="italic">er</HI> was wroght,</L>
+<L>Ryght os hyt was made of noght. <NOTE PLACE="foot">238. <HI REND="italic">os = as.</HI></NOTE></L>
+<L>Now y may þe Xthe token telle:</L>
+<L>That day schall come fendys of helle, <MILESTONE N="240"/></L>
+<L>And crye schall þey Crystys ore,</L>
+<L>And sey: 'Lord, let us no more</L>
+<L>Suffur þe sorowe þ<HI REND="italic">at</HI> we have done;</L>
+<L>Let us of thys peyne gone.</L>
+<L>Now all þys worlde ys drevyn to ende, <MILESTONE N="245"/></L>
+<L>Whodurward schull we wende? <MILESTONE N="2" UNIT="sp."/></L>
+<L>No more peyne we mon drawe,</L>
+<L>Wyte us no harder lawe;</L>
+<L>For we ar wrecchyd <HI REND="italic">and</HI> woo begon</L>
+<L>Of þys wrath þat we have done; <MILESTONE N="250"/></L>
+<L>We mon not telle all owre woo.</L>
+<L>Let us, lorde, flee the froo,</L>
+<L>That we no more dryve þe sorowe;</L>
+<L>Fro oure payne thou us borowe'.</L>
+<L>What god to them schall answere, <MILESTONE N="255"/></L>
+<L>Wote non of þem, how hyt schall fare.</L>
+<L>Lord, þ<HI REND="italic">at</HI> us aftur þy schap haste wroȝt,</L>
+<L>And w<HI REND="italic">ith</HI> thy blood haste us boght,</L>
+<L>That art lorde almyghty</L>
+<L>Of us synfull þou have mercy. <MILESTONE N="260"/></L>
+<L>The XIthe day ys full sore</L>
+<L>To all that ben on bore.</L>
+<L>That day comeþ the tempest full evyn,</L>
+<L>Lyght layte fro the hevyn,</L>
+<L>And schall schake all þat hyt may fynde, <MILESTONE N="265"/></L>
+<L><PB N="540" REF="8"/>
+Lefe and tree, rode and rynde.</L>
+<L>Soche layte schall then come,</L>
+<L>That no man schall on erthe wone.</L>
+<L>Seynt Austen tellyth w<HI REND="italic">ith</HI> hys mouþe</L>
+<L>Of that grete selcouthe: <MILESTONE N="270"/></L>
+<L>'The aungell þat nevyr synnyd,</L>
+<L>There he syttyth in hys stede,</L>
+<L>That day schall for drede quake,</L>
+<L>And mekyll mone for sorowe make;</L>
+<L>And seynt Petur dombe schall bee <MILESTONE N="275"/></L>
+<L>For the sorow that he schall see.</L>
+<L>For drede þe fyrmament schall lete</L>
+<L>As hyt wolde mankynde frete,</L>
+<L>And open <HI REND="italic">and</HI> swalowe þ<HI REND="italic">at</HI> hyt fyndes'.</L>
+<L>Thes ar wondurtokenynges. <MILESTONE N="280"/></L>
+<L>That day ay at oure nede,</L>
+<L>Myghty lorde, us wysse and rede</L>
+<L>Thorow the helpe and prayere</L>
+<L>Of oure lady, thy moder dere.</L>
+<L>The XIIthe day ys not to layne. <MILESTONE N="285"/></L>
+<L>To synfull man hyt were a payne <MILESTONE N="44v"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>To beholde that day so stronge,</L>
+<L>Yf that hyt laste oght to longe.</L>
+<L>That day schall eche elamente, <NOTE PLACE="foot">289. <HI REND="italic">elamente = elemente.</HI></NOTE></L>
+<L>That ys undur the fyrmament, <MILESTONE N="290"/></L>
+<L>Fyght agenste other soo,</L>
+<L>That to the erthe they schall goo,</L>
+<L>And dwelle þere in soche a fyght</L>
+<L>All that day and all that nyght,</L>
+<L>And aftur þat forworthe away, <MILESTONE N="295"/></L>
+<L>Ryght as nevyr hadd ben day,</L>
+<L>Wynde no watur ne noght ellys.</L>
+<L>For as Yeremys us tellys,</L>
+<L>So be all thyng benommyn</L>
+<L>Wyth that drede that ys to come, <MILESTONE N="300"/></L>
+<L>That no þyng schall wonne in hys wytt,</L>
+<L>But of reste and wonnyng flytt.</L>
+<L>The XIII[the] day then schall falle</L>
+<L>All þat before hyt stonden in stalle <NOTE PLACE="foot">304. <HI REND="italic">hyt,</HI> hs. <HI REND="italic">them.</HI></NOTE></L>
+<L>Sythen the fyrste begynnynge <MILESTONE N="305"/></L>
+<L>Of the worldys endynge.</L>
+<L>For eche mowntayn <HI REND="italic">and</HI> eche a hylle</L>
+<L>Thes dales þat day schall þey fylle.</L>
+<L>Eche hylle and eche dyke</L>
+<L>Fro þat day outward schall be lyke, <MILESTONE N="310"/></L>
+<L>And become evyn and playne,</L>
+<L><PB N="541" REF="9"/>
+Wythowt any turnynge agayne.</L>
+<L>For aftur that day, for sothe ywys,</L>
+<L>No thyng of thys worldys blys</L>
+<L>Schall have no reson, <MILESTONE N="315"/></L>
+<L>That hyt schall falle <HI REND="italic">and</HI> dryve down;</L>
+<L>Of noȝt was made to noght schall go▪</L>
+<L>But mercy, lorde, and lay, hoo! <NOTE PLACE="foot">318. <HI REND="italic">lay?</HI></NOTE></L>
+<L>But of us thou have pytee.</L>
+<L>Of us wrecchys how may hyt bee, <MILESTONE N="320"/></L>
+<L>That here levyn in owre owne wylle,</L>
+<L>Oure foule fleschely luste to fulfylle?</L>
+<L>The XIIII the day comyth so stronge;</L>
+<L>For yf any man myght leve so longe,</L>
+<L>Soche tokenyng schulde he see, <MILESTONE N="325"/></L>
+<L>That sore agrysud schulde he bee,</L>
+<L>That he schulde hys wyt forgoo,</L>
+<L>As seythe Jeremys and other moo: <MILESTONE N="2" UNIT="sp."/></L>
+<L>'A fyre schall come and overgone</L>
+<L>Foule, beste, fysche and bone, <MILESTONE N="330"/></L>
+<L>And the erthe so faste renne,</L>
+<L>All that lyfe hath hyt schall brenne,</L>
+<L>And overgo all þ<HI REND="italic">at</HI> ev<HI REND="italic">er</HI> was wroght,</L>
+<L>And brynge hyt all to noght'.</L>
+<L>Thorow that ys almyghty kynge; <MILESTONE N="335"/></L>
+<L>Ryght so makyth he endynge,</L>
+<L>And forworthyth all awey, <NOTE PLACE="foot">337. hs. <HI REND="italic">for worther.</HI></NOTE></L>
+<L>For on the morne comyth the day;</L>
+<L>That day eche man takyth hys mede</L>
+<L>Ryght aftur hys own dede. <MILESTONE N="340"/></L>
+<L>The XV[the] day comyth on so stronge wyse,</L>
+<L>That all mankynde schall upryse</L>
+<L>Yn state of XXX wyntur eelde,</L>
+<L>Ther acountys for to ȝylde.</L>
+<L>Knyghtys <HI REND="italic">and</HI> kyngys, prestys <HI REND="italic">and</HI> clerkys, <MILESTONE N="345"/></L>
+<L>They schall bryng all ther werkys</L>
+<L>Before them wreton, þat all schall see</L>
+<L>All hys werkys þat done hath hee.</L>
+<L>Bothe hevyn <HI REND="italic">and</HI> erthe schall see þ<HI REND="italic">at</HI> synne</L>
+<L>That thou, man, art gylte ynne, <MILESTONE N="350"/></L>
+<L>That ys for to undurstonde,</L>
+<L>That þou haste wroght w<HI REND="italic">ith</HI> fote <HI REND="italic">and</HI> honde,</L>
+<L>And wolde not the ther of schryven;</L>
+<L>Hyt schall nevyr be foryevyn.</L>
+<L>But howndes redy there schall bee, <MILESTONE N="355"/></L>
+<L>To helle for to drawe thee.</L>
+<L>Oure lorde schall there blody stonde,</L>
+<L><PB N="542" REF="10"/>
+As he was naylyd fote and honde,</L>
+<L>And schewe hym bothe back <HI REND="italic">and</HI> syde</L>
+<L>All blody w<HI REND="italic">ith</HI> woundes wyde, <MILESTONE N="360"/></L>
+<L>And schall sey to the soules dere:</L>
+<L>'Blessyd chylder, comyth nere</L>
+<L>To the blysse that evyr ys dyght</L>
+<L>To all tho þat levyn yn ryght.</L>
+<L>When y was pore and nedy, <MILESTONE N="365"/></L>
+<L>To helpe me ye were redy,</L>
+<L>Bothe to clothe and to fede</L>
+<L>And helpe me at all my nede.</L>
+<L>Therfore hevyn ryche blys,</L>
+<L>Nevyr more schull ye mysse'. <MILESTONE N="370"/> <MILESTONE N="45r"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>To those other he schall say:</L>
+<L>'Cursed wrecchys, wendys awaye!</L>
+<L>Ye helpe me nevyr in my nede.</L>
+<L>And therfore in helle ys dyȝt yowre mede,</L>
+<L>For no pete was founden in yow, <MILESTONE N="375"/></L>
+<L>Of the pyte ye schall fayle now'.</L>
+<L>'Lorde, schall they then say;</L>
+<L>When come thou to us nyght or day,</L>
+<L>Mete or clothe us to crave?</L>
+<L>We sye the nevyr mystyr have'. <MILESTONE N="380"/> <NOTE PLACE="foot">380. <HI REND="italic">mystyr</HI> = not.</NOTE></L>
+<L>And owre lorde schall sey agayne:</L>
+<L>'False wrecchys, ye were fayne,</L>
+<L>When the pore come in my name</L>
+<L>Oght to aske, to do them schame;</L>
+<L>That ye yeve them ye yeve mee, <MILESTONE N="385"/></L>
+<L>Wrecchys, sory muste ye bee.</L>
+<L>But for ye dud them noȝt but schame,</L>
+<L>When they askyd in my name,</L>
+<L>Therfore ye schall lose the blys,</L>
+<L>And go þere as sorowe <HI REND="italic">and</HI> peyne ys, <MILESTONE N="390"/> <NOTE PLACE="foot">390. <HI REND="italic">þere as = thither where</HI> (cf. Zupitza zu Guy 1144).</NOTE></L>
+<L>And ye schall be w<HI REND="italic">ith</HI>owten ende.</L>
+<L>My dome ys yevyn, <HI REND="italic">and</HI> ye schall wende'.</L>
+<L>From soche a dome god us schylde</L>
+<L>Thorow the preyere of hys moder mylde,</L>
+<L>And graunt us soche workys to wyrche, <MILESTONE N="395"/></L>
+<L>Thorowe the werke of hooly churche,</L>
+<L>That we may to the blysse wende,</L>
+<L>That lastyth ay wythowten ende.</L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="poem">
+<PB N="543" REF="11"/>
+<HEAD>II. Cotton. Calig. A II.</HEAD>
+<LG>
+<L>Almyȝty god, þ<HI REND="italic">at</HI> all hath wroght, <MILESTONE N="89r"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>Heven <HI REND="italic">and</HI> helle <HI REND="italic">and</HI> erþe of noght,</L>
+<L>Watyr <HI REND="italic">and</HI> londe, days <HI REND="italic">and</HI> nyght,</L>
+<L>So<HI REND="italic">n</HI>ne <HI REND="italic">and</HI> mone <HI REND="italic">and</HI> sterres bryght,</L>
+<L>Grasse, corne, tre and beest, <MILESTONE N="5"/></L>
+<L>Fowlus <HI REND="italic">and</HI> fyshchus, moste <HI REND="italic">and</HI> leste,</L>
+<L>All þyng þ<HI REND="italic">at</HI> made þorow þy powste,</L>
+<L>Therfor h<HI REND="italic">yt</HI> shall at þy wyll be.</L>
+<L>Men þ<HI REND="italic">ou</HI> made to þy lykenesse,</L>
+<L>Both boon <HI REND="italic">and</HI> blood, fell <HI REND="italic">and</HI> flesh, <MILESTONE N="10"/></L>
+<L>And hym ȝaf þ<HI REND="italic">ou</HI> myȝth <HI REND="italic">and</HI> cure</L>
+<L>Ov<HI REND="italic">ur</HI> ev<HI REND="italic">er</HI>ych erdely creature;</L>
+<L>Paradys w<HI REND="italic">yth</HI> all þe blys</L>
+<L>Thow badde hym kepe to hy<HI REND="italic">m and</HI> hys,</L>
+<L>And sayde, he sholde be mayster þore, <MILESTONE N="15"/></L>
+<L>Ȝyf he wolde do aft<HI REND="italic">ur</HI> þy lore</L>
+<L>Ever more w<HI REND="italic">yth</HI>wten ende,</L>
+<L>Both he <HI REND="italic">and</HI> h<HI REND="italic">ys</HI> þ<HI REND="italic">er</HI> for to lende.</L>
+<L>But all þy byddyng he forsook,</L>
+<L>Then he þe appull of heven tooke, <MILESTONE N="20"/></L>
+<L>And ete h<HI REND="italic">yt</HI> aȝeyne þy co<HI REND="italic">m</HI>mandement</L>
+<L>Þorow þe false fendes e<HI REND="italic">n</HI>tysement.</L>
+<L>Þen was he made of blysse full bare,</L>
+<L>Bothe he <HI REND="italic">and</HI> h<HI REND="italic">ys</HI> for ev<HI REND="italic">ur</HI> more;</L>
+<L>Al styte, as he hadde mysdone, <MILESTONE N="25"/></L>
+<L>Out of þ<HI REND="italic">at</HI> stede he was put sone,</L>
+<L><HI REND="italic">And</HI> lay in sorow <HI REND="italic">and</HI> in g<HI REND="italic">re</HI>t peyne</L>
+<L>Ev<HI REND="italic">ur</HI> tyll he com to blysse agayne.</L>
+<L>Thus J<HI REND="italic">es</HI>u browȝt all manky<HI REND="italic">n</HI>ne</L>
+<L>Fro sorow, þ<HI REND="italic">at</HI> shall nev<HI REND="italic">ur</HI> bly<HI REND="italic">n</HI>ne. <MILESTONE N="30"/></L>
+<L>But blessed be he w<HI REND="italic">yth</HI>outen ende,</L>
+<L>That to us wolde be such a frende,</L>
+<L>Whe<HI REND="italic">n</HI>n he wolde þole h<HI REND="italic">ys</HI> owene sone</L>
+<L>Dye for mankynde, þ<HI REND="italic">at</HI> þ<HI REND="italic">us</HI> hadde done,</L>
+<L>And bye aȝeyn þ<HI REND="italic">at</HI> was forlorne, <MILESTONE N="35"/></L>
+<L>All þ<HI REND="italic">at</HI> of Adam kynde wos borne.</L>
+<L>Blessed mote he ev<HI REND="italic">ur</HI> more be</L>
+<L>That out of þrall made us so fre.</L>
+<L>Wele ofte y both day <HI REND="italic">and</HI> nyȝt</L>
+<L>Do þanke þ<HI REND="italic">at</HI> lord w<HI REND="italic">yth</HI> all my myȝth, <MILESTONE N="40"/></L>
+<L>That lette me be on of þo</L>
+<L>That w<HI REND="italic">yth</HI> h<HI REND="italic">ys</HI> deth was bowȝte so,</L>
+<L>And ev<HI REND="italic">ur</HI> more w<HI REND="italic">yth</HI>oute<HI REND="italic">n</HI> endynge <MILESTONE N="2" UNIT="sp."/></L>
+<L>H<HI REND="italic">ys</HI> shamfull deth to have i<HI REND="italic">n</HI> my<HI REND="italic">n</HI>nyng,</L>
+<L>As blessed kyng <HI REND="italic">and</HI> kyngus sone, <MILESTONE N="45"/></L>
+<L>That mych goodnes for me haþ done.</L>
+<L><PB N="544" REF="12"/>
+Thanketh be þ<HI REND="italic">ou</HI> ever<HI REND="italic">e</HI> more,</L>
+<L>That g<HI REND="italic">re</HI>te love þ<HI REND="italic">ou</HI> bydde me pore,</L>
+<L>And mony an oþ<HI REND="italic">ur</HI> tyme at nede,</L>
+<L>I þonke þe, lord, of þy good dede. <MILESTONE N="50"/></L>
+<L>For y wot, þ<HI REND="italic">ou</HI> art rythwyse,</L>
+<L>Thow wolte not lese þy marchandyse,</L>
+<L>But bry<HI REND="italic">n</HI>ge me, lorde, unto þ<HI REND="italic">at</HI> stede,</L>
+<L>The whych þ<HI REND="italic">ou</HI> bowȝtest me w<HI REND="italic">yth</HI> þy dede,</L>
+<L>That we sy<HI REND="italic">n</HI>nefull wer<HI REND="italic">e</HI> fallen fro <MILESTONE N="55"/></L>
+<L>Thorow Adam synne <HI REND="italic">and</HI> Eve also.</L>
+<L>Kyng of heven, blessed þ<HI REND="italic">ou</HI> be.</L>
+<L>Lorde of g<HI REND="italic">ra</HI>ce <HI REND="italic">and</HI> of pyte,</L>
+<L>Graunte us for þy g<HI REND="italic">rete</HI> myȝth,</L>
+<L>That we not sy<HI REND="italic">n</HI>ne w<HI REND="italic">yth</HI> þe yesyȝth; <MILESTONE N="60"/></L>
+<L>But of þy g<HI REND="italic">rac</HI>e we beseche þe,</L>
+<L>That fendes y<HI REND="italic">n</HI> us have no powste.</L>
+<L>Mayden Mary, full of grace,</L>
+<L>Beseche þy sone y<HI REND="italic">n</HI> ev<HI REND="italic">er</HI>y place,</L>
+<L>As he ys lord of our<HI REND="italic">e</HI> begy<HI REND="italic">n</HI>nynge, <MILESTONE N="65"/></L>
+<L>That þe fend yn us have no fowndy<HI REND="italic">n</HI>g;</L>
+<L>The sowle, þ<HI REND="italic">at</HI> he tooke us to ȝeme,</L>
+<L>That h<HI REND="italic">yt</HI> be to þe J<HI REND="italic">es</HI>u for to qweme. <NOTE PLACE="foot">68 <HI REND="italic">þe = þi.</HI></NOTE></L>
+<L>A pater no<HI REND="italic">ster</HI> say we all,</L>
+<L>In deedly sy<HI REND="italic">n</HI>ne þ<HI REND="italic">at</HI> we not falle, <MILESTONE N="70"/></L>
+<L>And an Ave Mary <HI REND="italic">and</HI> a crede;</L>
+<L>Have mercy, lord, of our<HI REND="italic">e</HI> mysdede.</L>
+<L>Graunte us shryfte at our<HI REND="italic">e</HI> ende,</L>
+<L>Or þ<HI REND="italic">at</HI> we fro hens wende.</L>
+</LG>
+<LG>
+<L>The XV tokenes telle y may, <MILESTONE N="75"/></L>
+<L>That schall falle or dom<HI REND="italic">us</HI> day,</L>
+<L>As sayth seynt Jeremye</L>
+<L>In h<HI REND="italic">ys</HI> book of profesye.</L>
+<L>The fyrste day shall reyne bloode, <MILESTONE N="1" UNIT="v. sp."/></L>
+<L>The folk shall crye, as þey wer<HI REND="italic">e</HI> wode. <MILESTONE N="80"/></L>
+<L>All þ<HI REND="italic">at</HI> on þe erþe doth stonde</L>
+<L>Schall wax blody, both heed <HI REND="italic">and</HI> honde.</L>
+<L>The chyldren unborn, i telle þe,</L>
+<L>Of þ<HI REND="italic">ys</HI> token shall aferde be,</L>
+<L>And cryen sore to our dryȝte, <MILESTONE N="85"/></L>
+<L>As þey full well speke myȝth.</L>
+<L>That oþ<HI REND="italic">ur</HI> day ys strong w<HI REND="italic">yth</HI> all.</L>
+<L>Fro heven shall þe sterres falle</L>
+<L>Also ferrefull <HI REND="italic">and</HI> allso bryght,</L>
+<L>As þe fyer of þondurlyght. <MILESTONE N="90"/></L>
+<L>Men shall say þen full sone:</L>
+<L><PB N="545" REF="13"/>
+'Thes ben þe tokenes of þe dome.</L>
+<L>They shall wepe <HI REND="italic">and</HI> crye sore,</L>
+<L>And say: 'J<HI REND="italic">es</HI>u Cryste, þyn ore!'</L>
+<L>The þrydde day was nev<HI REND="italic">ur</HI> non lyche <MILESTONE N="95"/></L>
+<L>In erþe nor yn hevenryche.</L>
+<L>The so<HI REND="italic">n</HI>ne, þ<HI REND="italic">at</HI> shyneth so bryght,</L>
+<L>So fayr <HI REND="italic">and</HI> full of lyght,</L>
+<L>Shall be as swarte as any pych.</L>
+<L>Alas! þ<HI REND="italic">at</HI> day ys full unlych, <MILESTONE N="100"/></L>
+<L>That men shall þe so<HI REND="italic">n</HI>ne se</L>
+<L>At mydday so swarte to be.</L>
+<L>The folke þ<HI REND="italic">at</HI> þen shall be a lyve</L>
+<L>Shall forfare on ev<HI REND="italic">er</HI>y clyve. <NOTE PLACE="foot">104. <HI REND="italic">on every clyve,</HI> ebenso v. 146. Ist <HI REND="italic">clyve</HI> = Ae. <HI REND="italic">clŷfa</HI> behausung (cf. Mätzner W. I 430, Stratm.<SUP>3</SUP> 120), hier etwa allgemein = ort?</NOTE></L>
+<L>Alas! þ<HI REND="italic">at</HI> we shall þ<HI REND="italic">at</HI> day abyde, <MILESTONE N="105"/></L>
+<L>To se þ<HI REND="italic">at</HI> sorow on ev<HI REND="italic">er</HI>y syde.</L>
+<L>The fowrþe day ys swyde stronge</L>
+<L>W<HI REND="italic">yth</HI> wepyng <HI REND="italic">and</HI> w<HI REND="italic">yth</HI> sorow among.</L>
+<L>The mone upon þe erþe shall stonde,</L>
+<L>Into reed bloode h<HI REND="italic">yt</HI> shall wonde, <MILESTONE N="110"/></L>
+<L>Hyt twekketh <HI REND="italic">and</HI> drawyth to þe grownde;</L>
+<L>Thus wyll h<HI REND="italic">yt</HI> be þ<HI REND="italic">at</HI> ylke stownde.</L>
+<L>To þe see he drawyth for drede,</L>
+<L>As Moyses yn h<HI REND="italic">ys</HI> profysye seyde:</L>
+<L>'The mone shall blede <HI REND="italic">and</HI> fall raþe <MILESTONE N="115"/> <MILESTONE N="2" UNIT="sp."/></L>
+<L>And wende out of h<HI REND="italic">ys</HI> ryȝt baþe; <NOTE PLACE="foot">116. <HI REND="italic">baþe</HI> für <HI REND="italic">paþe?</HI></NOTE></L>
+<L>The man shall say to h<HI REND="italic">ys</HI> wyfe:</L>
+<L>Alas! þ<HI REND="italic">at</HI> we beleste a lyve'. <NOTE PLACE="foot">118. <HI REND="italic">beleste,</HI> so, nicht <HI REND="italic">belefte,</HI> wie man vermuten könnte, hat die hs. <HI REND="italic">Beleste</HI> (praet.) hier = dem verb. simpl. 'bleiben'.</NOTE></L>
+<L>The fyfte day h<HI REND="italic">yt</HI> hyeth on bylyve.</L>
+<L>For ev<HI REND="italic">ur</HI>y beste þ<HI REND="italic">at</HI> ys a lyve <MILESTONE N="120"/></L>
+<L>Toward heven h<HI REND="italic">ys</HI> heed shall hold<HI REND="italic">e</HI></L>
+<L>And wonþ<HI REND="italic">ur</HI> þ<HI REND="italic">er</HI>of, as h<HI REND="italic">yt</HI> ys tolde;</L>
+<L>For þey wolde clepe as to o<HI REND="italic">ur</HI> dryȝte,</L>
+<L>And also speke ȝyf þey myȝth.</L>
+<L>They shall crye: 'J<HI REND="italic">es</HI>u, þyn oore! <MILESTONE N="125"/></L>
+<L>Of þ<HI REND="italic">ys</HI> sorow þ<HI REND="italic">at</HI> we se no more!'</L>
+<L>Thus seyth seynte Jeremye</L>
+<L>In h<HI REND="italic">ys</HI> boke of prophesye,</L>
+<L>That ev<HI REND="italic">er</HI>y best aferd shall be</L>
+<L>Of þe tokenes þ<HI REND="italic">at</HI> þey shall se. <MILESTONE N="130"/></L>
+<L>Well owȝte we þ<HI REND="italic">at</HI> unþ<HI REND="italic">ur</HI>stonde,</L>
+<L>That cryste<HI REND="italic">n</HI>dom have unþ<HI REND="italic">ur</HI>fonge,</L>
+<L>To p<HI REND="italic">ra</HI>ye J<HI REND="italic">es</HI>u of h<HI REND="italic">ys</HI> mercy,</L>
+<L>As he bowȝte us upon a tre,</L>
+<L><PB N="546" REF="14"/>
+That we mote come y<HI REND="italic">n</HI>to blysse, <MILESTONE N="135"/></L>
+<L>J<HI REND="italic">es</HI>u lord, when þ<HI REND="italic">at</HI> þy wyll ys.</L>
+<L>The syxte day shall down falle,</L>
+<L>The mores w<HI REND="italic">yth</HI> þe trees alle, <NOTE PLACE="foot">138. <HI REND="italic">mores,</HI> waldgebirge oder geradezu wälder.</NOTE></L>
+<L>To þe yrþe shall þe croop dryve.</L>
+<L>Care <HI REND="italic">and</HI> sorow shall be þen ryve; <MILESTONE N="140"/></L>
+<L>Þe mon for drede shall lese h<HI REND="italic">ys</HI> wyf,</L>
+<L>Þe wyf þe chyld, þe chyld h<HI REND="italic">ys</HI> lyf. <NOTE PLACE="foot">142. <HI REND="italic">lyf.</HI> Lieber als = leben, möchte ich das wort hier = lebensunterhalt Ae. <HI REND="italic">bi-, an∣leofa</HI> fassen.</NOTE></L>
+<L>All þ<HI REND="italic">at</HI> lyveth shall lese h<HI REND="italic">yt</HI> wytte, <NOTE PLACE="foot">143. <HI REND="italic">hyt</HI> als possessivum; ebenso <HI REND="italic">hyt herte</HI> (280). Weitere belege für diesen gebrauch im Me. gibt Morris, E. E. A. P.<SUP>1</SUP> XXIV ff.; zwei weitere aus <HI REND="italic">Cleaness</HI> derselbe im Spec. of E. E.<SUP>2</SUP> II glossar; einen fernern Zupitza bei Koch, Gr.<SUP>2</SUP> II § 318; cf. auch Morris, Hist. outl. § 173.</NOTE></L>
+<L>Woo ys hym þ<HI REND="italic">at</HI> day abytte. <NOTE PLACE="foot">144. 'Weh ist dem, der diesen tag erlebt'. Das relativpron. fehlt. Vgl.:
+<LG>
+<L>Efter þe tua fules þe þrid,</L>
+<L>An uncuth dai þon es it kidd,</L>
+<L>Þat þe mone, þat es sa scene,</L>
+<L>Quen it es in þe waxand sene,</L>
+<L>Sal becum rede als ani blod</L>
+<L>Thoru dred of him was don on rode.</L>
+</LG>
+(Curs. Mundi 22493 ff.); s. übrigens Anglia III 67 und Lohmann's auf∣satz, ebd. 115 ff.)</NOTE></L>
+<L>The folk þ<HI REND="italic">at</HI> be þen a lyve <MILESTONE N="145"/></L>
+<L>Shall tofare on ev<HI REND="italic">er</HI>y clyve.</L>
+<L>Alas! þe lyf, þ<HI REND="italic">at</HI> ys so towȝ,</L>
+<L>That may þen lyve yn sorow ynowȝ.</L>
+<L>For bettyr h<HI REND="italic">yt</HI> were to be unborn,</L>
+<L>Then suche sorowes ybyde forn. <MILESTONE N="150"/></L>
+<L>The VII. day shall fall adowne <MILESTONE N="90r"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>Hye castelles, walles <HI REND="italic">and</HI> towne.</L>
+<L>And adown shall fall ev<HI REND="italic">er</HI>y hyll,</L>
+<L>For þe hyllys shall þe dalys fyll.</L>
+<L>For strong drede þey shall qwake, <MILESTONE N="155"/></L>
+<L>And all þe worlde shall toshake;</L>
+<L>The erþe shall all tokleve,</L>
+<L>In þ<HI REND="italic">ys</HI> worlde shall naȝt leve.</L>
+<L>Then shall þe worlde even be.</L>
+<L>Wo ys hym þ<HI REND="italic">at</HI> hyt shall se. <MILESTONE N="160"/></L>
+<L>The VIII. day ys all of drede,</L>
+<L>As Moyses to us hath seyde.</L>
+<L>The see shall aryse <HI REND="italic">and</HI> fle</L>
+<L>More þen h<HI REND="italic">yt</HI> was wonte to be.</L>
+<L><PB N="547" REF="15"/>
+For g<HI REND="italic">re</HI>t drede h<HI REND="italic">yt</HI> ebbeth <HI REND="italic">and</HI> floweth, <MILESTONE N="165"/></L>
+<L>For stormes g<HI REND="italic">re</HI>te þ<HI REND="italic">at</HI> h<HI REND="italic">yt</HI> woneth. <NOTE PLACE="foot">166. Mit dem <HI REND="italic">þat hyt woneth</HI> weiss ich nichts rechtes anzufangen.</NOTE></L>
+<L>Thorow stryffte <HI REND="italic">and</HI> mykell wynde, <NOTE PLACE="foot">167. <HI REND="italic">stryffte</HI> möchte ich = <HI REND="italic">stryf</HI> (Afrz. <HI REND="italic">estrif)</HI> mit unorganischem <HI REND="italic">t</HI> fassen (cf. Koch, Gr. I § 166). Diese form findet sich dialektisch noch jetzt; Wright, Dict. verzeichnet <HI REND="italic">strift = death-struggle</HI> aus Norfolk.</NOTE></L>
+<L>That fro þe fyrmamente doth wende,</L>
+<L>The wawes shall so g<HI REND="italic">re</HI>te be,</L>
+<L>That to heven þey shall fle. <MILESTONE N="170"/></L>
+<L>All þ<HI REND="italic">at</HI> lyves þ<HI REND="italic">at</HI> ylke day,</L>
+<L>They wolde fle, but þey ne may.</L>
+<L>That god almyȝth shulde not he<HI REND="italic">m</HI> se,</L>
+<L>Unþ<HI REND="italic">ur</HI> þe yrþe þey wolde fayn be.</L>
+<L>Then shall þe see w<HI REND="italic">yth</HI>drawe <MILESTONE N="175"/></L>
+<L>And wende to h<HI REND="italic">ys</HI> ryght lawe.</L>
+<L>God of heven, as he well may,</L>
+<L>Moste kepe us þ<HI REND="italic">at</HI> ylke day.</L>
+<L>The IX. day wonþ<HI REND="italic">ur</HI> h<HI REND="italic">yt</HI> ys,</L>
+<L>As þe prophete sayth ywys. <MILESTONE N="180"/></L>
+<L>Ev<HI REND="italic">er</HI>y watyr shall crye þan,</L>
+<L>Speke <HI REND="italic">and</HI> have steven of man,</L>
+<L>And crye on hyȝ unto our drygh[t],</L>
+<L>Lyke as þey speke myght:</L>
+<L>'Lorde, þy mercy þ<HI REND="italic">ou</HI> fulfylle, <MILESTONE N="185"/></L>
+<L>We dede nev<HI REND="italic">ur</HI> agayn þy wylle</L>
+<L>Wyth sy<HI REND="italic">n</HI>ne ne w<HI REND="italic">yth</HI> wykked dede'. <MILESTONE N="2" UNIT="sp."/></L>
+<L>Lorde, þ<HI REND="italic">ou</HI> brynge us out of drede,</L>
+<L>Graunte us, lorde, to come to þy reste.</L>
+<L>Wher bale ys moste, bote ys heste. <MILESTONE N="190"/> <NOTE PLACE="foot">190. Dieses bekannte sprichwort findet sich auch bei Hending:
+<LG>
+<L>When þe bale is hest,</L>
+<L>Þenne is þe bote nest</L>
+</LG>
+(Lond. text 176); auch der Cambr. und Oxf. text haben es.</NOTE></L>
+<L>The tenþe day ys wellaway,</L>
+<L>As Jerom sayth <HI REND="italic">and</HI> Gregory.</L>
+<L>Knele shall þe angelles bryght</L>
+<L>Afore þe feete of god almyȝth.</L>
+<L>Sey<HI REND="italic">n</HI>t Pet<HI REND="italic">ur</HI> shall falle, y rede, <MILESTONE N="195"/></L>
+<L>He ne shall speke on worde for drede.</L>
+<L>They shall se heven goo, <NOTE PLACE="foot">197. Franz. text: <HI REND="italic">Car il verra lo ciel partir</HI> (v. 159, nach Hofmann's text).</NOTE></L>
+<L>And þe yrþe shall also,</L>
+<L>Skrykyng <HI REND="italic">and</HI> cryynge well lome</L>
+<L>For drede of þe day of dome. <MILESTONE N="200"/></L>
+<L>The fendes shall come out of helle,</L>
+<L><PB N="548" REF="16"/>
+As saynt John doth us telle,</L>
+<L>And crye <HI REND="italic">and</HI> ȝelle: 'Lord, þyn<HI REND="italic">e</HI> oore</L>
+<L>Of our payne <HI REND="italic">and</HI> our sorow<HI REND="italic">us</HI> sore!</L>
+<L>Thys ys a day of stronge sorow, <MILESTONE N="205"/></L>
+<L>And ȝet a streng<HI REND="italic">ur</HI> cometh a morow.</L>
+<L>The XI. day cometh þond<HI REND="italic">ur and</HI> lyȝth,</L>
+<L>And stormes strong w<HI REND="italic">yth</HI> g<HI REND="italic">re</HI>t fryȝth.</L>
+<L>The stones shall togedyr fle,</L>
+<L>That ev<HI REND="italic">ur</HI> were or<HI REND="italic">e</HI> ev<HI REND="italic">ur</HI> shall be. <MILESTONE N="210"/></L>
+<L>Then shall all þe worlde todryve.</L>
+<L>Woo ys hy<HI REND="italic">m</HI> þ<HI REND="italic">at</HI> ys on lyve.</L>
+<L>The reynbowe shall unwryden be, <NOTE PLACE="foot">213. <HI REND="italic">unwryden</HI> von Ae. <HI REND="italic">onwrîðan.</HI></NOTE></L>
+<L>And a grysly syȝth þ<HI REND="italic">er</HI> on to se.</L>
+<L>The fendys for fere shall falle ȝerne, <MILESTONE N="215"/></L>
+<L>For drede to helle shull þey t<HI REND="italic">ur</HI>ne.</L>
+<L>Ther be payn<HI REND="italic">us,</HI> hote <HI REND="italic">and</HI> colde,</L>
+<L>Gryndyng of teþe i<HI REND="italic">n</HI> mony folde. <NOTE PLACE="foot">218. <HI REND="italic">in mony folde,</HI> vgl. no. XI: Zu W. v. Schorham.</NOTE></L>
+<L>God hymself seyth: 'Þ<HI REND="italic">us</HI> þey shall be,</L>
+<L>They shull nev<HI REND="italic">ur</HI> forth fle; <MILESTONE N="220"/></L>
+<L>Ther þey shall lyve <HI REND="italic">and</HI> were,</L>
+<L>And have all þyng þ<HI REND="italic">at</HI> he<HI REND="italic">m</HI> shall dere'.</L>
+<L>God, g<HI REND="italic">ra</HI>unte us so bytyde, <MILESTONE N="90v"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>That we may be on þe bett<HI REND="italic">ur</HI> syde.</L>
+<L>And, Marye, help þ<HI REND="italic">at</HI> h<HI REND="italic">yt</HI> so be <MILESTONE N="225"/></L>
+<L>For þy pure virgynyte.</L>
+<L>The XII. day ys dolefull de<HI REND="italic">n</HI>ne; <NOTE PLACE="foot">227. <HI REND="italic">denne</HI> = Ae. <HI REND="italic">dyne</HI> lärm, und dann v. 228 <HI REND="italic">menne</HI> zu lesen. Doch ist es fraglich, ob <HI REND="italic">denne</HI> so oder vielmehr = <HI REND="italic">þenne</HI> zu fassen ist, da der D-text liest: <HI REND="italic">Þat tuelfþe day is dredful þan; For nis non in erþe gost of man</HI> (vgl. v. 137-138).</NOTE></L>
+<L>For þer nas nev<HI REND="italic">ur</HI> shappe of ma<HI REND="italic">n</HI>ne,</L>
+<L>But he wolde þe<HI REND="italic">n</HI>ne to god ryght,</L>
+<L>Ȝyf he durste <HI REND="italic">and</HI> moste or myght. <MILESTONE N="230"/></L>
+<L>The angelles þ<HI REND="italic">at</HI> hym serven all</L>
+<L>Shall for us a kne downe falle</L>
+<L>To goddes foote for our sy<HI REND="italic">n</HI>ne,</L>
+<L>For our love <HI REND="italic">and</HI> all manky<HI REND="italic">n</HI>ne.</L>
+<L>Then shall heven togyd<HI REND="italic">ur</HI> gone; <MILESTONE N="235"/></L>
+<L>Longe to abyde help ys þ<HI REND="italic">er</HI> non<HI REND="italic">e.</HI></L>
+<L>Dolfullych comeþ þen þe XIII. day.</L>
+<L>Ȝyf all lyvede þ<HI REND="italic">at</HI> lyven may</L>
+<L>Fro þe bygy<HI REND="italic">n</HI>nyng of dome to come</L>
+<L>Into þe day endynge of dome, <MILESTONE N="240"/></L>
+<L>Me myght nev<HI REND="italic">ur</HI> yn book rede</L>
+<L>All þe sorow <HI REND="italic">and</HI> all þe drede,</L>
+<L><PB N="549" REF="17"/>
+That god hy<HI REND="italic">m</HI>selfe shall se þen,</L>
+<L>When he cometh yn shappe of ma<HI REND="italic">n</HI>n.</L>
+<L>For all þe stones g<HI REND="italic">re</HI>te <HI REND="italic">and</HI> small, <MILESTONE N="245"/></L>
+<L>That ben on erþe w<HI REND="italic">yth</HI>oute<HI REND="italic">n</HI>n tale,</L>
+<L>All þey shull toged<HI REND="italic">ur</HI> þrynge</L>
+<L>For drede of our hevenkyng.</L>
+<L>They shall aryse <HI REND="italic">and</HI> fyght also,</L>
+<L>That þe rede fyr shall fro hem go. <MILESTONE N="250"/></L>
+<L>They shall bre<HI REND="italic">n</HI>ne also bryght,</L>
+<L>As ys fyr of þond<HI REND="italic">ur</HI>lyght.</L>
+<L>The fowrtende ys þ<HI REND="italic">ys</HI> g<HI REND="italic">re</HI>te sorow</L>
+<L>Of stronge fyr, þ<HI REND="italic">at</HI> cometh on morow.</L>
+<L>Ther ys no þyng i<HI REND="italic">n</HI> þ<HI REND="italic">ys</HI> worlde þen, <MILESTONE N="255"/></L>
+<L>That þe fyr ne shall h<HI REND="italic">yt</HI> bre<HI REND="italic">n</HI>ne,</L>
+<L>Fowle ne beste þ<HI REND="italic">at</HI> shall nou leve,</L>
+<L>Þ<HI REND="italic">at</HI> h<HI REND="italic">yt</HI> ne shall bre<HI REND="italic">n</HI>ne fro morow to eve.</L>
+<L>Ȝyf any man lyve <HI REND="italic">and</HI> se þys, <MILESTONE N="2" UNIT="sp."/></L>
+<L>He may be hevy <HI REND="italic">and</HI> sory ywys. <MILESTONE N="260"/></L>
+<L>Thys ne passeth not swyde sone,</L>
+<L>For on morow cometh þe day of dome.</L>
+<L>The XV. day hyeth bylyve.</L>
+<L>For þer ys no mon on lyfe</L>
+<L>Fro Ada<HI REND="italic">m</HI>m<HI REND="italic">us</HI> day, þe fyrst mon, <MILESTONE N="265"/></L>
+<L>To þe dome he shall come þa<HI REND="italic">n</HI>n; <NOTE PLACE="foot">266. <HI REND="italic">to</HI> doppelt in der hs.</NOTE></L>
+<L>And fro þe deth he shall aryse,</L>
+<L>And of þe dome full sore agryse.</L>
+<L>Ev<HI REND="italic">er</HI>y man yn XXX ti wy<HI REND="italic">n</HI>t<HI REND="italic">ur</HI> of olde</L>
+<L>Shall come þe dome to beholde; <MILESTONE N="270"/> <NOTE PLACE="foot">270. hs. <HI REND="italic">he holde.</HI></NOTE></L>
+<L>And ev<HI REND="italic">er</HI>y mon shall oþ<HI REND="italic">ur</HI> mete</L>
+<L>At þe-mownte of Olyvete.</L>
+<L>Two angelles shall blawe w<HI REND="italic">yth</HI> hornes,</L>
+<L>For drede all shall come at ones;</L>
+<L>Well sore þey may agryse, <MILESTONE N="275"/></L>
+<L>That fro þe deth þen shall ryse.</L>
+<L>Two angelles shall come J<HI REND="italic">es</HI>u beforn</L>
+<L>W<HI REND="italic">yth</HI> schorge <HI REND="italic">and</HI> spere <HI REND="italic">and</HI> crowne of þorn,</L>
+<L>W<HI REND="italic">yth</HI> drery chere <HI REND="italic">and</HI> sorowfull mode,</L>
+<L>And so h<HI REND="italic">yt</HI> herte <HI REND="italic">and</HI> h<HI REND="italic">ys</HI> blode, <MILESTONE N="280"/></L>
+<L>The spere as blody <HI REND="italic">and</HI> as sharpe, <NOTE PLACE="foot">281. <HI REND="italic">sharpe,</HI> hs. <HI REND="italic">shappe,</HI> wol verschrieben für <HI REND="italic">sharpe.</HI></NOTE></L>
+<L>As he was stonge<HI REND="italic">n</HI>n w<HI REND="italic">yth</HI> to þe herte.</L>
+<L>For no<HI REND="italic">n</HI>n e<HI REND="italic">n</HI>vye ne for no pryde</L>
+<L>Longeus stonge hy<HI REND="italic">m</HI> þorow þe syde.</L>
+<L>But he nam þe blode so rede, <MILESTONE N="285"/></L>
+<L>As þe prophesye hym bede,</L>
+<L>He strokke h<HI REND="italic">yt</HI> to h<HI REND="italic">ys</HI> yesyȝth,</L>
+<L><PB N="550" REF="18"/>
+H<HI REND="italic">yt</HI> wax as clere as candelllyght.</L>
+<L>He sayde: 'Lorde full of pyte,</L>
+<L>Thys mysdede þ<HI REND="italic">ou</HI> forȝeve me. <MILESTONE N="290"/></L>
+<L>I ne dede h<HI REND="italic">yt</HI> for no wykkedhede,</L>
+<L>But as þese cursed<HI REND="italic">e</HI> jewes me bede'.</L>
+<L>Two angelles shall bry<HI REND="italic">n</HI>ge þe rode bryȝt,</L>
+<L>þe blody nayl<HI REND="italic">us,</HI> so p<HI REND="italic">re</HI>syous of syght,</L>
+<L>And say: 'Lorde, we beseche þe, <MILESTONE N="295"/></L>
+<L>Of all us to have pyte'.</L>
+<L>Then our lorde w<HI REND="italic">yth</HI> sterne mode,</L>
+<L>H<HI REND="italic">ys</HI> arm<HI REND="italic">us</HI> spredde full of bloode,</L>
+<L>Shall say: 'Man, þ<HI REND="italic">ou</HI> may her se,</L>
+<L>What y have suffred for þe. <MILESTONE N="300"/></L>
+<L>Sko<HI REND="italic">ur</HI>ged y was w<HI REND="italic">yth</HI> sko<HI REND="italic">ur</HI>ges starke, <MILESTONE N="91v"/>, <MILESTONE N="1" UNIT="sp."/></L>
+<L>And sto<HI REND="italic">n</HI>gen y was w<HI REND="italic">yth</HI> a spere to þe hert,</L>
+<L>Crowned y was w<HI REND="italic">yth</HI> a crowne of tre,</L>
+<L>Thys passyon, mon, y suffred for þe.</L>
+<L>Thow were full leef for to swere <MILESTONE N="305"/></L>
+<L>Be my<HI REND="italic">n</HI> yen <HI REND="italic">and</HI> be myn here, <NOTE PLACE="foot">306. <HI REND="italic">yen</HI> d. h. <HI REND="italic">ien,</HI> augen; cf. v. 323.</NOTE></L>
+<L>Be my feet <HI REND="italic">and</HI> be my honde,</L>
+<L>Be my nayles, þ<HI REND="italic">at</HI> were so longe,</L>
+<L>My mowth, þ<HI REND="italic">at</HI> y shulde w<HI REND="italic">yth</HI> speke,</L>
+<L>That woldest þ<HI REND="italic">ou</HI> not forȝete, <MILESTONE N="310"/></L>
+<L>Be my teth <HI REND="italic">and</HI> be my tonge,</L>
+<L>Be my fyngeres, þ<HI REND="italic">at</HI> wer<HI REND="italic">e</HI> so longe.</L>
+<L>Man, h<HI REND="italic">yt</HI> was þe full ryve</L>
+<L>To swere be my wonþ<HI REND="italic">us</HI> fyve,</L>
+<L>Be my brayn <HI REND="italic">and</HI> be myn hedde, <MILESTONE N="315"/></L>
+<L>My sowle was ofte me byrevedde.</L>
+<L>Thow woldest me nev<HI REND="italic">ur</HI> cloþe ne fede, <NOTE PLACE="foot">317. Statt <HI REND="italic">cloþe</HI> lese ich in der hs. <HI REND="italic">choþe,</HI> was keinen sinn gibt. Das erstere ist das richtige; <HI REND="italic">cloþe</HI> und <HI REND="italic">fede</HI> werden äusserst häufig mit einander verbunden.</NOTE></L>
+<L>Thow noldest me halp at no nede;</L>
+<L>Ofte þ<HI REND="italic">ou</HI> woldest forswere þe.</L>
+<L>Man, what suffredest þ<HI REND="italic">ou</HI> for me?' <MILESTONE N="320"/></L>
+<L>Þen cometh o<HI REND="italic">ur</HI> lady her sone before,</L>
+<L>Blessed be þe tyme þ<HI REND="italic">at</HI> she was bore.</L>
+<L>Her yen shall re<HI REND="italic">n</HI>ne of rede blode,</L>
+<L>Well sore wepyng w<HI REND="italic">yth</HI> drery moode,</L>
+<L>Sayng: 'Fad<HI REND="italic">ur and</HI> sone <HI REND="italic">and</HI> holy goste, <MILESTONE N="325"/></L>
+<L>Kyng <HI REND="italic">and</HI> lorde, as þ<HI REND="italic">ou</HI> well woste,</L>
+<L>My bone to day þ<HI REND="italic">ou</HI> g<HI REND="italic">ra</HI>unte me,</L>
+<L>My swete sone, y p<HI REND="italic">ra</HI>y þe.</L>
+<L>Thy handywerke, þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> haste wrowȝth,</L>
+<L>My dere sone, þ<HI REND="italic">ou</HI> lese h<HI REND="italic">yt</HI> nowȝth. <MILESTONE N="330"/></L>
+<L><PB N="551" REF="19"/>
+Thow bowȝtest he<HI REND="italic">m</HI> der<HI REND="italic">e</HI> upon þe rode</L>
+<L>W<HI REND="italic">yth</HI> þy flesh <HI REND="italic">and</HI> w<HI REND="italic">yth</HI> þy blode.</L>
+<L>Therfor, swete sone, y p<HI REND="italic">ra</HI>y þe,</L>
+<L>Of all mankynde þ<HI REND="italic">ou</HI> have pyte.</L>
+<L>Graunte hem þy swete blysse, <MILESTONE N="335"/></L>
+<L>None of hem þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> ne mysse'.</L>
+<L>'Modyr, þy wyll fulfylled shall be,</L>
+<L>Thy bone to day y g<HI REND="italic">ra</HI>unte h<HI REND="italic">yt</HI> þe.</L>
+<L>Myn hondywerk, þ<HI REND="italic">at</HI> y have wroȝth,</L>
+<L>Of þe gode y wyll lese nowȝth. <MILESTONE N="340"/></L>
+<L>But þo þ<HI REND="italic">at</HI> wolde not hono<HI REND="italic">ur</HI> me,</L>
+<L>My blysse shall þey never se.</L>
+<L>But ynto payne shall þey wende, <MILESTONE N="2" UNIT="sp."/></L>
+<L>And ynto sorow w<HI REND="italic">yth</HI>owten ende.</L>
+<L>And my chyldre<HI REND="italic">n,</HI> þ<HI REND="italic">at</HI> han served me, <MILESTONE N="345"/></L>
+<L>Blessed mote ȝe all be.</L>
+<L>Ȝe shall come w<HI REND="italic">yth</HI> me ynto heven</L>
+<L>W<HI REND="italic">yth</HI> angelles song <HI REND="italic">and</HI> mery steven.'</L>
+<L>He clepeth hem hym tofore,</L>
+<L>And wele ys hem þ<HI REND="italic">at</HI> þey wer<HI REND="italic">e</HI> bore. <MILESTONE N="350"/></L>
+<L>He speketh to hem full myldelych:</L>
+<L>'Comeþ i<HI REND="italic">n</HI>to my blysse so ryche'.</L>
+<L>Now, lorde, ev<HI REND="italic">ur</HI> blessed mote þou be,</L>
+<L>And g<HI REND="italic">ra</HI>unte us, þ<HI REND="italic">at</HI> b[l]ysse we mowe se.</L>
+<L>Whe<HI REND="italic">n</HI> we have done her<HI REND="italic">e</HI> our ende, <MILESTONE N="355"/></L>
+<L>To þy ryche blysse þ<HI REND="italic">at</HI> we mowe we<HI REND="italic">n</HI>de.</L>
+<L>Amen for charite!</L>
+</LG>
+<CLOSER><DATELINE>GREIFSWALD.</DATELINE>
+<SIGNED>HERMANN VARNHAGEN.</SIGNED></CLOSER>
+</DIV2>
+<DIV2 TYPE="addendum">
+<HEAD>Nachtrag zu s. 533.</HEAD>
+<P>Eine weitere Afranz. version in einer hs. in Florenz weist P. Meyer, Bull. de la soc. des anc. textes franc. 1879, s. 74 nach.</P>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

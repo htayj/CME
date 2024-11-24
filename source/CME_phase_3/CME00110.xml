@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-12-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; removed some DIV2s; changed P to HEAD; added some DIV2 and HEADs to Latin version; added section DIV3; added commentary DIV1; removed incorrect MILESTONE from P. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00110">
+<STC T="M">110</STC>
+<BIBNO T="mec">CME00110</BIBNO>
+<VID>CME00110</VID>
+</IDG>
+<TEXT LANG="enm eng lat">
+<BODY>
+<DIV1 TYPE="preface">
+<PB N="224" REF="1"/>
+<HEAD>THE STORIE OF ASNETH.</HEAD>
+<HEAD>AN UNKNOWN MIDDLE ENGLISH TRANSLATION OF A LOST LATIN VERSION.</HEAD>
+<P>The Storie of Asneth is one of the many Jewish embroider∣ies upon the concise narrative of Holy Writ. It treats of the life and vision of Asenath, daughter of Potiphar, priest of Heli∣opolis, who was a maiden pure and proud, despising all men, till she fell under the magic spell of the personality of the great Joseph, "God's strong man." Asenath loved him, the story tells us, at first sight, and grieved so much at his refusal to kiss an idol worshipper that she discarded the gods of Egypt, fasted seven days in sack-cloth and ashes, and at last in a vision was told by an angelic visitor that her sore penance was ac∣cepted, and Joseph granted to be her lord. In proof of the truth of the message was performed upon her hand the pretty miracle of the bees of paradise. Her marriage to Joseph fol∣lowed; and when Pharaoh's son sought to carry her off with the aid of Gad and Dan, Joseph's more truly born brothers, Ben∣jamin, Simeon, and Levi, saved her from danger.</P>
+<P>The narrative is an attractive one, as mediaeval legends go, and we can commend that fair and well-born lady's taste who desired her chaplain, or some person of the kind, to translate the Latin of the Story into English. Though he was "dull with dotage," "lame and unlusty," he "meeked him to his mis∣tress," and taking the story, not from its Greek original, but as he found it in a Latin version from which Vincent of Beau∣vais had abridged it long before for his <HI REND="italic">Speculum Historiale,</HI> (VI, cxviii-cxxiv), he produced a curious hybrid of poetry, having the sing-a-song-of-sixpence lilt of <HI REND="italic">Gamelyn,</HI> and the stanzaic form of Chaucer's <HI REND="italic">Troilus.</HI></P>
+<P>This worthy cleric lived, I suppose, not far from Warwick∣shire, and not long after the death of Chaucer. He was fam∣iliar
+<PB N="225" REF="2"/>
+with the vocabulary of an earlier age than his own, and had not listened in vain to the passing minstrel. He seems, as we read him between the lines of the <HI REND="italic">Prologue</HI> and <HI REND="italic">Epilogue,</HI> to have sincerely loved his mistress, and to have regretted her loss with real affection.</P>
+<P>The uneven jog of his lines, and the abundance of cum∣brous rhyme-tags, rhyme-tags, hinder our enjoyment of his poem. If we forgive him these faults, we must admit that he gave his lady a not unworthy rendering of his original. What that original was, I give a hint, by printing at the foot of the page the story as it occurs in Vincent of Beauvais. The prayer of Asenath was omitted in that abridgment, along with certain minor de∣tails, such as Potiphar's reasonable desire to have his daughter married from his own door; but the phraseology of the <HI REND="italic">Spec∣ulum</HI> is elsewhere reproduced by the English writer with such exact fidelity, that, except for the suppressions above noted, we must consider the Vincentian narrative an accurate copy of the earlier Latin text. Of this <HI REND="italic">Historia Assenech,</HI> as Vincent calls his authority, I know no copy in existence; and leave the ques∣tion to those more familiar than myself with the history of Hebrew literature.</P>
+<P>The <HI REND="italic">Storie of Asneth</HI> exists, so far as I know, only in the volume known as the Ellesmere MS. No. 4, folios 121a—132a. The MS. contains Lydgate's <HI REND="italic">Wikked Tong, Ram's Horn, So as the Crabbe,</HI> and <HI REND="italic">Daunce of Machabree,</HI> and Hoccleve's <HI REND="italic">De Regimine Principum,</HI> all very good texts of the first half of the fifteenth century. In a different hand, though of not much later date, occurs our poem. The writing is penned with mon∣astic care, the letters small and clear, and the abbreviations scrupulously marked. The "þ" is made like "y", and the "n" like "u", while "G" is very like "S". The divisions of the tale are marked by letters illuminated in a ribbon design, not ill drawn. The vellum is marked with a plummet for writing, 43 lines to the page, enclosed by vertical and horizontal lines the full way of the page. The quires of the small quarto are un∣marked for the binder, or if marked originally, have been
+<PB N="226" REF="3"/>
+clipped. The catalogue of Lord Ellesmere's collection at Bridgewater House, soon to be published, will contain a more complete description of the MS. than here needs to be given. I am indebted to the librarian at Bridgwater House, Mr. Strachan Holme, for his kindness in arranging, after permis∣sion had been obtained from the Earl of Ellesmere, for the photographing of the MS.</P>
+<P>My text is copied from these photographs, such alterations as I make being chiefly insertions necessary to the sense of the line, and clearly indicated. The exact MS. reading is given in such cases in footnotes. I have in half-a-dozen instances sup∣plied translations of rare words. The numerous archaic words in the poet's dialect make one suspect in him an intentional affectation of an obsolete style.</P>
+<P>For a bibliography of the four-text edition of the Greek orig∣inal, and the Syriac, Ethiopic, Slavic, and Armenian transla∣tions, one may consult the excellent article by the Rabbi of Temple Beth-El, Dr. Kohler Kaufman, in the Jewish Ency∣clopedia, under <HI REND="italic">Asenath.</HI> Dr. Kaufman points out the pro∣nouncedly Christian character of the cross upon the honey, and the reference to bread of life. He gives an admirable summary of the story, too long to quote here. Most important for this paper, however, are his translations from the original of Asenath's prayer, which show that the English translator fol∣lowed his lost Latin original at that point with the same fidel∣ity observable in the passages covered by Vincent's version.</P>
+<P>The heroine's name is in the original Greek "<GAP DESC="foreign" DISP="〈 in non-Latin alphabet 〉"/>", from a Hebrew Asenath. Thus the English version has a nearer resemblance to the original than Vincent's Assenech.</P>
+</DIV1>
+<DIV1 TYPE="poem">
+<HEAD>THE STORY OF ASNETH.</HEAD>
+<DIV2 TYPE="prologue">
+<HEAD>PROLOGUE.</HEAD>
+<LG>
+<L>As I on hilly halkes logged me late,</L>
+<L>Beside ny of a ladi sone was I war;</L>
+<L>La bele me desired in englysh to translate</L>
+<L><PB N="227" REF="4"/>
+The latyn of that lady, Asneth putifar.</L>
+<L>And I answered, "ma bele, langage I lakke, <MILESTONE N="5"/></L>
+<L>To parfourme youre plesir, for yt ys ful straunge</L>
+<L>That broken tuskes shold wel harde nuttis crakke,</L>
+<L>And kerue out the kernelis, to glade w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yowre g<HI REND="italic">ra</HI>unge;</L>
+<L>For lame and vnlusty, now age hath me left,</L>
+<L>Mi spiritis are spended, I lakke sapience, <MILESTONE N="10"/></L>
+</LG>
+<LG>
+<L>Dulled I am with dotage, my reson ys me reft,</L>
+<L>Prived and departed from al eloquence,</L>
+<L>So my seson ys passed with language to iape.</L>
+<L>Hit ys not fetis for to see a cowe in a cage</L>
+<L>Ye <NOTE N="1" PLACE="foot">MS. The.</NOTE> desire to make a fool of my lordis ape. <MILESTONE N="15"/></L>
+</LG>
+<LG>
+<L>He plesed neuer lady wel þat lakked corage,</L>
+<L>For as þe oule ys vn able to blase þe su<HI REND="italic">n</HI>ne bemys,</L>
+<L>So ys þe moselyng molle to iaile þe rede rose,</L>
+<L>And as able ys þe asse to danielis dremys,</L>
+</LG>
+<LG>
+<L>As þe cukkou w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> crochetis ony counto<HI REND="italic">ur</HI> to close." <MILESTONE N="20"/></L>
+<L>And when daunger deynusly here desire refused,</L>
+<L>Labele ful benignely sayde to me þan,</L>
+<L>"That seruant ys not to blame, but fully excused,</L>
+<L>That meketh hym to his maystresse, &amp; doth as he can."</L>
+<L>Concluded þus with gentilnesse, I toke on me þe cure, <MILESTONE N="25"/></L>
+</LG>
+<LG>
+<L>Asneth storie to t<HI REND="italic">ra</HI>nslate after my cunyng,</L>
+<L>Fro latyn into englysh as god me sendeth oeure.</L>
+<L>Gyde þis werke, gracious lord, and graunte it good endyng,</L>
+<L>Utterali the latyn in englysh to transpose,</L>
+<L>Hit is nuyus, but þe sentence I schal sue i<HI REND="italic">n</HI> t<HI REND="italic">ra</HI>ce, <MILESTONE N="30"/></L>
+</LG>
+<LG>
+<L>And yf ye fynde fautes, grave hem w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> yowr glose,</L>
+<L>I p<HI REND="italic">ra</HI>y ȝow thus, my maystresse, of yowre good g<HI REND="italic">ra</HI>ce.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="story">
+<HEAD>THE STORY.</HEAD>
+<LG>
+<L>Pharao the famus kyng of egipt land aboute,</L>
+<L>The firste yeer of seven yeeris of plentevus abu<HI REND="italic">n</HI>dance,</L>
+<L>The fifthe day, in þe secu<HI REND="italic">n</HI>de monthe, he sende Ioseph oute <MILESTONE N="35"/></L>
+<L><PB N="228" REF="5"/>
+To p<HI REND="italic">ur</HI>veie wete for þe peple of his obeisance;</L>
+<L>And in the ferthe monthe, þe eyhtethe day, to make p<HI REND="italic">ur</HI>∣veance</L>
+<L>Ioseph cam into þe cuntre of helinpoleos,</L>
+<L>And gadered whete of that region, nobeli sprang his loos.</L>
+</LG>
+<LG>
+<L>And in þat cite þere was a p<HI REND="italic">ri</HI>nce of Pharao the kynges, <MILESTONE N="40"/></L>
+<L>That was wondir noble and riche, and of gret prudence,</L>
+<L>Sad of conseyl, meke, and wise, in alle maner thyngys;</L>
+<L>Chief cunseilour to Pharao for his intelligence.</L>
+<L>Above alle p<HI REND="italic">ri</HI>nces he was p<HI REND="italic">re</HI>ferred for his excellence;</L>
+<L>Of Helinpoleos preest, Putifar, so men did hym calle, <MILESTONE N="45"/></L>
+<L>Honoured in alle egipt of gret and of smalle.</L>
+</LG>
+<LG>
+<L>This prince hadde a dowter dere, Asneth was her name,</L>
+<L>A virgine ful specious and semely of stature,</L>
+<L>Of eyhtene yeer age sche was, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>oute ony blame,</L>
+<L>Florishyng in here beaute, the most comely creature <MILESTONE N="50"/></L>
+<L>Of egipt, and alle virgines sche passed in feture.</L>
+<L>Not lyke the dowhtres of egipt in here resemblance,</L>
+<L>But assemblyng the hebrees in colo<HI REND="italic">ur</HI> and countenance.</L>
+</LG>
+<LG>
+<PB N="229" REF="6"/>
+<L>Of stature semeli as sair, specious as rebekke,</L>
+<L>Fair formed of feturis, assemblyng to rachel. <MILESTONE N="55"/></L>
+<L>Her cors was ful comely of hue, hed &amp; nekke.</L>
+<L>Cu<HI REND="italic">m</HI>fortable, of cu<HI REND="italic">n</HI>tenance, hit becam here wel;</L>
+<L>Of here soue<HI REND="italic">r</HI>ain beaute al egipt gan tel,</L>
+<L>And p<HI REND="italic">ra</HI>ysed here i<HI REND="italic">n</HI> alle þat lande, so noble was here fame,</L>
+<L>That bataile among p<HI REND="italic">ri</HI>nces children was ioyned for þ<HI REND="italic">at</HI> <MILESTONE N="60"/> dame.</L>
+</LG>
+<LG>
+<L>But when þat pharaois eldist child, his sone &amp; his heir,</L>
+<L>Herde telle of this ladi, to his fadir he wente right,</L>
+<L>And said, "g<HI REND="italic">ra</HI>unte me to my wyf asneth the feyr."</L>
+<L>But pharao denyed hym, and answered to the knyght,</L>
+<L>"Thu schalt haue to þin astate a ladi of more myght, <MILESTONE N="65"/></L>
+<L>The kyngis dowter of moab, of noble alliance,</L>
+<L>A comeli quene, fair and free, evene to þ<HI REND="italic">i</HI> plesance."</L>
+</LG>
+<LG>
+<L>But asneth, þat was so feir, soleyn she was w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> al,</L>
+<L>Dispisyng eche man deynusly, and prowd of here corage.</L>
+<L>A ful high tour was bild for here, of werk þ<HI REND="italic">at</HI> was rial, <MILESTONE N="70"/></L>
+<L>Ioynyng to hire fadir hous, and aboue it vpon stage</L>
+<L>Ten chambres for here wer bild, of p<HI REND="italic">r</HI>ecious parage.</L>
+<L>The firste was fair and large, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> porfereit stonis walled,</L>
+<L>Poudred w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> p<HI REND="italic">re</HI>cious polimites, of diue<HI REND="italic">r</HI>se colours called.</L>
+</LG>
+<LG>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> carpettis of cloth of gold hit was laid abowte, <MILESTONE N="75"/></L>
+<L>And in the wallis her<HI REND="italic">e</HI> egipt godis sette in su<HI REND="italic">n</HI>dry wyse,</L>
+<L>Wrouht of goold &amp; silu<HI REND="italic">er</HI> wel, of hem sche had gret doute,</L>
+<L>For eueri day to the same sche dide sacrifice.</L>
+<L><PB N="230" REF="7"/>
+In the secu<HI REND="italic">n</HI>de chamber was here atire, of ful riche assise,</L>
+<L>Goold, silu<HI REND="italic">er,</HI> p<HI REND="italic">re</HI>cious stonis, and garnementis gaye, <MILESTONE N="80"/></L>
+<L>Schetis of silk, and robis fyne, of ful riche araye.</L>
+</LG>
+<LG>
+<L>The thridde chamber was for stoor stuffed as ye shul here</L>
+<L>Of alle goodis þ<HI REND="italic">at</HI> growe on erthe, to mannys sustinance,</L>
+<L>The seuen chambiris <NOTE N="1" PLACE="foot">chambir was <HI REND="italic">sic</HI> MS.</NOTE> remenant were ordeyned on þis man<HI REND="italic">er</HI>e.</L>
+<L>For seven maidenes, þ<HI REND="italic">at</HI> lowly serued here w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> plesance, <MILESTONE N="85"/></L>
+<L>T[h]ise were here egipt eveneldis, to here daliance,</L>
+<L>Fair of face, bright of ble, as sterre i<HI REND="italic">n</HI> þ<HI REND="italic">e</HI> firmament,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> man ne manl[i]child speke þei, in no mane<HI REND="italic">re</HI> entent.</L>
+</LG>
+<LG>
+<L>In the chief chambir of asneth þ<HI REND="italic">er</HI> were wyndowys three; <NOTE N="2" PLACE="foot">MS. there.</NOTE></L>
+<L>The firste retardyng to the est, the secunde was south <NOTE N="3" PLACE="foot">sought MS.</NOTE> right,</L>
+<L>T[h]e thirde lay north upon þ<HI REND="italic">e</HI> strete, in swyche man<HI REND="italic">er</HI>e degre</L>
+<L>That of alle that passed by, sche mihte haue a syght.</L>
+<L>In this chamir a bed was raid, of goold and p<HI REND="italic">ur</HI>pur bright;</L>
+<L>Context it was w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> iacinth and p<HI REND="italic">ur</HI>pur bise w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all:</L>
+<L>Alone lay asneth i<HI REND="italic">n</HI> this bed, that riche was and riall. <MILESTONE N="95"/></L>
+</LG>
+<LG>
+<L>A gret halle was bild abowte, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wallis wonder hie,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> foure yren gatis spered faste and stronge;</L>
+<L>And kepte w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> eyhtene men of armes, harneised surely.</L>
+<L>Yet þe<HI REND="italic">r</HI> were planted inside þ<HI REND="italic">e</HI> halle <NOTE N="4" PLACE="foot">Here the scribe copied at first the second line below but erased and corrected his error.</NOTE> trees faire behonge,</L>
+<L><PB N="231" REF="8"/>
+W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> frutes þat were delectable, and fair leues among, <MILESTONE N="100"/></L>
+<L>And a cundite beside þ<HI REND="italic">e</HI> halle, þat ran as cristall clere,</L>
+</LG>
+<LG>
+<L>That moisted the trees lustily, and dide to hem gret chere.</L>
+<L>The fame of gentil ioseph sprang gretly, and aroos</L>
+<L>To alle þ<HI REND="italic">e</HI> lordis of egipt land, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret reuerence;</L>
+<L>And when he was come into þ<HI REND="italic">e</HI> cuntre of helinpoleos, <MILESTONE N="105"/></L>
+<L>He sende xii wyse to putiphar preest, seiynge in sentence,</L>
+<L>"Greteth the wel oure sire ioseph, and noteth yn adu<HI REND="italic">er</HI>tence,</L>
+<L>To dyner at midday to thi hous, he cometh for his cu<HI REND="italic">m</HI>fort,</L>
+<L>In the shade fro the sunne, to take þere his disport."</L>
+</LG>
+<LG>
+<L>And putifar, plesed plesantly, sayd w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> woise ioiynge, <MILESTONE N="110"/></L>
+<L>"Blessed be the lord god of Ioseph, þ<HI REND="italic">at</HI> my noble sire</L>
+<L>Ys comyng toward my hous, to me yt is plesyng."</L>
+<L>He called þ<HI REND="italic">e</HI> prevost of ys hous, &amp; sayd, "I the require,</L>
+<L>Make redi a grete feste, and most deynteus to desire,</L>
+<L>And gou<HI REND="italic">er</HI>ne it goodly, I the charge, in þ<HI REND="italic">i</HI> beste aray, <MILESTONE N="115"/></L>
+<L>For ioseph þ<HI REND="italic">e</HI> strong man of god schal come to vs this day."</L>
+</LG>
+<LG>
+<L>Then herde asneth þ<HI REND="italic">at</HI> her fadir &amp; her modir bothe</L>
+<L>Wer come in hervest fro the feeld of here heritage</L>
+<L>And sayde, "w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ioye I schal go, and se hem forsothe;"</L>
+<L>And hasted here forth busyly, agayns hem in passage, <MILESTONE N="120"/></L>
+<L>Clothed comely in bright byse <NOTE N="5" PLACE="foot">From O.F. <HI REND="italic">byssum,</HI> a kind of fine linen.</NOTE>, lykyng to her lynage,</L>
+<L>And wrought w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> goold of iacint, a girdel of goold þ<HI REND="italic">er</HI> to,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> armillis <NOTE N="6" PLACE="foot">From O.F. <HI REND="italic">armilles,</HI> bracelets.</NOTE> aboute here handis, and here feet also.</L>
+</LG>
+<LG>
+<L>A bie <NOTE N="7" PLACE="foot">From O.F. <HI REND="italic">buie,</HI> chain.</NOTE> of bright burned goold aboute here nekke was bent</L>
+<L>Pyght ful of p<HI REND="italic">re</HI>ciouse stonys, &amp; g<HI REND="italic">ra</HI>ue in were all <MILESTONE N="125"/></L>
+<L>The Idolis namys of egipt, plesant to here entent,</L>
+<L><PB N="232" REF="9"/>
+And aboue here hed was sett a riche coronall,</L>
+<L>That constreyned here fair frount, þ<HI REND="italic">at</HI> was so v<HI REND="italic">ir</HI>ginall,</L>
+<L>Here hed was cou<HI REND="italic">er</HI>ed w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> terestre, &amp; went forth with plesance</L>
+<L>And haileed here fadir &amp; here modir, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> comely cunte∣nance. <MILESTONE N="130"/></L>
+</LG>
+<LG>
+<L>Ful curteysly sche kyste hem, and [þei] gretly gan ioye,</L>
+<L>To se here doughter so honestly, in riche ornature.</L>
+<L>The deyntevus frutes of þ<HI REND="italic">e</HI> feld, to here þei dide emploie,</L>
+<L>That delicious were <NOTE N="8" PLACE="foot">vere <HI REND="italic">sic</HI> MS.</NOTE> and delectable, &amp; noble in nature.</L>
+<L>Þe mayde reioysed of the frutes, þ<HI REND="italic">at</HI> were ful mature, <MILESTONE N="135"/></L>
+<L>Of figes, dates, pomgarnettes, &amp; of grapes grete,</L>
+<L>Of doue briddes, and thir frutes, þ<HI REND="italic">at</HI> sauery were <HI REND="italic">&amp;</HI> swete.</L>
+</LG>
+<LG>
+<L>And putifar sayde to asneth, "The closett dore þe shitte."</L>
+<L>She did so, and he here kiste, and saide, "my dowter dere,</L>
+<L>Novellis nowe I schall the telle, tend now to my witte, <MILESTONE N="140"/></L>
+<L>The myhty man, ioseph, of god, þis day wil <NOTE N="9" PLACE="foot">wel MS.</NOTE> be here,</L>
+<L>And he ys gou<HI REND="italic">er</HI>no<HI REND="italic">u</HI>r to saue egipt, by pharao saunz pere,</L>
+<L>A maide clene as ye be, so virgine he ys speciall;</L>
+<L>I schal marie yow to hym, &amp; make yow his co<HI REND="italic">n</HI>thorall."</L>
+</LG>
+<LG>
+<L>And when asneth had herd here fadir þise wordis reherse, <MILESTONE N="145"/></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> straunge yes on hym she loked, here colo<HI REND="italic">ur</HI> gon dis∣teyne,</L>
+<L>And seide to hym, "why seie ye thus, my worship to reu<HI REND="italic">er</HI>se,</L>
+<L>To take me caytyf to a st<HI REND="italic">ra</HI>unger? of hym I haue disdeyne,</L>
+<L><PB N="233" REF="10"/>
+A futif he ys, by bargayn bouht, &amp; more I say yow pleine,</L>
+<L>That herdis son of chanan his lady wold haue fuyled, <MILESTONE N="150"/></L>
+<L>In p<HI REND="italic">ri</HI>son therefore he was put, &amp; all worshyp spuyled.</L>
+</LG>
+<LG>
+<L>"And afte<HI REND="italic">r</HI> yt happid þat pharao, as he lay in slepe,</L>
+<L>Dreyht <NOTE N="10" PLACE="foot">Past part. fr. A.S. <HI REND="italic">dreccan,</HI> oppressed (?).</NOTE> was dered in his dremys, diue<HI REND="italic">r</HI>sely dremyng,</L>
+<L>And then this ioseph was take out of the p<HI REND="italic">ri</HI>son depe,</L>
+<L>To rede hym right the redeles of his sweuenyng. <MILESTONE N="155"/></L>
+<L>The olde wyfis of egipt han craft in þ<HI REND="italic">at</HI> cu<HI REND="italic">n</HI>nyng,</L>
+<L>And þ<HI REND="italic">er</HI>fore þat dreme redere I vtterly forsake,</L>
+<L>And take me to the kyngis sone, my marie &amp; my make." <NOTE N="11" PLACE="foot">MS. take.</NOTE></L>
+</LG>
+<LG>
+<L>And as putifar w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his douhter stood þus talkyng,</L>
+<L>There come on of his meyne, and þus to hym saide, <MILESTONE N="160"/></L>
+<L>"Ioseph ys come to youre gatis, I do yow to wytyng."</L>
+<L>Anf when he spak of ioseph, anon asneth the mayde</L>
+<L>Ascended to here cenacle, to the wyndow sche here braide,</L>
+<L>Þat lay estward in the chambir of here statly tour,—</L>
+<L>To se ioseph, for hir fadir of hym spak gret hono<HI REND="italic">ur.</HI> <MILESTONE N="165"/></L>
+</LG>
+<LG>
+<L>And putifar went forth w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his wyf &amp; w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his kynrede,</L>
+<L>To mete w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ioseph, þ<HI REND="italic">at</HI> gentil Iuge, as man þat was sage;</L>
+<L>He co<HI REND="italic">m</HI>maunded þe porteris sone þe gatis up to sprede,</L>
+<L>And in entred Ioseph þanne, upon þ<HI REND="italic">at</HI> terrage,</L>
+<L>Standyng on pharaos secu<HI REND="italic">n</HI>de chare, statli opon stage, <MILESTONE N="170"/></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> foure stronge stoute stedis, þ<HI REND="italic">er</HI> inne were drawyng,</L>
+<L>That were white as the snow, and prowd of here likyng.</L>
+</LG>
+<LG>
+<PB N="234" REF="11"/>
+<L>Þe briddes were fineli gild, the trais of noble atire,</L>
+<L>Ioseph clothed was al i<HI REND="italic">n</HI> white, cou<HI REND="italic">er</HI>ed w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> p<HI REND="italic">ur</HI>pure palle,</L>
+<L>Wrought w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> branches of bright byse, contexit w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> goold <MILESTONE N="175"/> wire,</L>
+<L>A coroune of goold on his heed, þat riche was and rialle,</L>
+<L>And in þ<HI REND="italic">e</HI> cercle þ<HI REND="italic">er</HI>of were sette twelf stonis imp<HI REND="italic">er</HI>ialle,</L>
+<L>And aboue the saide stonis, twelf sterris of goold pure,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a sceptir in his hand, that noble was i<HI REND="italic">n</HI> nature.</L>
+</LG>
+<LG>
+<L>A braunche w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> beries of oliue tree, in hand he bar w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> <MILESTONE N="180"/> alle,</L>
+<L>Ful plenteus it was of frut, þ<HI REND="italic">er</HI>in was gret fatnesse;</L>
+<L>Then entered Ioseph In at the gatis, &amp; cam in to þe halle,</L>
+<L>And þe peple was voided sone, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret busynesse;</L>
+<L>The porteris shitte þe gatis faste, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> moche hastynesse,</L>
+<L>And putifar, his wyf, and his kynred, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> worthi gou<HI REND="italic">er</HI>∣nance, <MILESTONE N="185"/></L>
+<L>Except asneth, honoured ioseph w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> obeisaunce.</L>
+</LG>
+<LG>
+<L>Ioseph descended of his chaar, glorious to beholde,</L>
+<L>And tok hem on his right syde, thankyng i<HI REND="italic">n</HI> noble wyse.</L>
+<L>Grett ioye there was mad, among yong &amp; olde,</L>
+<L>Save when asneth saw ioseph, here sorwe gan arise, <MILESTONE N="190"/></L>
+<L>Here spirites failed, here bodi trembled, his noblei to dis∣pise,</L>
+<L>"Alas," sche saide, "I haue misdo, dispisyng þis nobil man,</L>
+<L>When I called hym herdis sone of the land of chanan."</L>
+</LG>
+<LG>
+<L>"And nowe he cometh, as the su<HI REND="italic">n</HI>ne fro heuen with his bemys,</L>
+<L>Radiant richeli in his chaar, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> glorious excellence, <MILESTONE N="195"/></L>
+<L><PB N="235" REF="12"/>
+Passyng peerles and plesant, in gou<HI REND="italic">er</HI>[n] yng of remys,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> beaute bounte he is braced, &amp; grace of influence,</L>
+<L>Allas! that eue<HI REND="italic">r</HI>e I dispised hym, or made hym resistence,</L>
+<L>Godis sone, I wot, is ful noble of alliance,</L>
+<L>And the saueour of al egipt, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>oute variance. <MILESTONE N="200"/></L>
+</LG>
+<LG>
+<L>"Who was eu<HI REND="italic">er</HI> gete of a man, so fair, so fresh of face?</L>
+<L>Or what wo<HI REND="italic">m</HI>man myghte conceive, &amp; bere so moche light?</L>
+<L>Of most wrecched now I am, forfeded I haue hys g<HI REND="italic">ra</HI>ce,</L>
+<L>When I dispurned hym to my fadir, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> wordis unright.</L>
+<L>Now wyl I hide me fro his face, and kepe fro his sight, <MILESTONE N="205"/></L>
+<L>And yet nothyng fro hym ys hid, he hath so gret cu<HI REND="italic">n</HI>ningge,</L>
+<L>But me<HI REND="italic">r</HI>cy, gret god of ioseph, of my missayngge!</L>
+</LG>
+<LG>
+<L>"I wolde my fadir wolde me gife to ioseph in seruice,</L>
+<L>For eue<HI REND="italic">r</HI> þ<HI REND="italic">er</HI>to I wolde assente, to be his owen s<HI REND="italic">er</HI>uant."</L>
+<L>By that had ioseph wasshe his feet, &amp; in noble wyse <MILESTONE N="210"/></L>
+<L>A boord was laid for hym ap<HI REND="italic">ar</HI>t, þ<HI REND="italic">at</HI> was to hym plesant,</L>
+<L>For w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe eqiptianis in etyng he was not co<HI REND="italic">n</HI>ue<HI REND="italic">r</HI>sant,</L>
+<L>But escheued heem in here metis, and of hem had drede,</L>
+<L>And aft<HI REND="italic">er</HI> he spak to putifar, thus, and to his kynrede,—</L>
+</LG>
+<LG>
+<L>"What womman was sche þ<HI REND="italic">at,</HI> that in þ<HI REND="italic">e</HI> wyndow stod <MILESTONE N="215"/></L>
+<L>Of þe cenacle, as I cam In? sche ys ageyns my herte,</L>
+<L>Remeveth here sone out of þis hous, for marryng of my mod."</L>
+<L>For ioseph dred wanton wy<HI REND="italic">m</HI>men, þ<HI REND="italic">e</HI> good man to p<HI REND="italic">er</HI>u<HI REND="italic">er</HI>te,</L>
+<L>Þ<HI REND="italic">er</HI>fore he saide, "haue her out that I may be querte."</L>
+<L>For he was chast &amp; virgine pure, &amp; clene in continence, <MILESTONE N="220"/></L>
+<L>Dredyng w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> fere the infeccion of femenyn insolence.</L>
+</LG>
+<LG>
+<PB N="236" REF="13"/>
+<L>And for as moche as þe dowtirs of þe dukys grete</L>
+<L>of egipt wowed him ofte tyme, to wanton wikkednesse,</L>
+<L>Þ<HI REND="italic">er</HI>fore he fledde here felawship, and ofte tyme did hem þrete,</L>
+<L>Tho voyde hem fro þe presence of his pure clennesse; <MILESTONE N="225"/></L>
+<L>Alle faire femelis of egipt he had in heuynesse,</L>
+<L>For þei desired to slepe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym, he was so amiable,</L>
+<L>But he dispised hem and here menis, in clennesse he was stable,</L>
+</LG>
+<LG>
+<L>Ant saide, "in þe sight of gret god, of my fadir israel,</L>
+<L>I wyl not synne in no wyse, but haue in remembrance <MILESTONE N="230"/></L>
+<L>The co<HI REND="italic">m</HI>maundementis of my fadir, and eu<HI REND="italic">er</HI> kepe hem wel;</L>
+<L>For he bad me and my bretheren, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oute variaunce,</L>
+<L>To kepe vs clene fro wy<HI REND="italic">m</HI>men of st<HI REND="italic">ra</HI>unge alliance,</L>
+<L>And saide, þat here felawship wold man w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> deth destruye,</L>
+<L>Þ<HI REND="italic">er</HI>fore haue out þ<HI REND="italic">e</HI> st<HI REND="italic">ra</HI>unge wo<HI REND="italic">m</HI>man, nothyng þ<HI REND="italic">at</HI> sche <MILESTONE N="235"/> me nuye."</L>
+</LG>
+<LG>
+<L>Then seyde putifar þus, "my lord, þe wo<HI REND="italic">m</HI>man þ<HI REND="italic">at</HI> ye saw stande</L>
+<L>Ys non alien, but of her Inne, and howre dowhte<HI REND="italic">r</HI> dere,</L>
+<L>Hatyng þe cu<HI REND="italic">m</HI>panie of alle men; &amp; more I take an hande,</L>
+<L>Sche ys virgine pure and clene, þ<HI REND="italic">er</HI>fore I p<HI REND="italic">ra</HI>y yow here,</L>
+<L>That sche may come to yowr p<HI REND="italic">re</HI>sence, &amp; haile yow w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> <MILESTONE N="240"/> good chere."</L>
+<L>And ioseph, gretly ioied, þen, for þ<HI REND="italic">at</HI> putifar saide</L>
+<L>Þat sche loued no man fles[h]ly, but lyued a clene maide,</L>
+</LG>
+<LG>
+<L>"Þ<HI REND="italic">at</HI> sche ys a maide," q<HI REND="italic">uo</HI>d ioseph, "I loue here the more,</L>
+<L>And as myn own sister, ful wel sche pleseth me;</L>
+<L>Lett here come anon to me." here modir went here fore, <MILESTONE N="245"/></L>
+<L><PB N="237" REF="14"/>
+And brouhte here to his p<HI REND="italic">re</HI>sence, þat maide fair &amp; fre,</L>
+<L>Here fadir saide to here, ful sone, "dowht<HI REND="italic">er,</HI> I charge the</L>
+<L>Salu þi brother, a maide as þow, of dede &amp; p<HI REND="italic">ur</HI>pos pure,</L>
+<L>Hatyng alienes &amp; vnclene wy<HI REND="italic">m</HI>men, as þ<HI REND="italic">u</HI> in thi nature."</L>
+</LG>
+<LG>
+<L>Then asneth, nurshid nobely, on knes fair hym grette, <MILESTONE N="250"/></L>
+<L>And said, "hail lord, blessed of god, hie heuene kyng."</L>
+<L>And ioseph answered, gentilly, hys wordis to her he sette,</L>
+<L>"Blisse þe maide þe grete god, þat quikketh al thyng."</L>
+<L>Þan said þe fadir, "go kis þ<HI REND="italic">i</HI> brother, dowhter, on my blessyng."</L>
+<L>And asneth wente to kysse hym, aft<HI REND="italic">er</HI> here fadir hestis, <MILESTONE N="255"/></L>
+<L>But ioseph streight his right hand out, &amp; layd yt on her<HI REND="italic">e</HI> brest<HI REND="italic">is.</HI></L>
+</LG>
+<LG>
+<L>And sayd, "sothly, unsemyng and unsittyng hit ys,</L>
+<L>To the man þ<HI REND="italic">at</HI> schulde serue god, and w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his mouth hym blesse,</L>
+<L>And ete the blessed brede of lyue, and drinke of his chalis,</L>
+<L>Ony womman alien, or st<HI REND="italic">ra</HI>unger for to kesse, <MILESTONE N="260"/></L>
+<L>Þat blysse mamettis w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> here mouth, &amp; idolis in liknesse,</L>
+<L>That are bothe dumbe and dede, &amp; ete brede of here bord,</L>
+<L>Ony swych womma<HI REND="italic">n</HI> for to kysse, hit lyketh not god my lord.</L>
+</LG>
+<LG>
+<L>"But the man þ<HI REND="italic">at</HI> worshipeth god his modir kysse he schal</L>
+<L>Hys sister, his wyf, &amp; his kyndrede, &amp; make hem god <MILESTONE N="265"/> chere." <NOTE N="12" PLACE="foot">No break in the MS.</NOTE> . . . . . .</L>
+</LG>
+<LG>
+<L>Ioseph sayd, "I wil departe upon þis same day,</L>
+<L>For in þis day god bygan alle his creature,</L>
+<L><PB N="238" REF="15"/>
+And here afte<HI REND="italic">r</HI> eyhte dayes, sothly as I þe say,</L>
+<L>I schal reto<HI REND="italic">ur</HI>ne, and dwelle here, &amp; perto do my cure."</L>
+<L>Putifar thanne, and his kynrede, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> humblesse of nur∣ture, <MILESTONE N="270"/></L>
+<L>Toke at hym his bien aille, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ful gentil langage,</L>
+<L>And so dide Ioseph at hym, &amp; toke forth his viage.</L>
+</LG>
+<LG>
+<L>And asneth abood, soul, alone, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> seuen virgines clene,</L>
+<L>&amp;, greued w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sorwe, sche wepte sore, to the su<HI REND="italic">n</HI>ne siled <NOTE N="13" PLACE="foot"><HI REND="italic">silen,</HI> glide.</NOTE> west,</L>
+<L>Bred ne wate<HI REND="italic">r</HI> wolde sche noon, by no maner mene. <MILESTONE N="275"/></L>
+<L>When nyht cam, alle þei slepte, &amp; wente to here rest</L>
+<L>Saue asneth, wakyng allone, lay knockyng nere brest.</L>
+<L>For sche hadde take ful gret drede, &amp; shok w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> tremblyng,</L>
+<L>Sche was co<HI REND="italic">n</HI>streyned so w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sorwe, þ<HI REND="italic">at</HI> caused here mo<HI REND="italic">ur</HI>nyng.</L>
+</LG>
+<LG>
+<L>&amp; then sche roos fro here bed, &amp; cam fro her chamber doun, <MILESTONE N="280"/></L>
+<L>The gatis wher portere &amp; his men slepte sure,</L>
+<L>And to wyndowe faste by sche busked here ful boun,</L>
+<L>&amp; there sche drow out a large skyn for here couu<HI REND="italic">er</HI>ture,</L>
+<L>And filde þe skyn ful of askes, and after by aventure</L>
+<L>Sche ascended in to here chamber, the doris fast barryng, <MILESTONE N="285"/></L>
+<L>And lay doun on the pavement, and syhed w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> waylyng.</L>
+</LG>
+<LG>
+<L>A virgine, þ<HI REND="italic">at</HI> asneth loued most, herde of here sobbyng,</L>
+<L>Alle sixe v<HI REND="italic">ir</HI>gines here felawys anon sche gan up rere,</L>
+<L>Þei wente to the chambir dore, &amp; herde here syhyng,</L>
+<L>Þei founde the dore lokked faste, þei myhte hit not vnspere; <MILESTONE N="290"/></L>
+<L>Werefore þei cried w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> vois echon, &amp; callid on here there,</L>
+<L><PB N="239" REF="16"/>
+And sayde, "madame what ailes you, and ys your nuysance?"</L>
+</LG>
+<LG>
+<L>Asneth opened not here dore, but sayde in þis wyse,</L>
+<L>"Mi heed yt aketh <NOTE N="14" PLACE="foot">asketh aketh MS.</NOTE> grevusly, on bed þ<HI REND="italic">er</HI>fore I lye,</L>
+<L>I am so sik in al my membris, þ<HI REND="italic">at</HI> I may not rise, <MILESTONE N="295"/></L>
+<L>To open the dore goth fro me; to yo<HI REND="italic">ur</HI> chambres you hie."</L>
+<L>Þei passed forth as sche bade, and ansneth <HI REND="italic">(sic)</HI> privelye</L>
+<L>Com to þe chamber where here robis p<HI REND="italic">re</HI>ssed were well,</L>
+<L>And drow to here a blacke robe, a cloth of sorwe &amp; deell.</L>
+</LG>
+<LG>
+<L>That schee had mad for þ<HI REND="italic">e</HI> deth of here yungger broth<HI REND="italic">er;</HI> <MILESTONE N="300"/></L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þis cloth into here chamber sche returned sone,</L>
+<L>And schytte the dore w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> barre &amp; bolt, at trau<HI REND="italic">er</HI>s upon othir,</L>
+<L>&amp; in haste dide of here robe, with ful moche mone,</L>
+<L>(Þe riall was w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> bise &amp; goold ful p<HI REND="italic">re</HI>ciously bygone,)</L>
+<L>And so sche did here ceynte of goold, þat riche was of valour, <MILESTONE N="305"/></L>
+<L>And did on her þe blake robe, þe vesture of dolo<HI REND="italic">ur.</HI></L>
+</LG>
+<LG>
+<L>Þe coronall þat cou<HI REND="italic">er</HI>ed her hed, in the pavement sche yt laide;</L>
+<L>Here byes als and bracelettes of riche orfeoure,</L>
+<L>&amp; in the north part of the chamber to a wyndow sche brayde,</L>
+<L>And threw hem out by &amp; by, þ<HI REND="italic">at</HI> noble were of feiture, <MILESTONE N="310"/></L>
+<L>Here garmentis of goold, and girdelis of gay garnetture,</L>
+<L>And alle here godis of goold &amp; silu<HI REND="italic">er,</HI> sche tok hem i<HI REND="italic">n</HI> haste,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> alle þ<HI REND="italic">e</HI> idolis of egipt, at the wyndow out sche caste.</L>
+<L><PB N="240" REF="17"/>
+Sche tok here soup<HI REND="italic">er</HI> araid fore here of wyld foul &amp; fisshes,</L>
+<L>Þe carcais als of fatte calfis, and of oþ<HI REND="italic">er</HI> sacrifice, <MILESTONE N="315"/></L>
+<L>Þe vesselis for wyne of sacrifice, toupes, cuppis, disshes,</L>
+<L>Cast hem out to st<HI REND="italic">ra</HI>ungers houndis, and so did hem dispise</L>
+<L>And sayde, "alas how schod my houndis ete in ony wyse,</L>
+<L>Of this soup<HI REND="italic">er</HI> of sacrifice, of fals maumetrie?</L>
+<L>I take yt þ<HI REND="italic">er</HI>fore to st<HI REND="italic">ra</HI>ungers hou<HI REND="italic">n</HI>dis, &amp; forsake al ydol∣at<HI REND="italic">ri</HI>e." <MILESTONE N="320"/></L>
+</LG>
+<LG>
+<L>And aft<HI REND="italic">er</HI> asneth askes tok, &amp; strewed hem in and oute</L>
+<L>Upon the pauement, &amp; bond her lendis <NOTE N="15" PLACE="foot">Loins.</NOTE> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> saccloth for penance,</L>
+<L>And did an heue <NOTE N="16" PLACE="foot">Hive?</NOTE> upon here bodi, &amp; bette here breste aboute</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> bothe handis, &amp; wepte sore for here ignorance,</L>
+<L>&amp; laide here doun upon þe askes, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> teres of repentance, <MILESTONE N="325"/></L>
+<L>Sobbyn sore w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> moche sorwe, sett on eu<HI REND="italic">er</HI>y side,</L>
+<L>Al the nyth co<HI REND="italic">n</HI>tynuyng so, til þ<HI REND="italic">e</HI> morwe tyde.</L>
+</LG>
+<LG>
+<L>In the mornyng when she roos, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> fen sche was fuyled,</L>
+<L>Þ<HI REND="italic">at</HI> with þe teris and askis were medled so in same,</L>
+<L>Sche fil agayn flatt on here face, here body so sche spuyled, <MILESTONE N="330"/></L>
+<L>And lay þ<HI REND="italic">e</HI>re til hit was nyht, asneth <NOTE N="17" PLACE="foot">ansneth <HI REND="italic">sic MS.</HI></NOTE> by here name.</L>
+<L>So sche meked here by seuen daies, þat noble worthi dame,</L>
+<L>Þe eyhte day þe cokkys crew, þe day bygan to sprynge,</L>
+<L>The mayde a lytel lefte up here heed, ful faynt of fastynge.</L>
+</LG>
+<LG>
+<L>Aftir she roos on here knees, feble sche was and feynt, <MILESTONE N="335"/></L>
+<L><PB N="241" REF="18"/>
+And lifte up here heed a lite, &amp; syhed wondir sore;</L>
+<L>The maide was meked, &amp; made megre, &amp; w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sorwe atteynt</L>
+<L>To a wyndow þ<HI REND="italic">at</HI> lay estwarde sche dressed here þ<HI REND="italic">er</HI>fore,</L>
+<L>&amp; sette here doun undir yt, and saide, "ha lord thyn ore!</L>
+<L>What schal I do? were may I go? were schal I haue refute? <MILESTONE N="340"/></L>
+<L>Desolate maide i<HI REND="italic">n</HI> deserte, of cu<HI REND="italic">m</HI>fort destitute.</L>
+</LG>
+<LG>
+<L>Mi fadir, my modir, &amp; my kyn, þei wel me haue in hate,</L>
+<L>For I haue disparplid al her goodis, &amp; cast hem vnderfote,</L>
+<L>And forsake me for here douhter, &amp; with me debate,</L>
+<L>Who may deliu<HI REND="italic">er</HI>e fro þis daung<HI REND="italic">er,</HI> my balis who may bote? <MILESTONE N="345"/></L>
+<L>Yett more ou<HI REND="italic">er</HI> in my mynde, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sorwe I mark &amp; note,</L>
+<L>Þat al my louers þat me wowed, I hated in alle uyse,</L>
+<L>Now may þei glade on my myschief, &amp; ut<HI REND="italic">ter</HI>ly me dispise.</L>
+</LG>
+<LG>
+<L>"But þe heyhe lord god of ioseph, almyghti in his trone,</L>
+<L>He ys Ielous upon his peple, hatyng al idolatrie, <MILESTONE N="350"/></L>
+<L>Þ<HI REND="italic">er</HI>fore, dredful lord, to þe, now make I my mone,</L>
+<L>For I haue worshiped fals godis, &amp; mortal mamettrie,</L>
+<L>Of here sacrifices I have ete; m<HI REND="italic">er</HI>cy þ<HI REND="italic">er</HI>fore I crie,</L>
+<L>For the lord god of hebreis ys trewe &amp; m<HI REND="italic">er</HI>cyable,</L>
+<L>Long abydyng, mylde and meke, on hem þ<HI REND="italic">at</HI> be unstable. <MILESTONE N="355"/></L>
+</LG>
+<LG>
+<L>"He repreueth no man<HI REND="italic">er</HI> man, that t<HI REND="italic">ur</HI>neth hym w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> penance,</L>
+<L>Þerfore I wil ret<HI REND="italic">ur</HI>ne to hym, &amp; fro me synne chace,</L>
+<L>I wil forsake al my synnes, and after to his plesance,</L>
+<L>Yete <NOTE N="18" PLACE="foot"><HI REND="italic">Sic</HI> MS.</NOTE> out my p<HI REND="italic">ra</HI>ieres in his siht, &amp; to his loue me brace,</L>
+<L>And yf þat I be repentant, he wil tak me to grace, <MILESTONE N="360"/></L>
+<L>For he is p<HI REND="italic">ro</HI>tecto<HI REND="italic">ur,</HI> and defendo<HI REND="italic">ur,</HI> of fadirles children∣alle,</L>
+<L>Þerfore to his grete me<HI REND="italic">rc</HI>y I shall clepe &amp; calle."</L>
+</LG>
+<LG>
+<PB N="242" REF="19"/>
+<L>And þan sche roos out of the place, þe<HI REND="italic">r</HI> sche satt &amp; stood,</L>
+<L>To þe wyndows, þ<HI REND="italic">at</HI> to þe est parties hadde here regard;</L>
+<L>And saide, "lord god of al rightful, þ<HI REND="italic">at</HI> madest land &amp; flood, <MILESTONE N="365"/></L>
+<L>That inspirest al wysdam in hertis þ<HI REND="italic">at</HI> ben hard,</L>
+<L>And makyst þynggis inuisible apparent afterward,</L>
+<L>Þat hast enhanced heuen an high &amp; stablyd yt aboue the wy<HI REND="italic">n</HI>des,</L>
+<L>&amp; foundid land upon þe wateris, as creatour <NOTE N="19" PLACE="foot">MS. creature.</NOTE> to al kyndes,</L>
+</LG>
+<LG>
+<L>"That hast made þe stonis grete, &amp; wateris of hyght <MILESTONE N="370"/> depnesse,</L>
+<L>Conseruyng kyndly þ<HI REND="italic">i</HI> priaptis, <NOTE N="20" PLACE="foot">From Latin <HI REND="italic">praeapto.</HI></NOTE>, and to þi vois obeisant,</L>
+<L>Þei wyl nawt offende þ<HI REND="italic">i</HI> mau<HI REND="italic">n</HI>dementis, for in sekirnesse</L>
+<L>To al lyuyng creatures þi word ys lyf plesant,</L>
+<L>Þ<HI REND="italic">er</HI>fore I flute, <NOTE N="21" PLACE="foot">From <HI REND="italic">fluten,</HI> flit.</NOTE> lord, to þe, thyn humble suppliant,</L>
+<L>Crying to þe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> my p<HI REND="italic">ra</HI>yer, in thyn hihe p<HI REND="italic">re</HI>sence, <MILESTONE N="375"/></L>
+<L>Confessyng to the, my grete synnes, &amp; schewe þe my offence.</L>
+</LG>
+<LG>
+<L>"Synnyng, lord, I haue synned, ful gretly in þ<HI REND="italic">i</HI> syght,</L>
+<L>&amp; worsheped idolis &amp; maumettis agayns þ<HI REND="italic">i</HI> mageste,</L>
+<L>Þ<HI REND="italic">er</HI>fore to open my mouth to þe, unworthy I am by right,</L>
+<L>O lord god, su<HI REND="italic">m</HI>me tyme I was a proud la[d]y of degre, <MILESTONE N="380"/></L>
+<L>P<HI REND="italic">re</HI>ferrid in richnesse aboue alle oþ<HI REND="italic">er,</HI> in worship gret plente</L>
+<L>I hadde, but ful desolate and destitute I am forsake,</L>
+<L>Werefore, lord, I fle to the, to þ<HI REND="italic">i</HI> me<HI REND="italic">r</HI>cy I me betake.</L>
+</LG>
+<LG>
+<PB N="243" REF="20"/>
+<L>"And as þe infaunt, þ<HI REND="italic">at</HI> sothly soketh his modir breste,</L>
+<L>For drede fleeth to the fadyr, to haue of hym socour, <MILESTONE N="385"/></L>
+<L>So, lord, I sprede out my handis, to þ<HI REND="italic">e</HI> ys al my treste,</L>
+<L>Take me, lord, &amp; calle me to the, &amp; helpe me w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">i</HI> fauour,</L>
+<L>For þe dwell, þ<HI REND="italic">at</HI> wod lyou<HI REND="italic">n,</HI> will rauesshe me with erro<HI REND="italic">ur,</HI></L>
+<L>For he is fadir of fals godis of al egipt lande,</L>
+<L>But I haue cast hem fro me, &amp; destruyed hem w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> my <MILESTONE N="390"/> hand.</L>
+</LG>
+<LG>
+<L>Deliu<HI REND="italic">er</HI>e me, lord, fro his powere &amp; fro his mouth me drawe,</L>
+<L>Lest on hap<HI REND="italic">pe</HI> he rauesshe me ant sle me, þ<HI REND="italic">at</HI> grett whale,</L>
+<L>That ys acursyd et<HI REND="italic">er</HI>nally, by the sentence of þ<HI REND="italic">i</HI> lawe.</L>
+<L>Receyue me, lord, for fadir &amp; modir refuse me w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> bale,</L>
+<L>And seyn, 'asneth is not our douhter,' to grete &amp; to smale, <MILESTONE N="395"/></L>
+<L>'For sche hath destruyed our godis of goold, &amp; gyfe hem in co<HI REND="italic">n</HI>culcaciou<HI REND="italic">n,</HI></L>
+<L>To alle men passyng by þ<HI REND="italic">e</HI> way in gret abhominacioun.'</L>
+</LG>
+<LG>
+<L>"Werefore I fle to þ<HI REND="italic">e,</HI> my god, þ<HI REND="italic">at</HI> art of myhtes most,</L>
+<L>Deliue<HI REND="italic">r</HI>e me, &amp; spare me, lord, I haue synned by ignorance.</L>
+<L>When I called thi child ioseph, in dispite w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> my goost, <MILESTONE N="400"/></L>
+<L>The heerdis sone of chanan, in p<HI REND="italic">ri</HI>de of my bobaunce;</L>
+<L>And now he is aboue alle men, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>oute variaunce,</L>
+<L>For he þ<HI REND="italic">e</HI> knoweth for on god, veray lord and trewe,</L>
+<L>Þ<HI REND="italic">er</HI>foreþ<HI REND="italic">u</HI> hast gyfe wytt to hym, wisdam &amp; v<HI REND="italic">er</HI>tue.</L>
+</LG>
+<LG>
+<L>"Now, good lord, take me to hym to be his hand maide, <MILESTONE N="405"/></L>
+<L>And I schal wassche louly hys feet, subdue me to his s<HI REND="italic">er</HI>uage,</L>
+<L>Lernyng þe knowlych of v<HI REND="italic">er</HI>ay god;" when sche þus had said,</L>
+<L><PB N="244" REF="21"/>
+The sterre lucifer in þe est shewed his visage,</L>
+<L>And þ<HI REND="italic">er</HI>of asneth was ful glad, &amp; seide in here langage,</L>
+<L>"Trowest not god hath my pr<HI REND="italic">a</HI>yer herd, þe messager lo of <MILESTONE N="410"/> lyht</L>
+<L>Is rise up!" &amp; sodeynly sche saw a selcouth siht.</L>
+</LG>
+<LG>
+<L>Sche saw faste by þe sterre, how heuene partyd in two,</L>
+<L>&amp; a wondir ful gret liht lemed out in þ<HI REND="italic">at</HI> stede,</L>
+<L>And asneth ferd fel on here face, on þ<HI REND="italic">e</HI> askes tho,</L>
+<L>And a man com doun fro heuen, &amp; stood upon here heed, <MILESTONE N="415"/></L>
+<L>Callyn asneth by here name; sche answered not for dred,</L>
+<L>And he called here the secounde tyme, &amp; saide "asneth! asneth!"</L>
+<L>Then sche answered, "lo, my lord, &amp; þ<HI REND="italic">er</HI>w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sche took breth,</L>
+</LG>
+<LG>
+<L>And saide, "tel me who þ<HI REND="italic">u</HI> art," &amp; he answered i<HI REND="italic">n</HI> haste,</L>
+<L>"I am a p<HI REND="italic">ri</HI>nce of godis hous, &amp; of hys heuenly ost, <MILESTONE N="420"/></L>
+<L>Arise, and stand on thi feet, &amp; be nothyng agast,</L>
+<L>And my wordis schal speke to the to cu<HI REND="italic">m</HI>fort of þ<HI REND="italic">i</HI> gost."</L>
+<L>Sche lyfte þen here heed, &amp; saw a man like almost</L>
+<L>Ioseph, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> scepter, stole, &amp; coroune, his cheer as lyhtyng leem,</L>
+<L>&amp; his yes bright shynyng as doth þe su<HI REND="italic">n</HI>ne beem. <MILESTONE N="425"/></L>
+</LG>
+<LG>
+<L>The heris of hys heed, þei were as flame of fire brennyng,</L>
+<L>And asneth, frayd of þ<HI REND="italic">e</HI> syhte, fel to his feet for fere,</L>
+<L>In so moche þat al here membris were meved w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> tremb∣blyng.</L>
+<L>And the aungel saide þenne, "asneth, nothing the dere. <NOTE N="22" PLACE="foot">dredere MS.</NOTE></L>
+<L><PB N="245" REF="22"/>
+Be þ<HI REND="italic">u</HI> cu<HI REND="italic">m</HI>forted, an rise up, &amp; on þi feet þe rere, <MILESTONE N="430"/></L>
+<L>And I schal speke my wordis to þ<HI REND="italic">e</HI> after myn entent."</L>
+<L>And asneth roos upon here feet at his co<HI REND="italic">m</HI>maundement.</L>
+</LG>
+<LG>
+<L>The aungel saide to asneth, "do of þ<HI REND="italic">i</HI> blak haire,</L>
+<L>&amp; thi garnement of drede, þe saccloth do away,</L>
+<L>Smyte þe askes fro þi heed, &amp; washe þ<HI REND="italic">i</HI> face faire, <MILESTONE N="435"/></L>
+<L>&amp; þ<HI REND="italic">i</HI> handis w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> rennyng wat<HI REND="italic">er;</HI> do on þ<HI REND="italic">i</HI> riche aray,</L>
+<L>Þ<HI REND="italic">i</HI> lynnen robe, untouched newe, þ<HI REND="italic">at</HI> gl<HI REND="italic">or</HI>ious ys &amp; gay,</L>
+<L>&amp; gird the w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">e</HI> double ceynt of þ<HI REND="italic">i</HI> virginite,</L>
+<L>And then com to me agayn, &amp; I <NOTE N="23" PLACE="foot">Inserted MS.</NOTE> schal speke to the."</L>
+</LG>
+<LG>
+<L>Asneth hasted forth anon &amp; did as he desired, <MILESTONE N="440"/></L>
+<L>And caste on þ<HI REND="italic">e</HI> white robe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> p<HI REND="italic">re</HI>cious parementis,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> double ceynt gird aboute, &amp; diue<HI REND="italic">r</HI>sly atired</L>
+<L>Aboue þe brestis, &amp; on þe lendis gird on here garnement<HI REND="italic">is,</HI></L>
+<L>A lynen newe theustre <NOTE N="24" PLACE="foot">theustre from þeostre, dark.</NOTE> vail w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> riche ornamentis,</L>
+<L>Here hed was voluped w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þat vail, for vi<HI REND="italic">r</HI>ginal excellence, <MILESTONE N="445"/></L>
+<L>And ret<HI REND="italic">ur</HI>ned to þe aungel, &amp; stood in his pr<HI REND="italic">e</HI>sence.</L>
+</LG>
+<LG>
+<L>Þe aungel saide, "lai don þ<HI REND="italic">i</HI> wail, discoue<HI REND="italic">r</HI>e þ<HI REND="italic">i</HI> hed in haste,</L>
+<L>Why dost þ<HI REND="italic">u</HI> thus? þ<HI REND="italic">u</HI> art maide, þ<HI REND="italic">in</HI> heed is fair to se,</L>
+<L>As the heed of a yonglyng," þ<HI REND="italic">e</HI> wail away sche caste,</L>
+<L>The aungel said, "asneth, maide, of good chere þ<HI REND="italic">u</HI> be, <MILESTONE N="450"/></L>
+<L>Oure lord hath herd þ<HI REND="italic">i</HI> p<HI REND="italic">ra</HI>yer &amp; þ<HI REND="italic">i</HI> confession fre;</L>
+<L>This fast he saw of vij dayes, &amp; þ<HI REND="italic">i</HI> lou mekyng,</L>
+<L>And þe fen, mad of the askes and of þ<HI REND="italic">i</HI> gret teryng.</L>
+</LG>
+<LG>
+<L>"Be glad, virgine, for þ<HI REND="italic">i</HI> name ys write in þe book of lif,</L>
+<L>And schal neu<HI REND="italic">er</HI> de don away, but ay in remembrance, <MILESTONE N="455"/></L>
+<L><PB N="246" REF="23"/>
+Lo fro þis day þ<HI REND="italic">u</HI> art renuwed &amp; quicked fro al strif,</L>
+<L>And þu schalt ete of blessyng bred &amp; hue drinke of plesance,</L>
+<L>Þ<HI REND="italic">u</HI> schat be enoynted w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> holi creme of glo<HI REND="italic">r</HI>ious p<HI REND="italic">ur</HI>veance,</L>
+<L>And, more, I gif þ<HI REND="italic">e</HI> in to wyf to ioseph my dere frend,</L>
+<L>And ioseph into þ<HI REND="italic">i</HI> spouse in wordle w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oute end. <MILESTONE N="460"/></L>
+</LG>
+<LG>
+<L>"And þ<HI REND="italic">i</HI> name schal be called asneth no more,</L>
+<L>But hit schal be moche-of-refute, &amp; so men schul þe calle,</L>
+<L>For peple schul t<HI REND="italic">ur</HI>ne to good by the, I warne þe bifore,</L>
+<L>And undir þ<HI REND="italic">i</HI> wynggis þei schul be coue<HI REND="italic">r</HI>ed, tristyng in god alle,</L>
+<L>And attendyng to þe hiest god schul be kept in þ<HI REND="italic">i</HI> walle, <MILESTONE N="465"/></L>
+<L>For thi penaunce hath p<HI REND="italic">ra</HI>yd to hym for þ<HI REND="italic">e</HI> eu<HI REND="italic">er</HI>y hour,</L>
+<L>And upon alle other penantes, in godis name w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> dolour.</L>
+</LG>
+<LG>
+<L>"For penance ys þe dere douhter of hiest god in heuene,</L>
+<L>And entendyng upon maidenes and loueþ you gretly,</L>
+<L>And pr<HI REND="italic">ai</HI>eth for you eu<HI REND="italic">er</HI>y hour to god, I telle þ<HI REND="italic">e</HI> euene, <MILESTONE N="470"/></L>
+<L>And for alle repentant in goddis hie name mekly,</L>
+<L>Yt makeþ maidenes to reste in heuene in place arayd sikerly,</L>
+<L>&amp; renoueleþ virgines clene to goddis dere blessyng,</L>
+<L>&amp; purchaceþ (?) <NOTE N="25" PLACE="foot">The MS. here has a word which I cannot make out. The last letters are certainly -aceþ. The first four letters resemble numr.</NOTE> ham ioye and blisse in wordlis withoute endyng.</L>
+</LG>
+<LG>
+<L>"Penaunce is a maide good, glad, and mesurable, <MILESTONE N="475"/></L>
+<L>The hiest god hath here in lond, his angelis in reuerence,</L>
+<L>I loue here wel, now schal I go, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oute ony fable,</L>
+<L>To ioseph, &amp; telle of þe the wordis of my sentence,</L>
+<L>And he schal come þis dai to the, &amp; see thyn excellence,</L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ioye loue þe weel, thi spouse be he schall, <MILESTONE N="480"/></L>
+<L>&amp; wedded wyf to hym in wordlis eternall.</L>
+</LG>
+<LG>
+<PB N="247" REF="24"/>
+<L>"&amp; now here me, asneth, maide; do on þ<HI REND="italic">i</HI> garnementis</L>
+<L>Of weddyng now in þi chambre, and atire the w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all,</L>
+<L>And enbclise þ<HI REND="italic">i</HI> bright beaute, with p<HI REND="italic">re</HI>ciouse ornamentis,</L>
+<L>&amp; go forth to mete ioseph, thi spouse speciall, <MILESTONE N="485"/></L>
+<L>For he schal come &amp; see þe, to day, in vesture imp<HI REND="italic">er</HI>iall."</L>
+<L>And after he had endyd his word, asneth, with consolacion,</L>
+<L>Worshiped hym do on þe erthe, &amp; said in comendacion,</L>
+</LG>
+<LG>
+<L>"Blessed be þ<HI REND="italic">i</HI> god, most hiest, þ<HI REND="italic">at</HI> thus þ<HI REND="italic">e</HI> hath sent,</L>
+<L>&amp; deliuered me fro derknesse, &amp; depnesse of my bale, <MILESTONE N="490"/></L>
+<L>Blessed eu<HI REND="italic">er</HI> be his name, lord god omnipotent."</L>
+<L>&amp; to þe angel afterward þise wordis sho gan availe,</L>
+<L>"What is þ<HI REND="italic">i</HI> name? tel me sone, &amp; give yt me in tale,</L>
+<L>Þat I mai worship &amp; thanke þ<HI REND="italic">e,</HI> my lord &amp; my frend,</L>
+<L>&amp; glorifie þi grete name, in wordle w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> out ende." <MILESTONE N="495"/></L>
+</LG>
+<LG>
+<L>The angel saide, "my name is write in godis book in heuen,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> godis fynger fore al othir in the bokys bygynnyng,</L>
+<L>For I am þe p<HI REND="italic">ri</HI>nce of godis hous, &amp; so I tel þe euen,</L>
+<L>Þat al þ<HI REND="italic">at</HI> writen is in þat boke, hit passed mannys spekyng,</L>
+<L>Inco<HI REND="italic">n</HI>uenient þ<HI REND="italic">er</HI>fore yt ys, to eche man vnsyttyng, <MILESTONE N="500"/></L>
+<L>To co<HI REND="italic">m</HI>mune or to here of hem, that are celestiall,</L>
+<L>For þei be gret fro mannys mynde, and wonderfull w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all."</L>
+</LG>
+<LG>
+<L>Thenne seide asneth, "good lord, lat me fynde grace,</L>
+<L>Þat I mai knowe þat yt be do, þ<HI REND="italic">at</HI> þ<HI REND="italic">u</HI> hast said to me,</L>
+<L>Gyf thyn handmaide leve to speke in p<HI REND="italic">re</HI>sence of þi face." <MILESTONE N="505"/></L>
+<L>The angel said, "spek on, asneth, þ<HI REND="italic">i</HI> bone I g<HI REND="italic">ra</HI>unte the,"</L>
+<L>And sche tok hym by the palle, &amp; said w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> vois ful free,</L>
+<L><PB N="248" REF="25"/>
+"I p<HI REND="italic">ra</HI>y the, lord, to sitte a while upon þis bed so clene,</L>
+<L>For man ne wo<HI REND="italic">m</HI>man satt neu<HI REND="italic">er</HI> þ<HI REND="italic">er</HI>on by no man<HI REND="italic">er</HI> mene.</L>
+</LG>
+<LG>
+<L>"And I schall make a bord redy, and offre to yo<HI REND="italic">ur</HI> plesir, <MILESTONE N="510"/></L>
+<L>Breed and wyn fro my celer, ful swete &amp; redolent,</L>
+<L>And when ye haue ete, &amp; drynke, þen aftir yo<HI REND="italic">ur</HI> desire,</L>
+<L>Ye mai folwe forth yo<HI REND="italic">ur</HI> way after yo<HI REND="italic">ur</HI> entent."</L>
+<L>The aungel saide, "bring yt sone, þ<HI REND="italic">er</HI>to I consent."</L>
+<L>And asneth sette a newe bord w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> businesse &amp; haste, <MILESTONE N="515"/></L>
+<L>And went to fette breed &amp; wyne plesant to his taste.</L>
+</LG>
+<LG>
+<L>The aungel said, "a hony combe bring þ<HI REND="italic">u</HI> me ful sone."</L>
+<L>And for sche had non redy sche stood al dismaid.</L>
+<L>Sche saide, "I schal send a chyld in to the feeld anone</L>
+<L>Of hour heritage, to fette on, sone yt schal be rayd." <MILESTONE N="520"/></L>
+<L>"Entre in to þ<HI REND="italic">i</HI> celer," the aungel to here saide,</L>
+<L>"And thu schalt fynde an hony comb redy on the bord,</L>
+<L>Take and bryng yt to me;" and asneth sayd, "my lord,</L>
+</LG>
+<LG>
+<L>Knowyth wel þ<HI REND="italic">er</HI> is non, in no man<HI REND="italic">er</HI> of wyse."</L>
+<L>"Entre þ<HI REND="italic">i</HI> celer," quod þe aungel, &amp; on þ<HI REND="italic">er</HI> schalt þ<HI REND="italic">u</HI> fynde." <MILESTONE N="525"/></L>
+<L>Sche entred in, an hony comb sche fond of a gret assise,</L>
+<L>Also white as þ<HI REND="italic">e</HI> snowe, clene &amp; pure in kynde,</L>
+<L>Of odour swete, and asneth meruayled in her mynde,</L>
+<L>And said, "trowest not þ<HI REND="italic">at</HI> of þis comb, þ<HI REND="italic">at</HI> þis man hath ete,</L>
+<L>For þe flauo<HI REND="italic">ur</HI> ys as þe breeth of his mouth so swete." <MILESTONE N="530"/></L>
+</LG>
+<LG>
+<L>And annon sche tok þe comb and afore hym sette,</L>
+<L>The angel said, "whi saidest þ<HI REND="italic">u,</HI> þ<HI REND="italic">er</HI> was non in þ<HI REND="italic">i</HI> celer?</L>
+<L>Now hast þ<HI REND="italic">u</HI> brouht a ful fair on, þ<HI REND="italic">at</HI> was in þ<HI REND="italic">i</HI> recette."</L>
+<L><PB N="249" REF="26"/>
+And asneth w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret drede saide in this maner,</L>
+<L>"Lord, no<HI REND="italic">n</HI> swych honycomb in gou<HI REND="italic">er</HI>nance hadde I there, <MILESTONE N="535"/></L>
+<L>But by co<HI REND="italic">m</HI>maundement of þ<HI REND="italic">i</HI> mouth, so yt was do,</L>
+<L>For the odour þ<HI REND="italic">er</HI> of ys lik the breth of þ<HI REND="italic">i</HI> mouth also."</L>
+</LG>
+<LG>
+<L>And þe aungel smyled then, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> lauhyng cu<HI REND="italic">n</HI>tenance,</L>
+<L>For þe wisdom of asneth, vpon here intelligence,</L>
+<L>He called here vnto hym, his right hand he did hance, <MILESTONE N="540"/></L>
+<L>Vpon here heed; schee loked on hym, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> shame &amp; reu<HI REND="italic">er</HI>∣ence,</L>
+<L>He gaf here þen hys benison of gracious influence.</L>
+<L>He saide to here, "þ<HI REND="italic">u</HI> art blessed for <NOTE N="26" PLACE="foot">for repeated in MS.</NOTE> þ<HI REND="italic">u</HI> hast left þe fay</L>
+<L>Of alle man<HI REND="italic">er</HI> fals ydolys, and beleuist in god veray.</L>
+</LG>
+<LG>
+<L>"And blessed be thei, þ<HI REND="italic">at</HI> come to god in holy penance, <MILESTONE N="545"/></L>
+<L>For þei schul ete of this comb, þ<HI REND="italic">at</HI> bees made of paradise,</L>
+<L>Of the dew of rosis þe<HI REND="italic">r</HI>e, þ<HI REND="italic">at</HI> are of gret plesance,</L>
+<L>The angelis of god schul ete also, þis comb of p<HI REND="italic">ri</HI>se,</L>
+<L>And who þat eteth of þe same schal neu<HI REND="italic">er</HI> dye in no wyse."</L>
+<L>After he brak it and ete a part of þ<HI REND="italic">at</HI> hony swete, <MILESTONE N="550"/></L>
+<L>The remenant he putte in asneth mouth &amp; bad here to ete.</L>
+</LG>
+<LG>
+<L>The aungel saide, "lo, þ<HI REND="italic">u</HI> hast ete of þe bred of lyf,</L>
+<L>&amp; þ<HI REND="italic">u</HI> art enoynted w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> holi creme, &amp; þ<HI REND="italic">i</HI> flesh fro this day</L>
+<L>Schal be renued, &amp; þ<HI REND="italic">i</HI> bonys cured from al strif,</L>
+<L>And þ<HI REND="italic">i</HI> v<HI REND="italic">er</HI>tu neu<HI REND="italic">er</HI> faile, þe sothe now I the say. <MILESTONE N="555"/></L>
+<L>Thy Iuuent schal haue no<HI REND="italic">n</HI> age, þ<HI REND="italic">i</HI> beaute schal laste ay,</L>
+<L>Of alle þ<HI REND="italic">at</HI> fle to oure lordis name, god &amp; heuene kyng,</L>
+<L>Thu schalt be as Cite bild of ioye, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>oute endyng."</L>
+</LG>
+<LG>
+<PB N="250" REF="27"/>
+<L>He touched þe comb broke w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his hand, hool it was anone,</L>
+<L>He touched þe hony w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hys fynger upon þe este partie, <MILESTONE N="560"/></L>
+<L>He drow his fynger ageyn to hym to þe west part sone,</L>
+<L>And þe way of his fynger was mad al blodi,</L>
+<L>He drow his fynger þ<HI REND="italic">er</HI>on fro þ<HI REND="italic">e</HI> north to þ<HI REND="italic">e</HI> sowth surly;</L>
+<L>The way of hys fynger þ<HI REND="italic">er</HI> was t<HI REND="italic">ur</HI>ned in to blood,</L>
+<L>And asneth biheld al that he did, in his lift side sche stood. <MILESTONE N="565"/></L>
+</LG>
+<LG>
+<L>The aungel saide, "vpon þ<HI REND="italic">e</HI> comb behold &amp; take hede,"</L>
+<L>&amp; bees come oute þ<HI REND="italic">er</HI>of ful fele, &amp; white as þe snow,</L>
+<L>Here wynges were of purpre hewe, aboute here þei yede,</L>
+<L>&amp; wrou<HI REND="italic">th</HI>e a honycomb in her handis &amp; ete þ<HI REND="italic">er</HI>of Inow.</L>
+<L>The aungel saide þen to þe bees as I schal tel yow, <MILESTONE N="570"/></L>
+<L>"Go ye now in to yo<HI REND="italic">ur</HI> place." þei wente toward þe est,</L>
+<L>Into paradis. þe angel saide, "asneth, al this þ<HI REND="italic">u</HI> seest?"</L>
+</LG>
+<LG>
+<L>She answered, "ye, my lord," þe aungel saide þe<HI REND="italic">n</HI>ne,</L>
+<L>"So my wordis schul be fulfild þat I haue said to þe."</L>
+<L>T[h]e comb he touched w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his hand, &amp; fire bygan to <MILESTONE N="575"/> brenne,</L>
+<L>And co<HI REND="italic">n</HI>sumed þe comb anon, not hurtyng bord ne tre.</L>
+<L>The fragrant odo<HI REND="italic">ur</HI> of þ<HI REND="italic">at</HI> bre<HI REND="italic">n</HI>nyng yt was swete &amp; fre.</L>
+<L>Asneth saide, "I haue seuen maidenes on o ny<HI REND="italic">g</HI>ht bore,</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> me, as my sisteres I loue hem alle þ<HI REND="italic">er</HI>fore.</L>
+</LG>
+<LG>
+<L>"To blesse hem as þ<HI REND="italic">u</HI> hast me afore þ<HI REND="italic">e</HI> I hem calle." <MILESTONE N="580"/></L>
+<L>"Calle on," he saide: sche called sone; þei come to his p<HI REND="italic">re</HI>sence,</L>
+<L>The aungel saide, "almyghti god lord blesse you alle,</L>
+<L>Be ye to þe city of refute seven pileris i<HI REND="italic">n</HI> assistence,</L>
+<L>&amp; alle dwellyng in þ<HI REND="italic">at</HI> Cite schul reste on yo<HI REND="italic">ur</HI> prudence."</L>
+<L>The aungel saide to asneth þen, "þis bord awey þ<HI REND="italic">u</HI> dihte." <MILESTONE N="585"/></L>
+</LG>
+<LG>
+<PB N="251" REF="28"/>
+<L>Sche t<HI REND="italic">ur</HI>ned and saw like a char w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> foure hors passyng</L>
+<L>In heuen toward the est like flame of fire reed,</L>
+<L>The hors assembling to þ<HI REND="italic">e</HI> flame, of þunder leihtnyng</L>
+<L>Sche saw þ<HI REND="italic">e</HI> aungel vpon þe char standyng in þ<HI REND="italic">at</HI> steed,</L>
+<L>Þ<HI REND="italic">at</HI> he was aungel sche was unknowe þ<HI REND="italic">er</HI>fore sche said <MILESTONE N="590"/> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> dreed,</L>
+<L>"Alas. I haue spoke w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> godis aungel, haue m<HI REND="italic">er</HI>cy on þ<HI REND="italic">i</HI> hand maide,</L>
+<L>For þ<HI REND="italic">e</HI> wordis I spak in þ<HI REND="italic">i</HI> p<HI REND="italic">re</HI>sence in ignorance I hem saide."</L>
+</LG>
+<LG>
+<L>And asneth yet þus spekyng, a younge man cam ful faste</L>
+<L>Of þe s<HI REND="italic">er</HI>uantes of putifaris, &amp; to here he saide,</L>
+<L>"Ioseph þe strong<HI REND="italic">e</HI> man of god cometh here in haste, <MILESTONE N="595"/></L>
+<L>His messanger ys at þ<HI REND="italic">e</HI> gate." and asneth forth sche braide</L>
+<L>And stood aside in a tresance, sche was ful wel apaide,</L>
+<L>Ioseph entred into halle, þe gatis men did spere, <NOTE N="27" PLACE="foot"><HI REND="italic">spredere</HI> sic MS.</NOTE></L>
+<L>And shitte out alle st<HI REND="italic">ra</HI>ungeris þ<HI REND="italic">at</HI> no man schul hym dere.</L>
+</LG>
+<LG>
+<L>And asneth wente to mete ioseph out of þ<HI REND="italic">e</HI> tresance goyng. <MILESTONE N="600"/></L>
+<L>Ioseph saw here &amp; gan to wondir upon [here?] beaute bright,</L>
+<L>For sche was chaunged &amp; enbelised by þe angelis co<HI REND="italic">m</HI>munyng,</L>
+<L>&amp; ioseph saide, "who art þ<HI REND="italic">u?</HI> telle me anon riht."</L>
+<L>"I am þ<HI REND="italic">i</HI> handmaide," quod sche, "to þ<HI REND="italic">i</HI> co<HI REND="italic">m</HI>maundement diht,</L>
+<L>And alle mamettis I haue do away, &amp; utterli forsake, <MILESTONE N="605"/></L>
+<L>Þe aungel of god fedde me today &amp; heuenly fode me take,</L>
+</LG>
+<LG>
+<PB N="252" REF="29"/>
+<L>And saide, 'I haue gyfe þ<HI REND="italic">e</HI> today wyf unto Ioseph,</L>
+<L>And he schal be thi spouse, in the wordle w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>oute ende;</L>
+<L>&amp; saide my name, schulde no more be called asneth,</L>
+<L>But Cite of refute and þ<HI REND="italic">i</HI> lord god schal þ<HI REND="italic">e</HI> sende, <MILESTONE N="610"/></L>
+<L>'Moche peple þ<HI REND="italic">at</HI> þ<HI REND="italic">u</HI> schale turne &amp; to almyhty god wende'</L>
+<L>He saide me more, 'to ioseph forth now schal I passe,</L>
+<L>And speke <NOTE N="28" PLACE="foot">spake MS.</NOTE> þise wordis in his eris, of þe more &amp; lasse.'</L>
+</LG>
+<LG>
+<L>"Now þ<HI REND="italic">u</HI> knowyst, my lord Ioseph, yf þe aungel cam to þ<HI REND="italic">e,</HI></L>
+<L>And spoke to þe of me the wordis þ<HI REND="italic">at</HI> I shewe." <MILESTONE N="615"/></L>
+<L>Þen ioseph sayde, "of hiest god, asneth, blessed þ<HI REND="italic">u</HI> be,</L>
+<L>&amp; þ<HI REND="italic">i</HI> name, in kynredis blessed of kynredes schal renewe,</L>
+<L>For god of heuen loued þ<HI REND="italic">e</HI> &amp; send me his angel trewe,</L>
+<L>&amp; spake of the to me þise wordis; &amp; þ<HI REND="italic">er</HI>fore, maide com ner,</L>
+<L>What ys þe cause þ<HI REND="italic">u</HI> standist fro me now so fer?" <MILESTONE N="620"/></L>
+</LG>
+<LG>
+<L>And ioseph streihte out his hand, &amp; loueli gan her brace,</L>
+<L>Þei kiste þen bothe in same w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> cu<HI REND="italic">n</HI>tenance excellent,</L>
+<L>Then saide sche, "my lord Ioseph, entre into our<HI REND="italic">e</HI> place."</L>
+<L>Sche ladde hym in by þe right hand, here fadir was absent,</L>
+<L>Sche broughte wat<HI REND="italic">er</HI> to wasse his feet, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ful trewe entent, <MILESTONE N="625"/></L>
+<L>And he asked anoþ<HI REND="italic">er</HI> maide to whasshe ys fete þere,</L>
+<L>And asneth saide, "I schal hem wasshe, ye ar my lord dere,</L>
+</LG>
+<LG>
+<L>"Fro hennys forth I am þin awne þ<HI REND="italic">i</HI> handmaid &amp; þ<HI REND="italic">i</HI> thrall,</L>
+<L>Whi askest þ<HI REND="italic">u</HI> anothir maide to wasshe þ<HI REND="italic">i</HI> feet here?</L>
+<L>Thi feet ar myn owne feet, þ<HI REND="italic">i</HI> handdis also w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> all, <MILESTONE N="630"/></L>
+<L>And þ<HI REND="italic">i</HI> soule ys my soule, þ<HI REND="italic">u</HI> are thn myn owne fere."</L>
+<L>Sche constreyned hym &amp; weesh hys feet w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ful good chere.</L>
+<L><PB N="253" REF="30"/>
+And he behold here faire handis of beaute þ<HI REND="italic">er</HI> was no misse</L>
+<L>He tok here by þe right hand and louely did here kysse.</L>
+</LG>
+<LG>
+<L>He made here þen sitte by hym vpon his right hand; <MILESTONE N="635"/></L>
+<L>Here fadir here modir &amp; here kynreed com out of þe feld</L>
+<L>Of here heritage, and wondering stil thei gan stande.</L>
+<L>The glorious beaute of here douhter m<HI REND="italic">er</HI>vaillus þei beheld.</L>
+<L>Thei saw here sitte w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ioseph, reu<HI REND="italic">er</HI>ence to hym þei yeld.</L>
+<L>More þei m<HI REND="italic">er</HI>vailed þat sche wered on þe stole of here wed∣dynge, <MILESTONE N="640"/></L>
+<L>And after þei ete &amp; dri<HI REND="italic">n</HI>ke togedir, gretly enioynge.</L>
+</LG>
+<LG>
+<L>Then saide putifar to ioseph, "to morwe I schal calle</L>
+<L>Alle þ<HI REND="italic">e</HI> gou<HI REND="italic">er</HI>nouris of pharoa and p<HI REND="italic">ri</HI>nces of egipt lande,</L>
+<L>And make espousailes vnto you, my douhter take þ<HI REND="italic">u</HI> schalle,</L>
+<L>Vnto þ<HI REND="italic">i</HI> wyf." þen saide ioseph, "thu schalt vnderstande, <MILESTONE N="645"/></L>
+<L>I schal go myself tomorwe, and þ<HI REND="italic">at</HI> werke take on hande,</L>
+<L>&amp; speke to pharao of egipt kyng, my fadir of gret hono<HI REND="italic">ur,</HI></L>
+<L>Of al his land he hath me mad chief p<HI REND="italic">ri</HI>nce &amp; gou<HI REND="italic">er</HI>no<HI REND="italic">ur.</HI></L>
+</LG>
+<LG>
+<L>"And I schal speke in his eris of asneth plesantly,</L>
+<L>And he schal yeve here me to wyf w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> solempnite." <MILESTONE N="650"/></L>
+<L>Then said putifar, "go forth w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> pees ful obeisantly,"</L>
+<L>But w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> putifar he dwelled al ny<HI REND="italic">g</HI>ht w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> tranquillite,</L>
+<L>And w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> asneth sclepte he not, but said in verite</L>
+<L>"His is no right þat a man þat wirshipeth god an hihe</L>
+<L>Afore espousailes i<HI REND="italic">n</HI> no wyse w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his wyf to lye." <MILESTONE N="655"/></L>
+</LG>
+<LG>
+<L>Ioseph ros vp tymely, to kyng<HI REND="italic">e</HI> pharao he goes,</L>
+<L>And said, "graunte me to wyf asneth, þe maide reu<HI REND="italic">er</HI>ent,</L>
+<L><PB N="254" REF="31"/>
+The douht<HI REND="italic">er</HI> of preest putifar of olinpoleos."</L>
+<L>&amp; pharao saide, "to þ<HI REND="italic">e,</HI> ioseph, Þe maide is co<HI REND="italic">n</HI>gruent,</L>
+<L>For sche is a maide clene as thu, tak to her to þin entent. <MILESTONE N="660"/></L>
+<L>Be sche to þ<HI REND="italic">e</HI> þ<HI REND="italic">i</HI> dere spouse in wordle eu<HI REND="italic">er</HI>lastyng<HI REND="italic">e.</HI>"</L>
+<L>And pharao send to putifar his douhter forth to bring<HI REND="italic">e.</HI></L>
+</LG>
+<LG>
+<L>Afore pharao asneth stood in his hihe p<HI REND="italic">re</HI>sence</L>
+<L>And he wondering on here beaute, "endure w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">e</HI> For ay</L>
+<L>* * * * *</L>
+<L>The rightful god of ioseph hath chose þe his spouse today, <MILESTONE N="665"/></L>
+<L>* * * * *</L>
+<L>And ioseph is called the sone of god of hih dignite,</L>
+<L>And þ<HI REND="italic">u</HI> schalt be called his owen spouse in perpetuite."</L>
+</LG>
+<LG>
+<L>Pharao þen tok hem bothe and here hedis frette</L>
+<L>W<HI REND="italic">i</HI>t<HI REND="italic">h</HI> crounys of pure gold, þat riche wer of atire,</L>
+<L>Upon þ<HI REND="italic">e</HI> right side of ioseph asneth þen he sette, <MILESTONE N="670"/></L>
+<L>And laide his handis on here hedis &amp; saide in his desire,</L>
+<L>"Blesse you now þe lord god of þe heuenly empire,</L>
+<L>And fulfille you et<HI REND="italic">er</HI>nally w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> glorie, ioye, and blisse."</L>
+<L>And after t<HI REND="italic">ur</HI>ned hem mouth to mouth, &amp; togedir did he<HI REND="italic">m</HI> kysse.</L>
+</LG>
+<LG>
+<L>And after pharao dide þe weddynges to be solempnised, <MILESTONE N="675"/></L>
+<L>Callyng alle p<HI REND="italic">ri</HI>nces and gou<HI REND="italic">er</HI>no<HI REND="italic">urs</HI> of egipt land þerto,</L>
+<L>A rial feste by seuen dayes during was deuised,</L>
+<L>And pharao declaret a newe decree to alle hys land also,</L>
+<L>Sayngge, "what man þ<HI REND="italic">at</HI> ony werke eu<HI REND="italic">er</HI> her<HI REND="italic">e</HI> after do</L>
+<L>In the day, þat ioseph &amp; asneth were wedded inne, <MILESTONE N="680"/></L>
+<L>Thei schul dye in grevus deth, for that gret synne."</L>
+</LG>
+<LG>
+<L>And after Ioseph knewe his wyf sche co<HI REND="italic">n</HI>ceived sone,</L>
+<L>And bar manasses &amp; effraim, þis was her<HI REND="italic">e</HI> p<HI REND="italic">ro</HI>creacion,</L>
+<L><PB N="255" REF="32"/>
+And aftir asneth seurly to god sche mad here mone,</L>
+<L>Remembering here olde synne by prive meditac<HI REND="italic">i</HI>on, <MILESTONE N="685"/></L>
+<L>And after mo<HI REND="italic">u</HI>rnyng þus sche saide, <NOTE N="29" PLACE="foot">sche saide <HI REND="italic">rep. in MS.</HI></NOTE> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret lamentac<HI REND="italic">i</HI>on,</L>
+<L>"Lord, synned I haue synned, moche synned in þ<HI REND="italic">i</HI> p<HI REND="italic">re</HI>sence,</L>
+<L>Asneth, dowhter of putifar, pardone myn offence.</L>
+</LG>
+<LG>
+<L>"Most foulest in my fadir hous I was of gou<HI REND="italic">er</HI>nance,</L>
+<L>A maide enhansed &amp; right proud, I haue synned, lord, to þ<HI REND="italic">e,</HI> <MILESTONE N="690"/></L>
+<L>Fals godis herid w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oute nombre to my daliance,</L>
+<L>&amp; ete bred of her sacrifice so synned in þ<HI REND="italic">at</HI> degre,</L>
+<L>Synned, lord, I haue synned in þ<HI REND="italic">i</HI> sihte fre,</L>
+<L>&amp; ete of bord of pestilence, bred þ<HI REND="italic">at</HI> is st<HI REND="italic">ra</HI>ungling,</L>
+<L>&amp; dranke of þe chalis of defaute in þ<HI REND="italic">i</HI> presence synnyng. <MILESTONE N="695"/></L>
+</LG>
+<LG>
+<L>"And of the lord of heuene I was ignoraunt,</L>
+<L>Not tristyng in þ<HI REND="italic">e</HI> hihe god þ<HI REND="italic">at</HI> art lyf et<HI REND="italic">er</HI>nall;</L>
+<L>I haue synned, lord, in þ<HI REND="italic">i</HI> p<HI REND="italic">re</HI>sence, my synne is displiant.</L>
+<L>For I triste on my richesse &amp; my beaute w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> alle,</L>
+<L>I haue synned, lord, lift up w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> pride, confesse so I schall, <MILESTONE N="700"/></L>
+<L>I was dispisyng eu<HI REND="italic">er</HI>y man on erthe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> errour,</L>
+<L>Ther stood neu<HI REND="italic">er</HI> man in my p<HI REND="italic">re</HI>sence þ<HI REND="italic">at</HI> I gaf fauor.</L>
+</LG>
+<LG>
+<L>"Alle my woweris I dispised, of hem I hadde disdeyn.</L>
+<L>Synned, lord, I haue synned in p<HI REND="italic">re</HI>sence of þ<HI REND="italic">i</HI> face,</L>
+<L>For I saide, þ<HI REND="italic">er</HI> was no p<HI REND="italic">ri</HI>nce w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> glorie þ<HI REND="italic">at</HI> was veyn <MILESTONE N="705"/></L>
+<L>Þat þe girdel of my maydenhed was worthi to vnbrace.</L>
+<L>I willed to marie þ<HI REND="italic">e</HI> kyngis sone, so proud was my trace,</L>
+<L>Synnyng, lord, I haue synned contynuyng in þ<HI REND="italic">i</HI> p<HI REND="italic">re</HI>sence,</L>
+<L>Til ioseph þe myhty man of god tok me w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> excellence,</L>
+<L><PB N="256" REF="33"/>
+"For as þ<HI REND="italic">e</HI> fyssh by the hook ys take by distresse, <MILESTONE N="710"/></L>
+<L>So ys beaute drow me to hym by vertuus p<HI REND="italic">ro</HI>uydence;</L>
+<L>And ladde me to almighty god w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret gentylesse, <NOTE N="30" PLACE="foot">gentynesse MS.</NOTE></L>
+<L>And did me taste of þe drynke of [t]he e<HI REND="italic">te</HI>rnal sapience,</L>
+<L>And now I am mad his conthorall by his adu<HI REND="italic">er</HI>tence</L>
+<L>Ay to dwelle w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hym in wordle w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oute ende, <MILESTONE N="715"/></L>
+<L>Synned, lord, I haue synned remission þ<HI REND="italic">u</HI> me sende."</L>
+</LG>
+<LG>
+<L>And after seven yeer were passed of plentevus abu<HI REND="italic">n</HI>dance</L>
+<L>Þ<HI REND="italic">er</HI> bygu<HI REND="italic">n</HI>ne seuen yeer of hunger scars &amp; cher<HI REND="italic">e,</HI></L>
+<L>And Iacob herd of Ioseph, and w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret plesance,</L>
+<L>He com into egipt land w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his kynrede in fere, <MILESTONE N="720"/></L>
+<L>In the secunde monthe the secu<HI REND="italic">n</HI>de yeer when vitaile was dere,</L>
+<L>The on and twenti day of þe monthe, Israell cam don then</L>
+<L>And descended w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> his kynred into þe land of iessen.</L>
+</LG>
+<LG>
+<L>Then saide asneth to ioseph, "the fadir I schal go se,</L>
+<L>For a god he is to me, þ<HI REND="italic">i</HI> fader israel." <MILESTONE N="725"/></L>
+<L>&amp; ioseph saide, "to se hym com now forth w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> me."</L>
+<L>And þei com to iacob to þ<HI REND="italic">e</HI> land of iessen well.</L>
+<L>And ioseph brethere<HI REND="italic">n</HI> mette hem w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> reu<HI REND="italic">er</HI>ence &amp; reuell;</L>
+<L>Þei wirshiped hym, don upon þe erthe louely obeyng,</L>
+<L>Thei entred in to iacob where was his loggyng. <MILESTONE N="730"/></L>
+</LG>
+<LG>
+<L>Israel sittyng on his bed, old &amp; of gret age,</L>
+<L>Asneth saw hym &amp; m<HI REND="italic">er</HI>uailed for iacob was good in sight,</L>
+<L>Of hys age ful reu<HI REND="italic">er</HI>ent, as youthe of fair parage,</L>
+<L>His heed white as þe snow, his berd to þe brest right,</L>
+<L>Al white was sittyng, and his yees schynyng as liht, <MILESTONE N="735"/></L>
+<L><PB N="257" REF="34"/>
+Hys synewes schuldirs &amp; his armes were stable &amp; vailant,</L>
+<L>Hys knes schynys ant his feet like to a geaunt.</L>
+</LG>
+<LG>
+<L>And asneth salued hym on here knes w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> hu<HI REND="italic">m</HI>ble co<HI REND="italic">n</HI>te∣nance,</L>
+<L>Then said iacob to ioseph, "my sone thy wyf þis is?"</L>
+<L>He said, "ye." þan iacob this wordis to here gan vance, <MILESTONE N="740"/></L>
+<L>"Blessed be thu, doughter of hiest god," &amp; after he did here kys.</L>
+<L>And after þei ete &amp; drunke togedir, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> gret ioy &amp; blys,</L>
+<L>And þenne Ioseph &amp; asneth afore hem were sente.</L>
+</LG>
+<LG>
+<L>In the right side of asneth was leuy in assistence, <MILESTONE N="745"/></L>
+<L>And symeon þe left p<HI REND="italic">ar</HI>tie wente by &amp; by,</L>
+<L>&amp; asneth loued leuy wel for hys intelligence.</L>
+<L>And after as sche in pharaois hous walked plesau<HI REND="italic">n</HI>tly,</L>
+<L>Pharaois sone beheld here as he loked an hy,</L>
+<L>Þat was his firste bygeten child, his sone &amp; his here. <MILESTONE N="750"/></L>
+<L>Anon he brente on here for loue, her beaute was so fair.</L>
+</LG>
+<LG>
+<L>Wherefore he languyshed for loue, &amp; nyste what to do.</L>
+<L>But sone he sente messagers to symeon &amp; leui,</L>
+<L>Þat were þe bretheren of ioseph, &amp; thus said hem to:</L>
+<L>"I knowe wel þ<HI REND="italic">at</HI> ye are men stronge and mihty, <MILESTONE N="755"/></L>
+<L>And meny a sichym ye han slayn w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> swerd ma<HI REND="italic">n</HI>fully,</L>
+<L>And now I p<HI REND="italic">ra</HI>y you tenderly for to helpe me,</L>
+<L>I schal you gife goold &amp; siluer &amp; men gret plente.</L>
+</LG>
+<LG>
+<L>"Seruantis assis &amp; chamelis to youre lote schal falle</L>
+<L>I warne you þat to yo<HI REND="italic">ur</HI> brother I haue gret enuye, <MILESTONE N="760"/></L>
+<L>For he hath asneth to his wyf, ordeyned me first of alle.</L>
+<L><PB N="258" REF="35"/>
+Þ<HI REND="italic">er</HI>fore asneth now to me, on my swerd schal he dye,</L>
+<L>Asneth to spouse þen schal I haue I tel you trulye.</L>
+<L>Then schal I take you as my brethere tristy &amp; trewe</L>
+<L>And yf ye dispise my cu<HI REND="italic">n</HI>seil sore ye schul yt rewe. <MILESTONE N="765"/></L>
+</LG>
+<LG>
+<L>"For my swerd ageyns you þen schal I araye."</L>
+<L>Then spak leui unto hym w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> riht bolde chere,</L>
+<L>"Wherto speketh my lord þise wordis us to afraye?</L>
+<L>We are men þat worship god, ant oure fadir dere</L>
+<L>Ys þe child of his god and our brother in al manere <MILESTONE N="770"/></L>
+<L>Ys dredyng gretly god, thi word hou schul we do?</L>
+<L>To synne so in godis p<HI REND="italic">re</HI>sence &amp; oure fadirs also.</L>
+</LG>
+<LG>
+<L>"Therefore heer now my wordis &amp; do not þyn entent,</L>
+<L>For howre brother tok here not of his owen acceptance,</L>
+<L>But by the lawe of thi fadir &amp; of his consent, <MILESTONE N="775"/></L>
+<L>And yf þ<HI REND="italic">u</HI> dwelle in þ<HI REND="italic">i</HI> purpoos of wykked purueance,</L>
+<L>Oure swerdis, lo, in our handis wyt þ<HI REND="italic">e</HI> in variance,</L>
+<L>In þ<HI REND="italic">i</HI> p<HI REND="italic">re</HI>sence w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> oure brother ful redi for to dye."</L>
+<L>And when pharaois sone herd þis, he dred hem gretlye.</L>
+</LG>
+<LG>
+<L>Then symeon and leui went out fro his p<HI REND="italic">re</HI>sence, <MILESTONE N="780"/></L>
+<L>And pharaois sone was replete w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sorwe, drede, &amp; ire.</L>
+<L>To iniure he dradde ioseph for his gret prudence.</L>
+<L>Yet on þe beaute of asneth his corage was a fire,</L>
+<L>His meyne þen saide unto hym, to plesance of his desire,</L>
+<L>"Lo þe sonys of handmaides to rachell &amp; to lye, <MILESTONE N="785"/></L>
+<L>Of bale and of zelphe to ioseph haue envye.</L>
+</LG>
+<LG>
+<L>"Þei wil be redy to do þ<HI REND="italic">i</HI> wil;" &amp; forth þei were fett,</L>
+<L>&amp; pharaois sone vnto hym þen did hem calle,</L>
+<L><PB N="259" REF="36"/>
+&amp; saide, "lo, here lyf and deth afore your face ys fett.</L>
+<L>Taketh þe lyf and not þe deth, I cunseyl you w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> al. <MILESTONE N="790"/></L>
+<L>I herde ioseph sey to my fadyr, þ<HI REND="italic">at</HI> ye wer children þral</L>
+<L>'And not my bretheren, I abyde hem vtterly to destruye</L>
+<L>After the deth of my fadir &amp; al here gen<HI REND="italic">er</HI>ac<HI REND="italic">i</HI>on nuye,</L>
+</LG>
+<LG>
+<L>Thei schul neu<HI REND="italic">er</HI> enherite w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> vs, þe sonis of seruage,</L>
+<L>Þise solde <NOTE N="31" PLACE="foot">scholde MS.</NOTE> me to þe Ismalitis, I schal yelde he[m] malice, <MILESTONE N="795"/></L>
+<L>Þat þei maligned ageyns me in here gret outrage.'</L>
+<L>My fadyr pharao p<HI REND="italic">re</HI>ised hym &amp; said þ<HI REND="italic">at</HI> he was wyse</L>
+<L>And saide 'I schal werke w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þe after þ<HI REND="italic">i</HI> deuyse.'</L>
+<L>And after þei hadde herde þise wordis of þe sone of pharao,</L>
+<L>Þei said troubled gretly "lord [what] schal we do?" <MILESTONE N="800"/></L>
+</LG>
+<LG>
+<L>He saide, "my fadir pharao I schal sle þis nyht,</L>
+<L>For he is as fadir to ioseph &amp; loueth hym gretly,</L>
+<L>And ye youre brother ioseph to deth ye schul dyht,</L>
+<L>Þen schal I haue asneth to wyf, þat fair is &amp; louely,</L>
+<L>&amp; ye schul haue part of myn heritage as my breth<HI REND="italic">re</HI> tristy. <MILESTONE N="805"/></L>
+<L>Þen saide þe bretheren Gad &amp; dan, "þ<HI REND="italic">i</HI> men lord we be,</L>
+<L>What þ<HI REND="italic">u</HI> cumau<HI REND="italic">n</HI>dis hit schal be do &amp; more we telle þe.</L>
+</LG>
+<LG>
+<L>"We herde ioseph to asneth saie to morwe þ<HI REND="italic">u</HI> schal go</L>
+<L>Into felde of howere heritage for now is heruest seson</L>
+<L>And co<HI REND="italic">m</HI>maundet six hu<HI REND="italic">n</HI>dred men to passe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> here also, <MILESTONE N="810"/></L>
+<L>Com<HI REND="italic">m</HI>aunde vs, lord, mo fihtyng<HI REND="italic">e</HI> men þ<HI REND="italic">at</HI> we may by reson</L>
+<L>Go afore hem on þe nyht &amp; leye a bushment w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> treson,</L>
+<L>Bi the brook &amp; hide vs þere in the spers of þe redis,</L>
+<L>And tak w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> the fyve hundred archeris what so eu<HI REND="italic">er</HI> nedis,</L>
+</LG>
+<LG>
+<PB N="260" REF="37"/>
+<L>"And go afore vs a good way fert out in lengthe, <MILESTONE N="815"/></L>
+<L>And asneth w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> ynne our bushment þen come schalle,</L>
+<L>&amp; we schulle sle here men echon, þ<HI REND="italic">at</HI> be w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> here by stren[g]the,</L>
+<L>And asneth wil fle on here char &amp; in our handis falle,</L>
+<L>Þ<HI REND="italic">u</HI> schalt parfo<HI REND="italic">ur</HI>me þen þ<HI REND="italic">i</HI> wil and thi desires alle,</L>
+<L>Then schul we ioseph &amp; hys children sle byfore þ<HI REND="italic">i</HI> ye." <MILESTONE N="820"/></L>
+<L>When pharaois sone þise wordis herde, he enyoyed gretly</L>
+</LG>
+<LG>
+<L>And sende to hem two þousand þ<HI REND="italic">at</HI> armed were briht,</L>
+<L>Þei wente and hidde hem by þe broke in þ[e][r]eed <NOTE N="32" PLACE="foot">þeed MS.</NOTE> slily,</L>
+<L>&amp; pharaois sone roos up on the same nyht,</L>
+<L>And com to his fadir chamber to entre in prively. <MILESTONE N="825"/></L>
+<L>His fadir wacche forbad hit hym, &amp; told þe cause why,</L>
+<L>"Thi fadir hed of wacche it aketh &amp; now reste hath take,</L>
+<L>He forbad entre to eu<HI REND="italic">er</HI>y man þ<HI REND="italic">at</HI> non scholde hym wake."</L>
+</LG>
+<LG>
+<L>And when he herde þise wordis he departed þan,</L>
+<L>And toke five hundred archiris, afore þe gate he wente, <MILESTONE N="830"/></L>
+<L>After þat þ<HI REND="italic">at</HI> yt was spoke bothe by gad ant dan.</L>
+<L>And asneth aros tymely to ioseph sche here mente,</L>
+<L>"I go to þe feld of oure heritage after þyn entente,</L>
+<L>But sor[l]y dredeth now my soule þ<HI REND="italic">at</HI> we schul p<HI REND="italic">ar</HI>ted be."</L>
+<L>Ioseph said "dred nothyng, for god is with þe, <MILESTONE N="835"/></L>
+</LG>
+<LG>
+<L>And schal kepe the fro al disese, as þe appel of þe ye,</L>
+<L>For I schal go and gif bred to þe land aboute."</L>
+<L>And bothe þenne þei toke here way, &amp; asneth cam bye</L>
+<L>Vpon the brook, and six hu<HI REND="italic">n</HI>dred men w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> here in a route,</L>
+<L>And sodeynly the hus[h]ment brake on hem a shoute, <MILESTONE N="840"/></L>
+<L>And slowe hem ful cruelly in þe egge of the swerde,</L>
+<L>And beniamin fledde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> asneth <NOTE N="33" PLACE="foot">asketh MS.</NOTE> on here char aferd.</L>
+</LG>
+<LG>
+<PB N="261" REF="38"/>
+<L>A man þ<HI REND="italic">er</HI> scaped away, þ<HI REND="italic">at</HI> was w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> asneth there,</L>
+<L>And told leui and his brother in haste of the afrai.</L>
+<L>Men of armes þei tok forth, hors, harneis, and geer, <MILESTONE N="845"/></L>
+<L>&amp; after asneth quicly thei folwed on the way,</L>
+<L>And sone in haste þei come there þ<HI REND="italic">at</HI> þ<HI REND="italic">e</HI> busment lay,</L>
+<L>And fille on hem sodeinly, &amp; gaf hem dethis wou<HI REND="italic">n</HI>de,</L>
+<L>Gad &amp; dan entred þe redis &amp; hid hem þat stounde.</L>
+</LG>
+<LG>
+<L>Beniamyn, abydyng w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> asneth, saw pharaois sone com on <MILESTONE N="850"/></L>
+<L>To sette hand upon here, þ<HI REND="italic">er</HI>of he was war,</L>
+<L>In the lift side of þe sculle he smote hym w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> a ston,</L>
+<L>Þat fro his hors w<HI REND="italic">ith</HI> þe same to þe grou<HI REND="italic">n</HI>de he hym bar,</L>
+<L>As good as ded þere he lay, he gaf hym swych a scar.</L>
+<L>His horsmen and archeris when þei saw þ<HI REND="italic">at</HI> siht, <MILESTONE N="855"/></L>
+<L>Þei fledde to þ<HI REND="italic">e</HI> redis &amp; hidde hem þ<HI REND="italic">er</HI> right.</L>
+</LG>
+<LG>
+<L>When beniamyn saw symeon &amp; leui comyng<HI REND="italic">e</HI></L>
+<L>He was glad, and gaf asneth wordis of good chere,</L>
+<L>And after þei assembled ful gretly enioyng<HI REND="italic">e</HI></L>
+<L>Askyng<HI REND="italic">e</HI> after gad and dan yf þei sawe hem there, <MILESTONE N="860"/></L>
+<L>Willyng to haue slayn hem w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> p<HI REND="italic">ur</HI>pos entere,</L>
+<L>But asneth saw þei souhte her brether to sle hem in rage,</L>
+<L>And myldely w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> softe wordis her w[r]ath sche gan swage.</L>
+</LG>
+<LG>
+<L>"Ye schal not now do þis þyng<HI REND="italic">e,</HI> youre brethere þei be,</L>
+<L>Of the kynde of your<HI REND="italic">e</HI> fadir and yf ye slowe hem so, <MILESTONE N="865"/></L>
+<L>Ye schulde be rep<HI REND="italic">re</HI>f to alle men tristeþ to me,</L>
+<L>And make your fadir sori &amp; sette his hert in wo."</L>
+<L>And when sche hadde þus said her ire swaged tho,</L>
+<L>Aftir þei tok up pharaois sone, þe blood fro hym wasshyng,</L>
+<L>And sette hym on a hors, his wondis softe byndyng; <MILESTONE N="870"/></L>
+</LG>
+<LG>
+<PB N="262" REF="39"/>
+<L>Þen þei laidede hym to hys fadir, &amp; told hym more &amp; myn.</L>
+<L>Pharao thanked gretly god þat he was not slayn,</L>
+<L>Þe þridde day he was ded be þe wou<HI REND="italic">n</HI>de of beniamin,</L>
+<L>And pharao sorwed sore for hym and gretly did co<HI REND="italic">m</HI>playn,</L>
+<L>And þ<HI REND="italic">at</HI> sorwe w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> sikenesse so sore gan hym co<HI REND="italic">n</HI>strayn <MILESTONE N="875"/></L>
+<L>Þat pharao dide in þe age of nynty &amp; nyne yeer,</L>
+<L>Leuyng<HI REND="italic">e</HI> his kyngdom to ioseph þ<HI REND="italic">at</HI> was hym leef &amp; deer.</L>
+</LG>
+<LG>
+<L>Ioseph regned nobeli þ<HI REND="italic">er</HI>e wyth gret p<HI REND="italic">ro</HI>sperite</L>
+<L>Fourty yeer and eyht, ful g<HI REND="italic">ra</HI>ciously gou<HI REND="italic">er</HI>nyng<HI REND="italic">e,</HI></L>
+<L>And after he gaf his diademe to pharaois sone fre, <MILESTONE N="880"/></L>
+<L>Þat was at his fadir deth at þe brest soukyng,</L>
+<L>And ioseph was called in egipt fadir to þ<HI REND="italic">e</HI> kyng.</L>
+<L>Þus endeth the storie of asneth to your<HI REND="italic">e</HI> remembrance,</L>
+<L>My rude t<HI REND="italic">ra</HI>nslacion I p<HI REND="italic">ra</HI>y you tak hit w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> plesance.</L>
+</LG>
+</DIV2>
+<DIV2 TYPE="epilogue">
+<HEAD>[Epilogue]</HEAD>
+<LG>
+<L>Ha, cruell deeth! contrarious to creatures in kynde, <MILESTONE N="885"/></L>
+<L>Ha, deeth dispitous! who may ad<HI REND="italic">ue</HI>rtise</L>
+<L>Thi mourther, thi malice, who may haue in mende</L>
+<L>The myschief, that to mankynde þu dost exercise?</L>
+<L>Thi rigour, þi rancour who may devyse?</L>
+<L>The matyng of þi miserie no man may endure, <MILESTONE N="890"/></L>
+<L>For thi chekkes conclude eueri creature.</L>
+</LG>
+<LG>
+<L>Thu are to alle creatures hidous to beholde,</L>
+<L>Thu pyllour, thu pirate, cesse of þ<HI REND="italic">i</HI> prise.</L>
+<L>Thi felonye ys multiplied in so many folde</L>
+<L>That al the worlde generally of the, deþ, agrise. <MILESTONE N="895"/></L>
+<L>Stynt of þi malice, for wyth thy malgyse</L>
+<L>Louers ful lykynge and lusty in game</L>
+<L>Thu marrest w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> myschief, and makest hem lame.</L>
+</LG>
+<LG>
+<PB N="263" REF="40"/>
+<L>Thu tyraunt on emp<HI REND="italic">er</HI>at, w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> thi tene &amp; treson,</L>
+<L>Thi solas of sou<HI REND="italic">er</HI>aignes þu dost siluestrise, <MILESTONE N="900"/> <NOTE N="34" PLACE="foot">From O.F. siluestre. The verb does not, I think, occur in French.</NOTE></L>
+<L>And ladies likyng thu sleest out of seson,</L>
+<L>And reuest hem here ryalty w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þ<HI REND="italic">i</HI> reprise,</L>
+<L>Thyn insaciable malice who may acomplise?</L>
+<L>When þat loueli ladies thu leyest so lowe</L>
+<L>And here bright beaute þu blemishest in a throwe. <MILESTONE N="905"/></L>
+</LG>
+<LG>
+<L>For þi malice me semeth reames sholde arise,</L>
+<L>To destruye cruell deeth, and do hym of dawe—</L>
+<L>But oon wynked on me then "war quod þe wyse,</L>
+<L>And cesse of þ<HI REND="italic">i</HI> sentence for symple is þ<HI REND="italic">i</HI> sawe,</L>
+<L>For deeth vniuerselly the worlde schal vengyse, <MILESTONE N="910"/></L>
+<L>So ys the tyraunt tytled to that uictorie,</L>
+<L>By adam the alderman of old auncetrie."</L>
+</LG>
+<LG>
+<L>Then sorwed I that sentence recou<HI REND="italic">er</HI>ed by assise,</L>
+<L>And mourned for my maystresse here marred i<HI REND="italic">n</HI> molde.</L>
+<L>There ys counto<HI REND="italic">ur</HI> ne clerk bounte can decyse, <MILESTONE N="915"/></L>
+<L>In v<HI REND="italic">er</HI>tu here wo<HI REND="italic">m</HI>manhed was volupid many folde.</L>
+<L>Discreet, devoute, diligent, deeth, thu mayst agrise</L>
+<L>To represse so noble, so gentill a creature,</L>
+<L>In tendir age vntymely agayn the ordir of nature.</L>
+</LG>
+<LG>
+<L>O myghty lord, w[h]os goodnesse neu<HI REND="italic">er</HI> schal fynyse, <MILESTONE N="920"/></L>
+<L>Haue m<HI REND="italic">er</HI>cy on the soule of my dere maistresse.</L>
+<L>The fendis power fro that soule chare &amp; chastise.</L>
+<L>Deliuere here, g<HI REND="italic">ra</HI>cious lord, fro peyne and distresse.</L>
+<L>Endowe here in thi place of plesaunt paradise,</L>
+<L><PB N="264" REF="41"/>
+And receyue here blyssed lord upon thi right side, <MILESTONE N="925"/></L>
+<L>In they blysse et<HI REND="italic">er</HI>nally wyth <NOTE N="35" PLACE="foot">MS. whyt <HI REND="italic">sic.</HI></NOTE> the to abyde.</L>
+</LG>
+<LG>
+<L>Of lordis lyne &amp; lynage sche was, here sche lyse,</L>
+<L>Bounteuus benigne, enb[e]leshed w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> beaute,</L>
+<L>Sage, softe, and sobre, an[d] gentyll in al wyse,</L>
+<L>Florishyng and fecunde w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> femenyn beaute, <MILESTONE N="930"/></L>
+<L>Meke, mylde, and m<HI REND="italic">er</HI>ciful, of pite sche bar þe p<HI REND="italic">ri</HI>se. <NOTE N="36" PLACE="foot">The reader will have noticed that this rhyme runs through each stanza of the Epilogue. This variation of the ballade-form is unique.</NOTE></L>
+<L>Comely, kynde, and curteis, in nobleye of nurture,</L>
+<L>Vernant in alle v<HI REND="italic">er</HI>tu, plesaunt and demure.</L>
+</LG>
+<TRAILER>Here the manuscript ends.</TRAILER>
+<CLOSER><SIGNED>HENRY NOBLE MACCRACKEN.<LB/>
+Yale University.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+<DIV1 LANG="lat" TYPE="version">
+<PB N="228" REF="5"/>
+<HEAD>Vincenti Bellovacensis Speculum Historiale ex Libro vjto., cap∣itulis cxviii-cxxiiii.</HEAD>
+<DIV2 N="cxviii" TYPE="chapter">
+<HEAD>cxviii.</HEAD>
+<P><HI REND="italic">De sublimacione eiusdem (Josephi) et arrogancia As∣senech.</HI> Joseph xxx annorum erat cum stetit coram ph<HI REND="italic">ar</HI>aone somnoque eius exposito, sublimatus &amp; dux egipti constitutus .s. anno iacob cxxi, ut postea potebit ac pro hoc a<HI REND="italic">n</HI>no tercie etatis .cclxxxvi. mundi uero secundimillesimo .cc. et .xxix. Dedit autem ei pharao uxorem assenech filiam putifar uirginem ex qua nati sunt ei filii manasses &amp; effraim. Inter hec autem apis rex argiuorum in egipto menphi<HI REND="italic">n</HI> condidit. <HI REND="italic">Ex historia Assenech.</HI> In primo autem anno .vii. annorum pub<HI REND="italic">er</HI>tatis misit pharao ioseph ut congregaret frume<HI REND="italic">n</HI>ta, qui uenit in fines elyopoleos, cuius regionis princeps erat putifar sacerdos princeps sat<HI REND="italic">ra</HI>porum, &amp; consiliarius pharaonis huius filia erat assenech pulcra super omnes uirgines terre per omnia similis filiabus hebreorum. elata &amp; superba. despiciens omnes virorum quam etiam nullus unquam uiderat uirorum. Erat enim turris coniuncta domni putifaris magna
+<PB N="229" REF="6"/>
+&amp; excelsa. super quam erat cenaculum, habens Thalamos x. quorum primus magnus &amp; decorus lapidibus porfireticis stratus. parietes lapidibus preciosis induti loquearia aurea &amp; erant intus egipciorum (decorum) aurei &amp; argentei quos colebat assenech &amp; timebat &amp; quotidie eis immolabat. Secundus Thalamus seruabat ornatus assenech in auro &amp; argento &amp; lapidibus et lintheaminibus preciosis. Intercio Thalamo erant omnia bona terre erat enim promptuariu<HI REND="italic">m</HI> assenech. reliqu<HI REND="italic">ae</HI> vii.vii. uirginum erant quae illi seruiebant pulcre uirgines quibus locutus non erat uir. neque puer masculus. In Thalamo as∣senech erant tres fenestre. prima magna ualde perspiciens ad orientem.
+<PB N="230" REF="7"/>
+secunda ad meridiem. tercia ad aquilonem. erat ibi lectus aurens stratus peplis purpureis. auro tetis ex iacincto &amp; purpura &amp; bysso. in quo dormiebat assenech sola. &amp; uir nunquam sederat super illum &amp; erat atrium magnum in circuitu domus. cuius paries excelsus ualde. lapidibus quadratis erat constructus. in quo atrio erant quatuor porte
+<PB N="231" REF="8"/>
+ferree quas custodiebant simul xviii uiri fortissimi iuuenes armati. erat in dextra parte atrii fons aque uiuentis &amp; deorsum fontis cisterna suspiciens eius aquam. et irrigans omnes arbores in atrio plantatas. que pulcre erant et fructiferi. erat autem assenech magna ut sara speciosa ut rebecca, formosa ut rachel.</P>
+</DIV2>
+<DIV2 N="cxix" TYPE="chapter">
+<PB N="232" REF="9"/>
+<HEAD>cxix.</HEAD>
+<P>De hoc quod ioseph de cultura ydolorum redarguit. Misit ergo ioseph ad putifarem nuncium quod uellet diuertere ad domum eius. et gauisus est putifar. et dixit filie sue quod ueniret ioseph fortis dei et uellet eam illi tradere uxorem. Que indignata respondit. se nolle dari uiro captivo. sive filio regis. illis autem loquentibus uenit qui diceret ioseph adesse. &amp; fugit assenech in cenaculum sursam. et
+<PB N="233" REF="10"/>
+uenit ioseph sedens in curru. secundo. pharaonis qui erat totus aurens quem trahebat quatuor equi albi sicut niu. frenis deauratis &amp; erat ioseph indutus tunica candida splendidissima. &amp; palleo purpureo et auro texto. et corona aurea super caput eius. et in circuitu corone erant xii. lapides electi. super quos erant .xii. astra aureo et uirga regia in manu et ramus oliue fructu pinguissimo &amp; uenerunt putifar &amp; uxor eius in occursum eius &amp; adoraverunt eum. &amp; intrauit ioseph in atrium
+<PB N="234" REF="11"/>
+&amp; clausa sunt ostia atrii &amp; uidit assenech ioseph &amp; conturbata est super sermone quem dixerat de eo. &amp; dixit. Ecce sol uenit de celo ad nos in curru suo. nesciebans quod ioseph filius dei erat. Quis enim hominum tantam potuit generare pulcritudinem. aut quis uentus mulieris tantum portare lumen. <HI REND="italic">&amp;</HI> intrauit ioseph in domum putifaris &amp; lauerit pedes eius &amp; ait ioseph. que est mulier illo que erat in
+<PB N="235" REF="12"/>
+cenaculo ad fenestram abeat nunc de domo ista timebat enim ne molesta esset illi sicut omnes alie que certatim mittebant nuncios amoris ei cum muneribus diuersi generis.</P>
+<P>Quos periciebat cum indignacione &amp; iniuria &amp; ait putifar. Domine filia mea est uirgo &amp; odit homines omnes uirorum quem unquam uidit uir nisi ego &amp; tu hodie. siuis ueniat &amp; salutet te. Cogitans ergo
+<PB N="236" REF="13"/>
+ioseph quod si odiebat omnem uirorum numquam ei importuna esset .ait patri eius. si uirgo est filia uestra diligo eam sic sororem meam. et ascendit mater eius ut adducaret quam statuit in conspectu ioseph, &amp; ait pater eius. Saluta fratrem tuum qui odit omnes mulieres alienigenas sicut tu omnes uiros. &amp; ait assenech. aue benedicto a deo excelso. benedicat te deus qui viuificat omnia. &amp; dixit putifar filie sue
+<PB N="237" REF="14"/>
+ut oscularetur ioseph quod cum illa uellet facere extendit ioseph manum suam &amp; posuit ad pectus eius dicens. non decet uirum colentem deum uiuentem &amp; manducantem panem uite. &amp; calicem incorrupcionis bibentem osculari mulierem alienigenam. osculantem ore suo ydola surda &amp; muta, et manducantem a mensa eorum panem anchonis &amp; bibentem de spondis eorum, calicem anedras, calicem occultum. &amp; unguentem se oleo inscrutabili.</P>
+</DIV2>
+<DIV2 N="cxx" TYPE="chapter">
+<PB N="238" REF="15"/>
+<HEAD>CXX DE PENITENCIA ASSENECH ET CONSOLACIONE ANGELICA.</HEAD>
+<P>Avdiens assenech uerba ioseph contristata est ualde. et plorauit. et miseratus est ioseph et posuit manum super caput eius et bene∣dixit eam. &amp; gauisa est assenech in benedictione et misit se super
+<PB N="239" REF="16"/>
+lectum suum et infirmitata est pro timore et gaudia. et egit penitencias a diis quos colebat &amp; abrenunciauit eis. Et manducauit ioseph et bibit. et cum uellet recedere uoluit eum putifar retinere una die et non posuit. sic recessit ioseph promittens se .viii. die reuersurum et accepit assenech tunicam nigram. quod erat indumentum tristicie eius quam mortuus erat frater eius minor. et clauso super se ostio fleuit
+<PB N="240" REF="17"/>
+et proiecit omnia idola sua per fenestram que respiciebat ad aquilonem et omnem cenam suam regiam proiecit canibus. et posuit cineres super caput suum et super pauimentum. et fleuit amare per .vii. dies et viii. die dluculo galli cantauerunt et canes latrauerunt et prospiciens assenech per fenestram que respiciebat ad orientem uidit. et ecce stella lucifer. et prope eam fissum est celum. et apparuit lux magna. et uidens assenech cecidit in faciem suam super cineres. et ecce uir descendens de celo stetit super caput assenech. et uocauit eam ex
+<PB N="241" REF="18"/>
+nomine, que pro timore non respondit. et uocauit eam secundo assenech assenech. que respondit ecce ego domine. quis es. annuncia michi. Qui ait. ego princeps domini dei. et princeps exercitus domini. surge et sta super pedes tuos et loquar ad te. at leuauit assenech caput. et ecce uir per omnia similis ioseph. stola et corona et uirga regia cuius uultus sicut fulgar. et oculi eius sicut radii solis. capilli
+<PB N="242" REF="19"/>
+capitis ut flamma ignis et uidens assenech timore percussa cecidit in faciem suam. quam confortans angelus et eleuans ait. depone cilicium istud nigrum quo induta es. et cinctorium tristicie tue. saccunde lumbis tuis. et excute cineres de capite tuo. et laua faciem tuam. et manus tuas aquo uiuente et orna te ornamentis tuis et loquar ad te. que cum ornasset se festinanter rediit ad angelum. cui angelus. denuda caput tuum a tristro quam uirgo es. confortare et gaude assenech uirgo. quum nomen tuum scriptum est in libro uiuencium et non delebitur in eternum ecce ab hodierna die renouata es et uiuificata. et man∣ducabis
+<PB N="243" REF="20"/>
+panem benedictionis et potum bibes incorrupcionis que ungeris crismate secundo. Ecce dedi te hodie sponsam ioseph et nomen tuum non uocabitur amplius assenech sed multi refuggi. nam penitencia exorauit pro te altissimum que est filia altissimi. uirgo hylaris ridens super et modesta. Cumque quereret assenech ab angelo nomen eius. respondit nomen meum scriptum est digito dei in libro altissimi. et
+<PB N="244" REF="21"/>
+omnia que in libro illo scripta sunt ineffabilia sunt. nec conuenit homini mortali ulla auoire illa ulla dicere.</P>
+</DIV2>
+<DIV2 N="cxxi" TYPE="chapter">
+<HEAD>CXXI DE MENSA ET FAVO QVEM ILLA APPOSVIT ANGELO.</HEAD>
+<P>Et ait assenech tenens summitatem pallii eius. si inueni gratias in oculis tuis sede nunc paululum super lectum istum super quem nemo unquam sedit et preparabo tibi mensam. et dixit angelus affer
+<PB N="245" REF="22"/>
+cito. et apposuit panem et uinum suaue oleris uetus et mensam nouam. et ait angelus affer michi et fauum mellis Cumque illa contristata staret eo cum fauum non haberet, ait ei angelus. intra in cellarium tuum et inuenies fauum mellis super mensam tuam. et inuenit fauum candidum sicut niuem et mel mundissimum et odor eius suauis. et ait assenech. domine non haberam, sed dixisti ex ore tuo sancto et
+<PB N="246" REF="23"/>
+factum est. unde et odor eius est sicut spiramen oris tui. et subrisit angelus super intelligenciam assenech. et extensa manu tetigit eius dicens. beata es tu quam dimisisti idola et credidisti in deum unum et beati aduenientes domino deo in penitencia. quam comederet de hoc fauo quem fecerunt apes paradisi dei, de rore rosaru, in paradiso.
+<PB N="247" REF="24"/>
+et ex hoc comedunt omnes angeli dei. et quicunque ex illo comederint non morientur in eternum. et extensa manu confregit de fauo partem minimam et conedit ipse. reliquum—que dedit in os assenech et dixit. Ecce comedisti panem uite et uncta es crismate sacro. et ab hodierno die carnes tue renouabuntur et ossa tua sanabuntur. et uterus tua erit indeficiens. et iuuentus tua senectutem non uidebit. et pulcritudo
+<PB N="248" REF="25"/>
+tua non deficiet et eris sicut metropolis edificata omnium confugiencium ad nomen domini dei omnipotentis regis seculorum et extendit manum et tetigit fauum quem fregerat et factus est totus integer sicut prius. Extensaque manu dextra tetigit digito suo indice summitatem mellis prospicientem uersus orientem. et retraxit digitum suum ad seipsum. et induxit super extremum faui quod respiciebat ad occasu, et uia
+<PB N="249" REF="26"/>
+digiti eius facta est in sanguinem. Extendit manum suam secundo &amp; tetigit summitate digiti sui fauum mellis iuxta partem respicientem ad aquilonem. &amp; traxit eum super partes respicientes ad meridionem et facta est uia digiti eius in sanguinem. aspiciente assenech et ait. inspice fauum. et exierunt de fauo apes multe candide sicut nix. et ale earum purpuree sicut iacinctus circumdederunt omnes assenech &amp;
+<PB N="250" REF="27"/>
+operabant in manibus eius fauum mellis &amp; manducauerunt ex eo. et ait angelus apibus. ite in locum uestrum. &amp; abierunt omnes uersus orienten in paradisum. &amp; ait angelus. sic erunt omnia uerba que locutus sum ad te hodie. et extendit tercio angelus manum suam &amp; tetigit fauum. et ascendit ignis de mensa &amp; comedit fauum &amp; mensam non tetigit. &amp; fragrancia faui dulcis ualde facta est.</P>
+</DIV2>
+<DIV2 N="cxxii" TYPE="chapter">
+<PB N="251" REF="28"/>
+<HEAD>CXXII DE BENEDICCIONE VII. VIRGINUM ET CONIUGIO ASSENECH.</HEAD>
+<P>Et dixit assenech ad angelum. domine sunt michi vii. uirgines nutrute mecum ab infancia &amp; una nocte mecum genite. uocabo eas &amp; benedices eas sicut me. quas ille iussit uocari. &amp; benedixit eas dicens. benedicat uos dominus deus altissimus &amp; sitis sicut vii columne ciuitatis refugii. &amp; iussit angelus assenech ut leuaret mansas. quam cum leuatam
+<PB N="252" REF="29"/>
+se ponere pergeret recessit angelus ab oculis eius. &amp; reuersa uidit sicut currum. iiii, equorum procedentem uersus orientem in celum. Cumque oraret assenech ut indulgeret ei cum tam audaciter locuta erat cum eo. ecce unus adolescens ex famulis putifaris nunciauit dicens. ecce ioseph dei fortis uenit. iam enim procursor eius est ad portas atrii nostri. festinauitque assenech in occursum ioseph &amp; stetit in ypodromio
+<PB N="253" REF="30"/>
+domus &amp; cum intrasset ioseph atrium saltauit eum assenech. &amp; dixit ei uerba que erat locutus angelus ad se &amp; lauit pedes eius. Crastina die rogauit ioseph pharaonem assenech in uxorem &amp; dedit eam illi pharao &amp; imposuit eis coronas aureas meliores quas habebat &amp; fecit eos osculari ad inuicem &amp; fecit eit nupcias &amp; cenam magnam ultra vii. dies &amp; precepit ut nemo faceret opus in diebus nupciarum ioseph. &amp;
+<PB N="254" REF="31"/>
+uocauit filium dei &amp; assenech filiam altissimi. COMMESTOR. Nati sunt ei filii duo priusquam e ueniret fames. &amp; uocauit primum manasses quod est obliuio. dicens obliuisci me fecit deus laborum meorum &amp; domus prioris mei. secundum uocauit effraim quod est fructificacio dicens Crescere me fecit dominus in terra paupertate mee.</P>
+</DIV2>
+<DIV2 N="cxxiii" TYPE="chapter">
+<PB N="255" REF="32"/>
+<HEAD>CXXIII. DE DESCENSU ISRAHEL IN EGIPTUM ET SEDVC∣CIONE DAN &amp; GAD. EX HISTORIA SACRA.</HEAD>
+<P>Itaque cum per vii annos ubertatis collegisset ioseph frumentum &amp; ingrueret fames super omnes terrarum. Iuxta somnii coniectura. apperuitque horrea. uendiditque egipciis. insuper &amp; hisque de aliis ad emendum ueniebant prouinciis. inter quos fratres suos agnoscens. sed ab eis incognitus. durius allocutus est eos. exploratores eos esse dicens id est explora∣torum
+<PB N="256" REF="33"/>
+pena dignos maximeque si de beniamin uera non dicerent de quo timeret quod &amp; in eum aliquid deliquissent. quo tandem ab eis cum muneribus adducto. seipsum illis cum fletu innotuit. uultuque ac uerbus placidissimum. Datis insuper muneribus patrem ad se uenire mandauit iacob itaque per uisionem a domino confortatus descendit in egiptum cum lxvi animalibus. ita quod ipse cum eis &amp; ioseph cum
+<PB N="257" REF="34"/>
+duobus filiis simliter fuerunt lxx. Eratque cxxx annorum quam ioseph eum in conspectu pharaonis introduxit. eique terram gesen ad habitandum dedit.</P>
+<DIV3 TYPE="section">
+<HEAD>EX PARVA GENESI.</HEAD>
+<P>In anno secundo famis mense ii xxi die mensis uenit israel in egiptum eum uniuersa cognacione sua. intrauit terram gesen. uidit que assenech iacob &amp; admirata. quum senectus eius
+<PB N="258" REF="35"/>
+erat speciosa sicut iuuentus. Erat quippe caputeius candidissima sicut nix. et barba candida sedens super pectus eius. oculi eius ful∣guarantes. &amp; nerui eius &amp; humeri et brachia firma. genua &amp; crura et pedes ut gigantis et benedixit eis iacob et osculatus est. Et reuersi sunt post prandium ioseph et assenech in domum. et leui cum eis et symeon. Et cum uidisset filius pharaonis assenech in domo patris sui
+<PB N="259" REF="36"/>
+deambulantem. exarsit in pulchritudine eius. et locutus est leui et symeon ut interficeret ioseph. et haberet eam uxorem quam illi debebatur. et daret eis aurum et argentum multum. Qui non intend∣erunt in sermones eius. et cepit filius pharaonis accusare ioseph apud fratres suos dan .et gad. qui erant filii ancilarum iacob. dicens se audisse ioseph dicentem apud pharaonem quod post mortem patris sui destrueret eos. ne esset heredes cum fratribus suis. eo quos filii ancillarum. et eum uendidissent ysmahelitis et inuiderent ei. per∣suasitque eis ut interficerent ioseph. et ipse interficeret pharaonem
+<PB N="260" REF="37"/>
+patrem suum qui tanquam pater ioseph. Quod cum uellet facere nocte prohibuerunt custodes patrus sui introire ad eum dicentes. pater tuus doluit caput et non dormit et prohibuit nobis ne quis ad eum intraret. nec etiam armatis perrexit ad locum insidiarum ubi erant dan et
+<PB N="261" REF="38"/>
+gad. quum illuc debebant pergere ioseph et assenech dc. viris qui omnes ab insidiis trucidati sunt preter unum qui fugit ad symeon et leui. assenech autem fugit in curru et cum ea beniamin. Symeon autem et leui assumentes omnes qui secum erant armatos persecuti sunt eos. Et irruerunt in eos subito et plurimos occiderunt. Dan autem et gad absconsi sunt in densitate calami.</P>
+</DIV3>
+</DIV2>
+<DIV2 N="cxxiiii" TYPE="chapter">
+<PB N="262" REF="39"/>
+<HEAD>CXXIIII DE MORTE PHARAONIS ET IACOB ET IOSEPH. HELINANDUS IIII LIBRO.</HEAD>
+<P>Anno principatus ioseph xii mortuus est pharao sub quo uiverat ioseph. quem commestor altero nomine dicit appelatum nefrem. De huius autem morte sic dicit historia assenech. post illud bellum sive superius memoratum inter filium pharaonis et
+<PB N="263" REF="40"/>
+symeonem et leui, beniamin inquit sedens in curru cum assenech uidens filium pharaonis uenientem contra se ut tolleret assenech lapidem de torrente arripiens, percussit eum in ceruice sinistra. et ededuxit eum de equo super terram. qui mortuus postea uidens beniamin symeonem et leui uenientes confortatus est. qui querebant fratres suos dan et gad ut interficerent eos. quorum ira conpescuit. illi uero leuantes filium pharaonis a terra. lauerant plagam eius ligauerunt eam et
+<PB N="264" REF="41"/>
+duxerunt eum ad patrem suum pharaonem. et narrauerunt omnia uerba hec. pharao uero gratias egit quod non interfecerunt eum. tercio die uero mortuus est filius pharaonic de uulnere. Et pharao non multo post mortuus est dolore mortis filii sui annorum, xcix. Et reliquit regnum suum ioseph qui regnauit pro paruo in egipto annis xlviii. et post hoc dedit dyadema filio pharaonis qui erat ad ubera quum mortuus est pharao et ioseph nuncupatus est pater eius in terra egipti.</P>
+</DIV2>
+</DIV1>
+<DIV1 TYPE="commentary">
+<P>Note: Lydgate refers to this legend in his poem <HI REND="italic">To Mary the Queen of Heaven,</HI> where he compares the Virgin to 'Assenek off Egypt, of beute pereles.' (M.S. Bodl. Tanner 110 fol. 244 and elsewhere). I have not found any other references to her in English literature.</P>
+<CLOSER><SIGNED>H. N. M.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

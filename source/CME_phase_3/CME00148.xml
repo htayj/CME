@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-24-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; added a P. Checked <SUP>s</SUP>. Reviewed structure; added TAILNOTE; separated several combined NOTEs; changed mdashes to hyphens between numerals; changed LGs to Qs in NOTE, and added Ps; removed some incorrect MILESTONEs from NOTEs. Checked placement and completeness of PBs; moved numerous PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00148">
+<STC T="M">148</STC>
+<BIBNO T="mec">CME00148</BIBNO>
+<VID>CME00148</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1"/>
+<P>LEBEN JESU, EIN FRAGMENT, UND KINDHEIT JESU.</P>
+<P>ZWEI ALTENGLISCHE GEDICHTE AUS MS. LAUD 108</P>
+<P>ZUM ERSTENMAL HERAUSGEGEBEN VON Dr. C. HORSTMANN, Dozent für Neuere Sprachen an der Königl. Akademie zu Münster.</P>
+<P>I. THEIL.</P>
+<P>LEBEN JESU.</P>
+<P>MÜNSTER, Druck und Verlag von Friedrich Regensberg.</P>
+<P>1873.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="2"/>
+<LG>
+<L>.......................</L>
+<L N="1">And spatte a luyte on is fingur,: and into is erene it schok; <NOTE PLACE="foot">V. 1. Vgl. Marc. 7, 32: Et adducunt ei surdum et mutum, et depre∣cantur eum, ut imponat illi manum. 33: Et apprehendens eum de turba seorsum, misit digitos suos in auriculas eius; et expuens, tetigit linguam eius 34: Et suscipiens in caelum, ingemuit, et ait illi: Ephpheta, quod est adaperire 35: Et statim apertae sunt aures eius, et solutum est vin∣culum linguae eius, et loquebatur recte.</NOTE></L>
+<L>He watte al so with is spotle is tonge;: opene þine mouth! he seide;</L>
+<L>Speche and heringe him cam a non,: þat was a swete dede.</L>
+<L>In an ensaumple þer of In mani stude,: ȝwane children ibapti∣zede beoz,</L>
+<L N="5">þe preost heom croysez mid is spotle,: ase we ofte isez.</L>
+<L>Ore louerd prechede wide a boute,: and muche folke him siwede faste,<NOTE PLACE="foot">V. 6. Vgl. Marc. 8, 1. Matth, 15, 32.</NOTE></L>
+<L>So longe þat heo of hongrede weren: wel sore at þe laste.</L>
+<L>Ich habbe gret pite, ore louerd seide,: þat þis folk nadde iete;</L>
+<L>For þreo dawes heo habbez isiwed me,: and nouȝt ne habbeth to mete;</L>
+<L N="10">I nelle nouȝt fastinde late him go: þat heo beon ouercome,</L>
+<L>And attrokien bi þe weie for feblesse,: þat honger hem habbe inome.</L>
+<L>Hou scholde we, louerd, in wildernesse,: is desciples sede,</L>
+<L>So manie men fulle ase here beoz: mid so luyte brede?</L>
+<L>Ore louerd heom axede hou manie loues: to so muche folk heo hadde;</L>
+<L N="15">And heo seiden, among heom alle: bote seue loues heo nadde. <NOTE PLACE="foot">V. 15. bote ne = nur; so stets, wenn beim Verbum; vgl. 25 nadden with hem bote anne lof; 450 þat bote anne ring heo nadde; 256 þat he nadde bote þane al one; 654 he nadde bote on; 145 it nis bote dwele.</NOTE></L>
+<L>þo het ore louerd þat folk sitte,: and heo seten adoun echon,</L>
+<L>And blessede þe seue loues,: and let heom dele a non.</L>
+<L><PB N="30" REF="3"/>
+Heo eten and maden heom wel glade;: six þousend men þare were;<NOTE PLACE="foot">V. 18. six þousend; Marc. 8, 9 und Matth. 15, 38 quatuor millia; vgl. noch v. 31.</NOTE></L>
+<L>In none stude, þare heo hadden ibeo,: neuere so ifedde heo nere.</L>
+<L N="20">þo heo weren folle and glade also,: ore louerd het a non riȝt þere</L>
+<L>To gaderi þat releef in to bascates,: þat it for lore nere.</L>
+<L>Seue bascates folle heo gadereden: of releef after mete,</L>
+<L>Of þulke seue loues, þo al þat folk: so wel hadde iete.</L>
+<L>Ore louerd wende sethþe into þo se: with is desciples al one.<NOTE PLACE="foot">V. 24 vgl. Marc. 8, 14. Math 16, 5.</NOTE></L>
+<L N="25">Heo nadden with hem bote anne lof,: þare fore heo careden ech one.</L>
+<L>Sethþe þo heo afingrede weren,: bi tuene heom heo speke faste:</L>
+<L>Hou heo miȝten do with oute mete,: for þe lof ne miȝte nouȝt longe ilaste.<NOTE PLACE="foot">V. 27 ilaste; die Vorsilbe i (ags ge) ebenso praet. ilaste 76, ileve 178, ȝe ileften 785, iwinne 221, iwende 369, ich iknowe 509, iknowez 541, iknev K J. 1564, iwite 573, ihere 495, iheor 729, iheorde K. J. 154, iseo 36, 80, 203 (seo 87), ich iseo 37, we iseoth 182, isaiȝ 132, imete K. J. 1280.</NOTE></L>
+<L>Wel wuste ore louerd al heore þouȝt;: ȝwy drede ȝe, he sede,</L>
+<L>Ouwer bileue, ȝwane ȝe carieth: for defaute of brede?<NOTE PLACE="foot">V. 29. Vgl. Math. 16, 8: Quid cogitatis intra vos modicae fidei, quia panes non habetis? Es scheint etwas ausgefallen; man erwartet of nare bileue, oder ouwer bileue is luyte, oder A ouwer bileue.</NOTE></L>
+<L N="30">Ne fedde ich nouȝt fijf þousent men: with fijf loues In wildernesse,</L>
+<L>And six þousend men with seue loues,: þo heo weren in destresse?</L>
+<L>þoruȝ þe grace þat god heom ȝaf: I nouȝ heo hadden ecchone<NOTE PLACE="foot">V. 32 und 33 sind vom Verfasser hinzu∣gesetzt.</NOTE></L>
+<L>On þis o lof in þe se,: þat heo ne maden non more mone.</L>
+<L>In þat tyme, ase ore louerd eode a boute,: ane blinde man to him men brouȝte,<NOTE PLACE="foot">V. 34 vgl. Marc. 8, 22.</NOTE></L>
+<L N="35">þat ȝare hadde blind ibeo,: and longe ore louerd he souȝte.</L>
+<L>In is eiȝene ore louerd spatte,: and axede ȝweþer he miȝte iseo.</L>
+<L>ȝe, louerd! he seide, ich iseo ane man,: me þinchez ase it were a treo.</L>
+<L>Ore louerd nam is holie hond,: and leide to eiþer of is eiȝe;</L>
+<L>And he isaiȝ swiþe wel; þe ferre and þe neiȝe.</L>
+<L N="40"><PB N="31" REF="4"/>
+Ore louerd wende mid is desciples: Into Philipes londe,<NOTE PLACE="foot">V. 40 vgl. Marc. 8, 27. Math. 16, 13: venit autem Jesus in partes Caesareae Philippi et interrogabat discipnlos suos; im Ms. fehlt and.</NOTE></L>
+<L>Cesares broþur, þe Aumperour,: gan is desciples fonde.</L>
+<L>ȝwi seggez men, ore louerd seide, þat ich am? louerd!: þo sei∣den huy ech on,</L>
+<L>Manie men segez þat þou art: þe baptist seint Jhoan,</L>
+<L>And some seggez þat þou art prophete,: and Jeremies sone,</L>
+<L N="45">And manie þat þou art an oþur prophete,: a mong men here icome.</L>
+<L>Tellez me nouþe, quad ore louerd,: ȝwat ȝe seggez bi me.<NOTE PLACE="foot">V 46 bi me = de me; vgl. V. 47, 185, 446, 545, 565, 839.</NOTE></L>
+<L>Bote þou art godes sone, quath seint Peter,: and þat ich segge bi þe.</L>
+<L>Peter, Peter! ore louerd seide,: iblessed þou art iwis,</L>
+<L>For þat ne schewede noþur flesch ne blod,: acke mi fader þat in heuene is;</L>
+<L N="50">And al þat þou bindest on eorþe,: in heuene it worth ibounde;</L>
+<L>Acke þat ne tel þou no man,: for þe soþe þou hast ifounde;<NOTE PLACE="foot">V. 51 sollte erst hinter 52 folgen.</NOTE></L>
+<L>And In heuene it worth on bounde also,: þat þou unbindest here.</L>
+<L>þat power he ȝaf Peter þo: and alle is oþere fere,</L>
+<L>And alle þe prelatus of holie churche: þat after him sethþe come;</L>
+<L N="55">þare fore ech man heom scholde a bowie: þat guode ȝeme þarof nome.</L>
+<L>Peter, Peter! ore louerd seide,: to Jerusalem imot wende<NOTE PLACE="foot">V. 56 vgl. Math. 16, 21. Marc. 8, 31. (Luc. 9, 22).</NOTE></L>
+<L>And soffri muche for mankuinde,: and þane deth aten ende.</L>
+<L>Seint Peter him ladde in conseille,: and seide: louerd, þin ore!</L>
+<L>Hit ne falleth nouȝt þe swuch þing to done, man to bugge so sore.</L>
+<L N="60">Go bi hynde me, ore louerd seide,: þou spext ase mi fo;</L>
+<L>þou nost nouȝt ȝwat to gode bifallez,: ne onderstondest no þe mo.</L>
+<L>Ho so cometh after me,: him seelf he mot forsake,<NOTE PLACE="foot">V. 62 seelf, solche Verdoppelung des e begegnet auch sonst in der Hs., z B. St. Miȝhel 246 deerne, 590 aqueenche V. 62 vgl. Math. 16, 24-27; Marc. 8. 34-36; Luc. 23-25</NOTE></L>
+<L>His Owene rode bere and sywi me,: and he wolle to me take;</L>
+<L>Ho so wole is soule sauui,: he as mot allinge for leose;<NOTE PLACE="foot">V. 64. Matth. 16, 25: Qui enim voluerit animam suam salvam facere, perdet eam. Wie hier, so ver∣tritt im L. J. as öfter den acc der 3. pers. des pron pers; vgl. 185: Heore joye and blis is wel þe more: ȝwane heo as habbuth forgo; ebenso V. 529, 549, 645, 866, 872.</NOTE></L>
+<L N="65"><PB N="32" REF="5"/>
+And ho so leost is soule, he as sauez;: nou may ech man cheose.</L>
+<L>ȝwat is it ane manne to bi ȝite: al þe worldes pruyte,</L>
+<L>And apeiri is selie soule?: me þynchez he bi ȝit wel luyte;</L>
+<L>For god wole comen atþe laste: and ȝiuen euer ech man,</L>
+<L>After þath he hat here idon,: ase euene ase he can.</L>
+<L N="70">After six dawes þere after ward: ore louerd ope ane heiȝe hulle gan gon; <NOTE PLACE="foot">V 70 vgl. Marc 9, 1; Math. 17, 1; Luc 9, 28</NOTE></L>
+<L>Seint Peter he nam with him,: and seint Jeme, an seint Johan.</L>
+<L>A non so he was þudere icome,: is cloþes schynen þere</L>
+<L>Briȝtore þane euere ani sonne schon;: ȝwite is cloþes were.</L>
+<L>þere comen twei prophetes,: Moyses and Helye,</L>
+<L N="75">And speken with ore louerd Jhū Crist: þe Maydenes sone Marie.</L>
+<L>Nuste no man ȝwat it was,: þat conseil longe ilaste;</L>
+<L>Seint Peter hadde wonder þarof: and bi heold wel faste.</L>
+<L>It is guod, louerd, Peter seide,: þat men maken here taber∣nacles þre,</L>
+<L>O to þe, an oþur to Moyses,: þe þridde to Helyse.</L>
+<L N="80">þo seint Peter hadde iseid þis word,: ne miȝte heom no man iseo; <NOTE PLACE="foot">V 80 Peter fehlt im Ms</NOTE></L>
+<L>þare cam ase þei it a cloude were,: and ouer caste hem alle þreo.</L>
+<L>A voiz he heorde of heuene þo,: þat þeos wordes gan singe:</L>
+<L>þis is mi leoue sone þat is me leof,: In him is al mi likynge.</L>
+<L>þeos þreo desciples fullen a doun,: al astoned for fere;</L>
+<L N="85">þare nas non þat miȝte stonde,: heo nusten ȝware heo were.</L>
+<L>Sethþe ore louerd tok heom op: bi þe hond alle þreo;</L>
+<L>þo seiȝen heo ore louerd all one,: nouȝt elles ne miȝten heo seo.</L>
+<L>Ne tellez noman, ore louerd seide,: of þis priuete,</L>
+<L>Are ich beo to heuene iwent,: þat ȝe ne seon nouȝt me.</L>
+<L N="90">Ase þeos desciples to gadere weren,: heo maden contek and mone. <NOTE PLACE="foot">Nach V. 90 ist im Ms. ein Blatt ausgerissen, wovon noch ein kleiner Streifen unten mit den Anfängen dreier Verse: þe oþur wole arise and late.. Also it fareth of ouwer neode.. And studefastliche with gode..</NOTE></L>
+<L><PB N="33" REF="6"/>
+... ȝif on of ouwer Assene: in a put fulle to day,<NOTE PLACE="foot">V. 91 vgl. Luc. 14, 2: Et ecce homo quidam hydropicus erat ante illum; 3: Et respondens Jesus dixit ad legis peritos et Pharisaeos dicens: Si licet sabbato curare? 4: At illi tacuerunt. Ipse vero apprehensum sanavit eum, ac dimisit. 5: Et respondens ad illos dixit: Cuius vestrum asinus aut bos in puteum cadet, et non continuo extrahet illum die sab∣bati? 6: Et non poterant ad haec respondere illi.</NOTE></L>
+<L>Nolde ȝe nouȝt drawe hire op for þe feste?: þe oþere nusten ȝwat þo telle,</L>
+<L>Ake euere eoden after fo envie: and a wayteden him to quelle.<NOTE PLACE="foot">V. 93 fo st. for; vgl. fra 527, an 803, afturwar K. J. 770, chil 614, K. J. 71, fok 748 fol 995.</NOTE></L>
+<L>Ore louerd wende a boute and prechede þat folk,: and seide hem ansaumples fale:<NOTE PLACE="foot">V. 94 vgl. Luc. 14, 8-11.</NOTE></L>
+<L N="95">ȝwane ani of ou alle, ore louerd heom seide,: cometh to any bruydale,</L>
+<L>Ne sittez nouȝt ope þe hexte benche,: laste an herre man come,</L>
+<L>So þat þou beo idriue a doun wiz schame: and þi sege þe binome;<NOTE PLACE="foot">V. 97. Ms. þat þat, doppelt.</NOTE></L>
+<L>Ake site, forto þou beo herre icleped,: In þe loweste stude!</L>
+<L>For ȝwane þou art þare iseie,: þou worst sone ibede;</L>
+<L N="100">Gret Joie þou schalt In þine heorte habbe,: ȝwane men bi seoz on þe,</L>
+<L>And seggez: aris up freond and com forth,: for þou schalt herre be!</L>
+<L>For more manschipe it is to beon icleped: fram lowe stude an heiȝ,</L>
+<L>þane fram heiȝe stude to beon idriue: to eche manne þat is sleiȝ.</L>
+<L>For ech man þat him an hausez here: I lowed he schal beo,</L>
+<L N="105">And ech man þat him lowez here: an haused man schal him iseo.</L>
+<L>ȝwane þou makest þine gistningue: ne clepe nouȝt þer to þine fere,<NOTE PLACE="foot">V. 106 vgl. Luc. 14, 12-14.</NOTE></L>
+<L>Ne þi kun, ne riche men,: þat wolleth it ȝelde þe here;</L>
+<L>Acke Make þine gistningue of pouere Men,: and of feble Men also,</L>
+<L>þat þou mouwe in heuene þine mede a fongue,: þat þou hast for hem ido.</L>
+<L N="110">þo prechede ore louerd sunfule Men,: to leten heore sunfole dede</L>
+<L><PB N="34" REF="7"/>
+And come tamendement with þouȝt and hope;: and þere ane bitale heom sede:<NOTE PLACE="foot">V. 111. Ms bita st bitale; tamendement = to a; vgl. tane soluȝ K. J 1361.</NOTE></L>
+<L>A riche Man hadde twei sones;: þe eldore was eyr of is londe,<NOTE PLACE="foot">V. 112. Diese Parabel ist ziemlich frei, mit eigenen Zusätzen, nach Luc. 15, 11 ff. erzählt.</NOTE></L>
+<L>Of þe ȝongore þat heritage nadde: he gan him onder stonde,</L>
+<L>And ȝaf him tresor riȝt inouȝ,: In to an oþer contreie to fare</L>
+<L N="115">And libbe þere bi is Marchaundise: In richesse with oute care.</L>
+<L>þo he cam In to ane oþur contreie: is catel to bi sette,</L>
+<L>To þe tauernes he drouȝ him sone,: and let him fole wommen fette.</L>
+<L>In hem and in oþere folies: is tresor sone he spende,</L>
+<L>So þat he bi cam a wrechche: and beggare aten ende.<NOTE PLACE="foot">V. 119 beggare; vgl. teoliare 267, 589, te∣chare 419, manquellare 492, liare 510, sullare 633, 856, buggare 856, dei∣stare und diestare diestere K J. 1055 ff; St Miȝhel: drinkare 690, wa∣kiare 691, slepare 677, sweriare 689.</NOTE></L>
+<L N="120">He wuste wel þat is fader was riche,: ake he ne dorste to him wende,</L>
+<L>For he hadde so folliche ido,: laste he wolde him schende;</L>
+<L>Ake naþeles he þouȝte on kuynd hede, þat Man hath to is childe,</L>
+<L>And þat kuynde blod it wole ȝiue,: þat he were him euere milde;</L>
+<L>And neode him drof also ful narewe,: þat he nadde nouȝt to spende;</L>
+<L N="125">So þat he dude him an Aunter,: and hom to is fader iwende.</L>
+<L>Ful sore he dradde to comen him neiiȝ;: ake a non so is fader of him wuste,</L>
+<L>He orn aȝein him with grete Joie: and bi clupte him and custe.</L>
+<L>Fader, merci! þis oþur seide,: ȝwyrþe nam ich nouȝt</L>
+<L>More to beon icleoped þi sone,: for in pouerte ich me habbe ibrouȝt.<NOTE PLACE="foot">V. 129. fader von späterer Hand übergeschrieben.</NOTE></L>
+<L N="130">His fader let him cloþi swiþe wel;: gret feste he makede and blisse</L>
+<L>With alle is Neiȝebores þare aboute,: for Joie of is sone iwis.</L>
+<L>þeldore sone was hom icome,: and isaiȝ þis cas</L>
+<L>And ȝwarefore þis feste was imaud;: swiþe wroth he was.</L>
+<L>Fader! he seide, ich habbe manie ȝer: wel faire iserued þe,</L>
+<L N="135"><PB N="35" REF="8"/>
+And neuere ȝeot þou noldest enes: swuch feste make for me;</L>
+<L>And þou makest nouþe gret feste for him: þat is fol and lechour,</L>
+<L>þat ne seruede þe neuere ane dai wel,: ake ispend hath þi tresour.</L>
+<L>Leoue sone! is fader seide,: þou hast euere iserued me,</L>
+<L>Lond and þing þat ich habbe: al wole falle þe;</L>
+<L N="140">And a forne on me þi ȝongore broþer: hath longue ded ibeo, <NOTE PLACE="foot">V. 140. aforne on me; Laȝ. aforen on (j. T. afornon) und ebenso forn a, -an, -at = before, in front of; Luc. frater tuus hic.</NOTE></L>
+<L>Ake aȝein he is nouþe icome to liue, ase we mowen iseo.</L>
+<L>Leoue sone! for þine broþer liue,: þou make Joie and song!</L>
+<L>For it is on þe meste Joie: þat euere us cam a mong.</L>
+<L>Also fareth ouwer fader of heuene,: ore suete louerd hem sede,</L>
+<L N="145">Bi ov þat is sones beoth,: þat in sunnes liggez dede;</L>
+<L>More Joie he makez and more blis,: ȝwane ȝe wollez to him teo,</L>
+<L>þane with manie of guode men,: þat euere habbez with him ibeo.</L>
+<L>Ore louerd gan þo to prechi men faste: aȝein þe worldes wele,<NOTE PLACE="foot">V. 148 u. 49 sind als Einleitung vorangeschickt, wie 94 u. ö.</NOTE> <NOTE PLACE="foot">V. 148. vgl. Luc. 16, 19.</NOTE></L>
+<L>þat heo ne loueden nouȝt to muche richesse,: for it nis bote dwele.</L>
+<L N="150">He tolde ane bitale of a riche man,: þat muche guod hadde with alle,</L>
+<L>þat ladde is lijf wel deliciousliche,: I cloþed in pourpre and palle.</L>
+<L>Ase he sat at is mete in grete pruyte,: Lazer at is ȝate stod,</L>
+<L>Pouere and Musel, in grete miseise,: And bad ȝiue him sum guod,<NOTE PLACE="foot">V. 153 musel Luc. ulceribus plenus, ebenso 763 leprosus, afrz mesel, mlt. misellus, v. miser (mhd. mislich).</NOTE></L>
+<L>Of is croumene, þat he miȝte kele is hongur,: þat fram is borde fellen to grounde;</L>
+<L N="155">Nolde he ȝiuen him ane croume,: he lette him teke wit is houndes; <NOTE PLACE="foot">V. 155 wit st. with, vgl 385, 822.</NOTE></L>
+<L>þis houndes maden him Joye inouȝ,: þo heo comen him to,<NOTE PLACE="foot">V. 156 comen him to; die Präposition ebenso nachgestellt: þe to 173, us to 345, us among 143, K J. 577 Jesus þat child lokede upon, ib. 1077 uvel hap heom cam to, ib 726 him to, ib. 877 hem amonge, 1615 heom amongue, L.-J. 259 hem bitwene.</NOTE></L>
+<L>And lickeden is woundes, þat weren so sore,: and non harm him nolden do;</L>
+<L><PB N="36" REF="9"/>
+So þat Lazer in Miseise: with oute þe ȝate gan deie;</L>
+<L>þere comen Aungles and beren is soule: into heuene wel heiȝe,</L>
+<L N="160">þis riche man in al is pruyte,: þat wel sone deide þere,</L>
+<L>Deuelene weren redie a non: and is soule to helle bere.</L>
+<L>Ase he was þare in grete pine,: Lazer sone he iseiȝ<NOTE PLACE="foot">V. 162 Ms.: ase he was þ a þare in gre pine.</NOTE></L>
+<L>In Abrahames boseme sitte,: In þe Joye of heuene an heiȝ.</L>
+<L>Fader Abraham! he seide,: haue merci of me,</L>
+<L N="165">Lat Lazare wete þe ende of is fingur: In watere, ich bidde þe,</L>
+<L>And caste one drope on mine toungue: to kele me, for ich deiȝe</L>
+<L>With tormentyngue and pine inouȝ,: þat ich habbe in þis leiȝe!</L>
+<L>Sone! seide Abraham, onderstond,: þat þou haddest Joye and blis</L>
+<L>And alle guode onder fengue on eorþe,: and Lazar soruwe and wo iwis;</L>
+<L N="170">And nouþe is ouwer stat iturnd,: þat Lazar hath Joye inouȝ,</L>
+<L>And þou sorewe, þat þou a serued hast,: and elles it were wouȝ;</L>
+<L>And þe muchele firmament is: bi twene ou al do,<NOTE PLACE="foot">V. 172 do (oder to?)von anderer Hand klein dazugesetzt.</NOTE></L>
+<L>þat þare ne mai ne drope passi,: ne fram Lazar come þe to.</L>
+<L>Fader, merci! þis oþur seide,: ȝwane it ne may oþur beo,</L>
+<L N="175">Warne mine seue breþren on eorþe,: þat heo neuere þis pinen ne seo!</L>
+<L>For, ȝif heo weren iwar, heo wolden beo guode.: Nai nai, Abraham sede,</L>
+<L>Heo habbez Moyses and prophetes inowe,: ȝwi nellez heo don bi heore rede?</L>
+<L>Fader, merci! þis oþur seide,: heo wolden betere ileue iwis</L>
+<L>Ane dede man þat withþ hem speke,: þane ani prophete þat is.<NOTE PLACE="foot">V. 179; im Ms. undeutlich, ob with oder withþ zu lesen.</NOTE></L>
+<L N="180">ȝif huy nellez nouȝt, seide Abraham,: don after þe prophetes rede,</L>
+<L>Heo nellez ileue ane dede man,: þei he þe soþe heom sede.</L>
+<L>ȝware fore we iseoth þoruȝ þis godspel; þat þare ne mai nouȝt on eorþe beo<NOTE PLACE="foot">V. 182 Ms. nouȝ st. nouȝt.</NOTE> <NOTE PLACE="foot">V. 182-87 Zusatz.</NOTE></L>
+<L>Ne In helle, þat heo þat beoth in heuene: ne mouwen it alle iseo;</L>
+<L><PB N="37" REF="10"/>
+And þat to þe more Joye of heom,: for ȝwan heo iseoth swuch pine and wo,</L>
+<L N="185">Heore Joye and blis is wel þe more,: ȝwane heo as habbuth for go;</L>
+<L>For euere þe more pine heo iseoth in helle: bi heom þat beoth þere,<NOTE PLACE="foot">V. 186 þe übergeschr.</NOTE></L>
+<L>þe more Joye heo habbez in heuene,: þei it heore faderes were.</L>
+<L>A Phariseu þare cam gon;: ich þonki þe, louerd, he sede,<NOTE PLACE="foot">V. 188 vgl. Luc. 18, 10.</NOTE></L>
+<L>For inam nouȝt ase oþere men beoth;: holi lijf ich lede,</L>
+<L N="190">Ich faste twei dawes in þe wike,: ich teþegi wel also</L>
+<L>Of alle þinge þat ich habbe,: and oþur guodnesse ich do.</L>
+<L>þare cam gon a pupplican;: a fer he gan stonde,</L>
+<L>He siȝte and cride deolfulliche,: he weop and wrong is honde.</L>
+<L>For ȝif me, louerd, mine sunnes,: and beo merciable to me!</L>
+<L N="195">So sunful ich am þat inam nouȝt wurþe: nouȝwere to come to þe. <NOTE PLACE="foot">V. 195 u. 6 sind im Ms. umgestellt.</NOTE></L>
+<L>Ore louerd isaiȝ is repentaunce;: is sunnes he fur ȝaf a non;</L>
+<L>And þe ypocrite þat so ȝalp: sunful he let hom gon.</L>
+<L>þare fore mai ech man beo iwar: and knowelechi is ȝwovȝ,<NOTE PLACE="foot">V. 198 ȝwouȝ st. wouȝ = wrong; vgl ȝwyrþe 128,ȝwatur 321, ȝaslowe 442.</NOTE></L>
+<L>For þere nis non so holi man: þat ne suneguth al dai inovȝ;</L>
+<L N="200">And ore louerd loueth bet a sunful man: for þinchinde is misdedes,</L>
+<L>þane a man of lesse sunne: þat ȝelpez of his guod hedes.</L>
+<L>Ase ore louerd wende toward Jerico,: þe hexte man of thorn;e lawe<NOTE PLACE="foot">V. 202; vgl. Luc. 19, 1. Am Rande zur In∣haltsangabe nebengeschrieben: Zacheus, in ein rothes Quadrat eingeschlossen.</NOTE></L>
+<L>Of pupplicanes, þat het Zachee,: him wolde iseo wel fawe.<NOTE PLACE="foot">V. 203 fawe st. faȝen fagen, vgl. 32l. 495, Hav. fawen 2160, vawe Rob. Gl. 183, 12, fawe K. o. Tars 1058 = fain, glad.</NOTE></L>
+<L>So muche prece þere was a boute him: þat he ne miȝte neiȝ him beo;</L>
+<L N="205">And so schort he was þat he ne miȝte: ouer þe folke iseo.</L>
+<L>Opon a treo of sicamour: he gan to stiȝen an heiȝ,</L>
+<L>For he wolde ore louerd iseo;: and þo ore louerd him iseiȝ,</L>
+<L>Sachee! he seide, hasteliche: a liȝt doun of þat treo!<NOTE PLACE="foot">V. 208 Sachee, ebenso 215, aber. Zachee 212, 203; vgl. Sara sins 545 (aber circumcized 881).</NOTE></L>
+<L><PB N="38" REF="11"/>
+For ich mot to day with þe: In þine house beo.</L>
+<L N="210">Wel gladliche þis man him onder feng: in þe hous þat god him sende,</L>
+<L>þat folk grochchede toward ore louerd,: for he with a sunful man wende.</L>
+<L>Louerd, merci! Zachee seide,: guod lijf ichulle liue,</L>
+<L>And þe haluendel of al mi guod: pouere men it ȝiue;<NOTE PLACE="foot">V. 213 Ms: gue st. giue.</NOTE></L>
+<L>Swuche foure icholde ȝelde,: ȝif ich eni þing habbe of ani man with falshede.<NOTE PLACE="foot">V. 214 swuche foure Luc. reddo quadruplum.</NOTE> <NOTE PLACE="foot">V. 214 eni, auch 222, sonst ani.</NOTE></L>
+<L N="215">Ore louerd was glad of þulke repentaunce,: þo Sachee þis wordes sede;</L>
+<L>Ore louerd seide: to dai is furst hele and bote: to þine house icome;</L>
+<L>Beo glad and led clene lijf!: þine sunnes þe buth bi nome.</L>
+<L>Al þe ȝwyle þat ore louerd was on eorþe: after þat he was ibore,</L>
+<L>Euere he drou to sunfole men,: glade mowe we beon þere fore.</L>
+<L N="220">þo comen men and brouȝten a child to ore louerd: þat þe deuel was with inne,<NOTE PLACE="foot">220 vgl. Marc. 9, 16. Math. 17, 14; Luc. 9, 38.</NOTE></L>
+<L>ȝware þoruȝ it was boþe def and doumb,: and ne miȝte none hele iwinne;</L>
+<L>Bete and bite it wolde alle Men: þat eni þing neiȝ him come,</L>
+<L>And grenny with is teth and feme: and falle a doun ilome.</L>
+<L>þe Apostles fondeden him forto hele;: ake þo hem ne spedde nouȝt,</L>
+<L N="225">þat child was þoruȝ is owene fader: bi fore ore louerd ibrouȝt.</L>
+<L>Anon so þat child ore louerd isai,: a doun it fel to grounde,</L>
+<L>Walewede and grennede with þe teth;: so þe fend him hadde ibounde.</L>
+<L>Ore louerd axede hou longue þat child: sik hadde ibeon bi fore;</L>
+<L>þe fader seide it hadde so ifare: setþe euere it was ibore.<NOTE PLACE="foot">V. 229 set þe; vgl. spektþ 551, sotþe K. J. 1505, sotþenesse 1511.</NOTE></L>
+<L N="230">ȝif þou miȝt a riȝt bi leue,: isaued þou schalt beo.</L>
+<L>Louerd! he seide al wepinde,: ichulle bileue on þe.</L>
+<L>þou luþere gost and doumb, ore louerd seide,: def and vn milde,<NOTE PLACE="foot">V. 232 vnmilde; so wird im Ms. oft v st. u gebraucht, z. B. vuele 249, vnder u. a., wie umgekehrt u st. v u. w: louede liuede enuie; suyþe 245, 805, suete 144, suych 348, ansuerie u a.</NOTE></L>
+<L><PB N="39" REF="12"/>
+Ich hote þe þat þov wende: hasteliche fram þe childe,</L>
+<L>And þat þou neuereft neiȝ him ne come!: þe fend makede rev∣lich bere,</L>
+<L N="235">And wende out of þe childe he moste nede,: ne cam he neuere eft þere.</L>
+<L>þat child fel to þe grounde a non,: ase þei it stif ded were;</L>
+<L>Ore louerd it nam op hol and sound,: ase þei him non þing nere.</L>
+<L>þe Apostles axeden ore louerde anon,: ȝwi hem failede miȝte,</L>
+<L>þat heo nadden þat child arerd,: ase it was heore riȝte.</L>
+<L N="240">Bote þis manere deuelene, ore louerd seide,: wende ne mouwen fram non <NOTE PLACE="foot">V. 240 þis manere deuelene; vgl. 314, u. ähnlich K. J. 1542 withouten ani kunne lesing (aber 745 with ani cunnes enchauntement); K. J. 606 is moder preiere L. J. 352 mi fader wille; K J 1210 aȝen þe diestare heste.</NOTE></L>
+<L>Bote in fastingue oþur in oreisones: out of no man gon.</L>
+<L>Ore louerd prechede þat folk þo,: hov it scholde isaued beo;<NOTE PLACE="foot">V. 242 vgl. Math. 21, 33; Marc. 12, 1. Luc. 20, 9.</NOTE></L>
+<L>And seide heom þar to ane bi tale,: þat ȝe mouwen nouþe iseo.</L>
+<L>An heiȝ Man, he seide, in is guode londe: sette ane guode vine,</L>
+<L N="245">And let hire teolie suyþe wel,: and þer to sette is hyne.</L>
+<L>His seriaunt he sende In tyme of grapes,: ase riȝt was forto do,</L>
+<L>þe grapus forto gaderi In: and þe hynene to wissi also.</L>
+<L>þe hyne þat þeos Vynen teoleden: In heore folie forth wende</L>
+<L>And beoten vuele þane seriaunt,: and with oute fruyt hom him sende.</L>
+<L N="250">þo gan þe louerd In ane oþur tyme: an oþur seriaunt þudere sende;</L>
+<L>þe hynene nolden no fruit him take,: ake woundeden him at þen ende.</L>
+<L>þe þridde tyme, he sende an seriaunt þudere,: þe hyne heol∣den him faste,</L>
+<L>And nolden bi taken him no fruyt,: ake a slouwen him atþe laste.</L>
+<L>þe louerd Iouede is vyne wel,: and al so dude is hyne,</L>
+<L N="255">And lothz him was þat fruyt to leose;: he bi þouȝte him atþe fine; <NOTE PLACE="foot">V. 255 þouȝte im Ms. doppelt.</NOTE></L>
+<L><PB N="40" REF="13"/>
+He sende þudere is owene sone: þat he nadde bote þane al one,</L>
+<L>þat heo scholden ileuen hym and bitake: þat fruyt with oute mone.</L>
+<L>þo heore louerdes sone was icome,: þat was heyr of al is londe,</L>
+<L>þe hynene speken hem bi twene: and seiden, huy wolden fonde</L>
+<L N="260">ȝif þat heo him miȝten a sle,: for no doute þanne þare nere</L>
+<L>þat heo ne miȝten þanne beon Maistres of þat lond,: ȝwane þe heir a slawe were.</L>
+<L>þis child heo a slowen sone;: þe louerd nam atþe fine</L>
+<L>And brouȝte is hinene al to nauȝt: and ȝaf oþere men þe vine.</L>
+<L>þis bi tale is fair ensaumple,: þat ore louerd sede,</L>
+<L N="265">Hou þe giwes to deþe him brouȝten: for is owene godhede.</L>
+<L>þe vynes þat heo teolie scholden: þat was þe guode lawe,</L>
+<L>ȝware þoruȝ he wolde þe teoliares: ase is hynene to him drawe;</L>
+<L>þe seriaunz þat he sende after þe fruyt,: þat þe hynene Wounde∣den sore,<NOTE PLACE="foot">V. 268 Ms. hynenene. V. 268 u. 270 seriaunz; oben 246 u. 250 war nur von einem seri∣aunt (Luc. servum; Math. servos) die Rede.</NOTE></L>
+<L>þat weren profetus þat he to þe giwes sende,: to techen heom þe riȝte lore;</L>
+<L N="270">þe seriaunz þat he sende sethþe,: þat þe hynene a slowe,</L>
+<L>þe Martyrs it weren þat for holi churche: þe giwes sethþe to drowen;</L>
+<L>His owene sone þat þe hadde al one,: þat for ore guode he us sende,</L>
+<L>þat was him self godes sone,: þat for us hidere iwende,<NOTE PLACE="foot">V. 273 was überschrie∣ben.</NOTE></L>
+<L>þat þe giwes slowen for onde,: laste he heore miȝte hem bi nome.</L>
+<L N="275">I sene it was, þo heo seiden: a mong heom ilome,</L>
+<L>ȝif we latez heom þus gon forthz,: al folk to him wole wende,<NOTE PLACE="foot">V. 276 Statt heom ist jedenfalls him zu lesen</NOTE></L>
+<L>And þat folk of rome us wole bi nime: ore power atþen ende.</L>
+<L>þare fore atþe laste: heore louerdes sone huy a slowe,</L>
+<L>And heore louerd heom brouȝte þare fore: to grounde with oute wowe;<NOTE PLACE="foot">V. 279 Ms heo mit übergeschriebenen m.</NOTE></L>
+<L N="280">For he bi nam heom al heore lond: and heore folk with riȝte dome,</L>
+<L>þo Tytus and Waspasian: Jerusalem nome,<NOTE PLACE="foot">Mit V. 281-2 vgl. 845-6, 839-40, wo Va∣spasian gelesen wird.</NOTE></L>
+<L><PB N="41" REF="14"/>
+Heore lond he tok oþur men: Ant heore fruyt þare with oute;</L>
+<L>Neuer eft ne moste no giv: wonien þare aboute.</L>
+<L>Nichodemus prince of giwes,: A Man of grete miȝte,<NOTE PLACE="foot">V. 284 ff. vgl Joh. 3, 1 - 6.</NOTE></L>
+<L N="285">A Man he was of þe fariseus,: to ore louerd he cam bi niȝte. <NOTE PLACE="foot">V. 285 fariseus, vgl. fisicieins K J. 1551; sonst phariseus</NOTE></L>
+<L>Maister! he seide, wel we wuten: þat fram god þou come us for to lere,</L>
+<L>For no man ne may do ase þo dost,: bote god with him were.<NOTE PLACE="foot">V. 287 þo st. þou, wie V. 701.</NOTE></L>
+<L>Bote a man, ore louerd seide,: eft sone ibore beo,</L>
+<L>He ne mai neuere for no þing: þe blisse of heouene iseo.</L>
+<L N="290">Hov mai an old Man, þis oþer seide,: eft sone ibore beo</L>
+<L>And crepe aȝein in to is Moder wombe?: þat ne schal man neuere iseo.</L>
+<L>Nai, seide ore louerd, bote a man: eft sone beo ibore</L>
+<L>Of watur and þoruȝ þe holi gost,: is soule worth for lore.</L>
+<L>þat was for soþe, bote he in watur: ibaptized were;</L>
+<L N="295">þet oþur buyrtyme þat scholde beo,: þo he gan hem þat lere.</L>
+<L>þat þing þat is of þe flechs ibore,: fleschslich it is iwis,<NOTE PLACE="foot">V. 296 Ms: þe oþur mit übergeschr. t.</NOTE></L>
+<L>And þat is icomen of þe gost,: gostlich also it is.</L>
+<L>ȝwat beoth þis twei buyrtimes,: þat ore louerd ensaumple of nam?</L>
+<L>þat on is of ore Moder wombe,: þat oþur ore cristinedom.</L>
+<L N="300">Ase no Man ne may beo tuye ibore: of is moder, ȝe mowen iseo,</L>
+<L>Also ne mai no Man for none neode: tweies icristned beo.</L>
+<L>þo ore louerd hadde longe ipreched: In þe londe of Jude,</L>
+<L>He wende bi þe se of Samarie: to þe londe of Galilee.</L>
+<L>Heo comen bi one stude: þat Jacob ȝaf is sone,<NOTE PLACE="foot">V. 304 bi one stude; vgl. K. J 244: Jesu Crist . . bi þat maumerie gan come; etwas anders V. 343 eorninde bi þe stretes gradde, K. J. 983 gret miracle he dude bi eche contreiȝe.</NOTE></L>
+<L N="305">þare heo dronken ofte and watereden also: al heore orf bi wone,</L>
+<L>þare Josepes bones buth ibured;: þo ore louerd þe welle founde,</L>
+<L>He sat a doun, for he was weri,: and reste him one stounde.</L>
+<L>His desciples, to buggen heore mete,: alle at toune heo were;</L>
+<L>So þat ore louerd sat þare al one: bi þe welle þere.</L>
+<L N="310"><PB N="42" REF="15"/>
+Aboute Midday, to fetten watur,: a womman þare cam gon.</L>
+<L>Womman! þov most, ore louerd seide,: ȝiue me drinke a non.</L>
+<L>Leoue sire! þis womman seide,: hou woldest þou drinke with me,</L>
+<L>ȝwane ich am paene and þou art giv?: it ne fulle nouȝt to þe;</L>
+<L>For we ne drinkez nouȝt In one manere,: ne of one manere uete∣les no þe mo,</L>
+<L N="815">And moten ore law holden,: hou so it euere go.</L>
+<L>Womman! ȝif þou knewe godes hous, ore louerd anȝen sede,<NOTE PLACE="foot">V. 316 anȝen st. des gewöhnlichen aȝen; ags. ongegn, Laȝ. onȝein onȝean I. 68, 80, 326 neben aȝein aȝen; Orm onȝâen 18</NOTE></L>
+<L>And þou wustes þanne ho it were: þat þe watur bede,</L>
+<L>þou woldest me bidde ȝiue þe drinke: of þe watere of liue.</L>
+<L>Sire! quath þe womman, ȝwi seist þou so?: þou nast nouȝt wa∣ter so riue;</L>
+<L N="320">For þe put is deop and þou nast nouȝt: ȝware with watur to drawe;</L>
+<L>Hou miȝtest þou þanne ȝwatur ȝiue,: noldest þou no so fawe?</L>
+<L>þou nart nouȝt of more miȝte þane Jacob was,: þat us ȝaf þeos welle;</L>
+<L>He dronk herof and alle is sones,: ase ore elderne us doth telle.</L>
+<L>Ho so drinkez herof, ore louerd seide,: eft him schal þurste sore;</L>
+<L N="325">And ho so drinkez of þe watere þat ich ȝiue,: him ne schal þurste non more;</L>
+<L>Ake þare schal on him a welle beo: eorninde wel faste</L>
+<L>Of guode watere into þe lif: þat euere schal ilaste.</L>
+<L>Sire! þis womman seide, ȝif me þar of,: þat me ne þurste non more,</L>
+<L>Ne þat inabbe none neode hidere to gon,: and trauaille for watur so sore!</L>
+<L N="330">Go cleope þine housebonde, ore louerd seide,: and cum after me þanne!</L>
+<L>Sire, sire! þis womman seide,: housebonde inabbe nanne.<NOTE PLACE="foot">V. 331 nanne st. ne anne; acc anne auch 450 anne ring, 25 anne lof, K. J. 448 anne fot.</NOTE></L>
+<L>Womman, womman! ore louerd seide,: þou art soþes a knowe,</L>
+<L>Ane housebonde þou halst amis,: for he nis nouȝt þin owe;</L>
+<L>Fif housebondes þou hast ihaued,: acke heo deiden mani a dai.<NOTE PLACE="foot">V. 334 halst = holdest; auch Laȝ. halst neben haldest, wie halt neben haldeth;</NOTE></L>
+<L N="335"><PB N="43" REF="16"/>
+Nou hadde þe womman þo ane man: þat in folie bi hire lai. <NOTE PLACE="foot">V. 335 ist am Rande nebengeschrieben</NOTE></L>
+<L>Louerd, merci! þe womman seide,: þou art prophete, iseo;</L>
+<L>Men tellez þat god wole comen on eorþe,: ich wene þat þou it beo.</L>
+<L>þou seist sothz, ore louerd seide,: ake þat þou bi leuest more</L>
+<L>For þat ich þe seide sothz, þane for ani oþur lore.</L>
+<L N="340">þo comen þe Apostles and þouȝten wonder: þat he wolde suych conseil drawe</L>
+<L>Mid a womman þat sunfol was: and of so luþere lawe.</L>
+<L>þe womman bi lefde hire watur stene,: to toune heo gan gon,<NOTE PLACE="foot">V. 342 stene, auch K J. 1748 stenene 1775 stenes, neben pottes Pr. n. 1743.</NOTE></L>
+<L>And eorninde bi þe stretes gradde:: comethz here out a non,</L>
+<L>And iseothz ane Man þat me hath itold: al þat ich habbe ido!</L>
+<L N="345">Ich wot it is Messie þat men spekez of,: þat on eorþe us schal come to.</L>
+<L>þat folk cam out swiþe faste: and toward ore louerd wende,</L>
+<L>To seo þe wonder of is prophecie,: ase þe womman us kende.<NOTE PLACE="foot">V. 347; Aehnlicher Uebergang in die direkte Rede auch K. J. 1003: Jesus . . hath þus iseid: ȝware þe children miȝten be þat weren of þat contre, þat weren mine pleiing fere; u. ähnlich ib. 381.</NOTE></L>
+<L>þe Apostles beden ore louerd ete,: þo heo hadden is mete ibrouȝt.<NOTE PLACE="foot">V. 348 vgl. Joh. 4, 31.</NOTE></L>
+<L>Mete ich habbe to ete, ore louerd seide,: þat ȝe ne wuten nouȝt.</L>
+<L N="350">þe Apostles axeden ech after oþur,: ȝif ani of heom it wuste,</L>
+<L>And ȝif ani man him hadde mete ibrouȝt: stilleliche, þat heo nusten?</L>
+<L>Mi mete is, quath ore louerd Crist,: Mi fader wille forto do,</L>
+<L>þat me hathz hidere isend,: and ouwere it scholde beo al so.</L>
+<L>Ho so sowez mi corn and ho so it ripez,: glade heo schullen beo;<NOTE PLACE="foot">V. 354 ib. 4, 36; 355 ib. 4, 38.</NOTE></L>
+<L N="355">Ake ȝe ripez þat ȝe ne sewen nouȝt,: ase ȝe mouwen iseo.</L>
+<L>þe furste sowingue of godes sed,: of þe prophetes it was<NOTE PLACE="foot">V. 356-62 Zusatz.</NOTE></L>
+<L>þat sewen is wordes, are he were ibore,: þo riȝt bi leue non nas;</L>
+<L>þe Apostles comen sethþe and repen: þat fruyt þat þarof cam,</L>
+<L>þo heo brouȝten to þe blisse of heuene: folk þoru cristinedom.</L>
+<L N="360">þere fore we ripez and berez awei: þat fruyt nouþe of ore lore,</L>
+<L><PB N="44" REF="17"/>
+þat þis guode Men sewen ȝwilene: and bi swunken it ful sore.</L>
+<L>þo þis folk þoruȝ þat womman: a boute ore louerd cam,<NOTE PLACE="foot">V. 362 vgl. Joh. 4, 39. 40.</NOTE></L>
+<L>þat meste del bi leuede on him: and token cristinedom.<NOTE PLACE="foot">V. 363 Eigenthümlich ist hier der Wechsel von sgl. u. pl. nach einem Collektiv; ähnlich bei echon L J. 467 Ech þouȝte on is owene sunne þo and stilleliche eoden awei, K. J 325 ech wende fram oþur in a þrowe and tolden, ib 913 ech on us biginneth to crie and wollez us do gret vilenie, 1286 ech of heom to him gan go and in heore manere hereden him þo. Sonst steht nach Collektiven auch das nächste Prädicat im plur.: K J. 612 of þe giwes þe grate ferrede wondreden of þat childes dede, ib. 995 þat ilke fol it gounne schere and hom to heore houses it bere, ib. 1299 gret folk of þat contreie þis child among þe bestes iseie; selbst bei echone K J. 588 nouȝt forþan with enuie echone gunne on him crie, ib 1525 and sethþe echone withoute enuie to him merci gunne crie, und im Nebensatze: ib. 661 Euerech, þat þe picher iseiȝe, hadde wonder.</NOTE></L>
+<L>Heo wolden þat ore louerd ne scholde: fram heom habbe igon,</L>
+<L N="365">Prechinde he bi lefte þare wit heom: twei dawes and non mo,</L>
+<L>Ore louerd wende toward Galilee;: a man cam a ȝen him þere,<NOTE PLACE="foot">V. 366 ff. vgl. Joh. 4, 46 ff. Am Rande ist nebengeschrieben: Sanatio filii reguli.</NOTE></L>
+<L>þat ileuede him wel al miȝti to beon,: ake nouȝt þat he god were.</L>
+<L>Louerd! he seide, mi sone is sijk,: al atþe liues ende;</L>
+<L>Icholde þe bidde, are he deide,: enes to him iwende.</L>
+<L>Go hom, ore louerd seide,: and al hol þou him schalt finde.</L>
+<L N="370">þis Man was glad for þat word;: he ne bi lefte nouȝt bi hinde,</L>
+<L>He orn hamward with glade chere;: his hinene weren wel rad,</L>
+<L>And ornen and tolden þat is sone was hol,: and beden him beo glad,</L>
+<L>ȝif he is iturnd to hele, quat þis oþur,: ȝ wuch tyme bi fel þat cas?</L>
+<L>Ake riȝt ate seueþe tide: we wende he scholde deie;</L>
+<L N="375">In ane stounde he bi cam al hol,: þat we alle iseie.</L>
+<L>þis oþur onder stod þat þulke tyme,: þo ore louerd to him sede</L>
+<L>þat is sone was al hol,: ant þat he ne scholde no þing drede.</L>
+<L>He ileuede þat he almiȝti was,: and guod Man also bi cam,</L>
+<L>And he and al is maynie: nomen cristinedom.</L>
+<L N="380">þo comen Men of pharisee: and ore louerd fondi wolde, <NOTE PLACE="foot">V. 381 vgl. Math. 22, 15. Marc. 12, 12. Luc. 20, 20.</NOTE></L>
+<L><PB N="45" REF="18"/>
+And axeden ȝweþur heo scholden ȝyue þe amperoure: catel, oþur heo ne scholden.<NOTE PLACE="foot">V. 382 Mit dem letzten Theil der Doppelfrage vgl. K. J. 925 nou seie þou . . ho þe pulte, ho made þe wrothþ, pulte i þe ouȝt oþur ine dude?</NOTE></L>
+<L>We axieth þe, heo seiden, for we iseoth: þat þou wolt riȝt iknowe,</L>
+<L>And þe riȝte soþe þou techest ech Man,: and ne sparest heiȝe ne lowe.</L>
+<L N="385">Al heo seiden, for he wolden: wit some worde nime him þere <NOTE PLACE="foot">V. 385 he st. heo, wie V. 417.</NOTE></L>
+<L>And seggen þe maistres of þe lawe: þat he a gylur were.</L>
+<L>Wel wuste ore louerd heore false þouȝt;: ȝe ypocritene! he sede,</L>
+<L>ȝwat eilez ou to fondi me: with ouwer luþur hede?</L>
+<L>þe Aumperoures moneie schewieth it me!: and þo it was to him ifet,</L>
+<L N="390">Ore louerd Axede ȝwat were þe prente,: þat was þar on iset.</L>
+<L>Heo seiden: Cesares prente þe Aumperour.: ore louerd hem bad wel do,</L>
+<L>And ȝelde Cesar þat Cesares was,: and god þat his was al so;</L>
+<L>Ase hoso seith inele nouȝt bi nime: þe aumperour is riȝte,</L>
+<L>Ake ȝeldeth him þat him wole falle,: and god also bi ower miȝte.</L>
+<L N="395">ȝware þoruȝ we iseoth þat ech man may: eorþeliche riȝte do,</L>
+<L>Of courtes and playdingues an oþure þing,: and godes riȝte also.<NOTE PLACE="foot">V. 396 Ms.: oþuriþing.</NOTE></L>
+<L>Nov comen þare Men þat ne bi lefden nouȝt: þat ore louerd hem gan lere,<NOTE PLACE="foot">V. 397 vgl. Math. 22, 23. Marc. 12, 19. Luc. 20, 27.</NOTE></L>
+<L>Ne þat ani soule libbe scholde,: ȝwane þat bodi ded were.</L>
+<L>þare fore heo þouȝte ore louerd to fonde;: leoue Maister! heo seide,</L>
+<L N="400">Moyses us teiȝte in is lawe,: þat we doth ofte rede,</L>
+<L>þat, ȝif a man weddede a wijf: and with oute heyr ded were,</L>
+<L>þat is broþur hire weddi scholde,: þat þe kun heyrles nere,</L>
+<L>And also, forto heo ane kuynde heir hadden,: broþur aftur broþur.</L>
+<L>Hit biful þat seuen breþren one womman weddeden,: euerech aftur oþur;</L>
+<L N="405"><PB N="46" REF="19"/>
+ȝwan ech ded man libbe schal after domus dai,: ase þou seist we schulle iseo,</L>
+<L>ȝwas wif of þe seue breþren: schal þulke womman beo?</L>
+<L>Onder stondez, ȝe paeins!: ore louerd to hem sede,</L>
+<L>ȝwane men a risez a domus dai, no wif ne schulle heo lede;</L>
+<L>þare ne worth no rikeningue of mannes wif,: of seuene ne of þre,</L>
+<L N="410">Ne no wilninge to fleschliche dede,: bote ase aungles ȝe schullen be.</L>
+<L>þat folk cam wel þicke a boute ore louerd,: and he gan heom wel teche,<NOTE PLACE="foot">V. 411 vgl. Math 20, 3</NOTE></L>
+<L>Hov heo scholden after heore maistres don, þat heom wissi scholde and preche.</L>
+<L>þe maistres, he seide, þat ov wissi schulle,: an heiȝ heo wollez sitte<NOTE PLACE="foot">V. 413 vgl. Luc. 11, 43. 20, 46. Math. 23, 6. Marc. 12, 38.</NOTE></L>
+<L>And grete resones prechi and speke: wisliche with grete witte.</L>
+<L N="415">After heore wordes lokez þat ȝe don,: and nouȝt after heore dede!</L>
+<L>For manie, þei heo wisliche techen,: ofte heom sulue dothz to quede.</L>
+<L>Gret charge he wollez on oþur men sette: and heom self liȝte lede.<NOTE PLACE="foot">V. 417 vgl. Luc. 11, 46. Math 23, 3.</NOTE></L>
+<L>With Inne heo beothz horie and foule: and with oute of clene rede.<NOTE PLACE="foot">V. 418 Math. 23, 27. 28.</NOTE></L>
+<L>Daþeheit þe maistres and þe techares,: þat with oute ov wollez so clene make,</L>
+<L N="420">And stinkez with Inne for owere dedes,: no guodnesse ȝe nellez take.</L>
+<L>Daiþait ȝe þat beoth iliche: þe roues þat beoth with oute</L>
+<L>I ȝwitlimede and iplanede faire,: I peint þanne al a boute,</L>
+<L>And with Inne fulle of caroyne: of rotede men and dede!</L>
+<L>Also fareth heo þat techez wel: and heom sulue doth to quede.</L>
+<L N="425">þo seiden Men of pharisee: to ore louerd with grete mode: <NOTE PLACE="foot">V. 425 vgl. Luc. 13, 31, 32.</NOTE></L>
+<L>We redez þat þou heonne fleo: sone, ȝif þat þou canst guod;</L>
+<L>For Heroudes a waitez þe to sle,: bote ȝif þou henne gon.<NOTE PLACE="foot">V. 427. Eigenthümlich ist gon als sgl. sbj.; des Reimes wegen? vielleicht ist wole ausgefallen.</NOTE></L>
+<L>ȝe, goth and seggez, ore louerd seide,: to þulke foxe a non</L>
+<L>þat ich driue deuelene out of Men: and of oþur sicknesse heom bringe,</L>
+<L N="430"><PB N="47" REF="20"/>
+And þat he ne schal me neuere þar of: don me destourbinge! <NOTE PLACE="foot">V. 430. Eigenthümlich ist das doppelte me.</NOTE></L>
+<L>þat he seide, for he ne scholde nouȝt: ounder him beo inome,</L>
+<L>Ake under Pilatus at Jerusalem,: for þe tyme was neiȝ icome.<NOTE PLACE="foot">V. 433 vgl. Math. 23, 34.</NOTE> <NOTE PLACE="foot">V. 37 vgl. Luc. 13, 34. Math. 23, 37.</NOTE></L>
+<L>Lo! he seide, to eov and to Jerusalem: of mine prophetus ich sende,</L>
+<L>Of mine desciples, and ȝe heom betez: and a quellez heom atenende;</L>
+<L N="435">In stronge tormenz ȝe heom doth,: and pur siwieth heom a boute</L>
+<L>Fram toun to toun heom to sle,: þat heo ne moten nouȝwere atroute.<NOTE PLACE="foot">V. 436 atroute = escape: Rob. Gl. 78, 7 þer nas prince þat him miȝte atroute; Owl a. Night. 1168: þu ne miȝt nowar atrute</NOTE></L>
+<L>Jerusalem, þat dest to deþe: mine prophetus bringe,</L>
+<L>Gaderi ichulle þine children to me,: ase an hen onder hire winge</L>
+<L>Hire chikene gaderez and noriceth,: and ȝe nolden nouȝt;</L>
+<L N="440">For soþe isegge þat it worth: opon ov sulue ibrouȝt, <NOTE PLACE="foot">V. 440 vgl. Math. 23, 38.</NOTE></L>
+<L>Al þat blod þat was isched: fram Abelles daie with wowe</L>
+<L>For to þat Zakarie bi tuene þe temple: and þe Autere ȝaslowe.<NOTE PLACE="foot">V. 442 ȝaslowe Ms.; vielleicht zu ändern in was aslowe.</NOTE></L>
+<L>Lo! ouwer hous schal beo fur lete: and al fur worþe also;</L>
+<L>Are ȝe comen to repentaunce,: ȝe ne schullen no siȝt on me do.</L>
+<L N="445">þat heore hous scholde beo for lete,: þat ore louerd þouȝte</L>
+<L>Bi Tytus and Vaspasian: þat sethþe to grounde heom brouȝte.</L>
+<L>Ore louerd cam sethþe and sat bi þe stude: þare Men duden heore offringe,<NOTE PLACE="foot">V. 447 vgl. Luc. 21, 1 ff. Marc. 12, 41.</NOTE></L>
+<L>Bi þe tresorie, þat it was inne iwust: þat Men duden þudere bringe.</L>
+<L>Heie Men þare comen, and here offringe: of grete richesse huy ladde.</L>
+<L>A seli pouere wydewe þere cam: þat bote anne ring heo nadde;</L>
+<L N="450">þane heo offrede mid guode heorte;: ore louerd seide a non:</L>
+<L>þis selie womman hath more ioffred: þane þeos oþure ech on;</L>
+<L><PB N="48" REF="21"/>
+For, þat heo þare leide, is of hire vnaise,: and þis oþere it nis nouȝt so;<NOTE PLACE="foot">V. 453. of hire vnaise; vgl. Marc. 12, 44 de penuria sua omnia quae habuit misit, totum victum suum; Luc 31, 3 ex eo quod deest illi totum victum suum quem habuit misit.</NOTE></L>
+<L>Ake heom þinchez al is to muche: þat heo habbez þare ido.</L>
+<L N="455">Here we iseoth þat ore louerd is a paid: betere of a luytel offringe <NOTE PLACE="foot">V. 455-58 Zusatz.</NOTE></L>
+<L>Of a pouere Man, þane of a gret: þat a riche man deth bringe;</L>
+<L>I ne segge nouȝt þat þe person is al so: þat scholde beo in his stude;</L>
+<L>For ȝwane he hath gret offringe a dai,: him þinchez he hath wel a bede.</L>
+<L>þe hexte Maistres of þe phariseus: to fondi ore louerd heo come,<NOTE PLACE="foot">V. 459 ff. vgl. Joh 8, 1 ff. Am Rande ist nebengeschrieben: Qui sine peccato mittat lapidem.</NOTE></L>
+<L N="460">And brouȝten ane womman to habben Juggement,: þat heo in spousbruche nome.</L>
+<L>Lo! heo seiden to ore louerd,: In spousbruche þis womman we toke;</L>
+<L>ȝwat Juggement schulle we hire do?: riȝt lawe þou most us loke;<NOTE PLACE="foot">V. 463 im Ms. fehlt lawe.</NOTE></L>
+<L>For Moyses, ȝwas þat we holdez,: hat us in is boke,</L>
+<L>þat we with stones to deþe hene: þat heore hoseboundes for soke.</L>
+<L N="465">Mi Juggement is, ore louerd seide,: þat wuch of eou ech on</L>
+<L>Is clene with oute sunne,: þrowe þene furste ston.</L>
+<L>Ech þouȝte on is owene sunne þo,: and stilleliche eoden a wei,</L>
+<L>Ech after oþur, þat in one stounde: þare ne lefde non neiȝ,</L>
+<L>Bote ore louerd allone and þis womman,: þat in spousbruche was inome.</L>
+<L N="470">Heo þat wreiden þe womman, ore louerd seide,: ȝware beoth heo bi come?</L>
+<L>þe ne Juggez no man to deþe,: ore louerd to þis womman seide,</L>
+<L>Ne ich nelle na þe mo,: ne haue þar of no drede,</L>
+<L>Ake go and ne sunege þou non more!: þis womman al quit eode.</L>
+<L>þare cudde ore louerd þat he was prest: to sunful manne neode.</L>
+<L N="475">Gywes comen to ore louerd and axeden him,: ȝwodere he wolde atþenende. <NOTE PLACE="foot">V. 475 ff. vgl. Joh 8, 21 ff Am Rande ist nebengeschrieben: Antequam Abraham fieret (Ms fier'ȝ), ego sum (Joh. 8, 58).</NOTE></L>
+<L><PB N="49" REF="22"/>
+þudere ase ichulle, ore louerd seide,: ne mouwe ȝe nouȝt wende.</L>
+<L>We ne mowen nouȝt wenden with him,: heo seiden, hou may þis be?</L>
+<L>ȝveþur he wulle him self a quelle?: sone we schullen ise.</L>
+<L>ȝe beoth of þe worlde, ore louerd seide,: and so nam ich nouȝt.</L>
+<L N="480">Bote ȝe wollen bi leue on me,: to deþe ȝe worþeth ibrouȝt,</L>
+<L>And ȝe schullen deiȝe in ouwer sunnes,: In ȝwan ȝe beoth ibore.</L>
+<L>ȝwat artþou, þis giwes seiden,: and ȝware of was þi more?</L>
+<L>Of Abrahames cunne we beoth icome,: and neuere ibounde we nere,<NOTE PLACE="foot">V. 483 vgl. Joh. 8, 33; Joh. 8, 26-33 fehlen. Vielleicht ist ein Strophen∣paar ausgefallen, denn es fehlt der Zusammenhang mit dem Vorhergehenden; vgl Joh. 8, 31: Si vos manseritis in sermone meo, vere discipuli mei eritis; 32 Et cognoscetis veritatem et veritas liberabit vos. 33. Respon∣derunt ei: Semen Abrahae sumus et nemini servivimus umquam: quomodo tu dicis: liberi eritis? Ueberhaupt ist dieses Gespräch nach Joh. 8 sehr zusammengedrängt und verkürzt.</NOTE></L>
+<L>For to serui non oþur Man;: I not hov þov us wult lere.</L>
+<L N="485">Ech Man, quath ore louerd, þat sunne doth, sunne he seruez also; <NOTE PLACE="foot">V. 485-86 vgl. Joh. 8, 34.; 487-89 ib 38. 39; 490 ib 44; Joh. 8, 39-44 fehlen.</NOTE></L>
+<L>Hou miȝte it beo, bote ȝe serueden sunne,: ȝwane ȝe wollez sunne do?</L>
+<L>þat þing ich speke, þat ich hadde: of mi fader iwis,</L>
+<L>And ȝe spekez, þat ȝe hadden of him,: þat ouwer fader is.</L>
+<L>Wel þou wost þat Abraham is ore fader,: þei we þe ne telle.</L>
+<L N="490">Ichot, quath ore louerd, þat ouwer fader is: þe maister deuel of helle;</L>
+<L>And is weorkes al dai ȝe doth,: for he hath euere ibeo with wouȝ,</L>
+<L>Fals, and also Manquellare,: þo he Adam a slouȝ.</L>
+<L>ȝwan þe deuel spekz of lesinge,: he spekez of þat is his,<NOTE PLACE="foot">V. 493 vgl Joh. 8, 44: Cum loquitur mendacium, ex proprio loquitur quia mendax est et pater eius. 45 Ego autem si veritatem dico, non creditis mihi</NOTE></L>
+<L>And ȝwan ich speke of sothnesse,: ȝe ne leuez me nouȝt iwis.</L>
+<L N="495">Ho so is godes sone,: is word he wole ihere fawe; <NOTE PLACE="foot">V. 495-99 ib. 47-49.</NOTE></L>
+<L>þare fore ȝe ne heoreth it nouȝt: for ȝe ne beoth nouȝt of is lawe.</L>
+<L><PB N="50" REF="23"/>
+Ne segge we nouȝt soth, þe giwes seiden,: Ake þe deuel is þe with Inne?</L>
+<L>Seistou þat þe deuel is ore fader,: hou scholde he us winne?</L>
+<L>Ore louerd seide: no deuelhede Jne habbe Jn me,: Ake mi fader ilouie iwis,<NOTE PLACE="foot">V. 499 vgl 8, 49: Ego daemonium non habeo, sed honorifico patrem meum et vos inhonorastis me; im Ms. fehlt jedenfalls ȝe vor doth.</NOTE></L>
+<L N="500">And (ȝe) doth me uilte al þat ȝe mouwen,: for ich am of his.</L>
+<L>Ho so heoreth mi word, he ne schal nouȝt deiȝe: In deþe with outen ende.<NOTE PLACE="foot">V. 501-519 ib. 51-59.</NOTE></L>
+<L>Abyd, abyd, nouþe þis giwes seiden,: þou ne miȝt it non oþur wende,</L>
+<L>þat þe deuel nis in þe wel breme;: for Abraham ore fader is ded,</L>
+<L>And alle þe prophetes þat wise weren;: hov hast þou iseid</L>
+<L N="505">þat ho so heoreth þi word ne schal nouȝt deie?: ȝwat woltþou þe make?</L>
+<L>To beon herre þane Abraham,: þat ne miȝte þe deth fur sake?<NOTE PLACE="foot">V. 506 Ms. mak.</NOTE></L>
+<L>ȝif ich herie mi self, ore louerd seide,: min herijnge nis nouȝt iwis,<NOTE PLACE="foot">V. 507 Joh. 8, 54: Si glo∣rifico meipsum, gloria mea nihil est, est pater meus qui glorificat me, quem vos dicitis quia deus vester est.</NOTE></L>
+<L>Ake mi fader of heuene, he herieth me,: þat ȝe seggez þat ouwer god is;</L>
+<L>ȝe ne knowez him nouȝt, acke ich him iknowe,: and ȝif þat ich oþur sede,</L>
+<L N="510">Ich were a liare, ase ȝe beoth,: and ilich ov in falshede.</L>
+<L>Abraham ouwer fader wilnede muche,: ȝif it miȝte so bi falle,</L>
+<L>To seo mine dawes; and þo he heom isay,: glad he was with alle.</L>
+<L>þou nart nouȝt fifti winter old,: hou miȝtest þou Abraham iseo?<NOTE PLACE="foot">V. 513 u. 4 im Ms. umgesetzt, aber ihre Reihenfolge durch vorgesetzte b, a bezeichnet; das: þe giwes seiden gehört daher wohl in V. 513.</NOTE></L>
+<L>Wost þov euere ȝwat þou menest? þe giwes seiden,: hou miȝte þis soth beo?</L>
+<L N="515">Ich was for soþe, ore louerd seide,: are euere Abraham were.</L>
+<L>þe giwes weren þo wroþe with him,: þat grete stones heo bere,</L>
+<L>And wolden (him) habbe iþrowe to deþe;: ore louerd him hudde a non,<NOTE PLACE="foot">V. 517. Ms. fehlt him.</NOTE></L>
+<L><PB N="51" REF="24"/>
+For is tyme nas nouȝt þe ȝeot icome;: out of þe temple he gan gon.</L>
+<L>Nov comen þare some of þe phariseus,: and desputeden aȝein him faste,<NOTE PLACE="foot">Neben V. 519 ist am Rande nebengeschrieben: Qui non intrat per hostium fur est et latro.</NOTE></L>
+<L N="520">And seiden heo wolden with outen him: isauede beon at þe laste,</L>
+<L>Gon and bi leuen on þe heiȝe god,: þei heo ne lefden on him nouȝt.</L>
+<L>Ore louerd hem seide þeos ansaumple,: for he wuste al heore þouȝt:</L>
+<L>Ech guod schep is owene heorde iknoweth,: and is voiz, for he is him leof;<NOTE PLACE="foot">V. 523 ff. vgl. Joh 10, 1: Qui non intrat per ostium in ovile ovium, sed ascendit aliunde, ille fur est et latro 2. Qui autem intrat per ostium, pastor est ovium. 3. Huic ostiarius aperit, et oves vocem eius audiunt, et proprias oves vocat nominatim et educit eas. 4. Et cum proprias oves emiserit, ante eas vadit, et oves illum se∣quuntur, quia sciunt vocem eius. 5. Alienum autem non sequuntur sed fugiunt ab eo, quia non noverunt vocem alienorum.</NOTE></L>
+<L>And ho so ne comez nouȝt In bi þe dore,: ake elles ȝware, he is þeof.</L>
+<L N="525">And ech guod schepherde is schep knowez,: and bi name heom wole cleopie ech on;</L>
+<L>His schep siwieth him and is word,: and fra alle oþere heo wollez gon.</L>
+<L>Here we iseothz þat þis persones: ase schepherdes heo beoth alle;<NOTE PLACE="foot">V. 527-35 Zusatz.</NOTE></L>
+<L>I knowe heo schullen alle heore schep,: and bi name heom calle;</L>
+<L>For ho may witien an oþures soule,: bote he as furst iknowe?</L>
+<L N="530">He mai vuele witien schep þat ne wot neuere,: ȝwuche schep beoth is owe.</L>
+<L>Ake ȝwane man ȝif ani person a cheorche,: is furste axinge schal beo,</L>
+<L>Hou fale Marck þe churche is wuyrth,: ase ȝe mowen iseo;</L>
+<L>Ake hou manie soulene þare beot to witene,: heo wollez axi ful selde;</L>
+<L>þare of heo schullen atþe daie of dome: harde a countes ȝelde.</L>
+<L N="535">Ich am þe dore, ore louerd seide,: bi ȝwan schep schullen In wende; <NOTE PLACE="foot">V. 535 ff. vgl. Joh. 10, 9 ff. Am Rande ist nebengeschrieben: bonus pastor dat vitam suam pro ouibus suis.</NOTE></L>
+<L><PB N="52" REF="25"/>
+Ho so cometh in bi þulke dore,: isaued he worth at þen ende.</L>
+<L>Ich am, he seide, a guod schepherde,: for þe schepherde þat is guod,</L>
+<L>His soule he wole ȝiue for is schep: and is owene blod;<NOTE PLACE="foot">V. 538 Ms. he wole doppelt.</NOTE></L>
+<L>ȝwane þe luþere schepherde isikth þene wolf,: he wole fleo a non;</L>
+<L N="540">And I nelle nouȝt fleo, acke ichulle iknowe: mine schep ech on,</L>
+<L>And mine schep iknowez me,: and for heom mine soule ichulle do.</L>
+<L>Oþur schep ich habbe þat ne beoth nouȝt: of þusse folde al so,<NOTE PLACE="foot">V. 542 ib. 10, 16.</NOTE></L>
+<L>Ake ich heom wolle þoruȝ mine prechours: to mine folde lede.</L>
+<L>O schepherde it schal beo and al o fold,: þatschal wel wide sprede.</L>
+<L N="545">þat he seide bi sarasins,: of wam we beoth icome,</L>
+<L>þat þoruȝ þe Apostles and oþure Martyrs: to cristinedom weren inome.</L>
+<L>Mine soule, he seide, ichulle for heom ȝiue: and eft sone hire afonge,<NOTE PLACE="foot">V. 547 vgl. Joh 10, 17: Propterea me diligit pater, quia ego pono animam meam, ut iterum sumam eam. 18 Nemo tollit eam a me, sed ego ponam eam a meipso, et potestatem habeo po∣nendi eam, et potestatem habeo iterum sumendi eam.</NOTE></L>
+<L>For no man ne mai me bi nime: mine soule nouȝt wel longe;</L>
+<L>Acke ich as wolle bileue fram me,: I nelle it lete nouȝt,</L>
+<L N="550">And sethþe take aȝen to me,: ȝwane ich habbe mine schep ibrouȝt.</L>
+<L>Ne heore ȝe alle, þis giwes seiden,: he spektþ ase he beo wod?<NOTE PLACE="foot">V. 551 Joh. 10, 20.</NOTE></L>
+<L>I wis þe deuel is him with Inne;: ne seo ȝe he ne can no guod?</L>
+<L>Heo wenden and gadereden stones anon: to henen him euer∣ech one.<NOTE PLACE="foot">V. 553 ff. ib 31 ff.</NOTE></L>
+<L>ȝwat eileth ou, ore louerd seide to heom,: to hene me with stones?</L>
+<L N="555">Mani guod dede ich ou habbe ischewed,: and mani guod word al so.</L>
+<L>For none god dede, þis giwes seiden,: to deþe we nellez þe do,</L>
+<L>Ake for þou seist þat þou art god,: and art Man ase we beoth.</L>
+<L>ȝif ȝe wollez me ileue, ore louerd seide,: þat ȝe inouȝ al dai iseoth.<NOTE PLACE="foot">Zu V. 558 vgl. ib. 37: Si non facio opera pa∣tris mei, nolite credere mihi; si autem facio, et si mihi non vultis cre∣dere, operibus credite, ut cognoscatis et credatis quia pater in me est, et ego in patre. Der Text scheint hier verderbt.</NOTE></L>
+<L>þe giwes him wolden nime a non;: ake stilleliche he fleu awei</L>
+<L N="560"><PB N="53" REF="26"/>
+Ouer þe watere of þe flum Jordan,: for to is tyme were icome nei</L>
+<L>Bi ȝeonde þe watere he conseilede is desciples,: and with is fader he spac al so.<NOTE PLACE="foot">V. 561 vgl Joh. 12, 2425: Nisi granum frumenti cadens in terram mortuum fuerit, ipsum solum manet; si autem mortuum fuerit, multum fructum affert. Am Rande ist nebengeschrieben: nisi granum frumenti cad'.</NOTE></L>
+<L>Bote þe corn of ȝwete beo ded,: þat is on eorþe ido,</L>
+<L>Al one it bi leueth with oute fruyt;: Ake ȝif þat hit ded is,<NOTE PLACE="foot">V. 563 Ms de st ded, wie V. 684.</NOTE></L>
+<L>þat is ȝif it rotuth and chineth,: muche fruyt it bringez iwis.</L>
+<L N="565">Al þat he seide bi him self;: bote he þolede deth here, <NOTE PLACE="foot">V. 565-69 Zusatz.</NOTE></L>
+<L>No fruyt ne miȝte he bringe of soulene: to heuene his ifere.</L>
+<L>For ore louered euenede him to ȝwete,: and to oþur corne neuere,</L>
+<L>þare fore of ȝwete is þat swete flesch,: þat atþe masse imaked is euere.<NOTE PLACE="foot">V. 569-576 vgl. Joh. 12, 27-30.</NOTE></L>
+<L N="570">Fader! he seide, make me cler and clene,: for nouþe sone is mi tyme iwis!</L>
+<L>Sauue me and make cler,: for mi soule destourbed is!</L>
+<L>A voiz þare cam and with him spak: fram is fader of heuene an hei,</L>
+<L>And so cler him makede ase he bad,: þat no man him ne sei;</L>
+<L>Gret soun heo heorden, ake non ne miȝte: iwite ȝwat it were;</L>
+<L>Some seiden þat it an Aungel was: þat with him spac þere,</L>
+<L N="575">And some þat it was þoundre,: þe wisore none nere.</L>
+<L>þo bi gan ore louerd to schewi him,: and of is fadere heom lere.<NOTE PLACE="foot">V. 576-81 vgl.Joh. 14, 8-9.</NOTE></L>
+<L>Louerd! quath seint Phelip, it is inouȝ,: Ake lat us ene þine fader ise!</L>
+<L>Phelip, ore louerd seide, ne knoustou me nouȝt?: so longe þou hast with me ibeo;</L>
+<L>Nostou nouȝt þat mi fader is In me,: and ich in him al so?</L>
+<L N="580">And ich mot a ȝein to him wende: þat me hath hidere ido?</L>
+<L>ȝif ȝe louieth me, ȝe wollez witen: mine hestes, ȝwodere so ich wende.<NOTE PLACE="foot">V. 581 ib. 15;</NOTE></L>
+<L>Mine fadere ichulle bidde þat he schal: oþur confort ou sende.<NOTE PLACE="foot">V. 582-89 ib. 16 u. 26-30.</NOTE></L>
+<L>I nelle ou nouȝt bi leue faderles;: þe holie gost ou comez to,</L>
+<L><PB N="54" REF="27"/>
+þat schal ou techen alle þing;: and mi pays ich ou ȝiue al so.</L>
+<L N="585">Ich ou segge bi fore hond,: þat ȝe þarof ȝeme nome,</L>
+<L>And þat ȝe þe betere it ilefden,: ȝwane it to eou come.</L>
+<L>I nelle nouȝt muche with ou speke,: ne mid ou bi leue longe;<NOTE PLACE="foot">V. 587 u. 88 vgl. ib. 30: Jam non multa loquar vobiscum; venit enim princeps mundi huius, et in me non habet quidquam.</NOTE></L>
+<L>For þe worldes maistrie comez ope me,: and in me ne schal nouȝt afonge.</L>
+<L>Ich am, he seide, a riȝt soth vine,: and mi fader teoliare is.<NOTE PLACE="foot">V. 589-97 vgl. Joh. 15, 1 ff.</NOTE></L>
+<L N="590">Ech braunche on me þat ne berez no fruit: a wei he wole caste iwis;</L>
+<L>And þulke þat bereth fruyt puyrgi he wole,: þat it schal bere fruyt þe more.</L>
+<L>ȝe beoth þe braunches, and ich þe vine;: ore fruyt is for lore,</L>
+<L>Ase þe braunche þat ne berez no fruyt,: bote heo beo In þe vine,</L>
+<L>Ne ȝe ne mowen bote ȝe beon in me,: ase ȝe schulle iseon at þe fine.</L>
+<L N="595">þulke þat in me wonie nele,: icorue heo worth atþe laste</L>
+<L>Ase a luþur braunche, and fur druyt,: and in þe fuyr man schal ire caste.</L>
+<L>ȝe beoth mine freond, ȝif ȝe mine heste doth,: and mine þralles nouȝt;<NOTE PLACE="foot">V. 597-600 ib. 15, 14. 15. 16.</NOTE></L>
+<L>For a þral not nouȝt is louerdes wille,: are is weork him beo ibrouȝt;</L>
+<L>Mi wille ich ou schewi bi foren hond;: I ches ov and ȝe nouȝt me.</L>
+<L N="600">Ne rechche ȝe nouȝt þei þe world ov hatie,: ne ne habbe of ou pite; <NOTE PLACE="foot">V. 600 ib. 15, 18.</NOTE></L>
+<L>ȝe wuteth wel þat it hatede me bi fore;: he louez wel þat is his.</L>
+<L>For ich habbe ou out of þe worlde inome,: þe world ou hatez iwis;<NOTE PLACE="foot">V. 602-3 ib. 15, 19. 20.</NOTE></L>
+<L>ȝif he me hatez and to deþe me doth,: ov he wole al so.</L>
+<L>And ȝif inadde here mi sulf with him ispeke,: no sunne he nadde ido,<NOTE PLACE="foot">V. 604 ib. 15, 22.</NOTE></L>
+<L N="605">And ȝeot ȝif inadde oþur dede ido,: þane ani Man euere miȝte; <NOTE PLACE="foot">V. 605 ib. 24.</NOTE></L>
+<L>Ake nov ne mai he excusi him nouȝt,: þat is dedene ne beoth aȝen riȝte.<NOTE PLACE="foot">V. 606 Ms. acusi, am Rande ex.</NOTE></L>
+<L>Muche oþur þing ich habbe ou to segge;: acke ȝe ne mowen nouȝt al bere nouþe.<NOTE PLACE="foot">V. 607-8 Joh. 16, 12. 13.</NOTE></L>
+<L><PB N="55" REF="28"/>
+þe holi gost schal come and techen ov: more þane ȝe er couþe.</L>
+<L>A luytel ȝwyle it is to comene,: þat ȝe ne schulle iseo me nouȝt;<NOTE PLACE="foot">V. 609 vgl. Joh. 16, 16.</NOTE></L>
+<L N="610">And a luyte þer after ȝe schullen me iseo,: ȝwan ich am to liue ibrouȝt.</L>
+<L>ȝe schullen beon sorie and wepen for me,: wel glad þe world wole beo;<NOTE PLACE="foot">V. 611 ib. 20.</NOTE></L>
+<L>Ouwer soruwe into Joye schal tuyrne,: ase ȝe it schullen iseo.</L>
+<L>A womman hath gret trauaile of childe: and gret sorewe middi wisse,<NOTE PLACE="foot">V. 613 ib. 16, 21. middi wisse: dieselbe Verbindung, aber mit einfachem d, findet sich in derselben Hs. auch in der Legende auf Allerseelentag V. 365 (fol. 179a): þou madest me beon in purgatorie: seue nyȝht mid iwisse, and nouþe ich am in heouene; und Mar. Magd. 243 (fol.192b): Bote ȝif þou oþur þi louerd: lissi heore kare, Wite ȝe mid iwisse,: sorewe eou schal beon ful ȝare.</NOTE></L>
+<L>Ake a no þat heo sikth þat chil ibore,: hire wo heo fur ȝit for blisse.<NOTE PLACE="foot">V. 614 Ms. ano st. anon und chil st. child.</NOTE></L>
+<L N="615">Also schulle ȝe, ȝwane ȝe me iseoth: fram deþe arise to liue.</L>
+<L>Ich cam fram mi fader into þe worlde,: and aȝein ich mot wel bliue.<NOTE PLACE="foot">V. 616 Joh. 16, 28.</NOTE></L>
+<L>Nou sone ich worþe al one, for ȝe wollez alle: to sprede and fram me fleo;<NOTE PLACE="foot">V. 617 ib. 32.</NOTE></L>
+<L>Ake ȝe ne schullen lete me al one,: for mi fader wole mid me beo.</L>
+<L>þis prechinge he made for is desciples,: are he scholde deiȝe,<NOTE PLACE="foot">V. 619-22 Zusatz.</NOTE></L>
+<L N="620">To wissi and to conforti heom,: ȝwane heo þe soþe iseiȝe.</L>
+<L>Vs and alle oþere he wissede also: of þe daie of dome</L>
+<L>And of ore deþe þat we a redie weren,: for we nusten ȝwanne heo come.</L>
+<L>þe kynedom of heuene, he seide,: ten Maidenes ilich heo is,<NOTE PLACE="foot">V. 623 ff. vgl Math. 25, 1 ft</NOTE></L>
+<L>þat nomen heore laumpene and wenden forth: aȝen heore spouse iwis.</L>
+<L N="625">þe fiue weren wise and þe fiue foles;: and are þe wise wolden a weiȝ gon, <NOTE PLACE="foot">V. 625 wolden aweiȝ gon: diese 3 Worte im Ms. von unbefugter Hand ausradirt, aber noch erkennbar; nur das zweite undeutlich.</NOTE></L>
+<L><PB N="56" REF="29"/>
+In heore laumpene eoli heo nomen,: ake þe foles ne nomen non.</L>
+<L>For þe spouse a bod to longue,: heo gonne to slepen ech on.</L>
+<L>A tþe midniȝt men gradden a boute: þat þe spouse cam a non;</L>
+<L>þe Maydenes a risen up þo ech one: and greiþeden heore laumpes faste;</L>
+<L N="630">Ake þe foles nadden eoli non,: þe wise he beden atþe laste,</L>
+<L>ȝiueth us, heo seiden, of ouwer eoli,: for or laumpene a queinte beothz!<NOTE PLACE="foot">V. 631 Ms. or st. ore.</NOTE></L>
+<L>Nai, seiden þe oþere, þere were to luyte: to us alle, ase we iseoth;</L>
+<L>ȝwatloker ȝe moten gon to þe sullares: and buggen ov atþe laste.</L>
+<L>þe ȝwyle heo wenden to buggen eoli,: þat ȝat was iloke wel faste,</L>
+<L N="635">And raþur was þe spouse icome,: and alle þat greiþe were,</L>
+<L>To þe bruydale he nam heom In,: and gret feste made heom þere.</L>
+<L>Atþe laste comen þis fole Maydenes: and hedde eoli with heom inome.</L>
+<L>Louerd! heo seiden, ondo þis ȝat: and lat us In to þe come!</L>
+<L>I not nouȝt eov, quath þe louerd,: with oute ȝe schullen a bide!</L>
+<L N="640">And beoth eft iredie, for ȝe ne wuten: þe dai ne þe tide.</L>
+<L>þat was þat heo scholden aredie beon: aȝein þe daie of dome</L>
+<L>And aȝen þe deþe, for heo nusten: ȝwuch time þat heo come;</L>
+<L>ȝif heo a biden with heore guode weorkes,: for to heo icome were,</L>
+<L>þat ȝat of heuene scholde beo faste imad,: ne scholde heo come in þere.</L>
+<L N="645">Ore louerd hath fif wittes eche manne iȝyue,: þat he as wel bi sette, <NOTE PLACE="foot">V. 645 ff. vgl. Math. 25, 14 ff. Luc. 19, 12 ff.</NOTE></L>
+<L>And þare with þat tresour of god dede: to is soule biȝite and fette.</L>
+<L>Ane bi tale he tolde of a man: þat a pilegrimage wende.</L>
+<L>His tresor he let bringe forth: and after is serjaunz sende;</L>
+<L>Twey besaunz he tok þat on,: þat oþur he tok fiue,</L>
+<L N="650">þene þridde he ne tok bote on,: þat (heo) scholden þat tresor driue. <NOTE PLACE="foot">In V. 650 fehlt heo hinter þat im Ms.</NOTE></L>
+<L>He þat hadde fiue a fonge,: þat catel he drof a boute,</L>
+<L>Fiue oþur besaunz he bi ȝat,: þe ȝwyle is louerd was oute.</L>
+<L><PB N="57" REF="30"/>
+He þat hadde tweine a fonge,: tweine he biȝat al so,</L>
+<L>And he (þat) nadde bote on, he nam his: and onder eorþe it gan do.<NOTE PLACE="foot">V. 654 fehlt þat: and he, þat nadde bote on.</NOTE></L>
+<L N="655">þo þe louerd cam hom of is pilegrimage,: is serJaunz he cleo∣pede a non</L>
+<L>And axede a countes of is besaunz,: hou it were þare of igon.</L>
+<L>þo seide þe furste: fif besaunz,: louerd, þou me bi toke,</L>
+<L>Oþur fiue ich habbe þare with bi ȝite,: lo, here þou miȝt heom loke.</L>
+<L>Guod seriaunt and trewe! þe louerd seide,: for þou were trewe of luyte,</L>
+<L N="660">Ope muchele þinge ichulle þe sette: and In to þilouerdes Joye puyte.</L>
+<L>þov toke me, louerd! þe oþur seide,: þov wost wel, besaunz tweie,</L>
+<L>Oþur swich þare with ich habbe iwonne: and idoublet beie.</L>
+<L>Trewe seriaunt and guod! quath þe louerd,: for þou hast trewe ibeo,</L>
+<L>Fram luytel þing ichulle þe sette: ope muche þing, þou schalt iseo.</L>
+<L N="665">þo cam he þat nadde bote on;: leue louerd! he seide, <NOTE PLACE="foot">V. 665 fehlt wot oder wuste vor wel.</NOTE></L>
+<L>Ich (wuste) wel þou were crvel Man,: and þarof ich hadde drede,</L>
+<L>And hudde þine besaunt onder eorþe;: ake haue him here ase þin owe!</L>
+<L>Luþur seriaunt I iuggie þe, quath þe louerd,: þoruȝ þi mouth þov art aknowe;<NOTE PLACE="foot">V. 668 vgl. Luc. 19, 22: de ore tuo te judico serve nequam.</NOTE></L>
+<L>ȝwy ne hast þov oþur swuch bi ȝite?: Into prisone Men him ladde,</L>
+<L N="670">And þe louerd het ȝiuen is besaunt: him þat tene hadde.</L>
+<L>For him þat hath Men wollez euere ȝiue,: man a swikz him þat nath non,</L>
+<L>Raþer men wollez nimen of him,: so wisliche ne schal he on gon.</L>
+<L>ȝwat weren þe besaunz þat þe louerd tok: is seriaunz for to driue,<NOTE PLACE="foot">V. 673-77 Zusatz.</NOTE></L>
+<L>Bote þe fif wittes and oþur þewes: þat man hat here a liue,</L>
+<L N="675">þat ore louerd him leneth, for to he þare with: guode weorkes habbe iwrouȝt,</L>
+<L>þat ate a countes ase a trewe seriaunt: Into þe Joye of heuene (he) beo ibrouȝt?<NOTE PLACE="foot">V. 676 fehlt he.</NOTE></L>
+<L><PB N="58" REF="31"/>
+Ase ore louerd prechede is desciples: and confortede heom a dai,<NOTE PLACE="foot">V. 677 ff. vgl Joh 11, 1 ff.</NOTE></L>
+<L>Hit bifel þat Lazar þe kniȝt: In grete siknesse lai<NOTE PLACE="foot">V. 678 Ms. þa st. þat.</NOTE></L>
+<L>In is castel bi side Betanie,: and is sosterene tweie,</L>
+<L N="680">Martha and Marie Maugdeleine,: ouer him weren beie.</L>
+<L>Ane daies Jorneie it was: fram þe watere of Jordan;<NOTE PLACE="foot">V. 681 vgl. Joh. 11, 18: Erat autem Bethania juxta Jerosolymam quasi stadiis quin∣decim</NOTE></L>
+<L>ȝeot þis womman for heore broþer: to ore louerd heo senden ane Man,<NOTE PLACE="foot">V 682 Eigentümlich womman plur. st. wommen; Joh. 11, 3 miserunt ergo sorores ad eum.</NOTE></L>
+<L>þat he come þudere, ȝif it were is wille,: and radde heom sum red.</L>
+<L>þe ȝwile þe messager was to ore louerd igo,: Lazar þe kniȝt was de d.<NOTE PLACE="foot">V. 684 Ms de st. ded.</NOTE></L>
+<L N="685">For þe sostren nadden þo no more hope,: to ore louerd non more heo ne sende. <NOTE PLACE="foot">V. 685 Zu∣satz</NOTE></L>
+<L>Twei dawes ore louerd bi leuede ȝeot,: are he þudere iwende.<NOTE PLACE="foot">V. 686 Ms. iwen st. iwende.</NOTE></L>
+<L>He let is desciples þana þridde dai: gon with him to Jude.<NOTE PLACE="foot">V. 687 M þana st. þane.</NOTE></L>
+<L>Louerd! seiden heo, ȝwat woltþou þere?: nellez þe giwes sle þe?</L>
+<L>Nolden heo habbe ihend þe with stones?: and þou wolt þudere eft sone?</L>
+<L N="690">ȝe nutez nouȝt hou it is, quad ore louerd,: ich habbe þare to done,</L>
+<L>Ich mot a wechche Lazar ore frend,: for a slepe he is ibrouȝt.</L>
+<L>ȝe, seiden þe desciples, he mai a wakien,: þei þou ne trauaillie nouȝt.</L>
+<L>Nai, seide ore louerd, he is ded,: and þre dawes hath ibeo;</L>
+<L>ȝe iseothz nouþe þat ich wot alle þing,: þei ich it nouȝt ne seo.</L>
+<L N="695">Toward Jude heo wenden forth,: and Lazare þare heo founde,</L>
+<L>Ded and in a þrouȝ ileid,: In dede mannes schete iwounde.</L>
+<L>His sostren seten at hom a weopen,: and of þe, hexte giwes some.<NOTE PLACE="foot">V. 697 Ms. a st. and.</NOTE></L>
+<L>Martha heorde telle þat ore louerd was: to þe þrouwe icome,</L>
+<L>To him heo orn, and cride ȝeorne,: and seide: louerd, ȝwat is þi red?<NOTE PLACE="foot">699 Ms ȝat st. ȝwat.</NOTE></L>
+<L N="700">ȝif þou haddest here erore ibeo,: mi broþer nere nouȝt ded.</L>
+<L><PB N="59" REF="32"/>
+Ake nov ich wot þat, ȝwat þo biddest: of god, he wole þe ȝiue.</L>
+<L>þo seide ore louerd: þi broþer schal: a rise ȝet and liue.</L>
+<L>Heo seide: ich wot he schal a domes dai: a rise up, ich ileue þe.<NOTE PLACE="foot">V. 703 vgl. Joh. 8, 25 Ego sum resurrectio et vita.</NOTE></L>
+<L>Ich am, quad ore louerd, opriste and lijf;: ho so wole bi leue on me,</L>
+<L N="705">þei he were ded, ȝeot he schal libbe;: and ech man, þat a liue is</L>
+<L>And bi leuez on me, he ne schal nouȝt deie: with outen ende iwis.</L>
+<L>Miȝt þou, Martha, þis ileue?: ȝe, louerd! quath heo,</L>
+<L>Ich wot þat þou art godes sone,: þat in þis worlde wolt beo.<NOTE PLACE="foot">V. 708 Ms. wost st wolt oder woldest (vgl. V. 714 wo st wole); fol. 8, b ist über∣haupt wegen der vielen Verschreibungen nachlässig geschrieben.</NOTE></L>
+<L>þo orn Martha to hire soster hom: and bad hire þat heo wende</L>
+<L N="710">Stilleliche and with ore louerd speke,: for aftur hire he sende. <NOTE PLACE="foot">V. 710 Ms stilleche st stilleliche (V. 711).</NOTE></L>
+<L>Marie a ros up stilleliche,: wel glad heo gan forth gon;</L>
+<L>þe giwes, þat hyre conforti scholden,: heo þouȝten and seiden a non:<NOTE PLACE="foot">V. 712 Ms. hyne, jedenfalls in hyre hire zu verbessern.</NOTE></L>
+<L>Fram us heo geth þus stilleliche,: we wuten wel ȝwat itis;</L>
+<L>For heo wole gon to hire broþur and wepe more: and sle hire self iwis;<NOTE PLACE="foot">V. 714 wo st. wole.</NOTE></L>
+<L N="715">Siwe we hire, ȝif we mouwe: ani confort hire do! <NOTE PLACE="foot">V. 715 Zusatz.</NOTE></L>
+<L>Marie cam to ore louerd sone,: and þe giwes with hire al so,</L>
+<L>And þe giwes weopen alle forth with hire;: louerd, heo seide, þin ore!</L>
+<L>Marie ful to ore louerdes fet: wepinde swiþe sore:</L>
+<L N="720">Mi broþer nadde nouȝt ibeo ded,: ȝif þou haddest ibeon him neiȝ.</L>
+<L>And ore louerd him self wepte sore,: þo he þis deol iseiȝ.</L>
+<L>þe giwes seiden, þo heo iseien wepe,: nov we mowe iseo,<NOTE PLACE="foot">V. 722 fehlt him: þo heo him iseien wepe.</NOTE></L>
+<L>Hou muche he louede him,: ȝwane he wole for him so sori be.</L>
+<L>Ore louerd het heom þat heo þat lid: of þe þrouwe a wei bere.</L>
+<L>Louerd! quath Martha, he stinkez foule,: four dawes he hath ibeo þere.</L>
+<L N="725">Ne habbe ich iseid, quath ore louerd,: þat ȝe mowe iseo</L>
+<L><PB N="60" REF="33"/>
+Godes miȝte, ȝif ȝe wollez: of gode bi leue beo?</L>
+<L>þo þat lid was awei inome,: ore louerd bi heold up softe;</L>
+<L>Fader! he seide, ich þonki þe: þat þou hast iherd me ofte;</L>
+<L>I heor me nouþe and schev þi grace,: fader! ich bidde þe,</L>
+<L N="730">þat þis folk a boute ileue it wel: þat þou sendest hidere to me!</L>
+<L>þo bi gan ore louerd loude to grede,: cum out, Lazar, a non!</L>
+<L>He a ros up fram deþe to liue,: and hol gan forth gon,</L>
+<L>With listene ibounde ase he was,: and In a cloth iwounde.</L>
+<L>Mani giv turnede þare to god: for þe miracles þat heo founde.</L>
+<L N="735">Ore louerd het heom don a wei ech del: and late him gon on bounde.</L>
+<L>þe apostles deliuereden him a non,: is limes were hole and sounde.</L>
+<L>A non so ore louerd het Lazar come out,: as þe bok us doth telle,<NOTE PLACE="foot">V. 737-740 Zusatz.</NOTE></L>
+<L>þe bodi wende out of þrouwe a non,: and þe soule cam out of helle;</L>
+<L>For seint Austin seith þat Lazar tolde: heom, þat weren him neiȝ,</L>
+<L N="740">Muche of þe priuete of helle,: þat he þare Inne iseiȝ.</L>
+<L>þis word was sone wide ibrouȝt: to þe heie maistres of þe lawe,<NOTE PLACE="foot">V. 741-751 vgl. Joh. 11, 45-53.</NOTE>	</L>
+<L>Hou ore louerd hadde Lazar a rerd; þat folk gan to him drawe.</L>
+<L>Gret conseil heo maden a non: and seiden heom bi tuene:</L>
+<L>ȝif we ani ȝwyle þus lateth him gon,: he wole us don gret teone,</L>
+<L N="745">þis folk wole al to him tuyrne,: þe romains us wollez ouer come,</L>
+<L>And þoruȝ heom ore men and al heore lond: sone us worth bi nome.</L>
+<L>Cayfas þat was hore bischop,: ase god wolde, he gan telle:</L>
+<L>Betere is þat on deie for men,: þane al fok go into helle.</L>
+<L>Of him sulf ne seide he nouȝt þat,: for he wende wel to lie,<NOTE PLACE="foot">V. 749. vgl. ib. 51: Hoc autem a semetipso non dixit, sed cum esset ponti∣fex anni illius, prophetavit, quod Jesus moriturus erat pro gente.</NOTE></L>
+<L N="750">Ake ore louerd wolde þat he seide soth: In manere of prophecie.</L>
+<L>Fram þulke time after ward: heo a waiteden wel bliue<NOTE PLACE="foot">V. 551-60 vgl. ib. 53 -56; 12, 10.</NOTE></L>
+<L>To nimen ore louerd and Lazar: and bringe heom beine of liue.</L>
+<L>Ore louerd wende with is desciples: bi side desert a luyte</L>
+<L>Into þe cite of Effrem,: þare he bi lefde ȝuyte.</L>
+<L N="755">þe feste of ester was ful neiȝ, þare fore eche daye ene</L>
+<L><PB N="61" REF="34"/>
+To þe temple þe giwes wenden: to make heom þare a ȝen clene,</L>
+<L>And þonȝten also þat ore louerd wolde: sum time þudere come,</L>
+<L>Aȝen þe heie feste, þat heo miȝten: a waiti þat he were inome.</L>
+<L>Heo leten crie oueral a boute,: ȝif ani man miȝte onder ȝite</L>
+<L N="760">Ani þing of him in anie stude,: Men scholden heom do to wite.</L>
+<L>A palmesonendayes eue ore louerd wende: to Martha and to Marie,<NOTE PLACE="foot"><P>V. 761 ff. vgl. Joh. 12, 1; Math. 26, 6; Marc. 14, 3 ff. Dieselbe Er∣zählung findet sich mit andern Worten und mehr im Anschlusse an Luc. 7, 37 ff. in der Legende der h. Maria Magdalena (Ms. Laud 108, fol. 191) V. 82 ff. Sie lautet dort:
+<Q>
+<L>A man of þat contreye,: þat heiȝhte Symond leperous,</L>
+<L>Also þe bok us tellez,: bad ore louerd to is hous,</L>
+<L>And is deciples tweolue: with him to þe mete,</L>
+<L>For he ne miȝhte nouȝht him sulf: fram heom alle ete.</L>
+<L>Marie þis iheorde: and þarof was ful glad;</L>
+<L>A smeorieles to greiþi,: þar to he was ful rad;</L>
+<L>Heo wende to Symundes hous,: þat no man hire ne bad,</L>
+<L>To ore louerd Jesu Crist;: and ful sore heo was of drad,</L>
+<L>For þat he was so sunful,: bi fore ore louerd to come;</L>
+<L>Careful heo was and sore a ferd: forto beon inome.</L>
+<L>Heo ne dorste ore louerd repie nouȝht: bi hinde ne bi fore,</L>
+<L>Ne no Man hire nolde cleopie,: and þat hire grefde sore.</L>
+<L>þo ore louerd was isete: in Symundes house þere</L>
+<L>And his Apostles to þe mete,: þat with him þo were,</L>
+<L>Ore louerd sat and þouȝhte muche,: ake bote luyte he ne eet.</L>
+<L>Marie, þat was so sunful,: heo crep doun to is fiet,</L>
+<L>Heo custe is fiet and wusch also: with hire wete teres,</L>
+<L>And wipede heom aftur ward: with hire ȝeoluwe heres;</L>
+<L>Out of hire boxe heo nam: Oynement ful guod,</L>
+<L>And smeorede ore louerdes heued: with ful blisful mod.</L>
+<L>Judas was þare bi side and smulde hit,: and þare fore he was neiȝh wod,</L>
+<L>þat swote smul him culde neiȝh: and gremede is sorie blod,</L>
+<L>And bad don up þat riche þing: þat heo ore louerd gan with smeore;</L>
+<L>To spene it so in wasting,: he seide, it was gret lure;</L>
+<L>And seide: it mai beon isold ful deore,: to bugge with muchel mete,</L>
+<L>Pouere Men þare with to freueri: to drinke an to ete.</L>
+<L>þo saide ore louerd to Judas:: lat þou þis wumman beo!</L>
+<L>Ful guod weork it was and is: þat heo wurchez in me;</L>
+<L>For ai schulle ȝe pouere with eov habbe,: and so ne worth eov me;</L>
+<L>þi toungue moste bien ischaue,: to speche heo is to freo.</L>
+</Q></P>
+<P>Dann folgt in der Legende noch weiter (vgl. Luc. 39-50):
+<Q>
+<L>Symund leprous iheorde þis;: he þouȝhte wel mani fold:</L>
+<L>þat, ȝif þes profete were al so wys: ase he is fore itold,</L>
+<L>He nolde soffri þis fole wumman: his bodi enes to reppe,</L>
+<L>For no weork þat heo can do: to ward him enes steppe.</L>
+<L>Ore louerd wuste is luþere þouȝht,: ake þarof stod him non eyȝe;</L>
+<L>Symund, þou þenchest muche for nouȝht;: sum þing ichulle þe seiȝe.</L>
+<L>Maister, seye! seide Symound,: ich it bidde þe,</L>
+<L>For þou noldest for no þing: segge on riȝht to me.</L>
+<L>An vsurer was ȝwilene: þat hadde dettores tweyne,</L>
+<L>þat swyþe longue ȝwyle: dette him scholden beyne;</L>
+<L>þat on him scholde fifti panes: and twenti þar to,</L>
+<L>þat oþur him scholde of dette: fifti panewes al so;</L>
+<L>And noþur of heom nadde: ȝware of þe dette forto ȝelde.</L>
+<L>Huy ȝolden þo he it creuede,: ase þe bok us telde.</L>
+<L>ȝweþur of heom tweine: cudde him more loue þo?</L>
+<L>Maister, he þat more ȝaf,: me þinche, so mote igo.</L>
+<L>For soþe, Symund leperous,: þou hauest idemed a riȝht:</L>
+<L>For, sethþe ich cam into þin hous,: þou me custest me no wiȝht,</L>
+<L>Ne þou ne wusche nouȝt mine fiet: with watur ne with teres,</L>
+<L>Ne þou ne wypedest heom nouȝht ȝuyt: with cloþe ne (Ms. no) with heres,</L>
+<L>Min heued on none halue: with no manere Oynement</L>
+<L>Ne smeredest with none salue,: ne with no piement.</L>
+<L>Sethþe ich cam in to þin hous,: þis wumman nolde blinne</L>
+<L>Mine fiet to wasche and cusse: with outen and with inne,</L>
+<L>And to wipen heom sethþe aftur ward: with hire faire here,</L>
+<L>Min heued also to smeorien: with riche Oynement and dere.</L>
+<L>Op a ris þou, wumman!: þine sunnes þe beoth for ȝyue;</L>
+<L>Al so ich nouþe can and may,: of me þou art ischriue.</L>
+</Q></P>
+<P>Es ist also in der Legende eine Vermischung zweier verschiedener Erzählungen (Luc. 7, 37 ff. und Joh. 12, 1) eingetreten.</P></NOTE></L>
+<L><PB N="62" REF="35"/>
+þare ase he Lazare a rerde,: bi side Bethanie.</L>
+<L>Symound leprous was a man: þat Musel hadde ibeo longe,</L>
+<L>Ake ore louerd him hadde iheld bi fore: of is vueles þat weren stronge.</L>
+<L N="765">Jn is hous ore louerd lefde ate mete,: and is desciples also,</L>
+<L><PB N="63" REF="36" MS="y"/>
+And Lazar þat he to liue brouȝte,: and is sostrene two.</L>
+<L>Martha heom seruede atþe mete;: Marie nam a non</L>
+<L>Boxes of guode smeorijnge,: to ore louerd heo gan go,</L>
+<L>His heued he smeorede and is fet;: al þat hous was suote;</L>
+<L N="770">þat oygnement was of spikenard: þat mani may do bote.</L>
+<L>Jvdas bar ore louerd panes,: strong þeof heo was inovȝ,<NOTE PLACE="foot">V. 771 Ms. heo st. he.</NOTE> <NOTE PLACE="foot">V 771 ff. vgl. Joh. 12, 6: dixit autem non quia de egenis pertinebat ad eum, sed quia fur erat, et, loculos habens, ea quae mittebantur portabat.</NOTE></L>
+<L>þar of he stal riȝt to grounde,: to falshede euere he drouȝ;</L>
+<L>For manie Men ȝeouen ore louerd guod: þat weren of guod þouȝt,</L>
+<L>To sosteyni þare is desciples;: oþur panes ne hadde he nouȝt.<NOTE PLACE="foot">V. 774 wohl þare with st. þare zu lesen.</NOTE></L>
+<L N="775">Of eche þinge atþe laste: Jvdas wolde stele;</L>
+<L>A schewe he was al is lijf;: ȝwat helpeth lengore (to hele)?<NOTE PLACE="foot">V. 776 Ms. schewe st. schrewe; vgl. V. 896.</NOTE> <NOTE PLACE="foot">V. 776 hinter ȝwat helpeth lengore ist der Schluss des Verses, das Reimwort zu stele, dem Schreiber in der Feder geblieben; zu ergänzen ist to hele.</NOTE></L>
+<L>þo ore louerd was ismeored with þat oygnement: þat Marie hadde ibore:</L>
+<L>ȝwat, seide Judas, schal þis ido: swuch guod þing beon for lore?<NOTE PLACE="foot">In V. 778 im 2. Gliede scheint schal, oder and, oder þat zu fehlen; oder ist do hier faktitiv? vgl. Marc. 14, 4: Ut quid perditio ista unguenti facta est?</NOTE></L>
+<L>For þre houndret panes man miȝte it sulle: and to pouere men it ȝiue,</L>
+<L N="780">þanne nere it nouȝt þus for lore,: ȝif it holpe to hore bi liue. <NOTE PLACE="foot">V. 780 bi liue living, sustinance; vgl. Rob. Gl. 496, 8.</NOTE></L>
+<L>Al þat he seide, for he wolde: þat þe boxes hadden ibeo sold,<NOTE PLACE="foot">V. 781-87 Zusatz.</NOTE></L>
+<L>And habbe ispendet þe panes in sume þinge,: and to him euere at holde.</L>
+<L>þe teoþinge was þar of þritti panes,: sore him of þouȝte þere fore</L>
+<L>þat so manie panes of is þeofþe: fram him scholden ben ibore.</L>
+<L N="785">For wrathþe þarof, to coueri sethþe: þulke panes, ȝif he miȝte,<NOTE PLACE="foot">V. 785 coueri-recoueri, recover; vgl. Hav. 2010 und Gloss.</NOTE></L>
+<L>He solde ore louerd for þritti panes: to þe giwes with oute riȝte.<NOTE PLACE="foot">V. 786 Ms. with on st. with oute.</NOTE></L>
+<L><PB N="64" REF="37"/>
+þo he for þat oygnement: with Marie chide bi gan:</L>
+<L>ȝwat beo ȝe nouþe, ore louerd seide,: wroþe with þis womman?</L>
+<L>In me nouþe and al so bifore: guod weork heo hath ido;</L>
+<L N="790">Pouere Men ȝe schulle euere a mong ou habbe,: and me ȝe ne schulle nouȝt so.</L>
+<L>Soffrieth þat heo wite sum,: for to ich ibured beo,<NOTE PLACE="foot">V. 791 vgl. Joh. 12, 7: sinite illam ut in diem sepulturae meae servet illud.</NOTE></L>
+<L>And lateth hire þanne to me come, for heo me schal sone iseo.</L>
+<L>Ore louerd het tweine of his Apostles: a palmesonenday at non,<NOTE PLACE="foot">V. 793 ff. vgl. Math. 21, 1 ff., Marc. 11, 1 ff., Luc. 19, 29 ff.; at non Zusatz.</NOTE></L>
+<L>þat heo scholden a luyte þare bi side: In to a Castel gon;<NOTE PLACE="foot">V. 794 Ms. luy st. luyte.</NOTE></L>
+<L N="795">An Asse colt iteid to is moder, he seide,: þare ȝe schulle iseo,</L>
+<L>Ope ȝwam no man ne hath ȝeot iride;: onteiez it and brin∣gez it me!</L>
+<L>Seggez þat Ich habbe þare with to done,: ȝif ani Man Axez ouȝt!</L>
+<L>His desciples wenden and founden þat colt,: þo heo it hadde isouȝt.</L>
+<L>Ase heo it onteiden, þe Maister heom axede,: ȝwat heo wol∣den þare with so sone.</L>
+<L N="800">And heo seiden þat heore Maister: þare with hadde to done.</L>
+<L>He grauntede heom þo al sauueliche: to lede it forth wel faste.</L>
+<L>In heore hond heo ladden it forth,: and cloþus þare upe heo caste,</L>
+<L>An sethþe on ouewarde heo setten ore louerd;: mildeliche he it bistrod;</L>
+<L>Toward is deþe, ase he wel wuste,: to is fo men he rod,</L>
+<L N="805">þat hadden him suyþe wide isouȝt: and ne miȝten him finde nouȝt.</L>
+<L>He wende forth a mong heom alle,: þat is dethz nere destour bet nouȝt.</L>
+<L>With ȝwat pruyte cam he a mong is fon,: ase bi fel a king to do!</L>
+<L>Barefot op on þe Asse he rod,: ihaltred heo was also.</L>
+<L>A doun of þe hul of oliuete: þe ȝonge Men iseiȝen him ride;<NOTE PLACE="foot">V. 809 ff. vgl. Luc. 19, 39. 40.</NOTE></L>
+<L N="810">Huy þouȝten hov he brouȝte Lazare to liue,: þarof Men spe∣ken wide,</L>
+<L><PB N="65" REF="38"/>
+And þare fore wilneden muche him for to seo,: þei þe mai∣stres wroþe were.</L>
+<L>For Joye heo strepten of heore cloþes,: and onder þe Asse fet heom casten þere.</L>
+<L>Children þat guode cloþes nadden,: þe bowes of Oliue heo nome</L>
+<L>And casten onder þe Asse fet,: ase heo aȝein him come;</L>
+<L N="815">Heil beo þou, Dauies sone,: ore king, heil þou beo! <NOTE PLACE="foot">V. 815 fehlt wohl heo gradden.</NOTE></L>
+<L>I blessed beo þou þat comest In godes name,: þat we þe mouwen iseo!</L>
+<L>So muche eorthþelich manschipe: ore louerd on eorþe nadde,</L>
+<L>Neuere þat we findez iwrite,: ase he þat dai hadde.</L>
+<L>þe Maistres weren wroþe with þe ȝonge men: þat him honou∣reden so,</L>
+<L N="820">And þretneden heom for heo scholden: swuch manschipe heore fo do. <NOTE PLACE="foot">V. 820 fehlt wohl ne nach for heo.</NOTE></L>
+<L>Ne beoth nouȝt wroþe with heom! ore louerd seide,: for, ȝif þat huy nolde</L>
+<L>Habbe iwelcomed me wit honour,: for soþe þe stones wolde.</L>
+<L>Eft sone ichulle on eorþe come: at þe daie of dome,<NOTE PLACE="foot">V. 823-28. Diese, die Vorzeichen des jüngsten Gerichts in sehr fragmentarischer Weise (nach Math. 24, 6, Marc. 13,7, Luc. 21, 9-12) be∣handelnden Verse stehen ausser Verbindung mit dem Vorhergehenden und lassen die Fortsetzung vermissen. Christus spricht diese Worte nicht beim Einzug in Jerusalem, sondern erst später, vom Ölberg herab, dem Tem∣pel zugewandt, dessen Zerstörung er jüngst vorhergesagt hatte. Die Verse stehen also nicht wohl am Platze. Hingegen schliessen sich die Verse 829-38, nach Luc. 19, 41 ff., an den Einzug in Jerusalem an.</NOTE></L>
+<L>Wel grislich bi tokninge men schullen iseo: þare aȝein ilome</L>
+<L N="825">In sonne, and Mone, and steorrene also,: and eorþegreoue Men schulle ise,</L>
+<L>Hongur, fiȝtinge, and tricherie: among Men muche schal beo,</L>
+<L>And lasse loue þane euere was;: and ȝwane ȝe iseoth al ȝis,</L>
+<L>Witez wel þat domes day: ne cometh nouȝt anon iwis.<NOTE PLACE="foot">V. 828 vgl. Luc. 21, 9: Cum autem audieritis praelia et seditiones, nolite terrere; oportet enim primum haec fieri, sed nondum statim finis.</NOTE></L>
+<L><PB N="66" REF="39"/>
+Ore louerd, þo he cam to Jerusalem,: he stod and bi heold a boute;</L>
+<L N="830">He bi heold þe cite þat was so fair,: þe boldes þat weren so proute.</L>
+<L>He bi þouȝte him, and bi gan to siche,: and weop sore with alle,</L>
+<L>And seide: Jerusalem, ȝif þou wustest: ȝwat þe schal bi falle,</L>
+<L>þov woldest also weope sore!: for þou art nouþe ibrouȝt</L>
+<L>In alle Joye and in gret pouwer,: ake þe ende nost þou nouȝt;</L>
+<L N="835">For þine fon þe schullen bi legge: and þe wel narewe driue,</L>
+<L>And to grounde bringe atþe laste,: and þine children bringe of liue;</L>
+<L>þare ne schal a ston op oþur bi leue,: þat ne worth a doun iþrowe;</L>
+<L>For þou nelt nouȝt þine tyme: of þine sauuinge iknowe.</L>
+<L>Bi Tytus and Vaspasian: ore louerd seide al þis,</L>
+<L N="840">þat Jerusalem to grounde brouȝte: and destruyden sethþe iwis.</L>
+<L>Ore louerd was þo ful sore afingred;: to þe temple he gan gon,<NOTE PLACE="foot">V. 841-50 vgl. Math. 21, 20. 21, Marc. 11, 13. 14.</NOTE></L>
+<L>A figer he fond faire ileued,: ake fruyt ne bar heo non.</L>
+<L>Nou ne wexe þare no þing: neuerefft, figer, of þe,</L>
+<L>For þov noldest nouþe In mine neode: no fruyt bere to helpe me!</L>
+<L N="845">þe figer felde a non is lef,: þo he hadde þis ibede,</L>
+<L>And fur weolewede ase a stok,: þare ne bi lefde nouȝt a grene stude.</L>
+<L>His desciples, þo heo þis iseie, gret wonder hadden with alle,</L>
+<L>ȝif ȝe weren of studefaste bileue, ore louerd seide,: so it scholde ou falle,</L>
+<L>Treon ne scholden nouȝt one eov a bouwie,: ac, ȝif þat ȝe hote wolden</L>
+<L N="850">Hulles to fallen In þe se,: a non riȝtes heo scholden.</L>
+<L>To þe temple ore louerd wende a non,: and fond he þer Inne<NOTE PLACE="foot">V. 851-62 vgl. Joh. 2, 13-17, Math. 21, 12. 13, Marc. 11, 15-17. An Joh. 2, 18 schliessen sich dann V. 863-72 an.</NOTE></L>
+<L>Chap Men stondinde and sullen orf,: hore lijflode forto winne,</L>
+<L>Schep and reþren, and coluerene eke,: and Muneteres also,</L>
+<L><PB N="67" REF="40"/>
+þat oncouþe Men miȝten moneie finde: heore offringe forto do.</L>
+<L N="855">Ore louerd heom drof wel stuyrneliche: out of þe temple a non,</L>
+<L>Chapmen, sullares, and buggares,: þare Inne he ne lefde nouȝt on.</L>
+<L>þe Muteres Moneye he schedde al,: and þe bordes ouer turnde;<NOTE PLACE="foot">V. 857 Ms. Muteres st. Muneteres.</NOTE></L>
+<L>No man ne moste nouȝt bere þare Inne,: þat he a non heom wernde.<NOTE PLACE="foot">V. 858 fehlt wohl ne im 2. Gliede nach þat he.</NOTE></L>
+<L>Min hous is þe stude of beden,: it is iwrite, ore louerd seide,</L>
+<L N="860">And nouȝt to bugge þar Jnne and sulle,: ne don no þeues dede.</L>
+<L>ȝwane he was so wroth for Marchaundise: þat he In þe temple isaiȝ,</L>
+<L>Hov wroth wole he beo with cristine Men: þat gangliez In churche al dai!<NOTE PLACE="foot">V. 862 gangliez, sonst janglie; mit g auch Ayenb. 226, = jangle.</NOTE></L>
+<L>þe giwes weren with him wel wroþe: þat he tok on so,</L>
+<L>And seiden: ȝwat signe hastou for þe,: þat þou þus miȝt do?</L>
+<L N="865">Bringez þe temple, ore louerd seide,: ȝif ȝe wollez, to grounde,</L>
+<L>And Jch as wolle þane þridde day: a rere op In one stounde.</L>
+<L>Bi þe temple of is owene bodi: þat word he hath iseid,</L>
+<L>þat he wolde a rere up þane þridde dai: after þat he was ded.</L>
+<L>þe giwes onder stoden bi þe grete temple: þat heo Inne were.</L>
+<L N="870">Hov miȝte it beo, heo seiden, þat þis Man: fals and luþer nere!</L>
+<L>For a buyldinge heo was sixe and fourti ȝer: and ȝeot more In þe ȝere;<NOTE PLACE="foot">V. 871 vgl. Joh. 2, 20: dixerunt ergo Judaei: Quadraginta et sex annis aedificatum est templum hoc, et tu in tribus diebus excita∣bis illud?—Auch die Verse 873-85 stehen ausser Zusammenhang mit dem Vorhergehenden; sie entsprechen in fragmentarischer Weise Joh. 7, 10-26; vgl. Joh. 7, 10: Ut autem ascenderunt fratres ejus, tunc et ipse ascendit; 11. Judaei autem quaerebant eum in die festo et dicebant ubi est ille? 12. Et murmur multum erat in turba de eo; quidam enim dice∣bant: quia bonus est; alii autem dicebant: non, sed seducit turbas. 13. Nemo tamen palam loquebatur de illo propter metum Judaeorum. 14. Jam autem die festo mediante ascendit Jesus templum et docebat; 15. Et mirabantur Judaei dicentes: Quomodo hic litteras scit, cum non didi∣cerit? Respondit eis Jesus et dixit: Mea doctrina non est mea, sed ejus qui misit me.</NOTE></L>
+<L>ȝwam þenchez him sulue make: þat so sone as wolde a rere!</L>
+<L>Some seiden þat he was gylour strong,: some þat he was guod.</L>
+<L>þo gan ore louerd prechi of clergie: and hardeliche forth stod:</L>
+<L N="875">Mi clergie ne cometh nouȝt of me, ore louerd seide,: ac of him þat me hidere sende. <NOTE PLACE="foot">V. 875 und 76 sind wohl umzustellen.</NOTE></L>
+<L>Hou can he of clergie? þis oþur seiden,: to schole neuere he ne wende.</L>
+<L><PB N="68" REF="41"/>
+ȝwi a waytie me for to quelle? ore louerd sede,: ȝwat habbe ich ou mis do?<NOTE PLACE="foot">V. 877 vgl. ib. 20; 879-85 ib. 21-23 (u. ib. 5, 16 ff.); 885 u. 86 ib. 25 u. 26.</NOTE> <NOTE PLACE="foot">V. 877 fehlt ȝe hinter awaytie.</NOTE></L>
+<L>Is þe deuel on þe, (þe) giwes seiden,: ho awaitiez þe so?</L>
+<L>ȝe beoth wroþe for ich helde men: In þe sabat, ore louerd seide;</L>
+<L N="880">Ne seith nouȝt ouwer lawe of Moyses,: ȝwane ȝe þaro wollez rede, <NOTE PLACE="foot">V. 880 Ms. þaro st. þarof.</NOTE></L>
+<L>þat ȝe schullen beo Jcircumcized: þene eiȝtiþe dai þat ȝe ibore beth,</L>
+<L>þei it falle on a sabat,: ase ȝe aldai iseoth?</L>
+<L>And þat ouwere soule for to hele;: ȝwi ne mot ich also</L>
+<L>þe soule bote and þe bodies: In þe sabat do?</L>
+<L N="885">Is it þes, manie seiden,: þat þe Maistres a waytiez forto quelle?</L>
+<L>And þerof ne seggez nouþe neuere a word,: of al þat he a ȝen hem tellez.</L>
+<L>þe Maistres heom bi þouȝten narewe,: hou heo miȝten best on take,<NOTE PLACE="foot">V. 887-90 vgl. Math. 26, 3-6; Marc. 14, 1. 2; Luc. 22, 2.</NOTE></L>
+<L>þat ore louerd were priueliche inome,: þat folk þar of ne speke.</L>
+<L>With oute conseille of some of his: heo ne dorsten bi ginne it nouȝt,</L>
+<L N="890">Ne In non halidai, laste þat folk: In destourbaunce were ibrouȝt.</L>
+<L>Euereche daie fram palmesonen Eue: for to schere þores dai</L>
+<L>Ore louerd wende a niȝt to Betanie: and with Symon leprous lay.</L>
+<L>To þe temple he wende a ȝen,: a non so it was dai liȝt,</L>
+<L>Aȝen þe heie feste to schewi him,: and to is Inne he eode a niȝt.</L>
+<L N="895">þe deuel þat hadde to ore louerd onde,: he wende into Judas; <NOTE PLACE="foot">V. 895-901 vgl. Luc. 22, 3. Marc. 14, 10. Luc. 26, 14.</NOTE></L>
+<L>His In was euere a redi þere,: for euere a schrewe he was;</L>
+<L><PB N="69" REF="42"/>
+He eggede him þat he scholde sone: þe giwes ore louerd take.</L>
+<L>þene wodnesdai þe giwes comen: and mid him þar of spake.</L>
+<L>Jvdas isai heore grete wille: ȝif heom þare of miȝte spede,</L>
+<L N="900">And þouȝte þat he nolde him nouȝt bi take,: bote heo him ȝeouen is mede.</L>
+<L>He þouȝte on þe þritti panes of teoþinge: þat to him wolde habbe iwend</L>
+<L>......................</L>
+</LG>
+<TAILNOTE><P>Unten am Rande von fol. 10 stehen von späterer Hand die Worte:
+<Q><P>Verte ad istud signum ✠ in isto libro in principio libri et ibi inveniet plus de passione domini post assumptionem ste mariae.</P></Q> 
+Diese Fortsetzung ist aber mit dem Anfang des Ms. fortgefallen.</P></TAILNOTE>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

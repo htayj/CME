@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>7-6-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page. Checked <SUP>s</SUP>. Reviewed structure; made NOTE PLACEs lowercase; changed lengthy Latin NOTE to version DIV2 and added PB REFs throughout; changed SALUTE to DATELINE; changed mdash between numbers to hyphen throughout; removed incorrect ABBR; moved TRAILER Amen into L (and removed TRAILER); removed stray end of German introduction; provided overall HEAD text. Checked placement and completeness of PBs; moved a PB REF. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00007">
+<STC T="M">7</STC>
+<BIBNO T="mec">CME00007</BIBNO>
+<VID>CME00007</VID>
+</IDG>
+<TEXT LANG="enm lat">
+<BODY>
+<DIV1 TYPE="versions of text">
+<PB N="85" REF="1"/>
+<HEAD>Lamentatio St. Bernardi de compassione Mariae.</HEAD>
+<DIV2 TYPE="version">
+<HEAD>A.</HEAD>
+<P>Her is a gret lame<HI REND="italic">n</HI>tacion betwene vr ladi &amp; sei<HI REND="italic">n</HI>t B<HI REND="italic">er</HI>nard of Cristes passion, hire dere sone, þ<HI REND="italic">at</HI> was so pyneful &amp; so hard.</P>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>Lewed me<HI REND="italic">n</HI> be not lered in lore,</L>
+<L>As clerkes ben in holi writ;</L>
+<L>Þauȝ men p<HI REND="italic">re</HI>chen hem bifore,</L>
+<L>Hit wol not wonen in heore wit.</L>
+<L>Þerfore is þat I syke sore <MILESTONE N="5"/></L>
+<L>For broþurhede, as god hit bit,</L>
+<L>And ȝif Cristes wille wore,</L>
+<L>Wel fayn I wolde amenden hit.</L>
+</LG>
+<LG N="2">
+<PB N="86" REF="2"/>
+<HEAD>II.</HEAD>
+<L>Ȝif Crist haue send mon wit at wille,</L>
+<L>Craft of clergye, for to preche, <MILESTONE N="10"/></L>
+<L>Alle hise hestes scholde we fulfille</L>
+<L>As ferforþ as we mihten areche.</L>
+<L>Ȝonge and olde, holdeþ ow stille,</L>
+<L>For broþerhed I wol ow teche:</L>
+<L>Þe mon, þat con and teche nille, <MILESTONE N="15"/></L>
+<L>He mai haue drede of godes wreche!</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Þerfore ichaue on Englisch wrouȝt,</L>
+<L>Seint B<HI REND="italic">er</HI>nard witnesseþ in Latyn;</L>
+<L>Mon may be glad in al his þouȝt,</L>
+<L>Þat his wit haþ leid þer in. <MILESTONE N="20"/></L>
+<L>Þe gospel nul I forsake nouȝt,</L>
+<L>Þauȝ hit be writen in parchemyn;</L>
+<L>Seynt Jones word, and hit be souȝt,</L>
+<L>Þer of hit wole be witnes myn.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>While Je<HI REND="italic">s</HI>u Crist on eorþe eode, <MILESTONE N="25"/></L>
+<L>Mony of his miracles, writen þei were:</L>
+<L>Þ<HI REND="italic">er</HI> nis no mon, þat mihte rede</L>
+<L>Þe goodnesse, þat he dude here.</L>
+<L>Men and wymmen, ȝe schule<HI REND="italic">n</HI> haue mede,</L>
+<L>Lusteneþ alle now me ifeere, <MILESTONE N="30"/></L>
+<L>Ȝif I sigge mis, takeþ good hede</L>
+<L>And wisseþ me, þat hit bet<HI REND="italic">er</HI>e were!</L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Fader and sone and holy gost,</L>
+<L>Almihtiful god in trinite,</L>
+<L>Myn hope is on þi modur most, <MILESTONE N="35"/></L>
+<L><PB N="87" REF="3"/>
+Ful of grace and of pite!</L>
+<L>Þouȝ I be synful, as þ<HI REND="italic">ou</HI> wel wost,</L>
+<L>Such grace þenne þow sende me,</L>
+<L>Su<HI REND="italic">m</HI> word to speken w<HI REND="italic">i</HI>þ outen bost,</L>
+<L>Þat su<HI REND="italic">m</HI> men mowe þe better be! <MILESTONE N="40"/></L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>Gret del hit is, to speke and say</L>
+<L>Of hi<HI REND="italic">m,</HI> þat dyed on þe roode,</L>
+<L>How he vppon þe gode friday</L>
+<L>For vs þe<HI REND="italic">n</HI>ne schedde his herte blode.</L>
+<L>Alle hise disciples flowen away, <MILESTONE N="45"/></L>
+<L>For doute of deþ þei were neiȝ wode.</L>
+<L>Þer nis no tonge, þat telle may</L>
+<L>Þe serwe of Marie, his moder gode.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>Heo him bar, boþe god and mon,</L>
+<L>And siþen hi<HI REND="italic">m</HI> clepede swete Je<HI REND="italic">s</HI>u, <MILESTONE N="50"/></L>
+<L>And offrede him to Symeon:</L>
+<L>Ful wel þe p<HI REND="italic">ro</HI>phete, him he kneuȝ.</L>
+<L>An angel warnede vre ladi þon</L>
+<L>Of kyng Heroude, þat was vntrewȝ,</L>
+<L>And bad hire in to Egipte gon <MILESTONE N="55"/></L>
+<L>For doute of deþ of mony a Jewȝ.</L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Euer was Marie glad inowȝ,</L>
+<L>Whon heo hire swete sone seȝe;</L>
+<L>Whodreward þat Je<HI REND="italic">s</HI>u drouȝ,</L>
+<L>He nas neuere out of hire eȝe; <MILESTONE N="60"/></L>
+<L>Siþen men duden him gret wouȝ,</L>
+<L>Harde peynes heo seiȝ him dreiȝe;</L>
+<L><PB N="88" REF="4"/>
+His honden were nayled to a bouȝ,</L>
+<L>Vppon a treo honged wel heiȝe.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Þauȝ heo weore wo, no wonder nas: <MILESTONE N="65"/></L>
+<L>Heo seiȝ hym blodi, bodi and croun;</L>
+<L>Hire sone, þat so gultles was,</L>
+<L>Wiþ stremes of blod he ron adoun.</L>
+<L>To sen his peynes was gret pres,</L>
+<L>Wy<HI REND="italic">m</HI>men folewede hi<HI REND="italic">m</HI> þorw þe toun, <MILESTONE N="70"/></L>
+<L>Sore wepynge, wiþ outen lees,</L>
+<L>For gret deol of his passion.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Je<HI REND="italic">s</HI>u tornde, þat was so meke,</L>
+<L>And spac wordes of gret pite</L>
+<L>To þe wy<HI REND="italic">m</HI>men, þat þer speke, <MILESTONE N="75"/></L>
+<L>And seide: Wepeþ not for me!</L>
+<L>For ȝoure children ȝe mowe wepe,</L>
+<L>Þat doþ me schome, as ȝe mowe se;</L>
+<L>No wonder, þouȝ hire herte breke,</L>
+<L>Þat seiȝ hir sone so beten be. <MILESTONE N="80"/></L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Whon he was beten w<HI REND="italic">iþ</HI> scourges sore,</L>
+<L>Alle his frendes were fro<HI REND="italic">m</HI> hym gon.</L>
+<L>Þreo dayes vre feiþ was lore,</L>
+<L>Saue in Marie, his moder, al on.</L>
+<L>Bernard bereþ witnesse þerfore, <MILESTONE N="85"/></L>
+<L>Also doþ hire cosyn Jon.</L>
+<L>For serwe, þat heo hedde þore,</L>
+<L>On swouȝ heo fel sone anon.</L>
+</LG>
+<LG N="12">
+<PB N="89" REF="5"/>
+<HEAD>XII.</HEAD>
+<L>Þe blod out of hire eȝen ron,</L>
+<L>Almost hire herte clef a two, <MILESTONE N="90"/></L>
+<L>Seynt B<HI REND="italic">er</HI>nard, þat holy mon,</L>
+<L>Witnesseþ wel, þat hit is so.</L>
+<L>Sei<HI REND="italic">n</HI>t B<HI REND="italic">er</HI>nard, i<HI REND="italic">n</HI> to chirche wende<HI REND="italic">n</HI> he con,</L>
+<L>To witen of þat ladi wo.</L>
+<L>To him wel feire speken heo gon, <MILESTONE N="95"/> <NOTE PLACE="foot">v. 95 speken] ms. spenken.</NOTE></L>
+<L>What was his wille to asken þo.</L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>Ladi, ȝif hit be þi wille,</L>
+<L>Tel me, as þ<HI REND="italic">ou</HI> art heuene qwene,</L>
+<L>Hou þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> weope þin herte fille,</L>
+<L>Whon þei duden þi sone to scheme, <MILESTONE N="100"/></L>
+<L>Whon þei hi<HI REND="italic">m</HI> bou<HI REND="italic">n</HI>den and beoten ille,</L>
+<L>And corou<HI REND="italic">n</HI>den hi<HI REND="italic">m</HI> wiþ þornes kene,</L>
+<L>And bar þe crois meke and stille,</L>
+<L>As þauȝ on hym non harm were sene!</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Ladi, seide B<HI REND="italic">er</HI>nard, weore þ<HI REND="italic">ou</HI> þere þo, <MILESTONE N="105"/></L>
+<L>Þ<HI REND="italic">er</HI> men him bou<HI REND="italic">n</HI>den and beoten so fast?</L>
+<L>I wot, þou weore not fer him fro,</L>
+<L>Þin herte was stif and ful studefast.</L>
+<L>Allas! whi nere myn herte so?</L>
+<L>Whi is myn now so vnwrast? <MILESTONE N="110"/></L>
+<L>Whi nolde hit cleue or breke a two</L>
+<L>Or wepe, while þat hit wolde last?</L>
+</LG>
+<LG N="15">
+<PB N="90" REF="6"/>
+<HEAD>XV.</HEAD>
+<L>Tel me þi serwe, þin herte was in,</L>
+<L>Whon þou seȝe þin oune fode,</L>
+<L>Godes sone, his hed doun lyn, <MILESTONE N="115"/></L>
+<L>Þer he hongede vppon þe rode!</L>
+<L>Þeiȝ he weore god, his flesch was þyn,</L>
+<L>His bodi ron doun al on blode.</L>
+<L>Allas, whi nedde þi serwe be myn?</L>
+<L>Whi nedde I stonden, þer þou stode? <MILESTONE N="120"/></L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>Vr ladi seide: Whon he his lyf forsook,</L>
+<L>He bowede his hed &amp; lafte his siȝt,</L>
+<L>And nom his leue, his wey he tok</L>
+<L>Vp to his fader ful of miht.</L>
+<L>Witnesse wole þe holy book: <MILESTONE N="125"/></L>
+<L>Þat day þe sonne les hire liht.</L>
+<L>Þe temple clef, þe eorþe qwok,</L>
+<L>Þe dede arisen to lyue, apliȝt!</L>
+<L><PB N="91" REF="7"/>
+Ladi, tak hit not a gref,</L>
+<L>Þeiȝ I speke of his peynes so! <MILESTONE N="130"/></L>
+<L>To heren of him me is ful lef,</L>
+<L>I ne may hit nouȝt forgo.</L>
+<L>I seo him hongen as a þef,</L>
+<L>Godes sone and þin also.</L>
+<L>Ladi, þe teres, þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> þer ȝef, <MILESTONE N="135"/></L>
+<L>Graunte me su<HI REND="italic">m</HI>me! he seide þo.</L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>As þou art queen of heuene blisse,</L>
+<L>And I am here in gret p<HI REND="italic">er</HI>ile,</L>
+<L>Swete ladi, þow me wisse,</L>
+<L>Þouȝ I be synful mon and vyle, <MILESTONE N="140"/></L>
+<L>As þou art moder and mayden iwis:</L>
+<L>What dude my lord in his exile?</L>
+<L>Whon he was pyned, w<HI REND="italic">iþ</HI> outen mis,</L>
+<L>Whuche weren his wordes in þat while?</L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>Bernard, þe wordes of þi mouþ</L>
+<L>To myn herte scheteþ a spere,</L>
+<L>Þ<HI REND="italic">at</HI> speke of hi<HI REND="italic">m</HI> bi norþ &amp; souþ,</L>
+<L>Iwis, þei don myn herte dere!</L>
+<L>Wepynge is me now ful couþ.</L>
+<L><PB N="92" REF="8"/>
+Now þow wolt my peynes lere, <MILESTONE N="150"/></L>
+<L>Mekeliche þow aske nouþe:</L>
+<L>B<HI REND="italic">er</HI>nard, I wol þe onswere!</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>B<HI REND="italic">er</HI>nard seide and gon to speke:</L>
+<L>Mi rihte were, to wepe sore,</L>
+<L>Min herte nul not tobreke; <MILESTONE N="155"/></L>
+<L>I seo not, hit wole melte fore.</L>
+<L>I wolde, he(!) were in serwe steke,</L>
+<L>Wiþ me to wepe euer more.</L>
+<L>Hit nil not of myn eȝen reke,</L>
+<L>To wepe, as my wille wore. <MILESTONE N="160"/></L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>As þou art qwene of heuene &amp; helle</L>
+<L>And baar hi<HI REND="italic">m,</HI> þat vs deore haþ bouȝt,</L>
+<L>Hou hit is, þou most me telle</L>
+<L>Þing, þ<HI REND="italic">at</HI> is now in my þouȝt:</L>
+<L>Weore þou þ<HI REND="italic">er</HI>e, as men hi<HI REND="italic">m</HI> qwelle <MILESTONE N="165"/></L>
+<L>In J<HI REND="italic">e</HI>r<HI REND="italic">usa</HI>l<HI REND="italic">e</HI>m, þer he was souȝt,</L>
+<L>And nomen w<HI REND="italic">i</HI>þ þe Jewes felle,</L>
+<L>And siþen bifore Cayphas brouȝt?</L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>Oure ladi seide: I was þ<HI REND="italic">er</HI>e þo!</L>
+<L>Sore I wep and wrong myn ho<HI REND="italic">n</HI>de. <MILESTONE N="170"/></L>
+<L>Whon þe Jewes hi<HI REND="italic">m</HI> ladde me fro,</L>
+<L>To folwe hi<HI REND="italic">m</HI> wepi<HI REND="italic">n</HI>ge miȝt I not wo<HI REND="italic">n</HI>de.</L>
+<L><PB N="93" REF="9"/>
+No wonder was, þeiȝ me were wo,</L>
+<L>Ac hit was wonder, I miȝte stonde,</L>
+<L>Whon I seiȝ hym to peyne go <MILESTONE N="175"/></L>
+<L>And beo bounden in hard bonde.</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>On cene þursday w<HI REND="italic">iþ</HI>inne þe niht, <NOTE PLACE="foot">v. 177 cene] l. grene?</NOTE></L>
+<L>Cayphas hi<HI REND="italic">m</HI> nom, hi<HI REND="italic">m</HI> þhouȝte gome,</L>
+<L>W<HI REND="italic">iþ</HI> swerdes and wiþ lanternes briht,</L>
+<L>And clepede hi<HI REND="italic">m</HI> Je<HI REND="italic">s</HI>u by his nome. <MILESTONE N="180"/></L>
+<L>He onswerde: I am her riht:</L>
+<L>Do my disciples for me no schome!</L>
+<L>For alle þe peynes, þ<HI REND="italic">at</HI> hi<HI REND="italic">m</HI> were diht,</L>
+<L>He nolde, his frendes hedde no blame.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>For no chesoun of his takyng <MILESTONE N="185"/></L>
+<L>He wolde, no mon þe worse were;</L>
+<L>Þat schewed he wel in alle þing,</L>
+<L>Boþe here and elleswhere.</L>
+<L>Peter, for soþe, made fihtyng</L>
+<L>And smot sone of a Jewes ere; <MILESTONE N="190"/></L>
+<L>Mi sone hi<HI REND="italic">m</HI> blamed for þat þing</L>
+<L>And also swiþe heled hit þere.</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>Judas was ful of þe fend:</L>
+<L>Ful wel my sone his tresun wust,</L>
+<L>Þer he cleped hi<HI REND="italic">m</HI> his frend <MILESTONE N="195"/></L>
+<L>And mekeliche he him cust.</L>
+<L>Þe Jewes of harm hedde non ende,</L>
+<L>Mi sone tobeten and topust;</L>
+<L>Wiþ strokes þei gu<HI REND="italic">n</HI>ne to hi<HI REND="italic">m</HI> wende</L>
+<L>And leyden on hym wiþ staf &amp; fust. <MILESTONE N="200"/></L>
+</LG>
+<LG N="25">
+<PB N="94" REF="10"/>
+<HEAD>XXV.</HEAD>
+<L>Ladi, seide B<HI REND="italic">er</HI>nard, god ȝelde hit þe!</L>
+<L>Tel me more of myn askyng:</L>
+<L>Þi swete sone, what dude he?</L>
+<L>Whi nolde he stonde wiþ fihtynge?</L>
+<L>Bi kynde skil I may wel se, <MILESTONE N="205"/></L>
+<L>He mihte hem alle to deþe bringe!</L>
+<L>Swete ladi, tel þou me</L>
+<L>Al his semblau<HI REND="italic">n</HI>t and his berynge!</L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>A B<HI REND="italic">er</HI>nard, ȝif I teres had,</L>
+<L>Nou miȝti wepe al my fille; <MILESTONE N="210"/></L>
+<L>Of serwe nas I neuer sad,</L>
+<L>Whon I þouȝte on his peynes ille,</L>
+<L>And hou he was from me lad,</L>
+<L>I haue told, and ȝit I wille,</L>
+<L>And hou he was in serwe stad, <MILESTONE N="215"/></L>
+<L>And I him folewede w<HI REND="italic">iþ</HI> teres grille.</L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Þei hudden his eȝen &amp; boffetede hi<HI REND="italic">m</HI> þo</L>
+<L>And beden hi<HI REND="italic">m</HI> reden, ho hit were,</L>
+<L>And duden hym peynes monie mo:</L>
+<L>Þer nis no tonge, may telle fore. <MILESTONE N="220"/></L>
+<L>Þere stoden my sustren two,</L>
+<L>Þat hedden loued hym wel ȝore;</L>
+<L>Marie Maudeleyn dude also,</L>
+<L>Þat trewely louede hi<HI REND="italic">m</HI> in hire lore.</L>
+</LG>
+<LG N="28">
+<HEAD>XXVIII.</HEAD>
+<L>Hire loue was studefast and trewe, <MILESTONE N="225"/></L>
+<L>And I hym louede ful trewelyche.</L>
+<L>Good is loue of frendes newe,</L>
+<L>And of þe moder nomeliche.</L>
+<L><PB N="95" REF="11"/>
+I seiȝ neu<HI REND="italic">er</HI>e my sone chau<HI REND="italic">n</HI>gen hewe, <NOTE PLACE="foot">v. 229 = Parl. of dev. v. 194. v. 251 ȝare] ms. raþe.</NOTE></L>
+<L>But eu<HI REND="italic">er</HI>e in on, as lomb ilyche. <MILESTONE N="230"/></L>
+<L>Sori þei were alle, þ<HI REND="italic">at</HI> hym knewe,</L>
+<L>And wepte for hi<HI REND="italic">m,</HI> boþe pore &amp; riche.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>From Cayphas paleis þei hi<HI REND="italic">m</HI> drouh</L>
+<L>Riht to Pilate, my sone to spille.</L>
+<L>He c<HI REND="italic">ri</HI>ȝede not, as men duden him wouȝ, <MILESTONE N="235"/></L>
+<L>He eode w<HI REND="italic">iþ</HI> hem wiþ gode wille.</L>
+<L>Eu<HI REND="italic">er</HI>e he was meke inouȝ</L>
+<L>And heold hi<HI REND="italic">m</HI> boþe clos and stille.</L>
+<L>Pilat wolde not, þ<HI REND="italic">at</HI> þei hym slouh,</L>
+<L>In his dedes he fond non skille. <MILESTONE N="240"/></L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<L>Þei stripte hym þat ilke stounde,</L>
+<L>To a piler bou<HI REND="italic">n</HI>den hi<HI REND="italic">m</HI> þat day,</L>
+<L>And beote<HI REND="italic">n</HI> hi<HI REND="italic">m,</HI> whil þei warm hi<HI REND="italic">m</HI> fou<HI REND="italic">n</HI>de;</L>
+<L>Þen was my song: Weilaway!</L>
+<L>Four þousend &amp; fyf hu<HI REND="italic">n</HI>dred wou<HI REND="italic">n</HI>de <MILESTONE N="245"/></L>
+<L>Þei maden on hi<HI REND="italic">m,</HI> for soþe to say,</L>
+<L>And seiden on skorn vppon þe grou<HI REND="italic">n</HI>de:</L>
+<L>Þi p<HI REND="italic">ro</HI>phecye helpe þe ne may!</L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>Mi leue B<HI REND="italic">er</HI>nard! Gret was my care,</L>
+<L>Whon þei criede wel faste in on: <MILESTONE N="250"/></L>
+<L>Do Je<HI REND="italic">s</HI>u on þe crois ful ȝare</L>
+<L>And dilyuere vs Barraban!</L>
+<L><PB N="96" REF="12"/>
+Goddes sone to jugge þare,</L>
+<L>And leten a þef to lyue gon,</L>
+<L>B<HI REND="italic">er</HI>nard, þis was a sori fare: <MILESTONE N="255"/></L>
+<L>Such dom hedde neuer no mon!</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>Þus þe Jewes steorne and stoute</L>
+<L>Mi sone hedden in hard bonde.</L>
+<L>Pilate hedde of hem more doute,</L>
+<L>Þan he hedde of godes sonde. <MILESTONE N="260"/> <NOTE PLACE="foot">v. 260 þan] ms. þat.</NOTE></L>
+<L>Þat was isene, he ladde hi<HI REND="italic">m</HI> oute <NOTE PLACE="foot">v. 261 he] ms. þei.</NOTE></L>
+<L>And dude hi<HI REND="italic">m</HI> to þe Jewes honde.</L>
+<L>Þe Jewes þrongen him aboute,</L>
+<L>And I for serwe mihte not stonde.</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>Whon he was dempt and out sent, <MILESTONE N="265"/></L>
+<L>Alle þei duden hym gret dispite.</L>
+<L>He nom þe cros and forþ went,</L>
+<L>Wiþ wraþþe þei driuen hi<HI REND="italic">m,</HI> muche &amp; lyte.</L>
+<L>Allas, þat lomb innocent:</L>
+<L>Wolues wolde him sore abyte. <MILESTONE N="270"/></L>
+<L>Þe care was at myn herte lent,</L>
+<L>Mi serwe mihte no mon wyte.</L>
+</LG>
+<LG N="34">
+<PB N="97" REF="13"/>
+<HEAD>XXXIV.</HEAD>
+<L>I suwede &amp; swouhnede mony a siþe,</L>
+<L>Mi sustren comen abouten me;</L>
+<L>I spac to hem, as I miȝte kiþe, <MILESTONE N="275"/></L>
+<L>Whon I hem for pres mihte se.</L>
+<L>Mi sone hiȝede hi<HI REND="italic">m</HI> wel blyue</L>
+<L>And bar him self þat heui tre,</L>
+<L>And let me beo behynde vnbliþe:</L>
+<L>B<HI REND="italic">er</HI>nard, þen gomede me no gle! <MILESTONE N="280"/></L>
+</LG>
+<LG N="35">
+<HEAD>XXXV.</HEAD>
+<L>Merci, seide B<HI REND="italic">er</HI>nard, heuene queene,</L>
+<L>Þou hast so muche me itold!</L>
+<L>Ȝit þ<HI REND="italic">er</HI> is wel more isene,</L>
+<L>Þat ful fayn witen I wold:</L>
+<L>Hou bar my lord hi<HI REND="italic">m,</HI> ladi schene, <MILESTONE N="285"/></L>
+<L>Among þe Jewes breme and bold?</L>
+<L>His harde peynes alle bedene</L>
+<L>But þ<HI REND="italic">ou</HI> me teche, myn herte is cold.</L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI.</HEAD>
+<L>Ladi, of þe and of þi childe</L>
+<L>I wolde wite a more strif: <MILESTONE N="290"/></L>
+<L>What dude my lord meke and mylde</L>
+<L>To þe endyng of his lyf?</L>
+<L>I haue seȝen see and watres wylde,</L>
+<L>Stremes and wawes two and fyue:</L>
+<L>Swete ladi, fro<HI REND="italic">m</HI> schome vs schylde <MILESTONE N="295"/></L>
+<L>And to riȝte hauene þ<HI REND="italic">ou</HI> vs ryue!</L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>I haue seȝen men, þ<HI REND="italic">at</HI> nolde not loute,</L>
+<L>Til þat þei þe harde iseȝe,</L>
+<L>And siþen for drede of deþes doute</L>
+<L>Heore herte arysen vp an hiȝe. <MILESTONE N="300"/></L>
+<L><PB N="98" REF="14"/>
+Whon his enemys were hi<HI REND="italic">m</HI> aboute,</L>
+<L>Hou miȝt he al heor scornyng driȝe?</L>
+<L>In his face þei spitte and spoute:</L>
+<L>Whi wolde he suffre þat vilenye?</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<L>Oure ladi seyde: His herte was stif <MILESTONE N="305"/></L>
+<L>And mekely suffrede al her fare:</L>
+<L>Mo<HI REND="italic">n</HI>n<HI REND="italic">us</HI> soule hi<HI REND="italic">m</HI> was ful lef,</L>
+<L>W<HI REND="italic">ip</HI> his blod he bouȝte hem þare.</L>
+<L>He seiȝ me stonde in serwe &amp; gref,</L>
+<L>Wiþ wepyng and wiþ muche care. <MILESTONE N="310"/></L>
+<L>Mi serwe dude hi<HI REND="italic">m</HI> more gref</L>
+<L>Þen alle þe peynes, he suffrede þare.</L>
+</LG>
+<LG N="39">
+<HEAD>XXXIX.</HEAD>
+<L>And þat was ful wel isene,</L>
+<L>Whon he tok me to seynt Jon:</L>
+<L>Meke he was, w<HI REND="italic">iþ</HI> outen wene, <MILESTONE N="315"/></L>
+<L>Þat tyme he loked me vppon.</L>
+<L>Þen wox my serwe couþ and grene, <NOTE PLACE="foot">v. 317 couþ] mir unverständlich.</NOTE></L>
+<L>Of anguissche I mai make my mon;</L>
+<L>I wol þe telle al bedeene</L>
+<L>His harde peynes euerichon. <MILESTONE N="320"/></L>
+</LG>
+<LG N="40">
+<HEAD>XXXX.</HEAD>
+<L>Lusten to me, my broþer B<HI REND="italic">er</HI>nard!</L>
+<L>I wol þe telle of peynes more.</L>
+<L>Þyn herte schal ben ful hard,</L>
+<L>But hit greue þe ful sore.</L>
+<L>Þauh I haue a parti spard <MILESTONE N="325"/></L>
+<L>Of his peynes herbifore,</L>
+<L>I wol þe telle her afturward</L>
+<L>His harm an hundred siþe sore!</L>
+</LG>
+<LG N="41">
+<PB N="99" REF="15"/>
+<HEAD>XLI.</HEAD>
+<L>B<HI REND="italic">er</HI>nard, I saiȝ my sone honge,</L>
+<L>As þauȝ he were a mayster þef, <MILESTONE N="330"/></L>
+<L>His bak and syden sore iswonge,</L>
+<L>Þat white were and me ful lef.</L>
+<L>He was crouned w<HI REND="italic">iþ</HI> þornes stronge,</L>
+<L>In eueri syde þei duden him gref</L>
+<L>And drowen him on þe cros alonge, <MILESTONE N="335"/></L>
+<L>His senewes tobursten &amp; todref.</L>
+</LG>
+<LG N="42">
+<HEAD>XLII.</HEAD>
+<L>Þe blod ron doun bi bodi and heued,</L>
+<L>Þat lykede þe corsede Jewes wel;</L>
+<L>Wiþ spotel &amp; blod he was beweued,</L>
+<L>Þat he was lyk a foul mesel. <MILESTONE N="340"/></L>
+<L>He was todrawen and todreued</L>
+<L>And nayled w<HI REND="italic">iþ</HI> þre nayles of stel. <NOTE PLACE="foot">v. 342 þre] ms. yre, das keinen sinn giebt.</NOTE></L>
+<L>Þen was my strengþe me bereued,</L>
+<L>And al most adoun I fel.</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>I seiȝ where foure welles were <MILESTONE N="345"/></L>
+<L>Out of his lymes ron o blode:</L>
+<L>B<HI REND="italic">er</HI>nard frend, my sone dere,</L>
+<L>Þus hi<HI REND="italic">m</HI> seruede þe Jewes wode!</L>
+<L>Ich hedde gret blisse, whon I hi<HI REND="italic">m</HI> bere</L>
+<L>And of his þewes monye and gode, <MILESTONE N="350"/></L>
+<L>For al wox won, bodi and leore,</L>
+<L>Þat feirest was of alle fode.</L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<L>So feir ȝit was neuer nomon, <NOTE PLACE="foot">v. 353 nomon] m aus nȝ corrigirt.</NOTE></L>
+<L>As bereþ witnesse holy writ.</L>
+<L>Þen<HI REND="italic">n</HI>e was his beute al agon <MILESTONE N="355"/></L>
+<L><PB N="100" REF="16"/>
+As þe gospel telleþ hit.</L>
+<L>I hedde a sone, nou haue I non,</L>
+<L>Me wonteþ boþe weole and wit;</L>
+<L>I not in world whoder to gon</L>
+<L>For serwe, þat in myn herte sit. <MILESTONE N="360"/></L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>B<HI REND="italic">er</HI>nard! Hedde I honged him bi,</L>
+<L>Su<HI REND="italic">m</HI> tyme my serwe hedde be pas.</L>
+<L>I stod and loked vppon hiȝ,</L>
+<L>Wher heng my ioye and my solas.</L>
+<L>Þe Jewes seiȝ me ful sori, <MILESTONE N="365"/></L>
+<L>Þer as I stod in þe plas:</L>
+<L>For þat I made sereweful cri,</L>
+<L>Þei beede me schome and harde gras.</L>
+</LG>
+<LG N="46">
+<HEAD>XLVI.</HEAD>
+<L>Faste I criȝede in my manere,</L>
+<L>Ȝut ne was I not iherd; <MILESTONE N="370"/> <NOTE PLACE="foot">v. 370 lerd] ms. lered.</NOTE></L>
+<L>Þo I criȝede, he mihte me here <NOTE PLACE="foot">v. 371 durch versehen des abschreibers im ms. hinter</NOTE></L>
+<L>Witnesse boþe of lewed and lerd:</L>
+<L>A mercy! I c<HI REND="italic">ri</HI>ȝede to my sone dere,</L>
+<L>Alone þou leue me in desert!</L>
+<L>Þen<HI REND="italic">n</HI>e he bitok me til a fere <MILESTONE N="375"/></L>
+<L>And bad, I scholde not ben aferd.</L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>Allas, Bernard, þat I scholde se</L>
+<L>Mi sone hongen bifore my feete!</L>
+<L>I seide: Sone, let me dye wiþ þe,</L>
+<L>Er þen þ<HI REND="italic">ou</HI> þi lyf forlete! <MILESTONE N="380"/></L>
+<L>Mi sone, my lord and al my gle,</L>
+<L>Þou hast eu<HI REND="italic">er</HI>e be milde and swete:</L>
+<L><PB N="101" REF="17"/>
+But þou haue pite now of me,</L>
+<L>Þ<HI REND="italic">er</HI> may no mon my bale bete!</L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII.</HEAD>
+<L>I criede: Maudeleyn, help now! <MILESTONE N="385"/></L>
+<L>Mi sone haþ loued ful wel þe:</L>
+<L>Preie hi<HI REND="italic">m,</HI> þat I dye now,</L>
+<L>Þat I nout forȝeten be!</L>
+<L>Seost þow, Maudeleyn, now:</L>
+<L>Mi sone is honged on a tre, <MILESTONE N="390"/></L>
+<L>Ȝit alyue am I and þow,</L>
+<L>And þou ne preyest not for me!</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>Maudeleyn seide: I con no red,</L>
+<L>Care haþ smiten myn herte sore.</L>
+<L>I stonde, I seo my lord neih ded, <MILESTONE N="395"/></L>
+<L>And þi wepyng greueþ me sore.</L>
+<L>Cum w<HI REND="italic">iþ</HI> me! I wol þe lede</L>
+<L>In to þe te<HI REND="italic">m</HI>ple her before.<NOTE PLACE="foot">v. 398 mit verweisungszeichen.</NOTE></L>
+<L>Mi mournynge is boþe feble &amp; fede(!),</L>
+<L>For þ<HI REND="italic">ou</HI> hast now iwept ful ȝore. <MILESTONE N="400"/></L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<L>Ich askede þe Magdaleyn: Wher is þ<HI REND="italic">at</HI> place,</L>
+<L>In pleyn, in valeye, or in hille,</L>
+<L>I mai me huyde for eny cas,</L>
+<L>Þat no serwe come me tille?</L>
+<L><PB N="102" REF="18"/>
+He, þat al my joye was, <MILESTONE N="405"/></L>
+<L>Now deþ of hym wol don his wille.</L>
+<L>Con I me no beter solas,</L>
+<L>Þen for to wepe al my fille.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>Þe Maudeleyn cu<HI REND="italic">m</HI>fortede me þo,</L>
+<L>To lede me þe<HI REND="italic">n</HI>ne, heo seide, was best. <MILESTONE N="410"/></L>
+<L>Care hedde smiten myn herte so,</L>
+<L>Þ<HI REND="italic">at</HI> I miȝte neu<HI REND="italic">er</HI>e haue no rest.</L>
+<L>Soster, whoderward þat I go,</L>
+<L>Þe wo of hym is in my brest.</L>
+<L>While my sone hongeþ so, <MILESTONE N="415"/></L>
+<L>His peyne is in myn herte fest.</L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<L>I seih my sone, fader dere,</L>
+<L>Heiȝe hongen vp on a tre;</L>
+<L>I hedde blisse, whon I hi<HI REND="italic">m</HI> bere, <NOTE PLACE="foot">v. 419 bere] r corr. aus?</NOTE></L>
+<L>And now deþ fordoþ my gle. <MILESTONE N="420"/></L>
+<L>Scholde I leten hi<HI REND="italic">m</HI> hongen here</L>
+<L>And lete my sone alone be,</L>
+<L>Maudeleyn, þe<HI REND="italic">n</HI>ne vnkynde I were,</L>
+<L>Ȝif he schulde honge &amp; I schulde fle!</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>Vnder þe cros leuen I chille <MILESTONE N="425"/> <NOTE PLACE="foot">v. 425 chille] ms. schille.</NOTE></L>
+<L>And seo my sone hongen þeron,</L>
+<L>Of siȝt I nedde neu<HI REND="italic">er</HI>e my fille,</L>
+<L><PB N="103" REF="19"/>
+Whon I loke hym vppon.</L>
+<L>I bad hem gon wher was heore wille,</L>
+<L>Þe Maudeleyn and euerichon: <MILESTONE N="430"/></L>
+<L>And my seluen beleuen I wole,</L>
+<L>For I nil fle for no mon.</L>
+</LG>
+<LG N="54">
+<HEAD>LIV.</HEAD>
+<L>Bernard, my sone, wordes swete</L>
+<L>Þe Maudeleyn also gon say:</L>
+<L>»Ladi, we sen þi serwe vnmeete <MILESTONE N="435"/></L>
+<L>And fayn we wolde<HI REND="italic">n</HI> han it away,</L>
+<L>And, deore ladi, þi bale to beten,</L>
+<L>But in riȝt resun was his way!</L>
+<L>Ladi, ȝif I dorste þe besechen,</L>
+<L>To aske þe more, I wolde þe pray. <MILESTONE N="440"/></L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>Of angusshe þou hast told me strong,</L>
+<L>Myn herte is not as Ich wolde;</L>
+<L>I ne may hit w<HI REND="italic">iþ</HI> serwe fonge;</L>
+<L>And what my lord siggen wolde,</L>
+<L>To aske þe more nul I not wonde, <MILESTONE N="445"/></L>
+<L>Whon þe Jewes breme and bolde</L>
+<L>Naylede hi<HI REND="italic">m</HI> þorw feet and honde,</L>
+<L>Aft<HI REND="italic">ur</HI> þat Judas hedde hym solde.</L>
+</LG>
+<LG N="56">
+<HEAD>LVI.</HEAD>
+<L>»Bernard, I haue told my þouȝt:</L>
+<L>Wolt þ<HI REND="italic">ou</HI> now ȝit aske me more? <MILESTONE N="450"/></L>
+<L>Be I forþ<HI REND="italic">er</HI>e in tales brouȝt,</L>
+<L>Iwis, þou greue<HI REND="italic">s</HI> me ful sore.</L>
+<L>Ac for þou hast me besouȝt,</L>
+<L>Bleþeliche I wol telle þe fore:</L>
+<L>I wot, þow art in longyng brouȝt, <MILESTONE N="455"/></L>
+<L>To witen wat his wille wore.</L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<L>Whon my sone deþ scholde han,</L>
+<L>Delful wordes wiþ him þer were.</L>
+<L><PB N="104" REF="20"/>
+Furst he seide: Behold wo<HI REND="italic">m</HI>mon!</L>
+<L>And siþen he seide: Behold þou here! <MILESTONE N="460"/></L>
+<L>And siþen he seide to seynt Jon:</L>
+<L>»Kep my moder leof and dere!</L>
+<L>Me þouȝte myn herte al tochon, <NOTE PLACE="foot">v. 463 tochon] l. togon?</NOTE></L>
+<L>Such wordes of hym for to here.</L>
+</LG>
+<LG N="58">
+<HEAD>LVIII.</HEAD>
+<L>He bed Jon, as he was hende, <MILESTONE N="465"/></L>
+<L>Kepe me and ben al at my bone,</L>
+<L>Whoderward I wolde hym sende,</L>
+<L>As him self was wont to done.</L>
+<L>Heþen, he seide, I mot wende,</L>
+<L>Mi tyme neiȝeþ swiþe sone, <MILESTONE N="470"/></L>
+<L>I may her no lengor lende,</L>
+<L>I mot in to my fader trone.</L>
+</LG>
+<LG N="59">
+<HEAD>LIX.</HEAD>
+<L>Moder, þe bodi þ<HI REND="italic">at</HI> þou bere,</L>
+<L>In hard penau<HI REND="italic">n</HI>ce þ<HI REND="italic">ou</HI> miht hit se;</L>
+<L>Al monkynde, þat dede were, <MILESTONE N="475"/></L>
+<L>From deþ schal areysed be.</L>
+<L>I seo a schep, þat was me dere,</L>
+<L>Þat w<HI REND="italic">iþ</HI> wronge was stolen fro<HI REND="italic">m</HI>m me;</L>
+<L>I schal hi<HI REND="italic">m</HI> bri<HI REND="italic">n</HI>ge þer he was ere,</L>
+<L>And of his þraldam make hi<HI REND="italic">m</HI> fre. <MILESTONE N="480"/></L>
+</LG>
+<LG N="60">
+<HEAD>LX.</HEAD>
+<L>Þe shep betokneþ al monkynde,</L>
+<L>Mi fader wolde, þat hit weore souȝt;</L>
+<L>Wiþ owten me may no mon fynde,</L>
+<L>For wiþ my blod hit mot be bouȝt.</L>
+<L>I wol hit bringe to riȝte mynde, <MILESTONE N="485"/></L>
+<L>To my blisse he mot be brouȝt,</L>
+<L>And þou schalt, moder, leue behynde:</L>
+<L>Swete moder, ne wep þow nouȝt!</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<L>Þauȝ þ<HI REND="italic">ou</HI> seo me hongen heiȝe</L>
+<L><PB N="105" REF="21"/>
+I prey þe, moder, ne wep not sore: <MILESTONE N="490"/></L>
+<L>Al þe peyne, þou seost me drye,</L>
+<L>Hit is, to saue mon þerfore.</L>
+<L>Betere hit is, þat on dye,</L>
+<L>Þen al monkynde euer more.</L>
+<L>So longe schal I not lye, <MILESTONE N="495"/></L>
+<L>Þat I schal wel my deþ restore.</L>
+</LG>
+<LG N="62">
+<HEAD>LXII.</HEAD>
+<L>Þus were his wordes loken in on,</L>
+<L>Þat seint Jon scholde me loke,</L>
+<L>Þauȝ he were my kynnesmon;</L>
+<L>Þ<HI REND="italic">er</HI>fore ich him sone toke. <MILESTONE N="500"/></L>
+<L>Such wordes he speke con,</L>
+<L>Þat al my joye I þer forsoke.</L>
+<L>B<HI REND="italic">er</HI>nard, þow most þis wordes tan(!)</L>
+<L>And craftliche write<HI REND="italic">n</HI> hem in boke!</L>
+</LG>
+<LG N="63">
+<HEAD>LXIII.</HEAD>
+<L>B<HI REND="italic">er</HI>nard, o þing dude me wo: <MILESTONE N="505"/></L>
+<L>He þursted, my sone, &amp; gon to crie;</L>
+<L>To ȝiuen hi<HI REND="italic">m</HI> drinke, þei þouȝte þo,</L>
+<L>Þe Jewes ful of felenye;</L>
+<L>Eysel and galle þei mengeden also,</L>
+<L>Wiþ a sponge þei brouȝt hit an hiȝe, <MILESTONE N="510"/></L>
+<L>And wiþ a launce þei putte hi<HI REND="italic">m</HI> to,</L>
+<L>Þe Jewes ful of ribaudye.</L>
+</LG>
+<LG N="64">
+<HEAD>LXIV.</HEAD>
+<L>I criede to hym: Ne drynk hit nouȝt! <NOTE PLACE="foot">v. 513 I] ms. Þei.</NOTE></L>
+<L>Þe Jewes on scorn hit hedde imad;</L>
+<L>Hit is eysel and galle iwrouȝt, <MILESTONE N="515"/></L>
+<L>Ȝif hit stynke, þou miȝt be sad.</L>
+<L>Loueliche he hedde me besouȝt,</L>
+<L>Þ<HI REND="italic">at</HI> I scholde boþe be bliþe and glad:</L>
+<L>Þorw þis drynke Adam was bouȝt;</L>
+<L>I drynke hit, as my fader bad. <MILESTONE N="520"/></L>
+</LG>
+<LG N="65">
+<PB N="106" REF="22"/>
+<HEAD>LXV.</HEAD>
+<L>Þerfo<HI REND="italic">re</HI> I preye þe, moder hende,</L>
+<L>Lef þi deol, ne wep no more!</L>
+<L>And I schal to my fader wende</L>
+<L>And bring hem vp, þat were forlore.</L>
+<L>And after þe þen schal I sende; <MILESTONE N="525"/></L>
+<L>But I mot, moder, go bifore,</L>
+<L>And after schalt þou wiþ me lende</L>
+<L>In joye and blisse for eu<HI REND="italic">er</HI> more.</L>
+</LG>
+<LG N="66">
+<HEAD>LXVI.</HEAD>
+<L>Þenne þe Jewes ful of pride</L>
+<L>Two þeues þei hynge my sone bi. <MILESTONE N="530"/></L>
+<L>Þat on, þat hengede bi his syde</L>
+<L>Criȝede to my sone merci.</L>
+<L>Þat oþ<HI REND="italic">ur</HI> onswerde in þat tyde:</L>
+<L>He hongeþ herre þen þou or I</L>
+<L>On þe croys wiþ wou<HI REND="italic">n</HI>des wyde, <MILESTONE N="535"/></L>
+<L>To crie merci, þow dost foly!</L>
+</LG>
+<LG N="67">
+<HEAD>LXVII.</HEAD>
+<L>Þat oþ<HI REND="italic">ur</HI> seide: Mon, þow art wod,</L>
+<L>Þis ilke mon þorw false red,</L>
+<L>He haþ do noþing bote gode,</L>
+<L>He weore not worþi to be ded. <MILESTONE N="540"/></L>
+<L>Je<HI REND="italic">s</HI>u, as þou art mylde of mode,</L>
+<L>Whon þou comest to þi godhed,</L>
+<L>Þorw v<HI REND="italic">er</HI>tu of þyn holy blode</L>
+<L>Þe riȝte wey þ<HI REND="italic">at</HI> þou me lede!</L>
+</LG>
+<LG N="68">
+<HEAD>LXVIII.</HEAD>
+<L>Mi sone seide: Mon, þou art wys, <MILESTONE N="545"/></L>
+<L>For þin askyng blessed þou be!</L>
+<L>Þ<HI REND="italic">er</HI>fore I grau<HI REND="italic">n</HI>te þe p<HI REND="italic">ar</HI>adys,</L>
+<L>Þis day þou schalt my joye ise!</L>
+<L>I stod and lokede in heore vys,</L>
+<L>Þo þei hongede vppon þe tre: <MILESTONE N="550"/></L>
+<L>Þat o þef wente to heuene blis,</L>
+<L>Þat oþer gon to helle fle.</L>
+</LG>
+<LG N="69">
+<PB N="107" REF="23"/>
+<HEAD>LXIX.</HEAD>
+<L>Þis was, B<HI REND="italic">er</HI>nard, my grete solas,</L>
+<L>Þat o þef so sone heuene won.</L>
+<L>Þe<HI REND="italic">n</HI>ne wuste I wel in heore cas, <MILESTONE N="555"/> <NOTE PLACE="foot">v. 555 I] ms. þei.</NOTE></L>
+<L>Mi sone was studefast god and mon;</L>
+<L>And I my self stod in þe plas,</L>
+<L>Mi sone, ful loude crie he con:</L>
+<L>Heloy, heloy! his criȝing was;</L>
+<L>Lamazabatani! after þon. <MILESTONE N="560"/></L>
+</LG>
+<LG N="70">
+<HEAD>LXX.</HEAD>
+<L>Þis is now, as ȝe mowe se, <NOTE PLACE="foot">v. 561 se] ms. here.</NOTE></L>
+<L>On Englisch to vnderstonde bi:</L>
+<L>Fader, he seide, in trinite,</L>
+<L>Whi forsakest þ<HI REND="italic">ou</HI> my m<HI REND="italic">er</HI>ci?</L>
+<L>Hider I com þorw red of þe, <MILESTONE N="565"/></L>
+<L>To þe I take my soule an hiȝ.</L>
+<L>W<HI REND="italic">iþ</HI> wrong I dye vppon þe tre,</L>
+<L>To fulfille þe p<HI REND="italic">ro</HI>pheci!'</L>
+</LG>
+<LG N="71">
+<PB N="108" REF="24"/>
+<HEAD>LXXI.</HEAD>
+<L>Merci, ladi, seide Bernard,</L>
+<L>Swete moder, god ȝelde hit þe! <MILESTONE N="570"/></L>
+<L>On Serterday(!), I haue herd,</L>
+<L>How he was went awei from þe,</L>
+<L>And on þe friday how he ferd,</L>
+<L>Þ<HI REND="italic">er</HI> he hongede on þe tre.</L>
+<L>Al how þe Jewes him bicherd, <MILESTONE N="575"/></L>
+<L>Loueli ladi, lere þow me!</L>
+</LG>
+<LG N="72">
+<HEAD>LXXII.</HEAD>
+<L>And how he was after taken adoun,</L>
+<L>Tel me, moder Marie mylde,</L>
+<L>Of þe crois aftur þe passioun,</L>
+<L>How þou weope for þi chylde <MILESTONE N="580"/></L>
+<L>And geete hi<HI REND="italic">m</HI> w<HI REND="italic">iþ</HI> þis orisoun <NOTE PLACE="foot">v. 581 þis] þ corr. aus h.</NOTE></L>
+<L>Of Pilate and of þe Jewes wylde!</L>
+<L>Þe holy lore of þis passioun</L>
+<L>From þe fend hit may vs schilde.</L>
+</LG>
+<LG N="73">
+<HEAD>LXXIII.</HEAD>
+<L>Tel me, ladi briht and schene, <MILESTONE N="585"/></L>
+<L>Wȝuche were þi frendes eu<HI REND="italic">er</HI>ichon,</L>
+<L>Þat wolde at his buriing bene,</L>
+<L>And how þou were saued fro<HI REND="italic">m</HI> þi fon</L>
+<L>In þe temple, wiþ outen wene.</L>
+<L>Þe serwe of þe and of seint Jon <MILESTONE N="590"/></L>
+<L>Tel me, ladi, al bedene</L>
+<L>Of þi sone bodi and bon!</L>
+</LG>
+<LG N="74">
+<HEAD>LXXIV.</HEAD>
+<L>Oure ladi seide; B<HI REND="italic">er</HI>nard, allas,</L>
+<L>What woltou more aske me?</L>
+<L>Tel I þe forþ<HI REND="italic">ur</HI>e of þis cas, <MILESTONE N="595"/></L>
+<L>Þe swerd of deþ wol neiȝ me sle!</L>
+<L><PB N="109" REF="25"/>
+Joseph anon nom his pas</L>
+<L>And bed his bodi vppon þe tre.</L>
+<L>Pilate him grau<HI REND="italic">n</HI>tede and Cayphas,</L>
+<L>Ȝif þat þei witen, þat he ded be. <MILESTONE N="600"/></L>
+</LG>
+<LG N="75">
+<HEAD>LXXV.</HEAD>
+<L>Pilate kniȝtes steorne and stoute</L>
+<L>Forþ wiþ Josep gu<HI REND="italic">n</HI>ne þei wende,</L>
+<L>And oþ<HI REND="italic">ur</HI>e kniȝtes w<HI REND="italic">iþ</HI> gret route,</L>
+<L>Su<HI REND="italic">m</HI>me his fon and su<HI REND="italic">m</HI>me his frende.</L>
+<L>Furst þis kniȝtes wenten aboute <MILESTONE N="605"/></L>
+<L>And bursten boþe bak and lende;</L>
+<L>Þen was I in gret doute, <NOTE PLACE="foot">v. 607 I] ms. heo.</NOTE></L>
+<L>So han to serued my sone hende.</L>
+</LG>
+<LG N="76">
+<HEAD>LXXVI.</HEAD>
+<L>I suwed after wiþ al my miht,</L>
+<L>Jon and my sustren two. <MILESTONE N="610"/></L>
+<L>Her<HI REND="italic">e</HI> now, B<HI REND="italic">er</HI>nard, al apliht,</L>
+<L>Þe strengeste pyne of al my wo!</L>
+<L>Besyde þe roode þe<HI REND="italic">n</HI> stod a kniȝt,</L>
+<L>Blynd he was and lome also;</L>
+<L>Alle þei seide, Longeus he hiȝt; <MILESTONE N="615"/></L>
+<L>Vnder þe roode þei dude hi<HI REND="italic">m</HI> go.</L>
+</LG>
+<LG N="77">
+<HEAD>LXXVII.</HEAD>
+<L>Þei token hi<HI REND="italic">m</HI> a launce good</L>
+<L>And sette hit to my sone syde.</L>
+<L>And Longeus þruste w<HI REND="italic">iþ</HI> gret mod,</L>
+<L>To my sone herte gon glyde; <MILESTONE N="620"/></L>
+<L>Þe water &amp; þe rede blod</L>
+<L>Ron doun of his wou<HI REND="italic">n</HI>des wyde.</L>
+<L><PB N="110" REF="26"/>
+Doun I fel al þer I stod,</L>
+<L>No le<HI REND="italic">n</HI>gor sto<HI REND="italic">n</HI>de I ne miȝte þ<HI REND="italic">at</HI> tyde.</L>
+</LG>
+<LG N="78">
+<HEAD>LXXVIII.</HEAD>
+<L>Þei weore went to sire Pilate, <MILESTONE N="625"/></L>
+<L>And we bilafte w<HI REND="italic">iþ</HI> reuthful roun. <NOTE PLACE="foot">v. 626 roun] ms. ron.</NOTE></L>
+<L>Whon þei weore igon heore gate</L>
+<L>And Joseph nome hym adoun,</L>
+<L>Til I hym hedde, me þhouȝte ful late,</L>
+<L>Þe Jewes weoren alle ful feloun. <MILESTONE N="630"/></L>
+<L>Joseph seide to me wiþ þate:</L>
+<L>To bringe hi<HI REND="italic">m</HI> þe, we ben ful boun.</L>
+</LG>
+<LG N="79">
+<HEAD>LXXIX.</HEAD>
+<L>Nichodem<HI REND="italic">us</HI> þe nayles out drowȝ,</L>
+<L>And Joseph nom him in his arm.</L>
+<L>Mi sone he louede wel inouȝ, <MILESTONE N="635"/></L>
+<L>He tok hym dou<HI REND="italic">n</HI> wiþ outen harm</L>
+<L>And nom hi<HI REND="italic">m</HI> of þe heiȝe bouȝ,</L>
+<L>And leyde hi<HI REND="italic">m</HI> softe in my barm.</L>
+<L>His swete mouþ, on me hit louh,</L>
+<L>And ȝit ne was hit no þing warm. <MILESTONE N="640"/></L>
+</LG>
+<LG N="80">
+<PB N="111" REF="27"/>
+<HEAD>LXXX.</HEAD>
+<L>His loue hedde bounde me so faste,</L>
+<L>Þo wepen I moste in alle wyse.</L>
+<L>Hit was euere in my gast, <NOTE PLACE="foot">v. 643 gast] ms. þouȝt.</NOTE></L>
+<L>Þe þridde day he scholde aryse.</L>
+<L>Þe rihte beleeue on me he caste, <MILESTONE N="645"/></L>
+<L>And I conceyuede þe rihte asyse.</L>
+<L>Ich wuste ful wel atte laste,</L>
+<L>I schulde hym seo among alle hise.</L>
+</LG>
+<LG N="81">
+<HEAD>LXXXI.</HEAD>
+<L>And ȝit miȝt I not forbere,</L>
+<L>B<HI REND="italic">er</HI>nard, for to wepe sore. <MILESTONE N="650"/></L>
+<L>Myn hondes I wrong, myn her I tere,</L>
+<L>Whon he lay ded me before.</L>
+<L>I seiȝ wel, I durste swere,</L>
+<L>Ȝif eny serwe in angeles were,</L>
+<L>Þei miȝte wepe mony a tere <MILESTONE N="655"/></L>
+<L>For þe del, þat I seih þere.</L>
+</LG>
+<LG N="82">
+<HEAD>LXXXII.</HEAD>
+<L>Siþen heuene was maad &amp; erþe also</L>
+<L>And wo<HI REND="italic">m</HI>mon formed aft<HI REND="italic">ur</HI> mon,</L>
+<L>More serwe ne more wo</L>
+<L>Neu<HI REND="italic">er</HI>e tonge telle con, <MILESTONE N="660"/></L>
+<L>Þen we maden, whon we scholde go,</L>
+<L>To bere mi sone in to þe ston.</L>
+<L>Jon and my sustren two,</L>
+<L>Ful mony siþen þei swoune gon.</L>
+</LG>
+<LG N="83">
+<PB N="112" REF="28"/>
+<HEAD>LXXXIII.</HEAD>
+<L>Eu<HI REND="italic">er</HI>e I criȝede ful pitousliche: <MILESTONE N="665"/></L>
+<L>Lordynges, what haue ȝe iþouȝt?</L>
+<L>Hit is my sone, I loue so muche,</L>
+<L>For godes loue, burie him nouȝt!</L>
+<L>Þei nolde not leue, þeiȝ I gon siche,</L>
+<L>Til þat he were in graue ibrouȝt. <MILESTONE N="670"/></L>
+<L>Þei wou<HI REND="italic">n</HI>den him in cloþes riche</L>
+<L>And eu<HI REND="italic">er</HI> merci him besouȝt.</L>
+</LG>
+<LG N="84">
+<HEAD>LXXXIV.</HEAD>
+<L>Joseph leide him in þe ston,</L>
+<L>Nichodemes halp him wel</L>
+<L>And riche oynemens leyde hi<HI REND="italic">m</HI> vpon, <MILESTONE N="675"/></L>
+<L>And wounden hi<HI REND="italic">m</HI> in clene sendel.</L>
+<L>Heo seiȝ, þ<HI REND="italic">er</HI> was no beter won,</L>
+<L>Bote burie hi<HI REND="italic">m</HI> þei were ful snel;</L>
+<L>Þen loked I on my cosyn Jon,</L>
+<L>For serwe boþe adoun we fel. <MILESTONE N="680"/></L>
+</LG>
+<LG N="85">
+<HEAD>LXXXV.</HEAD>
+<L>Whon I stod vp and biheld,</L>
+<L>In world I nuste, what was best.</L>
+<L>For gret serwe my fingres I feld,</L>
+<L>For wepyng miȝt I haue no rest.</L>
+<L>Þe ouer ston ouer hi<HI REND="italic">m</HI> þei heold, <MILESTONE N="685"/></L>
+<L>Joseph hit wolde in close fest,</L>
+<L>To hi<HI REND="italic">m</HI> I fel, þat was my scheld, <NOTE PLACE="foot">v. 687 scheld] ms. child.</NOTE></L>
+<L>His swete mouþ wel ofte I cust.</L>
+</LG>
+<LG N="86">
+<PB N="113" REF="29"/>
+<HEAD>LXXXVI.</HEAD>
+<L>Jon seiȝ, I was in poynt to spille,</L>
+<L>In my bodi I was ful seke. <MILESTONE N="690"/></L>
+<L>Eu<HI REND="italic">er</HI>e I stod in criȝyng schille,</L>
+<L>Þat neiȝ myn herte dude tobreke.</L>
+<L>He heold his serwe in herte stille</L>
+<L>And myldeliche gon he to mespeke:</L>
+<L>Marie, ȝif hit beo þi wille, <MILESTONE N="695"/></L>
+<L>Go we henne, þe Maudeleyn eke!</L>
+</LG>
+<LG N="87">
+<HEAD>LXXXVII.</HEAD>
+<L>And whon we to toune come,</L>
+<L>Þer as þe wey lay atwynne,</L>
+<L>Vche mon leue at oþer nome,</L>
+<L>And wenten hom to heore inne. <MILESTONE N="700"/></L>
+<L>Sore I sykede and ilome,</L>
+<L>Of wepyng miht I neu<HI REND="italic">er</HI> blynne,</L>
+<L>To speke w<HI REND="italic">iþ</HI> hym in no tome <NOTE PLACE="foot">v. 703 hym] ms. hem.</NOTE></L>
+<L>For serwe, þat myn herte was inne.</L>
+</LG>
+<LG N="88">
+<HEAD>LXXXVIII.</HEAD>
+<L>Þei ladde me to a chaumbre þQ, <MILESTONE N="705"/></L>
+<L>Þer my sone was woned to be,</L>
+<L>Jon and þe Maudeleyn also,</L>
+<L>For no þing nolde þei from me fle.</L>
+<L>I lokede aboute in eueri wro,</L>
+<L>I couþe nouȝwhere my sone se. <MILESTONE N="710"/></L>
+<L>We set vs dou<HI REND="italic">n</HI> in serwe and wo</L>
+<L>And gu<HI REND="italic">n</HI>ne to wepe alle þre.</L>
+</LG>
+<LG N="89">
+<HEAD>LXXXIX.</HEAD>
+<L>Þus, B<HI REND="italic">er</HI>nard, we weren in care,</L>
+<L>In serwe of herte &amp; gret mournyng,</L>
+<L>Til we wuste, hou hit wolde fare <MILESTONE N="715"/></L>
+<L>At my sones vprysyng.</L>
+<L>Nou haue I told þe, w<HI REND="italic">iþ</HI> oute spare,</L>
+<L>Alle his peynes, wiþ oute partyng.</L>
+<L>B<HI REND="italic">er</HI>nard, I was euer þare,</L>
+<L>To witen after his vprysyng. <MILESTONE N="720"/></L>
+</LG>
+<LG N="90">
+<PB N="114" REF="30"/>
+<HEAD>XC.</HEAD>
+<L>Grau<HI REND="italic">n</HI>t m<HI REND="italic">er</HI>ci, dame, god ȝelde hit þe,</L>
+<L>Wyf and maiden, moder milde,</L>
+<L>Þat þ<HI REND="italic">ou</HI> hast so muche itold me</L>
+<L>Of serwe of þe and of þi chylde.</L>
+<L>Now am I siker, wher þat I teo, <MILESTONE N="725"/></L>
+<L>In wode, in water, or in felde,</L>
+<L>To make þe foule fend to fleo,</L>
+<L>Þat euer was so wod and wylde.</L>
+</LG>
+<LG N="91">
+<HEAD>XCI.</HEAD>
+<L>Ladi, for þi muchele wo,</L>
+<L>Þ<HI REND="italic">at</HI> neu<HI REND="italic">er</HI>e no tonge may of telle, <MILESTONE N="730"/></L>
+<L>Þe serwe of þe and him also,</L>
+<L>Þat hi<HI REND="italic">m</HI> dude þe Jewes felle,</L>
+<L>And leeue vs neu<HI REND="italic">er</HI>e skape þ<HI REND="italic">er</HI> fro,</L>
+<L>But eu<HI REND="italic">er</HI> more in ioye to dwelle.</L>
+<L>Whon we schul dye and henne go,</L>
+<L>Schilde vs from þe pyne of helle! Am<HI REND="italic">en.</HI> <MILESTONE N="736"/></L>
+</LG>
+</DIV2>
+<DIV2 TYPE="version">
+<PB N="85" REF="1"/>
+<HEAD>B.</HEAD>
+<P>Lamentac<HI REND="italic">i</HI>o sancti Bernardi de com∣passione beate Marie virginis ex dul∣cissimi filii sui passione et eiusdem crudeli morte.</P>
+<LG N="1">
+<HEAD>I.</HEAD>
+<L>Lewid men arn not lerid in lore,</L>
+<L>As clerkis ben in holi writte,</L>
+<L>&amp; Þouh men preche hem euer<HI REND="italic">e</HI> more,</L>
+<L>It wile not wone in hir<HI REND="italic">e</HI> witte.</L>
+<L>For þis it is þat I sike sore <MILESTONE N="5"/></L>
+<L>For bretherhed, as god vs bitte,</L>
+<L>&amp; if Cristis wil it wore,</L>
+<L>Fayn I wolde amendin itte.</L>
+</LG>
+<LG N="2">
+<PB N="86" REF="2"/>
+<HEAD>II.</HEAD>
+<L>If Christ haue sent vs witt &amp; wille</L>
+<L>&amp; craft of clergye, for to preche, <MILESTONE N="10"/></L>
+<L>We schuld fayn his hestis fulfille,</L>
+<L>As ferfort has our<HI REND="italic">e</HI> wit wold areche.</L>
+<L>Ȝonge &amp; olde, hold ȝow stille:</L>
+<L>As bretherin alle I wile ȝow teche,</L>
+<L>For he þat can &amp; haþ no wille, <MILESTONE N="15"/></L>
+<L>He may sore dowte of Cristis wreche.</L>
+</LG>
+<LG N="3">
+<HEAD>III.</HEAD>
+<L>Þerfor I haue on Englisch wrouht,</L>
+<L>As Bernard seyth in his Latyn,</L>
+<L>He may be glad in al his þouht,</L>
+<L>Þ<HI REND="italic">at</HI> his besynes leyde þer in. <MILESTONE N="20"/></L>
+<L>Þ<HI REND="italic">e</HI> gospel wile forsake it nouht,</L>
+<L>For he it wrot in parchemyn;</L>
+<L>Seynt John his bok, if it be souht,</L>
+<L>Her of it wile ben witnesse myn.</L>
+</LG>
+<LG N="4">
+<HEAD>IV.</HEAD>
+<L>Þat while þ<HI REND="italic">at</HI> god on erthe ȝode, <MILESTONE N="25"/></L>
+<L>Alle his myraclis wretin wer<HI REND="italic">e:</HI></L>
+<L>Þ<HI REND="italic">er</HI> is no clerk, in boke may rede</L>
+<L>Þ<HI REND="italic">e</HI> goodnes þ<HI REND="italic">at</HI> he dide to vs her<HI REND="italic">e.</HI></L>
+<L>Men &amp; women, ȝe schul han mede,</L>
+<L>If ȝe me listne alle in fer<HI REND="italic">e,</HI> <MILESTONE N="30"/></L>
+<L>If I mys say, takiþ good hede,</L>
+<L>Wisse me to telle þ<HI REND="italic">e</HI> beste to ler<HI REND="italic">e.</HI></L>
+</LG>
+<LG N="5">
+<HEAD>V.</HEAD>
+<L>Fader, sone &amp; holi gost,</L>
+<L>Almyhti god in trenyte,</L>
+<L>Mi mone is to the modir most <MILESTONE N="35"/> <NOTE PLACE="foot">15 þat] om. ms. 21 þe] Danach w, unterpunktet. 27 Davor þat tyme þat god, unterpunktet.</NOTE></L>
+<L><PB N="87" REF="3"/>
+Ful of grace and of pite,</L>
+<L>Þouh I be synful, as þ<HI REND="italic">ou</HI> it wost,</L>
+<L>Swich g<HI REND="italic">ra</HI>ce, lord, þ<HI REND="italic">ou</HI> sende to me,</L>
+<L>Sum word to speke wiþ out bost,</L>
+<L>Þ<HI REND="italic">at</HI> sum man may þ<HI REND="italic">e</HI> beter<HI REND="italic">e</HI> be! <MILESTONE N="40"/></L>
+</LG>
+<LG N="6">
+<HEAD>VI.</HEAD>
+<L>It is gret dool to telle &amp; say</L>
+<L>Of god, þ<HI REND="italic">at</HI> deyde vpon þ<HI REND="italic">e</HI> rode,</L>
+<L>How he vpon þ<HI REND="italic">e</HI> good friday</L>
+<L>For vs alle schad his blode.</L>
+<L>Alle his disciplis fled away, <MILESTONE N="45"/></L>
+<L>But Marie &amp; John be him stode.</L>
+<L>Þer is no tunge, þ<HI REND="italic">at</HI> tellin may</L>
+<L>Þ<HI REND="italic">e</HI> goodnesse of his moder good.</L>
+</LG>
+<LG N="7">
+<HEAD>VII.</HEAD>
+<L>For sche him bar as god &amp; man</L>
+<L>And setthe clepid him Je<HI REND="italic">s</HI>u, <MILESTONE N="50"/></L>
+<L>Sche offerid him to Symean:</L>
+<L>Þ<HI REND="italic">at</HI> p<HI REND="italic">ro</HI>phete ful wel his lord knew;</L>
+<L>An au<HI REND="italic">n</HI>gil warnid our<HI REND="italic">e</HI> ladi þan</L>
+<L>Of king Herode, þ<HI REND="italic">at</HI> was vntrew,</L>
+<L>And bad hir<HI REND="italic">e</HI> vnto Egipt gan <MILESTONE N="55"/></L>
+<L>For drede of þ<HI REND="italic">at</HI> felou<HI REND="italic">n</HI> Jew. <NOTE PLACE="foot">v. 56 Jew] J aus r corr.</NOTE></L>
+</LG>
+<LG N="8">
+<HEAD>VIII.</HEAD>
+<L>Euer<HI REND="italic">e</HI> was Marye wel anow,</L>
+<L>Whan sche hir<HI REND="italic">e</HI> swete sone seye:</L>
+<L>Whedir þ<HI REND="italic">at</HI> euer<HI REND="italic">e</HI> Je<HI REND="italic">s</HI>u drow,</L>
+<L>He was neuer<HI REND="italic">e</HI> out of hir<HI REND="italic">e</HI> eye. <MILESTONE N="60"/></L>
+<L>Setthe þ<HI REND="italic">e</HI> Jewis dide him gret wow,</L>
+<L>Harde peynys sche saw him drye.</L>
+<L><PB N="88" REF="4"/>
+His hand naylid vpon a bow,</L>
+<L>&amp; on þ<HI REND="italic">e</HI> cros þei heng him heye.</L>
+</LG>
+<LG N="9">
+<HEAD>IX.</HEAD>
+<L>Þow sche wer<HI REND="italic">e</HI> wo, no wu<HI REND="italic">n</HI>der was, <MILESTONE N="65"/></L>
+<L>Sche saw him blodi bodi &amp; crowne,</L>
+<L>Hir<HI REND="italic">e</HI> sone, þ<HI REND="italic">at</HI> was so gilteles,</L>
+<L>Stremyd of blod, þ<HI REND="italic">at</HI> ran riht downe.</L>
+<L>To seen his peynys þer was pres,</L>
+<L>Women him folewid þorw þ<HI REND="italic">e</HI> towne, <MILESTONE N="70"/></L>
+<L>Sore weping wiþ oute les,</L>
+<L>&amp; made dole for his passiowne.</L>
+</LG>
+<LG N="10">
+<HEAD>X.</HEAD>
+<L>Je<HI REND="italic">s</HI>u him turnid ful mylde &amp; meke</L>
+<L>And seyde a word of gret pite,</L>
+<L>To þ<HI REND="italic">e</HI> women he dide speke <MILESTONE N="75"/></L>
+<L>And seyde: Wepit not for me, fol. 22</L>
+<L>But wepiþ for ȝow &amp; your<HI REND="italic">e</HI> childer eke,</L>
+<L>Þei don me sorow, as ȝe may se:</L>
+<L>No wu<HI REND="italic">n</HI>der, if Maries herte myhte breke,</L>
+<L>Þ<HI REND="italic">at</HI> saw hir<HI REND="italic">e</HI> sone so betin be. <MILESTONE N="80"/></L>
+</LG>
+<LG N="11">
+<HEAD>XI.</HEAD>
+<L>Whan he was betin &amp; scorgid sore,</L>
+<L>His frendis fled fro him good wone.</L>
+<L>III dayes our<HI REND="italic">e</HI> feyth was ilore,</L>
+<L>Saf in þ<HI REND="italic">e</HI> thef &amp; Marye alone.</L>
+<L>Seynt Bernard witnessiþ it before <MILESTONE N="85"/></L>
+<L>And so doth hir<HI REND="italic">e</HI> cosyn John;</L>
+<L>For sorwe þ<HI REND="italic">at</HI> sche had thore,</L>
+<L>Out of hir<HI REND="italic">e</HI> eyen þ<HI REND="italic">e</HI> blod gan gone.</L>
+</LG>
+<LG N="12">
+<PB N="89" REF="5"/>
+<HEAD>XII.</HEAD>
+<L>Þ<HI REND="italic">e</HI> blod out of hir<HI REND="italic">e</HI> eyen ran,</L>
+<L>Al most hir<HI REND="italic">e</HI> herte clef in two; <MILESTONE N="90"/></L>
+<L>Seynt Bernard, þ<HI REND="italic">e</HI> holi man,</L>
+<L>Witnessiþ wel, þat it was so.</L>
+<L>In to a temple he wente þan,</L>
+<L>To witen of þat ladyes wo,</L>
+<L>&amp; sche him fayr<HI REND="italic">e</HI> freyne gan, <MILESTONE N="95"/></L>
+<L>To witen, what his wil was þ<HI REND="italic">o.</HI></L>
+</LG>
+<LG N="13">
+<HEAD>XIII.</HEAD>
+<L>He seyde: »Ladi, if it be þ<HI REND="italic">i</HI> wille,</L>
+<L>Telle me, as þ<HI REND="italic">ou</HI> art heuene quene,</L>
+<L>If þ<HI REND="italic">ou</HI> wepte þin herte fille,</L>
+<L>Whan men dide þ<HI REND="italic">i</HI> sone þ<HI REND="italic">at</HI> tene, <MILESTONE N="100"/></L>
+<L>Bou<HI REND="italic">n</HI>din him &amp; betin him ille</L>
+<L>&amp; crownid him wiþ thornis kene?</L>
+<L>He bar him euer<HI REND="italic">e</HI> mylde &amp; stille,</L>
+<L>As non harm on him had bene.</L>
+</LG>
+<LG N="14">
+<HEAD>XIV.</HEAD>
+<L>Swete ladi, wer<HI REND="italic">e</HI> þ<HI REND="italic">ou</HI> ther<HI REND="italic">e</HI> tho, <MILESTONE N="105"/></L>
+<L>Whan men him betin &amp; bou<HI REND="italic">n</HI>den faste?</L>
+<L>I hope, þ<HI REND="italic">ou</HI> wer<HI REND="italic">e</HI> not fer him fro,</L>
+<L>Þin herte is so stif &amp; stedfaste.</L>
+<L>Allas, allas! whi dide þei so?</L>
+<L>Whi is myn herte so vnwraste, <MILESTONE N="110"/></L>
+<L>Þ<HI REND="italic">at</HI> it ne wile cleue in two</L>
+<L>Or wepe, whil my lyf may laste?</L>
+</LG>
+<LG N="15">
+<PB N="90" REF="6"/>
+<HEAD>XV.</HEAD>
+<L>Ladi, I am in greet longing,</L>
+<L>To seen þ<HI REND="italic">at</HI> sihte, þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> ther<HI REND="italic">e</HI> seye,</L>
+<L>Whan þ<HI REND="italic">ou</HI> gan þin handis wring, <MILESTONE N="115"/></L>
+<L>Þ<HI REND="italic">e</HI> teris ran dou<HI REND="italic">n</HI> be þin eye;</L>
+<L>Þ<HI REND="italic">ou</HI> saw þ<HI REND="italic">i</HI> sone wiþ naylis sting</L>
+<L>&amp; on a tre þei heng him heye.</L>
+<L>Whi ne wer<HI REND="italic">e</HI> myn herte in Þ<HI REND="italic">i</HI> mo<HI REND="italic">ur</HI>nyng,</L>
+<L>Whan þ<HI REND="italic">ou</HI> him saw swich peyne drye? <MILESTONE N="120"/></L>
+</LG>
+<LG N="16">
+<HEAD>XVI.</HEAD>
+<L>Allas, for sorwe þin herte myhte kyne,</L>
+<L>Whan þ<HI REND="italic">ou</HI> saw þin owne fode,</L>
+<L>Goddis sone, his heuid dou<HI REND="italic">n</HI> clyne,</L>
+<L>Þer as he heng vpon þ<HI REND="italic">e</HI> rode!</L>
+<L>Þouh he wer<HI REND="italic">e</HI> god, þ<HI REND="italic">e</HI> flesch was thyne, <MILESTONE N="125"/></L>
+<L>Þat swete bodi, þat ran on blode.</L>
+<L>Allas, whi ne wer<HI REND="italic">e</HI> þ<HI REND="italic">at</HI> sorwe myne</L>
+<L>Or I had stonde, þer þat þ<HI REND="italic">ou</HI> stode? <NOTE PLACE="foot">v. 121-128] im ms. hinter v. 144.</NOTE></L>
+</LG>
+<LG N="17">
+<HEAD>XVII.</HEAD>
+<L>Whan þ<HI REND="italic">at</HI> he his lyf forsoke,</L>
+<L>He bowid his heuid &amp; lost his sihte; <MILESTONE N="130"/></L>
+<L>His leue he nam, his wey he toke</L>
+<L>Vp to his fader ful of myht;</L>
+<L>As beriþ witnesse þ<HI REND="italic">e</HI> holi boke:</L>
+<L>Þ<HI REND="italic">at</HI> day þ<HI REND="italic">e</HI> sunne lost his sihte;</L>
+<L>Þ<HI REND="italic">e</HI> temple claf, þ<HI REND="italic">e</HI> erthe quoke, <MILESTONE N="135"/></L>
+<L>Þ<HI REND="italic">e</HI> dede men arisen, þ<HI REND="italic">e</HI> soth to plyhte. <NOTE PLACE="foot">v. 129-136] im ms. durch ein versehen des abschreibers hinter v. 120 gestellt.</NOTE></L>
+</LG>
+<LG N="18">
+<HEAD>XVIII.</HEAD>
+<L>Ladi, þ<HI REND="italic">i</HI> loue is naturel,</L>
+<L>&amp; my loue is swiþ<HI REND="italic">e</HI> lite,</L>
+<L><PB N="91" REF="7"/>
+Be þ<HI REND="italic">i</HI> weping it semiþ wel:</L>
+<L>No clerk þ<HI REND="italic">i</HI> sorwe ne may write. <MILESTONE N="140"/></L>
+<L>Allas, whi no had I loue sumdel,</L>
+<L>Þ<HI REND="italic">at</HI> to myn herte it myhte smyte?</L>
+<L>Þat is harder<HI REND="italic">e</HI> þan any stel,</L>
+<L>May no bale þ<HI REND="italic">er</HI>in bite.</L>
+</LG>
+<LG N="19">
+<HEAD>XIX.</HEAD>
+<L>Swete ladi, take not to greef, <MILESTONE N="145"/></L>
+<L>If I speke of his peynys mo!</L>
+<L>To speken of him it wer<HI REND="italic">e</HI> me leef,</L>
+<L>For I wile not his loue forgo.</L>
+<L>I se him hangin as a theef,</L>
+<L>Goddis sone and þin also: <MILESTONE N="150"/></L>
+<L>Ladi, þ<HI REND="italic">e</HI> teris, þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> þer ȝef,</L>
+<L>Grau<HI REND="italic">n</HI>te me su<HI REND="italic">m</HI>me to han of tho!</L>
+</LG>
+<LG N="20">
+<HEAD>XX.</HEAD>
+<L>Ladi, queen ful of blisse,</L>
+<L>As I am her<HI REND="italic">e</HI> in gret perile,</L>
+<L>Swete ladi, þ<HI REND="italic">ou</HI> me wisse, <MILESTONE N="155"/></L>
+<L>Þouh I be synful man &amp; vile,</L>
+<L>As þ<HI REND="italic">ou</HI> art mayden &amp; moder iwis:</L>
+<L>What dide my lord in þ<HI REND="italic">at</HI> exile?</L>
+<L>Whan he was pynid wiþ þ<HI REND="italic">e</HI> Jewis,</L>
+<L>Whiche wer<HI REND="italic">e</HI> his werkis in þ<HI REND="italic">at</HI> while? <MILESTONE N="160"/></L>
+</LG>
+<LG N="21">
+<HEAD>XXI.</HEAD>
+<L>Bernard, þ<HI REND="italic">e</HI> wordis of þ<HI REND="italic">i</HI> mouþ<HI REND="italic">e</HI></L>
+<L>To myn herte han schotin a sper<HI REND="italic">e,</HI></L>
+<L>His was al as mannys ȝouþ<HI REND="italic">e</HI>(!),</L>
+<L>Iwis, it doth myn herte der<HI REND="italic">e</HI>!</L>
+<L>But weping is me not vnkouþ<HI REND="italic">e,</HI> <MILESTONE N="165"/></L>
+<L><PB N="92" REF="8"/>
+If þ<HI REND="italic">ou</HI> wile of peynys ler<HI REND="italic">e;</HI></L>
+<L>Setthe of weping þ<HI REND="italic">ou</HI> askist nouþ<HI REND="italic">e,</HI></L>
+<L>I schal the tellin wiþ swete answer<HI REND="italic">e</HI>!</L>
+</LG>
+<LG N="22">
+<HEAD>XXII.</HEAD>
+<L>If I to the of peynys speke,</L>
+<L>My riht wer<HI REND="italic">e,</HI> to wepin sore, <MILESTONE N="170"/></L>
+<L>Myn herte is hard &amp; may not breke,</L>
+<L>It is no þing, it wile meltin fore.</L>
+<L>I wolde, it wer<HI REND="italic">e</HI> in a stede to steke,</L>
+<L>Wiþ eye to wepe for euer<HI REND="italic">e</HI> more;</L>
+<L>May no ter<HI REND="italic">e</HI> fro myn eye reke, <MILESTONE N="175"/></L>
+<L>To wepin, as my wil it wore.</L>
+</LG>
+<LG N="23">
+<HEAD>XXIII.</HEAD>
+<L>Qvod Bernard: Queen of heuene &amp; helle,</L>
+<L>Þ<HI REND="italic">ou</HI> bar him, þat vs der<HI REND="italic">e</HI> bouhte:</L>
+<L>How so it be, þ<HI REND="italic">ou</HI> must me telle</L>
+<L>Of þing, þ<HI REND="italic">at</HI> I haue the besouhte: <MILESTONE N="180"/></L>
+<L>Wher<HI REND="italic">e</HI> wer<HI REND="italic">e</HI> þ<HI REND="italic">ou,</HI> whan men wold him quelle</L>
+<L>—In Jer<HI REND="italic">usa</HI>l<HI REND="italic">e</HI>m, þ<HI REND="italic">e</HI> fayr<HI REND="italic">e</HI> cite, it was wrouhte—</L>
+<L>And takin wiþ þ<HI REND="italic">e</HI> Jewis felle,</L>
+<L>&amp; setthe be nyhte beforn Cayphas brouhte?</L>
+</LG>
+<LG N="24">
+<HEAD>XXIV.</HEAD>
+<L>Our<HI REND="italic">e</HI> ladi seyde: I was ther<HI REND="italic">e</HI> tho; <MILESTONE N="185"/></L>
+<L>Ful sore I wepte &amp; wrong myn hond.</L>
+<L>Whan þ<HI REND="italic">e</HI> Jewis led him me fro,</L>
+<L>To wepin sore I myhte not wond.</L>
+<L><PB N="93" REF="9"/>
+It was no wunder, if me wer<HI REND="italic">e</HI> wo,</L>
+<L>But wu<HI REND="italic">n</HI>der it is, þ<HI REND="italic">at</HI> I myhte stonde, <MILESTONE N="190"/></L>
+<L>Whan I saw him to peynis go</L>
+<L>&amp; bou<HI REND="italic">n</HI>den &amp; betin &amp; don al schonde.</L>
+</LG>
+<LG N="25">
+<HEAD>XXV.</HEAD>
+<L>On Scherthursday wiþin þ<HI REND="italic">e</HI> nyht</L>
+<L>Þ<HI REND="italic">e</HI> Jewis toke him alle in same;</L>
+<L>Þei souht him wiþ lanternis briht <MILESTONE N="195"/></L>
+<L>&amp; callid him Je<HI REND="italic">s</HI>u be his name.</L>
+<L>Mi sone answerid hem in hir<HI REND="italic">e</HI> siht:</L>
+<L>Do these men for me no blame!</L>
+<L>For al þ<HI REND="italic">e</HI> peyne, þ<HI REND="italic">at</HI> þei him diht,</L>
+<L>He wold, his disciplis had no schame. <MILESTONE N="200"/></L>
+</LG>
+<LG N="26">
+<HEAD>XXVI.</HEAD>
+<L>For þ<HI REND="italic">e</HI> encheson of his taking</L>
+<L>He wolde, þ<HI REND="italic">at</HI> non þ<HI REND="italic">e</HI> werse wer<HI REND="italic">e;</HI></L>
+<L>He schewid þ<HI REND="italic">at</HI> in al maner þing</L>
+<L>Thanne ther<HI REND="italic">e</HI> &amp; elliswher<HI REND="italic">e.</HI></L>
+<L>Petir stod vnto fihting <MILESTONE N="205"/></L>
+<L>&amp; smot of a mannys er<HI REND="italic">e,</HI></L>
+<L>But he leet be at his seyeng,</L>
+<L>And as sone he helid it ther<HI REND="italic">e.</HI></L>
+</LG>
+<LG N="27">
+<HEAD>XXVII.</HEAD>
+<L>Judas, þ<HI REND="italic">at</HI> was ful of þ<HI REND="italic">e</HI> fend,</L>
+<L>Ȝet my sone his tresou<HI REND="italic">n</HI> wiste <MILESTONE N="210"/></L>
+<L>&amp; callid him ȝet his der<HI REND="italic">e</HI> frend,</L>
+<L>And myldeli he him kiste.</L>
+<L>Þ<HI REND="italic">e</HI> Jewis harm had neuer<HI REND="italic">e</HI> non ende,</L>
+<L>My der<HI REND="italic">e</HI> sone tobetin and biste;</L>
+<L>Wiþ wepenys aboute him þei gan wende <MILESTONE N="215"/></L>
+<L>&amp; bete him wiþ stanys &amp; wiþ fiste.</L>
+</LG>
+<LG N="28">
+<PB N="94" REF="10"/>
+<HEAD>XXVIII.</HEAD>
+<L>Seyde Bernard: Ladi, I prey the,</L>
+<L>Ȝet telle me mor of myn asking:</L>
+<L>Thi swete sone, what dide he?</L>
+<L>Whi stod he not wiþ no fihting? <MILESTONE N="220"/></L>
+<L>Be rihtful skile men may se,</L>
+<L>He myhte hem alle to deth bring!</L>
+<L>Swete ladi, now telle it me,</L>
+<L>Al his semblau<HI REND="italic">n</HI>t &amp; his bering.</L>
+</LG>
+<LG N="29">
+<HEAD>XXIX.</HEAD>
+<L>A Bernard, &amp; I teris had, <MILESTONE N="225"/></L>
+<L>Now myhte I wepe al my fille;</L>
+<L>Of sorwe am I neuer<HI REND="italic">e</HI> sad, <NOTE PLACE="foot">v. 227 neuer<HI REND="italic">e</HI>] n corr. aus h.</NOTE></L>
+<L>Whan I þinke on his peynys ille.</L>
+<L>But how he was fro me lad,</L>
+<L>I haue the told &amp; ȝet I wille; <MILESTONE N="230"/></L>
+<L>I was in greet sorwe bestad,</L>
+<L>But euer<HI REND="italic">e</HI> I folewid crieng schille.</L>
+</LG>
+<LG N="30">
+<HEAD>XXX.</HEAD>
+<L>Þei hid his eyen &amp; buffet him tho</L>
+<L>&amp; bad him rede, what þ<HI REND="italic">at</HI> he wore,</L>
+<L>And other<HI REND="italic">e</HI> peynys dide him mo, <MILESTONE N="235"/></L>
+<L>Ne may no tunge tellin more.</L>
+<L>Beside þer stod my susteris two,</L>
+<L>Þ<HI REND="italic">at</HI> had louid him longe before,</L>
+<L>And Marie Magdaleyn also,</L>
+<L>Þ<HI REND="italic">at</HI> truli louid him &amp; his lore. <MILESTONE N="240"/></L>
+</LG>
+<LG N="31">
+<HEAD>XXXI.</HEAD>
+<L>Hir<HI REND="italic">e</HI> loue was euer<HI REND="italic">e</HI> stedfast &amp; trewe,</L>
+<L>And I him louid ful tendirli,</L>
+<L>For strong is loue of frendis newe,</L>
+<L>&amp; of þ<HI REND="italic">e</HI> moder grettest namly.</L>
+<L><PB N="95" REF="11"/>
+I saw him neuer<HI REND="italic">e</HI> chau<HI REND="italic">n</HI>gin hewe, <MILESTONE N="245"/></L>
+<L>But as a lomb wiþ outen cry.</L>
+<L>Alle wer<HI REND="italic">e</HI> sory, þ<HI REND="italic">at</HI> him knewe,</L>
+<L>Riche &amp; pore &amp; alle him bi.</L>
+</LG>
+<LG N="32">
+<HEAD>XXXII.</HEAD>
+<L>Fro Cayphas paleys þei him drow</L>
+<L>Riht to Pilate, him to spille. <MILESTONE N="250"/></L>
+<L>þei tok non hede, þei dide him wow, <NOTE PLACE="foot">v. 251 wow] durchstrichen, von jüngerer hand sorow hingeschrieben, mit blässerer tinte.</NOTE></L>
+<L>þei ȝede wiþ him wiþ good wille.</L>
+<L>Euer<HI REND="italic">e</HI> was Je<HI REND="italic">s</HI>u meke inow,</L>
+<L>He suffrid hem &amp; held him stille.</L>
+<L>Pilate wold not, þ<HI REND="italic">at</HI> men him slow, <MILESTONE N="255"/></L>
+<L>For in his dedis he fond non ille.</L>
+</LG>
+<LG N="33">
+<HEAD>XXXIII.</HEAD>
+<L>þei stripid him nakid on a stou<HI REND="italic">n</HI>de</L>
+<L>&amp; bou<HI REND="italic">n</HI>de him to a piler<HI REND="italic">e</HI> all day, <NOTE PLACE="foot">258 all] MS. at, von jüng. hand in all verw. Im ms. folgen die beiden verse 269 und 270 erst auf v. 272.</NOTE></L>
+<L>Bete him, whil þei warm him fou<HI REND="italic">n</HI>de;</L>
+<L>þan was my song: Weleaway! <MILESTONE N="260"/></L>
+<L>Fyue þousand &amp; IIII hu<HI REND="italic">n</HI>derid wou<HI REND="italic">n</HI>de</L>
+<L>On him þei mad, for soth to say;</L>
+<L>On skorn þei seyde &amp; fil to grou<HI REND="italic">n</HI>de:</L>
+<L>þ<HI REND="italic">at</HI> p<HI REND="italic">ro</HI>phecye nouht helpin the may!</L>
+</LG>
+<LG N="34">
+<HEAD>XXXIV.</HEAD>
+<L>Mi der<HI REND="italic">e</HI> frend, gret was my car<HI REND="italic">e,</HI> <MILESTONE N="265"/></L>
+<L>Whan þei cride alle þan:</L>
+<L>Ȝeue him dom, þ<HI REND="italic">e</HI> cros is ȝar<HI REND="italic">e,</HI></L>
+<L>&amp; delyuer<HI REND="italic">e</HI> vs Barraban!</L>
+<L><PB N="96" REF="12"/>
+Goddis sone to deme thar<HI REND="italic">e</HI></L>
+<L>For a thef, þat þei wold han, <MILESTONE N="270"/></L>
+<L>Bernard, here was sori far<HI REND="italic">e,</HI></L>
+<L>Swich a dom had neuer<HI REND="italic">e</HI> man.</L>
+</LG>
+<LG N="36">
+<HEAD>XXXVI.</HEAD>
+<L>Þus þ<HI REND="italic">e</HI> Jewis sterne &amp; stoute,</L>
+<L>Mi sone þei held in hard bonde.</L>
+<L>Pilate had of hem mor doute, <MILESTONE N="275"/></L>
+<L>Þan he had of goddis sonde,</L>
+<L>For he led him þer wiþ out <NOTE PLACE="foot">v. 277 Hinter For rasur.</NOTE></L>
+<L>&amp; dampnid him to þ<HI REND="italic">e</HI> Jewis honde.</L>
+<L>Þ<HI REND="italic">e</HI> Jewis tuggid him al aboute,</L>
+<L>And I for sorwe myhte not stonde <MILESTONE N="280"/></L>
+</LG>
+<LG N="37">
+<HEAD>XXXVII.</HEAD>
+<L>Whan he was dampnid &amp; out sent,</L>
+<L>Alle þei dide him greet despite.</L>
+<L>He tok þ<HI REND="italic">e</HI> cros &amp; forþ he wente,</L>
+<L>Þei skornid him, mekil &amp; lite.</L>
+<L>Allas þ<HI REND="italic">at</HI> lomb, þ<HI REND="italic">at</HI> innocent, <MILESTONE N="285"/></L>
+<L>Þ<HI REND="italic">o</HI> wuluys wilde him so sore bite:</L>
+<L>Þ<HI REND="italic">at</HI> sorwe is in myn herte so bent,</L>
+<L>Mi car<HI REND="italic">e</HI> I may hem alle wite.</L>
+</LG>
+<LG N="38">
+<HEAD>XXXVIII.</HEAD>
+<L>Þei mad game &amp; gret lawhing,</L>
+<L>Whan þei betin him althermest; <MILESTONE N="290"/></L>
+<L>Þei bad him seye, if he wer<HI REND="italic">e</HI> king,</L>
+<L>Þei wolde don þan alle at his hest.</L>
+<L>Mi sone answerid hem no þing,</L>
+<L>Þouh his peyne wer<HI REND="italic">e</HI> wiþ þ<HI REND="italic">e</HI> mest,</L>
+<L>But bar þ<HI REND="italic">e</HI> cros til his parting <MILESTONE N="295"/></L>
+<L>Mekeli, as it wer<HI REND="italic">e</HI> a beste.</L>
+</LG>
+<LG N="39">
+<PB N="97" REF="13"/>
+<HEAD>XXXIX.</HEAD>
+<L>I folewid &amp; swownid many a sithe,</L>
+<L>My susteris ȝedin aboute me;</L>
+<L>I callid to hem, as I myht kithe,</L>
+<L>Whan I for pres myhte him ouht se: <MILESTONE N="300"/></L>
+<L>Sone, I seyde, þ<HI REND="italic">ou</HI> hiest þe swithe</L>
+<L>&amp; berist on þ<HI REND="italic">i</HI> bak so heuy a tre,</L>
+<L>And leuist þ<HI REND="italic">i</HI> moder behinde vnblithe!</L>
+<L>Bernard, þan gamyd me no gle!</L>
+</LG>
+<LG N="40">
+<HEAD>XXXX.</HEAD>
+<L>Merci, q<HI REND="italic">uo</HI>d Bernard, heuene queen, <MILESTONE N="305"/></L>
+<L>Þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> so mekil hast me told!</L>
+<L>Ȝet þer is moche mor, I wene,</L>
+<L>Of þingis, þ<HI REND="italic">at</HI> I witen wold:</L>
+<L>How bar my lord him, ladi schene,</L>
+<L>Among þ<HI REND="italic">e</HI> Jewis stout &amp; bold? <MILESTONE N="310"/></L>
+<L>Ladi, þ<HI REND="italic">i</HI> tellingis alle bedene,</L>
+<L>But I hem wite, my car<HI REND="italic">e</HI> is cold!</L>
+</LG>
+<LG N="41">
+<HEAD>XLI.</HEAD>
+<L>Of þe, ladi, &amp; of þ<HI REND="italic">i</HI> child</L>
+<L>I wold wite an ende of strif,</L>
+<L>If my lord wer<HI REND="italic">e</HI> meke &amp; mylde <MILESTONE N="315"/></L>
+<L>Vnto þ<HI REND="italic">e</HI> ende of al his lyf?</L>
+<L>I haue seen manye in wateris wilde,</L>
+<L>In stremys &amp; wawis stoute &amp; blyf,</L>
+<L>But atte laste þei wold hem schilde</L>
+<L>&amp; wiþ al hir<HI REND="italic">e</HI> myht sauen hir<HI REND="italic">e</HI> lyf. <MILESTONE N="320"/></L>
+</LG>
+<LG N="42">
+<HEAD>XLII.</HEAD>
+<L>I haue seen fele, þ<HI REND="italic">at</HI> wolde loute</L>
+<L>Riht vnto þ<HI REND="italic">e</HI> erthe þ<HI REND="italic">at</HI> þei sye,</L>
+<L>For drede to deye þan had þei doute,</L>
+<L>Hire hertis resin þan on hye.</L>
+<L><PB N="98" REF="14"/>
+Whan þ<HI REND="italic">e</HI> Jewis com him aboute, <MILESTONE N="325"/></L>
+<L>How myhte he alle hir<HI REND="italic">e</HI> wordis drye,</L>
+<L>In his face to spitte and to spoute,</L>
+<L>How myhte he suffer<HI REND="italic">e</HI> þ<HI REND="italic">at</HI> vilanye?</L>
+</LG>
+<LG N="43">
+<HEAD>XLIII.</HEAD>
+<L>BEernard, broþir, his herte was stif</L>
+<L>Mekeli he sufferid al hir<HI REND="italic">e</HI> far<HI REND="italic">e;</HI> <MILESTONE N="330"/></L>
+<L>For manye soulis was him leef,</L>
+<L>He wolde, his blod bouhte hem alle thar<HI REND="italic">e.</HI></L>
+<L>I saw him hangin as a thef,</L>
+<L>He saw, I stod in mekil kar<HI REND="italic">e,</HI></L>
+<L>Ȝet dide my weping him mor gref, <MILESTONE N="335"/></L>
+<L>Þan alle þ<HI REND="italic">e</HI> peynes, þ<HI REND="italic">at</HI> he bar<HI REND="italic">e.</HI></L>
+</LG>
+<LG N="44">
+<HEAD>XLIV.</HEAD>
+<L>And þ<HI REND="italic">at</HI> þing was wel sene,</L>
+<L>Whan he delyuerid me to seynt John:</L>
+<L>Meke he was, wiþ outen wene,</L>
+<L>Þ<HI REND="italic">at</HI> tyme he lokid me vpon. <MILESTONE N="340"/></L>
+<L>Þan wex he boþe ȝelow &amp; grene,</L>
+<L>Of anguys now I make my mone.</L>
+<L>I wile the telle al bedene</L>
+<L>His harde peynes euerilkone.</L>
+</LG>
+<LG N="45">
+<HEAD>XLV.</HEAD>
+<L>Herkin to me, broþir Bernard, <MILESTONE N="345"/></L>
+<L>I wile the tellin of peyne ȝet mor,</L>
+<L>Þin herte schal ben swiþ<HI REND="italic">e</HI> hard,</L>
+<L>But if it greue the ful sore.</L>
+<L>Þouh I a parti haue it spard <NOTE PLACE="foot">v. 349 spard] ms. sparid.</NOTE></L>
+<L>Of my peynes her<HI REND="italic">e</HI> before, <MILESTONE N="350"/></L>
+<L>I schal the tellin her<HI REND="italic">e</HI> afterward</L>
+<L>A þousand part þ<HI REND="italic">at</HI> harder<HI REND="italic">e</HI> wore.</L>
+</LG>
+<LG N="46">
+<PB N="99" REF="15"/>
+<HEAD>XLVI.</HEAD>
+<L>Bernard, I saw my sone þer hong,</L>
+<L>As it had ben a mayster thef,</L>
+<L>Wiþ sidis blo &amp; sore beswong, <MILESTONE N="355"/></L>
+<L>Þ<HI REND="italic">at</HI> white wer<HI REND="italic">e</HI> and me ful leef.</L>
+<L>Þei crownid him wiþ thornis strong,</L>
+<L>On eueri side þei dide him greef,</L>
+<L>Þei drow him on þ<HI REND="italic">e</HI> cros al along,</L>
+<L>His senewis þei borstin, so þei dref. <MILESTONE N="360"/></L>
+</LG>
+<LG N="47">
+<HEAD>XLVII.</HEAD>
+<L>Þ<HI REND="italic">e</HI> blod ran dou<HI REND="italic">n</HI> fro his heuid,</L>
+<L>Þ<HI REND="italic">at</HI> likid þ<HI REND="italic">e</HI> cursid Jewis ful wel.</L>
+<L>Wiþ spotil &amp; blod he was al beweuid,</L>
+<L>Þ<HI REND="italic">at</HI> he was lyk a foul mesel.</L>
+<L>He was so drawin &amp; todreuid, <MILESTONE N="365"/></L>
+<L>Naylid wiþ III naylis of stel.</L>
+<L>Þan was my ioye me bereuid,</L>
+<L>Þ<HI REND="italic">at</HI> sihte grovid(!) my fol euel.<NOTE PLACE="foot">v. 368 grovid—fol] von jüngerer hand und schwächerer tinte übergeschr. was my dethis auf d. z. ausgestr.</NOTE></L>
+</LG>
+<LG N="48">
+<HEAD>XLVIII.</HEAD>
+<L>Allas, þin heuid þei al torace,</L>
+<L>Þ<HI REND="italic">at</HI> was wonid lye to my brest: <MILESTONE N="370"/></L>
+<L>I saw it honge &amp; had no space,</L>
+<L>Wher on it myhte ouht han reste. <NOTE PLACE="foot">v. 372 ouht] von jüngerer hand durchgestr.</NOTE></L>
+<L>To come to him had I no grace,</L>
+<L>Þ<HI REND="italic">at</HI> was wonid ben to him alþ<HI REND="italic">er</HI> neste;</L>
+<L>Þei heng him at an hey space, <MILESTONE N="375"/></L>
+<L>Ther<HI REND="italic">e</HI> as ȝede boþ<HI REND="italic">e</HI> man &amp; beste.</L>
+</LG>
+<LG N="49">
+<HEAD>XLIX.</HEAD>
+<L>So fayr a man was neuer<HI REND="italic">e</HI> non,</L>
+<L>As beriþ witnes holi writte.</L>
+<L>Þer was his fayrhed þan al gon,</L>
+<L><PB N="100" REF="16"/>
+As þ<HI REND="italic">e</HI> apostelis tellin itte. <MILESTONE N="380"/></L>
+<L>I had a sone, þan had I non,</L>
+<L>Me wantid boþ<HI REND="italic">e</HI> wele &amp; witte,</L>
+<L>Bernard, I ne wiste, whedir to gon,</L>
+<L>Sorwe was in myn herte so knytte.</L>
+</LG>
+<LG N="50">
+<HEAD>L.</HEAD>
+<L>But had þei hongid me him bi, <MILESTONE N="385"/> <NOTE PLACE="foot">v. 385 þei] om. ms. 393 my] ü. d. z. nachgetr.</NOTE></L>
+<L>Mi sorwe had ben in schorter<HI REND="italic">e</HI> spas;</L>
+<L>I stod &amp; lokid vp on hi,</L>
+<L>Wher heng my ioye &amp; my solas.</L>
+<L>Þ<HI REND="italic">e</HI> Jewis saw me þan sori,</L>
+<L>Þei bad me leue wiþ sori gras; <MILESTONE N="390"/></L>
+<L>But euer<HI REND="italic">e</HI> I was him ful ny,</L>
+<L>For al my car<HI REND="italic">e</HI> I folewid his tras.</L>
+</LG>
+<LG N="51">
+<HEAD>LI.</HEAD>
+<L>And often I cride on my maner<HI REND="italic">e,</HI></L>
+<L>But þer was I noþing herd; <NOTE PLACE="foot">v. 394. Fol. 25<SUP>a</SUP> Membran Bl.</NOTE></L>
+<L>&amp; whan I cride, he wold not her<HI REND="italic">e,</HI> <MILESTONE N="395"/> <NOTE PLACE="foot">v. 395 he] ms. þei, was keinen sinn giebt.</NOTE></L>
+<L>My pyne witnessiþ lewid &amp; lerd;<NOTE PLACE="foot">v. 396 lerd ms. lerid.</NOTE></L>
+<L>I seyde: Merci, my sone so der<HI REND="italic">e,</HI></L>
+<L>Alone þ<HI REND="italic">ou</HI> leuist me in deserd.</L>
+<L>Wol febil I was weping in fer<HI REND="italic">e,</HI></L>
+<L>And of hir<HI REND="italic">e</HI> vilenye aferd. <MILESTONE N="400"/> <NOTE PLACE="foot">v. 399 und 400 im ms. hinter</NOTE></L>
+</LG>
+<LG N="52">
+<HEAD>LII.</HEAD>
+<L>Allas, Bernard, þ<HI REND="italic">at</HI> I schuld se</L>
+<L>My sone naylid þorw hand &amp; fete!</L>
+<L>I cride: Sone! lete me deyen wiþ the!</L>
+<L>Longe or he his lyf forlete.</L>
+<L>Mi sone, my lord, myn herte gle, <MILESTONE N="405"/></L>
+<L>Þ<HI REND="italic">ou</HI> hast ben boþ<HI REND="italic">e</HI> mylde &amp; swete,</L>
+<L><PB N="101" REF="17"/>
+But þ<HI REND="italic">ou</HI> haue mercy now on me,</L>
+<L>Who myht ellis my bale bete?</L>
+</LG>
+<LG N="53">
+<HEAD>LIII.</HEAD>
+<L>Sone, þ<HI REND="italic">ou</HI> hast ben fayr &amp; hende,</L>
+<L>&amp; bletheli don al þat I bad; <MILESTONE N="410"/></L>
+<L>If þ<HI REND="italic">ou</HI> leue me at swich an ende,</L>
+<L>Of sorwe schal I neuer<HI REND="italic">e</HI> ben sad. <NOTE PLACE="foot">v. 412 n corr. aus h.</NOTE></L>
+<L>Ful loth is deth, þer he wile lende,</L>
+<L>But now wold I of him ben glad;</L>
+<L>He ne may so sone his sper<HI REND="italic">e</HI> sende, <MILESTONE N="415"/></L>
+<L>Þ<HI REND="italic">at</HI> soner I wolde þ<HI REND="italic">er</HI> of ben stad!</L>
+</LG>
+<LG N="54">
+<HEAD>LIV.</HEAD>
+<L>I cride: Magdaleyn, helpe now,</L>
+<L>—Mi sone haþ euer<HI REND="italic">e</HI> ȝet louid the— <NOTE PLACE="foot">v.418 haþ] þ in y verw. und t übergeschr.</NOTE></L>
+<L>And bidde him, þat I deye mow,</L>
+<L>Þat I nouht forȝetin be! <MILESTONE N="420"/></L>
+<L>Magdaleyn mylde, ne seest þ<HI REND="italic">ou,</HI> how <NOTE PLACE="foot">v.421 ne] watt m. j. hd. übergschr.</NOTE></L>
+<L>Mi sone hangiþ vpon ȝone tre,</L>
+<L>And ȝet on lyue I am &amp; þ<HI REND="italic">ou?</HI></L>
+<L>Þ<HI REND="italic">at</HI> I myht deye, þ<HI REND="italic">ou</HI> preye for me!</L>
+</LG>
+<LG N="55">
+<HEAD>LV.</HEAD>
+<L>Magdaleyn seyde: I can no red, <MILESTONE N="425"/></L>
+<L>Sorwe haþ smetin myn herte sore.</L>
+<L>Her I stonde &amp; se him ner ded,</L>
+<L>But þ<HI REND="italic">i</HI> weping greuiþ me more.</L>
+<L>Come wiþ me, &amp; I schal the lede</L>
+<L>Vnto a stede, þ<HI REND="italic">ou</HI> saw not ore; <MILESTONE N="430"/></L>
+<L>Þer may we morne wiþ oute drede,</L>
+<L>Stille our<HI REND="italic">e</HI> loue, as nouhte ne wor<HI REND="italic">e.</HI></L>
+</LG>
+<LG N="56">
+<HEAD>LVI.</HEAD>
+<L>I askid hir<HI REND="italic">e,</HI> wher<HI REND="italic">e</HI> was þat plas,</L>
+<L>In pleyn, in valey, or in hil,</L>
+<L>Þer I myhte ben for eny cas, <MILESTONE N="435"/></L>
+<L>Þ<HI REND="italic">at</HI> no sorwe ne come me tille</L>
+<L><PB N="102" REF="18"/>
+Of him, þ<HI REND="italic">at</HI> al my ioye was?</L>
+<L>Now deth wiþ him haþ don his wille.</L>
+<L>In no stede is my solas,</L>
+<L>But for to wepe euer<HI REND="italic">e</HI> al my fille. <MILESTONE N="440"/></L>
+</LG>
+<LG N="57">
+<HEAD>LVII.</HEAD>
+<L>I cride on him: Je<HI REND="italic">s</HI>u, sone hende,</L>
+<L>Swete fader, what schal I do?</L>
+<L>I may not bryng the out of bende,</L>
+<L>Ne þ<HI REND="italic">ou</HI> may not come me to,</L>
+<L>And best me wer<HI REND="italic">e</HI> hom to wende, <MILESTONE N="445"/></L>
+<L>But for sorwe I may not go,</L>
+<L>Ne þ<HI REND="italic">ou</HI> wilt me no solas sende</L>
+<L>Ne Magdaleyn ne other<HI REND="italic">e</HI> mo.</L>
+</LG>
+<LG N="58">
+<HEAD>LVIII.</HEAD>
+<L>Magdaleyn comfortid me tho</L>
+<L>&amp; seyde: Go hom! þ<HI REND="italic">at</HI> wer<HI REND="italic">e</HI> þ<HI REND="italic">e</HI> beste. <MILESTONE N="450"/></L>
+<L>Care haþ smetin myn herte so,</L>
+<L>At hom schuld I fynde no reste.</L>
+<L>I seyde to hir<HI REND="italic">e:</HI> Whedir so I go,</L>
+<L>Al my ioye now haue I leste.</L>
+<L>Whil þ<HI REND="italic">at</HI> my sone hongiþ so <MILESTONE N="455"/></L>
+<L>Car<HI REND="italic">e</HI> comiþ neuer<HI REND="italic">e</HI> out of my brest. <NOTE PLACE="foot">v. 456 comiþ] über þ von j. h. t geschr.</NOTE></L>
+</LG>
+<LG N="59">
+<HEAD>LIX.</HEAD>
+<L>I se my sone, my fader dere,</L>
+<L>Hie hange her<HI REND="italic">e</HI> vpon þis tre.</L>
+<L>Wiþ oute peyne I dide him ber<HI REND="italic">e,</HI></L>
+<L>&amp; now wile deth fordon my gle, <MILESTONE N="460"/></L>
+<L>How schuld I lete him hangen her<HI REND="italic">e</HI></L>
+<L>&amp; suffer<HI REND="italic">e</HI> him alone to be?</L>
+<L>Ow, Magdaleyn, vnkynde I wer<HI REND="italic">e,</HI></L>
+<L>If he schuld hange &amp; I schuld fle!</L>
+</LG>
+<LG N="60">
+<HEAD>LX.</HEAD>
+<L>Vnder þ<HI REND="italic">e</HI> cros beleuen I wille, <MILESTONE N="465"/></L>
+<L>I se my flesch hongin þ<HI REND="italic">er</HI> on;</L>
+<L>Of þ<HI REND="italic">at</HI> sihte had I neuer<HI REND="italic">e</HI> my fille,</L>
+<L><PB N="103" REF="19"/>
+Whil I saw him on erthe gon.</L>
+<L>I bad hem gon wher was þ<HI REND="italic">er</HI> wille,</L>
+<L>Þ<HI REND="italic">e</HI> Magdaleyn &amp; hem ilkon, <MILESTONE N="470"/></L>
+<L>For I wold ther<HI REND="italic">e</HI> beleue stille,</L>
+<L>I wold not fle for Jewis non.</L>
+</LG>
+<LG N="61">
+<HEAD>LXI.</HEAD>
+<L>Than spak Bernard wordis swete,</L>
+<L>For Magdaleyn gan he say:</L>
+<L>Sche saw þ<HI REND="italic">i</HI> sorwe so vnmete <MILESTONE N="475"/></L>
+<L>Ful fayn wold sche an had a way . . . <NOTE PLACE="foot">v. 476 sche an] fraglich; wold—way von j. hand, schuld haue mad þ<HI REND="italic">e</HI> lay auf der zeile ausgestr.</NOTE></L>
+</LG>
+<LG N="62">
+<PB N="105" REF="21"/>
+<HEAD>LXII.</HEAD>
+<L>I cride: Sone, drinke it nouht!</L>
+<L>Þ<HI REND="italic">e</HI> Jewis for pyne to the it made;</L>
+<L>Ful bitter to the thei it wrouht,</L>
+<L>Þ<HI REND="italic">e</HI> stink to felin, þ<HI REND="italic">ou</HI> myht ben sad. <MILESTONE N="480"/></L>
+<L>Wol loueli þan he me besouht,</L>
+<L>Þ<HI REND="italic">at</HI> I schuld stilli make me glad:</L>
+<L>For wiþ þis drink Adam is bouht;</L>
+<L>Þis drink is, as my fader bad.</L>
+</LG>
+<LG N="63">
+<PB N="106" REF="22"/>
+<HEAD>LXIII.</HEAD>
+<L>Þerfor I prey the, moder hende, <MILESTONE N="485"/></L>
+<L>Leue þ<HI REND="italic">i</HI> cri &amp; wepe no more!</L>
+<L>To my fader I muste wende</L>
+<L>&amp; bringe to him þ<HI REND="italic">at</HI> was forlore.</L>
+<L>And setthe for the I schal sende:</L>
+<L>Moder, I muste gon before, <MILESTONE N="490"/></L>
+<L>To ordeyne þer þ<HI REND="italic">ou</HI> schalt lende,</L>
+<L>For ioye &amp; blisse schal euer<HI REND="italic">e</HI> ben thore.</L>
+</LG>
+<LG N="64">
+<HEAD>LXIV.</HEAD>
+<L>Bernard, þ<HI REND="italic">e</HI> Jewis ful of pryde,</L>
+<L>II theuys þei heng him bi</L>
+<L>On eueri half his swete side; <MILESTONE N="495"/></L>
+<L>Þ<HI REND="italic">at</HI> on began to crien merci;</L>
+<L>Þ<HI REND="italic">at</HI> oþer answerid in þ<HI REND="italic">at</HI> tide:</L>
+<L>»He hangiþ heyer<HI REND="italic">e,</HI> þan þ<HI REND="italic">ou</HI> or I,</L>
+<L>Vpon a cros wiþ wou<HI REND="italic">n</HI>dis wide,</L>
+<L>To askin him help, it is foly! <MILESTONE N="500"/></L>
+</LG>
+<LG N="65">
+<HEAD>LXV.</HEAD>
+<L>Þ<HI REND="italic">at</HI> oþer answerid: Man, art þ<HI REND="italic">ou</HI> wod?</L>
+<L>Je<HI REND="italic">s</HI>u is dampnid wiþ fals red;</L>
+<L>He dide neuer<HI REND="italic">e</HI> nouht but good,</L>
+<L>He is not worþ<HI REND="italic">i</HI> to ben ded.</L>
+<L>To Je<HI REND="italic">s</HI>u he seyde wiþ mylde mod: <MILESTONE N="505"/></L>
+<L>»Wh<HI REND="italic">a</HI>n þ<HI REND="italic">ou</HI> comist to þ<HI REND="italic">i</HI> godhed,</L>
+<L>For vertu of þin holi blod</L>
+<L>To þ<HI REND="italic">i</HI> regne þ<HI REND="italic">e</HI> wey me lede!</L>
+</LG>
+<LG N="66">
+<HEAD>LXVI.</HEAD>
+<L>Mi sone þan seyde his avys:</L>
+<L>For þ<HI REND="italic">i</HI> trouþ<HI REND="italic">e</HI> wel schal þ<HI REND="italic">ou</HI> be! <MILESTONE N="510"/></L>
+<L>Þerfor I grau<HI REND="italic">n</HI>te the paradys,</L>
+<L>To day þ<HI REND="italic">ou</HI> schalt my ioye se!</L>
+<L>I stod &amp; lokid on hem iwis,</L>
+<L>How þei deyde on þ<HI REND="italic">e</HI> tre.</L>
+<L>Þat one soule wente to heuene blis, <MILESTONE N="515"/></L>
+<L>Þ<HI REND="italic">at</HI> oþer thef to helle gan fle. <NOTE PLACE="foot">gan] Danach g, ausgestr.</NOTE></L>
+</LG>
+<LG N="67">
+<PB N="107" REF="23"/>
+<HEAD>LXVII.</HEAD>
+<L>Bernard, þis was to me gret solas,</L>
+<L>How sone þ<HI REND="italic">e</HI> thef heuene wan.</L>
+<L>Þan wiste I wel be þat cas,</L>
+<L>Þ<HI REND="italic">at</HI> my sone was god &amp; man. <MILESTONE N="520"/></L>
+<L>And as I stod in þ<HI REND="italic">at</HI> plas,</L>
+<L>Mi sone lowde crien began:</L>
+<L>Heloy, heloy! his crieng was;</L>
+<L>Lamazabathani! he seyde þan.</L>
+</LG>
+<LG N="68">
+<HEAD>LXVIII.</HEAD>
+<L>Þis was a word of gret pite, <MILESTONE N="525"/></L>
+<L>To vnderstonde englisch þer bi:</L>
+<L>Fader, god in trenyte,</L>
+<L>Whi forsakist þ<HI REND="italic">ou</HI> me, whi?</L>
+<L>Swete fader, I prey to the,</L>
+<L>Take my soule fro my bodi! <MILESTONE N="530"/></L>
+<L>Þ<HI REND="italic">ou</HI> wost wel, þin schal it be:</L>
+<L>Now is fulfillid þ<HI REND="italic">e</HI> p<HI REND="italic">ro</HI>pheci.</L>
+</LG>
+<LG N="69">
+<HEAD>LXIX.</HEAD>
+<L>Vnto helle his gost gan wende,</L>
+<L>As his faderis wil it was,</L>
+<L>To bring Adam out of bende <MILESTONE N="535"/></L>
+<L>&amp; for to bynde Sathanas.</L>
+<L>Sone þer com a lotheli fend</L>
+<L>And sette him be my sonis fas,</L>
+<L>To take þ<HI REND="italic">e</HI> soule &amp; to helle it sende,</L>
+<L>But no synne in his bodi was. <MILESTONE N="540"/></L>
+</LG>
+<LG N="70">
+<HEAD>LXX.</HEAD>
+<L>Þ<HI REND="italic">at</HI> sihte dide me werst of alle,</L>
+<L>For as ded I fel ther<HI REND="italic">e</HI> dou<HI REND="italic">n;</HI></L>
+<L>My susteris began aboute to falle</L>
+<L>Wepinge, &amp; made ruful sou<HI REND="italic">n.</HI></L>
+<L>John, my cosyn, gan me vp calle <MILESTONE N="545"/></L>
+<L>And wold me lede toward þ<HI REND="italic">e</HI> tou<HI REND="italic">n.</HI></L>
+<L>Now haue I told &amp; brouht to stalle</L>
+<L>Þ<HI REND="italic">e</HI> peynes of his passiou<HI REND="italic">n.</HI></L>
+</LG>
+<LG N="71">
+<PB N="108" REF="24"/>
+<HEAD>LXXI.</HEAD>
+<L>Seynt Bernard to Marie answerid:</L>
+<L>Ladi, blissid mote þ<HI REND="italic">ou</HI> be! <MILESTONE N="550"/> <NOTE PLACE="foot">v. 550 Danach eine rasur von 2 b.</NOTE></L>
+<L>Of Scherthursday now haue I herd,</L>
+<L>How he was bounden &amp; led fro the,</L>
+<L>&amp; also of good friday, how it ferd,</L>
+<L>Whan þ<HI REND="italic">e</HI> Jewis heng him on þ<HI REND="italic">e</HI> tre;</L>
+<L>But how þ<HI REND="italic">i</HI> sone was beried, <MILESTONE N="555"/></L>
+<L>My swete ladi, telle þ<HI REND="italic">ou</HI> me!</L>
+</LG>
+<LG N="72">
+<HEAD>LXXII.</HEAD>
+<L>And how he was takin dou<HI REND="italic">n,</HI></L>
+<L>Telle me, Marie, modir mylde,</L>
+<L>Of þ<HI REND="italic">e</HI> cros after his passiou<HI REND="italic">n,</HI></L>
+<L>Þer þ<HI REND="italic">ou</HI> wer<HI REND="italic">e</HI> for þ<HI REND="italic">i</HI> childe, <MILESTONE N="560"/></L>
+<L>And Joseph cam so redi &amp; bou<HI REND="italic">n,</HI></L>
+<L>His bodi of þ<HI REND="italic">e</HI> cros dou<HI REND="italic">n</HI> to hilde</L>
+<L>Wiþ preyer<HI REND="italic">e</HI> and wiþ good resou<HI REND="italic">n</HI></L>
+<L>Fro Pilat &amp; fro þ<HI REND="italic">e</HI> Jewis wilde!</L>
+</LG>
+<LG N="73">
+<HEAD>LXXIII.</HEAD>
+<L>And how he was leyd in þ<HI REND="italic">e</HI> ston, <MILESTONE N="565"/></L>
+<L>Telle me, ladi briht and schene,</L>
+<L>&amp; whiche wer<HI REND="italic">e</HI> his frendis euerichon,</L>
+<L>Þ<HI REND="italic">at</HI> wold at his beryeng bene:</L>
+<L>Þe wordis of the &amp; of seynt John,</L>
+<L>I wold wite hem alle bedene, <MILESTONE N="570"/></L>
+<L>&amp; how þ<HI REND="italic">ou</HI> kepedist the, whan þei wer<HI REND="italic">e</HI> gon</L>
+<L>In temple fro þ<HI REND="italic">i</HI> sone, I mene!</L>
+</LG>
+<LG N="74">
+<HEAD>LXXIV.</HEAD>
+<L>Marie answerd: Bernard, allas!</L>
+<L>Whi woldist þ<HI REND="italic">ou</HI> mor aske ȝet of me?</L>
+<L>And I telle ferther<HI REND="italic">e</HI> þis harde cas, <MILESTONE N="575"/></L>
+<L>Þ<HI REND="italic">e</HI> swerd of sorwe in myn herte wile be!</L>
+<L><PB N="109" REF="25"/>
+Joseph vnto Pilate tok his pas,</L>
+<L>To haue þ<HI REND="italic">e</HI> bodi dou<HI REND="italic">n</HI> of þ<HI REND="italic">e</HI> tre.</L>
+<L>Pilate it grau<HI REND="italic">n</HI>tid &amp; Cayphas,</L>
+<L>As sone so þei wiste, þ<HI REND="italic">at</HI> ded was he. <MILESTONE N="580"/></L>
+</LG>
+<LG N="75">
+<HEAD>LXXV.</HEAD>
+<L>Pilatis knyhtis sterne &amp; stoute,</L>
+<L>Forth wiþ Joseph gan þei wende,</L>
+<L>And other Jewis felle &amp; proude,</L>
+<L>Fele his fos &amp; fewe his frende.</L>
+<L>Þei ȝede þ<HI REND="italic">e</HI> theuis al aboute <MILESTONE N="585"/></L>
+<L>&amp; dide brek hir<HI REND="italic">e</HI> boþ<HI REND="italic">e</HI> lende.</L>
+<L>Bernard, I was þan in greet doute,</L>
+<L>Þei wold so serue my sone so hende!</L>
+</LG>
+<LG N="76">
+<HEAD>LXXVI.</HEAD>
+<L>I folewid after wiþ al my myht</L>
+<L>John &amp; also my sisteris two. <MILESTONE N="590"/></L>
+<L>Bernard, þ<HI REND="italic">ou</HI> schalt herin, apliht,</L>
+<L>Þ<HI REND="italic">e</HI> strengest poynt of al my wo!</L>
+<L>Among hem þer stod a knyht,</L>
+<L>Blynd he was &amp; lame also;</L>
+<L>Þei seyde alle, Longius he hiht; <MILESTONE N="595"/></L>
+<L>Þei dide him vnder þ<HI REND="italic">e</HI> cros to go.</L>
+</LG>
+<LG N="77">
+<HEAD>LXXVII.</HEAD>
+<L>Þei putte a lau<HI REND="italic">n</HI>ce in his hand</L>
+<L>&amp; sette it to my sonis side.</L>
+<L>Þe Jewis on him wer<HI REND="italic">e</HI> criand:</L>
+<L>Put vp, Longius, now is þ<HI REND="italic">e</HI> tide! <MILESTONE N="600"/></L>
+<L>Þorw hem was Longius wel willand,</L>
+<L>To my sonis herte it gan glide;</L>
+<L>Blod &amp; watir þer com rennand</L>
+<L>Out of þ<HI REND="italic">at</HI> wou<HI REND="italic">n</HI>de, þat was so wide.</L>
+</LG>
+<LG N="78">
+<HEAD>LXXVIII.</HEAD>
+<L>Þan wax myn herte heuy so led, <MILESTONE N="605"/></L>
+<L><PB N="110" REF="26"/>
+Whan I saw þ<HI REND="italic">at</HI> ruful sihte,</L>
+<L>Þ<HI REND="italic">e</HI> watir wiþ þ<HI REND="italic">e</HI> blod so red,</L>
+<L>To Longius hand it ran dou<HI REND="italic">n</HI> rihte,</L>
+<L>Dou<HI REND="italic">n</HI> I fel, as I wer<HI REND="italic">e</HI> ded;</L>
+<L>Lenger<HI REND="italic">e</HI> to stande had I no myht; <MILESTONE N="610"/></L>
+<L>John, my cosyn, comfort me bed,</L>
+<L>&amp; so dide Joseph, þ<HI REND="italic">at</HI> trewe knyht.</L>
+</LG>
+<LG N="79">
+<HEAD>LXXIX.</HEAD>
+<L>Þ<HI REND="italic">e</HI> blod ran dou<HI REND="italic">n</HI> to Longius hond,</L>
+<L>He wipid his eyen &amp; wel he sey;</L>
+<L>Þ<HI REND="italic">er</HI> is no creatur<HI REND="italic">e</HI> in watir ne long, <MILESTONE N="615"/></L>
+<L>Þ<HI REND="italic">at</HI> myht suffre þ<HI REND="italic">e</HI> sorwe, þ<HI REND="italic">at</HI> had I.</L>
+<L>On knes he þankid goddis sond,</L>
+<L>Toward heuene his heuyd on hi.</L>
+<L>Þ<HI REND="italic">at</HI> sihte my car<HI REND="italic">e</HI> mekil vnbond,</L>
+<L>So dide it my frendis, þ<HI REND="italic">at</HI> wer<HI REND="italic">e</HI> me bi. <MILESTONE N="620"/></L>
+</LG>
+<LG N="80">
+<HEAD>LXXX.</HEAD>
+<L>Þ<HI REND="italic">e</HI> Jewis þan wente to Pilate</L>
+<L>&amp; we lefte þer wiþ ruful rou<HI REND="italic">n;</HI></L>
+<L>And whan þei wer<HI REND="italic">e</HI> alle gon hir<HI REND="italic">e</HI> gate,</L>
+<L>I bad Joseph takin him dou<HI REND="italic">n:</HI></L>
+<L>Til I haue him, me þinkiþ late, <MILESTONE N="625"/></L>
+<L>For alle þ<HI REND="italic">e</HI> Jewis, þat ben felou<HI REND="italic">n</HI>!</L>
+<L>Joseph seyde: We ben þer ate,</L>
+<L>To bring him to the, I am ful bou<HI REND="italic">n</HI>!</L>
+</LG>
+<LG N="81">
+<HEAD>LXXXI.</HEAD>
+<L>Nichodem<HI REND="italic">us</HI> þ<HI REND="italic">e</HI> naylis out drow</L>
+<L>&amp; Joseph tok him in his arm. <MILESTONE N="630"/></L>
+<L>Mi sone hem louid wel inow,</L>
+<L>Þei tok him dou<HI REND="italic">n</HI> wiþ outen harm,</L>
+<L>Fayr<HI REND="italic">e</HI> &amp; softe fro þat bow,</L>
+<L>And leyden him in my barm.</L>
+<L>His swete mouth vpon me low <MILESTONE N="635"/></L>
+<L>&amp; I it kiste; it was not warm.</L>
+</LG>
+<LG N="82">
+<PB N="111" REF="27"/>
+<HEAD>LXXXII.</HEAD>
+<L>An hunderid tymys I dide him kisse,</L>
+<L>Mouth &amp; eyen, his chin also,</L>
+<L>&amp; seyde: Sone, schal I the mysse,</L>
+<L>Glad ne worth I neuer<HI REND="italic">e</HI> mo! <MILESTONE N="640"/></L>
+<L>And Joseph faste abouten is,</L>
+<L>His graue to dihte &amp; him þer to,</L>
+<L>&amp; euer<HI REND="italic">e</HI> I preyde him iwis,</L>
+<L>To beryen me wiþ him also.</L>
+</LG>
+<LG N="83">
+<HEAD>LXXXIII.</HEAD>
+<L>His loue wou<HI REND="italic">n</HI>did me so faste, <MILESTONE N="645"/></L>
+<L>Þ<HI REND="italic">at</HI> wepen I muste on al wise.</L>
+<L>Nerþ<HI REND="italic">e</HI>les I trowid euer<HI REND="italic">e</HI> stedefast,</L>
+<L>Þ<HI REND="italic">e</HI> thrid day þ<HI REND="italic">at</HI> he schuld vprise;</L>
+<L>Þ<HI REND="italic">e</HI> riht feyth in me he cast,</L>
+<L>As it was al his deuyse. <MILESTONE N="650"/></L>
+<L>Ful wel I wiste it atte last,</L>
+<L>I schuld him seen among hise.</L>
+</LG>
+<LG N="84">
+<HEAD>LXXXIV.</HEAD>
+<L>But I myhte neuer<HI REND="italic">e</HI> me forber<HI REND="italic">e,</HI></L>
+<L>Bernard, to wepe swiþ<HI REND="italic">e</HI> sore,</L>
+<L>Myn hondis to wringe, myn her to ter<HI REND="italic">e,</HI> <MILESTONE N="655"/></L>
+<L>Whil he lay þer me before.</L>
+<L>I wene, if I durste it swer<HI REND="italic">e,</HI></L>
+<L>If eny sorwe in au<HI REND="italic">n</HI>gelis wore,</L>
+<L>Þei myhte a wept many a ter<HI REND="italic">e,</HI></L>
+<L>For sorwe, Þ<HI REND="italic">at</HI> Þei saw thore. <MILESTONE N="660"/></L>
+</LG>
+<LG N="85">
+<HEAD>LXXXV.</HEAD>
+<L>Setthe heuene was mad &amp; erthe also</L>
+<L>And woman formyd after man,</L>
+<L>Was neuer<HI REND="italic">e</HI> er<HI REND="italic">e</HI> swich sorwe ne wo,</L>
+<L>Þat any tunge of telle can.</L>
+<L>We mad sorwe, whan þei schuld go, <MILESTONE N="665"/></L>
+<L>To ber<HI REND="italic">e</HI> my sone toward his stan.</L>
+<L>John and my susteris two,</L>
+<L>Many a tyme swownid þei þan.</L>
+</LG>
+<LG N="86">
+<PB N="112" REF="28"/>
+<HEAD>LXXXVI.</HEAD>
+<L>Bernard, I cride ful pitousli:</L>
+<L>»Lordingis, what haue ȝe þouht? <MILESTONE N="670"/></L>
+<L>It is my sone, I cri ȝow merci,</L>
+<L>For charite, grauiþ him nouht!</L>
+<L>Þei sparid no þing for me sureli,</L>
+<L>Til þei him to graue brouht;</L>
+<L>Þei lappid him in cloþis tendirli, <MILESTONE N="675"/></L>
+<L>To leyen me ther<HI REND="italic">e</HI> I hem besouht.</L>
+</LG>
+<LG N="87">
+<HEAD>LXXXVII.</HEAD>
+<L>Joseph leyde him in þ<HI REND="italic">e</HI> ston</L>
+<L>And Nichodem<HI REND="italic">us</HI> had wou<HI REND="italic">n</HI>din him wele;</L>
+<L>Oyneme<HI REND="italic">n</HI>tis ful swete þei leyde him on</L>
+<L>&amp; dihte him in ful clene sendele. <MILESTONE N="680"/> <NOTE PLACE="foot">v. 680 him] ms. hem.</NOTE></L>
+<L>Bernard, þer was non oþer won,</L>
+<L>To berien him þei wer<HI REND="italic">e</HI> ful snelle.</L>
+<L>Þan lokid I on my cosyn John,</L>
+<L>For sorwe boþ<HI REND="italic">e</HI> dou<HI REND="italic">n</HI> we felle.</L>
+</LG>
+<LG N="88">
+<HEAD>LXXXVIII.</HEAD>
+<L>Whan we stod vp for sorwe vnweld, <MILESTONE N="685"/></L>
+<L>I ne wiste, what me was best.</L>
+<L>Fingris towrithe none I ne feld, <NOTE PLACE="foot">v. 687 feld] ms. felid.</NOTE></L>
+<L>O weping koude I haue no rest.</L>
+<L>Þ<HI REND="italic">e</HI> ouer ston faste I beheld,</L>
+<L>Joseph wolde haue had it fest, <MILESTONE N="690"/></L>
+<L>I fel betwix as a scheld,</L>
+<L>Til þ<HI REND="italic">at</HI> I his mouth had kest.</L>
+</LG>
+<LG N="89">
+<HEAD>LXXXIX.</HEAD>
+<L>I swownid many a tyme wiþ alle,</L>
+<L>Or I of him myhte take my leue.</L>
+<L>Many a ter<HI REND="italic">e</HI> I lete dou<HI REND="italic">n</HI> falle, <MILESTONE N="695"/></L>
+<L>Þ<HI REND="italic">er</HI> myhte no man it me bereue.</L>
+<L>I seyde: Sone, now gon I schalle,</L>
+<L>Now alle þ<HI REND="italic">i</HI> frendis schul the leue:</L>
+<L>Come now, deth, I wile the calle,</L>
+<L>I wold, þ<HI REND="italic">ou</HI> myhtest myn herte cleue! <MILESTONE N="700"/></L>
+</LG>
+<LG N="90">
+<PB N="113" REF="29"/>
+<HEAD>XC.</HEAD>
+<L>Þan com John, &amp; Magdaleyn eke,</L>
+<L>&amp; saw, I was in poynt to spille,</L>
+<L>Ful myldeli to me þei speke,</L>
+<L>And held hir<HI REND="italic">e</HI> sorwe in herte ful stille;</L>
+<L>But euer<HI REND="italic">e</HI> hem þouhte hir<HI REND="italic">e</HI> hertis breke, <MILESTONE N="705"/></L>
+<L>Þ<HI REND="italic">at</HI> þei durste not wepin hir<HI REND="italic">e</HI> fille.</L>
+<L>Nerþ<HI REND="italic">e</HI>les to towne þei me wreke</L>
+<L>Mor wiþ strif þan wiþ my wille;</L>
+</LG>
+<LG N="91">
+<HEAD>XCI.</HEAD>
+<L>And whan we to þ<HI REND="italic">e</HI> cite come,</L>
+<L>Þer our<HI REND="italic">e</HI> weyes schuld vntwynne, <MILESTONE N="710"/></L>
+<L>I &amp; other<HI REND="italic">e</HI> our<HI REND="italic">e</HI> leue nome</L>
+<L>And wente hom to our<HI REND="italic">e</HI> inne.</L>
+<L>I swownid often and whilome,</L>
+<L>Of weping koude I neuer<HI REND="italic">e</HI> blynne;</L>
+<L>To spekin to hem had I no tome <MILESTONE N="715"/></L>
+<L>For sorwe, þ<HI REND="italic">at</HI> myn herte was in.</L>
+</LG>
+<LG N="92">
+<HEAD>XCII.</HEAD>
+<L>John led me to a chambir tho,</L>
+<L>Þer my sone was wonid to be;</L>
+<L>Magdaleyn &amp; my susteris two,</L>
+<L>For no þing wold þei departen fro me. <MILESTONE N="720"/></L>
+<L>Bernard, I lokid aboute me tho,</L>
+<L>But I coude not my sone se.</L>
+<L>We setten vs dou<HI REND="italic">n</HI> wiþ sori wo</L>
+<L>&amp; gan to wepin alle thre.</L>
+</LG>
+<LG N="93">
+<HEAD>XCIII.</HEAD>
+<L>Þus wer<HI REND="italic">e</HI> we, Bernard, in greet car<HI REND="italic">e,</HI> <MILESTONE N="725"/></L>
+<L>In sorwe of herte &amp; long mo<HI REND="italic">ur</HI>nyng;</L>
+<L>Til þat we wiste, how it schuld far<HI REND="italic">e,</HI></L>
+<L>Euer<HI REND="italic">e</HI> we wer<HI REND="italic">e</HI> in greet longing.</L>
+<L>Now haue I told the, wiþ oute spar<HI REND="italic">e,</HI></L>
+<L>Alle my peynys at his parting. <MILESTONE N="730"/></L>
+<L>But, Bernard, I was redi þar<HI REND="italic">e,</HI></L>
+<L>To kepin him at his vprising.«</L>
+</LG>
+<LG N="94">
+<PB N="114" REF="30"/>
+<HEAD>XCIV.</HEAD>
+<L>Seynt Bernard seyde: God ȝelde it the,</L>
+<L>Wif &amp; moder &amp; mayden mylde,</L>
+<L>Þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> so mekil hast told to me <MILESTONE N="735"/></L>
+<L>Of þ<HI REND="italic">i</HI> sorwe &amp; of þ<HI REND="italic">i</HI> chylde!</L>
+<L>Now am I sekir, wher so I be,</L>
+<L>In tou<HI REND="italic">n</HI> or feld, in ȝongþ<HI REND="italic">e</HI> or elde,</L>
+<L>To don þ<HI REND="italic">e</HI> foule fend to fle,</L>
+<L>Þ<HI REND="italic">at</HI> euer<HI REND="italic">e</HI> to helle wold don me helde. <MILESTONE N="740"/></L>
+</LG>
+<LG N="95">
+<HEAD>XCV.</HEAD>
+<L>Now, ladi, for þ<HI REND="italic">at</HI> ilke wo,</L>
+<L>Þ<HI REND="italic">at</HI> no tu<HI REND="italic">n</HI>ge may half telle,</L>
+<L>Of the &amp; of þ<HI REND="italic">i</HI> sone also,</L>
+<L>Þ<HI REND="italic">at</HI> ȝow dide þ<HI REND="italic">e</HI> Jewis felle:</L>
+<L>Late neuer<HI REND="italic">e</HI> non of alle tho, <MILESTONE N="745"/></L>
+<L>Þ<HI REND="italic">at</HI> cristnid arn &amp; in þis world dwelle,</L>
+<L>Whan þei schul passen þ<HI REND="italic">e</HI> world al fro,</L>
+<L>To seen þ<HI REND="italic">e</HI> peyne, þat is in helle!</L>
+</LG>
+<LG N="96">
+<HEAD>XCVI.</HEAD>
+<L>This ryme mad an hermyte</L>
+<L>&amp; dide it writen in parchemyn; <MILESTONE N="750"/></L>
+<L>Barfot he wente in gray habyte,</L>
+<L>He werid no cloth, þ<HI REND="italic">at</HI> was of lyn.</L>
+<L>Þus on englisch he dide it write,</L>
+<L>He seyth, he drow it of þ<HI REND="italic">e</HI> Latyn.</L>
+<L>His mede lord Je<HI REND="italic">s</HI>u him quyte <MILESTONE N="755"/></L>
+<L>&amp; seynt Bernard, clerk of deuyn!</L>
+</LG>
+<LG N="97">
+<HEAD>XCVII.</HEAD>
+<L>And we schul preye, þ<HI REND="italic">at</HI> her<HI REND="italic">e</HI> it rede, <NOTE PLACE="foot">v. 757 here] Danach in, unterpunkte.</NOTE></L>
+<L>For him now an orisou<HI REND="italic">n,</HI></L>
+<L>&amp; don it smertlich in dede</L>
+<L>Wiþ a ful good deuociou<HI REND="italic">n,</HI> <MILESTONE N="760"/></L>
+<L>Þ<HI REND="italic">at</HI> Je<HI REND="italic">s</HI>u Crist his soule lede</L>
+<L>To blisse in his p<HI REND="italic">ro</HI>cessiou<HI REND="italic">n,</HI></L>
+<L>And ther<HI REND="italic">e</HI> for to han his mede</L>
+<L>Þorw vertu of his passiou<HI REND="italic">n.</HI> Amen. <MILESTONE N="764"/></L>
+</LG>
+</DIV2>
+<DIV2 LANG="lat" TYPE="version">
+<PB N="85" REF="1"/>
+<P>Ipsa enim portauit regem gloriae, illum omni petenti datura. Ipsa genuit eum, lactauit eum, die octaua circuncidit, et quadragesima praesentauit in templo, duos tuttures vel duos pullos columbarum pro eo offerens in holocaustum. Fugiens ab Herode ipsum portauit in Aegyptum, lactans eum et nutriens, curam illius habens, sequens eum fere quocunque pergebat. Credo <MILESTONE N="5"/> 
+<PB N="86" REF="2"/>Petiam firmiter quod ipsa mater Jesu erat inter illas faeminas quae ipsum se∣quebantur ministrantes ei. Nullus debet inde admirari si sequebatur eum, cum ipse esset totus eius dulcor, solatium, desiderium et solamen. Hanc etiam arbitror fuisse inter illas dolentes atque gementes, quae lamentabantur flentes dominum. Poterat etiam et haec esse inter illas faeminas, filias Hierusalem, <MILESTONE N="10"/> ad quas Jesus tunc non clarus imperio, sed plenus opprobrio, spinis coronatus, sputis illitus, flagellis afflictus, sibi in angariam mortis crucem baiulans, conuersus dixit: Filiae Hierusalem, nolite flere super me, sed super vos ipsos flete et super filios vestros! Putasne, domina mundi, domina mea, mater dilecta eiusdem Christi, estne verum, quod dico? En obsecro ut dicas seruulo tuo <MILESTONE N="15"/> decus paradisi, gaudium coeli, veritatem huius rei. Obliuiscere tamen causam 
+<PB N="87" REF="3"/>doloris rogo, quem tunc passam te fuisse non dubito. Vtinam dolor iste sic quotidie inhaereret visceribus meis, sicut inhaesit tunc tuis! Vtinam die qua assumpta fuisti in coelum ut in aeternum gauderes cum filio tuo, mihi indi∣casses lachrymas tuas, ut per illas cognoscerem quantum tibi amaritudinis <MILESTONE N="20"/> fuit, cum Jesum dilectum tibi, heu, heu et parum dilectum mihi, clauis in ligno confixum, capite inclinato suum sanctissimum exhalare videres spiritum! Sed peto, domina mea, ne te moveant verba mea, quae dico, cum tamen saxa deberent scindi ad illa. Quis unquam regnans in coelo sursum, aut peregrinans in terra deorsum, audiens vel mente pertractans, quomodo factus est opprobrium <MILESTONE N="25"/> hominum ipse dominus angelorum, poterit lachrymas continere etiam in coelo, ubi est impossibile flere? Quare ego miser non ploro, cum abiectio plebis factus est filius Dei patris? Veruntamen tu, domina, gaude gaudio magno valde ab ipso nunc glorificata in coelis, quae in mente tantis clauis amarissimis fuisti confixa tuae piissimae mortis! Mihi tamen, obsecro, lachrymas illas infunde, <MILESTONE N="30"/> 
+<PB N="88" REF="4"/>quas ipsa habuisti in sua passione; et ut his affluam largius, de passione filii tui, Dei mei et Domini mei, verba ad inuicem conferamus. Teneris pro∣missione; redde quia hoc nobis superius promisisti! Memini te mihi in primo exordio nostri sermonis fuisse locutam de doloribus quos ipsa portasti pro morte vnigeniti tui. Quod ut audiui, non modicum perturbatus coepi quaerere dolens, <MILESTONE N="35"/> qui essent illi tui sermones. Cui ipsa dixisti: Qui sunt isti mei sermones, interim recogita in amaritudine animae tuae, donec de his ad inuicem con∣feramus. Ennarra mihi, te flagito, seriem veritatis, quae mater es et virgo et templum totius Trinitatis! Ad quem illa: Illud quod quaeris, compunctiuum est magni doloris. Sed quia glorificata sum, ultra jam flere non possum; tu <MILESTONE N="40"/> cum lachrymis scribe ea quae cum magnis doloribus ego persensi. Cui inquam: Flere peropto, quia et nihil aliud mihi libet, sed ego miser cor lapideum habens flere non possum. Regina coeli, mater crucifixi, da quod iubes et praebe quod cupio, loquere, quia audit seruus tuus! Dic, domina mea, dic, 
+<PB N="89" REF="5"/>mater angelorum, mater misericordiae, si in Hierusalem eras, quando filius <MILESTONE N="45"/> tuus captus fuit et vinclus et in Annae atrium tractus et ductus? Cui illa respondit: Fui itaque in Hierusalem quando haec audiui, et gressu qualicun∣que potui et vix potui ad dominum meum venire plorans. Cumque ipsum fuissem intuita pugnis percuti, alapis caedi, in faciem conspui, spinis coronari, opprobrium hominum fieri, commota sunt omnia viscera mea, et defecit spiritus <MILESTONE N="50"/> meus et non erat mihi fere sensus, neque vox neque sonus. Erant etiam mecum sorores meae et aliae mulieres multae plangentes eum quasi unigenitum. Inter quas erat Maria Magdalena, quae super omnes, excepta me, quae tecum loquor, dolebat et plorabat. Cumque Christus praecone clamante, S. Pilato im∣perante sibi baiulans crucem ad supplicium traheretur, factus est concursus <MILESTONE N="55"/> populorum post eum euntium, alii super eum plangentes, alii illudentes, et proiicientes lutum, fimum et immunditias super caput eius. Sequebar ego eum 
+<PB N="90" REF="6"/>prout poteram, eius maestissima mater, cum mulieribus quae eum secutae fuerant a Galilaea ministrantes ei, a quibus velut emortua tenebar et sustentabar, quous∣que peruentum est ad locum passionis ubi crucifixerunt eum ante me. Et <MILESTONE N="60"/> ipse me videns fuit in cruce eleuatus et ligno durissimis clauis affixus. Stabam et ego videns eum, et ipse videns me plus dolebat de me quam de se. Ipse vero tanquam agnus coram tondente se vocem non dabat, nec aperiebat os suum. Aspiciebam ego infaelix et misera Deum meum et filium meum in cruce pendentem et morte turpissima morientem. Tantoque dolore et tristitia <MILESTONE N="65"/> vexabar in mente quod non posset explicari sermone. Erat enim aspectu dulcis, colloquio suauis et omni conuersatione benignissimus. Manabat nam∣que sanguis eius ex quatuor partibus rigantibus undis, ligno manibus pedibus∣que confixis. De vultu illius pulchritudo effluxerat omnis, et qui erat prae filiis 
+<PB N="91" REF="7"/>hominum speciosa forma, videbatur omnium indecorus. Videbam quod complebatur <MILESTONE N="70"/> illud propheticum in eo: Vidimus eum et non erat ei species neque decor. Vultum enim illius iniquorum Judaeorum foedaverat liuor. Iste erat dolor meus maximus quia videbam me deseri ab eo quem genueram, nec supererat alius, quia mihi erat unicus. Vox mea fere perierat omnis, sed dabam gemitus suspiriaque doloris. Volebam loqui, sed dolor verba rumpebat; quia verbum jam mente <MILESTONE N="75"/> conceptum, dum ad formationem procederet, oris ad se imperfectum reuocabat dolor intimus cordis. Vox triste sonabat foris, vulnus denuncians mentis. Verba donabat amor, sed rauce sonabant, quia lingua, magistra vocis, usum perdiderat loquendi. Videbam morientem quem diligebat anima mea et tota liquefiebam prae doloris angustia. Aspiciebat et ipse benignissimo vultu me, <MILESTONE N="80"/> matrem plorantem, et verbis paucis voluit me consolari, sed ego nullo modo consolari potui. Flebam dicendo et dicebam flendo: fili mi, fili mi, vae mihi, vae mihi! Quis dabit mihi ut ego moriar pro te, fili mi? O misera, quid 
+<PB N="92" REF="8"/>faciam? Moritur filius meus. Cur secum non moritur haec maestissima mater eius? Mi fili, fili mi, amor unice, fili dulcissime, noli me derelinquere post <MILESTONE N="85"/> te, trahe me ad te ipsum, ut et ego moriar tecum! Male solus moreris. Moriatur tecum ista tua genetrix. O mors misera, noli mihi parcere, tu mihi sola prae cunctis places, exaggera vires, trucida matrem, matrem cum filio perime simul! Fili, dulcor unice, singulare gaudium, vita animae meae et omne sola∣tium, fac ut ego ipsa nunc tecum moriar, quae te ad mortem genui, sine matre <MILESTONE N="90"/> noli mori! O fili, recognosce miseram et exaudi precem meam! Decet enim filium exaudire matrem desolatam. Exaudi me obsecro, in tuo me suscipe patibulo, ut qui una carne viuunt, et uno amore se diligunt, una morte pereant! O Judaei impii, o Judaei miseri, nolite mihi parcere! Ex quo natum meum crucifixistis, et me crucifigite, aut alia quacunque morte saeua me perimite, <MILESTONE N="95"/> 
+<PB N="93" REF="9"/>dummodo cum meo filio simul moriar! Male solus moritur. Orbas orbem radio, me Judaea filio, gaudio et dulcore. Vita mea moritur, et salus peri∣mitur, atque de terra tollitur tota spes mea. Cur ergo viuit mater post filium in dolore? Tollite, suspendite matrem cum pignore! Non parcitis proli, non parcatis et mihi! Tu mihi soli, mors, esto saeua; nunc summe gauderem si <MILESTONE N="100"/> mori cum filio simul possem. Dulce est mihi miserae mori, sed mors optata recedit. Vae mihi et tibi, fili, mors ipsa praecipitata venit! Morte mori melius est mihi quam vitam ducere mortis. Sed fugit a me misera et infaelicem me relinquit cui ipsa mors multum optata nunc esset. O fili carissime, o benignissime nate, misereri matri tuae et suscipe preces eius! Desine nunc <MILESTONE N="105"/> 
+<PB N="94" REF="10"/>mihi esse durus, qui cunctis semper fuisti benignus! Suscipe matrem tuam in cruce ut vivam tecum post mortem semper! Nihil mihi dulcius est quam te am∣plexato, in cruce tecum mori; et nil certe amarius quam viuere post tuam mortem. O vere Dei nate, tu mihi pater, tu mihi mater, tu mihi filius, tu mihi sponsus, tu mihi anima eras. Nunc orbor patre, viduor sponso, desolor filio, omnia perdo. <MILESTONE N="110"/> O fili mi, ultra quid faciam? vae mihi, vae mihi! Quo vadam, carissime? ubi me vertam, dulcissime? quis mihi de caetero consilium et subsidium praestabit? fili dulcissime, omnia tibi possibilia sunt, sed etsi non vis ut moriar tecum, mihi saltem relinque aliquod benignum consilium! Tunc iam dominus anxius in cruce annuens oculis et vultu de Joanne ait: Mulier, ecce, <MILESTONE N="115"/> 
+<PB N="95" REF="11"/>filius tuus! Erat enim Joannes praesens, vultu tristis et corde maestissimus, lachrymis semper plorans. Ac si diceret: O mater mollis ad fluendum, mollis ad dolendum, tu scis quia ad hoc veni et ad hoc de te carnem assumpsi ut per crucis patibulum saluarem genus humanum. Quomodo ergo implebuntur scripturae? sic enim oportet me pati pro salute generis humani. Die namque <MILESTONE N="120"/> tertia resurgam, tibi et discipulis meis patenter apparens; desine flere et dolorem depone, quia ad patrem vado et ad gloriam paternae maiestatis percipiendam ascendo! Congratulare mihi, quia nunc inueni ovem errantem quam tam longo tempore perdideram. Moritur unus ut totus inde reuiuiscat mundus. Vnius ob meritum cuncti periere minores, et nunc saluantur unius ob meritum. <MILESTONE N="125"/> 
+<PB N="96" REF="12"/>Quod placet Deo patri, quomodo displicet tibi? Mater dulcissima, calicem quem dedit mihi pater, non vis ut bibam illum? Noli flere mulier, noli flere mater speciosissima! non te desero, non te derelinquo. Tecum sum et tecum ero omni tempore saeculi. Secundum carnem subjaceo imperio mortis, secundum diuinitatem sum et ero semper immortalis et impassibilis. Bene scis unde <MILESTONE N="130"/> processi et unde veni. Quare ergo tristaris, si illuc ascendo unde descendi? Tempus est ut reuertar ad eum qui me misit. Et quo ego vado, tu non potes venire modo, venies autem postea. Interim Joannes, qui est nepos tuus, reputabitur tibi filius, curam habebit tui et erit solatium fidelissimum tibi. Inde dominus intuitus Joannem ait: Ecce mater tua! Ei seruies, curam illius <MILESTONE N="135"/> 
+<PB N="97" REF="13"/>habebis, eam tibi commendo, suscipe matrem tuam, imo magis suscipe matrem meam! Dum haec pauca diceret, illi duo dilecti lachrymas fundere non cessabant. Tacebant ambo illi martyres et prae nimio dolore loqui non poterant. Solus illis dolor luctusque remansit amicus. Amabant flere et flebant amare. Amare flebant, qui amare dolebant. Nam gladius mortis Christi animas utrorumque transibat. <MILESTONE N="140"/> Transibat saeuus, saeuus perimebat utrunque. Quo magis amabat, saevior fiebat in matre. Vulnera Christi morientis erant vulnera matris dolentis. Dolores saevi fuerunt tortores in anima matris. Mater erat laniata morte cari pignoris. Mente mater erat percussa cuspide teli, quo membra Christi serui foderunt iniqui. Ipsa enim erat quam dolor tenebat. In mente eius creuerant immensi dolores <MILESTONE N="145"/> nec poterant extra refundi. Intus atrocius saevientes dolores nati matris animam gladiabant. In carne Christus soluebat debitum mortis quod grauius erat, 
+<PB N="98" REF="14"/>quam mori in anima matris. Interim Christus matre commendata Joanni, dixit: Sitio. Et dederunt illi, qui crucifixerunt eum accetum cum felle mixtum. Quod cum gustasset noluit bibere. Dixitque: consummatum est. Et exclamauit <MILESTONE N="150"/> voce magna dicens: heli, heli, lamazabacthani! hoc est, Deus meus, Deus meus, ad quid me dereliquisti? Et haec dicens expirauit. Tunc terra tremuit et sol sua luminaria clausit. Moerebantque poli, moerebant sydera cuncta. Omne suum iubar amisit luna dolendo recessitque omnes ab alto aethere fulgor. Finduntur duri lapides, scinduntur fastigia templi. Petrae durissimae scissae <MILESTONE N="155"/> sunt et momenta aperta. Surrexerunt multi apertis tumulis fatentes voce magna Christum esse Deum. Cogitare nunc libet quantus dolor tunc infuit matri, cum sic dolebant, quae insensibilia erant. Nec lingua poterit loqui nec 
+<PB N="99" REF="15"/>mens cogitare valebit, quanto dolore afficiebantur pia viscera Mariae. Nunc soluis virgo cum usura quod in partu non habuisti a natura. Dolorem pariendo <MILESTONE N="160"/> filium non sensisti, quem millies replicatum filio moriente passa fuisti. Juxta crucem stabat emortua mater, quae ipsum ex spiritu sancto concepit. Vox illi non erat, quia dolore attrita jacens pallebat. Quasi mortua viuens, viuebat moriens, moriebatur viuens, nec mori poterat, quae viuens mortua erat. In illius anima dolor saeve saeviebat. Optabat mori magis, quam viuere post <MILESTONE N="165"/> mortem Christi, quae male viuens mortua erat. Ibi stabat dolens saevo dolore confecta. O verum eloquium iusti Simeonis, quem promisit, gladium sentiebat 
+<PB N="100" REF="16"/>doloris. Expectant corpus Christi deponi, plorabat dicens: Heu me, heu me, reddite vel saltem nunc maestissimae matri extinctum filium! Vel certe, si magis libet, me morte illi conjungite ut cum doloribus suis pereant et dolores <MILESTONE N="170"/> mei! Deponite illum, quaeso, deponite mihi, ut mecum habeam corpus exa∣nime, sitque meus unicus mihi in solatium vel defunctus! Stabat iuxta crucem Maria intuens vultu benigno Christum pendentem in patibulo pedumque summitatibus annitens manus leuabat in altum amplectens rubricatam crucem ac in oscula eius ruens ea parte qua unda preciosissimi sanguinis defluebat. <MILESTONE N="175"/> Sursum manus nisu quo poterat extendebat unicum suum amplecti desiderans nec valebat. Sperat enim amor multa quae nunquam vel raro fieri possunt; 
+<PB N="101" REF="17"/>impatiens siquidem amor credit quod sibi debeant cedere uniuersa. Volebat amplecti Christum in alto pendentem, sed manus frustra protensae in se com∣plosae, complexae redibant. Leuabatur a terra sursum, ut dilectum suum <MILESTONE N="180"/> contingeret ipsumque tangere nequiens durissime recollidebatur ad terram. Ibi doloris immensitate oppressa prostrata jacebat; sed maxima vis amoris qua incensa mens eius ardebat eam erigere compellebat, et amoris impetu surgens reextensis manibus suum attrectare filium affectabat et rursum magno cruciata dolore terram repetere cogebatur. O quam male tunc illi erat! Grauius illi <MILESTONE N="185"/> erat vita viuere tali quam diro gladio saeve necari ab impiis. Tanquam mortis 
+<PB N="102" REF="18"/>pallor eius vultum perfuderat, genis et ore tantum cruore Christi rubentibus cadentes guttas sanguinis ore sacro tangebat, terram deosculans quam saepissime cruoris unda rigabt. O grave martyrium! O frequens suspitium! O languens pectus virgineum! Anima eius tota liquefacta est, facies pallet rosea, sed <MILESTONE N="190"/> precioso filii sanguine rubet respersa. Interim vir quidam nobilis nomine Joseph, qui erat discipulus eius, occulte tamen, ad Pilatum accessit postulans sibi donari corpus Domini Jesu Christi. Quo sibi concesso accersiuit quendam virum sapientem et legisperitum nomine Nichodemum, discipulum Christi 
+<PB N="103" REF="19"/>occultum simulatque venerunt ad locum ubi erat Dominus crucifixus, secum <MILESTONE N="195"/> instrumenta ferentes, quibus clauos extraherent, et ut eum de cruce depo∣nerent. Quos cum benignissima et maestissima mater aspiceret et sciret, eos unicum velle deponere de cruce quasi de morte consurgens, paululum reuixit anima eius et de terra festina exiliens ubi jacebat, dolens violentia prostrata quod poterat adiutorium debilissima illis ministrabat. Unus duros ullos ac <MILESTONE N="200"/> diros clauos trahebat manibus, alius, ne corpus exanime caderet sustentabat. Stabat et Maria brachia leuans in altum vulnera contemplans manus perforatas 
+<PB N="104" REF="20"/>sacroque sanguine respersas intuens vix sustinere se potuit. Jamque manus brachia sancta et caput supra triste pectus suscepit ut hoc ultimo miserando solatio posset consolari. Quem ut attingere valuit amore materno mens in <MILESTONE N="205"/> dulcissimos amplexus et oscula de suo sic male tractato filio non poterat satiari. Sed cum de cruce corpus eius fuisset totaliter depositum prae doloris vehementia et amoris immensitate quasi exanimis facta fuit. Stabat ad caput extincti filii maestissima mater et eius regalem faciem mortis obscuratam pallori∣bus, magna rigabat affluentia lachrymarum. Aspiciebat illud reuerendissimum <MILESTONE N="210"/> caput coronae spineae diris aculeis perforatum, manus illas et pedes sacros 
+<PB N="105" REF="21"/>clauis ferreis crudelissime perforatos, latusque suffossum lancea cum caeteris membris laceratis et amarissime suspirans ac flens dicebat: O fili mi dulcissime, quid fecisti? Quare crudelissimi Judaei te crucifixerunt? Quae causa mortis tuae? Commisistine scelus ut tali morte damnareris? Non, fili, non, fili, sed <MILESTONE N="215"/> sic tuos redimere dignatus es ut posteris exempla relinquas. In gremio meo nunc te mortuum teneo. Quid ego, tua mater, fili mi dilectissime, faciam? Vae mihi, fili mi, dulcedo mea, consolatio mea, vita mea! Ubi est illud gaudium indicibile quod in tua admirabili Natiuitate habui? Vae mihi, fili mi, in quantum dolorem et tristitiam versum est illud tam magnificum gaudium? <MILESTONE N="220"/> 
+<PB N="106" REF="22"/>Sucurre mihi, fili mi, et spiritum sanctum mihi interim infunde quia iam gaudii illius quod in obumbratione et angelica salutatione concepi, fere prae dolore immemor deficio. Interim autem frontem et genas, nasum, oculos, osque simul frequentius osculabatur, tanta perfluens affluentia lachrymarum ut carnem cum spiritu resolui putares in lachrymas. Rigabat faelicibus lachrymis <MILESTONE N="225"/> corpus exanime filii et monumentum in quo posuerunt eum modo mirabili madidabat ubi et eius lachrymae adhuc apparere dicuntur indicatiuae doloris intimi qui animam eius tanquam gladius acutus pertransiuit. logitabat mira∣bilia facta unici sui et durissima opprobria et tormenta quae viderat oculis suis 
+<PB N="107" REF="23"/>et auribus audierat, reuoluebat in mente, quis videlicet, qualis et quantus <MILESTONE N="230"/> fuerat quem ipsa virgo concepit illaeso pudore et peperit sine dolore, quem etiam cum summa diligentia lactauerat, custodierat et educauerat, qui erat ei vita, dulcedo, gaudium, et solatium, consilium, refugium et auxilium vitae suae. Videbat inquam Dominum et Deum suum, unicum suum filium sic viriliter et crudeliter pertractatum. Unde dicebat: dic, fili dilectissime, amor <MILESTONE N="235"/> unice, vitae meae singulare gaudium, unicum solatium, quare sic me dolore perimi permittis? Cur tam longe factus a me? Deus meus, consolare animam meam, miserere mei et respice in me! Dicat qui potest, cogitet quantum potest, 
+<PB N="108" REF="24"/>meditetur si potest quae doloris immensitas tunc maternam animam cruciabat. Non credo plene enarrari vel meditari posse dolorem virginis, nisi tantum <MILESTONE N="240"/> fuisse credamus quantum unquam dolere potuit de tali filio talis mater. Veruntamen rectum erat amoris et maeroris continens modum. Non desperabat, sed pie et iuste dolebat, sperans tamen firmiter fortiterque tenens ipsum secun∣dum promissum suum tertia die resurgere. In ipsa enim sola in triduo illo fides Ecclesiae stabat; et dum unusquisque haesitabat, haec quae fide concepit <MILESTONE N="245"/> fidem quam a Deo semel suscepit, nunquam perdidit speque certissima Domini resurgentis gloriam expectauit. Aderant secum quaedam sanctae et paucae mulieres parvusque virorum numerus qui Christum Dominum cum matre flente 
+<PB N="109" REF="25"/>amarissime flebant. Erant similiter et Angeli dolentibus condolentes. Dole∣bant quidem pio iustoque dolore morti compatientes Dei et Domini sui, si <MILESTONE N="250"/> tamen dolere quomodolibet poterant. Sed credo quod gaudentes erant eo quod genus humanum miserum et captiuum misericorditer redimabatur. Flebant et ipsi (ut arbitror) amarissime mente turbati, videntes dominam suam, matrem, utique Dei sui, tam vehementi dolore repletam, tot riuulis affluentium lachry∣marum perfusam. O quis tunc Angelorum Archangelorumque etiam contra <MILESTONE N="255"/> naturam suam non fleret, ubi auctor naturae, Deus immortalis, homo, mortuus jacebat? Videbant Christi corpus sic male tractatum ab impiis, sic laceratum a pessimis, jacere exanime suo sanguine cruentatum. Videbant etiam illam 
+<PB N="110" REF="26"/>piissimam, illam sanctissimam ac beatissimam virginem, matrem eius, tantis cruciari singultibus, tam amaris repleri doloribus, tam abundantibus lachrymis <MILESTONE N="260"/> madidari, sic amarissime flere, quod nullo modo poterat suas lachrymas refre∣nare. Et quis poterat tunc a lachrymis se abstinere? Fiebat proinde maeror et luctus ab Angelis ibidem praesentibus, qualis decebat spiritus almos: imo mirarer, si omnes Angeli in illa beatudine ubi flere est impossibile non fleuis∣sent. Credo propter quod et loquor, quia dolebant, si dolere valebant. Sicut <MILESTONE N="265"/> enim fuit possibile Deum per assumptum hominem mori, ita forte possibile Angelos bonos dolere de morte Domini Dei sui. Joseph autem ab Arimathia, 
+<PB N="111" REF="27"/>vir sanctus et iustus, qui corpus Christi cum Nicodemo deposuerat de cruce, (sicut evangelistae testantur) mercatus sindonem inuoluit illud preciosis condi∣tum aromatibus et in monumento nouo, quod sibi exciderat, sepeliuit. Tunc <MILESTONE N="270"/> Angelorum millia millium qui ad Christi sepulcrum conuenerant dulces ei ac deuotas exequias et victoriam decantabant. Illi domino laudes canebant, sed Maria gemitus et suspiria emittebat. Dum igitur Joseph et Nicodemus domi∣num 
+<PB N="112" REF="28"/>ponerent in sepulcro, volebat simul cum illo mater maestissima sepeliri. Erat enim innixia super delictum suum quem amplectens suauiterque deosculans <MILESTONE N="275"/> sic dicebat: Miseremini mei, miseremini mei, saltem vos amici mei! Illum adhuc paululum mihi relinquite, ut faciem illius sublato velamine valeam contemplari 
+<PB N="113" REF="29"/>et prae amore ipsius aliquantulum videndo consolari! Nolite eum quaeso, tam cito tradere sepulturae, sed ipsum reddite mihi, miserae matri suae, ut illum mecum habeam saltem vel defunctum; aut si illum in sepulchro reconditis, ibidem me <MILESTONE N="280"/> miseram matrem cum ipso sepelite, quia male post ipsum superero! Ad quid post ipsum viua? Illi ponebant dominum in sepulchro, et illa nisu, quo poterat, illum ad trahere conabatur. Illa volebat eum sibi cum totis viribus retinere et ipsi volebant eum tradere sepulturae. Sicque pia lis erat et contentio miseranda 
+<PB N="110" REF="26"/>inter ipsos. Omnes tamen virgines compatientes dolori, pio desiderio coacti <MILESTONE N="285"/> sic amarissime flebant ut nullus eorum posset ad plenum verba formare. Videbant etenim piam matrem omni quidem solatio destitutam et super ipsam potius quam super dominum suum extinctum plangebant. Maior illis inerat dolor de dolore matris quam de morte Domini sui . . . . . . . . .</P>
+</DIV2>
+<CLOSER><DATELINE>BRESLAU.</DATELINE>
+<SIGNED>G. Kribel.</SIGNED></CLOSER>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

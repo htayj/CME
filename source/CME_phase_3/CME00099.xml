@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>9-16-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title. Checked <SUP>s</SUP>. Reviewed structure; removed a TRAILER; changed some TRAILERs to CLOSERs; restructured throughout, adding DIV2s and changing DIV3 to DIV2; added FLOATEXT P; removed incorrect MILESTONEs from Ps, NOTEs; changed stand-alone pipes to verbars; added missing MILESTONE; removed a P; added a Q. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs; added description. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00099">
+<STC T="M">99</STC>
+<BIBNO T="mec">CME00099</BIBNO>
+<VID>CME00099</VID>
+</IDG>
+<TEXT LANG="enm ger lat">
+<BODY>
+<DIV1 TYPE="miscellany">
+<PB REF="1"/>
+<HEAD>REZEPTE, SEGEN UND ZAUBERSPRÜCHE AUS ZWEI STOCKHOLMER HANDSCHRIFTEN.</HEAD>
+<DIV2 N="1" TYPE="preface">
+<HEAD>I.</HEAD>
+<P>Die nachstehend veröffentlichten stücke entstammen der in der kgl. bibliothek zu Stockholm befindlichen, früher Christ. Ray in Berlin gehörigen, medizinischen Miscellan-Hs. XIV in kl. 4<SUP>o</SUP>, beschrieben von G. Stephens in "Förteckning öfver de förnämsta brittiska och fransyska handskrifterna uti kongl. bibliotheket i Stockholm", Stockholm 1847, s. 40 ff.</P>
+<P>Er setzt die, mit ausnahme zweier pergamentblätter ganz auf papier geschriebene hs. in die zweite hälfte des 14. jahrh., doch könnte sie der schrift nach ebenso gut noch ins 15. gehören. Sie enthält, ausser einer menge medizinischer und kosmetischer rezepte in prosa, ein pflanzenverzeichnis (lat. und engl.) sowie eine anzahl poetischer und prosaischer segen und zaubersprüche in englischer, lateinischer und französischer (1) sprache, ferner zwei längere englische heilmittelgedichte in kurzen reimpaaren. Letztere hat Stephens mit einer auswahl kleinerer stücke i. j. 1844 im XXX. bande der <HI REND="italic">Archaeologia,</HI> s. 349 ff. veröffentlicht, wovon mir ein (der Stockholmer biblio∣thek gehöriger) separatabdruck mit dem besonderen titel: <HI REND="italic">Extracts in Prose and Verse from an Old English Medical Manuscript, preserved in the Royal Library at Stockholm,</HI> London 1844, vorliegt. Auch hier finden sich bemerkungen über die hs. (s, 68ff. des sep. druckes) samt einem glossar, das die seltneren wörter—leider meist ohne angabe der seiten und zeilen—verzeichnet.</P>
+<P><PB N="76" REF="2"/>
+Da die <HI REND="italic">Archaeologia</HI> wohl nur wenigen fachgenossen stets zugänglich sein dürfte, habe ich mich entschlossen, die inter∣essantesten der in der hs. enthaltenen stücke nach neuer collation zu veröffentlichen. Die wenigen von Stephens nicht publizierten nummern sind im folgenden abdruck mit einem sternchen bezeichnet. Eine eingehende beschreibung der hs. mir bis nach der publication der beiden grösseren gedichte <NOTE N="1" PLACE="foot">Dieselben sind inzwischen in bd. 18, s. 293 ff. dieser zs. erschienen.</NOTE> aufsparend, will ich hier nur bemerken, dass dieselbe von verschiedenen händen geschrieben ist: s. 1-91 mitte und 105-216 sind in einer grossen kräftigen schrift gehalten, die für <HI REND="italic">y</HI> und <HI REND="italic">þ</HI> unterschiedlos das zeichen <HI REND="italic">y</HI> setzt; s. 91 mitte—93 unten rühren von einer zweiten flüchtigeren hand her und zeigen eine blassere tinte—auch hier sind <HI REND="italic">y</HI> und <HI REND="italic">þ</HI> nicht unterschieden <NOTE N="2" PLACE="foot">Darnach ist Stephens' behauptung s. 69 unten zu berichtigen!</NOTE>; bei leerlassung von s. 94 beginnt mit 95 auf rötlichem papier eine dritte, zierliche hand mit kleiner schrift ohne rubra und linien, die <HI REND="italic">y</HI> und <HI REND="italic">þ</HI> deutlich scheidet und auf s. 104 mit der drittletzten zeile abbricht. Die beiden letzten zeilen sind wieder vom ersten schreiber, der dann, wie schon gesagt, bis zum ende fortfährt.</P>
+<P>Die sprache ist offenbar der dialekt des südöstlichen mittellandes: altes <HI REND="italic">â</HI> ist überall <HI REND="italic">ô,</HI> wo nicht frühe kürzung vorliegt; die zweite pers. sgl. ind. präs. endet auf <HI REND="italic">-est,</HI> die dritte auf <HI REND="italic">-ith,</HI> der pl. auf <HI REND="italic">-in</HI> oder <HI REND="italic">-en;</HI> der inf. auf <HI REND="italic">-en, -e</HI> oder <HI REND="italic">-in</HI> oder ist endungslos (z. b. <HI REND="italic">do, graunt);</HI> der pl. von <HI REND="italic">fo</HI> 'Feind' ist <HI REND="italic">fon</HI> (nr. 27); von pron. formen nenne ich <HI REND="italic">I</HI> 'ich', <HI REND="italic">sche</HI> 'sie', <HI REND="italic">þay, þey</HI> 'ii, eae', <HI REND="italic">hem</HI> 'eos, eas', <HI REND="italic">it</HI> 'es'; charak∣teristische verbalformen sind noch <HI REND="italic">schal, arn</HI> 'sind' (nr. 4), <HI REND="italic">sawgh</HI> 'sah' (nr. 13), <HI REND="italic">steygh</HI> 'stieg' (nr. 17). Ohne metathese steht <HI REND="italic">thridde,</HI> aber <HI REND="italic">frist</HI> neben <HI REND="italic">furst, warpyd</HI> (nr. 9) für <HI REND="italic">wrappyd.</HI> Endlich ist die schreibung <HI REND="italic">-th</HI> für <HI REND="italic">-ht, w</HI> für inl. <HI REND="italic">v</HI> und <HI REND="italic">qh</HI>-, <HI REND="italic">qu</HI>- für <HI REND="italic">hw</HI>- (wie in Genesis &amp; Exodus) für unsere hs. charak∣teristisch.</P>
+<P>Im folgenden abdruck sind die kontraktionen des textes aufgelöst und durch kursivierten druck angedeutet, das rot geschriebene dagegen durch fettdruck unterschieden. Die setzung grosser und kleiner buchstaben sowie die interpunktion ist nach heutigem gebrauch geregelt.</P>
+<P><PB N="77" REF="3"/>
+Folgende wörter sind bei Stratmann-Bradley noch nicht belegt:</P>
+<LIST>
+<ITEM><HI REND="italic">lawatorie</HI> nr. 22</ITEM>
+<ITEM><HI REND="italic">lorer-tre</HI> nr. 9</ITEM>
+<ITEM><HI REND="italic">plante (of þe fote)</HI> nr. 6</ITEM>
+<ITEM><HI REND="italic">rosmarine</HI> nr. 9</ITEM>
+<ITEM><HI REND="italic">sawge-leef</HI> nr. 8</ITEM>
+<ITEM><HI REND="italic">styngynge</HI> nr. 4</ITEM>
+<ITEM><HI REND="italic">strencthynge</HI> nr. 27</ITEM>
+<ITEM><HI REND="italic">succle</HI> nr. 5</ITEM>
+<ITEM><HI REND="italic">toth-ake</HI> nr. 6</ITEM>
+<ITEM><HI REND="italic">thresse</HI> (?) nr. 9</ITEM>
+<ITEM><HI REND="italic">vyrgine-wax</HI> nr. 22</ITEM>
+<ITEM><HI REND="italic">warpyd</HI> (für <HI REND="italic">wrappyd)</HI> nr. 9</ITEM>
+<ITEM><HI REND="italic">web</HI> (im auge) nr. 5</ITEM>
+</LIST>
+</DIV2>
+<DIV2 TYPE="collection of items">
+<DIV3 N="1" TYPE="item">
+<HEAD>1.* For to diliu<HI REND="italic">er</HI>in a deed chyld from <MILESTONE N="14." UNIT="S."/> a woman. <NOTE N="1" PLACE="foot"><HI REND="italic">Nicht bei St(ephens).—</HI></NOTE></HEAD>
+<P>¶ Take lekys bladys <HI REND="italic">and</HI> stampe hem <HI REND="italic">and</HI> bynde hem to here wombe | <MILESTONE N="15" UNIT="s."/> abowte þe nawle, <HI REND="italic">and</HI> þa<HI REND="italic">n</HI>ne sche wyll castyn owte þe deed chyld ano<HI REND="italic">n;</HI> and als sone as sche is diliu<HI REND="italic">er</HI>id of it, doo awey þe playstir, or ellis it wyll doo <NOTE N="2" PLACE="foot">n <HI REND="italic">ausradiert.—</HI></NOTE> here harme.</P>
+</DIV3>
+<DIV3 N="2" TYPE="item">
+<HEAD>2. To wety<HI REND="italic">n</HI> ȝif a ma<HI REND="italic">n</HI> [s]chal deye. <MILESTONE N="26" UNIT="S."/></HEAD>
+<P>¶ Also ȝif þi good frend be seke, take <NOTE N="3" PLACE="foot">e <HI REND="italic">aus</HI> y <HI REND="italic">corrig.—</HI></NOTE> þis erbe <NOTE N="4" PLACE="foot"><HI REND="italic">Es ist die rede von</HI> verveyn.</NOTE> in þi rythand <HI REND="italic">and</HI> take his rythand in þi rythand, <HI REND="italic">and</HI> lete þe erbe be betwene, þ<HI REND="italic">at</HI> he wot not, <HI REND="italic">and</HI> aske qhow he faryth <HI REND="italic">and</HI> qhow he hop<HI REND="italic">ith</HI> of hy<HI REND="italic">m</HI>-self? <HI REND="italic">And</HI> ȝif he say, he schal leue <HI REND="italic">and</HI> fare wel, he schal leue; <HI REND="italic">and</HI> ȝif he say, he wot well c<HI REND="italic">er</HI>tayn þ<HI REND="italic">at</HI> he schal deyin, he schal be ded of þat seknesse.</P>
+</DIV3>
+<DIV3 N="3" TYPE="item">
+<HEAD>3. For to gete lowe. <MILESTONE N="26" UNIT="S."/></HEAD>
+<P>¶ Also qhwo so beryth it <NOTE N="5" PLACE="foot"><HI REND="italic">Bezieht sich auf das vorher gen.</HI> verueyn.</NOTE> vp-on hym, he schal hawe lowe of grete maystrys, <HI REND="italic">and</HI> þai schal nowth refuse his askyng<HI REND="italic">is,</HI> but grau<HI REND="italic">nt</HI> hym w<HI REND="italic">ith</HI> good wyll þ<HI REND="italic">at</HI> þat he wele.</P>
+</DIV3>
+<DIV3 N="4" TYPE="item">
+<HEAD>4. Garlek; bytyng; strokys [of] venym<HI REND="italic">u</HI>s <MILESTONE N="31" UNIT="S."/> bestys; bytynge.</HEAD>
+<P>¶ V<HI REND="italic">er</HI>tues of garlek: Stampe it <HI REND="italic">and</HI> temp<HI REND="italic">er</HI>e it w<HI REND="italic">ith</HI> hony, <HI REND="italic">and</HI> it wyl hole þe bytyng of a wod hou<HI REND="italic">n</HI>d <HI REND="italic">and</HI> alle man<HI REND="italic">er</HI> strokys þ<HI REND="italic">at</HI> arn venym<HI REND="italic">us.</HI></P>
+<P>¶ And it schall fere nedd<HI REND="italic">er</HI>ys <HI REND="italic">and</HI> alle maner<HI REND="italic">e</HI> of venym<HI REND="italic">us</HI> bestys, þat þei schal noȝt come nyh <NOTE N="6" PLACE="foot">nyth <HI REND="italic">Hs.</HI></NOTE> þe, for to do þe non
+<PB N="78" REF="4"/>
+harme, qhwyl it is vp-on þe. Also stampe it <HI REND="italic">and</HI> temp<HI REND="italic">er</HI>e it w<HI REND="italic">ith</HI> hony <HI REND="italic">and</HI> it | <MILESTONE N="32" UNIT="s."/> draw<HI REND="italic">ith</HI> <NOTE N="1" PLACE="foot">Sty<HI REND="italic">n</HI>ggy<HI REND="italic">n</HI>ge <HI REND="italic">rot am rande.—</HI></NOTE> out venym of bytyng [or] of stynggynge of ony man<HI REND="italic">er</HI> best þ<HI REND="italic">at</HI> is venym<HI REND="italic">us.</HI></P>
+</DIV3>
+<DIV3 N="5" TYPE="item">
+<HEAD>5. Succle, a good medycyne for þe web <MILESTONE N="33" UNIT="S."/> i<HI REND="italic">n</HI> þe eye.</HEAD>
+<P>¶ A good medysyne for eyne: take <NOTE N="2" PLACE="foot"><HI REND="italic">Vor</HI> take <HI REND="italic">ist</HI> take and stampe <HI REND="italic">rot durchgestrichen.—</HI></NOTE> þe rede hony-suckle∣gres <HI REND="italic">and</HI> do caste awey alle þe flour abowe <HI REND="italic">and</HI> stampe it <HI REND="italic">and</HI> take þe jus thorwe a clene lynene cloth <HI REND="italic">and</HI> put it in þi<HI REND="italic">n</HI> eye; <HI REND="italic">and</HI> qu<HI REND="italic">an</HI>ne þ<HI REND="italic">ou</HI> schalt gadre þis erbe, sette þe dou<HI REND="italic">n</HI> on þin knes <HI REND="italic">and</HI> seye IX pat<HI REND="italic">er</HI> nostres in þe wor[s]chepe of þe holy t<HI REND="italic">ri</HI>nyte, <HI REND="italic">and</HI> IX aues to grete w<HI REND="italic">ith</HI> oure lady, <HI REND="italic">and</HI> a crede; <HI REND="italic">and</HI> ȝyf þis may nowth dist<HI REND="italic">ro</HI>ye þe webbe, put þ<HI REND="italic">er</HI>to of þe mary in þe grete bon of þe gosys wenge; take <HI REND="italic">and</HI> make a lytyl pelote of bothe wel medelyd to-gedere <HI REND="italic">and</HI> put to þe web <HI REND="italic">and</HI> ly stylle <HI REND="italic">and</HI> slepe, <HI REND="italic">and</HI> it wyl werke ryth scha[r]ply, for it is a good medicine prowyd.</P>
+</DIV3>
+<DIV3 N="6" TYPE="item">
+<HEAD>6. For toth-ake. <MILESTONE N="34" UNIT="S."/></HEAD>
+<P>Take an erbe þ<HI REND="italic">at</HI> is clepyd bursa pastoris, <HI REND="italic">and</HI> ȝif þe ache of þe teeth be in þe ryth syde of þi mowth, putte þe forseyde erbe in þe lefte scho be þe bare plante of þe fot<HI REND="italic">e.</HI> <NOTE N="3" PLACE="foot">fott <HI REND="italic">mit einem schnörkel Hs.—</HI></NOTE></P>
+</DIV3>
+<DIV3 N="7" TYPE="item">
+<HEAD>7. For þe fally<HI REND="italic">n</HI>g-ewell. <MILESTONE N="35" UNIT="S."/></HEAD>
+<P>Sey þis word: 'ananiȝapt<HI REND="italic">us</HI>' in hys ere, qhwa<HI REND="italic">n</HI> he is fallyn dou<HI REND="italic">n</HI> in þ<HI REND="italic">at</HI> ewyll, and also in a wo<HI REND="italic">m</HI>ma<HI REND="italic">n</HI>nys ere: 'ananiȝapta', <HI REND="italic">and</HI> þei schall neu<HI REND="italic">er</HI>e more aftir fele þ<HI REND="italic">at</HI> ewyll.</P>
+</DIV3>
+<DIV3 N="8" TYPE="item">
+<HEAD>8. Here is a <NOTE N="4" PLACE="foot"><HI REND="italic">nach</HI> a <HI REND="italic">ist</HI> p<HI REND="italic">re</HI>cious <HI REND="italic">rot durchgestrichen.—</HI></NOTE> medicyne for feu<HI REND="italic">er</HI>ys. <MILESTONE N="47" UNIT="S."/></HEAD>
+<P>¶ Take a sawge-leef <HI REND="italic">and</HI> wryte þ<HI REND="italic">er</HI>on: 'Chr<HI REND="italic">istu</HI>s <NOTE N="5" PLACE="foot">χp̄c <HI REND="italic">Hs.—</HI></NOTE> tonat' <HI REND="italic">and</HI> late þe seke man it ete þe fryst day, <HI REND="italic">and</HI> seye a pater nost<HI REND="italic">er,</HI> aue Maria <HI REND="italic">and</HI> a crede. ¶ þe secunde day wryte on anoþ<HI REND="italic">er</HI> lef: 'angelus nu<HI REND="italic">n</HI>ciat', <HI REND="italic">and</HI> lete þe seke ete it <HI REND="italic">and</HI> seye ij pat<HI REND="italic">er</HI> nostris <HI REND="italic">and</HI> ij aue Mariais <HI REND="italic">and</HI> ij credis. ¶ þe thryd day wryte on þe thrydde leef: 'Joh<HI REND="italic">ann</HI>es predicat' <NOTE N="6" PLACE="foot">predi<HI REND="italic">n</HI>cat <HI REND="italic">Hs.</HI></NOTE> <HI REND="italic">and</HI> late þe seke ete it and seye iij pat<HI REND="italic">er</HI> nostris, iij aues <HI REND="italic">and</HI> iij credis.
+<PB N="79" REF="5"/>
+¶ And qwa<HI REND="italic">n</HI>ne he is hool, þ<HI REND="italic">at</HI> he do seye iij messys: on of þe holy gost, þe secu<HI REND="italic">n</HI>de of sey<HI REND="italic">n</HI>t Mykel, þe thredde of seynt Jon baptyst <NOTE N="1" PLACE="foot">babtyst <HI REND="italic">Hs.—</HI></NOTE>; and qwa<HI REND="italic">n</HI>ne he heryth name þe feu<HI REND="italic">er</HI>ys, blysse hy<HI REND="italic">m</HI> seyi<HI REND="italic">n</HI>ge an aue Maria.</P>
+</DIV3>
+<DIV3 N="9" TYPE="item">
+<HEAD>9. Rosmarine. <NOTE N="2" PLACE="foot"><HI REND="italic">Beginnt schon s. 80, doch ist das vorhergehende uninteressant.—</HI></NOTE> <MILESTONE N="85" UNIT="S."/></HEAD>
+<P>¶ Also þe erbe leyd at a dore catchyth awey alle man<HI REND="italic">er</HI> wenemys wormys thorow his odowr, <HI REND="italic">and</HI> suffryth hem nowȝt for to entryn. ¶ Also ȝif a man or a wo<HI REND="italic">m</HI>man bere on hym a stalke or a staf þ<HI REND="italic">er</HI>of, it kepyth hy<HI REND="italic">m</HI> fro <NOTE N="3" PLACE="foot">ro <HI REND="italic">aus einem andern buchstaben korrigiert.—</HI></NOTE> thresse (?) <HI REND="italic">and</HI> fro wykked sp<HI REND="italic">ri</HI>tys, as well be nyth as be day, for kyndely it is contrarious to deuelis <HI REND="italic">and</HI> to wikkyd sp<HI REND="italic">ri</HI>tys, as þe ston þ<HI REND="italic">at</HI> is callyd jet. ¶ Also make a spon of hys tre an[d] ete þ<HI REND="italic">er</HI>-wyth, <HI REND="italic">and</HI> it is helply to the body ageyn venym <HI REND="italic">and</HI> poysou<HI REND="italic">n.</HI> ¶ Also ȝif on hyde hy<HI REND="italic">m</HI>-self in a busch þ<HI REND="italic">er</HI>-of, or ellys he be warpyd weel in his lewys <HI REND="italic">and</HI> his braunchys, no thonder no[r] leuene schall hym towchyn, ne smytyn, ne deren; þe same doth þe lorer-tre as anemptis þe thonder, nowth as anemptys þe leuene. ¶ We redyn þ<HI REND="italic">at</HI> Tiberie, þe Emp<HI REND="italic">er</HI>owre of Rome, dredde thonder, no man soo, and be-cause þ<HI REND="italic">er</HI>-of he dede maken a gardeyn all of lorer, and [at] eu<HI REND="italic">er</HI>i thond<HI REND="italic">er</HI> þer<HI REND="italic">e</HI> he hydde hym.</P>
+</DIV3>
+<DIV3 N="10" TYPE="item">
+<HEAD>10. Charme for þe sam. <NOTE N="4" PLACE="foot"><HI REND="italic">Andre hand.—</HI></NOTE> <MILESTONE N="103" UNIT="S."/></HEAD>
+<P>a) ✚ In no<HI REND="italic">m</HI>i<HI REND="italic">n</HI>e ✚ pat<HI REND="italic">ri</HI>s ✚ <HI REND="italic">et</HI> filii ✚ et sp<HI REND="italic">iri</HI>t<HI REND="italic">us</HI> s<HI REND="italic">anc</HI>ti. Ame<HI REND="italic">n.</HI> ✚ In mo<HI REND="italic">n</HI>te Selyon <HI REND="italic">et</HI> ciuytate Epheson req<HI REND="italic">ui</HI>escu<HI REND="italic">n</HI>t septe<HI REND="italic">m</HI> dormientes: Malc<HI REND="italic">us,</HI> Maximin<HI REND="italic">us,</HI> Martin<HI REND="italic">us,</HI> Dyonisius, Joh<HI REND="italic">ann</HI>es, Serapyon, Constantin<HI REND="italic">us.</HI> ✚ O<HI REND="italic">mn</HI>ipote<HI REND="italic">n</HI>s deus, q<HI REND="italic">ui</HI> eos <NOTE N="5" PLACE="foot"><HI REND="italic">Darnach</HI> a<HI REND="italic">n</HI>i<HI REND="italic">m</HI>a mab<HI REND="italic">us durchgestrichen.—</HI></NOTE> a manib<HI REND="italic">us</HI> tyra<HI REND="italic">n</HI>ni seuienti[s] <NOTE N="6" PLACE="foot">seuiente <HI REND="italic">Hs.—</HI></NOTE> <HI REND="italic">et</HI> ab ydolor<HI REND="italic">um</HI> cult<HI REND="italic">ur</HI>a lib<HI REND="italic">er</HI>are dignatus e<HI REND="italic">st,</HI> ip<HI REND="italic">s</HI>e te dignet<HI REND="italic">ur,</HI> famulu<HI REND="italic">m</HI> suu<HI REND="italic">m</HI> <NOTE N="7" PLACE="foot">tuu<HI REND="italic">m Hs.—</HI></NOTE> v<HI REND="italic">e</HI>l famula<HI REND="italic">m</HI> sua<HI REND="italic">m</HI> <NOTE N="8" PLACE="foot">tua<HI REND="italic">m Hs.—</HI></NOTE> N., liberare a febrib<HI REND="italic">us</HI> frigid<HI REND="italic">is et</HI> callidis, cotidian<HI REND="italic">is,</HI> biduan<HI REND="italic">is,</HI> t<HI REND="italic">er</HI>cian<HI REND="italic">is,</HI> q<HI REND="italic">ua</HI>rttan<HI REND="italic">is,</HI> diurn<HI REND="italic">is,</HI> seu noc∣t<HI REND="italic">ur</HI>nys! ✚</P>
+<P>b) Ad portu<HI REND="italic">m</HI> Galylee <NOTE N="9" PLACE="foot">Galelye <HI REND="italic">Hs.</HI></NOTE> iacebat Petrus. Ven<HI REND="italic">it</HI> d<HI REND="italic">omi</HI>n<HI REND="italic">u</HI>s <HI REND="italic">et</HI> int<HI REND="italic">er</HI>rogauit eu<HI REND="italic">m:</HI> 'Quid jacet h<HI REND="italic">ic</HI>?' R<HI REND="italic">espo</HI>ndit Petrus:
+<PB N="80" REF="6"/>
+'D<HI REND="italic">omi</HI>ne, plen<HI REND="italic">us</HI> su<HI REND="italic">m</HI> febrib<HI REND="italic">us</HI> <NOTE N="1" PLACE="foot">frebrib<HI REND="italic">us Hs., das erste</HI> r <HI REND="italic">von moderner hand durchgestrichen.—</HI></NOTE>. D<HI REND="italic">omi</HI>n<HI REND="italic">u</HI>s eu<HI REND="italic">m</HI> tangebat, <HI REND="italic">et</HI> ip<HI REND="italic">s</HI>e san<HI REND="italic">us</HI> fiebat. D<HI REND="italic">omi</HI>n<HI REND="italic">u</HI>s inde ambulat <HI REND="italic">et</HI> ip<HI REND="italic">s</HI>e Petrus se∣q<HI REND="italic">ue</HI>bat<HI REND="italic">ur</HI> eu<HI REND="italic">m. Et</HI> dixit d<HI REND="italic">omi</HI>n<HI REND="italic">u</HI>s: 'Quid me seq<HI REND="italic">ue</HI>re, Petre?'—'D<HI REND="italic">omi</HI>ne, peto, q<HI REND="italic">ui</HI> sup<HI REND="italic">er</HI> se h<HI REND="italic">ab</HI>u<HI REND="italic">er</HI>it ista u<HI REND="italic">er</HI>ba scripta, febres ey no<HI REND="italic">n</HI> nocea[n]t!' Dixit d<HI REND="italic">omi</HI>n<HI REND="italic">u</HI>s: 'Petre, sicut petisti, s<HI REND="italic">ic</HI> fiat!' Ame<HI REND="italic">n.</HI> ✚</P>
+<LG>
+<L>Sint medicyna mei pia crux <HI REND="italic">et</HI> passio <HI REND="italic">Christi,</HI> <NOTE N="2" PLACE="foot">x<SUP>i</SUP> <HI REND="italic">Hs.; die verse sind nicht abgesetzt.—</HI></NOTE></L>
+<L>vuln<HI REND="italic">er</HI>a <NOTE N="3" PLACE="foot">wln<HI REND="italic">er</HI>a <HI REND="italic">Hs.—</HI></NOTE> q<HI REND="italic">ui</HI>nq<HI REND="italic">ue</HI> dei sint medycyna mei!</L>
+<L>V<HI REND="italic">ir</HI>ginis <HI REND="italic">et</HI> lac<HI REND="italic">ri</HI>me m<HI REND="italic">ihi</HI> sint medicami<HI REND="italic">n</HI>a t<HI REND="italic">ri</HI>na <NOTE N="4" PLACE="foot">t<HI REND="italic">ri</HI>ne <HI REND="italic">Hs.—</HI></NOTE>, ✚</L>
+<L>hec m<HI REND="italic">ihi</HI> portanti succ<HI REND="italic">ur</HI>rant febricitanti! Ame<HI REND="italic">n.</HI></L>
+</LG>
+<P>✚ A ✚ g. ✚ l. ✚ a. ✚ Jaspar ✚ Melchysar ✚ Baptizar. ✚ Et dic<HI REND="italic">at</HI> infirm<HI REND="italic">us</HI> p<HI REND="italic">er</HI> qui<HI REND="italic">n</HI>q<HI REND="italic">ue</HI> dies <NOTE N="5" PLACE="foot">dicos <HI REND="italic">Hs.—</HI></NOTE> cotidie qui<HI REND="italic">n</HI>q<HI REND="italic">ue</HI> pat<HI REND="italic">er</HI> n<HI REND="italic">oste</HI>r <HI REND="italic">et</HI> q<HI REND="italic">ui</HI>nq<HI REND="italic">ue</HI> aue <HI REND="italic">et</HI> t<HI REND="italic">er</HI> credo in deu<HI REND="italic">m</HI> p<HI REND="italic">at</HI>rem.</P>
+</DIV3>
+<DIV3 N="11" TYPE="item">
+<HEAD>11. Charme for [to] stau<HI REND="italic">n</HI>che blod. <MILESTONE N="103" UNIT="S."/></HEAD>
+<P>Longeys let <NOTE N="6" PLACE="foot">led <HI REND="italic">Hs.—</HI></NOTE> our lord Jesu<HI REND="italic">m</HI> Criȝst blod, whiche blod was holy <HI REND="italic">and</HI> god. Thorw þ<HI REND="italic">at</HI> iche blod þ<HI REND="italic">at</HI> is holy <HI REND="italic">and</HI> good, I comawnde þe, Jon or W., þ<HI REND="italic">at</HI> þow <NOTE N="7" PLACE="foot">þ <HI REND="italic">aus einem andern buchstaben.—</HI></NOTE> blede no more.</P>
+</DIV3>
+<DIV3 N="12" TYPE="item">
+<HEAD>12. For þe jawndys. p<HI REND="italic">ro</HI>batu<HI REND="italic">m</HI> e<HI REND="italic">st</HI>! <MILESTONE N="104" UNIT="S."/></HEAD>
+<P>Tak þe vrine of hy<HI REND="italic">m</HI> þ<HI REND="italic">at</HI> haþ þe iawndys, <HI REND="italic">and</HI> barly-mele, <HI REND="italic">and</HI> do hy<HI REND="italic">m</HI> þ<HI REND="italic">at</HI> haþ þe iawndis, maken kake þ<HI REND="italic">er</HI>-of, <HI REND="italic">and</HI> sithen cast it in-to þe fier <HI REND="italic">and</HI> let it bre<HI REND="italic">n</HI>ny<HI REND="italic">n, and</HI> whan it is brent, he þ<HI REND="italic">at</HI> haþ þe jand<HI REND="italic">is,</HI> schal ben hol.</P>
+</DIV3>
+<DIV3 N="13" TYPE="item">
+<HEAD>13. Here bygy<HI REND="italic">n</HI>nyth a charme for to <MILESTONE N="110" UNIT="S."/> stawnchy<HI REND="italic">n</HI> blood. <NOTE N="8" PLACE="foot"><HI REND="italic">Wieder die erste hand.—</HI></NOTE></HEAD>
+<P>¶ Furst byhowyȝt[h] to knowyn a ma<HI REND="italic">n</HI>nys name, þanne go þ<HI REND="italic">ou</HI> to chyrche and sey þis charme, and þ<HI REND="italic">at</HI> <NOTE N="9" PLACE="foot">þ<HI REND="italic">at am rande, mit verweisungszeichen.—</HI></NOTE> þ<HI REND="italic">ou</HI> seye hyt noȝt but for man or for woma<HI REND="italic">n:</HI></P>
+<P>"In no<HI REND="italic">m</HI>i<HI REND="italic">n</HI>e patris &amp; c<HI REND="italic">etera.</HI> Whanne oure lord was don on þe crosse, þa<HI REND="italic">n</HI>ne come Longeus thedyr <HI REND="italic">and</HI> smot hym <NOTE N="10" PLACE="foot"><HI REND="italic">Nach</HI> hym <HI REND="italic">ist</HI> to þe herte <HI REND="italic">durchgestrichen.—</HI></NOTE> w<HI REND="italic">ith</HI> a spere in hys syde. Blod <HI REND="italic">and</HI> wat<HI REND="italic">er</HI> þ<HI REND="italic">er</HI> come owte at þe wou<HI REND="italic">n</HI>de, and he wypyd <NOTE N="11" PLACE="foot">wyppyd <HI REND="italic">Hs.</HI></NOTE> hys eyne <HI REND="italic">and</HI> anon he sawgh ryth thorowgh þe vertu of þat god. þerfore I co<HI REND="italic">n</HI>jure the, blood,
+<PB N="81" REF="7"/>
+þat þ<HI REND="italic">ou</HI> come noȝt owte of þis c<HI REND="italic">ri</HI>sten man or c<HI REND="italic">ri</HI>styn woman <NOTE N="1" PLACE="foot">woman <HI REND="italic">and Hs.</HI></NOTE> N. In no<HI REND="italic">m</HI>i<HI REND="italic">n</HI>e patris <HI REND="italic">et</HI> filii, <HI REND="italic">et</HI> c<HI REND="italic">ctera.</HI>"</P>
+<P>And þis charme seye thre sythys. And þa<HI REND="italic">n</HI>ne tharst noȝt recchy<HI REND="italic">n,</HI> where þ<HI REND="italic">at</HI> þe man be or þe woman, so þ<HI REND="italic">at</HI> þ<HI REND="italic">ou</HI> knowe þe name.</P>
+</DIV3>
+<DIV3 N="14" TYPE="item">
+<HEAD>14. Anoþ<HI REND="italic">er</HI> charme for blood. <MILESTONE N="110" UNIT="S."/></HEAD>
+<P>Crist <NOTE N="2" PLACE="foot">Crist þ<HI REND="italic">at Hs.</HI></NOTE> was of þe wirgine Marie born <HI REND="italic">and</HI> cristenid in þe flum Jordan; also þe flum stood, also stawnche þis blood of N. In no<HI REND="italic">m</HI>i<HI REND="italic">n</HI>e patris <HI REND="italic">et</HI> filii, <HI REND="italic">et</HI> c<HI REND="italic">etera.</HI></P>
+</DIV3>
+<DIV3 N="15" TYPE="item">
+<HEAD>15. A medicine for blood. <MILESTONE N="110" UNIT="S."/></HEAD>
+<P>Take p<HI REND="italic">er</HI>wy<HI REND="italic">n</HI>ke <HI REND="italic">and</HI> holde it in þin mowth þe whyle þ<HI REND="italic">at</HI> men letyn the blood, <HI REND="italic">and</HI> þ<HI REND="italic">er</HI> schall comy<HI REND="italic">n</HI> no blood owte at þe wou<HI REND="italic">n</HI>de.</P>
+</DIV3>
+<DIV3 N="16" TYPE="item">
+<HEAD>16. Aȝenst all man<HI REND="italic">er</HI> of opyn wou<HI REND="italic">n</HI>des. <MILESTONE N="117" UNIT="S."/></HEAD>
+<P>Make a plate | <MILESTONE N="118" UNIT="s."/> of leed as large as þ<HI REND="italic">ou</HI> mayst, so þ<HI REND="italic">at</HI> it may hylly<HI REND="italic">n</HI> all þe wo[u]nde, and make it iiij-corneryd, <HI REND="italic">and</HI> make a crosse at eu<HI REND="italic">er</HI>i corner, <HI REND="italic">and</HI> þe fyfte c[r]osse in þe myddys in þis manere: <FIGURE><FIGDESC>rectangle with an array of crosses</FIGDESC>
+</FIGURE> and vp-on iche crosse seye a pat<HI REND="italic">er</HI> no<HI REND="italic">ste</HI>r <HI REND="italic">and</HI> a aue w<HI REND="italic">ith</HI> þis same charme:
+</P>
+<P>¶ "Oure lord Je<HI REND="italic">s</HI>u<HI REND="italic">s</HI> <NOTE N="3" PLACE="foot">Jhū <HI REND="italic">Hs.</HI></NOTE> Crist, as þ<HI REND="italic">ou</HI> sufferdyst <NOTE N="4" PLACE="foot">d <HI REND="italic">über der zeile nachtragen.</HI></NOTE> v wou<HI REND="italic">n</HI>dys on þe crosse for vs synfull me<HI REND="italic">n,</HI> so hele þis ma<HI REND="italic">n</HI> or woma<HI REND="italic">n</HI> of þis sor euyll <HI REND="italic">and</HI> of alle man<HI REND="italic">er</HI> ewelys. Amen, p<HI REND="italic">er</HI> charite!"</P>
+<P>And þa<HI REND="italic">n</HI>ne wasche þe wou<HI REND="italic">n</HI>de <HI REND="italic">and</HI> þe leed w<HI REND="italic">ith</HI> hoot watir and loke þ<HI REND="italic">at</HI> þe plate towche noȝt þe erthe, <HI REND="italic">and</HI> seye in þis wyse:</P>
+<P>"I coniure þe, sor, by þe wertu of þis crosse <HI REND="italic">and</HI> his passyou<HI REND="italic">n</HI> þ<HI REND="italic">at</HI> schedde his blood on þe c[r]osse, þ<HI REND="italic">at</HI> þis sor grewe noȝt þis man nor þis woma<HI REND="italic">n</HI> nor no<HI REND="italic">n</HI> oþ<HI REND="italic">er</HI> sor, ne in no lym of his bodi!"</P>
+<P>And it is to vndirstonden, þ<HI REND="italic">at</HI> þis charme schall ben seyd ou<HI REND="italic">er</HI> eu<HI REND="italic">er</HI>y c[r]osse. And ou<HI REND="italic">er</HI> þe fyfte crosse þ<HI REND="italic">at</HI> is in þe myddis, þ<HI REND="italic">ou</HI> schalt seyn þis same charme:</P>
+<P><PB N="82" REF="8"/>
+¶ "I coniure þe, sor, for þe thre nayll[es] þat Crist suffrid w<HI REND="italic">ith</HI> passiou<HI REND="italic">n and</HI> deth on þe crosse and warischid vs of oure sy<HI REND="italic">n</HI>nys, soo dilyu<HI REND="italic">er</HI> þi serwau<HI REND="italic">n</HI>t N., be it man or woman! Amen, p<HI REND="italic">er</HI> charite!"</P>
+<P><HI REND="italic">And</HI> warne þe seke man, þ<HI REND="italic">at</HI> he do no folye in þe mene tyme!</P>
+</DIV3>
+<DIV3 N="17" TYPE="item">
+<HEAD>17. Here bygy<HI REND="italic">n</HI>nyth a charme, þat schall <MILESTONE N="120" UNIT="S."/> waryschy<HI REND="italic">n</HI> iche cristynma<HI REND="italic">n</HI> for to slee þe worm, þe gowte <HI REND="italic">and</HI> þe festre and þe rancle. And forsothe it schall dystroyn deed flesche, for sey<HI REND="italic">n</HI>t Ewstas of Rome made þis charme for his good wyf, þ<HI REND="italic">at</HI> suffryd sorow <HI REND="italic">and</HI> grete peynys. <NOTE N="1" PLACE="foot">Das ganze ist geschwärzt, doch gut lesbar.</NOTE></HEAD>
+<P>Also soþely as God seyde <HI REND="italic">and</HI> soth seyde, also soþely as he dede <HI REND="italic">and</HI> well dede, and also soþely as he toke flesche <HI REND="italic">and</HI> blood of þe virgine Marie, and also sothly as his p<HI REND="italic">re</HI>ciows body suffryd wou<HI REND="italic">n</HI>dis to bry<HI REND="italic">n</HI>gyn vs synfull men owt of peyne, also soþely as he suffryd in þe crosse his body to be doon, also soþely as hys body was spredde <HI REND="italic">and</HI> stykyd, also soþely as in bothe halwys of hym hangyd two thewys, also soþely as his syde was stongy<HI REND="italic">n</HI> <NOTE N="2" PLACE="foot">stongu<HI REND="italic">n Hs.</HI></NOTE> w<HI REND="italic">ith</HI> a spere, also soþely as his feet w<HI REND="italic">ith</HI> naylys wery<HI REND="italic">n</HI> stekyd, also soþely as his holy heed was crownyd w<HI REND="italic">ith</HI> thornys, also soþely as in þe holy sepulcre his blyssyd body restyd, also soþely as he þe thrydde day roos to lyf, also soþely as he brak þe ȝatis of helle, also soþely as he hys owyn vp-ledde, also soþely as he steygh vp to hewy<HI REND="italic">n,</HI> also soþely as he þe deuyl of helle bond, also soþely as he hym-self syttyth on his fadiris ryth syde, also soþely as hee atte <NOTE N="3" PLACE="foot">atte þe <HI REND="italic">Hs.</HI></NOTE> day of dome schall comy<HI REND="italic">n</HI> and iche man of XXX wy<HI REND="italic">n</HI>tir of flesche schall diliu<HI REND="italic">er</HI>in, also soþely as owre lord schall jugyn all men at his will, also soþely as it is soth <HI REND="italic">and</HI> soth | <MILESTONE N="121" UNIT="s."/> schall bee: ¶ also soþely, lord, hele þis seke man N. of þe gowte <NOTE N="4" PLACE="foot">gowto <HI REND="italic">Hs.</HI></NOTE> ✚ and of þe rancle ✚ and of þe worme ✚ and þe deed festre! ✚ And þe gowte deed is ✚ and þe festr<HI REND="italic">e</HI> deed is ✚ and deed schall ben from þe! ✚ Amen, p<HI REND="italic">er</HI> charite!</P>
+<P>And seye a pat<HI REND="italic">er</HI> no<HI REND="italic">ste</HI>r in þe name of þe fadir <HI REND="italic">and</HI> sone
+<PB N="83" REF="9"/>
+<HI REND="italic">and</HI> holy gost. And so iche cristenman <NOTE N="1" PLACE="foot">man cristen <HI REND="italic">Hs.</HI></NOTE> schall seye, þ<HI REND="italic">at</HI> w<HI REND="italic">ith</HI> þis charme is charmyd, and for soþe he schall ben hooll anoon. Je<HI REND="italic">su</HI>s <NOTE N="2" PLACE="foot">Jhs̄ <HI REND="italic">Hs.</HI></NOTE>, amen. And þa<HI REND="italic">n</HI>ne do seyne a messe of þe holy gost <HI REND="italic">and</HI> make þe seke ma<HI REND="italic">n</HI> to heren þe messe fastynge, and kepe hem p<HI REND="italic">ri</HI>uy and cloos, þat no man knowe þis!</P>
+</DIV3>
+<DIV3 N="18" TYPE="item">
+<HEAD>18. *For a woman þat is w<HI REND="italic">ith</HI> a deed chyld. <MILESTONE N="121" UNIT="S."/></HEAD>
+<P>Take ditayne <HI REND="italic">and</HI> tempre it w<HI REND="italic">ith</HI> watir <HI REND="italic">and</HI> ȝif it here to drynke.</P>
+</DIV3>
+<DIV3 N="19" TYPE="item">
+<HEAD>19. *Anoþ<HI REND="italic">er.</HI></HEAD>
+<P>Take leekys hedis <HI REND="italic">and</HI> sethe hem well i<HI REND="italic">n</HI> watir <HI REND="italic">and</HI> bynd hem to here wombe abowtyn here nawele, <HI REND="italic">and</HI> sche schall hawy<HI REND="italic">n</HI> chyld anon, þowgh it be deed. But as sone as sche is dylyu<HI REND="italic">er</HI>yd, doo awey þe playstir, or ellys it wyll don here mechell harm.</P>
+</DIV3>
+<DIV3 N="20" TYPE="item">
+<HEAD>20. *To wety<HI REND="italic">n,</HI> ȝif a woma<HI REND="italic">n</HI> be w<HI REND="italic">ith</HI> chylde <HI REND="italic">and</HI> whethyr it is a man or woman.</HEAD>
+<P>Take þe mylke of a woman þ<HI REND="italic">at</HI> is w<HI REND="italic">ith</HI> chylde, <HI REND="italic">and</HI> do it in a cuppe full of watir, <HI REND="italic">and</HI> ȝif þe mylk holde it abowy<HI REND="italic">n,</HI> þa<HI REND="italic">n</HI>ne it is a male, <HI REND="italic">and</HI> ȝif it synke down to þe bottu<HI REND="italic">m,</HI> þa<HI REND="italic">n</HI>ne it is a female.</P>
+</DIV3>
+<DIV3 N="21" TYPE="item">
+<HEAD>21. For þe gowte gayne <HI REND="italic">and</HI> fallynge ewyll.</HEAD>
+<P>Take rauynys <NOTE N="3" PLACE="foot">rauy<HI REND="italic">n</HI>nys <HI REND="italic">Hs.</HI></NOTE> bryddys all quyke owte of here neste <HI REND="italic">and</HI> loke, þat þei towche noȝt the erthe, nor þat þei comy<HI REND="italic">n</HI> in non hows, <HI REND="italic">and</HI> bre<HI REND="italic">n</HI>ne hem in a newe potte all to powdir <HI REND="italic">and</HI> ȝif it þe seke man to drynkyn!</P>
+</DIV3>
+<DIV3 N="22" TYPE="item">
+<HEAD>22. *Anoþ<HI REND="italic">er</HI> medicine for þe same.</HEAD>
+<P>Do syngy<HI REND="italic">n</HI> a messe of þe holy gost <HI REND="italic">and</HI> make vij candellis of vy[r]gine-wax <HI REND="italic">and</HI> write <NOTE N="4" PLACE="foot">vrite <HI REND="italic">Hs.</HI></NOTE> in þe furst candell su<HI REND="italic">n</HI>day, <HI REND="italic">and</HI> in þe secu<HI REND="italic">n</HI>de mu<HI REND="italic">n</HI>day, in þe thrydde tiusday, in þe ferthe wed∣dynis-day, in þe v<SUP>te</SUP> thorisday, in þe sexte fryday, <HI REND="italic">and</HI> in þe vii<SUP>te</SUP> satirday. Þa<HI REND="italic">n</HI>ne | <MILESTONE N="122" UNIT="s."/> late lyghtin hem all at onys at messe, <HI REND="italic">and</HI> late hem bre<HI REND="italic">n</HI>ne, tyll þat þe messe bee doon; and aftyr þat do þe seke man takyn oon of þe candellys, and whyche candyll þ<HI REND="italic">at</HI> he take, he schall fastyn þat day, þ<HI REND="italic">at</HI> is
+<PB N="84" REF="10"/>
+wrety<HI REND="italic">n</HI> þ<HI REND="italic">er</HI>on, to bred <HI REND="italic">and</HI> to watyr, terme of hys lyf, or ellys his fadir or hys modir for hym, tyll þat he be of age, <HI REND="italic">and</HI> loke, þ<HI REND="italic">at</HI> þe seke man be well schrewy<HI REND="italic">n and</HI> shewe well hys schryfte, and þ<HI REND="italic">at</HI> he drynke þe watir of þe lawatorie, after þat þe prest hath vsyd! <HI REND="italic">And</HI> ȝif he holde it, he schall ben hooll for sothe.</P>
+</DIV3>
+<DIV3 N="23" TYPE="item">
+<HEAD>23. For þe mylte. <MILESTONE N="129" UNIT="S."/></HEAD>
+<P>Take þe sowthystill <NOTE N="1" PLACE="foot">ffow- <HI REND="italic">Hs.</HI></NOTE> <HI REND="italic">and</HI> late hym sethyn <NOTE N="2" PLACE="foot">set sethyn <HI REND="italic">Hs.</HI></NOTE> in whyt wyn <HI REND="italic">and</HI> ȝewe þ<HI REND="italic">at</HI> þe seke to drynkyn, furst <HI REND="italic">and</HI> last, <HI REND="italic">and</HI> late hym bleden on þe rygth hand on a weyne by-twen þe two lest fyngiris, for on þ<HI REND="italic">at</HI> veyne ladies laten hem blood, for to hawyn good talent to mete.</P>
+</DIV3>
+<DIV3 N="24" TYPE="item">
+<HEAD>24. P<HI REND="italic">ur</HI> le fiuire. | <MILESTONE N="136" UNIT="S."/></HEAD>
+<P>Archedechne <NOTE N="3" PLACE="foot"><HI REND="italic">Das zweite</HI> ch <HI REND="italic">aus</HI> cli <HI REND="italic">gebessert.</HI></NOTE> seeit en haut <HI REND="italic">et</HI> tenoyt virgine <NOTE N="4" PLACE="foot"><HI REND="italic">Davor</HI> vi(r)gine <HI REND="italic">durchgestrichen.</HI></NOTE> <MILESTONE N="137" UNIT="S."/> verge de coudre entre ses mayns <HI REND="italic">et</HI> dyt: 'Auxi verrayment come le prestre fist dieux entre ses mayns, <HI REND="italic">et</HI> auxi v<HI REND="italic">er</HI>ayment come ly dieu bayse sa tre dowce mere, je <NOTE N="5" PLACE="foot">Davor ein buchstabe durchge∣strichen.</NOTE> vous ses (?) <HI REND="italic">et</HI> eydes cest ho<HI REND="italic">m</HI>me ow fe<HI REND="italic">m</HI>ne N. de male fiu<HI REND="italic">er</HI>e þ<HI REND="italic">er</HI> charite. In no<HI REND="italic">m</HI>i<HI REND="italic">n</HI>e patris <HI REND="italic">et</HI> filii <HI REND="italic">et</HI> sp<HI REND="italic">i</HI>r<HI REND="italic">itu</HI>s s<HI REND="italic">an</HI>c<HI REND="italic">t</HI>i.</P>
+<CLOSER>Amen.</CLOSER>
+</DIV3>
+<DIV3 N="25" TYPE="item">
+<HEAD>25. A charme for peynys in the [te]th. <NOTE N="6" PLACE="foot">Das ganze geschwärzt.</NOTE> | <MILESTONE N="145" UNIT="S."/></HEAD>
+<P><MILESTONE N="146" UNIT="S."/> Sancta <NOTE N="7" PLACE="foot">c <HI REND="italic">über der zeile.</HI></NOTE> Apol[l]onia virgo fuit inclita, cui<HI REND="italic">us</HI> pro Chr<HI REND="italic">ist</HI>i <NOTE N="8" PLACE="foot">xp̄i <HI REND="italic">Hs.</HI></NOTE> no<HI REND="italic">m</HI>i<HI REND="italic">n</HI>e dentes extracti fueru<HI REND="italic">n</HI>t. Et deprecata fuit d<HI REND="italic">omi</HI>n<HI REND="italic">u</HI>m nostru<HI REND="italic">m</HI> Je<HI REND="italic">su</HI>m <NOTE N="9" PLACE="foot">jhm̄ <HI REND="italic">Hs.</HI></NOTE> Chr<HI REND="italic">istu</HI>m, ut quicu<HI REND="italic">n</HI>que nomen suu<HI REND="italic">m</HI> sup<HI REND="italic">er</HI> se portau<HI REND="italic">er</HI>it, dolorem in dentibus destruat pater <HI REND="italic">et</HI> filius et spiritus sanctus, amen.</P>
+<P>Or<HI REND="italic">emus:</HI> Deus, qui beatam Apol[l]oniam <NOTE N="10" PLACE="foot">Apolonian <HI REND="italic">Hs.</HI></NOTE> de manibus inimi∣cor<HI REND="italic">um</HI> suor<HI REND="italic">um</HI> liberasti et oracionem ei<HI REND="italic">us</HI> exaudisti, te queso p<HI REND="italic">er</HI> ei<HI REND="italic">us</HI> intercessionem, beati Laurencii et beati Vincentii et omnium sanctor<HI REND="italic">um</HI> tuor<HI REND="italic">um</HI> et sanctar<HI REND="italic">um</HI> tuar<HI REND="italic">um,</HI> vt dolorem in dentibus meis eruas et sanum me facias p<HI REND="italic">er</HI> d<HI REND="italic">omi</HI>n<HI REND="italic">u</HI>m n<HI REND="italic">ost</HI>r<HI REND="italic">u</HI>m Je<HI REND="italic">su</HI>m Chr<HI REND="italic">istu</HI>m filiu<HI REND="italic">m</HI> tuu<HI REND="italic">m,</HI> qui tecum viuit <HI REND="italic">et</HI> regnat in vnitate sp<HI REND="italic">iritu</HI>s sancti, deus p<HI REND="italic">er</HI> om<HI REND="italic">n</HI>ia secula seculor<HI REND="italic">um.</HI></P>
+<CLOSER>Amen.</CLOSER>
+</DIV3>
+<DIV3 N="26" TYPE="item">
+<PB N="85" REF="11"/>
+<HEAD>26. [Geburtssegen.]</HEAD>
+<P>Boro berto briore ✚ Vulnera quinq<HI REND="italic">ue</HI> dei sint medicina mei! ✚ Tahebal ✚ ✚ gheth<HI REND="italic">er</HI> ✚ ✚ ✚ guthm<HI REND="italic">an</HI> ✚ ✚ ✚ ✚ ✚ Purld cramp<HI REND="italic">er</HI> ✚ C[h]ristus ✚ factus ✚ est ✚ pro ✚ nobis ✚ obediens ✚ vsque ✚ ad ✚ mortem ✚ mortem ✚ autem ✚ crucis. ✚ De fructu ventris tui ponam super sedem tuam, quod fructu<HI REND="italic">m</HI> suum dabit in tempore suo. Anna pep<HI REND="italic">er</HI>it Mariam, Maria pep<HI REND="italic">er</HI>it Chr<HI REND="italic">istu</HI>m. Infans Chr<HI REND="italic">istu</HI>s te <NOTE N="1" PLACE="foot">to <HI REND="italic">Hs.</HI></NOTE> vocat <NOTE N="2" PLACE="foot">vocot <HI REND="italic">Hs.</HI></NOTE> ut nascaris. <NOTE N="3" PLACE="foot">nascāris <HI REND="italic">Hs.</HI></NOTE> In no<HI REND="italic">m</HI>i<HI REND="italic">n</HI>e patris <HI REND="italic">et</HI> filii <HI REND="italic">et</HI> sp<HI REND="italic">iritu</HI>s s<HI REND="italic">an</HI>c<HI REND="italic">t</HI>i.</P>
+<CLOSER>Amen.</CLOSER>
+</DIV3>
+<DIV3 N="27" TYPE="item">
+<HEAD>27. [Ausfahrtssegen.]</HEAD>
+<LG>
+<L>Helpe, crosse, fayrest of tymbris three,</L>
+<L>In braunchys <NOTE N="4" PLACE="foot">brau<HI REND="italic">n</HI>nchys <HI REND="italic">Hs.</HI></NOTE> berynge bothe frute <HI REND="italic">and</HI> flowr;</L>
+<L>Helpe, banere beste, my fon to <NOTE N="5" PLACE="foot">to <HI REND="italic">über der zeile.</HI></NOTE> doo flee,</L>
+<L>Staf <HI REND="italic">and</HI> strencthynge full of socowr;</L>
+<L>On londe, on see, where þ<HI REND="italic">at</HI> I be, <MILESTONE N="5"/></L>
+<L>Fro fyir bre<HI REND="italic">n</HI>nynge be me by-forne,</L>
+<L>Now, Cristis tree, sygne of pyte,</L>
+<L>Helpe me euir, I be nowght lorne!</L>
+</LG>
+</DIV3>
+<DIV3 N="28" TYPE="item">
+<HEAD>28. *To knowy<HI REND="italic">n,</HI> wheþ<HI REND="italic">er</HI> a ma<HI REND="italic">n</HI> is bareyn <MILESTONE N="155" UNIT="S."/> or a wo<HI REND="italic">m</HI>man.</HEAD>
+<P>¶ Take of eytherys wat<HI REND="italic">er</HI> and put it in-to sondre vessell; sythen put to eyþ<HI REND="italic">er</HI> barlyche and horssysdong, and whether wessell sporgyth hy<HI REND="italic">m,</HI> is noȝt bareyn.</P>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="commentary">
+<HEAD>Anmerkungen. <NOTE N="6" PLACE="foot">Dieselben treten durchaus nicht mit dem anspruche auf, den gegenstand auch nur einigermassen zu erschöpfen. Dazu wären umfänglichere sammlungen nötig, als ich zur zeit besitze oder anlegen kann.</NOTE></HEAD>
+<P>2. Vgl. Birlinger, Germania 24, s. 75, nr. 13.</P>
+<P>3. Vgl. Birlinger, a. a. o. nr. 7.</P>
+<P>8. Vgl. dasselbe mittel bei Heinrich, Mittelengl. Medizinbuch s. 186 f., nr. 119b: <HI REND="italic">Contra febres.</HI> Statt <HI REND="italic">Mikel</HI> liest er (s. 187, z. 6) <HI REND="italic">ary-hel.</HI></P>
+<P>Zu 9: <HI REND="italic">no man so.</HI> Ich erinnere mich, vor kurzem in einer zeitschrift oder ausgabe eine bemerkung über diese syntaktische wendung gelesen zu haben, kann aber leider die stelle nicht wieder finden. Vielleicht weiss irgend ein fachgenosse rat!—Ueber diese furcht des Tiberius vor dem donner berichtet Sueton in der vita Tib. cap. 69: <HI REND="italic">tonitrua tamen praeter</HI>
+<PB N="86" REF="12"/>
+<HI REND="italic">modum expavescebat et turbatiore caelo nunquam non coronam lauream capite gestavit, quod fulmine afflari negetur id genus frondis.</HI></P>
+<P>10 a). Vgl. Priebsch, Z. f. d. A. 38, 16 unten: <HI REND="italic">In monte Celion</HI> (Hs. <HI REND="italic">tebon) requiescunt VII dormientes</HI> etc. (aus einer Londoner hs. des 14.—15. jahrhunderts).</P>
+<P>10 b). Vgl. ib.: <HI REND="italic">Pro frebribus</HI> (sic!). <HI REND="italic">Petrus stabat ante portas Je∣rusalem. Supervenit dominus</HI> etc.; ferner Heinrich, me. Med.-buch s. 167 z. 2 ff. und s. 220 f.: <HI REND="italic">Carmen pro febribus.—Agla</HI> kommt auch in einem von Gallee, Germ. 32, 456 mitgeteilten segen vor.—Vgl. wegen der lat. verse nr. 26 und Heinrich a. a. o. s. 143: <HI REND="italic">Carmen [ad] ligandum</HI> etc. und s. 136: <HI REND="italic">C. contra malignos spiritus.—Jaspar, Melchysar, Baptizar</HI> sind die (vielfach wechselnden) namen der heil. drei könige. [Vgl. Nachschrift.]</P>
+<P>11, 13 und 14. Vgl. Heinrich a. a. o. s. 116 f.: <HI REND="italic">Carmen pro fluxu sanguinis;</HI> s. 120 f.: <HI REND="italic">C. ad restringendum sanguinem;</HI> s. 122: <HI REND="italic">C. pro eodem;</HI> s. 212 f.: <HI REND="italic">C. ad restring. sang.;</HI> s. 231 f.: <HI REND="italic">Ad restring. sang.</HI> [Vgl. Nach∣schrift.]</P>
+<P>17. Vgl. Heinrich a. a. o. s. 164 unten f.</P>
+<P>22. Zu <HI REND="italic">fastyn</HI> mit <HI REND="italic">to</HI> vgl. meine anmerkung zu v. 346 des <HI REND="italic">Everyman</HI> in Herrigs Archiv 92, 411.—In dem <HI REND="italic">lawatorie</HI> wäscht sich der priester vor beginn der messe die hände.</P>
+<P>23. Vgl. dasselbe rezept in Heinrichs me. Medizinbuch s. 144: <HI REND="italic">Pro malis splenis</HI> etc. Er hält in der anm. zu 103 b 13 s. 50 <HI REND="italic">fowe</HI> für einen fehler statt <HI REND="italic">þowe</HI> = ae. <HI REND="italic">þuȝe.</HI> Näher liegt jedoch meine besserung in <HI REND="italic">sowe</HI>!</P>
+<P>25. Vgl. R. Köhler, Germ. 13, 180 f. <NOTE N="1" PLACE="foot">Zu s. 178 ff. ib. vgl. noch Cockayne, Leechd. III, 64 f. und Heinrich, me. Med. buch s. 102 f.: <HI REND="italic">Carmen pro dolore dencium.</HI></NOTE>; Gallee, ib. 32, 454; Heinrich, me. Med. buch s. 148: <HI REND="italic">Carmen pro dentibus,</HI> und s. 221: <HI REND="italic">C. pro dolore den∣cium.—</HI>Andre stehen bei Horstman, Yorsh. Writers p. 375 f.</P>
+<P>26. Vgl. Birlinger, Germ. 24, 74 nr. 3 und 6; Jeitteles ib. 311, nr. 1; Gallee ib. 32, 458, nr. VI <NOTE N="2" PLACE="foot">Gallees sinnloses <HI REND="italic">oves sancti</HI> ist natürlich in <HI REND="italic">omnes s.</HI> zu bessern!</NOTE>; Heinrich, me. Med. buch s. 143 f.: <HI REND="italic">Carmen li∣gandum</HI> etc.—Der vers: <HI REND="italic">vulnera quinque</HI> kommt auch in nr. 10 b) vor, wo die anm. zu vergleichen ist. Ich bemerke noch, dass drei bibelsprüche in dem segen verwertet sind, nämlich 1) Ps. 131 (hebr. 132) v. 11: <HI REND="italic">De fructu—tuam;</HI> 2) Ps. 1, 3: <HI REND="italic">Et erit tamquam lingnum, quod plantatum est secus decursus aquarum: quod fructum—suo;</HI> 3) Philip. 2, 8: <HI REND="italic">Humiliavit semet ipsum, factus obediens usque—crucis.</HI> Der anfang des zweiten ist offenbar ausgefallen, da im segen das <HI REND="italic">quod</HI> vor <HI REND="italic">fructum</HI> keine entsprechung in den vorhergehenden worten hat. [Vgl. Nachschrift.]</P>
+<P>27. Vgl. hierzu Müll.-Scherers Denkm.<SUP>3</SUP> II, 54 f.; Horstman, Yorksh. Writers s. 376 f. nr. 4 und 5.</P>
+</DIV2>
+<DIV2 N="2" TYPE="preface">
+<HEAD>II.</HEAD>
+<P>Die folgenden drei sprüche sind ebenfalls von Stephens in der Archaeologia a. a. o. s. 50 f. des separatabdruckes mit∣geteilt
+<PB N="87" REF="13"/>
+worden. Sie entstammen der interessanten englischen Miszellanhs. VII in kl. 4<SUP>o</SUP> der kgl. bibliothek zu Stockholm, die früher ebenfalls Christ. Ray in Berlin gehörte. Das mit 1597 datierte buch enthält u. a. tagebuchsaufzeichnungen von der expedition des grafen Essex nach Cadiz (1596), geschrieben an bord des kriegsschiffes "The John &amp; Francis", ferner zwei gebete der königin Elisabeth für flotte und heer (wovon mir erst eins zu entziffern gelungen ist), religiöse betrachtungen, einen traktat, bemerkungen über continentale staaten und Neu∣spanien, einen auszug aus dem bericht des Antonio L(G)opola von 1577, eine kurze chronik von Spanien, eine liste des es∣kaders des Lord Admirals, regeln des kriegsdepartements unter Elisabeth—alles von verschiedenen händen und oft schwer lesbar. Auf der ersten seite finden sich einige französ. sätze und latein. verse aus Bartholomaeus, De propr. rerum (über England und die engländer), dann ein rezept: <HI REND="italic">A good water to renical</HI> (?) <HI REND="italic">mercury</HI> und hiernach die unten mitgeteilten segensprüche. Hin und wieder sind latein. und hebr. wörter und sätze aufgezeichnet, manche blätter sind leer, viele halb oder ganz ausgerissen.</P>
+<P>Auf der inneren seite des hinteren deckels steht:</P> <Q><TEXT LANG="lat"><BODY><DIV1 TYPE="inscription"><P><HI REND="italic">Orna∣tissimo ac doctissimo viro Johanni Hopkinsono linguaru</HI>m <HI REND="italic">orientaliu</HI>m <HI REND="italic">peritissimo amico singulari</HI></P>
+<CLOSER><DATELINE>Londini</DATELINE><LB/>
+<SIGNED>Tuus ex animo<LB/>
+Franciscus Raphelengius.</SIGNED></CLOSER></DIV1></BODY></TEXT></Q>
+</DIV2>
+<DIV2 TYPE="collection of items">
+<DIV3 N="1" TYPE="item">
+<HEAD>1. Blutsegen.</HEAD>
+<LG>
+<L>Water was woode <HI REND="italic">and</HI> hye of floude,</L>
+<L>Christ bad it stand <NOTE N="1" PLACE="foot"><HI REND="italic">Darnach ein</HI> a <HI REND="italic">durchgestrichen.</HI></NOTE> still, and still it stood.</L>
+<L>So do the bloode &amp;c.</L>
+</LG>
+</DIV3>
+<DIV3 N="2" TYPE="item">
+<HEAD>2. Fiebersegen.</HEAD>
+<LG>
+<L>Feuer was great of Peters wyffs mother</L>
+<L>And burnt her full sore,</L>
+<L>Christ it rebukt, and away it went</L>
+<L>And vext her no more.</L>
+<L>So do the ..... <MILESTONE N="5"/></L>
+</LG>
+</DIV3>
+<DIV3 N="3" TYPE="item">
+<PB N="88" REF="14"/>
+<HEAD>3. Geisteraustreibung.</HEAD>
+<LG>
+<L>Jesus of Nazaret, thy presence forst <NOTE N="1" PLACE="foot"><HI REND="italic">d. i.</HI> forced.</NOTE></L>
+<L>The foule spirits for fear to cry,</L>
+<L>Thow them rebukt, their mouth shott vp,</L>
+<L>Commanding them out to hy.</L>
+<L>So in the powre of Jesus, whom I profess, <MILESTONE N="5"/></L>
+<L>Command I this spirit to depart</L>
+<L>And nev<HI REND="italic">er</HI> to vex this party aga[i]ne. <NOTE N="2" PLACE="foot">Die verse in der Hs. nicht abgesetzt.</NOTE></L>
+</LG>
+</DIV3>
+</DIV2>
+<DIV2 TYPE="commentary">
+<HEAD>Anmerkungen.</HEAD>
+<P>1. Der inhalt bezieht sich wohl auf die stillung des sturmes auf dem meere, vgl. Matth. 8, 23-27, Mark. 4, 35-41, Luk. 8, 22-25.</P>
+<P>2. Vgl. die biblische erzählung bei Matth. 8, 14-15, Mark. 1, 30-31, Luk. 4, 38-39.</P>
+<P>Auf die englischen segen folgen drei latein. bibelsprüche: Acta Ap. 3, 6; 14, 10 <NOTE N="3" PLACE="foot"><HI REND="italic">Statt</HI> coce <HI REND="italic">ist hier natürlich</HI> voce <HI REND="italic">zu lesen.</HI></NOTE> und 16, 18, die ja auch ähnlichen inhalts sind. Darüber steht:
+<Q><HI REND="italic">nomen | marke, hur sur, for ker key,</HI></Q>
+und über jedem buchstaben dieser mir unverständlichen worte ein punkt.</P>
+<P>Ueber John Hopkinson (1610-80) vgl. <HI REND="italic">Dict. of nat. biogr.</HI> XXVII, 340; Franz Rapheleng war ein sohn des holländischen gelehrten und druckers gleichen namens († 1597).</P>
+</DIV2>
+<DIV2 TYPE="addendum">
+<HEAD>Nachschrift.</HEAD>
+<P>Zu 10 b) vgl. noch die fassung des spruches in den <HI REND="italic">Läke- och örte∣böcker från Sveriges medeltid</HI> ed. Klemming (Samlingar utgifna af svenska fornskrift-sällskapet) s. 39 unten f.: <HI REND="italic">Contra febrim.—Agla</HI> kommt auch ib. s. 223, z. 23 vor.</P>
+<P>Zu 11 und 13 vgl. ib. s. 141 unten f., 206, 84 und 452: <HI REND="italic">Här skal man stille bloth mȝ.</HI> (mnd.)</P>
+<P>Zu 26 vgl. ib. s. 213, 111 f. und ndd. Jahrb. 15, 149.</P>
+<P>Zu 28 vgl. dasselbe rezept lat. bei Klemming s. 221, 170.</P>
+<CLOSER><DATELINE>GÖTEBORG (SCHWEDEN).</DATELINE>
+<SIGNED>F. HOLTHAUSEN.</SIGNED></CLOSER>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

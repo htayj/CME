@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-30-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title page; added some Ps. Checked <SUP>s</SUP>. Reviewed structure; removed a missing GAP; changed several DIV1s to version DIV2s; removed some incorrect MILESTONEs from HEADs; changed some TRAILERs to CLOSERs; added Q and changed L to P; completely restructured in order to present continuous and complete versions throughout; moved runover L text to proper Ls; removed LGs. Checked placement and completeness of PBs; moved numerous PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs; added description. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00145">
+<STC T="M">145</STC>
+<BIBNO T="mec">CME00145</BIBNO>
+<VID>CME00145</VID>
+</IDG>
+<TEXT LANG="enm lat">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="1" MS="y"/>
+<P>YALE STUDIES IN ENGLISH</P>
+<P>ALBERT S. COOK, EDITOR</P>
+<P>III THE LIFE OF ST. CECILIA FROM MS. ASHMOLE 43 AND MS. COTTON TIBERIUS E. VII</P>
+<P>WITH INTRODUCTION, VARIANTS, AND GLOSSARY BY BERTHA ELLEN LOVEWELL, Ph. D.</P>
+<P><FIGURE><FIGDESC>printer's device</FIGDESC>
+<HEAD>VT CRESCIT</HEAD>
+</FIGURE></P>
+<P>LAMSON, WOLFFE AND COMPANY BOSTON, NEW YORK AND LONDON</P>
+<P>1898</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB N="72" REF="2"/>
+
+<DIV2 LANG="enm" TYPE="version" N="Ashmole">
+<HEAD><HI REND="italic">ASHMOLE MS.</HI> [<HI REND="italic">fol.</HI> 185 <HI REND="italic">back to</HI> 188 <HI REND="italic">back</HI>].</HEAD>
+<L>SEyn Cecile of noble kun<HI REND="italic">n</HI>e; ibore was at rome.<NOTE PLACE="foot">1. L. seinte Cecilie, C. seint Cecelie (reg.); L. kynde, C. kunde; L. I-bore, C. bore</NOTE><NOTE PLACE="marg">MSS. Laud 108; Cmb. R. 3. 25.</NOTE></L>
+<L>Our lord c<HI REND="italic">r</HI>ist heo louede wel; ar heo f<HI REND="italic">ra</HI>m c<HI REND="italic">ra</HI>del come<NOTE PLACE="foot">2. L, oure, C. our<HI REND="italic">e;</HI> L. louerd (reg.) L.ȝe (reg.); C. loued; C. or;</NOTE></L>
+<L>Heo lette hir<HI REND="italic">e</HI> baptise stillich<HI REND="italic">e</HI> · as we fi[n]deþ iwrite.<NOTE PLACE="foot">3 L. let, C. lete; C. hure (reg.); L. baptiȝe, C. baptyse; L. C. Stilleliche (reg.); L. fynden; L. I-wryte, C. ywryte;</NOTE></L>
+<L>Ȝerne heo bed ih<HI REND="italic">es</HI>u c<HI REND="italic">r</HI>ist; hir<HI REND="italic">e</HI> maidenhod to wite.<NOTE PLACE="foot">4. L. bad, C. bade; C.-hode (reg.);</NOTE></L>
+<L N="5">Þoru hir<HI REND="italic">e</HI> frendes strengþe; ispoused heo was to a man. <NOTE PLACE="foot">5. C. þorwe; L. pp. I-(reg.), C. spoused; C. suyþe (MS. suþþe?)</NOTE></L>
+<L>Of g<HI REND="italic">r</HI>et nobleie &amp; richesse; þ<HI REND="italic">a</HI>t het valerian.<NOTE PLACE="foot">6. C. g<HI REND="italic">re</HI>te; L. nobleye, C. nob∣ley; L. his name was, C. hete;</NOTE></L>
+<L>Þis maide wer<HI REND="italic">e</HI>de robe of pal; &amp; cloþes swiþe riche.<NOTE PLACE="foot">7. C. wered; C. palle;</NOTE></L>
+<L>Gerlans &amp; tresours al of golde; þe her<HI REND="italic">e</HI> next hir<HI REND="italic">e</HI> lich<HI REND="italic">e.</HI><NOTE PLACE="foot">8. L. garlaundes, C. garlouns; L. tressoures, C. trassoures; C. nexte:</NOTE></L>
+<L>Wen þe menst<HI REND="italic">ra</HI>les songe hor song; of hor menst<HI REND="italic">ra</HI>sie. <MILESTONE N="186." UNIT="f."/> <NOTE PLACE="foot">9. L. whane ȝe herde menstrales song, ȝe song in hire menstralcie, C. wan myn∣stralis songen of menstralcie</NOTE></L>
+<L N="10">Þis maide stillich<HI REND="italic">e</HI> song of god; &amp; seynte marie.<NOTE PLACE="foot">10. C. L. stiliche; C. songe; L. moder marye;</NOTE></L>
+<L>Of þe saut<HI REND="italic">er</HI> heo song þis v<HI REND="italic">er</HI>s; þ<HI REND="italic">a</HI>t mest was In hir<HI REND="italic">e</HI> þoȝt.<NOTE PLACE="foot">11. L. psalter; L. hire song was; C. fers; L. wer-on; L. mast, C. moste; L. þout;</NOTE></L>
+<L>'Let lord myn herte vn-we<HI REND="italic">m</HI>med be; þ<HI REND="italic">a</HI>t Ine be <HI REND="italic">con</HI>founded noȝt.'<NOTE PLACE="foot">12. L. lat, C. late; C. hert; L. wiþout wem; L. it, C. ic; L. confundet; L. naut;</NOTE></L>
+<L>As heo was anyȝt in rich<HI REND="italic">e</HI> bedde; wiþ hir<HI REND="italic">e</HI> lord ibroȝt.<NOTE PLACE="foot">13. L. a-nyȝt, C. a nyȝt; L. bed; C. myd. L. i-brouth;</NOTE></L>
+<L>Sone hadde þis fole mo<HI REND="italic">n;</HI> of folie hir<HI REND="italic">e</HI> bisoȝt.<NOTE PLACE="foot">14. L. man; C. foly; L. be-sout;</NOTE></L>
+<L N="15">"Suete heorte" quaþ þis maide; "uor loue þ<HI REND="italic">a</HI>t þou hast to me.<NOTE PLACE="foot">15. L. C. swete herte (reg.); L. seyde, C. sede; C. haste;</NOTE></L>
+<L>G<HI REND="italic">ra</HI>nte þ<HI REND="italic">a</HI>t ic<HI REND="italic">h</HI> þe mote telle a lute p<HI REND="italic">r</HI>iuete.<NOTE PLACE="foot">16. L. y, C. ic (reg.); L. mowe (reg.); L. litel; | L. schryue, C. schryuen; L. þt þou it wille hele, C. conceil;</NOTE></L>
+<L>&amp; þ<HI REND="italic">a</HI>t ic<HI REND="italic">h</HI> me mote scryue to þe; as <HI REND="italic">con</HI>seil p<HI REND="italic">r</HI>iue"</L>
+<L>"Tristilich<HI REND="italic">e</HI> þ<HI REND="italic">o</HI>u miȝt" quaþ þis oþ<HI REND="italic">er;</HI> "to soþe ic<HI REND="italic">h</HI> bihote þe."<NOTE PLACE="foot">18. L. "certes lemman," þis ȝungman seyde, "noþing telle I nele," C. truliche;</NOTE></L>
+<L>"Suete heorte" quaþ þis maide; "In warde icham ido.<NOTE PLACE="foot">19. L. C. lemman; L. seyde, C. sede; C. ic am;</NOTE></L>
+<L N="20">An angel is my wardeyn; &amp; my lefmon also.<NOTE PLACE="foot">20. L. Aungel (reg.); L. of heuene; L. lemman, C. leman; L. þer-to, C. al so;</NOTE></L>
+<L>Vaste he stont h<HI REND="italic">er</HI> by me; &amp; ȝif he vnd<HI REND="italic">er</HI>ȝete.<NOTE PLACE="foot">21. L. C. faste; L. stant, C. stante; C. here;</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u by-nome my maidenhod; uor noþi<HI REND="italic">n</HI>g he nolde lete.<NOTE PLACE="foot">22. L. be-nome; C. nold;</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t he nolde harde smyte; &amp; by-nyme þe þi miȝte<NOTE PLACE="foot">23. L. ne wolde, C. nold; L. be-nyme, C. bynym; L. myȝtte, C. myȝt;</NOTE></L>
+<L>Vor al þe nobleie þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u hast; þe ne halt noȝt aȝen hi<HI REND="italic">m</HI> fiȝte<NOTE PLACE="foot">24. L. C. of; L. ȝungness &amp; of noble state, C. nobley; L. ne myȝth, C. ne myȝt; L. wiþ; L. fyȝtthe, C. fyȝt;</NOTE></L>
+<L N="25">Ac ȝif he seoþ þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u louest me; In good lif &amp; clene.<NOTE PLACE="foot">25. L. wiste, C. sey; L. louedest, C. loue; L. gode, C. goud; L. C. loue;</NOTE></L>
+<PB N="74" REF="4"/>
+<L>He wole þe wite as he doþ me; &amp; ech vuel f<HI REND="italic">ra</HI>m þe ȝe[<HI REND="italic">m</HI>]e"<NOTE PLACE="foot">26. L. wolde; L. wytte, C. wyty; L. als; L. deþ, L. al; L. C. yuel; L. fro; L. ȝene, C. ȝeme;</NOTE></L>
+<L>"Ȝif þ<HI REND="italic">o</HI>u wolt, lefmo<HI REND="italic">n;</HI> þ<HI REND="italic">a</HI>t ic<HI REND="italic">h</HI> ileue þis.<NOTE PLACE="foot">27. L. wilt; L. seide V.; C. lemman sede he; C. leue;</NOTE></L>
+<L>Þe angel þ<HI REND="italic">o</HI>u most scewe me; þ<HI REND="italic">a</HI>t ic<HI REND="italic">h</HI> hi<HI REND="italic">m</HI> ise iwis.<NOTE PLACE="foot">28. L. þen; L. angel; L. C. schewe; L. I (reg.); L. C. se; L. I-wis, C. ywys;</NOTE></L>
+<L>Ȝif ic<HI REND="italic">h</HI> mai þ<HI REND="italic">a</HI>t soþe ise; þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u hast þ<HI REND="italic">a</HI>t soþe ised<NOTE PLACE="foot">29. L. wanne; C. so[<HI REND="italic">y</HI>?]: L. i-se, C. yse; L. i-seyd, C. ysede;</NOTE></L>
+<L N="30">In clannesse ichulle þi wille do; al aft<HI REND="italic">er</HI> þi red. <NOTE PLACE="foot">30. L. clenesse; L. for-soþe, C. ic wole; C. alle; C. þy; C. rede;</NOTE></L>
+<L>Ȝif ic<HI REND="italic">h</HI> ise þ<HI REND="italic">a</HI>t In folie louest; an noþ<HI REND="italic">er</HI> þen me.<NOTE PLACE="foot">31. L. C. se; L. anoþer, C. &amp; oþer; L. C. þan;</NOTE></L>
+<L>I nele bileue uor noþi<HI REND="italic">n</HI>g; þ<HI REND="italic">a</HI>t I nele hi<HI REND="italic">m</HI> sle &amp; þe."<NOTE PLACE="foot">32. L. no-þing ne schal ȝou helpe, C. nelle leue for; L. ne, C. nelle;</NOTE></L>
+<L>"Swete heorte" quaþ þis maide; "ȝif<NOTE N="1" PLACE="marg">(MS. þ ȝif)</NOTE> þ<HI REND="italic">o</HI>u wolt þe<HI REND="italic">n</HI> angel ise.<NOTE PLACE="foot">33. L. seyde, C. guod; L. &amp; þou wile þe aungel se, C. þan;</NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u most byleue on ih<HI REND="italic">es</HI>u c<HI REND="italic">r</HI>ist; &amp; ic<HI REND="italic">r</HI>istned be. <NOTE PLACE="foot">34. L. bileuen, C. moste lyuen; C. ybaptiȝed;</NOTE></L>
+<L N="35">Ȝif þ<HI REND="italic">o</HI>u wolt so þ<HI REND="italic">o</HI>u miȝt hi<HI REND="italic">m</HI> ise; &amp; wite he wole ous f<HI REND="italic">ra</HI>m helle <NOTE PLACE="foot">35. L. wilt; L. C. schalt; L. sen, C. se; L. he wile wytte, C. wele wyten þe; L. fro;</NOTE></L>
+<L>&amp; so g<HI REND="italic">r</HI>et Ioie worþ of our loue; þ<HI REND="italic">a</HI>t no tonge ne mai telle.<NOTE PLACE="foot">36. C. such; L. ioye; L. C. oure; L. tunge;</NOTE></L>
+<L>Ac þre mile he<HI REND="italic">n</HI>ne þ<HI REND="italic">o</HI>u most go; to þe wei of apie.<NOTE PLACE="foot">37. L. henne ouer; L. gon; L. C. wey;</NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u schalt þ<HI REND="italic">er</HI>e vynde pou<HI REND="italic">er</HI>e men: on ih<HI REND="italic">es</HI>u c<HI REND="italic">r</HI>ist crie.<NOTE PLACE="foot">38. C. þer; L. C. fynde; L. [pore], C. poure; C. man; C. in; L. faste, L. ȝeme;</NOTE></L>
+<L>Sei þ<HI REND="italic">a</HI>t ic<HI REND="italic">h</HI> þe to he<HI REND="italic">m</HI> sende; þ<HI REND="italic">a</HI>t hi þe tech<HI REND="italic">e</HI> anon.<NOTE PLACE="foot">39. C. hym; L. he, C. ic; C. tell;</NOTE></L>
+<L N="40">To S<HI REND="italic">eyn</HI> Vrban þe olde mon; vor þ<HI REND="italic">o</HI>u most to hi<HI REND="italic">m</HI> gon <NOTE PLACE="foot">40. L. Whar is; L. þe holi old man, C. þe holy man; C. moste;</NOTE></L>
+<L>&amp; p<HI REND="italic">r</HI>iue co<HI REND="italic">n</HI>seil wiþ hi<HI REND="italic">m</HI> speke; uor he þe schal baptise.<NOTE PLACE="foot">41. L. ffor, C. &amp; in; L. counseil, C. conceyl; L. þou wilt; C. myd (reg.); L. ȝ, C. for; L. C. baptiȝe;</NOTE></L>
+<L>Þen angel þ<HI REND="italic">o</HI>u schalt þe<HI REND="italic">n</HI>ne ise; · &amp; he schal ous boþe wise."<NOTE PLACE="foot">42. L. Þan C. þe; L. þanne, C. þan; L. &amp; do as he þe wile wise, C. boþ;</NOTE></L>
+<L>Valerian aros anon; as our lord hi<HI REND="italic">m</HI> ȝef wille.<NOTE PLACE="foot">43. L. a-ros; L. a-non; L. oure louerd, C. god; L. C. ȝaf;</NOTE></L>
+<L>To þe stude þ<HI REND="italic">a</HI>t þis maide bad; uorþ he wende wel stille.<NOTE PLACE="foot">44. L. C. stede; L. þe, C. as heo sede; L. forþ; C. welle;</NOTE></L>
+<L N="45">Þis pou<HI REND="italic">er</HI>e me<HI REND="italic">n</HI> hi<HI REND="italic">m</HI> teiȝte ano<HI REND="italic">n;</HI> to þe olde mon S<HI REND="italic">eyn</HI> Vrban.<NOTE PLACE="foot">45. L. pore, C. poure; L. taute, C. teyten; C. man;</NOTE></L>
+<L>In an old stude uor-let; þ<HI REND="italic">er</HI> as ne com no man.<NOTE PLACE="foot">46. L. C. stede; L. for-late, C. forlete; L. þat wonede neuere man;</NOTE></L>
+<L>Among olde puttes &amp; burles; as me c<HI REND="italic">r</HI>istene me<HI REND="italic">n</HI> þreu.<NOTE PLACE="foot">47. C. amonge; C. old; L. burieles, C. buryeles; L. as, C. þer as; L. men, C. cristen; C. yrew;</NOTE></L>
+<L>Aft<HI REND="italic">er</HI> þ<HI REND="italic">a</HI>t hi Imartred wer<HI REND="italic">e;</HI> war<HI REND="italic">e</HI> me eny <NOTE N="1" PLACE="marg">(MS. meeny.)</NOTE>ikneu.<NOTE PLACE="foot">48. L. he, C. hÿ; L. martired, C. martred; L. men anye kneu, C. wan me any knew;</NOTE></L>
+<L>To is fet he vel adoun; ano<HI REND="italic">n</HI> so he to hi<HI REND="italic">m</HI> com.<NOTE PLACE="foot">49. L. feet, C. fete; L. ful, C. felle; L. a-doun, C. adoune; L. als-sone as [he], C. þo he; L. C. come;</NOTE></L>
+<L N="50">&amp; sede þ<HI REND="italic">a</HI>t cicile hi<HI REND="italic">m</HI> sende þud<HI REND="italic">er;</HI> to esce c<HI REND="italic">r</HI>istendom.<NOTE PLACE="foot">50. L. seyde; L. cesilie, C. cecele; L. send; L. þider, C. þude [Þ?]; L. asken, C. habbe; L. dome;</NOTE></L>
+<L>"Lou<HI REND="italic">er</HI>d Ihered be þi miȝte"; sede Seyn Vrban.<NOTE PLACE="foot">51. C. lord; L. I-herd, C. yheryed; L. myȝtte, C. myȝt; L. C. seyde;</NOTE></L>
+<L>"Is þis þe luþ<HI REND="italic">er</HI> werreour; þ<HI REND="italic">a</HI>t me clepeþ valerian.<NOTE PLACE="foot">52. L. Weþer þis be þat, C. ne ys þis þe; L. Luþere; L. werreor, C. werreoure; L. men; L. clepuþ, C. clypeþ;</NOTE></L>
+<PB N="76" REF="6"/>
+<L>War cicile habbe Imad hi<HI REND="italic">m;</HI> þ<HI REND="italic">a</HI>t was er so wilde.<NOTE PLACE="foot">53. L. were. C. where; L. haue y-mad, C. made;</NOTE></L>
+<L>&amp; more tiraunt þe<HI REND="italic">n</HI> eny wolf; as a lomb þ<HI REND="italic">us</HI> milde."<NOTE PLACE="foot">54. L. tyrant, C. tyraunt; L. C. þan; L. C. any; L. als; C. lombe; L. now;</NOTE></L>
+<L N="55">Þo com þ<HI REND="italic">er</HI> go a suyþe old mon; &amp; aliȝte f<HI REND="italic">ra</HI>m heuene þ<HI REND="italic">er.</HI> <NOTE PLACE="foot">55. L. swiþe; C. olde; L. C. man; L. a lyȝtthe, C. þat a lyȝt; L. fro;</NOTE></L>
+<L>Hor wiþ wite vesteme<HI REND="italic">n</HI>s · a suyþe uair writ he ber<NOTE PLACE="foot">56. L. whyte, C. whyt; C. vestymens; L. swiþe; L. fair, C. faire; L. wryt, C. wryte; C. ber<HI REND="italic">e;</HI></NOTE></L>
+<L>Þo valerian hi<HI REND="italic">m</HI> isei · adoun he vel uor drede.<NOTE PLACE="foot">57. L. it; L. I-sey, C. sey; L. a-doun, C. a doune; L. fel, C. felle; L. C. for;</NOTE></L>
+<L>S<HI REND="italic">eyn</HI> Vrban hi<HI REND="italic">m</HI> nom vp; &amp; gan hi<HI REND="italic">m</HI> uorþ lede.<NOTE PLACE="foot">58. C. nome; L. aȝen; L. C. forþ;</NOTE></L>
+<L>Þis halwe of heuene hi<HI REND="italic">m</HI> tok þis writ; &amp; bed hi<HI REND="italic">m</HI> uorte rede.<NOTE PLACE="foot">59. L. halewe, C. angel; C. toke; L. þat, C. þe; C. wryte; L. bad, C. bade; L. forto, C. þeron;</NOTE></L>
+<L N="60">Valerian radde þis writ; þ<HI REND="italic">a</HI>t þes wordes sede. <NOTE PLACE="foot">60. L. tok it anon, C. þe wryte; L. &amp; þus þe;</NOTE></L>
+<L>'O lord is &amp; on bileue; &amp; on baptisinge.<NOTE PLACE="foot">61. L. on; C. o; L. bi∣leue; C. o; L. baptiȝingge, C. baptyȝyng;</NOTE></L>
+<L>O god &amp; fad<HI REND="italic">er</HI> of alle þat beþ; þ<HI REND="italic">a</HI>t ou<HI REND="italic">er</HI> al is in ech<HI REND="italic">e</HI> þinge'<NOTE PLACE="foot">62. L. on; C. &amp; al; C. þat is; L. oueral; L. þingge, C. þyng;</NOTE></L>
+<L>"Ileuestou" quaþ S<HI REND="italic">eyn</HI> vrban; "þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u dest her ise"<NOTE PLACE="foot">63. L. I-leuestou þis; C. my leue sone; C. sede; L. C. dost, C. here; L. I-se, C. se;</NOTE></L>
+<L>"Þ<HI REND="italic">er</HI> nys noþi<HI REND="italic">n</HI>g" quaþ þis oþ<HI REND="italic">er;</HI> "þ<HI REND="italic">a</HI>t bet to leue be."<NOTE PLACE="foot">64. C. is noȝt; C. sede; C. louyng;</NOTE></L>
+<L N="65">Aft<HI REND="italic">er</HI> þis wite mon he bihuld; he nuste war he bicom.<NOTE PLACE="foot">65. L. whyte, C. þe whyt; L. beheld, C. byheld; L. wher, C. ware, L. be-cam; C. by-come;</NOTE></L>
+<L>S<HI REND="italic">eyn</HI> Vrban hi<HI REND="italic">m</HI> nom anon &amp; ȝaf hi<HI REND="italic">m</HI> c<HI REND="italic">r</HI>istendom<NOTE PLACE="foot">66. L. a-non; C. nome;</NOTE></L>
+<L>To S<HI REND="italic">eyn</HI> Cicile he wende aȝen; þo he hadde ibe þ<HI REND="italic">er</HI><NOTE N="1" PLACE="marg">(MS. is.)</NOTE> i-fulle<NOTE PLACE="foot">67. L. sein Cecilie; L. was þare (reg.) is fulle, C. be þer his fulle;</NOTE></L>
+<L>He vond hir<HI REND="italic">e</HI> chambr<HI REND="italic">e</HI> liȝt wiþþi<HI REND="italic">n</HI>ne; &amp; swiþe suote smulle.<NOTE PLACE="foot">68. L. fond, C. founde; C. Schaumbr<HI REND="italic">e;</HI> L. lyȝth; L. wiþ-inne, C. with In; C. ful of swete smylle;</NOTE></L>
+<L>He uond Cecile his gode spouse; &amp; an angel bi hir<HI REND="italic">e</HI> stonde.<NOTE PLACE="foot">69. C. fonde;</NOTE></L>
+<L N="70">Briȝtore þen eny leome; to gerlans he huld an honde.<NOTE PLACE="foot">70. L. bryȝttere, C. bryȝtur; L. C. þan; L. C. any; L. lome; C. lyȝt; L. twey, C. two; L. gar∣londes, C. garlauns; L. hadde, C. held; L. on;</NOTE></L>
+<L>Of rosen &amp; of lylion suote; þ<HI REND="italic">a</HI>t on cicile he tok<HI REND="italic">e.</HI><NOTE PLACE="foot">71. L. rose, C. swete ros; L. lilie, C. lyly; L. tok;</NOTE></L>
+<L>&amp; þ<HI REND="italic">a</HI>t oþ<HI REND="italic">er</HI> ualerian; as we fi[n]deþ in bok<HI REND="italic">e.</HI><NOTE PLACE="foot">72. C. þe; L. fynden; L. bok;</NOTE></L>
+<L>"Witeþ þis" he sede "In t<HI REND="italic">re</HI>we loue; wiþ chast bodi &amp; clene<NOTE PLACE="foot">73. L. in, C. myd chaste loue; L. chaste body;</NOTE></L>
+<L>Ic<HI REND="italic">h</HI> he<HI REND="italic">m</HI> habbe f<HI REND="italic">ra</HI>m heuene ibroȝt; our lord it doþ ȝou lene.<NOTE PLACE="foot">74. L. i-brouȝth, C. broȝt; L. C. oure; L. C. hem;</NOTE></L>
+<L N="75">Vor welluwe ne olde neu<HI REND="italic">er</HI> hi nelleþ; ac eu<HI REND="italic">er</HI> ilaste<NOTE PLACE="foot">75. L. ffor-falewe, C. falewy; C. olden; L. wille þei nat; L. euere he willeþ laste, C. more laste;</NOTE></L>
+<L>Þe two man<HI REND="italic">er</HI> floures þ<HI REND="italic">a</HI>t þ<HI REND="italic">er</HI> beþ; nelleþ neu<HI REND="italic">er</HI> hor heu caste.<NOTE PLACE="foot">76. L. manere; L. beþ on, C. beþ her<HI REND="italic">e</HI> on; L. nelle; L. neuere; L. hor; C. hewe;</NOTE></L>
+<L>Þe lilie tokeneþ ȝour<HI REND="italic">e</HI> maidenhod; þ<HI REND="italic">a</HI>t is so wit &amp; suote.<NOTE PLACE="foot">77. L. be-tokneþ, C. bytokneþ; L. whyt, C. whit; L. C. swote;</NOTE></L>
+<L>Þe rose bitokeneþ ȝour<HI REND="italic">e</HI> martirdom · uor þ<HI REND="italic">er</HI>on deie ȝe mote.<NOTE PLACE="foot">78. C. marterdom; L. for (reg.); C. deyȝe;</NOTE></L>
+<L>&amp; vor þ<HI REND="italic">o</HI>u dest valerian cecilie red sone.<NOTE PLACE="foot">79. C. dyst; C. Cecilijs; C. rede; L. C.so sone;</NOTE></L>
+<L N="80">Wat þ<HI REND="italic">o</HI>u of my lord bist; he wole g<HI REND="italic">ra</HI>nte þi bone."<NOTE PLACE="foot">80. L. what; C. our<HI REND="italic">e;</HI> L. be-sekest, C. beste; L. wille; L. þe; L. C. graunte; L. sone;</NOTE></L>
+<PB N="78" REF="8"/>
+<L>"I ne wilny noþi<HI REND="italic">n</HI>g so much<HI REND="italic">e</HI>"; sede ualerian.<NOTE PLACE="foot">81. L. wille, C. wylne; C. no þyng; L. miche; L. seyde, C. seide;</NOTE></L>
+<L>"As þ<HI REND="italic">a</HI>t tybors my broþ<HI REND="italic">er;</HI> wer<HI REND="italic">e</HI> c<HI REND="italic">r</HI>isteneman."<NOTE PLACE="foot">82. L. Bote, C. but; L. Tiburst; L. wiþ me; C. cristen man;</NOTE></L>
+<L>"My lord wole" quaþ þis angel; "ȝeue hi<HI REND="italic">m</HI> þulke g<HI REND="italic">ra</HI>ce.<NOTE PLACE="foot">83. C. sede; L. aungel, C. þe a.; L. wile ȝiuen þat ilke, C. ȝyue hym suche;</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t boþe ȝe scholleþ at one tyme be; Imartred In one place."<NOTE PLACE="foot">84. L. C. &amp; C. boþ; L. schulle, C. schullen; L. C. o; L. I∣martired, C. martred; L. o, C. a;</NOTE></L>
+<L N="85">Þe angel wende wiþ þis word; me nuste war he bicom. <NOTE PLACE="foot">85 L. aungel, C. angle; C. þat; L. he, C. hÿ nust; L. wher, C. ware; L. be-com, C. bycome;</NOTE></L>
+<L>Þis two clene þi<HI REND="italic">n</HI>ges wiþ Ioie Inou; hor eiþ<HI REND="italic">er</HI> to oþ<HI REND="italic">er</HI> nom<NOTE PLACE="foot">86. C. þes twey; L. þingges, C——; L. ech of oþer; C. nome;</NOTE></L>
+<L>Tibors com to þe chambre; to speke wiþ is broþ<HI REND="italic">er</HI> þere<NOTE PLACE="foot">87. L. C. Tiburs; C. come; L. spak, C. spake; C. with; L. C. his; C. þer;</NOTE></L>
+<L>He stod stille &amp; bihuld aboute; as he nuste war he wer<HI REND="italic">e.</HI><NOTE PLACE="foot">88 C. stode; L. beheld, C. byhelde. L. al-a∣boute; L. als.; L. wher, C. ware;</NOTE></L>
+<L>"Broþ<HI REND="italic">er</HI>" he sede "hou geþ þis; þis tyme of þe ȝer<HI REND="italic">e.</HI><NOTE PLACE="foot">89. L. seyde; L. goþ, C. "þis is" (the þ<HI REND="italic">is</HI> is in a different hand); C. þat; C. in;</NOTE></L>
+<L N="90">So suote smul ne smulde ic<HI REND="italic">h</HI> neu<HI REND="italic">er</HI>e; me þencþ as ic<HI REND="italic">h</HI> do her<HI REND="italic">e</HI><NOTE PLACE="foot">90. C. suche smel; L, smelde, C. smelled; L. I, C. ic; C. neuer; L. þinkeþ (reg.); C. now;</NOTE></L>
+<L>Þei þis hous wer<HI REND="italic">e</HI> vol of rede rosen; &amp; of wite lilion also<NOTE PLACE="foot">91. C. wer; L. ful, C. fulle (reg.); L. of newe roses; L. of lylie, C. of lylyen;</NOTE></L>
+<L>I ne miȝte he<HI REND="italic">m</HI> v<HI REND="italic">er</HI>isore smul: me þencþ þe<HI REND="italic">n</HI> ic<HI REND="italic">h</HI> nou do.<NOTE PLACE="foot">92. L. myȝtteþ, C. myȝt; L. versschere, C. swettur; L. smelle, C. smellen; L. C. now;</NOTE></L>
+<L>So vol icham of þis smul; &amp; so much<HI REND="italic">e</HI> it is In my þoȝt. <MILESTONE N="187." UNIT="f."/> <NOTE PLACE="foot">93. L. C. þe; C. smelle; C. so is þer on; L. þout;</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t I not hou icha<HI REND="italic">m</HI> sodenlich<HI REND="italic">e;</HI> In oþ<HI REND="italic">er</HI> witte ibroȝt."<NOTE PLACE="foot">94. L. for-soþe, L. C. in an-oþer; L. wytte, C. wyt; L. I-brouth, C. ybroȝt;</NOTE></L>
+<L N="95">"Leue broþ<HI REND="italic">er</HI>" quaþ valerian; "gerlans we habbeþ here.<NOTE PLACE="foot">95. C. he sede; L. garlandes, C. garlauns; C. habeþ;</NOTE></L>
+<L>Of floures þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u ne miȝt ise; bote þ<HI REND="italic">o</HI>u wer<HI REND="italic">e</HI> our Iuere<NOTE PLACE="foot">96. C. noȝt; L. i-se, C. se; C. but; L. C. our<HI REND="italic">e;</HI> L. C. fere;</NOTE></L>
+<L>Ac so as þ<HI REND="italic">o</HI>u hast þe<HI REND="italic">m</HI> suote smul; þ<HI REND="italic">er</HI>-of þoru our bone.<NOTE PLACE="foot">97. L. als, C. &amp;; L. þane swote smel, þis smylle; L. þar-of, C. þ<HI REND="italic">er</HI> for; L. for, C. þorw; L. C. our<HI REND="italic">e;</HI></NOTE></L>
+<L>Ȝif þ<HI REND="italic">o</HI>u wolt bileue as we doþ; þ<HI REND="italic">o</HI>u miȝt he<HI REND="italic">m</HI> ise sone."<NOTE PLACE="foot">98. C. If; L. be-leue, C. lyue; L. sen, C. se;</NOTE></L>
+<L>"Leue broþ<HI REND="italic">er</HI>" quaþ þis oþ<HI REND="italic">er;</HI> "weþ<HI REND="italic">er</HI> is it soþ þis<NOTE PLACE="foot">99. L. seyde, C. sede; C. tyburs; L. wheþur, C. ys hit soþ oþer hit nys; L. be</NOTE></L>
+<L N="100">Oþ<HI REND="italic">er</HI> ic<HI REND="italic">h</HI> stonde i<HI REND="italic">n</HI> metynge; &amp; mete þ<HI REND="italic">a</HI>t it so is."<NOTE PLACE="foot">100. L. matyngge, C. metyng; C. ys;</NOTE></L>
+<L>"In metynge" quaþ valerian; "we habbeþ eu<HI REND="italic">er</HI> ibe.<NOTE PLACE="foot">101. L. metyngge, C. metyng; C. sede;</NOTE></L>
+<L>Nou we beþ v<HI REND="italic">er</HI>st of slepe awaked; nou we mowe uerst ise."<NOTE PLACE="foot">102. C. &amp; now; L. ben; L. ferst; L. a-waked; L. ferst, C. furst; C. se;</NOTE></L>
+<L>"Suxtou bet nou" quaþ þis oþ<HI REND="italic">er;</HI> "þe<HI REND="italic">n</HI> þ<HI REND="italic">o</HI>u hast er ido."<NOTE PLACE="foot">103. L. sestow, C. syxte; C. bete; C. sede tyburs; L. C. þan; C. ar; C. þis do;</NOTE></L>
+<L>"Ȝe" sede valerian; "wel me bi-houeþ so<NOTE PLACE="foot">104. L. seyde; L. sone; L. be-, C. by;</NOTE></L>
+<L N="105">Vor my lordes angel of heuene; haþ iȝeue me siȝt<NOTE PLACE="foot">105. L. ffor, C. for; L. aungel; L. I-ȝoue, C. yȝyue; L. syȝth, C. lyȝt;</NOTE></L>
+<L>&amp; vor our loue he wole þe also; ȝif þ<HI REND="italic">o</HI>u wolt bileue ariȝt"<NOTE PLACE="foot">106. L. for oure; L. schal; L. wile; L. leue, C. lyue; L. a-ryȝth;</NOTE></L>
+<PB N="80" REF="10"/>
+<L>Þo sede þis holi maide "tybors leue broþ<HI REND="italic">er.</HI><NOTE PLACE="foot">107. L. seyde;</NOTE></L>
+<L>Wat beþ þis maumet<HI REND="italic">es</HI> bote wrechede; þ<HI REND="italic">o</HI>u suxt non oþ<HI REND="italic">er.</HI><NOTE PLACE="foot">108. L. what; L. ben; L. maumettes, C. maumes; C. bot; L. wreched∣hede, C. wrecches; L. sest, C. syxt; C. ne; L. on hem;</NOTE></L>
+<L>Ne suxtou hou it is mo<HI REND="italic">n</HI>nes werc · Imad of old tre.<NOTE PLACE="foot">109. L. sestou; þ<HI REND="italic">a</HI>t þese maumets, C. beþ hÿ of ma<HI REND="italic">um</HI>es werke; L. ben mad, C. &amp; ymaked;</NOTE></L>
+<L N="110">Þi<HI REND="italic">n</HI>g þet ne mai hi<HI REND="italic">m</HI> sulue helpe; hou mai it helpe þe"<NOTE PLACE="foot">110 L. C. sulf; C. helpen; L. myȝte, C. scholde; C. hÿ;</NOTE></L>
+<L>"Noþi<HI REND="italic">n</HI>g nys soþ<HI REND="italic">er</HI>" quaþ tibors; "þen þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u hast ised.<NOTE PLACE="foot">111. L. soþere; C. sede; L. þanne, C. þan; L. i-seyd, C. ysede;</NOTE></L>
+<L>Wod<HI REND="italic">er</HI> he weþ<HI REND="italic">er</HI> þen eny best; þ<HI REND="italic">a</HI>t nolde do þi red<HI REND="italic">e</HI>"<NOTE PLACE="foot">112. L. gydiere, C. gydier; L. C. were þan; L. any beste, C. a best; C. nold; L. don; L. red;</NOTE></L>
+<L>S<HI REND="italic">eyn</HI> Cecile hi<HI REND="italic">m</HI> custe anon; "leue tybors" heo sede<NOTE PLACE="foot">113. C. swete c.; L. tiburs, C. broþer; L. he seyde;</NOTE></L>
+<L>"To dai þ<HI REND="italic">o</HI>u schalt my broþ<HI REND="italic">er</HI> be; vor þ<HI REND="italic">o</HI>u wolt do bi rede.<NOTE PLACE="foot">114. L. to-day; L. wilt don; L. be, C. by;</NOTE></L>
+<L N="115">Þoru clene loue of good bileue; þi broþ<HI REND="italic">er</HI> my spouse is<NOTE PLACE="foot">115. C. þorwe; L. C. and; C. goud; C. spous ys;</NOTE></L>
+<L>Þ<HI REND="italic">er</HI>-þoru þ<HI REND="italic">o</HI>u schalt bicome also; my broþ<HI REND="italic">er</HI> wan þ<HI REND="italic">o</HI>u art his<NOTE PLACE="foot">116. C. þer þorwe; L. when; C. b. ben ywys;</NOTE></L>
+<L>Myd valerian þ<HI REND="italic">o</HI>u most go to þe biscop vrban<NOTE PLACE="foot">117. L. C. mid;</NOTE></L>
+<L>&amp; be ic<HI REND="italic">r</HI>istned &amp; do also; as he þe rede can."</L>
+<L>"Is þ<HI REND="italic">a</HI>t vrban" quaþ tybours; "þ<HI REND="italic">a</HI>t so ȝerne haþ ibe isoȝt.<NOTE PLACE="foot">119. C. sede; L. be souȝth; C. be soȝt;</NOTE></L>
+<L N="120">Þ<HI REND="italic">at</HI> ȝar<HI REND="italic">e</HI> haþ ibe fleme &amp; ihud; &amp; ȝif he wer<HI REND="italic">e</HI> uorþ ibroȝt.<NOTE PLACE="foot">120. C. yflemed be; C. ȝef; L. forþ brouþth, C. forþ broȝt;</NOTE></L>
+<L>Vorberne he scholde &amp; we also; ȝif we wiþ hi<HI REND="italic">m</HI> were<NOTE PLACE="foot">121. L. ffor-berne; C. for; C. schold; C. ek; C. myd;</NOTE></L>
+<L>&amp; so þe wole we heuene soȝte; vorberne we miȝte her<HI REND="italic">e.</HI>"<NOTE PLACE="foot">122. L. while, C. wyle, L. souȝthen, C. soȝt; L. for-barnd, C. brende; L. scholde, C. schold; L. ben here, C. ben þer;</NOTE></L>
+<L>"&amp; ȝif þ<HI REND="italic">er</HI> nere" quaþ þis maide: "souleme<HI REND="italic">n</HI>t bote þis lif.<NOTE PLACE="foot">123. C. sede cecile; L. onliche; C. bot;</NOTE></L>
+<L>Fol he wer<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t it wolde lese; vor eny strif.<NOTE PLACE="foot">124. C. hit; L. any-maner;</NOTE></L>
+<L N="125">An wen þ<HI REND="italic">er</HI> is so muri lif; þ<HI REND="italic">a</HI>t we schulleþ her-aft<HI REND="italic">er</HI> auonge.<NOTE PLACE="foot">125. C. omits line; L. seþe; L. schulle after a-fonge;</NOTE></L>
+<L>Fol is þ<HI REND="italic">a</HI>t nele an wule be wo; to be In Ioie so longe."<NOTE PLACE="foot">126. C. omits line; L. nelle a whyle ben;</NOTE></L>
+<L>"Leue broþ<HI REND="italic">er</HI>" quaþ tybours; "ic<HI REND="italic">h</HI> bisech<HI REND="italic">e</HI> þe<NOTE PLACE="foot">127. C. sede; L. þou; L. C. haue mercy of me;</NOTE></L>
+<L>Lede me to þulke gode mon<HI REND="italic">n</HI>e; &amp; haue m<HI REND="italic">er</HI>cy of me."<NOTE PLACE="foot">128. L. led; L. C. þat; C. goud; L. C. man; L. Ich be-; C. i<SUP>c</SUP> byseche;</NOTE></L>
+<L>Þ<HI REND="italic">at</HI> o broþ<HI REND="italic">er</HI> ladde þ<HI REND="italic">a</HI>t oþ<HI REND="italic">er;</HI> to þe biscop Vrban<NOTE PLACE="foot">129. C. þe; C. lad þe o.; L. bisschop, C. byschop;</NOTE></L>
+<L N="130">&amp; let hi<HI REND="italic">m</HI> vorsake is fole bileue; &amp; bicom c<HI REND="italic">r</HI>istene man.<NOTE PLACE="foot">130. L. þar he for-sok, C. To forsake; L. C. his foule lawe; L. becam, C. bycome; C. cristen;</NOTE></L>
+<L>Tibours þo he com aȝen; þen angel he sei anon.<NOTE PLACE="foot">131. C. come; L. þan, C. þe; L. C. sey;</NOTE></L>
+<L>Þ<HI REND="italic">at</HI> Cecile hi<HI REND="italic">m</HI> hadde bihote; In þe chambre wiþ hir<HI REND="italic">e</HI> gon.<NOTE PLACE="foot">132. C. byhete;</NOTE></L>
+<PB N="82" REF="12"/>
+<L>Cecile, vor heo wo<HI REND="italic">m</HI>man was; atom heo moste abide.<NOTE PLACE="foot">133. L. ȝe; L. wyfman, C. wy<HI REND="italic">m</HI>ma<HI REND="italic">n;</HI> L. at hom, C. a com; C. most;</NOTE></L>
+<L>Ac þis breþ<HI REND="italic">er</HI>en þ<HI REND="italic">a</HI>t wer<HI REND="italic">e</HI> me<HI REND="italic">n;</HI> aboute wende wide.<NOTE PLACE="foot">134. L. ak þese; C. þe broþeren; L. whane, C. wan; L. martyreden; L. cristenemen; L. þider; L. he wolden, C. hÿ wold;</NOTE></L>
+<L N="135">&amp; wen me martred c<HI REND="italic">r</HI>istenme<HI REND="italic">n;</HI> þud<HI REND="italic">er</HI> hi wolde gon. <MILESTONE N="187b." UNIT="f."/></L>
+<L>&amp; stele to wen hi miȝte best; &amp; burie he<HI REND="italic">m</HI> anon. <NOTE PLACE="marg">[don.</NOTE><NOTE PLACE="foot">136. L. to whan, C. to wan; L. he myȝtte, C. hÿ myȝt, C. beste; L. burien, C. bured; C. be a.;</NOTE></L>
+<L>bi-uore þe Iustice hi wer<HI REND="italic">e</HI> ibroȝt; me lefte he<HI REND="italic">m</HI> wat hi wolde<NOTE PLACE="foot">137. <HI REND="italic">ll.</HI> 139, 140 tr. 137, 138 in L. and C.; L. to-fore, C. to; L. C. iustise, L. he weren, C. hÿ wer<HI REND="italic">e;</HI> L. i-brouth; L. þei askede, C. me eschete; L. C. hem anon;</NOTE></L>
+<L>Ho made he<HI REND="italic">m</HI> so hardi; to ben þe emp<HI REND="italic">er</HI>ours fon.<NOTE PLACE="foot">138. L. who, C. wo; L. C. ȝou; L. burie, C. bury; L. C. emperoures; L. foon;</NOTE></L>
+<L>As hi burede twei gode me<HI REND="italic">n;</HI> þ<HI REND="italic">a</HI>t Imartred wer<HI REND="italic">e.</HI><NOTE PLACE="foot">139. L. þei: C. hÿ; L. burieden, C. bured; L. y-martired;</NOTE></L>
+<L N="140">Come þe emp<HI REND="italic">er</HI>ours me<HI REND="italic">n;</HI> &amp; nome he<HI REND="italic">m</HI> riȝt þ<HI REND="italic">er</HI>e. <NOTE PLACE="foot">140. C. comen; L. C. -es; L. C. nomen; C. anon þ<HI REND="italic">er;</HI></NOTE></L>
+<L>Þe misbileued t<HI REND="italic">re</HI>chhours; þ<HI REND="italic">a</HI>t wer<HI REND="italic">e</HI> aȝen our lawe.<NOTE PLACE="foot">141. L. trichours, C. traytoures; C. aȝens; L. C. our<HI REND="italic">e;</HI></NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t wiþ riȝt Iugeme<HI REND="italic">n</HI>t of londe; wer<HI REND="italic">e</HI> ibroȝt of dawe.<NOTE PLACE="foot">142. L. ryȝth; C. Iuggement; L. of þe lond; L. i-brout;</NOTE></L>
+<L>"Sir<HI REND="italic">e,</HI> we wolde," queþe þis oþ<HI REND="italic">er:</HI> "þ<HI REND="italic">a</HI>t we wurþi wer<HI REND="italic">e</HI><NOTE PLACE="foot">143. C. wolde god sede þes oþer, L. oþere seyde; L. worþi, C. so;</NOTE></L>
+<L>Hor knaues uorte habbe ibe; þ<HI REND="italic">a</HI>t ȝe lette quelle þ<HI REND="italic">er</HI>e.<NOTE PLACE="foot">144. L. C. here; L. forto; C. knaues ... þat; L. þou let; C. ȝe aquelden; L. þare;</NOTE></L>
+<L N="145">Hi bileuede þing þ<HI REND="italic">a</HI>t noȝt nas þei [<HI REND="italic">it</HI>]<NOTE N="1" PLACE="marg">(MS. omits.)</NOTE> semblaunce hadde<NOTE PLACE="foot">145. L. he, C. hÿ; L. C. leften; L. nawt, C. naȝt; L. þei it; C. þey hit; C. semblant;</NOTE></L>
+<L>&amp; toke þ<HI REND="italic">a</HI>t was aworþ; &amp; no semblance nadde.<NOTE PLACE="foot">146. L. good þing C. to þe þyng; C. semblant;</NOTE></L>
+<L>Vor þei worldes wele habbe semblance · uor soþe noȝt it nys.<NOTE PLACE="foot">147. L. þe worldes ioye þat haþ semblant; L. so nawt, C. wors þan n. ys;</NOTE></L>
+<L>&amp; þei þe blisse of heuene þench<HI REND="italic">e</HI> lute; uor soþe much<HI REND="italic">e</HI> it is."<NOTE PLACE="foot">148. L. and, C. ac þe Ioie; L. heuen; L. þinke, C. semeþ; L. lite, C. luyte; L. mechul <HI REND="italic">and</HI> swete it is, C. ac much hit ys ywys;</NOTE></L>
+<L>"Belamys," þe Iustices seden; "ȝe me þencþ wode.<NOTE PLACE="foot">149. L. beaus, C. bens; L. a. ... me, C. sede þis iustice; L. þat ȝe ben; L. þynkþ, C. þyncheþ;</NOTE></L>
+<L N="150">Wurþe he i[<HI REND="italic">s</HI><NOTE N="1" PLACE="marg">(MS. it.)</NOTE>] to habbe wo; hose kepeþ noȝt of gode."<NOTE PLACE="foot">150. L. worþe, C. worþ; L. who-so, C. þat: L. keput; L. nat; C. no goude;</NOTE></L>
+<L>"In wynt<HI REND="italic">er,</HI>" quaþ valerian; "idelme<HI REND="italic">n</HI> sitteþ &amp; drinkeþ.<NOTE PLACE="foot">151. C. sede; L. sitten; C. stille; L. drynkun;</NOTE></L>
+<L>To busemar hi liȝeþ erþetilien; þ<HI REND="italic">a</HI>t aboute gode swynkeþ.<NOTE PLACE="foot">152. L. bismere, C. a scorn; L. leyen; L. here; C. in þe felde, L. sowynge;</NOTE></L>
+<L>In heruest wen hi mowe; vair corn repe. <NOTE PLACE="marg">[g<HI REND="italic">re</HI>pe</NOTE><NOTE PLACE="foot">153. L. whan, C. wan; L. C. þe swynkeres; L. moweþ, C. rypeþ; L. fair schef, C. corne; L. <HI REND="italic">and</HI> good <HI REND="italic">and</HI> rype, C. goud <HI REND="italic">and</HI> rype;</NOTE></L>
+<L>In meseise hi mowe go vp &amp; doun; vor hi nabbeþ neu<HI REND="italic">er</HI> a<NOTE PLACE="foot">154. L. ȝe mowen gon, C. þe drynkeres goþ; L. he, C. <HI REND="italic">and;</HI> L. neuere agripe, C. a gripe;</NOTE></L>
+<L N="155">&amp; we scholleþ uor our t<HI REND="italic">ra</HI>uail; þi blisse repe atenende.<NOTE PLACE="foot">155. L. als, C. so; L. C. schulle; L. C. oure; C. trauaile; L. C. rype; L. atte ende, C. at nende;</NOTE></L>
+<L>Wen ȝe schulleþ uor our Ioie; wepynge to helle wende"<NOTE PLACE="foot">156. L. whanne, C. wan; L. C. schulle; L. for ȝoure; L. wepynde, C. to pyne of h.;</NOTE></L>
+<L>"Eke we," quaþ þe Iustice; "þ<HI REND="italic">a</HI>t lordes scholde be.<NOTE PLACE="foot">157. L. ek he, C. ek we; L. seyde, C. sede; C. schold lordis;</NOTE></L>
+<L>Beþ lasse worþ þe<HI REND="italic">n</HI> such<HI REND="italic">e</HI> wreches; þ<HI REND="italic">a</HI>t nelleþ neu<HI REND="italic">er</HI> iþe."<NOTE PLACE="foot">158. L. C. þan; L. swiche: C. drynkeres; L. nolde neuere þe, C. yþe;</NOTE></L>
+<PB N="84" REF="14"/>
+<L>"Certes" quaþ ualerian "þ<HI REND="italic">o</HI>u art lasse itold<NOTE PLACE="foot">159. C. sede; C.ert; C. of tolde;</NOTE></L>
+<L N="160">Þen a beggar<HI REND="italic">e</HI> aȝen god; ne be þ<HI REND="italic">o</HI>u ne so bold"<NOTE PLACE="foot">160. L. þan is a saly beggere; C. aȝens; C. goud; L. neuere, C. neuer, C. bolde;</NOTE></L>
+<L>"Belamy," quaþ þe Iustice; "I ne kepe noȝt of þi Ianglinge.<NOTE PLACE="foot">161. C. sede; L. yne, C i<SUP>c</SUP> ne; L. nat, C. no; L. ianglyngge;</NOTE></L>
+<L>Doþ ȝour<HI REND="italic">e</HI> sac<HI REND="italic">r</HI>ifice anon; oþ<HI REND="italic">er</HI> me schal ȝou to deþe b<HI REND="italic">r</HI>inge"<NOTE PLACE="foot">162. C. our<HI REND="italic">e</HI> godes; L. sacrefise; L. bringge;</NOTE></L>
+<L>"Certes" queþe þis gode me<HI REND="italic">n;</HI> "þ<HI REND="italic">o</HI>u ne b<HI REND="italic">r</HI>ingest ous noȝt þ<HI REND="italic">er</HI>to."<NOTE PLACE="foot">163 L. quaþ þis godeman, C. hÿ sede; C. þo; L. ne bringgest me neuere, C. bringest hit noȝt;</NOTE></L>
+<L>Þe Iustice he<HI REND="italic">m</HI> let anon; In st<HI REND="italic">r</HI>ong p<HI REND="italic">r</HI>ison do;<NOTE PLACE="foot">164. C. stronge; L. prisone; C. to do;</NOTE></L>
+<L N="165">Maxime þe gailer het; þ<HI REND="italic">a</HI>t he<HI REND="italic">m</HI> In warde nom.<NOTE PLACE="foot">165. C. leylere hete; C. in ward nome;</NOTE></L>
+<L>So þ<HI REND="italic">a</HI>t he &amp; alle his; þoru he<HI REND="italic">m</HI> c<HI REND="italic">r</HI>istene bicom<NOTE PLACE="foot">166. C. al; L. þorw, C. þorwe; C. fongen; C. cristendom; L. come; L. ȝe; C. to g.;</NOTE></L>
+<L>S<HI REND="italic">eyn</HI> Cecile com bi þe p<HI REND="italic">r</HI>ison; loude heo gan grede.</L>
+<L>"Wat doþ ȝe, stalwarde knyȝtes; cuþeþ ȝour<HI REND="italic">e</HI> stalward hede.<NOTE PLACE="foot">168. L. what; L. C. do; L. C. godes; L. knytes; L. kuþeþ; C. kepeþ; L. ȝour; L. stalewort, C. Stalword;</NOTE></L>
+<L>Fiȝteþ nou stalwardlich<HI REND="italic">e;</HI> to bileue þis derkhede.<NOTE PLACE="foot">169. C. wyteþ ȝour<HI REND="italic">e</HI> strongnesse, L. staleworþliche; C. now in;</NOTE></L>
+<L N="170">Þ<HI REND="italic">a</HI>t ȝe wer<HI REND="italic">e</HI> In þe weie ibroȝt; þ<HI REND="italic">a</HI>t to cler liȝt ȝou wole lede"<NOTE PLACE="foot">170. L. i-brouth;</NOTE></L>
+<L>Amorwe to þe maumet þis gode me<HI REND="italic">n</HI> wer<HI REND="italic">e</HI> ibroȝt.<NOTE PLACE="foot">171. L. opon þe morue; L. maumets, C. þis maunes; C. þe goud; L. brouth;</NOTE></L>
+<L>Þe Iustice he<HI REND="italic">m</HI> het do sac<HI REND="italic">r</HI>ifice; ac þo hi nolde noȝt.<NOTE PLACE="foot">172. C. hete; L. don; L. þei ne wolde nat, hÿ nold;</NOTE></L>
+<L>Hor heden he het boþe of smyte; &amp; maxime isei<NOTE PLACE="foot">173. L. C. here; L. heued, C. heuedes; L. let, C. lete; L. it I-sey, C. anon sey;</NOTE></L>
+<L>War angles hor soulen nome; &amp; to heuene ber<HI REND="italic">e</HI> an hei.<NOTE PLACE="foot">174. L. whare aungles here soules, C. four<HI REND="italic">e</HI> angles her<HI REND="italic">e</HI> saule nyme; L. baren;</NOTE></L>
+<L N="175">To þe Iustice he eode anon; "c<HI REND="italic">r</HI>istene icham" he sede<NOTE PLACE="foot">175. L. ȝede, C. wende aȝen;</NOTE></L>
+<L>"Ic<HI REND="italic">h</HI> isei þe gode me<HI REND="italic">n</HI>ne soulen; angles to heuene lede."<NOTE PLACE="foot">176. L. godemannes soule, C. sey angles now her<HI REND="italic">e</HI> saules;</NOTE></L>
+<L>Þe Iustice hi<HI REND="italic">m</HI> let nyme anon; naked he let hi<HI REND="italic">m</HI> bete.<NOTE PLACE="foot">177. C. lete<SUP>2</SUP>; L. C. nymen;</NOTE></L>
+<L>Wiþ st<HI REND="italic">r</HI>onge scourgen vaste ibou<HI REND="italic">n</HI>de; vorte he gan þ<HI REND="italic">a</HI>t lif lete.<NOTE PLACE="foot">178. L. skourgen; L. faste, C. fast; C. bounden; L. forto, C. fort; C. his l.;</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t bodi hi caste wiþ-þoute toun; þo gon Cecile uorþ gon. <MILESTONE N="188." UNIT="f."/> <NOTE PLACE="foot">179. L. C. þe; L. þei, C. hÿ; L. C. casten; L. wiþoute, C. w<HI REND="italic">i</HI>t<HI REND="italic">h</HI>þoute; L. þet.; C. toune; L. gan, C. com; L. C. forþ;</NOTE></L>
+<L N="180">Þis þre holi martirs; to-gader<HI REND="italic">e</HI> heo burede anon.<NOTE PLACE="foot">180. L. þese, C. þo; L. C. martires; L. ȝe.; C. bured; L. to-gydere, C. togadre;</NOTE></L>
+<L>Heo was sone Inome &amp; ilad; byuore þe Iustice þo.<NOTE PLACE="foot">181. L. omits; C. nome; ladde; to;</NOTE></L>
+<L>"Wat" he sede "hou geþ þis; beþ þ<HI REND="italic">er</HI> ȝut screwen mo.<NOTE PLACE="foot">182. L. what; C. how; L. C. goþ; L. ȝet; L. C. schrewen;</NOTE></L>
+<L>Artou valerianes wif; bi þe fei ic<HI REND="italic">h</HI> owe mahon.<NOTE PLACE="foot">183. C. þou; L. Vallerianus; C. fay; L. mahoun, C. to M.;</NOTE></L>
+<PB N="86" REF="16"/>
+<L>Bote þ<HI REND="italic">o</HI>u oþ<HI REND="italic">er</HI> do, þi wite heu; worþ sone ibroȝt adon<NOTE PLACE="foot">184. C. an oþer; L. wyth, C. þy whyte hewe; L. I-brouth, C. broȝt; L. -doun, C. adoune;</NOTE></L>
+<L N="185">Of wat kun artou icome; þ<HI REND="italic">a</HI>t so follich<HI REND="italic">e</HI> þe doþ ler<HI REND="italic">e.</HI>"<NOTE PLACE="foot">185. L. what; L. kynne, C. kunde; C. þou comen; L. þus foleliche wilt, C. þe wole þus;</NOTE></L>
+<L>"Of bet<HI REND="italic">er</HI>e ku<HI REND="italic">n</HI>ne" quaþ þis maide "þen þ<HI REND="italic">o</HI>u eu<HI REND="italic">er</HI> wer<HI REND="italic">e</HI><NOTE PLACE="foot">186. C. beter kunde; L. quaþ C., C. sede C.; L. C. þan; L. euere;</NOTE></L>
+<L>In wuch man<HI REND="italic">er</HI> lif quaþ þis oþ<HI REND="italic">er;</HI> þencstou þi lif lyue. <NOTE PLACE="marg">[ȝiue</NOTE><NOTE PLACE="foot">187. L. wich, C. wuche l.; C. sede þe i.; L. C. þenkest; L. tou, C. þou; L. to lyue;</NOTE></L>
+<L>Þ<HI REND="italic">o</HI>u axst as a fol quaþ þis maide; &amp; such vnsuere me schal þe<NOTE PLACE="foot">188. L. ffor-soþe; L. axest, C. eschete; C. heo sede; C. foule; L. swich, C. suche; L. ansuere; L. schul;</NOTE></L>
+<L>Vor al þi poer þ<HI REND="italic">o</HI>u schalt ise; wen þ<HI REND="italic">o</HI>u wost þen ende.<NOTE PLACE="foot">189. C. power<HI REND="italic">e;</HI> C. se; L. C. by þat þou; C. þe;</NOTE></L>
+<L N="190">Þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u ne schalt f<HI REND="italic">ra</HI>m ih<HI REND="italic">es</HI>u c<HI REND="italic">r</HI>ist; enes myn herte wende."<NOTE PLACE="foot">190. L. ones, C. enys; C. my þoȝt;</NOTE></L>
+<L>"Hou com it to þe" quaþ þis oþ<HI REND="italic">er;</HI> "to be so hardi her.<NOTE PLACE="foot">191. L. comeþ, C. how come þou; L. seyde, C. sede; L. C. þe iustise; | C. to ben; C. here;</NOTE></L>
+<L>To clepe me fol þ<HI REND="italic">a</HI>t am þi maist<HI REND="italic">er;</HI> ne suxstou my poer."<NOTE PLACE="foot">192. C. clype; C. foul <HI REND="italic">and;</HI> L. ne sixte nower my per, C. ne syxt þou my power<HI REND="italic">e;</HI></NOTE></L>
+<L>"Þi poer wrech<HI REND="italic">e</HI>" quaþ þis maide; "worþ sone ibroȝt bi-hinde<NOTE PLACE="foot">193. L. per, C. powere; C. wrecche; C. sede heo; L. i-brouȝth, C. broȝt; C. þe; L. be-, C. by-;</NOTE></L>
+<L>Vor it nys bote as a bleddore; iblowe uol of wynde<NOTE PLACE="foot">194. C. hit; C. bot; L. bladre, C. bladere; C. yblowen; C. ful, L. fol of a wreche w.;</NOTE></L>
+<L N="195">Þ<HI REND="italic">a</HI>t be ip<HI REND="italic">r</HI>iked wiþ a pricke; awei it scrynkeþ al.<NOTE PLACE="foot">195. L. be it, C. be hit; C. priked myd; L. a litel prikke, C. a prike; C. hit; C. schrynkeþ;</NOTE></L>
+<L>Also wiþ a lute sekenesse; þi wreche caroine schal.<NOTE PLACE="foot">196. L. als þi cariogne wiþ siknesse, wreche, a-dwyne schal, C. with a lyte sykenesse þy wrecche careyn schal;</NOTE></L>
+<L>Þi poer þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u ȝelpest of; worþ þe<HI REND="italic">n</HI>ne suyþe lute."<NOTE PLACE="foot">197. C, powere; L. boþe is þenne &amp; lite, C. swyþe lyte;</NOTE></L>
+<L>"Hou geþ þis" quaþ þe Iustice; "dame, we<HI REND="italic">n</HI>ne comeþ þi p<HI REND="italic">r</HI>ute.<NOTE PLACE="foot">198 L. goþ; C. how is; L. sey de, C. sede; L. whenne, C. wannes; L.al þis, C. þy p<HI REND="italic">ri</HI>te;</NOTE></L>
+<L>Ne mai ic<HI REND="italic">h</HI> þe ȝeue deþ &amp; lif; ne suxtou wiþ þi<HI REND="italic">n</HI> eie"<NOTE PLACE="foot">199. L. I may þe ȝiue, C. ȝyue; L. as þou sixt myd, C. syxt þou myd þy neye;</NOTE></L>
+<L N="200">"Certes sir<HI REND="italic">e</HI>" quaþ þis maide; "þ<HI REND="italic">o</HI>u luxt þ<HI REND="italic">er</HI> of wel heie.<NOTE PLACE="foot">200. L. þo; C. sede; L. lixt, C. lyxt;</NOTE></L>
+<L>A wrech<HI REND="italic">e</HI> caroine þ<HI REND="italic">o</HI>u miȝte ȝeue deþ þ<HI REND="italic">a</HI>t wel schort is.<NOTE PLACE="foot">201. C. a body; L. myȝth, C. myȝt, L. ȝiue; C. ȝyue (reg); L. <HI REND="italic">and;</HI></NOTE></L>
+<L>Ac of lyue þ<HI REND="italic">o</HI>u miȝte noþi<HI REND="italic">n</HI>g ȝeue; þi sulue noȝt iwis.<NOTE PLACE="foot">202. L ak; L. C. lyf; L. myȝtte, C. myȝt; L. nat, C. ywys (reg.);</NOTE></L>
+<L>Wen þ<HI REND="italic">o</HI>u miȝt deþ ȝeue; me þencþ bi pur riȝt.<NOTE PLACE="foot">203. L. seþe, C. wan; L. myȝth; L. &amp; no lif; L. þinkþ, C. þinkeþ; L. ryȝtte;</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u art deþes sergant; &amp; of lif nastou no miȝt<NOTE PLACE="foot">204. C. ert; L. seriant, C. seriaunt; L. for; L. hasto, C. ne hast þou; L. myȝtte, C. wyȝt myȝt;</NOTE></L>
+<L N="205">&amp; we<HI REND="italic">n</HI> þ<HI REND="italic">o</HI>u deþes sergau<HI REND="italic">n</HI>t art; deþ þi lord is.<NOTE PLACE="foot">205. L. ffor whan, C. &amp; wan; L. sergeant, C. seriant; C. ert; L. louerd;</NOTE></L>
+<L>&amp; In deþ wiþþoute ende; þ<HI REND="italic">o</HI>u wolt be iwis."<NOTE PLACE="foot">206. L. wiþ-outen, C. with oute; L. wilt, C. schalt ben;</NOTE></L>
+<PB N="88" REF="18"/>
+<L>"Dame" quaþ þe Iustice; "of þi godhede ne kepe ic<HI REND="italic">h</HI> noȝt.<NOTE PLACE="foot">207. C. sede þis i.; L. gydihede, C. wod∣hed; C. kep; L. ryȝth nowth;</NOTE></L>
+<L>Do sac<HI REND="italic">r</HI>ifice to our<HI REND="italic">e</HI> godes; oþ<HI REND="italic">er</HI> þ<HI REND="italic">o</HI>u worst to deþe ibroȝt"<NOTE PLACE="foot">208. C. þy; C. schalt be; C. deþ; L. i-brouth, C. broȝt;</NOTE></L>
+<L>"Þ<HI REND="italic">o</HI>u seist þ<HI REND="italic">a</HI>t ic<HI REND="italic">h</HI> gidi am"; S<HI REND="italic">eyn</HI> Cecili sede.<NOTE PLACE="foot">209. C. wode; C. &amp; ysene is on þy rede;</NOTE></L>
+<L N="210">"Ac þ<HI REND="italic">o</HI>u art gidi &amp; eke blynd; I sene on þi rede.<NOTE PLACE="foot">210. L. i-sene; C. forto lete to do wel; &amp; suyþe to do quede;</NOTE></L>
+<L>Scholde ic<HI REND="italic">h</HI> honour<HI REND="italic">e</HI> þine godes; þ<HI REND="italic">a</HI>t beþ of ston &amp; tre<NOTE PLACE="foot">211. C. schoulde; L. honure, C. honour; C. þyn; L. ymad;</NOTE></L>
+<L>I lef ȝif ic<HI REND="italic">h</HI> segge soþ; ȝif þ<HI REND="italic">o</HI>u miȝt noȝt ise.<NOTE PLACE="foot">212. L. I nelle it do, for-soþe, C. welle þat ic sede þe souþ; L. for, C. þat; L. nat;</NOTE></L>
+<L>Bote þ<HI REND="italic">o</HI>u be blynd þ<HI REND="italic">o</HI>u miȝt ise; þ<HI REND="italic">a</HI>t þis þi<HI REND="italic">n</HI>g soþ is.<NOTE PLACE="foot">213. C. bot; L. þat art b., C. blynde; C. souþ;</NOTE></L>
+<L>Ȝif þ<HI REND="italic">o</HI>u it suxst &amp; leuest it noȝt; gidi þ<HI REND="italic">o</HI>u art iwis.<NOTE PLACE="foot">214. L. sixt, C. syxt; C. lyuest; C. hit; L. naut; C. woud;</NOTE></L>
+<L N="215">Vor gidi he is þ<HI REND="italic">a</HI>t nele ileue; þ<HI REND="italic">a</HI>t he sucþ myd eie.<NOTE PLACE="foot">215. C. wode; L. nelle; L. C. seþ; C. <HI REND="italic">w</HI>it<HI REND="italic">h;</HI> L. C. eye;</NOTE></L>
+<L>&amp; as gidi mo<HI REND="italic">n</HI> &amp; blynd þ<HI REND="italic">o</HI>u schalt; In helle pyne deie."<NOTE PLACE="foot">216. L. gydi &amp; blind; C. as wode &amp; blynde; C. by þat skyle;</NOTE></L>
+<L>Þo v<HI REND="italic">er</HI>de þe screwe as he wer<HI REND="italic">e</HI> wod; &amp; het þis maide take.<NOTE PLACE="foot">217. L. ferde; L. schrewe; C. þe iustise was for wraþ wod; C. lete;</NOTE></L>
+<L>&amp; lede hir<HI REND="italic">e</HI> to an out hous; &amp; a g<HI REND="italic">r</HI>et fur make.<NOTE PLACE="foot">218. L. leden; L. C. into; L. greth; C. fuyre; C. þer;</NOTE></L>
+<L>&amp; þ<HI REND="italic">er</HI> ou<HI REND="italic">er</HI> a led uol of wat<HI REND="italic">er;</HI> &amp; al amidde hir<HI REND="italic">e</HI> caste<NOTE PLACE="foot">219. C. &amp; sete; L. led-ful; C. lede ful;</NOTE></L>
+<L N="220">&amp; seþe hir<HI REND="italic">e</HI> þe wule þ<HI REND="italic">er</HI> wole; a lym of hire ilaste.<NOTE PLACE="foot">220. C. seþ; L. while, C. þe wyle; L. any Lime hol, C. lyme hole; L. on h.; C. laste;</NOTE></L>
+<L>Þo þis Iugeme<HI REND="italic">n</HI>t was iȝeue; &amp; me hire uorþ ladde<NOTE PLACE="foot">221. L. C. iuggement;</NOTE></L>
+<L>Wi<HI REND="italic">m</HI>men &amp; me<HI REND="italic">n</HI> þ<HI REND="italic">a</HI>t it iseie: loude hi wope &amp; g<HI REND="italic">ra</HI>dde.<NOTE PLACE="foot">222. L. wifmen; C. hir<HI REND="italic">e</HI> sey; C. loud; L. þe wopen, C. hÿ wepe; C. gurdde;</NOTE></L>
+<L>"Alas" hi sede "a þ<HI REND="italic">is</HI><NOTE N="1" PLACE="marg">(MS. þ 9)</NOTE> ȝong þing; &amp; a þ<HI REND="italic">is</HI><NOTE N="1" PLACE="marg">(MS. þ 9)</NOTE> vair creatur<HI REND="italic">e.</HI><NOTE PLACE="foot">223. L. allas; L. þei seyde, C. hÿ seden; L. þat þis ȝongge, C. þat þus ȝonge a þyng; L. þus fair, C. so faire;</NOTE></L>
+<L>Schal nou ȝeue hir<HI REND="italic">e</HI> ȝonge lif; &amp; deie þour fur<HI REND="italic">e.</HI>"<NOTE PLACE="foot">224. L. lese, C. lete; C. now; L. ȝongge, C. ȝong; L. þoru þe f., C. scal dy now in þe f.;</NOTE></L>
+<L N="225">"Beþ stille" quaþ þis holi maide; "uor me ne wepe ȝe noȝt.<NOTE PLACE="foot">225. C. sede; L. C. for; L. wepeþ nout;</NOTE></L>
+<L>Mi ȝonge lif ne lese ic<HI REND="italic">h</HI> noȝt; ac to lyue ic<HI REND="italic">h</HI> worþe ibroȝt<NOTE PLACE="foot">226. L. ȝongge, C. ȝong; C. schal; L. nowth; L. Icham i-brouth, to lyf hit worþ;</NOTE></L>
+<L>A scorte deþ ic<HI REND="italic">h</HI> schal auonge; &amp; lif wiþþouten ende.<NOTE PLACE="foot">227. L. ane schorte, C. an schort; C. wole; L. a-vonge, C. a fonge; C. to habbe; L. wiþ-outen, C. w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þouten;</NOTE></L>
+<L>Fol wer<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t nolde so; god hi<HI REND="italic">m</HI> me sende"<NOTE PLACE="foot">228. L. C. he; C. nold so; L. god he me sone hynes., C. sone;</NOTE></L>
+<L>Me caste hir<HI REND="italic">e</HI> In þe seþende wat<HI REND="italic">er;</HI> þ<HI REND="italic">er</HI>-Inne al nyȝt heo seþ<NOTE PLACE="foot">229. L. men casten, C. heo was ycaste; L. seþing; L. þar-, C. þer in; C. a lyte; L. ȝe seeþ;</NOTE></L>
+<L N="230">Þe lengore þ<HI REND="italic">er</HI>-Inne heo was; þe v<HI REND="italic">er</HI>rore heo was hir<HI REND="italic">e</HI> deþ<NOTE PLACE="foot">230. L. lengere, C. lengur þat; C. in; L. ȝe sat; L. ferþere, C. ferre; L. ȝe; L. deeþ;</NOTE></L>
+<L>Wiþ þe walmes heo sat &amp; pleide; &amp; p<HI REND="italic">re</HI>chede of godes g<HI REND="italic">ra</HI>ce.<NOTE PLACE="foot">231. C. w<HI REND="italic">i</HI>t<HI REND="italic">h;</HI> L. C. welmes; L. ȝe; C. sate; C. preched;</NOTE></L>
+<L>Mo þe<HI REND="italic">n</HI> four hondred me<HI REND="italic">n;</HI> bicome þ<HI REND="italic">er</HI> c<HI REND="italic">r</HI>istene In þe place.<NOTE PLACE="foot">232. C. more; L. C. þan; C. foure CCCC; C. cristy ne; L. þat;</NOTE></L>
+<L>Þe Iustice isei þ<HI REND="italic">a</HI>t me ne miȝte; In such deþ q[<HI REND="italic">e</HI>]ulle<NOTE N="1" PLACE="marg">(MS. qulle.)</NOTE> hir<HI REND="italic">e</HI> noȝt<NOTE PLACE="foot">233. C. þo þe; L. sey, C. say; L. he ne myȝtte, C. myȝt; L. swich; C. so; L. naut;</NOTE></L>
+<L>He let smyte of hir<HI REND="italic">e</HI> heued; þ<HI REND="italic">a</HI>t heo wer<HI REND="italic">e</HI> to deþe ibroȝt.<NOTE PLACE="foot">234. L. het, C. hete; C. þat me schold; L. ȝe; C. deþ;</NOTE></L>
+<L N="235">Þe quellar<HI REND="italic">e</HI> hir<HI REND="italic">e</HI> smot wiþ is mayn; þre siþe i<HI REND="italic">n</HI> hir<HI REND="italic">e</HI> suer<HI REND="italic">e.</HI><NOTE PLACE="foot">235. L. C. quellere (reg.); C. myd; L. C. al his; C. syþ L. C. in þe swere;</NOTE></L>
+<PB N="90" REF="20"/>
+<L>He ne smot it noȝt uollich<HI REND="italic">e</HI> of; þe deþ was iboȝt dere.<NOTE PLACE="foot">236. L. nat C. myȝt ful smyt; L. hired; L. bouth to dere, C. he boȝt . . . weld;</NOTE></L>
+<L>No quellar<HI REND="italic">e</HI> ne moste bi þulke daie; smyte ou<HI REND="italic">er</HI> þrie.<NOTE PLACE="foot">237. C. most; C. day; L. oftere C. after; L. C. þan þrie;</NOTE></L>
+<L>Half slawe hi bileuede hir<HI REND="italic">e</HI> so; ha<HI REND="italic">m</HI>ward he gan hie.<NOTE PLACE="foot">238. L. leuede, C. bylefte; L. C. a-weyward;</NOTE></L>
+<L>Nou an vuel stude god it wolde; vor he was a scr<HI REND="italic">e</HI>we.<NOTE PLACE="foot">239. C. omits 4 <HI REND="italic">ll;</HI> L. yuel stede gon he mote; schrewe;</NOTE></L>
+<L N="240">Wo dude he þe holi maide; gulteles so hir<HI REND="italic">e</HI> to hewe.<NOTE PLACE="foot">240. L. dede; þat;</NOTE></L>
+<L>&amp; beleue hir<HI REND="italic">e</HI> so half alyue; welle wo hi<HI REND="italic">m</HI> be.<NOTE PLACE="foot">241. L. bi-lefte;</NOTE></L>
+<L>Vor ho [<HI REND="italic">n</HI>]uste<NOTE N="1" PLACE="marg">(MS. muste.)</NOTE> of no deol þ<HI REND="italic">er</HI> me miȝte ise.<NOTE PLACE="foot">242. L. ffor who-so nuste; doel; men myȝtte it se;</NOTE></L>
+<L>Þis holi maide eode aboute; hir<HI REND="italic">e</HI> heued half of ismyte.<NOTE PLACE="foot">243. L. ȝede;</NOTE></L>
+<L>Þ<HI REND="italic">a</HI>t was half q<HI REND="italic">u</HI>ic &amp; half ded; þ<HI REND="italic">a</HI>t reuþe it was to wite.<NOTE PLACE="foot">244. C. omits; L. &amp; was; quik; rewþe;</NOTE></L>
+<L N="245">&amp; pou<HI REND="italic">er</HI>e me<HI REND="italic">n</HI> much<HI REND="italic">e</HI> of hir<HI REND="italic">e</HI> good; delede wiþ hir<HI REND="italic">e</HI> honde.<NOTE PLACE="foot">245. C. poure; L. mechel, C. þat heo myȝt of wyte; L. ȝe delde, C. heo deled; C. honden;</NOTE></L>
+<L>Hit was a uair g<HI REND="italic">ra</HI>ce of god; þ<HI REND="italic">a</HI>t heo miȝte enes sto<HI REND="italic">n</HI>de.<NOTE PLACE="foot">246. C. omits; L. It; wel fair; ȝe aut myȝtte;</NOTE></L>
+<L>Heo p<HI REND="italic">re</HI>chede &amp; to ih<HI REND="italic">es</HI>u c<HI REND="italic">r</HI>ist; mony good mo<HI REND="italic">n</HI> wende.<NOTE PLACE="foot">247. L. ȝe; C. preched; C. so þat; L. C. many a; L. god, C. goud;</NOTE></L>
+<L>&amp; alle to S<HI REND="italic">eyn</HI> Vrban þe biscop; to baptise heo sende.<NOTE PLACE="foot">248. C. al; L. baptiȝe ȝe; C. baptiȝe;</NOTE></L>
+<L>&amp; bed hi<HI REND="italic">m</HI> þ<HI REND="italic">a</HI>t he schulde hir<HI REND="italic">e</HI> hous; þ<HI REND="italic">a</HI>t heo wonede Inne.<NOTE PLACE="foot">249. L. bad, C. bade; C. þat þe bischop seint vrban; L. scholde; C. stede; L. ȝe hadde woned; C. woned;</NOTE></L>
+<L N="250">Halwy In our lordes name; &amp; a chirch<HI REND="italic">e</HI> þ<HI REND="italic">er</HI> bygynne.<NOTE PLACE="foot">250. L. halewen; L. oure louerdes (reg.); C. scholde a godes n.; L. C. churche;</NOTE></L>
+<L>&amp; burie þ<HI REND="italic">er</HI> hir<HI REND="italic">e</HI> suete bodi; &amp; þ<HI REND="italic">a</HI>t our lordes s<HI REND="italic">er</HI>uice<NOTE PLACE="foot">251. L. burien þere; C. &amp; þat he bured; L. swete body; C. oure;</NOTE></L>
+<L>Vpe is poer þ<HI REND="italic">er</HI>-Inne wer<HI REND="italic">e</HI> ido; In alle wise<NOTE PLACE="foot">252. C. vp; L. C. his; C. powere; C. in; idon; L. on alle-kynne;</NOTE></L>
+<L>Þe þridde day aft<HI REND="italic">er</HI> hir<HI REND="italic">e</HI> martirdom; þis maide adoun lay.<NOTE PLACE="foot">253. C. marterdom; C. adoune;</NOTE></L>
+<L>&amp; p<HI REND="italic">re</HI>chede c<HI REND="italic">r</HI>istene me<HI REND="italic">n;</HI> &amp; bed he<HI REND="italic">m</HI> habbe good day.<NOTE PLACE="foot">254. C. preched wel þe cristen, L. to þe c.; L. bad, C. bade; L. god, C. goud;</NOTE></L>
+<L N="255">&amp; sede "nou ichabbe ido; al þ<HI REND="italic">a</HI>t my wille is to.<NOTE PLACE="foot">255. L. seyde now; C. þo heo hadde; C. alle þat hire was to do;</NOTE></L>
+<L>Wende ichulle to ih<HI REND="italic">es</HI>u c<HI REND="italic">r</HI>ist; &amp; ȝe schulle also"<NOTE PLACE="foot">256. L. I wile, C. heo wolde to our<HI REND="italic">e</HI> lord c. &amp; hÿ schold after also;</NOTE></L>
+<L>Þis was two hondred ȝer; &amp; þre &amp; twenti riȝt.<NOTE PLACE="foot">257. L. hundred; C. hit nas bot cc ȝere; L. ryȝth, C. also;</NOTE></L>
+<L>Aft<HI REND="italic">er</HI> þ<HI REND="italic">a</HI>t our lord was In is mod<HI REND="italic">er</HI> aliȝt<NOTE PLACE="foot">258. L. oure louerd; L. his; L. a-lyȝth; C. af<HI REND="italic">ter</HI> our<HI REND="italic">e</HI> lord ybore was þat þis dede was do;</NOTE></L>
+<L>Nou bidde we our suete lord; uor hir<HI REND="italic">e</HI> holi martirdom.<NOTE PLACE="foot">259, 260. L. oure swete louerd for; L. bringge vs to þat i.; C. lord for þe marter∣dom þat seint [Cecili was [.] e, graunt ous þulke Ioie; þat hire saule ys Inne. (Some letters are here illegible owing to a smudge on the parchment.)</NOTE></L>
+<L N="260">To b<HI REND="italic">r</HI>inge ous to þulke Ioie; þ<HI REND="italic">a</HI>t hir<HI REND="italic">e</HI> soule to com.</L>
+</DIV2>
+
+<DIV2 LANG="lat" TYPE="version">
+<PB N="72" REF="2"/>
+<HEAD>Legenda Aurea.</HEAD>
+<P>Caecilia, virgo praeclarissima, ex nobili Romanorum genere exorta, et ab ipsis cunabilis in fide Christi nutrita, absconditum semper evangelium Christi gerebat in pectore, et non diebus neque noctibus a colloquiis divinis et oratione cessabat, suamque virginitatem conservari a domino exorbat. Cum autem cuidam juveni, nomine Valeriano, desponsata fuisset, et dies nuptiarum instituta esset, illa subtus ad carnem cilicio erat induta, et desuper de auratis vestibus tegebatur, et cantantibus organis illa in corde soli domino decantabat dicens: "fiat, domine, cor meum et corpus meum imma∣culatum, ut non confundar;" et biduanis et triduanis jejuniis orans commendabat domino, quod timebat. Venit autem nox, in qua suscepit una cum sponso suo cubiculi secreta silentia, et ita eum alloquitur: "o dulcissime atque amantissime juvenis, est mysterium, quod tibi confitear, si modo tu juratus asseras, tota te illud observantia custodire." Jurat Valerianus, se illud nulla necessitate detegere, nulla prodere ratione. Tunc illa ait: "angelum Dei habeo amatorem, qui nimio zelo custo∣dit corpus meum. Hic si vel leviter senserit, quod tu me polluto amore contingas, statim feriet te, et amittes florem tuae gratissimae juventutis, si autem cognoverit, quod me sincero amore diligas, ita
+<PB N="74" REF="4"/>
+quoque diliget te sicut me, et ostendet tibi gloriam suam."</P>
+<P>Tunc Valerianus, nutu Dei correctus, ait: "si vis, ut credam tibi, ipsum angelum mihi ostende, et si vere probavero, quod angelus sit, faciam quod hortaris; si autem virum alium diligis, te et illum gladio feriam." Cui Caecilia dixit: "si in Deum verum credideris et te baptizari promiseris, ipsum videre valebis. Vade igitur in tertium milliarium ab urbe via, quae Appia nuncupatur, et pauperibus, quos illic invenies, dices: 'Caecilia me misit ad vos, ut ostendatis mihi sanctum senem Urbanum, quoniam ad ipsum habeo secreta mandata, quae perferam.' Hunc, dum tu videris, indica ei omnia verba mea;et postquam ab eo purificatus fueris et redieris, angelum ipsum videbis." Tunc Valerianus perrexit, et secundum signa quae acceperat, sanctum Urbanum episcopum intra sepulchra martirum latitantem invenit; cumque ei omnia verba Caeciliae dixisset, ille manus ad coelum expandens cum lacrymis ait: "domine Jesu Christe, seminator casti consilii, suscipe seminum fructus, quos in Caecilia
+<PB N="76" REF="6"/>
+eminasti, domine Jesu Christe, pastor bone, Caecilia famula tua quasi apis tibi argumentosa deservit; nam sponsum, quem quasi leonem ferocem accepit, ad te quasi agnum mansuetissimum destinavit." Et ecce subito apparuit senex quidam niveis vestibus indutus, tenens librum aureis litteris scriptum. Quem videus Valerianus prae nimio timore quasi mortuus cecidit, et a sene levatus, sic legit: "unus Deus, una fides, unum baptisma, unus Deus et pater omnium, qui super omnes, et per omnia, et in omnibus nobis." Cumque haec legisset, dixit ei senior; "credis ita esse an adhuc dubitas?" Tunc exclamavit dicens: "non est aliud, quod verius credi possit, sub coelo." Statimque illo disparente, Valerianus a sancto Urbano baptisma suscepit, et rediens, Caeciliam cum angelo loquentem in cubiculo invenit. Angelus autem duas coronas ex rosis et liliis in manu habebat, et unam Caeciliae, et alteram Valeriano tradidit, dicens: "istas coronas immaculato corde et mundo corpore custodite, quia de para∣diso Dei eas ad vos attuli; nec unquam marcescent, nec odorem amittent, nec ab aliis, nisi quibus castitas placuerit, videri poterunt. Tu autem, Valeriane, quia utili consilio credidisti, pete quodcum∣que 
+<PB N="78" REF="8"/>
+volueris, et consequeris." Cui Valerianus "nihil mihi in hac vita exstitit dulcius, quam unicus fratris mei affectus, peto igitur, ut et veritatem ipse mecum agnoscat." Cui angelus: "placet domino petitio tua; et ambo cum palma martirii ad dominum venietis." Post hoc, ingressus Tiburtius, frater Valeriani, cum nimium rosarum sensisset odorem, dixit: "miror, hoc tempore roseus hic odor et liliorum unde respiret; nam si ipsas rosas vel lilia in manibus meis tenerem, nec sic poterant odoramenta tantae mihi suavitatis infundere; confiteor vobis, ita sum refectus, ut putem me totum subito immutatum." Cui Velerianus: "coronas habemus, quas tui oculi videre non praevalent, floreo colore et niveo candore vernantes; et sicut me interpellante odorem sensisti, sic et, si credideris, videre valebis." Cui Tiburtius: "in somnis hoc audio, an in veritate ista tu loqueris, Valeriane?" Cui Valerianus: "in somnis usque modo fuimus, sed jam nunc in veritate manemus." Ad quem Tiburtius: "unde hoc nosti?" Et Valerianus: "angelus domini me docuit, quem tu videre poteris, si tu purificatus fueris, et omnibus ydolis abrenuntiaveris." (Huic miraculo de coronis rosarum Ambrosius attestatur in praefatione sic dicens: 'sancta Caecilia sic coelesti est dono repleta, ut martirii palmam assumeret; ipsum mundum est cum thalamis exsecrata; testis est Valeriani conjugis et Tiburtii provocata confessio, quos, domine, angelica manu odorıferis floribus coronasti; viros virgo duxit ad gloriam, mundus agnovit, quantum valeat devotio castitatis.' Haec Ambrosius.) Tunc Caecilia evidenter ostendit ei, omnia ydola esse
+<PB N="80" REF="10"/>
+insensibilia et muta, ita ut Tiburtius responderet ac diceret: "qui ista non credit, pecus est." Tunc Caecilia osculans pectus ejus dixit: "hodie te fateor meum esse cognatum, sicut enim amor Dei fratrem tuum mihi conjugem fecit, ita te mihi cognatum contemtus faciet ydolorum. Vade igitur cum fratre tuo, ut purificationem accipias et angelicos vultus videre valeas." Dixitque Tiburtius fratri suo: "obsecro te, frater, ut mihi dicas, ad quem me ducturus es." Cui Valerianus: "ad Urbanum episco∣pum." Cui Tiburtius: "de illo Urbano dicis qui totiens damnatus est et adhuc in latebris commora∣tur? hic, si inventus fuerit, cremabitur; et nos in illius flammis pariter involvemur, et dum quaerimus divinitatem latentem in coelis, incurremus furorem exurentem in terris." Cui Caecilia: "Si haec sola esset vita, juste hanc perdere timeremus; est autem alia melior, quae nunquam amittitur, quam nobis Dei filius enarravit. Omnia enim, quae facta sunt, filius ex patre genitus condidit, universa autem, quae condita sunt ex patre procedens spiritus animavit. Hic igitur filius Dei in mundum veniens verbis et miraculis aliam vitam esse nobis monstravit." Cui Tiburtius: "certe unum Deum esse asseris, et quomodo nunc tres esse testaris?" Respondit Caecilia: "sicut in una hominis sapientia sunt tria, scilicet ingenium, memoria et intellectus, sic et in una divinitatis assentia tres personae esse possunt." Tunc coepit ei de adventu filii Dei et passione praedicare, et multas congruitates ipsius passionis osten∣dere. "Nam ideo," inquit, "filius Dei est tentus, ut genus humanum dimittatur peccato detentum; benedictus maledictur, ut homo maledictus benedictionem consequatur; illudi se patitur, ut homo ab illusione daemonum liberetur; spineam coronam accepit in capite, ut a nobis sententiam auferat capi∣talem; fel suscipit amarum, ut sanaret hominis dulcem gustum; exspoliatur, ut parentum nostrorum nuditatem operiat; in ligno suspenditur, ut ligni praevaricationem tollat." Tunc Tiburtius fratri suo dixit: "miserere mei, et perduc me ad hominem Dei ut purificationem accipiam." Ductus igitur, et purificatus, angelos Dei saepe videbat, et omnia quae postulabat, protinus obtinebat. Valerianus
+<PB N="82" REF="12"/>
+igitur et Tiburtius elemosinis insistebant; et sanctorum corpora, quos Almachius praefectus occidebat, sepulturae tradebant. Quos Almachius ad se vocans, cur pro suis sceleribus damnatos sepelirent, inquisivit. Cui Tiburtius: "utinam illorum servi essemus, quos tu damnatos appellas! Qui contemse∣runt illud, quod videtur esse et non est, et invenerunt illud, quod non videtur esse et est." Cui praefectus: "quidnam est illud?" Et Tiburtius: "quod videtur esse et non est, est omne, quod in hoc mundo est, quod hominem ad non esse perducit; quod vero non videtur esse et est, est vita justorum et poena malorum." Cui praefectus: "non puto, quod mente tua loquaris." Tunc jubet adstare Valerianum dicens ei: "quoniam non est sani capitis frater tuus; tu saltem poteris sapienter dare responsum; constat plurimum vos errare, qui gaudia respuitis et omnia inimica gaudiis affectatis." Tunc Valerianus "se vidisse ait glaciali tempore otiosos jocantes, et operarios agricolas deridentes, sed aestivo tempore, dum advenissent gloriosi fructus laborum, gaudentibus illis, qui putabantur vani, coeperunt flere, qui videbantur urbani. Sic et nos nunc quidem sustinemus ignominiam et laborem, in futuro autem recipiemus gloriam et aeter∣nam mercedem. Vos autem nunc transitorium habetis gaudium, in futuro autem invenietis aeternum luctum." Cui praefectus: "ergo nos invictissimi principes aeternum habebimus luctum, et vos personae vilissimae perpetuum possidebitis gaudium?" Cui Valerianus: "homuntiones estis, non principes, tem∣pore nostro nati, citius morituri et Deo rationem plus omnibus reddituri." Dixit autem praefectus:
+<PB N="84" REF="14"/>
+"quid verborum circuitu immoramur? offerte Diis libamina et illaesi abscedite." Sancti responderunt: "nos Deo vero quotidie sacrificium exhibemus." Quibus praefectus: "quod est nomen ejus?" Cui Valerianus: "nomen ejus invenire non potiris, etiamsi pennis volaveris." Praefectus dixit: "ergo Jupiter nomen Dei non est?" Cui Valerianus: "nomen homicidae et stupratoris est." Ad quem Almachius: "ergo totus mundus errat! et tu cum fratre tuo verum Deum nosti?" Valerianus respon∣dit: "nos soli non sumus, sed innumerabilis multitudo hanc sanctitatem recepit." Traduntur igitur sancti in custodiam Maximi. Quibus ille ait: "o juventutis flos purpureus, o germanus fraternitatis affectus quomodo ad mortem quasi ad epulas festinatis?" Cui Valerianus ait, quod, si crediturum se promitteret, gloriam animarum eorum post mortem videret. Et Maximus: "fulminibus igneis consumar, si non illum solum Deum confitear, quem adoratis, si contingat, quod dicitis." Ipse igitur Maximus, et omnis ejus familia, et universi carnifices crediderunt; et ab Urbano, qui illuc occulte venit, baptisma susceperunt. Igitur dum aurora nocti finem daret, Caecilia exclamavit dicens: "eia milites Christi, abjicite opera tenebrarum, et induimini arma lucis." Quarto igitur milliario ab urbe sancti ad statuam Jovis ducuntur et dum sacrificare nollent, pariter decollantur. Tunc Maximus cum jurejurando asseruit, se in hora passionis eorum angelos vidisse fulgentes et animas eorum quasi virgines de thalamo exeuntes, quas in gremio suo in coelum angeli detulerunt. Almachius vero audiens Maximum christianum effectum, eum plumbatis tamdiu caedi fecit, quousque spiritum excussit. Cujus corpus sancta Caecilia juxta Vale∣rianum et Tiburtium sepelivit. Tunc Almachius facultates amborum caepit inquirere, et Caeciliam tam∣quam Valeriani conjugem coram se fecit adstare, jussitque, ut ydolis immolaret, aut sententiam mortis incurreret. Cum autem ad hoc ab apparitoribus urgeretur, et illi vehementer flerent, eo quod puella tam
+<PB N="86" REF="16"/>
+decora et nobilis ultro se morti traderet, dixit ad eos: "hoc, boni juvenes, non est juventutum perdere, sed mutuare, dare lutum et accipere aurum, dare vile habitaculum et accipere pretiosum, dare brevem angulum et accipere forum pellucidum. Si quis pro nummo solidos daret, nonne velocius festinaretis? Deus autem, quod accepit simplum, reddet centuplum. Creditis his, quae dico?" Et illi: "credimus, Christum verum esse Deum, qui talem possidet famulam." Vocato igitur Urbano episcopo, CCCC et amplius baptizati sunt. Tunc Almachius sanctam Caeciliam ad se vocans ait: "cujus conditionis es?" Et illa: "ingenua sum et nobilis." Cui Almachius: "ego te de religione interrogo." Cui Caecilia: "interrogatio tua stultum sumit initium, quae duas responsiones una putat inquisitione concludi." Cui Almachius: "unde tibi tanta praesumtio respondendi?" At illa: "de conscientia bona, et fide non ficta?" Cui Almachius: "ignoras, cujus potestatis sim?" Et illa: "potestas vestra est quasi uter vento repletus, quem si acus pupugerit, omnis protinus rigor pallascit et quidquid in se rigidum habere cernitur, incurvatur." Cui Almachius: "ab injuriis caepisti, et in injuriis perseveras." Caecilia respondit: "injuria non dicitur nisi quod verbis fallentibus irrogatur; unde aut injuriam doce, si falsa locuta sum, aut te ipsum corripe calumniam inferentem, sed nos scientes sanctum Dei nomen omnino negare non possumus, melius est enim feliciter mori, quam infeliciter vivere." Cui Almachius: "ad quid cum; tanta superbia loqueris?" Et illa: "non est superbia, sed constantia." Cui Almachius: "infelix, ignoras, quia vivificandi et mortificandi mihi tradita est potestas?" Et illa: "contra veritatem publi∣cam probo te nunc esse mentitum, vitam enim viventibus tollere potes, mortuis autem dare non potes
+<PB N="88" REF="18"/>
+es igitur minister mortis, non vitae." Cui Almachius: "jam depone amentiam et sacrificia Diis." Cui Caecilia: "nescio, ubi oculos amiseris; nam quos tu Deos dicis, omnes nos saxa esse videmus; mitte igitur manum et tangendo disce, quod oculis non vales videre." Tunc iratus Almachius jussit eam ad domum suam reduci, ibique tota nocta et die jussit eam in bulliente balneo concremari. Quae quasi in loco frigido mansit, nec modicum saltem sudoris persensit. Quod cum audivisset Almachius, jussit eam in ipso balneo decollari. Quam spiculator tribus ictibus in collo percussit, sed tamen caput ejus amputare non potuit, et quia decretum erat, ne quartam percussionem decollandus acciperet, eam
+<PB N="90" REF="20"/>
+semivivam cruentus carnifex dereliquit. Per triduum autem supervivens, omnia quae habebat, pauperi∣bus tradidit, et omnes quos ad fidem converterat, Urbano episcopo commendavit dicens: "triduanas mihi inducias postulavi, ut nos tuae beatitudini commendarem, et hanc domum meam in ecclesiam consecrares." Sanctus autem Urbanus corpus ejus inter episcopos sepelivit, et domum suam in eccle∣siam, ut rogaverat, consecravit. Passa est autem circa annos domini CC et XXIII tempore Alexandri imperatoris. Alibi autem legitur, quod passa sit tempore Marci Aurelii, qui imperavit circa annos domini CCXX.</P>
+</DIV2>
+
+<DIV2 LANG="enm" TYPE="version" N="Bodley">
+<PB N="73" REF="3"/>
+<HEAD>MS. Bodley 799. [<HI REND="italic">fol.</HI> 286a-288b.]</HEAD>
+<L>Seint Sisile of nobil kin bor<HI REND="italic">e</HI> was at Rome;<NOTE PLACE="marg">C 39. [<HI REND="italic">originally</HI> cxxvij]</NOTE></L>
+<L>Our<HI REND="italic">e</HI> Lord C<HI REND="italic">r</HI>ist ȝhe louid wel er ȝhe fro cradil come;</L>
+<L>ȝhe leet her<HI REND="italic">e</HI> baptise stillelich, as we finde write,</L>
+<L>ȝerin ȝhe had Ih<HI REND="italic">es</HI>u Crist her<HI REND="italic">e</HI> maydinhood to kepe</L>
+<L N="5">Þorwȝ her<HI REND="italic">e</HI> fr<HI REND="italic">e</HI>nd<HI REND="italic">us</HI> str<HI REND="italic">e</HI>ngþe, spousid ȝhe was to a man</L>
+<L>Of gr<HI REND="italic">e</HI>t nobley <HI REND="italic">and</HI> ryches, þat heet Valerian.</L>
+<L>Þis mayde was cloþid in pal þ<HI REND="italic">a</HI>t wer<HI REND="italic">e</HI> swyþe ryche,</L>
+<L>Garlond also of gold, <HI REND="italic">and</HI> her nex her<HI REND="italic">e</HI> lyche.</L>
+<L>Whan mynst<HI REND="italic">ra</HI>l<HI REND="italic">us</HI> song her<HI REND="italic">e</HI> song of her<HI REND="italic">e</HI> mynstralsyȝe,</L>
+<L N="10">Þis mayde stilleliche song of God <HI REND="italic">and</HI> Seint Maryȝe.</L>
+<L>Of þe saut<HI REND="italic">er</HI> ȝhe song a vers þat mest was in her<HI REND="italic">e</HI> þouȝt,</L>
+<L>"Leet, Lord, myn herte vnwem<HI REND="italic">m</HI>ed be, þ<HI REND="italic">a</HI>t I comfou<HI REND="italic">n</HI>de be nouȝt."</L>
+<L>As ȝhe was anyȝt be her<HI REND="italic">e</HI> lord in ryche beed I-brouȝt,</L>
+<L>Sone þis fool mon of foly her<HI REND="italic">e</HI> be-souȝt.</L>
+<L N="15">"Swete hert," q<HI REND="italic">uod</HI> þis mayd, "for loue þou hast to me,</L>
+<L>G<HI REND="italic">ra</HI>nt me þ<HI REND="italic">a</HI>t I telle alyte p<HI REND="italic">re</HI>uite,</L>
+<L><HI REND="italic">And</HI> þ<HI REND="italic">a</HI>t I mowe schriue to þe as conseyl p<HI REND="italic">re</HI>ue."</L>
+<L>"Tr<HI REND="italic">e</HI>wly þ<HI REND="italic">o</HI>u myȝt," q<HI REND="italic">uod</HI> þis oþ<HI REND="italic">er,</HI> "to soþe I be-hote þe."</L>
+<L>"Swete lem<HI REND="italic">m</HI>on," q<HI REND="italic">uod</HI> þe mayd, "In ward I am do,</L>
+<L N="20">An au<HI REND="italic">n</HI>gel is my wardeyn, <HI REND="italic">and</HI> my le<HI REND="italic">m</HI>mon al-so,</L>
+<L>ffast he stont her be me, <HI REND="italic">and</HI> ȝif he oundir-ȝete</L>
+<L>Þat þ<HI REND="italic">o</HI>u be-nome my maydinhood, for noþing nold he lette</L>
+<L>Þat he nold þe hard smyt, <HI REND="italic">and</HI> be-neme þe þi myȝt.</L>
+<L>For al þe nobley þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u hast, þ<HI REND="italic">o</HI>u no myȝt aȝen him fyȝt;</L>
+<L N="25">But ȝif he se þat þou louist me in good lyf <HI REND="italic">and</HI> clene,</L>
+<PB N="75" REF="5"/>
+<L>He wole þe loue as he doþ me, <HI REND="italic">and</HI> ech euil fro þe ȝeme."</L>
+<L>"Ȝif þou wolt, le<HI REND="italic">m</HI>man," q<HI REND="italic">uod</HI> þis oþ<HI REND="italic">er,</HI> "þ<HI REND="italic">a</HI>t I be-leue þis,</L>
+<L>Þe aungel þ<HI REND="italic">o</HI>u most schewe me, þat I hy<HI REND="italic">m</HI> se, I-wis,</L>
+<L><HI REND="italic">And</HI> ȝif I may þe soþe se, of þat þ<HI REND="italic">o</HI>u hast I-seyd,</L>
+<L N="30">In clennesse I wole do þy wille, <HI REND="italic">and</HI> aft<HI REND="italic">er</HI> þy r<HI REND="italic">e</HI>ed,</L>
+<L><HI REND="italic">And</HI> ȝif I se þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u in foly louist oþ<HI REND="italic">er</HI> þan me,</L>
+<L>I nele leue for noþing, þ<HI REND="italic">a</HI>t I nele sle him <HI REND="italic">and</HI> þe."</L>
+<L>"My swete hert," q<HI REND="italic">uod</HI> þe mayde, "ȝif þ<HI REND="italic">o</HI>u aungel se,</L>
+<L>Þou most be-leue on Ih<HI REND="italic">es</HI>u Crist <HI REND="italic">and</HI> I-cristenyd be;</L>
+<L N="35">Ȝif þou wolt so þou myȝt hym se, <HI REND="italic">and</HI> he vs wole kepe fro helle,</L>
+<L>So gr<HI REND="italic">e</HI>t ioyȝe worþ of our<HI REND="italic">e</HI> loue þ<HI REND="italic">a</HI>t no tonge may it telle. <MILESTONE N="286 b." UNIT="f."/></L>
+<L>But þr<HI REND="italic">e</HI> myle þou most henn<HI REND="italic">us</HI> go, to þe wey of appyȝe,</L>
+<L>Þou schalt finde þer<HI REND="italic">e</HI> por<HI REND="italic">e</HI> men, on Ih<HI REND="italic">es</HI>u C<HI REND="italic">r</HI>ist ȝerne cryȝe;</L>
+<L>Sey þat I þe to hem sent, þ<HI REND="italic">a</HI>t þey þe teche anon</L>
+<L N="40">To Seint Vrban, þe holy man, for þ<HI REND="italic">o</HI>u most to him gon,</L>
+<L>Ap<HI REND="italic">re</HI>ue conseyl w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> him to spek, for he þe schal baptyse;</L>
+<L>Þe aungel þ<HI REND="italic">o</HI>u schalt þa<HI REND="italic">n</HI>ne se, <HI REND="italic">and</HI> he schal vs boþe wyse."</L>
+<L>Valerian roos a-non, as our<HI REND="italic">e</HI> Lord hym ȝaf þe wille,</L>
+<L>To þe stede as þe mayde bad, <HI REND="italic">and</HI> wente forþ wel stille.</L>
+<L N="45">Þe por<HI REND="italic">e</HI> men hy<HI REND="italic">m</HI> tauȝte anon to þ<SUP>e</SUP> old man Seint Vrban,</L>
+<L>In an olde stede al forlete, þ<HI REND="italic">er</HI> ne com no man<HI REND="italic">er</HI> man,</L>
+<L>Among old pitt<HI REND="italic">us and</HI> beriel<HI REND="italic">us,</HI> þ<HI REND="italic">er</HI> me c<HI REND="italic">r</HI>istin men þrew</L>
+<L>Aft<HI REND="italic">er</HI> þat þey martrid wer<HI REND="italic">e,</HI> wha<HI REND="italic">n</HI> me any of hem knew.</L>
+<L>To his feet he fel doun anon, þo he to him com.</L>
+<L N="50"><HI REND="italic">And</HI> seyde þ<HI REND="italic">a</HI>t Sicile him sente þedir, to lerne Cristindom.</L>
+<L>"Lord, heryid be þy myȝt." seyde Seint Vrban,</L>
+<L>"Is þis þe liþ<HI REND="italic">er</HI> verrour, þ<HI REND="italic">a</HI>t me clepiþ, Valerian?"</L>
+<PB N="77" REF="7"/>
+<L>"Wher, Sysile haue mad him, þ<HI REND="italic">a</HI>t was so wilde,</L>
+<L>Amor<HI REND="italic">e</HI> tyrau<HI REND="italic">n</HI>t þan a wolf, as alomb, mylde."</L>
+<L N="55">Þo þ<HI REND="italic">er</HI> com an old man. fro heuin he alyȝt þer,</L>
+<L>Cloþid in whit vestement<HI REND="italic">us, and</HI> a fayr writ ber.</L>
+<L>Þo Valerian him seyȝ. he fel adoun for dr<HI REND="italic">e</HI>de.</L>
+<L>Seint Vrban nom him vp, <HI REND="italic">and</HI> forþ gan hym lede.</L>
+<L>Þe Halw of Heuin took him þe writ, <HI REND="italic">and</HI> bad him r<HI REND="italic">e</HI>de,—</L>
+<L N="60">"On lord is on to be-leue, <HI REND="italic">and</HI> on baptysing,</L>
+<L>On God <HI REND="italic">and</HI> Fadir of alle, þ<HI REND="italic">a</HI>t beþ. <HI REND="italic">and</HI> ou<HI REND="italic">er</HI> al is, <HI REND="italic">and</HI> ech þing"</L>
+<L>"Leuistow her-on," q<HI REND="italic">uod</HI> Seint Orban, "þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u dost her<HI REND="italic">e</HI> se,"</L>
+<L>"Þ<HI REND="italic">er</HI> is noþing," q<HI REND="italic">uod</HI> þis oþ<HI REND="italic">er,</HI> "þat bet to leue may be."</L>
+<L>Aft<HI REND="italic">er</HI> þis whit mon he be-held, he nyste wher he be com.</L>
+<L N="65">Seint Vrban hym nom anon, <HI REND="italic">and</HI> ȝaf hym Cristindom.</L>
+<L>To Sycile he wente aȝen, þo he hadde be þer his fille.</L>
+<L>He fond her<HI REND="italic">e</HI> chau<HI REND="italic">m</HI>bir lyȝt with-inne, <HI REND="italic">and</HI> of sote smelle,</L>
+<L>He fond Sysile his spouse, <HI REND="italic">and</HI> aungel w<HI REND="italic">i</HI>t her<HI REND="italic">e</HI> stond</L>
+<L>Bryȝt<HI REND="italic">er</HI> þan eny sonne; to garlond<HI REND="italic">us</HI> he bar an hond</L>
+<L N="70">Of rosis <HI REND="italic">and</HI> of lyliis soot; þat on, Sysile, he took.</L>
+<L><HI REND="italic">And</HI> þe oþ<HI REND="italic">er,</HI> Valerian, as we finde in book,</L>
+<L>"Kepiþ þese," he seyd, "in tr<HI REND="italic">e</HI>we loue, wit chast body <HI REND="italic">and</HI> clene,</L>
+<L>I hem haue fro Heuin brouȝt, our<HI REND="italic">e</HI> Lord hem ȝow doþ lene;</L>
+<L>For falwe, ne elde, neu<HI REND="italic">er</HI> þey nele, but eu<HI REND="italic">er</HI> I-lych laste,</L>
+<L N="75">Þe two man<HI REND="italic">er</HI> of flour<HI REND="italic">us</HI> þat beþ þ<HI REND="italic">er</HI>-on, nele neu<HI REND="italic">er</HI>e her<HI REND="italic">e</HI> heu caste."</L>
+<L>"Þe lyly be-tokeneþ ȝour<HI REND="italic">e</HI> maydinhood, þ<HI REND="italic">a</HI>t is so whit <HI REND="italic">and</HI> sote,</L>
+<L>Þe rose be-tokenyþ ȝour<HI REND="italic">e</HI> martirdom, forþ on deyȝe ȝe mote;</L>
+<L><HI REND="italic">And,</HI> for þ<HI REND="italic">o</HI>u dedist, Valerinan, Secilis r<HI REND="italic">e</HI>ed so sone,</L>
+<L>What þ<HI REND="italic">o</HI>u of my lord biddist, he wil g<HI REND="italic">ra</HI>nt þy bone."</L>
+<PB N="79" REF="9"/>
+<L N="80">"I ne desir<HI REND="italic">e</HI> no þing so moch," seyde Valerian,</L>
+<L>"As Tyburs, my broþ<HI REND="italic">er,</HI> wer<HI REND="italic">e</HI> w<HI REND="italic">i</HI>t me in C<HI REND="italic">r</HI>istindam."</L>
+<L>"My Lord wille," q<HI REND="italic">uod</HI> þe aungel, "ȝeue hym þ<HI REND="italic">a</HI>t g<HI REND="italic">ra</HI>ce, <MILESTONE N="287." UNIT="f."/></L>
+<L><HI REND="italic">And</HI> boþe ȝe scholle martrid be, at on tyme in on place."</L>
+<L>Þe aunge[l] went wit þ<HI REND="italic">a</HI>t word, he nyste wher he be com.</L>
+<L N="85">Þe two þing<HI REND="italic">u</HI>s eyþ<HI REND="italic">er</HI> of oþ<HI REND="italic">er</HI> gr<HI REND="italic">e</HI>t ioyȝe nom.</L>
+<L>Tyburs com to chaumbr<HI REND="italic">e,</HI> to spe[k] wit his broþ<HI REND="italic">er</HI> þer<HI REND="italic">e,</HI></L>
+<L>He stood stille a<HI REND="italic">nd</HI> be-held about, as he nyst wher he wer<HI REND="italic">e.</HI></L>
+<L>"Broþ<HI REND="italic">er,</HI>" he seyde. "howȝ goþ þis? In þis tyme of þe ȝer<HI REND="italic">e</HI>?</L>
+<L>So swete smel smellid I neu<HI REND="italic">er</HI>e, as I do her<HI REND="italic">e.</HI></L>
+<L N="90">Þ<HI REND="italic">o</HI>u þis hous wer<HI REND="italic">e</HI> ful of newe rosin, <HI REND="italic">and</HI> lylis al-so,</L>
+<L>I ne myȝt swet<HI REND="italic">er</HI> smelle nouȝt, me-þinkeþ, þan I do.</L>
+<L>So ful I am of þis smel, <HI REND="italic">and</HI> so moche is in my þouȝt,</L>
+<L>Þ<HI REND="italic">a</HI>t I noot hou I am. sodeynlich, in an oþ<HI REND="italic">er</HI> wit I-brouȝt."</L>
+<L>"Leue broþ<HI REND="italic">er,</HI>" q<HI REND="italic">uod</HI> Valerian, "garlond<HI REND="italic">us</HI> we haueþ her<HI REND="italic">e</HI></L>
+<L N="95">Of flour<HI REND="italic">us</HI> þat þ<HI REND="italic">o</HI>u myȝt nouȝt se, but þ<HI REND="italic">o</HI>u wer<HI REND="italic">e</HI> our<HI REND="italic">e</HI> fer<HI REND="italic">e,</HI></L>
+<L>But so as þ<HI REND="italic">o</HI>u hast þe swete smel þ<HI REND="italic">er</HI>for<HI REND="italic">e,</HI> þorw our<HI REND="italic">e</HI> bone,</L>
+<L>Ȝif þ<HI REND="italic">o</HI>u wolt be-leue as we do, þ<HI REND="italic">o</HI>u myȝt hem se sone."</L>
+<L>"Leue broþ<HI REND="italic">er,</HI>" q<HI REND="italic">uod</HI> þe oþ<HI REND="italic">er,</HI> "wheyþ<HI REND="italic">er</HI> it sooþ is,</L>
+<L>Oþ<HI REND="italic">er</HI> I stond in meting <HI REND="italic">and</HI> wene þ<HI REND="italic">a</HI>t soþ it is?"</L>
+<L N="100">"In meting," q<HI REND="italic">uod</HI> Valerian, "we haue eu<HI REND="italic">er</HI> be,</L>
+<L>Now we be of slep awak, now we mow ferst se."</L>
+<L>"Sestow nowȝ" q<HI REND="italic">uod</HI> þe oþ<HI REND="italic">er,</HI> "bet þan þ<HI REND="italic">o</HI>u hast er do?"</L>
+<L>"Ȝe," q<HI REND="italic">uod</HI> Valerian, "wel me be-houeþ so,</L>
+<L>ffor my Lord<HI REND="italic">us</HI> aungel of Heuen haþ me ȝoue lyȝt,</L>
+<L N="105"><HI REND="italic">And</HI> for our<HI REND="italic">e</HI> loue he wol þe al-so, ȝif þ<HI REND="italic">o</HI>u wolt be-leue aryȝt."</L>
+<PB N="81" REF="11"/>
+<L>Þo seyd þe holy mayde, "Tyburs, leue broþir,</L>
+<L>What beþ þe maumet<HI REND="italic">us</HI> but nouȝt, þ<HI REND="italic">o</HI>u schal se non oþ<HI REND="italic"><HI REND="italic">er.</HI></HI></L>
+<L>Þ<HI REND="italic">o</HI>u myȝt se it is monn<HI REND="italic">us</HI> werk; mad of old tr<HI REND="italic">e;</HI></L>
+<L>Þing þ<HI REND="italic">a</HI>t ne may hym-self help, how schold it helpe þe?"</L>
+<L N="110">"Noþing is soþ," q<HI REND="italic">uod</HI> Tybors, "as þat þ<HI REND="italic">o</HI>u hast of sede,</L>
+<L>Wodder<HI REND="italic">e</HI> he wer<HI REND="italic">e</HI> þan any best, þ<HI REND="italic">a</HI>t nold do þy r<HI REND="italic">e</HI>de."</L>
+<L>Seynt Sycile hym kiste anon, "Leue broþ<HI REND="italic">er,</HI>" ȝhe sede,</L>
+<L>"To-day þou schalt my broþ<HI REND="italic">er</HI> be, for þ<HI REND="italic">o</HI>u wolt do by my r<HI REND="italic">e</HI>de.</L>
+<L>Þorw clene loue <HI REND="italic">and</HI> good be-leue, þy broþ<HI REND="italic">er</HI> my spouse is,</L>
+<L N="115"><HI REND="italic">And</HI> þou schalt by-come al-so my broþ<HI REND="italic">er,</HI> whan þ<HI REND="italic">o</HI>u art his.</L>
+<L>Wit Valerian þou most go to þe bysschop Vrban,</L>
+<L><HI REND="italic">And</HI> be c<HI REND="italic">r</HI>istenyd <HI REND="italic">and</HI> do as þe r<HI REND="italic">e</HI>de can."</L>
+<L>"Is þ<HI REND="italic">a</HI>t Vrban," q<HI REND="italic">uod</HI> Tyburs, "þat so ȝerne haþ be-souȝt,</L>
+<L>Þat long haþ be flemyd <HI REND="italic">and</HI> hid? <HI REND="italic">And</HI> ȝif he had be forþ brouȝt,</L>
+<L N="120">Br<HI REND="italic">e</HI>nd he schold be, <HI REND="italic">and</HI> we alle-so, ȝif we w<HI REND="italic">i</HI>t hym wer<HI REND="italic">e.</HI>"</L>
+<L>"Ȝe," q<HI REND="italic">uod</HI> þe mayde, "ȝif it be so, we scholle to Heuin I-fer<HI REND="italic">e.</HI>"</L>
+<L>"Ȝif þ<HI REND="italic">er</HI> ner<HI REND="italic">e,</HI>" q<HI REND="italic">uod</HI> þis mayde, "onlich but þis lyf,</L>
+<L>Fool he wer<HI REND="italic">e,</HI> þ<HI REND="italic">a</HI>t it wold lese, for any man<HI REND="italic">er</HI> strif."</L>
+<L>"Leue broþ<HI REND="italic">er,</HI>" q<HI REND="italic">uod</HI> Tyburs, "haue m<HI REND="italic">er</HI>cy on me,</L>
+<L N="125"><HI REND="italic">And</HI> leed me to þat good mon, I be-seche þe."</L>
+<L>Þ<HI REND="italic">a</HI>t o broþ<HI REND="italic">er</HI> lad þ<HI REND="italic">a</HI>t oþ<HI REND="italic">er</HI> to þe bysschop Vrban. <MILESTONE N="287 b." UNIT="f."/></L>
+<L><HI REND="italic">And</HI> leet him forsak his folyȝe <HI REND="italic">and</HI> be-com c<HI REND="italic">r</HI>istin man.</L>
+<L>Tyburs, þo he com a-ȝen, þe aungel he say anon,</L>
+<L>Þat Sysile hym hadde be-hote in þe chau<HI REND="italic">m</HI>br<HI REND="italic">e</HI> to gon.</L>
+<PB N="83" REF="13"/>
+<L N="130">Sysile, for ȝhe woman was, at hom moste abyde,</L>
+<L>But þe twey br<HI REND="italic">e</HI>þerin þ<HI REND="italic">a</HI>t wer<HI REND="italic">e</HI> men, about wente wyde,</L>
+<L><HI REND="italic">And</HI> wha<HI REND="italic">n</HI>ne þey martrid C<HI REND="italic">r</HI>istin men, þedir þey wende,</L>
+<L><HI REND="italic">And</HI> stele to whan þey myȝte best, to bery hey<HI REND="italic">m</HI> at þ<SUP>e</SUP> ende.</L>
+<L>As þey beriid twey men þ<HI REND="italic">a</HI>t I-martrid wer<HI REND="italic">e,</HI></L>
+<L N="135">Com þe emp<HI REND="italic">er</HI>our<HI REND="italic">us</HI> men, <HI REND="italic">and</HI> nom hem anon þer<HI REND="italic">e.</HI></L>
+<L>To-for<HI REND="italic">e</HI> þe ioustise þey wer<HI REND="italic">e</HI> brouȝt; me askid hem anon,</L>
+<L>"Who made hem so hardy þe emp<HI REND="italic">er</HI>our<HI REND="italic">us</HI> foon,</L>
+<L>Mys-be-leuid t<HI REND="italic">ra</HI>ytour<HI REND="italic">us,</HI> bery, þ<HI REND="italic">a</HI>t wer<HI REND="italic">e</HI> aȝen her<HI REND="italic">e</HI> lawe,</L>
+<L>Þat w<HI REND="italic">i</HI>t ryȝt iugement of lond wer<HI REND="italic">e</HI> brouȝt of dawe?"</L>
+<L N="140">"Syr<HI REND="italic">e,</HI> we wold," q<HI REND="italic">uod</HI> þe oþ<HI REND="italic">er,</HI> "þat we worþy wer</L>
+<L>Her<HI REND="italic">e</HI> cnauis to be, þ<HI REND="italic">a</HI>t wer<HI REND="italic">e</HI> quellid þer."</L>
+<L>"Þey be-leuid þou it semblaunt made,</L>
+<L><HI REND="italic">And</HI> tok to þing þ<HI REND="italic">a</HI>t was good þou it semblau<HI REND="italic">n</HI>t nade,</L>
+<L>For þe worldis ioy þat haþ semblau<HI REND="italic">n</HI>t, nouȝt worþ it nys,</L>
+<L N="145"><HI REND="italic">And</HI> þou þe blisse of Heuin þink lyte, moche <HI REND="italic">and</HI> good it is."</L>
+<L>"Belamys," þe iustise seyd, "me-þinkeþ ȝou wode,</L>
+<L>Wreþe it is worþy þ<HI REND="italic">a</HI>t he haue wo, þ<HI REND="italic">a</HI>t kepiþ nouȝt of gode."</L>
+<L>"In wint<HI REND="italic">er,</HI>" q<HI REND="italic">uod</HI> Valerian, "men sitteþ <HI REND="italic">and</HI> drinkeþ;</L>
+<L>To scorn þey lauȝe erþe tyliers, þat about her<HI REND="italic">e</HI> mete swinkeþ.</L>
+<L N="150">In heruest, whan þe tilyer may feyr corn <HI REND="italic">and</HI> good r<HI REND="italic">e</HI>pe,</L>
+<L>In myseyse þey gon vp <HI REND="italic">and</HI> doun, <HI REND="italic">and</HI> haue neuer a gr<HI REND="italic">e</HI>pe.</L>
+<L>As we scholle for our<HI REND="italic">e</HI> t<HI REND="italic">ra</HI>uayl in blisse r<HI REND="italic">e</HI>pe, at þe ende,</L>
+<L>Whan ȝe scholle, for ȝour<HI REND="italic">e</HI> ioyȝe, to pyne of helle wende."</L>
+<L>Þan seyd þe iustise, "scholle þey þat lord<HI REND="italic">us</HI> be</L>
+<L N="155">Lasse worþ þan soch wr<HI REND="italic">e</HI>cches? "Þat nelle neu<HI REND="italic">er</HI> þe!"</L>
+<PB N="85" REF="15"/>
+<L>"S<HI REND="italic">er</HI>tis," q<HI REND="italic">uod</HI> Valerian, "þ<HI REND="italic">o</HI>u art lasse I-told</L>
+<L>Þan a begger þ<HI REND="italic">a</HI>t nouȝt haþ, be þ<HI REND="italic">o</HI>u neu<HI REND="italic">er</HI> so bold."</L>
+<L>"Belamy" q<HI REND="italic">uod</HI> þe iustise, "I kep nouȝt of þy iangling;</L>
+<L>Doþ ȝour<HI REND="italic">e</HI> sacr<HI REND="italic">e</HI>fyse anon, or me schal to deþe ȝowȝ bring."</L>
+<L N="160">"S<HI REND="italic">er</HI>tis," q<HI REND="italic">uod</HI> þis good mon, "þou bringist vs neu<HI REND="italic">er</HI> þ<HI REND="italic">er</HI>-two."</L>
+<L>Þe iustise hem bad anon in strong p<HI REND="italic">re</HI>son do.</L>
+<L>Maxime, þe iayler, heet þ<HI REND="italic">a</HI>t hem in ward nom,</L>
+<L>So þat he <HI REND="italic">and</HI> alle his, þorw hem, tok Cristindom.</L>
+<L>Seint Sysile com be þ<SUP>e</SUP> p<HI REND="italic">re</HI>son; loud ȝhe gan to gr<HI REND="italic">e</HI>de,</L>
+<L N="165">"What do ȝe godd<HI REND="italic">us</HI> knyȝt<HI REND="italic">us</HI> kep ȝour<HI REND="italic">e</HI> monhede!"</L>
+<L>"ffyȝtiþ now strongliche to be-leue þis derk hede</L>
+<L>Þat ȝe wer<HI REND="italic">e</HI> in þe wey brouȝt, þat schal ȝou to lyȝt lede!"</L>
+<L>On morw, to þe maumet<HI REND="italic">us,</HI> þese good men wer<HI REND="italic">e</HI> brouȝt.</L>
+<L>Þe iustise had hem do sacrefys, but þey nold nouȝt;</L>
+<L N="170">Her<HI REND="italic">e</HI> heuedis he leet of smyte, <HI REND="italic">and</HI> Maxime þo seyȝ</L>
+<L>Wher aungel<HI REND="italic">us</HI> her<HI REND="italic">e</HI> soul<HI REND="italic">us</HI> nome, <HI REND="italic">and</HI> ber to Heuin on hyȝ.</L>
+<L>To þe iustise he went anon, "C<HI REND="italic">r</HI>istin I am," he sede, <MILESTONE N="288." UNIT="f."/></L>
+<L>"I say aungel<HI REND="italic">us</HI> to þe ioyȝe þ<SUP>e</SUP> good me<HI REND="italic">n</HI>n<HI REND="italic">us</HI> soul<HI REND="italic">us</HI> lede."</L>
+<L>Þe iustise heet hym neme anon, <HI REND="italic">and</HI> nakid hy<HI REND="italic">m</HI> bete</L>
+<L N="175">Wit strong scorg<HI REND="italic">us</HI> fast I-bound, til he þ<SUP>e</SUP> lyf lete.</L>
+<L>Þe body þey casste wit-oute þe toun, Secile gan þ<HI REND="italic">er</HI> forþ goon;</L>
+<L>Þe þr<HI REND="italic">e</HI> holy mart<HI REND="italic">er</HI>is to-gedir ȝhe berid anon.</L>
+<L>ȝhe was sone I-nome <HI REND="italic">and</HI> lad to þe iustise þo.</L>
+<L>"What!" he seyde, "how gooþ þis; be ȝit schr<HI REND="italic">e</HI>wis mo?"</L>
+<L N="180">"Artow Valerian<HI REND="italic">us</HI> wif? By þe fey I owe Mahoun</L>
+<PB N="87" REF="17"/>
+<L>But þ<HI REND="italic">o</HI>u oþ<HI REND="italic">er</HI>-wey torne þy wit, þ<HI REND="italic">o</HI>u schalt sone be brouȝt a-doun."</L>
+<L>"Of what kin art þ<HI REND="italic">o</HI>u come, þ<HI REND="italic">a</HI>t þus follich wolt þe leer?"</L>
+<L>"Of bet<HI REND="italic">er</HI> kin," q<HI REND="italic">uod</HI> þe mayd, "þan þ<HI REND="italic">o</HI>u eu<HI REND="italic">er</HI> wer."</L>
+<L>"In what man<HI REND="italic">er,</HI>" q<HI REND="italic">uod</HI> þ<SUP>e</SUP> oþ<HI REND="italic">er,</HI> "þenkistou þy lyf leue?"</L>
+<L N="185">"Þou askist," ȝhe seyd, "as a fool, <HI REND="italic">and</HI> so me schal þ<SUP>e</SUP> answer ȝeue."</L>
+<L>"ffor al þy þouer þ<HI REND="italic">o</HI>u schalt se by þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u wost þ<SUP>e</SUP> ende,</L>
+<L>Þat þ<HI REND="italic">o</HI>u ne schalt fro Ih<HI REND="italic">es</HI>u Cr<HI REND="italic">i</HI>st onis myn herte wende."</L>
+<L>"How com it þe," q<HI REND="italic">uod</HI> þe iustise, "to be so hardy heer</L>
+<L>To clepe me fool, <HI REND="italic">and</HI> am þy mayst<HI REND="italic">er:</HI> ne sestou my power?"</L>
+<L N="190">Þy pou<HI REND="italic">er,</HI> wr<HI REND="italic">e</HI>cce," q<HI REND="italic">uod</HI> þe mayd, "worþ sone brouȝt be-hinde,</L>
+<L>For it is but a bledder<HI REND="italic">e</HI> bloue ful of winde,</L>
+<L>Þat be it p<HI REND="italic">re</HI>kid wit a prikke, awey it sinkeþ, al;</L>
+<L>Also w<HI REND="italic">i</HI>t alyte syknes þy wr<HI REND="italic">e</HI>cche careyne schal.</L>
+<L>Þy pou<HI REND="italic">er</HI> þat þ<HI REND="italic">o</HI>u ȝelpist of, þanne worþ wel lyte."</L>
+<L N="195">"How goþ þis?" q<HI REND="italic">uod</HI> þe iustise, "Dame, whenn<HI REND="italic">us</HI> comyþ þy pryte?"</L>
+<L>"May I nouȝt ȝeue þe deþ <HI REND="italic">and</HI> lyf, ne sestow nouȝt w<HI REND="italic">i</HI>t þin yȝe?"</L>
+<L>"S<HI REND="italic">er</HI>tis, Syr<HI REND="italic">e,</HI>" q<HI REND="italic">uod</HI> þis mayde, "þ<HI REND="italic">o</HI>u lyx þ<HI REND="italic">er</HI>of wel hyȝe."</L>
+<L>"A wr<HI REND="italic">e</HI>cche careyne þou myȝt ȝeue deþ, þ<HI REND="italic">a</HI>t wel schort is;</L>
+<L>Of lyf ne myȝt þ<HI REND="italic">o</HI>u nouȝt ȝeue þy-self, I-wis.</L>
+<L N="200">Whan þ<HI REND="italic">o</HI>u ne myȝt ȝeue deþ, ne lyf, me-pinkeþ be ryȝt</L>
+<L>Þ<HI REND="italic">o</HI>u art deþ<HI REND="italic">us</HI> s<HI REND="italic">er</HI>uaunt, for of lyf hastou no myȝt;</L>
+<L><HI REND="italic">And</HI> whan þou deþ<HI REND="italic">us</HI> s<HI REND="italic">er</HI>uaunt art, deþ þy lord is,</L>
+<L><HI REND="italic">And</HI> in deþ wit-outen ende þ<HI REND="italic">o</HI>u schalt be, I-wis."</L>
+<PB N="89" REF="19"/>
+<L>"Dame," seyd þe iustise, "of þy chydinge kep I nouȝt;</L>
+<L N="205">Do sacr<HI REND="italic">e</HI>fyse to our<HI REND="italic">e</HI> god<HI REND="italic">us,</HI> or to deþe þ<HI REND="italic">o</HI>u schalt be brouȝt."</L>
+<L>"Þ<HI REND="italic">o</HI>u seydist þ<HI REND="italic">a</HI>t I gedy am," Seint Sycile sede,</L>
+<L>"Þ<HI REND="italic">o</HI>u art gedy <HI REND="italic">and</HI> wood, sene it is on þy dede;</L>
+<L>Schold I honour<HI REND="italic">e</HI> þy god<HI REND="italic">us</HI> þ<HI REND="italic">a</HI>t beþ ston <HI REND="italic">and</HI> tr<HI REND="italic">e</HI></L>
+<L>Fool ȝif ich segge sooþ þou ne myȝt se.</L>
+<L N="215">But þ<HI REND="italic">o</HI>u be blind, þ<HI REND="italic">o</HI>u myȝt se þ<HI REND="italic">a</HI>t þis þing soþ is.</L>
+<L>Ȝif þ<HI REND="italic">o</HI>u it sest <HI REND="italic">and</HI> leuist it nouȝt, þ<HI REND="italic">o</HI>u art wood, I-wis,</L>
+<L>ffor wood he is, þ<HI REND="italic">a</HI>t nel leue þ<HI REND="italic">a</HI>t he seþ w<HI REND="italic">i</HI>t his yȝe,</L>
+<L><HI REND="italic">And</HI> wood mo<HI REND="italic">n and</HI> blind In þ<SUP>e</SUP> pyne of hewe þ<HI REND="italic">o</HI>u schalt dyȝe."</L>
+<L>Þo ferde ferd þ<SUP>e</SUP> schr<HI REND="italic">e</HI>ue as he wer<HI REND="italic">e</HI> wood; he het þ<SUP>e</SUP> mayde take</L>
+<L N="220"><HI REND="italic">And</HI> leed her<HI REND="italic">e</HI> in-to an hous, <HI REND="italic">and</HI> gr<HI REND="italic">e</HI>t fer about her<HI REND="italic">e</HI> make,</L>
+<L><HI REND="italic">And</HI> þ<HI REND="italic">er</HI>-ouer sette a leed wit wat<HI REND="italic">er, and</HI> amydde her<HI REND="italic">e</HI> caste,</L>
+<L><HI REND="italic">And</HI> seþ her<HI REND="italic">e</HI> whyl þ<HI REND="italic">er</HI> wold any lyf in her<HI REND="italic">e</HI> laste. <MILESTONE N="288 b" UNIT=""/></L>
+<L>Þo þis iugement was I-ȝoue, <HI REND="italic">and</HI> me her<HI REND="italic">e</HI> forþ ladde,</L>
+<L>Men <HI REND="italic">and</HI> wome<HI REND="italic">n</HI> þat her<HI REND="italic">e</HI> syȝe, loude wep <HI REND="italic">and</HI> gradde,</L>
+<L N="225">"Allas!" þey seyde, "þis ȝong þing, so feyr a cr<HI REND="italic">e</HI>atur<HI REND="italic">e,</HI></L>
+<L>Schal now lese her<HI REND="italic">e</HI> lyf, <HI REND="italic">and</HI> deyȝe þorw þe fur<HI REND="italic">e</HI>!"</L>
+<L>"Beþ stille!" q<HI REND="italic">uod</HI> þe holy mayd, "for me wep ȝe nouȝt,</L>
+<L>My lyf I schal nouȝt lese, but I worþ to ioy brouȝt.</L>
+<L>A schort deþ I schal fong, <HI REND="italic">and</HI> lyf wit-outin ende,</L>
+<L N="230">Fool he wer<HI REND="italic">e</HI> þ<HI REND="italic">a</HI>t so nold god it me sone sende."</L>
+<L>Me cast her<HI REND="italic">e</HI> in seþinge wat<HI REND="italic">er,</HI> al nyȝt þ<HI REND="italic">er</HI>-inne ȝhe seth,</L>
+<L>Þe lenger ȝhe þ<HI REND="italic">er</HI>-inne was, þe forþ<HI REND="italic">er</HI> ȝhe was her<HI REND="italic">e</HI> deþ.</L>
+<L>Wit þe bolm<HI REND="italic">us</HI> ȝhe sat <HI REND="italic">and</HI> pleyde; ȝhe þonkid godd<HI REND="italic">us</HI> g<HI REND="italic">ra</HI>ce,</L>
+<L>Mo þan four<HI REND="italic">e</HI> hondrid be-com Cristin in þe plas.</L>
+<L N="235">Þe iustise say þ<HI REND="italic">a</HI>t he ne myȝt w<HI REND="italic">i</HI>t soch deþ quelle her<HI REND="italic">e</HI> nouȝt,</L>
+<L>He heet smyt of her<HI REND="italic">e</HI> heed, þ<HI REND="italic">a</HI>t ȝhe to deþe wer<HI REND="italic">e</HI> brouȝt.</L>
+<L>Þe queller<HI REND="italic">e</HI> her<HI REND="italic">e</HI> smoot w<HI REND="italic">i</HI>t al his myȝt þryis in þe swyre,</L>
+<PB N="91" REF="21"/>
+<L>He smot it noȝt folleche of; þ<HI REND="italic">a</HI>t deþ was bouȝt ful dere.</L>
+<L>No queller<HI REND="italic">e,</HI> by þ<HI REND="italic">a</HI>t day, most smyt oft<HI REND="italic">er</HI> þan þryȝe.</L>
+<L N="240">Half slawe he lefte her<HI REND="italic">e, and</HI> so aweyward gan hyȝe,</L>
+<L>To a leþ<HI REND="italic">er</HI> stede, god it woot, for he was a schrewe,</L>
+<L>He dede þe mayde wo, giltles, her<HI REND="italic">e</HI> so to hewe,</L>
+<L><HI REND="italic">And</HI> beleued her<HI REND="italic">e</HI> alyue half; wel wo hym be,</L>
+<L>For who so nyste of no del, þ<HI REND="italic">er</HI>e he myȝte se.</L>
+<L N="245">Þe holy mayde went about, þe heed hing half of smyte,</L>
+<L><HI REND="italic">And</HI> was half quik <HI REND="italic">and</HI> half ded, þat ruþe it was to wite.</L>
+<L><HI REND="italic">And</HI> por<HI REND="italic">e</HI> men, moche of her<HI REND="italic">e</HI> good, delid myd her<HI REND="italic">e</HI> hond.</L>
+<L>It was a fayr g<HI REND="italic">ra</HI>ce of God þ<HI REND="italic">a</HI>t ȝhe myȝt on<HI REND="italic">us</HI> stond.</L>
+<L>Ȝhe p<HI REND="italic">re</HI>chid, <HI REND="italic">and</HI> to Ih<HI REND="italic">es</HI>u Crist mony men tornde,</L>
+<L N="250"><HI REND="italic">And</HI> alle to Seint Orban, þe bysschop, to baptise þhe sende,</L>
+<L><HI REND="italic">And</HI> bad hym þ<HI REND="italic">a</HI>t he scholde, þe hous þ<HI REND="italic">a</HI>t ȝhe wonyd inne,</L>
+<L>Halw in our<HI REND="italic">e</HI> Lord<HI REND="italic">us</HI> name, <HI REND="italic">and</HI> a chirche þ<HI REND="italic">er</HI> be-ginne,</L>
+<L><HI REND="italic">And</HI> bery þ<HI REND="italic">er</HI> her<HI REND="italic">e</HI> oune body, <HI REND="italic">and</HI> þat our<HI REND="italic">e</HI> Lord<HI REND="italic">us</HI> s<HI REND="italic">er</HI>uise,</L>
+<L>Vp his pou<HI REND="italic">er</HI> wer<HI REND="italic">e</HI> þ<HI REND="italic">er</HI>-inne do, in alle wyse.</L>
+<L N="255">Þe þridde day aft<HI REND="italic">er</HI> her<HI REND="italic">e</HI> mart<HI REND="italic">er</HI>dom, þe mayde adou<HI REND="italic">n</HI> lay</L>
+<L>And p<HI REND="italic">re</HI>chid C<HI REND="italic">r</HI>istin men, <HI REND="italic">and</HI> bade hem haue good day,</L>
+<L><HI REND="italic">And</HI> seyde, "Nowȝ I haue don al þ<HI REND="italic">a</HI>t my wille is two,</L>
+<L>Wende I wil to Ih<HI REND="italic">es</HI>u C<HI REND="italic">r</HI>ist, <HI REND="italic">and</HI> ȝe scholle also."</L>
+<L>Þis was two hondrid ȝer <HI REND="italic">and</HI> þr<HI REND="italic">e and</HI> twenty, ryȝt,</L>
+<L N="260">Afte<HI REND="italic">r</HI> þ<HI REND="italic">a</HI>t our<HI REND="italic">e</HI> Lord was in his modir alyȝt.</L>
+<L>Now bidde we our<HI REND="italic">e</HI> swete Lord, for her<HI REND="italic">e</HI> strong mart<HI REND="italic">er</HI>dom,</L>
+<L>Bring our<HI REND="italic">e</HI> soul<HI REND="italic">us</HI> to þe ioyȝe þat her<HI REND="italic">e</HI>-to com.</L>
+<CLOSER>Ame<HI REND="italic">n.</HI></CLOSER>
+</DIV2>
+
+<DIV2 LANG="enm" TYPE="version" N="Cleo">
+<PB N="73" REF="3"/>
+<HEAD>MS. Cotton Cleopatra D ix. [<HI REND="italic">fol.</HI> 155b-158b.]</HEAD>
+<L>Seint Cecile of noble kinne. ibore was at Rome, <MILESTONE N="155 b." UNIT="f."/> <NOTE PLACE="marg">("S<HI REND="italic">an</HI>c<HI REND="italic">t</HI>a Cecilia.")</NOTE></L>
+<L>Oure lou<HI REND="italic">er</HI>d c<HI REND="italic">r</HI>ist ȝeo louede wel. er ȝeo f<HI REND="italic">ra</HI>m c<HI REND="italic">ra</HI>del come</L>
+<L>Stilliche ȝeo let hire c<HI REND="italic">r</HI>istne. as we findeþ iwrite</L>
+<L>Ȝurne ȝeo bad oure lord c<HI REND="italic">r</HI>ist. þ<HI REND="italic">a</HI>t he scholde hire maidenhod wite</L>
+<L N="5">Suþþe þoruȝ strengþe of hire frendes. ywedded ȝeo was to a man</L>
+<L>Of grete nobleie <HI REND="italic">and</HI> richesse inouȝ þ<HI REND="italic">a</HI>t het Valerian.</L>
+<L>þþis maide werede robe of pal. <HI REND="italic">and</HI> cloþes swiþe riche</L>
+<L>Gerlauns <HI REND="italic">and</HI> tressours al of gold. þ<HI REND="italic">e</HI> her next hire liche</L>
+<L>Whan þis minestralles songen her song<HI REND="italic">es.</HI> in hire minest<HI REND="italic">ra</HI>ncie</L>
+<L N="10">þþis maide stilliche gan singe. of god <HI REND="italic">and</HI> seint marie</L>
+<L>A uers of þe saut<HI REND="italic">er</HI> hire songe was. <HI REND="italic">and</HI> þ<HI REND="italic">er</HI>on was mest hire þouȝt</L>
+<L>Let lord min hert wiþoute wem beo. þ<HI REND="italic">a</HI>t ȳ ne beo confou<HI REND="italic">n</HI>ded nouȝt</L>
+<L>A niȝt as ȝeo was in hire bed. mid hire lord ibroȝt.</L>
+<L>Son he hadde of folie. þis clene þinge bisouȝt</L>
+<L N="15">Swete hert þis maide seide. for loue þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u hast to me</L>
+<L>Graunte me þ<HI REND="italic">a</HI>t ich þe mot telle. a lutel in p<HI REND="italic">r</HI>iuete</L>
+<L>þþ<HI REND="italic">a</HI>t ich me mowe þ<HI REND="italic">er</HI>of schriue to þe. <HI REND="italic">and</HI> þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u hit wole hele</L>
+<L>Certes lemman þis man seide. to noman telle ic<HI REND="italic">h</HI> nele</L>
+<L>Swete lemman þis maide sede. in warde icham ido</L>
+<L N="20">An angel of heuene is mi wardein. <HI REND="italic">and</HI> mi le<HI REND="italic">m</HI>man also</L>
+<L>Wel faste he stod here bi me. ȝif he hit und<HI REND="italic">er</HI>ȝete <MILESTONE N="156." UNIT="f."/> <NOTE PLACE="marg">(at top of the page, "De S<HI REND="italic">an</HI>c<HI REND="italic">t</HI>a Cecilia.")</NOTE></L>
+<L>þþ<HI REND="italic">a</HI>t þou binome min maidenhod. for noþint he nolde hit lete</L>
+<L>þþ<HI REND="italic">a</HI>t he þe nolde wel hard smite. <HI REND="italic">and</HI> binime þe al þin miȝte</L>
+<L>Of þi strengþe <HI REND="italic">and</HI> of þin noble stat. for þ<HI REND="italic">o</HI>u miȝte nouȝt wiþ hi<HI REND="italic">m</HI> fiȝte</L>
+<L N="25">Ac ȝif he seoþ þ<HI REND="italic">a</HI>t þou louest me. in gode loue <HI REND="italic">and</HI> clene</L>
+<PB N="75" REF="5"/>
+<L>Wite he wole þe; as he doþ me. <HI REND="italic">and</HI> al uuel f<HI REND="italic">ra</HI>m þe ȝeme</L>
+<L>Ȝif þ<HI REND="italic">o</HI>u wolt seide ualerian. þ<HI REND="italic">a</HI>t ich ileoue þis</L>
+<L>þþen angel þ<HI REND="italic">o</HI>u most schewe me. þ<HI REND="italic">a</HI>t ich seo him iwis</L>
+<L>And ȝif ic<HI REND="italic">h</HI> mai þe soþ iseo. þ<HI REND="italic">a</HI>t þou hast soþe isede</L>
+<L N="30">In clannesse ichulle þi wille do. al af<HI REND="italic">ter</HI> his rede</L>
+<L>And ȝif ich seo þ<HI REND="italic">a</HI>t in folie. þ<HI REND="italic">o</HI>u louest anoþ<HI REND="italic">er</HI> þan me</L>
+<L>Noþinge schal hit me binime. þ<HI REND="italic">a</HI>t y nelle slee hi<HI REND="italic">m and</HI> þe</L>
+<L>Swete hert seide þis maide. ȝif þou wolt þe angel iseo</L>
+<L>Þþou most bileoue on iesu c<HI REND="italic">r</HI>ist. <HI REND="italic">and</HI> ic<HI REND="italic">r</HI>istned also beo</L>
+<L N="35">Iseo him þ<HI REND="italic">o</HI>u schalt ȝif þ<HI REND="italic">o</HI>u wolt so. <HI REND="italic">and</HI> wite he þe wolle f<HI REND="italic">ra</HI>m helle</L>
+<L>So grete ioie schal of oure loue beo. þ<HI REND="italic">a</HI>t no tonge þ<HI REND="italic">e</HI>rof mai telle</L>
+<L>Ac henne ou<HI REND="italic">er</HI>e þreo miles þ<HI REND="italic">o</HI>u most go. to þe hulle of apie</L>
+<L>Pore men þ<HI REND="italic">o</HI>u schalt þ<HI REND="italic">er</HI> finde. <HI REND="italic">and</HI> on iesu c<HI REND="italic">r</HI>ist ȝurne c<HI REND="italic">r</HI>ie</L>
+<L>Seie þ<HI REND="italic">a</HI>t ich þe to hem sende. <HI REND="italic">and</HI> hi þe teche anon</L>
+<L N="40">Whar is seint Vrban þe holi man. for þ<HI REND="italic">o</HI>u wolt to hi<HI REND="italic">m</HI> gon</L>
+<L>For priue conseil þ<HI REND="italic">o</HI>u woldest wiþ hi<HI REND="italic">m</HI> speke. <HI REND="italic">and</HI> he þe schal baptize</L>
+<L>And þan þ<HI REND="italic">o</HI>u schalt þen angel iseo. <HI REND="italic">and</HI> don as he þe wole wise</L>
+<L>Valerian þo aros anon. as oure lord him ȝaf wille</L>
+<L>To þe stude as þis maide bad. he wende hi<HI REND="italic">m</HI> forþ wel stille</L>
+<L N="45">þþis pore men him tauȝte anon. to þe holi seint vrban</L>
+<L>He fonde him in an old forlete stude. þ<HI REND="italic">er</HI>as noman ne com</L>
+<L>To his fet he fel adoun. anon þo he to him com</L>
+<L>And seide þ<HI REND="italic">a</HI>t Cicilie him þider sende. to asky c<HI REND="italic">r</HI>istendom</L>
+<L>Whar þis beo þe luþ<HI REND="italic">er</HI> werrour. þ<HI REND="italic">a</HI>t me clupeþ Valerian</L>
+<PB N="77" REF="7"/>
+<L N="50">Lou<HI REND="italic">er</HI>d þ<HI REND="italic">a</HI>t Cicilie haþ imad. him þ<HI REND="italic">a</HI>t was so wilde<NOTE PLACE="marg">49-50 Blank line in MS.</NOTE></L>
+<L>And more tiraunt þan eni wolf. as a lombe so milde</L>
+<L>þþo com þ<HI REND="italic">er</HI> gon a swiþe old man. alite f<HI REND="italic">ra</HI>m heuene þer<NOTE N="1" PLACE="marg">(MS. per.)</NOTE></L>
+<L>Al hor wiþ white uestemens. <HI REND="italic">and</HI> a wel faire writ he ber</L>
+<L>Anon so ualerian iseiȝ him come. adoun he fel for drede</L>
+<L N="55">Seint vrban him nom vp anon. <HI REND="italic">and</HI> forþ he gan him lede</L>
+<L>þþis halwe of heuene him toke þis writ. <HI REND="italic">and</HI> bad he scholde hit rede</L>
+<L>Valerian anon radde þis writ. þ<HI REND="italic">at</HI> þes wordes sede</L>
+<L>O god is <HI REND="italic">and</HI> on bileoue. <HI REND="italic">and</HI> on c<HI REND="italic">r</HI>istendom</L>
+<L>And fader <HI REND="italic">and</HI> lord of alle þinge. þ<HI REND="italic">a</HI>t flesshe <HI REND="italic">and</HI> blod among ous nom.</L>
+<L N="60">Ileouest þis seide seint vrban. þat þ<HI REND="italic">o</HI>u dost þ<HI REND="italic">er</HI>e iseo <MILESTONE N="156 b" UNIT="f."/></L>
+<L>þþ<HI REND="italic">er</HI> nis þinge in þis world þe oþ<HI REND="italic">er</HI> seide. þ<HI REND="italic">a</HI>t bet<HI REND="italic">er</HI>e ileoued mai beo</L>
+<L>He biheolde aft<HI REND="italic">er</HI> þis old man. he miste whar he bicom</L>
+<L>Seint vrban þo him nom anon. <HI REND="italic">and</HI> ȝaf him c<HI REND="italic">r</HI>istendom</L>
+<L>To Cecilie son he wende aȝen. þo he hadde ibeo þ<HI REND="italic">er</HI> his fulle</L>
+<L N="65">He fonde hire chambre wel liȝt wiþinne. <HI REND="italic">and</HI> swiþe swote smulle</L>
+<L>And founde Cecilie his trewe wif. <HI REND="italic">and</HI> an angel bi hire stond</L>
+<L>þþ<HI REND="italic">a</HI>t was briȝtore þan eni leom. tweie g<HI REND="italic">er</HI>launs he hulde an hond</L>
+<L>Of rose <HI REND="italic">and</HI> lilie hi weren imad. þ<HI REND="italic">a</HI>t on Cecilie he tok</L>
+<L>þþ<HI REND="italic">a</HI>t oþ<HI REND="italic">er</HI> he tok ualerian; as we findeþ in bok</L>
+<L N="70">Witeþ þeos he seide in trewe loue. wiþ chaste bodi <HI REND="italic">and</HI> clene</L>
+<L>Ic<HI REND="italic">h</HI> hem habbe f<HI REND="italic">ra</HI>m heuene ibrouȝte. oure Lord hem doþ ȝou lene</L>
+<L>þþe lilie tokneþ ȝoure maidenhod. þ<HI REND="italic">a</HI>t is so white <HI REND="italic">and</HI> swote</L>
+<L>þþe rose tokneþ ȝoure martirdom. for þ<HI REND="italic">er</HI>inne deie ȝe mote</L>
+<L>For þ<HI REND="italic">a</HI>t þou dost ualerian. Ceciles red so sone</L>
+<L N="75">What so þ<HI REND="italic">o</HI>u of mi lord dost bidde. he wole graunte þi bone.</L>
+<PB N="79" REF="9"/>
+<L>I ne wilnȳ noþinge on eorþe so moche. seide ualerian</L>
+<L>As þat tiburs mi broþ<HI REND="italic">er</HI> were. wiþ me c<HI REND="italic">r</HI>isten man</L>
+<L>Mi lord wole þis angel seide. ȝeue him þulk g<HI REND="italic">ra</HI>ce</L>
+<L>And boþe ȝe scholle martred beo. at o time in on place</L>
+<L N="80">þþe angel wende forþ wiþ þis word. hi miste whar he becom</L>
+<L>Moche was þe ioie of þis clene þinges; þ<HI REND="italic">a</HI>t aiþ<HI REND="italic">er t</HI>o<NOTE N="1" PLACE="marg">(MS. co.)</NOTE> oþer nom</L>
+<L>To chamber com tiburs to speke. wiþ his broþ<HI REND="italic">er</HI> þere</L>
+<L>Stille he stod <HI REND="italic">and</HI> biheolde aboute. as þeiȝ he miste whar he were</L>
+<L>Broþ<HI REND="italic">er</HI> he seide hou goþ þis. in þis time of þe ȝer</L>
+<L N="85">So swote smul ne smulde ic<HI REND="italic">h</HI> neu<HI REND="italic">er</HI>e. as me þincþ ic<HI REND="italic">h</HI> so nou her</L>
+<L>þþeiȝ þis hous were ful of newe floures. <HI REND="italic">and</HI> white lilie also</L>
+<L>Murgore miȝte hit smulle nouȝt. me þinkeþ þan ic<HI REND="italic">h</HI> nou do</L>
+<L>So ful icham broþ<HI REND="italic">er</HI> of þe smul. <HI REND="italic">and</HI> so moche hit is in mi þouȝt</L>
+<L>þþ<HI REND="italic">a</HI>t icham sodeinliche inot hou; in oþ<HI REND="italic">er</HI> witte ibrouȝt</L>
+<L N="90">Leue broþ<HI REND="italic">er</HI> seide ualerian. gerlauns we habbeþ here</L>
+<L>Of rose <HI REND="italic">and</HI> lilie þ<HI REND="italic">a</HI>t þou ne miȝte seo. bote þ<HI REND="italic">o</HI>u were oure fere</L>
+<L>Ac as þou hast þe swote smul; þ<HI REND="italic">er</HI>of þorwȝ mi lone</L>
+<L>Also ȝif þou wolt bileoue as we doþ. þ<HI REND="italic">o</HI>u miȝte hem seo wel sone</L>
+<L>Leue broþ<HI REND="italic">er</HI> seide tiburs. Whar hit beo soþe þis</L>
+<L N="95">Oþ<HI REND="italic">er</HI> þ<HI REND="italic">a</HI>t istond in metinge. <HI REND="italic">and</HI> mete þ<HI REND="italic">a</HI>t his so is</L>
+<L>In metinge seide ualerian. We habbeþ eu<HI REND="italic">er</HI>e ibeo</L>
+<L>Of slepe we beoþ nou furst awaked. <HI REND="italic">and</HI> nou we mowe furst iseo</L>
+<L>For oure lordes angel of heuene. haþ iȝeue me siȝt</L>
+<L>And for oure loue he þe wole ȝeue also. ȝif þou wolt bileoue ariȝt</L>
+<PB N="81" REF="11"/>
+<L N="100">þþo seide Cecilie þe holi maide. tiburs leue broþ<HI REND="italic">er</HI> <MILESTONE N="157." UNIT="f."/> <NOTE PLACE="marg">(at top of page "De S<HI REND="italic">an</HI>c<HI REND="italic">t</HI>a Cecilia.")</NOTE></L>
+<L>What is in oure maumetes bote wrecched. þ<HI REND="italic">o</HI>u schalt iseo non oþ<HI REND="italic">er</HI></L>
+<L>Ne seostou þat hit is maumetes work. imad of old tre</L>
+<L>þþinge þ<HI REND="italic">a</HI>t mai nouȝt him sulf helpe: hou miȝte hit helpe þe</L>
+<L>Noþinge is soþ<HI REND="italic">er</HI> seide tiburs. þan þ<HI REND="italic">a</HI>t þou hast ised</L>
+<L N="105">Gidiore he were þan eni best. þ<HI REND="italic">a</HI>t nolde do þi red</L>
+<L>Seint Cicile custe him anon. leue tiburs ȝeo sede</L>
+<L>To dai þ<HI REND="italic">o</HI>u schalt mi broþ<HI REND="italic">er</HI> beo. for þ<HI REND="italic">o</HI>u wolt don aft<HI REND="italic">er</HI> rede</L>
+<L>þþoruȝ clene loue <HI REND="italic">and</HI> gode bileoue; þi broþ<HI REND="italic">er</HI> min spouse is</L>
+<L>þþ<HI REND="italic">er</HI> þoruȝ þ<HI REND="italic">o</HI>u schalt also bicome. mi broþ<HI REND="italic">er</HI> whan þ<HI REND="italic">o</HI>u art his</L>
+<L N="110">Wiþ ualerian þ<HI REND="italic">o</HI>u most gon. to þe bischop vrban</L>
+<L>And beo ic<HI REND="italic">r</HI>istned <HI REND="italic">and</HI> do also. as he þe rede can</L>
+<L>Is þat vrban seide tiburs. þ<HI REND="italic">a</HI>t so ȝurne haþ ibeo souȝte</L>
+<L>þþat ȝare haþ ibeo fleom <HI REND="italic">and</HI> ihudde <HI REND="italic">and</HI> ȝif he were forþ ibrouȝte</L>
+<L>Forbrenne he scholde <HI REND="italic">and</HI> we also. ȝif we wiþ him were</L>
+<L N="115">And so þe while we heuene souȝte. forbarnde we scholde beon þ<HI REND="italic">er</HI>e</L>
+<L>Ȝif þ<HI REND="italic">a</HI>t þ<HI REND="italic">er</HI> nere seide Cecilie. soulment bote þis lif</L>
+<L>A fole he were þ<HI REND="italic">a</HI>t hit wolde. lese for eni strif</L>
+<L>Ac whan þ<HI REND="italic">er</HI> is as murie lif; þ<HI REND="italic">a</HI>t we schollen her aft<HI REND="italic">er</HI> fonge</L>
+<L>Fole he were þ<HI REND="italic">a</HI>t nolde a while beo wo. to beon in ioie so longe</L>
+<L N="120">Leue broþ<HI REND="italic">er</HI> seide tiburs. haue m<HI REND="italic">er</HI>ci on me</L>
+<L>And lede me to þulk gode man. ic<HI REND="italic">h</HI> biseche þe</L>
+<L>þþe broþ<HI REND="italic">er</HI> ladde þo þen oþ<HI REND="italic">er.</HI> to þe bischop urban</L>
+<L>And let him forsake his fole lawe. <HI REND="italic">and</HI> bicom c<HI REND="italic">r</HI>isten man.</L>
+<L>Tiburs þo hi com aȝen. þe angel he seiȝ anon</L>
+<L N="125">þþ<HI REND="italic">a</HI>t Cecilie him hadde bihote. in þe chambre wiþ hire gon</L>
+<PB N="83" REF="13"/>
+<L>Cecilie for ȝeo womman was at hom ȝeo most abide</L>
+<L>Ac þis tweie breþ<HI REND="italic">er</HI>en þ<HI REND="italic">a</HI>t were men. aboute hi wende wide</L>
+<L>Eu<HI REND="italic">er</HI>e whan me martred c<HI REND="italic">r</HI>isten men. þid<HI REND="italic">er</HI> hi wolde gon</L>
+<L>And stele to whan hi miȝte best <HI REND="italic">and</HI> binime hem anon</L>
+<L N="130">As hi bureden tweie holi men. þ<HI REND="italic">a</HI>t martred were</L>
+<L>Com þe amp<HI REND="italic">er</HI>oures men anon. <HI REND="italic">and</HI> nom hem riȝt þ<HI REND="italic">er</HI>e</L>
+<L>To fore þe iustise hi weren ibrouȝte. he asked hem anon</L>
+<L>Who mad hem so hardi to burie; þe emp<HI REND="italic">er</HI>oures fon</L>
+<L>þþis misbileouede t<HI REND="italic">r</HI>ichours. þ<HI REND="italic">a</HI>t weren aȝen her lawe</L>
+<L N="135">þþ<HI REND="italic">a</HI>t wiþ inggement of þe lond. were ibrouȝt of dawe</L>
+<L>Sire seide þis godmen. icholde þ<HI REND="italic">a</HI>t we worþi were.</L>
+<L>Her knaues forto habbe ibeo. þ<HI REND="italic">a</HI>t þou letest quelle þ<HI REND="italic">er</HI>e</L>
+<L>Hi forsoke þinge þ<HI REND="italic">a</HI>t nouȝt nas. þeiȝ hit semblaunte hadde</L>
+<L>And toke þinge þ<HI REND="italic">a</HI>t worþi was. <HI REND="italic">and</HI> non semblaunte nadde</L>
+<L N="140">Bel amẏs þe iustise seide. ȝou me þencheþ wod <MILESTONE N="157 b" UNIT="f."/></L>
+<L>Worþi he is sorwe to habbe. Whoso kepeþ nouȝt of god</L>
+<L>Valerian seide in wint<HI REND="italic">er</HI> ofte. idel men sitteþ <HI REND="italic">and</HI> drinkeþ</L>
+<L>To busmare hi liȝeþ eorþe tilien. þ<HI REND="italic">a</HI>t aboute sowinge swinkeþ</L>
+<L>In haruest whan gode swinkares mowe. gode corn inouȝ ripe</L>
+<L N="145">þþan sitteþ hi at hom. <HI REND="italic">and</HI> nabbeþ of corn a gripe</L>
+<L>As we scholle for oure t<HI REND="italic">ra</HI>uaille. in blisse ripe attan ende</L>
+<L>Whan ȝe scholle for ȝoure ioie nou. wepinge to helle wende</L>
+<L>Þþan we seide þe iustise þ<HI REND="italic">a</HI>t lou<HI REND="italic">er</HI>des scholde beo</L>
+<L>Beoþ villore þan ȝe wrecche cheitiues. þ<HI REND="italic">a</HI>t neu<HI REND="italic">er</HI>e nolleþ iþeo</L>
+<PB N="85" REF="15"/>
+<L N="150">Certes seide ualerian. þ<HI REND="italic">o</HI>u art lasse itolde.</L>
+<L>þþan a selẏ beggar aȝen god. ne beo þ<HI REND="italic">o</HI>u neu<HI REND="italic">er</HI>e so bolde</L>
+<L>Bel amẏ seide þe iustise. ẏ ne kepe nouȝt of þin ianglinge</L>
+<L>Ac doþ to oure godes sacrefize. oþ<HI REND="italic">er</HI> me schal ȝou to deþ bringe</L>
+<L>Certes seide þis god men. þou ne bringest hit neu<HI REND="italic">er</HI>e þ<HI REND="italic">er</HI> to</L>
+<L N="155">Anon þe iustise for wraþþe het. in to stronge p<HI REND="italic">r</HI>isoun hem do</L>
+<L>Maxime het þe gailler. þ<HI REND="italic">a</HI>t hem in warde nom</L>
+<L>So þ<HI REND="italic">a</HI>t he <HI REND="italic">and</HI> alle his men. þoru hem c<HI REND="italic">r</HI>isten bicom</L>
+<L>Seint Cecilie com bi þe p<HI REND="italic">r</HI>isoun. <HI REND="italic">and</HI> loude gan to grede</L>
+<L>What do ȝe ȝeo seide godes kniȝtes. cuþeþ ȝoure staleworþhede</L>
+<L N="160">Beoþ hardi <HI REND="italic">and</HI> fiȝteþ staleworþliche. to bileue þis derkhede</L>
+<L>þþ<HI REND="italic">a</HI>t ȝe were in þe weẏ ibrouȝt. þ<HI REND="italic">a</HI>t to cler liȝt wole ȝou lede</L>
+<L>Amorwe to þis maumetes. þis gode men weren ibrouȝt</L>
+<L>þþe iustise hem het don sacrefize. ac þo hi nolde nouȝt</L>
+<L>He het her heuedes to smiten of; <HI REND="italic">and</HI> Maxime þo iseiȝ</L>
+<L N="165">Whar angles nom her soulen boþe. <HI REND="italic">and</HI> bere to heuene an heiȝ</L>
+<L>Maxime wende to þe iustise forþ; c<HI REND="italic">r</HI>isten icham he sede</L>
+<L>Ich seiȝe þis tweie godmen soules; angles to heuene lede</L>
+<L>þþe iustise him let nime anon. <HI REND="italic">and</HI> naked he let him bete</L>
+<L>Wiþ scourges stronge. faste ibounde. forte he þ<HI REND="italic">a</HI>t lif gan lete</L>
+<L N="170">þþe bodi hi caste wiþoute þe toun. <HI REND="italic">and</HI> þo gan Cecilie forþ gon</L>
+<L>þþis þreo swete martires, ȝeo burede hire sulf anon</L>
+<L>Son ȝeo was inome. <HI REND="italic">and</HI> iladde. to fore þe iustise þo</L>
+<L>What he seide hou goþ þis. beoþ þ<HI REND="italic">er</HI> ȝut schrewen mo</L>
+<L>Artou he seide valerianes wif; bi þe trewþe ic<HI REND="italic">h</HI> owe Mahoun</L>
+<PB N="87" REF="17"/>
+<L N="175">Bote þ<HI REND="italic">o</HI>u oþ<HI REND="italic">er</HI> do. þin white hew. worþ son ibrouȝt adoun</L>
+<L>Of what kinne he seide artou icome; þ<HI REND="italic">a</HI>t þus folliche þe wolde lere</L>
+<L>Of noblere men ȝeo seide icham icome. þan þ<HI REND="italic">o</HI>u eu<HI REND="italic">er</HI>e were</L>
+<L>In whuche man<HI REND="italic">er</HI>e lif seide þe iustise. þenkestou forto liue</L>
+<L>þþ<HI REND="italic">o</HI>u askest ȝeo seide as a fole. <HI REND="italic">and</HI> soche answere me schal þe ȝeue.</L>
+<L N="180">For al þin power þ<HI REND="italic">o</HI>u schalt iseo. bi þ<HI REND="italic">a</HI>t þ<HI REND="italic">o</HI>u wost þen ende</L>
+<L>þþ<HI REND="italic">a</HI>t þou ne schalt f<HI REND="italic">ra</HI>m mi lord c<HI REND="italic">r</HI>ist. enes min hert wende <MILESTONE N="158." UNIT="f."/></L>
+<L>Hou bicomeþ hit þe. þe iustise seide; to beo so hardi her<NOTE PLACE="marg">("De S<HI REND="italic">an</HI>c<HI REND="italic">t</HI>a Cecilia.")</NOTE></L>
+<L>To clupe me fole þ<HI REND="italic">a</HI>t am þi maist<HI REND="italic">er.</HI> ne seostou mi power</L>
+<L>þþin power wrecche þis maide seide. worþ son ibrouȝte bi hinde</L>
+<L N="185">For hit nis bote as a bladdore. iblowe folle of winde</L>
+<L>þþ<HI REND="italic">a</HI>t be he ipriked wiþ a lutel p<HI REND="italic">r</HI>icke. a weẏ he schrinkeþ al</L>
+<L>As god wiþ a lutel sikenesse. þin wrecche caroẏn schal</L>
+<L>þþin power þ<HI REND="italic">a</HI>t þou ȝelpest of. þan worþ wel lute</L>
+<L>Hou geþ þis þe iustise seide. f<HI REND="italic">ra</HI>m whannan comeþ þin p<HI REND="italic">r</HI>ute</L>
+<L N="190">Ne mai ic<HI REND="italic">h</HI> þe ȝeue deþ <HI REND="italic">and</HI> lif. ne seostou wiþ þin eẏe</L>
+<L>Certes sire þis maide seide. þ<HI REND="italic">er</HI> of þou luxt wel heẏe</L>
+<L>A wrecche caroẏn þ<HI REND="italic">o</HI>u miȝte ȝeue; deþ þ<HI REND="italic">a</HI>t schort is</L>
+<L>Ac of liue þ<HI REND="italic">o</HI>u miȝte noþinge ȝeue; þi sulf nouȝt iwis</L>
+<L>Whan þ<HI REND="italic">o</HI>u miȝte ȝeue deþ <HI REND="italic">and</HI> no lif; me þencheþ bi pure riȝte.</L>
+<L N="195">þþ<HI REND="italic">a</HI>t þou deþes sergaunt art; for of lif nastou no miȝte.</L>
+<L>And whan þ<HI REND="italic">o</HI>u deþes seriaunt art; deþ þin lord is</L>
+<L>And in deþ wiþouten ende. þ<HI REND="italic">o</HI>u wolt beon iwis</L>
+<PB N="89" REF="19"/>
+<L>Dame seide þe iustise. of þin gidihede kepe ic<HI REND="italic">h</HI> nouȝt</L>
+<L>Do here sac<HI REND="italic">r</HI>ifize to oure godes. oþ<HI REND="italic">er</HI> þou worþest to deþ ibrouȝt</L>
+<L N="200">Seistou þ<HI REND="italic">a</HI>t ich gidie am. þis holi maide seide</L>
+<L>Ac þou art gidie <HI REND="italic">and</HI> ek blinde. <HI REND="italic">and</HI> þ<HI REND="italic">a</HI>t isene is on þin rede.</L>
+<L>Scholde ic<HI REND="italic">h</HI> honouri þin godes; þ<HI REND="italic">a</HI>t beoþ of ston <HI REND="italic">and</HI> treo</L>
+<L>þþ<HI REND="italic">a</HI>t noþinge worþi her power nis. ȝif þou miȝte iseo</L>
+<L>Ȝif þ<HI REND="italic">o</HI>u seost <HI REND="italic">and</HI> ileouest hit nouȝt. gidie þ<HI REND="italic">o</HI>u art iwis</L>
+<L N="205">Bote þ<HI REND="italic">o</HI>u be blinde iseo þou miȝte. þ<HI REND="italic">a</HI>t þis þinge soþe is</L>
+<L>For gidie he is þ<HI REND="italic">a</HI>t nele ileoue. þ<HI REND="italic">a</HI>t iseoþ wiþ his eẏe</L>
+<L>And as gidie man <HI REND="italic">and</HI> blinde. þ<HI REND="italic">o</HI>u schalt in helle deẏe</L>
+<L>þþis iustise was for wraþþe wod. he het þis maide take</L>
+<L>And led hire into an oute hous; <HI REND="italic">and</HI> grete fure þ<HI REND="italic">er</HI>inne make</L>
+<L N="210">And sette þ<HI REND="italic">er</HI> on a led ful of wat<HI REND="italic">er</HI>e. <HI REND="italic">and</HI> al amidde hire caste</L>
+<L>And seþe hire while þ<HI REND="italic">er</HI> wolde alime. ihol of hire ilaste</L>
+<L>þþo þis iuggement was iȝeue. <HI REND="italic">and</HI> me hire forþ ladde</L>
+<L>Men <HI REND="italic">and</HI> wimmen þ<HI REND="italic">a</HI>t hire seẏe. loude hi wope <HI REND="italic">and</HI> gradde</L>
+<L>Alas hi seide of þis ȝonge þinge <HI REND="italic">and</HI> þis faire creature</L>
+<L N="215">þþ<HI REND="italic">a</HI>t schal lese hire swete lif. <HI REND="italic">and</HI> deẏe þoruȝ þe fure</L>
+<L>Beoþ stille seide þis hol<HI REND="italic">i</HI> maide. for me ne wepe ȝe nouȝt</L>
+<L>Min ȝonge lif schal ic<HI REND="italic">h</HI> nouȝt lese. ac to liue ic<HI REND="italic">h</HI> worþe ibrouȝt</L>
+<L>In þe seþinge wat<HI REND="italic">er</HI>e ȝeo was icaste. <HI REND="italic">and</HI> þ<HI REND="italic">er</HI>inne al niȝt ȝeo seþ</L>
+<L>þþe lengore þ<HI REND="italic">a</HI>t ȝeo þ<HI REND="italic">er</HI>inne was. þe ferþ<HI REND="italic">er</HI> ȝeo was þen deþ.</L>
+<L N="220">Wiþ þe walmes ȝeo sate <HI REND="italic">and</HI> pleide. <HI REND="italic">and</HI> prechede godes g<HI REND="italic">ra</HI>ce <MILESTONE N="158 b" UNIT="f."/></L>
+<L>þþ<HI REND="italic">a</HI>t mo þan foure hondred men þ<HI REND="italic">er</HI> bicom. c<HI REND="italic">r</HI>isten in þe place</L>
+<L>þþo þe iustise iseiȝ þ<HI REND="italic">a</HI>t he ne miȝte. in soche deþ quelle hire nouȝt</L>
+<L>He het þ<HI REND="italic">a</HI>t me scholde hire heued of smite. þ<HI REND="italic">a</HI>t ȝeo were to deþ ibroȝt</L>
+<L>þþe quellar smot wiþ al his maẏn. þreo siþe on þe swere</L>
+<PB N="91" REF="21"/>
+<L N="225">He ne miȝte for noþinge smiten hit of. ȝeo bouȝte þen deþ ful dere</L>
+<L>Non quellar moste bi þulk dai. smiten oftere þan þrie</L>
+<L>Half aslawe he bileuede hire so. a weẏward he gan hẏe</L>
+<L>Þþis holi wimmon wende aboute. hire heued half of ismite</L>
+<L>Wiþ hire honden ȝeo delede pore men. hire gode. þ<HI REND="italic">a</HI>t ȝeo miȝte of wite</L>
+<L N="230">Ȝeo p<HI REND="italic">re</HI>chede <HI REND="italic">and</HI> to oure lou<HI REND="italic">er</HI>d c<HI REND="italic">r</HI>ist. mani men ȝeo sende</L>
+<L>And alle to þe bischop seint Vrban. to baptisy ȝeo wende</L>
+<L>And bad þ<HI REND="italic">a</HI>t seint urban. hire hous þ<HI REND="italic">a</HI>t ȝeo wonede inne</L>
+<L>Halewy scholde in godes name. <HI REND="italic">and</HI> a churche þ<HI REND="italic">er</HI> biginne</L>
+<L>þþe þridde dai aft<HI REND="italic">er</HI> hire mart<HI REND="italic">er</HI>dom. þis maide a doun lai</L>
+<L N="235">And p<HI REND="italic">re</HI>chede wel c<HI REND="italic">r</HI>isten men. <HI REND="italic">and</HI> bad hem habbe gode dai</L>
+<L>And seide þ<HI REND="italic">a</HI>t ȝeo hadde ido. alle þ<HI REND="italic">a</HI>t hire wille was to</L>
+<L>Wende ȝeo wolde to oure lou<HI REND="italic">er</HI>d c<HI REND="italic">r</HI>ist. <HI REND="italic">and</HI> hi scholden aft<HI REND="italic">er</HI> also</L>
+<L>Hit nas bote two hondred ȝer. <HI REND="italic">and</HI> þreo <HI REND="italic">and</HI> twenti also</L>
+<L>Aft<HI REND="italic">er</HI> þat oure lou<HI REND="italic">er</HI>d ibore was. þ<HI REND="italic">a</HI>t þis dede was ido</L>
+<L>Nou lou<HI REND="italic">er</HI>d for þulc mart<HI REND="italic">er</HI>dom. þ<HI REND="italic">a</HI>t seint Cecilie hadde</L>
+<L>Graunte ous to þulk ioie come. þ<HI REND="italic">er</HI> þ<HI REND="italic">a</HI>t angles hire to ladde.</L>
+<CLOSER>Amen.</CLOSER>
+</DIV2>
+
+<DIV2 LANG="enm" TYPE="version" N="Tiberius">
+<PB N="92" REF="22"/>
+<HEAD>MS. COTT. TIB. E VII. [<HI REND="italic">fol.</HI> 271 a-274 b.]</HEAD>
+<L>Jhesus Crist, ful of pete,</L>
+<L>To mankind es of mercy fre</L>
+<L>And schewes his pouste &amp; his might</L>
+<L>Of(t)-sithes here unto su<HI REND="italic">m</HI> men sight,</L>
+<L N="5">So þat we may his mightes ken,</L>
+<L>Als wele i<HI REND="italic">n</HI> wemen als i<HI REND="italic">n</HI> men,</L>
+<L>And all-þermost i<HI REND="italic">n</HI> maydens ȝing</L>
+<L>Þat will be boun to his biding.</L>
+<L>Þat may men by ensaumple se</L>
+<L N="10">Of saint Cecill, þe mayden fre,</L>
+<L>Þat born was of ful gentill blode</L>
+<L>And euer was haly &amp; milde of mode,<NOTE N="1" PLACE="marg">(MS. Harl. mede.)</NOTE></L>
+<L>And i<HI REND="italic">n</HI> hir hert ful wele scho knew</L>
+<L>All þe lare of oure lord Jhesu.</L>
+<L N="15">Vnto him was scho prayand eu<HI REND="italic">e</HI>r,</L>
+<L>Night and day, and sesid neuer.</L>
+<L>Of pape Urban scho was baptist</L>
+<L>And trewly trowed i<HI REND="italic">n</HI> Jh<HI REND="italic">es</HI>u Crist.</L>
+<L>With hir frendes scho was ful dere</L>
+<L N="20">And with all oþer folk in-fere,</L>
+<L>Bycaus scho was both fayre &amp; gude</L>
+<L>And untill all folk milde of mode.</L>
+<L>Hir frendes maried hir till a man</L>
+<L>Þat named was Valirian;</L>
+<L N="25">Ȝo<HI REND="italic">n</HI>g he was and faire of skin</L>
+<L>And komen of ful nobill kyn,</L>
+<L>Bot hathin he was &amp; unbaptist</L>
+<L>And knew no-thing þe law of Crist.</L>
+<L>Cisill durst none oþer do</L>
+<L N="30">Bot als hir frendes tald hir to.</L>
+<L>Þe day was sett: þai suld be wed.</L>
+<L>In clathes of (<HI REND="italic">g</HI>)old<NOTE N="1" PLACE="marg">(MS. cold.)</NOTE> þai both war cled;</L>
+<L>Bot Cicill had þar-of no pride—</L>
+<L>Ful hard clething was next hir hid;</L>
+<L N="35">Outward scho was richely arrayd,</L>
+<L>So alls hir frendes had puruayd.</L>
+<L>Þus on þis wise when þai war wed,</L>
+<L>Ful fele folk þaire fre<HI REND="italic">n</HI>des fed.</L>
+<L>When þe bridal was broght till ende,</L>
+<L N="40">Þat ilka man þaire wai gan wende,</L>
+<L>Cicill es þan to chamber went,</L>
+<L>Calland to Crist with gude entent.</L>
+<L>Þai herd grete noyis, þat war hir nere,</L>
+<L>Of angels sang and organs clere;</L>
+<L N="45">Scho made hir melody omang</L>
+<L>And al þus said scho i<HI REND="italic">n</HI> hir sang:</L>
+<Q><P>Fiat cor meum et corpus meum im∣maculatum, ut non confundar:</P></Q>
+<L>Þat es on þis maner to mene:</L>
+<L>"Lord, þou mak my hert all clene</L>
+<L>And saue my body unfiled within,</L>
+<L N="50">So þat I be noght schent with syn!"</L>
+<L>When scho had tald all hir talent</L>
+<L>Þus unto god with gude entent,</L>
+<L>With hir husband scho went to bed,</L>
+<L>Als þe law wald, for scho was wed.</L>
+<L N="55">Bot i<HI REND="italic">n</HI> hert ful wele scho thoght</L>
+<L>To kepe hir clene, if þat scho moght.</L>
+<L>So by hir lord when scho was layd,</L>
+<L>Vntill him al þus scho sayd,</L>
+<L>Scho sayd: "sir, if it war ȝowre will,</L>
+<PB N="93" REF="23"/>
+<L N="60">A cownsail haue I ȝow untill,</L>
+<L>Þat bus be said now, with ȝowre leue—</L>
+<L>And, gude syr, luke ȝe ȝow noght greue!</L>
+<L>Ane angell, syr, of heuyn ful bright</L>
+<L>Es my speciall both day and night,</L>
+<L N="65">A seruand unto god es he—</L>
+<L>I luf him wele, so dose he me.</L>
+<L>And if he wit with any gin</L>
+<L>Þat þow my body file with syn</L>
+<L>Or onclene lufing to me bede,</L>
+<L N="70">He will be wrath for swilk in dede</L>
+<L>And vengance will he on ȝow take,</L>
+<L>Þat ȝe sall all solace forsake</L>
+<L>And lose þe flowre of ȝowre 'ȝowth∣hede.</L>
+<L>Swilk grewance, sir, es gude to drede."</L>
+<L N="75">Valirian þan wex all wrathe,</L>
+<L>For drede he durst do hir no schathe;</L>
+<L>Of hir wordes he was noght payde</L>
+<L>And all þus unto hir he sayde:</L>
+<L>"Woman, if þou will þat I trow</L>
+<L N="80">Þir wordes þat þou sais me now,</L>
+<L>Bitwix vs twa here lat me se</L>
+<L>Him þat þou sais so lufes þe!</L>
+<L>So þat I may my-self assay</L>
+<L>Whether he [<HI REND="italic">be</HI>] angell uerray,<NOTE N="1" PLACE="marg">(H. he be.)</NOTE></L>
+<L N="85">Seruand unto god of heuyn—</L>
+<L>Þan sall I do þi counsaill euyn.</L>
+<L>And if þou luf ane oþer man,</L>
+<L>Ful sare þou sall þe bargan ban;</L>
+<L>Nowþer sall skape with-owten scath,</L>
+<L N="90">Bot I my-self sall sla ȝow bath,</L>
+<L>With mikell schame I sall ȝow schende."</L>
+<L>Þan answered scho with wordes hende:</L>
+<L>"Gude sir," scho said, "greue noght þe</L>
+<L>If þou may noght goddes angel se!</L>
+<L N="95">For here may no-man se angell,</L>
+<L>Bot if he trow, als I sall tell,</L>
+<L>In a god þat made all thing,</L>
+<L>Þat was with-outen bygining</L>
+<L>And es and euer-more sall be,</L>
+<L N="100">Mast of might and of mercy fre,</L>
+<L>And als i<HI REND="italic">n</HI> his sun Jh<HI REND="italic">es</HI>u Criste.</L>
+<L>If þou will trow &amp; be baptiste,</L>
+<L>Þan say I, syr, þat þou sall se,</L>
+<L>Þe angell—þat I tell to þe.</L>
+<L N="105">And, sir, if þou will þis ass[<HI REND="italic">a</HI>]y,<NOTE N="1" PLACE="marg">(H. assy.)</NOTE></L>
+<L>Till bisschop Urban tak þi way</L>
+<L>And tell him all þir wordes balde,</L>
+<L>Right als I haue to þe talde;</L>
+<L>And tell him all þi life till end,</L>
+<L N="110">So þat he may þi mis amend!</L>
+<L>Þan sall he, when þi trowth es trew,</L>
+<L>Cleth þe all i<HI REND="italic">n</HI> clething new:</L>
+<L>Whitte clathes and clene sal he gif þe.</L>
+<L>Þan sall þou in my chamber se</L>
+<L N="115">Þe bright angell of god of heuyn</L>
+<L>Þat lufes me, als I gan þe neuyn,</L>
+<L>And of him þan saltou haue</L>
+<L>What thing so þou will efter craue."</L>
+<PB N="94" REF="24"/>
+<L>Þan thurgh grace of þe haly gaste</L>
+<L N="120">Vp he rase and went in haste</L>
+<L>Vntill þe gude bisschop Urban,</L>
+<L>And halely talde he to him þan,</L>
+<L>With him and his wife how it ferd.</L>
+<L>And when Urban his tale had herd,</L>
+<L N="125">He heuyd<NOTE N="1" PLACE="marg">(H. heuyn.)</NOTE> his handes to heuy<HI REND="italic">n</HI> on hight</L>
+<L>And said þus to god moste of might:</L>
+<L>"Lord Jh<HI REND="italic">es</HI>u Criste, loued mot þou be</L>
+<L>Þat sawes þe sede of chastite</L>
+<L>And gifes unto men cha[<HI REND="italic">s</HI>]te cown∣saylle</L>
+<L N="130">Þat to þaire sawl m[<HI REND="italic">a</HI>]y mekill availe!</L>
+<L>Þou tak þe fruit now als þine awin</L>
+<L>Of þe sede þou has in Cicill sawn—</L>
+<L>For it waxes and multiplise,</L>
+<L>Als men may se on þis wise.</L>
+<L N="135">A spows scho toke, with hir to dwell,</L>
+<L>þat als a lion was fers and fell</L>
+<L>And rebell both by night and day</L>
+<L>Ogains þe lessons of þi lay:</L>
+<L>Now meke to þe has scho made him</L>
+<L N="140">Als a lamb, i<HI REND="italic">n</HI> sawl and lym—</L>
+<L>For war he noght unto þe meke,<NOTE N="2" PLACE="marg">(H. moke.)</NOTE></L>
+<L>Saluyng of me wald he none seke.</L>
+<L>And, sen he has to saluyng soght,</L>
+<L>Lord, saue hi<HI REND="italic">m</HI> and forsake hi<HI REND="italic">m</HI> noght!"</L>
+<L N="145">Þis when he had his praier end,</L>
+<L>Byfor þam sone þai saw descend</L>
+<L>Ane ald man and stode þam bitwene,</L>
+<L>All cled in lyn<HI REND="italic">n</HI>en cloth ful clene,</L>
+<L>And i<HI REND="italic">n</HI> his hand he had a boke</L>
+<L N="150">All of gold letters, on to luke,</L>
+<L>Valirian, [<HI REND="italic">when</HI>] he saw þis sight,</L>
+<L>Might noght luke ogains þ<HI REND="italic">at</HI> light:</L>
+<L>For drede he fell doun in þat stede</L>
+<L>And still he lay als he war ded.</L>
+<L N="155">Þe ald man þan his right ha<HI REND="italic">n</HI>d toke</L>
+<L>And lifted him up, and bad him loke</L>
+<L>What thing was wretyn i<HI REND="italic">n</HI> þat bill</L>
+<L>Þat he had þare broght him till.</L>
+<L>Valirian þan þe letter tase</L>
+<L N="160">And þus wretyn i<HI REND="italic">n</HI> þat place:</L>
+<L>Unus dominus. vna fides. vnum baptisma.</L>
+<L>Þat es on þis maner to mene:</L>
+<L>"A god es euer all-bydene,</L>
+<L>And als a faith all folk sall haue,</L>
+<L>And a baptym, all sawles to saue."</L>
+<L N="165">When Valirian had red þis bill,</L>
+<L>Þan said þe ald man þus him till:</L>
+<L>"Trowes þou þis als þou may rede,</L>
+<L>Or dwelles ȝit þi hert in drede?"</L>
+<L>Þan answerd<NOTE N="1" PLACE="marg">(H. answer.)</NOTE> þus Valirian:</L>
+<L N="170">"What thingh might be till erthli man—</L>
+<L>To rede or els with mowth to neuyn—</L>
+<L>More forto trow vnder þe heuyn?</L>
+<L>In my wit I trow ful wele</L>
+<L>Þat here es writen euer-ilkadele."</L>
+<PB N="95" REF="25"/>
+<L N="175">Whils Valirian þir wordes gan say,</L>
+<L>Þe ald man was sone o way—</L>
+<L>And how he went, no-thing þai wist.</L>
+<L>Þan þe bisschop Valirian baptist</L>
+<L>&amp; bad him trow with conciens clene</L>
+<L N="180">Als he þare had herd and sene.</L>
+<L>Valirian granted<NOTE N="1" PLACE="marg">(H. grantes.)</NOTE> with gude will <MILESTONE N="192." UNIT="fol."/></L>
+<L>All his bidi<HI REND="italic">n</HI>ges to fulfill.</L>
+<L>Þan hame ogain he bad him ga</L>
+<L>Vnto Cicill, þat he come fra,</L>
+<L N="185">And conf<HI REND="italic">o</HI>rt<NOTE N="2" PLACE="marg">(H. confert.)</NOTE> hir with all his mayne.</L>
+<L>Þus to his wife he went ogayne.</L>
+<L>To Cisill chamber sone he went,</L>
+<L>To thank hir þat hi<HI REND="italic">m</HI> so had sent</L>
+<L>To get saluing of all his sin</L>
+<L N="190">And gude lifing so to bygyn.</L>
+<L>Kneleand in praiers he hir fand,</L>
+<L>And sone bifor hir saw he stand</L>
+<L>Godes angel, schineand so bright,</L>
+<L>Þat all þe hows lemid of light;</L>
+<L N="195">Twa corons i<HI REND="italic">n</HI> his hand he broght—</L>
+<L>So worthi neuer i<HI REND="italic">n</HI> werld war wroght:</L>
+<L>Vnto Ciscill he toke þe tane,</L>
+<L>Þat oþer unto Valariane,</L>
+<L>Opon þaire heuides he set þam rathe,</L>
+<L N="200">And all þus said he to þam bathe:</L>
+<L>"Kepes þir corons ȝow bitwene</L>
+<L>With chast bodys and hertis clene!</L>
+<L>Fro paradis I haue þam broght—</L>
+<L>For i<HI REND="italic">n</HI> þat ilk place war þai wroght;</L>
+<L N="205">To ȝow mi lord has þam puruayd."</L>
+<L>Þan to Ualirian þus he said:</L>
+<L>"For þat þow wald assentand be</L>
+<L>Vnto counsail of chastite,</L>
+<L>Mi lord Jh<HI REND="italic">es</HI>u, of mercy fre,</L>
+<L N="210">Sendes þe þus bodword by me:</L>
+<L>What thing of hi<HI REND="italic">m</HI> so þou will craue,</L>
+<L>Ask: and sone þou sal it haue,</L>
+<L>What thing so euer þou will of mele—</L>
+<L>So þat it be to þi sawl hele."</L>
+<L N="215">Valirian þan made his asking</L>
+<L>And said: "I ȝern none oþer thing</L>
+<L>Ne no-thing es to me so swete</L>
+<L>Als es, my broþer bale to bete.</L>
+<L>Wald my lord, dere Jhesus,</L>
+<L N="220">Help my broþer Tyburcius</L>
+<L>I<HI REND="italic">n</HI> his law forto be fre</L>
+<L>And cristen man, als he mad me,</L>
+<L>Þat we might both p<HI REND="italic">ar</HI>fitely lif</L>
+<L>And both oure gastes unto hi<HI REND="italic">m</HI> gif!"</L>
+<L N="225">When þe angell þir wordes herd,</L>
+<L>To Valirian þus he answerd</L>
+<L>And said: "þi will it sall be done,</L>
+<L>For-whi þou askes in þi bone</L>
+<L>Þat mi lord likes forto haue</L>
+<L N="230">Better, þan þe likes it to craue.</L>
+<L>Þarfore, als my lord has won þe</L>
+<L>Thurgh Ciscill, his seruand fre,</L>
+<L>So thurgh þe now sall he win</L>
+<L>Þi broþer out of bandes of sin.</L>
+<L N="235">And þou and he sall samyn cu<HI REND="italic">m</HI></L>
+<L>Vntill þe mede of marterdome."</L>
+<L>When þis was said, he went up euyn</L>
+<L>Wit grete brightnes to blis of heuyn.</L>
+<L>And Valirian þan with his<NOTE N="1" PLACE="marg">(H. wisth.)</NOTE> wife</L>
+<L N="240">Ful halily ay led þaire life.</L>
+<L>And efter þis, right als god walde,</L>
+<L>Tyburcyus, þat I of talde,</L>
+<L>Þat broþer was to Valiriane,</L>
+<PB N="96" REF="26"/>
+<L>Opon a day come him-allane</L>
+<L N="245">To luke how þat his broþer ferd,</L>
+<L>For halines he of him herd.</L>
+<L>And als he entred i<HI REND="italic">n</HI> þaire hows,</L>
+<L>He kissed him, and als his spows,</L>
+<L>He kissed Ciscell and said þus:</L>
+<L N="250">"Gude sauore es here omanges vs—</L>
+<L>Of rose and lilyes me think it like—</L>
+<L>Sen I was born,<NOTE N="1" PLACE="marg">(H. lorn.)</NOTE> felde I neuer slike,</L>
+<L>So swete sauore feld neuer man."</L>
+<L>Þan spak his broþer Ualirian:</L>
+<L N="255">"Broþer, sen god vowches saue</L>
+<L>Þat þou þis swete sauore may haue,</L>
+<L>Hardily now hete I þe:</L>
+<L>If þow i<HI REND="italic">n</HI> trowth will stedfast<NOTE N="1" PLACE="marg">(H. stedifast.)</NOTE> be</L>
+<L>And luf oure lord Jh<HI REND="italic">esus</HI> allane,</L>
+<L N="260">Vnto whas lare we haue us tane:</L>
+<L>Þan sall tou se and here þe steuyn</L>
+<L>Of þe angell of god in heuyn</L>
+<L>And so be saued, for certayne."</L>
+<PB N="97" REF="27"/>
+<L>Tyburcius said to him ogayne:</L>
+<L N="265">"And I might godes angell se,—</L>
+<L>A verrayer takin might noght be:</L>
+<L>Þan will I turn vntill his lay."</L>
+<L>When Ciscell herd hi<HI REND="italic">m</HI> sogat say,</L>
+<L>Down scho fell and kissed his fete,</L>
+<L N="270">And þan scho said þir wordes swete:</L>
+<L>"Now will I grante, whore so I we<HI REND="italic">n</HI>de,</L>
+<L>Þou es my kosyn &amp; my dere frende.</L>
+<L>For als þe luf of Jh<HI REND="italic">es</HI>u fre</L>
+<L>Has made þi broþer assent to me,</L>
+<L N="275">So sall he turn þe forto take</L>
+<L>His might &amp; maumetry forsake.</L>
+<L>And, sir, sen þou es redy now</L>
+<L>To tak his trowth &amp; trewly trow,</L>
+<L>With þi broþer saltou ga</L>
+<L N="280">Vntill þe bisschop þat we come fra.</L>
+<L>And be bowsom what he will bid."</L>
+<L>Als scho has demid right so þai did.</L>
+<L>Of þe bisschop was he baptist þan</L>
+<L>And bycome a ful haly man.</L>
+<L N="285">So þat god gaf hi<HI REND="italic">m</HI> slike grace,</L>
+<L>Þat he<NOTE N="1" PLACE="marg">(H. be.)</NOTE> might see i<HI REND="italic">n</HI> ilk a place</L>
+<L>Angels of god ay at his will</L>
+<L>And all his likeing<NOTE N="2" PLACE="marg">(H. liking.)</NOTE> tell þam till,</L>
+<L>And of þam might he ask and haue</L>
+<L N="290">What thing so he wald efter craue.</L>
+<L>Þus þir breþer bot[<HI REND="italic">h</HI>]<NOTE N="3" PLACE="marg">(H. bot.)</NOTE> i<HI REND="italic">n</HI>-fere</L>
+<L>And Ciscill, þat was to þam dere,</L>
+<L>Lifed i<HI REND="italic">n</HI> luf and charite</L>
+<L>And honored god in all degre.—</L>
+<L>Passio sanctorum Tyburcii et Vale∣riani.</L>
+<L N="295">Tiburcius and Valiriane,</L>
+<L>Fro-time þat þai had baptime tane,</L>
+<L>To serue god ay war þai boune,</L>
+<L>And fast þai p<HI REND="italic">re</HI>chid in feld &amp; toun</L>
+<L>Ogains þaire mawmettes more &amp; min</L>
+<L N="300">Þat þai bifore affied þam in.</L>
+<L>To tell þaire life, it war ful lang,</L>
+<L>Or meruayles þ<HI REND="italic">at</HI> war þam omang;</L>
+<L>Bot i<HI REND="italic">n</HI> þis tretice will I tell</L>
+<L>What ferlis i<HI REND="italic">n</HI> þaire ded byfell</L>
+<L N="305">And what wonders god for þam wrogt</L>
+<L>Yn time þat þai to ded war broght.</L>
+<L>Þare wond a prince þare i<HI REND="italic">n</HI> þat land</L>
+<L>Whare þir two breþer war prechea<HI REND="italic">n</HI>d</L>
+<L>Þar lifed all on maumettry:</L>
+<L N="310">Vnto þam had he grete enuy</L>
+<L>And said, with dole þai suld be dede</L>
+<L>Bot if þai tite wald turn þaire rede.</L>
+<L>Sone he has efter þam sent.</L>
+<L>And when þai come i<HI REND="italic">n</HI> his present,</L>
+<L N="315">Þai prechid so of Cristes lay:</L>
+<L>Þe prince had no power to say</L>
+<L>Ne forto do na harm þam till,</L>
+<PB N="98" REF="28"/>
+<L>Bot sone he granted to wirk þaire will.</L>
+<L>To Cristes law so turned he;</L>
+<L N="320">So did all halely his menȝe,</L>
+<L>&amp; all þo men war turned ilkane</L>
+<L>Þat suld haue bene þe breþer bane.</L>
+<L>And sone when saint Ciscill herd tell</L>
+<L>Of all þis fare how it bifell,</L>
+<L N="325">Vnto þam ful sone scho soght;</L>
+<PB N="99" REF="29"/>
+<L>And prestes þedir with hir scho broght,</L>
+<L>Þat baptist þam biliue ilkane,</L>
+<L>To lif i<HI REND="italic">n</HI> Cristes law allane.</L>
+<L>When þis ilk pri[<HI REND="italic">n</HI>]ce<NOTE N="1" PLACE="marg">(H. price.)</NOTE> Maximius</L>
+<L N="330">And his menȝe war baptist þus</L>
+<L>Saint Ciscill confort þam ful wele</L>
+<L>And bad þam forsake ilka dele</L>
+<L>Þaire mawmetri þat þai on trow.</L>
+<L>And unto Jh<HI REND="italic">es</HI>u baynly bow;</L>
+<L N="335">Scho bad þam leue þe werkes of night</L>
+<L>And cleth þam i<HI REND="italic">n</HI> armurs of light.</L>
+<L>Scho said: "ȝowre cours ȝe haue ful∣fild</L>
+<L>Ful worthily, als Jhesus wild<NOTE N="1" PLACE="marg">(H. willd.)</NOTE>;</L>
+<L>A grete bataile ouer-cumen haue ȝe:</L>
+<L N="340">And þarfore sall ȝe corond be</L>
+<L>With corons þat Criste sall ȝow gif,</L>
+<L>In lastand blis ay forto lif.</L>
+<L>Þarfore bese noght abaist, to take</L>
+<L>Marterdom for Cristes sake!"</L>
+<L N="345">Þai granted all to do his will</L>
+<L>And his biding forto fulfill;</L>
+<L>Almachius þan, þe cursed king,</L>
+<L>When he herd of þis tiþing,</L>
+<L>He cu<HI REND="italic">m</HI>and þat þai suld ilkane</L>
+<L N="350">Mak sacrafise or els be slane.</L>
+<L>And for þai wald noght wirk his will,</L>
+<L>Ful hard paines he put þam till,</L>
+<L>And at þe last with-outen lite</L>
+<L>All þaire heuiddes<NOTE N="1" PLACE="marg">(H. heuides.)</NOTE> he gert of smite.</L>
+<L N="355">And when þaire bodis so war schent,</L>
+<L>Þaire sawles sone to heuy<HI REND="italic">n</HI> went,</L>
+<L>Þat men might se with-owten mis</L>
+<L>How angels led þam unto blis.</L>
+<L>And mani folk for þat ilk sight</L>
+<L N="360">Turned to Crist and trowed right.</L>
+<L>Maximius, þat gude conuers,</L>
+<L>Omang þam gan þir wordes reherce,</L>
+<L>He said: "I se þaire sawles ilkane</L>
+<L>With angels vnto heuyn be tane</L>
+<L N="365">I<HI REND="italic">n</HI> þaire wenges, þat þai noght fall,</L>
+<L>And like clene uirgins er þai all."</L>
+<L>Almachius þe king herd tell</L>
+<L>Of all þis fare how it bifell,</L>
+<L>And how Maximius had said,</L>
+<L N="370">And how his folk war all affraid:</L>
+<L>He cu<HI REND="italic">m</HI>and smertly on þe morn <MILESTONE N="193." UNIT="fol."/></L>
+<L>To bring Maximius hi<HI REND="italic">m</HI> byforn,</L>
+<L>And grefe turmentes to hi<HI REND="italic">m</HI> he wroght,</L>
+<L>Vntill he vnto ded was broght.</L>
+<L N="375">His saul was hastly hent to heuyn,</L>
+<L>With more solace þan men may neuy<HI REND="italic">n.</HI></L>
+<L>Almachius, þat wikked king,</L>
+<L>When he had done þus al þis thing</L>
+<L>And saw þus þat Ualiraine</L>
+<PB N="100" REF="30"/>
+<L N="380">And all þir oþer saintes war slane,</L>
+<L>Þarfore he thinkes i<HI REND="italic">n</HI> his mode</L>
+<L>At geder to him al þaire gude.</L>
+<L>To Valiriane hows first þai haste,</L>
+<L>For he was man of reches maste.</L>
+<L N="385">Þai come unto Ciscill, his wife,</L>
+<L>Stoutly and with ful grete strife</L>
+<L>And bad hir lay furth þe reches</L>
+<L>Þat war hir maysters, more &amp; les,</L>
+<L>"For als traitur to dede he ȝode</L>
+<L N="390">And þe<NOTE N="1" PLACE="marg">(H. omits.)</NOTE> king sall haue all his gude."</L>
+<L>Saint Ciscil gan grete mornig mak;</L>
+<L>And so unto þa men scho spak</L>
+<L>Þat all þai turned þam unto Crist.</L>
+<PB N="101" REF="31"/>
+<L>And i<HI REND="italic">n</HI> his name þai war baptist,</L>
+<L N="395">þai forsoke all þaire maumetry</L>
+<L>And trowed i<HI REND="italic">n</HI> Jh<HI REND="italic">es</HI>u almighty;</L>
+<L>Hi<HI REND="italic">m</HI> þai wirschipt als þe wise</L>
+<L>And lifed and died i<HI REND="italic">n</HI> his seruise.</L>
+<L>Bot when Almachius herd of <HI REND="italic">yit</HI><NOTE N="1" PLACE="marg">(H. þit?)</NOTE>,</L>
+<L N="400">Wode he was, out of his wit.</L>
+<L>He bad þat Ciscill suld be soght</L>
+<L>And hastili<NOTE N="2" PLACE="marg">(H. hastily.)</NOTE> bifor him broght;</L>
+<L>And al hir howsing cumand he</L>
+<L>Þat it with fire all brint suld be.</L>
+<L N="405">Bot first he frained with eger mode,</L>
+<L>Whare was all Valirian gude.</L>
+<L>And scho said þat scho gan it take</L>
+<L>Vnto pou<HI REND="italic">er</HI> men for goddes sake.</L>
+<L>At þa wordes was he full tene</L>
+<L N="410">And bad all suld be brint bidene</L>
+<L>Hows and catell, more and min,</L>
+<L>And als hir-self he bad þam brin.</L>
+<L>And sone, to fulfill his desire,</L>
+<L>Al hir place þai set i<HI REND="italic">n</HI> fire;</L>
+<L N="415">Hir-self i<HI REND="italic">n</HI> mides gert þai stand,</L>
+<L>And all obout þe fire brinand.</L>
+<L>Bot all þat [<HI REND="italic">t</HI>]here<NOTE N="3" PLACE="marg">(H. here.)</NOTE> to hir was sene</L>
+<L>Als scho i<HI REND="italic">n</HI> ane erber had bene</L>
+<L>Clene and faire with flores bright.</L>
+<L N="420">So stode scho a day and night,</L>
+<L>Prayand to god wit hert ful hale.</L>
+<L>And when Almachius herd þis tale,</L>
+<L>He biddes þam þat broght þe tiþandes</L>
+<L>Smite hir hede of, þar scho standes.</L>
+<L N="425">His slaghter-man to Ciscill went</L>
+<L>Whare scho stode i<HI REND="italic">n</HI> gude entent;</L>
+<L>To god hir prayers gan scho make</L>
+<L>And bed hir nec furth till þe strake.</L>
+<L>Þe custu<HI REND="italic">m</HI> was in þat cuntre</L>
+<L N="430">Þat none suld strike bot strakes thre.</L>
+<L>And when he had thre strakes hit,</L>
+<L>Ȝit was hir hals noght sunder kit,</L>
+<L>Hale war su<HI REND="italic">m</HI><NOTE N="1" PLACE="marg">(H. sun.)</NOTE> of sins and uaines.</L>
+<L>And so he left hir i<HI REND="italic">n</HI> grete paines—</L>
+<L N="435">For þe lau was, als I said are,</L>
+<L>He suld gif thre strakes &amp; nomare.</L>
+<L>So opon hir knese scho sat,</L>
+<L>Lifand thre daies efter þat.</L>
+<L>And maidens þat had with hir bene</L>
+<L N="440">Come unto hir albidene,</L>
+<L>And al þa daise scho sesed noght</L>
+<L>To confurt þam so als scho moght.</L>
+<L>Efter þe pape Urban scho sent</L>
+<L>And tald unto him hir entent:</L>
+<L N="445">"Sir, scho said, god has gifen me</L>
+<L>In þis liue þir daies thre,</L>
+<L>Als I him praied, and by þis scill:</L>
+<L>Þat I might tell to þe my will.</L>
+<L>All my maidens to þe I gif,</L>
+<L N="450">To ȝeme þam wele, ay whils þ[<HI REND="italic">a</HI>]i<NOTE N="2" PLACE="marg">(H. þi.)</NOTE> lif,</L>
+<L>And teche þam wiseli forto wirk;</L>
+<PB N="102" REF="32"/>
+<L>And in mi name þou mak a kirk</L>
+<L>Þat mi maidens may dwell i<HI REND="italic">n</HI> euyn<NOTE N="1" PLACE="marg">(H. eyuyn.)</NOTE></L>
+<L>And serue god with will and steuyn."</L>
+<L N="455">When þis was said, ful sone i<HI REND="italic">n</HI> haste</L>
+<L>Vnto god scho gaf þe gaste.</L>
+<L>And þe bischop, when scho was dede,</L>
+<L>Beried hir in þat same stede</L>
+<L>And made a kirk of ful grete spens</L>
+<L N="460">In wirschip and in grete reuerence</L>
+<L>Of Jh<HI REND="italic">es</HI>u Crist, oure sawiowre<NOTE N="1" PLACE="marg">(H. sawiowire)</NOTE></L>
+<L>Vnto wham be euer honore!</L>
+<CLOSER>Amen. Amen. Amen.</CLOSER>
+</DIV2>
+
+<DIV2 LANG="enm" TYPE="version" N="Cmb">
+<PB N="92" REF="22"/>
+<HEAD>MS. Camb. Univ. Lib. Gg. II. 6. [<HI REND="italic">fol.</HI> 364 a-358 b.]</HEAD>
+<L>To say sume thing<HI REND="italic">e</HI> is myne entent</L>
+<L>Of sanct Cecile, Þe far<HI REND="italic">e</HI> &amp; gent,</L>
+<L>Þat cu<HI REND="italic">m</HI>yne wes of Þe best kine</L>
+<L>Þat Rome Þane ner<HI REND="italic">e</HI> wes withine;</L>
+<L N="5">&amp; scho folouyt wele Þar<HI REND="italic">e</HI> trace,</L>
+<L>For bath wyse &amp; u<HI REND="italic">er</HI>tuse scho wes,</L>
+<L>Far<HI REND="italic">e</HI> of fasone for to se,</L>
+<L>Enhornyt of al bewte;</L>
+<L>&amp; fost<HI REND="italic">er</HI>it ves in C<HI REND="italic">ri</HI>stis fay,</L>
+<L N="10">&amp; Crist<HI REND="italic">is</HI> ewa<HI REND="italic">n</HI>gele scho had ay</L>
+<L>Hyd in hir<HI REND="italic">e</HI> brest &amp; Þar<HI REND="italic">e</HI>-on<HI REND="italic">e</HI> tho<HI REND="italic">ch</HI>t,</L>
+<L>Na ny<HI REND="italic">ch</HI>t na day cesit no<HI REND="italic">ch</HI>t<NOTE N="1" PLACE="marg">(Here a couplet is missing? H.)</NOTE>.</L>
+<L>Mekly to god, Þat kepe vald he</L>
+<L>Clenly hir virginite.</L>
+<L N="15">&amp; scho eftir Þe custume Þane</L>
+<L>Ves handfast v<HI REND="italic">ith</HI> a ȝu<HI REND="italic">n</HI>gmane, <MILESTONE N="354 b." UNIT="f."/></L>
+<L>&amp; callit ves Valaryane,</L>
+<L>Þat in maryag<HI REND="italic">e</HI> vald hir<HI REND="italic">e</HI> haf ta<HI REND="italic">ne.</HI></L>
+<L>Þe day ves cu<HI REND="italic">m</HI>yne Þat Þai twa</L>
+<L N="20">Þat band of mariag<HI REND="italic">e</HI> suld ma;</L>
+<L>Next hir<HI REND="italic">e</HI> flesch, Þat wes far<HI REND="italic">e,</HI></L>
+<L>Scho had al tyme Þe harsk har<HI REND="italic">e</HI></L>
+<L>&amp; <HI REND="italic">ves</HI><NOTE N="1" PLACE="marg">(MS. wiÞ.)</NOTE> owt<HI REND="italic">e</HI>wart to Þe sicht</L>
+<L>Cled in gold schenand bryr<HI REND="italic">ch</HI>t.</L>
+<L N="25">&amp; quhene al mast mery</L>
+<L>Mad w<HI REND="italic">ith</HI> mouth &amp; me<HI REND="italic">n</HI>stra(l)sy,</L>
+<L>Þane wald scho in h<HI REND="italic">a</HI>rt<NOTE N="2" PLACE="marg">(MS. hirt.)</NOTE> god p<HI REND="italic">ra</HI>y</L>
+<L>Be hir ane &amp; til hyme say:</L>
+<L>"God, grant Þat my hart ma I</L>
+<L N="30">Vnue<HI REND="italic">m</HI>myt kepe &amp; my body,</L>
+<L>Sa Þat I thole na varldis scha<HI REND="italic">m</HI>e</L>
+<L>Bot ay be thankful to Þi name;"</L>
+<L>&amp; for Þa<HI REND="italic">t</HI><NOTE N="3" PLACE="marg">(MS. Þast.)</NOTE> fasting<HI REND="italic">e</HI> &amp; prayer<HI REND="italic">e</HI></L>
+<L>Scho mad to god tymis ser<HI REND="italic">e.</HI></L>
+<L N="35">Bot quhene Þa suld to bed ga</L>
+<L>&amp; nane wes Þar bot Þai twa,</L>
+<L>Scho tuk hyme by Þe hand in hy</L>
+<L>&amp; til hyme sad deuotely:</L>
+<L>"My maste swet &amp; l<HI REND="italic">o</HI>wit<NOTE N="4" PLACE="marg">(MS. cowit.)</NOTE> thing<HI REND="italic">e,</HI></L>
+<PB N="93" REF="23"/>
+<L N="40">I wald tel Þe a p<HI REND="italic">ri</HI>we thing<HI REND="italic">e</HI></L>
+<L>Sa Þat I my<HI REND="italic">ch</HI>t sekir<HI REND="italic">e</HI> be</L>
+<L>Þu suld neuir<HI REND="italic">e</HI> discou<HI REND="italic">e</HI>r me,</L>
+<L>For gud na Il na for mede."</L>
+<L>"Tel one Þarfor &amp; haf na dred!"</L>
+<L N="45">Scho sad: "goddis angel haf I,</L>
+<L>Þat kepis me ay Ithandly</L>
+<L>&amp; lufis me sa wele, Þat he</L>
+<L>Wil thole na warldly me<HI REND="italic">ne</HI> haf me;</L>
+<L>Þe quhilk gif he p<HI REND="italic">er</HI>sawe Þi wil</L>
+<L N="50">Þat Þu w<HI REND="italic">ith</HI> lust nicht me til,</L>
+<L>He sal Þe sla, or<HI REND="italic">e</HI> euir<HI REND="italic">e</HI> he fyne,</L>
+<L>&amp; Þu Þi far<HI REND="italic">e</HI> ȝuthed sal tyne;</L>
+<L>Bot he Þat be Þi wil ca<HI REND="italic">ne</HI> p<HI REND="italic">ro</HI>we</L>
+<L>Þat<NOTE N="1" PLACE="marg">(MS. Gyf.)</NOTE> Þu me lufit of clene lufe,</L>
+<L N="55">In gret daynte he sal haf Þe</L>
+<L>&amp; luf Þe als wele as me</L>
+<L>&amp; al his Joy (sal) saw Þe til."</L>
+<L>Valaryane Þa<HI REND="italic">ne,</HI> thru godis wil</L>
+<L>Chastyit, sad: "gif Þu wil I</L>
+<L N="60">Trow Þi wordis p<HI REND="italic">ar</HI>fytly,</L>
+<L>Schaw me Þe angel, Þat I may</L>
+<L>Se Þat Þi wordis ar<HI REND="italic">e</HI> verray:</L>
+<L>&amp; I sal do al Þi bydyng<HI REND="italic">e;</HI></L>
+<L>Bot gif I ma haf p<HI REND="italic">er</HI>sawynge <MILESTONE N="355 a." UNIT="f."/></L>
+<L N="65">Þat Þu luffis ony warldis ma<HI REND="italic">ne,</HI></L>
+<L>I sal sla Þe &amp; hyme ry<HI REND="italic">ch</HI>t Þane."</L>
+<L>Q<HI REND="italic">uod</HI> scho Þane: "gyf Þat Þu</L>
+<L>Wil p<HI REND="italic">ro</HI>we it suth I sa now,</L>
+<L>Þu sal trew in god hicht me,</L>
+<L N="70">&amp; in his name baptiste be:</L>
+<L>&amp; Þu sal se Þe suth ry<HI REND="italic">ch</HI>t Þane</L>
+<L>Þat he is angel &amp; na mane,</L>
+<L>Þarfor ga fra Þe cyte ewine</L>
+<L>Thre myle in name of god of hewine,</L>
+<L N="75">&amp; in a rew, callit "via apia",</L>
+<L>Syndry pour<HI REND="italic">e</HI> men<HI REND="italic">e</HI> Þu sal ourta,</L>
+<L>&amp; to Þame sal Þu sa but gyle</L>
+<L>Þ<HI REND="italic">at</HI> "me til ȝ<SUP>u</SUP> has send Cecile,</L>
+<L>To sanct <HI REND="italic">V</HI>rbane<NOTE N="1" PLACE="marg">(MS. barbane.)</NOTE> to kene me</L>
+<L N="80">To tel hyme hir<HI REND="italic">e</HI> p<HI REND="italic">ri</HI>wete."</L>
+<L>&amp; quhe<HI REND="italic">ne</HI> Þu fyndis hy<HI REND="italic">me,</HI> Þu ma</L>
+<L>Tel hyme Þir<HI REND="italic">e</HI> wordis Þat I say.</L>
+<L>&amp; quhen<HI REND="italic">e</HI> he has hofine Þe,</L>
+<L>Þane godis angel Þu sal se."</L>
+<PB N="94" REF="24"/>
+<L N="85">Valaryane Þan<HI REND="italic">e</HI> but abad</L>
+<L>Passit furth Þe gat scho hy<HI REND="italic">me</HI> bad,</L>
+<L>&amp; be Þe taknys, he had tane,</L>
+<L>Fand Þe bischope sanct Vrbane</L>
+<L>Lurkand, ymang<HI REND="italic">e</HI> pur<HI REND="italic">e</HI> me<HI REND="italic">ne</HI> mekly,</L>
+<L N="90">Quhar<HI REND="italic">e</HI> mony m<HI REND="italic">ar</HI>t<HI REND="italic">er</HI>is cane ly.</L>
+<L>&amp; quhene Þat he Þa<HI REND="italic">me</HI> tald had</L>
+<L>His erand as Cecile hy<HI REND="italic">me</HI> bad,</L>
+<L>Þe ald his handis but (ony) mar<HI REND="italic">e</HI></L>
+<L>Vphewit to Þe hewine ry<HI REND="italic">ch</HI>t Þar<HI REND="italic">e</HI></L>
+<L N="95">&amp; gretand sad: "lord Jh<HI REND="italic">es</HI>u,</L>
+<L>Þat chast consal wele chewis nov,</L>
+<L>Of Þat fede froit nov Þu tak</L>
+<L>Þat in Cecil Þu ca<HI REND="italic">ne</HI> mak!</L>
+<L>For Cecil as(a) besy be</L>
+<L N="100">Ententifly s<HI REND="italic">er</HI>uit has Þe;</L>
+<L>For hyme, Þat scho als fellone</L>
+<L>Til spouse (tuk) as a woud lyone,</L>
+<L>Mek as a lame scho has Þe send,</L>
+<L>Þi treucht til ek &amp; til amend."</L>
+<L N="105">&amp; as Þe bischope Þis &amp; mar<HI REND="italic">e</HI></L>
+<L>had sad, pane apperit par<HI REND="italic">e</HI></L>
+<L>A ȝung ma<HI REND="italic">ne,</HI> Þat na<HI REND="italic">ne</HI> cuth knaw,</L>
+<L>Cled in quhytar<HI REND="italic">e</HI> thing<HI REND="italic">e</HI> Þa<HI REND="italic">ne</HI> snaw,</L>
+<L>&amp; in his hand (he) bar<HI REND="italic">e</HI> a buke,</L>
+<L N="110">Þe quhilk ry<HI REND="italic">ch</HI>t far<HI REND="italic">e</HI> ves on<HI REND="italic">e</HI> to luke,</L>
+<L>V<HI REND="italic">ith</HI> goldine l<HI REND="italic">ett</HI>r<HI REND="italic">i</HI>s wrytine brad.</L>
+<L>Quhame quhene Valeryan<HI REND="italic">e</HI> sene had,</L>
+<L>He fel for rednes in Þa<HI REND="italic">t</HI><NOTE N="1" PLACE="marg">(MS. Þast.)</NOTE>sted <MILESTONE N="355 b." UNIT="f."/></L>
+<L>As a ma<HI REND="italic">ne</HI> Þat had bene ded.</L>
+<L N="115">Bot rath Þe ȝung ma<HI REND="italic">ne</HI> raisit hyme</L>
+<L>&amp; bad hyme rede Þe buk w<HI REND="italic">ith</HI>-ine.</L>
+<L>&amp; he red: &amp; fand (wrytin) Þare:</L>
+<L>"Þar is a god, forout mar<HI REND="italic">e,</HI></L>
+<L>&amp; bot a treucht, &amp; a baptyme,</L>
+<L N="120">Þat sal al leileme<HI REND="italic">ne</HI> saf fra pyne,</L>
+<L>A fadir, a makare of al,</L>
+<L>A-beoufe althing<HI REND="italic">e</HI> &amp; eu<HI REND="italic">ir</HI> be sal."</L>
+<L>&amp; as he had red Þis wryt,</L>
+<L>Þe bischope sais: "trewis Þu It</L>
+<L N="125">Or art Þu ȝet of dout</L>
+<L>Of It Þu come her<HI REND="italic">e</HI> about?"</L>
+<L>Valaryane Þane loud ca<HI REND="italic">ne</HI> cry</L>
+<L>&amp; sad: "na thing<HI REND="italic">e</HI> sa weile trev I</L>
+<L>Vndir hewine as I trew It</L>
+<L N="130">Þat I saw wrytine i<HI REND="italic">n</HI> ȝone wryt."</L>
+<PB N="95" REF="25"/>
+<L>Þe ȝu<HI REND="italic">n</HI>g ma<HI REND="italic">ne</HI> Þa<HI REND="italic">ne</HI> wanyst away.</L>
+<L>&amp; Valeryane but delay</L>
+<L>Of sanct<HI REND="italic">e</HI> Vrbane tuk baptyme,</L>
+<L>&amp; hame to Cecile went syne</L>
+<L N="135">&amp; fand hir<HI REND="italic">e</HI> one hir<HI REND="italic">e</HI> bed sta<HI REND="italic">n</HI>and,</L>
+<L>&amp; ane angel, Þat in his hand</L>
+<L>Had twa cronis mad wynly</L>
+<L>Of spanyst rose &amp; quhyt lely;</L>
+<L>Of Þame to Cecile he gef ane,</L>
+<L N="140">&amp; ane to Valaryane,</L>
+<L>&amp; sad: "Þir cronys I bro<HI REND="italic">ch</HI>t now</L>
+<L>Of p<HI REND="italic">ar</HI>adyse, to gif til ȝow;</L>
+<L>Þe quhilk<HI REND="italic">is</HI> gif ȝe kepe cle<HI REND="italic">n</HI>ly</L>
+<L>With hart wnue<HI REND="italic">m</HI>myt &amp; body,</L>
+<L N="145">Þai sal neu<HI REND="italic">ir</HI> falow, na tyne</L>
+<L>Þe odour Þat ȝe think sa fyne,</L>
+<L>Na ȝet na vthir<HI REND="italic">e</HI> sal Þame se</L>
+<L>Bot gif he kepe chastyte.</L>
+<L>&amp;, Valeryane, sene Þat Þu</L>
+<L N="150">Has trewit heilesu<HI REND="italic">me con</HI>sel now,</L>
+<L>Ask at me quhat-eu<HI REND="italic">ir</HI> Þu wil,</L>
+<L>&amp; I Þi ȝarnyng sal fulfil."</L>
+<L>Sad he: "gif sa Þat it sal be,</L>
+<L>Þar is na thing<HI REND="italic">e</HI> sa suet, think me,</L>
+<L N="155">As my nan<HI REND="italic">e</HI> brothir<HI REND="italic">e;</HI> Þar<HI REND="italic">e</HI>-for I</L>
+<L>Ask Þat he (als) knaw in hy</L>
+<L>Þe suthfastnes Þat nov I kene."</L>
+<L>Þe angel sad til hyme Þane:</L>
+<L>"For Þine askyne is rychtwyse <MILESTONE N="356 a." UNIT="f."/></L>
+<L N="160">&amp; to god plesand mony-vise,</L>
+<L>Þu &amp; Þi bruthire, bath</L>
+<L>Cronit to god, sal cume rath,</L>
+<L>Of m<HI REND="italic">ar</HI>t<HI REND="italic">ir</HI>dome Þe far<HI REND="italic">e</HI> crone</L>
+<L>To bruk in hewine at<NOTE N="1" PLACE="marg">(MS. as.)</NOTE>ȝour<HI REND="italic">e</HI> wardone."</L>
+<PB N="96" REF="26"/>
+<L N="165">Tyburcyane syne ent<HI REND="italic">er</HI>it Þar<HI REND="italic">e</HI></L>
+<L>Quhar Cecile &amp; his bruthir<HI REND="italic">e</HI> war<HI REND="italic">e,</HI></L>
+<L>&amp; feld Þe odour<HI REND="italic">e</HI> in til hy</L>
+<L>Of Þe rose &amp; Þe lely,</L>
+<L>&amp; sad: "bruthir, hou hapnis here</L>
+<L N="170">Þis swet sawour<HI REND="italic">e</HI> Þis ty<HI REND="italic">me</HI> of ȝere,</L>
+<L>Of Nouember in Þe moneth,</L>
+<L>Quhene flouris haldine ar vnd<HI REND="italic">ir</HI>neth?</L>
+<L>For betyr<HI REND="italic">e</HI> odir<HI REND="italic">e</HI> I cane neu<HI REND="italic">ir</HI> fele.</L>
+<L>Þare-for til ȝou twa I grant wele</L>
+<L N="175">Þat I ame chengit<NOTE N="1" PLACE="marg">(MS clengit.)</NOTE> sudendly."</L>
+<L>Valaryane sad: "na ferly;</L>
+<L>For far<HI REND="italic">e</HI> cronis &amp; fresch haf we,</L>
+<L>Þat Þine ene ȝet ma no<HI REND="italic">ch</HI>t se,</L>
+<L>Of rose &amp; lyle wynly mad,</L>
+<L N="180">Þat neu<HI REND="italic">ir</HI>-mar<HI REND="italic">e</HI> fal falou na fad.</L>
+<L>Bot as Þu nov be my prayer<HI REND="italic">e</HI></L>
+<L>Has feld wele Þis odor<HI REND="italic">e</HI> her<HI REND="italic">e,</HI></L>
+<L>Sa sal Þu, gif Þu trewis me,</L>
+<L>It Þat Þou felis clerly se."</L>
+<L N="185">Tyburciu<HI REND="italic">s</HI><NOTE N="2" PLACE="marg">(MS. tybur∣cium.)</NOTE> cane hyme ansuer<HI REND="italic">e:</HI></L>
+<L>"Gif Þis in slepe be at I her<HI REND="italic">e</HI></L>
+<L>Or it be in to suthfastnes</L>
+<L>Þou me tellis mar &amp; les?"</L>
+<L>Þane sad til hy<HI REND="italic">me</HI> Valaryane:</L>
+<L N="190">"Ve haf slep<HI REND="italic">i</HI>t al our ty<HI REND="italic">me</HI> gane,</L>
+<L>Bot in suthfastnes now we duel."</L>
+<L>Tyburcius sad: "Þu me tel</L>
+<L>Hou Þis ma be?" Þa<HI REND="italic">ne</HI> one-ane</L>
+<L>Til hyme sad Valaryane:</L>
+<L N="195">"Godis angele it tacht to me;</L>
+<L>Þe quhilk<HI REND="italic">is</HI> gif Þu ȝarnis to se,</L>
+<L>Tak baptyme &amp; renunce til al</L>
+<L>Fals ydolis Þat ȝe godis cal!"</L>
+<L>Þane Cecile prechit hy<HI REND="italic">me</HI> in hy</L>
+<L N="200">&amp; schewit it hyme al opynly</L>
+<L>Þat ydolis ma fele na thing<HI REND="italic">e</HI></L>
+<L>Bot are dume &amp; defe, but smelli<HI REND="italic">n</HI>g</L>
+<L>Na no<HI REND="italic">ch</HI>t ma grape na ȝet se,</L>
+<L>"Bot ar mad ne ma helpe Þe,</L>
+<L N="205">&amp; þu ma <HI REND="italic">br</HI>eke<NOTE N="3" PLACE="marg">(Metc., heke.)</NOTE> Þai<HI REND="italic">me</HI> as Þu wil;</L>
+<L>Quhy suld Þu Þa<HI REND="italic">ne</HI> gif suth pai<HI REND="italic">me</HI> til?"</L>
+<L>&amp; as fcho had hire s<HI REND="italic">er</HI>mone done, <MILESTONE N="356 b." UNIT="f."/></L>
+<L>Tyburcius sad til hire sone:</L>
+<L>"Quha trewis no<HI REND="italic">ch</HI>t Þis, mast &amp; leste,</L>
+<L N="210">In fawte of wit is bot a beste."</L>
+<L>Cecile Þane hyme in armys hynt</L>
+<L>&amp; kissit his briste, or scho stynt,</L>
+<L>&amp; sad til hi<HI REND="italic">m</HI><NOTE N="1" PLACE="marg">(MS. hir.)</NOTE>: "I grant þis day</L>
+<L>Þat þu art my mach verray;</L>
+<L N="215">For, richt as luf of god has mad</L>
+<L>Þi bruthir<HI REND="italic">e</HI> my husband, but bad,</L>
+<L>Richt sa sal godis luf mak þe</L>
+<L>My mache, gif þu wil treu me,</L>
+<L>Gif þu al ydol(is) wil forsake</L>
+<L N="220">&amp; treu in god &amp; baptyme tak;</L>
+<L>&amp; sa sal god grace gif to þe</L>
+<L>His angel in-to face to se.</L>
+<L>For-þi se þu na lettyng<HI REND="italic">e</HI> ma</L>
+<L>Bot with þi bruthir<HI REND="italic">e</HI> son<HI REND="italic">e</HI> þ<SUP>u</SUP> ga!"</L>
+<L N="225">Til his bruthir<HI REND="italic">e</HI> Tyburcyane</L>
+<L>Sad: "tel me, Valaryane,</L>
+<L>To quhat is it þu sal me led</L>
+<L>To mak ful endyng of þ<HI REND="italic">i</HI>s ded?"</L>
+<L>Sad he: "to bischope Vrbane."</L>
+<L N="230">Þane sad Tyburcius one-ane:</L>
+<L>"Is þat Vrbane þat to þe dede</L>
+<L>Has bene co<HI REND="italic">n</HI>dampnyt in þ<HI REND="italic">i</HI>s sted</L>
+<L>(&amp;) In til hydlis ay syne duellis?</L>
+<L>For, be he fundine, as me<HI REND="italic">ne</HI> tellis,</L>
+<L N="235">He will be brynt for-out mar<HI REND="italic">e,</HI></L>
+<L>&amp; we w<HI REND="italic">ith</HI> hy<HI REND="italic">me</HI> mon<HI REND="italic">e</HI> fal þare,</L>
+<L>&amp; sa, til we are sekand<HI REND="italic">e</HI></L>
+<L>Diui<HI REND="italic">ni</HI>te in hewine schenand,</L>
+<L>Ve sal be wappyt in til yre</L>
+<L N="240">P<HI REND="italic">er</HI>cace in erde in bry<HI REND="italic">n</HI>nand fyr<HI REND="italic">e.</HI>"</L>
+<L>Q<HI REND="italic">uod</HI> Cecile til hyme: "gif war<HI REND="italic">e</HI> na<HI REND="italic">ne</HI></L>
+<L>Life bot in þis warld alane,</L>
+<L>Ferly var na me<HI REND="italic">ne</HI> wald dout</L>
+<L>To tyne it, war þai neu<HI REND="italic">ir</HI> sa stout;</L>
+<L N="245">Bot þar is a fer<HI REND="italic">e</HI> bettyr<HI REND="italic">e</HI> lyf,</L>
+<L>Þat ma (nocht) tynt be for þis strife,</L>
+<L>Þat godis sone (h)as til ws tald,</L>
+<L>Þat mad al think, as h<HI REND="italic">is</HI> fad<HI REND="italic">ir</HI> wald;</L>
+<L>Þis godis sone co<HI REND="italic">m</HI>mand fra hewy<HI REND="italic">ne</HI></L>
+<L N="250">Til lar<NOTE N="2" PLACE="marg">(Metc. omits Til lar.)</NOTE>, tacht ws w<HI REND="italic">ith</HI> his stewyne</L>
+<L>Þat (vthir) lyf is þat lest<HI REND="italic">is</HI> ay,</L>
+<L>In hewine, but oþir tene or tray</L>
+<L>Þat he has grathit til al his, <MILESTONE N="357 a." UNIT="f."/></L>
+<L>Til bruk in euir<HI REND="italic">e</HI> lestand blis."</L>
+<L N="255">Tyburcyane sad: "tel me þis:<NOTE N="3" PLACE="marg">(MS. þus.)</NOTE></L>
+<L>Sene þu sais bot a god is,</L>
+<L>Quhy is þat þu tellis me</L>
+<L>Þat þai are nov godis thre?"</L>
+<L>&amp; Cecile sad, þat ves war:</L>
+<L N="260">"As in a ma<HI REND="italic">ne</HI> thre thing<HI REND="italic">is</HI> ar,</L>
+<PB N="97" REF="27"/>
+<L>Wit frist, memor þe todir<HI REND="italic">e</HI> thing<HI REND="italic">e,</HI></L>
+<L>&amp; þe thred vnd<HI REND="italic">ir</HI>standing<HI REND="italic">e:</HI></L>
+<L>Richt swa in þe my<HI REND="italic">ch</HI>t of godhed</L>
+<L>Thre p<HI REND="italic">er</HI>sonis ar<HI REND="italic">e</HI> but ony dred:</L>
+<L N="265">Þe fadir<HI REND="italic">e,</HI> þe son<HI REND="italic">e,</HI> þe<NOTE N="1" PLACE="marg">(MS. <HI REND="italic">h</HI>e.)</NOTE> haly gast,</L>
+<L>&amp; no<HI REND="italic">ch</HI>t ane of þir<HI REND="italic">e</HI> are in waste."</L>
+<L>Þane tald scho hyme mar<HI REND="italic">e</HI> &amp; les</L>
+<L>Quhy god in warld come &amp; in fles,</L>
+<L>&amp; how hyme lykit for to tak</L>
+<L N="270">Passione of ded for mannis sak,</L>
+<L>&amp; tald hyme syne co<HI REND="italic">n</HI>gruiyte</L>
+<L>Quhy his passione suld nedful be:</L>
+<L>"&amp; first he tholit hyme-self ta,</L>
+<L>A<HI REND="italic">t</HI> as ma<HI REND="italic">ne</HI> suld be lattine ga</L>
+<L N="275">Þat had bene haldine la<HI REND="italic">n</HI>g (in)<NOTE N="2" PLACE="marg">(MS. langsum.)</NOTE> syne;</L>
+<L>&amp; to be myssad lyki<HI REND="italic">t</HI> hyme,</L>
+<L>Sa ma<HI REND="italic">n</HI>e, þat ves in malysone,</L>
+<L>My<HI REND="italic">ch</HI>t þar chese lestand benysone;</L>
+<L>&amp; he tholit scornyt to be,</L>
+<L N="280">To mak men<HI REND="italic">e</HI> of fendis scorne fre;</L>
+<L>&amp; he tholit a crone of thorne</L>
+<L>One his heid be put for scorne,</L>
+<L>For þat þe h<HI REND="italic">e</HI>id<NOTE N="3" PLACE="marg">(MS. he had.)</NOTE>-sensses suld be</L>
+<L>Fra ma<HI REND="italic">n</HI>kind tane þat first gef he;</L>
+<L N="285">&amp; gal he tastit, for to bet</L>
+<L>It þat ma<HI REND="italic">ne</HI> tynt tastand þe swet;</L>
+<L>&amp; nakit one þe croice he wes,</L>
+<L>Til hele Adamys nakitnes;</L>
+<L>&amp; hangit one þe croice ves he,</L>
+<L N="290">Of first trespas to mak ws fre."</L>
+<L>Tyburcyus þane but delay</L>
+<L>Til his bruthir<HI REND="italic">e</HI> þis ca<HI REND="italic">ne</HI><NOTE N="1" PLACE="marg">(MS. þan.)</NOTE> say:</L>
+<L>"Gud bruthir<HI REND="italic">e,</HI> haf in þe mercy,</L>
+<L>I pray þe, &amp; me led in hy</L>
+<L N="295">To godis ma<HI REND="italic">ne,</HI> þat I ma be</L>
+<L>Clene mad, þe angel to se!"</L>
+<L>His bruthir<HI REND="italic">e</HI> þane hy<HI REND="italic">me</HI> has ta<HI REND="italic">ne</HI></L>
+<L>Be þe hand &amp; led til Vrbane; <MILESTONE N="357 b." UNIT="f."/></L>
+<L>Þat, baptiste þane, he</L>
+<L N="300">Þe a<HI REND="italic">n</HI>gel clerly mycht se,</L>
+<L>Þat vald gif hyme his askin[<HI REND="italic">g</HI>]e</L>
+<L>Debonarly but gruching<HI REND="italic">e.</HI></L>
+<L>Tyburcius þane, or he fane,</L>
+<L>&amp; his bruthire Val<HI REND="italic">a</HI>ryane</L>
+<L N="305">Þare faculte, til It my<HI REND="italic">ch</HI>t <HI REND="italic">l</HI>este,<NOTE N="2" PLACE="marg">(MS. beste.)</NOTE></L>
+<L>Til pour<HI REND="italic">e</HI> folk disponyt faste,</L>
+<L>&amp; of þe m<HI REND="italic">ar</HI>t<HI REND="italic">er</HI>is þe bodyis</L>
+<L>Sa slane for godis s<HI REND="italic">er</HI>uice</L>
+<L>Þai ent<HI REND="italic">er</HI>it ful prywely.</L>
+<PB N="98" REF="28"/>
+<L N="310">Almacius þane in (til) hy</L>
+<L>Gert þai brethire til hy<HI REND="italic">me</HI> bri<HI REND="italic">n</HI>g<HI REND="italic">e</HI></L>
+<L>&amp; sad to þame, as in hething<HI REND="italic">e:</HI></L>
+<L>"Quharfor haf ȝe sa mykil cur<HI REND="italic">e</HI></L>
+<L>&amp; besynes and labour<HI REND="italic">e</HI></L>
+<L N="315">To grawe þame þat for trespas,</L>
+<L>As resone mad, <HI REND="italic">con</HI>dampn<HI REND="italic">i</HI>t ves?"</L>
+<L>Tyburcius þane but delay</L>
+<L>To þe prefet sadly cane say:</L>
+<L>"Vald god we war s<HI REND="italic">er</HI>uand<HI REND="italic">is</HI> al</L>
+<L N="320">To þame (þat) ȝe dampnyt cal!</L>
+<L>Þat has dispysit w<HI REND="italic">ith</HI> cler<HI REND="italic">e</HI> tho<HI REND="italic">ch</HI>t</L>
+<L>It þat aperis<NOTE N="1" PLACE="marg">(MS. aperit.)</NOTE> &amp; is no<HI REND="italic">ch</HI>t . . ."</L>
+<L>Þe prefe<HI REND="italic">t</HI> sad: "þu tel me</L>
+<L>Quhat maner<HI REND="italic">e</HI> þat may be?"</L>
+<L N="325">Q<HI REND="italic">uod</HI> he: "þat semys &amp; is no<HI REND="italic">ch</HI>t</L>
+<L>Is al þat in þis warld is wro<HI REND="italic">ch</HI>t</L>
+<L>&amp; ledis ma<HI REND="italic">ne</HI> to vanyte</L>
+<L>&amp; til it þat no<HI REND="italic">ch</HI>t sal be;</L>
+<L><HI REND="italic">Bot</HI><NOTE N="2" PLACE="marg">(MS. for.)</NOTE> it þat semys no<HI REND="italic">ch</HI>t to be</L>
+<L N="330">&amp; is, gif þu ma clerly se,</L>
+<L>Is of richtwise me<HI REND="italic">ne</HI> þe lyfe,</L>
+<L>&amp; of Il me<HI REND="italic">ne</HI> þe payne but st<HI REND="italic">ri</HI>fe."</L>
+<L>Þe prefe<HI REND="italic">t</HI> sad: "I trew no<HI REND="italic">ch</HI>t þis</L>
+<L>Þu sais; of þi-self al is."</L>
+<L N="335">&amp; bad þane þat Valaryane</L>
+<L>Befor hyme suld be bro<HI REND="italic">ch</HI>t o<HI REND="italic">ne</HI>-ane,</L>
+<L>&amp; sad hyme: "þo þi bruthire be</L>
+<L>No<HI REND="italic">ch</HI>t of p<HI REND="italic">ar</HI>fyt wit, as think me,</L>
+<L>I consal þe for-out mar<HI REND="italic">e</HI></L>
+<L N="340">Þat þu to me mak gud ansuar<HI REND="italic">e;</HI></L>
+<L>For it war lyk þai war<HI REND="italic">e</HI> wod</L>
+<L>Þat refusis bath Joy &amp; gud</L>
+<L>Bot folely þat maste ȝarnis</L>
+<L>Þat is maste fay to Joy &amp; blis.</L>
+<L N="345">For-þi is gud ȝe wyfe ȝu weile,</L>
+<L>Or ȝe tyne al varldis sele<NOTE N="3" PLACE="marg">(MS. fele.)</NOTE>." <MILESTONE N="358 a." UNIT="f."/></L>
+<L>Valaryane sad til hyme þane:</L>
+<L>In froist þat he saw Idil men<HI REND="italic">e</HI></L>
+<L>Playand þame, makand gud cher<HI REND="italic">e,</HI></L>
+<L N="350">&amp; scorne þame þat wirkand wer<HI REND="italic">e,</HI></L>
+<L>Bot in tyme of het quhe<HI REND="italic">ne</HI> þai</L>
+<L>Froyt of þare travale bar away,</L>
+<L>&amp; gret Joy &amp; mery mad,</L>
+<L>Þane þai þat Idil bene had,</L>
+<L N="355">Mad anoy &amp; ewil chere;</L>
+<L>"Richt sa til ws has hapnyt but wer<HI REND="italic">e:</HI></L>
+<L>For we thole nov cald &amp; het,</L>
+<L>Quhile t(h)riste, quhyle hungire gret,</L>
+<L>Bot sal resawe (syne) til our<HI REND="italic">e</HI> med</L>
+<L N="360">Ay-lestand Joy, þat is na dred;</L>
+<L>Bot ȝe, þat warldis glore has now,</L>
+<L>In tyme to cume ful sar<HI REND="italic">e</HI> sal grew</L>
+<L>&amp; for a schort tyme lestand blis</L>
+<L>In ȝour foly are lyk to mys."</L>
+<L N="365">Þane þe prefe<HI REND="italic">t</HI> ansuert hy<HI REND="italic">m</HI>e but mar<HI REND="italic">e</HI></L>
+<L>&amp; sad: "be þe prync<HI REND="italic">is,</HI> ar<HI REND="italic">e</HI></L>
+<L>Vndisconfit of þis varld hale.</L>
+<L>Sal thole, as ȝe say, lestand bale,</L>
+<L>&amp; ȝe, þat are <HI REND="italic">con</HI>tent wrechis her<HI REND="italic">e,</HI></L>
+<L N="370">Sic lestand blis sal bruk but wer<HI REND="italic">e</HI>?"</L>
+<L>Valaryane sad til hyme þane:</L>
+<L>"Ȝe ar na princys, bot smal men<HI REND="italic">e,</HI></L>
+<L>Borne in our tyme, &amp; de sal sone</L>
+<L>&amp; ȝeld resone hou ȝe haf done."</L>
+<L N="375">Þe prefe<HI REND="italic">t</HI> sad, þat wes fel:</L>
+<L>"In sic spek ganys no<HI REND="italic">ch</HI>t to duel.</L>
+<L>Mak sacryfice for-out delay</L>
+<L>&amp;, quhar þu lykis, pas þi way!"</L>
+<L>Þai brethire þane vnerely</L>
+<L N="380">Sad to þe prefe<HI REND="italic">t</HI> opynly:</L>
+<L>"Lele sacrifice to god we gife,</L>
+<L>&amp; sal do, til we may lif."</L>
+<L>Q<HI REND="italic">uod</HI> þe prefe<HI REND="italic">t</HI> to þame one-ane:</L>
+<L>"Of ȝour<HI REND="italic">e</HI> god tel me þe name!"</L>
+<L N="385">Valaryane til hyme þa<HI REND="italic">ne</HI> ca<HI REND="italic">ne</HI> say:</L>
+<L>"Cert<HI REND="italic">is,</HI> his name fynd þu na ma,</L>
+<L>Þo þu had wengis for to fle."</L>
+<L>Þe prefe<HI REND="italic">t</HI> sad: "ȝet think<HI REND="italic">is</HI> me</L>
+<L>Þat Jubiter is no<HI REND="italic">ch</HI>t þe name</L>
+<L N="390">Of god þat suld be I(n) mast fame?"</L>
+<L>Valaryane sad: "Jubiter<HI REND="italic">e</HI></L>
+<L>Ves þe name of a murtherer<HI REND="italic">e</HI></L>
+<L>&amp; of a kyd houllour<HI REND="italic">e,</HI> [our<HI REND="italic">e.</HI>"</L>
+<L>Þat racht noþire of mensk na hon∣</L>
+<L N="395">Þane ansuert hyme Almachius</L>
+<L>&amp; sad: "gif suth be þu sais ws,</L>
+<L>Al þis warld erris bot þu ane</L>
+<L>&amp; þi bruthire, þat has ȝow<NOTE N="1" PLACE="marg">(MS. ȝone.)</NOTE> tane</L>
+<L>To trew in a god verraly?"</L>
+<L N="400">Valaryane þane sad in hy:</L>
+<L>"It is no<HI REND="italic">ch</HI>t anerly we twa</L>
+<L>Þat a god al-ane cane ta,</L>
+<L>Bot þai are sa feile ma þane we,</L>
+<L>Þat þai ma no<HI REND="italic">ch</HI>t nom<HI REND="italic">er</HI>yt be,</L>
+<L>Þat resawit þis halynes,</L>
+<L>&amp; ay sal eke &amp; be na les."</L>
+<L>Þane gert þe prefe<HI REND="italic">t</HI> tak þai<HI REND="italic">me</HI> bath</L>
+<L>&amp; put þame in til preffone rath,</L>
+<L>In ȝemsale of Maxymy.</L>
+<L N="410">Þat sad til þame ful fellou<HI REND="italic">n</HI>(<HI REND="italic">l</HI>)y:</L>
+<L>"Ȝe, þat are ȝung<HI REND="italic">e</HI> &amp; fals alsa,</L>
+<L>&amp; bruthir<HI REND="italic">e</HI>-lufe betwene ȝ<SUP>u</SUP> twa,</L>
+<L>Me think ȝe haste ȝ<SUP>u</SUP> to ded nov</L>
+<L>As til a feste men callit ȝow!"</L>
+<L N="415">Valaryane sad: "gif þat þu</L>
+<L>Wil hicht til ws þat þu sal treu,</L>
+<L>Þe Joy þu sal se in þis sted</L>
+<L>Of our<HI REND="italic">e</HI> sawlis, as we are ded."</L>
+<L>Þane Maxymyne sad: "fyr<HI REND="italic">e</HI> me bry<HI REND="italic">ne,</HI></L>
+<L N="420">Gyf I þat god þane trou no<HI REND="italic">ch</HI>t in<HI REND="italic">e</HI></L>
+<L>Þat ȝe treu, gyf þat I se</L>
+<PB N="99" REF="29"/>
+<L>Þe thing<HI REND="italic">e</HI> suth ȝe sa to me"</L>
+<L>Þar<HI REND="italic">e</HI> Maximyne but ony mar<HI REND="italic">e,</HI></L>
+<L>&amp; al þat euir<HI REND="italic">e</HI> w<HI REND="italic">ith</HI> hyme war<HI REND="italic">e,</HI></L>
+<L N="425">&amp; þe fel tormentour<HI REND="italic">is</HI> alsua,</L>
+<L>Of pape Vrbane ca<HI REND="italic">ne</HI> baptyme ta,</L>
+<L>Þat in hydlis come þame til</L>
+<L>&amp; þare request (<HI REND="italic">did</HI>) with gud wil.</L>
+<L>&amp; in þe dawing<HI REND="italic">e</HI> of þe day</L>
+<L N="430">In hye voice cane to þame say:</L>
+<L>"Ȝe, þat are C<HI REND="italic">ri</HI>stis kny<HI REND="italic">ch</HI>tt<HI REND="italic">is</HI> mad,</L>
+<L>Putt<HI REND="italic">is</HI> fra ȝou nov but abad</L>
+<L>Vorkis of myrknes, &amp; clethis ȝ<SUP>u</SUP></L>
+<L>In armys of licht in<HI REND="italic">e</HI> hast nov!"</L>
+<L N="435">Almachius þe prefe<HI REND="italic">t</HI> herd</L>
+<L>How þat þer c<HI REND="italic">ri</HI>stine kny<HI REND="italic">ch</HI>tt<HI REND="italic">is</HI> ferd;</L>
+<L>Þane gert he tak þai<HI REND="italic">me</HI> ry<HI REND="italic">ch</HI>t fone,</L>
+<L>&amp; syne eftire for-out hone</L>
+<L>He gert leid þame of þe ton<HI REND="italic">e</HI></L>
+<L N="440">Four myle, one þat condicione:</L>
+<L>Gyf þai to Jubiter<HI REND="italic">e</HI> ry<HI REND="italic">ch</HI>t þare</L>
+<L>Vald sacryfy but ony mar<HI REND="italic">e,</HI></L>
+<L>Þai suld ga fre at þare wil,</L>
+<L>&amp; al þar gudis tacht þame til; <MILESTONE N="359" UNIT="f."/></L>
+<L N="445">&amp; gif þai gruchit to do sa,</L>
+<L>Þare nekis suld þai strik in<HI REND="italic">e</HI> twa.</L>
+<L>Þane ware þe brethir<HI REND="italic">e</HI> one led,</L>
+<L>Til þai come til þe ly<HI REND="italic">m</HI>mytstede;</L>
+<L>&amp; for þai wald no<HI REND="italic">ch</HI>t sacryfy,</L>
+<L N="450">Þai war vnhedit bath in hy.</L>
+<L>Þane Maximyne. þat þar<HI REND="italic">e</HI> was</L>
+<L>Quhene þat ves done in þe place,</L>
+<L>Sad: he saw angelis cume done</L>
+<L>In þe tyme of þare passione,</L>
+<L N="455">&amp; þare sawlis vpe in hewine bar<HI REND="italic">e</HI></L>
+<L>V<HI REND="italic">i</HI>t<HI REND="italic">h</HI> þame in to wynly fayr<HI REND="italic">e.</HI></L>
+<L>Sone eftire as þis ves done,</L>
+<L>To þe prefe<HI REND="italic">t</HI> ves tald sone</L>
+<L>Þat Maximy<HI REND="italic">ne</HI> c<HI REND="italic">ri</HI>stine ves mad.</L>
+<L N="460">Þe quhilk þane but (<HI REND="italic">mar</HI>) abad</L>
+<L>Gert men<HI REND="italic">e</HI> w<HI REND="italic">i</HI>t<HI REND="italic">h</HI> lumpis of led</L>
+<L>Dyng<HI REND="italic">e</HI> hyme, til he ves ded.</L>
+<L>Þane Cecile tuk þe bodys thre</L>
+<L>&amp; in a grawe gert þai<HI REND="italic">me</HI> lad be,</L>
+<L N="465">V<HI REND="italic">ith</HI> sic honour<HI REND="italic">e</HI> as scho cuth do</L>
+<L>&amp; as þe tyme askyt to.</L>
+<L>Almacius þane wes besy</L>
+<L>To get þe gudis gredely</L>
+<L>Of þe forsad Valaryane</L>
+<PB N="100" REF="30"/>
+<L N="470">Þat til his spouse Cecil<HI REND="italic">e</HI> had tane,</L>
+<L>&amp; of Tyburcius his bruthir<HI REND="italic">e,</HI></L>
+<L>&amp; lewit no<HI REND="italic">ch</HI>t ane for vthir<HI REND="italic">e.</HI></L>
+<L>&amp; sowne wes fundy<HI REND="italic">ne</HI> þ<HI REND="italic">at</HI> Cecile</L>
+<L>Þar gud(<HI REND="italic">is</HI>) had to kepe a quhyle.</L>
+<L N="475">For-þi hir gert he bryng<HI REND="italic">e</HI> hyme til,</L>
+<L>To grype þe gudis in-to wil.</L>
+<L>&amp; as scho bro<HI REND="italic">ch</HI>t ves hyme befor,</L>
+<L>He sad til hir<HI REND="italic">e</HI> w<HI REND="italic">ith</HI> sturt &amp; fchore:</L>
+<L>"Til ydolis þu mak sacryfice</L>
+<L N="480">&amp; þame honoure in al wyse,"</L>
+<L>Ore ellis for to thole gret payne</L>
+<L>&amp; fynaly þare-for be slane.</L>
+<L>Þa<HI REND="italic">ne</HI> turmentor<HI REND="italic">is,</HI> þo þai vald fenȝe,</L>
+<L>Word of ned hir<HI REND="italic">e</HI> til distrenȝe,</L>
+<L N="485">Gret ry<HI REND="italic">ch</HI>t sar<HI REND="italic">e,</HI> for sa far<HI REND="italic">e</HI> a thing<HI REND="italic">e,</HI></L>
+<L>Sa vyse, sa far<HI REND="italic">e,</HI> &amp; sa ȝyng<HI REND="italic">e</HI></L>
+<L>Vald ta þe ded sa wilfully.</L>
+<L>Þane sad scho til þame in hy:</L>
+<L>"It is no<HI REND="italic">ch</HI>t, ȝungmen<HI REND="italic">e,</HI> as ȝe tho<HI REND="italic">ch</HI>t;</L>
+<L N="490">For my ȝouthed her<HI REND="italic">e</HI> tyne I no<HI REND="italic">ch</HI>t,</L>
+<L>Bot gifis filth &amp; takis gold fyne,</L>
+<L>&amp; giffis a lacht place of duelling<HI REND="italic">e</HI></L>
+<L>&amp; takis a place of bewte, <MILESTONE N="359 b." UNIT="f."/></L>
+<L>Sic as ma nocht comprisit be,</L>
+<L N="495">&amp; giffis bot a lytil wra,</L>
+<L>A vyd merkat þar<HI REND="italic">e</HI>-for I ta.</L>
+<L>Richt as ma<HI REND="italic">ne</HI> suld gif ȝow</L>
+<L>Tene <HI REND="italic">shillings</HI><NOTE N="1" PLACE="marg">(MS. <HI REND="italic">s.</HI>)</NOTE> for a penny now,</L>
+<L>I trew þat ȝe suld haste ȝ<SUP>u</SUP> þene</L>
+<L N="500">To gife a pe<HI REND="italic">n</HI>ny &amp; take tene;</L>
+<L>Sa to god gif we gife ocht</L>
+<L>Of warldly thing<HI REND="italic">e</HI> þ<HI REND="italic">at</HI> he has wro<HI REND="italic">ch</HI>t,</L>
+<L>He sal gif ws þarefor in med</L>
+<L>Ane hundre tyme sa fele, but dred."</L>
+<L N="505">Sad scho þane: "trew ȝe þis?"</L>
+<L>Ȝa, sad þai, sa hafe we blis,</L>
+<L>Ve trew þat Criste is god verray</L>
+<L>Þat sic a S<HI REND="italic">er</HI>uand has þis day."</L>
+<L>Þay of a wil eu<HI REND="italic">ir</HI>ilkane</L>
+<L N="510">Gert bryng<HI REND="italic">e</HI> þe bischope ald Vrba<HI REND="italic">ne:</HI></L>
+<L>Of quha<HI REND="italic">me</HI> richt þane bapty<HI REND="italic">me</HI> ca<HI REND="italic">ne</HI> ta</L>
+<L>Four hu<HI REND="italic">n</HI>dre p<HI REND="italic">er</HI>sonis &amp; ma.</L>
+<L>Almachius gert hir<HI REND="italic">e</HI> til hy<HI REND="italic">me</HI> bri<HI REND="italic">n</HI>g</L>
+<L>&amp; sad hir<HI REND="italic">e,</HI> as w<HI REND="italic">ith</HI> symlyng<HI REND="italic">e,</HI></L>
+<L N="515">He sad: "of quhat <HI REND="italic">con</HI>dic<HI REND="italic">i</HI>on<HI REND="italic">e</HI> is þu?"</L>
+<L>Scho sad: "gentil-woma<HI REND="italic">ne,</HI> I trew."</L>
+<L>Almacius sad (<HI REND="italic">hir</HI>) syne tyte:</L>
+<L>"I sper<HI REND="italic">e,</HI> womane, of þ<HI REND="italic">i</HI><NOTE N="2" PLACE="marg">(MS. þat.)</NOTE> ryte."</L>
+<L>Cecile sad hyme: "þine askin(<HI REND="italic">g</HI>)e</L>
+<L N="520">Of foly takis begy<HI REND="italic">n</HI>nynge,</L>
+<L>Venand I suld ans<HI REND="italic">u</HI>er(<HI REND="italic">is</HI>)<NOTE N="3" PLACE="marg">(MS. ansger<HI REND="italic">e</HI>).</NOTE> twa</L>
+<L>Vndir a demand þe to ma."</L>
+<L>Almacius sad til hir<HI REND="italic">e</HI> bon<HI REND="italic">e:</HI></L>
+<L>"Quhene has þu sic presumpc<HI REND="italic">i</HI>on<HI REND="italic">e</HI></L>
+<L N="525">Of redy ansuer<HI REND="italic">e</HI> til a man<HI REND="italic">e</HI>?"</L>
+<L>&amp; Cecile sad til hyme þane:</L>
+<L>"Of conscience gud &amp; clere</L>
+<L>&amp;<NOTE N="1" PLACE="marg">(MS. A.)</NOTE> fath vnfenȝet, but were."</L>
+<L>Almacius sad hir<HI REND="italic">e</HI> one hicht: [my<HI REND="italic">ch</HI>t."</L>
+<L N="530">"Me think þu knawis no<HI REND="italic">ch</HI>t my</L>
+<L>Scho sad: "ȝis, I cane wele fynd</L>
+<L>Þi poweste lik a bose, of wynd</L>
+<L>Þat fillit war<HI REND="italic">e</HI> &amp; wi<HI REND="italic">th</HI> a prene</L>
+<L>Mo<HI REND="italic">ch</HI>t out be latine for-out wene</L>
+<L N="535">&amp; s<HI REND="italic">ei</HI>ge (?)<NOTE N="2" PLACE="marg">(Metc., s<HI REND="italic">e</HI>ag The world is in legible in the MS.)</NOTE> and to-giddir<HI REND="italic">e</HI> fal</L>
+<L>&amp; tyne þe <HI REND="italic">v</HI>owsty<NOTE N="3" PLACE="marg">(MS. bousty)</NOTE> blawing al."</L>
+<L>Almacius cane til hir<HI REND="italic">e</HI> say:</L>
+<L>"V<HI REND="italic">ith</HI> in<HI REND="italic">iure</HI><NOTE N="4" PLACE="marg">(MS. inwy.)</NOTE> þu begy<HI REND="italic">n</HI>nis ay</L>
+<L>&amp; in It syne perseueris;</L>
+<L N="540">Quhat is he þat þe þis leris?"</L>
+<L>Q<HI REND="italic">uod</HI> scho: "iniur<HI REND="italic">e</HI> is it nocht <MILESTONE N="360 a." UNIT="f."/></L>
+<L>Bot fraud in word be tho<HI REND="italic">ch</HI>t;</L>
+<L>Þar-for, gif I do wrang, me teche,</L>
+<L>Or wi<HI REND="italic">th</HI> fals wordis I þe fleche,</L>
+<L N="545"><HI REND="italic">Or</HI><NOTE N="5" PLACE="marg">(MS. &amp;.)</NOTE> blame þi-selfe þat me blamys</L>
+<L>&amp; of fraud me defamys.</L>
+<L>Bot we, þe haly name þat wat</L>
+<L>Of god, ma nyt it na-gat,</L>
+<L>&amp; bettir<HI REND="italic">e</HI> is de happely</L>
+<L N="550">Na for to <HI REND="italic">lif</HI> h<HI REND="italic">e</HI>r<HI REND="italic">e</HI><NOTE N="6" PLACE="marg">(MS. dehir<HI REND="italic">e</HI>)</NOTE> wrechitly."</L>
+<L>Almacius sad in þat tyde:</L>
+<L>"Quhy spekis þu w<HI REND="italic">ith</HI> sic pryde?"</L>
+<L>"Na, q<HI REND="italic">uod</HI> scho, pryd is It no<HI REND="italic">ch</HI>t,</L>
+<L>Bot It is stedfastnes of tho<HI REND="italic">ch</HI>t."</L>
+<L N="555">Almacius þa<HI REND="italic">ne</HI> til hir<HI REND="italic">e</HI> ca<HI REND="italic">ne</HI> say:</L>
+<L>"þu wreche, wat þu no<HI REND="italic">ch</HI>t I may,</L>
+<L>Gif<NOTE N="7" PLACE="marg">(MS. giffis.)</NOTE> me lykis, now sa þe,</L>
+<L>Or, gif me lykis, lat þe be?</L>
+<L>For sic poweste is tacht me til</L>
+<L N="560">Þat I ma do quhat-say I wil."</L>
+<L>Þane sad scho: "I ma p<HI REND="italic">re</HI>we wele</L>
+<L>Þat þu has leyt Ilke deile</L>
+<L>Agane opyne suthfastnes;</L>
+<L>For, þo þu of powar<HI REND="italic">e</HI> wes</L>
+<L N="565">Þe lyf to <HI REND="italic">t</HI>ak<NOTE N="8" PLACE="marg">(MS. mak.)</NOTE> of ony man<HI REND="italic">e,</HI></L>
+<L>Of power<HI REND="italic">e</HI> wes þu neu<HI REND="italic">ir</HI> ȝet þa<HI REND="italic">ne</HI></L>
+<L>To quhykine ma<HI REND="italic">ne</HI> þat ded had bene;</L>
+<L>For-þi is þu s<HI REND="italic">er</HI>uand but wene</L>
+<L>Of doulful ded &amp; no<HI REND="italic">ch</HI>t of lyfe,</L>
+<L N="570">&amp; no<HI REND="italic">ch</HI>t of quyet, bot of stryfe."</L>
+<L>Almacius cane til hir<HI REND="italic">e</HI> say:</L>
+<L>"þat wedand wodnes do away</L>
+<L>&amp; sacryfy our<HI REND="italic">e</HI> godis til,</L>
+<PB N="101" REF="31"/>
+<L>Gyf to luf langer<HI REND="italic">e,</HI> be þi wil!"</L>
+<L N="575">Sad Cecile þane, or scho stynt:</L>
+<L>"It semys þu has þine eyne tynt;</L>
+<L>For, þat þu godis cane cal,</L>
+<L>Ar bot stanis &amp; stokis al,</L>
+<L>As þu ma w<HI REND="italic">ith</HI> þi handis taste,</L>
+<L N="580">Þo þu ma no<HI REND="italic">ch</HI>t se a laste."</L>
+<L>Þane ves Almacius ry<HI REND="italic">ch</HI>t wa</L>
+<L>Þat scho sic ansuer<HI REND="italic">e</HI> cane til hy<HI REND="italic">me</HI> ma,</L>
+<L>&amp; gert me<HI REND="italic">ne</HI> til hir<HI REND="italic">e</HI> ine<NOTE N="1" PLACE="marg">(MS. me.)</NOTE> hir<HI REND="italic">e</HI> led,</L>
+<L>For he wald (þat) scho war dede;</L>
+<L N="585">&amp; al a day &amp; al þe nycht</L>
+<L>He gert leid meelte in me<HI REND="italic">n</HI>is sy<HI REND="italic">ch</HI>t,</L>
+<L>&amp; band hir<HI REND="italic">e</HI> faste fut &amp; hand</L>
+<L>&amp; kest hir in þe led bry<HI REND="italic">n</HI>nande. <MILESTONE N="360 b." UNIT="f."/></L>
+<L>Bot of het scho feld nomar<HI REND="italic">e</HI></L>
+<L N="590">Þane scho in a bath set þane var<HI REND="italic">e,</HI></L>
+<L>For ocht þat scho cane se or here</L>
+<L>Na changit co<HI REND="italic">n</HI>tenance na cher<HI REND="italic">e,</HI></L>
+<L>Bot ves blyth, as scho had bene</L>
+<L>In maste my<HI REND="italic">ch</HI>t þat eu<HI REND="italic">ir</HI> wes sene.</L>
+<L N="595">And as Almacius þat herde,</L>
+<L>As out of wit<NOTE N="2" PLACE="marg">(MS. wet.)</NOTE> ner<HI REND="italic">e</HI> he ferde;</L>
+<L>In<HI REND="italic">e</HI>-to þat leid, þat bry<HI REND="italic">n</HI>nyt swa,</L>
+<L>He bad strik hir<HI REND="italic">e</HI> nek in<HI REND="italic">e</HI> twa.</L>
+<L>&amp; þo þe<NOTE N="1" PLACE="marg">(MS. he.)</NOTE> basar strak hir<HI REND="italic">e</HI> thrise,</L>
+<L N="600">He mo<HI REND="italic">ch</HI>t vnhied hire na-wyse;</L>
+<L>&amp;, for þe law bad, þat, quha</L>
+<L>Suld haf þe hed st<HI REND="italic">ri</HI>kine hy<HI REND="italic">me</HI> fra,</L>
+<L>Þe ferd strak suld haf na-way,</L>
+<L>For-þ<HI REND="italic">i</HI> þe basare ȝed his way</L>
+<L>&amp; lefyt hir<HI REND="italic">e</HI> lyand in þat sted,</L>
+<L>Thre days fullely, as ner<HI REND="italic">e</HI> ded.</L>
+<L>&amp; in þe meyne-tyme no<HI REND="italic">ch</HI>t-for-thy</L>
+<L>Scho delt hire gudis vysly</L>
+<L>Ymange powr<HI REND="italic">e</HI> folk þ<HI REND="italic">at</HI> had ned,</L>
+<L N="610">&amp; til vntrowand godis sede</L>
+<L>Sew &amp; to god wysly wane</L>
+<L>Thru hire preching<HI REND="italic">e</HI> mony ma<HI REND="italic">ne,</HI></L>
+<L>&amp; þame þat scho co<HI REND="italic">n</HI>uertit swa,</L>
+<L>Fra Wrbane scho gert bapty<HI REND="italic">me</HI> ta,</L>
+<L N="615">&amp; sad hy<HI REND="italic">me</HI> þat scho had m<HI REND="italic">a</HI>d p<HI REND="italic">ur</HI>chas</L>
+<L>To god þat scho my<HI REND="italic">ch</HI>t luf þe space</L>
+<L>Þat scho my<HI REND="italic">ch</HI>t þai<HI REND="italic">me</HI> til hy<HI REND="italic">me</HI> co<HI REND="italic">m</HI>∣mend</L>
+<L>Þat to be baptist scho hy<HI REND="italic">me</HI> send,</L>
+<L>&amp; of hir<HI REND="italic">e</HI> house of lyme &amp; stane</L>
+<PB N="102" REF="32"/>
+<L N="620">Gert mak a kirk, of sanct<HI REND="italic">e</HI> Vrbane</L>
+<L>Halouyt, &amp; eftire lad hir<HI REND="italic">e</HI> þar<HI REND="italic">e</HI> [ar<HI REND="italic">e.</HI></L>
+<L>Quhare nov fele bischopis g<HI REND="italic">ra</HI>wy<HI REND="italic">ne</HI></L>
+<L>&amp; þis, þat I tel her<HI REND="italic">e,</HI> done wes</L>
+<L>Eftir<HI REND="italic">e</HI> þat Criste had tane flesch</L>
+<L N="625">Twa hu<HI REND="italic">n</HI>dre thre &amp; thretty ȝer<HI REND="italic">e;</HI></L>
+<L>&amp; þane wes emp<HI REND="italic">er</HI>our<HI REND="italic">e</HI> but wer<HI REND="italic">e</HI></L>
+<L>Marcyus, þat Arelyane</L>
+<L>Had þane til his surname.—</L>
+<L>Now, sanct<HI REND="italic">e</HI> Cecile, þat had sic grace</L>
+<L N="630">Þat, quhat þu wald, þu my<HI REND="italic">ch</HI>t p<HI REND="italic">u</HI>rches</L>
+<L>Fra Jh<HI REND="italic">es</HI>u, þ<HI REND="italic">at</HI> þu lufit swa:</L>
+<L>Purches ws, or<HI REND="italic">e</HI> we hyne ga,</L>
+<L>Of þis varld þat we ma twyne</L>
+<L>But schame, det or dedly syne</L>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>

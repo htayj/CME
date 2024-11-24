@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ETS SYSTEM "http://www.textcreationpartnership.org/docs/code/eebo2prf.xml.dtd">
+<ETS>
+<TEMPHEAD>
+<REVDESCR>
+<CHANGE><DATE>8-23-16</DATE><RESPSTMT><NAME>lattaj</NAME><RESP>MURP</RESP></RESPSTMT><ITEM>Added TEMPHEAD, checked ID, and added TYPEs to DIVs in order to validate. Checked for N=""s. Checked for GROUP tags. Proofed title pages; removed three Ps. Checked <SUP>s</SUP>. Reviewed structure; changed P to HEAD; removed TRAILER. Checked placement and completeness of PBs. Checked for damage GAPs, #s, @s, --s, and UNCLEARs. Corrected [dollar]s. Checked for &amp;cs with incorrect spacing. Checked for LBs. Checked for startqs and endqs, abq's, oes, qs, Ae's, and Qs. Checked proofsheets and made corrections. Checked italic I / J and U / V. Checked for missing page GAPs. Checked for EPIGRAPHs and ARGUMENTS. Checked CLOSERs, OPENERs, SIGNEDs, SALUTEs, TRAILERs, BYLINEs. Checked decorated initials. Checked FIGUREs. Sample: 2 minutes. Proofing: 0 minutes. Tag review and corrections: 50 minutes. DONE.</ITEM></CHANGE>
+</REVDESCR>
+</TEMPHEAD>
+<EEBO>
+<IDG S="marc" R="UM" ID="CME00042">
+<STC T="M">42</STC>
+<BIBNO T="mec">CME00042</BIBNO>
+<VID>CME00042</VID>
+</IDG>
+<TEXT LANG="enm ger">
+<FRONT>
+<DIV1 TYPE="title page">
+<PB REF="4"/>
+<P>ERLANGER BEITRÄGE ZUR ENGLISCHEN PHILOLOGIE.</P>
+<P>HERAUSGEGEBEN VON HERMANN VARNHAGEN.</P>
+<P>II. HOW THE WYSE MAN TAUGHT HYS SONE.</P>
+<P>ERLANGEN &amp; LEIPZIG. A. DEICHERT'SCHE VERLAGSBUCHH. NACHF. (GEORG BÖHME).</P>
+<P>1889.</P>
+</DIV1>
+<DIV1 TYPE="title page">
+<PB REF="5"/>
+<P>HOW THE WYSE MAN TAUGHT HYS SONE.</P>
+<P>IN DREI TEXTEN HERAUSGEGEBEN VON RUDOLF FISCHER.</P>
+<P>ERLANGEN &amp; LEIPZIG. A. DEICHERT'SCHE VERLAGSBUCHH. NACHF. (GEORG BÖHME).</P>
+<P>1889.</P>
+</DIV1>
+</FRONT>
+<BODY>
+<DIV1 TYPE="poem">
+<PB REF="37"/>
+<HEAD>Texte.</HEAD>
+<DIV2 N="1" TYPE="version">
+<HEAD>1. Text <HI REND="italic">α.</HI> <NOTE PLACE="foot"><HI REND="italic">Lesarten von</HI> H<SUP>2</SUP>. <HI REND="italic">Überschrift:</HI> How the wyse man taght hys son, <HI REND="italic">von späterer Hand hinzugefügt.</HI></NOTE> <NOTE PLACE="foot">16 taght] þ<SUP>t</SUP>; boþe; wele] wyll; fayre.</NOTE></HEAD>
+<HEAD>Here foloweth how the goode man taght hys sone.</HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Lystenyth all and ye shall her, <NOTE PLACE="foot">1 ye] ȝe; shall] well.</NOTE></L>
+<L>How the gode man taght hys sone; <NOTE PLACE="foot">2 þe; gode] wyse; son.</NOTE></L>
+<L>Take gode tente to þys matere, <NOTE PLACE="foot">3 tent.</NOTE></L>
+<L>And fonde to lerne hyt, yf ye conne. <NOTE PLACE="foot">4 fond; lere; hyt <HI REND="italic">fehlt;</HI> ye] þe; con.</NOTE></L>
+<L>Thys songe by yong men was bygonne, <MILESTONE N="5"/> <NOTE PLACE="foot">5 þys; song: by] be; ȝonge; begon.</NOTE></L>
+<L>To make them trysty and stedfaste; <NOTE PLACE="foot">6 them] hem; tyrsty; stedfast.</NOTE></L>
+<L>But jarne that ys ofte tyme evell spon, <NOTE PLACE="foot">7 ȝarn; þat; is; oft; evell] yll; sponne.</NOTE></L>
+<L>Evyll hyt cometh owt at the laste. <NOTE PLACE="foot">8 evyll <HI REND="italic">H</HI><SUP>2</SUP>] evyr <HI REND="italic">C;</HI> comys; out; þe; last.</NOTE></L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>A wyse man had a feyre chylde, <NOTE PLACE="foot">9 fayre▪ feyri <HI REND="italic">C (Schreibfehler);</HI> chyld.</NOTE></L>
+<L>Was wele of XV wyntur age, <MILESTONE N="10"/> <NOTE PLACE="foot">10 well; wyntur] ȝere.</NOTE></L>
+<L>That was bothe meke and mylde, <NOTE PLACE="foot">11 þat; boþe.</NOTE></L>
+<L>Fayre of body and of vysage, <NOTE PLACE="foot">12 <HI REND="italic">das zweite</HI> of <HI REND="italic">fehlt;</HI> vesage.</NOTE></L>
+<L>Gentyl of kynde and of corage. <NOTE PLACE="foot">13 gentyll.</NOTE></L>
+<L>For he schulde be hys fadurs heyre, <NOTE PLACE="foot">14 fadur; eyre.</NOTE></L>
+<L>Hys fadur þus in hys langage <MILESTONE N="15"/> <NOTE PLACE="foot">15 yn.</NOTE></L>
+<L>Taght hys sone, bothe wele and feyre.</L>
+</LG>
+<LG N="3">
+<PB N="28" REF="38"/>
+<HEAD>3.</HEAD>
+<L>And seyde: "Sone, kepe thys worde in hert, <NOTE PLACE="foot">17 sayd; son; þys; word; yn; hart.</NOTE></L>
+<L>And þynke þeron to þou be deed, <NOTE PLACE="foot">18 þenke; to] thyll; ded.</NOTE></L>
+<L>Every day the fyrste werke <NOTE PLACE="foot">19 every] ȝeyri; the] þy; furst; <HI REND="italic">das</HI> r <HI REND="italic">in</HI> werke <HI REND="italic">ist in</HI> H<SUP>2</SUP> <HI REND="italic">später unter das Wort geschrieben, Ritson</HI><SUP>1</SUP> <HI REND="italic">daher</HI> weke.</NOTE></L>
+<L>Loke þys be done in every stedd: <MILESTONE N="20"/> <NOTE PLACE="foot">20 don; yn; every] ylke; stede.</NOTE></L>
+<L>Fyrste see þy god in forme of bredd, <NOTE PLACE="foot">21 furst; se; þye; yn; brede.</NOTE></L>
+<L>And serve hym wele for hys godenes. <NOTE PLACE="foot">22 wele] wyll.</NOTE></L>
+<L>And aftur þat, sone, be my redd, <NOTE PLACE="foot">23 aftur þat] afturward; be] by; rede.</NOTE></L>
+<L>Go to thy worldely besynes. <NOTE PLACE="foot">24 to] do; þy; worldely] worldys.</NOTE></L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Fyrste worschyp þy god on þe day, <MILESTONE N="25"/> <NOTE PLACE="foot">25 furst; on <HI REND="italic">H</HI><SUP>2</SUP>] upon <HI REND="italic">C;</HI> þe] a.</NOTE></L>
+<L>And, sone, þys schalt þou have to mede: <NOTE PLACE="foot">26 schall; med.</NOTE></L>
+<L>Skylfully what so thou pray, <NOTE PLACE="foot">27 skyllfully; so <HI REND="italic">fehlt;</HI> þou.</NOTE></L>
+<L>He wyll þe graunt, withowten drede, <NOTE PLACE="foot">28 wythoutyn.</NOTE></L>
+<L>And sende the all þat þou haste nede, <NOTE PLACE="foot">29 send; þe; al; hast.</NOTE></L>
+<L>As far as mesure longyth to strecche. <MILESTONE N="30"/> <NOTE PLACE="foot">30 far] for; meser; strech.</NOTE></L>
+<L>Thy lyfe in mesure that thou lede, <NOTE PLACE="foot">31 thy] þis; mesur; þat; þou.</NOTE></L>
+<L>And of þe remenunt þou ne recche. <NOTE PLACE="foot">32 remlant; þat <HI REND="italic">vor</HI> þou <HI REND="italic">C;</HI> rech.</NOTE></L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>And, sone, þy tonge thou kepe also, <NOTE PLACE="foot">33 an; tong; þou.</NOTE></L>
+<L>And be not talewyse in no way; <NOTE PLACE="foot">34 in] be.</NOTE></L>
+<L>Thyn owen tonge may be þy foo. <MILESTONE N="35"/> <NOTE PLACE="foot">35 owen <HI REND="italic">H</HI><SUP>2</SUP>] own <HI REND="italic">C;</HI> fo.</NOTE></L>
+<L>Therfore be ware, sone, y the pray, <NOTE PLACE="foot">36 þerfor; be war; y] i; þe.</NOTE></L>
+<L>Where and when, sone, þou shalt say, <NOTE PLACE="foot">37 wher; schalt.</NOTE></L>
+<L>And by whom þou spekyst oght; <NOTE PLACE="foot">38 by] be.</NOTE></L>
+<L>For þou may speke a worde to day, <NOTE PLACE="foot">39 word.</NOTE></L>
+<L>That VII yere aftur may be forþoght. <MILESTONE N="40"/> <NOTE PLACE="foot">40 þat; ȝer; aftur] þens; forþoȝt.</NOTE></L>
+</LG>
+<LG N="6">
+<PB N="29" REF="39"/>
+<HEAD>6.</HEAD>
+<L>Therfore, sone, be war be tyme, <NOTE PLACE="foot">41 be ware.</NOTE></L>
+<L>Desyre none offyce for to bere, <NOTE PLACE="foot">42 none] no; offys.</NOTE></L>
+<L>For of thy neghburs maugreth thyn, <NOTE PLACE="foot">43 thy] þy; neyborys; maw∣gref; thyn <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>Thou must them boþe dysplese and dere, <NOTE PLACE="foot">44 þou; most; them] hem.</NOTE></L>
+<L>Or ellys thy selfe þou must forswere <MILESTONE N="45"/> <NOTE PLACE="foot">45 þy; self.</NOTE></L>
+<L>And do not as þyn offyce wolde, <NOTE PLACE="foot">46 thyn; offys.</NOTE></L>
+<L>And gete the maugreth here and þere, <NOTE PLACE="foot">47 þe; mawgrefe; her; þer.</NOTE></L>
+<L>More then þanke a thousandefolde. <NOTE PLACE="foot">48 þen; thank; thousande] M; fold.</NOTE></L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>And, sone, yf þou wylt leve at eese, <NOTE PLACE="foot">49 leve] lyf; ese.</NOTE></L>
+<L>And warme among þy neghburs sytt, <MILESTONE N="50"/> <NOTE PLACE="foot">50 neyburs; syt.</NOTE></L>
+<L>Let no newfangylnes the pleese, <NOTE PLACE="foot">51 lat; no <HI REND="italic">fehlt;</HI> newefangylnes; þe; plese; plesee <HI REND="italic">C.</HI></NOTE></L>
+<L>Oftyn to remeve nor to flytt. <NOTE PLACE="foot">52 remewe; flyt.</NOTE></L>
+<L>For yf thou do, there wantyþ wytt, <NOTE PLACE="foot">53 yf] and; þou; þer; wantys; wyt.</NOTE></L>
+<L>For folys they remeve all to wyde; <NOTE PLACE="foot">54 þey; remewe; al.</NOTE></L>
+<L>And also, sone, an ell sygne ys hyt: <MILESTONE N="55"/> <NOTE PLACE="foot">55 ell] evyl; sagne.</NOTE></L>
+<L>A man þat can nowhere abyde. <NOTE PLACE="foot">56 mon; nowher.</NOTE></L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>And, sone, of oon þyng y þe warn, <NOTE PLACE="foot">57 oon] syche; thyng; specyally <HI REND="italic">vor</HI> y <HI REND="italic">C;</HI> y] i; warne.</NOTE></L>
+<L>And of my blessyng take gode hede, <NOTE PLACE="foot">58 of] on; blyssyng.</NOTE></L>
+<L>Loke þou use nevyr þe taverne, <NOTE PLACE="foot">59 loke <HI REND="italic">fehlt;</HI> never; co∣mynly <HI REND="italic">vor</HI> þe <HI REND="italic">C;</HI> taverne <HI REND="italic">H</HI><SUP>2</SUP>] tavarne <HI REND="italic">C.</HI></NOTE></L>
+<L>And also dysyng y the forbede. <MILESTONE N="60"/> <NOTE PLACE="foot">60 y] i; þe.</NOTE></L>
+<L>For þese II thyngs, withowten drede, <NOTE PLACE="foot">61 thyse; thyngys; wythowtyn.</NOTE></L>
+<L>And comyn women, as y leve, <NOTE PLACE="foot">62 comon; y] i.</NOTE></L>
+<L>Maken yong men evyll to spede, <NOTE PLACE="foot">63 maks; ȝong; evyle.</NOTE></L>
+<L>And bryngyth þem often to myschefe. <NOTE PLACE="foot">64 and fulle yn danger and yn myschefe.</NOTE></L>
+</LG>
+<LG N="9">
+<PB N="30" REF="40"/>
+<HEAD>9.</HEAD>
+<L>And, sone, the more gode thou haste, <MILESTONE N="65"/> <NOTE PLACE="foot">65 þe, þou; hast.</NOTE></L>
+<L>The raþer bere þe meke and lowe. <NOTE PLACE="foot">66 þe; rather.</NOTE></L>
+<L>Lagh not to moche, for þat ys waste, <NOTE PLACE="foot">67 to <HI REND="italic">fehlt;</HI> mych; wast.</NOTE></L>
+<L>For folys byn by laghyng knowe. <NOTE PLACE="foot">68 byn] ben; knone.</NOTE></L>
+<L>And, sone, paye wele þat þou doyst owe, <NOTE PLACE="foot">69 and, sone, quyte wele þat þou owe; wele <HI REND="italic">H</HI><SUP>2</SUP>] þy dettys <HI REND="italic">C.</HI></NOTE></L>
+<L>So that thou be of dettys clere. <MILESTONE N="70"/> <NOTE PLACE="foot">70 þat; þou; detts.</NOTE></L>
+<L>And þus, my lefe chylde, as y trowe, <NOTE PLACE="foot">71 y] i.</NOTE></L>
+<L>Thou mayste þe kepe fro all daunger. <NOTE PLACE="foot">72 þou; mest; all <HI REND="italic">fehlt;</HI> daungere.</NOTE></L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>And loke thou wake not to longe, <NOTE PLACE="foot">73 þou.</NOTE></L>
+<L>Neydur use no rere sopers to late; <NOTE PLACE="foot">74 neydur] ne; no] not; soperys.</NOTE></L>
+<L>For were thy complexion never so stronge, <MILESTONE N="75"/> <NOTE PLACE="foot">75 þy; nevyr; strong.</NOTE></L>
+<L>Wyth furfett þou mayste fordo þat. <NOTE PLACE="foot">76 surfet; mayst.</NOTE></L>
+<L>Of late wakyng fallyth often debate, <NOTE PLACE="foot">77 fallys; oftyn.</NOTE></L>
+<L>On nyghtys for to sytt and drynke. <NOTE PLACE="foot">78 nyȝtys; syt.</NOTE></L>
+<L>Yf þou wylt rewle wele þyn astate, <NOTE PLACE="foot">79 rule; wele <HI REND="italic">fehlt;</HI> thyn.</NOTE></L>
+<L>Be tymys go to bedd and wynke. <MILESTONE N="80"/> <NOTE PLACE="foot">80 tyme; bed.</NOTE></L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>And, sone, as fer forthe as thou may, <NOTE PLACE="foot">81 fer forthe] far furth; þou.</NOTE></L>
+<L>On none enquest loke þat þou come, <NOTE PLACE="foot">82 non; loke <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>Nor no false wytnesse bere away <NOTE PLACE="foot">83 fals.</NOTE></L>
+<L>Of no mannys mater all ne some; <NOTE PLACE="foot">84 manys; sum.</NOTE></L>
+<L>For bettur were þe be defe and dome, <MILESTONE N="85"/> <NOTE PLACE="foot">85 bettyr; were þe] þe were; to <HI REND="italic">vor</HI> be <HI REND="italic">C;</HI> defe <HI REND="italic">H</HI><SUP>2</SUP>] dere <HI REND="italic">C;</HI> dowm.</NOTE></L>
+<L>Then for to be on any enqueste, <NOTE PLACE="foot">86 þen; eny; enquest.</NOTE></L>
+<L>That aftur myȝt be undurnome; <NOTE PLACE="foot">87 þat; aftyr; afturwarde <HI REND="italic">C.</HI></NOTE></L>
+<L>A trewe man had hys quarell leste. <NOTE PLACE="foot">88 quarel; lest.</NOTE></L>
+</LG>
+<LG N="12">
+<PB N="31" REF="41"/>
+<HEAD>12.</HEAD>
+<L>And, sone, yf þou wylt have a wyfe,</L>
+<L>Take hur for no covetyse, <MILESTONE N="90"/> <NOTE PLACE="foot">90 coveytyse.</NOTE></L>
+<L>But loke, sone, sche be the lefe; <NOTE PLACE="foot">91 þe.</NOTE></L>
+<L>Thou wysely wayte and wele avyse, <NOTE PLACE="foot">92 þou; wysely] wyfe by; wayt; avyse] a wyfe.</NOTE></L>
+<L>That sche be gode, honest and wyse. <NOTE PLACE="foot">93 þat.</NOTE></L>
+<L>Thogh sche be pore, take þou non hede, <NOTE PLACE="foot">94 thogh] þof; non] not.</NOTE></L>
+<L>For sche schall do the more servyse, <MILESTONE N="95"/> <NOTE PLACE="foot">95 schalt; þe; ser∣vys.</NOTE></L>
+<L>Then schall a ryche, withowten drede. <NOTE PLACE="foot">96 þen; schal; wythowtyn.</NOTE></L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>For bettyr hyt ys in reste and pees <NOTE PLACE="foot">97 hyt ys] it is; rest; pes.</NOTE></L>
+<L>A messe of potage and no more, <NOTE PLACE="foot">98 mes.</NOTE></L>
+<L>Then for to have a thousand messe <NOTE PLACE="foot">99 thousand] M; mes.</NOTE></L>
+<L>Wyth grete dysese and anger sore. <MILESTONE N="100"/> <NOTE PLACE="foot">100 gret; angyr.</NOTE></L>
+<L>Therfore, sone, thynk on thys lore: <NOTE PLACE="foot">101 þys.</NOTE></L>
+<L>Yf þou wylt have a wyfe wyth ese,</L>
+<L>By hur good sett þou no store, <NOTE PLACE="foot">103 gode; set.</NOTE></L>
+<L>Thogh sche wolde þe boþe feffe and sese. <NOTE PLACE="foot">104 thogh] þof; wold; bothe; feffe <HI REND="italic">H</HI><SUP>2</SUP>] ferse <HI REND="italic">C;</HI> sesse.</NOTE></L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>And yf thy wyfe be meke and gode, <MILESTONE N="105"/> <NOTE PLACE="foot">105 þy; wyffe.</NOTE></L>
+<L>And serve the wele and plesauntly, <NOTE PLACE="foot">106 þe; plesantyl.</NOTE></L>
+<L>Loke that þou be not so wode, <NOTE PLACE="foot">107 þat.</NOTE></L>
+<L>To charge hur then to owtragely; <NOTE PLACE="foot">108 þen.</NOTE></L>
+<L>But thou fare with hur esely, <NOTE PLACE="foot">109 thou] then; wyth; esyly.</NOTE></L>
+<L>And cherysch hur for hur gode dede; <MILESTONE N="110"/></L>
+<L>For thyng overdon unskylfully <NOTE PLACE="foot">111 overdon <HI REND="italic">H</HI><SUP>2</SUP>] ever done <HI REND="italic">C.</HI></NOTE></L>
+<L>Makyþ wraþ to growe where ys no nede. <NOTE PLACE="foot">112 makys; wrath; where <HI REND="italic">H</HI><SUP>2</SUP>] þere as <HI REND="italic">C.</HI></NOTE></L>
+</LG>
+<LG N="15">
+<PB N="32" REF="42"/>
+<HEAD>15.</HEAD>
+<L>I wyll neyther glose ne paynte, <NOTE PLACE="foot">113 wyl; neythyr; glos; praynt.</NOTE></L>
+<L>But warne the on an other syde: <NOTE PLACE="foot">114 warne] waran <HI REND="italic">H</HI><SUP>2</SUP>, warre <HI REND="italic">C, gebessert nach β 106;</HI> þe; odur.</NOTE></L>
+<L>Yf thy wyfe come to make a playnte <MILESTONE N="115"/> <NOTE PLACE="foot">115 a <HI REND="italic">fehlt;</HI> pleynt.</NOTE></L>
+<L>On thy servauntys on ony syde, <NOTE PLACE="foot">116 þy; servandys; any.</NOTE></L>
+<L>Be not to hasty them to chyde, <NOTE PLACE="foot">117 be <HI REND="italic">H</HI><SUP>2</SUP>] do <HI REND="italic">C;</HI> nott.</NOTE></L>
+<L>Nor wrath þe not, or þou wyt þe sothe; <NOTE PLACE="foot">118 wreth; not <HI REND="italic">mit an∣derer Tinte übergeschrieben;</HI> wytt.</NOTE></L>
+<L>For wemen in wrath þey can noght hyde, <NOTE PLACE="foot">119 yn; wrethe; not.</NOTE></L>
+<L>But soone they can reyse a smoke. <MILESTONE N="120"/> <NOTE PLACE="foot">120 sone; þey; can <HI REND="italic">fehlt;</HI> smoke] smokei rofe.</NOTE></L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>Nor, sone, be not jellows, y the pray, <NOTE PLACE="foot">121 jelows; y] i; þe.</NOTE></L>
+<L>For yf thou falle yn yelesye, <NOTE PLACE="foot">122 yf] and; þou; in; jelosye.</NOTE></L>
+<L>Let not þy wyfe wyt be no way, <NOTE PLACE="foot">123 be] in.</NOTE></L>
+<L>For thou may do no more folye. <NOTE PLACE="foot">124 þou; foly.</NOTE></L>
+<L>For and thy wyfe may onys aspye, <MILESTONE N="125"/> <NOTE PLACE="foot">125 þy.</NOTE></L>
+<L>That thou hur any þyng mystryste, <NOTE PLACE="foot">126 þat; thou] þu; hur any þyng] any thyng hur; mystryst; mys∣trystest <HI REND="italic">C.</HI></NOTE></L>
+<L>In despyte of thy fantesye, <NOTE PLACE="foot">127 dyspyte; þy; fantesy.</NOTE></L>
+<L>To do the worse ys all hur lyste. <NOTE PLACE="foot">128 þe; wors; lyst.</NOTE></L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>Therfore, sone, y bydd the, <NOTE PLACE="foot">129 thersore; y] i; byd; þe.</NOTE></L>
+<L>Wyrche with thy wyfe, as reson ys; <MILESTONE N="130"/> <NOTE PLACE="foot">130 wyth; þy.</NOTE></L>
+<L>Thogh sche be sirvunt in degree, <NOTE PLACE="foot">131 thogh] þof; ser∣vant; some <HI REND="italic">vor</HI> degree <HI REND="italic">C;</HI> degre.</NOTE></L>
+<L>In some degre sche felowe ys. <NOTE PLACE="foot">132 som; felowe] selaw.</NOTE></L>
+<L>Laddys þat are weddyd, so have y blys, <NOTE PLACE="foot">133 ar; weddyd] bundyn; y] i.</NOTE></L>
+<L>That can not rewle þer wyvys aryȝt, <NOTE PLACE="foot">134 þat; wyves.</NOTE></L>
+<L>That makyth wemen, so have y blys, <MILESTONE N="135"/> <NOTE PLACE="foot">135 þat; makys; y] i.</NOTE></L>
+<L>To do often wronge, in plyght. <NOTE PLACE="foot">136 oftyn; wrong; yn; plyȝt.</NOTE></L>
+</LG>
+<LG N="18">
+<PB N="33" REF="43"/>
+<HEAD>18.</HEAD>
+<L>Nethur, sone, bete not þy wyfe, y rede, <NOTE PLACE="foot">137 nethur] nor; y] i.</NOTE></L>
+<L>For therin may no helpe bee. <NOTE PLACE="foot">138 þeryn; help; be.</NOTE></L>
+<L>Betyng may not stonde in stede, <NOTE PLACE="foot">139 stond; yn.</NOTE></L>
+<L>But rather make hur to despyse þe. <MILESTONE N="140"/></L>
+<L>With lone awe, sone, þy wyfe chastyse, <NOTE PLACE="foot">141 wyth; lone <HI REND="italic">vgl. Anm. z. Stelle.</HI></NOTE></L>
+<L>And let feyre wordes be þy ȝerde; <NOTE PLACE="foot">142 fayre; wordys.</NOTE></L>
+<L>Lone awe ys the beste gyse, <NOTE PLACE="foot">143 lone <HI REND="italic">s. o.;</HI> þe; best.</NOTE></L>
+<L>My sone, to make þy wyfe aferde. <NOTE PLACE="foot">144 aferd.</NOTE></L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>Nodur, sone, þy wyfe þou schalt not chyde, <MILESTONE N="145"/> <NOTE PLACE="foot">145 nodur] nor.</NOTE></L>
+<L>Nor calle hur be no fowle name, <NOTE PLACE="foot">146 be] by; fowle] vylens.</NOTE></L>
+<L>For sche that schall lye be thy syde, <NOTE PLACE="foot">147 þat; schal; ly; þy.</NOTE></L>
+<L>To calle hur foule hyt ys þy schame. <NOTE PLACE="foot">148 hyt] yt.</NOTE></L>
+<L>When þou þyn own wyfe wyll dyffame, <NOTE PLACE="foot">149 whan; thyne; owen; wyl.</NOTE></L>
+<L>Well may an other man do soo. <MILESTONE N="150"/> <NOTE PLACE="foot">150 wele; othyr; so.</NOTE></L>
+<L>Softe and feyre men make tame <NOTE PLACE="foot">151 soft; fayre.</NOTE></L>
+<L>Harte, bukk and wylde roo. <NOTE PLACE="foot">152 hert and buk.</NOTE></L>
+</LG>
+<LG N="20">
+<HEAD>20.</HEAD>
+<L>Also, sone, pay ryȝt wele thy tythe, <NOTE PLACE="foot">153 also] and; þou <HI REND="italic">vor</HI> pay; ryȝt <HI REND="italic">fehlt C, aus H</HI><SUP>2</SUP> <HI REND="italic">eingesetzt;</HI> þy.</NOTE></L>
+<L>And pore men of þy gode þou dele;</L>
+<L>And loke, sone, be thy lyve, <MILESTONE N="155"/> <NOTE PLACE="foot">155 and] an; þy; lyfe.</NOTE></L>
+<L>Þou gete þy soule here some hele. <NOTE PLACE="foot">156 that <HI REND="italic">vor</HI> þou <HI REND="italic">C;</HI> sowle; sum.</NOTE></L>
+<L>Thys worlde hyt ys full fekyll and frele, <NOTE PLACE="foot">157 þys; werld; full fekyll and frele] but fantomye; <HI REND="italic">die vier letzten Wörter dieses Verses sind in H</HI><SUP>2</SUP> <HI REND="italic">mit anderer Tinte durchgestrichen und darüber ist von fremder Hand geschrieben:</HI> turnys evyn as a whele.</NOTE></L>
+<L>All day be day hyt wyll enpayre; <NOTE PLACE="foot">158 wyl.</NOTE></L>
+<L>And so, sone, thys worldys weele <NOTE PLACE="foot">159 þys; wele.</NOTE></L>
+<L>Hyt faryth but as a cheryfeyre. <MILESTONE N="160"/> <NOTE PLACE="foot">160 cheryfayre.</NOTE></L>
+</LG>
+<LG N="21">
+<PB N="34" REF="44"/>
+<HEAD>21.</HEAD>
+<L>For all that ever man doyth here <NOTE PLACE="foot">161 þat; evyr; doth.</NOTE></L>
+<L>Wyth besynesse and travell boþe, <NOTE PLACE="foot">162 bothe.</NOTE></L>
+<L>All hyt ys, withowten were, <NOTE PLACE="foot">163 hyt <HI REND="italic">fehlt;</HI> wythowtyn.</NOTE></L>
+<L>For owre mete, drynke and clothe. <NOTE PLACE="foot">164 oure; drynk; clothe <HI REND="italic">H</HI><SUP>2</SUP>] slepe <HI REND="italic">C.</HI></NOTE></L>
+<L>More gettyþ he not, withowten othe, <MILESTONE N="165"/> <NOTE PLACE="foot">165 yetys; wythowtyn.</NOTE></L>
+<L>Kynge or prynce wheþur þat he bee; <NOTE PLACE="foot">166 kyng; pynce; whethyr; be.</NOTE></L>
+<L>Be hym lefe or be hym lothe, <NOTE PLACE="foot">167 loth.</NOTE></L>
+<L>A pore man hath as moche as hee. <NOTE PLACE="foot">168 has; mych; he.</NOTE></L>
+</LG>
+<LG N="22">
+<HEAD>22.</HEAD>
+<L>And many a man her gedryþ gode <NOTE PLACE="foot">169 here; gadrys.</NOTE></L>
+<L>All hys lyfetyme for other men, <MILESTONE N="170"/> <NOTE PLACE="foot">170 lyfetyme] lyfedayes; othyr.</NOTE></L>
+<L>That he may not, be the rode, <NOTE PLACE="foot">171 þat; be] by; þe.</NOTE></L>
+<L>Hym selfe oonys ete of an henne. <NOTE PLACE="foot">172 self; onys.</NOTE></L>
+<L>But be he dolvyn in hys denne, <NOTE PLACE="foot">173 yn; den.</NOTE></L>
+<L>An other shall come at hys laste ende, <NOTE PLACE="foot">174 othyr; schal; last.</NOTE></L>
+<L>Schall have hys wyfe and catell þen; <MILESTONE N="175"/> <NOTE PLACE="foot">175 schal; wyf; catel.</NOTE></L>
+<L>That he hath gaderyd, an oþer shall spende. <NOTE PLACE="foot">176 þat; has; gadred; other; schal.</NOTE></L>
+</LG>
+<LG N="23">
+<HEAD>23.</HEAD>
+<L>Therfore, sone, be my counsayle, <NOTE PLACE="foot">177 þer∣for; counseyle.</NOTE></L>
+<L>More then ynogh þou nevyr coveyte. <NOTE PLACE="foot">178 þen; þou] þu; covayt.</NOTE></L>
+<L>Thou wottyst not when deþe wyll þe assayle; <NOTE PLACE="foot">179 thou wottys▪ not] þu ne wost; wan; deth; wyl.</NOTE></L>
+<L>Thys worlde ys but þe fendys beyte. <MILESTONE N="180"/> <NOTE PLACE="foot">180 þys; werld; bayte.</NOTE></L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+<L>. . . . . . . . . . . . . .</L>
+</LG>
+<LG N="24">
+<PB N="35" REF="45"/>
+<HEAD>24.</HEAD>
+<L>For dethe, sone, ys, as y trowe, <MILESTONE N="185"/> <NOTE PLACE="foot">185 deth; sone, ys] ys, sone; y] i.</NOTE></L>
+<L>The moost certeyn þyng þat ys; <NOTE PLACE="foot">186 þe; most; certyn; thyng; <HI REND="italic">Wortstellung nach β 146;</HI> the moost þyng þat certeyn ys <HI REND="italic">CH</HI><SUP>2</SUP>; uncer∣ten <HI REND="italic">C.</HI></NOTE></L>
+<L>And none so uncerteyn for to knowe, <NOTE PLACE="foot">187 non; uncerteyn.</NOTE></L>
+<L>As ys the tyme of dethe, ywys. <NOTE PLACE="foot">188 þe; deth.</NOTE></L>
+<L>And therfore, sone, thynke on thys <NOTE PLACE="foot">189 þerfore; thynke] þou thynk.</NOTE></L>
+<L>And all þat y have seyde beforne. <MILESTONE N="190"/> <NOTE PLACE="foot">190 al; y] i; seyd; beforn.</NOTE></L>
+<L>And Jhesu brynge us to hys blys, <NOTE PLACE="foot">191 brynge] brynd.</NOTE></L>
+<L>That for us weryd the crowne of thorne." <NOTE PLACE="foot">192 þe; thorn.</NOTE></L>
+</LG>
+</DIV2>
+<DIV2 N="2" TYPE="version">
+<HEAD>2. Text <HI REND="italic">β.</HI> <NOTE PLACE="foot"><HI REND="italic">Lesarten von</HI> B. <HI REND="italic">Beide Hss. sind ohne Überschrift.</HI></NOTE> </HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Listniþ, lordingis, and ȝe schulen here, <NOTE PLACE="foot">1 lystyn; lordyng, <HI REND="italic">mit einem grossen Haken am Ende;</HI> ye; shall.</NOTE></L>
+<L>How þe wise man tauȝt his sonne, <NOTE PLACE="foot">2 the; wyse; tawght; son.</NOTE></L>
+<L>And take good tent to þis matere, <NOTE PLACE="foot">3 gud; tent] hede; this; mater.</NOTE></L>
+<L>And leerne it also, if ȝe kunne. <NOTE PLACE="foot">4 and thynke to lern yt yff ye conn.</NOTE></L>
+<L>Þis song was maad bi good resoun, <MILESTONE N="5"/> <NOTE PLACE="foot">5 this sample for yong men was fyrst fonn.</NOTE></L>
+<L>To make men true and stidfast; <NOTE PLACE="foot">6 men] them; trew; stedfast.</NOTE></L>
+<L>And whanne a þing is weel bigunne, <NOTE PLACE="foot">7 when; thynge; ys; well; begonn.</NOTE></L>
+<L>It makiþ a good eende at þe laste. <NOTE PLACE="foot">8 yt; makyth; gud; end; the; last.</NOTE></L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Ther was a wise man, tauȝt his child, <NOTE PLACE="foot">9 a wyse man had a fayre man chyld.</NOTE></L>
+<L>While it was ȝong and tendir of age; <MILESTONE N="10"/> <NOTE PLACE="foot">10 he tawght hym well in tender age.</NOTE></L>
+<L>Þe child was boþe meeke and mylde, <NOTE PLACE="foot">11 the; boþe <HI REND="italic">fehlt;</HI> meeke] gentill; mylde] myelde <HI REND="italic">L,</HI> myld <HI REND="italic">B.</HI></NOTE></L>
+<L>Faire of body and of visage. <NOTE PLACE="foot">12 faire] and fayer; of visage] vysage.</NOTE></L>
+<L><PB N="36" REF="46"/>
+To leerne it hadde a good corage, <NOTE PLACE="foot">13 lern; yt; had; gud.</NOTE></L>
+<L>And to al goodnesse a greet desire; <NOTE PLACE="foot">14 and to please god was his desyre.</NOTE></L>
+<L>With good ensaumple and faire langage <MILESTONE N="15"/> <NOTE PLACE="foot">15 ensample; <HI REND="italic">Ligatur für</HI> and <HI REND="italic">zweimal hinter einander;</HI> fayer.</NOTE></L>
+<L>His fadir tauȝt him weel and faire. <NOTE PLACE="foot">16 fa∣der; tawght; hym; well; fayer.</NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>And seide: "My sonne, take good hede, <NOTE PLACE="foot">17 said; son; gud.</NOTE></L>
+<L>Bi þe morewe every day, <NOTE PLACE="foot">18 by; the; mornyng.</NOTE></L>
+<L>Or þou do ony worldli deede, <NOTE PLACE="foot">19 ony] any; worldly; wordli <HI REND="italic">L;</HI> dede.</NOTE></L>
+<L>Lifte up þin herte to god and pray <MILESTONE N="20"/> <NOTE PLACE="foot">20 lyft; þin] thy; hart.</NOTE></L>
+<L>Devoutly, as þou can or may,</L>
+<L>Þat þou in grace þi liif may lede, <NOTE PLACE="foot">22 that; thou; thi; lyff.</NOTE></L>
+<L>And synne to flee boþe nyȝt and day <NOTE PLACE="foot">23 fle; both; nyght.</NOTE></L>
+<L>Þat hevenblis may be þi mede. <NOTE PLACE="foot">24 he∣vyn; thy.</NOTE></L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>And, sonne, where þat evere þou go, <MILESTONE N="25"/> <NOTE PLACE="foot">25 wher; þou go] þou cum or go.</NOTE></L>
+<L>Be not to talewiis bi no wey; <NOTE PLACE="foot">26 be well avysed what thou say.</NOTE></L>
+<L>Þin owne tunge may be þi foo. <NOTE PLACE="foot">27 for thyn own tong; thy.</NOTE></L>
+<L>Þerfore be waar what þou doist say, <NOTE PLACE="foot">28 therfor be ware by any way.</NOTE></L>
+<L>Where and to whom, be ony wey, <NOTE PLACE="foot">29 wher; be ony wey] and what þou say.</NOTE></L>
+<L>Take good hede, if þou do seie ouȝt; <MILESTONE N="30"/> <NOTE PLACE="foot">30 gud; yff; do <HI REND="italic">fehlt;</HI> say; owght.</NOTE></L>
+<L>For þou myȝte seie a word to day, <NOTE PLACE="foot">31 thou; myght; say; worde.</NOTE></L>
+<L>Þat VII ȝeer after may be forþouȝt. <NOTE PLACE="foot">32 that; yere; may] myght; forthowght.</NOTE></L>
+</LG>
+<LG N="5">
+<HEAD>5.</HEAD>
+<L>And, sonne, what maner man þou be, <NOTE PLACE="foot">33 thou.</NOTE></L>
+<L>Ȝeeve þee not to ydilnesse, <NOTE PLACE="foot">34 ȝeeve] draw; the; ydylnes.</NOTE></L>
+<L>But take good heede of þi degree, <MILESTONE N="35"/> <NOTE PLACE="foot">35 hede; of] to; thy; degre.</NOTE></L>
+<L>And þeron do þi bisynesse. <NOTE PLACE="foot">36 theron; thy; besynes.</NOTE></L>
+<L><PB N="37" REF="47"/>
+Be waar of reste and ydilnesse, <NOTE PLACE="foot">37 be ware; rest; ydylnes.</NOTE></L>
+<L>Whiche þingis norischen slouþe, <NOTE PLACE="foot">38 for þat ys a thyng þat norissheith slowth.</NOTE></L>
+<L>And evere be bisi, more or lesse, <NOTE PLACE="foot">39 and evere be bisi] but ay be besy; lasse.</NOTE></L>
+<L>It is a ful good signe of trouþe. <MILESTONE N="40"/> <NOTE PLACE="foot">40 yt; ys; ful <HI REND="italic">fehlt;</HI> trowth.</NOTE></L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>And, sonne, also y waarne þee, <NOTE PLACE="foot">41 y] i; warn; the.</NOTE></L>
+<L>Desire noon office for to beere, <NOTE PLACE="foot">42 desyre; non; offyce; bere.</NOTE></L>
+<L>For þan it wole noon oþir bee, <NOTE PLACE="foot">43 than; yt; wole] will; non; other; be.</NOTE></L>
+<L>Þou muste þi neiȝboris displese and dere, <NOTE PLACE="foot">44 þou muste] but þou must; neyghbowr.</NOTE></L>
+<L>Or ellis þou muste þi silf forswere <MILESTONE N="45"/> <NOTE PLACE="foot">45 ells; þou muste þi silf] thi self thou must.</NOTE></L>
+<L>And do not as þin office wolde, <NOTE PLACE="foot">46 þin] thy; offyce; wold.</NOTE></L>
+<L>And gete þe mawgre heere and þeere, <NOTE PLACE="foot">47 gett; the; maugre; here; ther.</NOTE></L>
+<L>More þan þank a hundridfolde. <NOTE PLACE="foot">48 than; þank <HI REND="italic">fehlt;</HI> hundrid] thowsand; fold.</NOTE></L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>And, sonne, as fer as þou may lere, <NOTE PLACE="foot">49 may] mayst; lere] here.</NOTE></L>
+<L>On yvel qwestis þou not comme, <MILESTONE N="50"/> <NOTE PLACE="foot">50 on no evill quest loke þat thou cum.</NOTE></L>
+<L>Neiþer fals witnes þou noon bere <NOTE PLACE="foot">51 ne∣ther; falce; wytnes; þou noon] þat thou.</NOTE></L>
+<L>On no mannys matere, al neiþer somme; <NOTE PLACE="foot">52 mater; all; neiþer] ne; sum.</NOTE></L>
+<L>Þou were betere be deef and dombe, <NOTE PLACE="foot">53 for hyt were better be def or dume.</NOTE></L>
+<L>Þan falseli go upon a qweste; <NOTE PLACE="foot">54 than; falsly; to <HI REND="italic">vor</HI> go <HI REND="italic">L;</HI> quest.</NOTE></L>
+<L>Sonne, þinke upon þat dreedful doomme <MILESTONE N="55"/> <NOTE PLACE="foot">55 sone; thynk; þat] the; dredfull; dome.</NOTE></L>
+<L>How god schal deeme us at þe laste. <NOTE PLACE="foot">56 shall; deme; the; last.</NOTE></L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>And, sonne, of oon þing y þee waarne, <NOTE PLACE="foot">57 sun; oon] on; thyng; y] i; the; warne.</NOTE></L>
+<L>And on my blessynge take good hede, <NOTE PLACE="foot">58 blessyng; gud.</NOTE></L>
+<L><PB N="38" REF="48"/>
+Be waar of usinge þe taverne; <NOTE PLACE="foot">59 be ware; usyng; of <HI REND="italic">vor</HI> þe <HI REND="italic">L;</HI> the.</NOTE></L>
+<L>Also þe diis y þee forbede. <MILESTONE N="60"/> <NOTE PLACE="foot">60 and <HI REND="italic">vor</HI> also <HI REND="italic">L;</HI> the; dyce; y] i.</NOTE></L>
+<L>And flee al letcherie in wil and dede, <NOTE PLACE="foot">61 fle; all; lechery; will.</NOTE></L>
+<L>Lest þou come to yvel preef, <NOTE PLACE="foot">62 cum; yvel] evyll; preef] spede and pref.</NOTE></L>
+<L>For alle þi wittis it wole overlede <NOTE PLACE="foot">63 all; thy; wyttis; yt; wole] will.</NOTE></L>
+<L>And bringe þee into greet myscheef. <NOTE PLACE="foot">64 bryng; þee; into] to; gret; myschef.</NOTE></L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>And, sonne, sitte not up at even to longe, <MILESTONE N="65"/></L>
+<L>Neiþer use no rere souperis late;</L>
+<L>Þauȝ þou be boþe hool an strong,</L>
+<L>With such outrage it wole aslake. <NOTE PLACE="foot">65-68<HI REND="italic">fehlen.</HI></NOTE></L>
+<L>And of late waking comeþ debate, <NOTE PLACE="foot">69 walkyng; wal∣king <HI REND="italic">L, gebessert nach α 77;</HI> cumyth.</NOTE></L>
+<L>And out of tyme to sitte and drink. <MILESTONE N="70"/> <NOTE PLACE="foot">70 owt; syte; drynke.</NOTE></L>
+<L>Þerfore be waar and kepe þi state, <NOTE PLACE="foot">71 therfor; be ware; þi] the; state] algate.</NOTE></L>
+<L>And go to bedde bi tyme and wynke. <NOTE PLACE="foot">72 bede; bi] be.</NOTE></L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>And, sonne, if þou wolt have a wiif, <NOTE PLACE="foot">73 sone; yff; wolt] wilt; wyff.</NOTE></L>
+<L>Take hir not for coveitise, <NOTE PLACE="foot">74 hir] her; covytice.</NOTE></L>
+<L>But wyseli enqweere of al hir liif, <MILESTONE N="75"/> <NOTE PLACE="foot">75 but wy∣sely wayte and make gud pref.</NOTE></L>
+<L>And take good hede bi myn avice, <NOTE PLACE="foot">76 <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>Þat sche be meeke, curteis and wys. <NOTE PLACE="foot">77 she; meke; curteys; wyse.</NOTE></L>
+<L>Þouȝ sche be poore, take þou noon hede, <NOTE PLACE="foot">78 thowgh; she; pore; non.</NOTE></L>
+<L>And sche wole do þee more service, <NOTE PLACE="foot">79 for she will do the good servyce; good <HI REND="italic">vor</HI> service <HI REND="italic">L.</HI></NOTE></L>
+<L>Þan will a riccher, whanne þou hast neede. <MILESTONE N="80"/> <NOTE PLACE="foot">80 than will a rychar; will <HI REND="italic">fehlt L, aus B eingesetzt;</HI> whan; nede.</NOTE></L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>And if þi wyf be meeke and good, <NOTE PLACE="foot">81 yff; thy; wyff; meke; gud.</NOTE></L>
+<L>And serviþ þee weel and plesauntly, <NOTE PLACE="foot">82 serve; þee] the; well.</NOTE></L>
+<L><PB N="39" REF="49"/>
+Loke þat þou be not so woode, <NOTE PLACE="foot">83 þat <HI REND="italic">fehlt;</HI> thou; wode.</NOTE></L>
+<L>To charge hir to grevously; <NOTE PLACE="foot">84 her.</NOTE></L>
+<L>But rewle hir faire and eesili, <MILESTONE N="85"/> <NOTE PLACE="foot">85 rule; hir] þee <HI REND="italic">L,</HI> her <HI REND="italic">B;</HI> fayer; easly.</NOTE></L>
+<L>And cherische hir weel for hir good dede; <NOTE PLACE="foot">86 cherrysshe; her; well; her; gud.</NOTE></L>
+<L>For overdoon þing unskilfully <NOTE PLACE="foot">87 overdo; thyng; unskilfully] unwysly.</NOTE></L>
+<L>Makiþ gryf to growe, whanne it is no nede. <NOTE PLACE="foot">88 makyth; gryf <HI REND="italic">fehlt;</HI> grow; whanne] wher; it <HI REND="italic">fehlt;</HI> ys.</NOTE></L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>For it is betere with reste and pees <NOTE PLACE="foot">89 yt; is] were; better; rest. pease.</NOTE></L>
+<L>A melis meete of hoomeli fare, <MILESTONE N="90"/> <NOTE PLACE="foot">90 melys; mete; hoomeli] husbondry and homely.</NOTE></L>
+<L>Þan for to have an hundrid mees <NOTE PLACE="foot">91 than; a hundred messe.</NOTE></L>
+<L>With grucchinge and wiþ myche care. <NOTE PLACE="foot">92 gro∣gyng; wiþ <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>And þerfore leerne weel þis lore: <NOTE PLACE="foot">93 therfor, my son, lerne well the lore.</NOTE></L>
+<L>If þou wolt have a wyf with eese, <NOTE PLACE="foot">94 yff; thow; wylt; wyff; ease.</NOTE></L>
+<L>For ritchesse take hir nevere þe more, <MILESTONE N="95"/> <NOTE PLACE="foot">95 riches; her; never; the.</NOTE></L>
+<L>Þouȝ sche wolde þee boþe feffe and ceese. <NOTE PLACE="foot">96 thowgh; she; wolde] will; þee] the; both; sease.</NOTE></L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>And þou schalt not þi wyf displese, <NOTE PLACE="foot">97 shalt; thy; wyff; displese] dyspyse.</NOTE></L>
+<L>Neiþer calle hir bi no vilouns name; <NOTE PLACE="foot">98 neiþer] ne; call; her; by; violens.</NOTE></L>
+<L>And if þou do, þou art not wys, <NOTE PLACE="foot">99 and yff thou do in any wyse.</NOTE></L>
+<L>To calle hir foule it is þi schame. <MILESTONE N="100"/> <NOTE PLACE="foot">100 to myssecall thy wyffe yt ys thy schame.</NOTE></L>
+<L>If þou þin owne wyf wilt defame, <NOTE PLACE="foot">101 and yf þou wilt thyn own defame.</NOTE></L>
+<L>No wondir þouȝ an oþir do so. <NOTE PLACE="foot">102 wonder; thowgh; other; soo.</NOTE></L>
+<L>But softe and faire a man may tame <NOTE PLACE="foot">103 soft; fayer.</NOTE></L>
+<L>Boþe herte and hynde, bucke and do. <NOTE PLACE="foot">104 bothe; hart; and <HI REND="italic">fehlt;</HI> hynd; boke; doo.</NOTE></L>
+</LG>
+<LG N="14">
+<PB N="40" REF="50"/>
+<HEAD>14.</HEAD>
+<L>And y wole neiþir glose ne peynt, <MILESTONE N="105"/> <NOTE PLACE="foot">105 and y wole neiþir] and, son, i will nother; paynt.</NOTE></L>
+<L>But y waarne þee on þe oþir side: <NOTE PLACE="foot">106 but <HI REND="italic">fehlt;</HI> y] i; warn; þee] the; þe] þat; other; syde.</NOTE></L>
+<L>If þi wyf come wiþ a playnt <NOTE PLACE="foot">107 yff; thy; wyffe; cum; wyth.</NOTE></L>
+<L>On man or child at ony tide, <NOTE PLACE="foot">108 or <HI REND="italic">fehlt;</HI> chyld; at ony tide] for any dede.</NOTE></L>
+<L>Be not to hasti to fiȝte and chide, <NOTE PLACE="foot">109 hasty; fyght; and] ne; chyde.</NOTE></L>
+<L>Ne wreche, til þou know þe soþe; <MILESTONE N="110"/> <NOTE PLACE="foot">110 ne wreche <HI REND="italic">B]</HI> and be not awreke <HI REND="italic">L;</HI> til] or; þe soþe] the sothe owt.</NOTE></L>
+<L>For in wraþþe þou myȝte make a braide, <NOTE PLACE="foot">111 myght; brayde.</NOTE></L>
+<L>Þat aftirwarde schulde rewe ȝou boþe. <NOTE PLACE="foot">112 that VII yere after myght be forthowght.</NOTE></L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>And, sonne, if þou be weel at eese <NOTE PLACE="foot">113 sone; yf; well; at] a; ease.</NOTE></L>
+<L>And warme amonge þi neiȝboris sitte, <NOTE PLACE="foot">114 among; thy; neyghbowrs; sitte] sete.</NOTE></L>
+<L>Be not newfangil in no wise, <MILESTONE N="115"/> <NOTE PLACE="foot">115 new∣fangle; wyse; wisee <HI REND="italic">L.</HI></NOTE></L>
+<L>Neiþer hasti for to chaunge ne flitte. <NOTE PLACE="foot">116 neiþer] ne; hasty; ne] and; flete.</NOTE></L>
+<L>And if þou do, þou wantist witte <NOTE PLACE="foot">117 if <HI REND="italic">fehlt;</HI> þou] <HI REND="italic">beide Male</HI> thow; wantist witte] art not wyse.</NOTE></L>
+<L>And art unstable on every side; <NOTE PLACE="foot">118 <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>And also men wole speke of itt <NOTE PLACE="foot">119 also <HI REND="italic">fehlt;</HI> wole] will; itt] that.</NOTE></L>
+<L>And seie: þis foole can not abide. <MILESTONE N="120"/> <NOTE PLACE="foot">120 say; this; fole; not <HI REND="italic">B]</HI> nowhere <HI REND="italic">L;</HI> abyde.</NOTE></L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>And, sonne, þe more good þat þou hast, <NOTE PLACE="foot">121 sonne <HI REND="italic">fehlt;</HI> the; gud; thou.</NOTE></L>
+<L>Þe raþer bere þee meeke and lowe. <NOTE PLACE="foot">122 the; rather; þee <HI REND="italic">fehlt;</HI> meke.</NOTE></L>
+<L>And booste not myche, it is but waast; <NOTE PLACE="foot">123 bost; yt; ys; wast.</NOTE></L>
+<L>Bi boostynge men mowe foolis knowe. <NOTE PLACE="foot">124 for by bostyng men may folys know.</NOTE></L>
+<L><PB N="41" REF="51"/>
+And loke þou paye weel þat þou doost owe; <MILESTONE N="125"/> <NOTE PLACE="foot">125 and] but; thow; pay; well; thow; doost <HI REND="italic">fehlt in B.</HI></NOTE></L>
+<L>And bi oþir richesse sette no greet price, <NOTE PLACE="foot">126 by; oþir] myche; ryches; gret; pryce.</NOTE></L>
+<L>For deeþ wole take boþe hiȝe and lowe, <NOTE PLACE="foot">127 dethe; wole] will; both; high.</NOTE></L>
+<L>And þan fareweel al þat þere is. <NOTE PLACE="foot">128 than; farewell; all; ther; ys;</NOTE></L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>And þerfore do þou bi my counsaylle, <NOTE PLACE="foot">129 <HI REND="italic">fehlt;</HI> councelle <HI REND="italic">L; s. Anm. z. Stelle.</HI></NOTE></L>
+<L>And take ensaumple of oþir men, <MILESTONE N="130"/> <NOTE PLACE="foot">130 ensaumpull; other.</NOTE></L>
+<L>How litil her good dooþ hem availe, <NOTE PLACE="foot">131 howe; lytle; her] ther; doth; hem]them; avayle.</NOTE></L>
+<L>Whanne þei be dolven in her den, <NOTE PLACE="foot">132 whan; they; dolve; in her den] and rotyn.</NOTE></L>
+<L>And he þat was not of his kyn, <NOTE PLACE="foot">133 and <HI REND="italic">fehlt;</HI> was not] never was; hys; kynne.</NOTE></L>
+<L>Haþ his wyf and þat þere is. <NOTE PLACE="foot">134 hath; hys; wyffe; þat þere is] all þat ever ys.</NOTE></L>
+<L>Sonne, kepe þee out of deedly synne, <MILESTONE N="135"/> <NOTE PLACE="foot">135 sone; þee] the; owt; dedely.</NOTE></L>
+<L>And lerne to gete þee paradys. <NOTE PLACE="foot">136 lerne <HI REND="italic">B]</HI> asaye <HI REND="italic">L;</HI> þee <HI REND="italic">fehlt;</HI> paradyse.</NOTE></L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>And of þi trespas make ameendis, <NOTE PLACE="foot">137 <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>And to poore men of þi good þou dele, <NOTE PLACE="foot">138 and of thy good to pore men thow dele.</NOTE></L>
+<L>And of þi foomen make þi freendis, <NOTE PLACE="foot">139 of <HI REND="italic">fehlt;</HI> thy; foomen] foyes; thy; frendis.</NOTE></L>
+<L>And love to gete þee souleheele. <MILESTONE N="140"/> <NOTE PLACE="foot">140 love <HI REND="italic">B]</HI> asaye <HI REND="italic">L;</HI> þee] the; sowlehele.</NOTE></L>
+<L>For þe world is boþe fals and freel, <NOTE PLACE="foot">141 þe] this; ys; boþe <HI REND="italic">fehlt;</HI> false; freel] fykyll.</NOTE></L>
+<L>And every day it dooþ appaire; <NOTE PLACE="foot">142 doth; apayer.</NOTE></L>
+<L>Sonne, sette not bi þis worldis weele, <NOTE PLACE="foot">143 sone; sett; by; this; worldis] world <HI REND="italic">mit grossem Haken;</HI> wele.</NOTE></L>
+<L>For it fariþ but as a cherifaire. <NOTE PLACE="foot">144 yt; faryth; but <HI REND="italic">fehlt;</HI> as a] as doth a; cheryfayre.</NOTE></L>
+</LG>
+<LG N="19">
+<PB N="42" REF="52"/>
+<HEAD>19.</HEAD>
+<L>And deeþ is evere, as y trowe, <MILESTONE N="145"/> <NOTE PLACE="foot">145 dethe ys ever as in towne.</NOTE></L>
+<L>Þe moost certeyn þing þat is; <NOTE PLACE="foot">146 the moost serteyn thyng that ys.</NOTE></L>
+<L>And no þing so uncerteyn to knowe, <NOTE PLACE="foot">147 thyng; is <HI REND="italic">vor</HI> so <HI REND="italic">L;</HI> unserteyn; known.</NOTE></L>
+<L>As is þe tyme of deeþ, ywis. <NOTE PLACE="foot">148 ys; the; dethe; ywys.</NOTE></L>
+<L>Þerfore, my sonne, þinke on þis <NOTE PLACE="foot">149 therfor; son; thynke well on this.</NOTE></L>
+<L>And al þat y have seid biforn. <MILESTONE N="150"/> <NOTE PLACE="foot">150 and <HI REND="italic">B]</HI> of <HI REND="italic">L;</HI> all; that; y] i; sayd; beforne.</NOTE></L>
+<L>And Jhesu bringe us to his blis, <NOTE PLACE="foot">151 bryng; hys; blysse.</NOTE></L>
+<L>Þat for us bare þe crowne of þorn." Amen. <NOTE PLACE="foot">152 that; þe] a; crown; thorn. Amen <HI REND="italic">fehlt. Am Schlusse von B:</HI> Explicit how the wyse man tawght his son.</NOTE></L>
+</LG>
+</DIV2>
+<DIV2 N="3" TYPE="version">
+<HEAD>3. Text <HI REND="italic">γ.</HI> <NOTE PLACE="foot"><HI REND="italic">Lesarten von</HI> A.</NOTE> </HEAD>
+<LG N="1">
+<HEAD>1.</HEAD>
+<L>Lordynges all, and ȝe wyll her, <NOTE PLACE="foot">1 lordynges] lordyng <HI REND="italic">H</HI><SUP>1</SUP> <HI REND="italic">A mit grossem Schnörkel am Ende;</HI> all <HI REND="italic">fehlt;</HI> here.</NOTE></L>
+<L>How a wys man tawght hys sone, <NOTE PLACE="foot">2 wyse; tauȝht; tawgh <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Makes good hed to þys mater, <NOTE PLACE="foot">3 makes] take; god; hede; þis.</NOTE></L>
+<L>And fonde to lerne it, yff ȝe con. <NOTE PLACE="foot">4 fond] fynd; it yff <HI REND="italic">A,</HI> to þat <HI REND="italic">H</HI><SUP>1</SUP>; canne.</NOTE></L>
+<L>By ȝong men þys song was bygon, <MILESTONE N="5"/> <NOTE PLACE="foot">5 þis songe for ȝonge men was begon; fyrst <HI REND="italic">vor</HI> bygon <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>To make hem trew and stedefast; <NOTE PLACE="foot">6 hem] them; hen <HI REND="italic">H</HI><SUP>1</SUP>; stedfaste.</NOTE></L>
+<L>For ȝern þat ys ewyll ysponn, <NOTE PLACE="foot">7 for <HI REND="italic">fehlt H</HI><SUP>1</SUP>, <HI REND="italic">aus A eingesetzt;</HI> ȝerne; is; evyll; spon.</NOTE></L>
+<L>Fowle hit wel come owte at þe last. <NOTE PLACE="foot">8 fowle] evyll; ffolwe <HI REND="italic">H</HI><SUP>1</SUP>; hit] it; wel come] comes; out; laste.</NOTE></L>
+</LG>
+<LG N="2">
+<HEAD>2.</HEAD>
+<L>Ther was a wys man, had a chyld, <NOTE PLACE="foot">9 ther] yt; wyse.</NOTE></L>
+<L>That was XV wynter of age, <MILESTONE N="10"/> <NOTE PLACE="foot">10 that <HI REND="italic">fehlt;</HI> XV] fully XV.</NOTE></L>
+<L>Of maners he was meke and myld, <NOTE PLACE="foot">11 maneres.</NOTE></L>
+<L>Feyr of body and of vesage, <NOTE PLACE="foot">12 feyr] gentyll; of <HI REND="italic">vor</HI> vesage <HI REND="italic">fehlt H</HI><SUP>1</SUP>, <HI REND="italic">aus A eingesetzt;</HI> vsage.</NOTE></L>
+<L><PB N="43" REF="53"/>
+Jentyl of kend and of lenag. <NOTE PLACE="foot">13 (= <HI REND="italic">A 16)</HI> gentyll; of <HI REND="italic">A]</HI> and <HI REND="italic">H</HI><SUP>1</SUP>; kend] kynd; lenag] corage.</NOTE></L>
+<L>Becawse he was hys faderes eyr, <NOTE PLACE="foot">14 (= <HI REND="italic">A 13)</HI> bycause; his; faderes <HI REND="italic">fehlt H</HI><SUP>1</SUP>, <HI REND="italic">aus A eingesetzt;</HI> ayer.</NOTE></L>
+<L>Hys fader þus in hys langage <MILESTONE N="15"/> <NOTE PLACE="foot">15 (= <HI REND="italic">A 14)</HI> his; in] on; hys] þis; langage <HI REND="italic">A]</HI> lange <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>He tauȝht hys sone boþ wel and feyr. <NOTE PLACE="foot">16 (= <HI REND="italic">A 15)</HI> he <HI REND="italic">fehlt;</HI> tauȝt <HI REND="italic">A]</HI> tauȝh <HI REND="italic">H</HI><SUP>1</SUP>; his; boþ <HI REND="italic">fehlt;</HI> wele; feyre.</NOTE></L>
+</LG>
+<LG N="3">
+<HEAD>3.</HEAD>
+<L>And seyd: "Sone, hawe þys word in hert, <NOTE PLACE="foot">17 have; þis; herte.</NOTE></L>
+<L>Thenke þeron fort thow be ded, <NOTE PLACE="foot">18 thenke] and thynke; then <HI REND="italic">H</HI><SUP>1</SUP>; fort] when; thow be ded] I ame dede.</NOTE></L>
+<L>Every day thy fyrst werk <NOTE PLACE="foot">19 dey; thy] þe; werke.</NOTE></L>
+<L>That hyt be don in elke a stede: <MILESTONE N="20"/> <NOTE PLACE="foot">20 loke it be done in every sted.</NOTE></L>
+<L>Go see thy god in forme of brede, <NOTE PLACE="foot">21 se; þi; form; bred.</NOTE></L>
+<L>And thank thy god of hys godenesse. <NOTE PLACE="foot">22 thanke; þi; his; god∣nesse.</NOTE></L>
+<L>And afterward, sone, thys ys my red, <NOTE PLACE="foot">23 afterwarte <HI REND="italic">H</HI><SUP>1</SUP>; thys ys my red] be my rede.</NOTE></L>
+<L>Go to thy worldely bessynesse. <NOTE PLACE="foot">24 to] do; thy] þi; worldely] werld<HI REND="italic">es;</HI> wordely <HI REND="italic">H</HI><SUP>1</SUP>; besynesse.</NOTE></L>
+</LG>
+<LG N="4">
+<HEAD>4.</HEAD>
+<L>Sone, fyrst wurschep god onys a day, <MILESTONE N="25"/> <NOTE PLACE="foot">25 sone] bot; worscype; thy <HI REND="italic">vor</HI> god <HI REND="italic">H</HI><SUP>1</SUP>; onys a] on þe; dey.</NOTE></L>
+<L>Þys schalt thow have to thy mede: <NOTE PLACE="foot">26 þys <HI REND="italic">fehlt H</HI><SUP>1</SUP>, vgl. <HI REND="italic">α</HI></NOTE></L>
+<L>Loke ryghtfully qwath þou wylt pray, <NOTE PLACE="foot">27 loke <HI REND="italic">fehlt;</HI> ryghtfolly] <HI REND="italic">H</HI><SUP>1</SUP>, skyl∣fully <HI REND="italic">A;</HI> qwath] what; wyll; praye.</NOTE></L>
+<L>He wul þe grawnte, wytouten dred; <NOTE PLACE="foot">28 wul] wylle; grawnte] grownte <HI REND="italic">H</HI><SUP>1</SUP>, send <HI REND="italic">A;</HI> withouten <HI REND="italic">A,</HI> wytout eny <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>He wyl þe help, wan þou hast nede, <NOTE PLACE="foot">29 and send þe all þat thow hast nede.</NOTE></L>
+<L>Als fer as mesur wyl destrech. <MILESTONE N="30"/> <NOTE PLACE="foot">30 ferre; mesure; wyll; destreche, þe strech <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Loke mesurly þy lyf þou lede, <NOTE PLACE="foot">31 luke; thy; lyfe.</NOTE></L>
+<L>Of al the remenaunt þou der noȝt rech. <NOTE PLACE="foot">32 and of þe remynant þer þe not reche.</NOTE></L>
+</LG>
+<LG N="5">
+<PB N="44" REF="54"/>
+<HEAD>5.</HEAD>
+<L>And, sone, thy tonge þou kepe also, <NOTE PLACE="foot">33 and <HI REND="italic">fehlt H</HI><SUP>1</SUP>, <HI REND="italic">aus A eingesetzt;</HI> son; þi.</NOTE></L>
+<L>Be not to talewys by no way; <NOTE PLACE="foot">34 and tell not all thyng<HI REND="italic">es</HI> þat þou maye.</NOTE></L>
+<L>Thyn owne tonge may be thy fo. <MILESTONE N="35"/> <NOTE PLACE="foot">35 thyn owne] for þi; fo <HI REND="italic">A]</HI> fe <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Therfor be war, sone, as i say, <NOTE PLACE="foot">36 þerfor, my son, thynke what i sey; þe <HI REND="italic">vor</HI> say <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Loke hwer and qhan, sone, þou shalt pray, <NOTE PLACE="foot">37 where and when þat þou schall praye; hwr <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>And by qhom, sone, þou seyst owght; <NOTE PLACE="foot">38 by] be; qhom] whome; sone] þat; thou; owht.</NOTE></L>
+<L>For þou may sey a word to dey,</L>
+<L>That VII ȝere after may be forthouȝht. <MILESTONE N="40"/> <NOTE PLACE="foot">39,40 <HI REND="italic">fehlen H</HI><SUP>1</SUP>.</NOTE></L>
+</LG>
+<LG N="6">
+<HEAD>6.</HEAD>
+<L>Sone, of a thyng i þe warn,</L>
+<L>Of my blessyng take god hede, <NOTE PLACE="foot">42 hete <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Use not to mekyl þe wyntaverne,</L>
+<L>Also the dys i the forbyde. <NOTE PLACE="foot">44 the dys <HI REND="italic">vgl. β</HI> 60] dedys <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Thes er II thyng, wytowtyn drede, <MILESTONE N="45"/> <NOTE PLACE="foot">45 drede <HI REND="italic">vgl. α61]</HI> spede <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>And comen wymen, as i leve,</L>
+<L>They make yowng men ewyl to spede <NOTE PLACE="foot">47 yown <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>And falle in daunger and gret myschef. <NOTE PLACE="foot">48 falle] fallyth <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+</LG>
+<LG N="7">
+<HEAD>7.</HEAD>
+<L>Sone, loke thou wake not to long,</L>
+<L>Neþer no rer soper use not late; <MILESTONE N="50"/></L>
+<L>Wer thy complection never so strong,</L>
+<L>Wyt soche mysrule hyt wyl aslake.</L>
+<L>For late wakyng þer fallyth gret bate, <NOTE PLACE="foot">53 wakyng <HI REND="italic">vgl. α 77]</HI> walkyng <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Be nyght setting atte the drynk. <NOTE PLACE="foot">54 settong <HI REND="italic">H</HI><SUP>1</SUP>; drynk <HI REND="italic">vgl. α</HI> 78, <HI REND="italic">β</HI> 70] dryng <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>My sone, and þou wylt rule þy state, <MILESTONE N="55"/></L>
+<L>Be tyme go to thy bed and wynke.</L>
+</LG>
+<LG N="8">
+<HEAD>8.</HEAD>
+<L>My sone, asse forth as þou mayst her,</L>
+<L>On no manys qwest þat þou not come,</L>
+<L><PB N="45" REF="55"/>
+Ne fals wyttenyse þat þou not ber</L>
+<L>In no manis qwarell all no sum; <MILESTONE N="60"/></L>
+<L>Beter þou wer be both def and dom, <NOTE PLACE="foot">61 dom <HI REND="italic">vgl. α 85, β 53]</HI> don <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Than for to come on fals enqueyst,</L>
+<L>That afterward myght be undernom; <NOTE PLACE="foot">63 undernam <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Þat a trew man had hys quarell ilost.</L>
+</LG>
+<LG N="9">
+<HEAD>9.</HEAD>
+<L>My sone, and þou wul wedde a wyfe, <MILESTONE N="65"/></L>
+<L>Take hyr for no cowetyse,</L>
+<L>Loke, sone, by thy lyf,</L>
+<L>Thou wysely wayte and wel avyse, <NOTE PLACE="foot">68 thou] tho <HI REND="italic">H</HI><SUP>1</SUP>; and wel avyse, <HI REND="italic">s. Anm. z. Stelle]</HI> be wel a by syd <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Þat sche be clene and good of gyse.</L>
+<L>Thow sche be por, take þou no hede, <MILESTONE N="70"/></L>
+<L>For sche schall do þe more servyse,</L>
+<L>Than schall a rycher, wytowtyn dred.</L>
+</LG>
+<LG N="10">
+<HEAD>10.</HEAD>
+<L>Beter is yn rest and pese</L>
+<L>A mes of podag and no more,</L>
+<L>Þan for to habe an hundred mes <MILESTONE N="75"/> <NOTE PLACE="foot">75 an] han <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Wyt grete dysese and angur sor.</L>
+<L>Þerfor, lewe sone, thynk on my lor: <NOTE PLACE="foot">77 thynk <HI REND="italic">fehlt H</HI><SUP>1</SUP>, <HI REND="italic">vgl. α 101.</HI></NOTE></L>
+<L>If þou wylt have a wyf wyt ese,</L>
+<L>Be her good sett þou no stor,</L>
+<L>Thow sche wold þe both fefe and sese. <MILESTONE N="80"/></L>
+</LG>
+<LG N="11">
+<HEAD>11.</HEAD>
+<L>Sone, i can nether glose ne paynt,</L>
+<L>Kepe þe on þat odyr syde:</L>
+<L>Yf thy wyf comme to make a playnt <NOTE PLACE="foot">83 yf <HI REND="italic">vgl. α</HI> 115, <HI REND="italic">β</HI> 107] wayte <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Uponn thy meyne be tyme or tyde,</L>
+<L><PB N="46" REF="56"/>
+Be not to hasty them to chyde, <MILESTONE N="85"/> <NOTE PLACE="foot">85 them] they in <HI REND="italic">(oder</HI> m?) eny <HI REND="italic">H</HI><SUP>1</SUP>; chyde <HI REND="italic">vgl. α</HI> 117, <HI REND="italic">β</HI> 109] chylde <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Wreke þe not, or þou wete þe soth;</L>
+<L>Womanys wrath þat wyl nat hyde;</L>
+<L>The, sone, they conne be both rew and smoth. <NOTE PLACE="foot">41-88 <HI REND="italic">fehlen A.</HI></NOTE> <NOTE PLACE="foot">88 smath <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+</LG>
+<LG N="12">
+<HEAD>12.</HEAD>
+<L>Sone, thy wyf þou schalt not chyde, <NOTE PLACE="foot">89 þi; wyfe; schall.</NOTE></L>
+<L>Ne calle her by no velenys name, <MILESTONE N="90"/> <NOTE PLACE="foot">90 calle] caule; vy∣lons.</NOTE></L>
+<L>For sche þat schall ly by thy syde, <NOTE PLACE="foot">91 <HI REND="italic">aus A eingesetzt;</HI> þe woman þat lyth a nygth by thy syde <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>To calle hyr wykyd, it is thy schame. <NOTE PLACE="foot">92 <HI REND="italic">aus A eingesetzt;</HI> ȝyf þou calledest a morw wykyd, hyt ys thy schame <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Qwan thy weddyd wyf þou dost defame, <NOTE PLACE="foot">93 when þou schall thy wyfe defame; þou <HI REND="italic">vor</HI> thy <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Wele may an oþer man do so. <NOTE PLACE="foot">94 <HI REND="italic">aus A eingesetzt;</HI> qwhy blamyst a nodyr man, thow he do so <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Soft and feyr a man may tame <MILESTONE N="95"/> <NOTE PLACE="foot">95 soft and] bot sofer and; feyr <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>Both hert and hynde and þe wyld roo. <NOTE PLACE="foot">96 both <HI REND="italic">fehlt;</HI> hynd; ro.</NOTE></L>
+</LG>
+<LG N="13">
+<HEAD>13.</HEAD>
+<L>My sonne, bete þou nat thy wyf, y þe redd,</L>
+<L>Therof may ther non help aryse.</L>
+<L>Bethyng stant in non othyr stede,</L>
+<L>But for to make thy neȝgbar þat dyspyce. <MILESTONE N="100"/> <NOTE PLACE="foot">97-100 <HI REND="italic">fehlen A.</HI></NOTE></L>
+<L>Othyr lone awe thy wyf schastyse, <NOTE PLACE="foot">101 with loue and awe þi wyfe þou chastys; lone] lowe <HI REND="italic">H</HI><SUP>1</SUP>, <HI REND="italic">s. Anm. z. α 141.</HI></NOTE></L>
+<L>Lette feyr wordys, sone, be thy ȝerd; <NOTE PLACE="foot">102 lette] and late, feyre, word<HI REND="italic">es,</HI> worordys <HI REND="italic">H</HI><SUP>1</SUP>; sone <HI REND="italic">fehlt;</HI> goo <HI REND="italic">vor</HI> be <HI REND="italic">H</HI><SUP>1</SUP>; þi.</NOTE></L>
+<L>For lone awe ys the beste gyse, <NOTE PLACE="foot">103 lone <HI REND="italic">fehlt; s. o.;</HI> ys] it is; þe; best.</NOTE></L>
+<L>My sone, to make thy wyf aferd. <NOTE PLACE="foot">104 my sone <HI REND="italic">fehlt;</HI> to] forto; þi; wyfe.</NOTE></L>
+</LG>
+<LG N="14">
+<HEAD>14.</HEAD>
+<L>My sone, therfor þus rede i the, <MILESTONE N="105"/></L>
+<L>Werk wyt thy wyf, as reson ys;</L>
+<L><PB N="47" REF="57"/>
+Thow sche be servaunt in thys degre, <NOTE PLACE="foot">107 degre] degr <HI REND="italic">mit einem grossen Schnörkel am Ende H</HI><SUP>1</SUP>.</NOTE></L>
+<L>In som partys thy felow sche ys.</L>
+<L>They be not wys, so hawe i blysse,</L>
+<L>That conne not rule her wyfys aryght, <MILESTONE N="110"/></L>
+<L>Hyt makyt ofte hem to do amys,</L>
+<L>And settyn by goodys wedlek al to lyght. <NOTE PLACE="foot">105-112 <HI REND="italic">fehlen A.</HI></NOTE></L>
+</LG>
+<LG N="15">
+<HEAD>15.</HEAD>
+<L>Sone, be þou not gelos by no wey,</L>
+<L>For if þou fall in gelosye,</L>
+<L>Late not þi wyfe wyte be no wey, <MILESTONE N="115"/></L>
+<L>For þou mayst do no mor folye.</L>
+<L>For if thi wyfe myȝht ons aspye,</L>
+<L>Þat thou to her wold not tryst,</L>
+<L>Yn spyte of all þi fantysye, <NOTE PLACE="foot">119 spye, <HI REND="italic">das</HI> t <HI REND="italic">schon von Furnivall ein∣gesetzt.</HI></NOTE></L>
+<L>To werke hyr werst, þat is herre lyste. <MILESTONE N="120"/> <NOTE PLACE="foot">113-120 <HI REND="italic">fehlen H</HI><SUP>1</SUP>.</NOTE></L>
+</LG>
+<LG N="16">
+<HEAD>16.</HEAD>
+<L>My sone, paye trewely thy tythe, <NOTE PLACE="foot">121 sone, unto y <HI REND="italic">(lies mit Furnivall</HI> þi) god pay welle þi tythe.</NOTE></L>
+<L>And pour men of þi good þou dele; <NOTE PLACE="foot">122 pore; thy; gode.</NOTE></L>
+<L>Loke, sone, by thy vayr lywe, <NOTE PLACE="foot">123 ageyn þe devell be stronge and styfe.</NOTE></L>
+<L>In erth gete thy sowle som hele. <NOTE PLACE="foot">124 and helpe þi soule fro peyne of helle.</NOTE></L>
+<L>Thys worlde ys naght but fantysy fele, <MILESTONE N="125"/> <NOTE PLACE="foot">125 thys werld is bote fantesye fele; worlde] wordel <HI REND="italic">H</HI><SUP>1</SUP>; fantysuy <HI REND="italic">H</HI><SUP>1</SUP>; fele <HI REND="italic">fehlt H</HI><SUP>1</SUP>, <HI REND="italic">aus A eingesetzt.</HI></NOTE></L>
+<L>For day by day hyt dos empeyr; <NOTE PLACE="foot">126 for] and; dey by dey; it; dos] wylle; apare; hempeyr <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Loke, sone, by thys werldys weell, <NOTE PLACE="foot">127 þerfor be <HI REND="italic">(lies mit Furnivall</HI> beware) þe werld<HI REND="italic">es</HI> wele; werldys] werdelys <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>Hyt faryth as deth a chereyfeyr. <NOTE PLACE="foot">128 yt; farys; deth <HI REND="italic">fehlt;</HI> cheryfeyre.</NOTE></L>
+</LG>
+<LG N="17">
+<HEAD>17.</HEAD>
+<L>Many man here gederes gode <NOTE PLACE="foot">129 <HI REND="italic">aus A eingesetzt;</HI> ther ys many a man gederyth to gedyr mech good <HI REND="italic">H</HI><SUP>1</SUP>.</NOTE></L>
+<L>All hys lyftyme for othyr men, <MILESTONE N="130"/> <NOTE PLACE="foot">130 and hys <HI REND="italic">vor</HI> all <HI REND="italic">H</HI><SUP>1</SUP>; lyfetyme; odour.</NOTE></L>
+<L><PB N="48" REF="58"/>
+Þat he may not, by þe rood, <NOTE PLACE="foot">131 þat <HI REND="italic">fehlt H</HI><SUP>1</SUP>, <HI REND="italic">aus A eingesetzt;</HI> for hys wyf <HI REND="italic">vor</HI> by <HI REND="italic">H</HI><SUP>1</SUP>; by] be; the; rode.</NOTE></L>
+<L>Have onys tyme to ete an hen. <NOTE PLACE="foot">132 have <HI REND="italic">s. Anm. z. Stelle]</HI> not a; nat <HI REND="italic">H</HI><SUP>1</SUP>; onys <HI REND="italic">fehlt;</HI> tyme <HI REND="italic">A]</HI> teme <HI REND="italic">H</HI><SUP>1</SUP>; an] a; hene.</NOTE></L>
+<L>Be he dolwe in hys den, <NOTE PLACE="foot">133 when he is dolven in his den.</NOTE></L>
+<L>An other schall come atte hys last ende, <NOTE PLACE="foot">134 oþer; comme; at; hys] þe.</NOTE></L>
+<L>Schall have hys wyf and cathell than; <MILESTONE N="135"/> <NOTE PLACE="foot">135 schall] and; wyfe; catell.</NOTE></L>
+<L>Þat he hath sparyd, an other wyl spend. <NOTE PLACE="foot">136 all <HI REND="italic">vor</HI> þat <HI REND="italic">H</HI><SUP>1</SUP>; has; ysparyd <HI REND="italic">H</HI><SUP>1</SUP>; oþer; wyll; spende.</NOTE></L>
+</LG>
+<LG N="18">
+<HEAD>18.</HEAD>
+<L>For all þat ever a man doth her <NOTE PLACE="foot">137 here.</NOTE></L>
+<L>Wyt bysenysse and wyt trawayle both, <NOTE PLACE="foot">138 with; bysenys; and wyt trawayle] and travell; bothe.</NOTE></L>
+<L>All hyt ys, wytowtyn wer, <NOTE PLACE="foot">139 hyt] þis; ys] is; hys <HI REND="italic">H</HI><SUP>1</SUP>; withouten; were.</NOTE></L>
+<L>Not but for mete, drynk and cloth. <MILESTONE N="140"/> <NOTE PLACE="foot">140 but] bot; drynk] and drynke; clothe.</NOTE></L>
+<L>Mor get he not, wytowtyn oth, <NOTE PLACE="foot">141 withouten; hothe.</NOTE></L>
+<L>Kyng or prynse, whether þat he be; <NOTE PLACE="foot">142 h <HI REND="italic">vor</HI> kyng <HI REND="italic">H</HI><SUP>1</SUP>; or] ne; prince; whetheyr <HI REND="italic">H</HI><SUP>1</SUP>] wheþer; þat <HI REND="italic">fehlt.</HI></NOTE></L>
+<L>Be hym lef or by hym loth, <NOTE PLACE="foot">143 hym] <HI REND="italic">beide Male</HI> he; lefe; by] be; lothe.</NOTE></L>
+<L>A por man schal have as moch as he. <NOTE PLACE="foot">144 a por] at on day <HI REND="italic">davor H</HI><SUP>1</SUP>; schall; as] als; a <HI REND="italic">H</HI><SUP>1</SUP>; mych.</NOTE></L>
+</LG>
+<LG N="19">
+<HEAD>19.</HEAD>
+<L>Þerfor, sone, be my counsaylle, <MILESTONE N="145"/> <NOTE PLACE="foot">145 counsaylle vgl. <HI REND="italic">β</HI> 129] counselle <HI REND="italic">A.</HI></NOTE></L>
+<L>Mor þan inowȝhe þou never covete.</L>
+<L>Thou wotyst not when deth wylle þee asayll;</L>
+<L>Þis werld is bot deth and debate.</L>
+<L>Loke þou be not to hyȝe of state,</L>
+<L>By ryches here sette þou no price, <MILESTONE N="150"/></L>
+<L>For þis werld is full of deseyt;</L>
+<L>Therfor purchasse paradyce. <NOTE PLACE="foot">152 <HI REND="italic">Wortstellung nach Furnivall;</HI> ther purchasse for <HI REND="italic">A.</HI></NOTE></L>
+</LG>
+<LG N="20">
+<PB N="49" REF="59"/>
+<HEAD>20.</HEAD>
+<L>For deth, my chyld, is, as y trow,</L>
+<L>The most ryȝht serteyn thing it is; <NOTE PLACE="foot">154 thing <HI REND="italic">fehlt A, schon von Furnivall eingesetzt.</HI></NOTE></L>
+<L>No thing so unserteyn to know, <MILESTONE N="155"/> <NOTE PLACE="foot">155 know] unknow <HI REND="italic">A.</HI></NOTE></L>
+<L>As is þe tyme of deth, iwys.</L>
+<L>And þerfor, sonne, thinke onne thys</L>
+<L>And all þat i have seyd beforne.</L>
+<L>And Jhesu bryng us to his blysse,</L>
+<L>The chyld þat was in Bedlem borne." <MILESTONE N="160"/> <NOTE PLACE="foot">145-160 <HI REND="italic">fehlen H</HI><SUP>1</SUP>.</NOTE> <NOTE PLACE="foot">160 was] w <HI REND="italic">A, mit Furnivall</HI> was <HI REND="italic">zu lesen. Am Ende von</HI> A: Amen, quod Kate; <HI REND="italic">und die Zeichnung eines Fisches darunter.</HI></NOTE></L>
+</LG>
+</DIV2>
+</DIV1>
+</BODY>
+</TEXT>
+</EEBO>
+</ETS>
